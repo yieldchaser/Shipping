@@ -1,0 +1,203 @@
+{
+ "issue_date": "2024-08-30",
+ "report_week": 35,
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\golden_destiny\\2024\\golden_destiny_2024_W35_GOLDEN-DESTINY-WEEKLY-SALE-AND-PURCHASE-REPORT-WEEK-35_24.pdf",
+ "stem": "golden_destiny_2024_W35_GOLDEN-DESTINY-WEEKLY-SALE-AND-PURCHASE-REPORT-WEEK-35_24",
+ "doc_class": "weekly_report",
+ "tables": {
+  "deals": [
+   {
+    "vessel_name": "HERUN ZHEJIANG",
+    "dwt": 181056.0,
+    "built_year": "17",
+    "section": "BULK CARRIERS",
+    "price_usd_m": null,
+    "price_raw": "UNDISCLOSED",
+    "per_vessel": "",
+    "buyer": "GREEK",
+    "per_unit": null,
+    "page": 1
+   },
+   {
+    "vessel_name": "PONTOTRITON",
+    "dwt": 177947.0,
+    "built_year": "07",
+    "section": "BULK CARRIERS",
+    "price_usd_m": 23.0,
+    "price_raw": "23.0 MIL",
+    "per_vessel": "",
+    "buyer": "CHINESE",
+    "per_unit": 129.25,
+    "page": 1
+   },
+   {
+    "vessel_name": "MARAN PROSPERITY",
+    "dwt": 174240.0,
+    "built_year": "06",
+    "section": "BULK CARRIERS",
+    "price_usd_m": 21.5,
+    "price_raw": "21.5 MIL",
+    "per_vessel": "",
+    "buyer": "CHINESE",
+    "per_unit": 123.39,
+    "page": 1
+   },
+   {
+    "vessel_name": "AURORA BOREALIS",
+    "dwt": 82315.0,
+    "built_year": "23",
+    "section": "BULK CARRIERS",
+    "price_usd_m": 38.5,
+    "price_raw": "38.5 MIL",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": 467.72,
+    "page": 1
+   },
+   {
+    "vessel_name": "NORD PENGUIN",
+    "dwt": 81841.0,
+    "built_year": "15",
+    "section": "BULK CARRIERS",
+    "price_usd_m": 30.6,
+    "price_raw": "30.6 MIL",
+    "per_vessel": "",
+    "buyer": "GREEK",
+    "per_unit": 373.9,
+    "page": 1
+   },
+   {
+    "vessel_name": "ELSA S",
+    "dwt": 80868.0,
+    "built_year": "15",
+    "section": "BULK CARRIERS",
+    "price_usd_m": 30.5,
+    "price_raw": "30.5 MIL",
+    "per_vessel": "",
+    "buyer": "GREEK",
+    "per_unit": 377.16,
+    "page": 1
+   },
+   {
+    "vessel_name": "GOLDEN RUBY",
+    "dwt": 74052.0,
+    "built_year": "14",
+    "section": "BULK CARRIERS",
+    "price_usd_m": 21.0,
+    "price_raw": "21.0 MIL",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": 283.58,
+    "page": 1
+   },
+   {
+    "vessel_name": "SANIA",
+    "dwt": 57011.0,
+    "built_year": "10",
+    "section": "BULK CARRIERS",
+    "price_usd_m": 12.5,
+    "price_raw": "12.5 MIL",
+    "per_vessel": "",
+    "buyer": "CHINESE",
+    "per_unit": 219.26,
+    "page": 1
+   },
+   {
+    "vessel_name": "FLORIANA",
+    "dwt": 33862.0,
+    "built_year": "12",
+    "section": "BULK CARRIERS",
+    "price_usd_m": 14.0,
+    "price_raw": "14.0 MIL",
+    "per_vessel": "",
+    "buyer": "GREEK",
+    "per_unit": 413.44,
+    "page": 1
+   },
+   {
+    "vessel_name": "OSGOOD",
+    "dwt": 108936.0,
+    "built_year": "08",
+    "section": "CONTAINERS",
+    "price_usd_m": 40.0,
+    "price_raw": "40.0 MIL",
+    "per_vessel": "",
+    "buyer": "MIDDLE EASTERN",
+    "per_unit": 367.19,
+    "page": 2
+   },
+   {
+    "vessel_name": "CRIMSON PEARL",
+    "dwt": 51492.0,
+    "built_year": "17",
+    "section": "CONTAINERS",
+    "price_usd_m": 31.0,
+    "price_raw": "31.0 MIL",
+    "per_vessel": "",
+    "buyer": "ITALIAN",
+    "per_unit": 602.04,
+    "page": 2
+   },
+   {
+    "vessel_name": "ELEGANT GRACE",
+    "dwt": 50698.0,
+    "built_year": "09",
+    "section": "CONTAINERS",
+    "price_usd_m": 28.0,
+    "price_raw": "28.0 MIL",
+    "per_vessel": "",
+    "buyer": "VIETNAMESE",
+    "per_unit": 552.29,
+    "page": 2
+   },
+   {
+    "vessel_name": "KALAMOS",
+    "dwt": 46719.0,
+    "built_year": "04",
+    "section": "CONTAINERS",
+    "price_usd_m": 17.8,
+    "price_raw": "17.8 MIL",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": 381.0,
+    "page": 2
+   },
+   {
+    "vessel_name": "VS SALMA",
+    "dwt": 8011.0,
+    "built_year": "08",
+    "section": "CONTAINERS",
+    "price_usd_m": null,
+    "price_raw": "UNDISCLOSED",
+    "per_vessel": "",
+    "buyer": "TURKISH",
+    "per_unit": null,
+    "page": 2
+   },
+   {
+    "vessel_name": "VEGA DAYTONA",
+    "dwt": 19974.0,
+    "built_year": "23",
+    "section": "CONTAINERS",
+    "price_usd_m": 33.0,
+    "price_raw": "33.0 MIL",
+    "per_vessel": "",
+    "buyer": "UAE",
+    "per_unit": 17665.95,
+    "page": 2
+   },
+   {
+    "vessel_name": "AS FATIMA",
+    "dwt": 18343.0,
+    "built_year": "08",
+    "section": "CONTAINERS",
+    "price_usd_m": null,
+    "price_raw": "UNDISCLOSED",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": null,
+    "page": 2
+   }
+  ]
+ }
+}

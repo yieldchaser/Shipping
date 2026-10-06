@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 17:36:27Z",
+  "updated_at": "2026-10-06 19:59:58Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -2162,6 +2162,30 @@
       "status": "Verified"
     },
     {
+      "file": "golden_destiny_sales_series.csv",
+      "target_metric": "Golden Destiny Sales",
+      "rows": 5320,
+      "columns": [
+        "issue_date",
+        "report_week",
+        "section",
+        "vessel_name",
+        "dwt",
+        "built_year",
+        "price_usd_m",
+        "price_raw",
+        "per_vessel",
+        "group_total_mil",
+        "buyer",
+        "per_unit",
+        "per_unit_label",
+        "doc_class",
+        "source_file",
+        "page"
+      ],
+      "status": "Verified"
+    },
+    {
       "file": "hellenic_alibra_dry_tc_series.csv",
       "target_metric": "Hellenic Alibra Dry Tc",
       "rows": 6467,
@@ -4059,13 +4083,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 633611,
-  "total_master_series_csvs": 176,
-  "total_stacked_rows": 633611,
-  "total_series_csvs": 176,
+  "total_master_stacked_rows": 638931,
+  "total_master_series_csvs": 177,
+  "total_stacked_rows": 638931,
+  "total_series_csvs": 177,
   "total_master_workbooks": 1,
-  "total_series_count": 176,
-  "total_rows_extracted": 633916,
+  "total_series_count": 177,
+  "total_rows_extracted": 639236,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4142,6 +4166,7 @@
     "gms_demolition_sales_series.csv": 59,
     "gms_market_commentary_series.csv": 1262,
     "gms_port_positions_series.csv": 2921,
+    "golden_destiny_sales_series.csv": 5320,
     "hellenic_alibra_dry_tc_series.csv": 6467,
     "hellenic_alibra_tanker_tc_series.csv": 7205,
     "hellenic_athenian_demolition_series.csv": 2916,

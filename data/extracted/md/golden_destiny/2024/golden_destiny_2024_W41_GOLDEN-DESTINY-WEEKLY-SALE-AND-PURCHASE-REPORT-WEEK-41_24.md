@@ -1,0 +1,716 @@
+# Golden Destiny Weekly Report
+
+Issue: Week 41 | 2024-10-11
+
+WEEKLY S&P MARKET REPORT 
+Week ending: October 11th 2024 (Week 41 Report No: 41.24) 
+ (Given in good faith but without guarantee) 
+ 
+This Report/Analysis is distributed for the primary use of GOLDEN DESTINY’S subscribers and should not be redistributed to any third parties without 
+the written consent of GOLDEN DESTINY. An extraction of market information from GOLDEN DESTINY’S Reports/Analysis is allowed only when GOLDEN 
+DESTINY is mentioned as a source. 
+TOTAL
+Units ($) Invested Capital Units
+in DWT
+Units
+SH
+DEMO
+Bulkcarriers
+15
+290.400.000
+0
+0
+15
+-38%
+-100%
+Tankers 
+7
+220.900.000
+0
+0
+7
+40%
+ 
+Gas Tankers 
+0
+0
+0
+0
+0
+ 
+ 
+General Cargo
+0
+0
+3
+19.509
+3
+ 
+200%
+Containers
+14
+389.500.000
+1
+30.950
+15
+180%
+0%
+Reefers
+0
+0
+0
+0
+0
+ 
+ 
+Passenger / Cruise
+0
+0
+0
+0
+0
+ 
+ 
+Ro - Ro
+0
+0
+0
+0
+0
+ 
+ 
+Car Carrier
+0
+0
+0
+0
+0
+ 
+ 
+Combined 
+0
+0
+0
+0
+0
+ 
+ 
+Special Projects 
+0
+0
+0
+0
+0
+TTL VSLS/Demo
+36
+900.800.000
+4
+50.459
+40
+6%
+0%
+Vessel Type
+Units
+in DWT
+P&C
+Bulkcarriers
+4
+256.000
+0
+Tankers 
+10
+499.990
+0
+Gas Tankers 
+8
+667.500
+1
+General Cargo
+16
+276.800
+16
+Containers
+6
+50.466
+0
+Reefers
+0
+0
+0
+Passenger / Cruise
+0
+0
+0
+Ro-Ro
+0
+0
+0
+Car Carrier
+0
+0
+0
+Combined 
+0
+0
+0
+Special Projects 
+0
+0
+0
+TOTAL
+44
+1.750.756
+17
+0
+303.600.000
+-84%
+100%
+1.181.000.000
+%w-o-w 
+300%
+WEEKLY S&P ACTIVITY 
+1 S&P deal(s) reported at an undisclosed price
+%w-o-w 
+-55%
+VESSELTYPE
+SECOND HAND
+DEMOLITION
+Invested Capital
+136.000.000
+480.000.000
+WEEKLY NEWBUILDING ACTIVITY
+0
+0
+0
+0
+0
+ 
+-39%
+0
+2.100.600.000
+ 
+-100%
+ 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+ 
+ 
+The estimated invested capital does not include deals reported at an undisclosed secondhand sale or newbuilding price. 
+ 
+P&C: deals reported as private and confidential with no disclosed details for the secondhand sale or newbuilding price.
+
+RESEARCH & VALUATION                                                                                              snv@goldendestiny.com 
+ 
+57 AKTI MIAOULI 18536, PIRAEUS GREECE TEL: +30 210 4295000 
+EMAIL: snv@goldendestiny.com WEBSITE: www.goldendestiny.com 
+BULK CARRIERS 
+US$/Dwt 
+SEALEADER II 
+180,099 DWT BLT 11 CHR 9 HO HA MAN-B&W 25,370 BHP 
+  
+SOLD FOR ABT US $28 MIL TO CHINESE BYRS 
+155.47 
+  
+STELLA HOPE 
+180,007 DWT BLT 16 CHR 9 HO HA 0 x 0 T  MAN-B&W 20,883 BHP 
+  
+SOLD FOR ABT US $47,5 MIL TO USA BYRS 
+263.88 
+  
+AZALEA ISLAND 
+106,445 DWT BLT 07 JPN 7 HO HA MAN-B&W 16,680 BHP 
+  
+SOLD FOR ABT US $15 MIL TO CHINESE BYRS 
+140.92 
+  
+BELUGA 
+81,841 DWT BLT 15 JPN 7 HO HA MAN-B&W 13,134 BHP 
+  
+SOLD FOR ABT US $30 MIL TO CHINESE BYRS - SCRUBBER FITTED 
+366.56 
+  
+SCORPIO WQ 
+76,759 DWT BLT 04 JPN 7 HO HA B&W 12,549 BHP 
+  
+SOLD FOR ABT US $11,2 MIL TO UNDISCLOSED BYRS 
+145.91 
+  
+GLORY 
+76,508 DWT BLT 05 JPN 7 HO HA B&W 12,005 BHP 
+  
+SOLD FOR ABT US $11,1 MIL TO UNDISCLOSED BYRS 
+145.08 
+  
+BEECHGATE 
+63,449 DWT BLT 19 JPN 5 HO HA 4 x 30,7 T  MAN-B&W 10,279 BHP 
+  
+SOLD FOR ABT US $35,6 MIL TO BANGLADESHI BYRS 
+561.08 
+  
+ARION 
+53,806 DWT BLT 03 CHR 5 HO HA 4 x 40 T  MAN-B&W 12,889 BHP 
+  
+SOLD FOR ABT US $9 MIL TO CHINESE BYRS 
+167.27 
+  
+NPS MOSA 
+53,556 DWT BLT 07 JPN 5 HO HA 4 x 31 - 4 x 30,5 T  MAN-B&W 12,889 BHP 
+  
+SOLD FOR ABT US $12 MIL TO SOUTH KOREAN BYRS WITH DELIVERY DEC 
+224.06 
+  
+ULTRA BOSQUE 
+40,261 DWT BLT 20 CHR 5 HO HA 4 x 30 T  MAN-B&W 8,814 BHP 
+  
+SOLD FOR ABT US $27 MIL TO UNDISCLOSED BYRS 
+670.62 
+  
+BLUE DRAGON 
+38,238 DWT BLT 11 JPN 5 HO HA 4 x 30,5 T  MAN-B&W 10,686 BHP 
+  
+SOLD FOR ABT US $15,2 MIL TO UNDISCLOSED BYRS 
+397.51 
+  
+FATIH 
+35,365 DWT BLT 11 KRS 5 HO HA 4 x 35 T  MAN-B&W 7,929 BHP 
+  
+SOLD FOR ABT US $15,5 MIL TO UNDISCLOSED BYRS 
+438.29 
+  
+MAPLE FORTUNE 
+32,544 DWT BLT 10 CHR 5 HO HA 4 x 30,5 T  MAN-B&W 8,810 BHP 
+  
+SOLD FOR ABT US $11 MIL TO UNDISCLOSED BYRS - OLD SALE 
+338.00 
+  
+KEFALONIA 
+28,742 DWT BLT 09 JPN 5 HO HA 4 x 30,5 T  MAN-B&W 8,810 BHP 
+  
+SOLD FOR ABT US $10,5 MIL TO UNDISCLOSED BYRS - OHBS 
+365.32 
+  
+IRIE IRIS 
+28,250 DWT BLT 12 JPN 5 HO HA 4 x 30,5 T  MAN-B&W 7,954 BHP 
+  
+SOLD FOR ABT US $11,8 MIL TO VIETNAMESE BYRS 
+417.70
+
+RESEARCH & VALUATION                                                                                              snv@goldendestiny.com 
+ 
+57 AKTI MIAOULI 18536, PIRAEUS GREECE TEL: +30 210 4295000 
+EMAIL: snv@goldendestiny.com WEBSITE: www.goldendestiny.com 
+US$/Dwt
+PS GENOVA
+108,983 DWT BLT 10 CHR DH 14 TNKS COATED - COILED OIL CAP. 123,030 CBM MAN-B&W 18,450 BHP
+SOLD FOR ABT US $40 MIL TO UAE BYRS
+367.03
+MARITIME INSPIRATION
+49,996 DWT BLT 21 CHR DH 22 TNKS COATED OIL CAP. 58,109 CBM WINGD 14,765 BHP
+MARITIME VERITY
+49,993 DWT BLT 21 CHR DH 22 TNKS COATED OIL CAP. 58,130 CBM WINGD 14,765 BHP
+SOLD ENBLOC FOR ABT US $96 MIL TO SAUDI BYRS - ZINC COATED - SCRUBBER FITTED
+960.10
+HIGH NAVIGATOR
+49,921 DWT BLT 18 JPN DH 14 TNKS COATED OIL CAP. 51,982 CBM MAN-B&W 11,298 BHP
+SOLD FOR ABT US $34,3 MIL TO ITALIAN BYRS - EXERCISED PURCHASE OPTION
+687.09
+ALITHINI II
+49,900 DWT BLT 08 KRS DH 15 TNKS COATED - COILED OIL CAP. 52,122 CBM MAN-B&W 12,889 BHP
+SOLD FOR ABT US $27 MIL TO UAE BYRS
+541.08
+LILA FRONTIER
+19,806 DWT BLT 04 JPN DH 24 TNKS COATED - COILED OIL CAP. 21,702 CBM MITSUBISHI 8,470 BHP
+SOLD FOR ABT US $16,1 MIL TO SOUTH KOREAN BYRS - STST - BWTS NON FITTED
+812.88
+LARISA
+8,924 DWT BLT 03 JPN DH 16 TNKS COATED - COILED OIL CAP. 8,614 CBM MAN-B&W 5,302 BHP
+SOLD FOR ABT US $7,5 MIL TO INDONESIAN BYRS - STST
+840.43
+TANKERS
+ 
+ 
+US$/Teu
+EVER URSULA
+63,216 DWT BLT 99 JPN 8 HO 16 HA 5,652 TEU SULZER 66,077 BHP
+SOLD FOR AN UNDISCLOSED PRICE TO SWISS BYRS WITH SS/DD DUE OCT 2024
+N/A
+HYUNDAI PRIVILEGE
+63,016 DWT BLT 13 KRS 7 HO HA 5,023 TEU WARTSILA 36,872 BHP
+HYUNDAI PREMIUM
+63,015 DWT BLT 13 KRS 7 HO 5,023 TEU WARTSILA 36,872 BHP
+HYUNDAI PLATINUM
+63,014 DWT BLT 13 KRS 7 HO HA 5,023 TEU WARTSILA 36,872 BHP
+HYUNDAI PARAMOUNT
+63,010 DWT BLT 13 KRS 7 HO HA 5,023 TEU WARTSILA 36,872 BHP
+HYUNDAI PRESTIGE
+63,010 DWT BLT 13 KRS 7 HO 5,023 TEU WARTSILA 36,872 BHP
+SOLD ENBLOC FOR ABT US $300 MIL TO UNDISCLOSED BYRS - SCRUBBER FITTED
+11945.05
+LECANGS DOLPHIN
+24,286 DWT BLT 23 CHR 4 HO 0 x 0 T  1,781 TEU MAN-B&W 16,043 BHP
+SOLD FOR ABT US $30 MIL TO GREEK BYRS
+16844.47
+CAPE FARO
+20,316 DWT BLT 06 GEU 1,440 TEU MAN-B&W 17,185 BHP
+SOLD FOR ABT US $14,5 MIL TO CHINESE BYRS
+10069.44
+LILA CANADA
+13,797 DWT BLT 06 CHR 5 HO 2 x 40 T  1,118 TEU MAN 13,229 BHP
+SOLD FOR ABT US $7,5 MIL TO UNDISCLOSED BYRS
+6708.41
+CONTSHIP BEE
+13,690 DWT BLT 06 CHR 2 x 45 T  1,118 TEU MAN 13,229 BHP
+CONTSHIP QUO
+12,001 DWT BLT 07 CHR 990 TEU MAN 13,052 BHP
+CONTSHIP PEP
+11,834 DWT BLT 06 CHR 2 x 45 T  957 TEU MAN 13,052 BHP
+CONTSHIP MAX
+11,807 DWT BLT 06 CHR 2 x 45 T  966 TEU MAN 13,052 BHP
+CONTSHIP ANA
+11,807 DWT BLT 05 CHR 2 x 45 T  974 TEU MAN 13,052 BHP
+SOLD ENBLOC FOR ABT US $37,5 MIL TO TURKISH BYRS
+7492.50
+CONTAINERS
+
+RESEARCH & VALUATION                                                                                              snv@goldendestiny.com 
+ 
+57 AKTI MIAOULI 18536, PIRAEUS GREECE TEL: +30 210 4295000 
+EMAIL: snv@goldendestiny.com WEBSITE: www.goldendestiny.com 
+ 
+ 
+ 
+ 
+ 
+ 
+Units
+Dwt
+Contractor
+Country
+Builder
+Country
+Dely
+Price($)/unit
+4
+64.000
+Amoy Sailing
+PRC
+Jiangsu Haitong
+PRC
+2026
+$ 34 MIL
+Units
+Dwt
+Contractor
+Country
+Builder
+Country
+Dely
+Price($)/unit
+10
+49.999
+Shell
+NLD
+CSSC Huangpu
+PRC
+2027-2028
+$ 48 MIL
+Units
+Dwt
+Contractor
+Country
+Builder
+Country
+Dely
+Price($)/unit
+1
+98.500
+MET Group/Celsius Gas
+SWISS/DNK
+CMHI Jiangsu
+PRC
+SEP 2027
+N/A
+2
+98.500
+MISC
+MYS
+Samsung
+SKR
+FH 2027
+$ 256 MIL
+2
+150.000
+Eastern Pacific
+SPORE
+Hyundai Samho
+SKR
+2027
+$ 207 MIL
+155.000 CBM
+2
+30.000
+Pasco Gas
+TUR
+Hyundai Mipo
+SKR
+MAY 2027
+$ 83.5 MIL
+45.000 CBM - DUAL FUELLED
+1
+12.000
+N/A
+SKR
+Hyundai Mipo
+SKR
+MAY 2027
+$ 88 MIL
+12.500 CBM - LNG BUNKERING
+Units
+Dwt
+Contractor
+Country
+Builder
+Country
+Dely
+Price($)/unit
+6
++4
+8.411
+Coblefret NV
+BLG
+Hyundai Mipo
+SKR
+2027
+$ 50.6 MIL
+Units
+Dwt
+Contractor
+Country
+Builder
+Country
+Dely
+Price($)/unit
+8
+19.600
+Wuhan Innovation Jianghai 
+Transportation
+PRC
+Qinfeng
+PRC
+2025
+N/A
+8
+15.000
+Wuhan Innovation Jianghai 
+Transportation
+PRC
+Qinfeng
+PRC
+2025
+N/A
+180.000 CBM
+GENERAL CARGO
+CONTAINERS
+174.000 CBM - 15 YEARS  T/C TO PETRONAS
+1.100 TEU
+METHANOL FUELLED
+METHANOL FUELLED
+GAS TANKERS
+NEWBUILDING ORDERS 
+BULK CARRIERS
+TANKERS
+ Price
+Scrap Price
+Demo 
+($)
+$/ldt
+Country
+CHANG HUA HAI
+10.039
+2006
+CHINA
+N/A
+N/A
+N/A
+BANGLADESH
+ELMAS
+5.110
+1980
+TURKEY
+1.465
+N/A
+N/A
+TURKEY
+LADY BOUSHRA
+4.360
+1988
+CHINA
+1.732
+N/A
+N/A
+TURKEY
+MSC ADELE
+30.950
+1986
+GERMANY, FEDERAL 
+REPUBLIC OF
+8.779
+4.398.279
+501
+INDIA
+GENERAL CARGO
+TONNAGE SOLD FOR DEMOLITION
+Name
+Dwt
+Built 
+Country
+LDT
+CONTAINER
+1.911 TEU
+         DEMOLITION MARKET
+
+RESEARCH & VALUATION                                                                                              snv@goldendestiny.com 
+ 
+57 AKTI MIAOULI 18536, PIRAEUS GREECE TEL: +30 210 4295000 
+EMAIL: snv@goldendestiny.com WEBSITE: www.goldendestiny.com 
+VESSEL TYPE
+DEMOLITION ACTIVITY
+Units
+in DWT
+Units
+in DWT
+%w-o-w
+in No. of Units
+Bulkcarriers
+0
+0
+2
+67.509
+-100%
+Tankers
+0
+0
+0
+0
+ 
+Gas Tankers
+0
+0
+0
+0
+ 
+General Cargo
+3
+19509
+1
+18.963
+200%
+Containers
+1
+30950
+1
+8.627
+0%
+Reefers
+0
+0
+0
+0
+ 
+Passenger / Cruise
+0
+0
+0
+0
+ 
+Ro-Ro
+0
+0
+0
+0
+ 
+Car Carrier
+0
+0
+0
+0
+ 
+Combined 
+0
+0
+0
+0
+ 
+Special Projects
+0
+0
+0
+0
+ 
+TOTAL
+4
+50.459
+4
+95.099
+0%
+DEMO COUNTRY
+DEMOLITION ACTIVITY
+Units
+in DWT
+Units
+in DWT
+%w-o-w
+in No. of Units
+Bangladesh
+1
+10.039
+1
+18.963
+0%
+India
+1
+30.950
+3
+76.136
+-67%
+Pakistan 
+0
+0
+0
+0
+ 
+China
+0
+0
+0
+0
+ 
+Turkey
+2
+9.470
+0
+0
+ 
+Unknown
+0
+0
+0
+0
+ 
+TOTAL
+4
+50.459
+4
+95.099
+0%
+WEEK 41
+WEEK 40
+WEEKLY DEMOLITION ACTIVITY PER VESSEL TYPE
+WEEK 41
+WEEK 40
+WEEKLY DEMOLITION ACTIVITY PER DEMO COUNTRY

@@ -1,0 +1,179 @@
+{
+ "issue_date": "2024-08-09",
+ "report_week": 31,
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\golden_destiny\\2024\\golden_destiny_2024_W31_GOLDEN-DESTINY-WEEKLY-SALE-AND-PURCHASE-REPORT-WEEK-32_24.pdf",
+ "stem": "golden_destiny_2024_W31_GOLDEN-DESTINY-WEEKLY-SALE-AND-PURCHASE-REPORT-WEEK-32_24",
+ "doc_class": "weekly_report",
+ "tables": {
+  "deals": [
+   {
+    "vessel_name": "MINERAL HIROSHIGE",
+    "dwt": 208572.0,
+    "built_year": "19",
+    "section": "CONTAINERS",
+    "price_usd_m": 70.0,
+    "price_raw": "70.0 MIL",
+    "per_vessel": "",
+    "buyer": "SOUTH KOREAN BYRS WITH FORWARD DELIVERY",
+    "per_unit": 335.62,
+    "page": 1
+   },
+   {
+    "vessel_name": "GUANGDONG",
+    "dwt": 81905.0,
+    "built_year": "12",
+    "section": "CONTAINERS",
+    "price_usd_m": null,
+    "price_raw": "57.3 MIL",
+    "per_vessel": "",
+    "buyer": "CHINESE",
+    "per_unit": 233.69,
+    "page": 1
+   },
+   {
+    "vessel_name": "THERESA JIANGSU",
+    "dwt": 81680.0,
+    "built_year": "12",
+    "section": "CONTAINERS",
+    "price_usd_m": null,
+    "price_raw": "57.3 MIL",
+    "per_vessel": "",
+    "buyer": "CHINESE",
+    "per_unit": 233.69,
+    "page": 1
+   },
+   {
+    "vessel_name": "THERESA JILIN",
+    "dwt": 81610.0,
+    "built_year": "12",
+    "section": "CONTAINERS",
+    "price_usd_m": null,
+    "price_raw": "57.3 MIL",
+    "per_vessel": "",
+    "buyer": "CHINESE",
+    "per_unit": 233.69,
+    "page": 1
+   },
+   {
+    "vessel_name": "JAL KAMAL",
+    "dwt": 63319.0,
+    "built_year": "20",
+    "section": "CONTAINERS",
+    "price_usd_m": 37.8,
+    "price_raw": "37.8 MIL",
+    "per_vessel": "",
+    "buyer": "EUROPEAN",
+    "per_unit": 596.98,
+    "page": 1
+   },
+   {
+    "vessel_name": "DOLCE VITA",
+    "dwt": 61616.0,
+    "built_year": "12",
+    "section": "CONTAINERS",
+    "price_usd_m": 23.5,
+    "price_raw": "23.5 MIL",
+    "per_vessel": "",
+    "buyer": "CHINESE BYRS WITH FORWARD DELIVERY",
+    "per_unit": 381.39,
+    "page": 1
+   },
+   {
+    "vessel_name": "CAPTAIN KARAM",
+    "dwt": 56018.0,
+    "built_year": "06",
+    "section": "CONTAINERS",
+    "price_usd_m": 14.0,
+    "price_raw": "14.0 MIL",
+    "per_vessel": "",
+    "buyer": "INDONESIAN",
+    "per_unit": 249.92,
+    "page": 1
+   },
+   {
+    "vessel_name": "NOAH SAFIRA",
+    "dwt": 55638.0,
+    "built_year": "09",
+    "section": "CONTAINERS",
+    "price_usd_m": null,
+    "price_raw": "UNDISCLOSED",
+    "per_vessel": "",
+    "buyer": "INDONESIAN",
+    "per_unit": null,
+    "page": 1
+   },
+   {
+    "vessel_name": "SUZAKU",
+    "dwt": 54881.0,
+    "built_year": "06",
+    "section": "CONTAINERS",
+    "price_usd_m": 14.5,
+    "price_raw": "14.5 MIL",
+    "per_vessel": "",
+    "buyer": "CHINESE",
+    "per_unit": 264.21,
+    "page": 1
+   },
+   {
+    "vessel_name": "MONICA D",
+    "dwt": 52478.0,
+    "built_year": "01",
+    "section": "CONTAINERS",
+    "price_usd_m": 7.8,
+    "price_raw": "7.8 MIL",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": 148.63,
+    "page": 1
+   },
+   {
+    "vessel_name": "HB IMABARI",
+    "dwt": 40320.0,
+    "built_year": "24",
+    "section": "CONTAINERS",
+    "price_usd_m": 35.35,
+    "price_raw": "35.35 MIL",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": 876.74,
+    "page": 1
+   },
+   {
+    "vessel_name": "CIELO DI TAMPA",
+    "dwt": 39202.0,
+    "built_year": "16",
+    "section": "CONTAINERS",
+    "price_usd_m": 22.8,
+    "price_raw": "22.8 MIL",
+    "per_vessel": "",
+    "buyer": "EUROPEAN",
+    "per_unit": 581.6,
+    "page": 1
+   },
+   {
+    "vessel_name": "LINCOLN PARK",
+    "dwt": 19801.0,
+    "built_year": "12",
+    "section": "CONTAINERS",
+    "price_usd_m": 25.5,
+    "price_raw": "25.5 MIL",
+    "per_vessel": "",
+    "buyer": "CHINESE",
+    "per_unit": 1287.81,
+    "page": 1
+   },
+   {
+    "vessel_name": "IKARIA",
+    "dwt": 67164.0,
+    "built_year": "02",
+    "section": "CONTAINERS",
+    "price_usd_m": null,
+    "price_raw": "UNDISCLOSED",
+    "per_vessel": "",
+    "buyer": "SWISS",
+    "per_unit": null,
+    "page": 1
+   }
+  ]
+ }
+}

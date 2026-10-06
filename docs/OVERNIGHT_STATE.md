@@ -1,3 +1,15 @@
+**THIS RUN (2026-10-06 23:5x, source-by-source, 30m job) - STARTED + COMPLETED archive backfill source 2: GOLDEN_DESTINY 252/252, 0 failures. Real new extraction.**
+
+- Branch `auto/extract-fixes-2026-10-06-deepreview`. Runner `scripts/extract/publishers/run_golden_destiny.py` (per-source). md 252 + tables.json 252, 0 files <1KB. Deals CSV `data/extracted/series/golden_destiny_sales_series.csv` = **5,320 rows**, 4,911 vessels, 170 issue dates 2021-07-02..2024-11-29 (**0 blank date/name/dwt/price_raw**).
+- md fidelity (no vision in cron -> same-document text reconcile, stated): **100.00% token recall** on a random 6-doc sample spanning 2021-2024 + BOTH classes.
+- 81 of 252 are 1-page `Special-Edition` stat cards (aggregate -> md only, 0 typed rows, same call as allied's SnP-Statistics).
+- **Trial + verify caught 5 real bugs before trusting output:** (1) cover `30th2022` no-space -> 160 dateless rows; (2) `S SANTIAGO`/`BASHUNDHARA LPG CHALLENG` fused to spec -> 12 blank names; (3) `TOVIETNAMESE BYRS` fused buyer; (4) **section headers `SECONDHAND TONNAGE SOLD FOR FURTHER TRADING` matched the SOLD anchor -> 58 WRONG rows** (now dropped); (5) `SOLD ENBLOC AT HIGH $ 60 MIL`/`ABT US 71.6 MIL` phrasings missed -> 21 blank prices. En-bloc handled by the lion rule (EACH=per vessel; 730 group totals left out of the per-vessel price column).
+- Register synced: 176 -> **177 CSV series**, rows 633,611 -> **638,931**; `verify_registers.py` = ALL PASSED (100.0%).
+- Evidence `docs/golden_destiny_survey.md`, `docs/golden_destiny_verdict.md`. Liveness: newest 2024-11-29 (~675d) -> BACKFILL_ONLY.
+- NEXT: archive backfill's real sources are now DONE (allied, golden_destiny; gibson already had md). Remaining archive = `anchor` (30, overlaps held data) + `other` (130, not one publisher) = **both SKIP** per the survey. Nothing else to EXTRACT in the archive body.
+
+---
+
 **THIS RUN (2026-10-06 22:2x, source-by-source, 30m job) - STARTED + COMPLETED the archive backfill's first source: ALLIED 203/203, 0 failures. This is real new extraction, not a re-statement.**
 
 Branch `auto/extract-fixes-2026-10-06-deepreview` (commit on the current branch, never main). Register gate GREEN after sync: **176 CSVs / 633,611 rows** (was 175 / 630,393).

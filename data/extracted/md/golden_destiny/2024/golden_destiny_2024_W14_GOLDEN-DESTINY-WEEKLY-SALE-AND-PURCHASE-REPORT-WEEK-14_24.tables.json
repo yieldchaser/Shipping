@@ -1,0 +1,167 @@
+{
+ "issue_date": "2024-04-05",
+ "report_week": 14,
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\golden_destiny\\2024\\golden_destiny_2024_W14_GOLDEN-DESTINY-WEEKLY-SALE-AND-PURCHASE-REPORT-WEEK-14_24.pdf",
+ "stem": "golden_destiny_2024_W14_GOLDEN-DESTINY-WEEKLY-SALE-AND-PURCHASE-REPORT-WEEK-14_24",
+ "doc_class": "weekly_report",
+ "tables": {
+  "deals": [
+   {
+    "vessel_name": "ATLANTIC PRISM",
+    "dwt": 39172.0,
+    "built_year": "19",
+    "section": "RO-RO",
+    "price_usd_m": 28.5,
+    "price_raw": "28.5 MIL",
+    "per_vessel": "",
+    "buyer": "EUROPEAN",
+    "per_unit": 727.56,
+    "page": 1
+   },
+   {
+    "vessel_name": "NARUTO STRAIT",
+    "dwt": 34391.0,
+    "built_year": "16",
+    "section": "RO-RO",
+    "price_usd_m": 20.5,
+    "price_raw": "20.5 MIL",
+    "per_vessel": "",
+    "buyer": "GREEK",
+    "per_unit": 596.09,
+    "page": 1
+   },
+   {
+    "vessel_name": "GLOBAL SERENITY",
+    "dwt": 32313.0,
+    "built_year": "08",
+    "section": "RO-RO",
+    "price_usd_m": 12.1,
+    "price_raw": "12.1 MIL",
+    "per_vessel": "",
+    "buyer": "GREEK",
+    "per_unit": 374.46,
+    "page": 1
+   },
+   {
+    "vessel_name": "SINGAPORE",
+    "dwt": 31759.0,
+    "built_year": "02",
+    "section": "RO-RO",
+    "price_usd_m": 7.1,
+    "price_raw": "7.1 MIL",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": 223.56,
+    "page": 1
+   },
+   {
+    "vessel_name": "AURVIKEN",
+    "dwt": 112802.0,
+    "built_year": "19",
+    "section": "RO-RO",
+    "price_usd_m": 73.0,
+    "price_raw": "73.0 MIL",
+    "per_vessel": "",
+    "buyer": "GREEK",
+    "per_unit": 647.15,
+    "page": 1
+   },
+   {
+    "vessel_name": "MINERVA HELEN",
+    "dwt": 103643.0,
+    "built_year": "04",
+    "section": "RO-RO",
+    "price_usd_m": 30.35,
+    "price_raw": "30.35 MIL",
+    "per_vessel": "",
+    "buyer": "CHINESE",
+    "per_unit": 292.83,
+    "page": 1
+   },
+   {
+    "vessel_name": "HAFNIA ACHROITE",
+    "dwt": 38506.0,
+    "built_year": "16",
+    "section": "RO-RO",
+    "price_usd_m": null,
+    "price_raw": "UNDISCLOSED",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": null,
+    "page": 1
+   },
+   {
+    "vessel_name": "STENA CRYSTAL SKY",
+    "dwt": 96889.0,
+    "built_year": "11",
+    "section": "RO-RO",
+    "price_usd_m": null,
+    "price_raw": "UNDISCLOSED",
+    "per_vessel": "",
+    "buyer": "NORWEGIAN BYRS INCL",
+    "per_unit": null,
+    "page": 1
+   },
+   {
+    "vessel_name": "STENA CLEAR SKY",
+    "dwt": 96811.0,
+    "built_year": "11",
+    "section": "RO-RO",
+    "price_usd_m": null,
+    "price_raw": "UNDISCLOSED",
+    "per_vessel": "",
+    "buyer": "NORWEGIAN BYRS INCL",
+    "per_unit": null,
+    "page": 1
+   },
+   {
+    "vessel_name": "ROBIN 4",
+    "dwt": 35358.0,
+    "built_year": "07",
+    "section": "RO-RO",
+    "price_usd_m": null,
+    "price_raw": "UNDISCLOSED",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": null,
+    "page": 1
+   },
+   {
+    "vessel_name": "CIUDAD DE ALCUDIA",
+    "dwt": 10700.0,
+    "built_year": "94",
+    "section": "RO-RO",
+    "price_usd_m": null,
+    "price_raw": "UNDISCLOSED",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": null,
+    "page": 1
+   },
+   {
+    "vessel_name": "EYSTNES",
+    "dwt": 4450.0,
+    "built_year": "81",
+    "section": "RO-RO",
+    "price_usd_m": null,
+    "price_raw": "UNDISCLOSED",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": null,
+    "page": 1
+   },
+   {
+    "vessel_name": "HVITANES",
+    "dwt": 4380.0,
+    "built_year": "80",
+    "section": "RO-RO",
+    "price_usd_m": null,
+    "price_raw": "UNDISCLOSED",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": null,
+    "page": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,689 @@
+# Golden Destiny Weekly Report
+
+Issue: Week 31 | 2023-08-04
+
+WEEKLY S&P MARKET REPORT 
+Week ending: August 4th 2023 (Week 31 Report No: 31.23) 
+ (Given in good faith but without guarantee) 
+ 
+This Report/Analysis is distributed for the primary use of GOLDEN DESTINY’S subscribers and should not be redistributed to any third parties without the written 
+consent of GOLDEN DESTINY. An extraction of market information from GOLDEN DESTINY’S Reports/Analysis is allowed only when GOLDEN DESTINY is mentioned 
+as a source. 
+TOTAL
+Units ($) Invested Capital Units
+in DWT
+Units
+SH
+DEMO
+Bulkcarriers
+10
+115.400.000
+2
+74.819
+12
+11%
+-33%
+Tankers 
+10
+225.140.000
+1
+2.738
+11
+0%
+ 
+Gas Tankers 
+0
+0
+0
+0
+0
+ 
+ 
+General Cargo
+0
+0
+0
+0
+0
+ 
+ 
+Containers
+4
+8.000.000
+1
+11.031
+5
+-20%
+ 
+Reefers
+0
+0
+0
+0
+0
+ 
+-100%
+Passenger / Cruise
+0
+0
+0
+0
+0
+ 
+ 
+Ro - Ro
+0
+0
+1
+1.000
+1
+-100%
+ 
+Car Carrier
+0
+0
+0
+0
+0
+ 
+ 
+Combined 
+0
+0
+0
+0
+0
+ 
+ 
+Special Projects 
+0
+0
+0
+0
+0
+TTL VSLS/Demo
+24
+348.540.000
+5
+89.588
+29
+-14%
+25%
+Vessel Type
+Units
+in DWT
+P&C
+Bulkcarriers
+2
+165.200
+0
+Tankers 
+10
+1.263.600
+0
+Gas Tankers 
+8
+768.000
+3
+General Cargo
+6
+44.400
+6
+Containers
+0
+0
+0
+Reefers
+0
+0
+0
+Passenger / Cruise
+0
+0
+0
+Ro-Ro
+0
+0
+0
+Car Carrier
+0
+0
+0
+Combined 
+0
+0
+0
+Special Projects 
+0
+0
+0
+TOTAL
+26
+2.241.200
+9
+0
+0
+1.261.700.000
+%w-o-w 
+300%
+WEEKLY S&P ACTIVITY
+7 S&P deal(s) reported at an undisclosed price
+%w-o-w 
+-33%
+-9%
+VESSELTYPE
+SECOND HAND
+DEMOLITION
+Invested Capital
+72.000.000
+735.200.000
+WEEKLY NEWBUILDING ACTIVITY
+0
+0
+0
+0
+0
+ 
+30%
+0
+2.068.900.000
+-100%
+ 
+ 
+.  
+ 
+ 
+ 
+ 
+ 
+The estimated invested capital does not include deals reported at an undisclosed secondhand sale or newbuilding price. 
+ 
+P&C: deals reported as private and confidential with no disclosed details for the secondhand sale or newbuilding price.
+
+RESEARCH & VALUATION                                                                                              snv@goldendestiny.com 
+ 
+57 AKTI MIAOULI 18536, PIRAEUS GREECE TEL: +30 210 4295000 
+EMAIL: snv@goldendestiny.com WEBSITE: www.goldendestiny.com 
+GDSA
+S&P INDEX
+US$/Dwt
+SHIOSAI
+176,827 DWT BLT 09 JPN 9 HO HA MAN-B&W 22,923 BHP
+SOLD FOR ABT US $20,5 MIL TO CHINESE BYRS
+115.93
+SHENG WU
+76,286 DWT BLT 05 JPN 7 HO HA B&W 14,276 BHP
+SOLD FOR ABT US $14,8 MIL TO UNDISCLOSED BYRS
+194.01
+VITASPIRIT
+74,269 DWT BLT 01 JPN 7 HO HA MAN-B&W 12,160 BHP
+SOLD FOR AN UNDISCLOSED PRICE TO UNDISCLOSED BYRS
+N/A
+YANGTZE GALAXY
+56,453 DWT BLT 12 CHR 5 HO HA CR 4 x 35 T  MAN-B&W 12,889 BHP
+SOLD FOR AN UNDISCLOSED PRICE TO OMANI BYRS - TIER II
+N/A
+DEVBULK GULTEN
+55,865 DWT BLT 15 JPN 5 HO HA CR 4 x 30 T  MAN-B&W 10,047 BHP
+SOLD FOR ABT US $22,6 MIL TO UNDISCLOSED BYRS - ECO - TIER II
+404.55
+STEADY SARAH
+38,468 DWT BLT 11 JPN 5 HO HA CR 4 x 30 T  MAN-B&W 10,741 BHP
+SOLD FOR ABT US $15 MIL TO UK BYRS - IINTERNAL SALE
+389.93
+CIELO DI PALERMO
+37,059 DWT BLT 13 JPN 5 HO HA CR 4 x 30 T  MAN-B&W 9,585 BHP
+SOLD FOR ABT US $17 MIL TO UNDISCLOSED BYRS
+458.73
+VOGE JULIE
+35,853 DWT BLT 11 CHR 5 HO HA CR 4 x 30 T  MAN-B&W 10,197 BHP
+SOLD FOR ABT US $12,5 MIL TO UNDISCLOSED BYRS
+348.65
+CECILIA
+34,094 DWT BLT 10 KRS 5 HO HA CR 4 x 30 T  MAN-B&W 8,810 BHP
+SOLD FOR ABT US $13 MIL TO UNDISCLOSED BYRS - BWTS FITTED
+381.30
+BASIC BRAVE
+33,745 DWT BLT 11 JPN 5 HO HA MITSUBISHI 8,498 BHP
+SOLD FOR AN UNDISCLOSED PRICE TO MIDDLE EASTERN BYRS IN BBHP TERMS
+N/A
+BULK CARRIERS
+SECONDHAND TONNAGE SOLD FOR FURTHER TRADING
+
+RESEARCH & VALUATION                                                                                              snv@goldendestiny.com 
+ 
+57 AKTI MIAOULI 18536, PIRAEUS GREECE TEL: +30 210 4295000 
+EMAIL: snv@goldendestiny.com WEBSITE: www.goldendestiny.com 
+US$/Dwt
+V. TRUST
+301,123 DWT BLT 17 KRS DH 15 TNKS OIL CAP. 328,917 CBM WINGD 34,806 BHP
+SOLD FOR ABT US $90 MIL TO SOUTH KOREAN BYRS - SCRUBBER FITTED - ECO - TIER II
+298.88
+MANDALA
+65,125 DWT BLT 06 CRT DH 10 TNKS COATED - COILED OIL CAP. 67,315 CBM MAN-B&W 21,372 BHP
+DONNA
+65,065 DWT BLT 06 CRT DH 10 TNKS COATED - COILED OIL CAP. 68,012 CBM MAN-B&W 21,372 BHP
+SOLD ENBLOC FOR ABT US $21 MIL EACH TO UNDISCLOSED BYRS - ICE CLASS 1B
+322.75
+PRESIDENT I
+64,999 DWT BLT 07 CRT DH 10 TNKS COATED - COILED OIL CAP. 67,315 CBM MAN-B&W 21,372 BHP
+SOLD FOR ABT US $28,5 MIL TO ITALIAN BYRS - WIDE BEAMED- SHALLOW DRAFTED
+438.47
+CASSIOPEIA II
+50,696 DWT BLT 08 KRS DH 12 TNKS COATED - COILED OIL CAP. 52,125 CBM MAN-B&W 10,960 BHP
+SOLD FOR ABT US $23 MIL TO FAR EASTERN BYRS - SS DUE 7/2023 - BWTS FITTED
+453.68
+BALTIC FROST
+37,100 DWT BLT 06 KRS DH 12 TNKS COATED - COILED OIL CAP. 41,138 CBM MAN-B&W 15,037 BHP
+SOLD FOR AN UNDISCLOSED PRICE TO GREEK BYRS  -ALREADY DELIVERED AND RENAMED "BALTIC ICE"
+N/A
+RT STAR
+26,199 DWT BLT 11 JPN DH 16 TNKS COATED - COILED OIL CAP. 27,887 CBM MAN-B&W 10,130 BHP
+SOLD FOR ABT US $19,5 MIL TO CHINESE BYRS
+744.30
+CELSIUS MAYFAIR
+19,999 DWT BLT 07 JPN DH 18 TNKS COATED - COILED OIL CAP. 20,527 CBM MITSUBISHI 8,470 BHP
+SOLD FOR ABT US $12,64 MIL TO UNDISCLOSED BYRS
+632.03
+ATHENIA
+8,828 DWT BLT 08 CHR DH 10 TNKS COATED - COILED OIL CAP. 9,536 CBM YANMAR 3,500 BHP
+SOLD FOR ABT US $4,5 MIL TO UNDISCLOSED BYRS - TIER II
+509.74
+IPARI M
+3,434 DWT BLT 02 ITL DH 12 TNKS COATED - COILED OIL CAP. 3,514 CBM MAN 4,160 BHP
+SOLD FOR ABT US $5 MIL TO NETHERLANDS BYRS - SS/DD RECENTLY PASSED
+1456.03
+TANKERS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+US$/Teu
+ZHONG GU JIANG SU
+63,381 DWT BLT 10 RUM 7 HO 4,963 TEU MAN-B&W 54,343 BHP
+SOLD FOR AN UNDISCLOSED PRICE TO SWISS BYRS
+N/A
+MAERSK LAUNCESTON
+62,994 DWT BLT 05 DEN 6 HO HA 4,533 TEU SULZER 62,215 BHP
+SOLD FOR AN UNDISCLOSED PRICE TO SWISS BYRS
+N/A
+WAN HAI 267
+23,623 DWT BLT 02 JPN 1,662 TEU B&W 21,490 BHP
+SOLD FOR AN UNDISCLOSED PRICE TO INDIAN BYRS
+N/A
+A XINXIA
+12,597 DWT BLT 07 JPN 907 TEU MAN-B&W 10,860 BHP
+SOLD FOR ABT US $8 MIL TO VIETNAMESE BYRS
+8820.29
+CONTAINERS
+
+RESEARCH & VALUATION                                                                                              snv@goldendestiny.com 
+ 
+57 AKTI MIAOULI 18536, PIRAEUS GREECE TEL: +30 210 4295000 
+EMAIL: snv@goldendestiny.com WEBSITE: www.goldendestiny.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Units
+Dwt
+Contractor
+Country
+Builder
+Country
+Dely
+Price($)/unit
+2
+82.600
+TMS Dry
+GR
+Chenxi 
+PRC
+2026
+$ 36 mil
+Units
+Dwt
+Contractor
+Country
+Builder
+Country
+Dely
+Price($)/unit
+2
++4
+320.000
+Magni Partners
+NOR
+New Times 
+PRC
+2026-2027
+$ 138 mil
+2
+157.000
+Advantage Tankers
+SWISS
+Nihon Shipyard
+JPN
+2H/2025
+$ 85 mil
+2
+115.000
+Transppetrol 
+GR
+Hyundai Vietnam
+VTM
+1H/2026
+$ 68,6 mil
+4
+19.900
+Zodiac Maritime
+UK
+Fukuoka
+JPN
+MID 2024
+HIGH $ 30 mil
+Units
+Dwt
+Contractor
+Country
+Builder
+Country
+Dely
+Price($)/unit
+1
+96.000
+Sea Jade Investment
+PRC
+Hudong Zhonghua
+PRC
+2027
+N/A
+2
+96.000
+Wah Kwong/CSSC
+PRC
+Dalian
+PRC
+2027
+N/A
+2
+96.000
+Evalend Shipping
+GR
+Hyundai HI
+SKR
+END 2027
+$ 260 mil
+1
+96.000
+MOL
+JPN
+Hanwha Ocean 
+SKR
+2027
+$ 251,7 mil
+2
+96.000
+United Liquefied Gas
+PRC
+Hudong Zhonghua
+PRC
+2025-2026
+$ 245 mil
+Units
+Dwt
+Contractor
+Country
+Builder
+Country
+Dely
+Price($)/unit
+6
++10
+7.400
+Mare Balticum 
+DUTCH
+Taizhou Sanfu
+PRC
+2025
+N/A
+NEWBUILDING ORDERS
+BULK CARRIERS
+TANKERS
+GENERAL CARGO
+LNG dual fuel
+scrubber fitted
+st.st. chemical tankers
+175,000CBM - with long term employment to China Gas
+174,000cbm - option exercised
+174,000cbm - option exercised
+GAS TANKERS
+174,000cbm - LOI
+175,000CBM - 20yr charter attached to China Gas Holding  & China Hongda Energy Trading. Sea Jade is a jv comprising of Wah Kong, China Gas Holding & 
+CSSC
+
+RESEARCH & VALUATION                                                                                              snv@goldendestiny.com 
+ 
+57 AKTI MIAOULI 18536, PIRAEUS GREECE TEL: +30 210 4295000 
+EMAIL: snv@goldendestiny.com WEBSITE: www.goldendestiny.com 
+ 
+ 
+ 
+VESSEL TYPE
+DEMOLITION ACTIVITY
+Units
+in DWT
+Units
+in DWT
+%w-o-w
+in No. of Units
+Bulkcarriers
+2
+74819
+3
+215.621
+-33%
+Tankers
+1
+2738
+0
+0
+ 
+Gas Tankers
+0
+0
+0
+0
+ 
+General Cargo
+0
+0
+0
+0
+ 
+Containers
+1
+11031
+0
+0
+ 
+Reefers
+0
+0
+1
+5.129
+-100%
+Passenger / Cruise
+0
+0
+0
+0
+ 
+Ro-Ro
+1
+1000
+0
+0
+ 
+Car Carrier
+0
+0
+0
+0
+ 
+Combined 
+0
+0
+0
+0
+ 
+Special Projects
+0
+0
+0
+0
+ 
+TOTAL
+5
+89.588
+4
+220.750
+25%
+DEMO COUNTRY
+DEMOLITION ACTIVITY
+Units
+in DWT
+Units
+in DWT
+%w-o-w
+in No. of Units
+Bangladesh
+2
+79.652
+3
+215.621
+-33%
+India
+0
+0
+1
+5.129
+-100%
+Pakistan 
+0
+0
+0
+0
+ 
+China
+1
+1.000
+0
+0
+ 
+Turkey
+2
+8.936
+0
+0
+ 
+Unknown
+0
+0
+0
+0
+ 
+TOTAL
+5
+89.588
+4
+220.750
+25%
+WEEK 31-2023
+WEEK 30-2023
+WEEKLY DEMOLITION ACTIVITY PER VESSEL TYPE
+WEEK 31-2023
+WEEK 30-2023
+WEEKLY DEMOLITION ACTIVITY PER DEMO COUNTRY
+ 
+ 
+ 
+ 
+ Price
+Scrap Price
+Demo 
+($)
+$/ldt
+Country
+EOS
+6.198
+1976
+NETHERLANDS
+2.222
+N/A
+N/A
+TURKEY
+GREAT WENWU
+68.621
+1994
+JAPAN
+9.759
+4.537.935
+465
+BANGLADESH
+ASTERDEA
+2738
+1976
+NETHERLANDS
+1.231
+N/A
+N/A
+TURKEY
+SINOKOR TIANJIN
+11.031
+1998
+CHINA
+4.672
+2.905.984
+622
+BANGLADESH
+TAI MA
+1.000
+1985
+JAPAN
+2.834
+N/A
+N/A
+CHINA
+RO-RO
+AS-IS - 544 PAX - 24 BERTHS - 12 CEU
+CONTAINER
+INCL 250T ROB
+TONNAGE SOLD FOR DEMOLITION
+BC
+TANKERS
+Name
+Dwt
+Built 
+Country
+LDT
+        DEMOLITION MARKET

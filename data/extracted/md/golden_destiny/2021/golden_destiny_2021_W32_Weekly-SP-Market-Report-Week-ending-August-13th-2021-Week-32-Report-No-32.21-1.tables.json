@@ -1,0 +1,203 @@
+{
+ "issue_date": "2021-08-13",
+ "report_week": 32,
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\golden_destiny\\2021\\golden_destiny_2021_W32_Weekly-SP-Market-Report-Week-ending-August-13th-2021-Week-32-Report-No-32.21-1.pdf",
+ "stem": "golden_destiny_2021_W32_Weekly-SP-Market-Report-Week-ending-August-13th-2021-Week-32-Report-No-32.21-1",
+ "doc_class": "weekly_report",
+ "tables": {
+  "deals": [
+   {
+    "vessel_name": "AQUA SPLENDOR",
+    "dwt": 175589.0,
+    "built_year": "12",
+    "section": "GAS TANKERS",
+    "price_usd_m": 27.5,
+    "price_raw": "27.5 MIL",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": 156.62,
+    "page": 1
+   },
+   {
+    "vessel_name": "LOWLANDS BEACON",
+    "dwt": 61400.0,
+    "built_year": "11",
+    "section": "GAS TANKERS",
+    "price_usd_m": 21.0,
+    "price_raw": "21.0 MIL",
+    "per_vessel": "",
+    "buyer": "VIETNAMESE",
+    "per_unit": 342.02,
+    "page": 1
+   },
+   {
+    "vessel_name": "ADITYA",
+    "dwt": 55496.0,
+    "built_year": "08",
+    "section": "GAS TANKERS",
+    "price_usd_m": 16.25,
+    "price_raw": "16.25 MIL",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": 292.81,
+    "page": 1
+   },
+   {
+    "vessel_name": "MARATHA PROMISE",
+    "dwt": 37187.0,
+    "built_year": "12",
+    "section": "GAS TANKERS",
+    "price_usd_m": 16.5,
+    "price_raw": "16.5 MIL",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": 443.7,
+    "page": 1
+   },
+   {
+    "vessel_name": "MAYA VN",
+    "dwt": 318778.0,
+    "built_year": "03",
+    "section": "GAS TANKERS",
+    "price_usd_m": 27.0,
+    "price_raw": "27.0 MIL",
+    "per_vessel": "",
+    "buyer": "CHINESE",
+    "per_unit": 84.7,
+    "page": 1
+   },
+   {
+    "vessel_name": "CABO KAMUI",
+    "dwt": 74214.0,
+    "built_year": "16",
+    "section": "GAS TANKERS",
+    "price_usd_m": 31.0,
+    "price_raw": "31.0 MIL",
+    "per_vessel": "each",
+    "buyer": "CHILEAN",
+    "per_unit": 417.71,
+    "page": 1
+   },
+   {
+    "vessel_name": "CABO MISAKI",
+    "dwt": 74177.0,
+    "built_year": "17",
+    "section": "GAS TANKERS",
+    "price_usd_m": 32.0,
+    "price_raw": "32.0 MIL",
+    "per_vessel": "",
+    "buyer": "CHILEAN",
+    "per_unit": 431.4,
+    "page": 1
+   },
+   {
+    "vessel_name": "DESPINA",
+    "dwt": 72247.0,
+    "built_year": "06",
+    "section": "GAS TANKERS",
+    "price_usd_m": 8.5,
+    "price_raw": "8.5 MIL",
+    "per_vessel": "",
+    "buyer": "GERMAN",
+    "per_unit": 117.65,
+    "page": 1
+   },
+   {
+    "vessel_name": "DEE4 BIRCH",
+    "dwt": 53712.0,
+    "built_year": "06",
+    "section": "GAS TANKERS",
+    "price_usd_m": 12.25,
+    "price_raw": "12.25 MIL",
+    "per_vessel": "each",
+    "buyer": "US",
+    "per_unit": 228.12,
+    "page": 1
+   },
+   {
+    "vessel_name": "DEE4 ACACIA",
+    "dwt": 53688.0,
+    "built_year": "06",
+    "section": "GAS TANKERS",
+    "price_usd_m": 12.25,
+    "price_raw": "12.25 MIL",
+    "per_vessel": "each",
+    "buyer": "US",
+    "per_unit": 228.12,
+    "page": 1
+   },
+   {
+    "vessel_name": "MAERSK ERIK",
+    "dwt": 40083.0,
+    "built_year": "08",
+    "section": "GAS TANKERS",
+    "price_usd_m": 12.0,
+    "price_raw": "12.0 MIL",
+    "per_vessel": "",
+    "buyer": "FRENCH",
+    "per_unit": 299.38,
+    "page": 1
+   },
+   {
+    "vessel_name": "TIGER SINGAPORE",
+    "dwt": 13083.0,
+    "built_year": "09",
+    "section": "GAS TANKERS",
+    "price_usd_m": 6.0,
+    "price_raw": "6.0 MIL",
+    "per_vessel": "",
+    "buyer": "CHINESE",
+    "per_unit": 458.61,
+    "page": 1
+   },
+   {
+    "vessel_name": "JENNIFER SCHEPERS",
+    "dwt": 25775.0,
+    "built_year": "09",
+    "section": "GAS TANKERS",
+    "price_usd_m": 21.0,
+    "price_raw": "21.0 MIL",
+    "per_vessel": "",
+    "buyer": "SWISS",
+    "per_unit": 11706.0,
+    "page": 1
+   },
+   {
+    "vessel_name": "JETT",
+    "dwt": 17004.0,
+    "built_year": "07",
+    "section": "GAS TANKERS",
+    "price_usd_m": 19.25,
+    "price_raw": "19.25 MIL",
+    "per_vessel": "",
+    "buyer": "ISRAELI",
+    "per_unit": 14762.0,
+    "page": 1
+   },
+   {
+    "vessel_name": "IRIS GLORY",
+    "dwt": 54707.0,
+    "built_year": "08",
+    "section": "GAS TANKERS",
+    "price_usd_m": null,
+    "price_raw": "UNDISCLOSED",
+    "per_vessel": "",
+    "buyer": "UNDISCLOSED",
+    "per_unit": null,
+    "page": 1
+   },
+   {
+    "vessel_name": "YURICOSMOS",
+    "dwt": 49999.0,
+    "built_year": "10",
+    "section": "GAS TANKERS",
+    "price_usd_m": null,
+    "price_raw": "UNDISCLOSED",
+    "per_vessel": "",
+    "buyer": "SPOREAN",
+    "per_unit": null,
+    "page": 1
+   }
+  ]
+ }
+}
