@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By <u>Yiannis Parganas, Head of Research Department</u>
 
@@ -19,6 +21,7 @@ Looking ahead, while the summer heat may offer a short-term lift to thermal dema
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 27/06/2025 WS points | 27/06/2025 $/day | 20/06/2025 WS points | 20/06/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 56 | 37,611 | 78 | 61,356 | -38.7% | 37,255 | 39,466 |
@@ -40,9 +43,9 @@ Looking ahead, while the summer heat may offer a short-term lift to thermal dema
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | Seaduchess | 2022 | 313,164 dwt |  |  |
-
+| 12 mos | Seaduchess | 2022 | 313,164 dwt | $52,000/day | Chevron |
 ## TC Rates
+
 | Sector | Tenor | 27/06/2025 | 20/06/2025 | ±% | Diff | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 48,750 | 47,500 | **2.6%** | **1250** | 50,365 | 48,601 |
@@ -91,9 +94,9 @@ Aframax performance was mixed across regions, reflecting diverse supply and dema
 | BHSI | 636 | $11,449 | 624 | $11,224 | **12** | **2.0%** | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4 to 7 mos | Illawara Fortune | 2013 | 95,707 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 to 7 mos | Illawara Fortune | 2013 | 95,707 dwt | dely Kawasaki 30 Jun | $11,250/day | Swissmarine |
 
 ## TC Rates
 | Sector | Tenor | 27/06/2025 | 20/06/2025 | ±% | Diff | 2024 | 2023 |
@@ -108,6 +111,7 @@ Aframax performance was mixed across regions, reflecting diverse supply and dema
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 27/Jun/24 | 3500 | 1500 | 1200 | 800 | 2000 |
@@ -125,6 +129,7 @@ Aframax performance was mixed across regions, reflecting diverse supply and dema
 | 27/Jun/25 | 2400 | 1300 | 1000 | 600 | 1600 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 27/Jun/24 | 30000 | 12000 | 10000 | 8000 |
@@ -255,6 +260,7 @@ In Turkey, the ship recycling market continues to be at a standstill, affected b
 | USD/TRY | 39.91 | 39.68 | 0.6% | 39.91 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BITUMEN PRINCESS | 5,416 | 2,680 | 1995 | DAE SUN, S. Korea | TANKER | undisclosed | Indian |

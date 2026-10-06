@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 By <u>Nikos Tagoulis, Senior Analyst</u>
 
@@ -19,6 +21,7 @@ For now, the service's significance is largely demonstrative. The reliability of
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 17/07/2026 WS points | 17/07/2026 $/day | 10/07/2026 WS points | 10/07/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 371 | 377,701 | 348 | 355,370 | 6.3% | 60,510 | 37,255 |
@@ -42,8 +45,8 @@ For now, the service's significance is largely demonstrative. The reliability of
 | 12 mos | Bellini | 2006 | 73,582 |
 | --- | --- | --- | --- |
 |  | $25,500 |  | Repsol |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 17/Jul/25 | 100 | 100 | 100 |
@@ -59,8 +62,8 @@ For now, the service's significance is largely demonstrative. The reliability of
 | 17/May/26 | 400 | 300 | 200 |
 | 17/Jun/26 | 300 | 250 | 200 |
 | 17/Jul/26 | 300 | 250 | 200 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 17/Jul/25 | 100 | 100 | 100 | 100 |
@@ -146,6 +149,7 @@ The Aframax segment was the clear outperformer last week, its benchmark earnings
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 17/Jul/25 | 3500 | 1800 | 1200 | 800 | 2000 |
@@ -163,6 +167,7 @@ The Aframax segment was the clear outperformer last week, its benchmark earnings
 | 17/Jul/26 | 4200 | 2200 | 1600 | 900 | 3200 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 17/Jul/25 | 28000 | 14000 | 12000 | 8000 |
@@ -204,6 +209,7 @@ The Handysize market saw divergent trends last week, with rates overall declinin
 ## Secondhand Sales
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | J19 | FG ROTTERDAM | 19,995 | 2012 | USUKI SHIPYARD, Japan | MAN B\&W | Jun-27 | DH | mid high $ 22's | undisclosed | StSt |
@@ -298,8 +304,8 @@ Turkey stayed subdued, with a tight pool of candidates and a weak currency erodi
 | USD/INR | 96.29 | 95.33 | 1.00% | 96.29 |
 | USD/PKR | 278.03 | 278.15 | -0.04% | 280.05 |
 | USD/TRY | 47.14 | 46.98 | 0.35% | 47.14 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | DINA OCEAN | 24,247 | 4,865 | 1998 | TSUNEISHI CEBU, Philippines | BC | $480/Ldt | Bangladeshi |

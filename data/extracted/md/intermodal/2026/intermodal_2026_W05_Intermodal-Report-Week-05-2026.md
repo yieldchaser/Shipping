@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -17,6 +19,7 @@ Ultimately, Europe is not moving toward energy independence, but toward a more c
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 30/01/2026 WS points | 30/01/2026 $/day | 23/01/2026 WS points | 23/01/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 104 | 88,861 | 128 | 118,145 | -24.8% | 60,510 | 37,255 |
@@ -38,10 +41,10 @@ Ultimately, Europe is not moving toward energy independence, but toward a more c
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | Olympic Lion | 2010 | 319,540 dwt |  |  |
-| 12 mos | Arzanah | 2023 | 299,425 dwt |  |  |
-
+| 36 mos | Olympic Lion | 2010 | 319,540 dwt | $53,000/day | Trafigura |
+| 12 mos | Arzanah | 2023 | 299,425 dwt | $70,000/day | Trafigura |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points |
@@ -57,8 +60,8 @@ Ultimately, Europe is not moving toward energy independence, but toward a more c
 | 31/Oct/25 | 35 | 100 | 120 |
 | 30/Nov/25 | 30 | 90 | 110 |
 | 31/Dec/25 | 35 | 100 | 350 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points | WS points |
@@ -124,10 +127,10 @@ The Aframax segment continued to outperform, with spot rates above average. In t
 | BHSI | 618 | $11,124 | 600 | $10,793 | **18** | **3.1%** | 661 | 702 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 11 to 13 mos | Lemessos Queen | 2023 | 82,800 dwt |  |  |
-| 5 to 7 mos | Falcon Trident | 2017 | 63,501 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 11 to 13 mos | Lemessos Queen | 2023 | 82,800 dwt | Delivery Dafeng 3 Feb redelivery worldwide | $18,500/day | cnr |
+| 5 to 7 mos | Falcon Trident | 2017 | 63,501 dwt | Delivery SE Asia prompt redelivery worldwide | $15,400/day | Oldendorff |
 
 ## TC Rates
 | Sector | Tenor | 30/01/2026 | 23/01/2026 | ±% | Diff | 2025 | 2024 |
@@ -142,6 +145,7 @@ The Aframax segment continued to outperform, with spot rates above average. In t
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 30/Jan/25 | 800 | 900 | 1000 | 600 | 800 |
@@ -158,6 +162,7 @@ The Aframax segment continued to outperform, with spot rates above average. In t
 | 31/Dec/25 | 3600 | 1800 | 2000 | 1200 | 1800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 30/Jan/25 | 5000 | 8000 | 9000 | 7000 |
@@ -301,6 +306,7 @@ In Chattogram, ship recyclers are showing renewed engagement, with interest in f
 
 Finally, in Turkey the yards remains active, driven by a steady flow of incoming tonnage. At the same time, the steel market is exhibiting healthy conditions, supported by balanced domestic demand and exports.
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ABINSK | 38,110 | 8,264 | 1983 | IHI, Japan | BC | undisclosed | Turkish |

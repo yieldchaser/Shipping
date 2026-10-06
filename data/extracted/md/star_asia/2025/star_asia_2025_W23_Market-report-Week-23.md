@@ -111,9 +111,13 @@ The Middle East market saw a continued decline, coupled with a seasonal dip in d
 
 Clean:
 
-**LR:** LR2 in the MEG saw a slight dip this week, with rates closing at WS129. While some cargo movement is expected for mid-June period, charterers appear to be holding back in anticipation of further rate declines. In the LR1 segment, UKC remains unchanged for another week with WAFR trips on TC16 closing at WS112 mark.
+**LR: LR2 in the MEG saw a slight dip this week, with rates closing at WS129. While some**
 
-**MR:** Far East market for the MRs concluded higher, continuing the momentum from cargo inflows. In the MEG, rates fell slightly with over supply vessels as trips to E. Africa fell at the week's closing to WS188.
+cargo movement is expected for mid-June period, charterers appear to be holding back in anticipation of further rate declines. In the LR1 segment, UKC remains unchanged for another week with WAFR trips on TC16 closing at WS112 mark.
+
+**MR: Far East market for the MRs concluded higher, continuing the momentum from cargo**
+
+inflows. In the MEG, rates fell slightly with over supply vessels as trips to E. Africa fell at the week's closing to WS188.
 
 # Baltic Exchange Tanker Indices
 
@@ -140,21 +144,21 @@ The container segment is in for an extended uncertainty rather than a quick reso
 
 # Containers Values
 
-| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| (BY TEU) | GEARLESS | CONTRACT | DELIVERY | YEARS |
-| 900 ~ 1,200 | Geared | 24 | 26 | 10 |
-| 1,600 ~ 1,850 | Gearless | 31 | 35 | 18 |
-| 2,700 ~ 2,900 | Gearless | 44 | 46 | 26 |
-| 5,100 ~ 5,300 | Gearless | 59 | 82 | 41 |
-| *(amount in USD million) | \ | = Eco units |  |  |
-|  |  | S&P | Containers |  |
-|  |  |  |  | / |
-| VESSEL NAME | TYPE | TEU | BUILT |  |
-|  |  |  |  |  |
-| MARCOS V | POST PMAX | 6,350 | JAPAN |  |
-| H MERCURY | FEEDER | 1,781 | CHINA | BUYERS |
+| CONTAINERS | GEARED / | NB |  | NB PROMPT |  |  | 15 |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
+| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
+| 900 ~ 1,200 | Geared | 24 |  | 26 | 20 | 16 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 |  | 35 | 29 (E) | 23 (E) | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 |  | 46 | 39 | 35 | 26 |
+| 5,100 ~ 5,300 | Gearless | 59 |  | 82 | 66 | - | 41 |
+| *(amount in USD million) | \| = Eco units |  |  |  |  |  |  |
+|  |  | S&P |  | Containers | Report |  |  |
+|  |  |  |  |  | PRICE | COMMENTS | / |
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT |  |  |  |
+|  |  |  |  |  | (MILLION) | USD BUYERS |  |
+| MARCOS V | POST PMAX | 6,350 | 2005 | JAPAN | 50.0 | UNDISCLOSED |  |
+| H MERCURY | FEEDER | 1,781 | 2022 | CHINA | 34.5 | EUROPEAN | BUYERS |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -278,9 +282,13 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 Sub-Continent's imported scrap markets remained sluggish this week, as buying interest across India, Pakistan, and Bangladesh declined in the lead-up to Eid holidays. Traders and mills largely stayed on the sidelines, with weak steel demand and expectations of further price corrections dampening activity.
 
-India, imported shredded scrap offers hovered around US$370-372/ton CFR for EU origin and US$366-370/ton CFR for US material. However, limited appetite from buyers led to subdued trade. Distressed offers emerged at US$362-365/ton CFR for shredded and US$340-344/ton CFR for HMS 80:20 from UK/Europe, but confirmed deals were scarce. Offers from West Africa ranged between US$355-358/ton CFR Nhava Sheva, though only selective interest was noted. In Pakistan, shredded offers were heard at US$374-375/ton CFR Qasim, but most mills remained inactive. UAE-origin cargoes also saw limited movement.
+**India, imported shredded scrap offers hovered around US$370-372/ton CFR for EU origin**
 
-Bangladesh mirrored the regional trend, with imported scrap activity largely muted. A US bulk cargo was reportedly booked at US$373/ton CFR, though not officially confirmed. Shredded offers stood at US$376-380/ton CFR Chattogram, but Eid-related closures kept buyers on the sidelines. Activity is expected to resume mid-next week.
+and US$366-370/ton CFR for US material. However, limited appetite from buyers led to subdued trade. Distressed offers emerged at US$362-365/ton CFR for shredded and US$340-344/ton CFR for HMS 80:20 from UK/Europe, but confirmed deals were scarce. Offers from West Africa ranged between US$355-358/ton CFR Nhava Sheva, though only selective interest was noted. In Pakistan, shredded offers were heard at US$374-375/ton CFR Qasim, but most mills remained inactive. UAE-origin cargoes also saw limited movement.
+
+**Bangladesh mirrored the regional trend, with imported scrap activity largely muted. A US**
+
+bulk cargo was reportedly booked at US$373/ton CFR, though not officially confirmed. Shredded offers stood at US$376-380/ton CFR Chattogram, but Eid-related closures kept buyers on the sidelines. Activity is expected to resume mid-next week.
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -292,7 +300,9 @@ Meanwhile, Turkey's imported scrap market held steady near US$340/ton CFR for HM
 
 # Commodities (Weekinfocus)
 
-Copper prices climbed to a fresh two-month high this week, driven by mounting supply concerns and robust Chinese demand. Inventories on the London Metal Exchange (LME) fell for the 14th consecutive day, with another 14,000 tons withdrawn from warehouses in South Korea and the Netherlands. Total LME stockpiles now stand at just 54,700 tons, marking the lowest level since July 2023. Strong withdrawal activity has been largely attributed to increased Chinese consumption, while fresh supply disruptions have added upward pressure. Teck Resources flagged production setbacks at two of its Chilean operations, while seismic activity in the Democratic Republic of Congo forced the Kamoa-Kakula mine offline. The underground section of the mine, operated by Ivanhoe Mines, is now expected to remain shut until Q4 2025 due to flooding. Market sentiment was further buoyed by a diplomatic breakthrough between the U.S. and China. President Trump and Xi agreed to resume trade talks, with reports suggesting a resolution over rare earth export disputes raising hopes of tariff easing.
+**Copper prices climbed to a fresh two-month high this week, driven by mounting supply**
+
+concerns and robust Chinese demand. Inventories on the London Metal Exchange (LME) fell for the 14th consecutive day, with another 14,000 tons withdrawn from warehouses in South Korea and the Netherlands. Total LME stockpiles now stand at just 54,700 tons, marking the lowest level since July 2023. Strong withdrawal activity has been largely attributed to increased Chinese consumption, while fresh supply disruptions have added upward pressure. Teck Resources flagged production setbacks at two of its Chilean operations, while seismic activity in the Democratic Republic of Congo forced the Kamoa-Kakula mine offline. The underground section of the mine, operated by Ivanhoe Mines, is now expected to remain shut until Q4 2025 due to flooding. Market sentiment was further buoyed by a diplomatic breakthrough between the U.S. and China. President Trump and Xi agreed to resume trade talks, with reports suggesting a resolution over rare earth export disputes raising hopes of tariff easing.
 
 ## Shipbroking (www.star-asia.com.sg)
 

@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 By Nikos Tagoulis, Senior Analyst
 
@@ -25,6 +27,7 @@ In conclusion, the threat of Houthi action disrupting Red Sea trade marks a sign
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 24/07/2026 WS points | 24/07/2026 $/day | 17/07/2026 WS points | 17/07/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 379 | 381,631 | 371 | 377,701 | 1.0% | 60,510 | 37,255 |
@@ -47,8 +50,7 @@ In conclusion, the threat of Houthi action disrupting Red Sea trade marks a sign
 
 | 12 mos | Wisteria $23,000 | 2008 | 50,661 Clearlake |
 | --- | --- | --- | --- |
-
-### Dirty WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Dirty
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -66,8 +68,7 @@ In conclusion, the threat of Houthi action disrupting Red Sea trade marks a sign
 | 24/May/26 | 400 | 400 | 400 |
 | 24/Jun/26 | 350 | 350 | 350 |
 | 24/Jul/26 | 300 | 300 | 300 |
-
-### Clean WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Clean
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -153,6 +154,7 @@ Aframaxes continued to support the crude freight market, building upward momentu
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 24/Jul/25 | 3800 | 1500 | 1200 | 800 | 2000 |
@@ -170,6 +172,7 @@ Aframaxes continued to support the crude freight market, building upward momentu
 | 24/Jul/26 | 4000 | 2200 | 2500 | 900 | 4000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 24/Jul/25 | 28000 | 14000 | 12000 | 10000 |
@@ -211,6 +214,7 @@ The Handysize market saw mixed trends but was resilient overall. Asia provided s
 Secondhand Sales
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR2 | ELLIE LADY | 109,999 | 2009 | SUNGDONG, S. Korea | MAN B\&W | Oct-29 | DH | $47,5m | Trafigura | Eco, Scrubber fitted |

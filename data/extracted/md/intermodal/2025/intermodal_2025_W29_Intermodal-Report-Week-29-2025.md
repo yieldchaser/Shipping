@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -49,8 +51,8 @@ Concluding, although Shipping contributes about 2% of global emissions, its larg
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 24 mos | 24 mos | 2021 158,081 dwt | TotalEnergies |  |  |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 18/Jul/24 | 50 | 100 | 200 |
@@ -66,8 +68,8 @@ Concluding, although Shipping contributes about 2% of global emissions, its larg
 | 18/May/25 | 50 | 100 | 200 |
 | 18/Jun/25 | 50 | 100 | 200 |
 | 18/Jul/25 | 50 | 100 | 200 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 18/Jul/24 | 150 | 150 | 250 | 250 |
@@ -83,8 +85,8 @@ Concluding, although Shipping contributes about 2% of global emissions, its larg
 | 18/May/25 | 150 | 150 | 250 | 250 |
 | 18/Jun/25 | 150 | 150 | 250 | 250 |
 | 18/Jul/25 | 150 | 150 | 250 | 250 |
-
 ## Spot Rates
+
 | Sector | Size | Routes | 18/07/2025 WS points | 18/07/2025 $/day | 11/07/2025 WS points | 11/07/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 54 | 35,402 | 50 | 31,314 | **13.1%** | 37,255 | 39,466 |
@@ -150,10 +152,10 @@ In the Aframax sector, the Mediterranean market began the week with limited tonn
 | BHSI | 673 | $12,110 | 645 | $11,604 | **28** | **4.4%** | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | Venus Horizon | 2012 | 95,755 dwt |  |  |
-| 5 to 7 mos | Maple Well | 2025 | 82,254 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | Venus Horizon | 2012 | 95,755 dwt | Hong Kong 26 Jul | $16,250/day | cnr |
+| 5 to 7 mos | Maple Well | 2025 | 82,254 dwt | CJK 16/20 Jul | $15,750/day | WBC |
 
 ## TC Rates
 | Sector | Tenor | 18/07/2025 | 11/07/2025 | ±% | Diff | 2024 | 2023 |
@@ -168,6 +170,7 @@ In the Aframax sector, the Mediterranean market began the week with limited tonn
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 18/Jul/24 | 2800 | 1800 | 1400 | 800 | 1800 |
@@ -185,6 +188,7 @@ In the Aframax sector, the Mediterranean market began the week with limited tonn
 | 18/Jul/25 | 3000 | 1900 | 1600 | 1000 | 2000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 18/Jul/24 | 24000 | 14000 | 13000 | 12000 |
@@ -318,6 +322,7 @@ Turkey's ship recycling market remains sluggish with limited activity. A dull lo
 | USD/TRY | 40.39 | 40.18 | 0.5% | 40.39 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | GREEN EGERSUND | 6,120 | 2,990 | 1990 | KLEVEN LOLAND, Norway | REEFER | $440/Ldt | Indian |

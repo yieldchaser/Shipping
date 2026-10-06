@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 <mark>Nikos Tagoulis, Senior Analyst</mark>
 
@@ -15,6 +17,7 @@ In conclusion, Australia's LNG export outlook for 2026 is defined by structural 
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 20/02/2026 WS points | 20/02/2026 $/day | 13/02/2026 WS points | 13/02/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 168 | 161,176 | 134 | 123,161 | 30.9% | 60,510 | 37,255 |
@@ -36,9 +39,8 @@ In conclusion, Australia's LNG export outlook for 2026 is defined by structural 
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | DHT Taiga Maran Solon | 2012 2021 | 318,130 dwt |  |  |
-
-### Dirty WS Rates (1-Year Trend)
+| 12 mos | DHT Taiga Maran Solon | 2012 2021 | 318,130 dwt | $85,000/day | Glovis 157,947 dwt UNIPEC |
+### 1-Year Forward WS Rates - Dirty
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -56,8 +58,7 @@ In conclusion, Australia's LNG export outlook for 2026 is defined by structural 
 | 20/Dec/25 | 40 | 110 | 130 |
 | 20/Jan/26 | 35 | 105 | 125 |
 | 20/Feb/26 | 30 | 100 | 120 |
-
-### Clean WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Clean
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -127,10 +128,11 @@ Aframax activity in the Mediterranean was initially strong with numerous cargoes
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 11 to 13 mos | BBG Xijiang | 2024 | 82,801 dwt |  |  |
-| 6 to 8 mos | Santorini | 2013 | 81,086 dwt |  |  |
+| 11 to 13 mos | BBG Xijiang | 2024 | 82,801 dwt | $18,500/day | Daichi |
+| 6 to 8 mos | Santorini | 2013 | 81,086 dwt | $16,250/day | Propel |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 20/Feb/25 | 2000 | 1200 | 800 | 600 | 1000 |
@@ -148,6 +150,7 @@ Aframax activity in the Mediterranean was initially strong with numerous cargoes
 | 20/Feb/26 | 2900 | 1800 | 1400 | 1200 | 1800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 20/Feb/25 | 8000 | 10000 | 9000 | 7000 |

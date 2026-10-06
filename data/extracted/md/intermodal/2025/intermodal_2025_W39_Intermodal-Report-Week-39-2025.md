@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -19,6 +21,7 @@ In summary, China's crude imports appear more fragile, driven largely by stockpi
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 26/09/2025 WS points | 26/09/2025 $/day | 19/09/2025 WS points | 19/09/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 102 | 94,097 | 107 | 100,663 | -6.5% | 37,255 | 39,466 |
@@ -40,9 +43,10 @@ In summary, China's crude imports appear more fragile, driven largely by stockpi
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | Sea Lion | 2020 | 299,995 dwt |  |  |
+| 6 mos | Sea Lion | 2020 | 299,995 dwt | $51,000/day | Trafigura |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 26/Sep/24 | 0 | 0 | 0 |
@@ -60,6 +64,7 @@ In summary, China's crude imports appear more fragile, driven largely by stockpi
 | 26/Sep/25 | 0 | 0 | 0 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 26/Sep/24 | 0 | 0 | 0 | 0 |
@@ -127,7 +132,7 @@ Aframax markets was quieter. In the Mediterranean, initial activity eased once k
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | Pan Concord | 2024 | 82,814 dwt |  |  |
+| 12 mos | Pan Concord | 2024 | 82,814 dwt | $15,500/day | Louis Dreyfus |
 
 ## TC Rates
 | Sector | Tenor | 26/09/2025 | 19/09/2025 | ±% | Diff | 2024 | 2023 |
@@ -142,6 +147,7 @@ Aframax markets was quieter. In the Mediterranean, initial activity eased once k
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 26/5ep/24 | 3800 | 1400 | 1500 | 700 | 2000 |
@@ -159,6 +165,7 @@ Aframax markets was quieter. In the Mediterranean, initial activity eased once k
 | 26/5ep/25 | 3300 | 1500 | 1100 | 700 | 2300 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 26/5ep/24 | 30000 | 13000 | 14000 | 12000 |
@@ -297,8 +304,8 @@ In Turkey the market witnessed some action after weeks of stagnation, mainly by 
 | USD/INR | 88.68 | 88.10 | 0.65% | 88.68 |
 | USD/PKR | 283.33 | 283.78 | -0.16% | 284.95 |
 | USD/TRY | 41.36 | 41.38 | -0.05% | 41.34 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | RISING HARRIER | 47,195 | 8,690 | 1997 | DAEDONG, S. Korea | BC | $445/Ldt | Pakistani | incl 150 Ts bunkers |

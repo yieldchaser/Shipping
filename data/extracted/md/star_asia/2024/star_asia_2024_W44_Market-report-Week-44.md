@@ -134,18 +134,18 @@ LR: LR2s in the MEG saw significant correction following the sharp increase in t
 
 ## Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT | CURRENT LAST | WEEK | LAST | YEAR |
-| --- | --- | --- | --- | --- | --- |
-| VLCC | 310,000 | 44,750 | 47,000 | 45,750 |  |
-| SUEZMAX | 150,000 | 39,000 | 41,750 | 43,500 |  |
-| AFRAMAX | 110,000 | 37,500 | 39,000 | 41,000 |  |
-| LR1 | 74,000 | 27,500 | 27,500 | 31,750 |  |
-| MR | 47,000 | 23,750 | 26,750 Tankers S&P | 26,000 Report |  |
-| VESSEL | NAME | DWT | YEAR | BUILT |  |
-|  |  |  |  | (MILLION) | USD |
-| FOS DA VINCI FOS | / PICASSO | 115,760 | 2009 | S. KOREA |  |
-| GEOGIA M |  | 74,998 | 2007 | JAPAN |  |
-| OCTA | LUNE | 72,910 | 2005 | S. KOREA |  |
+| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 |  | 44,750 | 47,000 | 45,750 |  |
+| SUEZMAX | 150,000 |  | 39,000 | 41,750 | 43,500 |  |
+| AFRAMAX | 110,000 |  | 37,500 | 39,000 | 41,000 |  |
+| LR1 | 74,000 |  | 27,500 | 27,500 | 31,750 |  |
+| MR | 47,000 |  | 23,750 | 26,750 Tankers S&P | 26,000 Report |  |
+| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  |
+|  |  |  |  |  | (MILLION) | USD |
+| FOS DA VINCI FOS | / PICASSO | AFRA | 115,760 | 2009 | S. KOREA |  |
+| GEOGIA M |  | LR1 | 74,998 | 2007 | JAPAN |  |
+| OCTA | LUNE | LR1 | 72,910 | 2005 | S. KOREA |  |
 
 W-O-W CHANGE Y-O-Y CHANGE -4.79% -2.19% -6.59% -10.34% -3.85% -8.54% 0 -13.39% -11.21% -8.65%
 
@@ -278,21 +278,21 @@ BUNKER PRICES (USD/TON)
 
 ## Page 16
 
-| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| --- | --- | --- | --- |
-| SINGAPORE | 575 | 485 | 641 |
-| HONG KONG | 591 | 500 | 658 |
-| FUJAIRAH | 574 | 452 | 736 |
-| ROTTERDAM | 515 | 503 | 649 |
-| HOUSTON | 546 | 474 | 653 |
-|  |  |  |  |
-|  | EXCHANGE | RATES |  |
-| CURRENCY | November | October 25 | W-O-W % CHANGE |
-| USD / CNY (CHINA) | 7.12 | 7.12 | 0 |
-| USD / BDT | (BANGLADESH) 119.49 | 119.56 | +0.06% |
-| USD / INR (INDIA) | 84.08 | 84.08 | 0 |
-| USD / PKR (PAKISTAN) | 277.51 | 277.63 | +0.04% |
-| USD / TRY (TURKEY) | 34.34 | 34.29 | -0.15% |
+| PORTS | VLSFO (0.5%) |  | HSFO (3.5%) | MGO (0.1%) |
+|---|---|---|---|---|
+| SINGAPORE | 575 |  | 485 | 641 |
+| HONG KONG | 591 |  | 500 | 658 |
+| FUJAIRAH | 574 |  | 452 | 736 |
+| ROTTERDAM | 515 |  | 503 | 649 |
+| HOUSTON | 546 |  | 474 | 653 |
+|  |  |  |  |  |
+|  | EXCHANGE |  | RATES |  |
+| CURRENCY | November | 1 | October 25 | W-O-W % CHANGE |
+| USD / CNY (CHINA) | 7.12 |  | 7.12 | 0 |
+| USD / BDT | (BANGLADESH) 119.49 |  | 119.56 | +0.06% |
+| USD / INR (INDIA) | 84.08 |  | 84.08 | 0 |
+| USD / PKR (PAKISTAN) | 277.51 |  | 277.63 | +0.04% |
+| USD / TRY (TURKEY) | 34.34 |  | 34.29 | -0.15% |
 
 Sub-Continent and Turkey ferrous scrap markets insight
 
@@ -304,7 +304,9 @@ In the Sub-Continent and Turkey scrap markets, prices fell across India, Banglad
 
 remains tepid. Notable companies kept rebar prices around PKR 245,000-250,000/ton, and local steel bars, previously exempt from sales tax, saw price hikes due to intensified tax enforcement. This recovery of previously underpaid taxes is now passed on to customers as a discount.
 
-Bangladesh's imported scrap market continued to show a muted response despite price reductions by suppliers. Sellers from Singapore and Malaysia offered PNS scrap at US$420/ton for 2,000-3,000 tons loads, while Australian shredded was available at US$410/ton. Malaysia-origin HMS-1 and PNS bundles were offered at US$400-405/ton CFR Chattogram. Hong Kong-origin AB bundles were priced at US$395/ton, and Australian HMS (80:20) at US$390/ton with a dust content of 2% in 1,500 t loads. Australian HMS (90:10) was available at US$400/ton for slightly larger loads between 23-24 tons. In Turkey, imported ferrous scrap prices stayed within range following deals with US and Baltic suppliers, while LME futures rose to US$380/ton, outpacing recent spot transactions. Although Turkish mills reportedly need 32-35 vessels, demand remains lukewarm. As winter approaches, both seasonal factors and supply constraints are likely to push prices higher. According to one steel mill source, a national holiday in Turkey may result in a temporary price dip, with US-origin materials potentially reaching workable prices around US$360/ton CFR and EU-origin materials closer to US$355/ton. Another market insider highlighted oversupply from Europe as recyclers increase their cargo offerings, leading to suppressed market conditions.
+**Bangladesh's imported scrap market continued to show a muted response despite price**
+
+reductions by suppliers. Sellers from Singapore and Malaysia offered PNS scrap at US$420/ton for 2,000-3,000 tons loads, while Australian shredded was available at US$410/ton. Malaysia-origin HMS-1 and PNS bundles were offered at US$400-405/ton CFR Chattogram. Hong Kong-origin AB bundles were priced at US$395/ton, and Australian HMS (80:20) at US$390/ton with a dust content of 2% in 1,500 t loads. Australian HMS (90:10) was available at US$400/ton for slightly larger loads between 23-24 tons. In Turkey, imported ferrous scrap prices stayed within range following deals with US and Baltic suppliers, while LME futures rose to US$380/ton, outpacing recent spot transactions. Although Turkish mills reportedly need 32-35 vessels, demand remains lukewarm. As winter approaches, both seasonal factors and supply constraints are likely to push prices higher. According to one steel mill source, a national holiday in Turkey may result in a temporary price dip, with US-origin materials potentially reaching workable prices around US$360/ton CFR and EU-origin materials closer to US$355/ton. Another market insider highlighted oversupply from Europe as recyclers increase their cargo offerings, leading to suppressed market conditions.
 
 ## HMS 1/2 & Tangshan Billet
 

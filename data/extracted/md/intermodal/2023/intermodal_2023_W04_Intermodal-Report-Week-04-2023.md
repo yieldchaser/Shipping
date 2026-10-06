@@ -58,6 +58,7 @@ ISO 9001 BUREAU VERITAS Certification
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 27/01/23 WS points | 27/01/23 $/day | 20/01/23 WS points | 20/01/23 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 49 | 21,506 | 48 | 22,249 | -3.3% | 2,246 | 52,119 |
@@ -76,14 +77,14 @@ ISO 9001 BUREAU VERITAS Certification
 | Dirty | 55K | UKC-USG | 185 | 33,379 | 185 | 33,998 | -1.8% | 2,822 | 12,120 |
 |  | 55K | MED-USG | 185 | 33,040 | 185 | 33,472 | -1.3% | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 276 | 54,212 | 302 | 62,643 | -13.5% | 8,548 | 17,651 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | SEASTAR | 2012 | 112,147 dwt |  |  |
-| 12 mos | DIAMOND EXPRESS | 2009 | 45,634 dwt |  |  |
-
+| 6 mos | SEASTAR | 2012 | 112,147 dwt | $40,000/day | Safeen Feeders |
+| 12 mos | DIAMOND EXPRESS | 2009 | 45,634 dwt | $30,000/day | Chevron |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 27/Jan/22 | 0 | 100 | 100 |
@@ -99,8 +100,8 @@ ISO 9001 BUREAU VERITAS Certification
 | 27/Nov/22 | 100 | 650 | 400 |
 | 27/Dec/22 | 150 | 300 | 200 |
 | 27/Jan/23 | 120 | 180 | 180 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 27/Jan/22 | 100 | 120 | 150 | 180 |
@@ -132,8 +133,8 @@ ISO 9001 BUREAU VERITAS Certification
 |  | **52k 3yr TC** | 25,000 | 24,000 | 4.2% | **1000** | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 26,000 | 26,000 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 18,000 | 18,000 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Jan-23 avg | Dec-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 98.8 | 92.6 | 6.6% | 69.7 | 71.5 | 72.1 |
@@ -172,12 +173,13 @@ In the MR2 sector we had the sale of the "ATLANTICA BREEZE" (46,846dwt-blt '07, 
 | BHSI | 431 | $7,763 | 441 | $7,931 | -10 | -2.1% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 13 to 15 mos | LETO | 2010 | 81,297 dwt |  |  |
-| 4 to 6 mos | PANSTELLAR | 2003 | 76,602 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 13 to 15 mos | LETO | 2010 | 81,297 dwt | Dangjin 26 Jan | $14,500/day | Cargill |
+| 4 to 6 mos | PANSTELLAR | 2003 | 76,602 dwt | Singapore 20 Jan | $12,000/day | cnr |
 
 ## TC Rates
+
 | Sector | Tenor | 27/01/23 | 20/01/23 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 15,000 | 16,000 | -6.3% | -1,000 | 26,392 | 14,394 |
@@ -190,6 +192,7 @@ In the MR2 sector we had the sale of the "ATLANTICA BREEZE" (46,846dwt-blt '07, 
 |  | **32K 3yr TC** | 9,000 | 9,000 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 27/Jan/22 | 2000 | 2500 | 2200 | 1800 | 1900 |
@@ -207,6 +210,7 @@ In the MR2 sector we had the sale of the "ATLANTICA BREEZE" (46,846dwt-blt '07, 
 | 27/Jan/23 | 1800 | 2000 | 1800 | 1400 | 1700 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 27/Jan/22 | 15000 | 18000 | 17000 | 16000 |
@@ -252,6 +256,7 @@ In the Supramax sector we had the sale of the "BONITA" (58,105dwt-blt '10, China
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | AMOROZA | 159,168 | 2001 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Dec-25 | DH | excess $27.0m | undisclosed | BWTS fitted |
@@ -260,13 +265,13 @@ In the Supramax sector we had the sale of the "BONITA" (58,105dwt-blt '10, China
 | MR2 | HIGH MERCURY | 51,501 | 2008 | STX, S. Korea | MAN-B\&amp;W | Jul-23 | DH | $ 20.6m | European |  |
 | MR2 | ATLANTICA BREEZE | 46,846 | 2007 | SUNGDONG, S. Korea | MAN-B\&amp;W | Sep-27 | DH | region $ 20.0m | Indian (Gatik) | BWTS fitted |
 | MR2 | PROODOS | 47,120 | 2005 | STX, S. Korea | MAN-B\&amp;W | Jan-25 | DH | high $ 18.0m | European | BWTS fitted |
-
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUPRA | BONITA | 58,105 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Sep-25 | 4 X 30t CRANES | $ 15.8m | Greek | BWTS fitted |
-
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | SOVEREIGN MAERSK | 9,578 | 1997 | ODENSE, Denmark | B\&amp;W | Jun-27 |  | undisclosed | Swiss based (MSC) |
@@ -281,6 +286,7 @@ In the Supramax sector we had the sale of the "BONITA" (58,105dwt-blt '10, China
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 27-Jan-23 | 20-Jan-23 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -333,8 +339,8 @@ The previous week was a silent one in the newbuilding sector with not many deals
 | 27/Nov/22 | 60 | 31 | 31 | 28 |
 | 27/Dec/22 | 60 | 31 | 31 | 28 |
 | 27/Jan/23 | 60 | 31 | 31 | 28 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1+1 | Tanker | 158,000 dwt | DH Shipbuilding, China | 2025 | Greek (Enterprise Shipping and Trading) | $ 77.0m |  |
@@ -368,7 +374,6 @@ The previous week was quiet as long as tonnage supply is concerned as recyclers 
 | 27/Nov/22 | 500 | 500 | 500 | 250 |
 | 27/Dec/22 | 500 | 500 | 500 | 250 |
 | 27/Jan/23 | 550 | 550 | 550 | 280 |
-
 ## Dry Bulk Demolition Prices
 
 | Date | Bangladesh | India | Pakistan | Turkey |
@@ -386,8 +391,8 @@ The previous week was quiet as long as tonnage supply is concerned as recyclers 
 | 27/Nov/22 | 500 | 500 | 500 | 240 |
 | 27/Dec/22 | 500 | 500 | 500 | 240 |
 | 27/Jan/23 | 550 | 550 | 550 | 300 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | OKRA 1 | 171,199 | 20,737 | 1999 | KOYO MIHARA, Japan | BC | undisclosed | Indian |

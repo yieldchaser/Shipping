@@ -21,6 +21,7 @@ Concluding, the EUA outlook for the remainder of 2026 will depend largely on dev
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 28/08/2026 WS points | 28/08/2026 $/day | 21/08/2026 WS points | 21/08/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 632 | 671,967 | 575 | 604,513 | **11.2%** | 60,510 | 37,255 |
@@ -43,8 +44,8 @@ Concluding, the EUA outlook for the remainder of 2026 will depend largely on dev
 
 | 12 mos | Torm Herdis $51,500 | 2018 | 115,109 PetroChina |
 | --- | --- | --- | --- |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 31/Aug/25 | 150 | 180 | 200 |
@@ -60,8 +61,8 @@ Concluding, the EUA outlook for the remainder of 2026 will depend largely on dev
 | 30/Jun/26 | 380 | 400 | 420 |
 | 31/Jul/26 | 500 | 480 | 500 |
 | 31/Aug/26 | 580 | 460 | 550 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 31/Aug/25 | 150 | 160 | 170 | 180 |
@@ -161,6 +162,7 @@ The Aframax segment also moved lower, mainly due to subdued conditions at USG. I
 | 31/Aug/26 | 5000 | 2300 | 1200 | 800 | 4000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 31/Aug/25 | 22000 | 16000 | 15000 | 12000 |
@@ -301,8 +303,8 @@ Aliaga remains muted and little changed in the week, with the Lira continuing to
 | USD/INR | 95.38 | 95.70 | -0.33% | 96.57 |
 | USD/PKR | 277.73 | 277.75 | -0.01% | 280.05 |
 | USD/TRY | 48.24 | 48.04 | 0.42% | 47.88 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BR GLORY | 22,273 | 4,921 | 1990 | SAKI JUKOGYO, Japan | BC | $510/Ldt | Pakistani |

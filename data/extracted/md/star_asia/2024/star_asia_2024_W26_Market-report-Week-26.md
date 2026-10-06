@@ -76,24 +76,24 @@ VESSEL NAME UNTA LIVIA ROSE BBG QINZHOU ALMIRA BRIGHT HERO GENCO WARRIOR TAI HUN
 
 (in USD/day)
 
-| CURRENT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | W-O-W CHANGE | Y-O-Y CHANGE |
-| --- | --- | --- | --- | --- | --- | --- |
-| 22,000 |  | 22,500 | 15,750 | -2.22% |  | +39.68% |
-| 15,400 |  | 15,550 | 11,975 | -0.96% |  | +28.60% |
-| 15,000 |  | 15,500 | 11,150 | -3.23% |  | +34.53% |
-| 15,000 |  | 14,500 | 9,750 | -3.45% |  | +53.85% |
-|  | Dry Bulk - S&P Report |  |  |  |  |  |
-|  | DWT | YEAR | BUILT | PRICE | COMMENTS / BUYERS |  |
-|  |  |  |  |  |  |  |
-|  | 106,563 2009 |  | JAPAN | 18.5 | CHINESE BUYERS |  |
-|  | 81,828 | 2018 | CHINA | 35.6 |  | HMM |
-|  | 81,608 | 2019 | CHINA | 30.0 | CHINESE BUYERS |  |
-|  |  |  |  |  |  |  |
-|  | 61,496 | 2011 | JAPAN | 21.5 | FAR EASTERN BUYERS |  |
-|  | 55,625 | 2010 | JAPAN | 16.7 | UNDISCLOSED |  |
-|  | 55,435 2005 |  | CHINA | 12.0 | CHINESE BUYERS |  |
-|  | 55,418 | 2007 | JAPAN | 14.5 | CHINESE BUYERS |  |
-|  | 33,720 | 2005 | JAPAN | 10.75 | CHINESE BUYERS |  |
+|  | CURRENT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | W-O-W CHANGE | Y-O-Y CHANGE |
+|---|---|---|---|---|---|---|---|
+|  | 22,000 |  | 22,500 | 15,750 | -2.22% |  | +39.68% |
+|  | 15,400 |  | 15,550 | 11,975 | -0.96% |  | +28.60% |
+|  | 15,000 |  | 15,500 | 11,150 | -3.23% |  | +34.53% |
+|  | 15,000 |  | 14,500 | 9,750 | -3.45% |  | +53.85% |
+|  |  | Dry Bulk - S&P Report |  |  |  |  |  |
+| TYPE |  | DWT | YEAR | BUILT | PRICE | COMMENTS / BUYERS |  |
+| (MILLION) USD |  |  |  |  |  |  |  |
+| CAPE |  | 106,563 2009 |  | JAPAN | 18.5 | CHINESE BUYERS |  |
+| KMAX |  | 81,828 | 2018 | CHINA | 35.6 |  | HMM |
+| KMAX |  | 81,608 | 2019 | CHINA | 30.0 | CHINESE BUYERS |  |
+| (AUCTION) |  |  |  |  |  |  |  |
+| UMAX |  | 61,496 | 2011 | JAPAN | 21.5 | FAR EASTERN BUYERS |  |
+| SMAX |  | 55,625 | 2010 | JAPAN | 16.7 | UNDISCLOSED |  |
+| SMAX |  | 55,435 2005 |  | CHINA | 12.0 | CHINESE BUYERS |  |
+| SMAX |  | 55,418 | 2007 | JAPAN | 14.5 | CHINESE BUYERS |  |
+| HANDY |  | 33,720 | 2005 | JAPAN | 10.75 | CHINESE BUYERS |  |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -131,21 +131,21 @@ LR: LR2 on the MEG/Far East route continued its upward momentum from last at WS2
 
 # Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
-| --- | --- | --- | --- | --- | --- | --- |
-| VLCC | 310,000 | 47,500 | 47,500 | 38,500 | 0 | +23.38% |
-| SUEZMAX | 150,000 | 43,500 | 43,500 | 40,500 | 0 | +7.41% |
-| AFRAMAX | 110,000 | 45,000 | 47,750 | 42,500 | -5.76% | +5.88% |
-| LR1 | 74,000 | 37,000 | 37,000 | 29,250 | 0 | +26.50% |
-| MR | 47,000 | 30,250 | 30,250 Tankers S&P | 26,000 Report | 0 PRICE | +16.35% COMMENTS / |
-| VESSEL | NAME | DWT | YEAR | BUILT |  |  |
-|  |  |  |  | (MILLION) | USD | BUYERS |
-| C | PROSPERITY | 313,525 | 2009 | S. KOREA | 53.0 KYKLADES | MARITIMES |
-| FRONT | THOR | 156,719 | 2010 | CHINA | 48.0 | UNDISCLOSED |
-| DIGNITY |  | 50,392 | 2010 | CHINA | 29.0 | AERIO SHIP MANAGEMENT |
-| NEUTRON | SOUND | 49,997 | 2007 | S. KOREA | 23.0 | UNDISCLOSED |
-| FOS | ENERGY | 45,990 | 2006 | S. KOREA | 20.5 | UNDISCLOSED |
-| CSC | PROGRESS | 45,791 | 2007 | CHINA | 21.0 | UNDISCLOSED |
+| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
+|---|---|---|---|---|---|---|---|
+| VLCC | 310,000 |  | 47,500 | 47,500 | 38,500 | 0 | +23.38% |
+| SUEZMAX | 150,000 |  | 43,500 | 43,500 | 40,500 | 0 | +7.41% |
+| AFRAMAX | 110,000 |  | 45,000 | 47,750 | 42,500 | -5.76% | +5.88% |
+| LR1 | 74,000 |  | 37,000 | 37,000 | 29,250 | 0 | +26.50% |
+| MR | 47,000 |  | 30,250 | 30,250 Tankers S&P | 26,000 Report | 0 PRICE | +16.35% COMMENTS / |
+| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  |  |
+|  |  |  |  |  | (MILLION) | USD | BUYERS |
+| C | PROSPERITY | VLCC | 313,525 | 2009 | S. KOREA | 53.0 KYKLADES | MARITIMES |
+| FRONT | THOR | SUEZ | 156,719 | 2010 | CHINA | 48.0 | UNDISCLOSED |
+| DIGNITY |  | MR | 50,392 | 2010 | CHINA | 29.0 | AERIO SHIP MANAGEMENT |
+| NEUTRON | SOUND | MR | 49,997 | 2007 | S. KOREA | 23.0 | UNDISCLOSED |
+| FOS | ENERGY | MR | 45,990 | 2006 | S. KOREA | 20.5 | UNDISCLOSED |
+| CSC | PROGRESS | MR | 45,791 | 2007 | CHINA | 21.0 | UNDISCLOSED |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -342,7 +342,9 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent ferrous scrap market encountered a series of hurdles this week. In India, domestic market volatility kept demand sluggish, leading to cautious procurement and ongoing bid-offer disparities. Meanwhile, Pakistani buyers experienced a post-Eid slowdown and fund shortages, though prices are anticipated to rise as Turkey re-enters the market. In Bangladesh, uncertain freight rates and difficulties in opening Letters of Credit prompted a wait-and-watch approach amidst bearish steel demand. Conversely, Turkey saw multiple deals pushing scrap prices up, although softening rebar prices and increased freight costs tempered the outlook for a robust recovery. In India, the demand for imported scrap remained sluggish due to volatility in the domestic market. Buyers exercised caution in procuring imported scrap, with a persistent bid-offer disparity. Buyers aimed to procure at US$5-10 per ton less than the offered prices, leading to intense negotiations and few concluded deals. Indicative offers for shredded scrap from the US and the UK/Europe were heard at US$410-412 per ton CFR Nhava Sheva, while buyers' bids were at USD$405-408 per ton CFR. Offers for HMS (80:20) from West Africa and the UK/Europe were heard at US$385-390 per ton CFR.
 
-Pakistan's market was muted due to a slowdown in the domestic steel market, which has not fully resumed post-Eid. Normalcy is expected to return next Monday, but overall industry production is still at 30-40%. The market is under pressure as sales remain inactive due to fund shortages. Current UK/Europe offers for shredded scrap hover at US$420-422 per ton CFR Qasim. In Bangladesh, the imported scrap market remained in a wait-and-watch mode due to bearish steel demand. Participants dealing with containerised scrap experienced uncertain freight rates, with a negotiable price range varying from US$395-410 per ton for HMS from the US and Australia. A bulk deal from the US was heard but is yet to be confirmed. Buyers are also facing challenges in opening LCs, adding to market uncertainty. Globally, the market expects a quiet week with nominal bookings. Some suppliers warn of declining scrap flow issues during the summer, while others anticipate a temporary rebound as Turkish scrap bookings have resumed in bulk, which will temporarily support prices. The Turkish imported ferrous scrap market saw multiple deals from the US and Europe, pushing prices up as mills returned after a quiet holiday week. However, softening rebar prices and increased freight costs have tempered expectations of a strong recovery.
+**Pakistan's market was muted due to a slowdown in the domestic steel market, which**
+
+has not fully resumed post-Eid. Normalcy is expected to return next Monday, but overall industry production is still at 30-40%. The market is under pressure as sales remain inactive due to fund shortages. Current UK/Europe offers for shredded scrap hover at US$420-422 per ton CFR Qasim. In Bangladesh, the imported scrap market remained in a wait-and-watch mode due to bearish steel demand. Participants dealing with containerised scrap experienced uncertain freight rates, with a negotiable price range varying from US$395-410 per ton for HMS from the US and Australia. A bulk deal from the US was heard but is yet to be confirmed. Buyers are also facing challenges in opening LCs, adding to market uncertainty. Globally, the market expects a quiet week with nominal bookings. Some suppliers warn of declining scrap flow issues during the summer, while others anticipate a temporary rebound as Turkish scrap bookings have resumed in bulk, which will temporarily support prices. The Turkish imported ferrous scrap market saw multiple deals from the US and Europe, pushing prices up as mills returned after a quiet holiday week. However, softening rebar prices and increased freight costs have tempered expectations of a strong recovery.
 
 ## Shipbroking (www.star-asia.com.sg)
 

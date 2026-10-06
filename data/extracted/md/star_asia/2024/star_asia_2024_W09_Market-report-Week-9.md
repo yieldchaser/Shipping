@@ -70,25 +70,25 @@ The Atlantic is experiencing a deepening supply imbalance due to sustained weak 
 
 ## Bulker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT | CURRENT LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
-| --- | --- | --- | --- | --- | --- | --- |
-| CAPESIZE | 180,000 | 28,750 | 25,000 | 17,250 | +15.00% | +66.67% |
-| PANAMAX | 75,000 | 16,500 | 14,750 | 15,250 | +11.86% | +8.20% |
-| SUPRAMAX | 58,000 | 15,500 | 15,000 | 15,750 | +3.33% | -1.59% |
-| HANDYSIZE | 38,000 | 14,000 Dry | 13,500 Bulk - | 12,500 S&P Report | +3.70% PRICE | +12.00% |
-| VESSEL | NAME | DWT | YEAR | BUILT | COMMENTS (MILLION) USD | / BUYERS |
-| PACIFIC | ASSURANCE | 207,842 | 2014 | JAPAN | 49.0 | EUROPEAN BUYERS |
-| TRUE | CARTIER | 181,513 | 2014 | JAPAN | 40.9 | OLDENDORFF |
-| HOUSTAN |  | 177,729 | 2009 | CHINA | 23.0 | PACIFIC BULK |
-| MINERAL | GENT | 175,181 | 2011 | CHINA | 26.0 | GREEK BUYERS |
-| CMB | POMEROL | 95,731 | 2012 | CHINA | 21.0 | SAMOS ENERGY |
-| THE | PROSPERITY | 81,922 | 2017 | JAPAN | 31.5 | EUROPEAN BUYERS |
-| ZHONG XIN | PEARL | 75,321 | 2013 | CHINA | 17.0 | CHINESE BUYERS |
-| ANGELINA |  | 75,540 | 2001 | S. KOREA | 7.0 | CHINESE BUYERS |
-| PACIFIC | INTEGRITY | 56,100 | 2013 | JAPAN | 20.0 | GREEK BUYERS |
-| MELIA 1 |  | 55,612 | 2011 | JAPAN | 17.0 | GREEK BUYERS |
-| SSI | AVENGER | 52,949 | 2004 | JAPAN | 10.5 | UNDISCLOSED |
-| LUCKY | GLORY | 32,256 | 2007 | JAPAN | 10.5 | UNDISCLOSED |
+| TYPE | DWT |  | CURRENT LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
+|---|---|---|---|---|---|---|---|
+| CAPESIZE | 180,000 |  | 28,750 | 25,000 | 17,250 | +15.00% | +66.67% |
+| PANAMAX | 75,000 |  | 16,500 | 14,750 | 15,250 | +11.86% | +8.20% |
+| SUPRAMAX | 58,000 |  | 15,500 | 15,000 | 15,750 | +3.33% | -1.59% |
+| HANDYSIZE | 38,000 |  | 14,000 Dry | 13,500 Bulk - | 12,500 S&P Report | +3.70% PRICE | +12.00% |
+| VESSEL | NAME | TYPE | DWT | YEAR | BUILT | COMMENTS (MILLION) USD | / BUYERS |
+| PACIFIC | ASSURANCE | VLOC | 207,842 | 2014 | JAPAN | 49.0 | EUROPEAN BUYERS |
+| TRUE | CARTIER | CAPE | 181,513 | 2014 | JAPAN | 40.9 | OLDENDORFF |
+| HOUSTAN |  | CAPE | 177,729 | 2009 | CHINA | 23.0 | PACIFIC BULK |
+| MINERAL | GENT | CAPE | 175,181 | 2011 | CHINA | 26.0 | GREEK BUYERS |
+| CMB | POMEROL | POST PMAX | 95,731 | 2012 | CHINA | 21.0 | SAMOS ENERGY |
+| THE | PROSPERITY | KMAX | 81,922 | 2017 | JAPAN | 31.5 | EUROPEAN BUYERS |
+| ZHONG XIN | PEARL | PMAX | 75,321 | 2013 | CHINA | 17.0 | CHINESE BUYERS |
+| ANGELINA |  | PMAX | 75,540 | 2001 | S. KOREA | 7.0 | CHINESE BUYERS |
+| PACIFIC | INTEGRITY | SMAX | 56,100 | 2013 | JAPAN | 20.0 | GREEK BUYERS |
+| MELIA 1 |  | SMAX | 55,612 | 2011 | JAPAN | 17.0 | GREEK BUYERS |
+| SSI | AVENGER | SMAX | 52,949 | 2004 | JAPAN | 10.5 | UNDISCLOSED |
+| LUCKY | GLORY | HANDY | 32,256 | 2007 | JAPAN | 10.5 | UNDISCLOSED |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -305,9 +305,13 @@ This week, the ferrous scrap market in South Asia experienced a decline in price
 
 In India, the imported scrap market was quiet, with buyers showing little interest and suppliers turning their attention to Pakistan and Bangladesh, where buying activity was more robust. Prices for shredded scrap ranged from USD410-415 /ton CFR from Europe and USD405-410 /ton CFR from the US, with HMS (80:20) priced at USD385-390 /ton CFR.
 
-Pakistani steel mills, despite a slow domestic rebar market, continued to purchase imported scrap at discounted rates, preparing for Ramadan. Offers for shredded scrap from the UK/Europe were around USD 425-430/ ton CFR.
+**Pakistani steel mills, despite a slow domestic rebar market, continued to purchase**
 
-Bangladeshi mills, taking advantage of the recent dip in prices and anticipating the peak construction season post-Ramadan, increased their procurement of deep-sea scrap. This strategic stockpiling aims to satisfy immediate needs and upcoming high demand. Bulk deals from the US West Coast were reported at USD410 /ton CFR, with April deliveries in focus to meet the expected rise in steel demand. Challenges in securing letters of credit persist, affecting the sector's efficiency. In Turkey, the prices of imported ferrous scrap remained steady at USD 395 /ton CFR amid cautious trading. Slow rebar sales and difficulties in obtaining scrap at lower prices contributed to the market's uncertainty. The outlook for European prices was unclear, with expectations of local drops in US domestic scrap prices and slight decreases in export grades due to solid demand from rebar mills. The market is watching closely, with some traders predicting a possible decrease in Turkish scrap prices to USD385 /ton CFR in the near future, though the exact direction remains to be seen.
+imported scrap at discounted rates, preparing for Ramadan. Offers for shredded scrap from the UK/Europe were around USD 425-430/ ton CFR.
+
+**Bangladeshi mills, taking advantage of the recent dip in prices and anticipating the**
+
+peak construction season post-Ramadan, increased their procurement of deep-sea scrap. This strategic stockpiling aims to satisfy immediate needs and upcoming high demand. Bulk deals from the US West Coast were reported at USD410 /ton CFR, with April deliveries in focus to meet the expected rise in steel demand. Challenges in securing letters of credit persist, affecting the sector's efficiency. In Turkey, the prices of imported ferrous scrap remained steady at USD 395 /ton CFR amid cautious trading. Slow rebar sales and difficulties in obtaining scrap at lower prices contributed to the market's uncertainty. The outlook for European prices was unclear, with expectations of local drops in US domestic scrap prices and slight decreases in export grades due to solid demand from rebar mills. The market is watching closely, with some traders predicting a possible decrease in Turkish scrap prices to USD385 /ton CFR in the near future, though the exact direction remains to be seen.
 
 ## HMS 1/2 & Tangshan Billet
 

@@ -77,6 +77,7 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 31/03/23 WS points | 31/03/23 $/day | 24/03/23 WS points | 24/03/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 91 | 71,311 | 92 | 87,023 | -18.1% | 20,330 | 2,246 |
@@ -95,14 +96,14 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 205 | 42,780 | 205 | 43,321 | -1.2% | 19,982 | 2,822 |
 |  | 55K | MED-USG | 205 | 42,379 | 205 | 42,792 | -1.0% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 356 | 80,935 | 389 | 90,874 | -10.9% | 40,364 | 8,548 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 48 mos | STELLATA | 2016 | 110,000 dwt |  |  |
-| 48 mos | PACIFIC ANNA | 2017 | 110,000 dwt |  |  |
-
+| 48 mos | STELLATA | 2016 | 110,000 dwt | $42,000/day | ST Shipping |
+| 48 mos | PACIFIC ANNA | 2017 | 110,000 dwt | $45,000/day | Clearlake |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 31/Mar/22 | 0 | 150 | 250 |
@@ -117,8 +118,8 @@ Shanghai 200122 China
 | 31/Jan/23 | 50 | 200 | 150 |
 | 28/Feb/23 | 50 | 200 | 300 |
 | 31/Mar/23 | 50 | 200 | 300 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 31/Mar/22 | 100 | 250 | 300 | 400 |
@@ -149,8 +150,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 25,500 | 25,500 | 0.0% | 0 | 16,426 | 13,804 |
 | Handy | **36k 1yr TC** | 27,000 | 27,000 | 0.0% | 0 | 18,601 | 11,292 |
 |  | **36k 3yr TC** | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Mar-23 avg | Feb-23 avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300KT DH** | 99.0 | 99.0 | 0.0% | 80.2 | 69.7 | 71.5 |
@@ -179,6 +180,7 @@ In the MR2 sector we had the sale of the “CELIUS RANDERS” (46,046dwt-blt '10
 
 # Intermodal Dry Bulk Market
 ## Baltic Indices
+
 | Index Name | 31/03/23 Index | 31/03/23 $/day | 24/03/23 Index | 24/03/23 $/day | Point Diff | $/day ±% | 2022 Index | 2021 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 1,389 |  | 1,489 |  | -100 |  | 1,931 | 2,921 |
@@ -186,8 +188,8 @@ In the MR2 sector we had the sale of the “CELIUS RANDERS” (46,046dwt-blt '10
 | BPI | 1,635 | $14,718 | 1,572 | $14,149 | **63** | **4.0%** | 2,298 | 2,972 |
 | BSI | 1,198 | $13,175 | 1,332 | $14,657 | -134 | -10.1% | 2,006 | 2,424 |
 | BHSI | 687 | $12,358 | 703 | $12,652 | -16 | -2.3% | 1,181 | 1,424 |
-
 ## TC Rates
+
 | Sector | Tenor | 31/03/23 | 24/03/23 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | 180K 1yr TC | 19,250 | 17,250 | 11.6% | 2,000 | 21,394 | 26,392 |
@@ -198,13 +200,13 @@ In the MR2 sector we had the sale of the “CELIUS RANDERS” (46,046dwt-blt '10
 |  | 58K 3yr TC | 13,500 | 13,500 | 0.0% | 0 | 15,005 | 14,552 |
 | Handysize | 32K 1yr TC | 12,500 | 12,750 | -2.0% | -250 | 17,827 | 18,354 |
 |  | 32K 3yr TC | 10,500 | 10,500 | 0.0% | 0 | 12,322 | 11,825 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 8-10 mos | South China beg April | 12 mos NAVIOS LUMEN 2009 180,661 dwt | Yosu 1 Apr index linked basis 107% BCICostamare |  |  |
-
+| 8-10 mos | South China beg April | 12 mos NAVIOS LUMEN 2009 180,661 dwt | Yosu 1 Apr index linked basis 107% BCICostamare | $17,000/day |  |
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 31/Mar/22 | 2800 | 2600 | 2700 | 1800 | 2900 |
@@ -220,8 +222,8 @@ In the MR2 sector we had the sale of the “CELIUS RANDERS” (46,046dwt-blt '10
 | 31/Jan/23 | 1400 | 1300 | 1400 | 1400 | 1500 |
 | 28/Feb/23 | 1300 | 1200 | 1300 | 1300 | 1400 |
 | 31/Mar/23 | 1500 | 1400 | 1500 | 1500 | 1600 |
-
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 31/Mar/22 | 15000 | 28000 | 27000 | 16000 |
@@ -268,6 +270,7 @@ In the Supramax sector we had the sale of the "SUPER ODEGAARD" (55,628dwt-blt '1
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | NECTAR SEA | 105,370 | 2008 | SUMITOMO, Japan | MAN-B\&amp;W | Jun-23 | DH | $ 37.0m | undisclosed | scrubber fitted |
@@ -290,6 +293,7 @@ In the Supramax sector we had the sale of the "SUPER ODEGAARD" (55,628dwt-blt '1
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | ROSEBANK | 177,029 | 2010 | NEW TIMES, China | MAN-B\&amp;W | Aug-25 |  | rgn $ 23.0m | undisclosed | BWTS fitted |
@@ -302,8 +306,8 @@ In the Supramax sector we had the sale of the "SUPER ODEGAARD" (55,628dwt-blt '1
 | HANDY | TAIZHOU PIONEER | 32,453 | 2011 | TAIZHOU MAPLE, China | MAN-B\&amp;W | Sep-26 | 4 X 30t CRANES | $ 11.8m | Greek | BWTS fitted |
 | HANDY | EN OCEAN | 27,865 | 1997 | KANASASHI, Japan | Mitsubishi | Dec-27 | 4 X 30,5t CRANES | $ 4.5m | undisclosed | Ldt: 6.070 |
 | HANDY | MP ATLANTIC | 22,035 | 1994 | SAIKI, Japan | Mitsubishi | Jul-26 | 4 X 30t CRANES | mid $ 3.0m | undisclosed | BWTS fitted, bss delivery end April 2023, Ldt: 5.238 |
-
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | AMOLIANI | 6,881 | 2013 | HYUNDAI SAMHO, S. Korea | Wartsila | Jan-23 |  | xs $ 61.0m | French (CMA CGM) |  |
@@ -316,6 +320,7 @@ In the Supramax sector we had the sale of the "SUPER ODEGAARD" (55,628dwt-blt '1
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 31-Mar-23 | 24-Mar-23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -394,6 +399,7 @@ The previous week was arguably the strongest one since the beginning of the year
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 31/03/23 | 24/03/23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -406,8 +412,8 @@ The previous week was arguably the strongest one since the beginning of the year
 | India | 555 | 555 | 0.0% | 583 | 508 | 335 |
 | Pakistan | 535 | 535 | 0.0% | 587 | 526 | 338 |
 | Turkey | 330 | 330 | 0.0% | 304 | 276 | 198 |
-
 ## Currencies
+
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 107.20 | 105.05 | 2.0% | 107.35 |
@@ -448,8 +454,8 @@ Fundamentals continue to drive the recycling market with only one small vessel s
 | 31/Jan/23 | 590 | 590 | 590 | 300 |
 | 28/Feb/23 | 610 | 600 | 590 | 320 |
 | 31/Mar/23 | 620 | 590 | 580 | 330 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SHANG HANG 68 | 22,928 | 7,379 | 1998 | DALIAN, China | GENERAL CARGO | undisclosed | undisclosed | "as-is" China |

@@ -342,7 +342,9 @@ The Sub-Continent ferrous scrap market saw subdued activity this week, with weak
 
 performance in the automotive and construction industries. Ongoing rains in several states further impeded recovery. Market insiders indicated that regional rebar price fluctuations offered no signs of long-term improvement. Buyers bid US$360/ton for HMS from Africa, while sellers held firm at US$365-368/ton, creating a bid-offer disparity. Offers for shredded scrap from the UK and EU were quoted at US$384-385/ton, and HMS at US$362-364/ton CFR West Coast India. A UK-based supplier remarked that "UK scrap export prices are unlikely to rise before Christmas," citing lackluster demand from Asian buyers.
 
-Pakistan's imported scrap market remained quiet, though buying activity picked up slightly in preparation for the December holidays. Suppliers quoted $390/t for UK/EUorigin scrap, with deals concluded at US$388-389/ton for 10,000-12,000 t this week. Locally sourced scrap prices remain higher by PKR 1,000-2,000/t (US$4-7/ton), driving mills to prefer imports during the restocking season.
+**Pakistan's imported scrap market remained quiet, though buying activity picked up**
+
+slightly in preparation for the December holidays. Suppliers quoted $390/t for UK/EUorigin scrap, with deals concluded at US$388-389/ton for 10,000-12,000 t this week. Locally sourced scrap prices remain higher by PKR 1,000-2,000/t (US$4-7/ton), driving mills to prefer imports during the restocking season.
 
 ### Bangladesh's imported scrap market remained sluggish, impacted by limited buyer
 
@@ -358,7 +360,9 @@ The Turkish imported ferrous scrap market remained stable day-on-day, with US-or
 
 ## Commodities
 
-Iron ore futures gained ground for the third consecutive session on Wednesday, buoyed by robust steel production despite China's mixed economic signals. The January iron ore contract on China's Dalian Commodity Exchange rose 1.08% to close at 792.0 yuan (US$109.19) per metric ton during daytime trading, while Singapore Exchange's December benchmark climbed 1.11% to US$103.7/ton. However, the market faces headwinds from broader economic challenges in China, the world's leading steel producer and consumer. Recent data reveals continued pressure on industrial profits, while consumer prices hit a four-month low. The property sector remains particularly vulnerable, with October's new home prices recording their steepest decline in nine years. Adding to market uncertainty, industrial output continues its downward trajectory.
+**Iron ore futures gained ground for the third consecutive session on Wednesday, buoyed**
+
+by robust steel production despite China's mixed economic signals. The January iron ore contract on China's Dalian Commodity Exchange rose 1.08% to close at 792.0 yuan (US$109.19) per metric ton during daytime trading, while Singapore Exchange's December benchmark climbed 1.11% to US$103.7/ton. However, the market faces headwinds from broader economic challenges in China, the world's leading steel producer and consumer. Recent data reveals continued pressure on industrial profits, while consumer prices hit a four-month low. The property sector remains particularly vulnerable, with October's new home prices recording their steepest decline in nine years. Adding to market uncertainty, industrial output continues its downward trajectory.
 
 ### Shipbroking (www.star-asia.com.sg)
 

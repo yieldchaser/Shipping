@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Yiannis Parganas, Head of Research Department**
 
@@ -21,6 +23,7 @@ For dry bulk shipping, this means lower cargo volumes on key China-linked routes
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 11/07/2025 WS points | 11/07/2025 $/day | 04/07/2025 WS points | 04/07/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 50 | 31,314 | 48 | 28,705 | 9.1% | 37,255 | 39,466 |
@@ -42,9 +45,9 @@ For dry bulk shipping, this means lower cargo volumes on key China-linked routes
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | Sea Cougar | 2019 | 49,910 dwt |  |  |
-
+| 12 mos | Sea Cougar | 2019 | 49,910 dwt | $21,500/day | Stena Bulk |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 11/Jul/24 | 50 | 90 | 220 |
@@ -60,8 +63,8 @@ For dry bulk shipping, this means lower cargo volumes on key China-linked routes
 | 11/May/25 | 50 | 110 | 160 |
 | 11/Jun/25 | 50 | 100 | 140 |
 | 11/Jul/25 | 50 | 100 | 130 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 11/Jul/24 | 160 | 160 | 240 | 120 |
@@ -123,7 +126,7 @@ With the exception of the VLCC segment, crude tanker markets maintained a genera
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 3 to 5 mos | Shandong Fu Yuan | 2018 | 81,781 dwt |  |  |
+| 3 to 5 mos | Shandong Fu Yuan | 2018 | 81,781 dwt | $13,500/day | Reachy |
 
 ## TC Rates
 | Sector | Tenor | 11/07/2025 | 04/07/2025 | ±% | Diff | 2024 | 2023 |
@@ -138,6 +141,7 @@ With the exception of the VLCC segment, crude tanker markets maintained a genera
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 11/Jul/24 | 3200 | 1600 | 1200 | 800 | 1800 |
@@ -155,6 +159,7 @@ With the exception of the VLCC segment, crude tanker markets maintained a genera
 | 11/Jul/25 | 2000 | 1500 | 1600 | 800 | 1700 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 11/Jul/24 | 26000 | 15000 | 14000 | 13000 |
@@ -298,6 +303,7 @@ The Turkish market continues to mirror the subdued tone of previous weeks, with 
 | USD/TRY | 40.18 | 39.85 | 0.8% | 40.18 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HYUNDAI COSMOPIA | 77,591 | 34,040 | 2000 | HYUNDAI, S. Korea | GAS TANKER | $580/Ldt | undisclosed | as is Indonesia, incl ROB and 3000mt of aluminum |

@@ -42,20 +42,20 @@ The subdued atmosphere continues due to weak demand in South America, but improv
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| --- | --- | --- | --- | --- | --- | --- |
-| BDI | 2,495 | 3,192 | 1,386 | -21.84% |  | +80.01% |
-| BCI | 4,203 | 6,237 | 1,683 | -32.61% |  | +149.73% |
-| BPI | 2,197 | 2,341 | 1,659 | -6.15% |  | +32.43% |
-| BSI | 1,538 | 1,489 | 1,152 | +3.29% |  | +33.51% |
-| BHSI | 862 | 773 | 732 | +11.51% |  | +17.76% |
-|  |  | Dry | Values (Weekly) |  |  |  |
-| TYPE | DWT | CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 | YEARS 15 YEARS |
-| CAPE | 180,000 | 66 | 67 | 51 | 31 | 14 |
-| KAMSARMAX | 82,000 | 35 | 39 | 33 | 23 | 8 |
-| SUPRAMAX | 56,000 | 33 | 36 | 30 | 19 | 7 |
-| HANDY | 38,000 | 30 | 33 | 26 | 17 | 6 |
-| *(amount in USD | million) |  |  |  |  |  |
+| INDICES | CURRENT |  | LAST WEEK |  | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+|---|---|---|---|---|---|---|---|---|
+| BDI | 2,495 |  | 3,192 |  | 1,386 | -21.84% |  | +80.01% |
+| BCI | 4,203 |  | 6,237 |  | 1,683 | -32.61% |  | +149.73% |
+| BPI | 2,197 |  | 2,341 |  | 1,659 | -6.15% |  | +32.43% |
+| BSI | 1,538 |  | 1,489 |  | 1,152 | +3.29% |  | +33.51% |
+| BHSI | 862 |  | 773 |  | 732 | +11.51% |  | +17.76% |
+|  |  |  | Dry | Bulk | Values (Weekly) |  |  |  |
+| TYPE | DWT | NB | CONTRACT |  | NB PROMPT DELIVERY | 5 YEARS | 10 | YEARS 15 YEARS |
+| CAPE | 180,000 |  | 66 |  | 67 | 51 | 31 | 14 |
+| KAMSARMAX | 82,000 |  | 35 |  | 39 | 33 | 23 | 8 |
+| SUPRAMAX | 56,000 |  | 33 |  | 36 | 30 | 19 | 7 |
+| HANDY | 38,000 |  | 30 |  | 33 | 26 | 17 | 6 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
 
 ### Star Asia Shipbroking (www.star-asia.com.sg)
 
@@ -119,19 +119,19 @@ LR: In the MEG, LR2 activity increased, leading to optimistic freight resurgence
 
 ## Tankers S&P Report
 
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| HARAD | VLCC | 303,115 | 2001 | S. KOREA |
-| JESSICA D | VLCC | 300,976 | 2004 | JAPAN |
-| NOBLEWAY | SUEZ | 164,028 | 2010 | CHINA |
-| TORM KANSAS | MR | 46,922 | 2006 | S. KOREA |
-| BDP SPIRIT | PROD / CHEM | 15,202 | 2009 | TURKEY |
-| TARRANT | PROD / CHEM | 13,211 | 2008 | S. KOREA |
-|  |  | Baltic | Exchange | Tanker |
-| INDICES | CURRENT | LAST | WEEK LAST | YEAR |
-| BDTI | 1,145 | 1,172 |  | 2,110 |
-| BCTI | 856 | 833 |  | 1,835 |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | (MILLION) USD |
+| HARAD | VLCC | 303,115 | 2001 | S. KOREA |  |
+| JESSICA D | VLCC | 300,976 | 2004 | JAPAN |  |
+| NOBLEWAY | SUEZ | 164,028 | 2010 | CHINA |  |
+| TORM KANSAS | MR | 46,922 | 2006 | S. KOREA |  |
+| BDP SPIRIT | PROD / CHEM | 15,202 | 2009 | TURKEY |  |
+| TARRANT | PROD / CHEM | 13,211 | 2008 | S. KOREA |  |
+|  |  | Baltic | Exchange | Tanker | Indices |
+| INDICES | CURRENT | LAST | WEEK LAST | YEAR | W-O-W CHANGE |
+| BDTI | 1,145 | 1,172 |  | 2,110 |  |
+| BCTI | 856 | 833 |  | 1,835 |  |
 
 ### Star Asia Shipbroking (www.star-asia.com.sg)
 

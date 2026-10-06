@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 *By Nikos Tagoulis, Senior Analyst*
 
@@ -32,6 +34,7 @@ Focusing to the US shipbuilding, the orderbook is a small fraction of the total,
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 07/03/25 WS points | 07/03/25 $/day | 28/02/25 WS points | 28/02/25 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 58 | 40,978 | 59 | 40,216 | 1.9% | 37,255 | 39,466 |
@@ -51,6 +54,7 @@ Focusing to the US shipbuilding, the orderbook is a small fraction of the total,
 |  | 50k | ARA-UKC | 176 | 23,025 | 199 | 29,831 | -22.8% | 26,872 | 46,194 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 7/Mar/24 | 80 | 120 | 160 |
@@ -66,8 +70,8 @@ Focusing to the US shipbuilding, the orderbook is a small fraction of the total,
 | 7/Jan/25 | 30 | 170 | 110 |
 | 7/Feb/25 | 25 | 175 | 105 |
 | 7/Mar/25 | 20 | 180 | 100 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 7/Mar/24 | 300 | 250 | 200 | 150 |
@@ -133,10 +137,10 @@ Suezmax TCE earnings averaged \$36,978/day, down by -5.02% w-o-w. Aframax TCE ea
 | BHSI | 556 | $10,003 | 547 | $9,844 | **9** | **1.6%** | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | Pescadores | 2012 | 82,230 dwt |  |  |
-| 5 to 7 mos | Evmar | 2016 | 82,039 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | Pescadores | 2012 | 82,230 dwt | Zhoushan 12 Mar red worldwide | $12,500/day | Olam |
+| 5 to 7 mos | Evmar | 2016 | 82,039 dwt | CJK 13 Mar red worldwide | $14,750/day | Olam |
 
 ## TC Rates
 | Sector | Tenor | 07/03/2025 | 28/02/2025 | ±% | Diff | 2024 | 2023 |
@@ -151,6 +155,7 @@ Suezmax TCE earnings averaged \$36,978/day, down by -5.02% w-o-w. Aframax TCE ea
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 7/Mar/24 | 4000 | 2000 | 1500 | 1000 | 2000 |
@@ -168,6 +173,7 @@ Suezmax TCE earnings averaged \$36,978/day, down by -5.02% w-o-w. Aframax TCE ea
 | 7/Mar/25 | 2200 | 1350 | 950 | 450 | 1350 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 7/Mar/24 | 35000 | 18000 | 12000 | 8000 |
@@ -209,6 +215,7 @@ Supramax 10TC averaged \$ 8,988/day down -3.88% w-o-w, while the Handysize 7TC a
 # Secondhand Sales
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR1 | VALLE DI CORDOBA | 40,218 | 2005 | HYUNDAI MIPO, S. Korea | B\&amp;W | Apr-25 | DH | excess $ 12,5m | undisclosed |  |
@@ -292,6 +299,7 @@ In Turkey, the ship recycling market remained flat, without any notable shifts, 
 | USD/TRY | 36.49 | 36.39 | 0.3% | 36.49 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | SEA WISE | 23,825 | 5,533 | 1995 | NAIKAI ZOSEN, Japan | BC | $ 420/Ldt | Bangladeshi |

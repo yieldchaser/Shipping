@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Fotis Kanatas, Research Analyst**
 
@@ -17,6 +19,7 @@ In conclusion, China's stockpiling and reduced refinery activity means there is 
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 19/07/24 WS points | 19/07/24 $/day | 12/07/24 WS points | 12/07/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 54 | 31,789 | 47 | 24,640 | 29.0% | 39,466 | 20,330 |
@@ -36,10 +39,10 @@ In conclusion, China's stockpiling and reduced refinery activity means there is 
 |  | 50k | ARA-UKC | 191 | 22,800 | 171 | 17,036 | 33.8% | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6 mos | HAFNIA ANE | 2015 | 49,999 dwt |  |  |
-| 12 mos | FPMC 32 | 2019 | 49,660 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 mos | HAFNIA ANE | 2015 | 49,999 dwt | DEL EAST JUL/24 | $34,000/day | Weco Tankers |
+| 12 mos | FPMC 32 | 2019 | 49,660 dwt | DEL EAST JUL/24 | $33,500/day | ST Shipping |
 
 ## TC Rates
 | Sector | Tenor | 19/07/24 | 12/07/24 | ±% | Diff | 2023 | 2022 |
@@ -92,10 +95,10 @@ In the clean market, LR2 rates in the MEG market fell, with TC1 (MEG/Japan) at W
 | BHSI | 752 | $13,543 | 741 | $13,339 | **11** | **1.5%** | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6/8 mos | RG RHA |  |  |  |  |
-| 5/7 mos | SSI EXCELLENT | 2016 |  |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6/8 mos | RG RHA |  |  | dely Zhoushan 18/20 Jul redel worldwide | $17,500/day | WBC |
+| 5/7 mos | SSI EXCELLENT | 2016 |  | dely Lanshan 18/20 Jul redel worldwide | $15,750/day | Klaveness |
 
 ## TC Rates
 | Sector | Tenor | 19/07/24 | 12/07/24 | ±% | Diff | 2023 | 2022 |
@@ -110,6 +113,7 @@ In the clean market, LR2 rates in the MEG market fell, with TC1 (MEG/Japan) at W
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 19/Jul/23 | 1800 | 1500 | 1200 | 800 | 1400 |
@@ -127,6 +131,7 @@ In the clean market, LR2 rates in the MEG market fell, with TC1 (MEG/Japan) at W
 | 19/Jul/24 | 3000 | 2000 | 1600 | 900 | 1900 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 19/Jul/23 | 12000 | 14000 | 10000 | 8000 |
@@ -205,6 +210,7 @@ A robust week for newbuilding orders saw a total of 19 firm vessels being commis
 |  | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
 
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 7yr | TC to BGN |  |  |  |  |
@@ -238,6 +244,7 @@ The demolition market remained subdued this past week, impacted by strong freigh
 | USD/TRY | 32.80 | 33.02 | -0.7% | 33.02 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MSC IRIS | 21,370 | 10,655 | 1982 | WARNOWWERFT, Germany | CONTAINER | $ 526.0m | Indian | Green recycling |

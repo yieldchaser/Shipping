@@ -104,29 +104,29 @@ levels soared to US$ 15,250's region at closing.
 
 # Dry Bulk - S&P Report
 
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS | / BUYERS |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | (MILLION) USD |  |  |
-| XYG FORTUNE | CAPE | 176,955 | 2006 | JAPAN | 20.8 |  | FRANBO |
-| SUNNY SAILOR | POST-PMAX | 91,443 | 2000 | JAPAN | 9.8 | CHINESE | BUYERS |
-| CORAL EMERALD | PMAX | 75,632 | 2007 | JAPAN | 14.5 |  | UNDISCLOSED |
-| MEDI BANGKOK | SUPRAMAX | 53,466 | 2006 | JAPAN | 17.0 |  | UNDISCLOSED |
-| LIAN XIN | SUPRAMAX | 52,512 | 2002 | JAPAN | 11.3 |  | UNDISCLOSED |
-| MAPLE AMBITION | HANDY | 35,513 Dry | 2015 Bulk (Weekly) | CHINA Values | 16.5 | CHINESE | BUYERS |
-| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
-| CAPE | 180,000 | 64 |  | 57 | 40 | 30 | 13 |
-| KAMSARMAX | 82,000 | 37 |  | 37 | 31 | 22 | 12 |
-| SUPRAMAX | 56,000 | 34 |  | 36 | 29 | 21 | 10 |
-| HANDY | 38,000 | 30 |  | 31 | 26 | 18 | 6 |
-| *(Amount in USD million) |  |  |  |  |  |  |  |
-|  | Baltic | Exchange |  | Dry | Indices |  |  |
-|  |  | BALTIC EXCHANGE |  | DRY BULK | INDICES |  |  |
-|  | CURRENT LAST | WEEK | LAST | YEAR | W-O-W CHANGE | % Y-O-Y | CHANGE % |
-| BDI | 1,816 | 1,553 |  | 4,644 | +16.93 |  | -60.90 |
-| BCI | 2,206 | 1,519 |  | 7,393 | +45.23 |  | -70.16 |
-| BPI | 1,995 | 1,990 |  | 4,012 | +0.25 |  | -50.27 |
-| BSI | 1,652 | 1,551 |  | 3,359 | +6.51 |  | -50.82 |
-| BHSI | 966 | 905 |  | 1,925 | +6.74 |  | -49.82 |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  | PRICE | COMMENTS | / BUYERS |
+|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  | (MILLION) USD |  |  |
+| XYG FORTUNE | CAPE | 176,955 | 2006 | JAPAN |  | 20.8 |  | FRANBO |
+| SUNNY SAILOR | POST-PMAX | 91,443 | 2000 | JAPAN |  | 9.8 | CHINESE | BUYERS |
+| CORAL EMERALD | PMAX | 75,632 | 2007 | JAPAN |  | 14.5 |  | UNDISCLOSED |
+| MEDI BANGKOK | SUPRAMAX | 53,466 | 2006 | JAPAN |  | 17.0 |  | UNDISCLOSED |
+| LIAN XIN | SUPRAMAX | 52,512 | 2002 | JAPAN |  | 11.3 |  | UNDISCLOSED |
+| MAPLE AMBITION | HANDY | 35,513 Dry | 2015 Bulk (Weekly) | CHINA Values |  | 16.5 | CHINESE | BUYERS |
+| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY |  | 5 YEARS | 10 YEARS | 20 YEARS |
+| CAPE | 180,000 | 64 |  | 57 |  | 40 | 30 | 13 |
+| KAMSARMAX | 82,000 | 37 |  | 37 |  | 31 | 22 | 12 |
+| SUPRAMAX | 56,000 | 34 |  | 36 |  | 29 | 21 | 10 |
+| HANDY | 38,000 | 30 |  | 31 |  | 26 | 18 | 6 |
+| *(Amount in USD million) |  |  |  |  |  |  |  |  |
+|  | Baltic | Exchange |  | Dry | Bulk | Indices |  |  |
+|  |  | BALTIC EXCHANGE |  | DRY BULK |  | INDICES |  |  |
+|  | CURRENT LAST | WEEK | LAST | YEAR |  | W-O-W CHANGE | % Y-O-Y | CHANGE % |
+| BDI | 1,816 | 1,553 |  | 4,644 |  | +16.93 |  | -60.90 |
+| BCI | 2,206 | 1,519 |  | 7,393 |  | +45.23 |  | -70.16 |
+| BPI | 1,995 | 1,990 |  | 4,012 |  | +0.25 |  | -50.27 |
+| BSI | 1,652 | 1,551 |  | 3,359 |  | +6.51 |  | -50.82 |
+| BHSI | 966 | 905 |  | 1,925 |  | +6.74 |  | -49.82 |
 
 [Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
@@ -164,25 +164,25 @@ This week, freight volumes in the Middle East Gulf continued to fall. TC1 droppe
 
 # Tankers S&P Report
 
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS | / BUYERS |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | USD |  |  |
-| BEKS ATLANTICA | AFRA | 114,896 | 2006 | S. KOREA | 33.0 |  | IMMS |
-| STENA PROVENCE / STENA PRIMORSK / STENA PERFORMANCE | LR1 | 65,125 | 2006 | CROATIA | BLOC | EUROPEAN | BUYERS |
-| SEABRIGHT | MR | 46,177 | 2006 | S. KOREA | 18.0 | UNDISCLOSED |  |
-| SEAMERCURY | MR | 39,634 | 2003 | S. KOREA | 11.0 | UNDISCLOSED |  |
-| BESIKTAS ENGLAND / SELANDA SWAN | PROD / CHEM | 17,998 | 2008 | TURKEY | 24.0 | CARL F. | PETERS |
-| AS SOVEREIGN | PROD / CHEM | 17,579 | 2009 | S. KOREA | N/A | UNDISCLOSED |  |
-| AEON | PROD / CHEM | 17,519 | 2012 | CHINA |  | SEVEN | ISLANDS |
-| SOL | PROD / CHEM | 11,479 | 2007 | CHINA | 5.1 | INDIAN | BUYERS |
-| SG BAHARI | SMALL | 9,600 | 2009 Tankers (Weekly) | CHINA Values | 4.5 | TURKISH | BUYERS |
-| TANKERS | DWT |  | NB CONTRACT | NB DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
-| VLCC | 310,000 |  | 120 | 116 | 88 | 64 | 39 |
-| SUEZMAX | 160,000 |  | 80 | 82 | 62 | 45 | 24 |
-| AFRAMAX | 115,000 |  | 61 | 72 | 57 | 42 | 23 |
-| PANAMAX-LR1 | 73,000 |  | 53 | 56 | 44 | 30 | 15 |
-| MR TANKER | 51,000 |  | 43 | 46 | 40 | 29 | 13 |
-| *(amount in USD million) |  |  |  |  |  |  |  |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  | PRICE | COMMENTS | / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | (MILLION) | USD |  |  |
+| BEKS ATLANTICA | AFRA | 114,896 | 2006 | S. KOREA |  | 33.0 |  | IMMS |
+| STENA PROVENCE / STENA PRIMORSK / STENA PERFORMANCE | LR1 | 65,125 | 2006 | CROATIA | 60.0 EN | BLOC | EUROPEAN | BUYERS |
+| SEABRIGHT | MR | 46,177 | 2006 | S. KOREA |  | 18.0 | UNDISCLOSED |  |
+| SEAMERCURY | MR | 39,634 | 2003 | S. KOREA |  | 11.0 | UNDISCLOSED |  |
+| BESIKTAS ENGLAND / SELANDA SWAN | PROD / CHEM | 17,998 | 2008 | TURKEY |  | 24.0 | CARL F. | PETERS |
+| AS SOVEREIGN | PROD / CHEM | 17,579 | 2009 | S. KOREA |  | N/A | UNDISCLOSED |  |
+| AEON | PROD / CHEM | 17,519 | 2012 | CHINA | 13.0 |  | SEVEN | ISLANDS |
+| SOL | PROD / CHEM | 11,479 | 2007 | CHINA |  | 5.1 | INDIAN | BUYERS |
+| SG BAHARI | SMALL | 9,600 | 2009 Tankers (Weekly) | CHINA Values |  | 4.5 | TURKISH | BUYERS |
+| TANKERS | DWT |  | NB CONTRACT | NB DELIVERY | PROMPT | 5 YEARS | 10 YEARS | 20 YEARS |
+| VLCC | 310,000 |  | 120 | 116 |  | 88 | 64 | 39 |
+| SUEZMAX | 160,000 |  | 80 | 82 |  | 62 | 45 | 24 |
+| AFRAMAX | 115,000 |  | 61 | 72 |  | 57 | 42 | 23 |
+| PANAMAX-LR1 | 73,000 |  | 53 | 56 |  | 44 | 30 | 15 |
+| MR TANKER | 51,000 |  | 43 | 46 |  | 40 | 29 | 13 |
+| *(amount in USD million) |  |  |  |  |  |  |  |  |
 
 [Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
@@ -232,6 +232,7 @@ same period in 2021.
 | VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
 |---|---|---|---|---|---|---|
 | OSAKA | PANAMAX | 4,506 | 2008 | S. KOREA | 60.0 | UNDISCLOSED |
+
 | CONTAINERS | Containers GEARED / | Containers (Weekly) NB | Containers Values (Weekly) NB PROMPT | 5 YEARS | 10 YEARS | 20 YEARS |
 | --- | --- | --- | --- | --- | --- | --- |
 | (by TEU) | GEARLESS | CONTRACT | DELIVERY |  |  |  |

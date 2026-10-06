@@ -53,6 +53,7 @@ Shanghai 200122 China
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 46 | -16,026 | 45 | -22,372 | 28.4% | 2,246 | 52,119 |
@@ -68,13 +69,13 @@ Shanghai 200122 China
 |  | 75k | MEG-JAPAN | 300 | 56,122 | 227 | 28,917 | 94.1% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 379 | 57,896 | 277 | 31,071 | 86.3% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 357 | 32,405 | 400 | 39,399 | -17.8% | 4,496 | 12,977 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | CS HUNAN VENTURE | 2021 | 307,943 dwt |  |  |
-
+| 36 mos | CS HUNAN VENTURE | 2021 | 307,943 dwt | $26,000/day | Trafigura Beheer BV |
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 25,684 | 42,038 |
@@ -89,8 +90,8 @@ Shanghai 200122 China
 |  | 52k 3yr TC | 15,000 | 15,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | 36k 1yr TC | 16,250 | 16,250 | 0.0% | 0 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Jun-22 avg | May-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300KT DH** | 76.0 | 75.8 | 0.3% | 69.7 | 71.5 | 72.1 |
@@ -98,8 +99,8 @@ Shanghai 200122 China
 | Aframax | **110KT DH** | 48.5 | 48.5 | 0.0% | 38.7 | 38.8 | 38.3 |
 | LR1 | **75KT DH** | 37.0 | 36.0 | 2.8% | 31.2 | 30.7 | 31.3 |
 | MR | **52KT DH** | 34.0 | 32.5 | 4.6% | 27.6 | 27.5 | 28.6 |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 17/Jun/21 | 30 | 80 | 90 |
@@ -115,8 +116,8 @@ Shanghai 200122 China
 | 17/Apr/22 | 80 | 280 | 280 |
 | 17/May/22 | 85 | 150 | 160 |
 | 17/Jun/22 | 90 | 140 | 170 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | DATE | WS points | WS points | WS points | WS points |
@@ -164,11 +165,12 @@ In the Aframax sector we had the sale of the "ANGELICA SCHULTE" (106,433dwt-blt 
 | BHSI | 1,343 | $24,169 | 1,417 | $25,509 | -74 | -5.3% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4-6 mos | MBA GIOVANNI | 2010 | 93,361 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4-6 mos | MBA GIOVANNI | 2010 | 93,361 dwt | Tianjin 20/25 Jun | $22,000/day | Norvic |
 
 ## TC Rates
+
 | Sector | Tenor | 17/06/2022 | 10/06/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 35,250 | 34,000 | **3.7%** | **1,250** | 32,684 | 15,361 |
@@ -185,6 +187,7 @@ In the Aframax sector we had the sale of the "ANGELICA SCHULTE" (106,433dwt-blt 
 |  | **32K 3yr TC** | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 17/Jun/21 | 4000 | 3500 | 3000 | 1500 | 4000 |
@@ -202,6 +205,7 @@ In the Aframax sector we had the sale of the "ANGELICA SCHULTE" (106,433dwt-blt 
 | 17/Jun/22 | 2800 | 2900 | 2800 | 1600 | 2800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 17/Jun/21 | 30000 | 30000 | 30000 | 25000 |
@@ -255,6 +259,7 @@ In the Supramax sector we had the sale of the "SAGARJEET" (58,079dwt-blt '09, Ja
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | KOHO I | 301,045 | 2002 | IHI MARINE, Japan | Sulzer | Nov-22 | DH | $ 29.0m | undisclosed | BWTS fitted |
@@ -281,6 +286,7 @@ In the Supramax sector we had the sale of the "SAGARJEET" (58,079dwt-blt '09, Ja
 
 # Secondhand Sales
 ## Bulk Carriers
+
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | CONSTANTIN OLDENDORFF | 92,762 | 2012 | COSCO Zhoushan Shipyard Co Ltd | MAN-B&amp;W | Jun-22 |  | $ 21.85m | UAE based | BWTS fitted |
@@ -307,6 +313,7 @@ In the Supramax sector we had the sale of the "SAGARJEET" (58,079dwt-blt '09, Ja
 
 # Secondhand Sales
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | ZIM CONSTANZA | 4,250 | 2010 | Jiangsu, China | MAN-B\&amp;W | Aug-25 |  | $ 75.0m | French (CMA CGM) |  |
@@ -319,6 +326,7 @@ In the Supramax sector we had the sale of the "SAGARJEET" (58,079dwt-blt '09, Ja
 
 # Intermodal Newbuilding Market
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 17/06/2022 | 10/06/2022 | ±% | 2021 | 2020 | 2019 |  |
@@ -382,6 +390,7 @@ The last week was quite firm for the shipbuilding sector with boxships attractin
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 17/06/2022 | 10/06/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |

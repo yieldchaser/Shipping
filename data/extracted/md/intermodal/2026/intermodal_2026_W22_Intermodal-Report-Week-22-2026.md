@@ -27,6 +27,7 @@ Overall, the policy shift introduces a layer of uncertainty to thermal coal trad
 # Tanker Market
 
 ## Spot Rates
+
 | Sector | Size | Routes | 29/05/2026 WS points | 29/05/2026 $/day | 22/05/2026 WS points | 22/05/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 401 | 410,203 | 408 | 415,543 | -1.3% | 60,510 | 37,255 |
@@ -44,8 +45,8 @@ Overall, the policy shift introduces a layer of uncertainty to thermal coal trad
 | Dirty | 55K | UKC-USG | 210 | 32,233 | 210 | 30,133 | **7.0%** | 10,784 | 17,707 |
 |  | 55K | MED-USG | 210 | 30,060 | 210 | 27,790 | **8.2%** | 11,306 | 17,590 |
 |  | 50k | ARA-UKC | 194 | 37,534 | 239 | 51,718 | -27.4% | 18,615 | 26,872 |
-
 ## TC Rates
+
 | Sector | Tenor | 29/05/2026 | 22/05/2026 | ±% | Diff | 2025 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 116,750 | 116,750 | 0.0% | 0 | 50,615 | 50,365 |
@@ -62,6 +63,7 @@ Overall, the policy shift introduces a layer of uncertainty to thermal coal trad
 |  | 36k 3yr TC | 17,500 | 17,500 | 0.0% | 0 | 16,902 | 19,993 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 29/May/25 | 100 | 150 | 150 |
@@ -78,6 +80,7 @@ Overall, the policy shift introduces a layer of uncertainty to thermal coal trad
 | 30/Apr/26 | 400 | 200 | 200 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 29/May/25 | 150 | 150 | 150 | 150 |
@@ -130,8 +133,8 @@ Aframaxes were more mixed. The Mediterranean strengthened towards the end of the
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 11 to 13 mos | BTG Apo | 2021 | 82,442 dwt |  |  |
-| 5 to 7 mos | Andromache | 2017 | 81,212 dwt |  |  |
+| 11 to 13 mos | BTG Apo | 2021 | 82,442 dwt | $22,250/day | Olam |
+| 5 to 7 mos | Andromache | 2017 | 81,212 dwt | $20,000/day | cnr |
 
 ### TC Rates
 | Sector | Tenor | 29/05/2026 | 22/05/2026 | ±% | Diff | 2025 | 2024 |
@@ -146,6 +149,7 @@ Aframaxes were more mixed. The Mediterranean strengthened towards the end of the
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 29/May/25 | 3500 | 1800 | 1500 | 800 | 2000 |
@@ -162,6 +166,7 @@ Aframaxes were more mixed. The Mediterranean strengthened towards the end of the
 | 30/Apr/26 | 5000 | 2200 | 1950 | 1150 | 5000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 29/May/25 | 20000 | 12000 | 10000 | 8000 |
@@ -271,6 +276,7 @@ India's ship recycling market drew a measure of support from a firmer rupee, as 
 
 Despite the broader slowdown caused by the Eid festivities, sentiment in Bangladesh remained relatively constructive, with market participants still showing interest in available candidates. The firming of the local currency against the US dollar further supported buying appetite, although the domestic steel market remained closed for the holidays. At the same time, the limited supply of recycling candidates, together with expecta-
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 29/05/2026 | 22/05/2026 | ±% | YTD High | YTD Low | 2025 | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -283,8 +289,8 @@ Despite the broader slowdown caused by the Eid festivities, sentiment in Banglad
 | India | 415 | 415 | 0.0% | 430 | 380 | 415 | 485 | 522 |
 | Pakistan | 445 | 445 | 0.0% | 445 | 390 | 418 | 482 | 515 |
 | Turkey | 270 | 270 | 0.0% | 280 | 265 | 266 | 337 | 315 |
-
 ## Currencies
+
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 122.75 | 122.90 | -0.12% | 122.95 |

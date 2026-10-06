@@ -106,36 +106,40 @@ West market strength provided some backdrop support, as local VLCC and Suezmax w
 
 Clean:
 
-**LR:** Middle East rates declined as accumulated tonnage availability combined with reduced chartering activity from the Eid holidays pressured levels. TC1 MEG/Japan lost 14 points to WS113. Ample vessel supply suggests rates will likely remain range-bound in the near term. Similar seen in LR1 with TC5 closing lower at WS139.
+**LR: Middle East rates declined as accumulated tonnage availability combined with**
+
+reduced chartering activity from the Eid holidays pressured levels. TC1 MEG/Japan lost 14 points to WS113. Ample vessel supply suggests rates will likely remain range-bound in the near term. Similar seen in LR1 with TC5 closing lower at WS139.
 
 ## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
-**MR:** Far East rates retreated as the market corrected from last gains, with Eid holiday in several countries contributing to the downward adjustment. In the MEG, TC17 to E. Africa regain a few points at closing to WS202.
+**MR: Far East rates retreated as the market corrected from last gains, with Eid holiday in**
+
+several countries contributing to the downward adjustment. In the MEG, TC17 to E. Africa regain a few points at closing to WS202.
 
 # Baltic Exchange Tanker Indices
 
-| INDICES | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | Y-O-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | CHANGE | CHANGE |
-| BDTI | 909 |  | 951 | 1,240 | -4.42% | -26.69% |
-| BCTI | 600 |  | 626 | 828 | -4.15% | -27.54% |
-|  |  |  | Tankers | Values (Weekly) |  |  |
-| TYPE | DWT | CONTRACT |  | NB PROMPT | 5 YEARS | 15 YEARS |
-|  |  |  |  | DELIVERY |  |  |
-| VLCC | 310,000 | 125 |  | 144 | 112 (E) | 51 |
-| SUEZMAX | 160,000 | 87 |  | 93 | 77 (E) | 40 |
-| AFRAMAX | 115,000 | 72 |  | 75 | 63 (E) | 35 |
-| LR1 | 73,000 | 59 |  | 60 | 50 (E) | 25 |
-| MR | 51,000 | 49 |  | 50 | 41 (E) | 21 |
-| *(amount in USD million) | (E) |  |  |  |  |  |
-|  |  | Tankers |  | S&P Report |  |  |
-| VESSEL | TYPE | DWT | YEAR | BUILT | PRICE | / |
-|  |  |  |  |  | (MILLION) USD | BUYERS |
-| GLENDA | MR | 47,203 | 2011 | S. KOREA | 19.0 | BUYERS |
-| BALTIC SAPPHIRE BALTIC | MR | 37,594 37,565 | 2010 | S. KOREA | 35.0 EN BLOC | EASTERN BUYERS |
-| GINGA | PROD CHEM | 19,998 | 2000 | JAPAN | 6.9 (SS) | UNDISCLOSED |
+| INDICES |  | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W |  |  | Y-O-Y |
+|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  | CHANGE |  |  | CHANGE |
+| BDTI |  | 909 |  |  | 951 | 1,240 | -4.42% |  |  | -26.69% |
+| BCTI |  | 600 |  |  | 626 | 828 | -4.15% |  |  | -27.54% |
+|  |  |  |  |  | Tankers | Values (Weekly) |  |  |  |  |
+| TYPE |  | DWT | NB | CONTRACT |  | NB PROMPT | 5 YEARS | 10 | YEARS | 15 YEARS |
+|  |  |  |  |  |  | DELIVERY |  |  |  |  |
+| VLCC |  | 310,000 |  | 125 |  | 144 | 112 (E) | 80 | (E) | 51 |
+| SUEZMAX |  | 160,000 |  | 87 |  | 93 | 77 (E) | 62 | (E) | 40 |
+| AFRAMAX |  | 115,000 |  | 72 |  | 75 | 63 (E) | 50 | (E) | 35 |
+| LR1 |  | 73,000 |  | 59 |  | 60 | 50 (E) | 40 | (E) | 25 |
+| MR |  | 51,000 |  | 49 |  | 50 | 41 (E) | 31 | (E) | 21 |
+| *(amount in USD million) | \| (E) | - eco units |  |  |  |  |  |  |  |  |
+|  |  |  |  | Tankers |  | S&P Report |  |  |  |  |
+| VESSEL | NAME | TYPE |  | DWT | YEAR | BUILT | PRICE |  | COMMENTS | / |
+|  |  |  |  |  |  |  | (MILLION) USD |  |  | BUYERS |
+| GLENDA | MELISSA | MR |  | 47,203 | 2011 | S. KOREA | 19.0 |  | GREEK | BUYERS |
+| BALTIC SAPPHIRE BALTIC | / SWIFT | MR |  | 37,594 37,565 | 2010 | S. KOREA | 35.0 EN BLOC |  | MIDDLE | EASTERN BUYERS |
+| GINGA | HAWK | PROD CHEM | / | 19,998 | 2000 | JAPAN | 6.9 (SS) |  |  | UNDISCLOSED |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -151,22 +155,22 @@ Container shipping markets are experiencing significant volatility as the pause 
 
 # Containers Values
 
-| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| (BY TEU) | GEARLESS | CONTRACT | DELIVERY | YEARS |
-| 900 ~ 1,200 | Geared | 24 | 26 | 10 |
-| 1,600 ~ 1,850 | Gearless | 31 | 35 | 18 |
-| 2,700 ~ 2,900 | Gearless | 44 | 46 | 26 |
-| 5,100 ~ 5,300 | Gearless | 59 | 82 | 41 |
-| *(amount in USD million) | \ | = Eco units |  |  |
-|  |  | S&P | Containers |  |
-|  |  |  |  | / |
-| VESSEL NAME | TYPE | TEU | BUILT |  |
-|  |  |  |  |  |
-| NAVIOS TEMPO | PMAX | 4,426 | CHINA |  |
-| A ROKKO | FEEDER | 1,096 | JAPAN |  |
-| SITC YOKOHAMA | FEEDER | 831 | JAPAN |  |
+| CONTAINERS | GEARED / | NB |  | NB PROMPT |  |  | 15 |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
+| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
+| 900 ~ 1,200 | Geared | 24 |  | 26 | 20 | 16 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 |  | 35 | 29 (E) | 23 (E) | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 |  | 46 | 39 | 35 | 26 |
+| 5,100 ~ 5,300 | Gearless | 59 |  | 82 | 66 | - | 41 |
+| *(amount in USD million) | \| = Eco units |  |  |  |  |  |  |
+|  |  | S&P |  | Containers | Report |  |  |
+|  |  |  |  |  | PRICE | COMMENTS | / |
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT |  |  |  |
+|  |  |  |  |  | (MILLION) | USD BUYERS |  |
+| NAVIOS TEMPO | PMAX | 4,426 | 2010 | CHINA | 38.5 | UNDISCLOSED |  |
+| A ROKKO | FEEDER | 1,096 | 2024 | JAPAN | 25.5 | UNDISCLOSED |  |
+| SITC YOKOHAMA | FEEDER | 831 | 2004 | JAPAN | 7.3 | UNDISCLOSED |  |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -332,7 +336,9 @@ celebrations, tight liquidity conditions, and persistent letter of credit issues
 
 domestic steel demand to limit trading activity. Containerised shredded offers held steady at US$365-370 per ton CFR Port Qasim, though only scattered trades materialised near US$367-368 per ton as most mills avoided fresh commitments during the holiday period.
 
-Turkey's imported scrap market maintained stability amid cautious sentiment from both buyers and sellers. US-origin bulk HMS 80:20 held steady at US$338 per ton CFR with minimal trading interest, as mills demonstrated reluctance to secure July cargoes due to weak rebar demand and resistance to higher pricing levels.
+**Turkey's imported scrap market maintained stability amid cautious sentiment from both**
+
+buyers and sellers. US-origin bulk HMS 80:20 held steady at US$338 per ton CFR with minimal trading interest, as mills demonstrated reluctance to secure July cargoes due to weak rebar demand and resistance to higher pricing levels.
 
 # HMS 1/2 & Tangshan
 
@@ -342,7 +348,9 @@ Turkey's imported scrap market maintained stability amid cautious sentiment from
 
 # Commodities (Weekinfocus)
 
-Iron ore futures retreated on Thursday as investors awaited clarity on U.S.-China trade negotiations, despite President Trump's optimistic commentary about restoring bilateral relations. The most-traded September contract on China's Dalian Commodity Exchange closed 0.21% lower at 704 yuan (US$98.05) per metric ton, while Singapore's benchmark July contract declined 0.53% to $94.6 per ton. Market sentiment reflected cautious optimism following Trump's Wednesday remarks about being "very happy" with trade progress that could restore what he termed a "fragile truce" in the commercial relationship. Chinese officials maintained their diplomatic stance, with the foreign ministry reaffirming Beijing's commitment to existing agreements without providing additional specifics on potential developments.
+**Iron ore futures retreated on Thursday as investors awaited clarity on U.S.-China trade**
+
+negotiations, despite President Trump's optimistic commentary about restoring bilateral relations. The most-traded September contract on China's Dalian Commodity Exchange closed 0.21% lower at 704 yuan (US$98.05) per metric ton, while Singapore's benchmark July contract declined 0.53% to $94.6 per ton. Market sentiment reflected cautious optimism following Trump's Wednesday remarks about being "very happy" with trade progress that could restore what he termed a "fragile truce" in the commercial relationship. Chinese officials maintained their diplomatic stance, with the foreign ministry reaffirming Beijing's commitment to existing agreements without providing additional specifics on potential developments.
 
 ## Steel industry fundamentals are showing signs of weakness as focus shifts from
 

@@ -83,9 +83,10 @@ The Baltic Exchange
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 18 mos | NAVE ATRIA | 2012 | 49,992 dwt |  |  |
+| 18 mos | NAVE ATRIA | 2012 | 49,992 dwt | $14,000/day | Petrobras |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 1/Oct/20 | 50 | 60 | 50 |
@@ -103,6 +104,7 @@ The Baltic Exchange
 | 1/Oct/21 | 50 | 60 | 50 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 1/Oct/20 | 10 | 10 | 10 | 10 |
@@ -148,6 +150,7 @@ In the MR sector we had the sale of the "STENA CONQUEROR" (47,323dwt-blt '03, Cr
 
 # Dry Bulk Market
 ## Baltic Indices
+
 | Index Name | 01/10/2021 Index | 01/10/2021 $/day | 24/09/2021 Index | 24/09/2021 $/day | Point Diff | $/day ±% | 2020 Index | 2019 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 5,202 |  | 4,644 |  | **558** |  | 1,066 | 1,344 |
@@ -155,14 +158,14 @@ In the MR sector we had the sale of the "STENA CONQUEROR" (47,323dwt-blt '03, Cr
 | BPI | 3,992 | $35,929 | 4,012 | $36,104 | -20 | -0.5% | 1,103 | 1,382 |
 | BSI | 3,383 | $37,212 | 3,359 | $36,948 | **24** | **0.7%** | 746 | 877 |
 | BHSI | 1,987 | $35,769 | 1,925 | $34,650 | **62** | **3.2%** | 447 | 490 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 9 to 12 mos | STORMHARBOUR | 2009 | 76,583 dwt |  |  |
-| 17 to 19 mos | ATALANTI | 2014 | 77,528 dwt |  |  |
 
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 9 to 12 mos | STORMHARBOUR | 2009 | 76,583 dwt | CJK 28/29 Sep | $29,000/day | NYK |
+| 17 to 19 mos | ATALANTI | 2014 | 77,528 dwt | Dalian 2/12 Oct | $24,500/day | Aquavita |
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | $/day | 01/10/2021 | 24/09/2021 | ±% | Diff | 2020 | 2019 |  |
@@ -182,8 +185,8 @@ In the MR sector we had the sale of the "STENA CONQUEROR" (47,323dwt-blt '03, Cr
 | Handysize | 32K 6mnt TC | 33,250 | 33,250 | 0.0% | 0 | 8,498 | 9,152 |
 | Handysize | 32K 1yr TC | 24,750 | 24,750 | 0.0% | 0 | 8,556 | 9,291 |
 | Handysize | 32K 3yr TC | 15,250 | 15,250 | 0.0% | 0 | 8,686 | 9,291 |
-
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 1/Oct/20 | 4000 | 1400 | 1300 | 1200 | 4000 |
@@ -199,8 +202,8 @@ In the MR sector we had the sale of the "STENA CONQUEROR" (47,323dwt-blt '03, Cr
 | 1/Aug/21 | 4500 | 3500 | 3200 | 1800 | 4500 |
 | 1/Sep/21 | 4800 | 4200 | 3400 | 1900 | 4800 |
 | 1/Oct/21 | 4600 | 4400 | 3300 | 1800 | 9000 |
-
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 1/Oct/20 | 15000 | 14000 | 13000 | 12000 |
@@ -248,6 +251,7 @@ In the Supramax sector we had the sale of the "MEDI OKINAWA" (56,118dwt-blt '11,
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | CONRAD | 207,609 | 2017 | SWS, China | MAN-B&amp;W | Apr-22 |  | $ 53.8m | U.S. based (JP Morgan) | BWTS &amp; scrubber fitted, delivery February 2022 |
@@ -277,6 +281,7 @@ In the Supramax sector we had the sale of the "MEDI OKINAWA" (56,118dwt-blt '11,
 # Intermodal Secondhand Sales
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR2 | OCEAN VELA | 108,929 | 2009 | SWS, China | MAN-B\&amp;W | Jan-24 | DH | $ 18.5m | Vietnamese | judicial sale |
@@ -284,6 +289,7 @@ In the Supramax sector we had the sale of the "MEDI OKINAWA" (56,118dwt-blt '11,
 | SMALL | CRANE ARGO | 12,163 | 2010 | NIGATA, Japan | MAN-B\&amp;W | Jun-25 | DH | $ 7.2m | Chinese |  |
 
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | RDO CONCEPTION | 6,539 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Apr-22 |  | excess $110.0m | Singapore based (OM Maritime) |  |
@@ -295,6 +301,7 @@ In the Supramax sector we had the sale of the "MEDI OKINAWA" (56,118dwt-blt '11,
 | FEEDER | AS RICCARDA | 1,496 | 2012 | OUHUA, China | MAN | Feb-22 |  | $ 24.0m | Swiss (MSC) |  |
 
 ## Secondhand Sales
+
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | KENTMERE | 9,197 | 2007 | ASAKAWA, Japan | MAN-B\&amp;W | Oct-22 | 8,554 | rgn $ 11.0m | Canadian (Transgas) | BWTS fitted |
@@ -306,6 +313,7 @@ In the Supramax sector we had the sale of the "MEDI OKINAWA" (56,118dwt-blt '11,
 
 # Intermodal Newbuilding Market
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 01/10/2021 | 24/09/2021 | ±% | 2020 | 2019 | 2018 |  |
@@ -380,6 +388,7 @@ The volume of the newbuilding deals was softer compared to the week prior, with 
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 01/10/2021 | 24/09/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -410,8 +419,8 @@ Average scrap prices across the Indian subcontinent regions remained stable clos
 | 1/Aug/21 | 585 | 560 | 585 | 290 |
 | 1/Sep/21 | 590 | 570 | 590 | 290 |
 | 1/Oct/21 | 590 | 575 | 590 | 290 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EM LONGEVITY | 306,324 | 46,657 | 2000 | HYUNDAI, S. Korea | TANKER | $ 592/Ldt | Bangladeshi |  |

@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -17,6 +19,7 @@ Looking ahead, firm U.S. exports and the onset of winter heating demand are like
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 31/10/2025 WS points | 31/10/2025 $/day | 24/10/2025 WS points | 24/10/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 129 | 118,346 | 85 | 75,336 | 57.1% | 37,255 | 39,466 |
@@ -42,6 +45,7 @@ Looking ahead, firm U.S. exports and the onset of winter heating demand are like
 |  | $22,000/day |  |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 31/Oct/24 | 60 | 90 | 100 |
@@ -59,6 +63,7 @@ Looking ahead, firm U.S. exports and the onset of winter heating demand are like
 | 31/Oct/25 | 70 | 100 | 220 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 31/Oct/24 | 100 | 90 | 110 | 100 |
@@ -144,6 +149,7 @@ Overall, while regional volatility persisted, the broader crude market maintaine
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 31/Oct/24 | 3200 | 1000 | 1200 | 700 | 1500 |
@@ -161,6 +167,7 @@ Overall, while regional volatility persisted, the broader crude market maintaine
 | 31/Oct/25 | 3000 | 1800 | 1800 | 1100 | 1700 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 31/Oct/24 | 12000 | 8000 | 10000 | 7000 |
@@ -278,6 +285,7 @@ In Bangladesh, the market remains largely subdued, with only a few sales offerin
 
 Alang experienced muted activity last week amid volatile fundamentals, shaped by currency fluctuations, and trading of underpriced sanctioned vessels, which have effectively created a two-tiered market. India is currently the only sub-continent market accepting these OFAC-listed units, adding uncertainty to the sector's outlook. The domestic steel market is sluggish, still lingering in a post-Diwali lull, although buyers show a prefer-
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 31/10/2025 | 24/10/2025 | ±% | YTD High | YTD Low | 2024 | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -290,8 +298,8 @@ Alang experienced muted activity last week amid volatile fundamentals, shaped by
 | India | 385 | 390 | -1.3% | 445 | 385 | 485 | 522 | 583 |
 | Pakistan | 400 | 400 | 0.0% | 445 | 400 | 482 | 515 | 587 |
 | Turkey | 260 | 250 | 4.0% | 310 | 250 | 337 | 315 | 304 |
-
 ## Currencies
+
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 122.20 | 122.53 | -0.27% | 122.68 |

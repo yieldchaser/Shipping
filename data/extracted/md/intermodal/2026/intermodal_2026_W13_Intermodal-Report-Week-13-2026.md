@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 <u>By Yiannis Parganas, Head of Research Department</u>
 
@@ -17,6 +19,7 @@ So the working assumption is no longer just that the Gulf wants calm. Of course 
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 27/03/2026 WS points | 27/03/2026 $/day | 20/03/2026 WS points | 20/03/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 364 | 366,255 | 406 | 402,678 | -9.0% | 60,510 | 37,255 |
@@ -40,8 +43,7 @@ So the working assumption is no longer just that the Gulf wants calm. Of course 
 | 18 mos | Hafnia Expedite | 2016 |
 | --- | --- | --- |
 |  | $28,000/day |  |
-
-### Dirty WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Dirty
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -59,8 +61,7 @@ So the working assumption is no longer just that the Gulf wants calm. Of course 
 | 27/Jan/26 | 140 | 60 | 290 |
 | 27/Feb/26 | 150 | 50 | 300 |
 | 27/Mar/26 | 400 | 400 | 400 |
-
-### Clean WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Clean
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -130,10 +131,11 @@ Aframaxes saw record-high earnings across most regions, driven primarily by stro
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 to 8 mos | Amaryllis | 2019 | 81,758 dwt |  |  |
-| 12 mos | CL Heidi | 2016 | 63,572 dwt |  |  |
+| 6 to 8 mos | Amaryllis | 2019 | 81,758 dwt | $18,900/day | Swissmarine |
+| 12 mos | CL Heidi | 2016 | 63,572 dwt | $17,250/day | Lynux |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 27/Mar/25 | 2000 | 1500 | 1000 | 800 | 1600 |
@@ -151,6 +153,7 @@ Aframaxes saw record-high earnings across most regions, driven primarily by stro
 | 27/Mar/26 | 2800 | 1500 | 1000 | 800 | 1600 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 27/Mar/25 | 12000 | 10000 | 9000 | 8000 |
@@ -299,8 +302,8 @@ Turkey experienced a modest pickup in ship recycling activity, though the Eid ho
 | USD/INR | 94.78 | 93.69 | 1.16% | 94.78 |
 | USD/PKR | 279.20 | 279.15 | 0.02% | 280.05 |
 | USD/TRY | 44.43 | 44.30 | 0.30% | 44.43 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | OCEAN ROSEMARY | 43,769 | 8,783 | 1996 | DAEWOO, S. Korea | BC | $470/Ldt | Bangladeshi |

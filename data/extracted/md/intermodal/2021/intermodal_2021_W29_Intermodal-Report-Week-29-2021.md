@@ -83,9 +83,10 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | HUNTER IDUN | 2020 | 299,995 dwt |  |  |
+| 6 mos | HUNTER IDUN | 2020 | 299,995 dwt | $30,000/day | Trafigura |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 23/Jul/20 | 60 | 70 | 80 |
@@ -103,6 +104,7 @@ Shanghai 200122 China
 | 23/Jul/21 | 50 | 60 | 75 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 23/Jul/20 | 100 | 110 | 120 | 130 |
@@ -120,6 +122,7 @@ Shanghai 200122 China
 | 23/Jul/21 | 90 | 100 | 110 | 125 |
 
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Jul-21 avg | Jun-21 avg | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300KT DH** | 71.9 | 70.3 | 2.3% | 71.5 | 72.4 | 65.6 |
@@ -163,7 +166,7 @@ In the small size sector we had the auction sale of the "PRIME SOUTH" (12,886dwt
 | - | - |
 |   |   |
 
-## TC Rates
+## TC Rates (Period)
 
 | Sector | Tenor | 23/07/2021 | 16/07/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -181,6 +184,7 @@ In the small size sector we had the auction sale of the "PRIME SOUTH" (12,886dwt
 | Handysize | 32K 3yr TC | 13,000 | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 23/Jul/20 | 1800 | 1200 | 900 | 800 | 2400 |
@@ -198,6 +202,7 @@ In the small size sector we had the auction sale of the "PRIME SOUTH" (12,886dwt
 | 23/Jul/21 | 3900 | 3900 | 2900 | 2100 | 4000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 23/Jul/20 | 15000 | 10000 | 10000 | 8000 |
@@ -245,20 +250,21 @@ In the Handysize sector we had the sale of the "ULTRA CALBUCO" (37,981dwt-blt '1
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR1 | SUPER LOTUS | 70,426 | 2004 | UNIVERSAL, Japan | B\&amp;W | Feb-23 | DH | $ 7.8m | Far Eastern |  |
 | MR | FS SINCERITY | 48,045 | 2009 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Apr-22 | DH | rgn $ 14.0m | Greek |  |
 | SMALL | PRIME SOUTH | 12,886 | 2009 | STX, S. Korea | MAN-B\&amp;W |  | DH | $ 4.3m | Taiwanese | auction sale |
-
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HANDY | NORDIC INCHEON | 35,817 | 2018 | SAMJIN, China | MAN-B\&amp;W | Jan-23 | 4 X 30t CRANES | $ 20.5m | undisclosed |  |
 | HANDY | ULTRA CALBUCO | 37,981 | 2017 | I-S SHIPYARD, Japan | MAN-B\&amp;W | Feb-22 | 4 X 30,7t CRANES | $ 23.5m | Indian (Chellaram) | delivery December 2021 |
 | HANDY | GLORIOUS SAWARA | 28,339 | 2009 | I-S SHIPYARD, Japan | MAN-B\&amp;W | Jul-22 | 4 X 30,5t CRANES | $ 11.0m | undisclosed | logs fitted |
-
 ## Secondhand Sales
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | NORTHERN JULIE | 8,411 | 2005 | DAEWOO, S. Korea | MAN-B\&amp;W | Apr-25 |  | $ 85.0m | Swiss (MSC) | incl. T/C till 2022 |
@@ -270,6 +276,7 @@ In the Handysize sector we had the sale of the "ULTRA CALBUCO" (37,981dwt-blt '1
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 23/07/2021 | 16/07/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -326,8 +333,8 @@ The newbuilding market activity has seen another weekly round of strong appetite
 | 23/May/21 | 92 | 61 | 46 | 41 | 34 |
 | 23/Jun/21 | 94 | 63 | 47 | 42 | 34 |
 | 23/Jul/21 | 96 | 65 | 48 | 43 | 35 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Tanker | 155,000 dwt | DSIC, China | 2023 | Chinese (Shanghai North Sea Shipping) | undisclosed | option declared, shuttle tanker |
@@ -346,6 +353,7 @@ The newbuilding market activity has seen another weekly round of strong appetite
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 23/07/2021 | 16/07/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -392,8 +400,8 @@ Last week, the Eid holidays period had its own negative impact on an already slu
 | 23/May/21 | 510 | 500 | 490 | 280 |
 | 23/Jun/21 | 530 | 520 | 510 | 285 |
 | 23/Jul/21 | 550 | 540 | 530 | 288 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BROTOJOYO | 60,875 | 10,889 | 1980 | MITSUI, Japan | FPSO | $ 615/Ldt | Bangladeshi |

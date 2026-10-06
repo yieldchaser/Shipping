@@ -106,6 +106,7 @@ Shanghai 200122 China
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 20/01/23 WS points | 20/01/23 $/day | 13/01/23 WS points | 13/01/23 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 48 | 22,249 | 45 | 21,267 | 4.6% | 2,246 | 52,119 |
@@ -124,14 +125,14 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 185 | 33,998 | 180 | 33,770 | 0.7% | 2,822 | 12,120 |
 |  | 55K | MED-USG | 185 | 33,472 | 182 | 34,115 | -1.9% | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 302 | 62,643 | 304 | 63,620 | -1.5% | 8,548 | 17,651 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | PROSTAR | 2019 | 115,643 dwt |  |  |
-| 24 mos | PLATYTERA | 2009 | 47,401 dwt |  |  |
-
+| 6 mos | PROSTAR | 2019 | 115,643 dwt | $43,000/day | Saudi Aramco |
+| 24 mos | PLATYTERA | 2009 | 47,401 dwt | $27,500/day | Asyad Shipping |
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | $/day | 20/01/23 | 13/01/23 | ±% | Diff | 2021 | 2020 |  |
@@ -147,8 +148,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 24,000 | 24,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 26,000 | 29,000 | -10.3% | **-3000** | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 18,000 | 18,000 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Current avg | Previous avg | ±% | Year1 | Year2 | Year3 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Vessel 5yrs old | Jan-23 avg | Dec-22 avg | ±% | 2021 | 2020 | 2019 |
@@ -157,8 +158,8 @@ Shanghai 200122 China
 | **Aframax** | **110KT DH** | 61.8 | 58.6 | **5.5%** | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 47.0 | 46.3 | **1.5%** | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 41.0 | 40.6 | **1.0%** | 27.6 | 27.5 | 28.6 |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 20/Jan/22 | 50 | 100 | 100 |
@@ -174,8 +175,8 @@ Shanghai 200122 China
 | 20/Nov/22 | 100 | 310 | 650 |
 | 20/Dec/22 | 100 | 250 | 200 |
 | 20/Jan/23 | 80 | 180 | 180 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 20/Jan/22 | 100 | 120 | 140 | 160 |
@@ -224,6 +225,7 @@ In the MR1 sector we had the sale of the “NORDIC TATIANA” (38,396dwt-blt '07
 | BHSI | 441 | $7,931 | 500 | $8,996 | -59 | -11.8% | 1,424 | 447 |
 
 ## TC Rates
+
 | Sector | Tenor | 20/01/23 | 13/01/23 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 16,000 | 17,000 | -5.9% | -1,000 | 26,392 | 14,394 |
@@ -236,6 +238,7 @@ In the MR1 sector we had the sale of the “NORDIC TATIANA” (38,396dwt-blt '07
 |  | **32K 3yr TC** | 9,000 | 9,000 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 20/Jan/22 | 2000 | 1800 | 2200 | 1500 | 1800 |
@@ -253,6 +256,7 @@ In the MR1 sector we had the sale of the “NORDIC TATIANA” (38,396dwt-blt '07
 | 20/Jan/23 | 1400 | 1200 | 1600 | 1100 | 1200 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 20/Jan/22 | 10000 | 15000 | 18000 | 12000 |
@@ -299,6 +303,7 @@ In the Capesize sector we had the sale of the "AQUAGENIE" (177,346dwt-bl't '03, 
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ULCC | OCEANIA | 441,585 | 2003 | DAEWOO, S. Korea | Sulzer | Mar-25 | DH | $ 50.0m | undisclosed |  |
@@ -306,14 +311,14 @@ In the Capesize sector we had the sale of the "AQUAGENIE" (177,346dwt-bl't '03, 
 | VLCC | ARCADIA V | 298,920 | 2000 | KAWASAKI, Japan | B\&amp;W | Sep-25 | DH | $ 40.0m | undisclosed | BWTS fitted |
 | LR2 | LEO | 112,795 | 2010 | NEW TIMES, China | MAN-B\&amp;W | Sep-25 | DH | $ 43.0m | Middle Eastern | BWTS fitted |
 | MR1 | NORDIC TATIANA | 38,396 | 2007 | GUANGZHOU, China | MAN-B\&amp;W | Sep-27 | DH | $ 16.0m | Greek | BWTS fitted |
-
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | AQUANAVIGATOR | 179,905 | 2011 | DAEHAN, S. Korea | MAN-B\&amp;W | Dec-26 |  | mid/high $ 20s | undisclosed | BWTS fitted |
 | CAPE | AQUAGENIE | 177,346 | 2003 | NAMURA, Japan | Mitsubishi | Dec-23 |  | $ 14.35m | undisclosed |  |
-
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | SITC SURABAYA | 2,742 | 2006 | AKER MTW WERFT, Germany | MAN-B\&amp;W | Mar-26 | 3 X 45t CRANES | $ 13.0m | undisclosed |  |
@@ -325,6 +330,7 @@ In the Capesize sector we had the sale of the "AQUAGENIE" (177,346dwt-bl't '03, 
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 20-Jan-23 | 13-Jan-23 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -377,8 +383,8 @@ The newbuilding dry bulk market activity continues to impress for another week w
 | 20/Nov/22 | 60 | 33 | 32 | 28 |
 | 20/Dec/22 | 60 | 32 | 32 | 28 |
 | 20/Jan/23 | 60 | 32 | 32 | 28 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2+2 | Bulker | 80,000 dwt | Yangzijiang, China | 2025 | Canadian (Algoma) | around $64.0m | self-unloading |
@@ -396,6 +402,7 @@ The newbuilding dry bulk market activity continues to impress for another week w
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 20/01/23 | 13/01/23 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |

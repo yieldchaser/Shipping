@@ -93,8 +93,8 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | PACIFIC NAFSIKA | 2016 | 109,999 dwt |  |  |
-| 12 mos | ATLANTIC PRIDE | 2018 | 50,614 dwt |  |  |
+| 12 mos | PACIFIC NAFSIKA | 2016 | 109,999 dwt | $20,600/day | Koch Logistics |
+| 12 mos | ATLANTIC PRIDE | 2018 | 50,614 dwt | $14,250/day | Vitol |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
@@ -113,6 +113,7 @@ Shanghai 200122 China
 |  | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 4/Mar/21 | 50 | 80 | 160 |
@@ -130,6 +131,7 @@ Shanghai 200122 China
 | 4/Mar/22 | 50 | 290 | 160 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 4/Mar/21 | 150 | 150 | 150 | 160 |
@@ -185,12 +187,13 @@ In the LR1 sector we had sale of the "TECTUS" (74,862dwt-blt '09, S. Korea), whi
 | BHSI | 1,443 | $25,974 | 1,399 | $25,174 | 44 | 3.2% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 9 to 11 mos | CSC CREATOR | 2020 | 208,815 dwt |  |  |
-| 4 to 10 mos | INTEGRALE | 2014 | 78,162 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 9 to 11 mos | CSC CREATOR | 2020 | 208,815 dwt | Zhoushan ex DD 6 Mar | $31,000/day | cnr |
+| 4 to 10 mos | INTEGRALE | 2014 | 78,162 dwt | Fangcheng 4/10 Mar | $26,000/day | Oldendorff |
 
 ## TC Rates
+
 | Sector | Tenor | 04/03/2022 | 25/02/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 28,750 | 26,500 | **8.5%** | **2,250** | 32,684 | 15,361 |
@@ -207,6 +210,7 @@ In the LR1 sector we had sale of the "TECTUS" (74,862dwt-blt '09, S. Korea), whi
 |  | **32K 3yr TC** | 15,000 | 15,000 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 4/Mar/21 | 1,800 | 2,000 | 1,900 | 1,500 | 1,900 |
@@ -224,6 +228,7 @@ In the LR1 sector we had sale of the "TECTUS" (74,862dwt-blt '09, S. Korea), whi
 | 4/Mar/22 | 1,800 | 2,500 | 2,300 | 1,650 | 1,700 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 4/Mar/21 | 18000 | 22000 | 20000 | 17000 |
@@ -273,6 +278,7 @@ In the Panamax sector we had the sale of the "SEA MELODY I" (75,957dwt-bl't '02,
 
 # Secondhand Sales
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KMAX | DARYA KIRTHI | 80,545 | 2012 | STX, S. Korea | MAN-B\&amp;W |  |  | $ 24.5m | Greek |  |
@@ -298,6 +304,7 @@ In the Panamax sector we had the sale of the "SEA MELODY I" (75,957dwt-bl't '02,
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | MY WAY | 314,020 | 2007 | NACKS, China | MAN-B\&amp;W | Mar-25 | DH | $ 37.0m | UAE based |  |
@@ -307,8 +314,8 @@ In the Panamax sector we had the sale of the "SEA MELODY I" (75,957dwt-bl't '02,
 | VLCC | OLYMPIC LOYALTY II | 306,999 | 2005 | SAMSUNG, S. Korea | MAN-B\&amp;W | Mar-25 | DH | mid $ 30.0m | undisclosed |  |
 | LR1 | TECTUS | 74,862 | 2009 | STX, S. Korea | MAN-B\&amp;W | Jul-24 | DH | $ 14.85m | Greek (Centrofin) |  |
 | MR1 | ADEBOMI 3 | 36,962 | 2002 | BRODOGRADILISTE, Croatia | Sulzer | Aug-22 | DH | $ 6.2m | Greek | old sale |
-
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | A DAISEN | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Nov-25 | 2 X 45t CRANES | $ 33.0m | Danish (Maersk) | BWTS fitted, delivery December 2022 |
@@ -320,6 +327,7 @@ In the Panamax sector we had the sale of the "SEA MELODY I" (75,957dwt-bl't '02,
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 04/03/2022 | 25/02/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -376,8 +384,8 @@ The newbuilding market continues to be fuelled by the owners' insatiable hunger 
 | 4/Jan/22 | 60 | 35 | 33 | 30 |
 | 4/Feb/22 | 60 | 35 | 33 | 30 |
 | 4/Mar/22 | 60 | 35 | 33 | 30 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3 | LNG | 200,000 cbm | KSOE, S.Korea | 2025 | Greek (Dynagas) | $ 235.0m |  |
@@ -396,6 +404,7 @@ The newbuilding market continues to be fuelled by the owners' insatiable hunger 
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 04/03/2022 | 25/02/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -426,8 +435,8 @@ Scrap prices in the demolition market witnessed another w-o-w improvement. Owner
 | 4/Jan/22 | 610 | 560 | 590 | 320 |
 | 4/Feb/22 | 640 | 600 | 620 | 350 |
 | 4/Mar/22 | 650 | 630 | 640 | 360 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BERGE ARCTIC | 174,285 | 27,461 | 2001 | DAEWOO, S. Korea | BULKER | $ 660/Ldt | Indian | dely Alang, full range HKC recycling only |

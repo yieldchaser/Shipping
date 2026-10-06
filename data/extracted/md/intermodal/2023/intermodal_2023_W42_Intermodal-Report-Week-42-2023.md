@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By Fotis Kanatas, Research Analyst
 
@@ -19,6 +21,7 @@ Looking at the big picture, US grain exports are about to pick up speed and this
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 20/10/23 WS points | 20/10/23 $/day | 13/10/23 WS points | 13/10/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 55 | 30,621 | 59 | 37,833 | -19.1% | 20,330 | 2,246 |
@@ -39,10 +42,10 @@ Looking at the big picture, US grain exports are about to pick up speed and this
 |  | 50k | CARIBS-USG | 198 | 31,341 | 199 | 32,144 | -2.5% | 40,364 | 8,548 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 36 mos | CL MARGUERITE DURAS | 2023 | 49,357 dwt |  |  |
-| 9-14 mos | ALKEA | 2009 | 36,207 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 36 mos | CL MARGUERITE DURAS | 2023 | 49,357 dwt | DEL WEST DEC/23 | $26,000/day | BP |
+| 9-14 mos | ALKEA | 2009 | 36,207 dwt | DEL WEST NOV/23 | $29,000/day | Mercuria |
 
 ## TC Rates
 | Sector | Tenor | 20/10/23 | 13/10/23 | ±% | Diff | 2022 | 2021 |
@@ -93,10 +96,10 @@ Suezmax T/C earnings averaged \$49,599/day, up + \$14,393/day w-o-w. On the Afra
 | BHSI | 686 | $12,352 | 687 | $12,361 | -1 | -0.1% | 1,181 | 1,424 |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | SHINSUNG CLEVER | 2014 | 37,084 dwt |  |  |
-| 12 mos | MEDI EGADI | 2018 | 81,834 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 to 6 mos | SHINSUNG CLEVER | 2014 | 37,084 dwt | dely Conakry promptredel worldwide | $13,500/day | cnr |
+| 12 mos | MEDI EGADI | 2018 | 81,834 dwt | CJK 23/24 Oct redel worldwide | $15,500/day | Berge Bulk |
 
 ### TC Rates
 | Sector | Tenor | 20/10/23 | 13/10/23 | ±% | Diff | 2022 | 2021 |
@@ -111,6 +114,7 @@ Suezmax T/C earnings averaged \$49,599/day, up + \$14,393/day w-o-w. On the Afra
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 20/Oct/22 | 1200 | 1400 | 1300 | 900 | 1300 |
@@ -128,6 +132,7 @@ Suezmax T/C earnings averaged \$49,599/day, up + \$14,393/day w-o-w. On the Afra
 | 20/Oct/23 | 3800 | 1900 | 1900 | 1100 | 3600 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 20/Oct/22 | 18000 | 14000 | 12000 | 10000 |
@@ -186,6 +191,7 @@ Supramax 10TC averaged \$ 14,090/day, up +2.02% w-o-w, while the Handysize 7TC a
 | SMALL | BOCS AFRICA | 7,701 | 2004 | ZALIV, Ukraine | MaK | Sep-24 | 2 X 60t CRANES | $ 6.0m | undisclosed |  |
 
 ## Secondhand Sales
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUB PMAX | WAN HAI 301 | 2,496 | 2001 | NAIKAI ZOSEN, Japan | B\&amp;W | Sep-26 | N | $7,5m each | Chinese | BWTS fitted |
@@ -251,6 +257,7 @@ After a slight increase in scrapping activity in August and September compared t
 | USD/TRY | 27.98 | 27.80 | 0.67% | 28.23 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | JAHAN | 45,665 | 7,516 | 1995 | TSUNEISHI, Japan | BC | undisclosed | Bangladeshi |

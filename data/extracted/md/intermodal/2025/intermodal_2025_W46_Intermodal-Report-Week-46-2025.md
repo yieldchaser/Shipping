@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 *By Nikos Tagoulis, Senior Analyst*
 
@@ -16,6 +18,7 @@ Looking ahead, the ongoing Russia-Ukraine war continues to pose a risk to Black 
 # Intermodal Tanker Market
 
 ## Spot Rates
+
 | Sector | Size | Routes | 14/11/2025 WS points | 14/11/2025 $/day | 07/11/2025 WS points | 07/11/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 129 | 129,000 | 109 | 104,039 | 24.0% | 37,255 | 39,466 |
@@ -81,12 +84,17 @@ Last week, West Africa's VLCC market began sluggish but steadily firm as tighten
 | BHSI | 819 | $14,745 | 810 | $14,582 | **9** | **1.1%** | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 to 14 mos | Lowlands Dawn | 2017 | 93,500 dwt |  |  |
-| 5 to 8 mos | BBG Muara | 2022 | 81,991 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 to 14 mos | Lowlands Dawn | 2017 | 93,500 dwt | dely D/C Vancouver 13 Nov redel worldwide | $17,750/day | Jera |
+| 5 to 8 mos | BBG Muara | 2022 | 81,991 dwt | Onahama 24 Nov redel worldwide | $18,000/day | cnr |
 
 ## Line BCI BPI BSI BHSI BDI
+
+| 14/Nov/24 | 14/Dec/24 | 14/Jan/25 | 14/Feb/25 | 14/Mar/25 | 14/Apr/25 | 14/May/25 | 14/Jun/25 | 14/Jul/25 | 14/Aug/25 | 14/Sep/25 | 14/Oct/25 | 14/Nov/25 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+## Line Average of the 5 T/ C AVR 5TC BPI AVR 10TC BSI AVR 7TC BHSI
 
 | 14/Nov/24 | 14/Dec/24 | 14/Jan/25 | 14/Feb/25 | 14/Mar/25 | 14/Apr/25 | 14/May/25 | 14/Jun/25 | 14/Jul/25 | 14/Aug/25 | 14/Sep/25 | 14/Oct/25 | 14/Nov/25 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -205,6 +213,7 @@ In Chattogram, the ship recycling market is progressing at a moderate pace, with
 Turkey experienced another muted week, with minimal activity and flat sentiment amid slower tonnage arrivals. The domestic steel market also saw little movement, with local prices and demand largely unchanged.
 
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 14/11/2025 | 07/11/2025 | ±% | YTD High | YTD Low | 2024 | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -225,8 +234,8 @@ Turkey experienced another muted week, with minimal activity and flat sentiment 
 | USD/INR | 88.69 | 88.67 | 0.03% | 88.69 |
 | USD/PKR | 282.68 | 282.65 | 0.01% | 284.95 |
 | USD/TRY | 42.25 | 42.21 | 0.08% | 42.25 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FU OCEAN | 173,018 | 2,001 | 2001 | DAEWOO, S. Korea | BC | undisclosed | Bangladeshi |  |

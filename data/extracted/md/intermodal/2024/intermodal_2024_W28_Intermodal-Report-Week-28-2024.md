@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -32,6 +34,7 @@ Looking ahead, we can anticipate this trend to persist given the tightening of r
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 12/07/24 WS points | 12/07/24 $/day | 05/07/24 WS points | 05/07/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 47 | 24,640 | 49 | 26,145 | -5.8% | 39,466 | 20,330 |
@@ -51,12 +54,11 @@ Looking ahead, we can anticipate this trend to persist given the tightening of r
 |  | 50k | ARA-UKC | 171 | 17,036 | 168 | 15,734 | **8.3%** | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 60 mos | SEVERN | 2021 | 50,192 dwt |  |  |
-| 4 mos | ELIM GRACE | 2006 | 49,999 dwt |  |  |
-
-### Dirty WS Rates (1-Year Trend)
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 60 mos | SEVERN | 2021 | 50,192 dwt | DEL EAST/WEST AUG/24 | $29,000/day | Hyundai MM |
+| 4 mos | ELIM GRACE | 2006 | 49,999 dwt | DEL EAST JUN/24 | $33,000/day | Clearlake |
+### 1-Year Forward WS Rates - Dirty
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -74,8 +76,7 @@ Looking ahead, we can anticipate this trend to persist given the tightening of r
 | 12/May/24 | 50 | 130 | 270 |
 | 12/Jun/24 | 50 | 380 | 380 |
 | 12/Jul/24 | 50 | 120 | 200 |
-
-### Clean WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Clean
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -137,12 +138,13 @@ he market saw mixed performance during the previous week with dirty and clean ta
 | BHSI | 741 | $13,339 | 742 | $13,365 | -1 | -0.2% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4/6 mos | KOULITSA 2 | 2011 | 78,129 dwt |  |  |
-| 8/11 mos | SM SAMCHEOMPO | 2019 | 80,942 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4/6 mos | KOULITSA 2 | 2011 | 78,129 dwt | dely CJK 15/20 Jul redel worldwide | $16,500/day | Bluepool |
+| 8/11 mos | SM SAMCHEOMPO | 2019 | 80,942 dwt | dely Fangcheng 18/23 Jul redel worldwide | $16,750/day | Classic |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 12/Jul/23 | 1500 | 1000 | 1000 | 800 | 1000 |
@@ -160,6 +162,7 @@ he market saw mixed performance during the previous week with dirty and clean ta
 | 12/Jul/24 | 3300 | 1850 | 1550 | 880 | 2050 |
 
 ### Average T/C Rates (1-Year Trend)
+
 |  | 12/Jul/23 | 12/Aug/23 | 12/Sep/23 | 12/Oct/23 | 12/Nov/23 | 12/Dec/23 | 12/Jan/24 | 12/Feb/24 | 12/Mar/24 | 12/Apr/24 | 12/May/24 | 12/Jun/24 | 12/Jul/24 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Average of the 5 T / C | 10000 | 15000 | 25000 | 30000 | 40000 | 55000 | 15000 | 20000 | 30000 | 25000 | 20000 | 25000 | 28000 |
@@ -204,6 +207,7 @@ Supramax 10TC averaged \$ 14,868/day up +0.37% w-o-w, while the Handysize 7TC av
 # Secondhand Sales
 
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR | BERYL | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Feb-25 | DH | $ 340.0m | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
@@ -228,6 +232,7 @@ Supramax 10TC averaged \$ 14,868/day up +0.37% w-o-w, while the Handysize 7TC av
 | HANDY | WESTERN PARIS | 38,800 | 2015 | JIANGSU HANTONG, China | MAN-B\&W | Nov-25 | 4 X 30t CRANES |  |  |  |
 
 ## Secondhand Sales
+
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | SOLINA GAS | 54,048 | 2008 | HYUNDAI HEAVY INDS - U, S. Korea | MAN-B\&W | Jun-28 | 73,537 | $ 64.5m | Chinese |

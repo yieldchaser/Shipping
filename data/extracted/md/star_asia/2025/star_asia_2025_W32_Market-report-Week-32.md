@@ -240,19 +240,19 @@ With the conclusion of the monsoon season, some optimisms were seen breathing ne
 
 Anchorage & Beaching Position (AUGUST 2025)
 
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| --- | --- | --- | --- | --- |
-| R PISCES | BULKER | 19,935 | 05.08.2025 | AWAITING |
-| ANGE | TANKER | 1,974 | 29.07.2025 | AWAITING |
-| CONICO ATLAS | TANKER | 20,001 | 13.06.2025 | AWAITING |
-| NIRVANA | TANKER | 9,623 | 07.05.2025 | AWAITING |
-| AEWO | CHEM. TANKER | 5,245 | 30.07.2025 | 06.08.2025 |
-| Bangladesh continues to a severe downturn three year low, driven issues, has reduced This has left Chattogram's tonnage, effectively rains have further the least competitive recovery to be found stabilise. | face challenges, the domestic steel stalled public for recycled recycling yards sidelining them from the operational destination in the the weather & Beaching | Chattogram with market activity industry. A collapse infrastructure projects steel. unable to offer bidding tables. momentum. As subcontinent, hopefully improves and Position | nearly at a in local rebar and widespread competitive pricing To add, heavy a result, Bangladesh a potential, domestic economic (AUGUST 2025) | standstill due prices to a liquidity for new monsoon remains albeit distant, conditions |
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| DK 03 | BULKER | 7,809 | 04.08.2025 | AWAITING |
-| GREAT ROYAL | BULKER | 6,580 | 28.07.2025 | AWAITING |
-| WOND | TANKER | 2,229 | 03.08.2025 | AWAITING |
-| LEONID | TANKER | 13,605 | 28.07.2025 | AWAITING |
+| VESSEL NAME |  | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
+| R PISCES |  | BULKER | 19,935 | 05.08.2025 | AWAITING |
+| ANGE |  | TANKER | 1,974 | 29.07.2025 | AWAITING |
+| CONICO ATLAS |  | TANKER | 20,001 | 13.06.2025 | AWAITING |
+| NIRVANA |  | TANKER | 9,623 | 07.05.2025 | AWAITING |
+| AEWO |  | CHEM. TANKER | 5,245 | 30.07.2025 | 06.08.2025 |
+| Bangladesh continues to a severe downturn three year low, driven issues, has reduced This has left Chattogram's tonnage, effectively rains have further the least competitive recovery to be found stabilise. | to in by demand dampened once Anchorage | face challenges, the domestic steel stalled public for recycled recycling yards sidelining them from the operational destination in the the weather & Beaching | Chattogram with market activity industry. A collapse infrastructure projects steel. unable to offer bidding tables. momentum. As subcontinent, hopefully improves and Position | nearly at a in local rebar and widespread competitive pricing To add, heavy a result, Bangladesh a potential, domestic economic (AUGUST 2025) | standstill due prices to a liquidity for new monsoon remains albeit distant, conditions |
+| VESSEL NAME |  | TYPE | LDT | ARRIVAL | BEACHING |
+| DK 03 |  | BULKER | 7,809 | 04.08.2025 | AWAITING |
+| GREAT ROYAL |  | BULKER | 6,580 | 28.07.2025 | AWAITING |
+| WOND |  | TANKER | 2,229 | 03.08.2025 | AWAITING |
+| LEONID |  | TANKER | 13,605 | 28.07.2025 | AWAITING |
 
 Gadani
 

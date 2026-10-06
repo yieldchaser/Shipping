@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -32,6 +34,7 @@ While Vietnam's contribution may not fundamentally alter the global iron ore mar
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 29/08/2025 WS points | 29/08/2025 $/day | 22/08/2025 WS points | 22/08/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 66 | 51,174 | 67 | 52,310 | -2.2% | 37,255 | 39,466 |
@@ -57,6 +60,7 @@ While Vietnam's contribution may not fundamentally alter the global iron ore mar
 |  | $42,000/day |  |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 29/Aug/24 | 50 | 100 | 150 |
@@ -73,6 +77,7 @@ While Vietnam's contribution may not fundamentally alter the global iron ore mar
 | 31/Jul/25 | 75 | 135 | 150 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 29/Aug/24 | 100 | 90 | 110 | 120 |
@@ -135,10 +140,10 @@ Aframax markets showed regional contrasts. In the Mediterranean, an overhang of 
 | BHSI | 767 | $13,807 | 725 | $13,054 | 42 | 5.8% | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | Grampus Charm | 2013 | 82,937 dwt |  |  |
-| 12 mos | Musigny | 2025 | 82,000 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 to 6 mos | Grampus Charm | 2013 | 82,937 dwt | dely Pyeongtaek 30 Aug/2 Sep redel worldwide | $14,500/day | Costamare |
+| 12 mos | Musigny | 2025 | 82,000 dwt | dely ex yard Hantong end Nov redel worldwide | $15,750/day | Classic Maritime |
 
 ## TC Rates
 | Sector | Tenor | 29/08/2025 | 22/08/2025 | ±% | Diff | 2024 | 2023 |
@@ -153,6 +158,7 @@ Aframax markets showed regional contrasts. In the Mediterranean, an overhang of 
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Category BCI BPI BSI BHSI BDI | 29/08/24 3200 1800 1600 800 1900 | 29/09/24 2000 1200 1400 700 1400 | 29/10/24 3100 1000 1300 600 1100 | 29/11/24 900 900 1200 500 900 | 29/12/24 800 800 1100 400 800 | 29/01/25 1500 1200 1300 600 1400 | 28/02/25 1000 1100 1200 500 1300 | 31/03/25 2500 1400 1500 700 1800 | 30/04/25 3500 1300 1400 600 2000 | 31/05/25 3800 1800 1700 800 2100 | 30/06/25 2900 1900 1800 700 1900 | 31/07/25 2800 1900 1800 700 1900 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
@@ -273,8 +279,8 @@ A flat week for the Turkish market. Reports of increased steel mill activity did
 | USD/INR | 88.17 | 87.33 | 0.97% | 88.17 |
 | USD/PKR | 283.88 | 283.70 | 0.06% | 284.95 |
 | USD/TRY | 41.10 | 40.94 | 0.41% | 41.10 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | TRADER II | 75,109 | 29,920 | 2002 | SAMSUNG, S. Korea | GAS TANKER | $480/Ldt | undisclosed | as is Singapore |

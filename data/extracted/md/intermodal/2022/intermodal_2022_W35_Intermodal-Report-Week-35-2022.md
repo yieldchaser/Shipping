@@ -55,9 +55,10 @@ Shanghai 200122 China
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | Year1 $/day | Year2 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel |  |  |  |  |  |  | Routes | 02-Sep-22 |  |
+| Vessel |  |  |  |  | Routes | 02-Sep-22 |  | 26-Aug-22 |  |
 | VLCC | 265k | MEG-SPORE | 76 | 39,679 | 82 | 40,031 | -0.9% | 2,246 | 52,119 |
 |  | 280k | MEG-USG | 43 | 4,336 | 46 | 2,168 | **100.0%** | -15,306 | 41,904 |
 |  | 260k | WAF-CHINA | 75 | 38,273 | 81 | 38,163 | 0.3% | 3,125 | 50,446 |
@@ -71,13 +72,13 @@ Shanghai 200122 China
 |  | 75k | MEG-JAPAN | 276 | 62,123 | 274 | 57,993 | 7.1% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 305 | 50,994 | 299 | 46,807 | 8.9% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 201 | 11,182 | 224 | 12,951 | -13.7% | 4,496 | 12,977 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | FRONT PIONEER | 2021 | 109,894 dwt |  |  |
-
+| 36 mos | FRONT PIONEER | 2021 | 109,894 dwt | $31,500/day | BP |
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | $/day | 02-Sep-22 | 26-Aug-22 | ±% | Diff | 2021 | 2020 |
@@ -93,8 +94,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 22,500 | 22,500 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Sep-22 avg | Aug-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 84.0 | 82.8 | **1.5%** | 69.7 | 71.5 | 72.1 |
@@ -102,8 +103,8 @@ Shanghai 200122 China
 | **Aframax** | **110KT DH** | 53.0 | 52.3 | **1.4%** | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 41.5 | 40.8 | **1.8%** | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 39.5 | 36.9 | **7.1%** | 27.6 | 27.5 | 28.6 |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 2/Sep/21 | 50 | 80 | 100 |
@@ -119,8 +120,8 @@ Shanghai 200122 China
 | 2/Jul/22 | 55 | 200 | 250 |
 | 2/Aug/22 | 60 | 180 | 300 |
 | 2/Sep/22 | 70 | 180 | 280 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 2/Sep/21 | 100 | 110 | 120 | 130 |
@@ -169,12 +170,13 @@ In the Small sector we had the sale of the "CELSIUS MEXICO" (20,866dwt-blt '08, 
 | BHSI | 869 | $15,650 | 933 | $16,794 | -64 | -6.8% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 11-13 mos | CHILOE ISLAND | 2013 | 58,044 dwt |  |  |
-| 4-7 mos | YOUNG SPIRIT | 2015 | 63,567 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 11-13 mos | CHILOE ISLAND | 2013 | 58,044 dwt | Japan prompt | $18,000/day | cnr |
+| 4-7 mos | YOUNG SPIRIT | 2015 | 63,567 dwt | Hamriyah 23 Aug | $19,000/day | Graincom |
 
 ## TC Rates
+
 | Sector | Tenor | 02/09/2022 | 26/08/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 15,250 | 14,750 | **3.4%** | **500** | 32,684 | 15,361 |
@@ -191,6 +193,7 @@ In the Small sector we had the sale of the "CELSIUS MEXICO" (20,866dwt-blt '08, 
 |  | **32K 3yr TC** | 10,500 | 11,500 | -8.7% | -1,000 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 2/Sep/21 | 3500 | 3400 | 3300 | 1800 | 4800 |
@@ -207,6 +210,7 @@ In the Small sector we had the sale of the "CELSIUS MEXICO" (20,866dwt-blt '08, 
 | 2/Sep/22 | 1600 | 2000 | 1800 | 1300 | 1500 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 2/Sep/21 | 38000 | 36000 | 35000 | 34000 |
@@ -264,11 +268,12 @@ In the Handysize sector we had the sale of the "MALTO HOPE" (28,226dwt-blt '13, 
 
 # Intermodal Secondhand Sales
 ## Secondhand Sales
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | BURGUNDY | 3,426 | 2008 | NORDSEEWERKE, Germany | MAN-B&amp;W | Dec-23 |  | excess $ 24.0m | Italian (RifLine) | incl. TC attached |
-
 ## Secondhand Sales
+
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | KMARIN DIAMOND | 84,553 | 2008 | HYUNDAI SAMHO, S. Korea | Wartsila | Oct-23 | 151,883 | undisclosed | Greek |
@@ -279,6 +284,7 @@ In the Handysize sector we had the sale of the "MALTO HOPE" (28,226dwt-blt '13, 
 
 # Intermodal Newbuilding Market
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 02/09/2022 | 26/08/2022 | ±% | 2020 | 2019 | 2018 |
@@ -354,6 +360,7 @@ Newbuilding ordering activity has gathered momentum during last week, with order
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | Markets | 02/09/2022 | 26/08/2022 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |

@@ -110,9 +110,13 @@ In the Middle East, despite consistent fixtures for short-haul routes, the Afram
 
 Clean:
 
-**LR:** Even with relatively active fixture activity in the Middle East, LR2 rates have slipped, TC1 MEG/Japan ended the week at WS110. In the LR1, similar was noted for same route closing at around WS137 mark.
+**LR: Even with relatively active fixture activity in the Middle East, LR2 rates have slipped, TC1**
 
-**MR:** Despite consistent activity, the weakness in the LR segment has led to increased competition for cargo, pushing rates down. In the USG, MRs saw rates for Tc14 (USG/UKC) fell some 50 points to WS130s.
+MEG/Japan ended the week at WS110. In the LR1, similar was noted for same route closing at around WS137 mark.
+
+**MR: Despite consistent activity, the weakness in the LR segment has led to increased**
+
+competition for cargo, pushing rates down. In the USG, MRs saw rates for Tc14 (USG/UKC) fell some 50 points to WS130s.
 
 # Baltic Exchange Tanker Indices
 
@@ -323,9 +327,13 @@ EXCHANGE RATES
 
 Sub-Continent and Turkey ferrous scrap markets insights
 
-**India:** India's imported ferrous scrap market continued to be quiet, characterized by cautious buyers and a notable absence of major bookings. Mills are currently less inclined towards imports, preferring to rely on alternative raw materials. Indicative offers for UK shredded material were observed in the range of US$358-362/t CFR Nhava Sheva, while Australian shredded was quoted at US$354-355/t CFR. West African HMS 80:20 hovered around US$334-335/t CFR, with UK busheling commanding a higher premium at US$370-372/t CFR, reflecting its prime quality.
+**India: India's imported ferrous scrap market continued to be quiet, characterized by**
 
-**Bangladesh:** Bangladesh's ferrous scrap market largely stayed muted, with trading almost at a standstill. Mills refrained from actively engaging suppliers, even as some freight costs eased, leading to a persistent gap between bids and offers. Buyers were
+cautious buyers and a notable absence of major bookings. Mills are currently less inclined towards imports, preferring to rely on alternative raw materials. Indicative offers for UK shredded material were observed in the range of US$358-362/t CFR Nhava Sheva, while Australian shredded was quoted at US$354-355/t CFR. West African HMS 80:20 hovered around US$334-335/t CFR, with UK busheling commanding a higher premium at US$370-372/t CFR, reflecting its prime quality.
+
+**Bangladesh: Bangladesh's ferrous scrap market largely stayed muted, with trading**
+
+almost at a standstill. Mills refrained from actively engaging suppliers, even as some freight costs eased, leading to a persistent gap between bids and offers. Buyers were
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -333,9 +341,13 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 seeking PNS at US$375/t CFR Chattogram, yet suppliers from Hong Kong and Singapore were unwilling to drop below US$380/t. An Australian supplier succinctly described the current conditions as "no good," citing weak interest from Bangladeshi buyers for imported scrap.
 
-**Pakistan:** The imported ferrous scrap market in Pakistan remained sluggish, marked by muted trading activity and a cautious buying interest. Suppliers were offering shredded scrap at US$375-380/t CFR Port Qasim, with recent transactions settling narrowly between US$375-378/t, underscoring the weak demand.
+**Pakistan: The imported ferrous scrap market in Pakistan remained sluggish, marked by**
 
-**Turkey:** Turkish imported deep-sea scrap prices held steady day-on-day, as mills largely remained on the sidelines. Despite this price stability, market sentiment stayed cautious, primarily due to weak rebar fundamentals impacting mill purchasing appetites. Conversely, sellers continued to advocate for higher offers, asserting that scrap prices did not warrant a decline given the positive scrap-to-rebar spread. Indicative tradable levels for EU-origin HMS 80:20 were heard in the range of US$345- 350/t CFR, reflecting ongoing negotiations and quality-based price adjustments within the imported scrap market.
+muted trading activity and a cautious buying interest. Suppliers were offering shredded scrap at US$375-380/t CFR Port Qasim, with recent transactions settling narrowly between US$375-378/t, underscoring the weak demand.
+
+**Turkey: Turkish imported deep-sea scrap prices held steady day-on-day, as mills**
+
+largely remained on the sidelines. Despite this price stability, market sentiment stayed cautious, primarily due to weak rebar fundamentals impacting mill purchasing appetites. Conversely, sellers continued to advocate for higher offers, asserting that scrap prices did not warrant a decline given the positive scrap-to-rebar spread. Indicative tradable levels for EU-origin HMS 80:20 were heard in the range of US$345- 350/t CFR, reflecting ongoing negotiations and quality-based price adjustments within the imported scrap market.
 
 # HMS 1/2 & Tangshan
 
@@ -351,7 +363,9 @@ Exchange (SHFE) remained range-bound on Friday. This stability follows an initia
 
 from the U.S. announcement of a 50% import tariff set to take effect on August 1, as the market now awaits further details regarding its implementation. As of Friday, the three-month copper on the LME was down 0.18% at US$9,683.5 per metric ton, bringing its weekly loss to 1.73% and positioning it for a second consecutive weekly decline. Similarly, the most-traded copper contract on the Shanghai Futures Exchange edged 0.18% higher to 78,530 yuan (US$10,943.12), though it was still on track for a 1.97% weekly decrease. The U.S. tariff, announced by President Donald Trump on Wednesday, targets a key industry essential for defence, electronics, and automobiles. However, uncertainties persist regarding the specific copper products that will be included, whether the 50% rate might be adjusted, or if the implementation date could be extended, according to a Beijing-based metals analyst.
 
-Iron ore futures on the other hand, extended their gains for a third consecutive session, reaching multi-month highs. This was largely fueled by expectations of new reforms aimed at managing steel supply and the anticipation of further stimulus measures from China. The most-traded September iron ore contract on China's Dalian Commodity Exchange closed the daytime trade 3.67% higher at 763.5 yuan (US$106.39) a metric ton, marking a three-month high. Concurrently, the benchmark August iron ore contract on the Singapore Exchange climbed 3.41% to US$99.35 a ton, its highest level since May 22. Driven by the expected supply-side reforms within the steel sector, which have positively impacted prices, according to a Shanghai-based analyst. Other steelmaking ingredients on the Dalian Commodity Exchange also posted gains, with coking coal (NYMEX:ACT1) and coke (DCJcv1) rising 4.24% and 3.56%, respectively. Steel benchmarks on the Shanghai Futures Exchange also strengthened, with rebar (RBF1) adding 1.89%, hot-rolled coil (EHR1) advancing 2.16%, wire rod (SWRcv1) gaining 1%, and stainless steel (HRC1) rising 1.06%.
+**Iron ore futures on the other hand, extended their gains for a third consecutive session,**
+
+reaching multi-month highs. This was largely fueled by expectations of new reforms aimed at managing steel supply and the anticipation of further stimulus measures from China. The most-traded September iron ore contract on China's Dalian Commodity Exchange closed the daytime trade 3.67% higher at 763.5 yuan (US$106.39) a metric ton, marking a three-month high. Concurrently, the benchmark August iron ore contract on the Singapore Exchange climbed 3.41% to US$99.35 a ton, its highest level since May 22. Driven by the expected supply-side reforms within the steel sector, which have positively impacted prices, according to a Shanghai-based analyst. Other steelmaking ingredients on the Dalian Commodity Exchange also posted gains, with coking coal (NYMEX:ACT1) and coke (DCJcv1) rising 4.24% and 3.56%, respectively. Steel benchmarks on the Shanghai Futures Exchange also strengthened, with rebar (RBF1) adding 1.89%, hot-rolled coil (EHR1) advancing 2.16%, wire rod (SWRcv1) gaining 1%, and stainless steel (HRC1) rising 1.06%.
 
 Iron Ore
 

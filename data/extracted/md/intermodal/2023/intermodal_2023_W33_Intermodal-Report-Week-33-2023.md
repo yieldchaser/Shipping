@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By Chara Georgousi, Research Analyst
 
@@ -17,6 +19,7 @@ In summary, the ongoing drought at the Panama Canal continues to affect shipping
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 18/08/23 WS points | 18/08/23 $/day | 11/08/23 WS points | 11/08/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 47 | 21,288 | 48 | 22,889 | -7.0% | 20,330 | 2,246 |
@@ -37,6 +40,7 @@ In summary, the ongoing drought at the Panama Canal continues to affect shipping
 |  | 50k | CARIBS-USG | 152 | 17,886 | 163 | 20,658 | -13.4% | 40,364 | 8,548 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 18/Aug/22 | 80 | 180 | 320 |
@@ -54,6 +58,7 @@ In summary, the ongoing drought at the Panama Canal continues to affect shipping
 | 18/Aug/23 | 90 | 120 | 110 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 18/Aug/22 | 200 | 220 | 240 | 260 |
@@ -135,6 +140,7 @@ Suezmax T/C earnings averaged \$ 10,461/day, up + \$889/day w-o-w. On the Aframa
 | **Capesize** | 32K 3yr TC | 9,250 | 9,000 | **2.8%** | **250** | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 18/Aug/22 | 1500 | 1600 | 1400 | 1200 | 1000 |
@@ -152,6 +158,7 @@ Suezmax T/C earnings averaged \$ 10,461/day, up + \$889/day w-o-w. On the Aframa
 | 18/Aug/23 | 1600 | 1700 | 1400 | 1100 | 1400 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 18/Aug/22 | 5000 | 18000 | 16000 | 14000 |
@@ -276,6 +283,7 @@ The demolition market has seen an increase in activity with a notable number of 
 | USD/TRY | 27.11 | 27.05 | 0.2% | 27.25 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LILA NING BO | 175,775 | 24,181 | 2002 | CS BC, Taiwan | BC | $ 495/Ldt | Indian |  |

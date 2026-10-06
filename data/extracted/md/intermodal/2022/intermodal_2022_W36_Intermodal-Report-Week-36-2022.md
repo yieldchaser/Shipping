@@ -61,6 +61,7 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 81 | 46,822 | 76 | 39,679 | **18.0%** | 2,246 | 52,119 |
@@ -76,14 +77,14 @@ Shanghai 200122 China
 |  | 75k | MEG-JAPAN | 281 | 65,072 | 276 | 62,123 | **4.7%** | 6,368 | 28,160 |
 | **Clean** | 55k | MEG-JAPAN | 332 | 58,404 | 305 | 50,994 | **14.5%** | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 233 | 17,550 | 201 | 11,182 | **56.9%** | 4,496 | 12,977 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | PATROCLUS | 2009 | 158,267 dwt |  |  |
-| 6 mos | YASA ORION | 2021 | 50,215 dwt |  |  |
-
+| 6 mos | PATROCLUS | 2009 | 158,267 dwt | $57,700/day | Chevron |
+| 6 mos | YASA ORION | 2021 | 50,215 dwt | $27,000/day | Clearlake |
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 39,000 | 41,000 | -4.9% | -2000 | 25,684 | 42,038 |
@@ -98,8 +99,8 @@ Shanghai 200122 China
 |  | 52k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | 36k 1yr TC | 22,500 | 22,500 | 0.0% | 0 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Sep-22 avg | Aug-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 85.0 | 82.8 | **2.7%** | 69.7 | 71.5 | 72.1 |
@@ -107,8 +108,8 @@ Shanghai 200122 China
 | **Aframax** | **110KT DH** | 53.5 | 52.3 | **2.4%** | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 41.5 | 40.8 | **1.8%** | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 39.5 | 36.9 | **7.1%** | 27.6 | 27.5 | 28.6 |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 9/Sep/21 | 30 | 100 | 120 |
@@ -124,8 +125,8 @@ Shanghai 200122 China
 | 9/Jul/22 | 60 | 250 | 300 |
 | 9/Aug/22 | 65 | 260 | 320 |
 | 9/Sep/22 | 70 | 180 | 260 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points | WS points |
@@ -175,11 +176,12 @@ In the Aframax sector we had the sale of the "BEKS ATLANTICA" (114,896dwt-blt '0
 | BHSI | 873 | $15,709 | 869 | $15,650 | **4** | **0.4%** | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 5-7 mos | GOLDEN IOANARI | 2011 | 81,827 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 5-7 mos | GOLDEN IOANARI | 2011 | 81,827 dwt | Taichung Sep 11/12 | $17,000/day | MOL |
 
 ## TC Rates
+
 | Sector | Tenor | 09/09/2022 | 02/09/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 14,750 | 15,250 | -3.3% | -500 | 32,684 | 15,361 |
@@ -196,6 +198,7 @@ In the Aframax sector we had the sale of the "BEKS ATLANTICA" (114,896dwt-blt '0
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 9/Sep/21 | 3500 | 4000 | 3200 | 1800 | 4800 |
@@ -212,6 +215,7 @@ In the Aframax sector we had the sale of the "BEKS ATLANTICA" (114,896dwt-blt '0
 | 9/Sep/22 | 2200 | 3000 | 2500 | 1500 | 2300 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 9/Sep/21 | 35000 | 34000 | 33000 | 32000 |
@@ -258,6 +262,7 @@ In the Handysize sector we had the sale of the "AQUARIUS 77" (35,737dwt-bl't '16
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | TEMA | 311,620 | 2005 | KAWASAKI, Japan | MAN-B\&amp;W | Sep-22 | DH | $ 33.5m | undisclosed | BWTS fitted |
@@ -269,22 +274,22 @@ In the Handysize sector we had the sale of the "AQUARIUS 77" (35,737dwt-bl't '16
 | SMALL | SG BAHARI | 9,600 | 2009 | DONGFANG, China | MaK | Jan-24 | DH | $ 4.5m | Turkish |  |
 | SMALL | GUNGA | 6,480 | 2009 | DESAN, Turkey | MaK | Sep-24 | DH |  |  |  |
 | SMALL | GAZELA | 6,479 | 2010 | DESAN, Turkey | MAN | Mar-25 | DH | $ 14.0m | undisclosed | Ice 1C |
-
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | UMAX | ULTRA TRUST | 61,225 | 2015 | TADOTSU, Japan | MAN-B&amp;W | Oct-25 | 4 X 30,7t CRANES | $ 27.5m | US based (Eagle Bulk) | scrubber fitted, eco |
 | HANDY | AQUARIUS 77 | 35,737 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B&amp;W | Feb-26 | 4 X 30t CRANES | rgn $ 21.0m | undisclosed |  |
-
 ## Secondhand Sales
+
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | BW PRINCE | 54,368 | 2007 | HYUNDAI, S. Korea | MAN-B&amp;W | Nov-22 | 80,735 | $ 45.0m | undisclosed |
 | LPG | CLIPPER SIRIUS | 54,048 | 2008 | HYUNDAI, S. Korea | MAN-B&amp;W | Jun-23 | 73,537 | $ 50.0m | undisclosed |
 | LPG | SCALI REALI | 3,804 | 2010 | BESIKTAS GEMI, Turkey | Wartsila | Aug-25 | 3,295 |  |  |
 | LPG | SCALI SANLORENZO | 3,801 | 2010 | NAVAL SSZ ZAO, Ukraine | Wartsila | May-25 | 3,294 | $ 39.0m | undisclosed |
-
 ## Secondhand Sales
+
 | Sector | Size | Containers | Name | Teu | Built | Yard | M/E | SS due | Gear |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | OSAKA | 4,506 | 2008 | SAMSUNG, S. Korea | MAN-B&amp;W | Sep-23 |  | $ 60.0m | undisclosed |
@@ -367,6 +372,7 @@ Last week newbuilding market was muted regarding the dry and the wet sectors, wh
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | Markets | 09/09/2022 | 02/09/2022 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -401,6 +407,7 @@ Dry bulk units have caught the attention of some scrap yards as the recent downw
 | 9/Sep/22 | 580 | 570 | 570 | 250 |
 
 ## Indicative Demolition Prices ($/ldt)
+
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/Ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CHEVAL BLEU | 149,745 | 21,882 | 1995 | MITSUI CHIBA, Japan | TANKER | $ 615/Ldt | undisclosed |  |

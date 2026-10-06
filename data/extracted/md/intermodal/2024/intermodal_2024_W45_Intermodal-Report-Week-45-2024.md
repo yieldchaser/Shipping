@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By <u>Nikos Tagoulis, Research Analyst</u>
 
@@ -15,6 +17,7 @@ Shifting to tonnage supply, the containership fleet is expanding at a robust pac
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 08/11/24 WS points | 08/11/24 $/day | 01/11/24 WS points | 01/11/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 50 | 29,193 | 53 | 31,801 | -8.2% | 39,466 | 20,330 |
@@ -36,9 +39,9 @@ Shifting to tonnage supply, the containership fleet is expanding at a robust pac
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | DORIC BREEZE | 20132021 | 51,565 dwt |  |  |
-
+| 36 mos | DORIC BREEZE | 20132021 | 51,565 dwt | $23,000/day | ST Shipping 49,999 dwt Oman Shipping |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 8/Nov/23 | 100 | 130 | 140 |
@@ -54,8 +57,8 @@ Shifting to tonnage supply, the containership fleet is expanding at a robust pac
 | 8/Sep/24 | 85 | 85 | 100 |
 | 8/Oct/24 | 90 | 80 | 95 |
 | 8/Nov/24 | 95 | 75 | 90 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 8/Nov/23 | 180 | 170 | 190 | 200 |
@@ -123,10 +126,10 @@ As far as clean is concerned, LR2s and LR1s are falling further, as low fixing i
 | BHSI | 703 | $12,648 | 718 | $12,926 | -15 | -2.2% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4/6 mos | ENGIADINA | 2011 | 58,682 dwt |  |  |
-| 12 mos | YANGZE 23 | 2022 | 82,367 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4/6 mos | ENGIADINA | 2011 | 58,682 dwt | dely Vung An prompt redel worldwide | $13,500/day | cnr |
+| 12 mos | YANGZE 23 | 2022 | 82,367 dwt | dwt dely CJK 30/31 Oct redel worldwide | index linked at 112% to BPI | Tongli |
 
 ## TC Rates
 | Sector | Tenor | 08/11/24 | 01/11/24 | ±% | Diff | 2023 | 2022 |
@@ -141,6 +144,7 @@ As far as clean is concerned, LR2s and LR1s are falling further, as low fixing i
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 8/Nov/23 | 2200 | 1500 | 1200 | 1000 | 1500 |
@@ -158,6 +162,7 @@ As far as clean is concerned, LR2s and LR1s are falling further, as low fixing i
 | 8/Nov/24 | 2100 | 1400 | 1200 | 1000 | 1300 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 8/Nov/23 | 18000 | 12000 | 10000 | 9000 |
@@ -197,6 +202,7 @@ Supramax 10TC averaged \$ 12,082/day down -8.14% w-o-w, while the Handysize 7TC 
 # Secondhand Sales
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | J19 | GOLDEN YOSA | 19,701 | 2008 | FUKUOKA, Japan | Mitsubishi | Jun-28 | DH | $ 21.2m | undisclosed | StSt |
@@ -286,6 +292,7 @@ In Turkey, market conditions remained at a standstill, with muted demand and lim
 | USD/TRY | 33.10 | 32.95 | *0.5%* | 33.12 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MERATUS SIBOLGA | 3,650 | 1,340 | 1993 | PAL INDONESIA, Indonesia | GENERAL CARGO | undisclosed | undisclosed | as is Batam, Indonesia |

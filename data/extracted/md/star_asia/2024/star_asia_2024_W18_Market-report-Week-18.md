@@ -48,25 +48,25 @@ In the Atlantic, the downward trend persisted as demand remained subdued across 
 
 # Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BDI | 1,876 |  | 1,721 |  | 1,558 | +9.01% |  | +20.41% |
-| BCI | 2,673 |  | 2,172 |  | 2,384 | +23.07% |  | +12.12% |
-| BPI | 1,884 |  | 1,878 |  | 1,501 | +0.32% |  | +25.52% |
-| BSI | 1,458 |  | 1,495 |  | 1,096 | +2.47% |  | +33.03% |
-| BHSI | 729 |  | 751 Dry Bulk (Weekly |  | 645 Values Average) | -2.93% |  | +13.02% |
-| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| CAPE | 180,000 | 70 |  |  | 76 | 63 | 45 | 29 |
-| KAMSARMAX | 82,000 | 37 |  |  | 43 | 37 | 29 | 19 |
-| SUPRAMAX | 56,000 | 34 |  |  | 42 | 35 | 28 | 16 |
-| HANDY | 38,000 | 30 |  |  | 34 | 27 | 20 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |
-|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 |  | 25,000 |  | 18,500 | +4.00% |  | +40.54% |
-| PANAMAX | 75,000 |  | 15,550 |  | 15,150 | +2.89% |  | +5.61% |
-| SUPRAMAX | 58,000 |  | 16,500 |  | 14,500 | -3.03% |  | +10.34% |
-| HANDYSIZE | 38,000 |  | 14,250 |  | 11,000 | -1.75% |  | +27.27% |
+| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+|---|---|---|---|---|---|---|---|---|---|
+| BDI | 1,876 |  |  | 1,721 |  | 1,558 | +9.01% |  | +20.41% |
+| BCI | 2,673 |  |  | 2,172 |  | 2,384 | +23.07% |  | +12.12% |
+| BPI | 1,884 |  |  | 1,878 |  | 1,501 | +0.32% |  | +25.52% |
+| BSI | 1,458 |  |  | 1,495 |  | 1,096 | +2.47% |  | +33.03% |
+| BHSI | 729 |  |  | 751 Dry Bulk (Weekly |  | 645 Values Average) | -2.93% |  | +13.02% |
+| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| CAPE | 180,000 |  | 70 |  |  | 76 | 63 | 45 | 29 |
+| KAMSARMAX | 82,000 |  | 37 |  |  | 43 | 37 | 29 | 19 |
+| SUPRAMAX | 56,000 |  | 34 |  |  | 42 | 35 | 28 | 16 |
+| HANDY | 38,000 |  | 30 |  |  | 34 | 27 | 20 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |  |
+|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 | 26,000 |  | 25,000 |  | 18,500 | +4.00% |  | +40.54% |
+| PANAMAX | 75,000 | 16,000 |  | 15,550 |  | 15,150 | +2.89% |  | +5.61% |
+| SUPRAMAX | 58,000 | 16,000 |  | 16,500 |  | 14,500 | -3.03% |  | +10.34% |
+| HANDYSIZE | 38,000 | 14,000 |  | 14,250 |  | 11,000 | -1.75% |  | +27.27% |
 
 ## Shipbroking (www.star-asia.com.sg)
 

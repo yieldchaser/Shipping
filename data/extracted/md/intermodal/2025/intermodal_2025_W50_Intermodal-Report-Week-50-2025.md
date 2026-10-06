@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 <mark>By Nikos Tagoulis, Senior Analyst</mark>
 
@@ -19,6 +21,7 @@ However, the net impact on dry bulk ton-miles will depend on how markets adapt t
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 12/12/2025 WS points | 12/12/2025 $/day | 05/12/2025 WS points | 05/12/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 129 | 129,097 | 125 | 124,723 | **3.5%** | 37,255 | 39,466 |
@@ -38,6 +41,7 @@ However, the net impact on dry bulk ton-miles will depend on how markets adapt t
 |  | 50k | ARA-UKC | 180 | 21,735 | 201 | 27,785 | -21.8% | 26,872 | 46,194 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 12/Dec/24 | 50 | 100 | 150 |
@@ -53,8 +57,8 @@ However, the net impact on dry bulk ton-miles will depend on how markets adapt t
 | 12/Oct/25 | 55 | 105 | 155 |
 | 12/Nov/25 | 120 | 180 | 220 |
 | 12/Dec/25 | 130 | 190 | 230 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 12/Dec/24 | 100 | 150 | 200 | 250 |
@@ -120,9 +124,9 @@ Aframax markets told a more divergent story. The Mediterranean rebounded sharply
 | BHSI | 805 | $14,482 | 841 | $15,146 | -36 | -4.4% | 702 | 586 |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6 to 9 mos | BBG Bright | 2012 | 82,043 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 to 9 mos | BBG Bright | 2012 | 82,043 dwt | dely Haldia 9 Dec redel worldwide | $13,100/day | Reachy |
 
 ### TC Rates
 | Sector | Tenor | 12/12/2025 | 05/12/2025 | ±% | Diff | 2024 | 2023 |
@@ -137,6 +141,7 @@ Aframax markets told a more divergent story. The Mediterranean rebounded sharply
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 12/Dec/24 | 1200 | 1000 | 1000 | 800 | 1000 |
@@ -154,6 +159,7 @@ Aframax markets told a more divergent story. The Mediterranean rebounded sharply
 | 12/Dec/25 | 3800 | 1800 | 1600 | 900 | 2200 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 12/Dec/24 | 10000 | 10000 | 10000 | 10000 |
@@ -292,8 +298,8 @@ In Turkey, activity is slowing ahead of year-end. Despite recyclers' interest, f
 | USD/INR | 90.58 | 89.95 | 0.70% | 90.58 |
 | USD/PKR | 280.23 | 280.50 | -0.10% | 284.95 |
 | USD/TRY | 42.70 | 42.52 | 0.41% | 42.70 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | SAGE SAGITTARIUS | 105,708 | 19,628 | 2001 | IMABARI, Japan | BC | $ 426/Ldt | Indian |

@@ -117,9 +117,13 @@ In the Middle East, the Aframax market concluded the week with lower freight rat
 
 Clean:
 
-**LR:** In the MEG, LR2 concluded the week on a firm note. A consistent cargo flow for Africa has steadily absorbed available tonnage, lending strong support to rates. TC1 ended the week 18 points higher at WS147. Similar was also noted in LR1with TC5 closing at WS156.
+**LR: In the MEG, LR2 concluded the week on a firm note. A consistent cargo flow for Africa**
 
-**MR:** The typical summer slowdown returns, as the number of available vessels uptick. TC17 from MEG/E.Africa fell at the start of week 20 points only to regain back at closing at WS245. Similar was also noted in the UKC region as TC2 ended the week at WS120.
+has steadily absorbed available tonnage, lending strong support to rates. TC1 ended the week 18 points higher at WS147. Similar was also noted in LR1with TC5 closing at WS156.
+
+**MR: The typical summer slowdown returns, as the number of available vessels uptick.**
+
+TC17 from MEG/E.Africa fell at the start of week 20 points only to regain back at closing at WS245. Similar was also noted in the UKC region as TC2 ended the week at WS120.
 
 ## Baltic Exchange Tanker Indices
 
@@ -281,13 +285,21 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 Sub-Continent and Turkey ferrous scrap markets insights
 
-**India:** The imported scrap market in India has grown quiet following a brief upturn earlier in the week. A sharp appreciation in the U.S. dollar, combined with lacklustre domestic steel demand, has significantly dampened buying interest. This has created a noticeable gap between sellers and buyers, with offers for European-origin shredded scrap heard at US$368-372 per ton CFR. Bids from Indian mills, however, are lagging by nearly US$10 per ton, reflecting the cautious domestic mood.
+**India: The imported scrap market in India has grown quiet following a brief upturn earlier**
 
-**Pakistan:** In Pakistan, the market sentiment remains weak, influenced by both the ongoing monsoon slowdown and the downtrend in China's steel sector. Despite the cautious atmosphere, importers remain engaged in the market, with some recent bookings of UAE-origin shredded scrap reported in the range of US$390-394 per ton. However, the broader price trend is softening, with most deal levels having eased by US$4-5 per ton recently, and further weakening is expected until seasonal and regional market conditions improve.
+in the week. A sharp appreciation in the U.S. dollar, combined with lacklustre domestic steel demand, has significantly dampened buying interest. This has created a noticeable gap between sellers and buyers, with offers for European-origin shredded scrap heard at US$368-372 per ton CFR. Bids from Indian mills, however, are lagging by nearly US$10 per ton, reflecting the cautious domestic mood.
 
-**Bangladesh:** Activity in Bangladesh is particularly subdued, with no major inquiries reported as persistent monsoon rains continue to hamper logistics and limit new bookings. The market is quiet, with recent offers for containerised HMS 80:20 material holding around US$355 per ton, while Australian shredded was quoted near US$375 per ton.
+**Pakistan: In Pakistan, the market sentiment remains weak, influenced by both the**
 
-**Turkey:** The bellwether Turkish deep-sea market is currently in a holding pattern. Most steel mills have covered their immediate needs and are now waiting for clearer demand signals from the finished steel market before committing to fresh bookings.
+ongoing monsoon slowdown and the downtrend in China's steel sector. Despite the cautious atmosphere, importers remain engaged in the market, with some recent bookings of UAE-origin shredded scrap reported in the range of US$390-394 per ton. However, the broader price trend is softening, with most deal levels having eased by US$4-5 per ton recently, and further weakening is expected until seasonal and regional market conditions improve.
+
+**Bangladesh: Activity in Bangladesh is particularly subdued, with no major inquiries**
+
+reported as persistent monsoon rains continue to hamper logistics and limit new bookings. The market is quiet, with recent offers for containerised HMS 80:20 material holding around US$355 per ton, while Australian shredded was quoted near US$375 per ton.
+
+**Turkey: The bellwether Turkish deep-sea market is currently in a holding pattern. Most**
+
+steel mills have covered their immediate needs and are now waiting for clearer demand signals from the finished steel market before committing to fresh bookings.
 
 ### Shipbroking (www.star-asia.com.sg)
 

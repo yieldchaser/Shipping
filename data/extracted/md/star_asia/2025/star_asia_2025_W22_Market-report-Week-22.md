@@ -158,23 +158,23 @@ Container freight rates experienced dramatic increases this week, with the Trans
 
 # Containers Values
 
-| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| (BY TEU) | GEARLESS | CONTRACT | DELIVERY | YEARS |
-| 900 ~ 1,200 | Geared | 24 | 26 | 10 |
-| 1,600 ~ 1,850 | Gearless | 31 | 35 | 18 |
-| 2,700 ~ 2,900 | Gearless | 44 | 46 | 26 |
-| 5,100 ~ 5,300 | Gearless | 59 | 82 | 41 |
-| *(amount in USD | million) | \ |  |  |
-|  |  | S&P | Containers |  |
-|  |  |  |  | / |
-| VESSEL NAME | TYPE | TEU | BUILT |  |
-|  |  |  |  |  |
-| ST SUCCESS | SUB PMAX | 2,553 | JAPAN |  |
-| CAPE QUEST | SUB PMAX | 2,190 | CHINA |  |
-| SLS AZURE | FEEDER | 1,740 | CHINA |  |
-| SHUI SPIRIT | FEEDER | 1,679 | S. KOREA | BUYERS |
+| CONTAINERS | GEARED / | NB |  | NB PROMPT |  |  | 15 |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
+| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
+| 900 ~ 1,200 | Geared | 24 |  | 26 | 20 | 16 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 |  | 35 | 29 (E) | 23 (E) | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 |  | 46 | 39 | 35 | 26 |
+| 5,100 ~ 5,300 | Gearless | 59 |  | 82 | 66 | - | 41 |
+| *(amount in USD | million) | \|=Ecounits |  |  |  |  |  |
+|  |  | S&P |  | Containers | Report |  |  |
+|  |  |  |  |  | PRICE | COMMENTS | / |
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT |  |  |  |
+|  |  |  |  |  | (MILLION) | USD BUYERS |  |
+| ST SUCCESS | SUB PMAX | 2,553 | 2010 | JAPAN | 27.5 | UNDISCLOSED |  |
+| CAPE QUEST | SUB PMAX | 2,190 | 2017 | CHINA | 35.0 | UNDISCLOSED |  |
+| SLS AZURE | FEEDER | 1,740 | 2000 | CHINA | 9.2 | UNDISCLOSED |  |
+| SHUI SPIRIT | FEEDER | 1,679 | 2000 | S. KOREA | 8.0 | EUROPEAN | BUYERS |
 
 ## Shipbroking (www.star-asia.com.sg)
 

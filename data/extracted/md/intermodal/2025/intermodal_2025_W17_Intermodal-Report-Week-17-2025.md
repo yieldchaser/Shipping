@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -30,8 +32,8 @@ In conclusion, the USTR's proposed fees will impact various shipping sectors, wi
 | 12 mos | High Challenge | 2017 |
 | --- | --- | --- |
 |  | $20,500/day |  |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 25/Apr/24 | 50 | 120 | 180 |
@@ -47,8 +49,8 @@ In conclusion, the USTR's proposed fees will impact various shipping sectors, wi
 | 25/Feb/25 | 65 | 120 | 170 |
 | 25/Mar/25 | 70 | 125 | 160 |
 | 25/Apr/25 | 75 | 130 | 150 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 25/Apr/24 | 200 | 180 | 250 | 280 |
@@ -64,8 +66,8 @@ In conclusion, the USTR's proposed fees will impact various shipping sectors, wi
 | 25/Feb/25 | 100 | 80 | 150 | 180 |
 | 25/Mar/25 | 90 | 70 | 140 | 170 |
 | 25/Apr/25 | 80 | 60 | 130 | 160 |
-
 ## Spot Rates
+
 | Sector | Size | Routes | 25/04/2025 WS points | 25/04/2025 $/day | 18/04/2025 WS points | 18/04/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 74 | 59,878 | 60 | 44,280 | **35.2%** | 37,255 | 39,466 |
@@ -131,10 +133,10 @@ The Aframax sector displayed mixed dynamics. In the Mediterranean, initial optim
 | BHSI | 568 | $10,219 | 569 | $10,236 | -1 | -0.2% | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 8 to 10 mos | Grizzly | 2013 | 81,395 dwt |  |  |
-| 5 to 7 mos | Efrossini | 2025 | 81,800 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 8 to 10 mos | Grizzly | 2013 | 81,395 dwt | delay Hong Kong 28 Apr red worldwide | $12,000/day | Summit Trading |
+| 5 to 7 mos | Efrossini | 2025 | 81,800 dwt | Oshima 24/26 Apr red worldwide | $16,000/day | ADMI |
 
 ## TC Rates
 | Sector | Tenor | 25/04/2025 | 18/04/2025 | ±% | Diff | 2024 | 2023 |
@@ -149,6 +151,7 @@ The Aframax sector displayed mixed dynamics. In the Mediterranean, initial optim
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 25/Apr/24 | 3000 | 1800 | 1500 | 800 | 1800 |
@@ -166,6 +169,7 @@ The Aframax sector displayed mixed dynamics. In the Mediterranean, initial optim
 | 25/Apr/25 | 1700 | 1100 | 900 | 500 | 1100 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 25/Apr/24 | 18000 | 15000 | 12000 | 8000 |
@@ -299,6 +303,7 @@ Finally, in Turkey, the ship recycling market remains under considerable strain.
 | USD/TRY | 38.39 | 37.65 | 2.0% | 37.99 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CHARLENE | 28,249 | 6,068 | 1996 | KANASASHI, Japan | BC | $465/Ldt | Bangladeshi |  |

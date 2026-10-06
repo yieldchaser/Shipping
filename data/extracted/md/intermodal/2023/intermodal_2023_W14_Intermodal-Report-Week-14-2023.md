@@ -56,6 +56,7 @@ Shanghai 200122 China
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 07/04/23 WS points | 07/04/23 $/day | 31/03/23 WS points | 31/03/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 69 | 54,011 | 91 | 71,311 | -24.3% | 20,330 | 2,246 |
@@ -74,14 +75,14 @@ Shanghai 200122 China
 | **Dirty** | 55K | UKC-USG | 200 | 40,822 | 205 | 42,780 | -4.6% | 19,982 | 2,822 |
 |  | 55K | MED-USG | 200 | 40,552 | 205 | 42,379 | -4.3% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 328 | 71,839 | 356 | 80,935 | -11.2% | 40,364 | 8,548 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | YASA SOUTHERN CROSS | 2012 | 318,348 dwt |  |  |
-| 24 mos | RHYTHMIC | 2019 | 159,196 dwt |  |  |
-
+| 6 mos | YASA SOUTHERN CROSS | 2012 | 318,348 dwt | $80,000/day | ExxonMobil |
+| 24 mos | RHYTHMIC | 2019 | 159,196 dwt | $50,000/day | Phillips 66 |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | DIRTY - WS RATES |  |  |  |
@@ -98,8 +99,8 @@ Shanghai 200122 China
 | 7/Feb/23 | 140 | 200 | 300 |
 | 7/Mar/23 | 150 | 250 | 350 |
 | 7/Apr/23 | 160 | 180 | 180 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | CLEAN - WS RATES |  |  |  |  |
@@ -132,8 +133,8 @@ Shanghai 200122 China
 | **Handy** | **52k 3yr TC** | 25,500 | 25,500 | 0.0% | 0 | 16,426 | 13,804 |
 |  | **36k 1yr TC** | 27,000 | 27,000 | 0.0% | 0 | 18,601 | 11,292 |
 |  | **36k 3yr TC** | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Apr-23 avg | Mar-23 avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 99.0 | 99.0 | 0.0% | 80.2 | 69.7 | 71.5 |
@@ -171,12 +172,13 @@ In the LR1 sector we had the enbloc sale of the "NAUTICAL DEBORAH" (75,343dwt-bl
 | BHSI | 643 | $11,578 | 687 | $12,358 | -44 | -6.3% | 1,181 | 1,424 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | DORIC KATANA | 2021 | 82,448 dwt |  |  |
-| 6 to 9 mos | SOPHOCLES GRAECIA | 2020 | 82,039 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | DORIC KATANA | 2021 | 82,448 dwt | dely China 15 Apr | $19,000/day | Louis Dreyfus |
+| 6 to 9 mos | SOPHOCLES GRAECIA | 2020 | 82,039 dwt | dely Qingdao 10 Apr | $19,000/day | Oldendorff |
 
 ## TC Rates
+
 | Sector | Tenor | 07/04/23 | 31/03/23 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 19,250 | 19,250 | 0.0% | 0 | 21,394 | 26,392 |
@@ -189,6 +191,7 @@ In the LR1 sector we had the enbloc sale of the "NAUTICAL DEBORAH" (75,343dwt-bl
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 7/Apr/22 | 2800 | 2700 | 2600 | 1500 | 2700 |
@@ -206,6 +209,7 @@ In the LR1 sector we had the enbloc sale of the "NAUTICAL DEBORAH" (75,343dwt-bl
 | 7/Apr/23 | 1800 | 1800 | 1700 | 1000 | 1800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 7/Apr/22 | 12000 | 26000 | 27000 | 25000 |
@@ -279,6 +283,7 @@ In the Ultramax sector we had the sale of the "ATLANTIC MONTERREY" (63,590dwt-bl
 | HANDY | BLACK FOREST | 32,751 | 2003 | KANDA, Japan | Mitsubishi | Aug-23 | 4 X 30,5t CRANES | high $ 8.0m | Chinese | BWTS fitted |
 
 ## Secondhand Sales
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | CMA CGM PELLEAS | 9,661 | 2008 | HYUNDAI, S. Korea | Wartsila | Aug-23 |  | $ 52.3m | French (CMA CGM) | purchase option exercised |
@@ -290,6 +295,7 @@ In the Ultramax sector we had the sale of the "ATLANTIC MONTERREY" (63,590dwt-bl
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 7-Apr-23 | 31-Mar-23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -346,8 +352,8 @@ The past week was rather slow since many parts of the world were celebrating the
 | 7/Feb/23 | 60 | 33 | 32 | 29 |
 | 7/Mar/23 | 60 | 33 | 32 | 29 |
 | 7/Apr/23 | 60 | 33 | 32 | 29 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4+4 | Tanker | 18,500 dwt | Wuhu, China | 2025-2026 | HK based (EGPN) | $ 30.0m | chemical Tanker |
@@ -360,6 +366,7 @@ The past week was rather slow since many parts of the world were celebrating the
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 07/04/23 | 31/03/23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -372,8 +379,8 @@ The past week was rather slow since many parts of the world were celebrating the
 | India | 555 | 555 | 0.0% | 583 | 508 | 335 |
 | Pakistan | 535 | 535 | 0.0% | 587 | 526 | 338 |
 | Turkey | 330 | 330 | 0.0% | 304 | 276 | 198 |
-
 ## Currencies
+
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | **USD/BDT** | 105.81 | 107.20 | 1.3% | 107.40 |
@@ -399,8 +406,8 @@ The demolition market remained subdued last week with a small number of scrappin
 | 7/Feb/23 | 560 | 560 | 560 | 300 |
 | 7/Mar/23 | 590 | 580 | 580 | 320 |
 | 7/Apr/23 | 595 | 585 | 580 | 325 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HL POWER | 149,322 | 18,147 | 1998 | HYUNDAI, S. Korea | BC | $ 500/Ldt | undisclosed | "as-is" S. Korea, for HKC recycling |

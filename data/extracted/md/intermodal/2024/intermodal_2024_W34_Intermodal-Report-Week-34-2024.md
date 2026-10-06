@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 *By Yiannis Parganas, Head of Research Department*
 
@@ -22,6 +24,7 @@ New environmental regulations, including the recent implementation of the EU ETS
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 23/08/24 WS points | 23/08/24 $/day | 16/08/24 WS points | 16/08/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 53 | 31,743 | 62 | 40,662 | -21.9% | 39,466 | 20,330 |
@@ -43,9 +46,9 @@ New environmental regulations, including the recent implementation of the EU ETS
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | DESH VIRAAT MARAN APOLLO | 2008 2016 | 320,400 dwt |  |  |
-
+| 12 mos | DESH VIRAAT MARAN APOLLO | 2008 2016 | 320,400 dwt | $32,100/day | IOC 318,900 dwt Marathon Petroleum |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 23/Aug/23 | 0 | 100 | 100 |
@@ -61,8 +64,8 @@ New environmental regulations, including the recent implementation of the EU ETS
 | 23/Jun/24 | 50 | 100 | 150 |
 | 23/Jul/24 | 50 | 100 | 100 |
 | 23/Aug/24 | 50 | 100 | 100 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 23/Aug/23 | 150 | 150 | 200 | 180 |
@@ -126,10 +129,10 @@ The product tanker market was characterised by mixed performance across segments
 | BHSI | 753 | $13,553 | 754 | $13,576 | -1 | -0.2% | 586 | 1,181 |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 7/10 mos | W-LION | 2014 | 63,308 dwt |  |  |
-| 10/12 mos | ASTARTE | 2013 | 81,513 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 7/10 mos | W-LION | 2014 | 63,308 dwt | delay Singapore 20 Aug redel worldwide | $17,000/day | Oldendorff |
+| 10/12 mos | ASTARTE | 2013 | 81,513 dwt | delay Ho Ping 11 Aug redel worldwide | $14,000/day | Paralos |
 
 ### TC Rates
 | Sector | Tenor | 23/08/24 | 16/08/24 | ±% | Diff | 2023 | 2022 |
@@ -144,6 +147,7 @@ The product tanker market was characterised by mixed performance across segments
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 23/Aug/23 | 1000 | 1200 | 1000 | 800 | 1100 |
@@ -161,6 +165,7 @@ The product tanker market was characterised by mixed performance across segments
 | 23/Aug/24 | 2400 | 1500 | 1150 | 850 | 1500 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 23/Aug/23 | 10000 | 12000 | 11000 | 10000 |
@@ -279,6 +284,7 @@ The demolition market remains under pressure as fluctuations in the global freig
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | PRADA | 112,201 | 18,860 | 2001 | HYUNDAI, S. Korea | TANKER | $ 480.0m | undisclosed |

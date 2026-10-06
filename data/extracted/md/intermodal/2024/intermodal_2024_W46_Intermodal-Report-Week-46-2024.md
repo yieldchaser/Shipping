@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By <u>Yiannis Parganas, Head of Research Department</u>
 
@@ -54,6 +56,7 @@ Looking ahead to 2025, the anticipated depreciation of secondhand vessel prices,
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 15/11/24 WS points | 15/11/24 $/day | 08/11/24 WS points | 08/11/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 57 | 37,514 | 50 | 29,193 | **28.5%** | 39,466 | 20,330 |
@@ -71,14 +74,14 @@ Looking ahead to 2025, the anticipated depreciation of secondhand vessel prices,
 | Dirty | 55K | UKC-USG | 125 | 13,443 | 140 | 17,330 | -22.4% | 27,274 | 19,982 |
 |  | 55K | MED-USG | 125 | 13,060 | 140 | 17,252 | -24.3% | 27,060 | 21,231 |
 |  | 50k | ARA-UKC | 121 | 4,329 | 117 | 3,010 | **43.8%** | 46,194 | 40,364 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | TAVISTOCK | 2019 | 114,364 dwt |  |  |
-| 3 mos | NAVE EQUATOR | 2009 | 49,999 dwt |  |  |
 
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | TAVISTOCK | 2019 | 114,364 dwt | DELY WEST | $42,500/day | Chevron |
+| 3 mos | NAVE EQUATOR | 2009 | 49,999 dwt | DELY EAST NOV/24 | $23,500/day | Pertamina |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 15/Nov/23 | 50 | 120 | 180 |
@@ -94,8 +97,8 @@ Looking ahead to 2025, the anticipated depreciation of secondhand vessel prices,
 | 15/Sep/24 | 50 | 120 | 150 |
 | 15/Oct/24 | 50 | 120 | 150 |
 | 15/Nov/24 | 50 | 120 | 120 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 15/Nov/23 | 120 | 180 | 200 | 100 |
@@ -156,15 +159,17 @@ Last, MR rates in the Atlantic Arena plummeted with Atlantic Basket TCE standing
 ## Dry Bulk Market
 
 ### Baltic Indices (1-Year Trend)
+
 | BDI BCI BPI BSI BHSI | 15/11/24 Index 1,785 3,229 1,212 1,019 685 | 15/11/24 $/day$26,777 $10,906 $10,848 $12,337 | 08/11/24 Index 1,495 2,316 1,176 1,079 703 | 08/11/24 $/day$19,210 $10,586 $11,608 $12,648 | Point Diff Diff 290 913 36 -60 -18 | $/day ±% ±%39.4% 3.0% -6.5% -2.5% | 2023 Index Index 1,395 2,007 1,442 1,031 586 | 2022 Index Index 1,931 1,955 2,298 2,006 1,181 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 5/7 mos | DSI PYXIS | 20182008 | 60,362 dwt |  |  |
+| 5/7 mos | DSI PYXIS | 20182008 | 60,362 dwt | $13,100/day | Stone Shipping 82,562 dwt Louis Dreyfus |
 
 ### TC Rates
+
 | Sector | Tenor | 15/11/2024 | 08/11/2024 | ±% | Diff | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | 180K 1yr TC | 25,000 | 24,000 | 4.2% | 1,000 | 17,957 | 21,394 |
@@ -177,6 +182,7 @@ Last, MR rates in the Atlantic Arena plummeted with Atlantic Basket TCE standing
 | Handysize | 32K 3yr TC | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Index BCI BPI BSI BHSI BDI | 15/Nov/23 2,200 1,600 1,400 1,000 1,500 | 15/Dec/23 6,800 3,000 2,500 1,800 3,000 | 15/Jan/24 1,800 1,400 1,200 900 1,300 | 15/Feb/24 2,000 1,500 1,300 1,000 1,400 | 15/Mar/24 3,800 1,800 1,500 1,100 1,600 | 15/Apr/24 3,200 1,600 1,400 1,000 1,500 | 15/May/24 2,800 1,700 1,500 1,100 1,600 | 15/Jun/24 2,600 1,600 1,400 1,000 1,500 | 15/Jul/24 3,000 1,900 1,600 1,200 1,700 | 15/Aug/24 2,400 1,700 1,500 1,100 1,600 | 15/Sep/24 2,200 1,600 1,400 1,000 1,500 | 15/Oct/24 2,800 1,800 1,500 1,100 1,600 | 15/Nov/24 3,000 1,700 1,400 1,000 1,500 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
@@ -200,6 +206,7 @@ Supramax 10TC averaged \$ 11,110/day down -8.04% w-o-w, while the Handysize 7TC 
 # Secondhand Sales
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR1 | SUNFLYTE | 37,272 | 2001 | HYUNDAI MIPO, S. Korea | B\&W | Dec-26 | DH | $ 11.5m | undisclosed |
@@ -287,6 +294,7 @@ In anticipation of the Hong Kong Convention taking effect in forthcoming June an
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SK SUMMIT | 76,064 | 29,971 | 1999 | DAEWOO, S. Korea | GAS TANKER | 469,5/ldt | undisclosed |  |

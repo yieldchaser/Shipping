@@ -88,9 +88,10 @@ ISO 9001 BUREAU VERITAS Certification
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | ALIGOTE | 2010 | 74,192 dwt |  |  |
+| 6 mos | ALIGOTE | 2010 | 74,192 dwt | $15,250/day | Trafigura |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 7/Jan/21 | 60 | 80 | 90 |
@@ -108,6 +109,7 @@ ISO 9001 BUREAU VERITAS Certification
 | 7/Jan/22 | 45 | 90 | 110 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points | WS points |
@@ -182,12 +184,13 @@ In the MR2 sector we had the sale of the "PS LONDON" (50,992dwt-blt '08, S. Kore
 | BHSI | 1,300 | $23,402 | 1,466 | $26,384 | -166 | -11.3% | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | BRAVE SAILOR | 2011 | 176,283 dwt |  |  |
-| 5 to 8 mos | EUROPA GRAECA | 2019 | 82,043 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | BRAVE SAILOR | 2011 | 176,283 dwt | Bayuquan spot 1 January | $25,000/day | Olam |
+| 5 to 8 mos | EUROPA GRAECA | 2019 | 82,043 dwt | Panjin prompt | $28,500/day | Oldendorff |
 
 ### Baltic Indices (1-Year Trend)
+
 | Index 7/Jan/21 7/Jan/21 7/Jan/21 7/Jan/21 7/Jan/21 | BCI BPI BSI BHSI BDI |
 | --- | --- |
 | 7/Jan/21 | 2,500 |
@@ -197,6 +200,7 @@ In the MR2 sector we had the sale of the "PS LONDON" (50,992dwt-blt '08, S. Kore
 | 7/Jan/21 | 3,000 |
 
 ## TC Rates
+
 | Sector | Tenor | 07/01/2022 | 31/12/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 25,500 | 25,750 | -1.0% | -250 | 15,561 | 18,839 |
@@ -213,6 +217,7 @@ In the MR2 sector we had the sale of the "PS LONDON" (50,992dwt-blt '08, S. Kore
 |  | **32K 3yr TC** | 13,000 | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 7/Jan/21 | 25000 |  |  |  |
@@ -255,6 +260,7 @@ In the Supramax sector we had the sale of the "SPARROW" (53,459dwt-blt '05, Japa
 
 # Secondhand Sales
 ## Bulk Carriers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | CHLOE V | 320,261 | 2011 | DSME, S. Korea | Wartsila |  | DH | $ 42.1m | Greek (TMS Tanker) | auction sale, scrubber fitted, sale incl. bunkers, DD due Mar 2022 |
@@ -278,6 +284,7 @@ In the Supramax sector we had the sale of the "SPARROW" (53,459dwt-blt '05, Japa
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | ASL JUPITER | 87,052 | 2005 | IHI MARINE UNITED, Japan | Sulzer | Jul-23 |  | $ 13.15m | Chinese |  |
@@ -288,8 +295,8 @@ In the Supramax sector we had the sale of the "SPARROW" (53,459dwt-blt '05, Japa
 | HANDY | LONGSHORE | 34,399 | 2010 | SPP, S. Korea | MAN-B&amp;W | Jan-25 | 4 X 35t CRANES | $ 15.0m | European | BWTS fitted |
 | HANDY | UNIVERSE HONESTY | 28,520 | 2000 | IMABARI, Japan | B&amp;W | Mar-25 | 4 X 30,5t CRANES | $ 6.8m | undisclosed | BWTS fitted |
 | HANDY | BAO TENG | 24,086 | 1997 | SAIKI, Japan | Mitsubishi | Jul-22 | 4 X 30t CRANES | region $5.0m | undisclosed |  |
-
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | CHESAPEAKE BAY | 4,253 | 2003 | SAMSUNG, S. Korea | B\&amp;W | Apr-23 |  | $ 55.0m | German (Hapag-Lloyd) |
@@ -302,6 +309,7 @@ In the Supramax sector we had the sale of the "SPARROW" (53,459dwt-blt '05, Japa
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 07/01/2022 | 31/12/2021 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -364,6 +372,7 @@ The first newbuilding contracts of 2022 signals an exciting January for the newb
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | Markets | 07/01/2022 | 31/12/2021 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -394,8 +403,8 @@ Not much has changed in the demolition front which continues to see a scarcity o
 | 7/Nov/21 | 625 | 595 | 585 | 310 |
 | 7/Dec/21 | 620 | 560 | 570 | 325 |
 | 7/Jan/22 | 615 | 550 | 560 | 335 |
-
 ## Indicative Demolition Prices ($/ldt)
+
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/Ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | APODA | 23,469 | 9,835 | 1997 | HYUNDAI HI, S. Korea | GAS TANKER | $ 550/Ldt | Indian | as-is Singapore/Batam, HKC recycling |

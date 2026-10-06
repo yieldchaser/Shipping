@@ -320,19 +320,19 @@ Anchorage & Beaching Position (October 2023)
 
 ## Page 14
 
-| FRIO OLYMPIC | REEFER | 4,698 | 28.09.2023 | 04.10.2023 |
-| --- | --- | --- | --- | --- |
-| HONG KONG | CONTAINER | 7,009 | 02.10.2023 | 04.10.2023 |
-| Chattogram, The ship recycling markets sales for ship scrap Nevertheless, issues with successfully securing L.C.s Looking ahead, the ship momentum as mills continue Anchorage | Bangladesh have been plates, driven L.C.s have persisted, lately. recycling industry their & Beaching | recovering domestic mills only a Bangladesh activities. Position | with the resumption reinitiating their limited number of is expected to (October 2023) | of domestic purchases. ship recyclers gradually regain |
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| TAI H | RORO | 4,043.72 | 10.10.2023 | AWAITING |
-| YI DING 9 | TANKER | 1,552.20 | 21.09.2023 | AWAITING |
-| HARIN NAVEE 10 | GEN.CARGO | 959 | 01.10.2023 | 04.10.2023 |
-| SIRITANASIN | TANKER | 744 | 26.09.2023 | 04.10.2023 |
-| ANA | BULKER | 7,981 | 28.09.2023 | 04.10.2023 |
-| EXPRESS 6 | REEFER | 1,264.50 | 20.09.2023 | 03.10.2023 |
-| HAVEN GUARDER | BULKER | 5,983 | 26.09.2023 | 02.10.2023 |
-| HENG HUI 2 | CONTAINER | 14,775 | 18.09.2023 | 02.10.2023 |
+| FRIO OLYMPIC | REEFER |  | 4,698 | 28.09.2023 | 04.10.2023 |
+|---|---|---|---|---|---|
+| HONG KONG | CONTAINER |  | 7,009 | 02.10.2023 | 04.10.2023 |
+| Chattogram, The ship recycling markets sales for ship scrap Nevertheless, issues with successfully securing L.C.s Looking ahead, the ship momentum as mills continue Anchorage | Bangladesh have been plates, driven L.C.s have persisted, lately. recycling industry their & Beaching | slowly by with in purchasing | recovering domestic mills only a Bangladesh activities. Position | with the resumption reinitiating their limited number of is expected to (October 2023) | of domestic purchases. ship recyclers gradually regain |
+| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
+| TAI H | RORO |  | 4,043.72 | 10.10.2023 | AWAITING |
+| YI DING 9 | TANKER |  | 1,552.20 | 21.09.2023 | AWAITING |
+| HARIN NAVEE 10 | GEN.CARGO |  | 959 | 01.10.2023 | 04.10.2023 |
+| SIRITANASIN | TANKER |  | 744 | 26.09.2023 | 04.10.2023 |
+| ANA | BULKER |  | 7,981 | 28.09.2023 | 04.10.2023 |
+| EXPRESS 6 | REEFER |  | 1,264.50 | 20.09.2023 | 03.10.2023 |
+| HAVEN GUARDER | BULKER |  | 5,983 | 26.09.2023 | 02.10.2023 |
+| HENG HUI 2 | CONTAINER |  | 14,775 | 18.09.2023 | 02.10.2023 |
 
 Gaddani, Pakistan
 
@@ -375,7 +375,9 @@ PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
 
 Insight
 
-Copper saw an initial rise in early trading, benefiting from a boost in risk assets following less hawkish comments from the Fed. Positive reports of additional fiscal stimulus in China were well-received by the market. However, sentiment took a hit later in the session due to increased copper inventories. Stockpiles on the LME reached 181.2kt, their highest level in nearly two years. This increase coincided with a deteriorating demand outlook in traditional sectors like construction, further exacerbated by a stronger USD, which posed challenges for the base metals sector. On the other hand, Iron ore futures saw an uptick in price despite production cuts by Chinese steel mills. These cuts were implemented to support steel prices, which had experienced significant declines in recent months. However, iron ore prices rose following Australia's decision to reintroduce a list of critical minerals, hinting that domestically abundant commodities like iron ore might be added.
+**Copper saw an initial rise in early trading, benefiting from a boost in risk assets following**
+
+less hawkish comments from the Fed. Positive reports of additional fiscal stimulus in China were well-received by the market. However, sentiment took a hit later in the session due to increased copper inventories. Stockpiles on the LME reached 181.2kt, their highest level in nearly two years. This increase coincided with a deteriorating demand outlook in traditional sectors like construction, further exacerbated by a stronger USD, which posed challenges for the base metals sector. On the other hand, Iron ore futures saw an uptick in price despite production cuts by Chinese steel mills. These cuts were implemented to support steel prices, which had experienced significant declines in recent months. However, iron ore prices rose following Australia's decision to reintroduce a list of critical minerals, hinting that domestically abundant commodities like iron ore might be added.
 
 ### Star Asia Shipbroking (www.star-asia.com.sg)
 

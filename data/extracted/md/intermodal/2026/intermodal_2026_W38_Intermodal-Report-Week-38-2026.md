@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 <mark>By Nikos Tagoulis, Head of Research Department</mark>
 
@@ -23,6 +25,7 @@ Overall, seasonal pre-holiday restocking is providing near-term support to iron 
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 18/09/2026 WS points | 18/09/2026 $/day | 11/09/2026 WS points | 11/09/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 1,113 | 1,208,969 | 825 | 885,561 | **36.5%** | 60,510 | 37,255 |
@@ -42,6 +45,7 @@ Overall, seasonal pre-holiday restocking is providing near-term support to iron 
 |  | 50k | ARA-UKC | 431 | 122,950 | 469 | 138,341 | -11.1% | 18,615 | 26,872 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | DATE | TD3 | TD6 | TD9 |
@@ -58,8 +62,8 @@ Overall, seasonal pre-holiday restocking is providing near-term support to iron 
 | 18/Jul/26 | 350 | 400 | 350 |
 | 18/Aug/26 | 500 | 450 | 450 |
 | 18/Sep/26 | 1100 | 450 | 450 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 18/Sep/25 | 100 | 100 | 150 | 150 |
@@ -159,6 +163,7 @@ Aframax market also firmed, with heavy Fujairah activity driving AG momentum. In
 | 18/5ep/26 | 5800 | 3500 | 3500 | 1700 | 5500 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 18/5ep/25 | 25000 | 15000 | 12000 | 10000 |
@@ -300,8 +305,8 @@ The Turkish market shows signs of recovery, as demand firmed and an increased nu
 | USD/INR | 95.94 | 95.56 | 0.40% | 96.57 |
 | USD/PKR | 277.54 | 277.73 | -0.07% | 280.05 |
 | USD/TRY | 48.77 | 48.56 | 0.43% | 48.77 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MAESTRO 1 | 23,994 | 5,035 | 1998 | KANDA | BC | $507/Ldt | Pakistani |

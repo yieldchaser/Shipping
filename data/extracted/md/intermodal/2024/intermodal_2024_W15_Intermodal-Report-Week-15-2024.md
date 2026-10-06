@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 _By Chara Georgousi, Research Analyst_
 
@@ -19,6 +21,7 @@ As Q2 of 2024 unfolds, recent escalations in the Middle East add a layer of unce
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 12/04/24 WS points | 12/04/24 $/day | 05/04/24 WS points | 05/04/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 64 | 41,936 | 66 | 44,168 | -5.1% | 39,466 | 20,330 |
@@ -36,14 +39,15 @@ As Q2 of 2024 unfolds, recent escalations in the Middle East add a layer of unce
 |  | 55K | UKC-USG | 150 | 16,684 | 155 | 18,261 | -8.6% | 27,274 | 19,982 |
 |  | 55K | MED-USG | 150 | 16,705 | 155 | 18,170 | -8.1% | 27,060 | 21,231 |
 |  | 50k | CARIBS-USG | 230 | 30,597 | 217 | 26,815 | **14.1%** | 46,194 | 40,364 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | JAG AMISHA | 2009 | 74,889 dwt |  |  |
-| 6 mos | RELIABILITY | 2023 | 50,170 dwt |  |  |
+| 12 mos | JAG AMISHA | 2009 | 74,889 dwt | $39,250/day | Petronas (PETCO) |
+| 6 mos | RELIABILITY | 2023 | 50,170 dwt | $36,000/day | CEPSA |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 12/Apr/23 | 0 | 0 | 0 |
@@ -59,8 +63,8 @@ As Q2 of 2024 unfolds, recent escalations in the Middle East add a layer of unce
 | 12/Feb/24 | 0 | 0 | 0 |
 | 12/Mar/24 | 0 | 0 | 0 |
 | 12/Apr/24 | 0 | 0 | 0 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 12/Apr/23 | 0 | 0 | 0 | 0 |
@@ -128,12 +132,13 @@ Aframax T/C earnings averaged \$46,617/day, marking a weekly surge of \$11,181/d
 | BHSI | 722 | $12,992 | 735 | $13,239 | -13 | -1.9% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6/8 mos | ALPHA VISION | 2012 | 81,254 dwt |  |  |
-| 6/9 months | ZEPHYROS | 2016 | 81,805 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6/8 mos | ALPHA VISION | 2012 | 81,254 dwt | dely Ulsan 6/8 Apr redel worldwide | $17,250/day | Oldendorff |
+| 6/9 months | ZEPHYROS | 2016 | 81,805 dwt | dely Lianyungang 10/15 Apr redel worldwide | $18,000/day | NYK |
 
 ### Baltic Indices (1-Year Trend)
+
 | Category BCI BPI BSI BHSI BDI | Line Orange Dark Green Light Green Light Blue Black |
 | --- | --- |
 | 12/Apr/23 | 1,500 |
@@ -163,6 +168,7 @@ Aframax T/C earnings averaged \$46,617/day, marking a weekly surge of \$11,181/d
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 12/Apr/23 | 15000 |  |  |  |
@@ -289,6 +295,7 @@ The shipbreaking market has been relatively subdued recently, largely due to the
 | USD/TRY | 32.35 | 32.04 | 1.0% | 32.35 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SINOKOR HONGKONG | 17,468 | 5,300 | 1996 | IMABARI, Japan | CONTAINER | $ 598.0m | Bangladeshi | including ROB 380T |

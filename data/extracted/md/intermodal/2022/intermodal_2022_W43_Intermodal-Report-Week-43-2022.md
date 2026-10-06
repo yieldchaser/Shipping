@@ -68,10 +68,11 @@ The Baltic Exchange
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | PHOENIX ADMIRAL | 2011 | 114,024 dwt |  |  |
-| 24 mos | NORD HIMALAYA | 2011 | 49,936 dwt |  |  |
+| 24 mos | PHOENIX ADMIRAL | 2011 | 114,024 dwt | $30,000/day | Phillips 66 |
+| 24 mos | NORD HIMALAYA | 2011 | 49,936 dwt | $25,000/day | cnr |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 28/Oct/21 | 30 | 120 | 130 |
@@ -104,6 +105,7 @@ The Baltic Exchange
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 28/Oct/21 | 120 | 130 | 140 | 150 |
@@ -160,11 +162,12 @@ In the MR2 sector we had the sale of the "CELSIUS RIMINI" (53,603dwt-blt '09, Ja
 | BHSI | 897 | $16,142 | 961 | $17,297 | -64 | -6.7% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6 to 8 mos | NIAN NU JIAO | 2010 | 83,601 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 to 8 mos | NIAN NU JIAO | 2010 | 83,601 dwt | Zhoushan 25/30 Oct | $17,000/day | Uniwin |
 
 ## TC Rates
+
 | Sector | Tenor | 28/10/2022 | 21/10/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 13,250 | 15,000 | -11.7% | -1,750 | 32,684 | 15,361 |
@@ -181,6 +184,7 @@ In the MR2 sector we had the sale of the "CELSIUS RIMINI" (53,603dwt-blt '09, Ja
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 28/Oct/21 | 4000 | 3000 | 3000 | 1800 | 4500 |
@@ -197,6 +201,7 @@ In the MR2 sector we had the sale of the "CELSIUS RIMINI" (53,603dwt-blt '09, Ja
 | 30/Sep/22 | 1700 | 1700 | 1600 | 1500 | 1800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 28/Oct/21 | 35000 | 28000 | 25000 | 22000 |
@@ -243,6 +248,7 @@ In the Handysize sector we had the sale of the "WAAL CONFIDENCE" (33,387dwt-blt 
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | RS AURORA | 159,812 | 2018 | SWS, China | MAN-B\&amp;W | Jan-23 | DH | $ 66.0m | Greek (Delta Tankers) | BWTS fitted |
@@ -255,15 +261,15 @@ In the Handysize sector we had the sale of the "WAAL CONFIDENCE" (33,387dwt-blt 
 |  |  |  |  |  |  |  |  | $ 27.0m | undisclosed | Ice Class 1A |
 | SMALL | BRO AGNES | 16,791 | 2008 | TURKTER, Turkey | MAN | Mar-23 | DH |  |  |  |
 | SMALL | BERNORA | 13,148 | 2008 | 21ST CENTURY, S. Korea | MAN-B\&amp;W | Mar-23 | DH | high $ 7.0m | Norwegian | BWTS fitted |
-
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | NAVIOS TAURUS | 76,596 | 2005 | IMABARI, Japan | B\&amp;W | Jan-25 |  | $ 14.0m | undisclosed |  |
 | PMAX | PRABHU PUNI | 76,015 | 2002 | TSUNEISHI, Japan | B\&amp;W | May-27 |  | $ 11.5m | undisclosed | BWTS fitted |
 | HANDY | WAAL CONFIDENCE | 33,387 | 2009 | SHIN KOCHI, Japan | Mitsubishi | Jun-24 | 4 X 30t CRANES | $ 15.2m | undisclosed | BWTS fitted, OHBS |
-
 ## Secondhand Sales
+
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | EPIC BALTA | 5,076 | 2000 | HIGAKI, Japan | MAN-B\&amp;W | Jun-25 | 6,185 | $ 6.0m | undisclosed |
@@ -274,6 +280,7 @@ In the Handysize sector we had the sale of the "WAAL CONFIDENCE" (33,387dwt-blt 
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 28/10/2022 | 21/10/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -295,6 +302,7 @@ In the Handysize sector we had the sale of the "WAAL CONFIDENCE" (33,387dwt-blt 
 
 Newbuilding ordering activity held firm, with a flurry of new orders surfacing during last week. As we have previously noted, owners' insatiable hunger for LNG vessels holds steady with a healthy number of vessels ordered every week. It is worth mentioning, though, that as slots in Korean shipyards are extremely tight, Chinese yards have emerged as alternative players, offering competitive prices and reasonable delivery times. For instance, all three LNG orders surfacing last week have been placed in Chinese shipyards. Meanwhile, we have been witnessing that the number of owners making their debut in the LNG sector and investing in new vessels is still rising, with Chinese TSM investing in its first trio of newbuilding vessels last week. In the boxship sector, we notice that owners tend to invest in green technologies with methanol being preferred as a green shipping fuel. In the tanker realm, no orders have been penciled last week. In the dry sector, one bulker has been ordered, indicating a rather slow growth of tonnage. Conclusively, one order for up to ten PCTCs has been inked by Grimaldi Group. The vessels will be ammonia-ready and have been designed to carry electric vehicles.
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 01/11/2022 | 1 | Bulker | 58,000 dwt | Oshima, Japan | 2025 | Japanese (Tamai Steamship) | undisclosed |
@@ -346,6 +354,7 @@ Newbuilding ordering activity held firm, with a flurry of new orders surfacing d
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 28/10/2022 | 21/10/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |

@@ -119,9 +119,13 @@ This week saw the cross-Med region, Ceyhan/Lavera stuck in typical summer doldru
 
 Clean:
 
-**LR:** After a dramatic move in a year in the MEG LR2 market, TC1 fell this week to WS168 losing some 40 points as situation eased. In the LR1, UKC routes remain unchanged holding at WS115 for the sixth session in a row.
+**LR: After a dramatic move in a year in the MEG LR2 market, TC1 fell this week to WS168**
 
-**MR:** Similar situation were seen in the MR MEG markets with levels losing some 100 points closing at WS226 on TC17 routes to East Africa.
+losing some 40 points as situation eased. In the LR1, UKC routes remain unchanged holding at WS115 for the sixth session in a row.
+
+**MR: Similar situation were seen in the MR MEG markets with levels losing some 100 points**
+
+closing at WS226 on TC17 routes to East Africa.
 
 # Baltic Exchange Tanker Indices
 
@@ -251,7 +255,9 @@ The industry is required to follow the procedures and standards outlined below t
 
 ## For ship owners and cash buyers
 
-a. IHM Part I (Inventory of Hazardous Materials - Part I), which is a document listing all hazardous materials present on board the ship (e.g., asbestos, PCBs, heavy metals).
+a. **IHM Part I (Inventory of Hazardous Materials - Part I), which is a document listing all**
+
+hazardous materials present on board the ship (e.g., asbestos, PCBs, heavy metals).
 
 ## b. IHM Part II & III
 
@@ -293,26 +299,26 @@ The onset of the monsoon season continued to hamper yard operations. Declining d
 
 Anchorage & Beaching Position (MAY 2025)
 
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| --- | --- | --- | --- | --- |
-| CONTACT II | TANKER | 9,453 | 25.06.2025 | AWAITING |
-| CONICO ATLAS | TANKER | 20,001 | 13.06.2025 | AWAITING |
-| NIRVANA | TANKER | 9,623 | 07.05.2025 | AWAITING |
-| BITUMEN PRINCESS | TANKER | 2,884 | 25.06.2025 | 27.06.2025 |
-| UKHAN | LNG | 32,467 | 16.06.2025 | 17.06.2025 |
-| BIRA | CONTAINER | 2,063 | 11.06.2025 | 16.06.2025 |
-| LORD 17 | CARGO | 2,583 | 12.04.2025 | 14.06.2025 |
-| DHEZI | TANKER | 10,470 | 04.06.2025 | 12.06.2025 |
-| MIMI | CARGO | 1,227 | 03.06.2025 | 10.06.2025 |
-| ASMAA | BULKER | 7,616 Chattogram | 02.06.2025 | 10.06.2025 |
-| One of the largest small number of limited, as many extensions. The industry continues necessary for full Meanwhile, vessels issuance of necessary approvals has left the | recycling markets yards continue await clarity on struggle with in the past continue Objection Certificates of these ships Anchorage & Beaching | by volume also to operate, transitional financing hurdles to remain in (NOCs). uncertain. Position | remained quiet. overall buying arrangements and and infrastructure limbo as they await The prolonged delay (May 2025) | Although a interest stayed possible upgrades the in |
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| ABRAHIM M | BULKER | 8,997 | 26.06.2025 | AWAITING |
-| BERGE FUJI | ORE CARRIER | 37,379 | 23.06.2025 | AWAITING |
-| ANG MIN | BULKER | 11,243 | 23.06.2025 | AWATIING |
-| HUGO | TUG | 2,531 | 22.06.2025 | 26.06.2025 |
-| GAS SOECHI XXVIII | LPG | 2,179 | 21.06.2025 | 26.06.2025 |
-| SIDIMI | RORO | 2,985 | 16.05.2025 | 16.06.2025 |
+| VESSEL NAME |  | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
+| CONTACT II |  | TANKER | 9,453 | 25.06.2025 | AWAITING |
+| CONICO ATLAS |  | TANKER | 20,001 | 13.06.2025 | AWAITING |
+| NIRVANA |  | TANKER | 9,623 | 07.05.2025 | AWAITING |
+| BITUMEN PRINCESS |  | TANKER | 2,884 | 25.06.2025 | 27.06.2025 |
+| UKHAN |  | LNG | 32,467 | 16.06.2025 | 17.06.2025 |
+| BIRA |  | CONTAINER | 2,063 | 11.06.2025 | 16.06.2025 |
+| LORD 17 | GENERAL | CARGO | 2,583 | 12.04.2025 | 14.06.2025 |
+| DHEZI |  | TANKER | 10,470 | 04.06.2025 | 12.06.2025 |
+| MIMI | GENERAL | CARGO | 1,227 | 03.06.2025 | 10.06.2025 |
+| ASMAA |  | BULKER | 7,616 Chattogram | 02.06.2025 | 10.06.2025 |
+| One of the largest small number of limited, as many extensions. The industry continues necessary for full Meanwhile, vessels issuance of necessary approvals has left the | ship HKC-certified facilities to compliance. sold No fate | recycling markets yards continue await clarity on struggle with in the past continue Objection Certificates of these ships Anchorage & Beaching | by volume also to operate, transitional financing hurdles to remain in (NOCs). uncertain. Position | remained quiet. overall buying arrangements and and infrastructure limbo as they await The prolonged delay (May 2025) | Although a interest stayed possible upgrades the in |
+| VESSEL NAME |  | TYPE | LDT | ARRIVAL | BEACHING |
+| ABRAHIM M |  | BULKER | 8,997 | 26.06.2025 | AWAITING |
+| BERGE FUJI |  | ORE CARRIER | 37,379 | 23.06.2025 | AWAITING |
+| ANG MIN |  | BULKER | 11,243 | 23.06.2025 | AWATIING |
+| HUGO |  | TUG | 2,531 | 22.06.2025 | 26.06.2025 |
+| GAS SOECHI XXVIII |  | LPG | 2,179 | 21.06.2025 | 26.06.2025 |
+| SIDIMI |  | RORO | 2,985 | 16.05.2025 | 16.06.2025 |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -372,9 +378,13 @@ Imported scrap markets across the Sub-Continent and Turkey remained largely subd
 
 Meanwhile, the Turkish scrap market held firm, as both buyers and sellers adopted a wait-and-watch stance. Downstream demand remained weak, but firm seller offers prevented any significant price corrections.
 
-India's imported scrap market remained firmly in the doldrums as weak steel demand, monsoon-related disruptions, and competitive domestic alternatives continued to undermine buying interest. Shredded scrap offers from the UK and EU held steady at US$355-360 per ton CFR Nhava Sheva, though actual tradable levels were estimated closer to US$350-355 per ton. HMS 80:20 from West Africa was commanded US$335-340 per ton, while UK-origin HMS 80:20 was quoted at US$330-335 per ton CFR. Mills demonstrated a clear preference for domestic sponge iron due to its cost advantages, while falling rebar prices and freight uncertainties reinforced the cautious market sentiment. Sellers adopted a wait-and-watch approach, holding back on fresh offers amid unclear price direction and limited trading activity.
+**India's imported scrap market remained firmly in the doldrums as weak steel demand,**
 
-Pakistan's market exhibited similar sluggishness as mills avoided fresh commitments against a backdrop of geopolitical tensions and freight-related uncertainties. UK and EUorigin shredded scrap offers remained stable at US$370-375 per ton CFR Qasim, while UAE-origin material commanded a premium at US$385 per ton. Despite firm seller positions, buying interest remained constrained by concerns over vessel delays and rising war risk surcharges linked to Middle Eastern unrest. Market sentiment faced additional pressure from a proposed 5% duty on re-rollable scrap, with traders awaiting clarity from upcoming fiscal announcements.
+monsoon-related disruptions, and competitive domestic alternatives continued to undermine buying interest. Shredded scrap offers from the UK and EU held steady at US$355-360 per ton CFR Nhava Sheva, though actual tradable levels were estimated closer to US$350-355 per ton. HMS 80:20 from West Africa was commanded US$335-340 per ton, while UK-origin HMS 80:20 was quoted at US$330-335 per ton CFR. Mills demonstrated a clear preference for domestic sponge iron due to its cost advantages, while falling rebar prices and freight uncertainties reinforced the cautious market sentiment. Sellers adopted a wait-and-watch approach, holding back on fresh offers amid unclear price direction and limited trading activity.
+
+**Pakistan's market exhibited similar sluggishness as mills avoided fresh commitments**
+
+against a backdrop of geopolitical tensions and freight-related uncertainties. UK and EUorigin shredded scrap offers remained stable at US$370-375 per ton CFR Qasim, while UAE-origin material commanded a premium at US$385 per ton. Despite firm seller positions, buying interest remained constrained by concerns over vessel delays and rising war risk surcharges linked to Middle Eastern unrest. Market sentiment faced additional pressure from a proposed 5% duty on re-rollable scrap, with traders awaiting clarity from upcoming fiscal announcements.
 
 ## Bangladesh's post-Eid market struggled to gain momentum as monsoon-related
 
@@ -382,7 +392,9 @@ slowdowns and weak construction demand kept mills operating below capacity. Two 
 
 it is slow-moving," suggesting prices may soften without improved project activity.
 
-Turkey's imported scrap market maintained its equilibrium as both buyers and sellers adopted cautious stances in a subdued trading environment. US-origin bulk HMS 80:20 offers held steady at US$345 per ton CFR, unchanged from previous sessions, with US and Baltic-origin cargoes quoted in the US$345-350 per ton range. Sellers remained firm in
+**Turkey's imported scrap market maintained its equilibrium as both buyers and sellers**
+
+adopted cautious stances in a subdued trading environment. US-origin bulk HMS 80:20 offers held steady at US$345 per ton CFR, unchanged from previous sessions, with US and Baltic-origin cargoes quoted in the US$345-350 per ton range. Sellers remained firm in
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -394,7 +406,9 @@ their pricing, citing balanced market conditions supported by stable rebar price
 
 # Commodities (Weekinfocus)
 
-Iron ore futures posted solid gains across key Asian exchanges on Thursday, buoyed by a weakening U.S. dollar and renewed policy support signals from Chinese authorities. The most-active September contract on China's Dalian Commodity Exchange climbed 0.64% to settle at 705.5 yuan per metric ton, while the benchmark July contract on Singapore Exchange advanced 0.55% to US$93.25 per ton. The rally was underpinned by significant dollar weakness following President Trump's comments about replacing Federal Reserve Chair Jerome Powell, which sparked fresh concerns about central bank independence and sent the greenback tumbling to multiyear lows. This currency move makes dollar-denominated commodities more attractive to holders of other currencies, providing fundamental support for iron ore and other industrial metals. Additional momentum came from Chinese Premier Li Qiang's Thursday announcement that policymakers would implement "forceful steps" to stimulate domestic consumption, signaling Beijing's commitment to supporting economic growth despite ongoing headwinds. The broader steel complex showed mixed performance, with coking coal futures surging 3.5% to an intraday high of 819 yuan following production cuts at coal mines due to
+**Iron ore futures posted solid gains across key Asian exchanges on Thursday, buoyed by a**
+
+weakening U.S. dollar and renewed policy support signals from Chinese authorities. The most-active September contract on China's Dalian Commodity Exchange climbed 0.64% to settle at 705.5 yuan per metric ton, while the benchmark July contract on Singapore Exchange advanced 0.55% to US$93.25 per ton. The rally was underpinned by significant dollar weakness following President Trump's comments about replacing Federal Reserve Chair Jerome Powell, which sparked fresh concerns about central bank independence and sent the greenback tumbling to multiyear lows. This currency move makes dollar-denominated commodities more attractive to holders of other currencies, providing fundamental support for iron ore and other industrial metals. Additional momentum came from Chinese Premier Li Qiang's Thursday announcement that policymakers would implement "forceful steps" to stimulate domestic consumption, signaling Beijing's commitment to supporting economic growth despite ongoing headwinds. The broader steel complex showed mixed performance, with coking coal futures surging 3.5% to an intraday high of 819 yuan following production cuts at coal mines due to
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -402,7 +416,9 @@ Iron ore futures posted solid gains across key Asian exchanges on Thursday, buoy
 
 safety incidents and environmental concerns. On the Shanghai Futures Exchange, most steel benchmarks posted modest gains, including a 0.1% rise in rebar, 0.39% advance in hot-rolled coil, and 1.16% climb in stainless steel, though wire rod edged 0.06% lower. Analysts noted that iron ore shipments from Australia and Brazil have increased substantially, with major producer Vale ramping up supply to capitalise on end-ofseason demand patterns.
 
-Copper prices rose for a fourth consecutive day this week, even as indications emerged that the squeeze on the London Metal Exchange (LME) is beginning to ease. The cash to three-month spread narrowed significantly, with contracts for immediate delivery trading at a premium of US$98/ton over the LME three-month benchmark, down sharply from US$398/ton earlier in the week. The tightness in supply has been partially attributed to record outbound shipments to the United States, as traders move to front-run expected tariffs. Meanwhile, robust demand from China has continued to support pricing momentum, reinforcing bullish sentiment despite the softening backwardation. While in the Coal sector, China has reduced coal imports and boosted exports amid strong domestic output and weakening demand. Between January and May, coal exports rose 13% to 2.5 million tons, primarily to Japan, Indonesia, and South Korea, while imports fell 8% year-on-year. Domestic production hit 5 billion tons, driven by energy security priorities and low prices. Thermal coal demand has softened due to high inventories at ports, record production, and sluggish coal-fired power generation, even as the country entered its summer peak demand season. The central government has also mandated a 10% stockpile increase for power generators, further weighing on imports. Despite rapid wind and solar deployment, coal-fired generation still hit a record 6.34 trillion kWh in 2024, though thermal power growth was the slowest in nearly a decade. China's coal association expects supply to outpace demand through year-end, suggesting import softness may persist in the near term.
+**Copper prices rose for a fourth consecutive day this week, even as indications emerged**
+
+that the squeeze on the London Metal Exchange (LME) is beginning to ease. The cash to three-month spread narrowed significantly, with contracts for immediate delivery trading at a premium of US$98/ton over the LME three-month benchmark, down sharply from US$398/ton earlier in the week. The tightness in supply has been partially attributed to record outbound shipments to the United States, as traders move to front-run expected tariffs. Meanwhile, robust demand from China has continued to support pricing momentum, reinforcing bullish sentiment despite the softening backwardation. While in the Coal sector, China has reduced coal imports and boosted exports amid strong domestic output and weakening demand. Between January and May, coal exports rose 13% to 2.5 million tons, primarily to Japan, Indonesia, and South Korea, while imports fell 8% year-on-year. Domestic production hit 5 billion tons, driven by energy security priorities and low prices. Thermal coal demand has softened due to high inventories at ports, record production, and sluggish coal-fired power generation, even as the country entered its summer peak demand season. The central government has also mandated a 10% stockpile increase for power generators, further weighing on imports. Despite rapid wind and solar deployment, coal-fired generation still hit a record 6.34 trillion kWh in 2024, though thermal power growth was the slowest in nearly a decade. China's coal association expects supply to outpace demand through year-end, suggesting import softness may persist in the near term.
 
 Iron Ore
 

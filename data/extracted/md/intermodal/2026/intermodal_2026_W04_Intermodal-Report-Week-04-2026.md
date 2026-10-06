@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -19,6 +21,7 @@ Given the above, the outlook for the containership market in 2026 points to nota
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 23/01/2026 WS points | 23/01/2026 $/day | 16/01/2026 WS points | 16/01/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 128 | 118,145 | 119 | 107,436 | 10.0% | 60,510 | 37,255 |
@@ -40,10 +43,10 @@ Given the above, the outlook for the containership market in 2026 points to nota
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos |  | Abu Dhabi Marine Int |  |  |  |
-| 12 mos | Harmonic | 2019 | 159,204 dwt |  |  |
-
+| 24 mos |  | Abu Dhabi Marine Int |  | $47,500/day |  |
+| 12 mos | Harmonic | 2019 | 159,204 dwt | $45,000/day | ST Shipping |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 23/Jan/25 | 100 | 100 | 100 |
@@ -59,8 +62,8 @@ Given the above, the outlook for the containership market in 2026 points to nota
 | 23/Nov/25 | 30 | 90 | 130 |
 | 23/Dec/25 | 25 | 80 | 120 |
 | 23/Jan/26 | 20 | 70 | 300 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 23/Jan/25 | 100 | 100 | 150 | 200 |
@@ -126,12 +129,13 @@ Aframax markets showed pronounced regional divergence. In the Mediterranean, ear
 | BHSI | 600 | $10,793 | 588 | $10,578 | 12 | **2.0%** | 661 | 702 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 11 to 13 mos | Guo Yuan 86 | 2020 | 86,374 dwt |  |  |
-| 7 to 10 mos | Florentia | 2016 | 63,340 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 11 to 13 mos | Guo Yuan 86 | 2020 | 86,374 dwt | Delivery Zhoushan 20 Jan redelivery worldwide | $16,500/day | cnr |
+| 7 to 10 mos | Florentia | 2016 | 63,340 dwt | Delivery Abidjan 27/30 Jan redelivery worldwide | $17,100/day | Oldendorff |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 23/Jan/25 | 800 | 900 | 700 | 600 | 850 |
@@ -149,6 +153,7 @@ Aframax markets showed pronounced regional divergence. In the Mediterranean, ear
 | 23/Jan/26 | 2400 | 1600 | 1500 | 600 | 1800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Index | 23/Jan/25 | 23/Feb/25 | 23/Mar/25 | 23/Apr/25 | 23/May/25 | 23/Jun/25 | 23/Jul/25 | 23/Aug/25 | 23/Sep/25 | 23/Oct/25 | 23/Nov/25 | 23/Dec/25 | 23/Jan/26 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Average of the 5 T / C | 5000 | 10000 | 20000 | 18000 | 22000 | 28000 | 25000 | 26000 | 24000 | 25000 | 43000 | 18000 | 16000 |
@@ -295,8 +300,8 @@ In Turkey, Aliaga's anchorage is busy following the recent arrival of European R
 | USD/INR | 91.68 | 90.71 | 1.06% | 91.98 |
 | USD/PKR | 279.80 | 280.00 | -0.07% | 280.05 |
 | USD/TRY | 43.38 | 43.28 | 0.22% | 43.38 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BODHI | 106,547 | 16,294 | 1997 | NKK, Japan | TANKER | $357/Ldt | Indian |

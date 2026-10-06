@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 <u>By Yiannis Parganas, Head of Research Department</u>
 
@@ -15,6 +17,7 @@ The near-term balance depends on two things. The first is how quickly Iraqi expo
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 17/04/2026 WS points | 17/04/2026 $/day | 10/04/2026 WS points | 10/04/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 501 | 525,696 | 511 | 534,351 | -1.6% | 60,510 | 37,255 |
@@ -38,8 +41,8 @@ The near-term balance depends on two things. The first is how quickly Iraqi expo
 | 36 mos | Nord Mariner | 2023 |
 | --- | --- | --- |
 |  | $25,250/day |  |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 17/Apr/25 | 100 | 150 | 200 |
@@ -55,8 +58,8 @@ The near-term balance depends on two things. The first is how quickly Iraqi expo
 | 17/Feb/26 | 400 | 400 | 900 |
 | 17/Mar/26 | 400 | 400 | 1000 |
 | 17/Apr/26 | 400 | 250 | 400 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 17/Apr/25 | 100 | 100 | 150 | 200 |
@@ -124,8 +127,8 @@ Aframaxes followed a similar pattern, with most regional markets under pressure 
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 2 to 4 mos | Brickfielder | 2011 | 93,019 dwt |  |  |
-| 11 to 13 mos | Hui An | 2012 | 81,622 dwt |  |  |
+| 2 to 4 mos | Brickfielder | 2011 | 93,019 dwt | $15,000/day | sleyst |
+| 11 to 13 mos | Hui An | 2012 | 81,622 dwt | $17,750/day | cnr |
 
 ## TC Rates
 | Sector | Tenor | 17/04/2026 | 10/04/2026 | ±% | Diff | 2025 | 2024 |
@@ -144,6 +147,7 @@ Aframaxes followed a similar pattern, with most regional markets under pressure 
 | **Handysize** | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 17/Apr/25 | 1800 | 1400 | 1200 | 800 | 1600 |
@@ -161,6 +165,7 @@ Aframaxes followed a similar pattern, with most regional markets under pressure 
 | 17/Apr/26 | 3800 | 1600 | 1400 | 1000 | 2200 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 17/Apr/25 | 12000 | 10000 | 10000 | 8000 |
@@ -231,6 +236,7 @@ The newbuilding market is witnessing a wave of crude carrier orders, concentrati
 
 On the tanker front, Stealth Maritime committed to 2 units of 320k dwt at Hanwha Ocean, due in 2030, at \$130.5m apiece. Yangzijiang Maritime secured 8 scrubber fitted 319k dwt units for delivery in 2028-2030, at \$123m-\$125m per vessel. Also at DSIC, Advantage Tankers contracted a duo of 307k dwt LNG dual fuel tankers for 2028-2029, while Mercuria inked 2 firm plus 2 optional units of the same size, at \$123m each, along with a pair of 115k dwt LR2 tankers at the same yard, at \$75m per unit. JP Morgan booked a further 2 firm plus 2 optional units of 307k dwt at DSIC, due in 2029, at \$123m apiece. MSC ordered 8 scrubber-fitted 306k dwt carriers at Hengli Shipbuilding, **Indicative Newbuilding Prices (\$ Million)**
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Vessel Class | Size | 17-Apr-26 | 10-Apr-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2025 | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** | Newcastlemax | 205k | 78.0 | 78.0 | 0.0% | 78.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
@@ -302,8 +308,8 @@ Turkey remained steady but largely inactive, with fully utilized yards limiting 
 | USD/INR | 92.60 | 93.09 | -0.52% | 94.78 |
 | USD/PKR | 278.95 | 279.05 | -0.04% | 280.05 |
 | USD/TRY | 44.85 | 44.61 | 0.54% | 44.85 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HONGKONG ENERGY | 73,659 | 31,341 | 2004 | DAEWOO, S. Korea | GAS TANKER | $510/Ldt | undisclosed |  |

@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By <u>Yiannis Parganas, Head of Research Department</u>
 
@@ -11,6 +13,7 @@ In reference to January 2024, the latest data from ANEC highlights a significant
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 12/01/24 WS points | 12/01/24 $/day | 05/01/24 WS points | 05/01/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 71 | 47,364 | 60 | 33,817 | 40.1% | 39,466 | 20,330 |
@@ -32,9 +35,8 @@ In reference to January 2024, the latest data from ANEC highlights a significant
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | KK MARLIN | 2009 | 77,452 dwt |  |  |
-
-### Dirty WS Rates (1-Year Trend)
+| 24 mos | KK MARLIN | 2009 | 77,452 dwt | $29,000/day | ST SHIP |
+### 1-Year Forward WS Rates - Dirty
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -51,8 +53,7 @@ In reference to January 2024, the latest data from ANEC highlights a significant
 | 12/Nov/23 | 70 | 140 | 150 |
 | 12/Dec/23 | 70 | 160 | 160 |
 | 12/Jan/24 | 70 | 160 | 320 |
-
-### Clean WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Clean
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -69,8 +70,8 @@ In reference to January 2024, the latest data from ANEC highlights a significant
 | 12/Nov/23 | 100 | 160 | 200 | 200 |
 | 12/Dec/23 | 100 | 160 | 180 | 180 |
 | 12/Jan/24 | 100 | 160 | 180 | 180 |
-
 ## TC Rates
+
 | Sector | Tenor | 12/01/24 | 05/01/24 | ±% | Diff | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 50,000 | 50,000 | 0.0% | 0 | 48,601 | 34,683 |
@@ -123,10 +124,10 @@ Suezmax T/C earnings averaged \$61,321/day, up \$6,479/day w-o-w or 12%. On the 
 | BHSI | 616 | $11,089 | 695 | $12,518 | -79 | -11.4% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 24 mos | GREAT OCEAN | 2013 | 82,178 dwt |  |  |
-| 5 to 7 mos | RED LILY | 2017 | 81,855 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 24 mos | GREAT OCEAN | 2013 | 82,178 dwt | dely Fangcheng 15 Jan redel worldwide | $14,350/day | Norden |
+| 5 to 7 mos | RED LILY | 2017 | 81,855 dwt | dely Kobe 8/11 Jan redel worldwide | $17,000/day | ADMI |
 
 ## TC Rates
 | Sector | Tenor | 12/01/24 | 05/01/24 | ±% | Diff | 2023 | 2022 |
@@ -141,6 +142,7 @@ Suezmax T/C earnings averaged \$61,321/day, up \$6,479/day w-o-w or 12%. On the 
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 12/Jan/23 | 1000 | 1000 | 1000 | 1000 | 1000 |
@@ -158,6 +160,7 @@ Suezmax T/C earnings averaged \$61,321/day, up \$6,479/day w-o-w or 12%. On the 
 | 12/Jan/24 | 3500 | 1800 | 1600 | 1400 | 2000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 12/Jan/23 | 8000 | 9000 | 10000 | 11000 |
@@ -279,6 +282,7 @@ The recycling market is experiencing a subdued season and this is expected to co
 | USD/TRY | 30.10 | 29.82 | 0.94% | 30.06 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ALGOMA TRANSPORT | 34,066 | 9,148 | 1979 | PORT WELLER, Canada | BC | undisclosed | undisclosed | as is Canada |

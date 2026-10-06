@@ -24,6 +24,7 @@ Having said that, the math is not mathing when comparing the asset prices to the
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 14/07/23 WS points | 14/07/23 $/day | 07/07/23 WS points | 07/07/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 55 | 36,130 | 54 | 35,693 | 1.2% | 20,330 | 2,246 |
@@ -44,6 +45,7 @@ Having said that, the math is not mathing when comparing the asset prices to the
 |  | 50k | CARIBS-USG | 201 | 35,085 | 250 | 50,532 | -30.6% | 40,364 | 8,548 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 14/Jul/22 | 50 | 180 | 250 |
@@ -59,8 +61,8 @@ Having said that, the math is not mathing when comparing the asset prices to the
 | 14/May/23 | 150 | 150 | 160 |
 | 14/Jun/23 | 160 | 140 | 150 |
 | 14/Jul/23 | 170 | 130 | 140 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 14/Jul/22 | 300 | 320 | 340 | 360 |
@@ -162,6 +164,7 @@ Suezmax T/C earnings averaged \$ 32,992/day, up + \$2,241/day w-o-w. On the Afra
 | 14/Jul/23 | 1700 | 1300 | 1000 | 800 | 1700 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 14/Jul/22 | 23000 | 18000 | 16000 | 15000 |
@@ -178,9 +181,8 @@ Suezmax T/C earnings averaged \$ 32,992/day, up + \$2,241/day w-o-w. On the Afra
 | 14/Jun/23 | 14000 | 12000 | 11000 | 9000 |
 | 14/Jul/23 | 15000 | 11000 | 10000 | 8000 |
 
-## TC Rates
-
-| Sector | Tenor | Current | Previous | ±% | Diff | 2022 |
+## Indicative Market Values ($ Million) - Bulk Carriers
+| Sector | Size | Current avg | Previous avg | ±% | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize Eco** 180k | 48.0 | 50.6 | -5.1% | 48.3 | 43.1 | 36.1 |
 | **Kamsarmax** 82K | 31.5 | 32.2 | -2.2% | 34.1 | 29.8 | 23.2 |
@@ -223,6 +225,7 @@ Supramax 10TC averaged \$ 8,081/day, down -0.25% w-o-w, while the Handysize 7TC 
 | HANDY | GLORIOUS MAHUTA | 37,775 | 2015 | IMABARI, Japan | MAN-B\&W | Jun-25 | 4 X 30,7t CRANES | $ 20.5m | undisclosed | BWTS fitted |
 
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | ROME EXPRESS | 12,562 | 2010 | SAMSUNG, S. Korea | MAN-B\&W | Dec-24 |  | undisclosed | German (Ernst Russ AG) | scrubber fitted, Eco |
@@ -238,6 +241,7 @@ The strong activity continues in the newbuilding market, with a total of 39 unit
 The trend of substantial orders for Kamsarmax newbuildings persists, with a cumulative count of 77 units placed until June. Additionally, new information surfaced last week, revealing 14 more Kamsarmax vessels and 2 Panamax vessels being ordered, surpassing the volume seen in 2022 (total 91 orders). A noteworthy observation is that the SnP deals, involving both Panamax and Kamsarmax sizes, comprise a total of only 64 vessels.
 
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -299,6 +303,7 @@ The demolition market activity improved last week, yet the overall sentiment is 
 | USD/TRY | 26.19 | 26.06 | 0.5% | 26.28 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | GOLAR SPIRIT | 80,239 | 34,228 | 1981 | KAWASAKI, Japan | OFFSHORE | $ 425/Ldt | undisclosed | as is Greece, incl. about 3500 MT aluminum |

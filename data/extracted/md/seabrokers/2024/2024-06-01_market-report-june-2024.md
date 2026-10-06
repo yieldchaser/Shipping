@@ -304,25 +304,24 @@ SPM NEEL PRATAP 180 MEDITERRANEAN SEA
 
 # Feature vessel
 
-### Vessel Technical Specifications
-
-- **Owner:** Esvagt A/S
-- **Designer:** Havyard Ship Design
-- **Design:** Havyard 833 SOV
-- **Flag:** Denmark
-- **Delivery:** 2024
-- **Build Yard:** Cemre Shipyard, Turkey
-- **Length:** 93.00m
-- **Beam:** 19.60m
-- **Scantling Draft:** 6.60m
-- **Deadweight:** 2,500t
-- **Speed:** 14 knots
-- **Accommodation:** 124 persons
-- **Main Generators:** 3 x ABD Dual Fuel 1,600 ekW @ 600-1,000 rpm; 3 x SCANIA (ScandiNEOS) Pure Methanol 350 ekW @ 1,800 rpm
-- **Battery Power:** 3 x SIEMENS BlueVault Energy Storage Systems 890 kWh, water-cooled
-- **DP Class:** KONGSBERG K-POS DP-21
-- **Safe Transfer Boat:** 2 x ESVAGT STB-15; 1 x ESVAGT STB-7
-- **Gangway:** SMST Active Heave Compensated Gangway
+| **Owner:** Esvagt A/S                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| **Designer:** Havyard Ship Design                                                                                           |
+| **Design:** Havyard 833 SOV                                                                                                 |
+| **Flag:** Denmark                                                                                                           |
+| **Delivery:** 2024                                                                                                          |
+| **Build Yard:** Cemre Shipyard, Turkey                                                                                      |
+| **Length:** 93.00m                                                                                                          |
+| **Beam:** 19.60m                                                                                                            |
+| **Scantling Draft:** 6.60m                                                                                                  |
+| **Deadweight:** 2,500t                                                                                                      |
+| **Speed:** 14 knots                                                                                                         |
+| **Accommodation:** 124 persons                                                                                              |
+| **Main Generators:** 3 x ABD Dual Fuel 1,600 ekW @ 600-1,000 rpm; 3 x SCANIA (ScandiNEOS) Pure Methanol 350 ekW @ 1,800 rpm |
+| **Battery Power:** 3 x SIEMENS BlueVault Energy Storage Systems 890 kWh, water-cooled                                       |
+| **DP Class:** KONGSBERG K-POS DP-21                                                                                         |
+| **Safe Transfer Boat:** 2 x ESVAGT STB-15; 1 x ESVAGT STB-7                                                                 |
+| **Gangway:** SMST Active Heave Compensated Gangway                                                                          |
 
 ## ESVAGT NB1094 E-METHANOL SOV
 

@@ -76,12 +76,13 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | SEA TURTLE | 2021 | 114,085 dwt |  |  |
-| 24 mos | IRON LADY | 2009 | 32,283 dwt |  |  |
-| 36 mos | SEA TURTLE | 2021 | 114,085 dwt |  |  |
-| 24 mos | IRON LADY | 2009 | 32,283 dwt |  |  |
+| 36 mos | SEA TURTLE | 2021 | 114,085 dwt | $23,250/day | ExxonMobil |
+| 24 mos | IRON LADY | 2009 | 32,283 dwt | $18,000/day | Norden |
+| 36 mos | SEA TURTLE | 2021 | 114,085 dwt | $23,250/day | ExxonMobil |
+| 24 mos | IRON LADY | 2009 | 32,283 dwt | $18,000/day | Norden |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 20/Aug/20 | 50 | 60 | 70 |
@@ -99,6 +100,7 @@ Shanghai 200122 China
 | 20/Aug/21 | 80 | 70 | 80 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 20/Aug/20 | 100 | 120 | 140 | 150 |
@@ -170,12 +172,13 @@ In the MR sector we had the sale of the "TMN PRIDE" (48,676dwt-blt '06, Japan), 
 | BHSI | 1,878 | $33,798 | 1,816 | $32,691 | **62** | **3.4%** | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 8-11 mos | W-PACIFIC | 2013 | 81,233 dwt |  |  |
-| 24 mos | IRON LADY | 2009 | 32,283 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 8-11 mos | W-PACIFIC | 2013 | 81,233 dwt | Ennore 13 Sep | $27,000/day | Cargill |
+| 24 mos | IRON LADY | 2009 | 32,283 dwt | NCSA prompt | $18,000/day | Norden |
 
 ## TC Rates
+
 | Sector | Tenor | 20/08/2021 | 13/08/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 44,000 | 42,250 | **4.1%** | **1,750** | 15,561 | 18,839 |
@@ -209,6 +212,7 @@ In the MR sector we had the sale of the "TMN PRIDE" (48,676dwt-blt '06, Japan), 
 | 20/Aug/21 | 4500 | 3500 | 3000 | 2000 | 4500 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 20/Aug/20 | 15000 | 12000 | 10000 | 10000 |
@@ -258,6 +262,7 @@ In the Supramax sector we had the sale of the "MELATI LAUT" (56,643dwt-blt '11, 
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | CHANG BAI SAN | 318,445 | 2012 | SWS, China | Wartsila | Jul-22 | DH | $ 41.5m | Greek |  |
@@ -274,6 +279,7 @@ In the Supramax sector we had the sale of the "MELATI LAUT" (56,643dwt-blt '11, 
 
 # Intermodal Secondhand Sales
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | CORDELIA | 2,824 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Aug-23 |  | $ 39.0m | undisclosed |
@@ -287,6 +293,7 @@ In the Supramax sector we had the sale of the "MELATI LAUT" (56,643dwt-blt '11, 
 
 # Newbuilding Market
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 20/08/2021 | 13/08/2021 | ±% | 2020 | 2019 | 2018 |  |
@@ -359,6 +366,7 @@ The newbuilding market activity was consisted of dry bulk and container orders l
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 20/08/2021 | 13/08/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -393,6 +401,7 @@ Weakened steel prices across both Bangladesh and Pakistan have shaken the demoli
 | 20/Aug/21 | 590 | 580 | 580 | 590 |
 
 ## Indicative Demolition Prices ($/ldt)
+
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/Ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | STANDORF | 28,820 | 11,050 | 1990 | BOELWERF TEMSE, Belgium | GAS TANKER | $ 700/Ldt | Bangladeshi | incl. about 1,100 tons of bunkers |

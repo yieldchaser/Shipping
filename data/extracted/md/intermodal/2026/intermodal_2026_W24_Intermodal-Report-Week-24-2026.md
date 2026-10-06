@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 _by Nikos Tagoulis, Senior Analyst_
 
@@ -19,6 +21,7 @@ While recent diplomatic developments have raised optimism around a peace agreeme
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 12/06/2026 WS points | 12/06/2026 $/day | 05/06/2026 WS points | 05/06/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 404 | 414,787 | 403 | 411,415 | 0.8% | 60,510 | 37,255 |
@@ -94,8 +97,8 @@ In the East, sentiment remained cautious, with regional uncertainty continuing t
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 7 to 9 mos | W-Arcturus | 2012 | 81,336 dwt |  |  |
-| 6 to 8 mos | Eleovrytissa | 2012 | 37,6152 dwt |  |  |
+| 7 to 9 mos | W-Arcturus | 2012 | 81,336 dwt | $18,400/day | cnr |
+| 6 to 8 mos | Eleovrytissa | 2012 | 37,6152 dwt | $14,250/day | Drydel |
 
 ### Baltic Indices
 | Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
@@ -115,6 +118,7 @@ In the East, sentiment remained cautious, with regional uncertainty continuing t
 | 12/Jun/26 | 1200 | 1500 | 2200 | 900 | 1300 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 12/Jun/25 | 28000 | 12000 | 10000 | 8000 |
@@ -169,6 +173,7 @@ Handysizes also improved over the week. Activity firmed across the Atlantic and 
 # Secondhand Sales
 
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR1 | NAVE ARIADNE | 74,875 | 2007 | STX, South Korea | MAN B\&W | May-27 | DH | 22,5 | undisclosed |  |

@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -23,10 +25,11 @@ Overall, China's energy transition should be seen less as an immediate negative 
 
 No fresh fixtures to report
 ## Spot Rates
+
 | Sector | Size | Routes | 05/06/2026 WS points | 05/06/2026 $/day | 29/05/2026 WS points | 29/05/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
 ## TC Rates
+
 | Sector | Tenor | 05/06/2026 | 29/05/2026 | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 116,750 | 116,750 | 0.0% | 0 | 50,615 | 50,365 |
@@ -41,8 +44,8 @@ No fresh fixtures to report
 |  | 52k 3yr TC | 21,500 | 21,500 | 0.0% | 0 | 19,782 | 26,402 |
 | Handy | 36k 1yr TC | 25,500 | 27,500 | -7.3% | -2000 | 18,519 | 26,606 |
 |  | 36k 3yr TC | 17,500 | 17,500 | 0.0% | 0 | 16,902 | 19,993 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Jun-26 avg | May-26 avg | ±% | 2025 | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 140.0 | 140.0 | 0.0% | 115.5 | 113.0 | 99.5 |
@@ -50,8 +53,8 @@ No fresh fixtures to report
 | Aframax | 110KT DH | 80.0 | 79.1 | **1.1%** | 63.6 | 71.0 | 64.4 |
 | LR1 | 75KT DH | 60.0 | 59.5 | **0.8%** | 47.9 | 53.8 | 49.2 |
 | MR | 52KT DH | 51.0 | 50.6 | **0.8%** | 41.4 | 45.8 | 41.4 |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | Date | WS points |  |  |
@@ -68,8 +71,8 @@ No fresh fixtures to report
 | 5/Apr/26 | 450 |  |  |
 | 5/May/26 | 400 |  |  |
 | 5/Jun/26 | 350 |  |  |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 5/Jun/25 | 150 |  |  | 100 |
@@ -112,8 +115,8 @@ The Aframax segment recorded the strongest gains among crude carriers, with aver
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 4 to 9 mos | Ocean Flowing | 2025 | 63,684 dwt |  |  |
-| 14 to 15 mos | Uni Bulker | 2016 | 37,675 dwt |  |  |
+| 4 to 9 mos | Ocean Flowing | 2025 | 63,684 dwt | $20,000/day | cnr |
+| 14 to 15 mos | Uni Bulker | 2016 | 37,675 dwt | $15,250/day | cnr |
 
 ### TC Rates
 | Sector | Tenor | 05/06/2026 | 29/05/2026 | ±% | Diff | 2025 | 2024 |
@@ -128,6 +131,7 @@ The Aframax segment recorded the strongest gains among crude carriers, with aver
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 5/Jun/25 | 25000 | 10000 | 15000 | 8000 |

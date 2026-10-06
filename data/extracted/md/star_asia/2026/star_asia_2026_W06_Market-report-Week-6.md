@@ -119,9 +119,11 @@ As Lunar New Year approaches, demand has shifted, particularly for regional haul
 
 Clean:
 
-**LR:** LR2 in the MEG have seen rates fall, losing 20 points to close at WS190. On the supply side, the market faced an acute shortage as vessels were delayed returning from the Far East due to backhauling assignments and winter weather disruptions. Similar decline was seen in the LR1 segment where TC5 MEG/Japan closed at WS204.
+**LR: LR2 in the MEG have seen rates fall,** losing 20 points to close at WS190. On the supply side, the market faced an acute shortage as vessels were delayed returning from the Far East due to backhauling assignments and winter weather disruptions. Similar decline was seen in the LR1 segment where TC5 MEG/Japan closed at WS204.
 
-**MR:** Far East MR market saw a steady week as most requirements for the Lunar New Year were concluded early, leading to a natural slowdown in activity. In the MEG, TC17 trips to E. Africa fell 18 points to WS251. However, in the UKC, vessel tightness saw TC2 to Atlantic Coast closing higher at WS153.
+**MR: Far East MR market saw a steady week as most requirements for the Lunar New Year**
+
+were concluded early, leading to a natural slowdown in activity. In the MEG, TC17 trips to E. Africa fell 18 points to WS251. However, in the UKC, vessel tightness saw TC2 to Atlantic Coast closing higher at WS153.
 
 ## Baltic Exchange Tanker Indices
 
@@ -154,21 +156,21 @@ The container market continues to face significant headwinds as SCFI fell by 9.7
 
 ## Containers Values
 
-| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| (BY TEU) | GEARLESS | CONTRACT | DELIVERY | YEARS |
-| 900 ~ 1,200 | Geared | 24 | 27 | 10 |
-| 1,600 ~ 1,850 | Gearless | 31 | 36 | 18 |
-| 2,700 ~ 2,900 | Gearless | 44 | 46 | 26 |
-| 5,100 ~ 5,300 | Gearless | 55 | 79 | 39 |
-| *(amount in USD million) | \ | = Eco units |  |  |
-|  |  | S&P | Containers |  |
-|  |  |  |  | / |
-| VESSEL NAME | SIZE | TEU | BUILT |  |
-|  |  |  |  |  |
-| VALDIVA / VIOLETTA / VALENTINA | FEEDER | 1,853 | ROMANIA |  |
-| LILA CANADA | FEEDER | 1,118 | CHINA |  |
+| CONTAINERS | GEARED / | NB |  | NB PROMPT |  |  | 15 |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
+| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
+| 900 ~ 1,200 | Geared | 24 |  | 27 | 21 | 16 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 |  | 36 | 29 (E) | 23 (E) | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 |  | 46 | 40 | 35 | 26 |
+| 5,100 ~ 5,300 | Gearless | 55 |  | 79 | 64 | - | 39 |
+| *(amount in USD million) | \| = Eco units |  |  |  |  |  |  |
+|  |  | S&P |  | Containers | Report |  |  |
+|  |  |  |  |  | PRICE | COMMENTS | / |
+| VESSEL NAME | SIZE | TEU | YEAR | BUILT |  |  |  |
+|  |  |  |  |  | (MILLION) | USD BUYERS |  |
+| VALDIVA / VIOLETTA / VALENTINA | FEEDER | 1,853 | 2007 | ROMANIA | N/A | MSC |  |
+| LILA CANADA | FEEDER | 1,118 | 2006 | CHINA | 10.9 | MSC |  |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -337,7 +339,9 @@ winter conditions prevented sellers from making deeper concessions, even as mill
 
 ## Commodities (Weekinfocus)
 
-Iron ore prices stabilise on the Dalian Commodity Exchange, edging up 0.06% to reach 821 yuan per metric ton. This modest recovery followed a sharper 1% decline on Tuesday, which was triggered by a tragic accident at a steel facility in northern China that raised concerns about potential production halts and safety inspections. Despite these disruptions, China reported historic trade activity for December, with iron ore imports reaching record levels and steel exports hitting an all-time monthly high. This surge in exports was largely driven by companies front-loading shipments to beat new licensing requirements set for 2026, effectively offsetting softer domestic demand. Supply dynamics are also evolving as major global miners adjust to shifting market conditions. BHP Group reported a 9% increase in its second-quarter iron ore output but has accepted lower prices during annual negotiations with Chinese buyers. Meanwhile, state backed entities in China have encouraged local mills to be more selective in their purchases to secure better contract terms. The broader commodities market showed a mix of caution and recovery across different metals. While coking coal and coke on the Dalian exchange saw respective mid-week declines of 1.52% and 1.28%, finished steel benchmarks in Shanghai mostly gained ground, with wire rod strengthening by 2.04% and stainless steel firming by 0.83%. In the copper sector, spot markets are navigating a period of lower liquidity as suppliers move
+**Iron ore prices stabilise on the Dalian Commodity Exchange, edging up 0.06% to reach**
+
+821 yuan per metric ton. This modest recovery followed a sharper 1% decline on Tuesday, which was triggered by a tragic accident at a steel facility in northern China that raised concerns about potential production halts and safety inspections. Despite these disruptions, China reported historic trade activity for December, with iron ore imports reaching record levels and steel exports hitting an all-time monthly high. This surge in exports was largely driven by companies front-loading shipments to beat new licensing requirements set for 2026, effectively offsetting softer domestic demand. Supply dynamics are also evolving as major global miners adjust to shifting market conditions. BHP Group reported a 9% increase in its second-quarter iron ore output but has accepted lower prices during annual negotiations with Chinese buyers. Meanwhile, state backed entities in China have encouraged local mills to be more selective in their purchases to secure better contract terms. The broader commodities market showed a mix of caution and recovery across different metals. While coking coal and coke on the Dalian exchange saw respective mid-week declines of 1.52% and 1.28%, finished steel benchmarks in Shanghai mostly gained ground, with wire rod strengthening by 2.04% and stainless steel firming by 0.83%. In the copper sector, spot markets are navigating a period of lower liquidity as suppliers move
 
 ### Shipbroking (www.star-asia.com.sg)
 

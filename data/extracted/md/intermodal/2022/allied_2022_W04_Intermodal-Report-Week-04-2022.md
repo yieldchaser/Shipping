@@ -53,9 +53,10 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | Year1 $/day | Year2 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel |  |  |  |  |  |  | Routes | 28-Jan-22 |  |
+| Vessel |  |  |  |  | Routes | 28-Jan-22 |  | 21-Jan-22 |  |
 | VLCC | 265k | MEG-SPORE | 36 | -3,607 | 36 | -4,180 | **13.7%** | 2,246 | 52,119 |
 |  | 280k | MEG-USG | 17 | -24,820 | 18 | -25,374 | **2.2%** | -15,306 | 41,904 |
 |  | 260k | WAF-CHINA | 37 | -3,099 | 37 | -3,445 | **10.0%** | 3,125 | 50,446 |
@@ -73,14 +74,14 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 106 | 1,690 | 105 | 1,290 | **31.0%** | 2,822 | 12,120 |
 |  | 55K | MED-USG | 106 | 1,763 | 105 | 1,226 | **43.8%** | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 151 | 9,719 | 127 | 3,859 | **151.9%** | 8,548 | 17,651 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | SEA DRAGON | 2021 | 114,217 dwt |  |  |
-| 6 mos | IOANNIS ZAFIRAKIS | 2021 | 49,999 dwt |  |  |
-
+| 6 mos | SEA DRAGON | 2021 | 114,217 dwt | $20,500/day | ExxonMobil |
+| 6 mos | IOANNIS ZAFIRAKIS | 2021 | 49,999 dwt | $14,750/day | TotalEnergies |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 28/Jan/21 | 50 | 80 | 70 |
@@ -95,8 +96,8 @@ Shanghai 200122 China
 | 31/Oct/21 | 50 | 85 | 150 |
 | 30/Nov/21 | 50 | 80 | 100 |
 | 31/Dec/21 | 50 | 80 | 90 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 28/Jan/21 | 120 | 130 | 140 | 150 |
@@ -111,8 +112,8 @@ Shanghai 200122 China
 | 31/Oct/21 | 130 | 140 | 150 | 320 |
 | 30/Nov/21 | 130 | 140 | 150 | 200 |
 | 31/Dec/21 | 130 | 140 | 150 | 150 |
-
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | $/day | 28-Jan-22 | 21-Jan-22 | ±% | Diff | 2021 | 2020 |  |
@@ -128,8 +129,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 13,750 | 13,750 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 11,000 | 11,000 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Current avg | Previous avg | ±% | Year1 | Year2 | Year3 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Vessel 5yrs old | Jan-22 avg | Dec-21 avg | ±% | 2021 | 2020 | 2019 |
@@ -169,12 +170,13 @@ In the MR2 sector we had sale of the "STI FONTVIEILLE" (49,990dwt-blt '13, S. Ko
 | BHSI | 1,011 | $18,198 | 1,103 | $19,859 | -92 | -8.4% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4 to 7 mos | BBG KUANTAN | 2022 | 82,000 dwt |  |  |
-| 5 to 7 mos | ANTARES | 2015 | 81,118 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 to 7 mos | BBG KUANTAN | 2022 | 82,000 dwt | Dalian 25/26 January | $23,600/day | MOL |
+| 5 to 7 mos | ANTARES | 2015 | 81,118 dwt | Rizhao 28 January | $23,500/day | Norden |
 
 ## TC Rates
+
 | Sector | Tenor | 28/01/2022 | 21/01/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 22,000 | 20,250 | **8.6%** | **1,750** | 32,684 | 15,361 |
@@ -191,6 +193,7 @@ In the MR2 sector we had sale of the "STI FONTVIEILLE" (49,990dwt-blt '13, S. Ko
 |  | **32K 3yr TC** | 13,000 | 13,000 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 28/Jan/21 | 2000 | 2000 | 2000 | 1000 | 2000 |
@@ -207,6 +210,7 @@ In the MR2 sector we had sale of the "STI FONTVIEILLE" (49,990dwt-blt '13, S. Ko
 | 31/Dec/21 | 1800 | 1900 | 1800 | 1600 | 1800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 28/Jan/21 | 15000 | 15000 | 15000 | 15000 |
@@ -253,6 +257,7 @@ In the Handysize sector we had the sale of the "CIELO DI VIRGIN GORDA" (39,202dw
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | GUNDALA | 107,127 | 2003 | IMABARI, Japan | B\&amp;W | Jan-23 | DH | $ 11.7m | Chinese |  |
@@ -263,8 +268,8 @@ In the Handysize sector we had the sale of the "CIELO DI VIRGIN GORDA" (39,202dw
 | J19 | CELSIUS MONACO | 19,999 | 2005 | SHIN KURUSHIMA, Japan | Mitsubishi | Nov-25 | DH | $ 7.75m | Korean | StSt |
 | SMALL | OCEAN MORAY | 11,999 | 2018 | ZHEJIANG SHENZHOU, China | Wartsila | Jan-23 | DH | $ 10.0m | Singapore based (Hong Lam Marine) |  |
 | SMALL | NEWOCEAN 6 | 4,679 | 2014 | CHONGQING CHUANDONG, China | Cummins | Sep-24 | DH | $ 5.3m | undisclosed |  |
-
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | SOUTH TRADER | 181,343 | 2014 | KOYO MIHARA, Japan | MAN-B\&amp;W | Jan-24 |  | $ 33.8m | Greek (Safe Bulkers) | delivery February 2022 |
@@ -304,6 +309,7 @@ In the Handysize sector we had the sale of the "CIELO DI VIRGIN GORDA" (39,202dw
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | IONIKOS | 4,360 | 2009 | HHIC, Philippines | MAN-B\&amp;W | Jul-24 |  | $ 96.0m | Asian | delivery June 2022 |
@@ -323,6 +329,7 @@ In the Handysize sector we had the sale of the "CIELO DI VIRGIN GORDA" (39,202dw
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 28/01/2022 | 21/01/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -376,8 +383,8 @@ The most recent reported contracting activity indicates a decrease compared to t
 | 31/Oct/21 | 60 | 35 | 36 | 29 |
 | 30/Nov/21 | 60 | 35 | 36 | 29 |
 | 31/Dec/21 | 60 | 35 | 36 | 29 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Tanker | 17,999 dwt | Jinling, China | 2024 | Sweden (Furetank) | undisclosed | LNG and liquid biogas fuelled |
@@ -391,6 +398,7 @@ The most recent reported contracting activity indicates a decrease compared to t
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 28/01/2022 | 21/01/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -420,8 +428,8 @@ The demolition market enjoyed another improvement on levels offered by the India
 | 31/Oct/21 | 620 | 580 | 570 | 320 |
 | 30/Nov/21 | 615 | 575 | 565 | 330 |
 | 31/Dec/21 | 620 | 580 | 570 | 335 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HIPPO | 46,092 | 12,141 | 1997 | SZCZECIŃSKA STOCZNIĄ, Poland | TANKER | undisclosed | undisclosed |  |

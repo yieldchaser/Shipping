@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -21,6 +23,7 @@ For crude carriers, a potential partial replacement of Russian imports with Liby
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 06/02/2026 WS points | 06/02/2026 $/day | 30/01/2026 WS points | 30/01/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 139 | 128,442 | 104 | 88,861 | **44.5%** | 60,510 | 37,255 |
@@ -42,10 +45,10 @@ For crude carriers, a potential partial replacement of Russian imports with Liby
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 10 mos | Stena Suede | 2011 | 158,824 dwt |  |  |
-| 36 mos | Tenacity Venture | 2017 | 114,439 dwt |  |  |
-
+| 10 mos | Stena Suede | 2011 | 158,824 dwt | $47,500/day | Trafigura |
+| 36 mos | Tenacity Venture | 2017 | 114,439 dwt | $34,000/day | COSCO |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 6/Feb/25 | 90 | 110 | 100 |
@@ -60,8 +63,8 @@ For crude carriers, a potential partial replacement of Russian imports with Liby
 | 6/Dec/25 | 95 | 125 | 250 |
 | 6/Jan/26 | 100 | 180 | 300 |
 | 6/Feb/26 | 105 | 190 | 350 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 6/Feb/25 | 150 | 160 | 140 | 130 |
@@ -129,6 +132,7 @@ The Aframax market in the North Sea underwent a sharp correction early in the we
 
 No fresh fixtures to report
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 6/Feb/25 | 5000 | 10000 | 8000 | 7000 |
@@ -280,6 +284,7 @@ In Bangladesh, activity remained subdued with buyers showing selective interest 
 
 The Turkish market experienced a flat week following a period of higher activity. Some deals concluded for the end of February suggest a potential uptick. The steel sector witnessed steady prices and reduced demand from local mills.
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ISA GOLDEN | 28,255 | 6,262 | 1995 | NKK, Japan | BC | $ 425/Ldt | Bangladeshi |

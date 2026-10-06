@@ -114,9 +114,13 @@ The Aframax market in the Middle East experienced a significant rate increase by
 
 Clean:
 
-**LR:** LR2 in the MEG concluded the week downward after the highs of start of the week. A few vessels were concluded in a private off-market fixture. However, as tonnage recovered, TC1 ended the week lower, falling some 15 points to WS142. Similar was also noted in the LR1, with a softer landing at WS154 for TC5 route.
+**LR: LR2 in the MEG concluded the week downward after the highs of start of the week. A**
 
-**MR:** In the MR segment, vessel supply for early-to-mid September loadings is already showing signs of being tight. MEG ended the week lower, with TC17 to E. Africa closing at WS182. On the UKC, MRs also saw a lackluster market, with TC2 to US-Atlantic fell to WS114.
+few vessels were concluded in a private off-market fixture. However, as tonnage recovered, TC1 ended the week lower, falling some 15 points to WS142. Similar was also noted in the LR1, with a softer landing at WS154 for TC5 route.
+
+**MR: In the MR segment, vessel supply for early-to-mid September loadings is already**
+
+showing signs of being tight. MEG ended the week lower, with TC17 to E. Africa closing at WS182. On the UKC, MRs also saw a lackluster market, with TC2 to US-Atlantic fell to WS114.
 
 ## Baltic Exchange Tanker Indices
 
@@ -144,23 +148,23 @@ On European routes, rates have now declined for six consecutive weeks as carrier
 
 ## Containers Values
 
-| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| (BY TEU) | GEARLESS |  | DELIVERY | YEARS |
-| 900 ~ 1,200 | Geared |  | 26 | 10 |
-| 1,600 ~ 1,850 | Gearless |  | 35 | 18 |
-| 2,700 ~ 2,900 | Gearless |  | 46 | 26 |
-| 5,100 ~ 5,300 | Gearless |  | 82 | 41 |
-| *(amount in USD million) | \ | = Eco units |  |  |
-|  |  | S&P | Containers |  |
-|  |  |  |  | / |
-| VESSEL NAME | TYPE | TEU | BUILT |  |
-|  |  |  |  |  |
-| CHARM C | SUB PMAX | 2,546 | CHINA |  |
-| CAPE FRANKLIN | FEEDER | 1,440 | GERMANY |  |
-| NORDIC PORTO | FEEDER | 1,085 | CHINA |  |
-| JI TAI | FEEDER | 950 | CHINA | BUYERS |
+| CONTAINERS | GEARED / | NB |  | NB PROMPT |  |  | 15 |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
+| (BY TEU) | GEARLESS |  | CONTRACT | DELIVERY |  |  | YEARS |
+| 900 ~ 1,200 | Geared |  | 24 | 26 | 20 | 16 | 10 |
+| 1,600 ~ 1,850 | Gearless |  | 31 | 35 | 29 (E) | 23 (E) | 18 |
+| 2,700 ~ 2,900 | Gearless |  | 44 | 46 | 39 | 35 | 26 |
+| 5,100 ~ 5,300 | Gearless |  | 59 | 82 | 66 | - | 41 |
+| *(amount in USD million) | \| = Eco units |  |  |  |  |  |  |
+|  |  | S&P |  | Containers | Report |  |  |
+|  |  |  |  |  | PRICE | COMMENTS | / |
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT |  |  |  |
+|  |  |  |  |  | (MILLION) | USD BUYERS |  |
+| CHARM C | SUB PMAX | 2,546 | 2009 | CHINA | 25.0 | UNDISCLOSED |  |
+| CAPE FRANKLIN | FEEDER | 1,440 | 2006 | GERMANY | 17.0 | UNDISCLOSED |  |
+| NORDIC PORTO | FEEDER | 1,085 | 2011 | CHINA | 12.5 | UNDISCLOSED |  |
+| JI TAI | FEEDER | 950 | 2026 | CHINA | 16.0 | VIETNAMESE | BUYERS |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -295,13 +299,21 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 Scrap trading across the South Asian region remained subdued this week, with a combination of seasonal weather, cautious purchasing from mills, and persistent gaps between bid and offer levels hindering significant market activity. In the wider market, Turkey experienced downward pressure on prices due to a surplus of European material.
 
-**India:** The Indian imported scrap market saw fresh offers emerge, but concluded business was limited. A notable bid-offer gap of US$5-7 per ton was reported by market participants in Mumbai, which effectively stalled negotiations. Current offers for delivery to Nhava Sheva included shredded scrap in the range of US$363-365/t CFR and busheling at US$372-375/t CFR. Despite a relatively narrow price spread between these two grades, a seasonal slowdown and cautious sentiment kept most buyers on the sidelines, with bids generally trailing offer levels by a margin of US$6-10 per ton.
+**India: The Indian imported scrap market saw fresh offers emerge, but concluded**
 
-**Pakistan:** In Pakistan, trading momentum was particularly weak as persistent heavy rains disrupted logistics and dampened market sentiment. At Port Qasim, interest in imported shredded scrap was minimal. Offers were heard in the range of US$372-374/t CFR, but these were met with bids at a lower level of US$366-368/t, reflecting the challenging market conditions.
+business was limited. A notable bid-offer gap of US$5-7 per ton was reported by market participants in Mumbai, which effectively stalled negotiations. Current offers for delivery to Nhava Sheva included shredded scrap in the range of US$363-365/t CFR and busheling at US$372-375/t CFR. Despite a relatively narrow price spread between these two grades, a seasonal slowdown and cautious sentiment kept most buyers on the sidelines, with bids generally trailing offer levels by a margin of US$6-10 per ton.
 
-**Bangladesh:** The imported scrap market in Bangladesh showed some signs of life, though overall trading volume remained slow as mills increasingly turned to domestic sources. For imported material, offers for shredded scrap were heard at US$375-378/t CFR Chattogram, against bids of US$370-372/t. In the finished steel sector, billet prices saw a modest increase, while rebar prices held stable in both the Dhaka and Chattogram markets, providing a steady, albeit quiet, backdrop.
+**Pakistan: In Pakistan, trading momentum was particularly weak as persistent heavy**
 
-**Turkey:** Deepsea scrap prices in Turkey softened during the period, primarily due to weak market sentiment and an ample supply of material from Europe. Tradable values for EUorigin HMS 80:20 were reported in the range of US$328-333/t CFR. Market participants noted that while sellers from the United States attempted to maintain firm price levels, the abundant availability of European scrap combined with muted buying appetite from Turkish mills continued to place downward pressure on the market.
+rains disrupted logistics and dampened market sentiment. At Port Qasim, interest in imported shredded scrap was minimal. Offers were heard in the range of US$372-374/t CFR, but these were met with bids at a lower level of US$366-368/t, reflecting the challenging market conditions.
+
+**Bangladesh: The imported scrap market in Bangladesh showed some signs of life,**
+
+though overall trading volume remained slow as mills increasingly turned to domestic sources. For imported material, offers for shredded scrap were heard at US$375-378/t CFR Chattogram, against bids of US$370-372/t. In the finished steel sector, billet prices saw a modest increase, while rebar prices held stable in both the Dhaka and Chattogram markets, providing a steady, albeit quiet, backdrop.
+
+**Turkey: Deepsea scrap prices in Turkey softened during the period, primarily due to weak**
+
+market sentiment and an ample supply of material from Europe. Tradable values for EUorigin HMS 80:20 were reported in the range of US$328-333/t CFR. Market participants noted that while sellers from the United States attempted to maintain firm price levels, the abundant availability of European scrap combined with muted buying appetite from Turkish mills continued to place downward pressure on the market.
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -311,7 +323,9 @@ Scrap trading across the South Asian region remained subdued this week, with a c
 
 ## Commodities (Weekinfocus)
 
-Iron ore futures were positioned for a third consecutive weekly gain on Friday, supported by recovering demand in China and emerging supply-side concerns. The resumption of production at Chinese steel mills, following the conclusion of a military parade, provided a significant boost to consumption. This was evidenced by a 5% week-on-week jump in average daily hot metal output, which reached a three-week high. Reinforcing the positive sentiment were anxieties over the global supply chain. Market participants reacted to news from Guinea that could potentially limit the volume of ore available for export from a major project, while a sharp drop in shipments from top supplier Brazil also tightened the near-term outlook. However, the market's upward momentum was tempered by rising inventories. An accumulation of both finished steel and portside iron ore stocks during the peak demand season served to cap more significant price gains, creating a tense balance between bullish and bearish pressures. The constructive tone was also reflected in adjacent markets. Other essential steelmaking ingredients, such as coking coal and coke, posted advances. Furthermore, benchmarks for finished steel products on the Shanghai Futures Exchange, including rebar and hot-rolled coil, also gained ground.
+**Iron ore futures were positioned for a third consecutive weekly gain on Friday, supported**
+
+by recovering demand in China and emerging supply-side concerns. The resumption of production at Chinese steel mills, following the conclusion of a military parade, provided a significant boost to consumption. This was evidenced by a 5% week-on-week jump in average daily hot metal output, which reached a three-week high. Reinforcing the positive sentiment were anxieties over the global supply chain. Market participants reacted to news from Guinea that could potentially limit the volume of ore available for export from a major project, while a sharp drop in shipments from top supplier Brazil also tightened the near-term outlook. However, the market's upward momentum was tempered by rising inventories. An accumulation of both finished steel and portside iron ore stocks during the peak demand season served to cap more significant price gains, creating a tense balance between bullish and bearish pressures. The constructive tone was also reflected in adjacent markets. Other essential steelmaking ingredients, such as coking coal and coke, posted advances. Furthermore, benchmarks for finished steel products on the Shanghai Futures Exchange, including rebar and hot-rolled coil, also gained ground.
 
 ### Shipbroking (www.star-asia.com.sg)
 

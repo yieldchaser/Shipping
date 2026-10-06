@@ -56,6 +56,7 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 25/11/22 WS points | 25/11/22 $/day | 18/11/22 WS points | 18/11/22 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 110 | 79,951 | 132 | 104,907 | -23.8% | 2,246 | 52,119 |
@@ -74,12 +75,12 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 310 | 58,123 | 230 | 34,971 | **66.2%** | 2,822 | 12,120 |
 |  | 55K | MED-USG | 310 | 59,375 | 225 | 34,609 | **71.6%** | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 601 | 116,261 | 455 | 80,909 | **43.7%** | 8,548 | 17,651 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 9 to 12 mos | NAVE CONSTELLATION | 2010 | 296,988 dwt |  |  |
-| 60 mos | AQUABLISS | 2022 | 157,747 dwt |  |  |
+| 9 to 12 mos | NAVE CONSTELLATION | 2010 | 296,988 dwt | $46,000/day | Trafigura |
+| 60 mos | AQUABLISS | 2022 | 157,747 dwt | $33,000/day | Teekay |
 
 ## TC Rates
 | Sector | Tenor | 25/11/22 | 18/11/22 | ±% | Diff | 2021 | 2020 |
@@ -96,8 +97,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 20,000 | 20,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 23,500 | 23,500 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Nov-22 avg | Oct-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 88.7 | 87.3 | **1.6%** | 69.7 | 71.5 | 72.1 |
@@ -128,6 +129,7 @@ In the MR1 sector we had the sale of the "PETROLIMEX 10" (37,256dwt-blt '03, S. 
 
 # Dry Bulk Market
 ## Baltic Indices
+
 | Index Name | 25/11/22 Index | 25/11/22 $/day | 18/11/22 Index | 18/11/22 $/day | Point Diff | $/day ±% | 2021 Index | 2020 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 1,324 |  | 1,189 |  | 135 |  | 2,921 | 1,066 |
@@ -135,13 +137,13 @@ In the MR1 sector we had the sale of the "PETROLIMEX 10" (37,256dwt-blt '03, S. 
 | BPI | 1,479 | $13,310 | 1,594 | $14,343 | -115 | -7.2% | 2,972 | 1,103 |
 | BSI | 1,182 | $13,004 | 1,170 | $12,870 | 12 | 1.0% | 2,424 | 746 |
 | BHSI | 745 | $13,403 | 763 | $13,727 | -18 | -2.4% | 1,424 | 447 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | SEASTAR VALIANT | 2012 | 34,328 dwt |  |  |
 
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 to 6 mos | SEASTAR VALIANT | 2012 | 34,328 dwt | Bandirma 23 Nov | $15,000/day | cnr |
 ## TC Rates
+
 | Sector | Tenor | 25/11/22 | 18/11/22 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 13,000 | 11,000 | **18.2%** | **2,000** | 32,684 | 15,361 |
@@ -156,8 +158,8 @@ In the MR1 sector we had the sale of the "PETROLIMEX 10" (37,256dwt-blt '03, S. 
 | **Handysize** | **32K 6mnt TC** | 10,750 | 10,750 | 0.0% | 0 | 22,976 | 8,298 |
 |  | **32K 1yr TC** | 11,000 | 10,500 | **4.8%** | **500** | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 9,000 | 9,000 | 0.0% | 0 | 11,825 | 8,486 |
-
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 25/Nov/21 | 2800 | 2700 | 2600 | 1800 | 4500 |
@@ -173,8 +175,8 @@ In the MR1 sector we had the sale of the "PETROLIMEX 10" (37,256dwt-blt '03, S. 
 | 25/Sep/22 | 2300 | 2200 | 2100 | 1500 | 2500 |
 | 25/Oct/22 | 2400 | 2300 | 2200 | 1600 | 2600 |
 | 25/Nov/22 | 2400 | 2300 | 2200 | 1600 | 2500 |
-
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 25/Nov/21 | 25000 | 23000 | 24000 | 22000 |
@@ -259,6 +261,7 @@ In the Panamax sector we had the sale of the "NORD LIBRA" (77,134dwt-bl't '14, J
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 25-Nov-22 | 18-Nov-22 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -315,8 +318,8 @@ The newbuilding ordering activity continues to witness a steady number of materi
 | 25/Sep/22 | 61 | 33 | 32 | 29 |
 | 25/Oct/22 | 61 | 32 | 32 | 29 |
 | 25/Nov/22 | 60 | 32 | 32 | 29 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Tanker | 50,000 dwt | Hyundai Vinashin, Vietnam | 2025 | Singaporean (Eastern Pacific) | $ 43.0m |  |
@@ -330,6 +333,7 @@ The newbuilding ordering activity continues to witness a steady number of materi
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | Markets | 25/11/22 | 18/11/22 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -364,6 +368,7 @@ Sentiment in the demolition market remained subdued for another week while no fu
 | 25/Nov/22 | 540 | 540 | 540 | 250 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BERGE APO | 171,012 | 20,668 | 2000 | NAMURA, Japan | BC | $ 523/Ldt | Indian | HKC recycling |

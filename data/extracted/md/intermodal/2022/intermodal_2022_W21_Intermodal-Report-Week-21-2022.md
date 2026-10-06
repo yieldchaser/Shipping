@@ -55,6 +55,7 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 44 | -15,147 | 42 | -13,187 | -14.9% | 2,246 | 52,119 |
@@ -70,13 +71,13 @@ Shanghai 200122 China
 |  | 75k | MEG-JAPAN | 223 | 32,851 | 263 | 48,678 | -32.5% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 259 | 30,956 | 302 | 43,230 | -28.4% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 327 | 32,427 | 343 | 34,871 | -7.0% | 4,496 | 12,977 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | GEM NO. 5 | 2017 | 302,650 dwt |  |  |
-
+| 36 mos | GEM NO. 5 | 2017 | 302,650 dwt | $32,500/day | HMM |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points |
@@ -93,8 +94,8 @@ Shanghai 200122 China
 | 27/Mar/22 | 30 | 290 | 290 |
 | 27/Apr/22 | 30 | 280 | 280 |
 | 27/May/22 | 30 | 120 | 180 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points | WS points |
@@ -111,8 +112,8 @@ Shanghai 200122 China
 | 27/Mar/22 | 100 | 100 | 100 | 450 |
 | 27/Apr/22 | 100 | 100 | 100 | 400 |
 | 27/May/22 | 100 | 100 | 100 | 450 |
-
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300k 1yr TC** | 28,000 | 28,000 | 0.0% | 0 | 25,684 | 42,038 |
@@ -127,8 +128,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 15,000 | 15,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 16,250 | 14,000 | 16.1% | 2250 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | May-22 avg | Apr-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 75.8 | 73.7 | 2.8% | 69.7 | 71.5 | 72.1 |
@@ -167,11 +168,12 @@ In the MR1 sector we had the sale of the "BALTIC COMMANDER I" (37,418dwt-blt '00
 | BHSI | 1,647 | $29,652 | 1,662 | $29,908 | -15 | -0.9% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | FLORENTIA | 2016 | 63,340 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 to 6 mos | FLORENTIA | 2016 | 63,340 dwt | Jakarta prompt | $36,500/day | cnr |
 
 ## TC Rates
+
 | Sector | Tenor | 27/05/2022 | 20/05/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 35,750 | 41,750 | -14.4% | -6,000 | 32,684 | 15,361 |
@@ -188,6 +190,7 @@ In the MR1 sector we had the sale of the "BALTIC COMMANDER I" (37,418dwt-blt '00
 |  | **32K 3yr TC** | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 27/May/21 | 2800 | 2900 | 2700 | 1600 | 2800 |
@@ -205,6 +208,7 @@ In the MR1 sector we had the sale of the "BALTIC COMMANDER I" (37,418dwt-blt '00
 | 27/May/22 | 3200 | 3100 | 3000 | 1700 | 4200 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 27/May/21 | 22000 | 24000 | 23000 | 21000 |
@@ -252,6 +256,7 @@ In the Ultramax sector we had the sale of the "PAVO BRIGHT" (61,281dwt-bl't '17,
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | STELLA FLORA | 176,292 | 2012 | SHANGHAI SHIPYARD, China | MAN-B&amp;W | Oct-22 |  | $ 31.5m | Greek (Safe Bulkers) | BWTS fitted |
@@ -276,6 +281,7 @@ In the Ultramax sector we had the sale of the "PAVO BRIGHT" (61,281dwt-bl't '17,
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | RUMFORD | 107,505 | 2012 | TSUNEISHI, Japan | MAN-B\&amp;W | Mar-27 | DH | $ 32.7m | Greeks (Thenamaris) |  |
@@ -291,6 +297,7 @@ In the Ultramax sector we had the sale of the "PAVO BRIGHT" (61,281dwt-bl't '17,
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 27/05/2022 | 20/05/2022 | ±% | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -343,8 +350,8 @@ The shipbuilding activity remained firm during the past days with contracts comi
 | 27/Mar/22 | 61 | 34 | 35 | 29 |
 | 27/Apr/22 | 62 | 35 | 35 | 29 |
 | 27/May/22 | 62 | 35 | 35 | 29 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8 | Tanker | 50,000 dwt | New Times, China | 2025 | Norwegian (EuroGreen) | $ 58.0m | methanol fuelled, battery-powered, against 7-yrs T/C at $17,000/day |

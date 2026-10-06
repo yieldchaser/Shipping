@@ -48,33 +48,33 @@ The Handysize market experienced a quiet period following the Easter break, with
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
-| --- | --- | --- | --- | --- | --- | --- |
-| BDI | 2,201 | 2,066 |  | 1,274 | +6.53% | +72.76% |
-| BCI | 3,318 | 3,086 |  | 1,803 | +7.52% | +84.03% |
-| BPI | 1,855 | 1,784 |  | 1,186 | +3.98% | +56.41% |
-| BSI | 1,308 | 1,224 |  | 939 | +6.86% | +39.30% |
-| BHSI | 699 | 695 |  | 582 | +0.58% | +20.10% |
-|  |  | Dry | Bulk | Values (Weekly) |  |  |
-| TYPE | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS 15 YEARS |
-| CAPE |  | 75 |  | 81 | 68 53 | (E) 33 |
-| KAMSARMAX |  | 37 |  | 43 | 36 30 | (E) 23 |
-| ULTRAMAX |  | 35 |  | 42 | 35 (E) | 28 18 (56K) |
-| HANDY |  | 30 |  | 36 | 28 | 21 17 |
-| *(amount in USD | \ | (E)-ecounits |  |  |  |  |
-|  |  | Dry | Bulk - | S&P Report |  |  |
-|  |  |  |  |  | PRICE |  |
-| VESSEL | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
-|  |  |  |  |  | (MILLION) USD |  |
-| YANGZE 901 | POST PMAX | 93,229 | 2012 | CHINA | 12.8 | CHINESE BUYERS |
-| DONGHAE | KMAX | 82,861 | 2012 | S. KOREA | 17.0 | UNDISCLOSED |
-| DIAMANTINA | KMAX | 82,139 | 2010 | CHINA | 19.0 | UAE BASED BUYERS |
-| N AMALTHIA | PMAX | 75,356 | 2006 | JAPAN | 10.3 | UNDISCLOSED |
-| SERENE | SMAX | 57,238 | 2010 | S. KOREA | 14.4 | UNDISCLOSED |
-| POSEIDON S | SMAX | 53,482 | 2008 | JAPAN | 13.0 | TURKISH BUYERS |
-| MERCURY | SMAX | 53,452 | 2008 | JAPAN | 13.0 | CHINESE BUYERS |
-| NANAIMO | HANDY | 34,407 | 2016 | JAPAN | 19.0 | UNDISCLOSED |
-| AEOLOS | HANDY | 31,640 | 2001 | JAPAN | 6.0 | UNDISCLOSED |
+| INDICES |  | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
+|---|---|---|---|---|---|---|---|
+| BDI |  | 2,201 | 2,066 |  | 1,274 | +6.53% | +72.76% |
+| BCI |  | 3,318 | 3,086 |  | 1,803 | +7.52% | +84.03% |
+| BPI |  | 1,855 | 1,784 |  | 1,186 | +3.98% | +56.41% |
+| BSI |  | 1,308 | 1,224 |  | 939 | +6.86% | +39.30% |
+| BHSI |  | 699 | 695 |  | 582 | +0.58% | +20.10% |
+|  |  |  | Dry | Bulk | Values (Weekly) |  |  |
+| TYPE | DWT | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS 15 YEARS |
+| CAPE | 180,000 |  | 75 |  | 81 | 68 53 | (E) 33 |
+| KAMSARMAX | 82,000 |  | 37 |  | 43 | 36 30 | (E) 23 |
+| ULTRAMAX | 64,000 |  | 35 |  | 42 | 35 (E) | 28 18 (56K) |
+| HANDY | 38,000 |  | 30 |  | 36 | 28 | 21 17 |
+| *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |  |
+|  |  |  | Dry | Bulk - | S&P Report |  |  |
+|  |  |  |  |  |  | PRICE |  |
+| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
+|  |  |  |  |  |  | (MILLION) USD |  |
+| YANGZE 901 |  | POST PMAX | 93,229 | 2012 | CHINA | 12.8 | CHINESE BUYERS |
+| DONGHAE | STAR | KMAX | 82,861 | 2012 | S. KOREA | 17.0 | UNDISCLOSED |
+| DIAMANTINA |  | KMAX | 82,139 | 2010 | CHINA | 19.0 | UAE BASED BUYERS |
+| N AMALTHIA |  | PMAX | 75,356 | 2006 | JAPAN | 10.3 | UNDISCLOSED |
+| SERENE | AMELIA | SMAX | 57,238 | 2010 | S. KOREA | 14.4 | UNDISCLOSED |
+| POSEIDON S |  | SMAX | 53,482 | 2008 | JAPAN | 13.0 | TURKISH BUYERS |
+| MERCURY | OCEAN | SMAX | 53,452 | 2008 | JAPAN | 13.0 | CHINESE BUYERS |
+| NANAIMO | BAY | HANDY | 34,407 | 2016 | JAPAN | 19.0 | UNDISCLOSED |
+| AEOLOS |  | HANDY | 31,640 | 2001 | JAPAN | 6.0 | UNDISCLOSED |
 
 ### Shipbroking (www.star-asia.com.sg)
 

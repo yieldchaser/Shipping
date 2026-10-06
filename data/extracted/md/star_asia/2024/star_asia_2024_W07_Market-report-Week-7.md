@@ -48,25 +48,25 @@ The Atlantic market maintains a stable balance with no significant fluctuations.
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BDI | 1,610 |  | 1,545 |  | 538 | +4.21% |  | +199.26% |
-| BCI | 2,448 |  | 2,381 |  | 271 | +2.81% |  | +803.32% |
-| BPI | 1,646 |  | 1,509 |  | 811 | +9.08% |  | +102.96% |
-| BSI | 1,071 |  | 1,053 |  | 695 | +1.71% |  | +54.10% |
-| BHSI | 572 |  | 568 Dry Bulk (Weekly |  | 438 Values Average) | +0.70% |  | +30.59% |
-| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| CAPE | 180,000 | 67 |  |  | 74 | 57 | 37 | 25 |
-| KAMSARMAX | 82,000 | 35 |  |  | 40 | 34 | 26 | 16 |
-| SUPRAMAX | 56,000 | 33 |  |  | 38 | 31 | 25 | 15 |
-| HANDY | 38,000 | 30 |  |  | 33 | 27 | 19 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |
-|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 |  | 21,000 |  | 14,350 | +9.52% |  | +60.28% |
-| PANAMAX | 75,000 |  | 16,000 |  | 13,200 | -6.25% |  | +13.64% |
-| SUPRAMAX | 58,000 |  | 15,000 |  | 12,750 | 0 |  | +17.65% |
-| HANDYSIZE | 38,000 |  | 13,000 |  | 10,150 | +1.92% |  | +30.54% |
+| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+|---|---|---|---|---|---|---|---|---|---|
+| BDI | 1,610 |  |  | 1,545 |  | 538 | +4.21% |  | +199.26% |
+| BCI | 2,448 |  |  | 2,381 |  | 271 | +2.81% |  | +803.32% |
+| BPI | 1,646 |  |  | 1,509 |  | 811 | +9.08% |  | +102.96% |
+| BSI | 1,071 |  |  | 1,053 |  | 695 | +1.71% |  | +54.10% |
+| BHSI | 572 |  |  | 568 Dry Bulk (Weekly |  | 438 Values Average) | +0.70% |  | +30.59% |
+| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| CAPE | 180,000 |  | 67 |  |  | 74 | 57 | 37 | 25 |
+| KAMSARMAX | 82,000 |  | 35 |  |  | 40 | 34 | 26 | 16 |
+| SUPRAMAX | 56,000 |  | 33 |  |  | 38 | 31 | 25 | 15 |
+| HANDY | 38,000 |  | 30 |  |  | 33 | 27 | 19 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |  |
+|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 | 23,000 |  | 21,000 |  | 14,350 | +9.52% |  | +60.28% |
+| PANAMAX | 75,000 | 15,000 |  | 16,000 |  | 13,200 | -6.25% |  | +13.64% |
+| SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 12,750 | 0 |  | +17.65% |
+| HANDYSIZE | 38,000 | 13,250 |  | 13,000 |  | 10,150 | +1.92% |  | +30.54% |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -252,39 +252,39 @@ The domestic ship scrap market continues to struggle with stagnant prices, offer
 
 Anchorage & Beaching Position (February 2024)
 
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| --- | --- | --- | --- | --- |
-| NAND RAJGADI | GENERAL | 796 | 15.02.2024 | AWAITING |
-| HASAN | GENERAL | 3,174 | 14.02.2024 | 14.02.2024 |
-| TOMSON GAS | LPG | 1,990 | 25.01.2024 | 09.02.2024 |
-| SAFE | GENERAL | 890 | 01.02.2024 | 08.02.2024 |
-| SAS 4 | TUG | 935 | 16.12.2023 | 08.02.2024 |
-| VILIGA | FISHING | 804 | 18.01.2024 | 07.02.2024 |
-| ZE SHENG | AGGREGATES | 3,492 | 30.01.2024 | 01.02.2024 |
-| Chattogram, | Bangladesh |  |  |  |
-| Buyers in Chattogram ship scrap prices moderately displaying hesitancy, likely The spotlight is now on Chattogram once Chinese Experts anticipate a downward in a market There was a notable Emirates. Built in 1986 in price of USD520/ton for This transaction stands defeating the Alang green recycling. Anchorage | have cautiously fluctuating. influenced by China, with expectations owners return significant influx of where there are a transaction involving South Korea and green recycling. out as a significant recyclers in today's & Beaching | their recyclers cautious mounting business post-lunar into the market, number of sale of the 11,722 achievement for challenging market Position | purchasing activities, in Chattogram approach of their for a surge in ship New Year potentially driving recyclers left in general cargo vessel tons, the vessel fetched the Bangladeshi conditions when (February 2024) | with local are neighbours. supply to holidays. prices the industry. Bontrup a gross recyclers, it comes to |
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| FUKUDA | TANKER | 750 | 12.02.2023 | AWAITING |
-| DON FENG | CONTAINER | 2,405 | 12.02.2024 | AWAITING |
-| LEGASPI | GEN.CARGO | 1,506 | 11..02.2024 | AWAITING |
-| ZEUS ONE | BULKER | 21,364 | 11.02.2024 | AWAITING |
-| MANIS 7 | CONTAINER | 5,467 | 12.02.2024 | AWAITNG |
-| KONSTANTINOS | BULKER | 7,979 | 08.02.2024 | 13.02.2024 |
+| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
+| NAND RAJGADI | GENERAL | CARGO | 796 | 15.02.2024 | AWAITING |
+| HASAN | GENERAL | CARGO | 3,174 | 14.02.2024 | 14.02.2024 |
+| TOMSON GAS | LPG |  | 1,990 | 25.01.2024 | 09.02.2024 |
+| SAFE | GENERAL | CARGO | 890 | 01.02.2024 | 08.02.2024 |
+| SAS 4 | TUG |  | 935 | 16.12.2023 | 08.02.2024 |
+| VILIGA | FISHING |  | 804 | 18.01.2024 | 07.02.2024 |
+| ZE SHENG | AGGREGATES |  | 3,492 | 30.01.2024 | 01.02.2024 |
+| Chattogram, | Bangladesh |  |  |  |  |
+| Buyers in Chattogram ship scrap prices moderately displaying hesitancy, likely The spotlight is now on Chattogram once Chinese Experts anticipate a downward in a market There was a notable Emirates. Built in 1986 in price of USD520/ton for This transaction stands defeating the Alang green recycling. Anchorage | have cautiously fluctuating. influenced by China, with expectations owners return significant influx of where there are a transaction involving South Korea and green recycling. out as a significant recyclers in today's & Beaching | resumed However, the to ships limited the weighing | their recyclers cautious mounting business post-lunar into the market, number of sale of the 11,722 achievement for challenging market Position | purchasing activities, in Chattogram approach of their for a surge in ship New Year potentially driving recyclers left in general cargo vessel tons, the vessel fetched the Bangladeshi conditions when (February 2024) | with local are neighbours. supply to holidays. prices the industry. Bontrup a gross recyclers, it comes to |
+| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
+| FUKUDA | TANKER |  | 750 | 12.02.2023 | AWAITING |
+| DON FENG | CONTAINER |  | 2,405 | 12.02.2024 | AWAITING |
+| LEGASPI | GEN.CARGO |  | 1,506 | 11..02.2024 | AWAITING |
+| ZEUS ONE | BULKER |  | 21,364 | 11.02.2024 | AWAITING |
+| MANIS 7 | CONTAINER |  | 5,467 | 12.02.2024 | AWAITNG |
+| KONSTANTINOS | BULKER |  | 7,979 | 08.02.2024 | 13.02.2024 |
 
 ### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
-| LILA NANTONG | BULKER | 23,982 | 05.02.2024 | 15.02.2024 |
-| --- | --- | --- | --- | --- |
-| LUFFY | GEN.CARGO | 4,635 | 04.02.2024 | 13.02.2024 |
-| WADI S | BULKER | 10,247 | 04.02.2024 | 10.02.2024 |
-| SPAN 23 | CONTAINER | 2,197 | 31.01.2024 | 02.02.2024 |
-| P DELTA | CONTAINER | 5,256 | 24.01.2024 | 02.02.2024 |
-| KONSHIN | GEN. CARGO | 1,416 | 29.01.2024 | 01.02.2024 |
-| Gadani, Pakistan Last week's elections claim a clear victory. confusion and Despite the political business continuing of the emerging to collaborating to With Pakistan facing parties have little reversing Pakistan's FOREX rate. Former Prime Minister the need for Pakistan pressing deadline to starting in July, a sum Pakistan's inflation Investors are demanding purchase the country's points. The IMF has indicated new government to | Pakistan have Regional protests Pakistan's usual, overcoming grasp the severity assistance from reserves and an but to cooperate. economic Shehbaz Sharif secure a new loan funds to cover times its foreign the highest in additional 11.5 bonds, significantly intention to send a medium-term & Beaching | descended into chaos, alleging electoral recycling markets a fractured election of the country's the IMF. IMF program set to This cooperation underperformance, emphasised the urgency program promptly. USD25 billion in exchange reserves. Asia, and its economy percentage points above the distress a team to Pakistan aid package. Position (February | with no single rigging have only have remained stable, mandate, as economic crisis expire in April, is seen as crucial particularly concerning of the situation, The nation is external debt Compounding contracted last of yield over threshold of 10 after the formation 2024) | party able to added to the with the leaders and commit political for its stressing facing a payments matters, fiscal year. Treasuries to percentage of the |
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| ZE HONG | CONTAINER | 11,618 | 27.01.2024 | AWAITING |
+| LILA NANTONG |  | BULKER | 23,982 | 05.02.2024 | 15.02.2024 |
+|---|---|---|---|---|---|
+| LUFFY |  | GEN.CARGO | 4,635 | 04.02.2024 | 13.02.2024 |
+| WADI S |  | BULKER | 10,247 | 04.02.2024 | 10.02.2024 |
+| SPAN 23 |  | CONTAINER | 2,197 | 31.01.2024 | 02.02.2024 |
+| P DELTA |  | CONTAINER | 5,256 | 24.01.2024 | 02.02.2024 |
+| KONSHIN |  | GEN. CARGO | 1,416 | 29.01.2024 | 01.02.2024 |
+| Gadani, Pakistan Last week's elections claim a clear victory. confusion and Despite the political business continuing of the emerging to collaborating to With Pakistan facing parties have little reversing Pakistan's FOREX rate. Former Prime Minister the need for Pakistan pressing deadline to starting in July, a sum Pakistan's inflation Investors are demanding purchase the country's points. The IMF has indicated new government to | in instability. turmoil, as coalition secure low choice recent to acquire three rate is an its discuss Anchorage | Pakistan have Regional protests Pakistan's usual, overcoming grasp the severity assistance from reserves and an but to cooperate. economic Shehbaz Sharif secure a new loan funds to cover times its foreign the highest in additional 11.5 bonds, significantly intention to send a medium-term & Beaching | descended into chaos, alleging electoral recycling markets a fractured election of the country's the IMF. IMF program set to This cooperation underperformance, emphasised the urgency program promptly. USD25 billion in exchange reserves. Asia, and its economy percentage points above the distress a team to Pakistan aid package. Position (February | with no single rigging have only have remained stable, mandate, as economic crisis expire in April, is seen as crucial particularly concerning of the situation, The nation is external debt Compounding contracted last of yield over threshold of 10 after the formation 2024) | party able to added to the with the leaders and commit political for its stressing facing a payments matters, fiscal year. Treasuries to percentage of the |
+| VESSEL NAME |  | TYPE | LDT | ARRIVAL | BEACHING |
+| ZE HONG |  | CONTAINER | 11,618 | 27.01.2024 | AWAITING |
 
 ### Shipbroking (www.star-asia.com.sg)
 

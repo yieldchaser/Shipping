@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 *By Nikos Tagoulis, Senior Analyst*
 
@@ -38,6 +40,7 @@ As geopolitics and energy economics converge, Greece is emerging as a key entry 
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 12/09/2025 WS points | 12/09/2025 $/day | 05/09/2025 WS points | 05/09/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 88 | 78,878 | 72 | 57,769 | 36.5% | 37,255 | 39,466 |
@@ -61,8 +64,8 @@ As geopolitics and energy economics converge, Greece is emerging as a key entry 
 | 72 mos | Olympic Luck | 2010 |
 | --- | --- | --- |
 |  | $40,000/day |  |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 12/Sep/24 | 80 | 100 | 120 |
@@ -78,8 +81,8 @@ As geopolitics and energy economics converge, Greece is emerging as a key entry 
 | 12/Jul/25 | 80 | 100 | 160 |
 | 12/Aug/25 | 80 | 110 | 170 |
 | 12/Sep/25 | 80 | 140 | 160 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 12/Sep/24 | 120 | 100 | 140 | 150 |
@@ -149,10 +152,10 @@ Overall, with owners regaining momentum and supply looking tighter, the market e
 | BHSI | 804 | $14,475 | 787 | $14,165 | 17 | 2.2% | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6 to 8 mos | AE Jupiter | 2007 | 74,476 dwt |  |  |
-| 5 to 7 mos | Minorca | 2023 | 81,157 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 to 8 mos | AE Jupiter | 2007 | 74,476 dwt | dely Rizhao 19/23 Sep redel worldwide | $13,000/day cnr | cnr |
+| 5 to 7 mos | Minorca | 2023 | 81,157 dwt | dely Qingdao 15/20 Sep redel worldwide | $16,000/day cnr | cnr |
 
 ## TC Rates
 | Sector | Tenor | 12/09/2025 | 05/09/2025 | ±% | Diff | 2024 | 2023 |
@@ -283,8 +286,8 @@ Another flat week for the Turkish ship recycling market, with minimal shifts. We
 | USD/INR | 88.28 | 88.19 | 0.10% | 88.28 |
 | USD/PKR | 283.92 | 283.75 | 0.06% | 284.95 |
 | USD/TRY | 41.34 | 41.24 | 0.24% | 41.34 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG JAMAL | 72,692 | 31,711 | 2000 | MITSUBISHI, Japan | GAS TANKER | $650/Ldt | Indian | High aluminum content |

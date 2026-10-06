@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Chara Georgousi, Research Analyst**
 
@@ -17,6 +19,7 @@ The forecast for the shipping industry suggests an impending pivot towards more 
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 15/03/24 WS points | 15/03/24 $/day | 08/03/24 WS points | 08/03/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 77 | 57,189 | 70 | 49,254 | **16.1%** | 39,466 | 20,330 |
@@ -34,14 +37,15 @@ The forecast for the shipping industry suggests an impending pivot towards more 
 |  | 55K | UKC-USG | 195 | 30,940 | 195 | 30,996 | -0.2% | 27,274 | 19,982 |
 |  | 55K | MED-USG | 195 | 30,870 | 195 | 30,948 | -0.3% | 27,060 | 21,231 |
 |  | 50k | CARIBS-USG | 253 | 43,507 | 263 | 45,802 | -5.0% | 46,194 | 40,364 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | 2009 | 73,338 dwt Clearlake |  |  |  |
-| 24 mos | GULF BAYNUNAH | 2008 | 46,522 dwt |  |  |
+| 24 mos | 2009 | 73,338 dwt Clearlake |  | $30,000/day |  |
+| 24 mos | GULF BAYNUNAH | 2008 | 46,522 dwt | $30,500/day | ST Shipping |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 15/Mar/23 | 80 | 160 | 360 |
@@ -57,8 +61,8 @@ The forecast for the shipping industry suggests an impending pivot towards more 
 | 15/Jan/24 | 60 | 150 | 380 |
 | 15/Feb/24 | 60 | 150 | 360 |
 | 15/Mar/24 | 70 | 160 | 340 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 15/Mar/23 | 160 | 280 | 440 | 260 |
@@ -124,9 +128,9 @@ Aframax T/C earnings averaged \$41,420/day, marking a weekly increase of \$2,097
 | BHSI | 781 | $14,057 | 762 | $13,714 | 19 | 2.5% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 7/9 mos | Zhong Hai Chang Yun 6 | 2011 | 56,639 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 7/9 mos | Zhong Hai Chang Yun 6 | 2011 | 56,639 dwt | dely Cebu 17 Mar redel worldwide | $16,000/day | Xe Hai Explorer Shpng |
 
 ## TC Rates
 | Sector | Tenor | 15/03/24 | 08/03/24 | ±% | Diff | 2023 | 2022 |
@@ -141,6 +145,7 @@ Aframax T/C earnings averaged \$41,420/day, marking a weekly increase of \$2,097
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 15/Mar/23 | 1800 | 1200 | 1000 | 800 | 1500 |
@@ -158,6 +163,7 @@ Aframax T/C earnings averaged \$41,420/day, marking a weekly increase of \$2,097
 | 15/Mar/24 | 4000 | 3500 | 2000 | 2000 | 2500 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 15/Mar/23 | 15000 | 14000 | 12000 | 10000 |
@@ -276,6 +282,7 @@ The global ship demolition industry is facing an acute shortage of end-of-life v
 | USD/TRY | 32.11 | 31.84 | 0.9% | 32.11 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DENAK VOYAGER | 72,105 | 9,518 | 1996 | HITACHI ZOSEN, Japan | BC | 540 | undisclosed |  |

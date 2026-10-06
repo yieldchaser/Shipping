@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 By Nikos Tagoulis, Head of Research Department
 
@@ -24,6 +26,7 @@ Overall, seasonal pre-holiday restocking is providing near-term support to iron 
 ## Tanker Market
 
 ## Spot Rates
+
 | Sector | Size | Routes | 18/09/2026 WS points | 18/09/2026 $/day | 11/09/2026 WS points | 11/09/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 1,113 | 1,208,969 | 825 | 885,561 | **36.5%** | 60,510 | 37,255 |
@@ -41,8 +44,8 @@ Overall, seasonal pre-holiday restocking is providing near-term support to iron 
 | Dirty | 55K | UKC-USG | 200 | 26,255 | 180 | 21,070 | **24.6%** | 10,784 | 17,707 |
 |  | 55K | MED-USG | 200 | 23,825 | 180 | 19,399 | **22.8%** | 11,306 | 17,590 |
 |  | 50k | ARA-UKC | 431 | 122,950 | 469 | 138,341 | -11.1% | 18,615 | 26,872 |
-
 ## TC Rates
+
 | Sector | Tenor | 18/09/2026 | 11/09/2026 | ±% | Diff | 2025 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 175,000 | 155,000 | **12.9%** | **20000** | 50,615 | 50,365 |
@@ -57,8 +60,8 @@ Overall, seasonal pre-holiday restocking is providing near-term support to iron 
 |  | 52k 3yr TC | 23,500 | 23,500 | 0.0% | 0 | 19,782 | 26,402 |
 | Handy | 36k 1yr TC | 22,500 | 22,500 | 0.0% | 0 | 18,519 | 26,606 |
 |  | 36k 3yr TC | 17,750 | 17,750 | 0.0% | 0 | 16,902 | 19,993 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Sep-26 avg | Aug-26 avg | ±% | 2025 | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 162.7 | 157.3 | **3.4%** | 115.5 | 113.0 | 99.5 |
@@ -68,6 +71,7 @@ Overall, seasonal pre-holiday restocking is providing near-term support to iron 
 | **MR** | **52KT DH** | 50.0 | 48.3 | **3.6%** | 41.4 | 45.8 | 41.4 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 18/Sep/25 | 100 | 150 | 150 |
@@ -83,8 +87,8 @@ Overall, seasonal pre-holiday restocking is providing near-term support to iron 
 | 18/Jul/26 | 350 | 300 | 300 |
 | 18/Aug/26 | 500 | 450 | 450 |
 | 18/Sep/26 | 1100 | 450 | 450 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 18/Sep/25 | 100 | 120 | 120 | 120 |
@@ -142,6 +146,7 @@ Aframax market also firmed, with heavy Fujairah activity driving AG momentum. In
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 18/5ep/25 | 25000 | 15000 | 12000 | 10000 |
@@ -283,8 +288,8 @@ The Turkish market shows signs of recovery, as demand firm and an increased numb
 | USD/INR | 95.94 | 95.56 | 0.40% | 96.57 |
 | USD/PKR | 277.54 | 277.73 | -0.07% | 280.05 |
 | USD/TRY | 48.77 | 48.56 | 0.43% | 48.77 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MAESTRO 1 | 23,994 | 5,035 | 1998 | KANDA | BC | $507/Ldt | Pakistani |

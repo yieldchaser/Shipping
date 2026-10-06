@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 <u>By Yiannis Parganas, Head of Research Department</u>
 
@@ -19,6 +21,7 @@ Another important consideration is substitution risk. Any supply discipline from
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 13/03/2026 WS points | 13/03/2026 $/day | 06/03/2026 WS points | 06/03/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 298 | 276,799 | 482 | 505,063 | -45.2% | 60,510 | 37,255 |
@@ -56,9 +59,10 @@ Another important consideration is substitution risk. Any supply discipline from
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | Maran Leo | 2014 | 319,450 dwt |  |  |
+| 12 mos | Maran Leo | 2014 | 319,450 dwt | $82,500/day | Mercuria |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 13/Mar/25 | 50 | 100 | 150 |
@@ -76,6 +80,7 @@ Another important consideration is substitution risk. Any supply discipline from
 | 13/Mar/26 | 480 | 460 | 480 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 13/Mar/25 | 100 | 110 | 120 | 130 |
@@ -127,8 +132,8 @@ Aframax markets weakened across most regions, with TCE rates falling 28% w-o-w t
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 to 14 mos | Xenia | 2016 | 82,019 dwt |  |  |
-| 4 to 6 mos | ETG Ubuntu | 2022 | 64,195 dwt |  |  |
+| 12 to 14 mos | Xenia | 2016 | 82,019 dwt | $20,500/day | cnr |
+| 4 to 6 mos | ETG Ubuntu | 2022 | 64,195 dwt | $21,000/day | Seastar |
 
 ## TC Rates
 | Sector | Tenor | 13/03/2026 | 06/03/2026 | ±% | Diff | 2025 | 2024 |
@@ -143,6 +148,7 @@ Aframax markets weakened across most regions, with TCE rates falling 28% w-o-w t
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 13 Mar/25 | 2800 | 1500 | 1000 | 800 | 1600 |
@@ -184,6 +190,7 @@ Handysize vessels also faced modest downward pressure overall. While European ma
 # Secondhand Sales
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | LIBERA | 158,319 | 2009 | SAMSUNG, S. Korea | MAN B\&W | Oct-29 | DH | $ 43.5m | Greek |  |
@@ -278,8 +285,8 @@ After a strong start to the year, activity at Aliaga ship recycling yards has sl
 | USD/INR | 92.54 | 91.93 | 0.66% | 92.54 |
 | USD/PKR | 279.29 | 279.35 | -0.02% | 280.05 |
 | USD/TRY | 44.20 | 44.07 | 0.30% | 44.20 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | WANTONG SUMMER | 45,950 | 8,196 | 1996 | CHINA SHIPBUILDING, Taiwan | BC | $433/Ldt | Bangladeshi |  |

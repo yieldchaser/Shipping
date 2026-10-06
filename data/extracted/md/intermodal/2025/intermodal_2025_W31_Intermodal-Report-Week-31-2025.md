@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -20,12 +22,12 @@ Beyond the short-term economic consequences, there's a broader strategic concern
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | Olaf | 2010 | 49,999 dwt |  |  |
-
+| 24 mos | Olaf | 2010 | 49,999 dwt | $18,000/day | ST Shipping |
 ## Spot Rates
+
 | Sector | Size | Routes | 01/08/25 WS points | 01/08/25 $/day | 25/07/25 WS points | 25/07/25 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel |  |  |  |  |  |  | Routes | WS points | $/day |
+| Vessel |  |  |  |  | Routes | WS points | $/day | WS points | $/day |
 | **VLCC** | 265k | MEG-SPORE | 45 | 25,850 | 46 | 26,716 | -3.2% | 37,255 | 39,466 |
 |  | 260k | WAF-CHINA | 50 | 30,269 | 49 | 28,955 | **4.5%** | 37,722 | 38,773 |
 | **Suezmax** | 130k | MED-MED | 97 | 42,861 | 92 | 37,574 | **14.1%** | 50,058 | 62,964 |
@@ -57,8 +59,8 @@ Beyond the short-term economic consequences, there's a broader strategic concern
 |  | 52k 3yr TC | 18,250 | 18,250 | 0.0% | 0 | 26,402 | 25,152 |
 | **Handy** | 36k 1yr TC | 16,750 | 17,000 | -1.5% | -250 | 26,606 | 25,760 |
 |  | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 19,993 | 18,200 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Aug-25 avg | Jul-25 avg | ±% | 2024 | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 300KT DH | 117.0 | 117.0 | 0.0% | 113.0 | 99.5 | 80.2 |
@@ -68,6 +70,7 @@ Beyond the short-term economic consequences, there's a broader strategic concern
 | **MR** | 52KT DH | 42.0 | 40.8 | **3.1%** | 45.8 | 41.4 | 34.8 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | DIRTY - WS RATES | WS points | WS points | WS points |
@@ -84,8 +87,8 @@ Beyond the short-term economic consequences, there's a broader strategic concern
 | 1/Jun/25 | 60 | 95 | 100 |
 | 1/Jul/25 | 60 | 95 | 80 |
 | 1/Aug/25 | 55 | 90 | 160 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | CLEAN - WS RATES | WS points | WS points | WS points | WS points |
@@ -127,9 +130,9 @@ In the Aframax market, Mediterranean rates gained momentum following weeks of st
 | BHSI | 678 | $12,201 | 682 | $12,271 | -4 | -0.6% | 702 | 586 |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 to 14 mos | Astarte | 2013 | 81,513 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 to 14 mos | Astarte | 2013 | 81,513 dwt | dely Haldia 2 Aug | $12,500/day | Propel |
 
 ### TC Rates
 | Sector | Tenor | 01/08/25 | 25/07/25 | ±% | Diff | 2024 | 2023 |
@@ -144,6 +147,7 @@ In the Aframax market, Mediterranean rates gained momentum following weeks of st
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 1/Aug/24 | 3200 | 1600 | 1300 | 800 | 1700 |
@@ -161,6 +165,7 @@ In the Aframax market, Mediterranean rates gained momentum following weeks of st
 | 1/Aug/25 | 3600 | 1900 | 1500 | 950 | 1900 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 1/Aug/24 | 16000 | 14000 | 13000 | 12000 |
@@ -296,6 +301,7 @@ Overall, while India and Bangladesh remain subdued, Pakistan's sharper positioni
 | USD/TRY | 40.63 | 40.55 | 0.2% | 40.63 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | NAMSAN SPIRIT | 113,805 | 16,240 | 1988 | HYUNDAI HI, S. Korea | FSO | undisclosed | Turkish |

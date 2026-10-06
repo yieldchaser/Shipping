@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By Fotis Kanatas, Research Analyst
 
@@ -16,7 +18,6 @@ It is clear that India is still a very small player in the shipbuilding industry
 | Dry | 45% |
 | Other (MPP, General Cargo, AHTS, PSV) | 50% |
 | Tankers | 5% |
-
 ## Top 4 Indian Active Shipbuilders
 
 | Shipyard | Vessels on Order | What they have built | Active Fleet |
@@ -30,6 +31,7 @@ It is clear that India is still a very small player in the shipbuilding industry
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 16/08/2024 WS points | 16/08/2024 $/day | 09/08/2024 WS points | 09/08/2024 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 62 | 40,662 | 47 | 25,254 | **61.0%** | 39,466 | 20,330 |
@@ -49,12 +51,12 @@ It is clear that India is still a very small player in the shipbuilding industry
 |  | 50k | ARA-UKC | 128 | 6,013 | 139 | 12,438 | -51.7% | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 2/3 mos | SEA RUNNER | 2008 | 50,319 dwt |  |  |
-| 36 mos | NORD VENTURA | 2021 | 49,999 dwt |  |  |
-
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2/3 mos | SEA RUNNER | 2008 | 50,319 dwt | DEL EAST AUG/24 | $42,000/day | Aramco |
+| 36 mos | NORD VENTURA | 2021 | 49,999 dwt | DEL EAST JUL/24 | $29,000/day | Seariver (Exxon) |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 16/Aug/23 | 80 | 100 | 100 |
@@ -70,8 +72,8 @@ It is clear that India is still a very small player in the shipbuilding industry
 | 16/Jun/24 | 50 | 90 | 150 |
 | 16/Jul/24 | 40 | 90 | 120 |
 | 16/Aug/24 | 30 | 80 | 100 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 16/Aug/23 | 150 | 140 | 280 | 180 |
@@ -139,10 +141,10 @@ The product tanker market faced downward pressure across most segments. The LR2 
 | BHSI | 754 | $13,576 | 755 | $13,595 | -1 | -0.1% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 5/7 mos | BBG FANGCHENG | 2019 | 81,629 dwt |  |  |
-| 10/12 mos | ASTARTE | 2013 | 81,513 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 5/7 mos | BBG FANGCHENG | 2019 | 81,629 dwt | dely Zhoushan 11 Aug redel worldwide | $17,500/day | Cargill |
+| 10/12 mos | ASTARTE | 2013 | 81,513 dwt | dely Ho Ping 11 Aug redel worldwide | $14,000/day | Paralos |
 
 ## TC Rates
 | Sector | Tenor | 16/08/2024 | 09/08/2024 | ±% | Diff | 2023 | 2022 |
@@ -157,6 +159,7 @@ The product tanker market faced downward pressure across most segments. The LR2 
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 16/Aug/23 | 1200 | 1100 | 1000 | 800 | 1200 |
@@ -174,6 +177,7 @@ The product tanker market faced downward pressure across most segments. The LR2 
 | 16/Aug/24 | 2400 | 1400 | 950 | 650 | 1400 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 16/Aug/23 | 10000 | 12000 | 11000 | 9000 |
@@ -213,6 +217,7 @@ Supramax 10TC averaged \$ 13,604/day down -1.14% w-o-w, while the Handysize 7TC 
 # Intermodal Secondhand Sales
 
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | PNS SERENA | 300,398 | 2006 | UNIVERSAL, Japan | MAN-B\&amp;W | Oct-26 | DH | excess $ 40.0m | Chinese |
@@ -243,6 +248,7 @@ Supramax 10TC averaged \$ 13,604/day down -1.14% w-o-w, while the Handysize 7TC 
 | FEEDER | WANA BHUM | 2,378 | 2005 | MITSUBISHI, Japan | Mitsubishi | Jun-25 |  |  |  |
 
 ## Bulk Carriers
+
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | AVANCE AVIOR | 58,247 | 2023 | HANWHA, S. Korea | MAN-B\&amp;W | May-28 | 89,450 |  |  |  |
@@ -283,7 +289,6 @@ Additionally, during the week ending at 10 August, Greek owner Samos Steamships 
 | **Gas** | LNG 174k cbm |  | 262.5 | 262.5 | 0.0% | 263.0 | 262.5 | 265.0 | 180.0 | 259 | 232 | 195 |
 |  | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
 |  | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
-
 ## Indicative Period Charters
 
 _No period fixtures reported._
@@ -317,6 +322,7 @@ This week the ship recycling market remains under considerable strain in key reg
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | NAHIDE-M | 27,917 | 7,125 | 1995 | NAIKAI ZOSEN, Japan | BC | $ 510.0m | Bangladeshi |

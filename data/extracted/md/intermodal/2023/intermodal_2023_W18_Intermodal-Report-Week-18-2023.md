@@ -54,6 +54,7 @@ Shanghai 200122 China
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 05/05/23 WS points | 05/05/23 $/day | 28/04/23 WS points | 28/04/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 47 | 26,599 | 57 | 39,706 | -33.0% | 20,330 | 2,246 |
@@ -72,14 +73,14 @@ Shanghai 200122 China
 | **Dirty** | 55K | UKC-USG | 155 | 28,514 | 152 | 26,455 | **7.8%** | 19,982 | 2,822 |
 |  | 55K | MED-USG | 155 | 28,234 | 152 | 26,151 | **8.0%** | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 196 | 35,902 | 256 | 52,630 | -31.8% | 40,364 | 8,548 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 18 mos | C INNOVATOR | 2012 | 313,999 dwt |  |  |
-| 24 mos | FRONT CASTOR | 2017 | 109,900 dwt |  |  |
-
+| 18 mos | C INNOVATOR | 2012 | 313,999 dwt | $48,000/day | AZA Shipping |
+| 24 mos | FRONT CASTOR | 2017 | 109,900 dwt | $46,000/day | Saudi Aramco |
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | $/day | 05/05/23 | 28/04/23 | ±% | Diff | 2022 | 2021 |  |
@@ -95,8 +96,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 25,000 | 25,000 | 0.0% | 0 | 16,426 | 13,804 |
 | **Handy** | **36k 1yr TC** | 26,000 | 27,000 | -3.7% | -1000 | 18,601 | 11,292 |
 |  | **36k 3yr TC** | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Current avg | Previous avg | ±% | Year1 | Year2 | Year3 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Vessel 5yrs old | May-23 avg | Apr-23 avg | ±% | 2022 | 2021 | 2020 |
@@ -107,6 +108,7 @@ Shanghai 200122 China
 | **MR** | **52KT DH** | 41.5 | 41.3 | **0.6%** | 34.8 | 27.6 | 27.5 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 5/May/22 | 100 | 150 | 150 |
@@ -124,6 +126,7 @@ Shanghai 200122 China
 | 5/May/23 | 100 | 120 | 100 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 5/May/22 | 300 | 300 | 300 | 300 |
@@ -170,12 +173,13 @@ In the Aframax sector we had the sale of the "PS PISA" (108,835dwt-blt '10, Chin
 | BHSI | 645 | $11,605 | 663 | $11,934 | -18 | -2.8% | 1,181 | 1,424 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 5 to 7 mos | RGL FIRST | 2017 | 82,215 dwt |  |  |
-| 3 to 5 mos | KAPADOKYA | 2003 | 31,646 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 5 to 7 mos | RGL FIRST | 2017 | 82,215 dwt | dely Tianjin 6/10 May | $17,250 /day | Swissmarine |
+| 3 to 5 mos | KAPADOKYA | 2003 | 31,646 dwt | dely Caribbean prompt | $12,500 /day | cnr |
 
 ## TC Rates
+
 | Sector | Tenor | 05/05/23 | 28/04/23 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** |  |  |  |  |  |  |  |
@@ -192,6 +196,7 @@ In the Aframax sector we had the sale of the "PS PISA" (108,835dwt-blt '10, Chin
 | **32K 3yr TC** | 10,000 | 10,000 | 10,500 | -4.8% | -500 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 5/May/22 | 2800 | 3100 | 2700 | 1600 | 3000 |
@@ -209,6 +214,7 @@ In the Aframax sector we had the sale of the "PS PISA" (108,835dwt-blt '10, Chin
 | 5/May/23 | 2200 | 1700 | 1200 | 1300 | 2100 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 5/May/22 | 28000 | 29000 | 30000 | 29000 |
@@ -288,6 +294,7 @@ In the Handysize sector we had the sale of the “MAESTRO DIAMOND” (36,920dwt-
 
 # Intermodal Secondhand Sales
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | NORTHERN MAGNUM | 6,732 | 2003 | DAEWOO, S. Korea | B\&amp;W | Nov-23 |  | undisclosed | Swiss based (MSC) |  |
@@ -295,8 +302,8 @@ In the Handysize sector we had the sale of the “MAESTRO DIAMOND” (36,920dwt-
 | PMAX | NORTHERN PROMOTION | 4,616 | 2010 | DAEWOO, S. Korea | MAN-B\&amp;W | Jan-25 |  | $ 28.0m |  |  |
 | FEEDER | STONEWELL BRILLIANCE | 1,684 | 1994 | SCHICHAU SEEBEECKWERFT, Germany | B\&amp;W | Dec-24 |  | $ 3.5m | Turkish |  |
 | FEEDER | INGRID | 698 | 2008 | FUJIAN, China | MaK | May-23 |  | $ 5.8m | Turkish | Ice 1A |
-
 ## Secondhand Sales
+
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | ECO TEXIANA | 4,743 | 2020 | MURAKAMI HIDE, Japan | MAN-B\&amp;W | Feb-25 | 4,929 | $ 19.8m |  |
@@ -310,6 +317,7 @@ In the Handysize sector we had the sale of the “MAESTRO DIAMOND” (36,920dwt-
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 5-May-23 | 28-Apr-23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** | Newcastlemax **205k** | 64.5 | 64.5 | 0.0% | 66 | 59 | 51 |
@@ -363,8 +371,8 @@ The shipbuilding market continues to see healthy volumes of activity across all 
 | 5/Mar/23 | 60 | 32 | 31 | 29 |
 | 5/Apr/23 | 60 | 32 | 31 | 29 |
 | 5/May/23 | 60 | 32 | 31 | 29 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Tanker | 158,000 dwt | DH Shipbuilding, South Korea | 2025 | Greek (Golden Energy) | $ 77.0m | option declared |
@@ -382,6 +390,7 @@ The shipbuilding market continues to see healthy volumes of activity across all 
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | Markets | 05/05/23 | 28/04/23 | ±% | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -394,8 +403,8 @@ The shipbuilding market continues to see healthy volumes of activity across all 
 | India | 520 | 550 | -5.5% | 583 | 508 | 335 |
 | Pakistan | 500 | 535 | -6.5% | 587 | 526 | 338 |
 | Turkey | 320 | 330 | -3.0% | 304 | 276 | 198 |
-
 ## Currencies
+
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 106.44 | 106.10 | 0.3% | 107.50 |
@@ -420,8 +429,8 @@ The demolition market continues to be driven by the steel market, which is not i
 | 5/Mar/23 | 580 | 560 | 540 | 320 |
 | 5/Apr/23 | 590 | 570 | 550 | 320 |
 | 5/May/23 | 575 | 560 | 500 | 320 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HORIZON PACIFIC | 31,213 | 17,224 | 1979 | BETHLEHEM STEEL, USA | CONTAINER | undisclosed | undisclosed | "as-is" San Diego |

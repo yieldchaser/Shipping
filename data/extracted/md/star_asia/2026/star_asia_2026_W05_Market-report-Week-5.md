@@ -159,21 +159,21 @@ As January 2026 comes to an end, container segments have experienced a significa
 
 ## Containers Values
 
-| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| (BY TEU) | GEARLESS | CONTRACT | DELIVERY | YEARS |
-| 900 ~ 1,200 | Geared | 24 | 27 | 10 |
-| 1,600 ~ 1,850 | Gearless | 31 | 36 | 18 |
-| 2,700 ~ 2,900 | Gearless | 44 | 46 | 26 |
-| 5,100 ~ 5,300 | Gearless | 55 | 79 | 39 |
-| *(amount in USD | million) | \ |  |  |
-|  |  | S&P | Containers |  |
-|  |  |  |  | / |
-| VESSEL NAME | SIZE | TEU | BUILT |  |
-|  |  |  |  |  |
-| VALDIVA / VIOLETTA / VALENTINA | FEEDER | 1,853 | ROMANIA |  |
-| LILA CANADA | FEEDER | 1,118 | CHINA |  |
+| CONTAINERS | GEARED / | NB |  | NB PROMPT |  |  | 15 |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
+| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
+| 900 ~ 1,200 | Geared | 24 |  | 27 | 21 | 16 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 |  | 36 | 29 (E) | 23 (E) | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 |  | 46 | 40 | 35 | 26 |
+| 5,100 ~ 5,300 | Gearless | 55 |  | 79 | 64 | - | 39 |
+| *(amount in USD | million) | \|=Ecounits |  |  |  |  |  |
+|  |  | S&P |  | Containers | Report |  |  |
+|  |  |  |  |  | PRICE | COMMENTS | / |
+| VESSEL NAME | SIZE | TEU | YEAR | BUILT |  |  |  |
+|  |  |  |  |  | (MILLION) | USD BUYERS |  |
+| VALDIVA / VIOLETTA / VALENTINA | FEEDER | 1,853 | 2007 | ROMANIA | N/A | MSC |  |
+| LILA CANADA | FEEDER | 1,118 | 2006 | CHINA | 10.9 | MSC |  |
 
 ### Shipbroking (www.star-asia.com.sg)
 

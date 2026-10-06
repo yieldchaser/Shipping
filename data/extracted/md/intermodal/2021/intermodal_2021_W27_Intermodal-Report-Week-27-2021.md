@@ -64,8 +64,8 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | HANOVER SQUARE | 2019 | 114,366 dwt |  |  |
-| 12 mos | RITA M | 2009 | 45,997 dwt |  |  |
+| 12 mos | HANOVER SQUARE | 2019 | 114,366 dwt | $18,900/day | Saudi Aramco |
+| 12 mos | RITA M | 2009 | 45,997 dwt | $12,000/day | Norden |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 | 2019 |
@@ -84,6 +84,7 @@ Shanghai 200122 China
 |  | **36k 3yr TC** | 13,250 | 13,250 | 0.0% | 0 | 14,051 | 13,753 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 9/Jul/20 | 40 | 60 | 80 |
@@ -101,6 +102,7 @@ Shanghai 200122 China
 | 9/Jul/21 | 20 | 40 | 70 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 9/Jul/20 | 100 | 120 | 140 | 160 |
@@ -118,6 +120,7 @@ Shanghai 200122 China
 | 9/Jul/21 | 80 | 100 | 120 | 140 |
 
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Jul-21 avg | Jun-21 avg | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 71.5 | 70.3 | 1.8% | 71.5 | 72.4 | 65.6 |
@@ -160,12 +163,13 @@ In the Handysize sector we had the sale of the "CHEMROUTE BRILLIANT" (25,594dwt-
 | BHSI | 1,651 | $29,720 | 1,555 | $27,981 | 96 | 6.2% | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 11 to 13 mos | JOSCO DEZHOU | 2014 | 61,657 dwt |  |  |
-| 4 to 5 mos | STAR AQUILA | 2012 | 56,430 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 11 to 13 mos | JOSCO DEZHOU | 2014 | 61,657 dwt | Zhoushan 22 Jul | $29,200/day | Bilgent |
+| 4 to 5 mos | STAR AQUILA | 2012 | 56,430 dwt | Kashima 9/10 Jul | $32,700/day | cnr |
 
 ## TC Rates
+
 | Sector | Tenor | 09/07/2021 | 02/07/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 40,000 | 38,500 | 3.9% | 1,500 | 15,561 | 18,839 |
@@ -182,6 +186,7 @@ In the Handysize sector we had the sale of the "CHEMROUTE BRILLIANT" (25,594dwt-
 |  | **32K 3yr TC** | 13,000 | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 9/Jul/20 | 3500 | 1200 | 800 | 500 | 3500 |
@@ -199,6 +204,7 @@ In the Handysize sector we had the sale of the "CHEMROUTE BRILLIANT" (25,594dwt-
 | 9/Jul/21 | 3900 | 3800 | 2900 | 1700 | 3900 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 9/Jul/20 | 28000 | 12000 | 10000 | 8000 |
@@ -247,6 +253,7 @@ In the Handysize sector we had the sale of the "INTERLINK EQUITY" (37,071dwt-blt
 # Intermodal Secondhand Sales
 
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | NAVIOS AZALEA | 74,759 | 2005 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Jun-25 |  | undisclosed | undisclosed |  |
@@ -258,6 +265,7 @@ In the Handysize sector we had the sale of the "INTERLINK EQUITY" (37,071dwt-blt
 | SMALL | ADALINE | 12,259 | 2001 | SHIN KURUSHIMA, Japan | Mitsubishi | Sep-21 | 3 X 30t CRANES | $ 3.5m | undisclosed |  |
 
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | VLADIMIR VELIKIY | 159,990 | 2002 | SAMHO, S. Korea | B\&amp;W | Jan-22 | DH | low $ 16.0m | undisclosed |  |
@@ -274,6 +282,7 @@ In the Handysize sector we had the sale of the "INTERLINK EQUITY" (37,071dwt-blt
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 09/07/2021 | 02/07/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -326,8 +335,8 @@ The newbuilding market has seen a smaller number of contracts surfacing compared
 | 9/May/21 | 92 | 62 | 46 | 43 | 35 |
 | 9/Jun/21 | 93 | 63 | 47 | 44 | 35 |
 | 9/Jul/21 | 95 | 64 | 48 | 45 | 35 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1+1 | Bulker | 82,000 dwt | Chengxi, China | 2023 | undisclosed | undisclosed | Tier III |
@@ -387,8 +396,8 @@ Recent demo sales with scrap levels close to \$600 per ldt worth a thousand word
 | 9/May/21 | 520 | 500 | 520 | 280 |
 | 9/Jun/21 | 540 | 520 | 540 | 290 |
 | 9/Jul/21 | 560 | 540 | 560 | 570 |
-
 ## Indicative Demolition Prices ($/ldt)
+
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/Ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | K. PHOENIX | 148,681 | 17,724 | 1996 | SAMSUNG, S. Korea | BULKER | $ 552/Ldt | undisclosed | as-is S. Korea, incl. 180mt bunkers |

@@ -115,9 +115,13 @@ MEG recorded a significant milestone, reaching the WS200 level for the first tim
 
 Clean:
 
-**LR:** The Middle East LR2 market concluded higher with TC1 to Japan climbing to WS144. Despite Bahri week, tight supply of available vessels and an uptick of new cargo inquiries kept sentiments positive this week. In LR1, MEG remains flat this week with levels to TC5 close at WS141.
+**LR: The Middle East LR2 market concluded higher with TC1 to Japan climbing to WS144.**
 
-**MR:** The MR market in the Far East ended the week with slightly strong freight rates, driven by a recovery in regional demand. In the MEG, rates remained stable with TC17 MEG/East Africa gain 5 points to the WS218.
+Despite Bahri week, tight supply of available vessels and an uptick of new cargo inquiries kept sentiments positive this week. In LR1, MEG remains flat this week with levels to TC5 close at WS141.
+
+**MR: The MR market in the Far East ended the week with slightly strong freight rates, driven**
+
+by a recovery in regional demand. In the MEG, rates remained stable with TC17 MEG/East Africa gain 5 points to the WS218.
 
 ## Baltic Exchange Tanker Indices
 
@@ -147,21 +151,21 @@ Spot container rates generally ticked lower this week, with the SCFI Index dropp
 
 ## Containers Values
 
-| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| (BY TEU) | GEARLESS |  | DELIVERY | YEARS |
-| 900 ~ 1,200 | Geared |  | 26 | 10 |
-| 1,600 ~ 1,850 | Gearless | 31 | 35 | 18 |
-| 2,700 ~ 2,900 | Gearless |  | 46 | 26 |
-| 5,100 ~ 5,300 | Gearless |  | 82 | 41 |
-| *(amount in USD million) | \ | = Eco units |  |  |
-|  |  | S&P | Containers |  |
-|  |  |  |  | / |
-| VESSEL NAME | TYPE | TEU | BUILT |  |
-|  |  |  |  |  |
-| PANAY | FEEDER | 1,930 | CHINA | CGM |
-| WARNOW WHALE | FEEDER | 1,296 | CHINA |  |
+| CONTAINERS | GEARED / | NB |  | NB PROMPT |  |  | 15 |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
+| (BY TEU) | GEARLESS |  | CONTRACT | DELIVERY |  |  | YEARS |
+| 900 ~ 1,200 | Geared |  | 24 | 26 | 20 | 16 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 |  | 35 | 29 (E) | 23 (E) | 18 |
+| 2,700 ~ 2,900 | Gearless |  | 44 | 46 | 39 | 35 | 26 |
+| 5,100 ~ 5,300 | Gearless |  | 59 | 82 | 66 | - | 41 |
+| *(amount in USD million) | \| = Eco units |  |  |  |  |  |  |
+|  |  | S&P |  | Containers | Report |  |  |
+|  |  |  |  |  | PRICE | COMMENTS | / |
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT |  |  |  |
+|  |  |  |  |  | (MILLION) | USD BUYERS |  |
+| PANAY | FEEDER | 1,930 | 2023 | CHINA | 35.5 | CMA | CGM |
+| WARNOW WHALE | FEEDER | 1,296 | 2007 | CHINA | 13.0 | UNDISCLOSED |  |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -308,7 +312,9 @@ Imported deep-sea scrap prices in Turkey remained stable as limited cargo supply
 
 ## Commodities (Weekinfocus)
 
-Iron ore futures prices traded unevenly on Thursday as market participants weighed the impact of softening near-term demand in top consumer China and the prospects of increasing supply against potential restocking activity by steelmakers. Specifically, the most-traded January iron ore contract on China's Dalian Commodity Exchange (DCE) closed daytime trade 0.26% higher at 772.5 yuan (US$108.45) a metric ton, while the benchmark December contract on the Singapore Exchange (SZZFZ5) saw a slight dip, easing 0.03% at US$102.75 a ton as of 0724 GMT. Traders are refocusing on fundamental factors which currently lean toward the weak side, according to analysts at Shengda Futures. Expectations for an increase in supply and a concurrent softening of demand throughout the remainder of the year had already
+**Iron ore futures prices traded unevenly on Thursday as market participants weighed the**
+
+impact of softening near-term demand in top consumer China and the prospects of increasing supply against potential restocking activity by steelmakers. Specifically, the most-traded January iron ore contract on China's Dalian Commodity Exchange (DCE) closed daytime trade 0.26% higher at 772.5 yuan (US$108.45) a metric ton, while the benchmark December contract on the Singapore Exchange (SZZFZ5) saw a slight dip, easing 0.03% at US$102.75 a ton as of 0724 GMT. Traders are refocusing on fundamental factors which currently lean toward the weak side, according to analysts at Shengda Futures. Expectations for an increase in supply and a concurrent softening of demand throughout the remainder of the year had already
 
 ### Shipbroking (www.star-asia.com.sg)
 

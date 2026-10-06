@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By <u>Yiannis Parganas, Head of Research Department</u>
 
@@ -17,6 +19,7 @@ In sum, while an outright closure of the Strait of Hormuz remains a high-risk, l
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 13/06/2025 WS points | 13/06/2025 $/day | 06/06/2025 WS points | 06/06/2025 $/day | $/day Â±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 47 | 26,951 | 46 | 26,970 | -0.1% | 37,255 | 39,466 |
@@ -38,9 +41,9 @@ In sum, while an outright closure of the Strait of Hormuz remains a high-risk, l
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | Almi Globe | 2012 | 157,787 dwt |  |  |
-
+| 24 mos | Almi Globe | 2012 | 157,787 dwt | $26,250/day | ST Shipping |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 13/Jun/24 | 50 | 100 | 200 |
@@ -56,8 +59,8 @@ In sum, while an outright closure of the Strait of Hormuz remains a high-risk, l
 | 13/Apr/25 | 50 | 100 | 200 |
 | 13/May/25 | 50 | 100 | 200 |
 | 13/Jun/25 | 50 | 100 | 200 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 13/Jun/24 | 150 | 150 | 200 | 200 |
@@ -123,10 +126,10 @@ Aframaxes had a subdued week as well, with average TC earnings at \$29,994/dayâ€
 | BHSI | 604 | $10,866 | 600 | $10,802 | **4** | **0.6%** | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | YM Pinnacle | 2025 | 63,700 dwt |  |  |
-| 3 to 5 mos | Basic Explorer | 2023 | 82,609 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | YM Pinnacle | 2025 | 63,700 dwt | dely ex yard Cebu 15 Jun | $13,000/day | cnr |
+| 3 to 5 mos | Basic Explorer | 2023 | 82,609 dwt | ddely Guangzhou 11/12 Jun | $13,000/day | Koch Trading |
 
 ## TC Rates
 | Sector | Tenor | 13/06/2025 | 06/06/2025 | Â±% | Diff | 2024 | 2023 |
@@ -141,6 +144,7 @@ Aframaxes had a subdued week as well, with average TC earnings at \$29,994/dayâ€
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 13/Jun/24 | 3500 | 1800 | 1200 | 800 | 1800 |
@@ -158,6 +162,7 @@ Aframaxes had a subdued week as well, with average TC earnings at \$29,994/dayâ€
 | 13/Jun/25 | 3800 | 1700 | 1100 | 800 | 1800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 13/Jun/24 | 25000 | 14000 | 10000 | 8000 |
@@ -300,6 +305,7 @@ In Turkey the ship recycling market was quiet, with economic uncertainty weighin
 | USD/TRY | 39.41 | 39.22 | 0.5% | 39.22 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | OCEAN STAR | 26,444 | 6,137 | 1995 | IMABARI, Japan | BC | $435/Ldt | Indian |

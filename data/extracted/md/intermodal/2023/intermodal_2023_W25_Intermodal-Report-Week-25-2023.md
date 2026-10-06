@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By <u>Yiannis Parganas, Head of the Research Department</u>
 
@@ -15,6 +17,7 @@ In conjunction with these developments, seaborne thermal coal prices in Asia hav
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 23/06/23 WS points | 23/06/23 $/day | 16/06/23 WS points | 16/06/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 56 | 36,039 | 86 | 78,678 | -54.2% | 20,330 | 2,246 |
@@ -33,14 +36,13 @@ In conjunction with these developments, seaborne thermal coal prices in Asia hav
 | Dirty | 55K | UKC-USG | 165 | 30,397 | 165 | 31,128 | -2.3% | 19,982 | 2,822 |
 |  | 55K | MED-USG | 165 | 30,228 | 165 | 30,814 | -1.9% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 279 | 59,116 | 287 | 61,311 | -3.6% | 40,364 | 8,548 |
-
 ## 2023
 
 | 24 mos | NA V IG 8 PROV IDENCE $4,500/day | 2023 | 109,995 dw t Trafigura |
 | --- | --- | --- | --- |
 | 7 mos | NORD ELEGANCE $30,000/day | 2020 | 50,415 dw t Panoean |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 23/Jun/22 | 80 | 180 | 200 |
@@ -56,8 +58,8 @@ In conjunction with these developments, seaborne thermal coal prices in Asia hav
 | 23/Apr/23 | 140 | 220 | 250 |
 | 23/May/23 | 150 | 210 | 200 |
 | 23/Jun/23 | 160 | 200 | 150 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 23/Jun/22 | 250 | 300 | 350 | 400 |
@@ -89,8 +91,8 @@ In conjunction with these developments, seaborne thermal coal prices in Asia hav
 |  | 52k 3yr TC | 25,000 | 25,000 | 0.0% | 0 | 16,426 | 13,804 |
 | Handy | 36k 1yr TC | 24,000 | 24,000 | 0.0% | 0 | 18,601 | 11,292 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | May-23 avg | Previous avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 99.0 | 99.0 | 0.0% | 80.2 | 69.7 | 71.5 |
@@ -144,6 +146,7 @@ Suezmax T/C earnings averaged \$ 55,409/day, down - \$3,997/day w-o-w. On the Af
 | **32K 3yr TC** |  | 9,000 | 9,250 | -2.7% | -250 | 12,322 | 11,825 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 23/Jun/22 | 26000 | 25000 | 24000 | 23000 |
@@ -177,9 +180,8 @@ Suezmax T/C earnings averaged \$ 55,409/day, down - \$3,997/day w-o-w. On the Af
 | 23/May/23 | 2400 | 2200 | 1800 | 1700 | 2300 |
 | 23/Jun/23 | 1900 | 1700 | 1300 | 1200 | 1400 |
 
-## TC Rates
-
-| Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
+## Indicative Market Values ($ Million) - Bulk Carriers
+| Sector | Size | May-23 avg | Previous avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize Eco** | **180k** | 51.0 | 53.4 | -4.4% | 48.3 | 43.1 | 36.1 |
 | **Kamsarmax** | **82K** | 32.4 | 33.4 | -3.0% | 34.1 | 29.8 | 23.2 |
@@ -209,6 +211,7 @@ Supramax 10TC averaged \$ 8,283/day, up +2.72% w-o-w, while the Handysize 7TC av
 | SMALL | BOMAR QUEST | 8,501 | 2003 | SASAKI, Japan | B\&W | Sep-23 | DH | $ 4.8m | undisclosed |  |
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | K MAX | JY PACIFIC | 81,139 | 2019 | C HENGXI, China | MAN-B\&W | J un-24 |  | $ 28.76m | HK based | eco, commercial auction |
@@ -219,6 +222,7 @@ Supramax 10TC averaged \$ 8,283/day, up +2.72% w-o-w, while the Handysize 7TC av
 | U MAX | HANTON TRADER III | 63,800 | 2014 | J IANGSU HANTONG, C hina | MAN-B\&W | Nov-24 | 4 X 30t CRANES | $ 23.6m | undisclosed | BWTS fitted, Eco |
 
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | HANSA STEINBURG | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B\&W | Jan-25 |  | undisclosed | undisclosed |
@@ -249,9 +253,10 @@ Last week a very strong newbuilding activity materialized with 63 firm orders co
 |  | SGC LPG 25k cbm |  | 55.5 | 55.5 | 0.0% | 55.5 | 53.0 | 55.5 | 40.0 | 51 | 45 | 42 |
 
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 7 years | against  TC to Cargill |  |  |  |  |
+| 7 years | against  TC to Cargill |  |  | $ 35.5m | 6 |
 
 ---
 
@@ -282,6 +287,7 @@ Not much has changed in the market over the past week as scrappers in all major 
 | USD/TRY | 25.24 | 23.62 | 6.9% | 25.81 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SEAPEAK POLAR | 48,817 | 23,707 | 1993 | IHI, Japan | GAS TANKER | $ 637/Ldt | undisclosed | as is Khor Fakkan, HKC recycling |

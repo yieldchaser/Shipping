@@ -160,23 +160,23 @@ The mid-January passage of the Maersk Denver through the Bab El-Mandeb Strait ma
 
 ## Containers Values
 
-| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| (BY TEU) | GEARLESS | CONTRACT | DELIVERY | YEARS |
-| 900 ~ 1,200 | Geared | 24 | 26 | 10 |
-| 1,600 ~ 1,850 | Gearless | 31 | 35 | 18 |
-| 2,700 ~ 2,900 | Gearless | 44 | 46 | 26 |
-| 5,100 ~ 5,300 | Gearless | 59 | 82 | 41 |
-| *(amount in USD | million) | \ |  |  |
-|  |  | S&P | Containers |  |
-|  |  |  |  | / |
-| VESSEL NAME | SIZE | TEU | BUILT |  |
-|  |  |  |  |  |
-| JIANGNAN H2872 | SPP | 14,000 | CHINA |  |
-| LISA | PMAX | 4,249 | CHINA |  |
-| CONTSHIP BOX | FEEDER | 1,496 | CHINA | CGM |
-| TITAN | FEEDER | 1,122 | GERMANY |  |
+| CONTAINERS | GEARED / | NB |  | NB PROMPT |  |  | 15 |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
+| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
+| 900 ~ 1,200 | Geared | 24 |  | 26 | 20 | 16 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 |  | 35 | 29 (E) | 23 (E) | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 |  | 46 | 39 | 35 | 26 |
+| 5,100 ~ 5,300 | Gearless | 59 |  | 82 | 66 | - | 41 |
+| *(amount in USD | million) | \|=Ecounits |  |  |  |  |  |
+|  |  | S&P |  | Containers | Report |  |  |
+|  |  |  |  |  | PRICE | COMMENTS | / |
+| VESSEL NAME | SIZE | TEU | YEAR | BUILT |  |  |  |
+|  |  |  |  |  | (MILLION) | USD BUYERS |  |
+| JIANGNAN H2872 | SPP | 14,000 | 2026 | CHINA | 170.0 | UNDISCLOSED |  |
+| LISA | PMAX | 4,249 | 2009 | CHINA | 23.0 | MSC |  |
+| CONTSHIP BOX | FEEDER | 1,496 | 2009 | CHINA | 15.1 | CMA | CGM |
+| TITAN | FEEDER | 1,122 | 1996 | GERMANY | N/A | UNDISCLOSED |  |
 
 ### Shipbroking (www.star-asia.com.sg)
 

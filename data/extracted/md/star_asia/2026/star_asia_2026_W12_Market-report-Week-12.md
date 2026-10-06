@@ -146,21 +146,21 @@ The container market grapples with ambiguity as the ongoing conflict in the Arab
 
 ## Containers Values
 
-| CONTAINERS | GEARED | / | NB | NB PROMPT | 15 |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-| (BY TEU) |  | GEARLESS | CONTRACT | DELIVERY | YEARS |
-| 900 ~ 1,200 |  | Geared | 24 | 27 | 10 |
-| 1,600 ~ 1,850 |  | Gearless | 31 | 36 | 18 |
-| 2,700 ~ 2,900 |  | Gearless | 44 | 46 | 26 |
-| 5,100 ~ 5,300 |  | Gearless | 55 | 79 | 39 |
-| *(amount in | USD million) \ | =Ecounits |  |  |  |
-|  |  |  | S&P | Containers |  |
-|  |  |  |  |  | / |
-| VESSEL NAME |  | SIZE | TEU | BUILT |  |
-|  |  |  |  |  |  |
-| SUNNY PHOENIX / FELIXSTOWE |  | PMAX | 4,253 | S. KOREA | BUYERS |
-| SONGA WOLF |  | FEEDER | 1,732 | CHINA |  |
+| CONTAINERS | GEARED | / | NB |  | NB PROMPT |  |  | 15 |
+|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  | 5 YEARS | 10 YEARS |  |
+| (BY TEU) |  | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
+| 900 ~ 1,200 |  | Geared | 24 |  | 27 | 21 | 16 | 10 |
+| 1,600 ~ 1,850 |  | Gearless | 31 |  | 36 | 29 (E) | 23 (E) | 18 |
+| 2,700 ~ 2,900 |  | Gearless | 44 |  | 46 | 40 | 35 | 26 |
+| 5,100 ~ 5,300 |  | Gearless | 55 |  | 79 | 64 | - | 39 |
+| *(amount in | USD million) \|=Ecounits |  |  |  |  |  |  |  |
+|  |  |  | S&P |  | Containers | Report |  |  |
+|  |  |  |  |  |  | PRICE | COMMENTS | / |
+| VESSEL NAME |  | SIZE | TEU | YEAR | BUILT |  |  |  |
+|  |  |  |  |  |  | (MILLION) | USD BUYERS |  |
+| SUNNY PHOENIX / FELIXSTOWE |  | PMAX | 4,253 | 2002 | S. KOREA | 18.0 EACH | GREEK | BUYERS |
+| SONGA WOLF |  | FEEDER | 1,732 | 2007 | CHINA | 19.0 | UNDISCLOSED |  |
 
 ### Shipbroking (www.star-asia.com.sg)
 

@@ -58,9 +58,10 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | Year1 $/day | Year2 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel |  |  |  |  |  |  | Routes | 09-Jul-21 |  |
+| Vessel |  |  |  |  | Routes | 09-Jul-21 |  | 02-Jul-21 |  |
 | VLCC | 265k | MEG-SPORE | 32 | -1,584 | 32 | -5,195 | 69.5% | 52,119 | 45,517 |
 |  | 280k | MEG-USG | 18 | -16,322 | 18 | -17,614 | 7.3% | 41,904 | 35,659 |
 |  | 260k | WAF-CHINA | 34 | -642 | 34 | -1,930 | 66.7% | 50,446 | 41,077 |
@@ -78,8 +79,8 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 103 | 1,967 | 104 | 3,141 | -37.4% | 12,120 | 15,960 |
 |  | 55K | MED-USG | 103 | 1,865 | 104 | 3,124 | -40.3% | 12,965 | 15,327 |
 |  | 50k | CARIBS-USG | 95 | -461 | 97 | -590 | 21.9% | 17,651 | 18,781 |
-
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | $/day | 09-Jul-21 | 02-Jul-21 | ±% | Diff | 2020 | 2019 |  |
@@ -95,13 +96,13 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 13,500 | 13,500 | 0.0% | 0 | 15,916 | 16,181 |
 | Handy | **36k 1yr TC** | 10,500 | 10,500 | 0.0% | 0 | 13,966 | 13,856 |
 |  | **36k 3yr TC** | 13,250 | 13,250 | 0.0% | 0 | 14,051 | 13,753 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 21 mos | ADVANTAGE START | 2011 | 156,639 dwt |  |  |
-
+| 21 mos | ADVANTAGE START | 2011 | 156,639 dwt | $22,500/day | Great Eastern |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 9/Jul/20 | 30 | 60 | 70 |
@@ -117,8 +118,8 @@ Shanghai 200122 China
 | 9/May/21 | 10 | 40 | 80 |
 | 9/Jun/21 | 10 | 40 | 70 |
 | 9/Jul/21 | 10 | 40 | 70 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 9/Jul/20 | 100 | 110 | 120 | 130 |
@@ -134,8 +135,8 @@ Shanghai 200122 China
 | 9/May/21 | 80 | 90 | 100 | 140 |
 | 9/Jun/21 | 80 | 90 | 100 | 130 |
 | 9/Jul/21 | 80 | 90 | 100 | 130 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Jul-21 avg | Jun-21 avg | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 71.7 | 70.3 | 2.0% | 71.5 | 72.4 | 65.6 |
@@ -174,12 +175,13 @@ In the Handysize sector we had the sale of the "LIME GALAXY" (19,992dwt-blt '08,
 | BHSI | 1,669 | $30,048 | 1,651 | $29,720 | **18** | **1.1%** | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6 to 8 mos | W-EAGLE | 2011 | 93,903 dwt |  |  |
-| 4 to 6 mos | BULK BOLIVIA | 2016 | 63,456 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 to 8 mos | W-EAGLE | 2011 | 93,903 dwt | Dalian 23/30 Jul | $27,500/day | Solebay |
+| 4 to 6 mos | BULK BOLIVIA | 2016 | 63,456 dwt | Longyan 12 Jul | $36,000/day | cnr |
 
 ## TC Rates
+
 | Sector | Tenor | 16/07/2021 | 09/07/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** |  |  |  |  |  |  |  |
@@ -200,6 +202,7 @@ In the Handysize sector we had the sale of the "LIME GALAXY" (19,992dwt-blt '08,
 | **Handysize** | **32K 3yr TC** | **13,000** | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 16/Jul/20 | 1200 | 1400 | 1000 | 800 | 2600 |
@@ -217,6 +220,7 @@ In the Handysize sector we had the sale of the "LIME GALAXY" (19,992dwt-blt '08,
 | 16/Jul/21 | 3900 | 3900 | 2800 | 1600 | 3800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 16/Jul/20 | 22000 | 12000 | 10000 | 8000 |
@@ -264,6 +268,7 @@ In the Kamsarmax sector we had the sale of the "MAGNOLIA" (82,165dwt-blt '11, Ja
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | BULK DENMARK | 181,360 | 2010 | KOYO MIHARA, Japan | MAN-B\&amp;W | Oct-25 |  | rgn $ 31.0m | Greek (Thenamaris) | BWTS &amp; scrubber fitted |
@@ -284,6 +289,7 @@ In the Kamsarmax sector we had the sale of the "MAGNOLIA" (82,165dwt-blt '11, Ja
 
 # Intermodal Secondhand Sales
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | S SANTIAGO | 5,050 | 2006 | HANJIN HI, S. Korea | MAN-B\&amp;W | Aug-21 |  | $ 58.0m | Singapore based (OM Maritime) | basis a forward delivery in March 2022 |
@@ -304,6 +310,7 @@ In the Kamsarmax sector we had the sale of the "MAGNOLIA" (82,165dwt-blt '11, Ja
 
 # Newbuilding Market
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 16/07/2021 | 09/07/2021 | ±% | 2020 | 2019 | 2018 |  |
@@ -384,6 +391,7 @@ Appetite for new orders resumed on the newbuilding front, with another generous 
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 16/07/2021 | 09/07/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -414,8 +422,8 @@ A combination of rising steel plate prices and a small number of offered vintage
 | 16/May/21 | 500 | 500 | 520 | 275 |
 | 16/Jun/21 | 520 | 530 | 540 | 275 |
 | 16/Jul/21 | 540 | 550 | 560 | 280 |
-
 ## Indicative Demolition Prices ($/ldt)
+
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/Ldt | Demolition Sales Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR NAUTILUS | 43,538 | 10,650 | 1998 | ULJANIK BRODOGRADILISTE, Croatia | TANKER | $ 570/Ldt | Pakistani |

@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Chara Georgousi, Research Analyst**
 
@@ -17,6 +19,7 @@ Another looming challenge is the European Union's introduction of a carbon tax o
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 19/01/24 WS points | 19/01/24 $/day | 12/01/24 WS points | 12/01/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 66 | 45,779 | 71 | 47,364 | -3.3% | 39,466 | 20,330 |
@@ -38,10 +41,10 @@ Another looming challenge is the European Union's introduction of a carbon tax o
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos |  | 2010 |  |  |  |
+| 12 mos |  | 2010 |  | $50,000/day | NICOLAOS |
 | 12 mos | YASA GOLDEN MARMARA | 2008 | $41,000/day |  |  |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 19/Jan/23 | 100 | 180 | 180 |
@@ -57,8 +60,8 @@ Another looming challenge is the European Union's introduction of a carbon tax o
 | 19/Nov/23 | 60 | 140 | 280 |
 | 19/Dec/23 | 60 | 140 | 380 |
 | 19/Jan/24 | 60 | 140 | 380 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 19/Jan/23 | 100 | 180 | 180 | 180 |
@@ -122,9 +125,9 @@ Suezmax T/C earnings averaged \$65,021/day, up + \$3,355/day w-o-w. On the Afram
 | BHSI | 594 | $10,692 | 616 | $11,089 | -22 | -3.6% | 586 | 1,181 |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 8 to 10 mos | CL SINGAPORE | 2016 | 81,323 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 8 to 10 mos | CL SINGAPORE | 2016 | 81,323 dwt | dely CJK 22 Jan redel worldwide | $15,000/day | CJ Intl |
 
 ### TC Rates
 | Sector | Tenor | 19/01/24 | 12/01/24 | ±% | Diff | 2023 | 2022 |
@@ -139,6 +142,7 @@ Suezmax T/C earnings averaged \$65,021/day, up + \$3,355/day w-o-w. On the Afram
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 19/Jan/23 | 800 | 800 | 700 | 600 | 800 |
@@ -156,6 +160,7 @@ Suezmax T/C earnings averaged \$65,021/day, up + \$3,355/day w-o-w. On the Afram
 | 19/Jan/24 | 1800 | 1500 | 1400 | 1100 | 1600 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 19/Jan/23 | 5000 | 8000 | 9000 | 7000 |
@@ -282,6 +287,7 @@ A busy week in the recycling market with few sales completed, mainly in Banglade
 | USD/TRY | 30.20 | 30.10 | 0.33% | 30.20 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | JIN YUAN HE | 23,596 | 6,841 | 1991 | BREMER VULKAN, Germany | CONTAINER | $ 535/Ldt | Bangladeshi | incl ROB |

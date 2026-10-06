@@ -186,10 +186,10 @@ The LR1 and LR2 markets were relatively quiet this week, with the U.S. seeing an
 
 (MILLION) USD
 
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT | COMMENTS / BUYERS |
-| --- | --- | --- | --- | --- | --- |
-| SPM STRENGTH | SUEZMAX | 159,314 | 2002 | S.KOREA | CHINESE BUYERS |
-| DOLVIKEN | SUEZ | 159,058 159,073 | 2012 | S . KOREA | ADVANTAGE TANKERS |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
+|---|---|---|---|---|---|---|
+| SPM STRENGTH | SUEZMAX | 159,314 | 2002 | S.KOREA | 17 | CHINESE BUYERS |
+| DOLVIKEN | SUEZ | 159,058 159,073 | 2012 | S . KOREA | 42.5 | ADVANTAGE TANKERS |
 
 ASTRO POLARIS / SUEZ / 2004 S. KOREA 21.5 EACH CHINESE BUYERS ASTRO PHOENIX 159,055
 
@@ -291,9 +291,13 @@ NO NEW SALES TO REPORT
 
 CHATTOGRAM, BANGLADESH 580 ~ 600 560 ~ 580 540 ~ 560 600 ~ 620 WEAK /
 
-| GADDANI, PAKISTAN TURKEY *For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 550 ~ 300 ~ | 560 540 ~ 550 310 290 ~ 300 | 520 ~ 530 280 ~ 290 | 580 ~ 590 300 ~ 310 | WEAK / STABLE / |
+| GADDANI, PAKISTAN TURKEY *For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 550 ~ 300 ~ | 560 540 ~ 550 310 290 ~ 300 | 520 ~ 530 280 ~ 290 | 580 ~ 590 300 ~ 310 | WEAK / STABLE / |  |
+|---|---|---|---|---|---|---|
+| - All prices are - The prices - Prices quoted above-quoted | USD per light reported are net are basis simple prices based | displacement tonnage prices offered by the Japanese / Korean on quality & quality | in the long ton. recycling yards. built tonnages of Spares, Non-Fe., | trading units. Premiums bunkers, cargo history, | are paid on top of and maintenance. | the |
+
+| 5-Year | Recycling | Average (Week 30) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| - All prices are - The prices - Prices quoted above-quoted | USD per light reported are net are basis simple prices based | displacement tonnage prices offered by the Japanese / Korean on quality & quality | in the long ton. recycling yards. built tonnages of Spares, Non-Fe., | trading units. Premiums bunkers, cargo history, | are paid on top of and maintenance. |
+| DESTINATION | 2017 | 2018 | 2019 | 2020 | 2021 |
 
 | ALANG, INDIA | 340 | 430 | 390 | 315 | 560 |
 |---|---|---|---|---|---|

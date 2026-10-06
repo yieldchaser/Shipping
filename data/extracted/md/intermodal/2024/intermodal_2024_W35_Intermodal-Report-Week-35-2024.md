@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 _By Fotis Kanatas, Research Analyst_
 
@@ -17,6 +19,7 @@ The fact that Libya's main customer is so close in proximity has resulted in a m
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 30/08/24 WS points | 30/08/24 $/day | 23/08/24 WS points | 23/08/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 45 | 22,588 | 53 | 31,743 | -28.8% | 39,466 | 20,330 |
@@ -34,7 +37,6 @@ The fact that Libya's main customer is so close in proximity has resulted in a m
 | Dirty | 55K | UKC-USG | 120 | 10,710 | 120 | 11,133 | -3.8% | 27,274 | 19,982 |
 |  | 55K | MED-USG | 120 | 10,812 | 120 | 11,242 | -3.8% | 27,060 | 21,231 |
 |  | 50k | ARA-UKC | 155 | 13,459 | 134 | 8,032 | **67.6%** | 46,194 | 40,364 |
-
 ## Indicative Period Charters
 
 _No period fixtures reported._
@@ -84,10 +86,10 @@ Aframax market has also had a tough week, with the size being affected by the Li
 | BHSI | 744 | $13,387 | 753 | $13,553 | -9 | -1.2% | 586 | 1,181 |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | SHANDONG XIN DE | 2024 | 82,000 dwt |  |  |
-| 12 mos | PREVAIL STAR | 2014 | 81,055 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | SHANDONG XIN DE | 2024 | 82,000 dwt | dely ex yard Zhenjiang beg Sep redel worldwide | $18,500/day - scrubber benefit to charterer | cnr |
+| 12 mos | PREVAIL STAR | 2014 | 81,055 dwt | dely EC India 30 Aug redel worldwide | $15,400/day | cnr |
 
 ### TC Rates
 | Sector | Tenor | 30/08/24 | 23/08/24 | ±% | Diff | 2023 | 2022 |
@@ -102,6 +104,7 @@ Aframax market has also had a tough week, with the size being affected by the Li
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 30/Aug/23 | 1500 | 1200 | 1000 | 800 | 1000 |
@@ -118,6 +121,7 @@ Aframax market has also had a tough week, with the size being affected by the Li
 | 31/Jul/24 | 3000 | 1700 | 1400 | 1200 | 1800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 30/Aug/23 | 8000 | 12000 | 10000 | 9000 |
@@ -156,6 +160,7 @@ Supramax 10TC averaged \$ 14,438/day up +0.12% w-o-w, while the Handysize 7TC av
 Secondhand Sales
 
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR1 | TWO MILLION WAYS | 73,965 | 2008 | ONOMICHI, Japan | MAN-B\&W | Feb-28 | DH | region $ 30.0m | Greek |  |
@@ -241,6 +246,7 @@ Yet another week with minimal activity in the demolition market as a result of s
 | USD/TRY | 33.10 | 32.95 | **0.5%** | 33.12 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MEDELIN EXPO | 17,712 | 5,270 | 1993 | SHIN KURUSHIMA, Japan | TANKER | $ 653.0m | Indian | 'as is' Belawan with 275 Ts solid SUS 316 + 469 Ts |

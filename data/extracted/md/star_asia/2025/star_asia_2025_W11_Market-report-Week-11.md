@@ -123,9 +123,13 @@ In the Middle East, rates closed slightly lower due to generally weak demand acr
 
 Clean:
 
-**LR:** LR2 in the MEG saw freight rates continue to strengthen due to increased demand. TC1 jumped some 21 points to WS151. On the LR1 side, UKC was stagnant with ARA/WAFR route closing at WS110.
+**LR: LR2 in the MEG saw freight rates continue to strengthen due to increased demand. TC1**
 
-**MR:** In the Far East market, rates closed with a relatively large increase as supplies quickly depleted due to the influx of numerous long-haul cargoes. In the MEG, despite the positive outcome for the LRs, TC17 to East Africa remains unchanged at WS205.
+jumped some 21 points to WS151. On the LR1 side, UKC was stagnant with ARA/WAFR route closing at WS110.
+
+**MR: In the Far East market, rates closed with a relatively large increase as supplies**
+
+quickly depleted due to the influx of numerous long-haul cargoes. In the MEG, despite the positive outcome for the LRs, TC17 to East Africa remains unchanged at WS205.
 
 # Baltic Exchange Tanker Indices
 
@@ -337,7 +341,9 @@ EXCHANGE RATES
 
 # Commodities (Weekinfocus)
 
-Iron ore markets showed mixed signals at closing as seaborne prices weakened while futures demonstrated strong performance. Singapore Exchange April contracts for 62% Fe gained US$1.56 to reach US$102.22 per ton, suggesting divergent short-term and midterm outlooks. Industrial metals, including Copper and Aluminium, also saw decline at week's closing. Recent inventory data has reinforced signs of improving demand in China, with apparent consumption of major steel products increasing and total steel inventories continuing to decline. Notably, rebar inventories maintained their downward trend despite rising production levels, signaling steady demand in the construction sector. This positive indicator has helped restore some confidence in the market, alleviating concerns over the potential oversupply that had previously weighed on sentiment. In related news, Canada has filed an additional complaint with the World Trade Organization against the United States, specifically targeting President Trump's recently implemented 25% tariffs on steel and aluminum imports. This petition follows an earlier objection to Trump's blanket tariff on Canadian imports and comes alongside retaliatory measures on approximately CAD 30 billion (US$20.8 billion) of US goods. The Canadian Steel Producers Association has expressed alarm over these "unjustified" tariffs, warning of "devastating repercussions on both sides of the border" and calling on the Canadian government to enact protective measures against unfair trade practices while prioritizing domestic steel in publicly funded infrastructure projects.
+**Iron ore markets showed mixed signals at closing as seaborne prices weakened while**
+
+futures demonstrated strong performance. Singapore Exchange April contracts for 62% Fe gained US$1.56 to reach US$102.22 per ton, suggesting divergent short-term and midterm outlooks. Industrial metals, including Copper and Aluminium, also saw decline at week's closing. Recent inventory data has reinforced signs of improving demand in China, with apparent consumption of major steel products increasing and total steel inventories continuing to decline. Notably, rebar inventories maintained their downward trend despite rising production levels, signaling steady demand in the construction sector. This positive indicator has helped restore some confidence in the market, alleviating concerns over the potential oversupply that had previously weighed on sentiment. In related news, Canada has filed an additional complaint with the World Trade Organization against the United States, specifically targeting President Trump's recently implemented 25% tariffs on steel and aluminum imports. This petition follows an earlier objection to Trump's blanket tariff on Canadian imports and comes alongside retaliatory measures on approximately CAD 30 billion (US$20.8 billion) of US goods. The Canadian Steel Producers Association has expressed alarm over these "unjustified" tariffs, warning of "devastating repercussions on both sides of the border" and calling on the Canadian government to enact protective measures against unfair trade practices while prioritizing domestic steel in publicly funded infrastructure projects.
 
 ## Shipbroking (www.star-asia.com.sg)
 

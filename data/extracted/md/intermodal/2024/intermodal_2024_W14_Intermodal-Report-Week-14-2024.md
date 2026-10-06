@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 *By Chara Georgousi, Research Analyst*
 
@@ -15,6 +17,7 @@ The Baltimore Bridge collapse serves as a critical reminder of the essential nee
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 05/04/24 WS points | 05/04/24 $/day | 29/03/24 WS points | 29/03/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 66 | 44,168 | 66 | 44,468 | -0.7% | 39,466 | 20,330 |
@@ -32,12 +35,12 @@ The Baltimore Bridge collapse serves as a critical reminder of the essential nee
 | Dirty | 55K | UKC-USG | 155 | 18,261 | 155 | 18,634 | -2.0% | 27,274 | 19,982 |
 |  | 55K | MED-USG | 155 | 18,170 | 155 | 18,622 | -2.4% | 27,060 | 21,231 |
 |  | 50k | CARIBS-USG | 217 | 26,815 | 260 | 38,877 | -31.0% | 46,194 | 40,364 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | Vessel | 2024 | 109,999 dwt |  |  |
-| 24 mos | UOG HARRIET G | 2009 | 73,338 dwt |  |  |
+| 24 mos | Vessel | 2024 | 109,999 dwt | PROTEUS BOMEMIA $59,000/day | ADMIC |
+| 24 mos | UOG HARRIET G | 2009 | 73,338 dwt | $30,000/day | Clearlake |
 
 ## TC Rates
 | Sector | Tenor | 05/04/24 | 29/03/24 | ±% | Diff | 2023 | 2022 |
@@ -86,10 +89,10 @@ As we move forward, the VLCC market appears to be entering a period of cautious 
 | BHSI | 735 | $13,239 | 772 | $13,898 | -37 | -4.7% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4/7 mos | STAR ALESSIA | 2017 | 81,944 dwt |  |  |
-| 8/12 months | MSXT ECHO | 2021 | 85,187 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4/7 mos | STAR ALESSIA | 2017 | 81,944 dwt | dely Kimitsu 2/3 Apr redel worldwide | $17,000/day | cnr |
+| 8/12 months | MSXT ECHO | 2021 | 85,187 dwt | dely Hong Kong 9 Apr redel worldwide | $18,500/day | Norden |
 
 ## Baltic Indices
 | Index Name | Current Index | Current $/day |
@@ -99,6 +102,7 @@ As we move forward, the VLCC market appears to be entering a period of cautious 
 | BHSI |  |  |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 5/Apr/23 | 15000 | 12000 | 10000 | 8000 |
@@ -154,6 +158,7 @@ Supramax 10TC averaged \$ 14,082/day down -5.95% w-o-w, while the Handysize 7TC 
 # Secondhand Sales
 
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | CALYPSO | 111,930 | 2021 | SUMITOMO, Japan | MAN-B\&W | Jul-26 | DH | $ 79.0m | Libyan (GNMTC) | BWTS & Scrubber fitted, Eco, GNMTC Tender |
@@ -175,6 +180,7 @@ Supramax 10TC averaged \$ 14,082/day down -5.95% w-o-w, while the Handysize 7TC 
 | HANDY | SUSANOO HARMONY | 37,140 | 2020 | SAIKI, Japan | MAN-B\&W | Oct-25 | 4 X 30t CRANES | $ 29.5m | undisclosed | BWTS fitted, Eco |
 
 ## Secondhand Sales
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | BUXCLIFF | 6,712 | 2001 | DAEWOO, S. Korea | B\&W | Jun-26 |  | $ 45.0m | Swiss Based (MSC Shipping) | BWTS fitted |
@@ -203,9 +209,10 @@ In the previous week, healthy interest for new vessel construction emerged, with
 | **Gas** |  | SGC LPG 25k cbm |  | 60.0 | 59.0 | 1.7% | 60.0 | 58.0 | 60.0 | 40.0 | 51 | 45 |
 
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 7yr | methanol dual fuelled, wind-assisted, battery-hybrid,  TC with Equinor |  |  |  |  |
+| 7yr | methanol dual fuelled, wind-assisted, battery-hybrid,  TC with Equinor |  |  | $ 45.0m | 2 |
 
 ---
 
@@ -214,6 +221,7 @@ In the previous week, healthy interest for new vessel construction emerged, with
 The ship recycling sector is currently undergoing a period of cautious optimism, largely due to the shortage of demolition vessels and the Ramadan and Eid holidays, which traditionally slows down operations. This situation is exacerbated by global economic uncertainties and specific market variations affecting both sentiment and pricing in the Indian Sub-Continent and Turkey. India has seen a slight improvement, driven by a rise in local steel prices at the start of the new fiscal year. However, the market remains cautious and is waiting for more substantial shifts in demand to consolidate this optimism. Indian recyclers, anticipating a post-holiday shift, are prepared to bid more aggressively for available vessels. In Pakistan, the pace of market activity has slowed as Ramadan and the upcoming Eid holidays impact operations. Despite stable steel prices, the possibility of softer interest rates after Ramadan could stimulate the market. Pakistani recyclers are expected to actively seek new business after the holiday period, suggesting an upturn in market activity. Bangladesh is experiencing a downturn with ongoing LC complications, reduced local demand for steel scrap and a depreciating taka. Despite this, there's a clear appetite among recyclers to procure new vessels, especially with an expected increase in demand after the Eid holidays. This eagerness underlines a latent optimism for a post-holiday market recovery. Turkey continues to experience a quiet period, with market activity significantly reduced due to Ramadan and the local election process. However, the slight strengthening of the local currency signals a cautious hope for continued political stability and market stability after the elections, despite the expected continued challenges in tonnage supply. Overall, the current state of the ship dismantling market is characterized by a mixture of caution and hope, with the challenge of limited vessel supply at the forefront. Each region is responding to these overarching trends in a unique way, suggesting a complex but cautiously optimistic outlook for the ship recycling industry.
 
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 05/04/24 | 29/03/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -236,6 +244,7 @@ The ship recycling sector is currently undergoing a period of cautious optimism,
 | USD/TRY | 32.04 | 32.35 | -1.0% | 32.35 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SAWASDEE SINGAPORE | 20,156 | 7,098 | 1995 | THYSEEN N | CONTAINER | 602 | Bangladeshi | incl bunkers abt 550t |

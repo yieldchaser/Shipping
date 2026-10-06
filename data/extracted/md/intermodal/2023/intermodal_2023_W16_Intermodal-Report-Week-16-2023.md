@@ -71,6 +71,7 @@ Certification
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 21/04/23 WS points | 21/04/23 $/day | 14/04/23 WS points | 14/04/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 67 | 52,135 | 74 | 59,026 | -11.7% | 20,330 | 2,246 |
@@ -93,7 +94,7 @@ Certification
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | BUNGO CROWN | 2022 | 49,994 dwt |  |  |
+| 36 mos | BUNGO CROWN | 2022 | 49,994 dwt | $26,500/day | Oman Shipping |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
@@ -143,6 +144,7 @@ In the LR1 sector we had the sale of the "SAUGER" (72,652dwt-blt '04, S. Korea) 
 
 # Dry Bulk Market
 ## Baltic Indices
+
 | Index Name | 21/04/23 Index | 21/04/23 $/day | 14/04/23 Index | 14/04/23 $/day | Point Diff | $/day ±% | 2022 Index | 2021 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 1,504 |  | 1,435 |  | **69** |  | 1,931 | 2,921 |
@@ -150,8 +152,8 @@ In the LR1 sector we had the sale of the "SAUGER" (72,652dwt-blt '04, S. Korea) 
 | BPI | 1,692 | $15,225 | 1,702 | $15,317 | -10 | -0.6% | 2,298 | 2,972 |
 | BSI | 1,201 | $13,211 | 1,096 | $12,059 | **105** | **9.6%** | 2,006 | 2,424 |
 | BHSI | 660 | $11,876 | 628 | $11,306 | **32** | **5.0%** | 1,181 | 1,424 |
-
 ## TC Rates
+
 | Sector | Tenor | 21/04/23 | 14/04/23 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 19,750 | 20,000 | -1.3% | -250 | 21,394 | 26,392 |
@@ -162,13 +164,12 @@ In the LR1 sector we had the sale of the "SAUGER" (72,652dwt-blt '04, S. Korea) 
 |  | **58K 3yr TC** | 13,500 | 13,500 | 0.0% | 0 | 15,005 | 14,552 |
 | **Handysize** | **32K 1yr TC** | 12,250 | 12,250 | 0.0% | 0 | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 12,322 | 11,825 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 8 mos | ALANOOD | 2020 | 80,729 dwt |  |  |
-| 12 mos | THE PROSPERITY | 2017 | 81,922 dwt |  |  |
 
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 8 mos | ALANOOD | 2020 | 80,729 dwt | dely Bayuquan 16/18 | $19,000/day | Mercuria |
+| 12 mos | THE PROSPERITY | 2017 | 81,922 dwt | dely Ningbo 2/12 May | $17,000/day | cnr |
 ## Baltic Indices
 
 | Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
@@ -186,8 +187,8 @@ In the LR1 sector we had the sale of the "SAUGER" (72,652dwt-blt '04, S. Korea) 
 | 21/Feb/23 | 1600 | 1700 | 1000 | 800 | 1500 |
 | 21/Mar/23 | 1700 | 1800 | 1100 | 850 | 1600 |
 | 21/Apr/23 | 1700 | 1800 | 1100 | 850 | 1600 |
-
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 21/Apr/22 | 15000 | 28000 | 28000 | 28000 |
@@ -234,6 +235,7 @@ In the Ultramax sector we had the sale of the "CL EBISU" (61,330dwt-blt '14, Jap
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | EAGLE BRENDA | 164,626 | 2001 | HYUNDAI, S. Korea | B\&amp;W | Jul-26 | DH | $ 26.0m | undisclosed |  |
@@ -241,8 +243,8 @@ In the Ultramax sector we had the sale of the "CL EBISU" (61,330dwt-blt '14, Jap
 | LR1 | SAUGER | 72,652 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Feb-24 | DH | $ 18.5m | Turkish |  |
 | MR2 | BAHRI JASMINE | 49,000 | 2005 | DAEWOO, S. Korea | MAN-B\&amp;W | Apr-25 | DH | $ 18.3m | Turkish | BWTS fitted |
 | MR1 | SW JULIA I | 39,999 | 2003 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Sep-23 | DH | low $ 15.0m | undisclosed |  |
-
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | STELLA CHERISE | 177,832 | 2010 | SWS, China | MAN-B\&amp;W | Apr-27 |  | $ 24.5m | undisclosed | BWTS fitted |
@@ -269,6 +271,7 @@ In the Ultramax sector we had the sale of the "CL EBISU" (61,330dwt-blt '14, Jap
 | FEEDER | ASL PEONY | 1,930 | 2023 | CSSC HUANGPU WENCHONG, China | MAN-B&amp;W |  |  | undisclosed | Thai (RCL) | scrubber fitted |
 
 ## Secondhand Sales
+
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | RUI HAI 1 | 6,175 | 1998 | SANYO ONOMICHI, Japan | Akasaki | Jan-27 | 2 X 30,7t CRANES, 1 X 30t DERRICKS | $ 2.5m | undisclosed | BWTS fitted |
@@ -358,6 +361,7 @@ After the Easter holidays when newbuilding activity was slow, contracting intere
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 21/04/23 | 14/04/23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -370,8 +374,8 @@ After the Easter holidays when newbuilding activity was slow, contracting intere
 | India | 555 | 555 | 0.0% | 583 | 508 | 335 |
 | Pakistan | 535 | 535 | 0.0% | 587 | 526 | 338 |
 | Turkey | 330 | 330 | 0.0% | 304 | 276 | 198 |
-
 ## Currencies
+
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 106.11 | 106.37 | 0.2% | 107.40 |
@@ -396,8 +400,8 @@ Ramadan came to an end last week, meaning that activity in the market and top de
 | 21/Feb/23 | 580 | 570 | 570 | 320 |
 | 21/Mar/23 | 600 | 580 | 580 | 320 |
 | 21/Apr/23 | 610 | 585 | 585 | 320 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FLORA | 86,018 | 24,745 | 2008 | HANJIN HI, S. Korea | CONTAINER | undisclosed | Bangladeshi |  |

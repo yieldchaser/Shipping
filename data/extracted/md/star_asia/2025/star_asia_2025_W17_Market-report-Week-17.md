@@ -48,35 +48,35 @@ Handy market observed similar mixed markets with Pacific seeing a slight uptick 
 
 # Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
-| --- | --- | --- | --- | --- | --- | --- |
-| BDI | 1,373 | 1,261 |  | 1,721 | +8.88% | -20.22% |
-| BCI | 1,889 | 1,678 |  | 2,172 | +12.57% | -13.03% |
-| BPI | 1,392 | 1,273 |  | 1,878 | +9.35% | -25.88% |
-| BSI | 977 | 950 |  | 1,495 | +2.84% | -34.65% |
-| BHSI | 568 | 569 |  | 751 | -0.18% | -24.37% |
-|  |  | Dry | Bulk | Values (Weekly) |  |  |
-| TYPE | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS 15 YEARS |
-| CAPE |  | 74 |  | 76 | 60 43 | (E) 29 |
-| KAMSARMAX |  | 37 |  | 39 | 33 24 | (E) 16 |
-| ULTRAMAX |  | 34 |  | 38 | 31 (E) | 23 15 (56K) |
-| HANDY |  | 31 |  | 33 | 25 | 17 14 |
-| *(amount in USD | (E) | - eco units |  |  |  |  |
-|  |  | Dry | Bulk - | S&P Report |  |  |
-|  |  |  |  |  | PRICE |  |
-| VESSEL | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
-|  |  |  |  |  | (MILLION) USD |  |
-| SEADUTY | KMAX | 82,449 | 2008 | JAPAN | 14.25 | GREEK BUYERS |
-| SEA PLUTO | KMAX | 81,007 | 2013 | CHINA | 16.5 | GREEK BUYERS |
-| SEA VENUS | KMAX | 80,888 | 2013 | CHINA | 16.7 | UNDISCLOSED |
-| NORD | UMAX | 64,050 | 2020 | JAPAN | 30.6 | UNDISCLOSED |
-| EL COMINO | UMAX | 61,465 | 2012 | JAPAN | 19.5 | CHINESE BUYERS |
-| MAPLEGATE OAKGATE | UMAX | 63,449 60,407 | 2019 2018 | JAPAN | 62.0 EN BLOC | INDONESIAN BUYERS |
-| OAKGATE | UMAX | 60,407 | 2018 | JAPAN | 30.42 | INDONESIAN BUYERS |
-| NORD KITAN | UMAX | 60,195 | 2017 | JAPAN | 25.7 | GREEK INDONESIANS |
-| RIVER PEARL | SMAX | 52,223 | 2008 | JAPAN | 12.25 | UNDISCLOSED |
-| ELENI M | SMAX | 50,992 | 2001 | JAPAN | 6.2 | UNDISCLOSED |
-| NORD | HMAX | 37,979 | 2020 | JAPAN | 25.5 | UNDISCLOSED |
+| INDICES |  | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
+|---|---|---|---|---|---|---|---|
+| BDI |  | 1,373 | 1,261 |  | 1,721 | +8.88% | -20.22% |
+| BCI |  | 1,889 | 1,678 |  | 2,172 | +12.57% | -13.03% |
+| BPI |  | 1,392 | 1,273 |  | 1,878 | +9.35% | -25.88% |
+| BSI |  | 977 | 950 |  | 1,495 | +2.84% | -34.65% |
+| BHSI |  | 568 | 569 |  | 751 | -0.18% | -24.37% |
+|  |  |  | Dry | Bulk | Values (Weekly) |  |  |
+| TYPE | DWT | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS 15 YEARS |
+| CAPE | 180,000 |  | 74 |  | 76 | 60 43 | (E) 29 |
+| KAMSARMAX | 82,000 |  | 37 |  | 39 | 33 24 | (E) 16 |
+| ULTRAMAX | 64,000 |  | 34 |  | 38 | 31 (E) | 23 15 (56K) |
+| HANDY | 38,000 |  | 31 |  | 33 | 25 | 17 14 |
+| *(amount in USD | million) \| (E) | - eco units |  |  |  |  |  |
+|  |  |  | Dry | Bulk - | S&P Report |  |  |
+|  |  |  |  |  |  | PRICE |  |
+| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
+|  |  |  |  |  |  | (MILLION) USD |  |
+| SEADUTY |  | KMAX | 82,449 | 2008 | JAPAN | 14.25 | GREEK BUYERS |
+| SEA PLUTO |  | KMAX | 81,007 | 2013 | CHINA | 16.5 | GREEK BUYERS |
+| SEA VENUS |  | KMAX | 80,888 | 2013 | CHINA | 16.7 | UNDISCLOSED |
+| NORD | MAMORE | UMAX | 64,050 | 2020 | JAPAN | 30.6 | UNDISCLOSED |
+| EL COMINO |  | UMAX | 61,465 | 2012 | JAPAN | 19.5 | CHINESE BUYERS |
+| MAPLEGATE OAKGATE | / | UMAX | 63,449 60,407 | 2019 2018 | JAPAN | 62.0 EN BLOC | INDONESIAN BUYERS |
+| OAKGATE |  | UMAX | 60,407 | 2018 | JAPAN | 30.42 | INDONESIAN BUYERS |
+| NORD KITAN |  | UMAX | 60,195 | 2017 | JAPAN | 25.7 | GREEK INDONESIANS |
+| RIVER PEARL |  | SMAX | 52,223 | 2008 | JAPAN | 12.25 | UNDISCLOSED |
+| ELENI M |  | SMAX | 50,992 | 2001 | JAPAN | 6.2 | UNDISCLOSED |
+| NORD | ABIDJAN | HMAX | 37,979 | 2020 | JAPAN | 25.5 | UNDISCLOSED |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -106,9 +106,13 @@ Despite the VLCC surge in the Middle East, there was a minimal impact on Aframax
 
 Clean:
 
-**LR:** LR1 market experienced a more positive week with ample activity driving rates upward across all routes, and the LR2 market also firmed modestly with MEG improving as TC1 ticked up to WS126.
+**LR: LR1 market experienced a more positive week with ample activity driving rates upward**
 
-**MR:** The MR market showed positive momentum this week, with strong early activity pushing rates higher despite tonnage accumulation in Europe over the weekend, while MRs in the MEG similarly strengthened with the TC17 to East Africa climbing to WS211.
+across all routes, and the LR2 market also firmed modestly with MEG improving as TC1 ticked up to WS126.
+
+**MR: The MR market showed positive momentum this week, with strong early activity**
+
+pushing rates higher despite tonnage accumulation in Europe over the weekend, while MRs in the MEG similarly strengthened with the TC17 to East Africa climbing to WS211.
 
 # Baltic Exchange Tanker Indices
 

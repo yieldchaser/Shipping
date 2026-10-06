@@ -2,6 +2,8 @@
 
 Issue: Week 51 | Tuesday 27<sup>th</sup> December 2022
 
+## Market Insight By
+
 ### **SnP Broker**
 
 The United Nations Conference on Trade and Development (UNCTAD) published a Global Trade Update on December 13th highlighting that global trade would hit a record \$32 billion for 2022 despite the war in Ukraine and the continuation of pandemic-related lockdowns in China. However, as geopolitical tensions, high energy prices and sustained inflation persist, the slowdown that began in the middle of 2022 is likely to constrain global trade in 2023. Enter China, who for the past few weeks has been – not so gradually – scrapping the restrictions, quarantines and other measures of their very strict Covid policy and China's top leaders have signaled shifting their focus back to growth.
@@ -63,6 +65,7 @@ The Baltic Exchange
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 23/12/22 WS points | 23/12/22 $/day | 16/12/22 WS points | 16/12/22 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 74 | 41,586 | 88 | 53,900 | -22.8% | 2,246 | 52,119 |
@@ -81,14 +84,14 @@ The Baltic Exchange
 | Dirty | 55K | UKC-USG | 317 | 61,102 | 317 | 61,104 | **0.0%** | 2,822 | 12,120 |
 |  | 55K | MED-USG | 317 | 62,387 | 317 | 62,576 | -0.3% | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 452 | 82,143 | 474 | 87,172 | -5.8% | 8,548 | 17,651 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | WHITE MOON | 2012 | 160,152 dwt |  |  |
-| 12 mos | AQUARIUS T | 2010 | 46,147 dwt |  |  |
-
+| 12 mos | WHITE MOON | 2012 | 160,152 dwt | $48,000/day | Trafigura |
+| 12 mos | AQUARIUS T | 2010 | 46,147 dwt | $31,000/day | Trafigura |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 23/Dec/21 | 0 | 100 | 100 |
@@ -104,8 +107,8 @@ The Baltic Exchange
 | 23/Oct/22 | 80 | 190 | 350 |
 | 23/Nov/22 | 85 | 250 | 620 |
 | 23/Dec/22 | 90 | 260 | 260 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 23/Dec/21 | 150 | 160 | 170 | 280 |
@@ -121,8 +124,8 @@ The Baltic Exchange
 | 23/Oct/22 | 150 | 155 | 165 | 320 |
 | 23/Nov/22 | 140 | 150 | 160 | 440 |
 | 23/Dec/22 | 130 | 145 | 155 | 450 |
-
 ## TC Rates
+
 | Sector | Tenor | 23/12/22 | 16/12/22 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300k 1yr TC** | 50,000 | 52,000 | -3.8% | **-2000** | 25,684 | 42,038 |
@@ -137,8 +140,8 @@ The Baltic Exchange
 |  | **52k 3yr TC** | 20,000 | 20,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 29,000 | 28,000 | **3.6%** | **1000** | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 18,000 | 17,000 | **5.9%** | **1000** | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Dec-22 avg | Nov-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300KT DH** | 91.5 | 88.8 | **3.1%** | 69.7 | 71.5 | 72.1 |
@@ -179,12 +182,13 @@ In the Small sector we had the sale of the "JEY HOPE" (8,981dwt-blt '08, S. Kore
 | BHSI | 663 | $11,941 | 705 | $12,693 | -42 | -5.9% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 11 to 14 mos | MINT | 2020 | 82,058 dwt |  |  |
-| 10 to 12 mos | YOUNG HARMONY | 2014 | 63,567 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 11 to 14 mos | MINT | 2020 | 82,058 dwt | Xinsha 18/22 Dec | $16,000/day | Cargill |
+| 10 to 12 mos | YOUNG HARMONY | 2014 | 63,567 dwt | CJK 13 Dec | $13,850/day | CTM |
 
 ## TC Rates
+
 | Sector | Tenor | 23/12/22 | 16/12/22 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 16,750 | 15,250 | **9.8%** | **1,500** | 26,392 | 14,394 |
@@ -197,6 +201,7 @@ In the Small sector we had the sale of the "JEY HOPE" (8,981dwt-blt '08, S. Kore
 |  | **32K 3yr TC** | 9,250 | 9,000 | **2.8%** | **250** | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 23/Dec/21 | 2500 | 2600 | 2700 | 1800 | 2400 |
@@ -213,6 +218,7 @@ In the Small sector we had the sale of the "JEY HOPE" (8,981dwt-blt '08, S. Kore
 | 23/Dec/22 | 2800 | 2700 | 2800 | 1400 | 2800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 23/Dec/21 | 25000 | 26000 | 27000 | 24000 |
@@ -263,19 +269,20 @@ In the Supramax sector we had the sale of the "ANITA N" (56,868dwt-bl't '10, Chi
 
 # Intermodal Secondhand Sales
 ## Secondhand Sales
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | CRESCENT MOON | 150,581 | 2004 | UNIVERSAL, Japan | Sulzer | Oct-24 | DH | $ 33.5m | undisclosed | BWTS &amp; Scrubber fitted |
 | SMALL | JEY HOPE | 8,981 | 2008 | KWANGSUNG, S. Korea | MAN-B\&amp;W | Aug-27 | DH | $ 8.3m | Dubai based | BWTS fitted |
-
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | AQUAHOPE | 177,173 | 2007 | NAMURA, Japan | MAN-B\&amp;W | Apr-27 |  | mid $ 18.0m | Turkish | BWTS fitted |
 | PMAX | ACHILLES II | 75,785 | 2004 | SANOYAS, Japan | MAN-B\&amp;W | Jan-24 |  | $ 10.3m | undisclosed | BWTS fitted |
 | SUPRA | ANITA N | 56,868 | 2010 | JINLING, China | MAN-B\&amp;W | Feb-25 | 4 X 30t CRANES | $ 14.0m | undisclosed | BWTS fitted |
-
 ## Secondhand Sales
+
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | GASCHEM AACHEN | 38,427 | 2003 | FINCANTIERI, Italy | Sulzer | Nov-23 | 36474 | rgn $ 22.5m | undisclosed |  |
@@ -287,6 +294,7 @@ In the Supramax sector we had the sale of the "ANITA N" (56,868dwt-bl't '10, Chi
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 23-Dec-22 | 16-Dec-22 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -343,8 +351,8 @@ Activity in the new building market was healthy last week with a couple of order
 | 23/Oct/22 | 60 | 33 | 33 | 29 |
 | 23/Nov/22 | 60 | 33 | 33 | 28 |
 | 23/Dec/22 | 60 | 32 | 32 | 28 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Bulker | 40,000 dwt | Hakodate, Japan | 2025 | Japanese (Hisafuku Kisen) | $ 32.3m |  |
@@ -358,6 +366,7 @@ Activity in the new building market was healthy last week with a couple of order
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 23/12/22 | 16/12/22 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -408,8 +417,8 @@ With this turbulent year coming to an end, key fundamentals seem that are holdin
 | 23/Oct/22 | 570 | 560 | 570 | 250 |
 | 23/Nov/22 | 530 | 520 | 530 | 250 |
 | 23/Dec/22 | 520 | 510 | 520 | 250 |
-
 ## Indicative Demolition Prices ($/ldt)
+
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE OSPREY | 172,510 | 20,612 | 1999 | NKK CORP, Japan | BC | $ 530/Ldt | Indian | HKC Recycling |

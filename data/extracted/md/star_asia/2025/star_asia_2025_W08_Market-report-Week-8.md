@@ -107,9 +107,13 @@ The Aframax market in the Middle East started the week on a softer note due to s
 
 Clean:
 
-**LR:** The LR2 MEG market has seen a shift at the start of the week. The return to business has triggered a surge in demand across East of Suez routes. However, some rate corrections were observed as charterers respond to these steep increases by potentially shifting their cargoes to smaller vessels. TC1 remains at WS125. LR1 also fared well end week as TC5 snagged to close slightly higher at WS137.
+**LR: The LR2 MEG market has seen a shift at the start of the week. The return to business**
 
-**MR:** MR market in the Far East is riding the coattails of the LR segment's surge, finishing the week on a firmly positive note. MEG also did well with TC17 to East Africa gaining some 16 points to close at WS207.
+has triggered a surge in demand across East of Suez routes. However, some rate corrections were observed as charterers respond to these steep increases by potentially shifting their cargoes to smaller vessels. TC1 remains at WS125. LR1 also fared well end week as TC5 snagged to close slightly higher at WS137.
+
+**MR: MR market in the Far East is riding the coattails of the LR segment's surge, finishing**
+
+the week on a firmly positive note. MEG also did well with TC17 to East Africa gaining some 16 points to close at WS207.
 
 ## Baltic Exchange Tanker Indices
 

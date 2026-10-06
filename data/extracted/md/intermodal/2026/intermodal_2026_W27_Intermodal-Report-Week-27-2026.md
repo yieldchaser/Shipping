@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 _by Nikos Tagoulis, Senior Analyst_
 
@@ -20,6 +22,7 @@ Finally, a critical factor for this dynamic will be the potential normalization 
 ## Tanker Market
 
 ## Spot Rates
+
 | Sector | Size | Routes | 03/07/2026 WS points | 03/07/2026 $/day | 26/06/2026 WS points | 26/06/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 303 | 305,278 | 327 | 330,253 | -7.6% | 60,510 | 37,255 |
@@ -40,6 +43,7 @@ Finally, a critical factor for this dynamic will be the potential normalization 
 
 No Fresh Fixtures to Report
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 3/Jul/25 | 100 | 150 | 150 |
@@ -55,8 +59,8 @@ No Fresh Fixtures to Report
 | 3/May/26 | 450 | 400 | 400 |
 | 3/Jun/26 | 400 | 350 | 350 |
 | 3/Jul/26 | 380 | 320 | 320 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 3/Jul/25 | 120 | 130 | 140 | 140 |
@@ -157,6 +161,7 @@ The Aframax market declined last week, with TCE rates dropping 12.6% to \$40,720
 | 3/Jul/26 | 3900 | 2100 | 2400 | 1000 | 3800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 3/Jul/25 | 15000 | 12000 | 10000 | 8000 |
@@ -288,8 +293,8 @@ Aliaga appears to have found steadier footing after the recent price correction,
 | USD/INR | 95.22 | 94.36 | 0.91% | 95.97 |
 | USD/PKR | 278.03 | 278.22 | -0.07% | 280.05 |
 | USD/TRY | 46.80 | 46.62 | 0.39% | 46.80 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PINE ARROW | 48,041 | 12,574 | 1996 | STOCZNIA, Poland | GENERAL CARGO | $438/Ldt | Indian |  |

@@ -114,28 +114,28 @@ LR: After LR2 last week's decline due to weak demand, charterers resumed activit
 
 # Baltic Exchange Tanker Indices
 
-| INDICES | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | Y-O-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | CHANGE | CHANGE |
-| BDTI | 988 |  | 995 | 1,195 | -0.70% | -17.32% |
-| BCTI | 615 |  | 573 | 1,036 | +7.33% | -40.64% |
-|  |  |  | Tankers | Values (Weekly) |  |  |
-| TYPE | DWT | CONTRACT |  | NB PROMPT | 5 YEARS | 15 YEARS |
-|  |  |  |  | DELIVERY |  |  |
-| VLCC | 310,000 | 125 |  | 144 | 112 (E) | 51 |
-| SUEZMAX | 160,000 | 87 |  | 93 | 77 (E) | 40 |
-| AFRAMAX | 115,000 | 72 |  | 75 | 63 (E) | 35 |
-| LR1 | 73,000 | 59 |  | 60 | 50 (E) | 25 |
-| MR | 51,000 | 49 |  | 50 | 41 (E) | 21 |
-| *(amount | million) | (E)-ecounits |  |  |  |  |
-|  |  | Tankers |  | S&P Report |  |  |
-| VESSEL | TYPE | DWT | YEAR | BUILT | PRICE | / |
-|  |  |  |  |  | (MILLION) USD | BUYERS |
-| NORDIC | SUEZ | 150,249 | 2004 | JAPAN | 22.5 | UNDISCLOSED |
-| TORM | AFRA | 109,672 | 2008 | CHINA | 30.0 | BUYERS |
-| FEDOR | LR1 | 70,156 | 2003 | S. KOREA | 7.0 | BUYERS |
-| ANNA M | MR | 47,975 | 2010 | JAPAN | 17.4 | UNDISCLOSED |
-| GRACE LEO | MR | 47,409 | 2009 | JAPAN | 16.0 | BUYERS |
+| INDICES |  | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W |  |  | Y-O-Y |
+|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  | CHANGE |  |  | CHANGE |
+| BDTI |  | 988 |  |  | 995 | 1,195 | -0.70% |  |  | -17.32% |
+| BCTI |  | 615 |  |  | 573 | 1,036 | +7.33% |  |  | -40.64% |
+|  |  |  |  |  | Tankers | Values (Weekly) |  |  |  |  |
+| TYPE |  | DWT | NB | CONTRACT |  | NB PROMPT | 5 YEARS | 10 | YEARS | 15 YEARS |
+|  |  |  |  |  |  | DELIVERY |  |  |  |  |
+| VLCC |  | 310,000 |  | 125 |  | 144 | 112 (E) | 80 | (E) | 51 |
+| SUEZMAX |  | 160,000 |  | 87 |  | 93 | 77 (E) | 62 | (E) | 40 |
+| AFRAMAX |  | 115,000 |  | 72 |  | 75 | 63 (E) | 50 | (E) | 35 |
+| LR1 |  | 73,000 |  | 59 |  | 60 | 50 (E) | 40 | (E) | 25 |
+| MR |  | 51,000 |  | 49 |  | 50 | 41 (E) | 31 | (E) | 21 |
+| *(amount | inUSD | million) | \|(E)-ecounits |  |  |  |  |  |  |  |
+|  |  |  |  | Tankers |  | S&P Report |  |  |  |  |
+| VESSEL | NAME | TYPE |  | DWT | YEAR | BUILT | PRICE |  | COMMENTS | / |
+|  |  |  |  |  |  |  | (MILLION) USD |  |  | BUYERS |
+| NORDIC | CASTOR | SUEZ |  | 150,249 | 2004 | JAPAN | 22.5 |  |  | UNDISCLOSED |
+| TORM | MATHILDE | AFRA |  | 109,672 | 2008 | CHINA | 30.0 |  | CHINESE | BUYERS |
+| FEDOR |  | LR1 |  | 70,156 | 2003 | S. KOREA | 7.0 |  | CHINESE | BUYERS |
+| ANNA M |  | MR |  | 47,975 | 2010 | JAPAN | 17.4 |  |  | UNDISCLOSED |
+| GRACE LEO |  | MR |  | 47,409 | 2009 | JAPAN | 16.0 |  | TURKISH | BUYERS |
 
 ## Shipbroking (www.star-asia.com.sg)
 

@@ -60,6 +60,7 @@ The Baltic Exchange
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 10/02/23 WS points | 10/02/23 $/day | 03/02/23 WS points | 03/02/23 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 60 | 37,875 | 51 | 27,373 | 38.4% | 2,246 | 52,119 |
@@ -78,13 +79,13 @@ The Baltic Exchange
 | Dirty | 55K | UKC-USG | 175 | 30,900 | 175 | 30,648 | 0.8% | 2,822 | 12,120 |
 |  | 55K | MED-USG | 175 | 30,909 | 175 | 30,443 | 1.5% | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 266 | 52,905 | 267 | 53,593 | -1.3% | 8,548 | 17,651 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | CLEAROCEAN MUSTANG | 2020 | 49,999 dwt |  |  |
-
+| 12 mos | CLEAROCEAN MUSTANG | 2020 | 49,999 dwt | $32,500/day | Trafigura |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 10/Feb/22 | 0 | 150 | 150 |
@@ -100,8 +101,8 @@ The Baltic Exchange
 | 10/Dec/22 | 0 | 300 | 350 |
 | 10/Jan/23 | 0 | 150 | 150 |
 | 10/Feb/23 | 0 | 150 | 150 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 10/Feb/22 | 150 | 150 | 250 | 250 |
@@ -163,6 +164,7 @@ In the MR2 sector we had the sale of the "SUPER EMERALD" (50,346dwt-blt '05, S. 
 
 # Dry Bulk Market
 ## Baltic Indices
+
 | Index Name | 10/02/23 Index | 10/02/23 $/day | 03/02/23 Index | 03/02/23 $/day | Point Diff | $/day ±% | 2021 Index | 2020 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 602 |  | 621 |  | -19 |  | 2,921 | 1,066 |
@@ -170,14 +172,14 @@ In the MR2 sector we had the sale of the "SUPER EMERALD" (50,346dwt-blt '05, S. 
 | BPI | 864 | $7,779 | 940 | $8,456 | -76 | -8.0% | 2,972 | 1,103 |
 | BSI | 628 | $6,909 | 682 | $7,501 | -54 | -7.9% | 2,424 | 746 |
 | BHSI | 436 | $7,844 | 436 | $7,846 | 0 | 0.0% | 1,424 | 447 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 to 14 mos | MEDI AMALFI | 2017 | 87,605 dwt |  |  |
-| 12 mos | SIAN | 2023 | 82,300 dwt |  |  |
 
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 to 14 mos | MEDI AMALFI | 2017 | 87,605 dwt | Kinuura 19 Feb | $17,750/day | Daiichi |
+| 12 mos | SIAN | 2023 | 82,300 dwt | ex yard CJK 14/19 Feb | $15,000/day | Norden |
 ## TC Rates
+
 | Sector | Tenor | 10/02/23 | 03/02/23 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 15,000 | 14,750 | 1.7% | 250 | 26,392 | 14,394 |
@@ -188,8 +190,8 @@ In the MR2 sector we had the sale of the "SUPER EMERALD" (50,346dwt-blt '05, S. 
 |  | **58K 3yr TC** | 12,500 | 12,500 | 0.0% | 0 | 14,552 | 9,490 |
 | **Handysize** | **32K 1yr TC** | 9,750 | 10,000 | -2.5% | -250 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 11,825 | 8,486 |
-
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 10/Feb/22 | 2500 | 2800 | 2600 | 1800 | 2400 |
@@ -205,8 +207,8 @@ In the MR2 sector we had the sale of the "SUPER EMERALD" (50,346dwt-blt '05, S. 
 | 10/Dec/22 | 2100 | 2300 | 2100 | 1400 | 2100 |
 | 10/Jan/23 | 1800 | 2000 | 1800 | 1300 | 1800 |
 | 10/Feb/23 | 1600 | 1800 | 1600 | 1200 | 1600 |
-
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 10/Feb/22 | 20000 | 22000 | 21000 | 19000 |
@@ -253,6 +255,7 @@ In the Handysize sector we had the sale of the "SHANGHAI PEARL" (36,260dwt-blt '
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Sector | Size | Tankers | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | NAVE PHOTON | 297,395 | 2008 | SHANGHAI JIANGNAN CHANGXIN, China | MAN-B&amp;W | Oct-23 | DH | $ 58.0m | Singapore based |  |
@@ -268,19 +271,19 @@ In the Handysize sector we had the sale of the "SHANGHAI PEARL" (36,260dwt-blt '
 | MR2 | NORD STINGRAY | 49,900 | 2009 | STX, S. Korea | MAN-B&amp;W | May-24 | DH | $ 23.75m | Turkish | BWTS, Scrubber fitted, basis canceling May 2023 |
 | MR2 | SUPER EMERALD | 50,346 | 2005 | SHINA, S. Korea | MAN-B&amp;W | Dec-25 | DH | $ 17.7m | Turkish | BWTS fitted |
 | SMALL | DL EMERALD | 13,034 | 2009 | 21ST CENTURY, S. Korea | MAN-B&amp;W | Feb-24 | DH | $ 9.7m | undisclosed |  |
-
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HANDY | SHANGHAI PEARL | 36,260 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-26 | 4 X 35t CRANES | $ 13.9m | Greek | BWTS fitted, OHBS |
 | HANDY | AUCKLAND SPIRIT | 31,646 | 2003 | SAIKI, Japan | Mitsubishi | Mar-23 | 4 X 30t CRANES | $ 9.5m | undisclosed | on subs, BWTS fitted, OHBS |
-
 ## Secondhand Sales
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | NYK DENEB | 4,882 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-26 |  | undisclosed | Swiss based (MSC) |
-
 ## Secondhand Sales
+
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | TRINITY ARROW | 79,556 | 2008 | KOYO MIHARA, Japan | Kawasaki | Mar-23 | 152,655 | low $ 60.0m | Chinese (Jovo Group) |
@@ -292,6 +295,7 @@ In the Handysize sector we had the sale of the "SHANGHAI PEARL" (36,260dwt-blt '
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 10-Feb-23 | 3-Feb-23 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -348,8 +352,8 @@ During the past few days the number of materialized newbuilding contacts that ca
 | 10/Dec/22 | 60 | 34 | 31 | 29 |
 | 10/Jan/23 | 60 | 34 | 31 | 29 |
 | 10/Feb/23 | 60 | 34 | 31 | 29 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3 | Tanker | 158,000 dwt | Daehan, S. Korea | 2025 | Swiss (Advantage Tankers) | $ 79.0m | scrubber fitted and dual duel ready |
@@ -362,6 +366,7 @@ During the past few days the number of materialized newbuilding contacts that ca
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 10/02/23 | 03/02/23 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker | Bangladesh | 555 | 555 | 0.0% | 348 | 410 |
@@ -394,6 +399,7 @@ The market in general is firmer as there are increased flows of tonnage for brea
 | 10/Feb/23 | 550 | 550 | 540 | 300 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | RIO BALSAS | 94,191 | 14,224 | 1992 | IMABARI, Japan | BC | $ 570/Ldt | undisclosed | Full range subcont option |

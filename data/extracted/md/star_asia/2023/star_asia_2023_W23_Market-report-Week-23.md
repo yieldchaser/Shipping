@@ -61,15 +61,15 @@ JINZHOU HAI 56,907
 
 KUMPULA
 
-| ARKADIA / | SUPRAMAX 56,348 | 2012 | VIETNAM | ENBLOC 17.25 | UNDISCLOSED |
-| --- | --- | --- | --- | --- | --- |
-| NORD TREASURE | SUPRAMAX | 2014 | JAPAN | 21.2 | UNDISCLOSED |
-| JIANGMEN NANYANG 616 | HANDYMAX | 2023 | CHINA | 32.0 | GERMAN BUYERS |
-| SUPER EMMA | HANDY | 2008 | JAPAN | 14.40 | UNDISCLOSED |
-| CIELO DI PALERMO | HANDY | 2013 | JAPAN | 18.50 | UNDISCLOSED |
-| SEASTAR ENDURANCE | HANDY | 2011 | CHINA | 11.75 | UNDISCLOSED |
-| SIRAYA WISDOM | HANDY | 2007 | JAPAN | UNDISCLOSED | UNDISCLOSED |
-| PAZEH WISDOM | HANDY | 2009 | JAPAN | 8.50 | UNDISCLOSED |
+| ARKADIA / | SUPRAMAX 56,348 |  | 2012 | VIETNAM | ENBLOC 17.25 | UNDISCLOSED |
+|---|---|---|---|---|---|---|
+| NORD TREASURE | SUPRAMAX | 55,888 | 2014 | JAPAN | 21.2 | UNDISCLOSED |
+| JIANGMEN NANYANG 616 | HANDYMAX | 40,500 | 2023 | CHINA | 32.0 | GERMAN BUYERS |
+| SUPER EMMA | HANDY | 37,277 | 2008 | JAPAN | 14.40 | UNDISCLOSED |
+| CIELO DI PALERMO | HANDY | 37,059 | 2013 | JAPAN | 18.50 | UNDISCLOSED |
+| SEASTAR ENDURANCE | HANDY | 34,290 | 2011 | CHINA | 11.75 | UNDISCLOSED |
+| SIRAYA WISDOM | HANDY | 21,118 | 2007 | JAPAN | UNDISCLOSED | UNDISCLOSED |
+| PAZEH WISDOM | HANDY | 18,969 | 2009 | JAPAN | 8.50 | UNDISCLOSED |
 
 ## Star Asia Shipbroking (www.star-asia.com.sg)
 
@@ -248,10 +248,10 @@ GENERAL CARGO FUTURE TREND ALANG (WC INDIA)
 
 (US$/LDT)
 
-| VESSEL NAME LDT / MT YEAR / BUILT | TYPE | PRICE | COMMENTS |
-| --- | --- | --- | --- |
-| 13,961 | CONTAINER | 521 | DELIVERED ALANG / HKC RECYCLING / BULKER CONVERTED TO CONTAINER SHIP |
-| 9,563 | BULKER | 585 | DELIVERED CHATTOGRAM / 150 MT ROB, INCLUDED IN THE SALE |
+|  | VESSEL NAME LDT / MT YEAR / BUILT |  | TYPE | PRICE | COMMENTS |
+|---|---|---|---|---|---|
+| MSC NICOLE | 13,961 | 1989 / FRANCE | CONTAINER | 521 | DELIVERED ALANG / HKC RECYCLING / BULKER CONVERTED TO CONTAINER SHIP |
+| JASMINE II | 9,563 | 1997 / CHINA | BULKER | 585 | DELIVERED CHATTOGRAM / 150 MT ROB, INCLUDED IN THE SALE |
 
 ## Star Asia Shipbroking (www.star-asia.com.sg)
 
@@ -353,9 +353,13 @@ EXCHANGE RATES
 
 Insight
 
-Iron ore prices continued to rise on Friday, despite concerns over China's fragile economy due to a surge in demand and a decrease in port inventories. The benchmark Australian iron ore fines 62% Fe rose by US$2.25/t to US$115/t C.F.R., following increases on the S.G.X. and D.C.E. platforms. Chinese banks' deposit rate cuts and expectations of economic stimuli contributed to the rise in demand. Additionally, inventory levels at ports decreased by 0.55 million tonnes to 126.2 million tonnes this week. The finished steel market also tightened as the cost of raw materials rose, pushing the quotes higher. However, China's National Bureau of Statistics reported a slump in producer prices, indicating a weak economy, despite optimism that government intervention would follow.
+**Iron ore prices continued to rise on Friday, despite concerns over China's fragile economy due to a surge**
 
-Crude oil prices declined due to concerns that a potential US-Iran nuclear agreement might result in increased oil supply. Media reports from the Middle East indicated progress in talks between Iran and the U.S. regarding Iran's nuclear program. If the 2015 nuclear deal is restored, sanctions that restricted Iranian oil exports could be lifted. Following the deal's termination by the Trump Administration, Iran's oil production dropped from 3.8mb/d to 2-2.5mb/d. This reaction underscores the prevailing pessimistic sentiment in the market, with the recent reduction in output by Saudi Arabia having a lesser impact..
+in demand and a decrease in port inventories. The benchmark Australian iron ore fines 62% Fe rose by US$2.25/t to US$115/t C.F.R., following increases on the S.G.X. and D.C.E. platforms. Chinese banks' deposit rate cuts and expectations of economic stimuli contributed to the rise in demand. Additionally, inventory levels at ports decreased by 0.55 million tonnes to 126.2 million tonnes this week. The finished steel market also tightened as the cost of raw materials rose, pushing the quotes higher. However, China's National Bureau of Statistics reported a slump in producer prices, indicating a weak economy, despite optimism that government intervention would follow.
+
+**Crude oil prices declined due to concerns that a potential US-Iran nuclear agreement might result in**
+
+increased oil supply. Media reports from the Middle East indicated progress in talks between Iran and the U.S. regarding Iran's nuclear program. If the 2015 nuclear deal is restored, sanctions that restricted Iranian oil exports could be lifted. Following the deal's termination by the Trump Administration, Iran's oil production dropped from 3.8mb/d to 2-2.5mb/d. This reaction underscores the prevailing pessimistic sentiment in the market, with the recent reduction in output by Saudi Arabia having a lesser impact..
 
 ## Star Asia Shipbroking (www.star-asia.com.sg)
 

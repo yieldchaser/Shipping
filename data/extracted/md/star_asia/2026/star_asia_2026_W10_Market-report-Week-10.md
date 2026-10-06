@@ -166,22 +166,22 @@ Following the closure of the Strait of Hormuz, SCFI index surged by 82 points, t
 
 ## Containers Values
 
-| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| (BY TEU) | GEARLESS | CONTRACT | DELIVERY | YEARS |
-| 900 ~ 1,200 | Geared | 24 | 27 | 10 |
-| 1,600 ~ 1,850 | Gearless | 31 | 36 | 18 |
-| 2,700 ~ 2,900 | Gearless | 44 | 46 | 26 |
-| 5,100 ~ 5,300 | Gearless | 55 | 79 | 39 |
-| *(amount in USD | million) | \ |  |  |
-|  |  | S&P | Containers |  |
-|  |  |  |  | / |
-| VESSEL NAME | SIZE | TEU | BUILT |  |
-|  |  |  |  |  |
-| HANSA FRESENBURG | FEEDER | 1,740 | CHINA | SHIP |
-| TRANSIMEX SUN | FEEDER | 1,060 | JAPAN | CO. LTD |
-| ASIATIC REUNION | FEEDER | 1,049 | S. KOREA |  |
+| CONTAINERS | GEARED / | NB |  | NB PROMPT |  |  | 15 |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
+| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
+| 900 ~ 1,200 | Geared | 24 |  | 27 | 21 | 16 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 |  | 36 | 29 (E) | 23 (E) | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 |  | 46 | 40 | 35 | 26 |
+| 5,100 ~ 5,300 | Gearless | 55 |  | 79 | 64 | - | 39 |
+| *(amount in USD | million) | \|=Ecounits |  |  |  |  |  |
+|  |  | S&P |  | Containers | Report |  |  |
+|  |  |  |  |  | PRICE | COMMENTS | / |
+| VESSEL NAME | SIZE | TEU | YEAR | BUILT |  |  |  |
+|  |  |  |  |  | (MILLION) | USD BUYERS |  |
+| HANSA FRESENBURG | FEEDER | 1,740 | 2013 | CHINA | 24.75 | GFS MANAGEMENT | SHIP |
+| TRANSIMEX SUN | FEEDER | 1,060 | 2009 | JAPAN | 15.5 | HAI AN | CO. LTD |
+| ASIATIC REUNION | FEEDER | 1,049 | 2008 | S. KOREA | 11.0 | UNDISCLOSED |  |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -255,17 +255,17 @@ Petroleum Corp, and Bharat Petroleum Corp. to ensure household availability for 
 
 Anchorage & Beaching Position (MARCH 2026)
 
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| --- | --- | --- | --- | --- |
-| BUZANSKIY | GENERAL CARGO | 1,760 | 04.03.2026 | AWAITING |
-| ANTAR | GENERAL CARGO | 3,675 | 25.02.2026 | AWAITING |
-| GHADA A | GENERAL CARGO | 2,240 | 28.02.2026 | 06.03.2026 |
-| MOKHIA | CONTAINER | 25,536 Chattogram | 25.02.2026 | 02.03.2026 |
-| Bangladesh has entered the overall market surge in high-profile nearing 20,000 LDT large LNG carrier to Despite these deliveries, major escalating coming weeks. Local offers, as Bangladesh rates in the sub-continent. backdrop, where the inflows this February | a quieter phase as remains deliveries, highlighted several smaller dry new recycling owners. the market is bracing in the Middle East recyclers currently see already maintains a Supporting this country celebrated a compared to the previous & Beaching | the observance remarkably steady. by the arrival of units, alongside for a potential is expected to no immediate leading position industrial stability significant 22% year. Position | of Ramadan This week featured a massive bulk the successful period of tightening; limit tonnage pressure to improve with the most is a robust increase in foreign (MARCH 2026) | begins, though a notable carrier handover of a the availability in the their competitive macroeconomic exchange |
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| QUARTZ | TANKER | 9,453 | 26.02.206 | AWAITING |
-| SIRRAH | BULKER | 7,071 | 15.02.2026 | AWAITING |
-| SAGE SAGITTARUS | BULKER | 19,943 | 25.02.2026 | 05.03.2026 |
+| VESSEL NAME |  | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
+| BUZANSKIY |  | GENERAL CARGO | 1,760 | 04.03.2026 | AWAITING |
+| ANTAR |  | GENERAL CARGO | 3,675 | 25.02.2026 | AWAITING |
+| GHADA A |  | GENERAL CARGO | 2,240 | 28.02.2026 | 06.03.2026 |
+| MOKHIA |  | CONTAINER | 25,536 Chattogram | 25.02.2026 | 02.03.2026 |
+| Bangladesh has entered the overall market surge in high-profile nearing 20,000 LDT large LNG carrier to Despite these deliveries, major escalating coming weeks. Local offers, as Bangladesh rates in the sub-continent. backdrop, where the inflows this February | sentiment and her conflict Anchorage | a quieter phase as remains deliveries, highlighted several smaller dry new recycling owners. the market is bracing in the Middle East recyclers currently see already maintains a Supporting this country celebrated a compared to the previous & Beaching | the observance remarkably steady. by the arrival of units, alongside for a potential is expected to no immediate leading position industrial stability significant 22% year. Position | of Ramadan This week featured a massive bulk the successful period of tightening; limit tonnage pressure to improve with the most is a robust increase in foreign (MARCH 2026) | begins, though a notable carrier handover of a the availability in the their competitive macroeconomic exchange |
+| VESSEL NAME |  | TYPE | LDT | ARRIVAL | BEACHING |
+| QUARTZ |  | TANKER | 9,453 | 26.02.206 | AWAITING |
+| SIRRAH |  | BULKER | 7,071 | 15.02.2026 | AWAITING |
+| SAGE SAGITTARUS |  | BULKER | 19,943 | 25.02.2026 | 05.03.2026 |
 
 ### Shipbroking (www.star-asia.com.sg)
 

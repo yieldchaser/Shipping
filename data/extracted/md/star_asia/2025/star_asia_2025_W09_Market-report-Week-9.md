@@ -102,13 +102,17 @@ MEG market closed with a slight downward trend as freight rates were adjusted do
 
 Clean:
 
-**LR:** LR2 in the MEG closed lower as supply and demand gradually stabilized due to ballasters from the Far East, with TC1 closing at WS120. In the LR1, rates hold similar to last for MEG routes with TC5 closing at WS137.
+**LR: LR2 in the MEG closed lower as supply and demand gradually stabilized due to**
+
+ballasters from the Far East, with TC1 closing at WS120. In the LR1, rates hold similar to last for MEG routes with TC5 closing at WS137.
 
 ### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
-**MR:** The Far East market closed lower as supply increased with reduced regional cargo movement and poor performance of larger vessel types. In the MEG, the outlook was optimistic as TC17 saw rates climb some 20 points to WS222.
+**MR: The Far East market closed lower as supply increased with reduced regional cargo**
+
+movement and poor performance of larger vessel types. In the MEG, the outlook was optimistic as TC17 saw rates climb some 20 points to WS222.
 
 ## Baltic Exchange Tanker Indices
 
@@ -344,13 +348,21 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The imported scrap market across the Sub-Continent remained sluggish this week, weighed down by weak demand, liquidity challenges, and economic uncertainties. Buyers in India, Pakistan, and Bangladesh largely stayed on the sidelines, while Turkey's market showed resilience despite slow finished steel sales.
 
-**India:** Weak sentiment and ample domestic supply kept India's scrap imports limited. UK/Europe-origin shredded was offered at US$375-380/ton CFR Nhava Sheva, while HMS 80:20 stood at US$350-355/ton CFR. A weakening rupee and port inventory pressures further dampened interest. Buyers expect a potential revival post-March, closely tracking Turkish scrap prices.
+**India: Weak sentiment and ample domestic supply kept India's scrap imports limited.**
 
-**Pakistan:** Liquidity constraints and subdued steel demand ahead of Ramadan pressured the market. Shredded scrap was offered at US$380-383/ton CFR Qasim, but deals were limited at US$375-380/ton CFR. UAE-origin scrap saw some interest due to shorter transit times.
+UK/Europe-origin shredded was offered at US$375-380/ton CFR Nhava Sheva, while HMS 80:20 stood at US$350-355/ton CFR. A weakening rupee and port inventory pressures further dampened interest. Buyers expect a potential revival post-March, closely tracking Turkish scrap prices.
 
-**Bangladesh:** High inventories and stalled government projects kept Bangladesh's scrap market subdued. European shredded was offered at US$385-388/ton CFR Chattogram, but bids remained lower at US$374-375/ton CFR. Steel demand remains weak, with major projects delayed and rebar prices at BDT 85,000-86,000/ton (US$700-708/ton) ex-works.
+**Pakistan: Liquidity constraints and subdued steel demand ahead of Ramadan pressured**
 
-**Turkey:** The Turkish scrap market held firm despite sluggish steel sales. US-origin bulk HMS 80:20 was assessed at US$361/ton CFR, down US$2/ton. EU-origin deals were reported at US$363/ton CFR. Sellers remained firm amid tight supply, with expectations of further US price hikes in March. Market participants across regions remain cautious, with hopes for a recovery post- Ramadan and closely monitoring global scrap price trends.
+the market. Shredded scrap was offered at US$380-383/ton CFR Qasim, but deals were limited at US$375-380/ton CFR. UAE-origin scrap saw some interest due to shorter transit times.
+
+**Bangladesh: High inventories and stalled government projects kept Bangladesh's scrap**
+
+market subdued. European shredded was offered at US$385-388/ton CFR Chattogram, but bids remained lower at US$374-375/ton CFR. Steel demand remains weak, with major projects delayed and rebar prices at BDT 85,000-86,000/ton (US$700-708/ton) ex-works.
+
+**Turkey: The Turkish scrap market held firm despite sluggish steel sales. US-origin bulk**
+
+HMS 80:20 was assessed at US$361/ton CFR, down US$2/ton. EU-origin deals were reported at US$363/ton CFR. Sellers remained firm amid tight supply, with expectations of further US price hikes in March. Market participants across regions remain cautious, with hopes for a recovery post- Ramadan and closely monitoring global scrap price trends.
 
 ### Shipbroking (www.star-asia.com.sg)
 

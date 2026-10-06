@@ -276,7 +276,9 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent and Turkish ferrous scrap market experienced a downtrend this week due to a lack of buying interest across various markets. In India, buyers largely stayed on the sidelines, influenced by a continuous fall in the domestic steel market and a persistent bid-offer disparity. Pakistani buyers showed slight interest, procuring scrap on an as-needed basis, while Bangladeshi buyers adopted a wait-and-see approach, anticipating price drops amid higher offers. In India, the demand for imported scrap remained weak, attributed to a continual drop in domestic steel demand and prices. This led to lower scrap intake and a persistent disparity between bids and offers. Indicative offers for shredded scrap from the US and UK/Europe were at US$410-415/t CFR Nhava Sheva, while bids were around US$400-405/t CFR. Offers for HMS (80:20) from West Africa and UK/Europe were US$385-395/t, with buyers aiming for US$375-380/t CFR.
 
-Pakistani buyers displayed interest in seaborne scrap, though the pace remained slow due to a sluggish domestic steel market. Indicative offers for shredded scrap from the UK/Europe were assessed at US$425-430/t CFR Qasim, with a few deals in the last 2-3 days concluded at US$422-425/t CFR. Domestic traders were seen talking about the corrections in domestic scrap and rebar prices. The current market rate was PKR 258,000-260,000, but mills kept their official rate
+**Pakistani buyers displayed interest in seaborne scrap, though the pace remained slow**
+
+due to a sluggish domestic steel market. Indicative offers for shredded scrap from the UK/Europe were assessed at US$425-430/t CFR Qasim, with a few deals in the last 2-3 days concluded at US$422-425/t CFR. Domestic traders were seen talking about the corrections in domestic scrap and rebar prices. The current market rate was PKR 258,000-260,000, but mills kept their official rate
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -294,7 +296,9 @@ higher by PKR 5,000/t. Production costs were not under control for normal or mid
 
 This week, the anticipation of easing monetary policy significantly bolstered sentiment across the commodity complex. Additionally, a weaker USD has heightened investor appetite, further driving positive market trends.
 
-Copper led the decline in the base metal sector this week, as rising inventories continued to weigh on market sentiment. Stockpiles of copper held in LME warehouses surged by 5.8% on Thursday, reaching their highest level since October 2021. Nickel also experienced a downturn despite news of BHP's decision to shut its Western Australia nickel operations. The business has become uneconomic due to low prices, despite its crucial role in the growing EV battery sector. This closure follows similar moves by other nickel producers in Western Australia amid an oversupply of the metal. These developments emphasise the ongoing challenges in the base metals market, as rising inventories and price pressures impact key sectors.
+**Copper led the decline in the base metal sector this week, as rising inventories continued**
+
+to weigh on market sentiment. Stockpiles of copper held in LME warehouses surged by 5.8% on Thursday, reaching their highest level since October 2021. Nickel also experienced a downturn despite news of BHP's decision to shut its Western Australia nickel operations. The business has become uneconomic due to low prices, despite its crucial role in the growing EV battery sector. This closure follows similar moves by other nickel producers in Western Australia amid an oversupply of the metal. These developments emphasise the ongoing challenges in the base metals market, as rising inventories and price pressures impact key sectors.
 
 **Iron ore fines (Fe 62%) spot prices fell by US$4.10/t day-over-day to US$105.50/t CFR**
 

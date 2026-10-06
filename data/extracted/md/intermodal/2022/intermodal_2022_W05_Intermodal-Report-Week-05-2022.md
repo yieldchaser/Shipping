@@ -63,10 +63,11 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | BELLA CIAIO | 2020 | 156,586 dwt |  |  |
-| 24 mos | NORDIC BASEL | 2008 | 73,666 dwt |  |  |
+| 12 mos | BELLA CIAIO | 2020 | 156,586 dwt | $20,000/day | Heidmar |
+| 24 mos | NORDIC BASEL | 2008 | 73,666 dwt | $15,650/day | International Seawa |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 4/Feb/21 | 70 | 80 | 80 |
@@ -84,6 +85,7 @@ Shanghai 200122 China
 | 4/Feb/22 | 70 | 80 | 100 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 4/Feb/21 | 100 | 100 | 100 | 100 |
@@ -161,11 +163,12 @@ In the MR2 sector we had sale of the "STI DUCHESSA" (49,990dwt-bl't '14, S. Kore
 | BHSI | 990 | $17,819 | 1,011 | $18,198 | -21 | -2.1% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | MODEST | 2012 | 76,483 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 to 6 mos | MODEST | 2012 | 76,483 dwt | Keelung 10 Feb | $21,500/day | Klaveness |
 
 ## TC Rates
+
 | Sector | Tenor | 04/02/2022 | 28/01/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 20,500 | 22,000 | -6.8% | -1,500 | 32,684 | 15,361 |
@@ -182,6 +185,7 @@ In the MR2 sector we had sale of the "STI DUCHESSA" (49,990dwt-bl't '14, S. Kore
 |  | **32K 3yr TC** | 13,250 | 13,000 | **1.9%** | **250** | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 4/Feb/21 | 1,500 | 1,600 | 1,700 | 1,400 | 1,550 |
@@ -199,6 +203,7 @@ In the MR2 sector we had sale of the "STI DUCHESSA" (49,990dwt-bl't '14, S. Kore
 | 4/Feb/22 | 1,600 | 1,650 | 1,700 | 1,500 | 1,550 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 4/Feb/21 | 15,000 | 16,000 | 17,000 | 14,000 |
@@ -249,6 +254,7 @@ In the Handysize sector we had the auction sale of the "MARINE PRINCESS" (35,501
 # Intermodal Secondhand Sales
 
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | ATHENIAN SUCCESS | 298,996 | 2010 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Jan-25 | DH | $ 42.5m | S. Korean (Sinokor) |  |
@@ -272,6 +278,7 @@ In the Handysize sector we had the auction sale of the "MARINE PRINCESS" (35,501
 | SMALL | INA | 17,100 | 2012 | TAIZHOU SANFU, China | MAN-B\&amp;W | Jun-22 | 3 X 30t CRANES | low $ 10.0m | undisclosed |  |
 
 ## Containers
+
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ALPASLAN OBA | 35,015 | 2004 | KOUAN SHIPBUILDING, China | Sulzer | Jan-27 | 4 X 35t CRANES | $ 22.0m | Singaporean | 1,878 TEU |
@@ -282,6 +289,7 @@ In the Handysize sector we had the auction sale of the "MARINE PRINCESS" (35,501
 
 # Intermodal Secondhand Sales
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | BALTIC BRIDGE | 7,471 | 2005 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-25 |  |  |  |  |
@@ -370,6 +378,7 @@ January ended with the container units having the lions 'share of the 2022 order
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 04/02/2022 | 28/01/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -400,8 +409,8 @@ The rally in demo values continued this past week, with Indian subcontinent buye
 | 4/Dec/21 | 615 | 590 | 605 | 330 |
 | 4/Jan/22 | 610 | 585 | 600 | 340 |
 | 4/Feb/22 | 620 | 595 | 610 | 345 |
-
 ## Indicative Demolition Prices ($/ldt)
+
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NEW INSPIRATION | 298,399 | 40,737 | 2002 | HITACHI ZOSEN, Japan | TANKER | $ 660/Ldt | Pakistani |  |

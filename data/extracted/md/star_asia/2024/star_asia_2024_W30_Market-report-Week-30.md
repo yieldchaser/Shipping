@@ -140,22 +140,22 @@ LR: MEG/ Far East route continues to face dual challenges: an increase in availa
 
 # Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
-| --- | --- | --- | --- | --- | --- | --- |
-| VLCC | 310,000 | 47,500 | 47,500 | 38,000 | 0 | +25.00% |
-| SUEZMAX | 150,000 | 41,000 | 43,500 | 40,000 | -5.75% | +2.50% |
-| AFRAMAX | 110,000 | 45,000 | 45,000 | 40,000 | 0 | +12.50% |
-| LR1 | 74,000 | 37,000 | 37,000 | 29,250 | 0 | +26.50% |
-| MR | 47,000 | 30,000 | 30,000 | 24,000 | 0 | +25.00% |
-|  |  |  | Tankers S&P | Report |  |  |
-| VESSEL | NAME | DWT | YEAR | BUILT | PRICE | COMMENTS / |
-|  |  |  |  | (MILLION) | USD | BUYERS |
-| SEAQUEEN |  | 115,639 | 2004 | S. KOREA | 30.0 | UNDISCLOSED |
-| HAFNIA | THAMES | 76,586 | 2008 | CHINA | 28.0 | DYNACOM |
-| NAVE | EQUATOR | 49,999 | 2009 | S. KOREA | 26.0 INDONESIAN | BUYERS |
-| QUARTZ / BERYL SILVER MONIKA SILVER EMILY SILVER AMANDA SILVER CARLA SILVER HAGUE SILVER | / / / / / / ROTTERDAM | 49,990 49,680 | ~ 2015 ~ 2014 | S. KOREA 340.0 | EN BLOC | TORM |
-| NCC | TABUK | 45,963 | 2006 | S. KOREA | 22.0 | UNDISCLOSED |
-| KANG YUN |  | 43,407 | 1992 | TAIWAN | 4.75 | UNDISCLOSED |
+| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
+|---|---|---|---|---|---|---|---|
+| VLCC | 310,000 |  | 47,500 | 47,500 | 38,000 | 0 | +25.00% |
+| SUEZMAX | 150,000 |  | 41,000 | 43,500 | 40,000 | -5.75% | +2.50% |
+| AFRAMAX | 110,000 |  | 45,000 | 45,000 | 40,000 | 0 | +12.50% |
+| LR1 | 74,000 |  | 37,000 | 37,000 | 29,250 | 0 | +26.50% |
+| MR | 47,000 |  | 30,000 | 30,000 | 24,000 | 0 | +25.00% |
+|  |  |  |  | Tankers S&P | Report |  |  |
+| VESSEL | NAME | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS / |
+|  |  |  |  |  | (MILLION) | USD | BUYERS |
+| SEAQUEEN |  | AFRA | 115,639 | 2004 | S. KOREA | 30.0 | UNDISCLOSED |
+| HAFNIA | THAMES | LR1 | 76,586 | 2008 | CHINA | 28.0 | DYNACOM |
+| NAVE | EQUATOR | MR | 49,999 | 2009 | S. KOREA | 26.0 INDONESIAN | BUYERS |
+| QUARTZ / BERYL SILVER MONIKA SILVER EMILY SILVER AMANDA SILVER CARLA SILVER HAGUE SILVER | / / / / / / ROTTERDAM | MR | 49,990 49,680 | ~ 2015 ~ 2014 | S. KOREA 340.0 | EN BLOC | TORM |
+| NCC | TABUK | MR | 45,963 | 2006 | S. KOREA | 22.0 | UNDISCLOSED |
+| KANG YUN |  | MR | 43,407 | 1992 | TAIWAN | 4.75 | UNDISCLOSED |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -300,7 +300,9 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent imported ferrous scrap market saw range-bound activity this week. Indian buyers largely remained inactive due to unviable price levels, turning to domestic scrap instead. In Pakistan, demand for imported scrap was moderate with limited inquiries, influenced by a slowdown in the domestic steel market. Bangladesh's scrap demand was affected by partial network connectivity issues, hampering supplier connections.
 
-Indian buyers showed inactivity in the imported scrap market due to current price levels being unfeasible. They preferred domestic scrap for its cost-effectiveness. Indicative offers for shredded scrap from the US and UK/Europe were reported at US$410-415 per
+**Indian buyers showed inactivity in the imported scrap market due to current price levels**
+
+being unfeasible. They preferred domestic scrap for its cost-effectiveness. Indicative offers for shredded scrap from the US and UK/Europe were reported at US$410-415 per
 
 EXCHANGE RATES
 
@@ -318,9 +320,13 @@ EXCHANGE RATES
 
 ton CFR Nhava Sheva, with no bids at these prices. HMS (80:20) offers from West Africa and UK/Europe were assessed at $385-395 per ton CFR. In Pakistan, the demand for imported scrap was moderate, with limited inquiries amidst a slowdown in the domestic steel market. This was due to squeezed margins and delayed payments. Indicative offers for shredded scrap from the UK/Europe were assessed at US$425-430 per ton CFR, while offers from the UAE were at US$435-440 per ton CFR.
 
-Bangladesh's demand for imported scrap was impacted by partial network connectivity issues, limiting supplier connections. Market participants reported that limited internet access hindered interactions. A couple of offers from the US were received at US$410 per ton CFR for HMS containers and US$415 per ton CFR from Australia. Shredded scrap from Australia was offered at US$430-435 per ton CFR, but buyers showed interest only at US$425-427 per ton CFR. PNS offers from Malaysia and Hong Kong were at US$448-450 per ton CFR, with little interest from Dhaka mills.
+**Bangladesh's demand for imported scrap was impacted by partial network connectivity**
 
-Turkish deep-sea imported ferrous scrap prices remained range-bound with a bearish near-term outlook due to a weak global finished steel market. Offers for HMS (80:20) scrap from the US were heard at US$389 per ton CFR. The bearish sentiment was driven by weak demand for Turkish finished steel, both domestically and for export, and a recent decline in billet prices, an alternative input for rebar production. Turkish mills have imported a significant amount of billets, impacting demand for September scrap shipments. EU recyclers' holidays and low scrap supply kept prices firm, counterbalanced by lack of demand.
+issues, limiting supplier connections. Market participants reported that limited internet access hindered interactions. A couple of offers from the US were received at US$410 per ton CFR for HMS containers and US$415 per ton CFR from Australia. Shredded scrap from Australia was offered at US$430-435 per ton CFR, but buyers showed interest only at US$425-427 per ton CFR. PNS offers from Malaysia and Hong Kong were at US$448-450 per ton CFR, with little interest from Dhaka mills.
+
+**Turkish deep-sea imported ferrous scrap prices remained range-bound with a bearish**
+
+near-term outlook due to a weak global finished steel market. Offers for HMS (80:20) scrap from the US were heard at US$389 per ton CFR. The bearish sentiment was driven by weak demand for Turkish finished steel, both domestically and for export, and a recent decline in billet prices, an alternative input for rebar production. Turkish mills have imported a significant amount of billets, impacting demand for September scrap shipments. EU recyclers' holidays and low scrap supply kept prices firm, counterbalanced by lack of demand.
 
 # HMS 1/2 & Tangshan Billet
 
@@ -334,9 +340,13 @@ Turkish deep-sea imported ferrous scrap prices remained range-bound with a beari
 
 China's recent policy meeting and robust supply conditions. The Third Plenum, a significant gathering of Communist Party officials, failed to introduce major stimulus measures or address the property crisis, leaving investors underwhelmed. This year has seen iron ore prices plummet by over 25%, making it one of the worstperforming major commodities. The global seaborne market is experiencing a surplus, evidenced by swelling stockpiles at ports. Analysts attribute the price decline to weak steel product demand and the absence of unexpected policy measures from China. The price drop has significantly impacted mining companies' stock values, with Australia's BHP Group Ltd. reaching its lowest share price since November 2022. This downturn is further exacerbated by a selloff in copper markets. Iron ore futures also fell amid persistent concerns over demand. Steel inventories at Chinese mills increased by 5.84% to 16.3 million tons in mid-July compared to early June, according to data from the China Iron & Steel Association. This rise underscores the ongoing weakness in the steel market, driven by a slump in construction activity within the Chinese property sector.
 
-Copper prices fell below USD 9000/t during the Asian session amid increasing pessimism regarding the demand outlook. After reaching a record high in May, prices have steadily declined. The selling intensified following the Third Plenum in China, as the market was disappointed by the lack of policy measures to counteract weakening economic growth. Former bullish investors have been forced to close their positions, pushing copper into oversold territory. However, prices rallied late in the session after better-than-expected economic data was released in the US.
+**Copper prices fell below USD 9000/t during the Asian session amid increasing pessimism**
 
-Aluminum found some support following the release of China's new emissions reduction plan, which may lead to smelter capacity cuts. According to the plan, smelters must meet baseline efficiency levels by 2025 or face closure. This support was short-lived, however, with prices dropping sharply near the close of the session.
+regarding the demand outlook. After reaching a record high in May, prices have steadily declined. The selling intensified following the Third Plenum in China, as the market was disappointed by the lack of policy measures to counteract weakening economic growth. Former bullish investors have been forced to close their positions, pushing copper into oversold territory. However, prices rallied late in the session after better-than-expected economic data was released in the US.
+
+**Aluminum found some support following the release of China's new emissions reduction**
+
+plan, which may lead to smelter capacity cuts. According to the plan, smelters must meet baseline efficiency levels by 2025 or face closure. This support was short-lived, however, with prices dropping sharply near the close of the session.
 
 ## Shipbroking (www.star-asia.com.sg)
 

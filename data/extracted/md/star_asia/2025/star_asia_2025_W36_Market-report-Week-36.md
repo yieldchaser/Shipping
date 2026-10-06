@@ -112,9 +112,13 @@ In the MEG, rates fell this week as some short-haul demand shifted to the larger
 
 Clean:
 
-**LR:** LR2s in the MEG, rates rose this week as owner's market continued due to a decrease in available vessels. TC1 to Japan ended the week 30 points higher to WS156. For the LR1s, UKC route saw a slight uptick too as TC16 ended the week at WS119.
+**LR: LR2s in the MEG, rates rose this week as owner's market continued due to a decrease**
 
-**MR:** After an eventful week in the MRs where rate fluctuates, MEG ended the week at WS215 for East Africa routes. In the UKC, rates remain mostly stable as TC2 ended the week at WS116.
+in available vessels. TC1 to Japan ended the week 30 points higher to WS156. For the LR1s, UKC route saw a slight uptick too as TC16 ended the week at WS119.
+
+**MR: After an eventful week in the MRs where rate fluctuates, MEG ended the week at**
+
+WS215 for East Africa routes. In the UKC, rates remain mostly stable as TC2 ended the week at WS116.
 
 ## Baltic Exchange Tanker Indices
 
@@ -311,7 +315,9 @@ In India, the market for imported scrap remained largely stable but at low level
 
 ## Page 16
 
-Pakistan's market faced similar headwinds, with prices pressured by sluggish finished steel sales and ample scrap inventories at the mills. Activity was further constrained by flood-related disruptions and the recent Eid holiday, leading buyers to target lower price levels of around US$370-375 per ton. In Bangladesh, the scrap import market remained under significant pressure, compounded by ongoing political uncertainty and challenges with US dollar availability for transactions. This cautious environment was reflected in a wide bid-ask spread, with offers for UK shredded scrap at US$375 per ton against bids closer to US$360. Local mills are limiting their purchases, navigating both the subdued demand and the challenging economic landscape. The Turkish deep-sea scrap market was also quiet, with prices holding steady dayover-day due to a lack of significant trading. Subdued domestic consumption of finished steel products, particularly rebar, has dampened the appetite for imported scrap. US and Baltic-origin HMS 80:20 was reported in the US$340-345 per ton CFR range. Market sentiment remains weak, as high freight costs from the US and softening domestic rebar prices continue to squeeze margins, leaving importers cautious about the market's nearterm direction.
+**Pakistan's market faced similar headwinds, with prices pressured by sluggish finished**
+
+steel sales and ample scrap inventories at the mills. Activity was further constrained by flood-related disruptions and the recent Eid holiday, leading buyers to target lower price levels of around US$370-375 per ton. In Bangladesh, the scrap import market remained under significant pressure, compounded by ongoing political uncertainty and challenges with US dollar availability for transactions. This cautious environment was reflected in a wide bid-ask spread, with offers for UK shredded scrap at US$375 per ton against bids closer to US$360. Local mills are limiting their purchases, navigating both the subdued demand and the challenging economic landscape. The Turkish deep-sea scrap market was also quiet, with prices holding steady dayover-day due to a lack of significant trading. Subdued domestic consumption of finished steel products, particularly rebar, has dampened the appetite for imported scrap. US and Baltic-origin HMS 80:20 was reported in the US$340-345 per ton CFR range. Market sentiment remains weak, as high freight costs from the US and softening domestic rebar prices continue to squeeze margins, leaving importers cautious about the market's nearterm direction.
 
 ## HMS 1/2 & Tangshan
 
@@ -327,7 +333,9 @@ The iron ore market concluded the week on a firm note, posting its second consec
 
 steel complex helped lift iron ore futures, with steel benchmarks in Shanghai for products like rebar and hot-rolled coil also climbing in response to the higher input costs.
 
-Copper prices slipped over the week, dragged lower by fresh concerns about Chinese demand. Sentiment soured after BYD, the world's largest electric vehicle manufacturer, cut its full-year sales target. The automaker now expects to deliver 4.6 million units in 2024, a 16% reduction from its earlier goal of 5.5 million, citing fierce competition in its home market. The downgrade matters because Chinese EV growth has been a crucial driver of demand for copper and other battery metals in recent years. Still, the market's losses were cushioned by persistent supply-side constraints. Chilean state miner Codelco warned that national copper output could stagnate around 5.5 million tonnes annually, as operational challenges weigh on production. The push and pull between softer demand signals and tightening supply left copper trading lower, but with limited downside.
+**Copper prices slipped over the week, dragged lower by fresh concerns about Chinese**
+
+demand. Sentiment soured after BYD, the world's largest electric vehicle manufacturer, cut its full-year sales target. The automaker now expects to deliver 4.6 million units in 2024, a 16% reduction from its earlier goal of 5.5 million, citing fierce competition in its home market. The downgrade matters because Chinese EV growth has been a crucial driver of demand for copper and other battery metals in recent years. Still, the market's losses were cushioned by persistent supply-side constraints. Chilean state miner Codelco warned that national copper output could stagnate around 5.5 million tonnes annually, as operational challenges weigh on production. The push and pull between softer demand signals and tightening supply left copper trading lower, but with limited downside.
 
 ### Shipbroking (www.star-asia.com.sg)
 

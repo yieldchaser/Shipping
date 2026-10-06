@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 *By George Vitsos, Offshore Broker*
 
@@ -22,9 +24,9 @@ Despite the global shift toward energy transition, the MEG is set to remain cent
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | Levantine Sea | 2018 | 114,218 dwt |  |  |
-
+| 12 mos | Levantine Sea | 2018 | 114,218 dwt | $32,500/day | Saudi Aramco |
 ## Spot Rates
+
 | Sector | Size | Routes | 16/05/2025 WS points | 16/05/2025 $/day | 09/05/2025 WS points | 09/05/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 65 | 47,765 | 60 | 42,739 | **11.8%** | 37,255 | 39,466 |
@@ -96,8 +98,8 @@ The Aframax segment mirrored the soft tone of the previous week. In Asia, demand
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 3 to 5 mos | YM Delight | 2025 | 83,000 dwt |  |  |
-| 12 mos | Europa Graeca | 2019 | 82,043 dwt |  |  |
+| 3 to 5 mos | YM Delight | 2025 | 83,000 dwt | $14,500/day | cnr |
+| 12 mos | Europa Graeca | 2019 | 82,043 dwt | $13,250/day | NYK |
 
 ## TC Rates
 | Sector | Tenor | 16/05/2025 | 09/05/2025 | ±% | Diff | 2024 | 2023 |
@@ -112,6 +114,7 @@ The Aframax segment mirrored the soft tone of the previous week. In Asia, demand
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 16/May/24 | 2500 | 1800 | 1200 | 800 | 1800 |
@@ -129,6 +132,7 @@ The Aframax segment mirrored the soft tone of the previous week. In Asia, demand
 | 16/May/25 | 1700 | 1000 | 500 | 200 | 1000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 16/May/24 | 20000 | 12000 | 10000 | 8000 |
@@ -228,6 +232,7 @@ MPP and Gas segments witnessed activity as well with Chinese groups placing orde
 
 The ship recycling market remained generally subdued this week, characterized by low demand and a limited supply of fresh tonnage. While a recent ceasefire between India and Pakistan offered a degree of respite, underlying market fragilities and the approaching enforcement of the HKC continue to foster uncertainty among participants. Discussions at the prior week's Responsible Ship Recycling Forum in London underscored the imperative of harmonizing the HKC with the Basel Convention to avert future legal ambiguities concerning the management of end-of-life vessels. India's ship recycling landscape exhibited little change from the previous week, with limited activity stemming from a constrained supply of end-of-life vessels and no immediate prospect of recovery. Market sentiment remained cautious, influenced by weak demand, tight liquidity, and a scarcity of new candidates for dismantling. The domestic steel market also persisted in its sluggish trajectory, impacted by low demand and reduced governmental expenditure on infrastructure projects. On the trade front, ongoing discussions with USA aim to establish a mutually beneficial agreement. In Bangladesh, the recycling market remained stagnant, hampered by regulatory uncertainties and restrictions on vessel imports due to non-issuance of NOCs for yards not yet HKC-compliant. This situation is stifling market momentum, with limited interest in new acquisitions prevailing amidst these constraints. Progress on the issuance of provisional HKC certificates remains stalled as the convention's implementation draws nearer. Economically, Bangladesh faces significant headwinds, including liquidity constraints and a slowing GDP growth. The IMF recently extended \$1.3 billion in financial support, with the government requesting an additional \$762 million to address these challenges. In Pakistan, the market conditions are mirroring the subdued regional trend. The ship recycling market is largely at a standstill, with the primary focus centered on the progress of shipyards in achieving HKC compliance ahead of the June enforcement headline. The domestic steel market is quiet, with market participants adopting a cautious stance due to limited available funds and weak demand. Anticipation is building for the national budget announcement on June 2nd, with market expectations of potential increases in infrastructure investment. In Turkey, the ship recycling market maintained the status quo of the previous week. Nevertheless, a consistent influx of fresh candidate vessels offers an encouraging prospect for a potential market upturn in the near future. The central bank's recent decision to increase the costs associated with banks holding foreign currency assets (non-lira) suggests a deliberate policy measure aimed at moderating the domestic demand for foreign exchange.
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 16/05/2025 | 09/05/2025 | ±% | YTD High | YTD Low | 2024 | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -242,6 +247,7 @@ The ship recycling market remained generally subdued this week, characterized by
 | Turkey | 260 | 260 | 0.0% | 310 | 260 | 337 | 315 | 304 |
 
 ## Currencies
+
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 121.50 | 121.50 | 0.0% | 121.99 |
@@ -250,6 +256,7 @@ The ship recycling market remained generally subdued this week, characterized by
 | USD/TRY | 38.85 | 38.76 | 0.2% | 38.85 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ASMAA | 45,228 | 7,616 | 1994 | SHIN KURUSHIMA, Japan | BC | $438/Ldt | Indian |  |

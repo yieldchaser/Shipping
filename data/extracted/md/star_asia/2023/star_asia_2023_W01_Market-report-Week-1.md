@@ -152,12 +152,12 @@ CURRENT BDTI 1,391 BCTI 1,068
 
 (MILLION) USD
 
-| DWT | YEAR | BUILT | COMMENTS / BUYERS |
-| --- | --- | --- | --- |
-| 306,507 | 2007 | S. KOREA | UNDISCLOSED |
-| 298,078 | 2008 | JAPAN | UNDISCLOSED |
-| 151,736 | 2003 | S. KOREA | UNDISCLOSED |
-| 150,581 | 2004 | JAPAN | UNDISCLOSED |
+| DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
+|---|---|---|---|---|
+| 306,507 | 2007 | S. KOREA | 57.0 | UNDISCLOSED |
+| 298,078 | 2008 | JAPAN | 55.0 | UNDISCLOSED |
+| 151,736 | 2003 | S. KOREA | 30.5 | UNDISCLOSED |
+| 150,581 | 2004 | JAPAN | 33.5 | UNDISCLOSED |
 
 #### Tankers Values
 
@@ -173,11 +173,11 @@ CURRENT BDTI 1,391 BCTI 1,068
 
 #### Baltic Exchange Tanker Indices
 
-| BALTIC | EXCHANGE TANKER | INDICES |
-| --- | --- | --- |
-| LAST WEEK | LAST YEAR | W-O-W CHANGE % |
-| 1,873 | 705 | -25.73 |
-| 2,135 | 627 | -49.98 |
+| BALTIC | EXCHANGE TANKER | INDICES |  |
+|---|---|---|---|
+| LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| 1,873 | 705 | -25.73 | +97.30 |
+| 2,135 | 627 | -49.98 | +70.33 |
 
 ## Page 7
 

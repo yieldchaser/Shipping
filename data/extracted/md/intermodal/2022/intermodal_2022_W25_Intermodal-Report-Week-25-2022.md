@@ -59,6 +59,7 @@ Shanghai 200122 China
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 50 | -12,291 | 46 | -16,026 | 23.3% | 2,246 | 52,119 |
@@ -74,14 +75,14 @@ Shanghai 200122 China
 |  | 75k | MEG-JAPAN | 280 | 48,793 | 300 | 56,122 | -13.1% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 349 | 50,017 | 379 | 57,896 | -13.6% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 353 | 32,478 | 357 | 32,405 | 0.2% | 4,496 | 12,977 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 60 mos | BAHLA | 2020 | 299,997 dwt |  |  |
-| 6 mos | SWARNA KAVERI | 2010 | 73,669 dwt |  |  |
-
+| 60 mos | BAHLA | 2020 | 299,997 dwt | $35,000/day | Trafigura BV |
+| 6 mos | SWARNA KAVERI | 2010 | 73,669 dwt | $21,000/day | ST Shipping |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points |
@@ -98,8 +99,8 @@ Shanghai 200122 China
 | 24/Apr/22 | 100 | 280 | 220 |
 | 24/May/22 | 80 | 150 | 160 |
 | 24/Jun/22 | 70 | 140 | 150 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 24/Jun/21 | 100 | 100 | 100 | 100 |
@@ -115,8 +116,8 @@ Shanghai 200122 China
 | 24/Apr/22 | 400 | 400 | 400 | 400 |
 | 24/May/22 | 350 | 350 | 350 | 350 |
 | 24/Jun/22 | 300 | 300 | 300 | 450 |
-
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 25,684 | 42,038 |
@@ -131,8 +132,8 @@ Shanghai 200122 China
 |  | 52k 3yr TC | 15,000 | 15,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | 36k 1yr TC | 21,750 | 16,250 | 33.8% | 5500 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 16,000 | 12,250 | 30.6% | 3750 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Jun-22 avg | May-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 76.0 | 75.8 | 0.3% | 69.7 | 71.5 | 72.1 |
@@ -173,12 +174,13 @@ In the MR2 sector we had the sale of the "DAISY M" (50,319dwt-blt '08, China), w
 | BHSI | 1,334 | $24,009 | 1,343 | $24,169 | -9 | -0.7% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | KM SINGAPORE | 2013 | 80,559 dwt |  |  |
-| 11-13 mos | BUNUN WISDOM | 2012 | 38,168 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | KM SINGAPORE | 2013 | 80,559 dwt | Zhoushan 26/30 Jun | $25,000/day | Tongli |
+| 11-13 mos | BUNUN WISDOM | 2012 | 38,168 dwt | Daesan prompt |  | 105% BHSI |
 
 ## TC Rates
+
 | Sector | Tenor | 24/06/2022 | 17/06/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 30,250 | 35,250 | -14.2% | -5,000 | 32,684 | 15,361 |
@@ -195,6 +197,7 @@ In the MR2 sector we had the sale of the "DAISY M" (50,319dwt-blt '08, China), w
 |  | **32K 3yr TC** | 13,500 | 14,250 | -5.3% | -750 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 24/Jun/21 | 3800 | 3700 | 3000 | 1700 | 3500 |
@@ -212,6 +215,7 @@ In the MR2 sector we had the sale of the "DAISY M" (50,319dwt-blt '08, China), w
 | 24/Jun/22 | 2900 | 2800 | 2700 | 1600 | 2800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 24/Jun/21 | 30000 | 32000 | 31000 | 28000 |
@@ -261,6 +265,7 @@ In the Handysize sector we had the sale of the "EVA BULKER" (38,140dwt-blt '12, 
 
  Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | HUNTER FREYA | 299,995 | 2020 | DAEWOO, S. Korea | MAN-B\&amp;W | Mar-25 | DH | $ 95.5m | undisclosed |  |
@@ -276,8 +281,8 @@ In the Handysize sector we had the sale of the "EVA BULKER" (38,140dwt-blt '12, 
 | SMALL | MAERSK BORNEO | 29,013 | 2007 | GUANGZHOU, China | MAN-B\&amp;W | Apr-25 | DH | $ 11.8m | undisclosed |  |
 | SMALL | CELIUS MESSINA | 20,896 | 2007 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Jul-22 | DH | $ 13.0m | Chinese | StSt |
 | SMALL | FSL LONDON | 19,966 | 2006 | USUKI, Japan | MAN-B\&amp;W | Sep-26 | DH | $ 12.0m | Chinese | StSt |
-
 ## Bulk Carriers
+
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NMAX | HANS OLDENDORFF | 209,190 | 2017 | TAIZHOU CATIC, China | MAN-B&amp;W | Aug-22 |  | $ 53.0m | undisclosed | scrubber fitted, TC back |
@@ -294,6 +299,7 @@ In the Handysize sector we had the sale of the "EVA BULKER" (38,140dwt-blt '12, 
 
 # Intermodal <u>Secondhand Sales</u>
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | EASTAWAY MALMSEY | 3,421 | 2011 | RONGCHENG SHENFEI, China | Wartsila | Feb-27 | 3 X 45t CRANES, 1 X 35t CRANES | $ 65.0m | UAE based (Safeen Feeders) |  |
@@ -384,6 +390,7 @@ Last week, the newbuilding sector recorded a strong level of activity across mos
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | Markets | 24/06/2022 | 17/06/2022 | ±% | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |

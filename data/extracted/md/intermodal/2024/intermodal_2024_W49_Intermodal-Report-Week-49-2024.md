@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Nikos Tagoulis, Research Analyst**
 
@@ -17,6 +19,7 @@ Looking ahead, the global LNG market is set to experience a significant influx o
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 06/12/24 WS points | 06/12/24 $/day | 29/11/24 WS points | 29/11/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 44 | 23,550 | 46 | 26,353 | -10.6% | 39,466 | 20,330 |
@@ -36,12 +39,12 @@ Looking ahead, the global LNG market is set to experience a significant influx o
 |  | 50k | ARA-UKC | 150 | 13,108 | 179 | 19,789 | -33.8% | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 7 mos | P.ALIKI | 2010 | 105,304 dwt |  |  |
-| 12 mos | PROTEUS INGRID | 2023 | 109,999 dwt |  |  |
-
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 7 mos | P.ALIKI | 2010 | 105,304 dwt | DELY WEST DEC/24 | $33,500/day | Exxon-Mobil |
+| 12 mos | PROTEUS INGRID | 2023 | 109,999 dwt | DELY WEST NOV/24 | $35,000/day | AET |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 6/Dec/23 | 120 | 120 | 120 |
@@ -57,8 +60,8 @@ Looking ahead, the global LNG market is set to experience a significant influx o
 | 6/Oct/24 | 70 | 120 | 200 |
 | 6/Nov/24 | 70 | 120 | 150 |
 | 6/Dec/24 | 70 | 120 | 120 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 6/Dec/23 | 150 | 150 | 150 | 150 |
@@ -144,6 +147,7 @@ Rates for LR1s and LR2s in the Middle East Gulf experienced mixed performance, w
 |  | **32K 3yr TC** | 1,000 | 10,000 | -90.0% | -9,000 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 6/Dec/23 | 4500 | 2500 | 1500 | 1000 | 2500 |
@@ -161,6 +165,7 @@ Rates for LR1s and LR2s in the Middle East Gulf experienced mixed performance, w
 | 6/Dec/24 | 1800 | 1200 | 1000 | 700 | 1200 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 6/Dec/23 | 50000 | 15000 | 12000 | 8000 |
@@ -283,6 +288,7 @@ In Turkey, inflation rate improved in November, marking the sixth consecutive mo
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MEDELIN MASTER | 13,940 | 3,852 | 1992 | SHIN KURUSHIMA, Japan | TANKER | $ 655.0m | Indian | incl 273 Ts solid SUS 316L on board |

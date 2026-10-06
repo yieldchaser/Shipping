@@ -107,6 +107,7 @@ Shanghai 200122 China
 |  | 36k 3yr TC | 13,250 | 13,250 | 0.0% | 0 | 14,051 | 13,753 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 2/Jul/20 | 50 | 60 | 80 |
@@ -122,8 +123,8 @@ Shanghai 200122 China
 | 2/May/21 | 70 | 90 | 110 |
 | 2/Jun/21 | 65 | 85 | 105 |
 | 2/Jul/21 | 60 | 80 | 100 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points | WS points |
@@ -184,12 +185,13 @@ In the MR size sector we had the sale of the "NEW BREEZE" (48,064dwt-blt '10, Ja
 | BHSI | 1,555 | $27,981 | 1,503 | $27,058 | 52 | 3.4% | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 11 to 13 mos | URSULA MANX | 2021 | 82,300 dwt |  |  |
-| 4 to 6 mos | HYDRA DAWN | 2013 | 34,274 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 11 to 13 mos | URSULA MANX | 2021 | 82,300 dwt | Zhoushan 11 Aug 11-13 | $29,500/day | Cofco Agri |
+| 4 to 6 mos | HYDRA DAWN | 2013 | 34,274 dwt | North Spain prompt | $26,250/day | Pacific Basin |
 
 ## TC Rates
+
 | Sector | Tenor | 02/07/2021 | 25/06/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 38,500 | 40,500 | -4.9% | -2,000 | 15,561 | 18,839 |
@@ -206,6 +208,7 @@ In the MR size sector we had the sale of the "NEW BREEZE" (48,064dwt-blt '10, Ja
 |  | **32K 3yr TC** | 13,000 | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 2/Jul/20 | 4100 | 1500 | 800 | 300 | 4100 |
@@ -223,6 +226,7 @@ In the MR size sector we had the sale of the "NEW BREEZE" (48,064dwt-blt '10, Ja
 | 2/Jul/21 | 4000 | 3900 | 2900 | 1500 | 4000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 2/Jul/20 | 32000 | 10000 | 8000 | 6000 |
@@ -302,6 +306,7 @@ In the Handysize sector we had the sale of the "MING YUAN" (33,002dwt-blt '10, C
 
 # Intermodal Secondhand Sales
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | MEXICO | 4,839 | 2002 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Feb-22 |  | $ 50.5m | Swiss (MSC) | delivery April 2022 basis SS/DD passed &amp; BWTS fitted |
@@ -324,6 +329,7 @@ In the Handysize sector we had the sale of the "MING YUAN" (33,002dwt-blt '10, C
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 02/07/2021 | 25/06/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -380,8 +386,8 @@ The newbuilding market activity remains healthy for another week, with the owner
 | 2/May/21 | 92 | 61 | 41 | 39 | 35 |
 | 2/Jun/21 | 94 | 62 | 42 | 40 | 35 |
 | 2/Jul/21 | 96 | 63 | 43 | 41 | 35 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Tanker | 49,900 dwt | GSI, China | 2023 | Swiss based (Proman Shipping) | undisclosed | methanol dual fuelled |
@@ -403,6 +409,7 @@ The newbuilding market activity remains healthy for another week, with the owner
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 02/07/2021 | 25/06/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -433,8 +440,8 @@ Scrap prices across the Indian-subcontinent markets remained at high levels for 
 | 2/May/21 | 500 | 460 | 500 | 285 |
 | 2/Jun/21 | 540 | 530 | 540 | 290 |
 | 2/Jul/21 | 550 | 540 | 550 | 295 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MAYA VN | 318,778 | 44,131 | 2003 | HYUNDAI SAMHO, S. Korea | TANKER | $ 560/Ldt | undisclosed | as-is Batam, incl. 600 tons of ROB bunkers |

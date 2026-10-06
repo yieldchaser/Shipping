@@ -32,19 +32,27 @@ Dry bulk sector delivered a remarkably strong performance during the first half 
 
 ## Segment Highlights
 
-**Capesize:** Capesize market rebounded as a short-term tightening of supply/demand dynamics pushed the BCI up, driven by a 13.2% surge on the Western Australia/China route where fresh fixtures cleared in the low US$13/ton range. While lower overall iron ore export volumes mean this bullish run is not a structural demand recovery, a gradual easing of tonnage pressure in the Atlantic helped lift T/A rates to US$45,250's and EC South America F/H to US$74,200's a day. Near-term momentum remains highly sensitive to looming discharge disruptions from Typhoon Maysak in China, leaving Pacific R/V settling at US$38,125's.
+**Capesize: Capesize market rebounded as a short-term tightening of supply/demand dynamics pushed**
 
-**Panamax / Kamsarmax:** Panamax broke away from its recent flat trend this week, fuelled by steady Brazilian grain exports that effectively absorbed excess tonnage across the South American region. While a heavy buildup of available prompt vessels capsized gains in the Pacific despite supportive NOPAC cargo volumes, the firm Atlantic basin successfully sustained owner sentiment and pushed T/A up to US$21,050's, and Brazil R/V to US$19,450's a day. Quiet Indonesian demand keeping regional runs at US$14,250's and Pacific R/V at US$16,800's a day means the near-term outlook remains heavily reliant on the continuation of Atlantic grain fixtures to offset the eastern basin's mixed fundamentals.
+the BCI up, driven by a 13.2% surge on the Western Australia/China route where fresh fixtures cleared in the low US$13/ton range. While lower overall iron ore export volumes mean this bullish run is not a structural demand recovery, a gradual easing of tonnage pressure in the Atlantic helped lift T/A rates to US$45,250's and EC South America F/H to US$74,200's a day. Near-term momentum remains highly sensitive to looming discharge disruptions from Typhoon Maysak in China, leaving Pacific R/V settling at US$38,125's.
 
-**Supramax / Ultramax:** Supramax traded flat as healthy cargo demand and tight vessel availability across the USG and WAFR pushed T/A rates to US$28,800's and F/H routes to US$30,750's. This Atlantic strength helped cushion a subdued Pacific basin, where falling Indonesian coal volumes and soft regional mineral demand dragged Indonesian R/V down to US$14,350's. The wider market landscape remained closely balanced rather than entering a broad rally, leaving Pacific R/V drifting at US$16,760's per day.
+**Panamax / Kamsarmax: Panamax broke away from its recent flat trend this week, fuelled by steady**
 
-**Handysize:** Handy market experienced a softer shift this week as wide bid-offer spreads across the Atlantic forced owners to lower their near-term rate expectations. While the Atlantic basin retained a cautiously positive undercurrent in select pockets, expanding tonnage lengths and a lack of fresh cargo impetus kept trading flat and subdued throughout Asia. This cooling sentiment nudged spot returns downward, leaving T/A rates at US$16,600's and Pacific R/V at US$15,200's.
+Brazilian grain exports that effectively absorbed excess tonnage across the South American region. While a heavy buildup of available prompt vessels capsized gains in the Pacific despite supportive NOPAC cargo volumes, the firm Atlantic basin successfully sustained owner sentiment and pushed T/A up to US$21,050's, and Brazil R/V to US$19,450's a day. Quiet Indonesian demand keeping regional runs at US$14,250's and Pacific R/V at US$16,800's a day means the near-term outlook remains heavily reliant on the continuation of Atlantic grain fixtures to offset the eastern basin's mixed fundamentals.
+
+**Supramax / Ultramax: Supramax traded flat as healthy cargo demand and tight vessel availability across**
+
+the USG and WAFR pushed T/A rates to US$28,800's and F/H routes to US$30,750's. This Atlantic strength helped cushion a subdued Pacific basin, where falling Indonesian coal volumes and soft regional mineral demand dragged Indonesian R/V down to US$14,350's. The wider market landscape remained closely balanced rather than entering a broad rally, leaving Pacific R/V drifting at US$16,760's per day.
+
+**Handysize: Handy market experienced a softer shift this week as wide bid-offer spreads across the**
+
+Atlantic forced owners to lower their near-term rate expectations. While the Atlantic basin retained a cautiously positive undercurrent in select pockets, expanding tonnage lengths and a lack of fresh cargo impetus kept trading flat and subdued throughout Asia. This cooling sentiment nudged spot returns downward, leaving T/A rates at US$16,600's and Pacific R/V at US$15,200's.
 
 ## Page 3
 
 ### Baltic Dry Index (BDI)
 
-**BDI:** 2,944 (WoW: +8.35% | YoY: +77.03%)
+**BDI: 2,944** (WoW: +8.35% | YoY: +77.03%)
 
 | BCI | BPI | BSI | BHSI |
 | :---: | :---: | :---: | :---: |
@@ -101,15 +109,25 @@ The fragile maritime truce in the Middle East has dramatically disintegrated thi
 
 ## Segment Highlights
 
-**VLCC:** Middle East VLCC market closed higher around the WS345 level as low export volumes and tight flow of fresh inquiries hit with the new waves of geopolitical tensions. The fragile environment marked by renewed U.S.-Iran airstrikes has prompted market participants to stay cautious and carefully assess future rate direction. In the Atlantic, 260,000mt WAFR/China climbed to WS168.
+**VLCC: Middle East VLCC market closed higher around the WS345 level as low export volumes and tight**
 
-**Suezmax:** West African Suezmax market lost momentum this week with weakening Mediterranean and Black Sea sectors. 130,000mt Nigeria/UKC closed at WS233. Rates are expected to dip with the renewed tensions and influx of ballast vessels fleeing Middle East. In the Black Sea, CPC/Augusta slipped to WS276.
+flow of fresh inquiries hit with the new waves of geopolitical tensions. The fragile environment marked by renewed U.S.-Iran airstrikes has prompted market participants to stay cautious and carefully assess future rate direction. In the Atlantic, 260,000mt WAFR/China climbed to WS168.
 
-**Aframax:** Middle East Aframax market experienced a decline and faces a lingering soft trend due to an oversupply of available tonnage and ongoing tensions. In contrast, the Mediterranean market saw an uptick for strong summer sentiment and upward rate pressure near the WS217 mark for Ceyhan/Lavera, driven by a tight volume for end July cargoes.
+**Suezmax: West African Suezmax market lost momentum this week with weakening Mediterranean and**
 
-**LR1 / LR2:** Middle East LR2 market saw a drop start of week as stabilising regional conditions chipped away previously held risk premium, but this quickly bounced after return of geopolitical tensions driving rates to close at WS360 for Japan trips. Similarly, LR1 climbed to WS359 for TC5 routes at closing.
+Black Sea sectors. 130,000mt Nigeria/UKC closed at WS233. Rates are expected to dip with the renewed tensions and influx of ballast vessels fleeing Middle East. In the Black Sea, CPC/Augusta slipped to WS276.
 
-**MR:** Far East MR market closed strong this week, successfully maintaining its upward momentum. In the MEG/E.Africa route, TC17 fell some 100 points to close at WS417 while over on the Atlantic, USG rounded up slightly with TC14 to UKC closing at WS250's mark.
+**Aframax: Middle East Aframax market experienced a decline and faces a lingering soft trend due to an**
+
+oversupply of available tonnage and ongoing tensions. In contrast, the Mediterranean market saw an uptick for strong summer sentiment and upward rate pressure near the WS217 mark for Ceyhan/Lavera, driven by a tight volume for end July cargoes.
+
+**LR1 / LR2: Middle East LR2 market saw a drop start of week as stabilising regional conditions chipped away**
+
+previously held risk premium, but this quickly bounced after return of geopolitical tensions driving rates to close at WS360 for Japan trips. Similarly, LR1 climbed to WS359 for TC5 routes at closing.
+
+**MR: Far East MR market closed strong this week, successfully maintaining its upward momentum. In the**
+
+MEG/E.Africa route, TC17 fell some 100 points to close at WS417 while over on the Atlantic, USG rounded up slightly with TC14 to UKC closing at WS250's mark.
 
 ## Page 6
 
@@ -219,35 +237,41 @@ ALIAGA |
 
 ## Market Insights
 
-**Alang, India:** Sentiment weakened further through the week, and local prices continued to drift lower on thin buying interest. Alang is now clearly the sub-continent's price floor; the gap to Gadani at the steel plate level has widened to roughly USD 310/t, the largest of the year, with Alang plate slipping to INR 36,700 (~USD 385/t) by 3 July. Alang's counterweight to weak pricing is regulatory: over 110 yards hold valid Statements of Compliance, and discussions continue with the European Union over adding three Indian yards to the EU-approved list. If secured, EU-listing would be a structural re-rating for Indian demand, opening tonnage currently routed to Aliağa. A steady flow of dark-fleet units also continues to arrive, keeping activity visible despite the subdued spot tone. When the Gulf exit queue routes post-monsoon, it will split on price and compliance - and on compliance, Alang leads the basin. On the currency front, USD/INR retreated from a six-week best near INR94.26 on 25 June to trade around 95.1-95.2, surrendering most of the post-ceasefire recovery even with Brent back at pre-war levels. The pressure is external, Fed repricing, not domestic fundamentals. June CPI (due mid-month) is expected to stay benign, and the trade bill should narrow materially on USD 71 oil, so the fundamental backdrop improves even as the currency waits on Washington.
+**Alang, India: Sentiment weakened further through the week, and local prices continued to drift lower on**
+
+thin buying interest. Alang is now clearly the sub-continent's price floor; the gap to Gadani at the steel plate level has widened to roughly USD 310/t, the largest of the year, with Alang plate slipping to INR 36,700 (~USD 385/t) by 3 July. Alang's counterweight to weak pricing is regulatory: over 110 yards hold valid Statements of Compliance, and discussions continue with the European Union over adding three Indian yards to the EU-approved list. If secured, EU-listing would be a structural re-rating for Indian demand, opening tonnage currently routed to Aliağa. A steady flow of dark-fleet units also continues to arrive, keeping activity visible despite the subdued spot tone. When the Gulf exit queue routes post-monsoon, it will split on price and compliance - and on compliance, Alang leads the basin. On the currency front, USD/INR retreated from a six-week best near INR94.26 on 25 June to trade around 95.1-95.2, surrendering most of the post-ceasefire recovery even with Brent back at pre-war levels. The pressure is external, Fed repricing, not domestic fundamentals. June CPI (due mid-month) is expected to stay benign, and the trade bill should narrow materially on USD 71 oil, so the fundamental backdrop improves even as the currency waits on Washington.
 
 ## Page 13
 
-**Chattogram, Bangladesh:** Chattogram keeps its position at the head of sub-continent, though the tone beneath the headline numbers is uneven. The broader market stayed soft throughout the week, a brief mid-week firming faded by the close, yet recyclers are bidding aggressively and almost exclusively for small and mid-sized tankers, where several deals were concluded at punchy levels. Appetite for other segments remains thin, and buyers are watching price direction before committing more broadly. On the supply side, Chattogram has seen renewed arrivals of smaller Chinese domestic vessels after a relatively quiet spell. While these Chinese built domestic general cargo ships are typically concluded at softer levels compared with conventional Japanese and South Korean built tonnage, owing to higher weight loss and lower recoverable steel content, recyclers have remained receptive. With suitable market tonnage still in short supply, yards appear prepared to accommodate such units in order to maintain cutting activity and keep operations moving.
+**Chattogram, Bangladesh: Chattogram keeps its position at the head of sub-continent, though the tone**
 
-| Chattogram Anchorage | & Beaching Position | - July | 2026 |
-| --- | --- | --- | --- |
-| VESSEL | TYPE | LDT | ARRIVAL |
-| MAYMEI | TANKER | 9,877 | 25.06.2026 |
-| MEILI | MPP | 902 | 08.07.2026 |
-| FU HAI 8 | GENERAL CARGO | 1,460 | 02.07.2026 |
-| J CHEN | GENERAL CARGO | 4,200 | 02.07.2206 |
-| BAO | WOODCHIP | 9,634 | 30.06.2026 |
-| IRUS | LNG | 28,805 | 30.06.2026 |
-| BASEL ATHENA | MPP | 6,315 | 29.06.2026 |
-| SANWA FOUNTAIN | REEFER | 2,083 | 29.06.2026 |
-| HAI XU | GENERAL CARGO | 1,870 | 28.06.2026 |
-| GUANG HUA 6 | GENERAL CARGO | 1,223 | 26.06.2026 |
-| THANE | WOODCHIP | 10.160 | 25.06.2026 |
+beneath the headline numbers is uneven. The broader market stayed soft throughout the week, a brief mid-week firming faded by the close, yet recyclers are bidding aggressively and almost exclusively for small and mid-sized tankers, where several deals were concluded at punchy levels. Appetite for other segments remains thin, and buyers are watching price direction before committing more broadly. On the supply side, Chattogram has seen renewed arrivals of smaller Chinese domestic vessels after a relatively quiet spell. While these Chinese built domestic general cargo ships are typically concluded at softer levels compared with conventional Japanese and South Korean built tonnage, owing to higher weight loss and lower recoverable steel content, recyclers have remained receptive. With suitable market tonnage still in short supply, yards appear prepared to accommodate such units in order to maintain cutting activity and keep operations moving.
+
+| Chattogram Anchorage | & Beaching Position | - July | 2026 |  |
+|---|---|---|---|---|
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| MAYMEI | TANKER | 9,877 | 25.06.2026 | AWAITING |
+| MEILI | MPP | 902 | 08.07.2026 | AWAITING |
+| FU HAI 8 | GENERAL CARGO | 1,460 | 02.07.2026 | 07.07.2026 |
+| J CHEN | GENERAL CARGO | 4,200 | 02.07.2206 | 07.07.2026 |
+| BAO | WOODCHIP | 9,634 | 30.06.2026 | 08.07.2026 |
+| IRUS | LNG | 28,805 | 30.06.2026 | 03.07.2026 |
+| BASEL ATHENA | MPP | 6,315 | 29.06.2026 | 06.07.2026 |
+| SANWA FOUNTAIN | REEFER | 2,083 | 29.06.2026 | 03.07.2026 |
+| HAI XU | GENERAL CARGO | 1,870 | 28.06.2026 | 03.07.2026 |
+| GUANG HUA 6 | GENERAL CARGO | 1,223 | 26.06.2026 | 03.07.2026 |
+| THANE | WOODCHIP | 10.160 | 25.06.2026 | 02.07.2026 |
 
 ## Page 14
 
-| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
-| --- | --- | --- | --- | --- |
-| ERGY | LNG | 31,340 | 23.06.2026 | 01.07.2026 |
-| PEARL 1 | CARGO | 5,890 | 21.06.2206 | 01.07.2026 |
+| VESSEL |  | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
+| ERGY |  | LNG | 31,340 | 23.06.2026 | 01.07.2026 |
+| PEARL 1 | GENERAL | CARGO | 5,890 | 21.06.2206 | 01.07.2026 |
 
-**Gaddani, Pakistan:** Gadani delivered the quietest but most stable week in the region: prices essentially unchanged, a handful of fresh arrivals, the bulkers LADONNA (delivered 30 June) and JENNY LUCKY (arrived 21 June) and recyclers openly keen for tonnage. Local plate held at PKR 195,000/t (~USD 696 on the firm rupee), by far the strongest plate quote in the region. On the economic front, the June CPI eased to 11.1% y/y from 11.7%, with consumer prices falling 0.3% outright on the month, the first monthly decline of the conflict era, as cheaper oil fed through the fuel complex. USD/PKR broke below 278 to a fresh 2026 best, the basin's only appreciating currency. Firm currency, cooling inflation and hungry yards keep Gadani a reliable second outlet, with the new duty structure the principal swing factor.
+**Gaddani, Pakistan: Gadani delivered the quietest but most stable week in the region: prices essentially**
+
+unchanged, a handful of fresh arrivals, the bulkers LADONNA (delivered 30 June) and JENNY LUCKY (arrived 21 June) and recyclers openly keen for tonnage. Local plate held at PKR 195,000/t (~USD 696 on the firm rupee), by far the strongest plate quote in the region. On the economic front, the June CPI eased to 11.1% y/y from 11.7%, with consumer prices falling 0.3% outright on the month, the first monthly decline of the conflict era, as cheaper oil fed through the fuel complex. USD/PKR broke below 278 to a fresh 2026 best, the basin's only appreciating currency. Firm currency, cooling inflation and hungry yards keep Gadani a reliable second outlet, with the new duty structure the principal swing factor.
 
 ## Gaddani Anchorage & Beaching Position - July 2026
 
@@ -255,23 +279,33 @@ ALIAGA |
 | --- | --- | --- | --- | --- |
 | JENNY LUCKY | BULKER | 7,176 | 21.06.2026 | 02.07.2026 |
 
-**Aliaga, Turkey:** Aliaga has found a floor after its recent correction, though activity stays limited. Yards are carrying healthy inventories and show little appetite for fresh units, particularly larger, higher-grade candidates. At USD 266-288/LDT across segments, the price gap to the sub-continent, measured in the hundreds, keeps Türkiye out of contention for standard tonnage. Demand therefore remains regulatory rather than commercial: EU flagged and EU compliance driven vessels continue to route to Aliaga despite materially lower returns. The lira's slide toward 47 (a record ~46.70) firms Turkish offers only at the margin. The central bank held its policy rate at 37% for a third meeting, and the June CPI print, the first struck against post war, oil will show whether disinflation can finally take hold. Of the roughly 200 bulkers preparing to exit the Gulf, Aliaga's share will be set by EU and Basel compliance requirements, not by price.
+**Aliaga, Turkey: Aliaga has found a floor after its recent correction, though activity stays limited. Yards are**
+
+carrying healthy inventories and show little appetite for fresh units, particularly larger, higher-grade candidates. At USD 266-288/LDT across segments, the price gap to the sub-continent, measured in the hundreds, keeps Türkiye out of contention for standard tonnage. Demand therefore remains regulatory rather than commercial: EU flagged and EU compliance driven vessels continue to route to Aliaga despite materially lower returns. The lira's slide toward 47 (a record ~46.70) firms Turkish offers only at the margin. The central bank held its policy rate at 37% for a third meeting, and the June CPI print, the first struck against post war, oil will show whether disinflation can finally take hold. Of the roughly 200 bulkers preparing to exit the Gulf, Aliaga's share will be set by EU and Basel compliance requirements, not by price.
 
 **TIDE DATES 2026 | Chattogram:** 14 - 17 July | 29 July ~ 01 August **Alang:** 11 - 19 July | 27 July ~ 03 August
 
 # SUB-CONTINENT & TURKEY SCRAP MARKETS
 
-**India:** Imported ferrous scrap trading remained deeply subdued as local mills restrict procurement solely to immediate, need-based volumes due to weak downstream sales and unfavourable import economics. Negligible buying interest in containerized shredded scrap has dragged workable pricing down by US$5- US$10/t, with Europe-origin HMS workable at US$320-US$325/t CFR and shredded scrap at US$350- US$355/t CFR. Although an isolated Africa-origin HMS cargo was finalized above current market levels at
+**India: Imported ferrous scrap trading remained deeply subdued as local mills restrict procurement solely**
+
+to immediate, need-based volumes due to weak downstream sales and unfavourable import economics. Negligible buying interest in containerized shredded scrap has dragged workable pricing down by US$5- US$10/t, with Europe-origin HMS workable at US$320-US$325/t CFR and shredded scrap at US$350- US$355/t CFR. Although an isolated Africa-origin HMS cargo was finalized above current market levels at
 
 ## Page 15
 
 US$341/t CFR, fresh European shredded offers at US$382/t CFR face total resistance from buyers aiming for a US$370/t CFR maximum.
 
-**Pakistan:** The imported scrap avenue in Pakistan follows a parallel trend of low-volume stagnation, with domestic mills strictly capping raw material inquiries to address immediate operational mandates amid soft steel consumption. A solitary UK-origin containerized shredded scrap transaction was concluded at US$390/t CFR Port Qasim this week, cleanly defining the current appetite of local buyers. Seaborne offers continue to hover between US$390/t and US$395/t CFR, while cautious buyer price indications refuse to deviate from a highly range-bound bracket of US$385-US$390/t CFR.
+**Pakistan: The imported scrap avenue in Pakistan follows a parallel trend of low-volume stagnation, with**
 
-**Bangladesh:** The seaborne recycling arena in Chattogram remains heavy and subdued, compressed by an unviable combination of weak steel demand, high electricity costs, and severely squeezed mill margins. Local manufacturers are completely resisting elevated pricing structures, leaving standard international offer indications entirely stranded without any fresh transactional support. Current indicative levels are resting at US$362-US$366/t CFR for UK-origin HMS, US$394-US$400/t CFR for UK shredded, US$380-US$385/t CFR for bulk Japanese H2, and US$388-US$395/t CFR for US-origin bulk HMS.
+domestic mills strictly capping raw material inquiries to address immediate operational mandates amid soft steel consumption. A solitary UK-origin containerized shredded scrap transaction was concluded at US$390/t CFR Port Qasim this week, cleanly defining the current appetite of local buyers. Seaborne offers continue to hover between US$390/t and US$395/t CFR, while cautious buyer price indications refuse to deviate from a highly range-bound bracket of US$385-US$390/t CFR.
 
-**Turkiye:** Deep-sea import values slipped under renewed pressure on 9 July, with participants left without near-term direction due to a lack of fresh premium cargo deals and sparse US-origin offers. Mill buyers are aggressively pushing back against higher targets amid sluggish finished rebar demand, forcing actual trading activity to focus heavily on lower-priced non-premium options. Benchmark tradable values for premium US-origin HMS 80:20 have softened to US$370-US$373/t CFR, keeping overall sentiment highly mixed as analysts debate whether the region has finally hit a seasonal floor.
+**Bangladesh: The seaborne recycling arena in Chattogram remains heavy and subdued, compressed by**
+
+an unviable combination of weak steel demand, high electricity costs, and severely squeezed mill margins. Local manufacturers are completely resisting elevated pricing structures, leaving standard international offer indications entirely stranded without any fresh transactional support. Current indicative levels are resting at US$362-US$366/t CFR for UK-origin HMS, US$394-US$400/t CFR for UK shredded, US$380-US$385/t CFR for bulk Japanese H2, and US$388-US$395/t CFR for US-origin bulk HMS.
+
+**Turkiye: Deep-sea import values slipped under renewed pressure on 9 July, with participants left without**
+
+near-term direction due to a lack of fresh premium cargo deals and sparse US-origin offers. Mill buyers are aggressively pushing back against higher targets amid sluggish finished rebar demand, forcing actual trading activity to focus heavily on lower-priced non-premium options. Benchmark tradable values for premium US-origin HMS 80:20 have softened to US$370-US$373/t CFR, keeping overall sentiment highly mixed as analysts debate whether the region has finally hit a seasonal floor.
 
 # COMMODITIES, BUNKERS & RATES
 

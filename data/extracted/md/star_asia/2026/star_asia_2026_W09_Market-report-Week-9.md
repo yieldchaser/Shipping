@@ -48,32 +48,32 @@ The Handy market remains largely subdued, as ongoing Lunar New Year celebrations
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE | Y-O-Y CHANGE |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| BDI | 2,140 | 2,043 |  | 1,229 | +4.75% |  | +74.13% |
-| BCI | 3,056 | 3,051 |  | 1,818 | +0.16% |  | +68.10% |
-| BPI | 1,942 | 1,838 |  | 1,063 | +5.66% |  | +82.69% |
-| BSI | 1,338 | 1,159 |  | 895 | +15.44% |  | +49.50% |
-| BHSI | 776 | 709 |  | 547 | +9.45% |  | +41.86% |
-|  |  | Dry | Bulk | Values (Weekly) |  |  |  |
-| TYPE | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS | 15 YEARS |
-| CAPE |  | 75 |  | 78 | 64 48 |  | (E) 30 |
-| KAMSARMAX |  | 37 |  | 40 | 33 25 |  | (E) 18 |
-| ULTRAMAX |  | 35 |  | 39 | 33 (E) | 24 | 16 (56K) |
-| HANDY |  | 30 |  | 33 | 26 | 19 | 15 |
-| *(amount in USD | \ | (E)-ecounits |  |  |  |  |  |
-|  |  | Dry | Bulk - | S&P Report |  |  |  |
-|  |  |  |  |  | PRICE |  |  |
-| VESSEL | TYPE | DWT | YEAR | BUILT |  | COMMENTS | / BUYERS |
-|  |  |  |  |  | (MILLION) USD |  |  |
-| CAPE | NCM | 203,512 | 2006 | TAIWAN | 26.0 |  | UNDISCLOSED |
-| CAPE | CAPE | 175,607 | 2011 | PHILIPPINES | 32.0 |  | UNDISCLOSED |
-| EPIPHANIA | KMAX | 80,276 | 2012 | S. KOREA | 17.5 |  | UNDISCLOSED |
-| ONLY YOU | UMAX | 60,459 | 2017 | JAPAN | 28.5 |  | DANISH BUYERS |
-| THEODORA | SMAX | 53,569 | 2008 | JAPAN | 13.0 |  | UNDISCLOSED |
-| SSI ERDOGAN | SMAX | 50,780 | 2010 | JAPAN | 15.0 |  | UNDISCLOSED |
-| ASIAN PEARL | SMAX | 50,307 | 2003 | JAPAN | 7.7 |  | CHINESE BUYERS |
-| CS CANDY | HANDY | 37,459 | 2012 | CHINA | 11.6 |  | UNDISCLOSED |
+| INDICES |  | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE | Y-O-Y CHANGE |
+|---|---|---|---|---|---|---|---|---|
+| BDI |  | 2,140 | 2,043 |  | 1,229 | +4.75% |  | +74.13% |
+| BCI |  | 3,056 | 3,051 |  | 1,818 | +0.16% |  | +68.10% |
+| BPI |  | 1,942 | 1,838 |  | 1,063 | +5.66% |  | +82.69% |
+| BSI |  | 1,338 | 1,159 |  | 895 | +15.44% |  | +49.50% |
+| BHSI |  | 776 | 709 |  | 547 | +9.45% |  | +41.86% |
+|  |  |  | Dry | Bulk | Values (Weekly) |  |  |  |
+| TYPE | DWT | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS | 15 YEARS |
+| CAPE | 180,000 |  | 75 |  | 78 | 64 48 |  | (E) 30 |
+| KAMSARMAX | 82,000 |  | 37 |  | 40 | 33 25 |  | (E) 18 |
+| ULTRAMAX | 64,000 |  | 35 |  | 39 | 33 (E) | 24 | 16 (56K) |
+| HANDY | 38,000 |  | 30 |  | 33 | 26 | 19 | 15 |
+| *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |  |  |
+|  |  |  | Dry | Bulk - | S&P Report |  |  |  |
+|  |  |  |  |  |  | PRICE |  |  |
+| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  | COMMENTS | / BUYERS |
+|  |  |  |  |  |  | (MILLION) USD |  |  |
+| CAPE | KENSINGTON | NCM | 203,512 | 2006 | TAIWAN | 26.0 |  | UNDISCLOSED |
+| CAPE | SANDRA | CAPE | 175,607 | 2011 | PHILIPPINES | 32.0 |  | UNDISCLOSED |
+| EPIPHANIA |  | KMAX | 80,276 | 2012 | S. KOREA | 17.5 |  | UNDISCLOSED |
+| ONLY YOU |  | UMAX | 60,459 | 2017 | JAPAN | 28.5 |  | DANISH BUYERS |
+| THEODORA |  | SMAX | 53,569 | 2008 | JAPAN | 13.0 |  | UNDISCLOSED |
+| SSI ERDOGAN | BEY | SMAX | 50,780 | 2010 | JAPAN | 15.0 |  | UNDISCLOSED |
+| ASIAN PEARL |  | SMAX | 50,307 | 2003 | JAPAN | 7.7 |  | CHINESE BUYERS |
+| CS CANDY |  | HANDY | 37,459 | 2012 | CHINA | 11.6 |  | UNDISCLOSED |
 
 ### Shipbroking (www.star-asia.com.sg)
 

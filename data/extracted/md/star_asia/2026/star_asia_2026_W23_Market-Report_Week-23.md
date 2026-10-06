@@ -40,7 +40,7 @@ Capesize: The Capesize market staged a strong weekly rebound, driven by a surge 
 
 ### Baltic Dry Index (BDI)
 
-**BDI:** 2,981 (WoW: -7.54% | YoY: +82.55%)
+**BDI: 2,981** (WoW: -7.54% | YoY: +82.55%)
 
 | BCI | BPI | BSI | BHSI |
 | :---: | :---: | :---: | :---: |
@@ -202,10 +202,10 @@ The recycling markets closed the week with the same imbalance that has shaped tr
 
 Chattogram, Bangladesh: Chittagong retained its position as the firmest priced destination of the week, underpinned by a stable Taka and continued buyer interest, particularly for mid-sized assets that remain the preferred tonnage profile. Local plate prices eased modestly, and the financing environment stayed accommodative, allowing yards to hold offered levels above the other sub-continent markets. The demand is intact and should carry into the coming weeks. The principal swing factor is now meteorological rather than commercial: the arrival of the Bay of Bengal monsoon will progressively reduce the frequency of beaching cycles, tempering the pace at which Chittagong can absorb tonnage even as its appetite stays robust.
 
-| Chattogram Anchorage | & Beaching Position - | June | 2026 |
-| --- | --- | --- | --- |
-| VESSEL | TYPE | LDT | ARRIVAL |
-| KOKOPO CHIEF | CONTAINER | 5,889 | 26.05.2026 |
+| Chattogram Anchorage | & Beaching Position - | June | 2026 |  |
+|---|---|---|---|---|
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| KOKOPO CHIEF | CONTAINER | 5,889 | 26.05.2026 | AWAITING |
 
 Gaddani, Pakistan: A strengthening Rupee and disciplined local conditions kept buyer sentiment positive, with recyclers actively seeking units against a backdrop of scarce supply. Local plate prices were unchanged on the week, and Pakistan's absolute pricing stayed among the firmest in the basin, narrowing the customary gap to the higher priced Bangladeshi yards. Pakistan's competitive standing has consolidated over the quarter, helped by currency resilience and a shortage of available ships that has concentrated demand. A sustained normalisation of regional shipping routes could, over a multi-month horizon, erode some of the proximity advantage Gadani has enjoyed, but that is a question for later quarters. For now, the yards remain well-positioned, with the absence of tonnage the only cause of concern.
 

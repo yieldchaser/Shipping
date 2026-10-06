@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By Fotis Kanatas, Research Analyst
 
@@ -49,6 +51,7 @@ As far as the future is concerned, it is interesting to see whether owners will 
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 14/06/24 WS points | 14/06/24 $/day | 07/06/24 WS points | 07/06/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 52 | 30,971 | 54 | 34,062 | -9.1% | 39,466 | 20,330 |
@@ -70,10 +73,11 @@ As far as the future is concerned, it is interesting to see whether owners will 
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 4/6 mos | P.ALIKI | 2010 | 105,304 dwt |  |  |
-| 5 mos | GANESHA | 2009 | 45,996 dwt |  |  |
+| 4/6 mos | P.ALIKI | 2010 | 105,304 dwt | $48,500/day | Trafigura |
+| 5 mos | GANESHA | 2009 | 45,996 dwt | $37,000/day | ST Shipping |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 14/Jun/23 | 50 | 100 | 200 |
@@ -91,6 +95,7 @@ As far as the future is concerned, it is interesting to see whether owners will 
 | 14/Jun/24 | 50 | 150 | 200 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 14/Jun/23 | 100 | 100 | 150 | 150 |
@@ -152,10 +157,10 @@ In clean products, MEG/Japan (TC1) for LR2s was WS 205 (+4.5%) on increased char
 | BHSI | 711 | $12,803 | 714 | $12,848 | -3 | -0.4% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 7/9 mos | BBG DREAM | 2012 | 81,364 dwt |  |  |
-| 12 mos | BASIC GLORY | 2020 | 82,338 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 7/9 mos | BBG DREAM | 2012 | 81,364 dwt | dely Kobe 16 Jun redel worldwide | $17,500/day | Norden |
+| 12 mos | BASIC GLORY | 2020 | 82,338 dwt | dely Beihai 15 Jun redel worldwide | index linked basis 117% BPI | TMM |
 
 ## TC Rates
 | Sector | Tenor | 14/06/24 | 07/06/24 | ±% | Diff | 2023 | 2022 |
@@ -170,6 +175,7 @@ In clean products, MEG/Japan (TC1) for LR2s was WS 205 (+4.5%) on increased char
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 14/Jun/23 | 1500 | 1200 | 1000 | 800 | 1000 |
@@ -187,6 +193,7 @@ In clean products, MEG/Japan (TC1) for LR2s was WS 205 (+4.5%) on increased char
 | 14/Jun/24 | 2900 | 2300 | 2000 | 1600 | 2300 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 14/Jun/23 | 12000 | 10000 | 9000 | 8000 |
@@ -286,6 +293,7 @@ The previous week saw 26 vessels being contracted in all vessel types. On orders
 
 Strong asset values, strong earnings and an optimistic short-term outlook for the sector in the freight market helped to keep the demolition market largely quiet this week. Overall tonnage available for recycling remained somewhat low. In India, the unexpected outcome of an election and the impact of a declining Chinese housing market led to less enthusiasm for ship recycling. Local steel prices were lower this week, with scrap prices remaining unchanged. Despite this, two MSC container ships received strong prices, suggesting some buyer interest. It is expected that the forthcoming national budget in July will include measures that should have a positive impact on the market. The Bangladesh market remained quiet with little activity seen. Local scrap prices followed suit; local steel prices fell only marginally. The approaching Eid al-Adha festival is expected to temporarily halt recycling efforts, which helps to explain the weak market conditions until early July. The devaluation of the local currency against the US dollar created further difficulties for recyclers. In Pakistan, the market is reacting to the fiscal measures announced in the recent national budget. Industry players have reacted differently to the changes in sales tax on scrap sales and the removal of tax exemptions. Although local steel prices remained under pressure, some respite may come from the central bank's 1.50% interest rate cut. Activity is expected to remain low over the Eid holidays. Ship recycling activity in Turkey remained slow with steel product prices remaining stable. The approaching Eid al-Adha holiday is expected to affect market activity even more. The market is still quiet and needs new tonnage arrivals to stimulate activity. The picture for the demolition market remains uncertain. The short-term availability of new tonnage for recycling is expected to remain limited. Future budget announcements in key markets, particularly India, may bring measures that could improve the market situation. However, the Eid al-Adha holiday is likely to cause a brief slowdown in activity everywhere. The general market sentiment is cautious, with stakeholders closely monitoring changes in policy and economic conditions.
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 14/06/24 | 07/06/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -298,8 +306,8 @@ Strong asset values, strong earnings and an optimistic short-term outlook for th
 | India | 520 | 520 | 0.0% | 520 | 480 | 522 | 583 | 508 |
 | Pakistan | 500 | 500 | 0.0% | 510 | 500 | 515 | 587 | 526 |
 | Turkey | 350 | 350 | 0.0% | 350 | 330 | 315 | 304 | 276 |
-
 ## Currencies
+
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 117.00 | 116.95 | 0.0% | 117.00 |
@@ -308,6 +316,7 @@ Strong asset values, strong earnings and an optimistic short-term outlook for th
 | USD/TRY | 32.63 | 32.24 | 1.2% | 32.63 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MSC TIA II |  | 10,421 | 1999 | GDYNIA STOCZNIA, Poland | CONTAINER | $ 570.0m | Indian |

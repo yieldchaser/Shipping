@@ -78,6 +78,7 @@ The Baltic Exchange
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 58 | 1,226 | 56 | -9,442 | 113.0% | 2,246 | 52,119 |
@@ -93,14 +94,14 @@ The Baltic Exchange
 |  | 75k | MEG-JAPAN | 202 | 26,783 | 223 | 27,961 | -4.2% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 285 | 37,611 | 293 | 35,145 | 7.0% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 313 | 29,328 | 329 | 28,846 | 1.7% | 4,496 | 12,977 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | SUR | 2020 | 299,997 dwt |  |  |
-| 36 mos | ALIGOTE | 2010 | 74,192 dwt |  |  |
-
+| 36 mos | SUR | 2020 | 299,997 dwt | $36,000/day | Sinokor |
+| 36 mos | ALIGOTE | 2010 | 74,192 dwt | $21,250/day | Trafigura Beheer BV |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 8/Jul/21 | 20 | 80 | 100 |
@@ -116,8 +117,8 @@ The Baltic Exchange
 | 8/May/22 | 70 | 150 | 180 |
 | 8/Jun/22 | 75 | 140 | 190 |
 | 8/Jul/22 | 80 | 270 | 270 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 8/Jul/21 | 100 | 110 | 120 | 130 |
@@ -133,8 +134,8 @@ The Baltic Exchange
 | 8/May/22 | 320 | 330 | 340 | 400 |
 | 8/Jun/22 | 330 | 340 | 350 | 460 |
 | 8/Jul/22 | 300 | 310 | 320 | 310 |
-
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300k 1yr TC** | 28,000 | 28,000 | 0.0% | 0 | 25,684 | 42,038 |
@@ -149,8 +150,8 @@ The Baltic Exchange
 |  | **52k 3yr TC** | 15,000 | 15,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 21,750 | 21,750 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Jul-22 avg | Jun-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 80.5 | 76.8 | 4.9% | 69.7 | 71.5 | 72.1 |
@@ -189,11 +190,12 @@ In the LR1 sector we had the sale of the "STENA PARIS" (65,125dwt-blt '05, Croat
 | BHSI | 1,185 | $21,338 | 1,276 | $22,973 | -91 | -7.1% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 10-13 mos | CYMONA GALAXY | 2009 | 81,383 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 10-13 mos | CYMONA GALAXY | 2009 | 81,383 dwt | Zhoushan 11/07 | $23,250/day | Viterra |
 
 ## TC Rates
+
 | Sector | Tenor | 08/07/2022 | 01/07/2022 | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | 180K 6mnt TC | 30,750 | 30,750 | 0.0% | 0 | 32,684 | 15,361 |
@@ -210,6 +212,7 @@ In the LR1 sector we had the sale of the "STENA PARIS" (65,125dwt-blt '05, Croat
 |  | 32K 3yr TC | 12,500 | 13,000 | -3.8% | -500 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 8/Jul/21 | 3000 | 4000 | 3000 | 1500 | 4000 |
@@ -227,6 +230,7 @@ In the LR1 sector we had the sale of the "STENA PARIS" (65,125dwt-blt '05, Croat
 | 8/Jul/22 | 2500 | 2500 | 2500 | 2000 | 2500 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 8/Jul/21 | 30000 | 30000 | 30000 | 30000 |
@@ -276,6 +280,7 @@ In the Handysize sector we had the sale of the "YANGTZE SPIRIT" (35,169dwt-blt '
 
 # Secondhand Sales
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | HUI XIN 8 | 92,974 | 2012 | COSCO DALIAN, China | MAN-B\&amp;W | Aug-22 |  | region $ 22.0m | undisclosed | BWTS fitted, Tier II |
@@ -297,6 +302,7 @@ In the Handysize sector we had the sale of the "YANGTZE SPIRIT" (35,169dwt-blt '
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | MATTERHORN SPIRIT | 114,834 | 2005 | DAEWOO, S. Korea | MAN-B&amp;W | Nov-25 | DH | $ 24.75m | UAE based | dely Septeber 2022, Ice 1A |
@@ -308,8 +314,8 @@ In the Handysize sector we had the sale of the "YANGTZE SPIRIT" (35,169dwt-blt '
 | SMALL | DH ADMIRAL | 8,714 | 2018 | NANTONG,China | J-ENG | Jan-23 | DH | $ 18.5m | undisclosed | via online commercial auction |
 | SMALL | DH BLOSSOMING | 8,703 | 2018 | NANTONG,China | J-ENG | Jun-23 | DH | $ 18.5m | undisclosed | via online commercial auction |
 | SMALL | KIRANA SAPTA | 19,000 | 2016 | NAIKAI ZOSEN, Japan | MAN-B&amp;W | Jan-26 | DH | $ 20.0m | undisclosed | St-St |
-
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | XIN FENG SHANG HAI | 4,992 | 2005 | HANJIN HI, S. Korea | B\&amp;W | Nov-25 |  | $ 60.0m | undisclosed |
@@ -321,6 +327,7 @@ In the Handysize sector we had the sale of the "YANGTZE SPIRIT" (35,169dwt-blt '
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 08/07/2022 | 01/07/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -373,7 +380,6 @@ The newbuilding market continues to see healthy ordering activity overall last w
 | 8/May/22 | 62 | 38 | 37 | 31 |
 | 8/Jun/22 | 62 | 39 | 37 | 31 |
 | 8/Jul/22 | 62 | 39 | 38 | 31 |
-
 ## Indicative Period Charters
 
 _No period fixtures reported._
@@ -384,6 +390,7 @@ _No period fixtures reported._
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | Markets | 08/07/2022 | 01/07/2022 | ±% | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -414,8 +421,8 @@ The demolition market noted an increase in scrap levels offered from Indian subc
 | 8/May/22 | 650 | 650 | 660 | 440 |
 | 8/Jun/22 | 600 | 580 | 600 | 310 |
 | 8/Jul/22 | 565 | 560 | 565 | 260 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | TELLUS | 109,390 | 19,864 | 2003 | DALIAN, China | TANKER | $ 580/Ldt | Bangladeshi |

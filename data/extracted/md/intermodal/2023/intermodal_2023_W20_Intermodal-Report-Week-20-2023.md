@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 
 _By Chara Georgousi, Research Analyst_
@@ -14,6 +16,7 @@ The current contango, which has led to a persistently elevated level of floating
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 19/05/23 WS points | 19/05/23 $/day | 12/05/23 WS points | 12/05/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 56 | 37,600 | 43 | 21,584 | 74.2% | 20,330 | 2,246 |
@@ -36,10 +39,10 @@ The current contango, which has led to a persistently elevated level of floating
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | ONISILOS | 2004 | 159,100 dwt |  |  |
-| 12 mos | KUFRA | 2023 | 115,500 dwt |  |  |
-
+| 6 mos | ONISILOS | 2004 | 159,100 dwt | $35,000 /day | Trafigura |
+| 12 mos | KUFRA | 2023 | 115,500 dwt | $ 49,000/day | Core Petroleum |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 23/May/22 | 150 | 180 | 180 |
@@ -55,8 +58,8 @@ The current contango, which has led to a persistently elevated level of floating
 | 23/Mar/23 | 130 | 240 | 350 |
 | 23/Apr/23 | 125 | 230 | 380 |
 | 23/May/23 | 120 | 220 | 400 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 23/May/22 | 200 | 300 | 400 | 450 |

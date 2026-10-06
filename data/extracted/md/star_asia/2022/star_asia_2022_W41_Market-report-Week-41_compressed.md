@@ -273,7 +273,9 @@ YU HAI XING 5017.10
 | 410 | 440 | 360 | 360 | 590 |
 | 210 | 270 Ships Sold for Recycling | 220 | 205 | 290 |
 
-YEAR / BUILT TYPE PRICE COMMENTS (USUS$/LDT LT) 1995 / CHINA BC 615 DELIVERED CHATTOGRAM
+**YEAR / BUILT TYPE PRICE COMMENTS (USUS$/LDT LT)**
+
+1995 / CHINA BC 615 DELIVERED CHATTOGRAM
 
 ## Page 10
 
@@ -359,6 +361,7 @@ A very quiet week for the Pakistani ship recycling markets as the price levels a
 | USD / INR (INDIA) | 82.36 | 82.31 | -0.06 |
 | USD / PKR (PAKISTAN) | 218.96 | 219.84 | +0.40 |
 | USD / TRY (TURKEY) | 18.59 | 18.58 | -0.05 |
+
 | Commodity HMS 1/2 & Iron Ore | Price Tangshan Billet |
 |---|---|
 | COMMODITY SIZE / GRADE PRICE | CHANGE CHANGE LAST LAST W-O-W Y-O-Y WEEK YEAR |

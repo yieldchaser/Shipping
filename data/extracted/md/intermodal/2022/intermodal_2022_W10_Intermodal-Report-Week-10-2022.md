@@ -80,10 +80,11 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos |  | 2019 | 75,144 dwt |  |  |
-| 12 mos | TURMOIL | 2011 | 49,997 dwt |  |  |
+| 12 mos |  | 2019 | 75,144 dwt | NAUTICAL SARAH $17,750/day | BP |
+| 12 mos | TURMOIL | 2011 | 49,997 dwt | $14,250/day | BP |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 11/Mar/21 | 40 | 80 | 160 |
@@ -101,6 +102,7 @@ Shanghai 200122 China
 | 11/Mar/22 | 40 | 280 | 160 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 11/Mar/21 | 120 | 140 | 160 | 180 |
@@ -158,12 +160,13 @@ In the Aframax sector we had sale of the "BUNGA KELANA 9" (105,200dwt-bl't '04, 
 | BHSI | 1,548 | $27,858 | 1,443 | $25,974 | 105 | 7.3% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 58 to 62 mos | FLORIDA | 2022 | 181,500 dwt |  |  |
-| 12 mos | AQUAGRACE | 2017 | 81,672 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 58 to 62 mos | FLORIDA | 2022 | 181,500 dwt | ex yard Japan 29 Mar | $25,900/day | Bunge |
+| 12 mos | AQUAGRACE | 2017 | 81,672 dwt | - | $31,750/day | Krishnapatnam 12/13 Mai |
 
 ## TC Rates
+
 | Sector | Tenor | 11/03/2022 | 04/03/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 33,250 | 28,750 | **15.7%** | **4,500** | 32,684 | 15,361 |
@@ -180,6 +183,7 @@ In the Aframax sector we had sale of the "BUNGA KELANA 9" (105,200dwt-bl't '04, 
 |  | **32K 3yr TC** | 15,000 | 15,000 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 11/Mar/21 | 2500 | 2600 | 2400 | 1800 | 2700 |
@@ -197,6 +201,7 @@ In the Aframax sector we had sale of the "BUNGA KELANA 9" (105,200dwt-bl't '04, 
 | 11/Mar/22 | 2800 | 2900 | 2800 | 1800 | 2900 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 11/Mar/21 | 22000 | 23000 | 24000 | 21000 |
@@ -246,6 +251,7 @@ In the Kamsarmax sector we had the sale of the "BW RYE" (81,783dwt-bl't '19, Chi
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | SARA | 323,183 | 2011 | STX, S. Korea | MAN-B\&amp;W | May-26 | DH |  |  |  |
@@ -268,6 +274,7 @@ In the Kamsarmax sector we had the sale of the "BW RYE" (81,783dwt-bl't '19, Chi
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | STELLA ANITA | 180,355 | 2012 | DALIAN, China | MAN-B\&amp;W | Jan-27 |  | rgn $ 29.0m | Greek |  |
@@ -294,6 +301,7 @@ In the Kamsarmax sector we had the sale of the "BW RYE" (81,783dwt-bl't '19, Chi
 
 # Intermodal Secondhand Sales
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | SEALAND ILLINOIS | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Feb-25 |  | $ 61.0m |  |  |
@@ -304,8 +312,8 @@ In the Kamsarmax sector we had the sale of the "BW RYE" (81,783dwt-bl't '19, Chi
 | POST PMAX | ALLEGORIA | 5,527 | 2006 | CSBC, China | Sulzer | Apr-26 |  | $ 109.5m | Taiwanese (Wan Hai Lines) | Delivery Q4-2022 |
 | PMAX | MP THE MCGINEST | 4,400 | 2010 | HYUNDAI SAMHO, S. Korea | Wartsila | Mar-25 |  | $ 40.0m | German | incl index linked TC until Jan '23 - Jan '25 |
 | FEEDER | DONGJIN AUBE | 1,060 | 2005 | HAKATA, Japan | B\&amp;W | Aug-25 |  | undisclosed | Swiss (MSC) | scrubber fitted |
-
 ## Containers
+
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BRIGHT HORIZON | 30,538 | 2002 | DALIAN, China | MAN-B&amp;W | Jun-22 | 2 X 100t CRANES, 2 X 50t CRANES | undisclosed | Swiss (MSC) | 1,842 TEU |
@@ -317,6 +325,7 @@ In the Kamsarmax sector we had the sale of the "BW RYE" (81,783dwt-bl't '19, Chi
 
 # Newbuilding Market
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 11/03/2022 | 04/03/2022 | ±% | 2021 | 2020 | 2019 |  |
@@ -384,6 +393,7 @@ The newbuilding front was monopolized by container deals for another week with n
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 11/03/2022 | 04/03/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -414,8 +424,8 @@ The ongoing Russia-Ukraine war continues to strengthen the offered scrap levels 
 | 11/Jan/22 | 600 | 560 | 580 | 320 |
 | 11/Feb/22 | 640 | 600 | 620 | 350 |
 | 11/Mar/22 | 670 | 640 | 650 | 380 |
-
 ## Indicative Demolition Prices ($/ldt)
+
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE SUN | 171,746 | 22,396 | 1999 | HYUNDAI ULSAN, S. Korea | BULKER | undisclosed | undisclosed | as-is Vietnam |

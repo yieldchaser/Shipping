@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 _By Yiannis Parganas, Head of Research Department_
 
@@ -13,6 +15,7 @@ Overall, the reshuffling of met coal trade flows is likely to have a negative im
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 11/04/2025 WS points | 11/04/2025 $/day | 04/04/2025 WS points | 04/04/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 53 | 36,417 | 58 | 40,455 | -10.0% | 37,255 | 39,466 |
@@ -34,12 +37,12 @@ Overall, the reshuffling of met coal trade flows is likely to have a negative im
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | AS Suwayq | 2012 | 319,439 dwt |  |  |
-| 12 mos | Agios Sostis I | 2017 | 299,983 dwt |  |  |
-| 24 mos | AS Suwayq | 2012 | 319,439 dwt |  |  |
-| 12 mos | Agios Sostis I | 2017 | 299,983 dwt |  |  |
-
+| 24 mos | AS Suwayq | 2012 | 319,439 dwt | $47,000/day | Sinokor |
+| 12 mos | Agios Sostis I | 2017 | 299,983 dwt | $52,500/day | Sinokor |
+| 24 mos | AS Suwayq | 2012 | 319,439 dwt | $47,000/day | Sinokor |
+| 12 mos | Agios Sostis I | 2017 | 299,983 dwt | $52,500/day | Sinokor |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 11/Apr/24 | 50 | 100 | 200 |
@@ -55,8 +58,8 @@ Overall, the reshuffling of met coal trade flows is likely to have a negative im
 | 11/Feb/25 | 150 | 200 | 400 |
 | 11/Mar/25 | 160 | 210 | 420 |
 | 11/Apr/25 | 170 | 220 | 440 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points | WS points |
@@ -123,10 +126,10 @@ Avg Aframax TCE at \$49,430, up by 5.4% w-o-w
 | BHSI | 582 | $10,485 | 613 | $11,027 | -31 | -4.9% | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | Orient Point | 2025 | 82,000 dwt |  |  |
-| 4 to 6 mos | Star Lydia | 2013 | 81,187 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | Orient Point | 2025 | 82,000 dwt | dely ex yard Hantong 10/25 Apr red worldwide | $15,200/day | cnr |
+| 4 to 6 mos | Star Lydia | 2013 | 81,187 dwt | Zhoushan 5/6 Apr red worldwide | $14,850/day | cnr |
 
 ## TC Rates
 | Sector | Tenor | 11/04/2025 | 04/04/2025 | ±% | Diff | 2024 | 2023 |
@@ -141,6 +144,7 @@ Avg Aframax TCE at \$49,430, up by 5.4% w-o-w
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 11/04/24 | 2,600 | 1,600 | 1,200 | 800 | 1,600 |
@@ -158,6 +162,7 @@ Avg Aframax TCE at \$49,430, up by 5.4% w-o-w
 | 11/04/25 | 2,000 | 1,600 | 1,300 | 900 | 1,700 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 11/04/24 | 20,000 | 14,000 | 10,000 | 8,000 |
@@ -278,6 +283,7 @@ The Turkish ship recycling sector is experiencing a modest yet consistent influx
 | USD/TRY | 37.86 | 37.99 | -0.3% | 37.99 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FIRSTEC | 34,074 | 8,110 | 1997 | IMABARI, Japan | BC | $448/Ldt | undisclosed | as is Hong Kong |

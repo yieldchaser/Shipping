@@ -51,6 +51,7 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 03/02/23 WS points | 03/02/23 $/day | 27/01/23 WS points | 27/01/23 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 51 | 27,373 | 49 | 21,506 | **27.3%** | 2,246 | 52,119 |
@@ -69,14 +70,14 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 175 | 30,648 | 185 | 33,379 | -8.2% | 2,822 | 12,120 |
 |  | 55K | MED-USG | 175 | 30,443 | 185 | 33,040 | -7.9% | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 267 | 53,593 | 276 | 54,212 | -1.1% | 8,548 | 17,651 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | WONDER SIRIUS | 2005 | 115,340 dwt |  |  |
-| 12 mos | ASTIR LADY | 2009 | 50,286 dwt |  |  |
-
+| 12 mos | WONDER SIRIUS | 2005 | 115,340 dwt | $40,000/day | Trafigura |
+| 12 mos | ASTIR LADY | 2009 | 50,286 dwt | $27,000/day | ST Shipping |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 3/Feb/22 | 50 | 150 | 100 |
@@ -92,8 +93,8 @@ Shanghai 200122 China
 | 3/Dec/22 | 65 | 650 | 600 |
 | 3/Jan/23 | 50 | 200 | 150 |
 | 3/Feb/23 | 45 | 150 | 100 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 3/Feb/22 | 100 | 150 | 200 | 250 |
@@ -168,12 +169,13 @@ In the MR2 sector we had the sale of the "MARKOS I" (45,592dwt-blt '05, Croatia)
 | BHSI | 436 | $7,846 | 431 | $7,763 | **5** | **1.1%** | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | W-SMASH | 2013 | 82,742 dwt |  |  |
-| 3 to 5 mos | POAVOSA WISDOM III | 2011 | 28,232 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | W-SMASH | 2013 | 82,742 dwt | Son Duong 3 Feb | 100% index linked to BP15TC | Costamare |
+| 3 to 5 mos | POAVOSA WISDOM III | 2011 | 28,232 dwt | China 15/28 Feb | $9,100/day | cnr |
 
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | $/day | 03/02/23 | 27/01/23 | ±% | Diff | 2021 | 2020 |
@@ -187,6 +189,7 @@ In the MR2 sector we had the sale of the "MARKOS I" (45,592dwt-blt '05, Croatia)
 |  | **32K 3yr TC** | 9,500 | 9,000 | **5.6%** | **500** | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 3/Feb/22 | 2000 | 2200 | 2500 | 1500 | 2100 |
@@ -204,6 +207,7 @@ In the MR2 sector we had the sale of the "MARKOS I" (45,592dwt-blt '05, Croatia)
 | 3/Feb/23 | 1400 | 1800 | 1600 | 1300 | 1500 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 3/Feb/22 | 15000 | 18000 | 20000 | 12000 |
@@ -252,6 +256,7 @@ In the Supramax sector we had the sale of the "SERENITAS N" (56,811dwt-blt '11, 
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | UBUNTU UNITY | 190,000 | 2023 | SHANGHAI WAIGAOQIAO, China | Wartsila |  |  | undisclosed | Greek (Maran Dry) | DF LNG, Incl. long TC attached, dely Q1 2023 |
@@ -267,8 +272,8 @@ In the Supramax sector we had the sale of the "SERENITAS N" (56,811dwt-blt '11, 
 | HANDY | LAVIEEN ROSE | 33,398 | 2014 | SHIN KURUSHIMA, Japan | Mitsubishi | Oct-24 | 4 X 30t CRANES | low/mid $ 17.0m | undisclosed | OHBS, bss index linked TC back |
 | HANDY | AS ELENIA | 34,421 | 2011 | SPP, S. Korea | MAN-B\&amp;W | Sep-26 | 4 X 35t CRANES | $ 13.3m | Turkish | BWTS fitted |
 | HANDY | PAXI | 28,734 | 2010 | IMABARI, Japan | MAN-B\&amp;W | May-25 | 4 X 30,5t CRANES | undisclosed | undisclosed | BWTS fitted |
-
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | RIO CENTAURUS | 3,426 | 2010 | NORDSEEWERKE, Germany | MAN-B\&amp;W | Jul-25 |  | $ 18.9m | Norwegian | Scrubber fitted, Incl. TC attached, Ice Class II |
@@ -285,6 +290,7 @@ In the Supramax sector we had the sale of the "SERENITAS N" (56,811dwt-blt '11, 
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | ARZOYI | 299,152 | 2002 | HITACHI ZOSEN, Japan | B\&amp;W | Mar-22 | DH | $ 26.7m | Chinese | BWTS &amp; Scrubber fitted auction sale, non classed &amp; laid up |
@@ -296,8 +302,8 @@ In the Supramax sector we had the sale of the "SERENITAS N" (56,811dwt-blt '11, 
 | MR2 | LOUKAS I | 45,568 | 2005 | ULJANIK BRODOGRADILISTE, Croatia | MAN-B\&amp;W | Dec-25 | DH | rgn $ 17.0m | undisclosed | BWTS fitted |
 | SMALL | EGEIRO CYAN | 13,241 | 2008 | JINSE, S. Korea | MAN-B\&amp;W | Oct-23 | DH | $ 7.0m | undisclosed |  |
 | SMALL | NORMANNA | 10,044 | 1996 | POLI PELLESTRINA, Italy | MaK | Oct-26 | DH | $ 5.75m | Turkish | BWTS fitted, StSt, Ice 1C |
-
 ## Secondhand Sales
+
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | BW THOR | 58,610 | 2008 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jun-23 | 80,657 | $ 55.0m | undisclosed | BWTS fitted |
@@ -383,6 +389,7 @@ The previous week was a quiet one with no orders for bulkers at all while the ta
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 03/02/23 | 27/01/23 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |

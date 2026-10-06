@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 <u>By Chara Georgousi, Research Analyst</u>
 
@@ -17,6 +19,7 @@ The MR tanker market is likely to find additional support from recent developmen
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 24/11/23 WS points | 24/11/23 $/day | 17/11/23 WS points | 17/11/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 68 | 47,568 | 76 | 59,215 | -19.7% | 20,330 | 2,246 |
@@ -37,12 +40,11 @@ The MR tanker market is likely to find additional support from recent developmen
 |  | 50k | CARIBS-USG | 232 | 42,974 | 234 | 44,482 | -3.4% | 40,364 | 8,548 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 24 mos |  |  | 40,401 dwt |  |  |
-| 9 mos | ENERGY APOLLO | 2020 | 49,812 dwt |  |  |
-
-### Dirty WS Rates (1-Year Trend)
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 24 mos |  |  | 40,401 dwt | DEL WEST NOV/23 | $24,000/day | ST SHIP |
+| 9 mos | ENERGY APOLLO | 2020 | 49,812 dwt | DEL EAST NOV/23 | $28,300/day | SEARIVER (EXXON) |
+### 1-Year Forward WS Rates - Dirty
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -59,8 +61,7 @@ The MR tanker market is likely to find additional support from recent developmen
 | 24/Sep/23 | 110 | 200 | 400 |
 | 24/Oct/23 | 100 | 180 | 350 |
 | 24/Nov/23 | 90 | 160 | 300 |
-
-### Clean WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Clean
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -127,10 +128,10 @@ Suezmax T/C earnings averaged \$49,039/day, up + \$549/day w-o-w. On the Aframax
 | BHSI | 670 | $12,062 | 599 | $10,786 | **71** | **11.8%** | 1,181 | 1,424 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 24 mos | EVER SHINING |  | 81,842 dwt |  |  |
-| 5/7 mos | EVER EXCELLENT | 2021 |  |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 24 mos | EVER SHINING |  | 81,842 dwt | dely Japan-China 5/25 Dec redel worldwide | $14,500/day | Goldbeam |
+| 5/7 mos | EVER EXCELLENT | 2021 |  | dely Higashi-Hirama 26 Nov redel worldwide | $15,500/day | MOL |
 
 ## TC Rates
 | Sector | Tenor | 24/11/23 | 17/11/23 | ±% | Diff | 2022 | 2021 |
@@ -145,6 +146,7 @@ Suezmax T/C earnings averaged \$49,039/day, up + \$549/day w-o-w. On the Aframax
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 24/Nov/22 | 1400 | 1500 | 1400 | 800 | 1500 |
@@ -162,6 +164,7 @@ Suezmax T/C earnings averaged \$49,039/day, up + \$549/day w-o-w. On the Aframax
 | 24/Nov/23 | 3200 | 2000 | 2000 | 1900 | 2000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 24/Nov/22 | 13000 | 14000 | 13000 | 12000 |
@@ -216,6 +219,7 @@ Supramax 10TC averaged \$ 13,726/day, up +7.88% w-o-w, while the Handysize 7TC a
 | HANDY | TANAIS FLYER | 28,674 | 1998 | IMABARI, Japan | B\&W | Feb-24 | 4 X 30,5t CRANES | $ 4.8m | undisclosed | OHBS |
 
 ## Secondhand Sales
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | NORTHERN DECENCY | 3,963 | 2003 | HYUNDAI, S. Korea | MAN-B\&W | Apr-28 |  | $12.65m | Chinese |
@@ -224,6 +228,7 @@ Supramax 10TC averaged \$ 13,726/day, up +7.88% w-o-w, while the Handysize 7TC a
 | SUB PMAX | AS PAULINE | 2,572 | 2006 | STX, S. Korea | MAN-B\&W | Feb-26 |  |  |  |
 
 ## Secondhand Sales
+
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | SEAPEAK NAPA | 10,790 | 2003 | HUDONG-ZHONGHUA, China | MAN | Oct-28 | 9,875 | $ 9.8m | undisclosed |  |
@@ -301,6 +306,7 @@ tals are pointing to better days as the country has signed a \$1bn deal with the
 | USD/TRY | 28.87 | 28.71 | 0.56% | 28.81 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MSC RITA | 104,849 | 30,712 | 2005 | HANJIN HI, S. Korea | CONTAINER | undisclosed | undisclosed | as is Abu Dhabi |

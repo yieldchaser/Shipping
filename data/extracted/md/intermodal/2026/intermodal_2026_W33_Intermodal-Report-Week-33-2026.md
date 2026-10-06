@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 *By Nikos Tagoulis, Senior Analyst*
 
@@ -17,6 +19,7 @@ More broadly, Mexico's emerging LNG export corridor underscores the growing impo
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 14/08/2026 WS points | 14/08/2026 $/day | 07/08/2026 WS points | 07/08/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 474 | 489,691 | 499 | 520,645 | -5.9% | 60,510 | 37,255 |
@@ -40,8 +43,8 @@ More broadly, Mexico's emerging LNG export corridor underscores the growing impo
 | 12 mos | Primeway | 2018 | 157,470 |
 | --- | --- | --- | --- |
 |  | $75,000 |  | Vitol |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 14/Aug/25 | 150 | 150 | 150 |
@@ -57,8 +60,8 @@ More broadly, Mexico's emerging LNG export corridor underscores the growing impo
 | 14/Jun/26 | 400 | 250 | 300 |
 | 14/Jul/26 | 450 | 300 | 350 |
 | 14/Aug/26 | 450 | 500 | 500 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 14/Aug/25 | 150 | 100 | 150 | 150 |
@@ -161,6 +164,7 @@ Aframax markets showed local fundamentals in the North Sea, Mediterranean, and U
 | 14/Aug/26 | 5000 | 2600 | 2900 | 2100 | 4800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 14/Aug/25 | 25000 | 15000 | 12000 | 10000 |
@@ -202,6 +206,7 @@ Handysize rates eased marginally, with mixed performance. The USG lagged, weighe
 # Secondhand Sales
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SMAX | SONANGOL NAMIBE | 158,425 | 2007 | DAEWOO, South Korea | MAN B\&W | 27-Mar | DH | $ 49.7m | undisclosed |  |

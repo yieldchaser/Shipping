@@ -72,30 +72,30 @@ as orders and tonnage decreased. However, sentiments overall still remain bleak,
 
 # Dry Bulk - S&P Report
 
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS | / BUYERS |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | USD |  |  |
-| NAVIOS OBELIKS | CAPE | 181,415 | 2012 | JAPAN | 29.5 | SYNERGY | MARITIME |
-| HL SHINBORYEONG | CAPE | 179,294 | 2010 | S. KOREA | 25.0 | S. KOREAN | BUYERS |
-| C H S SPLENDOR | CAPE | 170,000 | 2006 | JAPAN | 15.5 |  | UNDISCLOSED |
-| KEY LIGHT | KMAX | 83,027 | 2012 | JAPAN | 23.0 | ABU | DHABI PORTS |
-| OCEAN ROSEMARY | KMAX | 82,265 | 2013 | CHINA | 21.0 |  | UNDISCLOSED |
-| DARYA LOK | KMAX | 81,874 | 2012 | S. KOREA | 21.5 |  | UNDISCLOSED |
-| CMB PARTNER | KMAX | 81,805 | 2016 | CEBU | 29.0 | MINERVA | MARINE |
-| ULTRA PANACHE | PANAMAX | 78,450 | 2011 | JAPAN | 17.0 |  | UNDISCLOSED |
-| CERAFINA | PANAMAX | 74,759 | 2005 | CHINA | 12.0 | GREEK | BUYERS |
-| BULK CARINA | SUPRAMAX | 57,819 | 2016 | CEBU | 22.0 | GREEK | BUYERS |
-| OCEAN ECHO | HANDY | 37,084 | 2013 | JAPAN | 17.5 |  | UNDISCLOSED |
-| NORD QUEBEC | HANDY | 36,546 | 2013 | JAPAN | 17.0 |  | UNDISCLOSED |
-| MANTA CICEK | HANDY | 31,997 | 2011 | JAPAN | 15.5 | NEGMAR | SHIPPING |
-| BLUE BAIE | HANDY | 31,734 | 2006 | JAPAN | 13.0 | TURKISH | BUYERS |
-| TRUDY | HANDY | 30,790 Dry | 2009 Bulk (Weekly) | CHINA Values | 13.0 | BRODIN | SHIPPING |
-| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
-| CAPE | 180,000 | 62 |  | 52 | 35 | 28 | 14 |
-| KAMSARMAX | 82,000 | 34 |  | 37 | 31 | 23 | 11 |
-| SUPRAMAX | 56,000 | 32 |  | 36 | 28 | 19 | 8 |
-| HANDY | 38,000 | 29 |  | 28 | 24 | 16 | 6 |
-| *(AmountinUSD million) |  |  |  |  |  |  |  |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  | PRICE | COMMENTS | / BUYERS |
+|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  | (MILLION) | USD |  |  |
+| NAVIOS OBELIKS | CAPE | 181,415 | 2012 | JAPAN |  | 29.5 | SYNERGY | MARITIME |
+| HL SHINBORYEONG | CAPE | 179,294 | 2010 | S. KOREA |  | 25.0 | S. KOREAN | BUYERS |
+| C H S SPLENDOR | CAPE | 170,000 | 2006 | JAPAN |  | 15.5 |  | UNDISCLOSED |
+| KEY LIGHT | KMAX | 83,027 | 2012 | JAPAN |  | 23.0 | ABU | DHABI PORTS |
+| OCEAN ROSEMARY | KMAX | 82,265 | 2013 | CHINA |  | 21.0 |  | UNDISCLOSED |
+| DARYA LOK | KMAX | 81,874 | 2012 | S. KOREA |  | 21.5 |  | UNDISCLOSED |
+| CMB PARTNER | KMAX | 81,805 | 2016 | CEBU |  | 29.0 | MINERVA | MARINE |
+| ULTRA PANACHE | PANAMAX | 78,450 | 2011 | JAPAN |  | 17.0 |  | UNDISCLOSED |
+| CERAFINA | PANAMAX | 74,759 | 2005 | CHINA |  | 12.0 | GREEK | BUYERS |
+| BULK CARINA | SUPRAMAX | 57,819 | 2016 | CEBU |  | 22.0 | GREEK | BUYERS |
+| OCEAN ECHO | HANDY | 37,084 | 2013 | JAPAN |  | 17.5 |  | UNDISCLOSED |
+| NORD QUEBEC | HANDY | 36,546 | 2013 | JAPAN |  | 17.0 |  | UNDISCLOSED |
+| MANTA CICEK | HANDY | 31,997 | 2011 | JAPAN |  | 15.5 | NEGMAR | SHIPPING |
+| BLUE BAIE | HANDY | 31,734 | 2006 | JAPAN |  | 13.0 | TURKISH | BUYERS |
+| TRUDY | HANDY | 30,790 Dry | 2009 Bulk (Weekly) | CHINA Values |  | 13.0 | BRODIN | SHIPPING |
+| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY |  | 5 YEARS | 10 YEARS | 20 YEARS |
+| CAPE | 180,000 | 62 |  | 52 |  | 35 | 28 | 14 |
+| KAMSARMAX | 82,000 | 34 |  | 37 |  | 31 | 23 | 11 |
+| SUPRAMAX | 56,000 | 32 |  | 36 |  | 28 | 19 | 8 |
+| HANDY | 38,000 | 29 |  | 28 |  | 24 | 16 | 6 |
+| *(AmountinUSD million) |  |  |  |  |  |  |  |  |
 
 [Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
@@ -157,13 +157,13 @@ ELANDRA ELBRUS /
 
 ELANDRA DENALI
 
-| VLCC | 299,999 | 2020 | S. KOREA | 227.0 EN BLOC | BAHRI |
-| --- | --- | --- | --- | --- | --- |
-| AFRA | 107,081 | 2003 | JAPAN | 21.0 | UNDISCLOSED |
-| LR1 | 72,344 | 2003 | VIETNAM | 12.0 | UNDISCLOSED |
-| MR | 50,554 | 2008 | S. KOREA | N/A | TURKISH BUYERS |
-| MR PROD / | 34,783 | 2021 2009 / | CHINA | 34.5 | UNDISCLOSED |
-| CHEM | 17,532 | 2008 | S. KOREA | 24.0 EN BLOC | UNDISCLOSED |
+|  | VLCC | 299,999 | 2020 | S. KOREA | 227.0 EN BLOC | BAHRI |
+|---|---|---|---|---|---|---|
+| KARACHI | AFRA | 107,081 | 2003 | JAPAN | 21.0 | UNDISCLOSED |
+| AUGUSTA | LR1 | 72,344 | 2003 | VIETNAM | 12.0 | UNDISCLOSED |
+| BISMARK BERNAS | MR | 50,554 | 2008 | S. KOREA | N/A | TURKISH BUYERS |
+| GOLDEN CAMELLIA GS FUTURE / | MR PROD / | 34,783 | 2021 2009 / | CHINA | 34.5 | UNDISCLOSED |
+| GS FORWARD | CHEM | 17,532 | 2008 | S. KOREA | 24.0 EN BLOC | UNDISCLOSED |
 
 PROD / WOOJIN CHEMS 12,675 1999 N/A N/A BERLIAN LAJU TANKERS CHEM
 
@@ -222,18 +222,18 @@ to try and reverse the slide in the rates.
 
 # Containers S&P Report
 
-| VESSEL NAME | TYPE | YEAR | BUILT | PRICE | COMMENTS | / |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | (MILLION) | USD |  | BUYERS |
-|  |  | NEW SALES | REPORTED |  |  |  |
-|  |  | Containers (Weekly) | Values |  |  |  |
-| CONTAINERS | GEARED / | NB | NB PROMPT | 5 YEARS | 10 YEARS | 20 YEARS |
-| (by TEU) | GEARLESS | CONTRACT | DELIVERY |  |  |  |
-| 900 - 1,200 | Geared | 24 | 24 | 19 | 16 | 13 |
-| 1,600 - 1,800 | Geared | 29 | 29 | 24 | 19 | 15 |
-| 2,700 - 2,900 | Gearless | 42 | 38 | 33 | 25 | 20 |
-| 5,500 - 7,000 | Gearless | 85 | 105 | 92 | 75 | N/A |
-| *(amount inUSD million) |  |  |  |  |  |  |
+| VESSEL NAME | TYPE |  | YEAR | BUILT | PRICE | COMMENTS | / |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | (MILLION) | USD |  | BUYERS |
+|  |  | NO | NEW SALES | REPORTED |  |  |  |
+|  |  |  | Containers (Weekly) | Values |  |  |  |
+| CONTAINERS | GEARED / |  | NB | NB PROMPT | 5 YEARS | 10 YEARS | 20 YEARS |
+| (by TEU) | GEARLESS |  | CONTRACT | DELIVERY |  |  |  |
+| 900 - 1,200 | Geared |  | 24 | 24 | 19 | 16 | 13 |
+| 1,600 - 1,800 | Geared |  | 29 | 29 | 24 | 19 | 15 |
+| 2,700 - 2,900 | Gearless |  | 42 | 38 | 33 | 25 | 20 |
+| 5,500 - 7,000 | Gearless |  | 85 | 105 | 92 | 75 | N/A |
+| *(amount inUSD million) |  |  |  |  |  |  |  |
 
 [Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 

@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 <mark>By Yiannis Parganas, Head of Research Department</mark>
 
@@ -22,9 +24,9 @@ The main point is that India's coal trade is becoming less useful as a simple vo
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | VL Brilliant | 2014 | 319,547 dwt |  |  |
-
+| 12 mos | VL Brilliant | 2014 | 319,547 dwt | $107,500/day | SC Shipping |
 ## Spot Rates
+
 | Sector | Size | Routes | 19/06/2026 WS points | 19/06/2026 $/day | 12/06/2026 WS points | 12/06/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 472 | 496,873 | 404 | 414,787 | 19.8% | 60,510 | 37,255 |
@@ -60,6 +62,7 @@ The main point is that India's coal trade is becoming less useful as a simple vo
 |  | 36k 3yr TC | 17,500 | 17,500 | 0.0% | 0 | 16,902 | 19,993 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 19/jun/25 | 100 | 150 | 200 |
@@ -77,6 +80,7 @@ The main point is that India's coal trade is becoming less useful as a simple vo
 | 19/jun/26 | 450 | 200 | 200 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 19/jun/25 | 150 | 100 | 200 | 250 |
@@ -128,10 +132,11 @@ Aframaxes in the Mediterranean softened early as available tonnage outweighed ca
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 11 to 13 mos | UM Hakata | 2025 | 64,100 dwt |  |  |
-| 12 mos | Newseas Crystal | 2013 | 63,548 dwt |  |  |
+| 11 to 13 mos | UM Hakata | 2025 | 64,100 dwt | $20,000/day | Fednav |
+| 12 mos | Newseas Crystal | 2013 | 63,548 dwt | $19,500/day | cnr |
 
 ### Baltic Indices (1-Year Trend)
+
 | Series BCI BPI BSI BHSI BDI | 19/Jun/25 2800 1800 1400 1000 1600 | 19/Jul/25 3500 1900 1500 1100 1700 | 19/Aug/25 3200 1700 1400 1000 1600 | 19/Sep/25 3400 1800 1500 1100 1700 | 19/Oct/25 3300 1600 1300 900 1500 | 19/Nov/25 5200 2600 1400 1000 2500 | 19/Dec/25 2800 1500 1200 800 1400 | 19/Jan/26 3200 2400 1800 1200 2200 | 19/Feb/26 3000 2200 1700 1100 2000 | 19/Mar/26 4200 2800 2000 1400 2600 | 19/Apr/26 4800 3000 2200 1500 2800 | 19/May/26 5200 2900 2100 1400 2700 | 19/Jun/26 3800 2100 2000 1300 2000 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
@@ -270,8 +275,8 @@ In Turkey the market softened, pressured by tepid demand and less competitive pr
 | USD/INR | 94.33 | 95.11 | -0.83% | 95.97 |
 | USD/PKR | 278.20 | 278.30 | -0.04% | 280.05 |
 | USD/TRY | 46.43 | 46.27 | 0.36% | 46.43 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ANDHIKA PARAMESTI | 73,726 | 9,369 | 1997 | SUMITOMO, Japan | BC | $451/Ldt | undisclosed | as is Indonesia |

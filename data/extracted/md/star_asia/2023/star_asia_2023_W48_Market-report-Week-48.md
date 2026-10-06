@@ -313,9 +313,13 @@ EXCHANGE RATES
 
 ## Commodities
 
-Iron ore prices saw an increase following a surprise rise in China's steel industry purchasing managers index (PMI) to 48.2, beating expectations. The demand for steel in China had been subdued due to a sluggish property market, but optimism for a rebound grew following Beijing's announcement of support measures. The iron ore market is facing tight conditions with a lack of growth in supply, as developers are hesitant amid concerns about weak demand from China. This scarcity in the iron ore project pipeline is expected to persist, contributing to a sustained tight market. Low inventories and the likelihood of restocking are anticipated to provide robust support to prices in the near future.
+**Iron ore prices saw an increase following a surprise rise in China's steel industry**
 
-Copper prices experienced a slight uptick due to supply disruptions offsetting concerns arising from China's lower-than-anticipated November factory activity, reflected in an official PMI of 49.2, signaling persistent challenges in economic growth. The closure of First Quantum's Cobre mine in Panama, mandated by the government, has refocused attention on ongoing supply-side problems that have troubled the metals sector in recent years. Despite this, most other metals recorded declines in response to China's PMI figures, highlighting broader anxieties about economic conditions. The copper market's response reflects a delicate balance between global supply issues and the challenges posed by China's economic performance, with supply disruptions offering a counterweight to broader market concerns.
+purchasing managers index (PMI) to 48.2, beating expectations. The demand for steel in China had been subdued due to a sluggish property market, but optimism for a rebound grew following Beijing's announcement of support measures. The iron ore market is facing tight conditions with a lack of growth in supply, as developers are hesitant amid concerns about weak demand from China. This scarcity in the iron ore project pipeline is expected to persist, contributing to a sustained tight market. Low inventories and the likelihood of restocking are anticipated to provide robust support to prices in the near future.
+
+**Copper prices experienced a slight uptick due to supply disruptions offsetting concerns**
+
+arising from China's lower-than-anticipated November factory activity, reflected in an official PMI of 49.2, signaling persistent challenges in economic growth. The closure of First Quantum's Cobre mine in Panama, mandated by the government, has refocused attention on ongoing supply-side problems that have troubled the metals sector in recent years. Despite this, most other metals recorded declines in response to China's PMI figures, highlighting broader anxieties about economic conditions. The copper market's response reflects a delicate balance between global supply issues and the challenges posed by China's economic performance, with supply disruptions offering a counterweight to broader market concerns.
 
 Iron Ore
 

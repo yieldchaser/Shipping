@@ -48,34 +48,34 @@ Handy market shows regional variation this week, with stability in the Cont. and
 
 # Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
-| --- | --- | --- | --- | --- | --- | --- |
-| BDI | 1,602 | 1,643 |  | 1,821 | -2.50% | -12.03% |
-| BCI | 2,472 | 2,676 |  | 2,637 | -7.62% | -6.26% |
-| BPI | 1,497 | 1,375 |  | 1,879 | +8.87% | -20.33% |
-| BSI | 995 | 1,012 |  | 1,331 | -1.68% | -25.24% |
-| BHSI | 614 | 596 |  | 772 | +3.02% | -20.47% |
-|  |  | Dry | Bulk | Values (Weekly) |  |  |
-| TYPE | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS 15 YEARS |
-| CAPE |  | 68 |  | 70 | 50 | 38 29 |
-| KAMSARMAX |  | 37 |  | 35 | 30 | 24 19 |
-| SUPRAMAX |  | - |  | - | 27 | 20 13 |
-| HANDY |  | 31 |  | 33 | 25 | 17 14 |
-| *(amount in USD |  |  |  |  |  |  |
-|  |  | Dry | Bulk - | S&P Report |  |  |
-|  |  |  |  |  | PRICE |  |
-| VESSEL | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
-|  |  |  |  |  | (MILLION) USD |  |
-| ARABELLA | CAPE | 177,005 | 2005 | JAPAN | 18.0 | UNDISCLOSED |
-| GRAECIA | PMAX | 73,902 | 2005 | JAPAN | 8.0 | MIDDLE EASTERN BUYERS |
-| NAUTILUS | PMAX | 73,389 | 2001 | JAPAN | 6.5 | UNDISCLOSED |
-| LOWLANDS | SMAX | 55,381 | 2007 | JAPAN | 11.0 | CHINESE BUYERS |
-| JIN SHUN | SMAX | 53,350 | 2007 | CHINA | 8.25 | YUHE SHIPPING LTD |
-| TOROS-M | SMAX | 50,296 | 2002 | JAPAN | 6.8 | VIETNAMESE BUYERS |
-| WARMIS | HANDY | 38,981 | 2005 | CHINA | 6.3 | UNDISCLOSED |
-| IZANAGI | HANDY | 37,105 | 2021 | JAPAN | 24.0 | UNDISCLOSED |
-| TATE J | HANDY | 34,439 | 2012 | S. KOREA | 13.0 | UNDISCLOSED |
-| ATLANTIC | HANDY | 33,407 | 2016 | JAPAN | 17.5 | UNDISCLOSED |
+| INDICES |  | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
+|---|---|---|---|---|---|---|---|
+| BDI |  | 1,602 | 1,643 |  | 1,821 | -2.50% | -12.03% |
+| BCI |  | 2,472 | 2,676 |  | 2,637 | -7.62% | -6.26% |
+| BPI |  | 1,497 | 1,375 |  | 1,879 | +8.87% | -20.33% |
+| BSI |  | 995 | 1,012 |  | 1,331 | -1.68% | -25.24% |
+| BHSI |  | 614 | 596 |  | 772 | +3.02% | -20.47% |
+|  |  |  | Dry | Bulk | Values (Weekly) |  |  |
+| TYPE | DWT | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS 15 YEARS |
+| CAPE | 180,000 |  | 68 |  | 70 | 50 | 38 29 |
+| KAMSARMAX | 82,000 |  | 37 |  | 35 | 30 | 24 19 |
+| SUPRAMAX | 56,000 |  | - |  | - | 27 | 20 13 |
+| HANDY | 38,000 |  | 31 |  | 33 | 25 | 17 14 |
+| *(amount in USD | million) |  |  |  |  |  |  |
+|  |  |  | Dry | Bulk - | S&P Report |  |  |
+|  |  |  |  |  |  | PRICE |  |
+| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
+|  |  |  |  |  |  | (MILLION) USD |  |
+| ARABELLA |  | CAPE | 177,005 | 2005 | JAPAN | 18.0 | UNDISCLOSED |
+| GRAECIA | UNIVERSALIS | PMAX | 73,902 | 2005 | JAPAN | 8.0 | MIDDLE EASTERN BUYERS |
+| NAUTILUS |  | PMAX | 73,389 | 2001 | JAPAN | 6.5 | UNDISCLOSED |
+| LOWLANDS | OPAL | SMAX | 55,381 | 2007 | JAPAN | 11.0 | CHINESE BUYERS |
+| JIN SHUN |  | SMAX | 53,350 | 2007 | CHINA | 8.25 | YUHE SHIPPING LTD |
+| TOROS-M |  | SMAX | 50,296 | 2002 | JAPAN | 6.8 | VIETNAMESE BUYERS |
+| WARMIS |  | HANDY | 38,981 | 2005 | CHINA | 6.3 | UNDISCLOSED |
+| IZANAGI | HARMONY | HANDY | 37,105 | 2021 | JAPAN | 24.0 | UNDISCLOSED |
+| TATE J |  | HANDY | 34,439 | 2012 | S. KOREA | 13.0 | UNDISCLOSED |
+| ATLANTIC | BRAVE | HANDY | 33,407 | 2016 | JAPAN | 17.5 | UNDISCLOSED |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -107,9 +107,13 @@ Despite limited new cargo flow in the Middle East market, rates closed higher du
 
 Clean:
 
-**LR:** LR2 in the Middle East began the week with a firm start as it has been for the last 3 weeks. However, mid-week, rates adjusted charterers' schedule falling slightly to WSWS163 for trips to Japan. The opposite was seen for the LR1s, as they ended the week higher at WS180.
+**LR: LR2 in the Middle East began the week with a firm start as it has been for the last 3**
 
-**MR:** The Far East market closed with a slight weakness as the decline in new demand continued from previous week. In the USG, levels saw a firmer outlook with an uptick in enquiry. USG/UKC improved some 15 points to WS136.
+weeks. However, mid-week, rates adjusted charterers' schedule falling slightly to WSWS163 for trips to Japan. The opposite was seen for the LR1s, as they ended the week higher at WS180.
+
+**MR: The Far East market closed with a slight weakness as the decline in new demand**
+
+continued from previous week. In the USG, levels saw a firmer outlook with an uptick in enquiry. USG/UKC improved some 15 points to WS136.
 
 # Baltic Exchange Tanker Indices
 
@@ -242,33 +246,33 @@ The Indian market continues to face sluggish conditions despite a slight improve
 
 Anchorage
 
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| --- | --- | --- | --- | --- |
-| ION | CHEM.TANKER | 3,868 | 26.03.2025 | 29.03.2025 |
-| KG 7 | CHEM.TANKER | 2,649 | 22.03.2025 | 28.03.2025 |
-| HESEN M | GENERAL CARGO | 2,240 | 08.03.2025 | 21.02.2025 |
-| EPON | GENERAL CARGO | 2,689 | 15.03.2025 | 18.03.2025 |
-| AK HAMBURG | GENERAL CARGO | 2,616 | 28.02.2025 | 11.03.2025 |
-| KALINA | GENERAL CARGO | 5,150 | 02.03.2025 | 06.03.2025 |
-| ELAN | TANKER | 13,394 | 02.03.2025 | 05.03.2025 |
-| ATHINA I | TANKER | 14,883 | 28.02.2025 | 04.03.2025 |
-| IRIS OF SEA | RORO | 2,783 | 26.02.2025 | 03.03.2025 |
-| TALENT BLUE | BULKER | 3,589 | 21.02.2025 | 01.03.2025 |
-| As the nation heads into significantly. The ship recyclers already holding capacity needs. In March arrived at recycling yards, Looking ahead, the market production, while underlying Anchorage | an extended Ramadan recycling market has ample tonnage at alone, approximately ensuring a robust may experience a demand remains & Beaching | holiday, seen a decline yards, 132,683 light ahead of price correction lackluster. Position (MARCH | economic activity has in demand, with effectively satisfying displacement tons Eid-related as these vessels 2025) | slowed most current (LDT) buying. re-enter |
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| ELLI | BULKER | 9,242 | 27.03.2025 | AWAITING |
-| RICH ANNA | GC | 1,010 | 27.03.2025 | AWAITING |
-| EQUATOR | VLCC | 43,649 | 19.03.2025 | AWAITING |
-| THREE STAR | BULKER | 7,627 | 23.01.2025 | AWAITING |
-| VIK | TANKER | 1,330 | 19.03.2025 | 26.03.2025 |
-| SUNGHO | GENERAL CARO | 2,345 | 13.03.2024 | 20.03.2025 |
-| BEST UNITY | BULKER | 9,826 | 13.03.2024 | 17.03.2025 |
-| TASOS | BULKER | 10,738 | 11.03.2024 | 17.03.2025 |
-| TRADER III | LNG | 29,101 | 10.03.2024 | 15.03.2025 |
-| RUN FU 7 | BULKER | 6,977 | 10.03.2024 | 13.03.2025 |
-| GENERALIS | GENERAL CARGO | 3,311 | 14.02.2025 | 12.03.2024 |
-| BANGLAR JYOTI | TANKER | 3,787 | - | 11.03.2024 |
-| BANGLAR SHOURAV | TANKER | 3,740 | - | 10.03.2024 |
+| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
+| ION | CHEM.TANKER |  | 3,868 | 26.03.2025 | 29.03.2025 |
+| KG 7 | CHEM.TANKER |  | 2,649 | 22.03.2025 | 28.03.2025 |
+| HESEN M | GENERAL CARGO |  | 2,240 | 08.03.2025 | 21.02.2025 |
+| EPON | GENERAL CARGO |  | 2,689 | 15.03.2025 | 18.03.2025 |
+| AK HAMBURG | GENERAL CARGO |  | 2,616 | 28.02.2025 | 11.03.2025 |
+| KALINA | GENERAL CARGO |  | 5,150 | 02.03.2025 | 06.03.2025 |
+| ELAN | TANKER |  | 13,394 | 02.03.2025 | 05.03.2025 |
+| ATHINA I | TANKER |  | 14,883 | 28.02.2025 | 04.03.2025 |
+| IRIS OF SEA | RORO |  | 2,783 | 26.02.2025 | 03.03.2025 |
+| TALENT BLUE | BULKER |  | 3,589 | 21.02.2025 | 01.03.2025 |
+| As the nation heads into significantly. The ship recyclers already holding capacity needs. In March arrived at recycling yards, Looking ahead, the market production, while underlying Anchorage | an extended Ramadan recycling market has ample tonnage at alone, approximately ensuring a robust may experience a demand remains & Beaching | Chattogram also their supply | holiday, seen a decline yards, 132,683 light ahead of price correction lackluster. Position (MARCH | economic activity has in demand, with effectively satisfying displacement tons Eid-related as these vessels 2025) | slowed most current (LDT) buying. re-enter |
+| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
+| ELLI | BULKER |  | 9,242 | 27.03.2025 | AWAITING |
+| RICH ANNA | GC |  | 1,010 | 27.03.2025 | AWAITING |
+| EQUATOR | VLCC |  | 43,649 | 19.03.2025 | AWAITING |
+| THREE STAR | BULKER |  | 7,627 | 23.01.2025 | AWAITING |
+| VIK | TANKER |  | 1,330 | 19.03.2025 | 26.03.2025 |
+| SUNGHO | GENERAL CARO |  | 2,345 | 13.03.2024 | 20.03.2025 |
+| BEST UNITY | BULKER |  | 9,826 | 13.03.2024 | 17.03.2025 |
+| TASOS | BULKER |  | 10,738 | 11.03.2024 | 17.03.2025 |
+| TRADER III | LNG |  | 29,101 | 10.03.2024 | 15.03.2025 |
+| RUN FU 7 | BULKER |  | 6,977 | 10.03.2024 | 13.03.2025 |
+| GENERALIS | GENERAL CARGO |  | 3,311 | 14.02.2025 | 12.03.2024 |
+| BANGLAR JYOTI | TANKER |  | 3,787 | - | 11.03.2024 |
+| BANGLAR SHOURAV | TANKER |  | 3,740 | - | 10.03.2024 |
 
 ## Shipbroking (www.star-asia.com.sg)
 

@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By <u>Chara Georgousi, Research Analyst</u>
 
@@ -13,6 +15,7 @@ Ammonia, known for its toxicity and corrosiveness, is typically transported usin
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 09/02/24 WS points | 09/02/24 $/day | 02/02/24 WS points | 02/02/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 67 | 45,856 | 59 | 36,758 | **24.8%** | 39,466 | 20,330 |
@@ -34,9 +37,10 @@ Ammonia, known for its toxicity and corrosiveness, is typically transported usin
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | LARGO EVOLUTION | 2015 | 49,750 dwt |  |  |
+| 12 mos | LARGO EVOLUTION | 2015 | 49,750 dwt | $32,400/day | Union Maritime |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 9/Feb/23 | 50 | 150 | 350 |
@@ -53,6 +57,7 @@ Ammonia, known for its toxicity and corrosiveness, is typically transported usin
 | 9/Feb/24 | 50 | 150 | 180 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 9/Feb/23 | 120 | 250 | 280 | 300 |
@@ -119,10 +124,10 @@ On the Aframax front, T/C earnings averaged \$48,238/day, down - \$2,568/day w-o
 | BHSI | 568 | $10,233 | 585 | $10,523 | -17 | -2.8% | 586 | 1,181 |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 7 to 9 mos | ARNICA | 2010 | 56,106 dwt |  |  |
-| 12 mos | AQUARBY | 2022 | 82,015 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 7 to 9 mos | ARNICA | 2010 | 56,106 dwt | dely Taicang 5/10 Feb redel worldwide | $13,000/day | Quadra |
+| 12 mos | AQUARBY | 2022 | 82,015 dwt | dely Hanjiang 22/25 Feb redel worldwide | index linked at 116% to BPI | Berge Bulk |
 
 ### TC Rates
 | Sector | Tenor | 09/02/24 | 02/02/24 | ±% | Diff | 2023 | 2022 |
@@ -137,6 +142,7 @@ On the Aframax front, T/C earnings averaged \$48,238/day, down - \$2,568/day w-o
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 9/Feb/23 | 1000 | 1000 | 800 | 600 | 800 |
@@ -153,6 +159,7 @@ On the Aframax front, T/C earnings averaged \$48,238/day, down - \$2,568/day w-o
 | 9/Feb/24 | 2200 | 1600 | 1300 | 950 | 2100 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 9/Feb/23 | 5000 | 10000 | 12000 | 8000 |
@@ -191,6 +198,7 @@ Supramax 10TC averaged \$ 11,503/day down -0.74% w-o-w, while the Handysize 7TC 
 # Secondhand Sales
 
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR2 | POLAR ACE | 109,999 | 2018 | DAEHAN, S. Korea | MAN-B\&W | Mar-28 | DH | $ 65.5m each | Greek | BWTS & Scrubber fitted, TCs attached until April-August 2025 at rates in the low US$ 20,000s per day |
@@ -279,6 +287,7 @@ ever, the market could revive quickly if the political climate calms down. One b
 | USD/TRY | 30.56 | 30.40 | 0.5% | 30.65 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | KONSTANTINOS | 43,222 | 7,979 | 1995 | HYUNDAI HEAVY INDS - U, S. Korea | BC | undisclosed | Bangladeshi |

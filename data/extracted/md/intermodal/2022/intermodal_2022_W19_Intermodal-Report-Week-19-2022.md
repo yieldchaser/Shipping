@@ -71,6 +71,7 @@ The Baltic Exchange
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 41 | -8,166 | 44,09 | -7,627 | -7.1% | 2,246 | 52,119 |
@@ -86,14 +87,14 @@ The Baltic Exchange
 |  | 75k | MEG-JAPAN | 290 | 61,076 | 303 | 63,622 | -4.0% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 311 | 47,978 | 316 | 48,085 | -0.2% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 347 | 35,103 | 327 | 29,144 | 20.4% | 4,496 | 12,977 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | NORDIC HARRIER | 2022 | 151,459 dwt |  |  |
-| 9 mos | ALQADISIA | 2008 | 115,577 dwt |  |  |
-
+| 6 mos | NORDIC HARRIER | 2022 | 151,459 dwt | $30,000/day | Vitol |
+| 9 mos | ALQADISIA | 2008 | 115,577 dwt | $21,000/day | Saudi Aramco |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points |
@@ -110,8 +111,8 @@ The Baltic Exchange
 | 13/Mar/22 | 90 | 300 | 280 |
 | 13/Apr/22 | 100 | 290 | 300 |
 | 13/May/22 | 40 | 150 | 140 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 13/May/21 | 100 | 120 | 140 | 160 |
@@ -127,8 +128,8 @@ The Baltic Exchange
 | 13/Mar/22 | 200 | 220 | 240 | 430 |
 | 13/Apr/22 | 210 | 230 | 250 | 320 |
 | 13/May/22 | 220 | 240 | 260 | 310 |
-
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300k 1yr TC** | 28,000 | 28,000 | 0.0% | 0 | 25,684 | 42,038 |
@@ -143,8 +144,8 @@ The Baltic Exchange
 |  | **52k 3yr TC** | 15,000 | 15,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 12,000 | 12,000 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | May-22 avg | Apr-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 75.5 | 73.7 | 2.4% | 69.7 | 71.5 | 72.1 |
@@ -183,12 +184,13 @@ In the LR2 sector we had the sale of the "WONDER ARCTURUS" (106,149dwt-blt '02, 
 | BHSI | 1,673 | $30,107 | 1,640 | $29,516 | 33 | 2.0% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 9 to 12 mos | DRAGON | 2012 | 81,389 dwt |  |  |
-| 3 to 5 mos | CORELEADER OL | 2012 | 37,118 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 9 to 12 mos | DRAGON | 2012 | 81,389 dwt | PMO prompt | $29,000/day | ArcelorMittal |
+| 3 to 5 mos | CORELEADER OL | 2012 | 37,118 dwt | South Korea prompt | $35,500/day | cnr |
 
 ## TC Rates
+
 | Sector | Tenor | 13/05/2022 | 06/05/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 40,000 | 37,000 | **8.1%** | **3,000** | 32,684 | 15,361 |
@@ -205,6 +207,7 @@ In the LR2 sector we had the sale of the "WONDER ARCTURUS" (106,149dwt-blt '02, 
 |  | **32K 3yr TC** | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 13/May/21 | 4200 | 2800 | 1800 | 1500 | 4000 |
@@ -222,6 +225,7 @@ In the LR2 sector we had the sale of the "WONDER ARCTURUS" (106,149dwt-blt '02, 
 | 13/May/22 | 3100 | 3400 | 3200 | 2200 | 3400 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 13/May/21 | 35000 | 26000 | 25000 | 24000 |
@@ -271,6 +275,7 @@ In the Supramax sector we had the sale of the "PAN CROCUS" (57,269dwt-blt '09, C
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | LEONIDAS | 318,325 | 2009 | HYUNDAI ULSAN, S. Korea | Wartsila | Oct-24 | DH | rgn $ 42.0m | S. Korean (Sinokor) |  |
@@ -294,6 +299,7 @@ In the Supramax sector we had the sale of the "PAN CROCUS" (57,269dwt-blt '09, C
 # Intermodal Secondhand Sales
 
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | MINERAL YARDEN | 181,218 | 2016 | IMABARI, Japan | MAN-B\&amp;W | May-26 |  | rgn $ 51.5m | German (Valhal) | incl 5 yrs TC attached at $26,000 p/d |
@@ -308,12 +314,14 @@ In the Supramax sector we had the sale of the "PAN CROCUS" (57,269dwt-blt '09, C
 | HANDY | JIN DA | 35,212 | 2011 | NANJING DONGZE, China | MAN-B\&amp;W | Sep-26 | 4 X 30,5t CRANES | low-mid $ 17.0m | undisclosed | BWTS &amp; Logs fitted |
 
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | MSC PARIS | 8,204 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Jan-26 |  | $ 31.0m | undisclosed |
 | FEEDER | EASLINE QINGDAO | 1,550 | 2001 | GUANGZHOU WENCHONG, China | B&amp;W | May-26 | 2 X 40t CRANES | $ 19.0m | Swiss (MSC) |
 
 ## Secondhand Sales
+
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | SCF MITRE | 93,585 | 2015 | STX OFFSHORE, JINHAE | MAN | Apr-25 | 167,158 |  |  |  |
@@ -327,6 +335,7 @@ In the Supramax sector we had the sale of the "PAN CROCUS" (57,269dwt-blt '09, C
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 13/05/2022 | 06/05/2022 | ±% | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -379,8 +388,8 @@ The shipbuilding market activity appeared quiet last week, which is more or less
 | 13/Mar/22 | 60 | 34 | 34 | 28 |
 | 13/Apr/22 | 60 | 34 | 34 | 28 |
 | 13/May/22 | 60 | 34 | 34 | 28 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Bulker | 64,000 dwt | Nihon, Japan | 2024 | Greek (Globus Maritime) | $ 37.5m | Tier III, conventionally fuelled |
@@ -393,6 +402,7 @@ The shipbuilding market activity appeared quiet last week, which is more or less
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 13/05/2022 | 06/05/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -423,8 +433,8 @@ The demolition scrap levels lost further ground last week heavily burdened by th
 | 13/Mar/22 | 670 | 650 | 660 | 450 |
 | 13/Apr/22 | 660 | 640 | 650 | 450 |
 | 13/May/22 | 640 | 630 | 640 | 390 |
-
 ## Indicative Demolition Prices ($/ldt)
+
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HL RICHARDS BAY | 149,350 | 18,119 | 1997 | HYUNDAI ULSAN, S. Korea | BC | undisclosed | undisclosed | dely as-is Singapore/Korea |

@@ -50,34 +50,34 @@ regain leverage, pushing Pacific R/V rates up significantly to US$13,800's. In t
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
-| --- | --- | --- | --- | --- | --- | --- |
-| BDI | 2,665 | 2,567 |  | 1,373 | +3.82% | +94.10% |
-| BCI | 4,282 | 4,128 |  | 1,889 | +3.73% | +126.68% |
-| BPI | 1,960 | 1,975 |  | 1,392 | -0.76% | +40.80% |
-| BSI | 1,535 | 1,415 |  | 977 | +8.48% | +57.11% |
-| BHSI | 797 | 741 |  | 568 | +7.56% | +40.32% |
-|  |  | Dry | Bulk | Values (Weekly) |  |  |
-| TYPE | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS 15 YEARS |
-| CAPE |  | 75 |  | 81 | 68 53 | (E) 33 |
-| KAMSARMAX |  | 37 |  | 43 | 36 30 | (E) 23 |
-| ULTRAMAX |  | 35 |  | 42 | 35 (E) | 28 18 (56K) |
-| HANDY |  | 30 |  | 36 | 28 | 21 17 |
-| *(amount in USD | \ | (E)-ecounits |  |  |  |  |
-|  |  | Dry | Bulk - | S&P Report |  |  |
-|  |  |  |  |  | PRICE |  |
-| VESSEL | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
-|  |  |  |  |  | (MILLION) USD |  |
-| OHSHU | POST PMAX | 92,075 | 2011 | JAPAN | 16.2 | UNDISCLOSED |
-| DONOUSA | PMAX | 76,429 | 2004 | JAPAN | 9.65 | UNDISCLOSED |
-| PRABHU | PMAX | 76,310 | 2004 | JAPAN | UNDISCLSED | FAR EASTERN BUYERS |
-| NEW DAYANG NEW DAYANG | UMAX | 64,100 | 2027 | CHINA | 36.5 EACH | GREEK BUYERS |
-| ASL IXORA | UMAX | 61,470 | 2012 | JAPAN | 20.0 | CHINESE BUYERS |
-| AMORE | UMAX | 61,453 | 2012 | JAPAN | 20.4 | CHINESE BUYERS |
-| SUNNY | SMAX | 58,772 | 2011 | JAPAN | 18.5 | ANASSA SHIPPING |
-| K. RUBY | SMAX | 55,688 | 2011 | JAPAN | 15.8 | CHINESE BUYERS |
-| ASTERIS | SMAX | 53,629 | 2007 | CHINA | 9.8 | UNDISCLOSED |
-| JUNO BRAVE | HANDY | 25,081 | 2012 | JAPAN | 6.5 | VIETNAMESE BUYERS |
+| INDICES |  | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
+|---|---|---|---|---|---|---|---|
+| BDI |  | 2,665 | 2,567 |  | 1,373 | +3.82% | +94.10% |
+| BCI |  | 4,282 | 4,128 |  | 1,889 | +3.73% | +126.68% |
+| BPI |  | 1,960 | 1,975 |  | 1,392 | -0.76% | +40.80% |
+| BSI |  | 1,535 | 1,415 |  | 977 | +8.48% | +57.11% |
+| BHSI |  | 797 | 741 |  | 568 | +7.56% | +40.32% |
+|  |  |  | Dry | Bulk | Values (Weekly) |  |  |
+| TYPE | DWT | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS 15 YEARS |
+| CAPE | 180,000 |  | 75 |  | 81 | 68 53 | (E) 33 |
+| KAMSARMAX | 82,000 |  | 37 |  | 43 | 36 30 | (E) 23 |
+| ULTRAMAX | 64,000 |  | 35 |  | 42 | 35 (E) | 28 18 (56K) |
+| HANDY | 38,000 |  | 30 |  | 36 | 28 | 21 17 |
+| *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |  |
+|  |  |  | Dry | Bulk - | S&P Report |  |  |
+|  |  |  |  |  |  | PRICE |  |
+| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
+|  |  |  |  |  |  | (MILLION) USD |  |
+| OHSHU | MARU | POST PMAX | 92,075 | 2011 | JAPAN | 16.2 | UNDISCLOSED |
+| DONOUSA |  | PMAX | 76,429 | 2004 | JAPAN | 9.65 | UNDISCLOSED |
+| PRABHU | YUVIKA | PMAX | 76,310 | 2004 | JAPAN | UNDISCLSED | FAR EASTERN BUYERS |
+| NEW DAYANG NEW DAYANG | NDY1315/ NDY1316 | UMAX | 64,100 | 2027 | CHINA | 36.5 EACH | GREEK BUYERS |
+| ASL IXORA |  | UMAX | 61,470 | 2012 | JAPAN | 20.0 | CHINESE BUYERS |
+| AMORE |  | UMAX | 61,453 | 2012 | JAPAN | 20.4 | CHINESE BUYERS |
+| SUNNY | ROYAL | SMAX | 58,772 | 2011 | JAPAN | 18.5 | ANASSA SHIPPING |
+| K. RUBY |  | SMAX | 55,688 | 2011 | JAPAN | 15.8 | CHINESE BUYERS |
+| ASTERIS |  | SMAX | 53,629 | 2007 | CHINA | 9.8 | UNDISCLOSED |
+| JUNO BRAVE |  | HANDY | 25,081 | 2012 | JAPAN | 6.5 | VIETNAMESE BUYERS |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -149,17 +149,17 @@ The container market exhibited relative stability this week, with the SCFI index
 
 ## Containers Values
 
-| CONTAINERS GEARED | / | NB | NB PROMPT | 15 |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| (BY TEU) | GEARLESS | CONTRACT | DELIVERY | YEARS |
-| 900 ~ 1,200 | Geared | 25 | 29 | 12 |
-| 1,600 ~ 1,850 | Gearless | 32 | 38 | 18 |
-| 2,700 ~ 2,900 | Gearless | 44 | 46 | 26 |
-| 5,100 ~ 5,300 | Gearless | 55 | 79 | 39 |
-| *(amount in USD | million) | \ |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| CONTAINERS GEARED | / | NB |  | NB PROMPT |  |  | 15 |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
+| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
+| 900 ~ 1,200 | Geared | 25 |  | 29 | 23 | 18 | 12 |
+| 1,600 ~ 1,850 | Gearless | 32 |  | 38 | 30 (E) | 25 (E) | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 |  | 46 | 40 | 35 | 26 |
+| 5,100 ~ 5,300 | Gearless | 55 |  | 79 | 64 | - | 39 |
+| *(amount in USD | million) | \|=Ecounits |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 
 S&P Containers Report
 

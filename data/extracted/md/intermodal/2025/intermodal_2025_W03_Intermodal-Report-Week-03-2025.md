@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 *By Nikos Tagoulis, Senior Analyst*
 
@@ -21,6 +23,7 @@ Finally, another factor expected to contribute to the increase in candidate vess
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 17/01/25 WS points | 17/01/25 $/day | 10/01/25 WS points | 10/01/25 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 78 | 60,328 | 50 | 29,408 | **105.1%** | 37,255 | 39,466 |
@@ -40,6 +43,7 @@ Finally, another factor expected to contribute to the increase in candidate vess
 |  | 50k | ARA-UKC | 174 | 20,695 | 154 | 16,746 | **23.6%** | 26,872 | 46,194 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 17/Jan/24 | 400 | 100 | 400 |
@@ -55,8 +59,8 @@ Finally, another factor expected to contribute to the increase in candidate vess
 | 17/Nov/24 | 50 | 110 | 150 |
 | 17/Dec/24 | 50 | 110 | 150 |
 | 17/Jan/25 | 50 | 110 | 150 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 17/Jan/24 | 350 | 350 | 350 | 350 |
@@ -120,10 +124,10 @@ Suezmax T/C earnings averaged \$ 27,226/day, up +40.01% w -o- w. On the Aframax 
 | BHSI | 453 | $8,161 | 508 | $9,143 | -55 | -10.7% | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | EVER ZENITH | 2021 | 81,987 dwt |  |  |
-| 5 to 7 mos | DSI AQUILLA | 2020 | 60,309 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 to 6 mos | EVER ZENITH | 2021 | 81,987 dwt | dely Vietnam 20 Jan redel worldwide | $12,500/day | Oldendorff |
+| 5 to 7 mos | DSI AQUILLA | 2020 | 60,309 dwt | dely Damman in d/c | $12,250/day | Western Bulk Carriers |
 
 ## TC Rates
 | Sector | Tenor | 17/01/25 | 10/01/25 | ±% | Diff | 2024 | 2023 |
@@ -138,6 +142,7 @@ Suezmax T/C earnings averaged \$ 27,226/day, up +40.01% w -o- w. On the Aframax 
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 17/Jan/24 | 2000 | 1800 | 1200 | 800 | 1500 |
@@ -155,6 +160,7 @@ Suezmax T/C earnings averaged \$ 27,226/day, up +40.01% w -o- w. On the Aframax 
 | 17/Jan/25 | 1600 | 1100 | 800 | 300 | 800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 17/Jan/24 | 15000 | 12000 | 10000 | 8000 |
@@ -270,6 +276,7 @@ The ship recycling market remains constrained, characterized by limited activity
 | USD/TRY | 35.43 | 35.39 | 0.1% | 35.47 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | OCEAN PEACE | 72,338 | 11,654 | 1994 | HYUNDAI, S. Korea | BC | $ 455.0m | Bangladeshi | with 200 Ts bunkers |

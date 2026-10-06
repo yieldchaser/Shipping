@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -34,6 +36,7 @@ Activity in the demolition market has also shown divergent trends across the two
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 07/06/24 WS points | 07/06/24 $/day | 31/05/24 WS points | 31/05/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 54 | 34,062 | 59 | 37,896 | -10.1% | 39,466 | 20,330 |
@@ -51,13 +54,13 @@ Activity in the demolition market has also shown divergent trends across the two
 |  | 55K | UKC-USG | 145 | 18,164 | 145 | 17,083 | **6.3%** | 27,274 | 19,982 |
 |  | 55K | MED-USG | 145 | 18,286 | 145 | 17,483 | **4.6%** | 27,060 | 21,231 |
 |  | 50k | CARIBS-USG | 177 | 24,980 | 180 | 25,239 | -1.0% | 46,194 | 40,364 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | COURAGE | 2008 | 45,965 dwt |  |  |
 
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | COURAGE | 2008 | 45,965 dwt | DEL WEST AUG/24 | $32,000/day | Raizen |
 ## TC Rates
+
 | Sector | Tenor | 07/06/24 | 31/05/24 | ±% | Diff | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 52,000 | 52,000 | 0.0% | 0 | 48,601 | 34,683 |
@@ -72,8 +75,8 @@ Activity in the demolition market has also shown divergent trends across the two
 |  | 52k 3yr TC | 27,000 | 27,000 | 0.0% | 0 | 25,152 | 16,426 |
 | Handy | 36k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 25,760 | 18,601 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 18,200 | 14,585 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Jun-24 avg | May-24 avg | ±% | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 114.0 | 114.0 | 0.0% | 99.5 | 80.2 | 69.7 |
@@ -82,7 +85,12 @@ Activity in the demolition market has also shown divergent trends across the two
 | LR1 | 75KT DH | 52.0 | 52.0 | 0.0% | 49.2 | 38.6 | 31.2 |
 | **MR** | **52KT DH** | **44.5** | **44.5** | **0.0%** | **41.4** | 34.8 | 27.6 |
 
+## Indicative Period Charters
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | COURAGE | 2008 | 45,965 dwt | DEL WEST AUG/24 | $32,000/day | Raizen |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 7/lun/23 | 100 | 100 | 180 |
@@ -98,8 +106,8 @@ Activity in the demolition market has also shown divergent trends across the two
 | 7/Apr/24 | 50 | 150 | 200 |
 | 7/May/24 | 50 | 150 | 200 |
 | 7/lun/24 | 50 | 150 | 200 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 7/lun/23 | 100 | 150 | 150 | 150 |
@@ -142,10 +150,10 @@ On products, freight softened last week, with LR2 MEG/Japan (TC1) losing -14.7% 
 | BHSI | 714 | $12,848 | 720 | $12,966 | -6 | -0.9% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 16/18 mos | ELECTRA | 2013 | 87,146 dwt |  |  |
-| 4/6 months | SEACON ANTWERP | 2024 | 82,332 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 16/18 mos | ELECTRA | 2013 | 87,146 dwt | dely Gunsan 3/6 Jun redel worldwide | $14,000/day | Aquavita |
+| 4/6 months | SEACON ANTWERP | 2024 | 82,332 dwt | del ex yard Tsuneishi Zhoushan 6/10 Jun redel worldwide | $19,400/day | Louis Dreyfus |
 
 ## Baltic Indices
 | Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
@@ -177,6 +185,7 @@ On products, freight softened last week, with LR2 MEG/Japan (TC1) losing -14.7% 
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 7/Jun/23 | 12000 | 10000 | 8000 | 7000 |
@@ -303,6 +312,7 @@ This week's ship recycling market saw little action; some owners delayed scrappi
 | USD/TRY | 32.24 | 32.23 | 0.0% | 32.58 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | SERANO II | 106,552 | 16,290 | 1,999 | NKK CORP, Japan | TANKER | undisclosed | undisclosed |

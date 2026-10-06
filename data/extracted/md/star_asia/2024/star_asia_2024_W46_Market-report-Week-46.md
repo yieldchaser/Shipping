@@ -122,7 +122,7 @@ pages: 21
 
 ## Clean:
 
-**LR:** LR2 MEG market hit a yearly low of WS96, breaking below the crucial WS100 threshold. This decline occurred despite healthy fixture activity, including several Europe-bound cargoes late in the week, as the market struggled to absorb the backlog of available tonnage. MR: The Far East sector showed resilience, supported by rising export volumes from China and Korea driving improved charter demand. The market outlook remains positive through late November, underpinned by relatively tight vessel availability. This supply constraint is expected to maintain firm rate levels in the coming week.
+**LR: LR2 MEG market hit a yearly low of WS96, breaking below the crucial WS100 threshold. This decline occurred despite healthy fixture activity, including several Europe-bound cargoes late in the week, as the market struggled to absorb the backlog of available tonnage. MR: The Far East sector showed resilience, supported by rising export volumes from China and Korea driving improved charter demand. The market outlook remains positive through late November, underpinned by relatively tight vessel availability. This supply constraint is expected to maintain firm rate levels in the coming week.**
 
 ## Baltic Exchange Tanker Indices
 
@@ -267,28 +267,28 @@ pages: 21
 
 ## Anchorage & Beaching Position (November 2024)
 
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| --- | --- | --- | --- | --- |
-| BEREG MATCHY | REEFER | 7,263 | 26.08.2024 | AWAITING* |
-| MSC RAFAELA | CONTAINER | 16,024 | 14.11.2024 | 16.11.2024 |
-| ELIN | CHEM.TANKER | 5,270 | 13.11.2024 | 15.11.2024 |
-| ALI A | GENERAL CARGO | 2,578 | 08.11.2024 | 16.11.2024 |
-| STAR | REEFER | 5,538 | 07.11.2024 | 14.11.2024 |
-| GREEN SELJE | REEFER | 2,979 | 11.11.2024 | 14.11.2024 |
-| WIND | GENERAL CARGO | 2,489 | 01.11.2024 | 07.11.2024 |
-| GREEN BODO | REEFER | 2,957 | 01.11.2024 | 08.11.2024 |
-| CAPT.OSAMA | GENERAL CARGO | 5,207 | 21.10.2024 | 01.11.2024 |
-| TANA | GENERAL CARGO | 7,214 | 25.10.2024 | 01.11.2024 |
-| MSC ALEXA | CONTAINER | 16,228 | 27.10.2024 | 02.11.2024 |
-| Chattogram, Ship recyclers have acquiring vessels of all narrowly focused on steel conditions. This selective that recyclers likely factor immediate outlook suggests recyclers respond to the Once again, Chattogram Chinese ship owners due Alang. Anchorage | Bangladesh maintained consistent sizes for demolition. plates, against a demand could signal into their calculations. potential strengthening steel recyclers saw the to its geographical & Beaching | levels while However, the backdrop of vulnerability Despite these in vessel plate market. of ships location and Position (November | showing renewed current price strength generally weak economic to quick price mixed signals, demolition prices easing, especially better pricing as 2024) | interest in appears reversals, a risk the as from the compared to |
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| RINCH | BULKER | 9,214 | 14.11.2024 | AWAITING |
-| THAILAEMTHONG 3 | TANKER | 843 | 11.11.2024 | AWAITING |
-| GOLD BRIDGE | BULKER | 6,889 | 10.11.2024 | AWAITING |
-| CHUN CHAO 9 | GENERAL CARGO | 2,736 | 05.11.2024 | 08.11.2024 |
-| RADA | TANKER | 18,860 | 26.10.2024 | 01.11.2024 |
-| CHANG FEI HAI | BULKER | 2,942 | 02.11.2024 | 03.11.2024 |
-| YUN DA HAI | BULKER | 2,880 | 03.11.2024 | 07.11.2024 |
+| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
+| BEREG MATCHY | REEFER |  | 7,263 | 26.08.2024 | AWAITING* |
+| MSC RAFAELA | CONTAINER |  | 16,024 | 14.11.2024 | 16.11.2024 |
+| ELIN | CHEM.TANKER |  | 5,270 | 13.11.2024 | 15.11.2024 |
+| ALI A | GENERAL CARGO |  | 2,578 | 08.11.2024 | 16.11.2024 |
+| STAR | REEFER |  | 5,538 | 07.11.2024 | 14.11.2024 |
+| GREEN SELJE | REEFER |  | 2,979 | 11.11.2024 | 14.11.2024 |
+| WIND | GENERAL CARGO |  | 2,489 | 01.11.2024 | 07.11.2024 |
+| GREEN BODO | REEFER |  | 2,957 | 01.11.2024 | 08.11.2024 |
+| CAPT.OSAMA | GENERAL CARGO |  | 5,207 | 21.10.2024 | 01.11.2024 |
+| TANA | GENERAL CARGO |  | 7,214 | 25.10.2024 | 01.11.2024 |
+| MSC ALEXA | CONTAINER |  | 16,228 | 27.10.2024 | 02.11.2024 |
+| Chattogram, Ship recyclers have acquiring vessels of all narrowly focused on steel conditions. This selective that recyclers likely factor immediate outlook suggests recyclers respond to the Once again, Chattogram Chinese ship owners due Alang. Anchorage | Bangladesh maintained consistent sizes for demolition. plates, against a demand could signal into their calculations. potential strengthening steel recyclers saw the to its geographical & Beaching | price improvement supply | levels while However, the backdrop of vulnerability Despite these in vessel plate market. of ships location and Position (November | showing renewed current price strength generally weak economic to quick price mixed signals, demolition prices easing, especially better pricing as 2024) | interest in appears reversals, a risk the as from the compared to |
+| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
+| RINCH | BULKER |  | 9,214 | 14.11.2024 | AWAITING |
+| THAILAEMTHONG 3 | TANKER |  | 843 | 11.11.2024 | AWAITING |
+| GOLD BRIDGE | BULKER |  | 6,889 | 10.11.2024 | AWAITING |
+| CHUN CHAO 9 | GENERAL CARGO |  | 2,736 | 05.11.2024 | 08.11.2024 |
+| RADA | TANKER |  | 18,860 | 26.10.2024 | 01.11.2024 |
+| CHANG FEI HAI | BULKER |  | 2,942 | 02.11.2024 | 03.11.2024 |
+| YUN DA HAI | BULKER |  | 2,880 | 03.11.2024 | 07.11.2024 |
 
 ## Shipbroking (www.star-asia.com.sg)
 

@@ -15,6 +15,8 @@ pages: 8
 
 ---
 
+# Week 39 | Tuesday 29th September 2026
+
 ## Market Insight
 <u>By Nikos Tagoulis, Head of Research Department</u>
 
@@ -41,10 +43,10 @@ In these market conditions, Europe increasingly depends on its ability to compet
 | New Odyssey | 318,167 |
 | --- | --- |
 | $80,000 | ADNOC Logistics |
-## Spot Rates
 
 | Sector | Size | Routes | 25/09/2026 WS points | 25/09/2026 $/day | 18/09/2026 WS points | 18/09/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | WS points | $/day | WS points | $/day |  |  |
 | **VLCC** | 265k | MEG-SPORE | 1,156 | 1,258,994 | 1,113 | 1,208,969 | 4.1% | 60,510 | 37,255 |
 |  | 260k | WAF-CHINA | 512 | 506,643 | 533 | 527,477 | -3.9% | 56,678 | 37,722 |
 | **Suezmax** | 130k | MED-MED | 500 | 457,652 | 545 | 503,460 | -9.1% | 61,085 | 50,058 |
@@ -62,6 +64,7 @@ In these market conditions, Europe increasingly depends on its ability to compet
 |  | 50k | ARA-UKC | 600 | 186,721 | 431 | 122,950 | **51.9%** | 18,615 | 26,872 |
 
 ### TC Rates
+
 | Sector | Tenor | 25/09/2026 | 18/09/2026 | ±% | Diff | 2025 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 300k 1yr TC | 212,500 | 175,000 | **21.4%** | **37500** | 50,615 | 50,365 |
@@ -77,9 +80,9 @@ In these market conditions, Europe increasingly depends on its ability to compet
 | **Handy** | 36k 1yr TC | 22,500 | 22,500 | 0.0% | 0 | 18,519 | 26,606 |
 |  | 36k 3yr TC | 17,750 | 17,750 | 0.0% | 0 | 16,902 | 19,993 |
 
-### Dirty WS Rates (1-Year Trend)
+### Dirty - WS RATES
 
-| Date | TD3 | TD6 | TD9 |
+|  | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 25/Sep/25 | 100 | 150 | 150 |
 | 25/Oct/25 | 80 | 140 | 160 |
@@ -95,9 +98,9 @@ In these market conditions, Europe increasingly depends on its ability to compet
 | 25/Aug/26 | 500 | 450 | 550 |
 | 25/Sep/26 | 1100 | 500 | 550 |
 
-### Clean WS Rates (1-Year Trend)
+### CLEAN - WS RATES
 
-| Date | TC1 | TC2 | TC5 | TC6 |
+|  | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 25/Sep/25 | 150 | 100 | 200 | 250 |
 | 25/Oct/25 | 140 | 90 | 190 | 240 |
@@ -114,6 +117,7 @@ In these market conditions, Europe increasingly depends on its ability to compet
 | 25/Sep/26 | 700 | 180 | 600 | 700 |
 
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Sep-26 avg | Aug-26 avg | ±% | 2025 | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 300KT DH | 167.0 | 157.3 | **6.2%** | 115.5 | 113.0 | 99.5 |
@@ -126,17 +130,18 @@ In these market conditions, Europe increasingly depends on its ability to compet
 
 Last week, crude tanker spot markets continued to strengthen, driven primarily by a sharp rise in Aframax rates, while earnings for larger crude tankers held broadly stable at historically elevated levels. The BDTI averaged 5,366, a 13% increase w-o-w.
 
-The VLCC segment remains exceptionally strong, although rates retreated marginally amid reduced activity in some regions. In the Arabian Gulf, firm cargo flows, STS activity and constrained tonnage continued to support the market, while several private deals reduced visibility. West Africa was quieter on weaker demand, with charterers increasingly splitting stems across smaller vessels, which offered more favorable economics. US Gulf activity was also limited, as some cargoes moved onto smaller units, adding to vessel supply. In Brazil, enquiry is still insufficient to absorb the open tonnage, and further cargoes will be needed to re-balance the market. VLCC TCEs eased by 1% w-o-w to \$714,143/day.
+The VLCC segment remains exceptionally strong, although rates retreated marginally amid reduced activity in some regions. In the Arabian Gulf, firm cargo flows, STS activity and constrained tonnage continued to support the market, while several private deals reduced visibility. West Africa was quieter on weaker demand, with charterers increasingly splitting stems across smaller vessels, which offered more favorable economics. US Gulf activity was also limited, as some cargoes moved onto smaller units, adding to vessel supply. In Brazil, enquiry is still insufficient to absorb the open tonnage, and further cargoes will be needed to re-balance the market. VLCC TCEs eased by 1% w-o-w to $714,143/day.
 
-The Suezmax market remained resilient despite more muted activity across some regions, with the Middle East providing solid support, as healthy demand and firm VLCC earnings continued to generate split cargoes for the segment. In West Africa, activity faded as the week progressed, lengthening the tonnage list. The Med stayed balanced, with a steady flow of enquiries absorbing available ships and keeping levels stable, while the US Gulf came under pressure. Suezmax TCEs slipped by 1% on the week to \$299,424/day.
+The Suezmax market remained resilient despite more muted activity across some regions, with the Middle East providing solid support, as healthy demand and firm VLCC earnings continued to generate split cargoes for the segment. In West Africa, activity faded as the week progressed, lengthening the tonnage list. The Med stayed balanced, with a steady flow of enquiries absorbing available ships and keeping levels stable, while the US Gulf came under pressure. Suezmax TCEs slipped by 1% on the week to $299,424/day.
 
-The Aframax segment was the week's outperformer, with earnings climbing across most trading areas. In the Mediterranean, the backlog of end-month cargoes met limited tonnage, and although enquiry eased thereafter, the robust US Gulf market prevented any meaningful correction. The North Sea followed, supported by a thinner local tonnage list as some vessels repositioned. In Asia, a constrained tonnage pool allowed owners to hold out for higher freight levels despite sluggish activity. Overall, the average TCE rose by 44% w-o-w to \$234,370/day.
+The Aframax segment was the week's outperformer, with earnings climbing across most trading areas. In the Mediterranean, the backlog of end-month cargoes met limited tonnage, and although enquiry eased thereafter, the robust US Gulf market prevented any meaningful correction. The North Sea followed, supported by a thinner local tonnage list as some vessels repositioned. In Asia, a constrained tonnage pool allowed owners to hold out for higher freight levels despite sluggish activity. Overall, the average TCE rose by 44% w-o-w to $234,370/day.
 
 ---
 
 # Intermodal Dry Bulk Market
 
 ## Baltic Indices
+
 | Index Name | 25/09/2026 Index | 25/09/2026 $/day | 18/09/2026 Index | 18/09/2026 $/day | Point Diff | $/day ±% | 2025 Index | 2024 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 3,426 |  | 3,370 |  | 56 |  | 1,677 | 1,743 |
@@ -152,6 +157,7 @@ The Aframax segment was the week's outperformer, with earnings climbing across m
 | Delivery CJK, redelivery worldwide | $21,900 | LDC |
 
 ## TC Rates
+
 | Sector | Tenor | 25/09/2026 | 18/09/2026 | ±% | Diff | 2025 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 44,750 | 44,750 | 0.0% | 0 | 25,238 | 27,014 |
@@ -163,7 +169,9 @@ The Aframax segment was the week's outperformer, with earnings climbing across m
 | **Handysize** | **32K 1yr TC** | 13,750 | 13,750 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices (1-Year Trend)
+## Charts
+
+### Baltic Indices
 
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
@@ -181,9 +189,9 @@ The Aframax segment was the week's outperformer, with earnings climbing across m
 | 25/Aug/26 | 4500 | 2400 | 2400 | 1000 | 3600 |
 | 25/Sep/26 | 5800 | 2500 | 2500 | 1000 | 5800 |
 
-### Average T/C Rates (1-Year Trend)
+### Average T/C Rates
 
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
+| Date | Average of the 5 T / C | AVR 5TC BPI | AVR 10TC BSI | AVR 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 25/Sep/25 | 28000 | 14000 | 15000 | 10000 |
 | 25/Oct/25 | 43000 | 13000 | 14000 | 10000 |
@@ -200,7 +208,8 @@ The Aframax segment was the week's outperformer, with earnings climbing across m
 | 25/Sep/26 | 48000 | 20000 | 20000 | 12000 |
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
-| Sector | Size | Sep-26 avg | Aug-26 avg | ±% | 2025 | 2024 |
+
+| Vessel 5 yrs old | Sep-26 avg | Aug-26 avg | ±% | 2025 | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize Eco** 180k | 74.5 | 72.0 | 3.5% | 63.1 | 62.0 | 48.8 |
 | **Kamsarmax** 82K | 41.9 | 40.8 | 2.8% | 32.3 | 36.6 | 32.0 |
@@ -224,6 +233,7 @@ Handysizes recorded a positive week, underpinned mainly by firmer Atlantic activ
 # Secondhand Sales
 
 ## Tankers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | KAROLOS | 149,991 | 2009 | NEW TIME, China | MAN B\&W | Dec-29 | DH | xs $ 90.0m | undisclosed | Scrubber fitted, basis prompt delivery Med |
@@ -234,7 +244,7 @@ Handysizes recorded a positive week, underpinned mainly by firmer Atlantic activ
 | MR2 | OCEAN SUNRISE | 48,711 | 2006 | IWAGI, Japan | MAN B\&W | Jan-31 | DH | $ 17.0m | undisclosed |  |
 | MR2 | ATLANTIC CROWN | 47,128 | 2007 | HYUNDAI, S. Korea | MAN B\&W | Aug-27 | DH | $ 19.0m | undisclosed |  |
 
-## Secondhand Sales
+## Bulk Carriers
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -248,17 +258,18 @@ Handysizes recorded a positive week, underpinned mainly by firmer Atlantic activ
 
 Newbuilding activity totaled 10 orders for 31 units, spanning across various segments.
 
-In the dry bulk segment, DryDel contracted a pair of 82k dwt Kamsarmaxes at Tsuneishi Shipbuilding for delivery in 2029, at an undisclosed price. Jinhui Shipping ordered two 64.5k dwt Ultramaxes at Jiangmen Nanyang with a price of \$35.7m each and due in 2029. Dassler Anlage-und also inked two 64.5k dwt bulkers at Jiangsu Soho Innovation & Technology for delivery in 2029.
+In the dry bulk segment, DryDel contracted a pair of 82k dwt Kamsarmaxes at Tsuneishi Shipbuilding for delivery in 2029, at an undisclosed price. Jinhui Shipping ordered two 64.5k dwt Ultramaxes at Jiangmen Nanyang with a price of $35.7m each and due in 2029. Dassler Anlage-und also inked two 64.5k dwt bulkers at Jiangsu Soho Innovation & Technology for delivery in 2029.
 
-On the tanker side, Heung-A Shipping ordered three 26k dwt stainless steel chemical tankers at Wuchang Shipbuilding, valued at \$45.5m each with deliveries spanning across 2028-2029. Uni-Tankers added also eight stainless steel 7.6k dwt tankers at Haidong Shipyard over the same delivery window.
+On the tanker side, Heung-A Shipping ordered three 26k dwt stainless steel chemical tankers at Wuchang Shipbuilding, valued at $45.5m each with deliveries spanning across 2028-2029. Uni-Tankers added also eight stainless steel 7.6k dwt tankers at Haidong Shipyard over the same delivery window.
 
-In containerships, Navios secured four scrubber-fitted, methanol ready 10.1k teu boxships at HJ Shipbuilding for \$122m each, against TC contracts and due in 2029, while RCL contracted two pairs of 3.1k teu feeders at CSSC Huangpu Wenchong, for \$57m each with expected delivery in 2029-2030.
+In containerships, Navios secured four scrubber-fitted, methanol ready 10.1k teu boxships at HJ Shipbuilding for $122m each, against TC contracts and due in 2029, while RCL contracted two pairs of 3.1k teu feeders at CSSC Huangpu Wenchong, for $57m each with expected delivery in 2029-2030.
 
-In the gas carrier segment, Zodiac Maritime signed a contract for a pair of 174k cbm LNG carriers at Hanwha Ocean, with a price of \$250m each and delivery set in 2029.
+In the gas carrier segment, Zodiac Maritime signed a contract for a pair of 174k cbm LNG carriers at Hanwha Ocean, with a price of $250m each and delivery set in 2029.
 
-Elsewhere, CLdN booked two LNG powered 6.7k ceu RoRo vessels with hybrid battery systems at HD Hyundai for \$121.5m each and delivery in 2029. Stena RoRo AB also placed two 1.4k pax methanol ready and battery hybrid passenger carriers at CMI Weihai with a delivery horizon of 2030.
+Elsewhere, CLdN booked two LNG powered 6.7k ceu RoRo vessels with hybrid battery systems at HD Hyundai for $121.5m each and delivery in 2029. Stena RoRo AB also placed two 1.4k pax methanol ready and battery hybrid passenger carriers at CMI Weihai with a delivery horizon of 2030.
 
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Vessel Class | Size | 25-Sep-26 | 18-Sep-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2025 | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** | Newcastlemax | 205k | 79.5 | 79.0 | 0.6% | 79.5 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
@@ -275,18 +286,19 @@ Elsewhere, CLdN booked two LNG powered 6.7k ceu RoRo vessels with hybrid battery
 |  | SGC LPG 25k cbm |  | 61.5 | 61.0 | 0.8% | 61.5 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
-| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Bulker | 82,000 dwt | Tsuneishi Shipbuilding, Japan | 2029 | Greek (DryDel) | undisclosed |  |
-| 2 | Bulker | 64,500 dwt | Jiangmen Nanyang, China | 2029 | HK based (Jinhui Shipping) | $ 35.7m |  |
-| 2 | Bulker | 64,500 dwt | Jiangsu Soho Innovation, China | 2029 | German (Dassler Anlage-und) | undisclosed |  |
-| 3 | Tanker | 26,000 dwt | Wuchang SB Group, China | 2028-2029 | South Korean (Heung-A Shipping) | $ 45.5m | Stainless steel |
-| 8 | Tanker | 7,600 dwt | Haidong Shipyard, China | 2028-2029 | Danish (Uni-Tankers) | undisclosed | Stainless steel |
-| 4 | Containership | 10,100 teu | HJ Shipbuilding, S. Korea | 2029 | Greek (Navios) | $ 122.0m | Against TC contract & Scrubber fitted, methanol ready |
-| 4 | Containership | 3,100 teu | CSSC Huangpu Wenchong, China | 2029-2030 | Thai (RCL) | $ 57.0m |  |
-| 2 | Gas Carrier | 174,000 cbm | Hanwha Ocean, S. Korea | 2029 | UK (Zodiac Maritime) | $ 250.0m |  |
-| 2 | RoRo | 6,700 | ceu | HD Hyundai, S. Korea | 2029 | Luxembourg based (CLdN) | $ 121.5m |
-| 2 | Passenger | 1,400 | pax | CMI Weihai, China | 2030 | Swedish (Stena RoRo AB) | undisclosed |
+
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | Bulker | 82,000 | dwt | Tsuneishi Shipbuilding, Japan | 2029 | Greek (DryDel) | undisclosed |  |
+| 2 | Bulker | 64,500 | dwt | Jiangmen Nanyang, China | 2029 | HK based (Jinhui Shipping) | $ 35.7m |  |
+| 2 | Bulker | 64,500 | dwt | Jiangsu Soho Innovation, China | 2029 | German (Dassler Anlage-und) | undisclosed |  |
+| 3 | Tanker | 26,000 | dwt | Wuchang SB Group, China | 2028-2029 | South Korean (Heung-A Shipping) | $ 45.5m | Stainless steel |
+| 8 | Tanker | 7,600 | dwt | Haidong Shipyard, China | 2028-2029 | Danish (Uni-Tankers) | undisclosed | Stainless steel |
+| 4 | Containership | 10,100 | teu | HJ Shipbuilding, S. Korea | 2029 | Greek (Navios) | $ 122.0m | Against TC contract & Scrubber fitted, methanol ready |
+| 4 | Containership | 3,100 | teu | CSSC Huangpu Wenchong, China | 2029-2030 | Thai (RCL) | $ 57.0m |  |
+| 2 | Gas Carrier | 174,000 | cbm | Hanwha Ocean, S. Korea | 2029 | UK (Zodiac Maritime) | $ 250.0m |  |
+| 2 | RoRo | 6,700 | ceu | HD Hyundai, S. Korea | 2029 | Luxembourg based (CLdN) | $ 121.5m | LNG powered, hybrid battery system |
+| 2 | Passenger | 1,400 | pax | CMI Weihai, China | 2030 | Swedish (Stena RoRo AB) | undisclosed | Methanol ready, battery hybrid |
 
 ---
 
@@ -299,6 +311,7 @@ Along market softened, while appetite for fresh tonnage, especially for larger u
 In Bangladesh, the market shows stability, as offers remain unchanged and demand has recovered. Domestic plate prices decreased, while US dollar strengthened. The limited availability of attractive recycling tonnage seems to not affect significantly Chattogram, as yards feed on previously secured vessels. On the policy side, potential EU restrictions on ferrous scrap ex-
 
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 25/09/2026 | 18/09/2026 | ±% | YTD High | YTD Low | 2025 | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -313,7 +326,8 @@ In Bangladesh, the market shows stability, as offers remain unchanged and demand
 | Turkey | 280 | 280 | 0.0% | 280 | 260 | 266 | 337 | 315 |
 
 ## Currencies
-| Markets | Current | Previous | ±% | YTD High |
+
+| Markets | 25-Sep-26 | 18-Sep-26 | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 123.05 | 122.80 | *0.20%* | 123.79 |
 | USD/INR | 95.82 | 95.94 | -0.12% | 96.57 |

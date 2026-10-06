@@ -50,26 +50,26 @@ Rates in the Handy fell across the regions. The Atlantic region did not fare wel
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BDI | 1,941 |  | 1,814 |  | 1,141 | +7.00% |  | +70.11% |
-| BCI | 3,356 |  | 3,099 |  | 1,189 | +8.29% |  | +182.25% |
-| BPI | 1,294 |  | 1,316 |  | 1,473 | -1.67% |  | -12.15% |
-| BSI | 1,260 |  | 1,306 |  | 1,056 | -3.52% |  | +19.32% |
-| BHSI | 724 |  | 744 |  | 567 | -2.69% |  | +27.69% |
-|  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
-| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| CAPE | 180,000 | 76 |  |  | 77 | 64 | 45 | 29 |
-| KAMSARMAX | 82,000 | 37 |  |  | 44 | 38 | 28 | 18 |
-| SUPRAMAX | 56,000 | 35 |  |  | 41 | 36 | 27 | 16 |
-| HANDY | 38,000 | 30 |  |  | 35 | 28 | 21 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |
-|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 |  | 23,000 |  | 14,750 | +2.17% |  | +59.32% |
-| PANAMAX | 75,000 |  | 13,750 |  | 13,150 | +1.82% |  | +6.46% |
-| SUPRAMAX | 58,000 |  | 14,750 |  | 12,750 | 0 |  | +15.69% |
-| HANDYSIZE | 38,000 |  | 14,750 |  | 10,150 | -3.39% |  | +40.39% |
+| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+|---|---|---|---|---|---|---|---|---|---|
+| BDI | 1,941 |  |  | 1,814 |  | 1,141 | +7.00% |  | +70.11% |
+| BCI | 3,356 |  |  | 3,099 |  | 1,189 | +8.29% |  | +182.25% |
+| BPI | 1,294 |  |  | 1,316 |  | 1,473 | -1.67% |  | -12.15% |
+| BSI | 1,260 |  |  | 1,306 |  | 1,056 | -3.52% |  | +19.32% |
+| BHSI | 724 |  |  | 744 |  | 567 | -2.69% |  | +27.69% |
+|  |  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
+| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| CAPE | 180,000 |  | 76 |  |  | 77 | 64 | 45 | 29 |
+| KAMSARMAX | 82,000 |  | 37 |  |  | 44 | 38 | 28 | 18 |
+| SUPRAMAX | 56,000 |  | 35 |  |  | 41 | 36 | 27 | 16 |
+| HANDY | 38,000 |  | 30 |  |  | 35 | 28 | 21 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |  |
+|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 | 23,500 |  | 23,000 |  | 14,750 | +2.17% |  | +59.32% |
+| PANAMAX | 75,000 | 14,000 |  | 13,750 |  | 13,150 | +1.82% |  | +6.46% |
+| SUPRAMAX | 58,000 | 14,750 |  | 14,750 |  | 12,750 | 0 |  | +15.69% |
+| HANDYSIZE | 38,000 | 14,250 |  | 14,750 |  | 10,150 | -3.39% |  | +40.39% |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -309,7 +309,9 @@ The Sub-Continent and Turkish ferrous scrap market experienced mixed results thi
 
 construction activity and rebar demand. Offers for shredded scrap from UK/Europe were assessed at US$395-400/ton CFR Qasim. Domestically, rebar prices stood at PKR 240,000-245,000/ton, while billet prices hovered around PKR 210,000-212,000/t. A steel mill official noted a significant drop in UAE-origin shredded scrap prices, now around US$400/ton, with similar levels being offered from UK sources. In Bangladesh, scrap buying interest was muted due to ongoing challenges, including stringent banking regulations that are making it difficult for buyers to open letters of credit. Flooding and monsoon disruptions have further slowed the steel market. Shredded scrap offers from UK/Europe were evaluated at US$400-405/ton CFR Chattogram, while HMS (80:20) was quoted at US$390-395/ton CFR.
 
-Turkey's imported ferrous scrap market continued to show strength, driven by tight supply and firm offers. US-origin HMS (80:20) was offered at US$370-375/ton CFR, with deals closing around US$370-371/ton CFR. EU-origin HMS (80:20) was similarly quoted at US$365-370/ton CFR. Scrap supply remains constrained by slow collection rates and rising costs in Europe, further tightening the market. Turkish rebar export prices inched
+**Turkey's imported ferrous scrap market continued to show strength, driven by tight**
+
+supply and firm offers. US-origin HMS (80:20) was offered at US$370-375/ton CFR, with deals closing around US$370-371/ton CFR. EU-origin HMS (80:20) was similarly quoted at US$365-370/ton CFR. Scrap supply remains constrained by slow collection rates and rising costs in Europe, further tightening the market. Turkish rebar export prices inched
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -321,7 +323,9 @@ higher as steady order volumes allowed mills to maintain favourable margins betw
 
 ## Commodities
 
-Iron ore prices plunged to their lowest levels since 2022 as China's leading steel industry group, the China Iron & Steel Association, urged caution in ramping up production too quickly. The association forecasted a moderate recovery in steel demand through September and October but warned mills against prematurely boosting output. Iron ore futures in Singapore hovered near the critical USD 90/t mark, down roughly 10% this week, driven by growing concerns over weakening demand. Next week is set to be pivotal for the iron and steel markets as China prepares to release crucial economic data. On Tuesday, the August trade report will offer insight into iron ore imports and steel exports, both key indicators of global demand and trade flows. Later in the week, on Saturday, the August industrial production report, including steel output figures, will be published. Market participants will closely watch these reports to assess China's industrial activity and its influence on global steel and iron markets. Meanwhile, copper steadied after significant selling pressure earlier in the week, buoyed by industrial buyers stepping in. However, the gains were capped by persistent fears of slower global economic growth impacting demand for industrial metals. A slightly weaker USD provided some relief, improving investor sentiment. Nonetheless, the broader metals complex continued to decline amid deepening concerns over China's economic outlook, exacerbated by data indicating a slowdown in services sector growth in August.
+**Iron ore prices plunged to their lowest levels since 2022 as China's leading steel industry**
+
+group, the China Iron & Steel Association, urged caution in ramping up production too quickly. The association forecasted a moderate recovery in steel demand through September and October but warned mills against prematurely boosting output. Iron ore futures in Singapore hovered near the critical USD 90/t mark, down roughly 10% this week, driven by growing concerns over weakening demand. Next week is set to be pivotal for the iron and steel markets as China prepares to release crucial economic data. On Tuesday, the August trade report will offer insight into iron ore imports and steel exports, both key indicators of global demand and trade flows. Later in the week, on Saturday, the August industrial production report, including steel output figures, will be published. Market participants will closely watch these reports to assess China's industrial activity and its influence on global steel and iron markets. Meanwhile, copper steadied after significant selling pressure earlier in the week, buoyed by industrial buyers stepping in. However, the gains were capped by persistent fears of slower global economic growth impacting demand for industrial metals. A slightly weaker USD provided some relief, improving investor sentiment. Nonetheless, the broader metals complex continued to decline amid deepening concerns over China's economic outlook, exacerbated by data indicating a slowdown in services sector growth in August.
 
 ### Shipbroking (www.star-asia.com.sg)
 

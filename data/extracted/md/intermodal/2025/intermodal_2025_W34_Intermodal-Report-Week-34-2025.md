@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -22,12 +24,12 @@ For the wider shipping industry, the lesson is not to view the Arctic as a repla
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | Polar Ace | 2018 | 109,999 dwt |  |  |
-
+| 12 mos | Polar Ace | 2018 | 109,999 dwt | $30,000/day | Mercuria |
 ## Spot Rates
+
 | Sector | Size | Routes | 22/08/25 WS points | 22/08/25 $/day | 15/08/25 WS points | 15/08/25 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel |  |  |  |  |  |  | Routes | WS points | $/day |
+| Vessel |  |  |  |  | Routes | WS points | $/day | WS points | $/day |
 | **VLCC** | 265k | MEG-SPORE | 67 | 52,310 | 57 | 39,526 | **32.3%** | 37,255 | 39,466 |
 |  | 260k | WAF-CHINA | 66 | 49,608 | 55 | 36,402 | **36.3%** | 37,722 | 38,773 |
 | **Suezmax** | 130k | MED-MED | 130 | 76,289 | 120 | 66,876 | **14.1%** | 50,058 | 62,964 |
@@ -43,8 +45,8 @@ For the wider shipping industry, the lesson is not to view the Arctic as a repla
 |  | 55K | UKC-USG | 120 | 11,481 | 120 | 11,723 | -2.1% | 17,707 | 27,274 |
 |  | 55K | MED-USG | 120 | 12,629 | 120 | 12,697 | -0.5% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 150 | 12,386 | 141 | 10,171 | **21.8%** | 26,872 | 46,194 |
-
 ## TC Rates
+
 | Sector | Tenor | 22/08/25 | 15/08/25 | ±% | Diff | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 300k 1yr TC | 45,750 | 45,750 | 0.0% | 0 | 50,365 | 48,601 |
@@ -59,8 +61,8 @@ For the wider shipping industry, the lesson is not to view the Arctic as a repla
 |  | 52k 3yr TC | 18,250 | 18,250 | 0.0% | 0 | 26,402 | 25,152 |
 | **Handy** | 36k 1yr TC | 17,500 | 16,750 | **4.5%** | **750** | 26,606 | 25,760 |
 |  | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 19,993 | 18,200 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Aug-25 avg | Jul-25 avg | ±% | 2024 | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 300KT DH | 117.0 | 117.0 | 0.0% | 113.0 | 99.5 | 80.2 |
@@ -68,8 +70,8 @@ For the wider shipping industry, the lesson is not to view the Arctic as a repla
 | **Aframax** | **110KT DH** | **62.5** | **62.5** | **0.0%** | 71.0 | 64.4 | 50.5 |
 | **LR1** | 75KT DH | 46.0 | 46.0 | 0.0% | 53.8 | 49.2 | 38.6 |
 | **MR** | **52KT DH** | **42.0** | **40.8** | **3.1%** | 45.8 | 41.4 | 34.8 |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | DATE | WS points | WS points | WS points |
@@ -86,8 +88,8 @@ For the wider shipping industry, the lesson is not to view the Arctic as a repla
 | 22/Jun/25 | 50 | 95 | 120 |
 | 22/Jul/25 | 55 | 100 | 125 |
 | 22/Aug/25 | 60 | 105 | 130 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | DATE | WS points | WS points | WS points | WS points |
@@ -127,11 +129,11 @@ Aframaxes, however, saw a softer trend in both the Mediterranean and North Sea. 
 | BHSI | 725 | $13,054 | 698 | $12,570 | **27** | **3.9%** | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | First Margaux | 2023 | 82,276 dwt |  |  |
-| 1 year |  |  | cnr |  |  |
-| 10 to 12 mos | Modest SW | 2012 | 82,276 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | First Margaux | 2023 | 82,276 dwt | - |  |  |
+| 1 year |  |  | cnr | - | $15,500/day |  |
+| 10 to 12 mos | Modest SW | 2012 | 82,276 dwt | dely Lanshan 1/10 Sep redel worldwide | $12,600/day | cnr |
 
 ## TC Rates
 | Sector | Tenor | 22/08/25 | 15/08/25 | ±% | Diff | 2024 | 2023 |
@@ -146,6 +148,7 @@ Aframaxes, however, saw a softer trend in both the Mediterranean and North Sea. 
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 22/Aug/24 | 3200 | 1400 | 1300 | 800 | 1800 |
@@ -163,6 +166,7 @@ Aframaxes, however, saw a softer trend in both the Mediterranean and North Sea. 
 | 22/Aug/25 | 3200 | 1800 | 1800 | 900 | 2000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 22/Aug/24 | 26000 | 13000 | 12000 | 11000 |
@@ -290,8 +294,8 @@ Türkiye also showed no shift, with weak sentiment and minimal activity prevaili
 | USD/INR | 87.31 | 87.51 | -0.23% | 87.63 |
 | USD/PKR | 283.58 | 281.80 | 0.63% | 284.95 |
 | USD/TRY | 40.94 | 40.80 | 0.34% | 41.01 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SALOME I | 30,553 | 7,052 | 1996 | SHIN KURUSHIMA, Japan | TANKER | $440/Ldt | undisclosed | as is Singapore |

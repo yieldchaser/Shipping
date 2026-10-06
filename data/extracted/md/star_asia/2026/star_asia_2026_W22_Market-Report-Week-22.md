@@ -42,7 +42,7 @@ Capesize: Capesize demonstrated significant strength this week, with Pacific rou
 
 ### Baltic Dry Index (BDI)
 
-**BDI:** 3,224 (WoW: +7.79% | YoY: +127.36%)
+**BDI: 3,224** (WoW: +7.79% | YoY: +127.36%)
 
 | BCI | BPI | BSI | BHSI |
 | :---: | :---: | :---: | :---: |

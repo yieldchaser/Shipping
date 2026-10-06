@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Nikos Tagoulis, Research Analyst**
 
@@ -48,6 +50,7 @@ The above constitute the main advantages of the Chinese shipbuilding sector, tog
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 29/11/24 WS points | 29/11/24 $/day | 22/11/24 WS points | 22/11/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 46 | 26,353 | 55 | 34,733 | -24.1% | 39,466 | 20,330 |
@@ -67,12 +70,12 @@ The above constitute the main advantages of the Chinese shipbuilding sector, tog
 |  | 50k | ARA-UKC | 179 | 19,789 | 166 | 16,020 | **23.5%** | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6 mos | PVT DOLPHIN | 2004 | 45,888 dwt |  |  |
-| 6 mos | MAERSK AEGEAN | 2013 | 37,538 dwt |  |  |
-
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 mos | PVT DOLPHIN | 2004 | 45,888 dwt | DELY EAST NOV/24 | $19,000 | Pertamina |
+| 6 mos | MAERSK AEGEAN | 2013 | 37,538 dwt | DELY EAST NOV/24 | $26,500/day | CEPSA |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 29/Nov/23 | 100 | 120 | 130 |
@@ -87,8 +90,8 @@ The above constitute the main advantages of the Chinese shipbuilding sector, tog
 | 31/Aug/24 | 50 | 90 | 130 |
 | 30/Sep/24 | 45 | 85 | 120 |
 | 31/Oct/24 | 40 | 80 | 110 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 29/Nov/23 | 150 | 140 | 160 | 170 |
@@ -153,11 +156,11 @@ In the Middle East Gulf, both LR2s and LR1s exhibited stability, with LR2s benef
 | BHSI | 659 | $11,865 | 670 | $12,055 | -11 | -1.6% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 24 mos | AMIS WISDOM II | 2010 | 61,611 dwt |  |  |
-| 9/12 mos | W-SKY | 2011 | 92,929 dwt |  |  |
-| 9/12 months |  |  | Swissmarine |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 24 mos | AMIS WISDOM II | 2010 | 61,611 dwt | dely Far East Q1 '25 redel worldwide |  | 112% of BSI58 |
+| 9/12 mos | W-SKY | 2011 | 92,929 dwt | - |  |  |
+| 9/12 months |  |  | Swissmarine | - | index linked at 94% to BPI |  |
 
 ## TC Rates
 | Sector | Tenor | 29/11/24 | 22/11/24 | ±% | Diff | 2023 | 2022 |
@@ -172,6 +175,7 @@ In the Middle East Gulf, both LR2s and LR1s exhibited stability, with LR2s benef
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 29/Nov/23 | 6500 | 2000 | 1500 | 1000 | 3000 |
@@ -188,6 +192,7 @@ In the Middle East Gulf, both LR2s and LR1s exhibited stability, with LR2s benef
 | 31/Oct/24 | 2200 | 1200 | 1000 | 1000 | 1300 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 29/Nov/23 | 55000 | 18000 | 12000 | 10000 |
@@ -226,6 +231,7 @@ Supramax 10TC averaged \$ 10,419/day down -6.21% w-o-w, while the Handysize 7TC 
 # Secondhand Sales
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | J19 | SONGA BREEZE | 19,999 | 2009 | FUKUOKA, Japan | MAN-B\&W | Feb-29 | DH | $ 24.8m | undisclosed | incl. TC attached to Bahri until April/May 2026 at US$ 20,250 |
@@ -318,6 +324,7 @@ Turkey appears to be close to entering a recession, as the country's GDP contrac
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LADY CEDROS | 151,249 | 17,870 | 1998 | NKK, Japan | BC | $ 467.0m | undisclosed |  |

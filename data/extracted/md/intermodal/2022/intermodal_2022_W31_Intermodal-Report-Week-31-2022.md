@@ -59,6 +59,7 @@ Shanghai 200122 China
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 58 | 16,069 | 60 | 9,616 | 67.1% | 2,246 | 52,119 |
@@ -74,14 +75,14 @@ Shanghai 200122 China
 |  | 75k | MEG-JAPAN | 232 | 45,501 | 239 | 42,889 | 6.1% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 268 | 40,393 | 259 | 34,354 | 17.6% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 359 | 38,098 | 345 | 34,255 | 11.2% | 4,496 | 12,977 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | PACIFIC VOYAGER | 2009 | 302,290 dwt |  |  |
-| 12 mos | OCEAN JUPITER | 2007 | 50,314 dwt |  |  |
-
+| 12 mos | PACIFIC VOYAGER | 2009 | 302,290 dwt | $25,000/day | MOL |
+| 12 mos | OCEAN JUPITER | 2007 | 50,314 dwt | $22,000/day | Eiger Shipping |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 5/Aug/21 | 30 | 80 | 100 |
@@ -97,8 +98,8 @@ Shanghai 200122 China
 | 5/Jun/22 | 130 | 180 | 190 |
 | 5/Jul/22 | 140 | 200 | 250 |
 | 5/Aug/22 | 150 | 220 | 270 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 5/Aug/21 | 100 | 110 | 120 | 130 |
@@ -114,8 +115,8 @@ Shanghai 200122 China
 | 5/Jun/22 | 200 | 210 | 380 | 420 |
 | 5/Jul/22 | 210 | 220 | 400 | 460 |
 | 5/Aug/22 | 220 | 230 | 380 | 350 |
-
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300k 1yr TC** | 30,000 | 29,000 | 3.4% | 1000 | 25,684 | 42,038 |
@@ -130,8 +131,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 22,500 | 22,500 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Aug-22 avg | Jul-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 82.0 | 81.0 | 1.2% | 69.7 | 71.5 | 72.1 |
@@ -172,11 +173,12 @@ In the Aframax sector we had the sale of the "STRIDE" (105,369dwt-blt '09, S. Ko
 | BHSI | 1,058 | $19,046 | 1,173 | $21,114 | -115 | -9.8% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 5-7 mos | ITG UMING | 2020 | 81,994 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 5-7 mos | ITG UMING | 2020 | 81,994 dwt | CJK 4/6 Aug | $22,750/day | MOL |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 5/Aug/21 | 4000 | 3500 | 3200 | 1800 | 5500 |
@@ -194,6 +196,7 @@ In the Aframax sector we had the sale of the "STRIDE" (105,369dwt-blt '09, S. Ko
 | 5/Aug/22 | 2600 | 2800 | 2600 | 1600 | 2800 |
 
 ## TC Rates
+
 | Sector | Tenor | 05/08/2022 | 29/07/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 20,000 | 23,750 | -15.8% | -3,750 | 32,684 | 15,361 |
@@ -210,6 +213,7 @@ In the Aframax sector we had the sale of the "STRIDE" (105,369dwt-blt '09, S. Ko
 |  | **32K 3yr TC** | 11,500 | 12,000 | -4.2% | -500 | 11,825 | 8,486 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 5/Aug/21 | 35000 | 34000 | 34000 | 33000 |
@@ -257,6 +261,7 @@ In the Handysize sector we had the sale of the "QUANTRA" (18,367dwt-blt '00, S. 
 
 # Secondhand Sales
 ## Tankers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | MARAN ANDROMEDA | 320,472 | 2005 | DAEWOO, S. Korea | MAN-B&amp;W | Jan-25 | DH | $ 37.0m | Singapore based | BWTS, Scrubber fitted, basis c/free delivery within August 2022 |
@@ -274,6 +279,7 @@ In the Handysize sector we had the sale of the "QUANTRA" (18,367dwt-blt '00, S. 
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUPRA | NATHAN BRANDON | 56,489 | 2013 | HUATAI NANTONG, China | MAN-B\&amp;W | Aug-23 | 4 X 36t CRANES | mid/high $ 18.0m | Turkish | BWTS fitted, old sale |
@@ -291,8 +297,8 @@ In the Handysize sector we had the sale of the "QUANTRA" (18,367dwt-blt '00, S. 
 | HANDY | LA LOIRAIS | 39,919 | 2018 | JIANGMEN NANYANG, China | MAN-B\&amp;W | Mar-23 | 4 X 30t CRANES |  |  |  |
 | HANDY | LA FRESNAIS | 39,875 | 2018 | JIANGMEN NANYANG, China | MAN-B\&amp;W | Jan-23 | 4 X 30t CRANES |  |  |  |
 | HANDY | QUANTRA | 18,367 | 2000 | INP, S. Korea | B\&amp;W | Jul-25 | 3 X 30 CRANES | $ 6.25m | Turkish |  |
-
 ## Secondhand Sales
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | NORTHERN DECISION | 3,534 | 2008 | SHANGHAI SHIPYARD, China | MAN-B&amp;W | Aug-23 |  | $ 44.0m | Swiss (MSC) |
@@ -303,6 +309,7 @@ In the Handysize sector we had the sale of the "QUANTRA" (18,367dwt-blt '00, S. 
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 05/08/2022 | 29/07/2022 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -355,8 +362,8 @@ Newbuilding ordering activity has been quiet during the first week of August, wi
 | 5/Jun/22 | 62 | 36 | 34 | 29 |
 | 5/Jul/22 | 63 | 36 | 34 | 29 |
 | 5/Aug/22 | 63 | 36 | 34 | 29 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Tanker | 7,490 dwt | CMJL (Yangzhou), China | 2023 | Chinese (Xintong Shipping) | $ 19.0m | StSt |
@@ -370,6 +377,7 @@ Newbuilding ordering activity has been quiet during the first week of August, wi
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 05/08/2022 | 29/07/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -400,8 +408,8 @@ The Ship recycling market continues to be under significant pressure due to the 
 | 5/Jun/22 | 640 | 580 | 640 | 320 |
 | 5/Jul/22 | 560 | 550 | 560 | 250 |
 | 5/Aug/22 | 570 | 560 | 570 | 255 |
-
 ## Indicative Demolition Prices ($/ldt)
+
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EVER JUDGER | 82,000 | 13,500 | 2014 | ZHEJIANG, China | BC | undisclosed | undisclosed | sold "as-is" Indonesia at auction - fire damaged condition |
@@ -458,3 +466,45 @@ The Ship recycling market continues to be under significant pressure due to the 
 | 3/Aug/22 | 92 | 98 | 1920 |
 | 4/Aug/22 | 88 | 96 | 1930 |
 | 5/Aug/22 | 89 | 95 | 1925 |
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 05-Aug-22 | 29-Jul-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.85 | 14.98 | -7.5% |
+| COSTAMARE INC | NYSE | USD | 11.51 | 11.73 | -1.9% |
+| DANAOS CORPORATION | NYSE | USD | 75.97 | 73.13 | 3.9% |
+| DIANA SHIPPING | NYSE | USD | 6.00 | 5.65 | 6.2% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 50.99 | 52.93 | -3.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 25.25 | 24.70 | 2.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.64 | 1.65 | -0.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.28 | 2.43 | -6.2% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 28.69 | 29.66 | -3.3% |
+| SAFE BULKERS INC | NYSE | USD | 3.69 | 3.86 | -4.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.72 | 0.71 | 1.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 25.58 | 26.03 | -1.7% |
+| STEALTHGAS INC | NASDAQ | USD | 2.51 | 2.70 | -7.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 12.29 | 12.35 | -0.5% |
+
+## Market News
+
+"AP Moller-Maersk delivers 'exceptional' profits and ups share buyback despite weaker demand"
+
+AP-Moller Maersk will purchase \$500m more of its own shares annually as it continues to log record results.
+
+The Danish liner giant company will increase the current share buyback programme from \$2.5bn to \$3bn for the years 2022-2025.
+
+The plan was unveiled as the company logged another record quarter but warned that container demand forecast could be negative.
+
+Revenues increased by 52% in the second quarter and earnings more than doubled compared to same quarter last year.
+
+Revenue grew to \$31.7bn in the second quarter, and Ebidta increased to \$10.3bn.
+
+The net result came in at \$8.6bn and \$15.4bn for the first half of the year.
+
+That was logged on the back of strong contract rates and growth in its logistic division.
+
+"We delivered an exceptionally...(TradeWinds)
+
+The information contained in this report has been obtained from various sources, as reported in the market. Intermodal Shipbrokers Co. believes such information to be factual and reliable on the date of this report, without making any warranties, express or implied, or representations regarding its accuracy or completeness. Whilst every reasonable care has been taken in the production of the above report, no liability can be accepted for any errors or omissions or for any loss or damage incurred in any way whatsoever by any person who may seek to rely on the information and views contained in this material. This report is being produced for the internal use of the intended recipients only and no reproducing either in whole or in part is allowed, without the prior written authorization of Intermodal Shipbrokers Co.
+
+</br></br></br></br>

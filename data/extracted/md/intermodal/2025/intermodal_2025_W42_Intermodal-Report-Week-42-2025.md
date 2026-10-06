@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 **By Yiannis Parganas, Head of Research Department**
 
@@ -17,6 +19,7 @@ In this context, the current surge in feeder newbuilding activity should not be 
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 17/10/2025 WS points | 17/10/2025 $/day | 10/10/2025 WS points | 10/10/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 95 | 87,638 | 86 | 76,497 | 14.6% | 37,255 | 39,466 |
@@ -40,8 +43,8 @@ In this context, the current surge in feeder newbuilding activity should not be 
 | 24 mos | Zakum | 2019 |
 | --- | --- | --- |
 |  | $50,000/day |  |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 17/Oct/24 |  |  |  |
@@ -57,8 +60,8 @@ In this context, the current surge in feeder newbuilding activity should not be 
 | 17/Aug/25 |  |  |  |
 | 17/Sep/25 |  |  |  |
 | 17/Oct/25 |  |  |  |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 17/Oct/24 |  |  |  |  |
@@ -127,6 +130,7 @@ Aframaxes performed strongly, underpinned by seasonal demand and tightening regi
 
 6 to 8 mos Pacific Hibiscus 2025 82,600 dwt \$16,000/day ASL Bulk
 ### Baltic Indices (1-Year Trend)
+
 | BCI BPI BSI BHSI BDI | Index |
 | --- | --- |
 | 17/Oct/24 |  |
@@ -156,6 +160,7 @@ Aframaxes performed strongly, underpinned by seasonal demand and tightening regi
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 17/Oct/24 |  |  |  |  |
@@ -298,8 +303,8 @@ The Turkish market remained stable. The influx of candidates over the last month
 | USD/INR | 88.00 | 88.76 | -0.85% | 88.76 |
 | USD/PKR | 283.29 | 283.23 | **0.02%** | 284.95 |
 | USD/TRY | 41.90 | 41.85 | **0.13%** | 41.90 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | PUTERI DELIMA | 73,519 | 26,915 | 1995 | Chantiers de l'Atlantique - St-Nazaire, France | GAS TANKER | undisclosed | Bangladeshi |

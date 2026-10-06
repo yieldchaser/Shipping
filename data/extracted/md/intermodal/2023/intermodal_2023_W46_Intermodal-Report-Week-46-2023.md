@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Yiannis Parganas, Head of the Research Department**
 
@@ -13,6 +15,7 @@ For the upcoming year of 2024, the dry bulk trade is poised to witness a signifi
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 17/11/23 WS points | 17/11/23 $/day | 10/11/23 WS points | 10/11/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 76 | 59,215 | 68 | 49,018 | 20.8% | 20,330 | 2,246 |
@@ -31,14 +34,15 @@ For the upcoming year of 2024, the dry bulk trade is poised to witness a signifi
 |  | 55K | UKC-USG | 150 | 24,642 | 150 | 24,600 | 0.2% | 19,982 | 2,822 |
 |  | 55K | MED-USG | 150 | 23,827 | 150 | 24,068 | -1.0% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 234 | 44,482 | 236 | 44,933 | -1.0% | 40,364 | 8,548 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | NORVIC MONIA | 2008 | 105,348 dwt |  |  |
-| 6 mos | ELKA DELPHI | 2015 | 49,990 dwt |  |  |
+| 6 mos | NORVIC MONIA | 2008 | 105,348 dwt | $49,750 | Exxon |
+| 6 mos | ELKA DELPHI | 2015 | 49,990 dwt | $31,500/day | Mercuria |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | DATE | WS points | WS points | WS points |
@@ -55,8 +59,8 @@ For the upcoming year of 2024, the dry bulk trade is poised to witness a signifi
 | 17/Sep/23 | 0 | 100 | 100 |
 | 17/Oct/23 | 0 | 80 | 100 |
 | 17/Nov/23 | 0 | 60 | 100 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | DATE | WS points | WS points | WS points | WS points |
@@ -125,10 +129,10 @@ Suezmax T/C earnings averaged \$52,629/day, down - \$9,033/day w-o-w. On the Afr
 | BHSI | 599 | $10,786 | 594 | $10,697 | **5** | **0.8%** | 1,181 | 1,424 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6/8 mos | OCEAN SCALLION | 2013 | 82,215 dwt |  |  |
-| 5/7 mos | WORLD PROSPER | 2021 | 82,065 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6/8 mos | OCEAN SCALLION | 2013 | 82,215 dwt | dely Zhoushan 16 Nov | $11,250/day | Sinoeast |
+| 5/7 mos | WORLD PROSPER | 2021 | 82,065 dwt | dely Tianjin 13/14 Nov | $13,000/day | cnr |
 
 ## TC Rates
 | Sector | Tenor | 17/11/23 | 10/11/23 | ±% | Diff | 2022 | 2021 |
@@ -143,6 +147,7 @@ Suezmax T/C earnings averaged \$52,629/day, down - \$9,033/day w-o-w. On the Afr
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 17/Nov/22 | 1500 | 1500 | 1400 | 800 | 1500 |
@@ -160,6 +165,7 @@ Suezmax T/C earnings averaged \$52,629/day, down - \$9,033/day w-o-w. On the Afr
 | 17/Nov/23 | 2600 | 1700 | 1700 | 1200 | 2600 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 17/Nov/22 | 12000 | 13000 | 11000 | 9000 |
@@ -227,6 +233,7 @@ Supramax 10TC averaged \$ 12,723/day, up +4.39% w-o-w, while the Handysize 7TC a
 | HANDY | CETUS | 32,449 | 2010 | ZHEJIANG, China | MAN-B\&W | Jul-25 | 4 X 30t CRANES | $ 9.5m | undisclosed | BWTS fitted |
 
 ## Secondhand Sales
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | LANA | 4,380 | 2010 | DAEWOO, S. KOREA | MAN-B\&W | Jun-25 |  | undisclosed | Italian (Messina) | BWTS fitted |
@@ -295,6 +302,7 @@ The recycling market continues to be sluggish, with only a few sales being compl
 | USD/TRY | 28.71 | 28.56 | 0.51% | 28.81 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SAMC EDDIE | 175,775 | 24,181 | 2002 | CHINA SHIPBUILDING, Taiwan | BC | $ 505/Ldt | undisclosed | as is' Singapore |

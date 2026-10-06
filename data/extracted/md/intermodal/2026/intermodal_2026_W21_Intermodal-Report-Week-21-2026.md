@@ -1,3 +1,5 @@
+# *Weekly Market Report*
+
 ## Market Insight
 
 <u>By Yiannis Parganas, Head of Research Department</u>
@@ -18,6 +20,7 @@ The freight conclusion is therefore selective. El Niño is more constructive for
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 22/05/2026 WS points | 22/05/2026 $/day | 15/05/2026 WS points | 15/05/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 408 | 415,543 | 419 | 428,411 | -3.0% | 60,510 | 37,255 |
@@ -41,8 +44,7 @@ The freight conclusion is therefore selective. El Niño is more constructive for
 | 12 mos | Maran Taurus | 2011 |
 | --- | --- | --- |
 |  | $110,000/day |  |
-
-### Dirty WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Dirty
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -60,8 +62,7 @@ The freight conclusion is therefore selective. El Niño is more constructive for
 | 22/Mar/26 | 400 | 450 | 500 |
 | 22/Apr/26 | 600 | 900 | 1000 |
 | 22/May/26 | 400 | 400 | 400 |
-
-### Clean WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Clean
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -131,8 +132,8 @@ The Aframax segment saw the sharpest declines, with TCE earnings falling by 16% 
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 7 to 9 mos | Desert Leopard | 2025 | 63,569 dwt |  |  |
-| 9 to 11 mos | Polymnia | 2012 | 98,704 dwt |  |  |
+| 7 to 9 mos | Desert Leopard | 2025 | 63,569 dwt | $19,500/day | Norden |
+| 9 to 11 mos | Polymnia | 2012 | 98,704 dwt |  | Oldendorff |
 
 ### TC Rates
 | Sector | Tenor | 22/05/2026 | 15/05/2026 | ±% | Diff | 2025 | 2024 |
@@ -147,6 +148,7 @@ The Aframax segment saw the sharpest declines, with TCE earnings falling by 16% 
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 22/May/25 | 3500 | 1500 | 1200 | 800 | 1500 |
@@ -164,6 +166,7 @@ The Aframax segment saw the sharpest declines, with TCE earnings falling by 16% 
 | 22/May/26 | 5000 | 2400 | 2200 | 1500 | 5000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 22/May/25 | 15000 | 12000 | 10000 | 8000 |
@@ -209,6 +212,7 @@ Handysize markets eased overall. Atlantic activity was muted, particularly in th
 # Secondhand Sales
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR1 | MERENGUE | 38,431 | 2007 | GSI, China | MAN B\&W | Apr-27 | DH | $ 15.0m | undisclosed |  |

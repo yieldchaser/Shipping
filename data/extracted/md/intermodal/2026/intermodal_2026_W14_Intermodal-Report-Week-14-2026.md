@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 By Nikos Tagoulis, Senior Analyst
 
@@ -23,6 +25,7 @@ Overall, India's role in coking coal and iron ore imports is poised to increase 
 
 No Fresh Fixtures to Report
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 3/Apr/25 | 50 | 200 | 250 |
@@ -38,8 +41,8 @@ No Fresh Fixtures to Report
 | 3/Feb/26 | 350 | 400 | 450 |
 | 3/Mar/26 | 400 | 450 | 950 |
 | 3/Apr/26 | 420 | 460 | 980 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 3/Apr/25 | 100 | 110 | 120 | 130 |
@@ -55,8 +58,8 @@ No Fresh Fixtures to Report
 | 3/Feb/26 | 200 | 10 | 20 | 30 |
 | 3/Mar/26 | 350 | 200 | 400 | 450 |
 | 3/Apr/26 | 400 | 280 | 450 | 460 |
-
 ## Spot Rates
+
 | Sector | Size | Routes | 03/04/2026 WS points | 03/04/2026 $/day | 27/03/2026 WS points | 27/03/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 366 | 365,936 | 364 | 366,255 | -0.1% | 60,510 | 37,255 |
@@ -140,6 +143,7 @@ Aframax markets in Europe are showing signs of losing momentum compared to the s
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 3/Apr/25 | 1800 | 1500 | 1400 | 1000 | 1200 |
@@ -157,6 +161,7 @@ Aframax markets in Europe are showing signs of losing momentum compared to the s
 | 3/Apr/26 | 2900 | 1900 | 1700 | 1000 | 1900 |
 
 ### Average T/C Rates (1-Year Trend)
+
 |  | 3/Apr/25 | 3/May/25 | 3/Jun/25 | 3/Jul/25 | 3/Aug/25 | 3/Sep/25 | 3/Oct/25 | 3/Nov/25 | 3/Dec/25 | 3/Jan/26 | 3/Feb/26 | 3/Mar/26 | 3/Apr/26 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Average of the 5T / C | 15000 | 14000 | 25000 | 20000 | 15000 | 20000 | 22000 | 25000 | 42000 | 20000 | 22000 | 23000 | 23000 |
@@ -289,8 +294,8 @@ Turkey's segment held steady last week, however, rising energy costs, are weighi
 | USD/INR | 92.71 | 94.78 | -2.19% | 94.78 |
 | USD/PKR | 279.05 | 279.20 | -0.05% | 280.05 |
 | USD/TRY | 44.59 | 44.43 | 0.35% | 44.59 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ETERNAL ACE | 24,801 | 5,349 | 1997 | KANASASHI, Japan | BC | undisclosed | undisclosed | as is Singapore |

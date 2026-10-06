@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By Theodore Ntalakos, SnP Broker
 
@@ -15,6 +17,7 @@ So, business as usual, we keep watching the needs, the regulations, the requirem
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 22/09/23 WS points | 22/09/23 $/day | 15/09/23 WS points | 15/09/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 52 | 26,548 | 38 | 7,910 | **235.6%** | 20,330 | 2,246 |
@@ -33,14 +36,14 @@ So, business as usual, we keep watching the needs, the regulations, the requirem
 |  | 55K | UKC-USG | 140 | 18,200 | 140 | 18,105 | **0.5%** | 19,982 | 2,822 |
 |  | 55K | MED-USG | 140 | 18,397 | 140 | 18,492 | -0.5% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 131 | 10,162 | 133 | 10,558 | -3.8% | 40,364 | 8,548 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos |  |  | Reliance |  |  |
-| 24 mos | RAYSUT | 2009 | 99,995 dwt |  |  |
-
+| 24 mos |  |  | Reliance | $30,000/day |  |
+| 24 mos | RAYSUT | 2009 | 99,995 dwt | $30,000/day | Reliance |
 ## TC Rates
+
 | Sector | Tenor | 22/09/23 | 15/09/23 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 48,500 | 48,500 | 0.0% | 0 | 34,683 | 25,684 |
@@ -55,8 +58,8 @@ So, business as usual, we keep watching the needs, the regulations, the requirem
 |  | 52k 3yr TC | 24,500 | 24,500 | 0.0% | 0 | 16,426 | 13,804 |
 | Handy | 36k 1yr TC | 24,500 | 24,000 | **2.1%** | **500** | 18,601 | 11,292 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Sep-23 avg | Aug-23 avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 99.0 | 99.0 | 0.0% | 80.2 | 69.7 | 71.5 |
@@ -64,8 +67,8 @@ So, business as usual, we keep watching the needs, the regulations, the requirem
 | **Aframax** | **110KT DH** | **63.5** | **63.4** | **0.2%** | 50.5 | 38.7 | 38.8 |
 | LR1 | 75KT DH | 49.0 | 49.0 | 0.0% | 38.6 | 31.2 | 30.7 |
 | MR | 52KT DH | 40.0 | 40.0 | 0.0% | 34.8 | 27.6 | 27.5 |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 22/Sep/22 | 100 | 200 | 150 |
@@ -81,8 +84,8 @@ So, business as usual, we keep watching the needs, the regulations, the requirem
 | 22/Jul/23 | 70 | 100 | 100 |
 | 22/Aug/23 | 70 | 100 | 100 |
 | 22/Sep/23 | 70 | 100 | 100 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 22/Sep/22 | 150 | 200 | 250 | 200 |
@@ -125,10 +128,10 @@ Suezmax T/C earnings averaged \$11,743/day, down - \$3,050/day w-o-w. On the Afr
 | BHSI | 670 | $12,068 | 634 | $11,420 | **36** | **5.7%** | 1,181 | 1,424 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 5 to 7 mos | DL DAHILA | 2013 | 81,667 dwt |  |  |
-| 4 to 6 mos | ST PAUL | 2010 | 57,982 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 5 to 7 mos | DL DAHILA | 2013 | 81,667 dwt | Dely Fangcheng 21/25 Sep redel worldwide | $12,000/day + $400,000 bb | Norden |
+| 4 to 6 mos | ST PAUL | 2010 | 57,982 dwt | dely Port Canaveral prompt redel Atlantic | $17,000/day | XO Shipping |
 
 ## TC Rates
 | Sector | Tenor | 22/09/23 | 15/09/23 | ±% | Diff | 2022 | 2021 |
@@ -143,6 +146,7 @@ Suezmax T/C earnings averaged \$11,743/day, down - \$3,050/day w-o-w. On the Afr
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 22/Sep/22 | 2000 | 1800 | 1500 | 1000 | 2000 |
@@ -159,6 +163,7 @@ Suezmax T/C earnings averaged \$11,743/day, down - \$3,050/day w-o-w. On the Afr
 | 22/Sep/23 | 1800 | 1600 | 1500 | 900 | 1800 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 22/Sep/22 | 18000 | 17000 | 10000 | 9000 |
@@ -286,6 +291,7 @@ The recycling market remains healthy, although all major markets are growing. Ma
 | USD/TRY | 27.17 | 26.99 | 0.7% | 27.28 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | YA TAI 1 | 71,259 | 10,279 | 1995 | NAMURA, Japan | BC | $ 475/Ldt | Indian |  |

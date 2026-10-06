@@ -52,32 +52,32 @@ In the Atlantic, cargo inflows from North America increased, but rates remain si
 
 ## Dry Bulk - S&P Report
 
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS | / |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | (MILLION) | USD | BUYERS |
-| ALKI | CAPE | 180,235 | 2005 | JAPAN | 15.08 | BAOLI | MARINE |
-| JUPITER N | POST | 93,099 | 2011 | CHINA | 16.5 | W | MARINE |
-| OCEAN DOMINA | PANAMAX | 76,255 | 2005 | JAPAN | 10.6 | VIETNAMESE | BUYERS |
-| NAVIOS PROSPERITY | 1 PANAMAX | 75,527 | 2007 | S. KOREA | 13.75 |  | UNDISCLOSED |
-| NAVIOS AMARYLLIS | SUPRAMAX | 58,735 | 2008 | CHINA | 14.0 | GURITA | LINES |
-| BONITA | SUPRAMAX | 58,105 | 2010 | CHINA | 15.8 | GREEK | BUYERS |
-| BULK NEWPORT | SUPRAMAX | 52,587 | 2003 | JAPAN | 9.3 |  | UNDISCLOSED |
-| GALENE M | HANDY | 33,158 | 2011 | JAPAN | 14.1 | TURKISH | BUYER |
-| CORKSCREW | HANDY | 33,193 Dry | 2010 Bulk (Weekly) | JAPAN Values | 13.75 | CHINESE | BUYERS |
-| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS | 20 YEARS |
-| CAPE | 180,000 | 60 |  | 53 | 35 | 29 | 14 |
-| KAMSARMAX | 82,000 | 33 |  | 37 | 30 | 22 | 10 |
-| SUPRAMAX | 56,000 | 30 |  | 35 | 28 | 18 | 7 |
-| HANDY | 38,000 | 28 |  | 28 | 24 | 16 | 5 |
-| *(Amount in USD million) |  |  |  |  |  |  |  |
-|  |  | Exchange |  | Dry Bulk | Indices |  |  |
-|  |  | BALTIC EXCHANGE | DRY | BULK INDICES |  |  |  |
-|  | CURRENT | WEEK | LAST | YEAR | W-O-W CHANGE | % Y-O-Y | CHANGE % |
-| BDI | 621 | 676 | 1,423 |  | -8.14% |  | -56.36% |
-| BCI | 429 | 534 | 1,242 |  | -19.66% |  | -65.46% |
-| BPI | 940 | 1,054 | 1,796 |  | -10.82% |  | -47.66% |
-| BSI | 682 | 650 | 1,594 |  | +4.92% |  | -57.21% |
-| BHSI | 436 | 431 | 990 |  | +1.16% |  | -55.96% |
+| VESSEL NAME | TYPE |  | DWT | YEAR | BUILT | PRICE | COMMENTS | / |
+|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  | (MILLION) | USD | BUYERS |
+| ALKI | CAPE |  | 180,235 | 2005 | JAPAN | 15.08 | BAOLI | MARINE |
+| JUPITER N | POST | PMAX | 93,099 | 2011 | CHINA | 16.5 | W | MARINE |
+| OCEAN DOMINA | PANAMAX |  | 76,255 | 2005 | JAPAN | 10.6 | VIETNAMESE | BUYERS |
+| NAVIOS PROSPERITY | 1 PANAMAX |  | 75,527 | 2007 | S. KOREA | 13.75 |  | UNDISCLOSED |
+| NAVIOS AMARYLLIS | SUPRAMAX |  | 58,735 | 2008 | CHINA | 14.0 | GURITA | LINES |
+| BONITA | SUPRAMAX |  | 58,105 | 2010 | CHINA | 15.8 | GREEK | BUYERS |
+| BULK NEWPORT | SUPRAMAX |  | 52,587 | 2003 | JAPAN | 9.3 |  | UNDISCLOSED |
+| GALENE M | HANDY |  | 33,158 | 2011 | JAPAN | 14.1 | TURKISH | BUYER |
+| CORKSCREW | HANDY |  | 33,193 Dry | 2010 Bulk (Weekly) | JAPAN Values | 13.75 | CHINESE | BUYERS |
+| TYPE | DWT |  | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS | 20 YEARS |
+| CAPE | 180,000 |  | 60 |  | 53 | 35 | 29 | 14 |
+| KAMSARMAX | 82,000 |  | 33 |  | 37 | 30 | 22 | 10 |
+| SUPRAMAX | 56,000 |  | 30 |  | 35 | 28 | 18 | 7 |
+| HANDY | 38,000 |  | 28 |  | 28 | 24 | 16 | 5 |
+| *(Amount in USD million) |  |  |  |  |  |  |  |  |
+|  |  | Baltic | Exchange |  | Dry Bulk | Indices |  |  |
+|  |  |  | BALTIC EXCHANGE | DRY | BULK INDICES |  |  |  |
+|  | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W CHANGE | % Y-O-Y | CHANGE % |
+| BDI | 621 |  | 676 | 1,423 |  | -8.14% |  | -56.36% |
+| BCI | 429 |  | 534 | 1,242 |  | -19.66% |  | -65.46% |
+| BPI | 940 |  | 1,054 | 1,796 |  | -10.82% |  | -47.66% |
+| BSI | 682 |  | 650 | 1,594 |  | +4.92% |  | -57.21% |
+| BHSI | 436 |  | 431 | 990 |  | +1.16% |  | -55.96% |
 
 ### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
@@ -115,17 +115,17 @@ Freight rates in the MEG fell, with cargos not covering available tonnage, leadi
 
 (MILLION) USD
 
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT | COMMENTS / BUYERS |
-| --- | --- | --- | --- | --- | --- |
-| OCEANIA YASA SOUTHERN | VLCC | 441,585 | 2003 | S. KOREA | UNDISCLOSED |
-| CROSS | VLCC | 318,348 | 2012 | CHINA | UNDISCLOSED |
-| ARCADIA V | VLCC | 298,920 | 2000 | JAPAN | UNDISCLOSED |
-| KYTHIRA WARRIOR | AFRA | 115,338 | 2006 | JAPAN | IMMS |
-| LILA ALABAMA | LR1 | 72,514 | 2004 | S. KOREA | BESIKTAS |
-| HIGH MERCURY | MR | 51,501 | 2008 | S. KOREA | EUROPEAN BUYERS |
-| HIGH EXPLORER | MR | 49,996 | 2018 | JAPAN | D'AMICO |
-| VICTOR 1 | MR | 46,921 | 2004 | S. KOREA | SEVEN ISLANDS |
-| ATLANTICA BREEZE | MR | 46,846 | 2007 | S. KOREA | FAR EASTERN BUYERS |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
+|---|---|---|---|---|---|---|
+| OCEANIA YASA SOUTHERN | VLCC | 441,585 | 2003 | S. KOREA | 50.0 | UNDISCLOSED |
+| CROSS | VLCC | 318,348 | 2012 | CHINA | 69.0 | UNDISCLOSED |
+| ARCADIA V | VLCC | 298,920 | 2000 | JAPAN | 40.0 | UNDISCLOSED |
+| KYTHIRA WARRIOR | AFRA | 115,338 | 2006 | JAPAN | 38.0 | IMMS |
+| LILA ALABAMA | LR1 | 72,514 | 2004 | S. KOREA | 21.5 | BESIKTAS |
+| HIGH MERCURY | MR | 51,501 | 2008 | S. KOREA | 21.0 | EUROPEAN BUYERS |
+| HIGH EXPLORER | MR | 49,996 | 2018 | JAPAN | 30.0 | D'AMICO |
+| VICTOR 1 | MR | 46,921 | 2004 | S. KOREA | 11.0 | SEVEN ISLANDS |
+| ATLANTICA BREEZE | MR | 46,846 | 2007 | S. KOREA | 19.0 | FAR EASTERN BUYERS |
 
 ## Tankers Values
 

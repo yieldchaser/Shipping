@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 <u>By Yiannis Parganas, Head of Research Department</u>
 
@@ -19,6 +21,7 @@ Overall, the Maritime Action Plan does not imply an immediate shift in global fl
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 13/02/2026 WS points | 13/02/2026 $/day | 06/02/2026 WS points | 06/02/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 134 | 123,161 | 139 | 128,442 | -4.1% | 60,510 | 37,255 |
@@ -41,6 +44,7 @@ Overall, the Maritime Action Plan does not imply an immediate shift in global fl
 
 No Fresh Fixtures to Report
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 13/Feb/25 | 50 | 120 | 140 |
@@ -56,8 +60,8 @@ No Fresh Fixtures to Report
 | 13/Dec/25 | 70 | 140 | 250 |
 | 13/Jan/26 | 75 | 150 | 300 |
 | 13/Feb/26 | 80 | 160 | 350 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 13/Feb/25 | 120 | 130 | 140 | 150 |
@@ -125,10 +129,11 @@ Aframax saw a sluggish start of the week in Med, partially due to IE Week, but p
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 to 14 mos | Phaidra | 2013 | 87,146 dwt |  |  |
-| 5 to 7 mos | Jera | 2012 | 57,111 dwt |  |  |
+| 12 to 14 mos | Phaidra | 2013 | 87,146 dwt | $14,500/day | NYK |
+| 5 to 7 mos | Jera | 2012 | 57,111 dwt | $14,000/day | TST |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 13/02/25 | 800 | 900 | 1000 | 700 | 850 |
@@ -146,6 +151,7 @@ Aframax saw a sluggish start of the week in Med, partially due to IE Week, but p
 | 13/Feb/26 | 3100 | 1900 | 1800 | 1000 | 2000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 13/Feb/25 | 5000 | 10000 | 8000 | 7000 |
@@ -203,6 +209,7 @@ In the Ultramax and Supramax segments, location proved decisive. The Atlantic en
 ## Secondhand Sales
 
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | FAIRWAY | 160,250 | 2013 | HHIC, Philippines | MAN B\&W | Jan-28 | DH | $ 56.5m | Greek | Scrubber fitted |
@@ -307,8 +314,8 @@ In Turkey, the ship recycling market experienced a sluggish week, with declined 
 | USD/INR | 90.56 | 90.60 | -0.05% | 91.98 |
 | USD/PKR | 279.60 | 279.88 | -0.10% | 280.05 |
 | USD/TRY | 43.68 | 43.60 | 0.17% | 43.68 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUNNY SPRUCE | 5,821 | 2,243 | 1996 | SHINA, S. Korea | CONTAINER | $380/Ldt | undisclosed | as is Busan |

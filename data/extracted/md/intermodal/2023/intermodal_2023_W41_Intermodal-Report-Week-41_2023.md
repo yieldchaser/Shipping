@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Yiannis Parganas, Head of the Research Department**
 
@@ -17,6 +19,7 @@ It is evident that for India, which generates approximately 70% of its electrici
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 13/10/23 WS points | 13/10/23 $/day | 06/10/23 WS points | 06/10/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 59 | 37,833 | 37 | 9,164 | 312.8% | 20,330 | 2,246 |
@@ -35,14 +38,14 @@ It is evident that for India, which generates approximately 70% of its electrici
 |  | 55K | UKC-USG | 115 | 11,555 | 115 | 11,183 | 3.3% | 19,982 | 2,822 |
 |  | 55K | MED-USG | 115 | 11,381 | 115 | 11,302 | 0.7% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 199 | 32,144 | 138 | 14,940 | 115.2% | 40,364 | 8,548 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 60 mos | RICH RAINBOW |  | 49,999 dwt |  |  |
-| 24 mos | HECTOR N | 2008 | 51,246 dwt |  |  |
 
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 60 mos | RICH RAINBOW |  | 49,999 dwt | DEL EAST OCT/23 | $22,500/day |  |
+| 24 mos | HECTOR N | 2008 | 51,246 dwt | DEL WEST | $21,000/day | Shell |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 13/Oct/22 | 100 | 200 | 300 |
@@ -58,8 +61,8 @@ It is evident that for India, which generates approximately 70% of its electrici
 | 13/Aug/23 | 100 | 100 | 100 |
 | 13/Sep/23 | 100 | 100 | 100 |
 | 13/Oct/23 | 100 | 100 | 100 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 13/Oct/22 | 200 | 300 | 400 | 500 |
@@ -91,6 +94,12 @@ It is evident that for India, which generates approximately 70% of its electrici
 |  | 52k 3yr TC | 24,500 | 24,500 | 0.0% | 0 | 16,426 | 13,804 |
 | Handy | 36k 1yr TC | 26,000 | 25,500 | 2.0% | 500 | 18,601 | 11,292 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
+
+## Indicative Period Charters
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 60 mos | RICH RAINBOW |  | 49,999 dwt | DEL EAST OCT/23 | $22,500/day | GESCO |
+| 24 mos | HECTOR N | 2008 | 51,246 dwt | DEL WEST | $21,000/day | Shell |
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Oct-23 avg | Sep-23 avg | ±% | 2022 | 2021 | 2020 |
@@ -147,6 +156,7 @@ Suezmax T/C earnings averaged \$22,092/day, up + \$23,628/day w-o-w. On the Afra
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 13/Oct/22 | 2000 | 1800 | 1600 | 1000 | 2000 |
@@ -164,6 +174,7 @@ Suezmax T/C earnings averaged \$22,092/day, up + \$23,628/day w-o-w. On the Afra
 | 13/Oct/23 | 3500 | 1900 | 1900 | 800 | 3500 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 13/Oct/22 | 18000 | 17000 | 14000 | 12000 |
@@ -283,6 +294,7 @@ LC regulations have become stricter with banks requiring a list of goods before 
 | USD/TRY | 27.80 | 27.62 | 0.66% | 27.86 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | SEA SMILE | 45,744 | 7,371 | 1995 | IMABARI, Japan | BC | $ 498/Ldt | Bangladeshi |

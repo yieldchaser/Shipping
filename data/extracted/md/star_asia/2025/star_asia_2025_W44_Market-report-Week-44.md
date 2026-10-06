@@ -117,9 +117,13 @@ The Middle East market was active in spot trading, driven by an expansion in fue
 
 Clean:
 
-**LR:** The Middle East LR2 market improved this week with TC1 climbing 38 points from last week to WS141. As demand for early November cargo aided in the tightening of the rates. In the LR1, the positive sentiments were shared with TC5 MEG/Japan closing higher at WS150.
+**LR: The Middle East LR2 market improved this week with TC1 climbing 38 points from last**
 
-**MR:** Given the current stagnation in demand, MEG market remains flat with TC17 MEG/E.Africa remaining around WS210 range. In the USG, rates saw a downturn with TC14 USG/UKC falling some 16 points to WS184.
+week to WS141. As demand for early November cargo aided in the tightening of the rates. In the LR1, the positive sentiments were shared with TC5 MEG/Japan closing higher at WS150.
+
+**MR: Given the current stagnation in demand, MEG market remains flat with TC17**
+
+MEG/E.Africa remaining around WS210 range. In the USG, rates saw a downturn with TC14 USG/UKC falling some 16 points to WS184.
 
 ## Baltic Exchange Tanker Indices
 
@@ -314,7 +318,9 @@ Deep-sea imported scrap prices in Turkey held stable day-over-day, with market a
 
 ## Commodities (Weekinfocus)
 
-Iron ore futures experienced a pullback on Friday, largely due to a bout of profit-taking that followed a high-level meeting between the world's two largest economies. The context for this correction was the announcement by President Trump that he and President Xi Jinping had reached an agreement to trim tariffs. Specifically, the most-traded January iron ore contract on China's Dalian Commodity Exchange (DCE) pared some gains to close daytime trade 0.38% higher at 802.5 yuan (US$112.66) a metric ton, after briefly hitting a more than one-month high of 810.5 yuan earlier in the session. Meanwhile, the benchmark December iron ore contract on the Singapore Exchange fell 0.48% to US$106.65 a ton, despite having touched its highest level since October 14 at US$107.6 earlier in the session. While the market cheered the macro-related boost from the trade agreement, investors remained cautious due to signs of a seasonal slowdown in steel demand. China's factory activity, for instance, likely contracted for a seventh consecutive month in October, as domestic producers' strenuous efforts to offload goods abroad merely exported the price wars that were negatively affecting the market at home. In related commodities, coking coal and coke futures on the NYMEX gathered further steam on expectations of constrained supply, climbing 1.62% and 0.59%, respectively. Conversely, steel benchmarks on the Shanghai Futures Exchange retreated: Rebar futures dipped 0.38%, hot-rolled coil shed 0.33%, and stainless steel slid 0.39%, while wire rod ticked up a marginal 0.42%.
+**Iron ore futures experienced a pullback on Friday, largely due to a bout of profit-taking**
+
+that followed a high-level meeting between the world's two largest economies. The context for this correction was the announcement by President Trump that he and President Xi Jinping had reached an agreement to trim tariffs. Specifically, the most-traded January iron ore contract on China's Dalian Commodity Exchange (DCE) pared some gains to close daytime trade 0.38% higher at 802.5 yuan (US$112.66) a metric ton, after briefly hitting a more than one-month high of 810.5 yuan earlier in the session. Meanwhile, the benchmark December iron ore contract on the Singapore Exchange fell 0.48% to US$106.65 a ton, despite having touched its highest level since October 14 at US$107.6 earlier in the session. While the market cheered the macro-related boost from the trade agreement, investors remained cautious due to signs of a seasonal slowdown in steel demand. China's factory activity, for instance, likely contracted for a seventh consecutive month in October, as domestic producers' strenuous efforts to offload goods abroad merely exported the price wars that were negatively affecting the market at home. In related commodities, coking coal and coke futures on the NYMEX gathered further steam on expectations of constrained supply, climbing 1.62% and 0.59%, respectively. Conversely, steel benchmarks on the Shanghai Futures Exchange retreated: Rebar futures dipped 0.38%, hot-rolled coil shed 0.33%, and stainless steel slid 0.39%, while wire rod ticked up a marginal 0.42%.
 
 **Copper led the sector lower as a stronger USD dampened investor sentiment following**
 

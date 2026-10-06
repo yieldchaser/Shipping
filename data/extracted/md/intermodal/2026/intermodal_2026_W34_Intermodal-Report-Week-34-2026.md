@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 By <u>Nikos Tagoulis, Senior Analyst</u>
 
@@ -21,6 +23,7 @@ With the waiver still temporary and approvals granted on a voyage-by-voyage basi
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 21/08/2026 WS points | 21/08/2026 $/day | 14/08/2026 WS points | 14/08/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 575 | 604,513 | 474 | 489,691 | 23.4% | 60,510 | 37,255 |
@@ -40,6 +43,7 @@ With the waiver still temporary and approvals granted on a voyage-by-voyage basi
 |  | 50k | ARA-UKC | 361 | 99,216 | 378 | 106,698 | -7.0% | 18,615 | 26,872 |
 
 ## TC Rates
+
 | Sector | Tenor | 21/08/2026 | 14/08/2026 | ±% | Diff | 2025 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 119,000 | 117,500 | 1.3% | 1500 | 50,615 | 50,365 |
@@ -123,6 +127,7 @@ Aframax spot rates remained broadly stable, as gains in some regions offset loss
 | 21/Aug/26 | 4500 | 2700 | 1600 | 1000 | 3000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 21/Aug/25 | 20000 | 15000 | 12000 | 10000 |
@@ -251,8 +256,8 @@ Turkey's market remains subdued, with currency weakness limiting buyers' purchas
 | USD/INR | 95.70 | 95.45 | 0.26% | 96.57 |
 | USD/PKR | 277.75 | 277.75 | 0.00% | 280.05 |
 | USD/TRY | 48.04 | 47.88 | 0.33% | 47.88 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MARIA | 27,369 | 5,681 | 1997 | HANJIN, S. Korea | BC | $520/Ldt | Pakistani |

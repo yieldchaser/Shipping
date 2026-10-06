@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Yiannis Parganas, Head of Research Department**
 
@@ -15,6 +17,7 @@ Despite the pessimistic outlook regarding the impact of the stimulus package on 
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 27/09/24 WS points | 27/09/24 $/day | 20/09/24 WS points | 20/09/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 55 | 33,957 | 61 | 41,333 | -17.8% | 39,466 | 20,330 |
@@ -34,12 +37,12 @@ Despite the pessimistic outlook regarding the impact of the stimulus package on 
 |  | 50k | ARA-UKC | 124 | 5,309 | 161 | 14,994 | -64.6% | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 36 mos | CLEAN JUSTICE | 2011 | 45,998 dwt |  |  |
-| 3 mos | ARROW G | 2003 | 45,975 dwt |  |  |
-
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 36 mos | CLEAN JUSTICE | 2011 | 45,998 dwt | DEL WEST SEP-NOV/24 | $27,950/day | Petrobras |
+| 3 mos | ARROW G | 2003 | 45,975 dwt | DEL WEST SEP/24 | $26,800/day | Newton |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points |
@@ -56,8 +59,8 @@ Despite the pessimistic outlook regarding the impact of the stimulus package on 
 | 27/Jul/24 | 50 | 90 | 120 |
 | 27/Aug/24 | 50 | 80 | 110 |
 | 27/Sep/24 | 50 | 70 | 100 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points | WS points |
@@ -124,10 +127,10 @@ On Clean tonnage, Middle East exports and fixing boosted LR1 and LR2 for eastbou
 | BHSI | 710 | $12,773 | 707 | $12,730 | 3 | 0.3% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | MSXT HELEN | 2022 | 85,296 dwt |  |  |
-| 6/8 months | THUNDER ISLAND | 2021 | 82,558 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | MSXT HELEN | 2022 | 85,296 dwt | dely Cai Mep 13/14 Oct redel worldwide | $16,500/day | Norden |
+| 6/8 months | THUNDER ISLAND | 2021 | 82,558 dwt | dely Machong 25/26 Sep redel worldwide | $16,950/day | Summit Trading |
 
 ## TC Rates
 | Sector | Tenor | 27/09/24 | 20/09/24 | ±% | Diff | 2023 | 2022 |
@@ -142,6 +145,7 @@ On Clean tonnage, Middle East exports and fixing boosted LR1 and LR2 for eastbou
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 27/5ep/23 | 25000 | 15000 | 15000 | 10000 |
@@ -245,6 +249,7 @@ In the containers, German owner Hapag-Lloyd continued its fleet expansion, contr
 
 The ship recycling market showed mixed dynamics last week, with India leading the way in terms of activity, while other regions continued to face challenges. Global economic conditions and geopolitical tensions have kept the market on edge, contributing to mixed trends in key recycling destinations. In India, local steel prices firming and sentiment was upbeat following the Chinese stimulus package. As a result, scrap prices offered by recyclers also increased. Steel demand in the region is showing signs of increasing, adding to the positive sentiment. As for the steel industry, the ISA believes that more Chinese steel is heading to China after the US imposed a 25% tariff on Chinese steel. In Pakistan, the market is weak and the steel market is not supportive as both steel and scrap prices are falling. The market is basically non-existent as there is no available tonnage. The country has managed to secure a \$7 billion loan from the IMF to help with the country's financial problems, while the \$1.1 billion will be released immediately. No major developments are expected due to the lack of available tonnage. Similarly, steel demand in Bangladesh is showing no signs of recovery, although steel prices have risen slightly. Prices offered by recyclers are falling in the absence of demolition activity. The country has also secured a \$3 billion loan to help ease foreign exchange difficulties. In addition, the Asian Development Bank set the country's growth at 5.1% for 2024-25, down from 6.6%. In Turkey, demand is weak and steel prices are falling. Despite this, recyclers offered higher prices. On the macro side, the country raised the reserve requirement ratio. For the short term it was raised from 12% to 15%, while for the long term it was raised from 8% to 10%. In addition, the country decided to introduce a minimum corporate tax rate of 10% for all companies from 2025 onwards.
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 27/09/24 | 20/09/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -257,8 +262,8 @@ The ship recycling market showed mixed dynamics last week, with India leading th
 | India | 470 | 470 | 0.0% | 520 | 480 | 522 | 583 | 508 |
 | Pakistan | 455 | 455 | 0.0% | 510 | 470 | 515 | 587 | 526 |
 | Turkey | 310 | 310 | 0.0% | 350 | 310 | 315 | 304 | 276 |
-
 ## Currencies
+
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 116.44 | 117.45 | -0.9% | 117.51 |
@@ -267,6 +272,7 @@ The ship recycling market showed mixed dynamics last week, with India leading th
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MY MERAY | 39,110 | 6,978 | 1992 | IHI, Japan | BC | $ 480.0m | Indian | incl 150 Ts bunkers |

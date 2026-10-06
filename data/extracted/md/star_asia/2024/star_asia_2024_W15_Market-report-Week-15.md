@@ -134,21 +134,21 @@ Sentiment in the CPP market was mixed this week, with rates generally softening 
 
 # Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
-| --- | --- | --- | --- | --- | --- | --- |
-| VLCC | 310,000 | 48,500 | 48,500 | 42,500 | 0 | +14.12% |
-| SUEZMAX | 150,000 | 42,500 | 42,500 | 42,500 | 0 | 0 |
-| AFRAMAX | 110,000 | 42,500 | 42,500 | 50,000 | 0 | -15.00% |
-| LR1 | 74,000 | 37,500 | 37,000 | 35,500 | +1.35% | +5.63% |
-| MR | 47,000 | 30,000 | 30,000 Tankers S&P | 31,000 Report | 0 PRICE | -3.23% COMMENTS / |
-| VESSEL | NAME | DWT | YEAR | BUILT |  |  |
-|  |  |  |  | (MILLION) | USD | BUYERS |
-| FRONT | THOR | 156,719 | 2010 | CHINA | 45.0 | UNDISCLOSED |
-| CALYPSO |  | 111,930 | 2021 | JAPAN | 80.0 | GNMTC |
-| JAG PAHEL |  | 46,319 | 2004 | S. KOREA | 14.5 | UNDISCLOSED |
-| SAN | CARLOS | 37,258 | 2007 | S. KOREA | 20.5 | TURKISH BUYERS |
-| CHEM | BULLDOG | 21,306 | 2010 | JAPAN | 23.0 (SS) | UNDISCLOSED |
-| SAMBONG | ARTEMIS | 11,457 | 2018 | S. KOREA | 22.0 | FRENCH BUYERS |
+| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
+|---|---|---|---|---|---|---|---|
+| VLCC | 310,000 |  | 48,500 | 48,500 | 42,500 | 0 | +14.12% |
+| SUEZMAX | 150,000 |  | 42,500 | 42,500 | 42,500 | 0 | 0 |
+| AFRAMAX | 110,000 |  | 42,500 | 42,500 | 50,000 | 0 | -15.00% |
+| LR1 | 74,000 |  | 37,500 | 37,000 | 35,500 | +1.35% | +5.63% |
+| MR | 47,000 |  | 30,000 | 30,000 Tankers S&P | 31,000 Report | 0 PRICE | -3.23% COMMENTS / |
+| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  |  |
+|  |  |  |  |  | (MILLION) | USD | BUYERS |
+| FRONT | THOR | SUEZ | 156,719 | 2010 | CHINA | 45.0 | UNDISCLOSED |
+| CALYPSO |  | AFRA | 111,930 | 2021 | JAPAN | 80.0 | GNMTC |
+| JAG PAHEL |  | MR | 46,319 | 2004 | S. KOREA | 14.5 | UNDISCLOSED |
+| SAN | CARLOS | MR | 37,258 | 2007 | S. KOREA | 20.5 | TURKISH BUYERS |
+| CHEM | BULLDOG | PROD/ CHEM | 21,306 | 2010 | JAPAN | 23.0 (SS) | UNDISCLOSED |
+| SAMBONG | ARTEMIS | PROD/ CHEM | 11,457 | 2018 | S. KOREA | 22.0 | FRENCH BUYERS |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -296,11 +296,17 @@ Steelmakers in Turkey remained subdued amid Eid festivities, with trade expected
 
 # Commodities
 
-Base metals initially saw robust gains in Asian markets, bolstered by persistent supply chain disruptions. These gains, however, were negated later in the trading session as a strengthening U.S. dollar dampened investor enthusiasm. Additionally, diminishing expectations of an impending Federal Reserve rate cut also put pressure on market sentiment. Despite these challenges, the ongoing scarcity in supply is expected to sustain the sector. Furthermore, reports continue to emerge about reductions at Chinese copper smelting facilities. In contrast, zinc prices managed to climb, driven by market concerns over imminent supply reductions. Zinc smelters are facing significantly reduced processing fees due to the tightness in the concentrate market.
+**Base metals initially saw robust gains in Asian markets, bolstered by persistent supply**
 
-Copper prices have soared to their highest since June 2022, fueled by a confluence of reduced ore supply and a revival in global demand, particularly as global manufacturing picks up pace. This surge is partially attributed to a mine-supply shock from the previous year, now coupled with unexpectedly robust demand, prompting investors to lean towards commodities as an inflation hedge. On the London Metal Exchange, copper futures have climbed over 12% this year, peaking at US$9,590.50 a ton following reports of strong Chinese import data in March. The market's optimism is underpinned by constrained supply chains and signs of economic growth, particularly in China's industrial sector, which is showing signs of recovery.
+chain disruptions. These gains, however, were negated later in the trading session as a strengthening U.S. dollar dampened investor enthusiasm. Additionally, diminishing expectations of an impending Federal Reserve rate cut also put pressure on market sentiment. Despite these challenges, the ongoing scarcity in supply is expected to sustain the sector. Furthermore, reports continue to emerge about reductions at Chinese copper smelting facilities. In contrast, zinc prices managed to climb, driven by market concerns over imminent supply reductions. Zinc smelters are facing significantly reduced processing fees due to the tightness in the concentrate market.
 
-Iron ore futures prices rose slightly on Thursday, driven by hopes of increased stimulus measures from China in the second quarter to support its economy. This optimism was triggered by the latest soft economic data from the country, which showed that the consumer price index grew by a mere 0.1% y-o-y in March and fell by 1.0% m-o-m. Additionally, the producer price index declined by 2.8% y-o-y in March, a larger drop compared to the previous month. These figures have put pressure on policymakers to introduce more stimulus measures as demand remains weak.
+**Copper prices have soared to their highest since June 2022, fueled by a confluence of**
+
+reduced ore supply and a revival in global demand, particularly as global manufacturing picks up pace. This surge is partially attributed to a mine-supply shock from the previous year, now coupled with unexpectedly robust demand, prompting investors to lean towards commodities as an inflation hedge. On the London Metal Exchange, copper futures have climbed over 12% this year, peaking at US$9,590.50 a ton following reports of strong Chinese import data in March. The market's optimism is underpinned by constrained supply chains and signs of economic growth, particularly in China's industrial sector, which is showing signs of recovery.
+
+**Iron ore futures prices rose slightly on Thursday, driven by hopes of increased stimulus**
+
+measures from China in the second quarter to support its economy. This optimism was triggered by the latest soft economic data from the country, which showed that the consumer price index grew by a mere 0.1% y-o-y in March and fell by 1.0% m-o-m. Additionally, the producer price index declined by 2.8% y-o-y in March, a larger drop compared to the previous month. These figures have put pressure on policymakers to introduce more stimulus measures as demand remains weak.
 
 Iron Ore
 

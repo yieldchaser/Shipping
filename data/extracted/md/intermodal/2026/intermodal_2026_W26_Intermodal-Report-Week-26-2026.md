@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -21,6 +23,7 @@ The key takeaway is that elevated Russian crude exports should be interpreted wi
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 19/06/2026 WS points | 19/06/2026 $/day | 12/06/2026 WS points | 12/06/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 472 | 496,873 | 404 | 414,787 | **19.8%** | 60,510 | 37,255 |
@@ -43,6 +46,7 @@ The key takeaway is that elevated Russian crude exports should be interpreted wi
 
 No Fresh Fixtures to Report
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 26/Jun/25 | 100 | 150 | 200 |
@@ -58,8 +62,8 @@ No Fresh Fixtures to Report
 | 26/Apr/26 | 400 | 250 | 300 |
 | 26/May/26 | 400 | 250 | 300 |
 | 26/Jun/26 | 400 | 200 | 200 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 26/Jun/25 | 150 | 100 | 200 | 250 |
@@ -143,6 +147,7 @@ Aframaxes in the Mediterranean faced pressure as tonnage availability increased 
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 26/Jun/25 | 1800 | 1700 | 1400 | 800 | 1600 |
@@ -160,6 +165,7 @@ Aframaxes in the Mediterranean faced pressure as tonnage availability increased 
 | 26/Jun/26 | 1200 | 1600 | 2100 | 700 | 2200 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 26/Jun/25 | 12000 | 14000 | 13000 | 11000 |

@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -28,6 +30,7 @@ In the long term, the introduction of potential tariffs from China could diminis
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 13/09/24 WS points | 13/09/24 $/day | 06/09/24 WS points | 06/09/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 56 | 34,737 | 51 | 28,289 | **22.8%** | 39,466 | 20,330 |
@@ -45,14 +48,14 @@ In the long term, the introduction of potential tariffs from China could diminis
 | Dirty | 55K | UKC-USG | 115 | 10,918 | 120 | 11,546 | -5.4% | 27,274 | 19,982 |
 |  | 55K | MED-USG | 115 | 10,956 | 120 | 11,414 | -4.0% | 27,060 | 21,231 |
 |  | 50k | ARA-UKC | 170 | 17,462 | 156 | 13,548 | **28.9%** | 46,194 | 40,364 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6/8 mos |  | 2014 | 50,879 dwt |  |  |
-| 24 mos | STI JARDINS | 2018 | 49,990 dwt |  |  |
+| 6/8 mos |  | 2014 | 50,879 dwt | GREEN SKY $29,000/day | Mercuria |
+| 24 mos | STI JARDINS | 2018 | 49,990 dwt | $29,550/day | Petrobras |
 
-### Dirty WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Dirty
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -69,8 +72,7 @@ In the long term, the introduction of potential tariffs from China could diminis
 | 13/Jul/24 | 70 | 70 | 140 |
 | 13/Aug/24 | 60 | 60 | 120 |
 | 13/Sep/24 | 50 | 50 | 100 |
-
-### Clean WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Clean
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -139,10 +141,10 @@ On the clean market, the was increased fixing for LR2s and LR1s which resulted i
 | BHSI | 707 | $12,731 | 724 | $13,039 | -17 | -2.4% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | XING FU HAI | 2022 | 85,038 dwt |  |  |
-| 5/7 mos | MEDUSA | 2010 | 82,194 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | XING FU HAI | 2022 | 85,038 dwt | dely Beihai 12/16 Sep redel worldwide | index linked at 119% to BPI | Tongli |
+| 5/7 mos | MEDUSA | 2010 | 82,194 dwt | 15/17 Sep redel worldwide | $15,500/day | Kline |
 
 ## TC Rates
 | Sector | Tenor | 13/09/24 | 06/09/24 | ±% | Diff | 2023 | 2022 |
@@ -157,6 +159,7 @@ On the clean market, the was increased fixing for LR2s and LR1s which resulted i
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 13/Sep/23 | 1500 | 1200 | 1000 | 800 | 1400 |
@@ -173,6 +176,7 @@ On the clean market, the was increased fixing for LR2s and LR1s which resulted i
 | 13/Sep/24 | 3000 | 1600 | 1200 | 900 | 1700 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 13/Sep/23 | 12000 | 13000 | 11000 | 10000 |
@@ -213,6 +217,7 @@ Supramax 10TC averaged \$ 13,899/day down -1.13% w-o-w, while the Handysize 7TC 
 # Secondhand Sales
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | JAG LALIT | 158,344 | 2005 | HYUNDAI, S. Korea | MAN-B\&W | Jul-28 | DH | $ 33.0m | undisclosed | Ice 1B |
@@ -265,6 +270,7 @@ This week saw a total of 22 vessels ordered across multiple sectors, with notabl
 
 The ship demolition market has faced significant challenges this week, with weak demand and falling prices for both steel and scrap continuing in key destinations. In India, the market remains sluggish with steel prices falling sharply due to low demand and the continued influx of cheaper Chinese steel. Indian recyclers are reluctant to make new purchases as ship plate prices continue to fall. Government regulations are likely to increase the amount of scrap available in the future, with carmakers required to recycle 8% of steel from cars by 2026 and 18% by 2036. In addition, the long-awaited increase in construction activity has yet to materialize, putting further pressure on scrap demand. Bangladesh is facing similar difficulties, with the market under pressure from political turmoil, economic challenges and the ongoing monsoon season. Stricter compliance measures, such as approved IHM on board, are causing delays in recycling operations, while prices remain stagnant. Monsoons have disrupted logistics, exacerbating the shortage of available tonnage and hampering recyclers' operations. The country is seeking a \$5 billion loan from the IMF, as well as better terms on existing loans from Russia and India. In Pakistan, the market continues to show no signs of improvement. Local recyclers are struggling with falling steel prices, exacerbated by an influx of cheaper Chinese steel imports. Although the recent interest rate cut by the central bank offers a glimmer of hope, its impact on the ship recycling industry has yet to be felt. Recyclers remain cautious, especially for larger vessels. The Turkish market remains largely unchanged, with little activity in either recycling or imports. Prices have remained flat, but there is growing concern about the impact of increasing Chinese steel imports. Recyclers expect further price falls as demand remains weak. Overall, the ship recycling market remains under significant downward pressure, with little sign of immediate recovery in any of the major destinations.
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 13/09/24 | 06/09/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tanker | Bangladesh | 485 | 500 | -3.0% | 530 | 490 | 550 | 601 |
@@ -275,8 +281,8 @@ The ship demolition market has faced significant challenges this week, with weak
 |  | India | 470 | 480 | -2.1% | 520 | 480 | 522 | 583 |
 |  | Pakistan | 455 | 470 | -3.2% | 510 | 470 | 515 | 587 |
 |  | Turkey | 310 | 310 | 0.0% | 350 | 310 | 315 | 304 |
-
 ## Currencies
+
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 116.44 | 117.45 | -0.9% | 117.51 |
@@ -285,6 +291,7 @@ The ship demolition market has faced significant challenges this week, with weak
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CORAL ENERGY | 72,629 | 28,525 | 1979 | GENERAL DYNAMICS QC, USA | GAS TANKER | $ 555.0m | undisclosed | as is Labuan |

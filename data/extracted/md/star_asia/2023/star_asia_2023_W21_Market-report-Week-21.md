@@ -137,16 +137,16 @@ L.R.: The LR1 market saw a bustling week, with strong activity observed. TC5 set
 
 (MILLION) USD
 
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT | COMMENTS / BUYERS |
-| --- | --- | --- | --- | --- | --- |
-| AMOROZA | SUEZ | 159,168 | 2001 | S. KOREA | UNDISCLOSED |
-| AGAPE SOUL | SUEZ | 159,165 | 2001 | S. KOREA | UNDISCLOSED EASTERN PACIFIC |
-| SOUTHERN GLORY | AFRA | 108,411 | 2019 | JAPAN | SHIPPING |
-| WONDER MUSICA | AFRA | 106,290 | 2004 | S. KOREA | INDONESIAN BUYERS |
-| GULF CRYSTAL GULF PEARL / | LR1 | 74,999 | 2009 | S. KOREA | UNDISCLOSED |
-| GULF COAST / GULF HORIZON | LR1 | 74,999 | 2005 | S. KOREA | UNDISCLOSED |
-| MASTER QUINCE | MR | 41,397 | 2009 | S. KOREA | EUROPEAN BUYERS |
-| TRADEWIND LEGEND | SMALL | 7,739 | 2009 | CHINA | UNDISCLOSED |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
+|---|---|---|---|---|---|---|
+| AMOROZA | SUEZ | 159,168 | 2001 | S. KOREA | 30.0 | UNDISCLOSED |
+| AGAPE SOUL | SUEZ | 159,165 | 2001 | S. KOREA | 31.0 | UNDISCLOSED EASTERN PACIFIC |
+| SOUTHERN GLORY | AFRA | 108,411 | 2019 | JAPAN | 66.7 | SHIPPING |
+| WONDER MUSICA | AFRA | 106,290 | 2004 | S. KOREA | 30.0 | INDONESIAN BUYERS |
+| GULF CRYSTAL GULF PEARL / | LR1 | 74,999 | 2009 | S. KOREA | 29.5 | UNDISCLOSED |
+| GULF COAST / GULF HORIZON | LR1 | 74,999 | 2005 | S. KOREA | 61.2 EN BLOC | UNDISCLOSED |
+| MASTER QUINCE | MR | 41,397 | 2009 | S. KOREA | 22.0 | EUROPEAN BUYERS |
+| TRADEWIND LEGEND | SMALL | 7,739 | 2009 | CHINA | 5.8 | UNDISCLOSED |
 
 ### Tankers Values
 
@@ -195,18 +195,18 @@ Despite a significant decline in freight rates and an imbalance in supply and de
 
 # Containers S&P Report
 
-| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE | COMMENTS | / |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | (MILLION) |  | BUYERS |
-| AXEL MAERSK / ANNA MAERSK / ARNOLD MAERSK / ARTHUR MAERSK | POST PMAX | 8,272 Containers | 2003 (Weekly) | DENMARK Values | N/A | GLOBAL | SHIP LEASE |
-| CONTAINERS | GEARED / | NB | NB | PROMPT |  |  |  |
-|  |  |  |  |  | 5 YEARS | YEARS | 20 YEARS |
-| (by TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  |  |
-| 900 - 1,200 | Geared | 23 |  | 22 | 15 |  | 8 |
-| 1,600 - 1,800 | Geared | 29 |  | 28 | 22 |  | 12 |
-| 2,700 - 2,900 | Gearless | 43 |  | 38 | 30 |  | 15 |
-| 5,500 - 7,000 | Gearless | 88 |  | 80 | 70 |  | N/A |
-| *(amount in USD million) |  |  |  |  |  |  |  |
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE |  | COMMENTS | / |
+|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  | (MILLION) | USD |  | BUYERS |
+| AXEL MAERSK / ANNA MAERSK / ARNOLD MAERSK / ARTHUR MAERSK | POST PMAX | 8,272 Containers | 2003 (Weekly) | DENMARK Values | N/A |  | GLOBAL | SHIP LEASE |
+| CONTAINERS | GEARED / | NB | NB | PROMPT |  |  |  |  |
+|  |  |  |  |  | 5 YEARS | 10 | YEARS | 20 YEARS |
+| (by TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  |  |  |
+| 900 - 1,200 | Geared | 23 |  | 22 | 15 | 10 |  | 8 |
+| 1,600 - 1,800 | Geared | 29 |  | 28 | 22 | 16 |  | 12 |
+| 2,700 - 2,900 | Gearless | 43 |  | 38 | 30 | 20 |  | 15 |
+| 5,500 - 7,000 | Gearless | 88 |  | 80 | 70 | 45 |  | N/A |
+| *(amount in USD million) |  |  |  |  |  |  |  |  |
 
 ### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 

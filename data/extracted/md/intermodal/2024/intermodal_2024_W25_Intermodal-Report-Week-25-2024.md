@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 _By Yiannis Parganas, Head of Research Department_
 
@@ -13,6 +15,7 @@ The reduced activity in the demolition market is manifesting in an increasing av
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 21/06/24 WS points | 21/06/24 $/day | 14/06/24 WS points | 14/06/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 51 | 28,960 | 52 | 30,971 | -6.5% | 39,466 | 20,330 |
@@ -34,10 +37,10 @@ The reduced activity in the demolition market is manifesting in an increasing av
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 4/6 mos | P.ALIKI | 2010 | 105,304 dwt |  |  |
-| 5 mos | GANESHA | 2009 | 45,996 dwt |  |  |
-
+| 4/6 mos | P.ALIKI | 2010 | 105,304 dwt | $48,500/day | Trafigura |
+| 5 mos | GANESHA | 2009 | 45,996 dwt | $37,000/day | ST Shipping |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 21/Jun/23 | 100 | 100 | 150 |
@@ -53,8 +56,8 @@ The reduced activity in the demolition market is manifesting in an increasing av
 | 21/Apr/24 | 50 | 100 | 150 |
 | 21/May/24 | 50 | 100 | 150 |
 | 21/Jun/24 | 50 | 100 | 200 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 21/Jun/23 | 100 | 150 | 150 | 150 |
@@ -107,14 +110,15 @@ On clean products, TC1 (MEG/JPN) fell to WS 198.06 (-3.4%), while on MRs, TC2 fe
 ## Dry Bulk Market
 
 ### Baltic Indices (1-Year Trend)
+
 | BDI BCI BPI BSI BHSI | 21/06/24 Index 1,997 3,142 1,827 1,398 753 | 21/06/24 $/day$26,059 $16,441 $15,382 $13,548 | 14/06/24 Index 1,948 2,957 1,950 1,335 711 | 14/06/24 $/day$24,525 $17,546 $14,689 $12,803 | Point Diff Diff 49 185 -123 63 42 | $/day ±% ±%6.3% -6.3% 4.7% 5.8% | 2023 Index Index 1,395 2,007 1,442 1,031 586 | 2022 Index Index 1,931 1,955 2,298 2,006 1,181 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 7/9 mos | LADY BELLAMELIA | 2021 | 82,499 dwt |  |  |
-| 7/9 mos | MYRSINI | 2010 | 82,117 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 7/9 mos | LADY BELLAMELIA | 2021 | 82,499 dwt | dely Dalian 25/30 Jun redel worldwide | $19,500/day | TMM |
+| 7/9 mos | MYRSINI | 2010 | 82,117 dwt | dely jinzhou 23/30 Jun redel worldwide | $17,100/day | Cobelfret |
 
 ## TC Rates
 | Sector | Tenor | 21/06/24 | 14/06/24 | ±% | Diff | 2023 | 2022 |
@@ -129,6 +133,7 @@ On clean products, TC1 (MEG/JPN) fell to WS 198.06 (-3.4%), while on MRs, TC2 fe
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 21/Jun/23 | 1800 | 1000 | 900 | 800 | 1000 |
@@ -146,6 +151,7 @@ On clean products, TC1 (MEG/JPN) fell to WS 198.06 (-3.4%), while on MRs, TC2 fe
 | 21/Jun/24 | 2900 | 1550 | 1450 | 1150 | 1550 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 21/Jun/23 | 15000 | 10000 | 8000 | 7000 |
@@ -251,6 +257,7 @@ The demolition market experienced little action this week, owing mostly to Eid a
 
 The Bangladesh market likewise paused for the holidays, with recycling prices remaining stable. Tight government budgets and reduced expenditure kept general market sentiment neutral, but recyclers faced additional hurdles due to a weaker local currency against the US dollar. Turkey had a sluggish week, with prices remaining stable, thanks mostly to the holiday season. The market remains under pressure from excessive inflation, which is affecting general economic stability. The overall forecast for the demolition market is cautious. The supply of new tonnage is projected to remain low in the medium term, with the recent holidays compounding the slowdown. The upcoming budget announcements, particularly in India, may include reforms that have a positive impact on market conditions. However, players remain cautious and closely follow economic policy and market changes in order to manage the uncertain landscape.
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 21/06/24 | 14/06/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -265,6 +272,7 @@ The Bangladesh market likewise paused for the holidays, with recycling prices re
 | Turkey | 350 | 350 | 0.0% | 350 | 330 | 315 | 304 | 276 |
 
 ## Currencies
+
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 117.00 | 117.00 | 0.0% | 117.00 |
@@ -273,6 +281,7 @@ The Bangladesh market likewise paused for the holidays, with recycling prices re
 | USD/TRY | 32.83 | 32.63 | 0.6% | 32.63 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MOSHTARAKA 2 | 94,274 | 14,348 | 1995 | MITSUBISHI, Japan | BC | $ 540.0m | undisclosed | as is Khor Fakkan, incl 450 tons bunkers |

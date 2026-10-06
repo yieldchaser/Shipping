@@ -124,18 +124,18 @@ LR: Despite an increase in fixtures at the start of the week for MEG/Far East ro
 
 # Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT | CURRENT LAST | WEEK | LAST | YEAR |
-| --- | --- | --- | --- | --- | --- |
-| VLCC | 310,000 | 47,500 | 47,500 | 38,500 |  |
-| SUEZMAX | 150,000 | 43,500 | 43,500 | 40,000 |  |
-| AFRAMAX | 110,000 | 45,000 | 45,000 | 42,500 |  |
-| LR1 | 74,000 | 37,000 | 37,000 | 29,250 |  |
-| MR | 47,000 | 30,000 | 30,250 Tankers S&P | 26,000 Report |  |
-| VESSEL | NAME | DWT | YEAR | BUILT |  |
-|  |  |  |  | (MILLION) | USD |
-| PUSAKA | JAVA | 108,524 | 2018 | JAPAN |  |
-| PGC | COMPANION | 72,825 | 2005 | CHINA |  |
-| TRF MEMPHIS TRF MOBILE | / | 37,596 | 2016 | S. KOREA |  |
+| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 |  | 47,500 | 47,500 | 38,500 |  |
+| SUEZMAX | 150,000 |  | 43,500 | 43,500 | 40,000 |  |
+| AFRAMAX | 110,000 |  | 45,000 | 45,000 | 42,500 |  |
+| LR1 | 74,000 |  | 37,000 | 37,000 | 29,250 |  |
+| MR | 47,000 |  | 30,000 | 30,250 Tankers S&P | 26,000 Report |  |
+| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  |
+|  |  |  |  |  | (MILLION) | USD |
+| PUSAKA | JAVA | AFRA | 108,524 | 2018 | JAPAN |  |
+| PGC | COMPANION | LR1 | 72,825 | 2005 | CHINA |  |
+| TRF MEMPHIS TRF MOBILE | / | MR | 37,596 | 2016 | S. KOREA |  |
 
 W-O-W CHANGE Y-O-Y CHANGE 0 +23.38% 0 +8.75% 0 +5.88% 0 +26.50% -0.83% +15.38%
 
@@ -270,7 +270,9 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 Overall, the Sub-Continent scrap markets exhibited diverse trends, with India's disinterest in imports, Pakistan's logistical challenges, Bangladesh's seasonal factors, and Turkey's stable outlook shaping the week's activities.
 
-Indian buyers continued to show little interest in imported scrap due to substantial bid- offer gaps and the availability of more economical domestic alternatives. Shredded scrap from the US and UK/Europe was priced at US$410-415 per ton CFR Nhava Sheva, but there were no takers at these levels. Offers for West African and UK/European HMS (80:20) were assessed at US$385-390 per ton CFR. In Pakistan, demand for imported scrap slowed as buyers adjusted purchases amid domestic market volatility and rising imported scrap prices. Offers for shredded scrap from the UK/Europe were evaluated at US$425-430 per ton CFR Qasim.
+**Indian buyers continued to show little interest in imported scrap due to substantial bid-**
+
+offer gaps and the availability of more economical domestic alternatives. Shredded scrap from the US and UK/Europe was priced at US$410-415 per ton CFR Nhava Sheva, but there were no takers at these levels. Offers for West African and UK/European HMS (80:20) were assessed at US$385-390 per ton CFR. In Pakistan, demand for imported scrap slowed as buyers adjusted purchases amid domestic market volatility and rising imported scrap prices. Offers for shredded scrap from the UK/Europe were evaluated at US$425-430 per ton CFR Qasim.
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -278,7 +280,9 @@ Indian buyers continued to show little interest in imported scrap due to substan
 
 "Container shortages are affecting suppliers, likely increasing freight costs similar to the spikes seen during the 2020 pandemic," noted a steel mill official. "Safety issues on the Red Sea route have led vessels to divert through the longer Cape Town route to South Asia, raising shipping times and operational expenses. Given these logistical challenges, a reduction in freight rates appears unlikely in the near future."
 
-Bangladesh maintained moderate demand for imported ferrous scrap, influenced by a sluggish domestic steel market during the rainy season. Buyers shifted their preference towards Australian and Singapore-origin scraps. Reports indicated the booking of two bulk vessels from Singapore, each carrying 8,000 tons of HMS 70:30 at an average price of US$400 per ton CFR Chattogram. Freight rates from Singapore to Bangladesh hovered around US$40-45 per ton. Additionally, around 3,000 tons of HMS (80:20) were booked from Australia at US$405 per ton CFR Chattogram. The Turkish imported scrap market remained stable following a recent US-origin deal, with offers for HMS (80:20) holding steady at US$390 per ton CFR. European recyclers faced competitive pressures with offers slightly below US-origin prices, while Turkish mills expressed cautious optimism amid market quietude.
+**Bangladesh maintained moderate demand for imported ferrous scrap, influenced by a**
+
+sluggish domestic steel market during the rainy season. Buyers shifted their preference towards Australian and Singapore-origin scraps. Reports indicated the booking of two bulk vessels from Singapore, each carrying 8,000 tons of HMS 70:30 at an average price of US$400 per ton CFR Chattogram. Freight rates from Singapore to Bangladesh hovered around US$40-45 per ton. Additionally, around 3,000 tons of HMS (80:20) were booked from Australia at US$405 per ton CFR Chattogram. The Turkish imported scrap market remained stable following a recent US-origin deal, with offers for HMS (80:20) holding steady at US$390 per ton CFR. European recyclers faced competitive pressures with offers slightly below US-origin prices, while Turkish mills expressed cautious optimism amid market quietude.
 
 # HMS 1/2 & Tangshan Billet
 
@@ -288,7 +292,9 @@ Bangladesh maintained moderate demand for imported ferrous scrap, influenced by 
 
 # Commodities
 
-Iron ore futures prices have reached their highest level in four weeks, marking the fourth consecutive session of gains. This upward trend is driven by strong near-term demand in China. The most actively traded September iron ore contract on China's Dalian Commodity Exchange (DCE) closed 2.6% higher at 864 yuan (US$118.79) per metric ton, a level not seen since June 3. Similarly, the benchmark August iron ore on the Singapore Exchange jumped 3.1% to US$113.35 per ton. Market sentiment has been bolstered by positive signals from recent property sector stimulus measures announced by Beijing. These initiatives aim to revive China's struggling property market, which is the largest consumer of steel. Transaction volumes of portside iron ore have also seen a significant increase, further indicating solid demand. Other steelmaking ingredients and steel benchmarks also posted gains, reflecting a broader positive sentiment in the ferrous metals market. However, while the current trend is bullish, market participants remain cautious, awaiting concrete policy announcements and sustained economic recovery signals from China.
+**Iron ore futures prices have reached their highest level in four weeks, marking the fourth**
+
+consecutive session of gains. This upward trend is driven by strong near-term demand in China. The most actively traded September iron ore contract on China's Dalian Commodity Exchange (DCE) closed 2.6% higher at 864 yuan (US$118.79) per metric ton, a level not seen since June 3. Similarly, the benchmark August iron ore on the Singapore Exchange jumped 3.1% to US$113.35 per ton. Market sentiment has been bolstered by positive signals from recent property sector stimulus measures announced by Beijing. These initiatives aim to revive China's struggling property market, which is the largest consumer of steel. Transaction volumes of portside iron ore have also seen a significant increase, further indicating solid demand. Other steelmaking ingredients and steel benchmarks also posted gains, reflecting a broader positive sentiment in the ferrous metals market. However, while the current trend is bullish, market participants remain cautious, awaiting concrete policy announcements and sustained economic recovery signals from China.
 
 **Copper led a decline in the base metals sector as hawkish remarks from Federal Reserve**
 

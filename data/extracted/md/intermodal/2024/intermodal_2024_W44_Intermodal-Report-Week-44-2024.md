@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By Fotis Kanatas, Research Analyst
 
@@ -17,6 +19,7 @@ As the TMX pipeline continues to reshape North American oil flows, it is critica
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 01/11/24 WS points | 01/11/24 $/day | 25/10/24 WS points | 25/10/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 53 | 31,801 | 58 | 36,774 | -13.5% | 39,466 | 20,330 |
@@ -36,12 +39,12 @@ As the TMX pipeline continues to reshape North American oil flows, it is critica
 |  | 50k | ARA-UKC | 128 | 6,212 | 138 | 8,231 | -24.5% | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 36 mos | ARDAS I | 2023 | 115,335 dwt |  |  |
-| 12 mos | ECO REVOLUTION | 2016 | 39,208 dwt |  |  |
-
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 36 mos | ARDAS I | 2023 | 115,335 dwt | DEL WEST OCT/24 | $40,000/day | Maercuria |
+| 12 mos | ECO REVOLUTION | 2016 | 39,208 dwt | DEL WEST OCT/24 | $26,000/day | Hartree |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 1/Nov/23 |  |  |  |
@@ -57,8 +60,8 @@ As the TMX pipeline continues to reshape North American oil flows, it is critica
 | 1/Sep/24 |  |  |  |
 | 1/Oct/24 |  |  |  |
 | 1/Nov/24 |  |  |  |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 1/Nov/23 |  |  |  |  |
@@ -128,12 +131,13 @@ On MRs, the Atlantic Triangulation TCE (MA2TCE) settled at \$25,451/day or 36.66
 | BHSI | 718 | $12,926 | 728 | $13,098 | -10 | -1.3% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4/6 mos | ENGIADINA | 2011 | 58,682 dwt |  |  |
-| 12 mos | YANGZE 23 | 2022 | 82,367 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4/6 mos | ENGIADINA | 2011 | 58,682 dwt | deley Vung An prompt redel worldwide | $13,500/day | cnr |
+| 12 mos | YANGZE 23 | 2022 | 82,367 dwt | dwt deley CJK 30/31 Oct redel worldwide | index linked at 112% to BPI | Tongji |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 1/Nov/23 | 2000 | 1500 | 1000 | 800 | 1500 |
@@ -151,6 +155,7 @@ On MRs, the Atlantic Triangulation TCE (MA2TCE) settled at \$25,451/day or 36.66
 | 1/Nov/24 | 2000 | 1500 | 1100 | 600 | 1200 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 1/Nov/23 | 15000 | 12000 | 10000 | 8000 |
@@ -249,9 +254,10 @@ In the tanker segment, Dynacom placed an order at Samsung HI for four Suezmax ta
 |  | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 7 years | Charter to Gail (India) for min |  |  |  |  |
+
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 7 years | Charter to Gail (India) for min |  |  | Hengli HI Dalian, China |  | 4 |
 
 ---
 
@@ -282,6 +288,7 @@ Amidst the Diwali festivities, the recycling market witnessed another week of su
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FATMA SARI | 43,188 | 8,013 | 1994 | HYUNDAI, S. Korea | BC | $ 488.0m | Bangladeshi |  |

@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By Nikos Tagoulis, Senior Analyst
 
@@ -17,6 +19,7 @@ The LNG Canada Project together with the surge in crude oil exports from the Por
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 06/06/2025 WS points | 06/06/2025 $/day | 30/05/2025 WS points | 30/05/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 46 | 26,970 | 53 | 34,886 | -22.7% | 37,255 | 39,466 |
@@ -36,6 +39,7 @@ The LNG Canada Project together with the surge in crude oil exports from the Por
 |  | 50k | ARA-UKC | 161 | 16,829 | 183 | 23,118 | -27.2% | 26,872 | 46,194 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 6/Jun/24 | 50 | 100 | 220 |
@@ -51,8 +55,8 @@ The LNG Canada Project together with the surge in crude oil exports from the Por
 | 6/Apr/25 | 50 | 100 | 220 |
 | 6/May/25 | 50 | 100 | 220 |
 | 6/Jun/25 | 50 | 100 | 220 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 6/Jun/24 | 180 | 150 | 200 | 160 |
@@ -116,10 +120,10 @@ Aframax dynamics varied by region. In Asia, the market remained underwhelming, a
 | BHSI | 600 | $10,802 | 601 | $10,813 | -1 | -0.1% | 702 | 586 |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | Aquagem | 2023 | 82,292 dwt |  |  |
-| 24 mos | Pacific Hibiscus | 2025 | 82,600 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 to 6 mos | Aquagem | 2023 | 82,292 dwt | dely CJK 10/11 Jun | $12,500/day | Louis Dreyfus |
+| 24 mos | Pacific Hibiscus | 2025 | 82,600 dwt | dely Chengxi 25 Jul | $14,750/day | cnr |
 
 ### TC Rates
 | Sector | Tenor | 06/06/2025 | 30/05/2025 | ±% | Diff | 2024 | 2023 |
@@ -134,6 +138,7 @@ Aframax dynamics varied by region. In Asia, the market remained underwhelming, a
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 6/Jun/24 | 3500 | 1800 | 1200 | 800 | 1800 |
@@ -151,6 +156,7 @@ Aframax dynamics varied by region. In Asia, the market remained underwhelming, a
 | 6/Jun/25 | 2500 | 1100 | 750 | 450 | 1400 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 6/Jun/24 | 22000 | 14000 | 12000 | 10000 |
@@ -198,6 +204,7 @@ Secondhand Sales
 | HANDY | DARYA GANGA | 36,845 | 2012 | HYUNDAI MIPO, S. Korea | MAN B\&W | Feb-27 | 4 X 30,5t CRANES | $ 14.3m | undisclosed |  |
 
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | NAVIOS TEMPO | 4,249 | 2010 | JIANGSU NEWYANGZI, China | MAN B\&W | Dec-29 |  | $ 38.5m | Swiss based (MSC) |
@@ -229,9 +236,10 @@ The vessel will be geared, eco friendly, methanol ready and scheduled for delive
 |  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 5-8 years | Past order recently disclosed, against  employment with Lauritzen Bulkers |  |  |  |  |
+| 5-8 years | Past order recently disclosed, against  employment with Lauritzen Bulkers |  |  | $ 33.0m | 2 |
 
 ---
 
@@ -270,6 +278,7 @@ The Turkish market experienced constrained activity, primarily stemming from sub
 | USD/TRY | 39.22 | 39.21 | 0.0% | 39.22 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BERGE FUJI | 268,025 | 40,658 | 1996 | HITACHI ZOSEN, Japan | BC | $440/Ldt | Bangladeshi |

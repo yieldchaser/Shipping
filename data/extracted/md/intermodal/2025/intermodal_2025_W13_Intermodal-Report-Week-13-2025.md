@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -14,6 +16,7 @@ These low levels of newbuilding activity can be attributed to a confluence of ma
 ## Tanker Market
 
 ## Spot Rates
+
 | Sector | Size | Routes | 28/03/2025 WS points | 28/03/2025 $/day | 21/03/2025 WS points | 21/03/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 60 | 41,596 | 68 | 52,080 | -20.1% | 37,255 | 39,466 |
@@ -31,8 +34,8 @@ These low levels of newbuilding activity can be attributed to a confluence of ma
 | Dirty | 55K | UKC-USG | 110 | 9,021 | 115 | 10,690 | -15.6% | 17,707 | 27,274 |
 |  | 55K | MED-USG | 110 | 8,270 | 115 | 9,841 | -16.0% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 193 | 27,684 | 207 | 32,019 | -13.5% | 26,872 | 46,194 |
-
 ## TC Rates
+
 | Sector | Tenor | 28/03/2025 | 21/03/2025 | ±% | Diff | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 47,500 | 44,500 | **6.7%** | **3000** | 50,365 | 48,601 |
@@ -75,10 +78,10 @@ The crude tanker charter markets displayed mixed performance last week, with the
 | BHSI | 614 | $11,052 | 596 | $10,719 | **18** | **3.1%** | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 5 to 8 mos | Vita Unity | 2021 | 82,545 dwt |  |  |
-| 4 to 7 mos | Anna G | 2014 | 81,004 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 5 to 8 mos | Vita Unity | 2021 | 82,545 dwt | - | $16,300/day | delay Incheon 30/31 Marred worldwide |
+| 4 to 7 mos | Anna G | 2014 | 81,004 dwt | delay Tianjin 24/30 Mar red worldwide | $14,000/day | Oldendorff |
 
 ## TC Rates
 | Sector | Tenor | 28/03/2025 | 21/03/2025 | ±% | Diff | 2024 | 2023 |
@@ -93,6 +96,7 @@ The crude tanker charter markets displayed mixed performance last week, with the
 |  | **32K 3yr TC** | 10,500 | 10,000 | **5.0%** | **500** | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 28/Mar/24 | 2500 | 1600 | 1200 | 800 | 1600 |
@@ -108,6 +112,7 @@ The crude tanker charter markets displayed mixed performance last week, with the
 | 28/Feb/25 | 2400 | 1200 | 600 | 200 | 1400 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 28/Mar/24 | 20000 | 12000 | 10000 | 8000 |
@@ -145,12 +150,14 @@ Supramax 10TC averaged \$ 10,718/day up +2.25% w-o-w, while the Handysize 7TC av
 ## Secondhand Sales
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR1 | SW CAP FERRAT I | 36,031 | 2002 | STX, S. Korea | B\&W | Mar-27 | DH | high $ 7.0m | Chinese |  |
 | J19 | STRINDA | 19,959 | 2006 | FUKUOKA, Japan | MAN-B\&W | Aug-26 | DH | $ 15.9m | undisclosed | StSt |
 
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | NEWCASTLEMAX | GLOBAL COMMANDER | 207,953 | 2010 | UNIVERSAL, Japan | MAN-B\&W | Jun-25 |  |
@@ -217,6 +224,7 @@ The Turkish ship recycling market remains under pressure, heavily impacted by po
 | USD/TRY | 37.88 | 37.38 | 1.3% | 37.88 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DUKHAN | 72,533 | 32,467 | 2004 | MITSUI, Japan | GAS TANKER | $ 610/Ldt | Bangladeshi | Incl 3,000t alum |

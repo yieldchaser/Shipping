@@ -227,6 +227,7 @@ Ship, the prices are about USUS$30-40/ton less
 | 5-Year | Recycling | Average (Week 6) | Historical | Prices |
 | --- | --- | --- | --- | --- |
 | DESTINATION | 2018 | 2019 | 2020 | 2021 2022 |
+
 | ALANG, INDIA | 460 | 435 | 400 | 430 | 600 |
 |---|---|---|---|---|---|
 | CHATTOGRAM, BANGLADESH | 440 | 440 | 380 | 430 | 620 |

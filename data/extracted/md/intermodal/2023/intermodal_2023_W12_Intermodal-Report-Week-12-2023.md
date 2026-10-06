@@ -55,6 +55,7 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 24/03/23 WS points | 24/03/23 $/day | 17/03/23 WS points | 17/03/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 92 | 87,023 | 100 | 98,906 | -12.0% | 20,330 | 2,246 |
@@ -73,14 +74,14 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 205 | 43,321 | 197 | 40,830 | 6.1% | 19,982 | 2,822 |
 |  | 55K | MED-USG | 205 | 42,792 | 197 | 40,127 | 6.6% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 389 | 90,874 | 373 | 87,062 | 4.4% | 40,364 | 8,548 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 48 mos | COSFLYING LAKE | 2015 | 310,400 dwt |  |  |
-| 36 mos | STENA SUPERIOR | 2011 | 312,000 dwt |  |  |
-
+| 48 mos | COSFLYING LAKE | 2015 | 310,400 dwt | $43,000/day | Trafigura |
+| 36 mos | STENA SUPERIOR | 2011 | 312,000 dwt | $36,000/day | Mercuria |
 ## TC Rates
+
 | Sector | Tenor | 24/03/23 | 17/03/23 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300k 1yr TC** | 67,000 | 60,000 | **11.7%** | **7000** | 34,683 | 25,684 |
@@ -95,8 +96,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 25,500 | 25,500 | 0.0% | 0 | 16,426 | 13,804 |
 | Handy | **36k 1yr TC** | 27,000 | 27,000 | 0.0% | 0 | 18,601 | 11,292 |
 |  | **36k 3yr TC** | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Mar-23 avg | Feb-23 avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 99.0 | 99.0 | 0.0% | 80.2 | 69.7 | 71.5 |
@@ -104,8 +105,8 @@ Shanghai 200122 China
 | **Aframax** | **110KT DH** | 62.0 | 62.0 | 0.0% | 50.5 | 38.7 | 38.8 |
 | **LR1** | **75KT DH** | 47.0 | 47.0 | 0.0% | 38.6 | 31.2 | 30.7 |
 | **MR** | **52KT DH** | 41.0 | 41.0 | 0.0% | 34.8 | 27.6 | 27.5 |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | DIRTY - WS RATES |  |  |  |
@@ -123,8 +124,8 @@ Shanghai 200122 China
 | 24/Jan/23 | 80 | 180 | 170 |
 | 24/Feb/23 | 90 | 190 | 180 |
 | 24/Mar/23 | 100 | 360 | 360 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | CLEAN - WS RATES |  |  |  |  |
@@ -164,6 +165,7 @@ In the MR1 sector we had the sale of the "JEMMA" (38,402dwt-blt '08, China), whi
 
 # Dry Bulk Market
 ## Baltic Indices
+
 | Index Name | 24/03/23 Index | 24/03/23 $/day | 17/03/23 Index | 17/03/23 $/day | Point Diff | $/day ±% | 2022 Index | 2021 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 1,489 |  | 1,535 |  | -46 |  | 1,931 | 2,921 |
@@ -171,14 +173,14 @@ In the MR1 sector we had the sale of the "JEMMA" (38,402dwt-blt '08, China), whi
 | BPI | 1,572 | $14,149 | 1,723 | $15,509 | -151 | -8.8% | 2,298 | 2,972 |
 | BSI | 1,332 | $14,657 | 1,318 | $14,502 | 14 | 1.1% | 2,006 | 2,424 |
 | BHSI | 703 | $12,652 | 694 | $12,500 | 9 | 1.2% | 1,181 | 1,424 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 to 14 mos | ORSEA | 2010 | 82,217 dwt |  |  |
-| 4 to 6 mos | JOSEN | 2013 | 95,710 dwt |  |  |
 
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 to 14 mos | ORSEA | 2010 | 82,217 dwt | Singapore 30 Mar/2 Apr | 98% index linked to BPI5TC | Louis Dreyfus |
+| 4 to 6 mos | JOSEN | 2013 | 95,710 dwt | Yokohama 24 Mar | $17,000/day | RTS |
 ## TC Rates
+
 | Sector | Tenor | 24/03/23 | 17/03/23 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 17,250 | 19,750 | -12.7% | -2,500 | 21,394 | 26,392 |
@@ -189,8 +191,8 @@ In the MR1 sector we had the sale of the "JEMMA" (38,402dwt-blt '08, China), whi
 |  | **58K 3yr TC** | 13,500 | 13,500 | 0.0% | 0 | 15,005 | 14,552 |
 | **Handysize** | **32K 1yr TC** | 12,750 | 12,750 | 0.0% | 0 | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 12,322 | 11,825 |
-
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 24/Mar/22 | 3000 | 2800 | 2900 | 1800 | 2700 |
@@ -206,8 +208,8 @@ In the MR1 sector we had the sale of the "JEMMA" (38,402dwt-blt '08, China), whi
 | 24/Jan/23 | 2400 | 2200 | 2200 | 1500 | 2300 |
 | 24/Feb/23 | 2300 | 2100 | 2100 | 1500 | 2200 |
 | 24/Mar/23 | 2400 | 2200 | 2200 | 1600 | 2300 |
-
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 24/Mar/22 | 28000 | 30000 | 30000 | 28000 |
@@ -290,6 +292,7 @@ In the Panamax sector we had the sale of the "TR INFINITY" (77,113dwt-blt '15, J
 
 # Intermodal Secondhand Sales
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | TS HONGKONG | 1,574 | 2006 | JIANGSU YANGZIJJIANG, China | Wartsila | Jul-26 |  | low $ 8.0m | Middle Eastern | Eco |
@@ -302,6 +305,7 @@ In the Panamax sector we had the sale of the "TR INFINITY" (77,113dwt-blt '15, J
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 24-Mar-23 | 17-Mar-23 | ±% | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -360,9 +364,10 @@ The Greek owners continue to monopolize the newbuilding interest in the conventi
 | 24/Mar/23 | 60 | 33 | 33 | 29 |
 
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 7yr | LPG/NH3 / against  TC to Altagas |  |  |  |  |
+| 7yr | LPG/NH3 / against  TC to Altagas |  |  |  | 2+2 |
 | 10yr | LNG-fuelled/ more than  TC to Glovis |  |  |  |  |
 
 © Intermodal Research 28/03/2023 6
@@ -371,6 +376,7 @@ The Greek owners continue to monopolize the newbuilding interest in the conventi
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 24/03/23 | 17/03/23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -383,8 +389,8 @@ The Greek owners continue to monopolize the newbuilding interest in the conventi
 | India | 555 | 555 | 0.0% | 583 | 508 | 335 |
 | Pakistan | 535 | 535 | 0.0% | 587 | 526 | 338 |
 | Turkey | 330 | 330 | 0.0% | 304 | 276 | 198 |
-
 ## Currencies
+
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 105.20 | 106.86 | -1.6% | 107.35 |
@@ -409,8 +415,8 @@ The market is currently facing a combination of firm freight rates in all segmen
 | 24/Jan/23 | 590 | 580 | 570 | 260 |
 | 24/Feb/23 | 600 | 590 | 580 | 320 |
 | 24/Mar/23 | 610 | 595 | 585 | 330 |
-
 ## Indicative Demolition Prices ($/ldt)
+
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MSC VERONIQUE | 60,900 | 23,190 | 1989 | ODENSE LINDO, Denmark | CONTAINER | undisclosed | Indian | HKC recycling |

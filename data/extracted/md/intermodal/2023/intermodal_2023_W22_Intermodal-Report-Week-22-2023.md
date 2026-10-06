@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Yiannis Parganas, Head of the Research Department**
 
@@ -30,6 +32,7 @@ In summary, while Chinese steel production will remain constrained for the rest 
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 02/06/23 WS points | 02/06/23 $/day | 26/05/23 WS points | 26/05/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 47 | 25,673 | 49 | 28,225 | -9.0% | 20,330 | 2,246 |
@@ -53,8 +56,8 @@ In summary, while Chinese steel production will remain constrained for the rest 
 | 12 mos | TURMOIL25,900/day | 2011 | 49,997 dw t Idemitsu |
 | --- | --- | --- | --- |
 | 12 mos | ARISTA RCHOS$ 35,000/day | 2017 | 79,905 dw t Shell |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 2/lun/22 | 100 | 180 | 180 |
@@ -70,8 +73,8 @@ In summary, while Chinese steel production will remain constrained for the rest 
 | 2/Apr/23 | 50 | 150 | 350 |
 | 2/May/23 | 40 | 150 | 350 |
 | 2/lun/23 | 30 | 150 | 180 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 2/lun/22 | 300 | 350 | 500 | 150 |
@@ -135,10 +138,10 @@ Suezmax T/C earnings averaged \$ 49,635/day, down - \$8,868/day w-o-w. On the Af
 | BHSI | 545 | $9,805 | 588 | $10,585 | -43 | -7.4% | 1,181 | 1,424 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | RB JORDANA | 2016 | 81,301 dwt |  |  |
-| 4 to 6 mos | OSHIMA TRADER | 2021 | 82,226 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | RB JORDANA | 2016 | 81,301 dwt | dely Qinzhou 26 May redel worldwide | $14,000 /day | Chailease |
+| 4 to 6 mos | OSHIMA TRADER | 2021 | 82,226 dwt | dely South China mid June redel worldw | $13,000 /day | Klaveness |
 
 ## Baltic Indices
 
@@ -159,6 +162,7 @@ Suezmax T/C earnings averaged \$ 49,635/day, down - \$8,868/day w-o-w. On the Af
 | 2/Jun/23 | BCI | BPI |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 2/Jun/22 |  |  |  |  |
@@ -187,9 +191,8 @@ Suezmax T/C earnings averaged \$ 49,635/day, down - \$8,868/day w-o-w. On the Af
 |  | **32K 1yr TC** | 10,000 | 11,500 | -13.0% | -1,500 | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 12,322 | 11,825 |
 
-## TC Rates
-
-| Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
+## Indicative Market Values ($ Million) - Bulk Carriers
+| Sector | Size | May-23 avg | Previous avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize Eco** | **180k** | 52.0 | 53.4 | -2.6% | 48.3 | 43.1 | 36.1 |
 | **Kamsarmax** | **82K** | 33.0 | 33.4 | -1.1% | 34.1 | 29.8 | 23.2 |
@@ -226,11 +229,13 @@ Supramax 10TC averaged \$ 9,506/day, down -14.36% w-o-w, while the Handysize 7TC
 | HANDY | SEASTAR ENDURANCE | 34,290 | 2011 | ZHEJIANG, China | MAN-B\&amp;W | Sep-26 | 4 X 30t CRANES | $ 11.70m | undisclosed | BWTS fitted |
 
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | CARLA-LIV | 1,730 | 1999 | SZCZECINSKA, Poland | Sulzer | Nov-24 | 3 X 40t CRANES | $ 7.7m | Turkish | bss TC to MSC at Usd 24,500 p/d until latest May 2024 |
 
 ## Secondhand Sales
+
 | Type | Name | Dwt | Yard | M/E | SS | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | GLOBAL SCORPIO | 58,814 | 2003 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jul-23 | 80,530 | $ 47.5m | undisclosed |
@@ -243,6 +248,7 @@ Supramax 10TC averaged \$ 9,506/day, down -14.36% w-o-w, while the Handysize 7TC
 The newbuilding market is still strong with a plethora of orders being concluded last week with a total of 35 firm ships and 8 optional. 12 tankers and 12 bulkers were ordered, while containers accounted for 11 of them. The owner Teodor Shipping ordered two 158,000dwt Suezmax in Samsung heavy Industries for a record price of \$87 million, to be delivered between 2025 and 2026. LR2 type tankers are receiving strong interest in the newbuilding market, with a total of six firm and four optional such tankers being ordered at Zhoushan Changhong in China, by European(4+4) and Singaporean buyers(2), costing \$61m each. The Greek owner Chenmax Shipping ordered two 50,000dwt from K Shipbuilding. The pair will be equipped with a scrubber and cost-ed \$47m each. On the Bulker sector, Lepta shipping gave a big order for 12 Kamsarmaxes, 10 firm and 2 optional in Yamic, China. The 82,500- dwt bulker will cost \$37m apiece, will be scrubber fitted and delivery is expected in 2026. On the containers realm, the Taiwanese owner Yang -Ming Marine ordered from Huynday HI, five 15,500 teu boxships, all of which will be LNG-dual fuelled and expected to be on the water in 2026.
 
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** | Newcastlemax | 205k | 66.0 | 65.5 | 0.8% | 66.0 | 64.0 |
@@ -301,6 +307,7 @@ The demolition market had a few sales last week, mainly for Bulk Carriers. Bangl
 | USD/TRY | 20.96 | 19.97 | 5.0% | 21.17 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CHANG MING 2 | 73,763 | 9,483 | 1997 | SUMITOMO, Japan | BC | $ 535/Ldt | undisclosed | as is' Hong Kong, incl 250T ROB |

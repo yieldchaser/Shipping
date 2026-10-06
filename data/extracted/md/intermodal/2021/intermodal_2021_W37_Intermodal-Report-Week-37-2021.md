@@ -83,10 +83,11 @@ The Baltic Exchange
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | SAMOS | 2010 | 104,649 dwt |  |  |
-| 6 mos | PRATINCOLE PACIFIC | 2020 | 49,853 dwt |  |  |
+| 6 mos | SAMOS | 2010 | 104,649 dwt | $15,500/day | Saudi Aramco |
+| 6 mos | PRATINCOLE PACIFIC | 2020 | 49,853 dwt | $12,750/day | Stena Bulk |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 17/Sep/20 | 40 | 60 | 50 |
@@ -104,6 +105,7 @@ The Baltic Exchange
 | 17/Sep/21 | 100 | 120 | 110 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 17/Sep/20 | 100 | 110 | 120 | 130 |
@@ -153,6 +155,7 @@ In the MR sector we had the sale of the "JUSTICE EXPRESS" (45,998dwt-bl't '11, J
 
 # Dry Bulk Market
 ## Baltic Indices
+
 | Index Name | 17/09/2021 Index | 17/09/2021 $/day | 10/09/2021 Index | 10/09/2021 $/day | Point Diff | $/day ±% | 2020 Index | 2019 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 4,275 |  | 3,864 |  | 411 |  | 1,066 | 1,344 |
@@ -160,14 +163,14 @@ In the MR sector we had the sale of the "JUSTICE EXPRESS" (45,998dwt-bl't '11, J
 | BPI | 3,904 | $35,138 | 3,595 | $32,356 | 309 | 8.6% | 1,103 | 1,382 |
 | BSI | 3,307 | $36,378 | 3,170 | $34,867 | 137 | 4.3% | 746 | 877 |
 | BHSI | 1,861 | $33,499 | 1,807 | $32,534 | 54 | 3.0% | 447 | 490 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6 to 8 mos | W-GALAXY | 2006 | 76,629 dwt |  |  |
-| 4 to 6 mos | GLOVIS MERMAID | 2012 | 55,705 dwt |  |  |
 
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 to 8 mos | W-GALAXY | 2006 | 76,629 dwt | - | $30,000/day | Qinzhou spot |
+| 4 to 6 mos | GLOVIS MERMAID | 2012 | 55,705 dwt | anjung Prior 20 Sep | $36,000/day | Tongli |
 ## TC Rates
+
 | Sector | Tenor | 17/09/2021 | 10/09/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 46,500 | 43,250 | **7.5%** | **3,250** | 15,561 | 18,839 |
@@ -182,8 +185,8 @@ In the MR sector we had the sale of the "JUSTICE EXPRESS" (45,998dwt-bl't '11, J
 | **Handysize** | **32K 6mnt TC** | 33,250 | 32,750 | **1.5%** | **500** | 8,498 | 9,152 |
 |  | **32K 1yr TC** | 24,750 | 24,750 | 0.0% | 0 | 8,556 | 9,291 |
 |  | **32K 3yr TC** | 15,250 | 15,000 | **1.7%** | **250** | 8,686 | 9,291 |
-
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 17/Sep/20 | 3000 | 1500 | 1200 | 1000 | 4000 |
@@ -199,8 +202,8 @@ In the MR sector we had the sale of the "JUSTICE EXPRESS" (45,998dwt-bl't '11, J
 | 17/Jul/21 | 4000 | 3600 | 3300 | 1600 | 3800 |
 | 17/Aug/21 | 3200 | 3400 | 3100 | 1700 | 3400 |
 | 17/Sep/21 | 6000 | 4200 | 3300 | 1700 | 6200 |
-
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 17/Sep/20 | 10000 | 10000 | 10000 | 8000 |
@@ -248,6 +251,7 @@ In the Supramax sector we had the sale of the "TRANS OCEANIC" (58,168dwt-bl't '1
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | PROSPEROUS | 179,100 | 2011 | SUNGDONG, S. Korea | MAN-B&amp;W | Apr-26 |  | rgn $ 31.0m | Turkish (BEKS Shipping) | BWTS fitted, delivery October 2021, Tier II |
@@ -273,6 +277,7 @@ In the Supramax sector we had the sale of the "TRANS OCEANIC" (58,168dwt-bl't '1
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | SONANGOL LUANDA | 159,178 | 2000 | DAEWOO, S. Korea | B\&amp;W | Sep-25 | DH | $ 14.1m | Indian | LDT: 23,192 |
@@ -291,6 +296,7 @@ In the Supramax sector we had the sale of the "TRANS OCEANIC" (58,168dwt-bl't '1
 
 # Newbuilding Market
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 17/09/2021 | 10/09/2021 | ±% | 2020 | 2019 | 2018 |
@@ -367,6 +373,7 @@ After a short-week break, owners' appetite for Container units resumed with the 
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | Markets | 17/09/2021 | 10/09/2021 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -397,8 +404,8 @@ Uncertainty remained in place across the main demolition nations last week. The 
 | 17/Jul/21 | 585 | 570 | 590 | 295 |
 | 17/Aug/21 | 590 | 580 | 590 | 295 |
 | 17/Sep/21 | 590 | 585 | 590 | 295 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PERON | 300,361 | 48,100 | 1997 | MITSUBISHI, Japan | TANKER | $ 595/Ldt | undisclosed | full subcontinent option |

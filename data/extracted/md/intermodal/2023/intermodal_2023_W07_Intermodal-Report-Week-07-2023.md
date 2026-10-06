@@ -54,6 +54,7 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 17/02/23 WS points | 17/02/23 $/day | 10/02/23 WS points | 10/02/23 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 70 | 52,923 | 60 | 37,875 | 39.7% | 2,246 | 52,119 |
@@ -72,14 +73,14 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 175 | 31,102 | 175 | 30,900 | 0.7% | 2,822 | 12,120 |
 |  | 55K | MED-USG | 175 | 30,611 | 175 | 30,909 | -1.0% | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 247 | 47,587 | 266 | 52,905 | -10.1% | 8,548 | 17,651 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | VL BRIGHT | 2022 | 319,200 dwt |  |  |
-| 3 Years | SONANGOL KULUMBIMI | 2023 | 158,000 dwt |  |  |
-
+| 12 mos | VL BRIGHT | 2022 | 319,200 dwt | $47,000/day | Trafigura |
+| 3 Years | SONANGOL KULUMBIMI | 2023 | 158,000 dwt | $38,000/day | Mercuria |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 17/Feb/22 | 50 | 250 | 100 |
@@ -95,8 +96,8 @@ Shanghai 200122 China
 | 17/Dec/22 | 50 | 280 | 600 |
 | 17/Jan/23 | 40 | 180 | 180 |
 | 17/Feb/23 | 35 | 170 | 170 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 17/Feb/22 | 100 | 200 | 250 | 280 |
@@ -158,6 +159,7 @@ In the LR1 sector we had the sale of the "MEGALI" (73,919dwt-blt '07, Japan), wh
 
 # Dry Bulk Market
 ## Baltic Indices
+
 | Index Name | 17/02/23 Index | 17/02/23 $/day | 10/02/23 Index | 10/02/23 $/day | Point Diff | $/day ±% | 2021 Index | 2020 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 538 |  | 602 |  | -64 |  | 2,921 | 1,066 |
@@ -165,14 +167,14 @@ In the LR1 sector we had the sale of the "MEGALI" (73,919dwt-blt '07, Japan), wh
 | BPI | 811 | $7,302 | 864 | $7,779 | -53 | -6.1% | 2,972 | 1,103 |
 | BSI | 695 | $7,641 | 628 | $6,909 | 67 | 10.6% | 2,424 | 746 |
 | BHSI | 438 | $7,875 | 436 | $7,844 | 2 | 0.4% | 1,424 | 447 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6 to 9 months | AMOYSAYLING TBRN | 2020 | 81,118 dwt |  |  |
-| 12 mos | SSI SPLENDID | 2019 | 63,800 dwt |  |  |
 
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 to 9 months | AMOYSAYLING TBRN | 2020 | 81,118 dwt | Fangcheng 15 Feb | $14,5k first 6 mos, $16k after | Ming Wah |
+| 12 mos | SSI SPLENDID | 2019 | 63,800 dwt | Huangpu 12/15 | $14,000/day | ECTP |
 ## TC Rates
+
 | Sector | Tenor | 17/02/23 | 10/02/23 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 14,500 | 15,000 | -3.3% | -500 | 26,392 | 14,394 |
@@ -183,8 +185,8 @@ In the LR1 sector we had the sale of the "MEGALI" (73,919dwt-blt '07, Japan), wh
 |  | **58K 3yr TC** | 12,500 | 12,500 | 0.0% | 0 | 14,552 | 9,490 |
 | **Handysize** | **32K 1yr TC** | 9,750 | 9,750 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 11,825 | 8,486 |
-
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 17/Feb/22 | 2800 | 2900 | 2700 | 1800 | 2600 |
@@ -200,8 +202,8 @@ In the LR1 sector we had the sale of the "MEGALI" (73,919dwt-blt '07, Japan), wh
 | 17/Dec/22 | 2800 | 2700 | 2500 | 1500 | 2600 |
 | 17/Jan/23 | 2400 | 2300 | 2100 | 1300 | 2200 |
 | 17/Feb/23 | 1800 | 1700 | 1600 | 1200 | 1700 |
-
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 17/Feb/22 | 15000 | 20000 | 18000 | 16000 |
@@ -291,6 +293,7 @@ In the Handysize sector we had the sale of the "BASIC PRINCESS" (38,037dwt-blt '
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 17-Feb-23 | 10-Feb-23 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -369,6 +372,7 @@ The newbuilding market activity improved last week with a total of 31 units bein
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 17/02/23 | 10/02/23 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -399,8 +403,8 @@ The demolition market is showing signs of strength with a healthy amount of mate
 | 17/Dec/22 | 490 | 490 | 490 | 250 |
 | 17/Jan/23 | 540 | 540 | 540 | 300 |
 | 17/Feb/23 | 550 | 550 | 550 | 280 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VADI | 70,087 | 10,247 | 1994 | DAEWOO, S. Korea | BC | $ 575/Ldt | Bangladeshi | incl 300 MT bunkers and spare propeller |

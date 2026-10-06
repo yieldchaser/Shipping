@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Yiannis Parganas, Head of Research Department**
 
@@ -16,6 +18,7 @@ The market has moved past the March disruption, but sanitary scrutiny remains pa
 # Intermodal Tanker Market
 
 ## Spot Rates
+
 | Sector | Size | Routes | 08/05/2026 WS points | 08/05/2026 $/day | 01/05/2026 WS points | 01/05/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 434 | 447,028 | 421 | 433,298 | 3.2% | 60,510 | 37,255 |
@@ -33,8 +36,8 @@ The market has moved past the March disruption, but sanitary scrutiny remains pa
 | Dirty | 55K | UKC-USG | 220 | 32,803 | 240 | 37,543 | -12.6% | 10,784 | 17,707 |
 |  | 55K | MED-USG | 220 | 30,028 | 240 | 33,969 | -11.6% | 11,306 | 17,590 |
 |  | 50k | ARA-UKC | 380 | 86,862 | 459 | 89,978 | -3.5% | 18,615 | 26,872 |
-
 ## TC Rates
+
 | Sector | Tenor | 08/05/2026 | 01/05/2026 | ±% | Diff | 2025 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 120,000 | 113,250 | 6.0% | 6750 | 50,615 | 50,365 |
@@ -51,6 +54,7 @@ The market has moved past the March disruption, but sanitary scrutiny remains pa
 |  | 36k 3yr TC | 17,500 | 17,500 | 0.0% | 0 | 16,902 | 19,993 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 8/May/25 | 100 | 150 | 150 |
@@ -68,6 +72,7 @@ The market has moved past the March disruption, but sanitary scrutiny remains pa
 | 8/May/26 | 400 | 250 | 450 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 8/May/25 | 100 | 100 | 100 | 100 |
@@ -119,7 +124,7 @@ The Aframax segment was the weakest performer, as deteriorating demand across bo
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 to 8 mos | Vita Future | 2015 | 81,938 dwt |  |  |
+| 6 to 8 mos | Vita Future | 2015 | 81,938 dwt | $22,750/day | cnr |
 
 ## TC Rates
 | Sector | Tenor | 08/05/2026 | 01/05/2026 | ±% | Diff | 2025 | 2024 |
@@ -134,6 +139,7 @@ The Aframax segment was the weakest performer, as deteriorating demand across bo
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 8/May/25 | 1800 | 1500 | 1500 | 800 | 1500 |
@@ -151,6 +157,7 @@ The Aframax segment was the weakest performer, as deteriorating demand across bo
 | 8/May/26 | 5000 | 2100 | 2800 | 1200 | 2500 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 8/May/25 | 12000 | 10000 | 10000 | 8000 |

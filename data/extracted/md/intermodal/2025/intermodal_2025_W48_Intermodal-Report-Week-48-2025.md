@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 *By Nikos Tagoulis, Senior Analyst*
 
@@ -15,6 +17,7 @@ In conclusion, China's renewed quota allocations and strengthening crude intake,
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 28/11/2025 WS points | 28/11/2025 $/day | 21/11/2025 WS points | 21/11/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 138 | 144,634 | 137 | 137,935 | 4.9% | 37,255 | 39,466 |
@@ -36,9 +39,8 @@ In conclusion, China's renewed quota allocations and strengthening crude intake,
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | Vokaria | 2026 | 115,000 dwt |  |  |
-
-### Dirty WS Rates (1-Year Trend)
+| 36 mos | Vokaria | 2026 | 115,000 dwt | $37,750/day | TotalEnergies |
+### 1-Year Forward WS Rates - Dirty
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -55,8 +57,8 @@ In conclusion, China's renewed quota allocations and strengthening crude intake,
 | 31/Aug/25 | 120 | 125 | 220 |
 | 30/sep/25 | 110 | 130 | 200 |
 | 31/Oct/25 | 100 | 110 | 180 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points | WS points |
@@ -139,10 +141,10 @@ Aframax markets delivered a steadier story. The Mediterranean held broadly uncha
 | BHSI | 827 | $14,885 | 820 | $14,760 | **7** | **0.8%** | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6 to 8 mos | W-Original | 2012 | 81,874 dwt |  |  |
-| 4 to 6 mos | Zhong Chang Zhou Shan | 2013 | 75,049 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 to 8 mos | W-Original | 2012 | 81,874 dwt | dely Hong Kong 29 Nov/4 Dec redel worldwide | $15,750/day | cnr |
+| 4 to 6 mos | Zhong Chang Zhou Shan | 2013 | 75,049 dwt | Dely Luoyuan 30 Nov redel worldwide | $15,000/day | Xiehai |
 
 ## TC Rates
 | Sector | Tenor | 28/11/2025 | 21/11/2025 | ±% | Diff | 2024 | 2023 |
@@ -173,6 +175,7 @@ Aframax markets delivered a steadier story. The Mediterranean held broadly uncha
 | 31/Oct/25 | 3800 | 1700 | 1300 | 900 | 2500 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 28/Nov/24 | 10000 | 8000 | 7000 | 6000 |
@@ -317,6 +320,7 @@ The Chattogram ship recycling market is challenged by declining vessel imports a
 
 In Turkey, the market remains flat with a sluggish flow of recycling candidates, though this is partly seasonal. On the economic front, high inflation and continued Lira depreciation continue to weigh on economic activity and dampen business confidence.
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ARK PRESTIGE | 10,314 | 3,307 | 1996 | IMABARI, Japan | TANKER | $ 725/Ldt | Indian | Stainless Steel |

@@ -62,10 +62,10 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | GEORGY MASLOV | 2012 | 122,018 dwt |  |  |
-| 24 mos | RESOLVE II | 2019 | 49,999 dwt |  |  |
-| 6 mos | GEORGY MASLOV | 2012 | 122,018 dwt |  |  |
-| 24 mos | RESOLVE II | 2019 | 49,999 dwt |  |  |
+| 6 mos | GEORGY MASLOV | 2012 | 122,018 dwt | $17,500/day | Trafigura |
+| 24 mos | RESOLVE II | 2019 | 49,999 dwt | $15,500/day | ExxonMobil |
+| 6 mos | GEORGY MASLOV | 2012 | 122,018 dwt | $17,500/day | Trafigura |
+| 24 mos | RESOLVE II | 2019 | 49,999 dwt | $15,500/day | ExxonMobil |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 |
@@ -84,7 +84,7 @@ Shanghai 200122 China
 | Handy | 36k 1yr TC | 11,000 | 11,000 | 0.0% | 0 | 13,966 |
 |  | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 14,051 |
 
-### Dirty WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Dirty
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -104,6 +104,7 @@ Shanghai 200122 China
 | 5/Nov/21 |  |  |  |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 5/Nov/20 | 100 | 110 | 120 | 130 |
@@ -173,6 +174,7 @@ In the MR2 sector we had the sale of the "ANGEL 62" (47,410dwt-blt '09, Japan), 
 | BHSI | 1,726 | $31,074 | 1,972 | $35,487 | -246 | -12.4% | 447 | 490 |
 
 ## TC Rates
+
 | Sector | Tenor | 05/11/2021 | 29/10/2021 | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | 180K 6mnt TC | 25,500 | 31,500 | -19.0% | -6,000 | 15,561 | 18,839 |
@@ -189,6 +191,7 @@ In the MR2 sector we had the sale of the "ANGEL 62" (47,410dwt-blt '09, Japan), 
 |  | 32K 3yr TC | 11,250 | 13,250 | -15.1% | -2,000 | 8,686 | 9,291 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 5/Nov/20 | 1,500 | 1,600 | 1,400 | 1,000 | 2,000 |
@@ -206,6 +209,7 @@ In the MR2 sector we had the sale of the "ANGEL 62" (47,410dwt-blt '09, Japan), 
 | 5/Nov/21 | 2,800 | 3,000 | 3,100 | 1,800 | 2,900 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 5/Nov/20 | 15,000 | 14,000 | 14,500 | 13,000 |
@@ -261,6 +265,7 @@ In the Supramax sector we had the sale of the "PACIFIC BLESS" (56,361dwt-blt '12
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR1 | IRIS VICTORIA | 74,905 | 2010 | MINAMI-NIPPON, Japan | MAN-B\&amp;W | Jun-25 | DH | $ 17.75m | Monaco based (Transocean) | BWTS fitted, uncoiled |
@@ -270,8 +275,8 @@ In the Supramax sector we had the sale of the "PACIFIC BLESS" (56,361dwt-blt '12
 | SMALL | BOW FULING | 9,156 | 2012 | CHONGQING DONGFENG, China | MAN | Jun-22 | DH | rgn $ 8.0m | German (E\&amp;S Tankers) | St-St |
 | SMALL | BOW NANGANG | 9,124 | 2013 | CHONGQING DONGFENG, China | MAN | Mar-23 | DH | rgn $ 8.0m |  | St-St |
 | SMALL | BOW DALIAN | 9,118 | 2012 | CHONGQING DONGFENG, China | MAN | Nov-22 | DH | rgn $ 8.0m |  | St-St |
-
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KMAX | MAJULAH HARBOURFRONT | 81,922 | 2014 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Nov-24 |  | $ 29.45m | Far Eastern | Eco M/E, BWTS fitted |
@@ -279,8 +284,8 @@ In the Supramax sector we had the sale of the "PACIFIC BLESS" (56,361dwt-blt '12
 | UMAX | NAUTICAL ALICE | 63,580 | 2016 | Jiangsu New Hantong, China | MAN-B\&amp;W | Jun-26 | 4 X 30t CRANES | $ 28.5m | undisclosed | delivery till March 2022, BWTS and scrubber fitted |
 | SUPRA | PACIFIC BLESS | 56,361 | 2012 | Jiangsu New Hantong, China | MAN-B\&amp;W | Sep-22 | 4 X 36t CRANES | $ 19.8m | undisclosed | delivery February-March 2022 |
 | HMAX | BLUEWAYS | 46,658 | 1998 | MITSUI TAMANO, Japan | B\&amp;W | Jan-23 | 4 X 30t CRANES | $ 8.0m | Chinese | basis cancelling January 2022 |
-
 ## Containers
+
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DIAMOND LAND | 35,079 | 2004 | Jiangdu Yahai, China | Sulzer | Sep-24 | 4 X 35t CRANES | $ 15.8m | undisclosed | around 1,800 TEU |
@@ -291,6 +296,7 @@ In the Supramax sector we had the sale of the "PACIFIC BLESS" (56,361dwt-blt '12
 
 # Intermodal Secondhand Sales
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | FS IPANEMA | 1,794 | 2009 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Feb-24 | 2 X 40t CRANES | undisclosed | European | bss TC attached until Q2-2024 |
@@ -303,6 +309,7 @@ In the Supramax sector we had the sale of the "PACIFIC BLESS" (56,361dwt-blt '12
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 05/11/2021 | 29/10/2021 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -359,8 +366,8 @@ Healthy newbuilding ordering activity was materialized last week with the bulker
 | 5/Sep/21 | 102 | 72 | 50 | 48 | 38 |
 | 5/Oct/21 | 104 | 74 | 51 | 49 | 38 |
 | 5/Nov/21 | 106 | 76 | 52 | 50 | 39 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Tanker | 115,000 dwt | Daehan, S. Korea | 2023 | Greek (EastMed) | around $60.0m | LR2, conventionally fuelled, LOI stage |
@@ -378,6 +385,7 @@ Healthy newbuilding ordering activity was materialized last week with the bulker
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | Markets | 05/11/2021 | 29/10/2021 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |

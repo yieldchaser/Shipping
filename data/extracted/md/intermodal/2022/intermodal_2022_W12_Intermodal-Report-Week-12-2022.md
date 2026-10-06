@@ -50,6 +50,7 @@ Shanghai 200122 China
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 38 | -16,657 | 39 | -8,241 | -102.1% | 2,246 | 52,119 |
@@ -69,14 +70,14 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 140 | -801 | 150 | 6,735 | -111.9% | 2,822 | 12,120 |
 |  | 55K | MED-USG | 140 | -765 | 150 | 6,820 | -111.2% | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 209 | 12,800 | 205 | 16,681 | -23.3% | 8,548 | 17,651 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | CSK VANGUARD | 2016 | 114,667 dwt |  |  |
-| 6 mos | JAL UPASANA | 2006 | 46,846 dwt |  |  |
-
+| 6 mos | CSK VANGUARD | 2016 | 114,667 dwt | $14,500/day | Petco |
+| 6 mos | JAL UPASANA | 2006 | 46,846 dwt | $12,800/day | Clearlake |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 25/Mar/21 | 30 | 80 | 100 |
@@ -92,8 +93,8 @@ Shanghai 200122 China
 | 25/Jan/22 | 40 | 150 | 160 |
 | 25/Feb/22 | 40 | 280 | 170 |
 | 25/Mar/22 | 40 | 170 | 165 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 25/Mar/21 | 200 | 150 | 140 | 160 |
@@ -109,8 +110,8 @@ Shanghai 200122 China
 | 25/Jan/22 | 150 | 100 | 90 | 110 |
 | 25/Feb/22 | 200 | 150 | 140 | 160 |
 | 25/Mar/22 | 200 | 160 | 150 | 170 |
-
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300k 1yr TC** | 25,000 | 25,000 | 0.0% | 0 | 25,684 | 42,038 |
@@ -125,8 +126,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 14,000 | 14,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 11,000 | 11,000 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Mar-22 avg | Feb-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 71.4 | 70.3 | **1.6%** | 69.7 | 71.5 | 72.1 |
@@ -155,6 +156,7 @@ In the MR2 sector we had sale of the "MAERSK TOKYO" (49,687dwt-blt '16, S. Korea
 
 # Dry Bulk Market
 ## Baltic Indices
+
 | Index Name | 25/03/2022 Index | 25/03/2022 $/day | 18/03/2022 Index | 18/03/2022 $/day | Point Diff | $/day ±% | 2021 Index | 2020 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 2,544 |  | 2,605 |  | -61 |  | 2,921 | 1,066 |
@@ -162,14 +164,14 @@ In the MR2 sector we had sale of the "MAERSK TOKYO" (49,687dwt-blt '16, S. Korea
 | BPI | 3,413 | $30,713 | 2,874 | $25,868 | 539 | 18.7% | 2,972 | 1,103 |
 | BSI | 3,020 | $33,217 | 2,922 | $32,147 | 98 | 3.3% | 2,424 | 746 |
 | BHSI | 1,782 | $32,082 | 1,662 | $29,922 | 120 | 7.2% | 1,424 | 447 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 9 to 12 mos | NAVIOS GEMINI | 2018 | 81,704 dwt |  |  |
-| 5 to 7 mos | BLUE BOSPORUS | 2008 | 78,819 dwt |  |  |
 
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 9 to 12 mos | NAVIOS GEMINI | 2018 | 81,704 dwt | - | $31,000/day | Xiamen |
+| 5 to 7 mos | BLUE BOSPORUS | 2008 | 78,819 dwt | CJK 20/28 Mar | $27,000/day | cnr |
 ## TC Rates
+
 | Sector | Tenor | 25/03/2022 | 18/03/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** |  |  |  |  |  |  |  |
@@ -188,8 +190,8 @@ In the MR2 sector we had sale of the "MAERSK TOKYO" (49,687dwt-blt '16, S. Korea
 | **Handysize** | **32K 6mnt TC** | 28,000 | 27,000 | **3.7%** | **1,000** | 22,976 | 8,298 |
 | **Handysize** | **32K 1yr TC** | 25,750 | 24,500 | **5.1%** | **1,250** | 18,354 | 8,356 |
 | **Handysize** | **32K 3yr TC** | 15,000 | 15,000 | 0.0% | 0 | 11,825 | 8,486 |
-
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 25/Mar/21 | 2500 | 2600 | 2400 | 1500 | 2700 |
@@ -205,8 +207,8 @@ In the MR2 sector we had sale of the "MAERSK TOKYO" (49,687dwt-blt '16, S. Korea
 | 25/Jan/22 | 2200 | 2600 | 2400 | 1600 | 2500 |
 | 25/Feb/22 | 2400 | 2700 | 2500 | 1600 | 2600 |
 | 25/Mar/22 | 2900 | 2900 | 2900 | 1800 | 2800 |
-
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 25/Mar/21 | 22000 | 23000 | 24000 | 22000 |
@@ -254,6 +256,7 @@ In the Panamax sector we had the sale of the "MARIBELLA" (76,629dwt-blt '04, Jap
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | BAOSTEEL EVOLUTION | 206,331 | 2007 | IMABARI, Japan | MAN-B\&amp;W | Jul-22 |  | $ 21.8m | Chinese |  |
@@ -311,6 +314,7 @@ In the Panamax sector we had the sale of the "MARIBELLA" (76,629dwt-blt '04, Jap
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 25/03/2022 | 18/03/2022 | ±% | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -367,8 +371,8 @@ The newbuilding market activity saw a decreased number of materialized deals las
 | 25/Jan/22 | 60 | 34 | 34 | 25 |
 | 25/Feb/22 | 60 | 34 | 34 | 25 |
 | 25/Mar/22 | 60 | 34 | 34 | 25 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Tanker | 17,999 dwt | Jinling, China | 2024 | Swedes (Erik Thun) | undisclosed | LNG/LBG fuelled |
@@ -381,6 +385,7 @@ The newbuilding market activity saw a decreased number of materialized deals las
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 25/03/2022 | 18/03/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -415,6 +420,7 @@ Realignments on average levels materialized last week in the demolition market a
 | 25/Mar/22 | 670 | 650 | 660 | 460 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SCF URAL | 159,314 | 23,303 | 2002 | HYUNDAI, S. Korea | TANKER | undisclosed | undisclosed |  |

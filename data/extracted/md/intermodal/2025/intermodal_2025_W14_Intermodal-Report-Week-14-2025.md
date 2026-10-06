@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By Nikos Tagoulis, Senior Analyst
 
@@ -24,6 +26,7 @@ In the short term, we anticipate shifts in trade patterns and re-routing, as lin
 # Intermodal Tanker Market
 
 ## Spot Rates
+
 | Sector | Size | Routes | 04/04/2025 WS points | 04/04/2025 $/day | 28/03/2025 WS points | 28/03/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 58 | 40,455 | 60 | 41,596 | -2.7% | 37,255 | 39,466 |
@@ -41,8 +44,8 @@ In the short term, we anticipate shifts in trade patterns and re-routing, as lin
 |  | 55K | UKC-USG | 110 | 9,403 | 110 | 9,021 | **4.2%** | 17,707 | 27,274 |
 |  | 55K | MED-USG | 110 | 8,796 | 110 | 8,270 | **6.4%** | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 150 | 14,464 | 193 | 27,684 | -47.8% | 26,872 | 46,194 |
-
 ## TC Rates
+
 | Sector | Tenor | 04/04/2025 | 28/03/2025 | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 47,500 | 47,500 | 0.0% | 0 | 50,365 | 48,601 |
@@ -57,8 +60,8 @@ In the short term, we anticipate shifts in trade patterns and re-routing, as lin
 |  | 52k 3yr TC | 19,250 | 19,250 | 0.0% | 0 | 26,402 | 25,152 |
 | Handy | 36k 1yr TC | 18,000 | 18,000 | 0.0% | 0 | 26,606 | 25,760 |
 |  | 36k 3yr TC | 17,000 | 17,000 | 0.0% | 0 | 19,993 | 18,200 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Apr-25 avg | Mar-25 avg | ±% | 2024 | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 300KT DH | 112.0 | 112.0 | 0.0% | 113.0 | 99.5 | 80.2 |
@@ -68,6 +71,7 @@ In the short term, we anticipate shifts in trade patterns and re-routing, as lin
 | **MR** | **52KT DH** | 41.0 | 41.0 | 0.0% | 45.8 | 41.4 | 34.8 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 4/Apr/24 | 50 | 100 | 200 |
@@ -83,8 +87,8 @@ In the short term, we anticipate shifts in trade patterns and re-routing, as lin
 | 4/Feb/25 | 50 | 100 | 200 |
 | 4/Mar/25 | 50 | 100 | 200 |
 | 4/Apr/25 | 50 | 100 | 200 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 4/Apr/24 | 150 | 150 | 200 | 150 |
@@ -121,10 +125,10 @@ Simultaneously, oil prices have slumped following the U.S.'s unexpected tariff a
 | BHSI | 613 | $11,027 | 614 | $11,052 | -1 | -0.2% | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 12 mos | Orient Point | 2025 | 82,000 dwt |  |  |
-| 4 to 6 mos | Star Lydia | 2013 | 81,187 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 12 mos | Orient Point | 2025 | 82,000 dwt | dely ex yard Hantong 10/25 Apr red worldwide | $15,200/day | cnr |
+| 4 to 6 mos | Star Lydia | 2013 | 81,187 dwt | Zhoushan 5/6 Apr red worldwide | $14,850/day | cnr |
 
 ## TC Rates
 | Sector | Tenor | 04/04/2025 | 28/03/2025 | ±% | Diff | 2024 | 2023 |
@@ -139,6 +143,7 @@ Simultaneously, oil prices have slumped following the U.S.'s unexpected tariff a
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 4/Apr/24 | 2200 | 1600 | 1400 | 900 | 1800 |
@@ -156,6 +161,7 @@ Simultaneously, oil prices have slumped following the U.S.'s unexpected tariff a
 | 4/Apr/25 | 2400 | 1500 | 1300 | 800 | 1600 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 4/Apr/24 | 18000 | 14000 | 10000 | 8000 |
@@ -290,6 +296,7 @@ Turkish steel and ship recycling markets remained stagnant, with activity expect
 | USD/TRY | 37.99 | 37.88 | 0.3% | 37.99 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | FUTONG EXPRESS | 43,924 | 8,857 | 1995 | SANOYAS, Japan | BC | $ 485/Ldt | Bangladeshi |

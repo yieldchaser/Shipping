@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 <u>By Yiannis Parganas, Head of Research Department</u>
 
@@ -80,6 +82,7 @@ Moreover, the disparity between the speeds of eco and non-eco vessels now exceed
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 23/02/24 WS points | 23/02/24 $/day | 16/02/24 WS points | 16/02/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 67 | 45,111 | 95 | 78,936 | -42.9% | 39,466 | 20,330 |
@@ -97,14 +100,13 @@ Moreover, the disparity between the speeds of eco and non-eco vessels now exceed
 | Dirty | 55K | UKC-USG | 197 | 31,872 | 197 | 31,570 | 1.0% | 27,274 | 19,982 |
 |  | 55K | MED-USG | 195 | 31,045 | 195 | 30,911 | 0.4% | 27,060 | 21,231 |
 |  | 50k | CARIBS-USG | 349 | 68,591 | 371 | 74,105 | -7.4% | 46,194 | 40,364 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 24 mos | SEAODYSSEY | 2017 | 113,176 dwt |  |  |
-| 12 mos | GRAND ACE7 | 2005 | 46,140 dwt |  |  |
 
-### Dirty WS Rates (1-Year Trend)
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 24 mos | SEAODYSSEY | 2017 | 113,176 dwt | DELEAST FEB/24 | $43,000/day | Trafigura |
+| 12 mos | GRAND ACE7 | 2005 | 46,140 dwt | DELEAST FEB/24 | $30,500/day | ADMIC |
+### 1-Year Forward WS Rates - Dirty
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -122,8 +124,7 @@ Moreover, the disparity between the speeds of eco and non-eco vessels now exceed
 | 23/Dec/23 | 60 | 100 | 100 |
 | 23/Jan/24 | 60 | 90 | 100 |
 | 23/Feb/24 | 60 | 80 | 100 |
-
-### Clean WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Clean
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -195,10 +196,10 @@ Suezmax T/C earnings averaged \$45,733/day, down \$9,441/day or -19.51% w-o-w, a
 | BHSI | 628 | $11,299 | 572 | $10,287 | **56** | **9.8%** | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 18 to 20 mos | LEONIDAS P.C. | 2011 | 82,165 dwt |  |  |
-| 12 mos | PORT KOBE | 2016 | 63,520 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 18 to 20 mos | LEONIDAS P.C. | 2011 | 82,165 dwt | deli Yantai 20 Feb redel worldwide | $17,000/day | Ming Wah |
+| 12 mos | PORT KOBE | 2016 | 63,520 dwt | deli US Gulf prompt redel Singapore | $19,500/day | Cofco |
 
 ## TC Rates
 | Sector | Tenor | 23/02/24 | 16/02/24 | ±% | Diff | 2023 | 2022 |
@@ -217,6 +218,7 @@ Suezmax T/C earnings averaged \$45,733/day, down \$9,441/day or -19.51% w-o-w, a
 | **Handysize** | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 23/Feb/23 | 1500 | 1200 | 1000 | 800 | 1000 |
@@ -234,6 +236,7 @@ Suezmax T/C earnings averaged \$45,733/day, down \$9,441/day or -19.51% w-o-w, a
 | 23/Feb/24 | 2200 | 1400 | 1100 | 900 | 1400 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 23/Feb/23 | 5000 | 12000 | 10000 | 8000 |
@@ -361,6 +364,7 @@ The demolition market retains a rather sluggish pace entering 2024. Vessel suppl
 | USD/TRY | 31.04 | 30.84 | 0.6% | 31.10 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | XIN XIANG RUI | 22,154 | 5,119 | 1992 | SAIKI, Japan | BC | undisclosed | Bangladeshi |

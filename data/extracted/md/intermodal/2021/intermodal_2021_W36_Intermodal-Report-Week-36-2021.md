@@ -62,8 +62,8 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | NORDIC TELLUS | 2018 | 157,407 dwt |  |  |
-| 6 mos | RAYSUT | 2009 | 99,995 dwt |  |  |
+| 6 mos | NORDIC TELLUS | 2018 | 157,407 dwt |  | Chevron |
+| 6 mos | RAYSUT | 2009 | 99,995 dwt |  | ST Shipping |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 |
@@ -83,6 +83,7 @@ Shanghai 200122 China
 |  | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 14,051 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 10/Sep/20 | 50 | 60 | 50 |
@@ -100,6 +101,7 @@ Shanghai 200122 China
 | 10/Sep/21 | -10 | 0 | 40 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 10/Sep/20 | 150 | 140 | 130 | 120 |
@@ -155,12 +157,13 @@ In the MR sector we had the sale of the "ANGEL NO. 5" (46,829dwt-blt '09, China)
 | BHSI | 1,807 | $32,534 | 1,838 | $33,087 | -31 | -1.7% | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 13 to 15 mos | AMPHRITRITE | 2012 | 98,697 dwt |  |  |
-| 6 to 8 mos | STAR KAMILA | 2005 | 82,687 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 13 to 15 mos | AMPHRITRITE | 2012 | 98,697 dwt | Kinnura 11 Sep | $27,000/day | BG Shipping |
+| 6 to 8 mos | STAR KAMILA | 2005 | 82,687 dwt | Manila 15/16 Sep | $30,500/day | Solebay Shipping |
 
 ## TC Rates
+
 | Sector | Tenor | 10/09/2021 | 03/09/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 43,250 | 42,500 | 1.8% | 750 | 15,561 | 18,839 |
@@ -177,6 +180,7 @@ In the MR sector we had the sale of the "ANGEL NO. 5" (46,829dwt-blt '09, China)
 |  | **32K 3yr TC** | 15,000 | 15,000 | 0.0% | 0 | 8,686 | 9,291 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 10/Sep/20 | 2,200 | 1,600 | 1,500 | 2,000 | 3,800 |
@@ -194,6 +198,7 @@ In the MR sector we had the sale of the "ANGEL NO. 5" (46,829dwt-blt '09, China)
 | 10/Sep/21 | 3,300 | 3,300 | 3,200 | 1,900 | 6,000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 10/Sep/20 | 10,000 | 10,000 | 10,000 | 10,000 |
@@ -243,6 +248,7 @@ In the Supramax sector we had the sale of the "ATALANTI SB" (56,019dwt-blt '06, 
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLOC | NSS DYNAMIC | 233,584 | 2002 | IMABARI, Japan | B\&amp;W | Jun-22 |  | $ 18.5m | Chinese | Delivery December 2021 - January 2022 |
@@ -290,6 +296,7 @@ In the Supramax sector we had the sale of the "ATALANTI SB" (56,019dwt-blt '06, 
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 10/09/2021 | 03/09/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -346,8 +353,8 @@ In contrast to the previous week's activity where a total of 41 boxships were or
 | 10/Jul/21 | 94 | 64 | 49 | 45 | 35 |
 | 10/Aug/21 | 96 | 65 | 50 | 46 | 36 |
 | 10/Sep/21 | 98 | 66 | 50 | 47 | 36 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1+1 | Tanker | 37,000 dwt | Chengxi, China | 2024 | Dutch (Vitol) | $ 39.0m | asphalt/bitumen carrier, conventionally fuelled |
@@ -363,6 +370,7 @@ In contrast to the previous week's activity where a total of 41 boxships were or
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 10/09/2021 | 03/09/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |

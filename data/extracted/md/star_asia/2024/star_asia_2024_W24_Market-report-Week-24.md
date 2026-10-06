@@ -119,19 +119,19 @@ LR: LR2 rates generally softened despite a good week and steady sentiment. TC1 c
 
 # Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
-| --- | --- | --- | --- | --- | --- | --- |
-| VLCC | 310,000 | 47,500 | 48,000 | 36,500 | -1.04% | +30.14% |
-| SUEZMAX | 150,000 | 43,500 | 44,500 | 39,500 | -2.25% | +10.13% |
-| AFRAMAX | 110,000 | 47,750 | 49,000 | 43,500 | -2.55% | +9.77% |
-| LR1 | 74,000 | 37,000 | 37,500 | 29,500 | -1.33% | +25.42% |
-| MR | 47,000 | 30,250 | 30,750 Tankers S&P | 26,000 Report | -1.63% PRICE | +16.35% COMMENTS / |
-| VESSEL | NAME | DWT | YEAR | BUILT |  |  |
-|  |  |  |  | (MILLION) | USD | BUYERS |
-| NORVIC | MONIA | 105,348 | 2008 | S. KOREA | 41.9 | UNDISCLOSED |
-| GUNMETAL JACK PARADISE | / CITY | 49,999 | 2009 | S. KOREA | 28.0 EACH | TURKISH BUYERS |
-| STOLT | SISTO | 46,011 | 2010 | S. KOREA | 28.5 | CHINESE BUYERS |
-| TRF MANDAL TRF | / MARQUETTE | 37,596 | 2016 | S. KOREA | 38.0 EACH | SOKANA |
+| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
+|---|---|---|---|---|---|---|---|
+| VLCC | 310,000 |  | 47,500 | 48,000 | 36,500 | -1.04% | +30.14% |
+| SUEZMAX | 150,000 |  | 43,500 | 44,500 | 39,500 | -2.25% | +10.13% |
+| AFRAMAX | 110,000 |  | 47,750 | 49,000 | 43,500 | -2.55% | +9.77% |
+| LR1 | 74,000 |  | 37,000 | 37,500 | 29,500 | -1.33% | +25.42% |
+| MR | 47,000 |  | 30,250 | 30,750 Tankers S&P | 26,000 Report | -1.63% PRICE | +16.35% COMMENTS / |
+| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  |  |
+|  |  |  |  |  | (MILLION) | USD | BUYERS |
+| NORVIC | MONIA | LR2 | 105,348 | 2008 | S. KOREA | 41.9 | UNDISCLOSED |
+| GUNMETAL JACK PARADISE | / CITY | MR | 49,999 | 2009 | S. KOREA | 28.0 EACH | TURKISH BUYERS |
+| STOLT | SISTO | MR | 46,011 | 2010 | S. KOREA | 28.5 | CHINESE BUYERS |
+| TRF MANDAL TRF | / MARQUETTE | MR | 37,596 | 2016 | S. KOREA | 38.0 EACH | SOKANA |
 
 ## Shipbroking (www.star-asia.com.sg)
 

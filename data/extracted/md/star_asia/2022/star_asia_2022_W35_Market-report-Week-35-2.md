@@ -98,28 +98,28 @@ The USG was under pressure this week due to the lack of cargo and an abundance o
 
 # Dry Bulk - S&P Report
 
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS | / BUYERS |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | (MILLION) USD |  |  |
-| NEW ORLEANS / SANTA BARBARA | CAPE | 180,960 / 179,492 | 2015 | CHINA | 66.4 EN BLOC | JAPANESE | BUYERS |
-| CLARKE QUAY | SUPRAMAX | 55,618 | 2010 | VIETNAM | 17.0 | PANGEA | LOGISTICS |
-| BEI LUN 6 | HANDYMAX | 43,665 | 1989 | JAPAN | 3.5 | CHINESE | (AUCTION) |
-| AFRICA PRIDE | HANDY | 28,843 | 1991 | JAPAN | N/A |  | UNDISCLOSED |
-| KINATSI | SMALL | 18,901 Dry | 2007 Bulk (Weekly) | JAPAB Values | 10.3 | SYRIAN | BUYERS |
-| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS | 20 YEARS |
-| CAPE | 180,000 | 64 |  | 59 | 42 | 32 | 13 |
-| KAMSARMAX | 82,000 | 37 |  | 39 | 33 | 24 | 12 |
-| SUPRAMAX | 56,000 | 34 |  | 38 | 31 | 22 | 10 |
-| HANDY | 38,000 | 30 |  | 31 | 27 | 19 | 8 |
-| *(Amount in USD million) |  |  |  |  |  |  |  |
-|  | Baltic | Exchange |  | Dry | Indices |  |  |
-|  |  | BALTIC EXCHANGE |  | DRY BULK | INDICES |  |  |
-|  | CURRENT LAST | WEEK | LAST | YEAR | CHANGE % | Y-O-Y | CHANGE % |
-| BDI | 1,086 | 1,082 |  | 3,944 | +0.37 |  | -72.46 |
-| BCI | 733 | 411 |  | 5,625 | +78.35 |  | -86.97 |
-| BPI | 1,271 | 1,372 |  | 3,605 | -7.36 |  | -64.74 |
-| BSI | 1,514 | 1,744 |  | 3,348 | -13.19 |  | -54.78 |
-| BHSI | 869 | 933 |  | 1,638 | -6.86 |  | -46.95 |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  | PRICE | COMMENTS | / BUYERS |
+|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  | (MILLION) USD |  |  |
+| NEW ORLEANS / SANTA BARBARA | CAPE | 180,960 / 179,492 | 2015 | CHINA |  | 66.4 EN BLOC | JAPANESE | BUYERS |
+| CLARKE QUAY | SUPRAMAX | 55,618 | 2010 | VIETNAM |  | 17.0 | PANGEA | LOGISTICS |
+| BEI LUN 6 | HANDYMAX | 43,665 | 1989 | JAPAN |  | 3.5 | CHINESE | (AUCTION) |
+| AFRICA PRIDE | HANDY | 28,843 | 1991 | JAPAN |  | N/A |  | UNDISCLOSED |
+| KINATSI | SMALL | 18,901 Dry | 2007 Bulk (Weekly) | JAPAB Values |  | 10.3 | SYRIAN | BUYERS |
+| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY |  | 5 YEARS 10 | YEARS | 20 YEARS |
+| CAPE | 180,000 | 64 |  | 59 |  | 42 | 32 | 13 |
+| KAMSARMAX | 82,000 | 37 |  | 39 |  | 33 | 24 | 12 |
+| SUPRAMAX | 56,000 | 34 |  | 38 |  | 31 | 22 | 10 |
+| HANDY | 38,000 | 30 |  | 31 |  | 27 | 19 | 8 |
+| *(Amount in USD million) |  |  |  |  |  |  |  |  |
+|  | Baltic | Exchange |  | Dry | Bulk | Indices |  |  |
+|  |  | BALTIC EXCHANGE |  | DRY BULK |  | INDICES |  |  |
+|  | CURRENT LAST | WEEK | LAST | YEAR | W-O-W | CHANGE % | Y-O-Y | CHANGE % |
+| BDI | 1,086 | 1,082 |  | 3,944 |  | +0.37 |  | -72.46 |
+| BCI | 733 | 411 |  | 5,625 |  | +78.35 |  | -86.97 |
+| BPI | 1,271 | 1,372 |  | 3,605 |  | -7.36 |  | -64.74 |
+| BSI | 1,514 | 1,744 |  | 3,348 |  | -13.19 |  | -54.78 |
+| BHSI | 869 | 933 |  | 1,638 |  | -6.86 |  | -46.95 |
 
 [Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
@@ -358,12 +358,12 @@ In the last two weeks, cement and rod sales in Dhaka have decreased 50%. Due to 
 
 Lately, the domestic ship scrap prices have come off significantly, fueled by ongoing banking issues for larger ships, dampening the sentiments, and such an effect was now being seen in the prices offered which is off by US$20~30/ton from its recent highs.
 
-| Anchorage & | Beaching Position | (September | 2022) |
-| --- | --- | --- | --- |
-| TYPE | LDT | ARRIVAL | BEACHING |
-| BULKER | 975 | 23.06.2022 | AWAITING |
-| TANKER | 15,672 | 22.06.2022 | AWAITING |
-| TANKER | 16,884 | 01.03.2022 | AWAITING |
+|  | Anchorage & | Beaching Position | (September | 2022) |
+|---|---|---|---|---|
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| WINTON T128 | BULKER | 975 | 23.06.2022 | AWAITING |
+| ARIANA | TANKER | 15,672 | 22.06.2022 | AWAITING |
+| GALA | TANKER | 16,884 | 01.03.2022 | AWAITING |
 
 #### ALIAGA, TURKEY
 

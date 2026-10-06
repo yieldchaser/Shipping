@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -19,6 +21,7 @@ Shipbuilding is a vital component of the Japanese economy and core of its mariti
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 24/10/2025 WS points | 24/10/2025 $/day | 17/10/2025 WS points | 17/10/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 85 | 75,336 | 95 | 87,638 | -14.0% | 37,255 | 39,466 |
@@ -40,9 +43,9 @@ Shipbuilding is a vital component of the Japanese economy and core of its mariti
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | Blue Prince | 2009 | 109,010 dwt |  |  |
-
+| 6 mos | Blue Prince | 2009 | 109,010 dwt | $35,000/day | GCC Fuel Supply FZE |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 24/Oct/24 | 50 | 100 | 150 |
@@ -58,8 +61,8 @@ Shipbuilding is a vital component of the Japanese economy and core of its mariti
 | 24/Aug/25 | 100 | 200 | 260 |
 | 24/Sep/25 | 105 | 210 | 270 |
 | 24/Oct/25 | 110 | 220 | 280 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 24/Oct/24 | 100 | 110 | 120 | 130 |
@@ -269,8 +272,8 @@ Turkey's ship recycling market showed mild improvement, lending some optimism to
 | USD/INR | 87.84 | 88.00 | -0.19% | 88.76 |
 | USD/PKR | 283.20 | 283.29 | -0.03% | 284.95 |
 | USD/TRY | 41.95 | 41.90 | 0.11% | 41.90 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MONICA P | 46,667 | 7,813 | 1998 | MITSUI, Japan | BC | $380/Ldt | Bangladeshi | as is Belawan |

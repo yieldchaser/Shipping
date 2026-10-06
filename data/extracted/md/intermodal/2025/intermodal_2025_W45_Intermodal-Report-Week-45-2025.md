@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -13,6 +15,7 @@ Looking ahead, this dynamic will remain a key pillar of support for dry bulk as 
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 07/11/2025 WS points | 07/11/2025 $/day | 31/10/2025 WS points | 31/10/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 109 | 104,039 | 129 | 128,115 | -18.8% | 37,255 | 39,466 |
@@ -34,10 +37,11 @@ Looking ahead, this dynamic will remain a key pillar of support for dry bulk as 
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | Minerva Kythnos | 2011 | 115,674 dwt |  |  |
-| 12 mos | PIS Precious | 2013 | 50,259 dwt |  |  |
+| 12 mos | Minerva Kythnos | 2011 | 115,674 dwt | $35,000/day | Chevron |
+| 12 mos | PIS Precious | 2013 | 50,259 dwt | $23,250/day | Vitol |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 7/Nov/24 | 80 | 100 | 110 |
@@ -55,6 +59,7 @@ Looking ahead, this dynamic will remain a key pillar of support for dry bulk as 
 | 7/Nov/25 | 110 | 160 | 230 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 7/Nov/24 | 90 | 100 | 100 | 100 |
@@ -122,10 +127,10 @@ Aframaxes witnessed a broadly flat week, with TCE rates hovering around \$60k. A
 | BHSI | 810 | $14,582 | 847 | $15,243 | -37 | -4.3% | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 5 to 7 mos | Scion Charlotte | 2025 | 82,144 dwt |  |  |
-| 5 to 7 mos | Hessah | 2020 | 80,670 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 5 to 7 mos | Scion Charlotte | 2025 | 82,144 dwt | delay North China 25 Nov redel worldwide | $17,750/day | cnr |
+| 5 to 7 mos | Hessah | 2020 | 80,670 dwt | Zhoushan 9/12 Nov redel worldwide | $19,100/day | Louis Dreyfus |
 
 ## TC Rates
 | Sector | Tenor | 07/11/2025 | 31/10/2025 | ±% | Diff | 2024 | 2023 |
@@ -140,6 +145,7 @@ Aframaxes witnessed a broadly flat week, with TCE rates hovering around \$60k. A
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 7/Nov/24 | 3200 | 1200 | 1000 | 700 | 1500 |
@@ -157,6 +163,7 @@ Aframaxes witnessed a broadly flat week, with TCE rates hovering around \$60k. A
 | 7/Nov/25 | 3200 | 1900 | 1900 | 1100 | 2000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 7/Nov/24 | 26000 | 8000 | 10000 | 11000 |
@@ -253,8 +260,10 @@ Finally, the cruiseship market recorded a single order, as US NCL contracted a c
 |  | SGC LPG 25k cbm |  | 59.5 | 59.5 | 0.0% | 62.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Containers
-| 2 | Tanker | 165,000 | dwt | HD Hyundai, S. Korea | 2028 | Greek (Stealth Maritime) | $ 87.0m | Eco |
+
+| 4 | Bulker | 73,800 | dwt | Yangzijiang Shipbuilding, China | 2028-2029 | Bulgarian (Navibulgar) | $ 33.3m | Geared |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | Tanker | 165,000 | dwt | HD Hyundai, S. Korea | 2028 | Greek (Stealth Maritime) | $ 87.0m | Eco |
 | 2 | Tanker | 158,000 | dwt | Samsung HI, S. Korea | 2029 | Malaysian (AET) | $ 99.5m | LNG dual fuel |
 | 2+2 | Tanker | 115,000 | dwt | HD Hyundai, S. Korea | 2028 | Greek (Stealth Maritime) | $ 75.0m | Eco, coated |
 | 6+6 | Tanker | 18,000 | dwt | Swan Defence, India | undisclosed | Norwegian (Rederiet Stenersen) | $ 36.7m | Chemical tankers, LNG/methanol ready, ice class 1A |
@@ -299,8 +308,8 @@ Turkey witnesses low activity, as the substantial reduction in vessel candidates
 | USD/INR | 88.67 | 88.77 | -0.12% | 88.77 |
 | USD/PKR | 282.65 | 283.18 | -0.19% | 284.95 |
 | USD/TRY | 42.21 | 42.06 | **0.36%** | 42.21 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ZENITH | 105,162 | 17,013 | 1998 | SAMSUNG, S. Korea | TANKER | $359/Ldt | Indian |

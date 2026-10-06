@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 _By Nikos Tagoulis, Research Analyst_
 
@@ -19,6 +21,7 @@ In a period where protectionism is rising in several key economies around the wo
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 13/12/24 WS points | 13/12/24 $/day | 06/12/24 WS points | 06/12/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 40 | 19,704 | 44 | 23,550 | -16.3% | 39,466 | 20,330 |
@@ -40,8 +43,8 @@ In a period where protectionism is rising in several key economies around the wo
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 2 mos | JILL GLORY | 2023 |  |  |  |
-| 12 mos | FPMC 32 | 2019 |  |  |  |
+| 2 mos | JILL GLORY | 2023 |  | $32,500/day |  |
+| 12 mos | FPMC 32 | 2019 |  | $25,000/day |  |
 
 ## TC Rates
 | Sector | Tenor | 13/12/24 | 06/12/24 | ±% | Diff | 2023 | 2022 |
@@ -110,6 +113,7 @@ Rates for LR1 and LR2 vessels in the Middle East Gulf remained under pressure. T
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 13/Dec/23 | 4200 | 2200 | 1200 | 800 | 2200 |
@@ -126,6 +130,7 @@ Rates for LR1 and LR2 vessels in the Middle East Gulf remained under pressure. T
 | 13/Dec/24 | 1000 | 1200 | 1000 | 800 | 1000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 13/Dec/23 | 32000 | 16000 | 14000 | 12000 |
@@ -166,6 +171,7 @@ Supramax 10TC averaged \$ 10,150/day down -2.58% w-o-w, while the Handysize 7TC 
 # Secondhand Sales
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR1 | VALLE DI GRANADA | 40,218 | 2005 | HYUNDAI MIPO, S. Korea | B\&amp;W | Jan-25 | DH | $ 13.35m | UAE based |
@@ -249,6 +255,7 @@ The global recycling market remains sensitive to broader trade dynamics, economi
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | TRUE CONFIDENCE | 50,448 | 8,907 | 2011 | OSHIMA, Japan | BC | $ 353.0m | undisclosed | Damaged condition/total loss - as is Sharjah, UAE |

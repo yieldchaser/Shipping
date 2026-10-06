@@ -289,7 +289,9 @@ India's imported scrap market was subdued throughout the week, impacted by weak 
 
 Pakistan's imported scrap market remained muted, with mills operating at reduced capacities of 40-45% due to weak steel demand and limited liquidity. Domestic scrap prices dropped to PKR 140,000-142,000/t, while rebar prices held steady at PKR 240,000- 245,000/t, indicating cautious market sentiment. Shredded scrap offers from the UK and Europe ranged between US$380-385/ton CFR Qasim, but buyers remained hesitant, bidding at US$380-383/ton. Suppliers faced pressure to lower offers as softened market conditions and collection rates in Europe (US$330-332/ton FOB) resulted in CFR offers of US$380-382/ton.
 
-**Bangladesh:** Sluggish Market Amid Weak Domestic Demand Bangladesh's imported scrap market was subdued due to weak domestic demand and slow progress on government projects. Rebar prices fell by BDT 500-1,000/t, further dampening buyer activity. Mills, holding sufficient inventories, showed little interest in fresh bookings. Import offers for HMS (80:20) and shredded scrap ranged from US$360-385/ton CFR Chattogram, but bid-offer mismatches persisted, and the market lacked momentum. Although traders reported bulk inquiries, significant transactions were absent, with mills prioritising inventory management. The outlook remains cautious amid weak domestic steel demand and stalled government infrastructure projects.
+**Bangladesh: Sluggish Market Amid Weak Domestic Demand**
+
+Bangladesh's imported scrap market was subdued due to weak domestic demand and slow progress on government projects. Rebar prices fell by BDT 500-1,000/t, further dampening buyer activity. Mills, holding sufficient inventories, showed little interest in fresh bookings. Import offers for HMS (80:20) and shredded scrap ranged from US$360-385/ton CFR Chattogram, but bid-offer mismatches persisted, and the market lacked momentum. Although traders reported bulk inquiries, significant transactions were absent, with mills prioritising inventory management. The outlook remains cautious amid weak domestic steel demand and stalled government infrastructure projects.
 
 #### Turkey: Weak Demand and Oversupply Drive Price Declines
 
@@ -313,7 +315,9 @@ some sellers remained optimistic about a February recovery, citing stronger US d
 
 Commodity imports for December remained robust, reflecting a modest improvement in manufacturing activity during Q4 2024. Copper product imports surged 21.8% year-onyear to 602,000 tons, marking the highest monthly volume since October 2020. Marginal growth in concentrate imports further underscored this trend. An early Lunar New Year on January 29 may have spurred early purchases, contributing to the uptick in trade activity. Meanwhile, exports of certain key commodities remained strong as companies frontloaded shipments ahead of potential U.S. import tariffs under Trump's trade policy.
 
-Iron ore prices gained this week following China's announcement of additional measures to support its economy. The Ministry of Commerce committed to boosting domestic consumption and stabilising foreign trade and investment in 2025. Key initiatives include strengthening trade-in policies for consumer goods and further promoting the Belt and Road Initiative. Trade data added further support to market sentiment. Iron ore imports remained steady at 100 million tons, as recent economic stimulus measures improved steel demand prospects. Steel exports also saw significant growth, rising 25.9% year-on-year to 9.73 million tons, reflecting strong international demand.
+**Iron ore prices gained this week following China's announcement of additional measures**
+
+to support its economy. The Ministry of Commerce committed to boosting domestic consumption and stabilising foreign trade and investment in 2025. Key initiatives include strengthening trade-in policies for consumer goods and further promoting the Belt and Road Initiative. Trade data added further support to market sentiment. Iron ore imports remained steady at 100 million tons, as recent economic stimulus measures improved steel demand prospects. Steel exports also saw significant growth, rising 25.9% year-on-year to 9.73 million tons, reflecting strong international demand.
 
 ### Shipbroking (www.star-asia.com.sg)
 

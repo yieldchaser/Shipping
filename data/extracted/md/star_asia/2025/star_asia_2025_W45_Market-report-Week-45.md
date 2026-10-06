@@ -119,9 +119,13 @@ persisted due to active fixing in the West market, reducing the inflow of ballas
 
 Clean:
 
-**LR:** Rates ended the week depressed, driven by weaker demand from the MEG to the Far East. Against the backdrop of the recent easing of tariffs between China/US, TC1 saw rates dialed back slightly to WS132. Similarly, LR1 saw a dip in the same route closing at WS142, losing some 8 points.
+**LR: Rates ended the week depressed, driven by weaker demand from the MEG to the Far**
 
-**MR:** The market experienced a slight rate decline but managed to recover at week's end on the MEG/E.Africa route closing at WS215. In the USG, rates continue to fall with TC14 falling some 33 points to WS147.
+East. Against the backdrop of the recent easing of tariffs between China/US, TC1 saw rates dialed back slightly to WS132. Similarly, LR1 saw a dip in the same route closing at WS142, losing some 8 points.
+
+**MR: The market experienced a slight rate decline but managed to recover at week's end**
+
+on the MEG/E.Africa route closing at WS215. In the USG, rates continue to fall with TC14 falling some 33 points to WS147.
 
 ## Baltic Exchange Tanker Indices
 
@@ -327,7 +331,9 @@ increase in domestic rebar purchasing activity. Mills have been actively seeking
 
 ## Commodities (Weekinfocus)
 
-Iron ore prices continued to decline this week as market sentiment weakened on signs of softer demand. Authorities in Hebei province reinstated an environmental production-cut alert for steel mills, potentially curbing blast furnace operations and dampening consumption. Meanwhile, data released yesterday showed rising inventories at Chinese steel mills, with stockpiles up 4.4% to 16.6 million tons in mid-October compared to early October, further underscoring sluggish demand conditions. However, the market remains cautious, with some noting that while optimism following the Fourth Plenum is fading, markets are still watching for new concrete details on "antiinvolution" measures or long-term steel capacity reforms. "Anti-involution" refers to China's policy campaign designed to curb overcapacity and unsustainable low prices across various industries. To date, there has been limited incentive for steel mills to permanently decommission plants, raising persistent concerns that oversupply will continue to weigh on the market. This scenario, where relatively high steel output persists during a season of weak demand, is putting pressure on steel prices, mill profit margins, and input costs like iron ore.
+**Iron ore prices continued to decline this week as market sentiment weakened on signs of**
+
+softer demand. Authorities in Hebei province reinstated an environmental production-cut alert for steel mills, potentially curbing blast furnace operations and dampening consumption. Meanwhile, data released yesterday showed rising inventories at Chinese steel mills, with stockpiles up 4.4% to 16.6 million tons in mid-October compared to early October, further underscoring sluggish demand conditions. However, the market remains cautious, with some noting that while optimism following the Fourth Plenum is fading, markets are still watching for new concrete details on "antiinvolution" measures or long-term steel capacity reforms. "Anti-involution" refers to China's policy campaign designed to curb overcapacity and unsustainable low prices across various industries. To date, there has been limited incentive for steel mills to permanently decommission plants, raising persistent concerns that oversupply will continue to weigh on the market. This scenario, where relatively high steel output persists during a season of weak demand, is putting pressure on steel prices, mill profit margins, and input costs like iron ore.
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -335,7 +341,9 @@ Iron ore prices continued to decline this week as market sentiment weakened on s
 
 Furthermore, iron ore prices have faced downward pressure due to concerns over softer demand, as an environmental production cut warning for steel mills in Hebei province is expected to affect blast furnace operations. Despite these capacity concerns, other steelmaking ingredients on the DCE gained ground, with coking coal climbing 2.38% and coke rising 2.07%, respectively. This strength extended to the steel benchmarks on the Shanghai Futures Exchange: rebar rose 0.4%, hot-rolled coil climbed 0.22%, stainless steel gained 0.28%, and wire rod closed flat.
 
-Copper traded lower through much of the week, pressured by a firmer US dollar which weighed on the broader commodities complex. The metal had surged to a record USD 11,200/t last week on optimism around a potential US-China trade agreement and stronger forward demand, but buying momentum eased as the dollar climbed back to its highest level since May. Losses, however, were cushioned by resilient physical demand from China. Softer prices on the Shanghai Futures Exchange prompted renewed restocking activity ahead of an anticipated seasonal pickup in consumption. Supply-side concerns also eased, adding to the softer tone. In Africa, Tanzania reopened its border with Zambia, allowing copper flows to resume along a key export route after more than a week of disruption caused by domestic unrest helping normalise shipments from two of the continent's largest producers to China. Overall, while copper's near-term rally has paused, underlying demand fundamentalsparticularly from China continue to provide a floor for prices.
+**Copper traded lower through much of the week, pressured by a firmer US dollar which**
+
+weighed on the broader commodities complex. The metal had surged to a record USD 11,200/t last week on optimism around a potential US-China trade agreement and stronger forward demand, but buying momentum eased as the dollar climbed back to its highest level since May. Losses, however, were cushioned by resilient physical demand from China. Softer prices on the Shanghai Futures Exchange prompted renewed restocking activity ahead of an anticipated seasonal pickup in consumption. Supply-side concerns also eased, adding to the softer tone. In Africa, Tanzania reopened its border with Zambia, allowing copper flows to resume along a key export route after more than a week of disruption caused by domestic unrest helping normalise shipments from two of the continent's largest producers to China. Overall, while copper's near-term rally has paused, underlying demand fundamentalsparticularly from China continue to provide a floor for prices.
 
 Iron Ore
 

@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 _By Chara Georgousi, Research Analyst_
 
@@ -15,6 +17,7 @@ The industry's outlook remains optimistic, propelled by a strong CPP sector, sug
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 05/01/24 WS points | 05/01/24 $/day | 29/12/23 WS points | 29/12/23 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 60 | 33,817 | 52 | 34,995 | -3.4% | 39,466 | 20,330 |
@@ -34,12 +37,12 @@ The industry's outlook remains optimistic, propelled by a strong CPP sector, sug
 |  | 50k | CARIBS-USG | 229 | 38,083 | 207 | 36,652 | **3.9%** | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 60 mos | STENA PROVIDENT (NB) | 2024 | 49,900 dwt |  |  |
-| 4 to 6 mos | WISTERIA | 2008 | 50,661 dwt |  |  |
-
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 60 mos | STENA PROVIDENT (NB) | 2024 | 49,900 dwt | DEL CHINA DEC/23 | $26,250/day | Bahri Chems |
+| 4 to 6 mos | WISTERIA | 2008 | 50,661 dwt | DELEAST DEC/23 | $26,000/day | Trafigura |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 29/Dec/22 | 150 | 160 | 250 |
@@ -55,8 +58,8 @@ The industry's outlook remains optimistic, propelled by a strong CPP sector, sug
 | 31/Oct/23 | 60 | 150 | 280 |
 | 30/Nov/23 | 55 | 145 | 150 |
 | 31/Dec/23 | 65 | 155 | 250 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 29/Dec/22 | 320 | 180 | 420 | 180 |
@@ -124,9 +127,9 @@ On the Aframax front, T/C earnings averaged \$52,011/day, up + \$1,137/day w-o-w
 | BHSI | 695 | $12,518 | 879 | $15,813 | -184 | -20.8% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6 to 8 mos | MAPLE WISDOM | 2023 | 82,00 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 to 8 mos | MAPLE WISDOM | 2023 | 82,00 dwt | dely Singapore 18/20 Dec redel worldwide | $17,000/day | Oldendorff |
 
 ## TC Rates
 | Sector | Tenor | 05/01/24 | 29/12/23 | ±% | Diff | 2023 | 2022 |
@@ -141,6 +144,7 @@ On the Aframax front, T/C earnings averaged \$52,011/day, up + \$1,137/day w-o-w
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 29/Dec/22 | 15000 | 10000 | 10000 | 5000 |
@@ -273,6 +277,7 @@ ble this week, with breakers awaiting general elections in the first week of Feb
 | USD/TRY | 29.82 | 29.48 | 1.17% | 29.98 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PETROBRAS XXXIII | 279,749 | 63,785 | 1978 | ISHIBRAS, Brazil | OFFSHORE | undisclosed | undisclosed | green recycling |

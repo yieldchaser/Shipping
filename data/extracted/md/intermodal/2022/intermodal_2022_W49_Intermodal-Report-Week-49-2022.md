@@ -64,6 +64,7 @@ The Baltic Exchange
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 09/12/22 WS points | 09/12/22 $/day | 02/12/22 WS points | 02/12/22 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 84 | 54,338 | 79 | 44,234 | 22.8% | 2,246 | 52,119 |
@@ -82,14 +83,14 @@ The Baltic Exchange
 | Dirty | 55K | UKC-USG | 317 | 61,212 | 310 | 58,160 | 5.2% | 2,822 | 12,120 |
 |  | 55K | MED-USG | 317 | 62,512 | 310 | 59,475 | 5.1% | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 524 | 100,728 | 582 | 112,171 | -10.2% | 8,548 | 17,651 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 9 mos | JAG LOKESH | 2009 | 105,599 dwt |  |  |
-| 12 mos | HAFNIA PEGASUS | 2010 | 49,999 dwt |  |  |
-
+| 9 mos | JAG LOKESH | 2009 | 105,599 dwt | $55,000/day | Trafigura |
+| 12 mos | HAFNIA PEGASUS | 2010 | 49,999 dwt | $30,000/day | Saudi Aramco |
 ## TC Rates
+
 | Sector | Tenor | 09/12/22 | 02/12/22 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 52,000 | 52,000 | 0.0% | 0 | 25,684 | 42,038 |
@@ -104,8 +105,8 @@ The Baltic Exchange
 |  | 52k 3yr TC | 20,000 | 20,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | 36k 1yr TC | 28,000 | 26,000 | 7.7% | 2000 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Dec-22 avg | Nov-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 90.5 | 88.8 | 2.0% | 69.7 | 71.5 | 72.1 |
@@ -113,8 +114,8 @@ The Baltic Exchange
 | **Aframax** | **110KT DH** | 58.0 | 56.8 | 2.2% | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 50.5 | 43.3 | 16.8% | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 40.5 | 39.3 | 3.2% | 27.6 | 27.5 | 28.6 |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 9/Dec/21 | 100 | 150 | 150 |
@@ -130,8 +131,8 @@ The Baltic Exchange
 | 9/Oct/22 | 100 | 200 | 350 |
 | 9/Nov/22 | 100 | 250 | 600 |
 | 9/Dec/22 | 100 | 280 | 280 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 9/Dec/21 | 200 | 150 | 300 |  |
@@ -178,12 +179,13 @@ In the MR2 sector we had the sale of the "NAVE DORADO" (47,999dwt-bl't '05, Japa
 | BHSI | 732 | $13,182 | 741 | $13,340 | -9 | -1.2% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 3 to 5 mos | BULK PARAGUAY | 2016 | 63,461 dwt |  |  |
-| 3 to 5 mos | ASTORIA BAY | 2005 | 46,536 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 3 to 5 mos | BULK PARAGUAY | 2016 | 63,461 dwt | Subic Bay prompt | $14,000/day | BG |
+| 3 to 5 mos | ASTORIA BAY | 2005 | 46,536 dwt | Thailand 15 Dec | $13,000/day | Crescent Bulk |
 
 ## TC Rates
+
 | Sector | Tenor | 09/12/22 | 02/12/22 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 14,500 | 13,250 | 9.4% | 1,250 | 26,392 | 14,394 |
@@ -196,6 +198,7 @@ In the MR2 sector we had the sale of the "NAVE DORADO" (47,999dwt-bl't '05, Japa
 |  | **32K 3yr TC** | 9,000 | 9,000 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 9/Dec/21 | 2800 | 2900 | 2700 | 1800 | 4600 |
@@ -212,6 +215,7 @@ In the MR2 sector we had the sale of the "NAVE DORADO" (47,999dwt-bl't '05, Japa
 | 9/Dec/22 | 1600 | 1700 | 1600 | 1500 | 1600 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 9/Dec/21 | 35000 | 25000 | 24000 | 23000 |
@@ -259,6 +263,7 @@ In the Handysize sector we had the sale of the "GANT GRACE" (28,375dwt-blt '10, 
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | FOS ATHENS | 105,171 | 2015 | HYUNDAI, S. Korea | MAN-B&amp;W | Feb-25 | DH | region $ 50.0m | Turkish | BWTS fitted, Eco |
@@ -281,6 +286,7 @@ In the Handysize sector we had the sale of the "GANT GRACE" (28,375dwt-blt '10, 
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KMAX | RICH RAINFOREST | 82,278 | 2022 | Jiangsu, China | MAN-B\&amp;W | Jan-27 |  | $ 34.5m | Japanese | BWTS fitted, BBHP |
@@ -291,13 +297,13 @@ In the Handysize sector we had the sale of the "GANT GRACE" (28,375dwt-blt '10, 
 | HANDY | BEN WYVIS | 35,000 | 2015 | Jiangdong, China | MAN-B\&amp;W | May-25 | 4 X 30t CRANES | undisclosed | undisclosed |  |
 | HANDY | GANT GRACE | 28,375 | 2010 | IMABARI, Japan | MAN-B\&amp;W | Jan-25 | 4 X 30,5t CRANES | $ 12.5m | Greek | BWTS fitted |
 | HANDY | SHANGHAI | 31,923 | 2000 | SAIKI, Japan | Mitsubishi | Dec-25 | 4 X 30t CRANES | $ 8.3m | Lebanese | BWTS fitted, OHBS |
-
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | JRS CORVUS | 698 | 2008 | FUJIAN, China | MaK | Mar-23 |  | undisclosed | undisclosed |
-
 ## Secondhand Sales
+
 | Sector | Size | Gas/LPG/LNG | Type | Name | Dwt | Built | Yard | M/E | SS due |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | BERKSHIRE | 26,466 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Jul-23 | 34,483 | excess $ 30.0m | undisclosed |
@@ -308,6 +314,7 @@ In the Handysize sector we had the sale of the "GANT GRACE" (28,375dwt-blt '10, 
 
 # Newbuilding Market
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 9-Dec-22 | 2-Dec-22 | ±% | 2020 | 2019 | 2018 |  |
@@ -375,6 +382,7 @@ It has been a relatively quiet week in the newbuilding sector, following the rec
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 09/12/22 | 02/12/22 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |

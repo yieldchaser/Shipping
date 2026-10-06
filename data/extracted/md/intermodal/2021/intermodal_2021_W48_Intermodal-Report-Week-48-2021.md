@@ -59,8 +59,8 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | NEW TRIUMPH | 2015 | 318,517 dwt |  |  |
-| 12 mos | JASMIN JOY | 2009 | 104,604 dwt |  |  |
+| 36 mos | NEW TRIUMPH | 2015 | 318,517 dwt | $33,500/day | CPC Corp Taiwan |
+| 12 mos | JASMIN JOY | 2009 | 104,604 dwt | $18,500/day | Navig8 |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 |
@@ -79,6 +79,7 @@ Shanghai 200122 China
 |  | **36k 3yr TC** | 12,250 | 0.0% | 0 | 14,051 | 13,753 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 3/Dec/20 | 50 | 70 | 80 |
@@ -96,6 +97,7 @@ Shanghai 200122 China
 | 3/Dec/21 | 40 | 80 | 100 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 3/Dec/20 | 100 | 110 | 120 | 130 |
@@ -141,6 +143,7 @@ In the MR2 sector we had the sale of the "EVROS" (47,120dwt-blt '05, S. Korea), 
 
 # Dry Bulk Market
 ## Baltic Indices
+
 | Index Name | 03/12/2021 Index | 03/12/2021 $/day | 26/11/2021 Index | 26/11/2021 $/day | Point Diff | $/day ±% | 2020 Index | 2019 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 3,171 |  | 2,767 |  | **404** |  | 1,066 | 1,344 |
@@ -148,14 +151,14 @@ In the MR2 sector we had the sale of the "EVROS" (47,120dwt-blt '05, S. Korea), 
 | BPI | 3,128 | $28,154 | 2,621 | $23,586 | **507** | **19.4%** | 1,103 | 1,382 |
 | BSI | 2,431 | $26,741 | 2,316 | $25,472 | **115** | **5.0%** | 746 | 877 |
 | BHSI | 1,559 | $28,065 | 1,539 | $27,703 | **20** | **1.3%** | 447 | 490 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 3 to 5 mos | PACIFIC VALOR | 2015 | 63,564 dwt |  |  |
-| 11 to 13 mos | ISABELITA | 2010 | 58,058 dwt |  |  |
 
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 3 to 5 mos | PACIFIC VALOR | 2015 | 63,564 dwt | CJK 30 Nov/3 Dec | $24,000/day | Fortune Ocean |
+| 11 to 13 mos | ISABELITA | 2010 | 58,058 dwt | Kuwait end Dec/early Jan | $22,000/day | cnr |
 ## TC Rates
+
 | Sector | Tenor | 03/12/2021 | 26/11/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** |  |  |  |  |  |  |  |
@@ -174,8 +177,8 @@ In the MR2 sector we had the sale of the "EVROS" (47,120dwt-blt '05, S. Korea), 
 | **Handysize** | **32K 6mnt TC** | 27,750 | 25,500 | **8.8%** | **2,250** | 8,498 | 9,152 |
 | **Handysize** | **32K 1yr TC** | 22,000 | 20,000 | **10.0%** | **2,000** | 8,556 | 9,291 |
 | **Handysize** | **32K 3yr TC** | 13,000 | 11,250 | **15.6%** | **1,750** | 8,686 | 9,291 |
-
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 3/Dec/20 | 1,500 | 1,500 | 1,500 | 1,000 | 1,500 |
@@ -191,8 +194,8 @@ In the MR2 sector we had the sale of the "EVROS" (47,120dwt-blt '05, S. Korea), 
 | 3/Oct/21 | 4,200 | 3,600 | 3,400 | 1,800 | 10,500 |
 | 3/Nov/21 | 3,800 | 3,200 | 3,000 | 1,700 | 4,200 |
 | 3/Dec/21 | 4,000 | 3,400 | 3,100 | 1,700 | 4,500 |
-
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 3/Dec/20 | 15000 | 15000 | 15000 | 15000 |
@@ -240,6 +243,7 @@ In the Kamsarmax sector we had the sale of the "KING BARLEY" (82,177dwt-blt '12,
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | CAPE TREASURE | 180,201 | 2007 | KOYO MIHARA, Japan | MAN-B&amp;W | Feb-22 |  | $ 21.5m | South Korean (Five Oceans) |  |
@@ -262,6 +266,7 @@ In the Kamsarmax sector we had the sale of the "KING BARLEY" (82,177dwt-blt '12,
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | NEW CORAL | 297,580 | 2010 | SHANGHAI JIANGNAN CHANGXIN, China | MAN-B\&amp;W | Jan-25 | DH | $ 38.5m | Greek (Aeolos Management) | BWTS fitted |
@@ -272,8 +277,8 @@ In the Kamsarmax sector we had the sale of the "KING BARLEY" (82,177dwt-blt '12,
 | J19 | BUNGA LAUREL | 19,992 | 2010 | FUKUOKA, Japan | MAN-B\&amp;W | Apr-25 | DH | $ 15.0m | undisclosed | St-St |
 | J19 | MID OSPREY | 19,969 | 2006 | FUKUOKA, Japan | MAN-B\&amp;W | Oct-21 | DH | $ 12.0m | Norwegian (J. Ludwig Mowinckels Rederi) | St-St, BWTS fitted, old deal |
 | J19 | MID FALCON | 19,959 | 2006 | FUKUOKA, Japan | MAN-B\&amp;W | Aug-21 | DH | $ 12.0m |  |  |
-
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | OOCL ITALY | 5,888 | 2007 | KOYO MIHARA, Japan | MAN-B\&amp;W | Jun-22 |  | undisclosed | undisclosed |
@@ -286,6 +291,7 @@ In the Kamsarmax sector we had the sale of the "KING BARLEY" (82,177dwt-blt '12,
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 03/12/2021 | 26/11/2021 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -342,8 +348,8 @@ As we are heading towards the end of 2021, it is evident that the industry has b
 | 3/Oct/21 | 102 | 65 | 50 | 48 | 38 |
 | 3/Nov/21 | 105 | 66 | 51 | 48 | 38 |
 | 3/Dec/21 | 108 | 67 | 52 | 49 | 38 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Tanker | 7,630 dwt | Chongqing Chuandong, China | 2023 | Chinese (Guangxi Wuzhou) | undisclosed | St-St chemical tankers, Tier II |
@@ -360,6 +366,7 @@ As we are heading towards the end of 2021, it is evident that the industry has b
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 03/12/2021 | 26/11/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -390,8 +397,8 @@ There was an overall decrease in the offered average scrap prices across the mai
 | 3/Oct/21 | 625 | 610 | 615 | 275 |
 | 3/Nov/21 | 625 | 615 | 620 | 320 |
 | 3/Dec/21 | 620 | 610 | 615 | 330 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MELATI DUA | 32,168 | 10,170 | 1997 | HYUNDAI, S. Korea | TANKER | undisclosed | Indian |  |

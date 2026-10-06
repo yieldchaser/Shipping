@@ -74,10 +74,11 @@ The Baltic Exchange
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | MILOS | 2016 | 157,525 dwt |  |  |
-| 6 mos | LEFKARA | 2008 | 49,996 dwt |  |  |
+| 6 mos | MILOS | 2016 | 157,525 dwt | $23,000/day | Vitol |
+| 6 mos | LEFKARA | 2008 | 49,996 dwt | $13,250/day | Saudi Aramco |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 14/Jan/21 | 50 | 80 | 90 |
@@ -95,6 +96,7 @@ The Baltic Exchange
 | 14/Jan/22 | 50 | 85 | 90 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 14/Jan/21 | 100 | 120 | 140 | 160 |
@@ -166,11 +168,12 @@ In the Aframax sector we had sale of the "NORDIC MISTRAL" (164,236dwt-blt '02, S
 | BHSI | 1,192 | $21,464 | 1,300 | $23,402 | -108 | -8.3% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 3 to 5 mos | LAGRANGE | 2008 | 53,208 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 3 to 5 mos | LAGRANGE | 2008 | 53,208 dwt | Karachi 11 January | $25,000/day | Eagle Bulk |
 
 ## TC Rates
+
 | Sector | Tenor | 14/01/2022 | 07/01/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 21,250 | 25,500 | -16.7% | -4,250 | 32,884 | 15,561 |
@@ -187,6 +190,7 @@ In the Aframax sector we had sale of the "NORDIC MISTRAL" (164,236dwt-blt '02, S
 |  | **32K 3yr TC** | 13,000 | 13,000 | 0.0% | 0 | 12,025 | 8,686 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 14/Jan/21 | 2800 | 1600 | 1400 | 1000 | 2800 |
@@ -204,6 +208,7 @@ In the Aframax sector we had sale of the "NORDIC MISTRAL" (164,236dwt-blt '02, S
 | 14/Jan/22 | 2600 | 2800 | 2600 | 2200 | 2600 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 14/Jan/21 | 18000 | 16000 | 15000 | 14000 |
@@ -286,6 +291,7 @@ In the Handysize sector we had the sale of the "CRIMSON PRINCESS" (38,395dwt-blt
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | ST EVER | 2,553 | 2011 | NAIKAI ZOSEN, Japan | MAN-B\&amp;W | Jun-25 |  | $ 46.5m | Taiwanese |
@@ -303,6 +309,7 @@ In the Handysize sector we had the sale of the "CRIMSON PRINCESS" (38,395dwt-blt
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 14/01/2022 | 07/01/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -359,8 +366,8 @@ The newbuilding market activity remains healthy for another week. The presence o
 | 14/Nov/21 | 60 | 35 | 38 | 30 |
 | 14/Dec/21 | 60 | 36 | 39 | 31 |
 | 14/Jan/22 | 60 | 37 | 40 | 32 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Bulker | 180,000 dwt | Nihon, Japan | 2024-2025 |  | undisclosed |  |
@@ -378,6 +385,7 @@ The newbuilding market activity remains healthy for another week. The presence o
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | Markets | 14/01/2022 | 07/01/2022 | ±% | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -412,6 +420,7 @@ The Indian-subcontinent demolition market witnessed an increase in offered level
 | 14/Jan/22 | 620 | 555 | 595 | 330 |
 
 ## Indicative Demolition Prices ($/ldt)
+
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/Ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PAUL R. TREGURTHA | 69,172 | 15,167 | 1981 | AMERICAN SHBLDG - LORAIN, USA | BC | $ 610/Ldt | undisclosed | self discarger |

@@ -69,10 +69,10 @@ The Baltic Exchange
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | PEGASUS | 2009 | 158,267 dwt |  |  |
-| 30 mos | DEE4 LARCH | 2016 | 49,737 dwt |  |  |
-| 6 mos | PEGASUS | 2009 | 158,267 dwt |  |  |
-| 30 mos | DEE4 LARCH | 2016 | 49,737 dwt |  |  |
+| 6 mos | PEGASUS | 2009 | 158,267 dwt | $17,000/day | Trafigura |
+| 30 mos | DEE4 LARCH | 2016 | 49,737 dwt | $15,500/day | Hafnia |
+| 6 mos | PEGASUS | 2009 | 158,267 dwt | $17,000/day | Trafigura |
+| 30 mos | DEE4 LARCH | 2016 | 49,737 dwt | $15,500/day | Hafnia |
 
 ## TC Rates
 
@@ -80,6 +80,7 @@ The Baltic Exchange
 | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 29/Oct/20 | 50 | 70 | 60 |
@@ -108,7 +109,7 @@ The Baltic Exchange
 | 31/Aug/21 | 60 | 80 | 110 |
 | 30/Sep/21 | 65 | 85 | 140 |
 
-### Clean WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Clean
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -172,12 +173,13 @@ In the small size sector we had the sale of the "CRIMSON RAY" (19,984dwt-blt '07
 | BHSI | 1,972 | $35,487 | 2,057 | $37,033 | -85 | -4.2% | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 9 mos | STAR HELENA | 2006 | 82,150 dwt |  |  |
-| 4 to 6 mos | MOUNT BAKER | 2003 | 33,213 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 9 mos | STAR HELENA | 2006 | 82,150 dwt | Nansha prompt | $32,500/day | Mina Shipping Duba |
+| 4 to 6 mos | MOUNT BAKER | 2003 | 33,213 dwt | Rotterdam prompt | $35,000/day | UNION BULK |
 
 ## TC Rates
+
 | Sector | Tenor | 29/10/2021 | 22/10/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 31,500 | 41,000 | -23.2% | -9,500 | 15,561 | 18,839 |
@@ -194,6 +196,7 @@ In the small size sector we had the sale of the "CRIMSON RAY" (19,984dwt-blt '07
 |  | **32K 3yr TC** | 13,250 | 15,000 | -11.7% | -1,750 | 8,686 | 9,291 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 29/Oct/20 | 1,500 | 1,400 | 1,300 | 1,200 | 1,600 |
@@ -210,6 +213,7 @@ In the small size sector we had the sale of the "CRIMSON RAY" (19,984dwt-blt '07
 | 30/Sep/21 | 4,200 | 4,000 | 3,500 | 1,950 | 10,500 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 29/Oct/20 | 12000 | 11000 | 11500 | 10000 |
@@ -258,6 +262,7 @@ In the Ultramax sector we had the sale of the "SUNLEAF GRACE" (61,683dwt-blt '11
 
  Secondhand Sales
 ## Bulk Carriers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | ADVANTAGE ARROW | 115,804 | 2009 | SAMSUNG, S. Korea | MAN-B\&amp;W | Feb-25 | DH | $ 52.0m | Norwegian | BWTS &amp; scrubber fitted, basis TC attached to Shell at $ 17,800/d for 16 months with 50/50 profit sharing |
@@ -272,8 +277,8 @@ In the Ultramax sector we had the sale of the "SUNLEAF GRACE" (61,683dwt-blt '11
 | SMALL | CRIMSON RAY | 19,984 | 2007 | FUKUOKA, Japan | MAN-B\&amp;W | Jul-22 | DH | $ 12.5m | South Korean | St-St |
 | SMALL | ASL TRIBUTE | 12,306 | 2007 | SASAKI, Japan | MAN-B\&amp;W | Apr-22 | DH | $ 5.5m | Singapore based |  |
 | SMALL | CHEM WOLVERINE | 19,991 | 2006 | USUKI, Japan | MAN-B\&amp;W | Nov-21 | DH | $ 9.8m | South Korean | St-St |
-
 ## Bulk Carriers
+
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KMAX | JIANGSU YANGZI-MITSUI YZJ2015-2686 | 82,300 | 2022 | Jiangsu Yangzi-Mitsui, China | MAN-B&amp;W |  |  | $ 38.5m | Greek | delivery January 2022 |
@@ -287,14 +292,15 @@ In the Ultramax sector we had the sale of the "SUNLEAF GRACE" (61,683dwt-blt '11
 
 # Intermodal Secondhand Sales
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | CARTAGENA TRADER | 3,534 | 2008 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Mar-23 |  | undisclosed | Frech (CMA CGM) |
 | FEEDER | ASTURIANO II | 1,304 | 2012 | AVIC WEIHAI, China | MAN-B\&amp;W | Mar-22 | 2 X 40t CRANES | undisclosed | UAE based (Safeen Feeders) |
 | FEEDER | AS FEDERICA | 1,284 | 2007 | OUHUA, China | MAN | May-22 | 2 X 45t CRANES | $ 23.0m | Frech (CMA CGM) |
 | FEEDER | AS FAUSTINA | 1,284 | 2007 | OUHUA, China | MAN | Sep-22 | 2 X 45t CRANES | $ 23.0m |  |
-
 ## Secondhand Sales
+
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MARIWIT | 12,190 | 2009 | LIAONING LONGDE, China | Hanshin | Jul-24 | 2 X 30t CRNS, 2 X 25t DERRICKS | $ 5.8m | Chinese | Tween |
@@ -307,6 +313,7 @@ In the Ultramax sector we had the sale of the "SUNLEAF GRACE" (61,683dwt-blt '11
 
 # Intermodal Newbuilding Market
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 29/10/2021 | 22/10/2021 | ±% | 2020 | 2019 | 2018 |  |
@@ -372,6 +379,7 @@ The newbuilding market activity was in line with the course that we have been wi
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 29/10/2021 | 22/10/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -420,8 +428,8 @@ The recent scrap prices offered by the Indian-subcontinent buyers have improved 
 | 31/Jul/21 | 600 | 590 | 610 | 260 |
 | 31/Aug/21 | 620 | 610 | 630 | 265 |
 | 30/Sep/21 | 625 | 620 | 625 | 270 |
-
 ## Indicative Demolition Prices ($/ldt)
+
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | JAL PARI | 8,821 | 2,999 | 1998 | MURAKAMI HIDE, Japan | TANKER | $ 685/Ldt | Indian | St-St |

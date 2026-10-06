@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 By Nikos Tagoulis, Senior Analyst
 
@@ -16,6 +18,7 @@ In conclusion, by pairing tariff leverage with geopolitical strategy, the United
 # Intermodal Tanker Market
 
 ## Spot Rates
+
 | Sector | Size | Routes | 15/08/2025 WS points | 15/08/2025 $/day | 08/08/2025 WS points | 08/08/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 57 | 39,526 | 57 | 39,879 | -0.9% | 37,255 | 39,466 |
@@ -33,8 +36,8 @@ In conclusion, by pairing tariff leverage with geopolitical strategy, the United
 | Dirty | 55K | UKC-USG | 120 | 11,723 | 120 | 11,342 | **3.4%** | 17,707 | 27,274 |
 |  | 55K | MED-USG | 120 | 12,697 | 120 | 12,288 | **3.3%** | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 141 | 10,171 | 151 | 12,828 | -20.7% | 26,872 | 46,194 |
-
 ## TC Rates
+
 | Sector | Tenor | 15/08/2025 | 08/08/2025 | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 45,750 | 45,750 | 0.0% | 0 | 50,365 | 48,601 |
@@ -51,6 +54,7 @@ In conclusion, by pairing tariff leverage with geopolitical strategy, the United
 |  | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 19,993 | 18,200 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 15/Aug/24 | 60 | 90 | 100 |
@@ -68,6 +72,7 @@ In conclusion, by pairing tariff leverage with geopolitical strategy, the United
 | 15/Aug/25 | 55 | 85 | 120 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 15/Aug/24 | 120 | 110 | 130 | 110 |
@@ -119,7 +124,7 @@ The North Sea lent some support to a mixed week for the Aframax market, which ex
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 5 to 7 mos | CL Xuchang | 2022 | 61,203 dwt |  |  |
+| 5 to 7 mos | CL Xuchang | 2022 | 61,203 dwt | $16,200/day | cnr |
 
 ### Baltic Indices
 | Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
@@ -139,6 +144,7 @@ The North Sea lent some support to a mixed week for the Aframax market, which ex
 | 15/Aug/25 | 3200 | 2000 | 1800 | 1000 | 3000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 15/Aug/24 | 22000 | 14000 | 13000 | 12000 |

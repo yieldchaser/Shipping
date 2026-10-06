@@ -57,6 +57,7 @@ Shanghai 200122 China
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 45 | -20,853 | 44 | -15,147 | -37.7% | 2,246 | 52,119 |
@@ -72,14 +73,14 @@ Shanghai 200122 China
 |  | 75k | MEG-JAPAN | 201 | 21,682 | 223 | 32,851 | -34.0% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 251 | 25,902 | 259 | 30,956 | -16.3% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 312 | 25,307 | 327 | 30,427 | -16.8% | 4,496 | 12,977 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | SPARTO | 2020 | 115,468 dwt |  |  |
-| 36 mos | AQUATRAVESIA | 2017 | 113,032 dwt |  |  |
-
+| 36 mos | SPARTO | 2020 | 115,468 dwt | $28,000/day | Koch |
+| 36 mos | AQUATRAVESIA | 2017 | 113,032 dwt | $25,000/day | Mercuria |
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 25,684 | 42,038 |
@@ -94,8 +95,8 @@ Shanghai 200122 China
 |  | 52k 3yr TC | 15,000 | 15,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | 36k 1yr TC | 16,250 | 16,250 | 0.0% | 0 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Jun-22 avg | May-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300KT DH** | 76.0 | 75.8 | **0.3%** | 69.7 | 71.5 | 72.1 |
@@ -103,8 +104,8 @@ Shanghai 200122 China
 | **Aframax** | **110KT DH** | 48.5 | 48.5 | 0.0% | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 37.0 | 36.0 | **2.8%** | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 34.0 | 32.5 | **4.6%** | 27.6 | 27.5 | 28.6 |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 3/jun/21 | 30 | 80 | 80 |
@@ -120,8 +121,8 @@ Shanghai 200122 China
 | 3/apr/22 | 30 | 290 | 290 |
 | 3/may/22 | 30 | 280 | 280 |
 | 3/jun/22 | 30 | 100 | 180 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 3/jun/21 | 100 | 120 | 140 | 140 |
@@ -170,11 +171,12 @@ In the Suezmax sector we had the sale of the "RIDGEBURY ASTARI" (149,991dwt-bl't
 | BHSI | 1,595 | $28,712 | 1,647 | $29,652 | -52 | -3.2% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | VALENCIA EAGLE | 2015 | 63,556 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 to 6 mos | VALENCIA EAGLE | 2015 | 63,556 dwt | New Mangalore 29 May | $39,500/day | Adnoc |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 3/Jun/21 | 3,500 | 3,600 | 3,200 | 1,800 | 3,400 |
@@ -192,6 +194,7 @@ In the Suezmax sector we had the sale of the "RIDGEBURY ASTARI" (149,991dwt-bl't
 | 3/Jun/22 | 3,000 | 3,000 | 2,900 | 1,700 | 3,000 |
 
 ## TC Rates
+
 | Sector | Tenor | 03/06/2022 | 27/05/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 37,500 | 35,750 | **4.9%** | **1,750** | 32,684 | 15,361 |
@@ -208,6 +211,7 @@ In the Suezmax sector we had the sale of the "RIDGEBURY ASTARI" (149,991dwt-bl't
 |  | **32K 3yr TC** | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 3/Jun/21 | 25000 | 28000 | 27000 | 24000 |
@@ -255,6 +259,7 @@ In the Supramax sector we had the sale of the "IVS PINEHURST" (57,811dwt-blt '15
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | DUQM | 310,084 | 2008 | IMABARI, Japan | MAN-B\&amp;W | Nov-23 | DH | $ 39.0m | Chinese | BWTS fitted, dely bss within Jul/Aug '22 |
@@ -283,6 +288,7 @@ In the Supramax sector we had the sale of the "IVS PINEHURST" (57,811dwt-blt '15
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | ROSEBANK | 177,029 | 2010 | NEW TIMES, China | MAN-B&amp;W | Aug-25 |  | $ 27.5m | UK based |  |
@@ -299,6 +305,7 @@ In the Supramax sector we had the sale of the "IVS PINEHURST" (57,811dwt-blt '15
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 03/06/2022 | 27/05/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -371,6 +378,7 @@ The Dry bulk sector has the lion's share of the previous week's newbuilding cont
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | Markets | 03/06/2022 | 27/05/2022 | ±% | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |

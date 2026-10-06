@@ -60,6 +60,7 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 10/03/23 WS points | 10/03/23 $/day | 03/03/23 WS points | 03/03/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 99 | 95,526 | 73 | 57,977 | 64.8% | 20,330 | 2,246 |
@@ -78,14 +79,14 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 197 | 39,041 | 197 | 39,364 | -0.8% | 19,982 | 2,822 |
 |  | 55K | MED-USG | 197 | 38,161 | 197 | 38,296 | -0.4% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 367 | 83,442 | 332 | 72,523 | 15.1% | 40,364 | 8,548 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mons | BARBAROSA | 2009 | 165,000 dwt |  |  |
-| 24 mos | ANWAAR TRABLUS | 2022 | 115,500 dwt |  |  |
-
+| 12 mons | BARBAROSA | 2009 | 165,000 dwt | $39,000/day | Trafigura |
+| 24 mos | ANWAAR TRABLUS | 2022 | 115,500 dwt | $45,000/day | Core Petroleum |
 ## TC Rates
+
 | Sector | Tenor | Current | Previous |
 | --- | --- | --- | --- |
 | $/day | 10/03/23 | 03/03/23 | ±% |
@@ -104,8 +105,8 @@ Shanghai 200122 China
 
 | Sector | Size | Mar-23 avg | Feb-23 avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | DATE | WS points | WS points | WS points |
@@ -122,8 +123,8 @@ Shanghai 200122 China
 | 10/Jan/23 | 50 | 150 | 150 |
 | 10/Feb/23 | 50 | 150 | 150 |
 | 10/Mar/23 | 50 | 150 | 350 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 10/Mar/22 | 150 | 150 | 250 | 200 |
@@ -171,6 +172,7 @@ In the MR2 sector we had the sale of the "NAVIGARE PARS" (51,034dwt-blt '12, S. 
 | BHSI | 631 | $11,361 | 584 | $10,513 | **47** | **8.1%** | 1,181 | 1,424 |
 
 ## TC Rates
+
 | Sector | Tenor | 10/03/23 | 03/03/23 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | 180K 1yr TC | 19,000 | 17,250 | 10.1% | 1,750 | 21,394 | 26,392 |
@@ -183,6 +185,7 @@ In the MR2 sector we had the sale of the "NAVIGARE PARS" (51,034dwt-blt '12, S. 
 |  | 32K 3yr TC | 10,500 | 10,500 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 10/Mar/22 | 3000 | 3000 | 3000 | 1500 | 3000 |
@@ -200,6 +203,7 @@ In the MR2 sector we had the sale of the "NAVIGARE PARS" (51,034dwt-blt '12, S. 
 | 10/Mar/23 | 2600 | 2500 | 2400 | 1700 | 2600 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 10/Mar/22 | 25000 | 30000 | 30000 | 25000 |
@@ -251,6 +255,7 @@ In the Handysize sector we had the sale of the "SCHELDE CONFIDENCE" (38,225dwt-b
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | KASSOS I | 319,247 | 2007 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jul-27 | DH | $ 60.0m | UAE based | Scrubber fitted |
@@ -278,6 +283,7 @@ In the Handysize sector we had the sale of the "SCHELDE CONFIDENCE" (38,225dwt-b
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | NEWCASTLEMAX | MP THE VRABEL | 208,286 | 2021 | JIANGSU NEWYANGZI, China | MAN-B&amp;W | Jan-26 |  |
@@ -299,6 +305,7 @@ In the Handysize sector we had the sale of the "SCHELDE CONFIDENCE" (38,225dwt-b
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 10-Mar-23 | 3-Mar-23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -374,6 +381,7 @@ The newbuilding market was in full swing last week with a total of 22 vessels be
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 10/03/23 | 03/03/23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |

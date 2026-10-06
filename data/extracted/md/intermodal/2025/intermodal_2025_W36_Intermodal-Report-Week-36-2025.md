@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Yiannis Parganas, Head of Research Department**
 
@@ -19,6 +21,7 @@ What is becoming clear is that the geopolitics of oil are once again reshaping s
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 05/09/2025 WS points | 05/09/2025 $/day | 29/08/2025 WS points | 29/08/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 72 | 57,769 | 66 | 51,174 | 12.9% | 37,255 | 39,466 |
@@ -40,9 +43,9 @@ What is becoming clear is that the geopolitics of oil are once again reshaping s
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | Long Wind | 2011 | 320,142 dwt |  |  |
-
+| 12 mos | Long Wind | 2011 | 320,142 dwt | $42,000/day | Abu Dhabi Marine |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points |
@@ -59,8 +62,8 @@ What is becoming clear is that the geopolitics of oil are once again reshaping s
 | 5/Jul/25 | 50 | 100 | 150 |
 | 5/Aug/25 | 50 | 100 | 150 |
 | 5/Sep/25 | 50 | 100 | 150 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points | WS points |
@@ -127,12 +130,13 @@ Aframaxes experienced a mixed week, with regional variations balancing overall s
 | BHSI | 787 | $14,165 | 767 | $13,807 | **20** | **2.6%** | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | Grampus Charm | 2013 | 82,937 dwt |  |  |
-| 12 mos | Musigny | 2025 | 82,000 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 to 6 mos | Grampus Charm | 2013 | 82,937 dwt | dely Pyeongtaek 30 Aug/2 Sep redel worldwide | $14,500/day | Costamare |
+| 12 mos | Musigny | 2025 | 82,000 dwt | dely ex yard Hantong end Nov redel worldwide | $15,750/day | Classic Maritime |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 5/Sep/24 | 3400 | 1900 | 1400 | 800 | 1900 |
@@ -150,6 +154,7 @@ Aframaxes experienced a mixed week, with regional variations balancing overall s
 | 5/Sep/25 | 2900 | 1900 | 1900 | 800 | 2900 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 5/Sep/24 | 28000 | 13000 | 14000 | 12000 |
@@ -203,6 +208,7 @@ Handysize ships saw broadly stable conditions. Modest gains were recorded in Eur
 # Secondhand Sales
 
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | JASMINE KNUTSEN | 148,644 | 2005 | SAMSUNG, S. Korea | B\&amp;W | May-25 | DH | $ 33.0m | undisclosed | Shuttle Tanker |
@@ -304,8 +310,8 @@ The Turkish market remains stagnant, showing little movement compared to last we
 | USD/INR | 88.19 | 88.17 | 0.01% | 88.19 |
 | USD/PKR | 283.75 | 283.88 | -0.04% | 284.95 |
 | USD/TRY | 41.24 | 41.10 | 0.33% | 41.24 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | YEOMAN BANK | 38,997 | 9,179 | 1982 | ELEUSIS, Greece | BC | $250/Ldt | Turkish |

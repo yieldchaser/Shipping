@@ -64,6 +64,7 @@ The Baltic Exchange
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 53 | 4,584 | 56 | 10,246 | -55.3% | 2,246 | 52,119 |
@@ -79,14 +80,14 @@ The Baltic Exchange
 |  | 55k | MEG-JAPAN | 163 | 12,652 | 157 | 12,508 | **1.2%** | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 215 | 11,052 | 196 | 9,204 | **20.1%** | 4,496 | 12,977 |
 |  | 30K | MED-MED | 432 | 76,323 | 216 | 22,139 | **244.7%** | 8,124 | 12,235 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 7 mos | JAG LOKESH | 2009 | 105,599 dwt |  |  |
-| 9 mos | KATHERINE LADY | 2022 | 49,999 dwt |  |  |
-
+| 7 mos | JAG LOKESH | 2009 | 105,599 dwt | $20,000/day | Trafigura |
+| 9 mos | KATHERINE LADY | 2022 | 49,999 dwt | $16,500/day | Koch Logistics |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points |
@@ -103,8 +104,8 @@ The Baltic Exchange
 | 8/Feb/22 | 30 | 70 | 280 |
 | 8/Mar/22 | 30 | 300 | 280 |
 | 8/Apr/22 | 30 | 300 | 280 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 8/Apr/21 | 120 | 130 | 140 | 150 |
@@ -120,8 +121,8 @@ The Baltic Exchange
 | 8/Feb/22 | 120 | 130 | 140 | 150 |
 | 8/Mar/22 | 120 | 130 | 140 | 150 |
 | 8/Apr/22 | 120 | 130 | 140 | 450 |
-
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 28,000 | 27,000 | 3.7% | 1000 | 25,684 | 42,038 |
@@ -136,8 +137,8 @@ The Baltic Exchange
 |  | 52k 3yr TC | 14,000 | 14,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | 36k 1yr TC | 11,000 | 11,000 | 0.0% | 0 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Apr-22 avg | Mar-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300KT DH** | 73.5 | 71.4 | **3.0%** | 69.7 | 71.5 | 72.1 |
@@ -177,12 +178,13 @@ In the MR2 sector we had sale of the "HIGH SATURN" (51,527dwt-blt '08, S. Korea)
 | BHSI | 1,449 | $26,075 | 1,544 | $27,786 | -95 | -6.2% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 11 to 14 mos | CAPE KOURION | 2010 | 79,463 dwt |  |  |
-| 3 to 5 mos | CHRISTINA | 2018 | 66,653 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 11 to 14 mos | CAPE KOURION | 2010 | 79,463 dwt | Manila 1/5 May | $22,750/day | cnr |
+| 3 to 5 mos | CHRISTINA | 2018 | 66,653 dwt | Umm Qasr 14 Apr | $34,000/day | Adnoc |
 
 ## TC Rates
+
 | Sector | Tenor | 15/04/2022 | 08/04/2022 | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | 180K 6mnt TC | 29,750 | 29,750 | 0.0% | 0 | 32,684 | 15,361 |
@@ -199,6 +201,7 @@ In the MR2 sector we had sale of the "HIGH SATURN" (51,527dwt-blt '08, S. Korea)
 |  | 32K 3yr TC | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 15/Apr/21 | 3500 | 2800 | 1800 | 1400 | 4000 |
@@ -216,6 +219,7 @@ In the MR2 sector we had sale of the "HIGH SATURN" (51,527dwt-blt '08, S. Korea)
 | 15/Apr/22 | 2900 | 2900 | 2800 | 1600 | 3000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 15/Apr/21 | 22000 | 20000 | 21000 | 19000 |
@@ -270,6 +274,7 @@ In the Handysize sector we had the sale of the “OCEAN FALCON” (37,152dwt-blt
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | CHELSEA | 300,000 | 2020 | DAEWOO, S. Korea | MAN-B&amp;W | Jan-25 |  | rgn $ 184.0m | Greek (Euronav) | BWTS &amp; scrubber fitter |
@@ -298,6 +303,7 @@ In the Handysize sector we had the sale of the “OCEAN FALCON” (37,152dwt-blt
 
 # Intermodal Secondhand Sales
 ## Secondhand Sales
+
 | Bulk Carriers Size KMAX PMAX PMAX PMAX UMAX SUPRA SUPRA SUPRA HMAX HANDY HANDY HANDY | Bulk Carriers Name ROSCO PALM WEN JUN 2 DORIC ARROW SHAO SHAN 1 NAVIGARE BACCA GDF SUEZ NORTH SEA NZ SHANGHAI ELIM PEACE CORONA NILE CONFIDANTE OCEAN FALCON ZEUS IV | Bulk Carriers Dwt 82,153 75,259 75,121 74,009 61,213 55,848 54,808 51,187 46,685 37,405 37,152 32,165 | Bulk Carriers Built 2011 2001 2001 1997 2016 2012 2010 2003 1999 2012 2011 2009 | Bulk Carriers Yard TSUNEISHI ZHOUSHAN, China SAMHO, S. Korea HITACHI ZOSEN, Japan TSUNEISHI, Japan IMABARI, Japan IHI, Japan JIANGSU QINFENG, China NEW TIMES, China SANOYAS, Japan SHANDONG HUAHAI, China HYUNDAI MIPO, S. Korea HAKODATE, Japan | Bulk Carriers M/E MAN-B\&amp;W B\&amp;W B\&amp;W B\&amp;W MAN-B\&amp;W Wartsila MAN-B\&amp;W MAN-B\&amp;W Sulzer Wartsila MAN-B\&amp;W Mitsubishi | Bulk Carriers SS due Jan-26 Mar-26 Feb-26 Jun-22 Apr-26 Jun-25 Jul-25 Jan-23 Mar-24 May-24 May-26 May-22 | Bulk Carriers Gear4 X 30,7t CRANES 4 X 30t CRANES 4x36.0, 4x30.0 4 X 30t CRANES 4 X 30t CRANES 4 X 30t CRANES 4 X 30t CRANES 4 X 30t CRANES | Bulk Carriers Price $ 26.0m $ 9.9m rgn $ 13.0m $ 8.6m $ 32.3m $ 22.5m $ 16.9m rgn $ 12.5m $ 10.2m high $ 12.0m $ 18.2m $ 17.0m | Bulk Carriers Buyers undisclosed undisclosed undisclosed Chinese Bangladeshi Vietnamese undisclosed Chinese undisclosed Asian Greek undisclosed | Bulk Carriers Comments BWTS fitted old sale, delivery january 2023 rgn $ 13.0mBWTS fittedonline commercial auctionBWTS fittedBWTS fitted auction sale, BWTS fitted |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
@@ -364,8 +370,8 @@ LNG and Container contracts continue to keep activity in the newbuilding market 
 | 15/Feb/22 | 60 | 33 | 32 | 21 |
 | 15/Mar/22 | 60 | 33 | 32 | 21 |
 | 15/Apr/22 | 60 | 33 | 32 | 21 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4 | LNG | 175,000 cbm | Hudong Zhonghua, China | 2024 | Japanese (MOL) | undisclosed | against long-term T/C to Qatar Energy |
@@ -380,6 +386,7 @@ LNG and Container contracts continue to keep activity in the newbuilding market 
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 15/04/2022 | 08/04/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -410,8 +417,8 @@ Slow activity materialized in the demolition front amidst the ongoing Ramadan pe
 | 15/Feb/22 | 640 | 600 | 620 | 350 |
 | 15/Mar/22 | 670 | 640 | 660 | 450 |
 | 15/Apr/22 | 665 | 650 | 660 | 460 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SEAWAYS RUBYMAR | 69,599 | 13,248 | 2002 | DAEWOO, S. Korea | TANKER | undisclosed | Indian | HK Recycling |

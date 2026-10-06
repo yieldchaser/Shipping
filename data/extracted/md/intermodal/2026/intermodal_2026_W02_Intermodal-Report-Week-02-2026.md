@@ -1,3 +1,5 @@
+## Weekly Market Report
+
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -29,6 +31,7 @@ The Northern Sea Route has witnessed a notable upward trend in the context of Ru
 # Tanker Market
 
 ## Spot Rates
+
 | Sector | Size | Routes | 09/01/2026 WS points | 09/01/2026 $/day | 02/01/2026 WS points | 02/01/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 76 | 60,774 | 54 | 35,479 | **71.3%** | 60,510 | 37,255 |
@@ -46,8 +49,8 @@ The Northern Sea Route has witnessed a notable upward trend in the context of Ru
 |  | 55K | UKC-USG | 120 | 14,435 | 125 | 15,721 | -8.2% | 10,784 | 17,707 |
 |  | 55K | MED-USG | 120 | 15,515 | 125 | 16,794 | -7.6% | 11,306 | 17,590 |
 |  | 50k | ARA-UKC | 150 | 9,145 | 153 | 9,878 | -7.4% | 18,615 | 26,872 |
-
 ## TC Rates
+
 | Sector | Tenor | 09/01/26 | 02/01/26 | ±% | Diff | 2025 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 300k 1yr TC | 59,000 | 57,500 | **2.6%** | **1500** | 50,615 | 50,365 |
@@ -62,8 +65,8 @@ The Northern Sea Route has witnessed a notable upward trend in the context of Ru
 |  | 52k 3yr TC | 20,750 | 21,000 | -1.2% | -250 | 19,782 | 26,402 |
 | **Handy** | 36k 1yr TC | 20,000 | 20,000 | 0.0% | 0 | 18,519 | 26,606 |
 |  | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 16,902 | 19,993 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Jan-26 avg | Dec-25 avg | ±% | 2025 | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 123.0 | 119.0 | **3.4%** | 115.5 | 113.0 | 99.5 |
@@ -71,8 +74,8 @@ The Northern Sea Route has witnessed a notable upward trend in the context of Ru
 | **Aframax** | **110KT DH** | 68.8 | 67.1 | **2.4%** | 63.6 | 71.0 | 64.4 |
 | **LR1** | **75KT DH** | 49.0 | 47.0 | **4.3%** | 47.9 | 53.8 | 49.2 |
 | **MR** | **52KT DH** | 43.5 | 43.0 | **1.2%** | 41.4 | 45.8 | 41.4 |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 9/Jan/25 | 50 | 80 | 120 |
@@ -88,8 +91,8 @@ The Northern Sea Route has witnessed a notable upward trend in the context of Ru
 | 9/Nov/25 | 100 | 130 | 170 |
 | 9/Dec/25 | 110 | 140 | 180 |
 | 9/Jan/26 | 120 | 150 | 190 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 9/Jan/25 | 100 | 150 | 200 | 250 |
@@ -134,10 +137,10 @@ Overall, the market closed the week with firmer undertones, though volatility re
 | BHSI | 605 | $10,897 | 685 | $12,329 | -80 | -11.6% | 661 | 702 |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6 to 10 mos | Rizokarpaso | 2023 | 82,114 dwt |  |  |
-| 12 mos | Bentley | 2019 | 80,856 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 to 10 mos | Rizokarpaso | 2023 | 82,114 dwt | Delivery Mizushima 20/30 Jan redelivery worldwide | $16,500/day | ADMI |
+| 12 mos | Bentley | 2019 | 80,856 dwt | Delivery CJK 13 Jan redelivery worldwide |  | 105% of BPI |
 
 ### TC Rates
 | Sector | Tenor | 09/01/2026 | 02/01/2026 | ±% | Diff | 2025 | 2024 |
@@ -152,6 +155,7 @@ Overall, the market closed the week with firmer undertones, though volatility re
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 9/Jan/25 | 1500 | 1000 | 800 | 700 | 1200 |
@@ -169,6 +173,7 @@ Overall, the market closed the week with firmer undertones, though volatility re
 | 9/Jan/26 | 3200 | 1850 | 1650 | 1000 | 3000 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 9/Jan/25 | 10000 | 8000 | 7000 | 6000 |
@@ -334,8 +339,8 @@ The Turkish market was flat last week, with little activity. In the steel sector
 | USD/INR | 90.24 | 90.01 | 0.26% | 90.24 |
 | USD/PKR | 280.00 | 280.05 | -0.02% | 280.05 |
 | USD/TRY | 43.05 | 43.03 | 0.04% | 43.05 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | DIMPLE | 13,770 | 4,866 | 1992 | SZCZECINSKA, Poland | BC | $ 387,5/Ldt | Indian |

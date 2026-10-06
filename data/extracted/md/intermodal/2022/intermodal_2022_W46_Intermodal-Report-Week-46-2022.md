@@ -53,6 +53,7 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 18/11/22 WS points | 18/11/22 $/day | 11/11/22 WS points | 11/11/22 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 132 | 104,907 | 114 | 83,088 | **26.3%** | 2,246 | 52,119 |
@@ -71,14 +72,14 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 230 | 34,971 | 220 | 31,493 | **11.0%** | 2,822 | 12,120 |
 |  | 55K | MED-USG | 225 | 34,609 | 225 | 33,954 | **1.9%** | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 455 | 80,909 | 393 | 65,566 | **23.4%** | 8,548 | 17,651 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 18 mos | BRIOLETTE | 2011 | 104,588 dwt |  |  |
-| 12 mos | LISCA NERA M | 2009 | 42,000 dwt |  |  |
-
+| 18 mos | BRIOLETTE | 2011 | 104,588 dwt | $32,500/day | Saudi Aramco |
+| 12 mos | LISCA NERA M | 2009 | 42,000 dwt | $27,800/day | Total Energies |
 ## TC Rates
+
 | Sector | Tenor | 18/11/22 | 11/11/22 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 50,000 | 48,000 | 4.2% | 2000 | 25,684 | 42,038 |
@@ -93,8 +94,8 @@ Shanghai 200122 China
 |  | 52k 3yr TC | 20,000 | 20,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | 36k 1yr TC | 23,500 | 23,500 | 0.0% | 0 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Nov-22 avg | Oct-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300KT DH** | 88.7 | 87.3 | **1.6%** | 69.7 | 71.5 | 72.1 |
@@ -117,6 +118,7 @@ In the Aframax sector we had the sale of the "FOS HAMILTON" (105,408dwt-blt '13,
 
 In the MR1 sector we had the sale of the "VALLERMOSA" (40,218dwt-blt '03, S. Korea), which was sold to Chinese buyers, for a price in the region of \$12.0m.
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 18/Nov/21 | 50 | 100 | 100 |
@@ -146,8 +148,7 @@ In the MR1 sector we had the sale of the "VALLERMOSA" (40,218dwt-blt '03, S. Kor
 | 18/Sep/22 | 150 | 250 | 350 |
 | 18/Oct/22 | 160 | 250 | 400 |
 | 18/Nov/22 | 170 | 250 | 650 |
-
-### Clean WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Clean
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -172,6 +173,7 @@ In the MR1 sector we had the sale of the "VALLERMOSA" (40,218dwt-blt '03, S. Kor
 
 # Dry Bulk Market
 ## Baltic Indices
+
 | Index Name | 18/11/22 Index | 18/11/22 $/day | 11/11/22 Index | 11/11/22 $/day | Point Diff | $/day ±% | 2021 Index | 2020 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 1,189 |  | 1,355 |  | -166 |  | 2,921 | 1,066 |
@@ -179,14 +181,14 @@ In the MR1 sector we had the sale of the "VALLERMOSA" (40,218dwt-blt '03, S. Kor
 | BPI | 1,594 | $14,343 | 1,637 | $14,735 | -43 | -2.7% | 2,972 | 1,103 |
 | BSI | 1,170 | $12,870 | 1,213 | $13,348 | -43 | -3.6% | 2,424 | 746 |
 | BHSI | 763 | $13,727 | 787 | $14,174 | -24 | -3.2% | 1,424 | 447 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 11 to 13 mos | SM NEW ORLEANS | 2019 | 80,897 dwt |  |  |
-| 10 to 12 mos | DSI ANDROMEDA | 2016 | 60,309 dwt |  |  |
 
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 11 to 13 mos | SM NEW ORLEANS | 2019 | 80,897 dwt | Malta 28 Nov | $19,000/day | Louis Dreyfus |
+| 10 to 12 mos | DSI ANDROMEDA | 2016 | 60,309 dwt | Rotterdam 16-18 Nov | $14,000/day | Western Bulk Carriers |
 ## TC Rates
+
 | Sector | Tenor | 18/11/22 | 11/11/22 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | 180K 6mnt TC | 11,000 | 13,000 | -15.4% | -2,000 | 32,684 | 15,361 |
@@ -201,7 +203,6 @@ In the MR1 sector we had the sale of the "VALLERMOSA" (40,218dwt-blt '03, S. Kor
 | Handysize | 32K 6mnt TC | 10,750 | 10,750 | 0.0% | 0 | 22,976 | 8,298 |
 |  | 32K 1yr TC | 10,500 | 11,000 | -4.5% | -500 | 18,354 | 8,356 |
 |  | 32K 3yr TC | 9,000 | 9,250 | -2.7% | -250 | 11,825 | 8,486 |
-
 ## Baltic Indices
 
 | Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
@@ -220,8 +221,8 @@ In the MR1 sector we had the sale of the "VALLERMOSA" (40,218dwt-blt '03, S. Kor
 | 18/Sep/22 | 1600 | 1500 | 1500 | 1400 | 1500 |
 | 18/Oct/22 | 1600 | 1500 | 1500 | 1400 | 1500 |
 | 18/Nov/22 | 1600 | 1500 | 1500 | 1400 | 1500 |
-
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 18/Nov/21 | 25000 | 22000 | 23000 | 21000 |
@@ -269,22 +270,23 @@ In the Handysize sector we had the sale of the "SEASTAR HARRIER" (39,804dwt-blt 
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | FOS HAMILTON | 105,408 | 2013 | HYUNDAI, S. Korea | MAN-B\&amp;W | Sep-23 | DH | $ 43.75m | Greek (Performance Shipping) | BWTS fitted |
 | LR1 | NORDNEPTUN | 74,999 | 2004 | HYUNDAI, S. Korea | MAN-B\&amp;W | Apr-24 | DH | mid $ 15.0m | undisclosed | BWTS fitted, coated |
 | LR1 | PGC IKAROS | 72,829 | 2004 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Nov-24 | DH | $ 12.7m | Turkish | BWTS fitted, coated, basis February 2023 delivery and DD due |
 | MR1 | VALLERMOSA | 40,218 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Jan-23 | DH | $ 12.0m | Chinese | coated |
-
 ## Bulk Carriers
+
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NEWCASTLEMAX | CHINA STEEL ENTREPRENEUR | 203,512 | 2007 | CHINA SHIPBUILDING KAO, Taiwan | MAN-B\&amp;W | Jan-27 |  | $ 17.75m | Greek | BWTS fitted |
 | NEWCASTLEMAX | CHINA STEEL TEAM | 203,512 | 2006 | CHINA SHIPBUILDING KAO, Taiwan | MAN-B\&amp;W | Aug-26 |  | $ 17.75m |  | BWTS fitted |
 | HANDY | SEASTAR HARRIER | 39,804 | 2022 | HAKODATE, Japan | MAN-B\&amp;W |  | 4 X 30t CRANES | $ 30.9m | Japanese | resale, prompt delivery |
 | HANDY | PENELOPE T | 32,377 | 2011 | SAMHO, S. Korea | MAN-B\&amp;W | Apr-26 | 4 X 30t CRANES | xs $ 14.0m | Greek | BWTS fitted, at $17,000 p/d till Feb-Apr 2023 |
-
 ## Secondhand Sales
+
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | G DANCER | 4,686 | 1996 | APPLEDORE, United Kingdom | Ma K | Jul-26 | 5,685 | undisclosed | Middle Eastern | Ice 1B |
@@ -295,6 +297,7 @@ In the Handysize sector we had the sale of the "SEASTAR HARRIER" (39,804dwt-blt 
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 18-Nov-22 | 11-Nov-22 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -347,8 +350,8 @@ Newbuilding contracting activity remained firm last week, with a healthy number 
 | 18/Sep/22 | 61 | 33 | 33 | 29 |
 | 18/Oct/22 | 61 | 33 | 33 | 29 |
 | 18/Nov/22 | 60 | 32 | 32 | 29 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Tanker | 160,000 dwt | Samsung HI, S. Korea | 2025 | Greek (Tsakos) | $ 127.5m | shuttle tanker, T/C to Total |
@@ -362,6 +365,7 @@ Newbuilding contracting activity remained firm last week, with a healthy number 
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 18/11/22 | 11/11/22 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -392,8 +396,8 @@ Offered levels from the Indian subcontinent breakers further declined this past 
 | 18/Sep/22 | 590 | 590 | 590 | 255 |
 | 18/Oct/22 | 595 | 595 | 595 | 255 |
 | 18/Nov/22 | 540 | 540 | 540 | 250 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | R. M. THORSTENSON | 2,054 | 3,567 | 1,980 | EQUITABLE SHIPYARDS, USA | FISHING | $ 576/Ldt | Indian |

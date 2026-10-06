@@ -52,25 +52,25 @@ It was a decent week for this segment as demand in the Atlantic help to support 
 
 # Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BDI | 2,374 |  | 2,251 |  | 1,535 | +5.46% |  | +54.66% |
-| BCI | 4,019 |  | 4,245 |  | 1,913 | -5.32% |  | +110.09% |
-| BPI | 2,234 |  | 1,840 |  | 1,723 | +21.41% |  | +29.66% |
-| BSI | 1,326 |  | 1,317 |  | 1,318 | +0.68% |  | +0.61% |
-| BHSI | 781 |  | 759 Dry Bulk (Weekly |  | 694 Values Average) | +2.90% |  | +12.54% |
-| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| CAPE | 180,000 | 67 |  |  | 76 | 62 | 43 | 28 |
-| KAMSARMAX | 82,000 | 36 |  |  | 43 | 37 | 28 | 18 |
-| SUPRAMAX | 56,000 | 33 |  |  | 41 | 34 | 27 | 15 |
-| HANDY | 38,000 | 30 |  |  | 34 | 27 | 20 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |
-|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 |  | 30,000 |  | 19,750 | -6.67% |  | +41.77% |
-| PANAMAX | 75,000 |  | 16,750 |  | 15,500 | +1.49% |  | +9.68% |
-| SUPRAMAX | 58,000 |  | 15,000 |  | 15,750 | 0 |  | -4.76% |
-| HANDYSIZE | 38,000 |  | 14,000 |  | 12,750 | 0 |  | +9.80% |
+| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+|---|---|---|---|---|---|---|---|---|---|
+| BDI | 2,374 |  |  | 2,251 |  | 1,535 | +5.46% |  | +54.66% |
+| BCI | 4,019 |  |  | 4,245 |  | 1,913 | -5.32% |  | +110.09% |
+| BPI | 2,234 |  |  | 1,840 |  | 1,723 | +21.41% |  | +29.66% |
+| BSI | 1,326 |  |  | 1,317 |  | 1,318 | +0.68% |  | +0.61% |
+| BHSI | 781 |  |  | 759 Dry Bulk (Weekly |  | 694 Values Average) | +2.90% |  | +12.54% |
+| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| CAPE | 180,000 |  | 67 |  |  | 76 | 62 | 43 | 28 |
+| KAMSARMAX | 82,000 |  | 36 |  |  | 43 | 37 | 28 | 18 |
+| SUPRAMAX | 56,000 |  | 33 |  |  | 41 | 34 | 27 | 15 |
+| HANDY | 38,000 |  | 30 |  |  | 34 | 27 | 20 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |  |
+|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 | 28,000 |  | 30,000 |  | 19,750 | -6.67% |  | +41.77% |
+| PANAMAX | 75,000 | 17,000 |  | 16,750 |  | 15,500 | +1.49% |  | +9.68% |
+| SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 15,750 | 0 |  | -4.76% |
+| HANDYSIZE | 38,000 | 14,000 |  | 14,000 |  | 12,750 | 0 |  | +9.80% |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -341,7 +341,9 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 This week, the global market for ferrous scrap metal has seen offers decrease by 1-3% across various regions, with the Sub-Continent exhibiting varied levels of interest. India and Pakistan have shown limited enthusiasm for importing scrap, preferring domestic sources for their cost advantages. In contrast, Bangladesh is actively seeking to import more scrap, especially from the USA and Australia, attracted by competitive prices. The Turkish market experienced fluctuations, with initial increases in HMS (80:20) scrap prices to USD378-380/ton CFR, only to see a reversal influenced by sluggishness in the Chinese market. Meanwhile, in the United States, the weekly average for HMS (80:20) scrap dipped to USD378/ton from USD380/ton CFR.
 
-India's demand for imported scrap remains subdued, with shredded scrap offers falling to USD403/ton CFR, and HMS (80:20) to USD377/ton CFR, reflecting a preference for more affordable domestic sources. This sentiment is echoed in Pakistan, where cautious buyers are monitoring global price trends amid a slowdown in the steel market. **Bangladesh, however, is** bucking the trend with increased activity in scrap imports, securing deals from the US and Australia. This comes as domestic rebar and billet prices hold steady, and post-election infrastructure developments spur construction activities. In Pakistan, the scrap market is experiencing a moderate level of activity, with industry players closely monitoring global price trends. The aim is to minimise procurement costs in light of a downturn in finished steel prices. A key figure from a leading mill noted that some buyers are on the sidelines, waiting for scrap prices to bottom out, especially as Turkey faces significant price drops.
+**India's demand for imported scrap remains subdued, with shredded scrap offers falling**
+
+to USD403/ton CFR, and HMS (80:20) to USD377/ton CFR, reflecting a preference for more affordable domestic sources. This sentiment is echoed in Pakistan, where cautious buyers are monitoring global price trends amid a slowdown in the steel market. **Bangladesh, however, is** bucking the trend with increased activity in scrap imports, securing deals from the US and Australia. This comes as domestic rebar and billet prices hold steady, and post-election infrastructure developments spur construction activities. In Pakistan, the scrap market is experiencing a moderate level of activity, with industry players closely monitoring global price trends. The aim is to minimise procurement costs in light of a downturn in finished steel prices. A key figure from a leading mill noted that some buyers are on the sidelines, waiting for scrap prices to bottom out, especially as Turkey faces significant price drops.
 
 # HMS 1/2 & Tangshan Billet
 

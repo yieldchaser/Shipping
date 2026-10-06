@@ -18,6 +18,7 @@ Looking at China's wheat imports in recent years, it is easy to see that the cou
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 09/06/23 WS points | 09/06/23 $/day | 02/06/23 WS points | 02/06/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 55 | 35,856 | 47 | 25,673 | 39.7% | 20,330 | 2,246 |
@@ -38,6 +39,7 @@ Looking at China's wheat imports in recent years, it is easy to see that the cou
 |  | 50k | CARIBS-USG | 285 | 60,931 | 275 | 58,168 | 4.8% | 40,364 | 8,548 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 9/jun/22 | 100 | 150 | 150 |
@@ -53,8 +55,8 @@ Looking at China's wheat imports in recent years, it is easy to see that the cou
 | 9/Apr/23 | 100 | 160 | 300 |
 | 9/May/23 | 90 | 150 | 250 |
 | 9/jun/23 | 80 | 140 | 200 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | DATE | WS points | WS points | WS points | WS points |
@@ -135,6 +137,7 @@ Suezmax T/C earnings averaged \$ 39,482/day, down - \$7,538/day w-o-w. On the Af
 |  | 32K 3yr TC | 9,500 | 9,500 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 9/jun/22 | 2700 | 2600 | 1400 | 1300 | 2600 |
@@ -152,6 +155,7 @@ Suezmax T/C earnings averaged \$ 39,482/day, down - \$7,538/day w-o-w. On the Af
 | 9/jun/23 | 1100 | 1000 | 850 | 800 | 1100 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 9/jun/22 | 25000 | 24000 | 23000 | 22000 |
@@ -168,9 +172,8 @@ Suezmax T/C earnings averaged \$ 39,482/day, down - \$7,538/day w-o-w. On the Af
 | 9/May/23 | 21000 | 16000 | 15000 | 14000 |
 | 9/jun/23 | 10000 | 9000 | 8000 | 7000 |
 
-## TC Rates
-
-| Sector | Tenor | Current | Previous | ±% | Diff | 2022 |
+## Indicative Market Values ($ Million) - Bulk Carriers
+| Sector | Size | May-23 avg | Previous avg | ±% | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize Eco** 180k | 51.5 | 53.4 | -3.5% | 48.3 | 43.1 | 36.1 |
 | **Kamsarmax** 82K | 32.8 | 33.4 | -1.9% | 34.1 | 29.8 | 23.2 |
@@ -214,6 +217,7 @@ Supramax 10TC averaged \$ 8,430/day, down -11.31% w-o-w, while the Handysize 7TC
 | HANDY | AMERICAN BULKER | 36,228 | 2016 | SHIKOKU, Japan | MAN-B\&amp;W | Feb-26 | 4 X 31,2t CRANES | region $ 22.7m | Greek | BWTS fitted, Eco, OHBS, dely OctNov 2023 |
 
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | DURANDE | 1,740 | 2003 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Jun-23 | 2 X 40t CRANES | $ 9.0m | undisclosed |
@@ -225,6 +229,7 @@ Supramax 10TC averaged \$ 8,430/day, down -11.31% w-o-w, while the Handysize 7TC
 The week ending 9th June was generally weaker for the newbuilding market with only 8 firm orders. Units were split evenly between bulkers, tankers, LPG carriers and boxships. Greek owner Medway Shipping ordered a 42,300 dwt bulker from Oshima in Japan for \$32m. Delivery is scheduled for 2026. In tankers, Singapore owner Eastern Pacific placed an order for two 115,000 dwt LR2s with GSI in China. The duo is expected to be in the water in 2026 and is priced at \$70m each. The contract also includes an option for two more identical vessels. This brings the number of LR2s ordered this year to 45, three fewer than the 22 ordered by owners in 2022 and 26 in 2021 combined, suggesting strong interest in this particular type. Avance Gas ordered two firm 40,000 cbm LPG carriers in Nantong at a cost of \$61.5m, with delivery expected in 2025-2026. The vessels will be dual-fuelled with LPG and equipped with shaft generators.
 
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -281,6 +286,7 @@ The demolition market had another solid week with sales mainly in India. In term
 | USD/TRY | 23.40 | 20.96 | 11.6% | 23.64 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MSC KERRY | 45,530 | 15,580 | 1995 | G DYNIA STOCZNIA, Poland | CONTAINER | undisclosed | Indian |  |

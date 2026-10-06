@@ -116,9 +116,13 @@ MEG finished strong as supply tightened due to vessels relocating to the West fo
 
 Clean:
 
-**LR:** LR2s in the MEG closed with a sharp increase in freight rates, with supply shortages expected to continue until the end of March due to prolonged demand growth. TC1 trips to Japan was WS164. In the LR1 segment, similar was also seen with TC5 closing higher at WS180.
+**LR: LR2s in the MEG closed with a sharp increase in freight rates, with supply shortages**
 
-**MR:** The Far East market finished with slightly softer rates as demand improved following the reduced inflows. In the MEG, rates saw improvement with TC17 jumping some 40 points to close at WS262.
+expected to continue until the end of March due to prolonged demand growth. TC1 trips to Japan was WS164. In the LR1 segment, similar was also seen with TC5 closing higher at WS180.
+
+**MR: The Far East market finished with slightly softer rates as demand improved following**
+
+the reduced inflows. In the MEG, rates saw improvement with TC17 jumping some 40 points to close at WS262.
 
 # Baltic Exchange Tanker Indices
 
@@ -148,17 +152,17 @@ US tariff policies, including USTR301 investigations, continue to create signifi
 
 # Containers Values
 
-| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| (BY TEU) | GEARLESS | CONTRACT | DELIVERY | YEARS |
-| 900 ~ 1,200 | Gearless | 20 | 25 | 11 |
-| 1,600 ~ 1,850 | Gearless | 28 | 33 | 17 |
-| 2,700 ~ 2,900 | Gearless | 37 | 42 | 26 |
-| 5,300 | Gearless | 58 | 77 | - |
-| *(amount in USD | million) |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| CONTAINERS | GEARED / | NB | NB PROMPT |  |  | 15 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | 5 YEARS | 10 YEARS |  |
+| (BY TEU) | GEARLESS | CONTRACT | DELIVERY |  |  | YEARS |
+| 900 ~ 1,200 | Gearless | 20 | 25 | 20 | 15 | 11 |
+| 1,600 ~ 1,850 | Gearless | 28 | 33 | 28 | 22 | 17 |
+| 2,700 ~ 2,900 | Gearless | 37 | 42 | 37 | 30 | 26 |
+| 5,300 | Gearless | 58 | 77 | 67 | 61 | - |
+| *(amount in USD | million) |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
 
 S&P Containers Report
 
@@ -317,7 +321,9 @@ Mills operated at reduced capacity amid weak steel demand and ongoing liquidity
 
 constraints. Shredded scrap from the UK and EU was offered at US$385-390/ton CFR Qasim, though most buyers capped bids at $385-388/t. UAE-origin shredded was quoted higher at US$390-395/ton CFR, but buyer interest was minimal. Market participants noted that currency volatility, rising freight costs, and falling domestic rebar prices were further dampening mill margins. While a recovery is expected after Eid, for now, the market remains under pressure. In Bangladesh, the market remained quiet, with interest in UK and European-origin material particularly low. Due to shorter lead times and more favourable pricing, buyers preferred sourcing from closer markets such as Australia, Hong Kong, and Singapore. Australian shredded was heard at US$380-385/ton CFR Chattogram, while HMS 90:10 was offered around US$365-367/ton CFR. Like its neighbours, Bangladesh anticipates a pickup in demand after Ramadan, with improved activity projected for April and May.
 
-Turkey's imported scrap market maintained stability despite headwinds from currency volatility and political unrest. A US-origin bulk cargo was reported concluded at $381/t CFR for HMS 80:20 and US$401/ton CFR for shredded/bonus grades. These prices are considered repeatable in the near term. US-origin HMS 80:20 was generally assessed in the US$380-385/ton CFR range, although Turkish buyers continued to bid lower, around US$375/ton CFR-levels which most sellers resisted. European exporters targeted similar ranges, with offers at US$380-385/ton CFR, and US-origin material heard at US$385-390/ton CFR.
+**Turkey's imported scrap market maintained stability despite headwinds from currency**
+
+volatility and political unrest. A US-origin bulk cargo was reported concluded at $381/t CFR for HMS 80:20 and US$401/ton CFR for shredded/bonus grades. These prices are considered repeatable in the near term. US-origin HMS 80:20 was generally assessed in the US$380-385/ton CFR range, although Turkish buyers continued to bid lower, around US$375/ton CFR-levels which most sellers resisted. European exporters targeted similar ranges, with offers at US$380-385/ton CFR, and US-origin material heard at US$385-390/ton CFR.
 
 # HMS 1/2 & Tangshan Billet
 
@@ -327,7 +333,9 @@ Turkey's imported scrap market maintained stability despite headwinds from curre
 
 # Commodities (Weekinfocus)
 
-Iron ore futures declined on Friday and were on track for a weekly loss, driven by growing concerns about demand in China amid an intensifying global trade war. The most active May iron ore contract on China's Dalian Commodity Exchange ended daytime trading 0.33% lower at 757.5 yuan (US$104.52) per metric ton, marking a weekly decline of 3.8% after hitting its lowest level since January 10. Similarly, the benchmark April iron ore on the Singapore Exchange fell 0.85% to US$99.65 per ton, touching its lowest point since March 11 and recording a 4.2% weekly drop. Market sentiment weakened following reports that China is considering establishing funds to create a compensation system for eliminating outdated steel capacity, as mentioned by CITIC Pacific Special Steel chairman Qian Gang. Analysts interpreted this as further evidence of Beijing's serious commitment to addressing the steel industry's overcapacity issues this year, which has dampened appetites for steelmaking raw materials. This follows China's announcement at its annual parliament meeting that it would restructure its steel sector through output cuts, though specific details were not provided. Despite these downward pressures, an uptick in near-term demand limited Friday's losses. According to a survey, average daily hot metal output-a key indicator of iron ore demand-increased by 2.5% week-on-week to 2.36 million tons as of March 20, reaching its highest level since August 2024. Meanwhile, other steelmaking ingredients on the Dalian Commodity Exchange retreated, with coking coal and coke falling 1.8% and 1.76% respectively, while steel benchmarks on the Shanghai Futures Exchange traded within narrow ranges.
+**Iron ore futures declined on Friday and were on track for a weekly loss, driven by growing**
+
+concerns about demand in China amid an intensifying global trade war. The most active May iron ore contract on China's Dalian Commodity Exchange ended daytime trading 0.33% lower at 757.5 yuan (US$104.52) per metric ton, marking a weekly decline of 3.8% after hitting its lowest level since January 10. Similarly, the benchmark April iron ore on the Singapore Exchange fell 0.85% to US$99.65 per ton, touching its lowest point since March 11 and recording a 4.2% weekly drop. Market sentiment weakened following reports that China is considering establishing funds to create a compensation system for eliminating outdated steel capacity, as mentioned by CITIC Pacific Special Steel chairman Qian Gang. Analysts interpreted this as further evidence of Beijing's serious commitment to addressing the steel industry's overcapacity issues this year, which has dampened appetites for steelmaking raw materials. This follows China's announcement at its annual parliament meeting that it would restructure its steel sector through output cuts, though specific details were not provided. Despite these downward pressures, an uptick in near-term demand limited Friday's losses. According to a survey, average daily hot metal output-a key indicator of iron ore demand-increased by 2.5% week-on-week to 2.36 million tons as of March 20, reaching its highest level since August 2024. Meanwhile, other steelmaking ingredients on the Dalian Commodity Exchange retreated, with coking coal and coke falling 1.8% and 1.76% respectively, while steel benchmarks on the Shanghai Futures Exchange traded within narrow ranges.
 
 Iron Ore
 

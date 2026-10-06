@@ -65,6 +65,7 @@ The Baltic Exchange
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 33 | -9,981 | 34 | -7,761 | -28.6% | 2,246 | 52,119 |
@@ -84,14 +85,14 @@ The Baltic Exchange
 | Dirty | 55K | UKC-USG | 114 | 2,143 | 111 | 2,591 | -17.3% | 2,822 | 12,120 |
 |  | 55K | MED-USG | 114 | 2,186 | 111 | 2,588 | -15.5% | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 200 | 20,123 | 186 | 17,299 | **16.3%** | 8,548 | 17,651 |
-
 ## Indicative Period Charters
+
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | FOLEGANDROS | 2018 | 159,221 dwt |  |  |
-| 6 mos | BLUE GRASS MARINER | 2021 | 50,275 dwt |  |  |
-
+| 6 mos | FOLEGANDROS | 2018 | 159,221 dwt | $18,000/day | Vitol |
+| 6 mos | BLUE GRASS MARINER | 2021 | 50,275 dwt | $14,500/day | Ampol |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 11/Feb/21 | 50 | 80 | 100 |
@@ -107,8 +108,8 @@ The Baltic Exchange
 | 11/Dec/21 | 50 | 85 | 140 |
 | 11/Jan/22 | 50 | 80 | 130 |
 | 11/Feb/22 | 50 | 80 | 130 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 11/Feb/21 | 100 | 120 | 140 | 160 |
@@ -124,8 +125,8 @@ The Baltic Exchange
 | 11/Dec/21 | 100 | 120 | 140 | 250 |
 | 11/Jan/22 | 100 | 120 | 140 | 160 |
 | 11/Feb/22 | 100 | 120 | 140 | 160 |
-
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300k 1yr TC** | 26,000 | 27,000 | -3.7% | -1000 | 25,684 | 42,038 |
@@ -140,8 +141,8 @@ The Baltic Exchange
 |  | **52k 3yr TC** | 13,750 | 13,750 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 11,000 | 11,000 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | Feb-22 avg | Jan-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300KT DH** | 70.5 | 72.3 | -2.4% | 69.7 | 71.5 | 72.1 |
@@ -181,12 +182,13 @@ In the MR2 sector we had sale of the "JUPITER EXPRESS" (45,950dwt-blt '12, Japan
 | BHSI | 1,168 | $21,018 | 990 | $17,819 | 178 | 18.0% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | FAR EASTERN JUPITER | 2007 | 82,655 dwt |  |  |
-| 4 to 6 mos | POAVOSA WISDOM VI | 2011 | 28,213 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 to 6 mos | FAR EASTERN JUPITER | 2007 | 82,655 dwt | Bin Qasim 15 Feb | $26,000/day | cnr |
+| 4 to 6 mos | POAVOSA WISDOM VI | 2011 | 28,213 dwt | Japan 17/25 Feb | $23,500/day | cnr |
 
 ## TC Rates
+
 | Sector | Tenor | 11/02/2022 | 04/02/2022 | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | 180K 6mnt TC | 25,000 | 20,500 | 22.0% | 4,500 | 32,684 | 15,361 |
@@ -203,6 +205,7 @@ In the MR2 sector we had sale of the "JUPITER EXPRESS" (45,950dwt-blt '12, Japan
 |  | 32K 3yr TC | 15,000 | 13,250 | 13.2% | 1,750 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 11/Feb/21 | 2000 | 2200 | 2100 | 1500 | 1800 |
@@ -220,6 +223,7 @@ In the MR2 sector we had sale of the "JUPITER EXPRESS" (45,950dwt-blt '12, Japan
 | 11/Feb/22 | 1800 | 2000 | 1900 | 1600 | 1700 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 11/Feb/21 | 15000 | 16000 | 17000 | 14000 |
@@ -287,6 +291,7 @@ In the Handysize sector we had the sale of the "MAJESTY" (34,375dwt-blt '11, S. 
 | HANDY | MAJESTY | 34,375 | 2011 | DAE SUN, S. Korea | MAN-B\&amp;W | Mar-22 | 4 X 30t CRANES | $ 15.5m | Greek (Loadline) | BWTS fitted, Tier II |
 
 ## Containers
+
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MARITIME SINCHAI | 64,928 | 2017 | OSHIMA, Japan | MAN-B\&amp;W | Feb-22 | 2 X 75t &amp; 2 X 40t CRANES |  |  | MPP |
@@ -301,6 +306,7 @@ In the Handysize sector we had the sale of the "MAJESTY" (34,375dwt-blt '11, S. 
 
 # Intermodal Secondhand Sales
 ## Containers
+
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUB PMAX | VIVALDI | 2,546 | 2010 | JIANGSU YANGZIJJIANG, China | Wartsila | Jan-25 | 3 X 45t Cranes | $ 18.0m | undisclosed |  |
@@ -319,6 +325,7 @@ In the Handysize sector we had the sale of the "MAJESTY" (34,375dwt-blt '11, S. 
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
+
 | Sector | Size | 11/02/2022 | 04/02/2022 | ±% | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -375,8 +382,8 @@ The newbuilding market remains in a good shape, while despite last week's decrea
 | 11/Dec/21 | 60 | 34 | 32 | 26 |
 | 11/Jan/22 | 60 | 34 | 33 | 26 |
 | 11/Feb/22 | 60 | 34 | 33 | 26 |
-
 ## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Tanker | 54,800 dwt | GSI, China | 2024 | Japanese (Mitsui OSK Lines) | undisclosed | ice class |
@@ -390,6 +397,7 @@ The newbuilding market remains in a good shape, while despite last week's decrea
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 11/02/2022 | 04/02/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -420,8 +428,8 @@ The average scrap levels across the main Indian-subcontinent demo nations have s
 | 11/Dec/21 | 600 | 560 | 580 | 330 |
 | 11/Jan/22 | 620 | 580 | 600 | 335 |
 | 11/Feb/22 | 640 | 590 | 620 | 340 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CARNIVAL SENSATION | 6,870 | 28,760 | 1993 | KVAERNER MASA HELSINKI, Finland | PASSENGER | undisclosed | Turkish | as-is Miami, EU-HKC Recycling |

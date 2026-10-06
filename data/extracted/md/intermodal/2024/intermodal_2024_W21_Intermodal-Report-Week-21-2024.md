@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 *By Chara Georgousi, Research Analyst*
 
@@ -17,6 +19,7 @@ Looking ahead, the container shipping market is expected to remain volatile. Whi
 
 # Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 31/05/24 WS points | 31/05/24 $/day | 24/05/24 WS points | 24/05/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 59 | 37,896 | 69 | 50,448 | -24.9% | 39,466 | 20,330 |
@@ -34,14 +37,14 @@ Looking ahead, the container shipping market is expected to remain volatile. Whi
 | Dirty | 55K | UKC-USG | 145 | 17,083 | 145 | 17,155 | -0.4% | 27,274 | 19,982 |
 |  | 55K | MED-USG | 145 | 17,483 | 145 | 17,575 | -0.5% | 27,060 | 21,231 |
 |  | 50k | CARIBS-USG | 180 | 25,239 | 185 | 26,804 | -5.8% | 46,194 | 40,364 |
-
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 22-25 mos | TURMOIL | 2011 | 49,997 dwt |  |  |
-| 22-25 mos | LUCTOR | 2011 | 50,383 dwt |  |  |
 
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 22-25 mos | TURMOIL | 2011 | 49,997 dwt | DEL EAST JUL/24 | $28,500/day | ST Shipping |
+| 22-25 mos | LUCTOR | 2011 | 50,383 dwt | DEL EAST JUL/24 | $28,500/day | ST Shipping |
 ## TC Rates
+
 | Sector | Tenor | 31/05/24 | 24/05/24 | ±% | Diff | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 52,000 | 52,000 | 0.0% | 0 | 48,601 | 34,683 |
@@ -56,8 +59,8 @@ Looking ahead, the container shipping market is expected to remain volatile. Whi
 |  | 52k 3yr TC | 27,000 | 27,000 | 0.0% | 0 | 25,152 | 16,426 |
 | Handy | 36k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 25,760 | 18,601 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 18,200 | 14,585 |
-
 ## Indicative Market Values ($ Million) - Tankers
+
 | Sector | Size | May-24 avg | Apr-24 avg | ±% | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 114.0 | 112.8 | **1.1%** | 99.5 | 80.2 | 69.7 |
@@ -65,8 +68,8 @@ Looking ahead, the container shipping market is expected to remain volatile. Whi
 | **Suezmax** | **Aframax** | **110KT DH** | **72.0** | **0.7%** | 64.4 | 50.5 | 38.7 |
 | LR1 | 75KT DH | 52.0 | 52.0 | 0.0% | 49.2 | 38.6 | 31.2 |
 | **MR** | **52KT DH** | **44.5** | **44.5** | **0.0%** | 41.4 | 34.8 | 27.6 |
-
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 31/May/23 | 100 | 120 | 180 |
@@ -82,8 +85,8 @@ Looking ahead, the container shipping market is expected to remain volatile. Whi
 | 31/Mar/24 | 70 | 130 | 190 |
 | 30/Apr/24 | 80 | 140 | 200 |
 | 31/May/24 | 90 | 150 | 210 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 31/May/23 | 150 | 160 | 170 | 180 |
@@ -128,10 +131,10 @@ The tanker chartering market experienced mixed dynamics last week, with VLCC rat
 | BHSI | 720 | $12,966 | 688 | $12,380 | **32** | **4.7%** | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 3/5 mos | ADMIRAL REIWA | 2021 | 82,026 dwt |  |  |
-| 8/10 mos | Century Shanghai | 2018 | 81,738 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 3/5 mos | ADMIRAL REIWA | 2021 | 82,026 dwt | dely Kunsan 27 May redel worldwide | $19,500/day | Norden |
+| 8/10 mos | Century Shanghai | 2018 | 81,738 dwt | dely Hong Kong 5/6 Jun redel worldwide | $18,750/day | Norden |
 
 ## TC Rates
 | Sector | Tenor | 31/05/24 | 24/05/24 | ±% | Diff | 2023 |
@@ -146,6 +149,7 @@ The tanker chartering market experienced mixed dynamics last week, with VLCC rat
 |  | **32K 3yr TC** | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 31/May/23 | 1200 | 1100 | 1000 | 800 | 1000 |
@@ -163,6 +167,7 @@ The tanker chartering market experienced mixed dynamics last week, with VLCC rat
 | 31/May/24 | 2500 | 2000 | 1600 | 1200 | 1500 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 31/May/23 | 12000 | 13000 | 14000 | 11000 |
@@ -202,6 +207,7 @@ Supramax 10TC averaged \$ 14,208/day down -5.24% w-o-w, while the Handysize 7TC 
 # Secondhand Sales
 
 ## Secondhand Sales
+
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR | STOLT SISTO | 46,011 | 2010 | SLS, S. Korea | MAN-B\&amp;W | Mar-25 | DH | $ 28.5m | Chinese |
@@ -283,6 +289,7 @@ The current recycling market is characterized by limited activity, resulting in 
 | USD/TRY | 32.23 | 32.20 | 0.1% | 32.49 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ANDHIKA NARESWARI | 71,290 | 10,308 | 1996 | NAMURA, Japan | BC | 515 | undisclosed |

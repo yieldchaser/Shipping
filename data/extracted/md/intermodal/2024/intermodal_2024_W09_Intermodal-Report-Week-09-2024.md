@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 *By Fotis Kanatas, Research Analyst*
 
@@ -21,6 +23,7 @@ Overall, Russia's actions highlight the complexity and dynamics at play in the g
 
 ## Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 01/03/2024 WS points | 01/03/2024 $/day | 23/02/2024 WS points | 23/02/2024 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 61 | 39,459 | 67 | 45,111 | -12.5% | 39,466 | 20,330 |
@@ -40,12 +43,12 @@ Overall, Russia's actions highlight the complexity and dynamics at play in the g
 |  | 50k | CARIBS-USG | 283 | 51,266 | 349 | 68,591 | -25.3% | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 1/3 mos | SANMAR SWARA | 2006 | 115,468 dwt |  |  |
-| 2 mos | SUNFLYTE | 2001 | 37,244 dwt |  |  |
-
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1/3 mos | SANMAR SWARA | 2006 | 115,468 dwt | DEL EAST FEB/24 | $20,500/day | ADMIC |
+| 2 mos | SUNFLYTE | 2001 | 37,244 dwt | DEL EAST FEB/24 | $35,000/day | LDC |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 1/Mar/23 | 80 | 150 | 380 |
@@ -61,8 +64,8 @@ Overall, Russia's actions highlight the complexity and dynamics at play in the g
 | 1/Jan/24 | 60 | 110 | 140 |
 | 1/Feb/24 | 70 | 130 | 390 |
 | 1/Mar/24 | 80 | 140 | 180 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 1/Mar/23 | 160 | 180 | 170 | 170 |
@@ -130,12 +133,13 @@ Dry Bulk Market
 | BHSI | 722 | $13,005 | 628 | $11,299 | 94 | 15.1% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 7/9 mos | JANG MING 82 | 2011 | 58,018 dwt |  |  |
-| 12 mos | BBG LIUZHOU | 2015 | 82,293 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 7/9 mos | JANG MING 82 | 2011 | 58,018 dwt | dely Kwangyang prompt redel PG-Japan | $15,400/day | Ace Pacific |
+| 12 mos | BBG LIUZHOU | 2015 | 82,293 dwt | dely South China 15 Mar redel worldwide | $19,000/day | Louis Dreyfus |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 1/Mar/23 | 1500 | 1200 | 1000 | 800 | 1300 |
@@ -153,6 +157,7 @@ Dry Bulk Market
 | 1/Mar/24 | 2100 | 1300 | 1000 | 700 | 1550 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 1/Mar/23 | 14000 | 12000 | 11000 | 10000 |
@@ -206,6 +211,7 @@ The Supramax and Handysize segments, both ended the week on a positive note. The
 ## Secondhand Sales
 
 ## TC Rates
+
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | ECO SEAS | 299,998 | 2016 | DAEWOO, S. Korea | MAN-B\&amp;W | Oct-26 | DH |
@@ -293,6 +299,7 @@ The global demolition market continues to face supply constraints in key recycli
 | USD/TRY | 31.31 | 30.97 | 1.1% | 30.65 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ISL STAR | 74,461 | 10,177 | 1999 | SASEBO, Japan | BC | 528 | Bangladeshi |  |

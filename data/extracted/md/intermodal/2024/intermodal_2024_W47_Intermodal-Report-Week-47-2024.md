@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Fotis Kanatas, Research Analyst**
 
@@ -17,6 +19,7 @@ In conclusion, China's expanded crude import quotas provide a positive outlook f
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 22/11/24 WS points | 22/11/24 $/day | 15/11/24 WS points | 15/11/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 55 | 34,733 | 57 | 37,514 | -7.4% | 39,466 | 20,330 |
@@ -36,12 +39,12 @@ In conclusion, China's expanded crude import quotas provide a positive outlook f
 |  | 50k | ARA-UKC | 166 | 16,020 | 121 | 4,329 | **270.1%** | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 6 mos | MAERSK AEGEAN | 2013 | 37,538 dwt |  |  |
-| 6 mos | SKY DWELLER | 2004 | 47,333 dwt |  |  |
-
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 mos | MAERSK AEGEAN | 2013 | 37,538 dwt | DELY EAST NOV/24 | $26,500/day | Cepsa |
+| 6 mos | SKY DWELLER | 2004 | 47,333 dwt | DELY EAST NOV/24 | $22,750/day | Pertamina |
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 22/Nov/23 | 150 | 120 | 180 |
@@ -57,8 +60,8 @@ In conclusion, China's expanded crude import quotas provide a positive outlook f
 | 22/Sep/24 | 70 | 110 | 160 |
 | 22/Oct/24 | 100 | 110 | 150 |
 | 22/Nov/24 | 100 | 110 | 140 |
-
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 22/Nov/23 | 120 | 150 | 180 | 200 |
@@ -118,10 +121,10 @@ The market saw increases in rates last week in general, with smaller sizes leadi
 | BHSI | 670 | $12,055 | 685 | $12,337 | -15 | -2.3% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 24 mos | ROSANNA | 2024 | 82,510 dwt |  |  |
-| 11/13 mos | ETG MISHIMA | 2021 | 81,957 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 24 mos | ROSANNA | 2024 | 82,510 dwt | dely China end Nov redel worldwide | $15,000/day | Comerge |
+| 11/13 mos | ETG MISHIMA | 2021 | 81,957 dwt | dely CJK 28 Nov redel worldwid | $14,850/day | Asyad Shipping |
 
 ## TC Rates
 | Sector | Tenor | 22/11/24 | 15/11/24 | ±% | Diff | 2023 | 2022 |
@@ -136,6 +139,7 @@ The market saw increases in rates last week in general, with smaller sizes leadi
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 22/Nov/23 | 0 | 0 | 0 | 0 | 0 |
@@ -153,6 +157,7 @@ The market saw increases in rates last week in general, with smaller sizes leadi
 | 22/Nov/24 | 2500 | 1400 | 1200 | 800 | 1600 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 22/Nov/23 | 15000 | 12000 | 10000 | 8000 |

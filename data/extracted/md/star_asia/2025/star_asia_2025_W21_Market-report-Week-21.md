@@ -113,9 +113,13 @@ MEG market closed on a firm note this week, supported by fixture activity and li
 
 Clean:
 
-**LR:** LR2 in the MEG saw a stagnant this week, as fixing activity slowed. Demand weakened in both MEG to West and East directions, with TC1 closing at WS154. In the LR1, MEG/Japan closed the week at WS170's.
+**LR: LR2 in the MEG saw a stagnant this week, as fixing activity slowed. Demand weakened**
 
-**MR:** The Far East market maintained a relatively quiet outlook this week. In the MEG, TC17 to East Africa closed higher to WS279 jumping some 20 points.
+in both MEG to West and East directions, with TC1 closing at WS154. In the LR1, MEG/Japan closed the week at WS170's.
+
+**MR: The Far East market maintained a relatively quiet outlook this week. In the MEG, TC17**
+
+to East Africa closed higher to WS279 jumping some 20 points.
 
 # Baltic Exchange Tanker Indices
 
@@ -362,7 +366,9 @@ This subdued market sentiment stems primarily from slow domestic rebar demand, w
 
 # Commodities (Weekinfocus)
 
-Metal prices broadly declined this week as a risk-off sentiment gripped global markets, compounded by rising concerns over weakening demand from China. Increasing inventories of key metals such as aluminium and copper have added to market pressure, signalling softening industrial activity. However, supply-side constraints may provide some downside support. Commodity trader Mercuria Energy warned that supply deficits could emerge this year in both copper concentrate and refined copper markets. Meanwhile, uncertainty stemming from former President Donald Trump's proposed tariffs has prompted major resource companies to postpone investment decisions on new projects, further clouding the sector's near-term outlook. Copper managed to end the session higher amid concerns of imminent shortages. Mercuria Energy warned that deficits in both the copper concentrate and refined market could develop this year.
+**Metal prices broadly declined this week as a risk-off sentiment gripped global markets,**
+
+compounded by rising concerns over weakening demand from China. Increasing inventories of key metals such as aluminium and copper have added to market pressure, signalling softening industrial activity. However, supply-side constraints may provide some downside support. Commodity trader Mercuria Energy warned that supply deficits could emerge this year in both copper concentrate and refined copper markets. Meanwhile, uncertainty stemming from former President Donald Trump's proposed tariffs has prompted major resource companies to postpone investment decisions on new projects, further clouding the sector's near-term outlook. Copper managed to end the session higher amid concerns of imminent shortages. Mercuria Energy warned that deficits in both the copper concentrate and refined market could develop this year.
 
 **Iron ore futures declined this week as fresh data pointed to continued weakness in**
 

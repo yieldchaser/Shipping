@@ -82,8 +82,8 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | ALKAIOS | 2016 | 50,137 dwt |  |  |
-| 36 mos | ARCHON | 2016 | 50,100 dwt |  |  |
+| 36 mos | ALKAIOS | 2016 | 50,137 dwt | $20,000/day | Trafigura Beheer BV |
+| 36 mos | ARCHON | 2016 | 50,100 dwt | $20,000/day | Trafigura Beheer BV |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
@@ -102,6 +102,7 @@ Shanghai 200122 China
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
 
 ### Dirty WS Rates (1-Year Trend)
+
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 16/Sep/21 | 30 | 80 | 100 |
@@ -119,6 +120,7 @@ Shanghai 200122 China
 | 16/Sep/22 | 90 | 180 | 270 |
 
 ### Clean WS Rates (1-Year Trend)
+
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 16/Sep/21 | 100 | 110 | 120 | 130 |
@@ -176,11 +178,12 @@ In the MR2 sector we had the sale of the "SEABRIGHT" (46,159dwt-blt '06, S. Kore
 | BHSI | 905 | $16,281 | 873 | $15,709 | **32** | **3.6%** | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 7-9 mos | TAHO AUSTRALIA | 2019 | 81,320 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 7-9 mos | TAHO AUSTRALIA | 2019 | 81,320 dwt | Shanghai 10/20 Oct | $18,000/day | cnr |
 
 ## TC Rates
+
 | Sector | Tenor | 16/09/2022 | 09/09/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 16,500 | 14,750 | **11.9%** | **1,750** | 32,684 | 15,361 |
@@ -197,6 +200,7 @@ In the MR2 sector we had the sale of the "SEABRIGHT" (46,159dwt-blt '06, S. Kore
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 16/Sep/21 | 4000 | 3500 | 3200 | 1800 | 6000 |
@@ -214,6 +218,7 @@ In the MR2 sector we had the sale of the "SEABRIGHT" (46,159dwt-blt '06, S. Kore
 | 16/Sep/22 | 1600 | 2300 | 1800 | 1300 | 1600 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 16/Sep/21 | 35000 | 34000 | 33000 | 32000 |
@@ -261,6 +266,7 @@ In the Handysize sector we had the sale of the "MAPLE AMBITION" (35,513dwt-blt '
 
 # Intermodal Secondhand Sales
 ## Tankers
+
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | HILWAH | 316,808 | 2002 | HYUNDAI ULSAN, S. Korea | B\&W | Dec-22 | DH | $ 37.8m | Chinese |  |
@@ -357,6 +363,7 @@ In the newbuilding segment, orders surfaced across almost all sectors, with crud
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
+
 | Markets | 16/09/2022 | 09/09/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -387,8 +394,8 @@ It seems that the demolition market activity has yet to catch a positive momentu
 | 16/Jul/22 | 560 | 550 | 560 | 250 |
 | 16/Aug/22 | 570 | 560 | 570 | 255 |
 | 16/Sep/22 | 575 | 565 | 575 | 250 |
-
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DAWN LUCK | 6,349 | 2,012 | 1991 | NISHI, Japan | TANKER | $ 672/Ldt | Bangladeshi |  |

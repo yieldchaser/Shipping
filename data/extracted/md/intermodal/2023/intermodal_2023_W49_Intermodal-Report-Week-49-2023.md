@@ -1,3 +1,5 @@
+# Weekly Market Report
+
 ## Market Insight
 **By Chara Georgousi, Research Analyst**
 
@@ -19,6 +21,7 @@ In summary, the Busan International Port Conference provided essential insights 
 
 # Intermodal Tanker Market
 ## Spot Rates
+
 | Sector | Size | Routes | 08/12/23 WS points | 08/12/23 $/day | 01/12/23 WS points | 01/12/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 66 | 50,621 | 67 | 48,277 | 4.9% | 20,330 | 2,246 |
@@ -41,9 +44,8 @@ In summary, the Busan International Port Conference provided essential insights 
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | LARGO MARINER | 20182023 | 49,992 dwt |  |  |
-
-### Dirty WS Rates (1-Year Trend)
+| 24 mos | LARGO MARINER | 20182023 | 49,992 dwt | $28,000/day | PMI 49,808 dwt Reliance |
+### 1-Year Forward WS Rates - Dirty
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -59,8 +61,7 @@ In summary, the Busan International Port Conference provided essential insights 
 | 8/Oct/23 | 50 | 150 | 150 |
 | 8/Nov/23 | 50 | 150 | 150 |
 | 8/Dec/23 | 50 | 150 | 150 |
-
-### Clean WS Rates (1-Year Trend)
+### 1-Year Forward WS Rates - Clean
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -126,12 +127,13 @@ Suezmax T/C earnings averaged \$51,229/day, up + \$2,262/day w-o-w. On the Afram
 | BHSI | 872 | $15,700 | 773 | $13,908 | **99** | **12.9%** | 1,181 | 1,424 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 5 to 7 mos | STAR FLAME | 2011 | 80,448 dwt |  |  |
-| 3/5 mos | ERACLEA | 2010 | 54,876 dwt |  |  |
+| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- | --- |
+| 5 to 7 mos | STAR FLAME | 2011 | 80,448 dwt | dely CJK 5/7 Dec. redel worldwide | $14,250/day | Goldbeam |
+| 3/5 mos | ERACLEA | 2010 | 54,876 dwt | dely Ho Chi Minh 3/7 Dec redel worldwide | $12,000/day | Norden |
 
 ### Baltic Indices (1-Year Trend)
+
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 8/Dec/22 | 1500 | 1400 | 1300 | 800 | 1600 |
@@ -148,6 +150,7 @@ Suezmax T/C earnings averaged \$51,229/day, up + \$2,262/day w-o-w. On the Afram
 | 8/Dec/23 | 3800 | 3200 | 2000 | 1000 | 3400 |
 
 ### Average T/C Rates (1-Year Trend)
+
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 8/Dec/22 | 18000 | 12000 | 10000 | 8000 |
@@ -293,6 +296,7 @@ It has been a week of very slow activity in the recycling market with few vintag
 | **USD/TRY** | 28.93 | 28.90 | **0.10%** | 29.09 |
 
 ## Demolition Sales
+
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ONE STORY | 45,406 | 7,775 | 1995 | TSUNEISHI, Japan | BC | $ 530/Ldt | INDIA |  |
