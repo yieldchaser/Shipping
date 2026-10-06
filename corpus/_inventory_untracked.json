@@ -12,8 +12,8 @@
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 15,
+      "untracked_bytes": 2907833
     },
     {
       "path": "corpus/04-poten",
@@ -49948,6 +49948,16 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-06_10626wetreport2026llk784.html",
+      "bytes": 6440,
+      "sha256": "69025ba5418f94f7332de9fdfb6c7ad6b4953dfef33c97a0d83feb62a4cc2581"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-06_10626wetreport2026llk784.md",
+      "bytes": 5115,
+      "sha256": "7ee4d259221f9c78b4d2c0742e3a4dbc0a909dd54777b4f6dc2f1097816cc465"
+    },
+    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -49991,6 +50001,26 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-06_10626wetreport2026llk784_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_603733109c55.png",
+      "bytes": 200194,
+      "sha256": "8774dd8991209640afaeb3685197a8afa89d42cf04bbccb5bb08888d09385c20"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-06_10626wetreport2026llk784_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98da9ff0227a.png",
+      "bytes": 96731,
+      "sha256": "b9d71a2bb67e7bfca52b5bb8067f1db8e1cab3fb816a39f265e23068bce99088"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-06_10626wetreport2026llk784_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6345e7d14ad.png",
+      "bytes": 49281,
+      "sha256": "4505e2738a3f38f6122c4937e98ed11955824f0ff39a7fbf45191649b9d3c7ce"
+    },
+    {
+      "path": "corpus/03-breakwave/tankers/2026/2026-10-06_Breakwave_Tankers.pdf",
+      "bytes": 514086,
+      "sha256": "b0889f3a267b6987972aa733b7c6516967e61fd303b35aa3efc46fc5f95aeffa"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",

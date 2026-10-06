@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 14:40:46Z",
+  "updated_at": "2026-10-06 21:15:19Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -911,7 +911,7 @@
     {
       "file": "baltic_ncfi_series.csv",
       "target_metric": "Ningbo Containerised Freight Index (NCFI) weekly route benchmark index values and WoW changes",
-      "rows": 2036,
+      "rows": 2041,
       "columns": [
         "issue_date",
         "year",
@@ -1215,7 +1215,7 @@
     {
       "file": "breakwave_fundamentals_series.csv",
       "target_metric": "Dry Bulk and Tanker supply/demand fundamentals, vessel orders, and freight rate indicators",
-      "rows": 2745,
+      "rows": 2755,
       "columns": [
         "issue_date",
         "sector",
@@ -1230,7 +1230,7 @@
     {
       "file": "breakwave_insights_metadata.csv",
       "target_metric": "Breakwave Insights articles catalog, image references, tags, and full text metadata",
-      "rows": 3213,
+      "rows": 3214,
       "columns": [
         "issue_date",
         "year",
@@ -4037,13 +4037,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 630357,
+  "total_master_stacked_rows": 630373,
   "total_master_series_csvs": 175,
-  "total_stacked_rows": 630357,
+  "total_stacked_rows": 630373,
   "total_series_csvs": 175,
   "total_master_workbooks": 1,
   "total_series_count": 175,
-  "total_rows_extracted": 630662,
+  "total_rows_extracted": 630678,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4058,7 +4058,7 @@
     "athenian_indicative_demolition_series.csv": 3052,
     "athenian_market_commentary_series.csv": 6,
     "athenian_yearly_demolition_volume_series.csv": 4026,
-    "baltic_ncfi_series.csv": 2036,
+    "baltic_ncfi_series.csv": 2041,
     "baltic_reports_metadata.csv": 2228,
     "bancosta_commodities_series.csv": 8555,
     "bancosta_container_fixtures_series.csv": 293,
@@ -4074,8 +4074,8 @@
     "best_oasis_demolition_series.csv": 867,
     "best_oasis_exchange_rates_series.csv": 167,
     "best_oasis_market_commentary_series.csv": 1031,
-    "breakwave_fundamentals_series.csv": 2745,
-    "breakwave_insights_metadata.csv": 3213,
+    "breakwave_fundamentals_series.csv": 2755,
+    "breakwave_insights_metadata.csv": 3214,
     "carriers_bda_series.csv": 375,
     "carriers_bspa_series.csv": 749,
     "carriers_demolition_series.csv": 178,
