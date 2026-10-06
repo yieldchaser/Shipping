@@ -1,0 +1,121 @@
+{
+ "issue_date": "2022-01-07",
+ "stem": "other_2022_07-Jan-2022",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2022\\other_2022_07-Jan-2022.pdf",
+ "tables": {
+  "deals": [
+   {
+    "vessel_name": "Jin Qi",
+    "type": "Post Panamax",
+    "dwt_raw": "93,100",
+    "yard": "Jinling Jiangsu",
+    "built_year": "2012",
+    "price_raw": "17.3",
+    "comments": "At Auction. SS/DD due.",
+    "vv_raw": "21.8",
+    "buyer": "Chinese",
+    "seller": "China Ship Fund",
+    "section": "BULKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Lowlands Light",
+    "type": "Panamax",
+    "dwt_raw": "87,600",
+    "yard": "Oshima",
+    "built_year": "2017",
+    "price_raw": "32.8",
+    "comments": "SS/DD due",
+    "vv_raw": "34.2",
+    "buyer": "Undisclosed",
+    "seller": "Cobelfret",
+    "section": "BULKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Scarlet Albatross",
+    "type": "Panamax",
+    "dwt_raw": "81,900",
+    "yard": "Tsuneishi Zosen",
+    "built_year": "2015",
+    "price_raw": "31.7",
+    "comments": "",
+    "vv_raw": "29.5",
+    "buyer": "Greek",
+    "seller": "Noma Kaiun",
+    "section": "BULKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Jin Tao",
+    "type": "Supramax",
+    "dwt_raw": "56,700",
+    "yard": "Qingshan Shipyard",
+    "built_year": "2012",
+    "price_raw": "16.06",
+    "comments": "At Auction. SS/DD due.",
+    "vv_raw": "16.8",
+    "buyer": "Chinese",
+    "seller": "China Ship Fund",
+    "section": "BULKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Tientsin",
+    "type": "Handysize",
+    "dwt_raw": "37,800",
+    "yard": "Imabari",
+    "built_year": "2016",
+    "price_raw": "26.5",
+    "comments": "SS/DD passed.",
+    "vv_raw": "25.4",
+    "buyer": "Undisclosed",
+    "seller": "Swire Bulk",
+    "section": "BULKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Xing Yuan Hai",
+    "type": "Handysize",
+    "dwt_raw": "34,400",
+    "yard": "Namura",
+    "built_year": "2015",
+    "price_raw": "23.5",
+    "comments": "On Subs",
+    "vv_raw": "23.5",
+    "buyer": "Undisclosed",
+    "seller": "Bank of Communications Financial",
+    "section": "BULKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Xing Jing Hai",
+    "type": "Handysize",
+    "dwt_raw": "34,400",
+    "yard": "Namura",
+    "built_year": "2015",
+    "price_raw": "23.5",
+    "comments": "Mean % Difference*",
+    "vv_raw": "23.1",
+    "buyer": "",
+    "seller": "Leasing",
+    "section": "BULKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Prostar",
+    "type": "LR2",
+    "dwt_raw": "115,600",
+    "yard": "Daehan",
+    "built_year": "2019",
+    "price_raw": "52.0",
+    "comments": "",
+    "vv_raw": "52.9",
+    "buyer": "Greek",
+    "seller": "Metrostar Management Corp",
+    "section": "TANKER",
+    "page": 1
+   }
+  ]
+ }
+}

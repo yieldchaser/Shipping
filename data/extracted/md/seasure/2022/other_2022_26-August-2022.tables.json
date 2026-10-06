@@ -1,0 +1,65 @@
+{
+ "issue_date": "2022-08-26",
+ "stem": "other_2022_26-August-2022",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2022\\other_2022_26-August-2022.pdf",
+ "tables": {
+  "deals": [
+   {
+    "vessel_name": "C Guardian",
+    "type": "VLCC",
+    "dwt_raw": "300,700",
+    "yard": "Daewoo",
+    "built_year": "2019",
+    "price_raw": "98.0",
+    "comments": "",
+    "vv_raw": "100.2",
+    "buyer": "HMM",
+    "seller": "SK Shipping",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Ridgebury Captain",
+    "type": "Drogin Suezmax",
+    "dwt_raw": "166,500",
+    "yard": "Hyundai HI",
+    "built_year": "2007",
+    "price_raw": "28.75",
+    "comments": "SS/DD Due",
+    "vv_raw": "30.1",
+    "buyer": "Greek",
+    "seller": "Ridgebury Tankers",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Imperia",
+    "type": "Aframax",
+    "dwt_raw": "114,800",
+    "yard": "Samsung",
+    "built_year": "2006",
+    "price_raw": "31.5",
+    "comments": "SS/DD Passed",
+    "vv_raw": "28.0",
+    "buyer": "Undisclosed",
+    "seller": "FGAS Petrol Co",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Gennaro Ievoli",
+    "type": "Small Chemical",
+    "dwt_raw": "27,900",
+    "yard": "Cantieri Navali",
+    "built_year": "2002",
+    "price_raw": "13.8",
+    "comments": "SS/DD Passed",
+    "vv_raw": "11.4",
+    "buyer": "Undisclosed",
+    "seller": "Marnavi",
+    "section": "TANKER",
+    "page": 1
+   }
+  ]
+ }
+}

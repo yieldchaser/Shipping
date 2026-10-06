@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 19:59:58Z",
+  "updated_at": "2026-10-06 23:34:27Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -866,6 +866,7 @@
         "coating",
         "price_raw",
         "price_usd_m",
+        "group_total_mil",
         "buyers",
         "comments",
         "source_file",
@@ -3552,6 +3553,29 @@
       "status": "Verified"
     },
     {
+      "file": "seasure_sales_series.csv",
+      "target_metric": "Seasure Sales",
+      "rows": 1452,
+      "columns": [
+        "issue_date",
+        "section",
+        "vessel_name",
+        "type",
+        "dwt",
+        "yard",
+        "built_year",
+        "price_usd_m",
+        "price_raw",
+        "comments",
+        "vv_raw",
+        "buyer",
+        "seller",
+        "source_file",
+        "page"
+      ],
+      "status": "Verified"
+    },
+    {
       "file": "signal_reports_metadata.csv",
       "target_metric": "The Signal Group weekly monitors, market reviews, commodity radars, and newsletters metadata (2019\u20132026)",
       "rows": 446,
@@ -4083,13 +4107,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 638931,
-  "total_master_series_csvs": 177,
-  "total_stacked_rows": 638931,
-  "total_series_csvs": 177,
+  "total_master_stacked_rows": 640383,
+  "total_master_series_csvs": 178,
+  "total_stacked_rows": 640383,
+  "total_series_csvs": 178,
   "total_master_workbooks": 1,
-  "total_series_count": 177,
-  "total_rows_extracted": 639236,
+  "total_series_count": 178,
+  "total_rows_extracted": 640688,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4239,6 +4263,7 @@
     "seabrokers_renewables_and_ets_series.csv": 16,
     "seabrokers_rigs_market_series.csv": 4467,
     "seabrokers_snp_auctions_series.csv": 251,
+    "seasure_sales_series.csv": 1452,
     "signal_reports_metadata.csv": 446,
     "signal_vessel_counts_series.csv": 106,
     "singletons_sales_series.csv": 46,

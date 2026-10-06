@@ -1,0 +1,107 @@
+{
+ "issue_date": "2022-11-25",
+ "stem": "other_2022_25-November-2022",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2022\\other_2022_25-November-2022.pdf",
+ "tables": {
+  "deals": [
+   {
+    "vessel_name": "Nord Virgo",
+    "type": "Panamax",
+    "dwt_raw": "81,000",
+    "yard": "JMU",
+    "built_year": "2014",
+    "price_raw": "27.0",
+    "comments": "",
+    "vv_raw": "27.0",
+    "buyer": "Greek",
+    "seller": "Nissen Kaiun",
+    "section": "BULKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "LT Ocean Star",
+    "type": "Panamax",
+    "dwt_raw": "75,400",
+    "yard": "Universal",
+    "built_year": "2005",
+    "price_raw": "14.0",
+    "comments": "",
+    "vv_raw": "13.6",
+    "buyer": "Undisclosed",
+    "seller": "Lotus Ocean Transportation",
+    "section": "BULKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Achilleas",
+    "type": "Ultramax",
+    "dwt_raw": "63,300",
+    "yard": "Yangzhou Dayang",
+    "built_year": "2012",
+    "price_raw": "22.3",
+    "comments": "SS/DD Passed",
+    "vv_raw": "20.0",
+    "buyer": "Far Eastern",
+    "seller": "Blue Planet Shipping",
+    "section": "BULKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Seastar Harrier",
+    "type": "Handysize",
+    "dwt_raw": "39,800",
+    "yard": "Hakodate Dock",
+    "built_year": "2022",
+    "price_raw": "30.9",
+    "comments": "Resale",
+    "vv_raw": "29.4",
+    "buyer": "Japanese",
+    "seller": "Norbulk Shipping UK",
+    "section": "BULKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Maria Grace",
+    "type": "Suezmax",
+    "dwt_raw": "160,000",
+    "yard": "Samsung",
+    "built_year": "2002",
+    "price_raw": "22.5",
+    "comments": "SS/DD Due",
+    "vv_raw": "22.4",
+    "buyer": "Undisclosed",
+    "seller": "Elegant Ship Management",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Cape Tampa",
+    "type": "LR1",
+    "dwt_raw": "73,700",
+    "yard": "New Times",
+    "built_year": "2009",
+    "price_raw": "20.25",
+    "comments": "",
+    "vv_raw": "22.6",
+    "buyer": "Undisclosed",
+    "seller": "Salamon AG",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Vallermosa",
+    "type": "MR1",
+    "dwt_raw": "40,200",
+    "yard": "Hyundai Mipo",
+    "built_year": "2003",
+    "price_raw": "12.0",
+    "comments": "SS/DD Due",
+    "vv_raw": "13.7",
+    "buyer": "Chinese",
+    "seller": "Montanari Navigazione",
+    "section": "TANKER",
+    "page": 1
+   }
+  ]
+ }
+}

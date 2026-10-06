@@ -1,0 +1,121 @@
+{
+ "issue_date": "2022-09-02",
+ "stem": "other_2022_02-September-2022",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2022\\other_2022_02-September-2022.pdf",
+ "tables": {
+  "deals": [
+   {
+    "vessel_name": "Clarke Quay",
+    "type": "Supramax",
+    "dwt_raw": "55,600",
+    "yard": "Hyundai Vietnam",
+    "built_year": "2010",
+    "price_raw": "17.1",
+    "comments": "",
+    "vv_raw": "18.0",
+    "buyer": "Undisclosed",
+    "seller": "Quayside Maritime Partners",
+    "section": "BULKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "DHT Edelweiss",
+    "type": "VLCC",
+    "dwt_raw": "301,000",
+    "yard": "Daewoo",
+    "built_year": "2008",
+    "price_raw": "37.0",
+    "comments": "SS/DD Due",
+    "vv_raw": "41.3",
+    "buyer": "Undisclosed",
+    "seller": "DHT Holdings Inc",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Tsurusaki",
+    "type": "VLCC",
+    "dwt_raw": "300,800",
+    "yard": "IHI",
+    "built_year": "2002",
+    "price_raw": "31.25",
+    "comments": "SS/DD Due",
+    "vv_raw": "31.0",
+    "buyer": "Greek",
+    "seller": "Prima Marine",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Atlantic Pride",
+    "type": "Aframax",
+    "dwt_raw": "114,500",
+    "yard": "Samsung",
+    "built_year": "2004",
+    "price_raw": "24.0",
+    "comments": "",
+    "vv_raw": "24.2",
+    "buyer": "Chinese",
+    "seller": "Worldera",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Lila Fujairah",
+    "type": "LR2",
+    "dwt_raw": "113,800",
+    "yard": "Daewoo",
+    "built_year": "2007",
+    "price_raw": "27.8",
+    "comments": "SS/DD Due",
+    "vv_raw": "28.1",
+    "buyer": "Undisclosed",
+    "seller": "Lila Global",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Zhen 1",
+    "type": "Aframax",
+    "dwt_raw": "105,700",
+    "yard": "Daewoo",
+    "built_year": "2002",
+    "price_raw": "17.7",
+    "comments": "SS/DD Due",
+    "vv_raw": "19.9",
+    "buyer": "Undisclosed",
+    "seller": "Monumont Ship Management",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Gotland Carolina",
+    "type": "MR2",
+    "dwt_raw": "53,200",
+    "yard": "CSSC OME",
+    "built_year": "2006",
+    "price_raw": "18.5",
+    "comments": "SS/DD Passed",
+    "vv_raw": "18.5",
+    "buyer": "Norwegian",
+    "seller": "Gotland Rederi",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Pinara",
+    "type": "Handysize",
+    "dwt_raw": "1,696",
+    "yard": "GSW",
+    "built_year": "2004",
+    "price_raw": "23.0",
+    "comments": "DD Due",
+    "vv_raw": "24.8",
+    "buyer": "Akar Deniz Tasimaciligi",
+    "seller": "Laeisz F",
+    "section": "CONTAINER",
+    "page": 1
+   }
+  ]
+ }
+}

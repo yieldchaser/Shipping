@@ -1,0 +1,107 @@
+{
+ "issue_date": "2022-08-19",
+ "stem": "other_2022_19-August-2022",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2022\\other_2022_19-August-2022.pdf",
+ "tables": {
+  "deals": [
+   {
+    "vessel_name": "Zhong Liang Dong",
+    "type": "Nan Supramax",
+    "dwt_raw": "52,600",
+    "yard": "Shin Kurushima",
+    "built_year": "2001",
+    "price_raw": "11.59",
+    "comments": "At Auction. SS Due",
+    "vv_raw": "12.0",
+    "buyer": "Chinese",
+    "seller": "Bank Financial of Communications Leasing",
+    "section": "BULKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Dem Five",
+    "type": "Handysize",
+    "dwt_raw": "31,800",
+    "yard": "Hakodate Dock",
+    "built_year": "2002",
+    "price_raw": "11.0",
+    "comments": "SS/DD Due",
+    "vv_raw": "11.2",
+    "buyer": "Middle Eastern",
+    "seller": "Lydia Mar Shipping",
+    "section": "BULKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Oberon",
+    "type": "Aframax",
+    "dwt_raw": "106,000",
+    "yard": "Hyundai Samho",
+    "built_year": "2006",
+    "price_raw": "25.5",
+    "comments": "SS/DD Due",
+    "vv_raw": "25.0",
+    "buyer": "Undisclosed",
+    "seller": "LL Energy",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Alpine Amalia",
+    "type": "LR2",
+    "dwt_raw": "105,300",
+    "yard": "Hyundai HI",
+    "built_year": "2010",
+    "price_raw": "36.0",
+    "comments": "DD Due",
+    "vv_raw": "36.8",
+    "buyer": "Undisclosed",
+    "seller": "ST Shipping",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Baroness",
+    "type": "Aframax",
+    "dwt_raw": "105,300",
+    "yard": "Sumitomo",
+    "built_year": "2011",
+    "price_raw": "35.0",
+    "comments": "",
+    "vv_raw": "34.9",
+    "buyer": "Middle Eastern",
+    "seller": "NGM Energy",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Argo",
+    "type": "LR2",
+    "dwt_raw": "105,200",
+    "yard": "Hyundai HI",
+    "built_year": "2009",
+    "price_raw": "34.5",
+    "comments": "",
+    "vv_raw": "32.3",
+    "buyer": "Undisclosed",
+    "seller": "Westport Tankers",
+    "section": "TANKER",
+    "page": 1
+   },
+   {
+    "vessel_name": "Inca",
+    "type": "LR1",
+    "dwt_raw": "68,400",
+    "yard": "Koyo Dock",
+    "built_year": "2003",
+    "price_raw": "15.0",
+    "comments": "",
+    "vv_raw": "14.4",
+    "buyer": "Undisclosed",
+    "seller": "Tsakos Energy Navigation",
+    "section": "TANKER",
+    "page": 1
+   }
+  ]
+ }
+}
