@@ -1,3 +1,21 @@
+**THIS RUN (2026-10-06 15:5x, source-by-source, 30m job) - THE REGISTER GATE WAS RED IN HEAD; FIXED. Every other extraction item re-verified CLOSED.**
+
+Branch `auto/extract-fixes-2026-10-06-deepreview` (HEAD 41e877f6c). Nothing of ours was extracting; live python = Hermes gateway(s), proxy_gateway, code_review_graph - no extraction/ingest process. Working tree was CLEAN at run start (the prior run's best_oasis commit landed; `git status` = 0 files).
+
+**1. Found a REAL open defect - `verify_registers.py` was RED, not green.** `scripts/extract/verify_registers.py` on HEAD: `Row mismatch in JSON for hellenic_vv_sales_series.csv: disk=2062 vs json=2022`. One file, everything else clean. **Root cause:** commit `9479ec9e4` (13:42, "skip already-extracted vessel valuations HTML after parsing internal issue_date") rewrote the CSV + its runner + `_run_state.json` but **never re-ran the register synchroniser**, so `EXTRACTION_REGISTER.{json,md}` kept the pre-commit count. Proven with git: at `9479ec9e4^` the CSV was 2023 lines = 2022 rows (JSON 2022, consistent); at `9479ec9e4` it is 2063 lines = **2062 rows** while the JSON stayed 2022.
+
+**2. The +40 rows are legitimate recovered sales (checked, not assumed).** 0 exact duplicates; they land on **31 distinct issue_dates** (1-3 each), dominated by **MR2 tanker** sales (the row class the old HTML-skip was dropping). Spot-checked vs the publisher's own HTML: `corpus/02-hellenic/vessel_valuations/2026/2026-09-09_...september-8-2026.html` prints `... sold to Indonesian buyers for USD 27.2 mil, VV Value USD 27.92 mil. MR2 (...)` = exactly the recovered row `2026-09-08 | MR2 | Indonesian buyers | 27.2`.
+
+**3. Fix = re-run the authoritative synchroniser.** `python3 scripts/sync_extraction_register.py` -> minimal 9-line diff: `hellenic_vv_sales_series.csv` 2022 -> **2062**, its `series_inventory` mirror, and the totals (`630,317 -> 630,357` stacked; `630,622 -> 630,662` extracted). After: `verify_registers.py` = **ALL VERIFICATION CHECKS PASSED (0 mismatches JSON, 0 MD)**. Evidence `docs/hellenic_vv_sales_register_sync_verdict.md`.
+
+**4. bancosta "Target #1" (chart tables published as container indices) is CLOSED - re-measured, not reopened.** The residue verdicts still carry a "STILL OPEN" pointer; re-measured on the 243 canonical sidecars: `vhss_contex` **0/1,704** and `freightos_index` **0/1,759** rows have a `unit` cell that is neither a unit token nor a period label. Fixed earlier by `d96dd30bd` (bancosta branches 7/8). Pointer now stale; noted in the verdict doc.
+
+**5. Nothing left to EXTRACT - re-enumerated.** All broker + non-broker sources have md tiers (note: `data/extracted/md/<source>/` is now YEAR-PARTITIONED per `f31f41701`, so a flat `ls md/<source>/*.md` returns 0 - count into the year subdirs). xclusiv state file absent because it is long done (266/266). No ledger defect open.
+
+**NEXT RUN:** nothing to extract. (a) Watch that the automation does not re-stale the register (if it rewrites a series CSV it must re-run `scripts/sync_extraction_register.py`; `verify_registers.py` is the gate). (b) Carried items remain the user's: merge the mapping-aware linked-asset fatal gate branch; inventory/DB-rebuild decisions. (c) If the automation rewrites best_oasis md or the regenerated register, `git status` will show it - re-verify before assuming change.
+
+---
+
 **THIS RUN (2026-10-06 14:3x, source-by-source, 30m job) - THE LAST OPEN DATA-QUALITY GAP IS CLOSED: the parallel automation's verified best_oasis md restoration is now COMMITTED (150 files, 86d8eb584).**
 
 Branch `auto/extract-fixes-2026-10-06-deepreview` (HEAD was 8b9c0fcb2, 49 ahead / 12 behind origin). Nothing of ours was extracting; live python = Hermes gateway x2, proxy_gateway (litellm), code_review_graph - no extraction/ingest process. Working tree at run start held exactly ONE change: the 150 best_oasis md (automation-owned, written 13:42, never committed).
