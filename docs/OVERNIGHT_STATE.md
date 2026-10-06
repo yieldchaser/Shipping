@@ -1,3 +1,16 @@
+**THIS RUN (2026-10-06 13:3x, source-by-source, 30m job) - FOUND + independently verified the PARALLEL AUTOMATION's best_oasis md restoration (134 empty-table md -> data). Evidence docs/best_oasis_md_stub_verdict.md. Nothing of ours was extracting; the best_oasis md files are the automation's LIVE WIP (mtimes advanced 13:27 -> 13:42 during this session, with the register and cadence docs at 13:42) - I did NOT commit them.**
+
+**1. Headline (measured).** The automation's ingest commit `b0fa2b3be` (13:21) CREATED the canonical best_oasis md tier with EMPTY indicative-price tables. Over the 150 best_oasis md the working tree rewrites: HEAD has no price data row in **134/150**; the working tree has it in **150/150**. Same class committed-fixed for GMS/Alibra in `1eb52d5c3` (13:32); best_oasis is the uncommitted analogue.
+
+**2. Verified the restoration against the source PDFs (not file counts).** 1,509 `$`-values across the 150 rewritten md checked against each file's own `source_file` PDF text: **1,481 = 98.1% present verbatim**. The 28 misses: 24 in `2022-12-28` whose PDF TEXT LAYER IS EMPTY (cached parse - unverifiable, not wrong), 3 in `2025-11-22` (partial text layer), leaving **2 genuine single-value candidates ($654 HARMONY 2022-03-05, $334 SHENG TAI 2025-03-29) = 0.13%**. (`$1275` BOW FLOWER is CORRECT - the page prints `1,275`; my first checker missed the comma form.) All **269** worktree md have a `source_file` that resolves to an existing PDF (0 stale; the earlier spurious `/2022/` segment was corrected at 13:42).
+
+**3. Series layer unchanged** (mtime 12:55): deals 892, demolition 867, exchange_rates 167 - matching the register. The DATA was never lost at the series layer; only the .md tier was stubbed.
+
+**4. Action taken:** wrote docs/best_oasis_md_stub_verdict.md + this entry; committed ONLY these docs, NOT the 150 automation-owned md. The md fix is correct and commit-worthy but belongs to the live WIP.
+
+**NEXT RUN:** the automation owns best_oasis; re-check it is committed. Otherwise unchanged: (a) nothing to EXTRACT, no ledger defect open; (b) carried items are the user's (linked-asset gate merge, inventory/DB decisions); (c) if the automation stalls, the working-tree md fix is verified-correct and safe to commit (134 empty-table files, 98.1% text-verified).
+
+---
 **THIS RUN (2026-10-06 12:1x-12:3x, source-by-source, 30m job) - LEDGER 4.3 RE-KEY INDEPENDENTLY RE-VERIFIED WITH MY OWN CONTROL and the register pickup CONFIRMED; nothing left to extract (re-enumerated). No extraction job of ours was running.**
 
 Branch `auto/extract-fixes-2026-10-06-deepreview` (HEAD 71647b8e6 == upstream, pushed). Live python = Hermes gateway + code_review_graph, none of ours.
