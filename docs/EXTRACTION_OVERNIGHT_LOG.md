@@ -3536,3 +3536,73 @@ provable defect and it is monitor-only. Still pending human decision (unchanged 
 the previous entry): inventory drift 383 PDFs; DB/series rebuild; the 5 advanced_shipping
 2023 doc re-extracts. Committed to `auto/extract-fixes-2026-10-06-deepreview` (not main);
 main untouched.
+
+## 2026-10-06 16:3x IST (11:0x UTC) - deep review (3-hourly, job d77cc9df53c4)
+
+Verdict: **HEALTHY** (nothing broken found; no code or data changed; no fix to make).
+
+### Run state and honest liveness
+`verify_extraction.py --out data/extracted --state ... --json` -> `done 880/882`,
+`ok 876`, `error 3`, `no-extractable-content 1`, `checkpoint_rows 7816` (7816 unique),
+`crash_recovered_docs 249`, `empty_unexpected 0`, `golden 15/15`,
+`db 189481 tables / 6726703 cells`, `quality_empty_docs_in_sample 0`,
+`actions: []`. `state_age_min 20481` is the known COMPLETE-not-dead case (queue from
+the 2026-09-21 inventory; 0 remained).
+`Get-CimInstance Win32_Process` for `run_batch`/`batch_worker` returned **nothing** -
+the full pass is finished; there is nothing to supervise and nothing to extract
+(re-confirmed independently by the parallel 16:0x job). Working tree CLEAN at start
+(HEAD f423f02ff on `auto/extract-fixes-2026-10-06-deepreview`).
+
+### Measurements taken this run (all independent of the state file)
+* `scripts/extract/verify_registers.py` -> `ALL VERIFICATION CHECKS PASSED PERFECTLY`:
+  disk **175** CSVs / **630,357** logical rows == JSON == MD, 0 mismatches, 0 control
+  chars, 0 emoji.
+* `scripts/analysis/golden_matrix.py` -> star_asia pymupdf-text **15/15** / plumber-text
+  **15/15**, ssy_atlantic camelot/pdfplumber/text **14/14**, breakwave text **6/6** -
+  identical to the committed baseline; no regression.
+* **Independent exact-duplicate scan** over all 175 series CSVs (`data/extracted/series/*.csv`,
+  exact row-tuple match): **31 duplicate rows / 630,357 = 0.0049%**, in exactly 7 files -
+  hellenic_vv_matrix 15, gibson_tanker_spot 5, xclusiv_sales 5, poten_top_charterers 2,
+  star_asia_deals 2, carriers_sales 1, star_asia_ferrous_scrap 1. This reproduces the
+  number recorded by the parallel 16:0x run **from scratch** (not copied from it).
+
+### Content check (opened outputs + source PDFs, not counters)
+* **hellenic 2026-09-11 MMI daily iron-ore** (`..._e6359aebb338`): the extracted table's
+  `Roy Hill` row = `['Roy Hill','666','','-7','-26','Roy Hill','93.05','-1.00','-3.50']`.
+  Ground truth read directly from the SOURCE PDF (`pymupdf`, page 2) contains the strings
+  `IOSI62`, `IOPI62 (equivalent)`, `Roy Hill`, `666`, `Diff to IOSI62`, `93.05` - i.e. the
+  grid cell values and the column headers are present verbatim on the page. Correct.
+* **shipbrokers xclusiv 2026-08-03**: the largest-numeric-cell camelot-stream table is the
+  DRY SECONDHAND PRICES grid with stacked headers `Jul`, `Aug`, `Average Prices`, `±%`
+  (39 rows, 80 numeric cells, text_verified 1.0). A real grid, correctly shaped.
+* **poten Weekly-Opinion 2016-08-19**: its single "table" is a prose/essay caption block
+  with **0 numeric cells** (Fig. 1 caption, title text) - the known onecol/prose noise
+  class, not a defect; no table data is lost because the page holds none.
+
+### Structural scan (sampled, ~40 doc-dirs/source over the whole corpus tree)
+`giant_frac` (majority of rows with <=1 non-empty cell) and `mean_text_verified` are in
+their normal bands for every recurring publisher: shipbrokers 0.45 / 0.90, hellenic 0.33 /
+0.82, poten 0.89 / 0.97, seabrokers 0.38 / 0.92, drybulk 0.38 / 1.00, tankers 0.31 / 1.00,
+ppa_pdf 0.00 / 0.99. The only low `text_verified` is `drewry_ais_pdfs` 0.435 with
+`giant_frac` 0.70 - the Power-BI-dashboard noise class already documented (8/9 pages
+image-heavy), expected, not new.
+
+### Deliberately NOT changed
+Nothing. No file under `data/extracted/` was written; no script was edited; no re-extraction
+was run; `main` was not touched. The 1,000x/format/precision defects the prior entries hunted
+have each been closed already (intermodal issue-dates, carriers unit scale, star_asia EU->ISO,
+pymupdf blank-glyph reconciliation), and this run found no live one.
+
+### Inherited, still pending HUMAN DECISION (unchanged)
+1. Inventory drift: 383 corpus PDFs absent from the 2026-09-21 `inventory.jsonl`
+   (21/25 of a deterministic md5 sample were unseen content). Re-run `build_inventory.py`
+   only if the `extract_all` tree is wanted current.
+2. DB/series rebuild so parser fixes since 2026-09-21 reach the derived layer
+   (`build_table_db.py --out data/extracted/corpus --rebuild` + series + QA).
+3. Hellenic chunk-shard shortfall (all hellenic), note in `text_audit_recheck.json`.
+4. Optional/bounded: re-extract the 5 `advanced_shipping_2023_W3{1,4,5,6,7}` docs into the
+   corpus tree to correct their under-reported `text_verified` / false image-table flags.
+5. The 15 `hellenic_vv_matrix` residual duplicates come from a LlamaParse-parsed MATRIX IMAGE
+   (not text) - unverifiable without a vision tool; documented residual, not fixed.
+
+Committed to `auto/extract-fixes-2026-10-06-deepreview` (docs only); main untouched, not pushed.
