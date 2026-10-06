@@ -1,3 +1,20 @@
+**THIS RUN (2026-10-06 20:5x, source-by-source, 30m job) - NOTHING TO EXTRACT (independently re-verified by a NEW date-coverage method); all green. The ONLY unextracted body left is `corpus/archive/*` (724 PDFs, newest content YEAR 2024 = >640d) = BACKFILL_ONLY per the liveness gate - needs the user's go/no-go.**
+
+Branch `auto/extract-fixes-2026-10-06-deepreview` (HEAD 32b0decd4, working tree CLEAN = 0 files). Live python = Hermes gateways/proxy only; nothing of ours extracting. Register gate GREEN: `verify_registers.py` = ALL PASSED (175 CSVs / **630,393** rows == JSON == MD, 0 mismatches).
+
+- **NEW METHOD this run (not a re-statement of prior runs):** per-source DATE-coverage sweep (content-filename dates vs md-filename dates) + an `os.scandir` mtime scan of the corpus tree (`find` over it times out on MSYS - use scandir).
+- **Arrivals:** only 2 corpus files touched since 19:30 = the 2 best_oasis PDFs the 19:4x run copied in (mtime 20:03). No new downloads this window.
+- **baltic:** 2,228/2,228 non-asset HTML have md; the 820 "unmatched" are `assets/` weekly-roundup/related-link pages (secondary), NOT the reports.
+- **drewry / breakwave / poten:** parity - breakwave 1,649/1,649 dates; poten the only 2 "missing" are regex artifacts (`2017-20-17`, `2019-20-20`), not real dates.
+- **seabrokers:** the single pdf-without-md (`2023-12-01_market-report-december-2023.pdf`, 35 KB) is **HTML served as .pdf** (magic bytes `<!DOCTYPE html>`) -> junk, correctly skipped (skill's HTML-as-PDF rule). Not a gap.
+- **hellenic demolition** (athenian/gms/best_oasis): all content dates covered; 4 apparent athenian gaps are md named date-first (`2024-12-23_Week_51_Athenian_Demo_Report`), not missing.
+- **01-brokers:** 11 stem-unmatched PDFs, all known duplicate re-downloads (already verified in prior runs).
+- **ONLY unextracted body remaining = `corpus/archive/`:** allied 203 / anchor 30 / gibson 109 / golden_destiny 252 / other 130 (724 files). Newest content YEAR: allied+golden_destiny 2024, gibson+other 2023, anchor 2022 -> all >640d old -> **BACKFILL_ONLY, never CONSTRUCT** (liveness gate). Constructor (golden_destiny 252 / allied 203) would be a multi-run per-source build; NOT started unattended - the user gates depth.
+
+NEXT RUN: nothing to EXTRACT. Watch the automation does not re-stale the register (`verify_registers.py` is the gate; `sync_extraction_register.py` is the fix). Open user decision: go/no-go on the archive backfill.
+
+---
+
 **THIS RUN (2026-10-06 19:4x, source-by-source, 30m job) - FOUND + FIXED 2 genuinely unextracted best_oasis weekly reports (2026-05-05, 2026-05-16). Not a re-statement: a date-coverage sweep across the 3 hellenic demolition publishers (best_oasis/athenian/gms) surfaced them. Evidence `docs/best_oasis_coverage_verdict.md`.**
 
 Branch `auto/extract-fixes-2026-10-06-deepreview`. Working tree was CLEAN (0 files) at run start; live python = Hermes gateways + litellm only, nothing of ours extracting. Register gate GREEN at start (630,357).
