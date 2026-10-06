@@ -22,6 +22,7 @@ import glob
 import json
 import os
 import re
+import sys
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -51,6 +52,29 @@ def duplicate_stems() -> set:
 STOCKS_SERIES_CSV = OUT_SERIES / "intermodal_maritime_stocks_series.csv"
 BUNKERS_SERIES_CSV = OUT_SERIES / "intermodal_bunkers_series.csv"
 MACRO_SERIES_CSV = OUT_SERIES / "intermodal_macro_series.csv"
+
+# Ledger 4.3 - the macro table is 5 DAILY columns plus a W-O-W percent. The wide CSV
+# keeps only latest/prior (the newest two days) and puts a day-over-day prior beside a
+# week-over-week percent, implying a relation that does not hold. The re-key below
+# emits the full row x date grid the skill asks for: a series is (row label, column
+# header), and here the header is the PRINT DATE. Verified against the page in
+# docs/intermodal_macro_423_verdict.md; the numbers were already faithful - this is a
+# schema/semantic fix plus recovery of the 3 daily points the wide file drops.
+MACRO_DAILY_SERIES_CSV = OUT_SERIES / "intermodal_macro_daily_series.csv"
+_DATE_LINE_RX = re.compile(r"^\d{1,2}-[A-Za-z]{3}-\d{2}$")
+_MONTHS = {m.lower(): i for i, m in enumerate(
+    ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], 1)}
+
+
+def _iso_from_dmon(s: str):
+    m = re.match(r"^(\d{1,2})-([A-Za-z]{3})-(\d{2})$", s)
+    if not m:
+        return None
+    d, mon, yy = int(m.group(1)), m.group(2).lower(), int(m.group(3))
+    mo = _MONTHS.get(mon)
+    if not mo:
+        return None
+    return f"20{yy:02d}-{mo:02d}-{d:02d}"
 
 
 # The publisher's own cover line, e.g. "Week 06 | Tuesday13th February 2024".
@@ -284,6 +308,56 @@ def parse_finance_page(doc: pymupdf.Document, page_no: int, issue_date: str, rep
         return float(m_num.group(0)) if m_num else None
 
     lines = [l.strip() for l in full_text.splitlines() if l.strip()]
+
+    def _macro_print_dates(rows):
+        # The DAILY print dates of the 5-column macro table (newest first).
+        # Anchored on CONTENT: the first real macro indicator row, then walk back
+        # over the W-O-W / Change header and collect the run of date-shaped lines
+        # before it. Layout is NOT stable: 2021-2022 print the dates right after the
+        # section title, 2025-2026 insert a nav block ('Market Data / Maritime Stock
+        # Data / ...') first - anchoring on the indicator label, never the section
+        # title, survives both. Verified on 2021 W26, 2022 W04, 2023 W08, 2025 W10
+        # and 2026 W10.
+        first = None
+        for i, l in enumerate(rows):
+            if _nkey(l) in IND_CAT and i + 1 < len(rows) and (
+                    NUM_RX.match(rows[i + 1]) or rows[i + 1].lower() in NONNUM):
+                first = i
+                break
+        if first is None:
+            return []
+        j = first - 1
+        dated = []
+        # The header sits between the dates and the first indicator, and its form is
+        # NOT stable: a bare line ("W-O-W" / "Change %"), or FUSED onto the last date
+        # ("20-May-24 W-O-W Change %", 2024+). The text layer also kerned the month in
+        # some 2023+ issues ("2-J un-23"). So normalise each line (drop whitespace and
+        # the header words) and accept it only if a date remains. Measured: both the
+        # fusion and the kerning silently cost a whole document's date run otherwise.
+        while j >= 0:
+            clean = (re.sub(r"\s+", "", rows[j]).replace("W-O-W", "")
+                     .replace("Change", "").replace("%", ""))
+            # findall, not a single match: two adjacent date cells are sometimes fused
+            # onto one text line ("29-May-24 28-May-24", 7 docs: 2024 W21/W47, 2025
+            # W12/W46/W47/W48 + a compressed copy) - a single-match test drops the
+            # second date and the row loses its alignment.
+            hits = re.findall(r"\d{1,2}-[A-Za-z]{3}-\d{2}", clean)
+            if hits:
+                # PREPEND: we walk the date run backwards (oldest line first), so the
+                # newest date must end up at the front. Prepending also preserves the
+                # natural left-to-right order WITHIN a fused line, which a final
+                # reverse() would have flipped (measured: it swapped 28/29-May-24).
+                dated = hits + dated
+                j -= 1
+                continue
+            if clean == "":
+                j -= 1  # a pure header fragment -> keep walking back
+                continue
+            break  # real content -> the date run has ended
+        return [d for d in (_iso_from_dmon(x) for x in dated) if d]
+
+    macro_dates = _macro_print_dates(lines)
+    macro_daily = []
     for i, lab in enumerate(lines):
         hit = IND_CAT.get(_nkey(lab))
         if hit is None:
@@ -295,6 +369,9 @@ def parse_finance_page(doc: pymupdf.Document, page_no: int, issue_date: str, rep
         if not (NUM_RX.match(nxt) or nxt.lower() in NONNUM):
             continue
         vals: List[str] = []
+        # positional view: NONNUM cells stay as None so index k aligns with
+        # macro_dates[k]; the wide-file vals (numeric only) keep their old meaning.
+        vals_pos: List[Optional[str]] = []
         pct = None
         j = i + 1
         while j < len(lines) and j <= i + 14:
@@ -304,8 +381,9 @@ def parse_finance_page(doc: pymupdf.Document, page_no: int, issue_date: str, rep
                 break
             if NUM_RX.match(cell):
                 vals.append(cell)
+                vals_pos.append(cell)
             elif cell.lower() in NONNUM:
-                pass  # a text value cell ("market closed") keeps the row going
+                vals_pos.append(None)  # a text value cell ("market closed")
             else:
                 break  # next label / prose -> end of this row
             j += 1
@@ -322,7 +400,24 @@ def parse_finance_page(doc: pymupdf.Document, page_no: int, issue_date: str, rep
                 "wow_change_pct": pct,
                 "source_file": source_file,
             })
-    return stocks, bunkers, macro
+            # Date-keyed grid: only when this row's positional cell count matches the
+            # detected date run. Otherwise leave it out rather than guess an alignment
+            # (a wrong print_date is worse than a missing one).
+            if macro_dates and len(vals_pos) == len(macro_dates):
+                for off, (d_iso, raw) in enumerate(zip(macro_dates, vals_pos)):
+                    macro_daily.append({
+                        "issue_date": issue_date,
+                        "report_week": report_week,
+                        "category": cat,
+                        "indicator": lab,
+                        "print_date": d_iso,
+                        "day_offset": off,
+                        "value": parse_float_safe(raw) if raw is not None else None,
+                        "is_latest": 1 if off == 0 else 0,
+                        "wow_change_pct": pct,
+                        "source_file": source_file,
+                    })
+    return stocks, bunkers, macro, macro_daily
 
 
 def run_all():
@@ -337,6 +432,7 @@ def run_all():
     all_stocks = []
     all_bunkers = []
     all_macro = []
+    all_macro_daily = []
 
     for pdf_path_str in files:
         pdf_path = Path(pdf_path_str)
@@ -346,10 +442,11 @@ def run_all():
         if pno is None:
             continue
 
-        st, bu, ma = parse_finance_page(doc, pno, dt, wk, pdf_path.name)
+        st, bu, ma, mad = parse_finance_page(doc, pno, dt, wk, pdf_path.name)
         all_stocks.extend(st)
         all_bunkers.extend(bu)
         all_macro.extend(ma)
+        all_macro_daily.extend(mad)
 
         # Update JSON sidecar if it exists
         stem = pdf_path.stem
@@ -404,6 +501,17 @@ def run_all():
             writer.writeheader()
             writer.writerows(all_macro)
         print(f"Exported {len(all_macro)} rows to {MACRO_SERIES_CSV.name}")
+
+    if all_macro_daily:
+        with open(MACRO_DAILY_SERIES_CSV, "w", newline="", encoding="utf-8") as fp:
+            writer = csv.DictWriter(fp, fieldnames=[
+                "issue_date", "report_week", "category", "indicator",
+                "print_date", "day_offset", "value", "is_latest",
+                "wow_change_pct", "source_file"
+            ])
+            writer.writeheader()
+            writer.writerows(all_macro_daily)
+        print(f"Exported {len(all_macro_daily)} rows to {MACRO_DAILY_SERIES_CSV.name}")
 
 
 if __name__ == "__main__":
