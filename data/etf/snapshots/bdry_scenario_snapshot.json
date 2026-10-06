@@ -1,43 +1,43 @@
 {
   "schema_version": "1.0.0",
-  "generation_timestamp_utc": "2026-10-06T11:53:18.842257+00:00",
+  "generation_timestamp_utc": "2026-10-06T19:31:23.775971+00:00",
   "fund_symbol": "BDRY",
   "contract_spec_version": "2026.08.14-VERIFIED-V1",
-  "holdings_snapshot_as_of_date": "2026-10-05",
+  "holdings_snapshot_as_of_date": "2026-10-06",
   "is_official_as_of_date": true,
   "date_sourcing": "OFFICIAL_SOURCE_DISCLOSED",
   "source_urls": [
     "https://amplifyetfs.com/bdry-holdings/"
   ],
   "source_hashes": {
-    "expected_registry_sha256": "948ad062288987405bf5703a0b3b9035694b46db2359931b6ed2327669e060a0",
-    "computed_archive_sha256": "948ad062288987405bf5703a0b3b9035694b46db2359931b6ed2327669e060a0"
+    "expected_registry_sha256": "4ee24df873449e56ea2931175b60b28b2c0c3c3b939410108df54c62101aa4fb",
+    "computed_archive_sha256": "4ee24df873449e56ea2931175b60b28b2c0c3c3b939410108df54c62101aa4fb"
   },
   "provenance": {
     "official_source_url": "https://amplifyetfs.com/bdry-holdings/",
-    "raw_source_path": "data/etf/raw_sources/amplify_master_2026-10-05.csv",
-    "raw_source_sha256": "0827143ec844145058022207db89138e64b200f08598b69daf3a0b8e07526628",
-    "immutable_archive_path": "data/etf/raw_holdings/BDRY/2026-10-05.csv",
-    "expected_registry_sha256": "948ad062288987405bf5703a0b3b9035694b46db2359931b6ed2327669e060a0",
-    "computed_archive_sha256": "948ad062288987405bf5703a0b3b9035694b46db2359931b6ed2327669e060a0",
-    "snapshot_content_sha256": "bc95f11eaba531e6b4a5efdc13bcf42fc963f8ac48b21edd411a2443b3977a26",
-    "manifest_snapshot_sha256": "bc95f11eaba531e6b4a5efdc13bcf42fc963f8ac48b21edd411a2443b3977a26",
+    "raw_source_path": "data/etf/raw_sources/amplify_master_2026-10-06.csv",
+    "raw_source_sha256": "c4e9ffccdaec29f35dc39c5894c824766d2104d1ca4606fd351ead7be78e5b23",
+    "immutable_archive_path": "data/etf/raw_holdings/BDRY/2026-10-06.csv",
+    "expected_registry_sha256": "4ee24df873449e56ea2931175b60b28b2c0c3c3b939410108df54c62101aa4fb",
+    "computed_archive_sha256": "4ee24df873449e56ea2931175b60b28b2c0c3c3b939410108df54c62101aa4fb",
+    "snapshot_content_sha256": "2cccb3f1fa89f091bfa91e85b2f0416685b20ec04c994923673a9d5f958fa6b7",
+    "manifest_snapshot_sha256": "2cccb3f1fa89f091bfa91e85b2f0416685b20ec04c994923673a9d5f958fa6b7",
     "provenance_verified": true,
     "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
   },
   "freshness_state": {
-    "business_day_age": 1,
+    "business_day_age": 0,
     "is_fresh": true,
     "max_freshness_limit_bdays": 3,
-    "reference_time_utc": "2026-10-06T11:53:18.842257+00:00"
+    "reference_time_utc": "2026-10-06T19:31:23.775971+00:00"
   },
   "baseline": {
-    "as_of_date": "2026-10-05",
+    "as_of_date": "2026-10-06",
     "is_contemporaneous": true,
-    "total_nav_dollars": 33872147.12,
+    "total_nav_dollars": 33722721.45,
     "shares_outstanding": 2375040,
-    "nav_per_share": 14.2617,
-    "market_price": 14.2,
+    "nav_per_share": 14.1988,
+    "market_price": 14.14,
     "source_description": "Official Amplified Disclosures & CFTC Statements"
   },
   "positions": [
@@ -48,12 +48,12 @@
       "lots": 145.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 38964.0,
+      "price": 38479.0,
       "product_code": "CWF / C5T (SGX), C5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 680",
       "route_class": "Capesize",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 5649780.0
+      "position_notional": 5579455.0
     },
     {
       "contract_name": "Capesize 5TC FFA 180kt Timecharter Average M Nov 26",
@@ -62,12 +62,12 @@
       "lots": 145.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 40443.0,
+      "price": 40218.0,
       "product_code": "CWF / C5T (SGX), C5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 680",
       "route_class": "Capesize",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 5864235.0
+      "position_notional": 5831610.0
     },
     {
       "contract_name": "Capesize 5TC FFA 180kt Timecharter Average M Dec 26",
@@ -76,12 +76,12 @@
       "lots": 145.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 40321.0,
+      "price": 40043.0,
       "product_code": "CWF / C5T (SGX), C5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 680",
       "route_class": "Capesize",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 5846545.0
+      "position_notional": 5806235.0
     },
     {
       "contract_name": "Panamax 5TC FFA 82kt Timecharter Average M Oct 26",
@@ -90,12 +90,12 @@
       "lots": 220.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 21493.0,
+      "price": 21421.0,
       "product_code": "P4T / P5T (SGX), P5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 681",
       "route_class": "Panamax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 4728460.0
+      "position_notional": 4712620.0
     },
     {
       "contract_name": "Panamax 5TC FFA 82kt Timecharter Average M Nov 26",
@@ -104,12 +104,12 @@
       "lots": 220.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 21550.0,
+      "price": 21404.0,
       "product_code": "P4T / P5T (SGX), P5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 681",
       "route_class": "Panamax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 4741000.0
+      "position_notional": 4708880.0
     },
     {
       "contract_name": "Panamax 5TC FFA 82kt Timecharter Average M Dec 26",
@@ -118,12 +118,12 @@
       "lots": 220.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 21414.0,
+      "price": 21304.0,
       "product_code": "P4T / P5T (SGX), P5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 681",
       "route_class": "Panamax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 4711080.0
+      "position_notional": 4686880.0
     },
     {
       "contract_name": "Supramax 58 TC FFA 58kt Timecharter Average M Oct 26",
@@ -132,12 +132,12 @@
       "lots": 60.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 20221.0,
+      "price": 20568.0,
       "product_code": "S10 / S5T (SGX), S1 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 682",
       "route_class": "Supramax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 1213260.0
+      "position_notional": 1234080.0
     },
     {
       "contract_name": "Supramax 58 TC FFA 58kt Timecharter Average M Nov 26",
@@ -146,12 +146,12 @@
       "lots": 60.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 19607.0,
+      "price": 20039.0,
       "product_code": "S10 / S5T (SGX), S1 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 682",
       "route_class": "Supramax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 1176420.0
+      "position_notional": 1202340.0
     },
     {
       "contract_name": "Supramax 58 TC FFA 58kt Timecharter Average M Dec 26",
@@ -160,12 +160,12 @@
       "lots": 60.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 19386.0,
+      "price": 19714.0,
       "product_code": "S10 / S5T (SGX), S1 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 682",
       "route_class": "Supramax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 1163160.0
+      "position_notional": 1182840.0
     }
   ]
 }
