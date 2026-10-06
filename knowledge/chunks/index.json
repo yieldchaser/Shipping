@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T01:11:57Z",
+ "generated_at": "2026-10-06T21:25:47Z",
  "compiler_version": 2,
  "count": 105,
  "files": [
@@ -78,7 +78,7 @@
    "path": "knowledge/chunks/books.jsonl",
    "stem": "books",
    "year": null,
-   "bytes": 16113596
+   "bytes": 15459198
   },
   {
    "file": "breakwave_drybulk.jsonl",
@@ -134,7 +134,7 @@
    "path": "knowledge/chunks/breakwave_insights_insights_2026.jsonl",
    "stem": "breakwave_insights_insights_2026",
    "year": 2026,
-   "bytes": 4392237
+   "bytes": 4414251
   },
   {
    "file": "breakwave_tankers.jsonl",
@@ -148,7 +148,7 @@
    "path": "knowledge/chunks/breakwave_tankers_2026.jsonl",
    "stem": "breakwave_tankers_2026",
    "year": 2026,
-   "bytes": 46144
+   "bytes": 53576
   },
   {
    "file": "broker_reports_broker_report_2024.jsonl",
