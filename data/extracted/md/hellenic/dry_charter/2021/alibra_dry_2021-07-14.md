@@ -15,38 +15,7 @@ Support from East Coast South America and the Black Sea continued to propel rate
 
 ## Time Charter Estimates ($/pdpr)
 
-| Size | Tenor | Basin | Rate ($/day) | Trend |
-|---|---|---|---|---|
-| HANDY | 6 MOS | ATL | $24,500 | up |
-| HANDY | 6 MOS | PAC | $30,000 | up |
-| HANDY | 1 YR | ATL | $21,000 | flat |
-| HANDY | 1 YR | PAC | $24,000 | up |
-| HANDY | 2 YR | ATL | $18,000 | up |
-| HANDY | 2 YR | PAC | $17,000 | up |
-| SUPRAMAX | 6 MOS | ATL | $33,000 | flat |
-| SUPRAMAX | 6 MOS | PAC | $33,000 | flat |
-| SUPRAMAX | 1 YR | ATL | $25,500 | flat |
-| SUPRAMAX | 1 YR | PAC | $24,000 | flat |
-| SUPRAMAX | 2 YR | ATL | $20,000 | up |
-| SUPRAMAX | 2 YR | PAC | $18,750 | up |
-| ULTRAMAX | 6 MOS | ATL | $34,500 | flat |
-| ULTRAMAX | 6 MOS | PAC | $34,000 | flat |
-| ULTRAMAX | 1 YR | ATL | $28,000 | flat |
-| ULTRAMAX | 1 YR | PAC | $28,000 | flat |
-| ULTRAMAX | 2 YR | ATL | $25,000 | up |
-| ULTRAMAX | 2 YR | PAC | $24,000 | flat |
-| PANA/KMAX | 6 MOS | ATL | $35,000 | down |
-| PANA/KMAX | 6 MOS | PAC | $33,000 | down |
-| PANA/KMAX | 1 YR | ATL | $34,500 | up |
-| PANA/KMAX | 1 YR | PAC | $27,500 | up |
-| PANA/KMAX | 2 YR | ATL | $33,500 | up |
-| PANA/KMAX | 2 YR | PAC | $24,000 | flat |
-| CAPESIZE | 6 MOS | ATL | $32,000 | down |
-| CAPESIZE | 6 MOS | PAC | $34,000 | down |
-| CAPESIZE | 1 YR | ATL | $27,500 | flat |
-| CAPESIZE | 1 YR | PAC | $29,000 | flat |
-| CAPESIZE | 2 YR | ATL | $25,500 | flat |
-| CAPESIZE | 2 YR | PAC | $26,500 | flat |
+*Table estimates not available.*
 
 ## Contact & Source
 

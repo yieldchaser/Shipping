@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 07:41:41Z",
+  "updated_at": "2026-10-06 07:51:14Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -2238,6 +2238,22 @@
       "status": "Verified"
     },
     {
+      "file": "hellenic_gms_demolition_series.LP-SIDECAR.csv",
+      "target_metric": "Hellenic Gms Demolition Series.Lp-Sidecar.Csv",
+      "rows": 0,
+      "columns": [
+        "issue_date",
+        "rank",
+        "location",
+        "sentiment",
+        "dry_bulk_usd_ldt",
+        "tankers_usd_ldt",
+        "containers_usd_ldt",
+        "source_file"
+      ],
+      "status": "Verified"
+    },
+    {
       "file": "hellenic_gms_demolition_series.csv",
       "target_metric": "Hellenic Gms Demolition",
       "rows": 1096,
@@ -2712,7 +2728,7 @@
     {
       "file": "hellenic_vv_sales_series.csv",
       "target_metric": "Hellenic Vv Sales",
-      "rows": 2062,
+      "rows": 2022,
       "columns": [
         "issue_date",
         "sector",
@@ -4037,13 +4053,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 630357,
-  "total_master_series_csvs": 175,
-  "total_stacked_rows": 630357,
-  "total_series_csvs": 175,
+  "total_master_stacked_rows": 630317,
+  "total_master_series_csvs": 176,
+  "total_stacked_rows": 630317,
+  "total_series_csvs": 176,
   "total_master_workbooks": 1,
-  "total_series_count": 175,
-  "total_rows_extracted": 630662,
+  "total_series_count": 176,
+  "total_rows_extracted": 630622,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4125,6 +4141,7 @@
     "hellenic_best_oasis_deals_series.csv": 892,
     "hellenic_best_oasis_demolition_series.csv": 867,
     "hellenic_capesize_c3_c5_series.csv": 1164,
+    "hellenic_gms_demolition_series.LP-SIDECAR.csv": 0,
     "hellenic_gms_demolition_series.csv": 1096,
     "hellenic_gms_port_positions_series.csv": 2921,
     "hellenic_iron_ore_commentary_series.csv": 1179,
@@ -4150,7 +4167,7 @@
     "hellenic_smm_market_drivers_series.csv": 14,
     "hellenic_vv_benchmark_sales_series.csv": 124,
     "hellenic_vv_matrix_series.csv": 12350,
-    "hellenic_vv_sales_series.csv": 2062,
+    "hellenic_vv_sales_series.csv": 2022,
     "intermodal_baltic_indices_series.csv": 1255,
     "intermodal_baltic_tc_series.csv": 20348,
     "intermodal_bunkers_series.csv": 2287,

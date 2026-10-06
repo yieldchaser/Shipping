@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 5925,
-      "untracked_bytes": 3458132132
+      "untracked_files": 5924,
+      "untracked_bytes": 3457974696
     },
     {
       "path": "corpus/02-hellenic",
@@ -22566,11 +22566,6 @@
       "path": "corpus/01-brokers/gibson/2023/gibson_2023_Gibson-Shipbrokers_week-34.pdf",
       "bytes": 960664,
       "sha256": "98705825d2fed4e4dd41bb9f492a44d129f8eb0333a3d62047701191060f5f7e"
-    },
-    {
-      "path": "corpus/01-brokers/gibson/html/2026/2026-10-02_running-out-of-room.html",
-      "bytes": 157436,
-      "sha256": "b5ce40c60bd6471ee29bdd455847bd24be3ecee85fd1ee1ca3600d299b7f86f9"
     },
     {
       "path": "corpus/01-brokers/intermodal/2021/intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf",

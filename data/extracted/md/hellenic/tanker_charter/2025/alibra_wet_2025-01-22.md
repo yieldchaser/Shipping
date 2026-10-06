@@ -11,36 +11,7 @@
 
 ## Time Charter Estimates ($/pdpr)
 
-| Size | Tenor | Rate ($/day) | Eco / Scrubber | Trend |
-|---|---|---|---|---|
-| HANDY | 1 YR | $20,000 | Standard | down |
-| HANDY | 2 YR | $19,500 | Standard | flat |
-| HANDY | 3 YR | $21,000 | Yes | flat |
-| HANDY | 5 YR | $21,000 | Yes | flat |
-| MR IMO3 | 1 YR | $22,000 | Standard | down |
-| MR IMO3 | 2 YR | $21,000 | Standard | flat |
-| MR IMO3 | 3 YR | $23,000 | Yes | flat |
-| MR IMO3 | 5 YR | $22,500 | Yes | flat |
-| LR1 | 1 YR | $23,000 | Standard | down |
-| LR1 | 2 YR | $22,000 | Standard | flat |
-| LR1 | 3 YR | $24,500 | Yes | flat |
-| LR1 | 5 YR | $24,000 | Yes | down |
-| LR2 | 1 YR | $31,500 | Standard | down |
-| LR2 | 2 YR | $30,500 | Standard | flat |
-| LR2 | 3 YR | $32,500 | Yes | flat |
-| LR2 | 5 YR | $31,000 | Yes | down |
-| AFRA (115k dwt) | 1 YR | $32,500 | Standard | down |
-| AFRA (115k dwt) | 2 YR | $32,500 | Standard | down |
-| AFRA (115k dwt) | 3 YR | $32,500 | Yes | flat |
-| AFRA (115k dwt) | 5 YR | $30,000 | Yes | down |
-| SUEZ | 1 YR | $33,500 | Standard | down |
-| SUEZ | 2 YR | $32,500 | Standard | down |
-| SUEZ | 3 YR | $37,500 | Yes | flat |
-| SUEZ | 5 YR | $37,500 | Yes | flat |
-| VLCC | 1 YR | $45,000 | Standard | flat |
-| VLCC | 2 YR | $42,500 | Standard | flat |
-| VLCC | 3 YR | $47,500 | Yes | flat |
-| VLCC | 5 YR | $47,500 | Yes | flat |
+*Table estimates not available.*
 
 ## Contact & Source
 
