@@ -10,7 +10,7 @@ import subprocess
 from pathlib import Path
 
 def format_book5():
-    p = Path("corpus/books/lloyds_maritime_atlas_24th_edition.md")
+    p = Path("corpus/books/lloyds_maritime_atlas_24e.md")
     try:
         raw = subprocess.check_output(
             ["git", "show", f"HEAD:{p.as_posix()}"],
@@ -105,7 +105,7 @@ def format_book5():
     )
 
     p.write_text(doc, encoding="utf-8")
-    dest = Path("knowledge/docs/books/lloyds_maritime_atlas_24th_edition.md")
+    dest = Path("knowledge/docs/books/lloyds_maritime_atlas_24e.md")
     dest.write_text(doc, encoding="utf-8")
     print(f"Book 5 formatted successfully: {len(doc)} chars, {len(doc.splitlines())} lines written to {p} and {dest}")
 

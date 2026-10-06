@@ -8,9 +8,9 @@ import re
 from pathlib import Path
 import pymupdf
 
-PDF_PATH = Path("corpus/books/Maritime Economics A Macroeconomic Approach (Elias Karakitsos, Lambros Varnavides (auth.)) (z-lib.org).pdf")
-CORPUS_MD = Path("corpus/books/maritime_economics_a_macroeconomic_approach_elias_karakitsos_lambros_varnavides_auth_z_lib_org.md")
-KNOWLEDGE_MD = Path("knowledge/docs/books/maritime_economics_a_macroeconomic_approach_elias_karakitsos_lambros_varnavides_auth_z_lib_org.md")
+PDF_PATH = Path("corpus/books/maritime_economics_macro_karakitsos_varnavides.pdf")
+CORPUS_MD = Path("corpus/books/maritime_economics_macro_karakitsos_varnavides.md")
+KNOWLEDGE_MD = Path("knowledge/docs/books/maritime_economics_macro_karakitsos_varnavides.md")
 
 def parse_table_7_3():
     doc = pymupdf.open(PDF_PATH)

@@ -10,8 +10,8 @@ Format tables 4.1, 8.1, 8.2 in The International Handbook of Shipping Finance (B
 
 from pathlib import Path
 
-CORPUS_PATH = Path("corpus/books/the_international_handbook_of_shipping_finance_theory_and_practice_manolis_g_kavussanos_ilias_d_visvikis_eds_z_lib_org.md")
-KNOWLEDGE_PATH = Path("knowledge/docs/books/the_international_handbook_of_shipping_finance_theory_and_practice_manolis_g_kavussanos_ilias_d_visvikis_eds_z_lib_org.md")
+CORPUS_PATH = Path("corpus/books/shipping_finance_handbook_kavussanos_visvikis.md")
+KNOWLEDGE_PATH = Path("knowledge/docs/books/shipping_finance_handbook_kavussanos_visvikis.md")
 
 TABLE_4_1 = """**Table 4.1** Islamic financing terms
 

@@ -139,7 +139,7 @@ current series.
 |---|---|
 | `docs/research/Subscription Plans - UN Comtrade Help Center.pdf` | layout segfault; quarantined |
 | **74** files with bad `%PDF-` headers (full 7,816-doc pass; the earlier "3" was the 303-doc dryrun) | quarantined as not-a-pdf - verified correct 2026-10-01 |
-| `Maritime Economics ... (z-lib.org).pdf` (~400 pp) | needs `--timeout 900`; textbook, not time-series data |
+| `maritime_economics_macro_karakitsos_varnavides.pdf` (~400 pp) | needs `--timeout 900`; textbook, not time-series data |
 | `bp-stats-review-2020-full-report.pdf` (68 pp) | ~120 s; keep timeout generous |
 | Baltic `*/assets/*` | bot-wall placeholders, skipped by the HTML pass |
 | Breakwave HTML aggregations (Yahoo/CNN/Blogspot) | filtered by the HTML pass |

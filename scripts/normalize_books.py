@@ -104,7 +104,7 @@ def heal_drop_caps(text: str) -> str:
 
 def strip_thumb_prefixes(text: str, fname: str) -> str:
     """Remove marginal thumb characters prepended to prose lines in Stopford."""
-    if "stopford" not in fname and "maritime_economics_3rd_edition" not in fname:
+    if "stopford" not in fname and "maritime_economics_stopford_3e" not in fname:
         return text
     lines = text.splitlines()
     out = []

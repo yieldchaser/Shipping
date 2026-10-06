@@ -81,18 +81,18 @@ All 12 reference books have undergone formatting normalization. Each book contai
 
 | # | Book Filename | Size (Bytes) | Lines | Heading Breakdown | GraphRAG Status |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | [`predictability_of_second_hand_bulk_carriers_with_a_novel_hybrid.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/predictability_of_second_hand_bulk_carriers_with_a_novel_hybrid.md) | 42,105 | 401 | 1 H1, 8 H2, 11 H3 | Ready |
-| 2 | [`2022_quantitativemodellingofshippingfreightratesdevelopmentsinthepast20years.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/2022_quantitativemodellingofshippingfreightratesdevelopmentsinthepast20years.md) | 66,851 | 765 | 1 H1, 14 H2, 16 H3 | Ready |
-| 3 | [`the_world_s_key_industry_history_and_economics_of_international_shipping_g_harlaftis_s_tenold_j_valdaliso_z_lib_org.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/the_world_s_key_industry_history_and_economics_of_international_shipping_g_harlaftis_s_tenold_j_valdaliso_z_lib_org.md) | 788,928 | 15,227 | 22 H1, 74 H2, 16 H3 | Ready |
-| 4 | [`maritime_economics_a_macroeconomic_approach_elias_karakitsos_lambros_varnavides_auth_z_lib_org.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/maritime_economics_a_macroeconomic_approach_elias_karakitsos_lambros_varnavides_auth_z_lib_org.md) | 990,738 | 14,143 | 2 H1, 13 H2, 96 H3 | Ready |
-| 5 | [`lloyds_maritime_atlas_24th_edition.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/lloyds_maritime_atlas_24th_edition.md) | 481,470 | 16,718 | 1 H1, 4 H2, 272 H3 | Ready |
-| 6 | [`maritime_economics_3rd_edition.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/maritime_economics_3rd_edition.md) | 2,248,581 | 18,491 | 18 H1, 27 H2, 220 H3 | Ready |
-| 7 | [`the_business_of_shipping_lane_c_kendall_auth_z_library.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/the_business_of_shipping_lane_c_kendall_auth_z_library.md) | 1,080,776 | 19,057 | 1 H1, 17 H2, 0 H3 | Ready |
-| 8 | [`the_international_handbook_of_shipping_finance_theory_and_practice_manolis_g_kavussanos_ilias_d_visvikis_eds_z_lib_org.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/the_international_handbook_of_shipping_finance_theory_and_practice_manolis_g_kavussanos_ilias_d_visvikis_eds_z_lib_org.md) | 995,115 | 23,477 | 14 H1, 185 H2, 38 H3 | Ready |
-| 9 | [`the_sea_and_civilization_a_maritime_history_of_the_world_lincoln_paine_z_lib_org.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/the_sea_and_civilization_a_maritime_history_of_the_world_lincoln_paine_z_lib_org.md) | 2,086,380 | 17,462 | 1 H1, 57 H2, 250 H3 | Ready |
-| 10 | [`the_shipping_man_matthew_mccleery_z_lib_org.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/the_shipping_man_matthew_mccleery_z_lib_org.md) | 469,443 | 7,750 | 1 H1, 29 H2, 0 H3 | Ready |
-| 11 | [`shipping_business_unwrapped_duru_okan_z_library.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/shipping_business_unwrapped_duru_okan_z_library.md) | 305,798 | 5,896 | 1 H1, 30 H2, 10 H3 | Ready |
-| 12 | [`lesson_2_types_of_ships.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/lesson_2_types_of_ships.md) | 18,238 | 225 | 1 H1, 7 H2, 17 H3 | Ready |
+| 1 | [`secondhand_bulker_predictability_duru.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/secondhand_bulker_predictability_duru.md) | 42,105 | 401 | 1 H1, 8 H2, 11 H3 | Ready |
+| 2 | [`freight_rate_modelling_review_2022.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/freight_rate_modelling_review_2022.md) | 66,851 | 765 | 1 H1, 14 H2, 16 H3 | Ready |
+| 3 | [`worlds_key_industry_harlaftis_tenold_valdaliso.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/worlds_key_industry_harlaftis_tenold_valdaliso.md) | 788,928 | 15,227 | 22 H1, 74 H2, 16 H3 | Ready |
+| 4 | [`maritime_economics_macro_karakitsos_varnavides.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/maritime_economics_macro_karakitsos_varnavides.md) | 990,738 | 14,143 | 2 H1, 13 H2, 96 H3 | Ready |
+| 5 | [`lloyds_maritime_atlas_24e.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/lloyds_maritime_atlas_24e.md) | 481,470 | 16,718 | 1 H1, 4 H2, 272 H3 | Ready |
+| 6 | [`maritime_economics_stopford_3e.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/maritime_economics_stopford_3e.md) | 2,248,581 | 18,491 | 18 H1, 27 H2, 220 H3 | Ready |
+| 7 | [`business_of_shipping_kendall.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/business_of_shipping_kendall.md) | 1,080,776 | 19,057 | 1 H1, 17 H2, 0 H3 | Ready |
+| 8 | [`shipping_finance_handbook_kavussanos_visvikis.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/shipping_finance_handbook_kavussanos_visvikis.md) | 995,115 | 23,477 | 14 H1, 185 H2, 38 H3 | Ready |
+| 9 | [`sea_and_civilization_paine.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/sea_and_civilization_paine.md) | 2,086,380 | 17,462 | 1 H1, 57 H2, 250 H3 | Ready |
+| 10 | [`shipping_man_mccleery.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/shipping_man_mccleery.md) | 469,443 | 7,750 | 1 H1, 29 H2, 0 H3 | Ready |
+| 11 | [`shipping_business_unwrapped_duru.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/shipping_business_unwrapped_duru.md) | 305,798 | 5,896 | 1 H1, 30 H2, 10 H3 | Ready |
+| 12 | [`types_of_ships_lesson2.md`](file:///c:/Users/Dell/Github/Shipping/corpus/books/types_of_ships_lesson2.md) | 18,238 | 225 | 1 H1, 7 H2, 17 H3 | Ready |
 
 **Total:** 12 Books | 9,574,430 Bytes (9.13 MB) | 139,612 Lines  
 **Integrity:** 100% byte parity between `corpus/books/` and `knowledge/docs/books/`. Zero emojis. Zero data loss.

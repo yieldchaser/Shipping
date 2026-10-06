@@ -25,7 +25,7 @@ def title_case(s):
     return " ".join(out)
 
 def format_book6():
-    p = Path("corpus/books/maritime_economics_3rd_edition.md")
+    p = Path("corpus/books/maritime_economics_stopford_3e.md")
     try:
         raw = subprocess.check_output(
             ["git", "show", f"HEAD:{p.as_posix()}"],
@@ -307,7 +307,7 @@ def format_book6():
     )
 
     p.write_text(doc, encoding="utf-8")
-    dest = Path("knowledge/docs/books/maritime_economics_3rd_edition.md")
+    dest = Path("knowledge/docs/books/maritime_economics_stopford_3e.md")
     dest.write_text(doc, encoding="utf-8")
     print(f"Book 6 formatted successfully: {len(doc)} chars, {len(doc.splitlines())} lines written to {p} and {dest}")
 

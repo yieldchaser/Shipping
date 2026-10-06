@@ -12,8 +12,8 @@ import re
 import sys
 from pathlib import Path
 
-SOURCE_FILE = Path("corpus/books/the_shipping_man_matthew_mccleery_z_lib_org.md")
-DEST_FILE = Path("knowledge/docs/books/the_shipping_man_matthew_mccleery_z_lib_org.md")
+SOURCE_FILE = Path("corpus/books/shipping_man_mccleery.md")
+DEST_FILE = Path("knowledge/docs/books/shipping_man_mccleery.md")
 
 FRONTMATTER = """---
 title: "The Shipping Man"
@@ -22,7 +22,7 @@ publisher: "Marine Money, Inc."
 year: 2011
 isbn: "978-0-9847144-0-7"
 pages: 288
-source: "corpus/books/the_shipping_man_matthew_mccleery_z_lib_org.md"
+source: "corpus/books/shipping_man_mccleery.md"
 category: "Maritime Finance / Industry Narrative"
 ---
 

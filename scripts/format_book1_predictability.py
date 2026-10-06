@@ -2,14 +2,14 @@
 """
 scripts/format_book1_predictability.py
 Complete, clean formatter for Book 1:
-Predictability of second-hand bulk carriers with a novel hybrid algorithm
+secondhand_bulker_predictability_duru algorithm
 """
 
 import re
 from pathlib import Path
 
 def format_book1():
-    p = Path("corpus/books/predictability_of_second_hand_bulk_carriers_with_a_novel_hybrid.md")
+    p = Path("corpus/books/secondhand_bulker_predictability_duru.md")
     raw = p.read_text(encoding="utf-8")
 
     # Preserve YAML frontmatter
@@ -139,7 +139,7 @@ def format_book1():
     )
     
     p.write_text(doc, encoding="utf-8")
-    Path("knowledge/docs/books/predictability_of_second_hand_bulk_carriers_with_a_novel_hybrid.md").write_text(doc, encoding="utf-8")
+    Path("knowledge/docs/books/secondhand_bulker_predictability_duru.md").write_text(doc, encoding="utf-8")
     print(f"Book 1 formatted and verified: {len(doc)} chars, {len(doc.splitlines())} lines")
 
 if __name__ == "__main__":

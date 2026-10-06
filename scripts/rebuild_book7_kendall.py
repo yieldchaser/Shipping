@@ -8,9 +8,9 @@ import re
 from pathlib import Path
 import pymupdf
 
-CORPUS_MD = Path("corpus/books/the_business_of_shipping_lane_c_kendall_auth_z_library.md")
-KNOWLEDGE_MD = Path("knowledge/docs/books/the_business_of_shipping_lane_c_kendall_auth_z_library.md")
-PDF_PATH = list(Path("corpus/books").glob("*Business of Shipping*.pdf"))[0]
+CORPUS_MD = Path("corpus/books/business_of_shipping_kendall.md")
+KNOWLEDGE_MD = Path("knowledge/docs/books/business_of_shipping_kendall.md")
+PDF_PATH = Path("corpus/books/business_of_shipping_kendall.pdf")
 
 def extract_book7():
     doc = pymupdf.open(PDF_PATH)

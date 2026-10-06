@@ -10,9 +10,9 @@ import re
 from pathlib import Path
 import pymupdf
 
-CORPUS_PDF = Path("corpus/books/The Sea and Civilization A Maritime History of the World (Lincoln Paine) (z-lib.org).pdf")
-TARGET_MD = Path("corpus/books/the_sea_and_civilization_a_maritime_history_of_the_world_lincoln_paine_z_lib_org.md")
-KNOWLEDGE_MD = Path("knowledge/docs/books/the_sea_and_civilization_a_maritime_history_of_the_world_lincoln_paine_z_lib_org.md")
+CORPUS_PDF = Path("corpus/books/sea_and_civilization_paine.pdf")
+TARGET_MD = Path("corpus/books/sea_and_civilization_paine.md")
+KNOWLEDGE_MD = Path("knowledge/docs/books/sea_and_civilization_paine.md")
 
 def clean_inline_text(text: str) -> str:
     text = text.replace('\u2018', "'").replace('\u2019', "'")

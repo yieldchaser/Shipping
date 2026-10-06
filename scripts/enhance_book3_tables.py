@@ -13,8 +13,8 @@ Maintains 100% byte-for-byte mirroring between corpus/ and knowledge/.
 """
 from pathlib import Path
 
-CORPUS_MD = Path("corpus/books/the_world_s_key_industry_history_and_economics_of_international_shipping_g_harlaftis_s_tenold_j_valdaliso_z_lib_org.md")
-KNOWLEDGE_MD = Path("knowledge/docs/books/the_world_s_key_industry_history_and_economics_of_international_shipping_g_harlaftis_s_tenold_j_valdaliso_z_lib_org.md")
+CORPUS_MD = Path("corpus/books/worlds_key_industry_harlaftis_tenold_valdaliso.md")
+KNOWLEDGE_MD = Path("knowledge/docs/books/worlds_key_industry_harlaftis_tenold_valdaliso.md")
 
 TABLE_3_1 = """
 ### Table 3.1 Balance of Payments of the New England and Middle Colonies, Average 1768–72

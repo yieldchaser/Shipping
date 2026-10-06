@@ -9,9 +9,9 @@ import re
 from pathlib import Path
 import pymupdf
 
-CORPUS_PDF = Path("corpus/books/Maritime economics 3rd edition.pdf")
-TARGET_MD = Path("corpus/books/maritime_economics_3rd_edition.md")
-KNOWLEDGE_MD = Path("knowledge/docs/books/maritime_economics_3rd_edition.md")
+CORPUS_PDF = Path("corpus/books/maritime_economics_stopford_3e.pdf")
+TARGET_MD = Path("corpus/books/maritime_economics_stopford_3e.md")
+KNOWLEDGE_MD = Path("knowledge/docs/books/maritime_economics_stopford_3e.md")
 
 RUNNING_HEADERS = {
     "SEA TRANSPORT AND THE GLOBAL ECONOMY",

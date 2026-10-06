@@ -158,7 +158,7 @@ Scratch out-dir `data/extracted/scratch_review` deleted afterwards.
    appends a second checkpoint row per retried path (a duplicate-row comment
    from the verifier would be expected). If the silent-empty cause recurs it
    will now be visible: the verifier names each document.
-2. **The 3 timeout documents** (`Maritime economics 3rd edition.pdf`,
+2. **The 3 timeout documents** (`maritime_economics_stopford_3e.pdf`,
    `The Business of Shipping ...`, `The Sea and Civilization ...`) need a ceiling
    above 900 s, which the runbook does not currently say. They are textbooks, not
    time-series, so accepting the loss is a defensible alternative.

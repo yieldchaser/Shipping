@@ -14,9 +14,9 @@ import re
 from pathlib import Path
 import pymupdf
 
-PDF_PATH = Path("corpus/books/Lloyds_Maritime_Atlas_24th_Edition.pdf")
-TARGET_CORPUS = Path("corpus/books/lloyds_maritime_atlas_24th_edition.md")
-TARGET_KNOWLEDGE = Path("knowledge/docs/books/lloyds_maritime_atlas_24th_edition.md")
+PDF_PATH = Path("corpus/books/lloyds_maritime_atlas_24e.pdf")
+TARGET_CORPUS = Path("corpus/books/lloyds_maritime_atlas_24e.md")
+TARGET_KNOWLEDGE = Path("knowledge/docs/books/lloyds_maritime_atlas_24e.md")
 
 FRONTMATTER = """---
 title: "Lloyd's Maritime Atlas of World Ports and Shipping Places"
@@ -26,8 +26,8 @@ publisher: "Informa UK Ltd."
 year: 2007
 isbn: "978-1-84311-660-8"
 pages: 184
-source: "corpus/books/lloyds_maritime_atlas_24th_edition.md"
-raw_pdf: "corpus/books/Lloyds_Maritime_Atlas_24th_Edition.pdf"
+source: "corpus/books/lloyds_maritime_atlas_24e.md"
+raw_pdf: "corpus/books/lloyds_maritime_atlas_24e.pdf"
 category: "Maritime Cartography / Port Directory / Geographical Index"
 ---
 

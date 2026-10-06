@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 scripts/rebuild_book11_perfect.py
-Rebuild Book 11: Shipping Business Unwrapped by Okan Duru (Routledge / Z-Library).
+Rebuild Book 11: Shipping Business Unwrapped by Okan Duru (Routledge).
 
 Fixes all defects:
 1. Full-page figure vector chart artifacts (Figure 8.1 on p56 and Figure 8.2 on p58):
@@ -23,9 +23,9 @@ import pymupdf
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-PDF_PATH = Path("corpus/books/Shipping Business Unwrapped. (Duru, Okan) (Z-Library).pdf")
-TARGET_CORPUS = Path("corpus/books/shipping_business_unwrapped_duru_okan_z_library.md")
-TARGET_KNOWLEDGE = Path("knowledge/docs/books/shipping_business_unwrapped_duru_okan_z_library.md")
+PDF_PATH = Path("corpus/books/shipping_business_unwrapped_duru.pdf")
+TARGET_CORPUS = Path("corpus/books/shipping_business_unwrapped_duru.md")
+TARGET_KNOWLEDGE = Path("knowledge/docs/books/shipping_business_unwrapped_duru.md")
 
 FRONTMATTER = """---
 title: "Shipping Business Unwrapped"
@@ -34,7 +34,7 @@ publisher: "Routledge"
 year: 2018
 isbn: "978-1-138-04336-7"
 pages: 141
-source: "corpus/books/shipping_business_unwrapped_duru_okan_z_library.md"
+source: "corpus/books/shipping_business_unwrapped_duru.md"
 category: "Shipping Management / Maritime Economics"
 ---
 

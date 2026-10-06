@@ -16,9 +16,9 @@ import sys
 from pathlib import Path
 import pymupdf
 
-PDF_PATH = Path("corpus/books/Shipping Business Unwrapped. (Duru, Okan) (Z-Library).pdf")
-TARGET_CORPUS = Path("corpus/books/shipping_business_unwrapped_duru_okan_z_library.md")
-TARGET_KNOWLEDGE = Path("knowledge/docs/books/shipping_business_unwrapped_duru_okan_z_library.md")
+PDF_PATH = Path("corpus/books/shipping_business_unwrapped_duru.pdf")
+TARGET_CORPUS = Path("corpus/books/shipping_business_unwrapped_duru.md")
+TARGET_KNOWLEDGE = Path("knowledge/docs/books/shipping_business_unwrapped_duru.md")
 
 FRONTMATTER = """---
 title: "Shipping Business Unwrapped: Illusion, Bias and Fallacy in the Shipping Business"
@@ -28,8 +28,8 @@ publisher: "Routledge (Taylor & Francis Group)"
 year: 2019
 isbn: "978-1-138-29245-1"
 pages: 141
-source: "corpus/books/shipping_business_unwrapped_duru_okan_z_library.md"
-raw_pdf: "corpus/books/Shipping Business Unwrapped. (Duru, Okan) (Z-Library).pdf"
+source: "corpus/books/shipping_business_unwrapped_duru.md"
+raw_pdf: "corpus/books/shipping_business_unwrapped_duru.pdf"
 category: "Maritime Economics / Behavioral Finance"
 ---
 

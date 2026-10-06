@@ -14,8 +14,8 @@ import re
 import sys
 from pathlib import Path
 
-SOURCE_FILE = Path("corpus/books/the_sea_and_civilization_a_maritime_history_of_the_world_lincoln_paine_z_lib_org.md")
-DEST_FILE = Path("knowledge/docs/books/the_sea_and_civilization_a_maritime_history_of_the_world_lincoln_paine_z_lib_org.md")
+SOURCE_FILE = Path("corpus/books/sea_and_civilization_paine.md")
+DEST_FILE = Path("knowledge/docs/books/sea_and_civilization_paine.md")
 
 FRONTMATTER = """---
 title: "The Sea and Civilization: A Maritime History of the World"
@@ -24,7 +24,7 @@ publisher: "Alfred A. Knopf"
 year: 2013
 isbn: "978-1-4000-4409-2"
 pages: 744
-source: "corpus/books/the_sea_and_civilization_a_maritime_history_of_the_world_lincoln_paine_z_lib_org.md"
+source: "corpus/books/sea_and_civilization_paine.md"
 category: "Maritime History / Global Commerce"
 ---
 

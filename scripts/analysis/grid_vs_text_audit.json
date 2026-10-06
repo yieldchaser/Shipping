@@ -238,14 +238,14 @@
   "grid_pct": 98.8,
   "per_doc": [
    {
-    "doc": "reports\\The International Handbook of Shipping Finance Theory and Practice (Manolis G. Kavussanos, Ilias D. Visvikis (eds.)) (z-lib.org).pdf",
+    "doc": "reports\\shipping_finance_handbook_kavussanos_visvikis.pdf",
     "pages": 4,
     "text_numbers": 21,
     "grid_captured": 20,
     "pct": 95.2
    },
    {
-    "doc": "reports\\The Sea and Civilization A Maritime History of the World (Lincoln Paine) (z-lib.org).pdf",
+    "doc": "reports\\sea_and_civilization_paine.pdf",
     "pages": 4,
     "text_numbers": 62,
     "grid_captured": 62,

@@ -11,10 +11,10 @@ import subprocess
 from pathlib import Path
 
 def format_book4():
-    p = Path("corpus/books/maritime_economics_a_macroeconomic_approach_elias_karakitsos_lambros_varnavides_auth_z_lib_org.md")
+    p = Path("corpus/books/maritime_economics_macro_karakitsos_varnavides.md")
     try:
         raw = subprocess.check_output(
-            ["git", "show", "HEAD:corpus/books/maritime_economics_a_macroeconomic_approach_elias_karakitsos_lambros_varnavides_auth_z_lib_org.md"],
+            ["git", "show", "HEAD:corpus/books/maritime_economics_macro_karakitsos_varnavides.md"],
             text=True,
             encoding="utf-8"
         )
@@ -180,7 +180,7 @@ def format_book4():
     )
 
     p.write_text(doc, encoding="utf-8")
-    dest = Path("knowledge/docs/books/maritime_economics_a_macroeconomic_approach_elias_karakitsos_lambros_varnavides_auth_z_lib_org.md")
+    dest = Path("knowledge/docs/books/maritime_economics_macro_karakitsos_varnavides.md")
     dest.write_text(doc, encoding="utf-8")
     print(f"Book 4 formatted successfully: {len(doc)} chars, {len(doc.splitlines())} lines written to {p} and {dest}")
 

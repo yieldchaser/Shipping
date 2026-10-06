@@ -13,7 +13,7 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")
 
 def format_book7():
-    p = Path("corpus/books/the_business_of_shipping_lane_c_kendall_auth_z_library.md")
+    p = Path("corpus/books/business_of_shipping_kendall.md")
     try:
         raw = subprocess.check_output(
             ["git", "show", f"HEAD:{p.as_posix()}"],
@@ -230,7 +230,7 @@ def format_book7():
     )
 
     p.write_text(doc, encoding="utf-8")
-    dest = Path("knowledge/docs/books/the_business_of_shipping_lane_c_kendall_auth_z_library.md")
+    dest = Path("knowledge/docs/books/business_of_shipping_kendall.md")
     dest.write_text(doc, encoding="utf-8")
     print(f"Book 7 formatted successfully: {len(doc)} chars, {len(doc.splitlines())} lines written to {p} and {dest}")
 

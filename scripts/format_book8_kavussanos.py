@@ -13,8 +13,8 @@ import re
 import sys
 from pathlib import Path
 
-SOURCE_FILE = Path("corpus/books/the_international_handbook_of_shipping_finance_theory_and_practice_manolis_g_kavussanos_ilias_d_visvikis_eds_z_lib_org.md")
-DEST_FILE = Path("knowledge/docs/books/the_international_handbook_of_shipping_finance_theory_and_practice_manolis_g_kavussanos_ilias_d_visvikis_eds_z_lib_org.md")
+SOURCE_FILE = Path("corpus/books/shipping_finance_handbook_kavussanos_visvikis.md")
+DEST_FILE = Path("knowledge/docs/books/shipping_finance_handbook_kavussanos_visvikis.md")
 
 FRONTMATTER = """---
 title: "The International Handbook of Shipping Finance: Theory and Practice"
@@ -27,7 +27,7 @@ year: 2016
 isbn: "978-1-137-46545-0"
 doi: "10.1057/978-1-137-46546-7"
 pages: 440
-source: "corpus/books/the_international_handbook_of_shipping_finance_theory_and_practice_manolis_g_kavussanos_ilias_d_visvikis_eds_z_lib_org.md"
+source: "corpus/books/shipping_finance_handbook_kavussanos_visvikis.md"
 category: "Shipping Finance / Theory & Practice"
 ---
 

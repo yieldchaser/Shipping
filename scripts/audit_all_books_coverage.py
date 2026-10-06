@@ -8,18 +8,18 @@ from pathlib import Path
 import pymupdf
 
 BOOKS = [
-    ("Book 1", "Predictability of second-hand bulk carriers with a novel hybrid.pdf", "predictability_of_second_hand_bulk_carriers_with_a_novel_hybrid.md"),
-    ("Book 2", "2022-Quantitativemodellingofshippingfreightratesdevelopmentsinthepast20years.pdf", "2022_quantitativemodellingofshippingfreightratesdevelopmentsinthepast20years.md"),
-    ("Book 3", "The World's Key Industry History and Economics of International Shipping (G. Harlaftis, S. Tenold, J. Valdaliso) (z-lib.org).pdf", "the_world_s_key_industry_history_and_economics_of_international_shipping_g_harlaftis_s_tenold_j_valdaliso_z_lib_org.md"),
-    ("Book 4", "Maritime Economics A Macroeconomic Approach (Elias Karakitsos, Lambros Varnavides (auth.)) (z-lib.org).pdf", "maritime_economics_a_macroeconomic_approach_elias_karakitsos_lambros_varnavides_auth_z_lib_org.md"),
-    ("Book 5", "Lloyds_Maritime_Atlas_24th_Edition.pdf", "lloyds_maritime_atlas_24th_edition.md"),
-    ("Book 6", "Maritime economics 3rd edition.pdf", "maritime_economics_3rd_edition.md"),
-    ("Book 7", "The Business of Shipping (Lane C. Kendall (auth.)) (Z-Library).pdf", "the_business_of_shipping_lane_c_kendall_auth_z_library.md"),
-    ("Book 8", "The International Handbook of Shipping Finance Theory and Practice (Manolis G. Kavussanos, Ilias D. Visvikis (eds.)) (z-lib.org).pdf", "the_international_handbook_of_shipping_finance_theory_and_practice_manolis_g_kavussanos_ilias_d_visvikis_eds_z_lib_org.md"),
-    ("Book 9", "The Sea and Civilization A Maritime History of the World (Lincoln Paine) (z-lib.org).pdf", "the_sea_and_civilization_a_maritime_history_of_the_world_lincoln_paine_z_lib_org.md"),
-    ("Book 10", "The Shipping Man (Matthew McCleery) (z-lib.org).pdf", "the_shipping_man_matthew_mccleery_z_lib_org.md"),
-    ("Book 11", "Shipping Business Unwrapped. (Duru, Okan) (Z-Library).pdf", "shipping_business_unwrapped_duru_okan_z_library.md"),
-    ("Book 12", "Lesson-2-Types-of-Ships.pdf", "lesson_2_types_of_ships.md"),
+    ("Book 1", "secondhand_bulker_predictability_duru.pdf", "secondhand_bulker_predictability_duru.md"),
+    ("Book 2", "freight_rate_modelling_review_2022.pdf", "freight_rate_modelling_review_2022.md"),
+    ("Book 3", "worlds_key_industry_harlaftis_tenold_valdaliso.pdf", "worlds_key_industry_harlaftis_tenold_valdaliso.md"),
+    ("Book 4", "maritime_economics_macro_karakitsos_varnavides.pdf", "maritime_economics_macro_karakitsos_varnavides.md"),
+    ("Book 5", "lloyds_maritime_atlas_24e.pdf", "lloyds_maritime_atlas_24e.md"),
+    ("Book 6", "maritime_economics_stopford_3e.pdf", "maritime_economics_stopford_3e.md"),
+    ("Book 7", "business_of_shipping_kendall.pdf", "business_of_shipping_kendall.md"),
+    ("Book 8", "shipping_finance_handbook_kavussanos_visvikis.pdf", "shipping_finance_handbook_kavussanos_visvikis.md"),
+    ("Book 9", "sea_and_civilization_paine.pdf", "sea_and_civilization_paine.md"),
+    ("Book 10", "shipping_man_mccleery.pdf", "shipping_man_mccleery.md"),
+    ("Book 11", "shipping_business_unwrapped_duru.pdf", "shipping_business_unwrapped_duru.md"),
+    ("Book 12", "types_of_ships_lesson2.pdf", "types_of_ships_lesson2.md"),
 ]
 
 CORPUS_DIR = Path("corpus/books")

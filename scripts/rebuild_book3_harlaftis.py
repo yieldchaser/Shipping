@@ -11,7 +11,7 @@ from pathlib import Path
 import pymupdf
 
 CORPUS_DIR = Path("corpus/books")
-TARGET_MD = CORPUS_DIR / "the_world_s_key_industry_history_and_economics_of_international_shipping_g_harlaftis_s_tenold_j_valdaliso_z_lib_org.md"
+TARGET_MD = CORPUS_DIR / "worlds_key_industry_harlaftis_tenold_valdaliso.md"
 KNOWLEDGE_MD = Path("knowledge/docs/books") / TARGET_MD.name
 
 def clean_inline_text(text: str) -> str:
@@ -104,11 +104,10 @@ def format_page_items(items):
     return "".join(out)
 
 def main():
-    matches = list(CORPUS_DIR.glob("*Harlaftis*.pdf"))
-    if not matches:
+    pdf_path = CORPUS_DIR / "worlds_key_industry_harlaftis_tenold_valdaliso.pdf"
+    if not pdf_path.exists():
         print("Error: Could not locate Harlaftis PDF")
         sys.exit(1)
-    pdf_path = matches[0]
     print(f"Opening PDF: {pdf_path.name}")
     doc = pymupdf.open(pdf_path)
     print(f"Total pages: {len(doc)}")

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Rebuild Book 1: Predictability of second-hand bulk carriers with a novel hybrid
+Rebuild Book 1: secondhand_bulker_predictability_duru
 Extracts 100% of the academic paper from raw PDF with zero data loss:
 - Nomenclature
 - Sections 1 through 5 complete
@@ -15,9 +15,9 @@ import re
 from pathlib import Path
 import pymupdf
 
-PDF_PATH = Path("corpus/books/Predictability of second-hand bulk carriers with a novel hybrid.pdf")
-CORPUS_MD = Path("corpus/books/predictability_of_second_hand_bulk_carriers_with_a_novel_hybrid.md")
-KNOWLEDGE_MD = Path("knowledge/docs/books/predictability_of_second_hand_bulk_carriers_with_a_novel_hybrid.md")
+PDF_PATH = Path("corpus/books/secondhand_bulker_predictability_duru.pdf")
+CORPUS_MD = Path("corpus/books/secondhand_bulker_predictability_duru.md")
+KNOWLEDGE_MD = Path("knowledge/docs/books/secondhand_bulker_predictability_duru.md")
 
 def build_book1():
     doc = pymupdf.open(PDF_PATH)
@@ -30,8 +30,8 @@ journal: "The Asian Journal of Shipping and Logistics"
 year: 2021
 accepted_date: "2021-07-21"
 pages: 10
-source: "corpus/books/predictability_of_second_hand_bulk_carriers_with_a_novel_hybrid.md"
-raw_pdf: "corpus/books/Predictability of second-hand bulk carriers with a novel hybrid.pdf"
+source: "corpus/books/secondhand_bulker_predictability_duru.md"
+raw_pdf: "corpus/books/secondhand_bulker_predictability_duru.pdf"
 category: "Maritime Economics / Econometric Forecasting / Asset Play / Machine Learning"
 vessel_classes:
   - capesize

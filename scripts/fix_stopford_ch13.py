@@ -11,8 +11,8 @@ Addresses user screenshots 1 and 2:
 import re
 from pathlib import Path
 
-STOPFORD_PATH = Path("corpus/books/maritime_economics_3rd_edition.md")
-KNOWLEDGE_PATH = Path("knowledge/docs/books/maritime_economics_3rd_edition.md")
+STOPFORD_PATH = Path("corpus/books/maritime_economics_stopford_3e.md")
+KNOWLEDGE_PATH = Path("knowledge/docs/books/maritime_economics_stopford_3e.md")
 
 NEW_CH13_SECTION = """<!-- Page 550 -->
 

@@ -13,8 +13,8 @@ Rebuilds and enriches Book 12 with zero data loss:
 import sys
 from pathlib import Path
 
-TARGET_CORPUS = Path("corpus/books/lesson_2_types_of_ships.md")
-TARGET_KNOWLEDGE = Path("knowledge/docs/books/lesson_2_types_of_ships.md")
+TARGET_CORPUS = Path("corpus/books/types_of_ships_lesson2.md")
+TARGET_KNOWLEDGE = Path("knowledge/docs/books/types_of_ships_lesson2.md")
 
 DOCUMENT_CONTENT = """---
 title: "Types of Ships: Educational Guide to Ship Categories and Maritime Careers"
@@ -22,8 +22,8 @@ author: "NAMEPA (North American Marine Environment Protection Association)"
 publisher: "NAMEPA Education Project"
 year: 2016
 pages: 39
-source: "corpus/books/lesson_2_types_of_ships.md"
-raw_pdf: "corpus/books/Lesson-2-Types-of-Ships.pdf"
+source: "corpus/books/types_of_ships_lesson2.md"
+raw_pdf: "corpus/books/types_of_ships_lesson2.pdf"
 category: "Vessel Classification / Maritime Careers / Industry Education"
 vessel_classes:
   - general_cargo

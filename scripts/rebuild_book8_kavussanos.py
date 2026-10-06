@@ -8,9 +8,9 @@ import re
 from pathlib import Path
 import pymupdf
 
-CORPUS_MD = Path("corpus/books/the_international_handbook_of_shipping_finance_theory_and_practice_manolis_g_kavussanos_ilias_d_visvikis_eds_z_lib_org.md")
-KNOWLEDGE_MD = Path("knowledge/docs/books/the_international_handbook_of_shipping_finance_theory_and_practice_manolis_g_kavussanos_ilias_d_visvikis_eds_z_lib_org.md")
-PDF_PATH = list(Path("corpus/books").glob("*International Handbook*.pdf"))[0]
+CORPUS_MD = Path("corpus/books/shipping_finance_handbook_kavussanos_visvikis.md")
+KNOWLEDGE_MD = Path("knowledge/docs/books/shipping_finance_handbook_kavussanos_visvikis.md")
+PDF_PATH = Path("corpus/books/shipping_finance_handbook_kavussanos_visvikis.pdf")
 
 def clean_ligatures(text):
     text = text.replace('\ufb01', 'fi').replace('\ufb02', 'fl')
