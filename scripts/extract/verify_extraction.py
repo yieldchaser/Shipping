@@ -335,6 +335,14 @@ def check_quality(out_root, actions, info, sample=40):
     import json as _json
     import statistics
     docs = glob.glob(os.path.join(out_root, "*", "*"))
+    # Only DOCUMENT dirs belong in this sample. The glob also matches loose files
+    # (README.md) and the DB layer (corpus/db/*: corpus.duckdb, *.parquet, .db),
+    # which hold no text.jsonl/tables.jsonl and were therefore counted as
+    # "recent docs that produced nothing" - a false positive riding the newest
+    # mtimes. Measured 2026-10-06: 5 of the 40 newest slots were corpus/db/*.
+    docs = [d for d in docs
+            if os.path.isdir(d)
+            and os.path.relpath(d, out_root).split(os.sep)[0] != "db"]
     if not docs:
         info["quality"] = "no output yet"
         return

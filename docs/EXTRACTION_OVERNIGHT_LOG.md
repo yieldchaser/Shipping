@@ -3478,3 +3478,61 @@ Evidence: `docs/linked_asset_fatal_gate_verdict.md`.
 Also this run: independent distinct-content census of hellenic (md5, 8,028 PDFs) - iron_ore
 1181/1181 distinct covered, demolition 726 covered, shipbuilding 357 distinct all covered
 (186 breakwave + 170 clarksons, 0 stems without an md). Extraction programme re-confirmed closed.
+
+## 2026-10-06 13:2x IST - deep review: verifier counted the DB layer as documents
+
+**Measured.** `verify_extraction.py --out data/extracted --state ... --json` returned
+`done=880/882, ok=876, error=3, no-extractable-content=1`, `golden 15/15`,
+`db 189481 tables / 6726703 cells`, `empty_unexpected=0`, `checkpoint 7816/7816 unique`,
+`disk_free 13.4 GB`. No `run_batch`/`batch_worker` process running (the full pass is
+COMPLETE - `corpus_state.json` note: 7816 planned, 0 remaining, run COMPLETE).
+
+**Found.** `check_quality()` samples the 40 most recently written entries under
+`data/extracted/corpus/*/*` and reports how many produced no text and no tables
+(`quality_empty_docs_in_sample`, `thin`). The glob was not filtered to directories,
+so it matched the DB layer: `corpus/db/corpus.duckdb`, `catalogue.parquet`,
+`tables.parquet`, `tables.db` and `corpus/db/_backup_20260923_parserrebuild`. Those
+files/dirs are the newest mtimes in the tree, so they permanently occupied slots and
+were counted as "recent documents that produced nothing". Reproduced read-only:
+`thin = 5 -> ['db/corpus.duckdb','db/catalogue.parquet','db/tables.parquet',
+'db/tables.db','db/_backup_20260923_parserrebuild']`. That is a false positive in the
+very metric meant to catch silent extraction degradation (threshold 5/40 = 0.125,
+below the 0.35 firing line, so it had not yet raised an alert - but it inflates the
+reading and could fire if the sample tips).
+
+**Changed.** `scripts/extract/verify_extraction.py`, `check_quality()`: restrict the
+sample to directories and drop the `db` component of the corpus tree. Substance
+metrics unchanged - `quality_recent_docs=40, median_blocks=634, median_tables=37,
+mean_text_verified=0.859`; `quality_empty_docs_in_sample` 5 -> 0.
+
+**Golden check.** `scripts/analysis/golden_matrix.py`: star_asia pymupdf-text 15/15
+and plumber-text 15/15, ssy_atlantic camelot/pdfplumber/text 14/14, breakwave text
+6/6 - identical to the committed baseline. (The fix touches only the monitor, not any
+extractor.)
+
+**Quality observations (read from output + source PDFs, not from metrics).**
+* xclusiv W39 (`xclusiv_29_09_2026...`): baltic_indices BDI=3426 (prev 3370, +1.7%),
+  BCI=5784, BPI=2407/2251; reported_sales 20 rows with parsed `PRICE_USD_MILL`
+  (GCL HAZIRA 39.0, NEW WAVELET 38.4, BABITONGA 38.5). Cross-checked against
+  `pymupdf` page text of the source PDF: `3,426`, `5,784`, `2,407`, `2,251`,
+  `GCL HAZIRA`, `NEW WAVELET`, `39.0` all present. Correct.
+* star_asia W39: indicative_demolition_prices Alang Tankers 490-500 -> mid 495;
+  source PDF text contains 490/500/510 and the values are midpoints, so the derived
+  `price_usd_per_ldt` is right. demolition_deals carry arrival dates parsed from EU
+  DD.MM.YYYY (`25.09.2026` -> 2026-09-25, note `EU_DDMMYYYY`). Correct.
+* lion 2026: W02-W32 store `baltic_indices = []` while W36-W40 store 5 rows. NOT a
+  defect - the source PDFs differ: `Baltic` appears 0x in the W02 text, 0x in W20
+  (only a prose `BDI` mention), 6x in W40, which carries a real table. The publisher
+  added the index table mid-year; extraction tracks the source.
+* Per-source reconciliation (`text_verified`) over 16,803 doc dirs: shipbrokers 0.883
+  (81,066 rated), hellenic 0.821 (50,310), poten 0.943, seabrokers 0.919, breakwave
+  0.954, drybulk/tankers 1.000. The outlier is `drewry_ais_pdfs` at 0.44 (10,189
+  rated, 3,900 zero) - these are Power BI Desktop dashboard exports (8/9 pages
+  image-heavy) whose "tables" are empty-cell grids and prose, the known noise class;
+  low reconciliation there is expected, not a new defect.
+
+**Deliberately NOT changed.** No data files touched; the DB-layer metric was the one
+provable defect and it is monitor-only. Still pending human decision (unchanged from
+the previous entry): inventory drift 383 PDFs; DB/series rebuild; the 5 advanced_shipping
+2023 doc re-extracts. Committed to `auto/extract-fixes-2026-10-06-deepreview` (not main);
+main untouched.
