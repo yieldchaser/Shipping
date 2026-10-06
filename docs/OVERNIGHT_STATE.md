@@ -1,3 +1,17 @@
+**THIS RUN (2026-10-06 21:0x, source-by-source, 30m job) - nothing to EXTRACT (re-verified); produced the MISSING INPUT for the one open decision: a read-only fingerprint survey of `corpus/archive/` (`docs/archive_backfill_survey.md`). NEW measured correction: the archive body is 615 PDFs, not 724 - gibson is already done.**
+
+Branch `auto/extract-fixes-2026-10-06-deepreview`, working tree CLEAN (0 files) at start. Live python = Hermes gateways/proxy only, nothing of ours extracting. Register gate GREEN: `verify_registers.py` = ALL PASSED (175 CSVs / **630,393** rows == JSON == MD, 0 mismatches). xclusiv 271/271 (year-partitioned). Newest corpus mtime = the 2 best_oasis PDFs from 20:03 (already extracted).
+
+- **CORRECTION (measured now):** stem-matched all 724 archive PDFs against all 28,320 md stems -> **golden_destiny 252 + allied 203 + anchor 30 + other 130 = 615 unmatched**; **gibson 109/109 ALREADY has md** (`data/extracted/md/gibson/` = 265 md, 2021-2026 - a LIVE source fed from `01-brokers/gibson/html/`). The standing "724 archive PDFs" over-counts by 109.
+- **Per-source fingerprint (seeded samples across every year dir):** golden_destiny 252 (2021-2024) = S&P weekly reports (vector charts ~1000 draws/pg) + 81 chart-only 1-page "Special Editions"; numbers MIXED (2021 pure ISO, 2022+ both comma-decimals AND period-thousands -> derive per page). allied 203 (2021-2024) = dense S&P Statistics tables (9 pp) + weekly reviews (12-14 pp); **pure ISO** (simplest). anchor 30 (2021-2022) = weekly market report, MIXED numbers, timeframe overlaps held data -> SKIP. other 130 (2018-2023) = heterogeneous, not one publisher -> SKIP until sub-classified.
+- **Three-baseline test:** golden_destiny + allied are absent from feeds/series CSVs, from our md tier, and from index.html -> GENUINELY_MISSING. (grep "anchor" hits in drewry CSVs = the word *anchorage*, not the publisher.)
+- **Liveness gate:** newest archive content = 2024 (>700d) -> every archive source is BACKFILL_ONLY, never CONSTRUCT.
+- **NOT started any extraction** - BACKFILL_ONLY and the user gates depth. The survey is the input for the go/no-go. If green-lit, order = allied (best value) > golden_destiny > anchor/other SKIP.
+
+NEXT RUN: nothing to EXTRACT. Open user decision unchanged + now informed: go/no-go on the archive backfill (615 PDFs, 3 real sources). Watch the automation does not re-stale the register (`verify_registers.py` gate / `sync_extraction_register.py` fix).
+
+---
+
 **THIS RUN (2026-10-06 20:5x, source-by-source, 30m job) - NOTHING TO EXTRACT (independently re-verified by a NEW date-coverage method); all green. The ONLY unextracted body left is `corpus/archive/*` (724 PDFs, newest content YEAR 2024 = >640d) = BACKFILL_ONLY per the liveness gate - needs the user's go/no-go.**
 
 Branch `auto/extract-fixes-2026-10-06-deepreview` (HEAD 32b0decd4, working tree CLEAN = 0 files). Live python = Hermes gateways/proxy only; nothing of ours extracting. Register gate GREEN: `verify_registers.py` = ALL PASSED (175 CSVs / **630,393** rows == JSON == MD, 0 mismatches).
