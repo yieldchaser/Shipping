@@ -3337,3 +3337,122 @@ was written. `data/extracted/scratch_review` scratch dir deleted at the end of t
    --rebuild` then the series build + QA.
 3. Hellenic chunk-shard shortfall (all hellenic) with the corrected
    remediation note in `text_audit_recheck.json`.
+
+## 2026-10-06 09:48 IST (04:18 UTC) - deep review
+
+Verdict: **FIXED** (one real, provable defect found and repaired on a branch;
+no corpus data touched, no re-run).
+
+### Run state and honest liveness
+
+`verify_extraction.py` (runbook flags): `done 880 / planned 882`, `ok 876`,
+`error 3`, `no-extractable-content 1`, `checkpoint_rows 7816` (all unique),
+`crash_recovered_docs 249`, `golden 15/15`, `db 189481 tables / 6726703 cells`,
+`disk_free_gb 16.3`, `actions: []`. `state_age_min 20035` is the known
+COMPLETE-not-dead case (queue from the 2026-09-21 inventory; 0 remained).
+
+`Get-CimInstance Win32_Process` for `run_batch` / `batch_worker` returned
+**nothing**: the batch is finished, there is nothing to supervise. (Note: a
+`git pull --rebase --autostash origin main` ran at 09:31:38 IST during this
+review, re-hashing the local review commits; the autostash preserved this run's
+working-tree edit. No tracked file other than mine was modified.)
+
+### Finding (FIXED): pymupdf's page text drops the data cells for one source-era
+
+The reconciliation (`verify_tables_against_text` / `text_values_not_in_tables`)
+reconciles a table grid against `page.get_text()` (pymupdf) as the text layer.
+On **advanced_shipping 2023 W31/W34/W35/W36/W37** pymupdf maps that font
+subset's data-cell glyphs to SPACES, so its text layer holds almost none of the
+sales-table values, while the values are plainly there and readable by
+pdfminer/pdfplumber. Measured, per document, over the numeric cells of the
+tables that carry the defect (camelot-stream rows, numbers compared
+comma-normalized):
+
+    doc                                   cells  in_pymupdf  in_pdfplumber
+    advanced_shipping_2023_W31             10        5            10
+    advanced_shipping_2023_W34             36        8            36
+    advanced_shipping_2023_W35             18        4            18
+    advanced_shipping_2023_W36             27        6            27
+    advanced_shipping_2023_W37             26        8            26
+    TOTAL                                 117       31           117
+
+Ground truth is not another extractor: `advanced_shipping_sales_series.csv`
+(the bespoke PyMuPDF-geometry runner's output) lists the same row for W31 -
+`Fida, VLCC, DWT "316,373", 2011, "Hyundai, Korea", "$ 64m"` - so the values
+are real and the pymupdf page text is the incomplete side. Directly, on W31:
+`page.get_text()` for page index 3 returns 337 chars of blanks
+(`Type Name Teu YoB ... $ ... REPORTED SALES`), while pdfplumber returns 964
+chars containing `6.494`, `03/2024`, `$32m`, `4.963`.
+
+Impact (all on the unconsumed `data/extracted/corpus/**` tree, so diagnostic
+only): the affected tables' `text_verified` is under-reported (W31 p2 camelot
+`2/31` and `7/56`; p3 `0/31`), and the `ocr_queue` rule
+`all(text_verified == 0) -> "table values not in text layer (image table)"`
+raises a FALSE positive on W31 p3. Corpus-wide the stored flags total **227**
+image-table pages (shipbrokers 120, hellenic 77, remainder books) - numbers
+from the pre-2026-09-23 code; see the correction below.
+
+### CORRECTION of a prior conclusion
+
+The 2026-10-05 entry (this same file, "the 2 stay flagged - and those 2 are the
+rule's true positives") named W31 p3 and W35 p3 as genuine image tables, having
+re-checked them with `fitz` (pymupdf) alone. That conclusion is wrong: the same
+pages' values ARE in the text layer, readable by pdfplumber
+(`6.494`, `03/2024`, `$32m` on W31 p3). Those two are false positives too, and
+the rule's "true positive" set is currently empty for this source-era. The
+source PDFs are Calibri-subset digitally-born PDFs, not pictures.
+
+### Fix (minimal, `scripts/extract/extract_all.py`)
+
+`extract_tables_union(..., with_text=True)` now also returns the pdfplumber
+page text from the page object it already opens; `process_one` reconciles the
+grid against the union of the pymupdf and pdfplumber page text. Only a value's
+PRESENCE is tested, so the union can only ADD recall; `text.jsonl`, routing
+(`pix_chars`/`route_page`), table extraction and `image_only_table_suspect`
+still use the pymupdf page text unchanged. The extra pdfplumber page text costs
+~0 (the page is already open for `find_tables()`).
+
+Evidence, same document, scratch out-dir, same command:
+
+| | pages `ocr_queue` | camelot p2 tv | camelot p3 tv | tables | blocks | images | routes |
+|---|---|---|---|---|---|---|---|
+| before | 1 (`table values not in text layer (image table)`, p3) | 2/31, 7/56 | 0/31 | 52 | 330 | 12 | 9 text / 1 garbled |
+| after  | 0 | 31/31, 56/56 | 31/31 | 52 | 330 | 12 | 9 text / 1 garbled |
+
+Only the reconciliation metric moved; counts and routes are identical.
+`golden_matrix.py` re-run after the patch: star_asia pymupdf-text 15/15,
+plumber-text 15/15, camelot-stream 13/15 (documented); ssy_atlantic
+camelot/pdfplumber 14/14 and text 14/14; breakwave text 6/6 - no regression.
+`grid_vs_text_audit.py` calls `extract_tables_union` with the old signature and
+still receives a list (the new return is opt-in), so it is unaffected.
+
+Branch/commit: `auto/extract-fixes-2026-10-06-deepreview` (HEAD left on the
+branch so the fix applies to future extractions; main untouched, not pushed).
+
+### Deliberately NOT changed
+
+* **The already-extracted tree keeps its low `text_verified` and its 227 stored
+  image-table flags.** Repairing them means re-extracting, a human decision;
+  and this tree feeds nothing but `build_table_db.py`, which is itself already
+  pending a rebuild. The fix applies to documents extracted from now on.
+* Routing, `text.jsonl`, the chart de-dup fix, the orphan-detector substring
+  test - all unchanged. No file under `data/extracted/` was written; the
+  scratch dir was removed at the end of the run.
+* 1,126 camelot 1-column numeric "tables" (drybulk 209, poten 161, shipbrokers
+  651...) are chart AXIS tick dumps and essay-prose grids - the known
+  `onecol`/`blob` noise class (shape report: 22,854 onecol, 15.17% noise
+  share), not a defect.
+
+### Inherited, still pending human decision (unchanged)
+
+1. Inventory drift: 383 PDFs on disk absent from the 2026-09-21 inventory.
+2. DB/series rebuild so the parser fixes since 2026-09-21 reach the derived
+   layer (`build_table_db.py --out data/extracted/corpus --rebuild` + series + QA).
+3. Hellenic chunk-shard shortfall (all hellenic) with the note in
+   `text_audit_recheck.json`.
+4. NEW (bounded, optional): re-extract the 5 documents
+   `advanced_shipping_2023_W3{1,4,5,6,7}` into the corpus tree to correct their
+   `text_verified` and clear their false image-table flags, if the extract_all
+   tree is ever wanted current. Exact command:
+   `python scripts/extract/extract_all.py "corpus/01-brokers/advanced_shipping/2023/advanced_shipping_2023_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf" --out data/extracted/scratch_review/before`
+   (repeat per document). Not run; the existing output is otherwise identical.
