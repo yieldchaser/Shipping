@@ -1,3 +1,24 @@
+**THIS RUN (2026-10-07 04:1x, source-by-source, 30m job) - TWO things: (1) APPLIED the parallel 3-hourly review job's verified golden_destiny label fix (e047719da) to the DELIVERED series; (2) STARTED + COMPLETED a NEW source: SEASURE 86/86. Real new extraction.**
+
+Branch `auto/extract-fixes-2026-10-06-deepreview`. Working tree clean at start; nothing of ours extracting; NO new corpus arrivals (newest still 2026-10-06 20:03). xclusiv 271/271 = done (prompt stale). Register gate GREEN at start (177/638,931).
+
+**1. golden_destiny label fix APPLIED to data (was left as a pending human item by the 03:47 review job).** The fixed runner was committed but the delivered CSV still had 100% `per_unit_label=US$/Dwt` and page-level `section`. Re-ran the runner over all 252 docs (252/252, 0 failed, 244s).
+  * md control: all 252 `.md` BYTE-IDENTICAL (labels are not in the md - primary deliverable untouched). 160 `.tables.json` updated.
+  * CSV: 5,320 rows (unchanged count); **0 changes in any value/entity column**; section changed on **1,665** rows, per_unit_label on **868** (Dwt 4452 / Teu 643 / Cbm 225).
+  * Control vs the source page geometry (2024 W47 p3): XIDI->TANKERS, MARVEL SWAN->GAS TANKERS/US$/Cbm, BF TIGER->CONTAINERS/US$/Teu (all previously 'GENERAL CARGO/US$/Dwt'). Per-unit values check out (213M/170,619 CBM=1248.4; 20M/2,824 TEU=7082.15).
+  * Commit `af421ed2c` (data only). Register GREEN after.
+
+**2. NEW SOURCE - SEASURE ("Summary Sales"), corpus/archive/other, 86 PDFs 2021-2023.** The hourly job had sub-classified archive/other into 5 publications (`docs/archive_other_survey.md`); Seasure is the largest and GENUINELY_MISSING (feeds/md/app all absent). BACKFILL_ONLY (newest 2023-03-31).
+  * Runner `scripts/extract/publishers/run_seasure.py` (per-source). Survey `docs/seasure_survey.md`.
+  * Shape: text-layer grid, sections BULKER/TANKER/CONTAINER, cols Name~17 Type~107 DWT~150 Yard~182 Built~240 USD~276 Comments~313 VV~383 Buyer~404 Seller~497; geometry verified identical 2021 & 2023; ISO numbers; Yard/Comments WRAP so rows are anchored on the DWT numeric and assigned to columns by header-derived x-boundaries.
+  * TRIAL caught 2 real bugs BEFORE bulk: (a) header tokens are one-per-dict-line -> same-line header detection failed (0 deals); (b) greedy row band absorbed the next section heading + repeated header row + the `-1.5%` change token into a section's last row (dwt=None, VV=-1.5) -> tight bands (hi<=ry+7.0) + heading/header/percent exclusion. After fix: 2021 18/18 rows, 2023 12/12 rows, 100% name & price verbatim vs the page.
+  * MEASURED bulk: **86/86 md + tables.json, 0 failed, 93s** (130 docs scanned, non-Seasure skipped). Series `data/extracted/series/seasure_sales_series.csv` = **1,452 rows / 86 docs, 86 issue dates 2021-07-09..2023-03-31, 0 blank date/name**. Full-corpus reconcile: **name verbatim 1452/1452 (100.00%), price verbatim 1441/1452 (99.24%)**; the 11 misses are BLANK en-bloc rows (e.g. 5x MR2 to Ridgebury Tankers) where the page prints no per-vessel USD value - left blank, not fused.
+  * Register synced 177 -> **178 CSVs / 640,383 rows**; gate GREEN. Commits `36a321a26` (runner+survey), `103f05871` (data+register).
+
+- **NEXT:** the same per-source method on the next GENUINELY_MISSING archive publication: **DNF Analysis "Dry Bulk Weekly Brief" (38, corpus/archive/other)** per `docs/archive_other_survey.md` (iron-ore port inventory W/W%). Then archive/other is exhausted (UP Oil 2 / Psarras 1 / hellenic recycling 1 = SKIP: no cadence / held family). Watch that the automation does not re-stale the register.
+
+---
+
 **THIS RUN (2026-10-07 03:3x, source-by-source, 30m job) - NOTHING NEW TO EXTRACT (independently verified); advanced the one open defect: full per-row PAGE-EVIDENCE classification of the allied en-bloc residuals + a MEASURED proof that no automatic binder is trustworthy. New doc, no data change.**
 
 - **Liveness/state:** no process of ours extracting (python = Hermes gateways only). Branch `auto/extract-fixes-2026-10-06-deepreview`. Register gate GREEN: `verify_registers.py` = 177 CSVs / **638,931** rows, 0 mismatches. **No corpus arrival since 2026-10-06 20:03.** All sources built - prompt's "next source" list is stale (measured md: fearnleys/intermodal 257/affinity 249/banchero 249/agora 219/carriers 137/ism 115/lion 48/xclusiv 271 - all present).
