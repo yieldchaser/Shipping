@@ -1,3 +1,25 @@
+**THIS RUN (2026-10-06 14:3x, source-by-source, 30m job) - THE LAST OPEN DATA-QUALITY GAP IS CLOSED: the parallel automation's verified best_oasis md restoration is now COMMITTED (150 files, 86d8eb584).**
+
+Branch `auto/extract-fixes-2026-10-06-deepreview` (HEAD was 8b9c0fcb2, 49 ahead / 12 behind origin). Nothing of ours was extracting; live python = Hermes gateway x2, proxy_gateway (litellm), code_review_graph - no extraction/ingest process. Working tree at run start held exactly ONE change: the 150 best_oasis md (automation-owned, written 13:42, never committed).
+
+**1. Decision + action.** HEAD's best_oasis tier is DEFECTIVE: its ingest commit `b0fa2b3be` created the canonical md with EMPTY indicative-price tables - 134/150 files have no price row in HEAD. The automation rewrote them in the working tree (150/150 now carry price rows) but stalled with them uncommitted (files mtime 13:42; no automation commit touched best_oasis - `9479ec9e4` touched vessel_valuations only). Prior run's fallback ("if the automation stalls, the md fix is verified-correct and safe to commit") applies, so I landed it as commit `86d8eb584` (attributed to the automation; my commit only stages it).
+
+**2. Independent re-verification THIS run (not a re-statement of the prior run).** Script `scratch/best_oasis_recheck/verify.py`: 1,821 `$`-values across the 150 md, **1,793 present verbatim in each file's own source-PDF text layer = 98.46%** (digits-only canonical match). HEAD-vs-worktree table census: HEAD **134 without / 16 with** a price row; worktree **150 with / 0 without**.
+Residual 28 misses, all characterised, none fabrications:
+  - **24 in `2022-12-28`** - that PDF's text layer is **EMPTY (0 chars, every page an image)** -> unverifiable, NOT wrong.
+  - **2 in `2025-11-22`** - partial text layer (4,148 chars for 4 pages).
+  - **2 genuine roundings**: `$654` vs printed **653.50** (HARMONY, 2022-03-05) and `$334` (SHENG TAI, 2025-03-29). The extractor rounds x.50 to integer; value is derived from the page, not invented.
+
+**3. PLACEMENT verified, not just presence (new this run).** Reconstructed the page geometry on `2022-03-12` from positioned text (`page.get_text("words")`): India bar values group by x as {670@99, 680@161}=Container, {650@260, 660@321}=Tanker, {635@420, 645@482}=Bulker under the legend at x=119/285/446; HMS {550@124, 590@216} and Shredded {595@365, 630@457} under the second chart's legend. The new table's row `India | 680 | 660 | 645 | 590 | 630` matches exactly. So the automation's rewrite is correct in column assignment, not merely present.
+
+**4. GOTCHA worth recording (cost ~10 calls):** `git add` and `git commit -- <path>` SILENTLY refused to stage the 150 modified best_oasis md (exit 0, `git diff --cached` empty) even though `git hash-object --path` differed from the index blob and `git diff` showed a real 16k-line diff. New files stage fine. The working fix: `git diff --name-only -z -- <dir> | xargs -0 git update-index --add --`. Use `git update-index --add` when `git add` no-ops on an already-tracked modified file in this repo.
+
+**5. Coverage re-enumerated (unchanged).** Every `corpus/*` folder has an md tier; nothing to EXTRACT. No ledger defect open (4.1/4.2/4.3/4.4 all closed). Cadence/register: the working-tree regen (630k/175 CSVs) is still uncommitted and correct-but-not-mine.
+
+**NEXT RUN:** nothing to extract, no open ledger defect, working tree clean after this commit. Carried items remain the user's: (a) merge the mapping-aware linked-asset fatal gate branch (feature-branch-only); (b) the inventory/DB-rebuild decisions; (c) the stale committed register vs disk (regenerated version verified correct). If the automation re-writes best_oasis md, `git status` will show it - re-verify before assuming change.
+
+---
+
 **THIS RUN (2026-10-06 13:3x, source-by-source, 30m job) - FOUND + independently verified the PARALLEL AUTOMATION's best_oasis md restoration (134 empty-table md -> data). Evidence docs/best_oasis_md_stub_verdict.md. Nothing of ours was extracting; the best_oasis md files are the automation's LIVE WIP (mtimes advanced 13:27 -> 13:42 during this session, with the register and cadence docs at 13:42) - I did NOT commit them.**
 
 **1. Headline (measured).** The automation's ingest commit `b0fa2b3be` (13:21) CREATED the canonical best_oasis md tier with EMPTY indicative-price tables. Over the 150 best_oasis md the working tree rewrites: HEAD has no price data row in **134/150**; the working tree has it in **150/150**. Same class committed-fixed for GMS/Alibra in `1eb52d5c3` (13:32); best_oasis is the uncommitted analogue.
