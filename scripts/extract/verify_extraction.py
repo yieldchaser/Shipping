@@ -264,7 +264,14 @@ def check_outputs(out_root, actions, info, checkpoint=None):
     which is why the old cap hidden the defect instead of surfacing it.
     """
     import glob as _glob
-    dirs = _glob.glob(os.path.join(out_root, "*", "*"))
+    # Only DOCUMENT dirs belong here. The glob also matched loose files and the DB
+    # layer (corpus/db/*: corpus.duckdb, *.parquet, .db, _backup_*/), which hold no
+    # text/tables and were therefore counted as documents with missing artefacts -
+    # the same false-positive class fixed in check_quality() (2026-10-06).
+    # Measured 2026-10-06: 5 of the 856 "in flight" entries were corpus/db/*.
+    dirs = [d for d in _glob.glob(os.path.join(out_root, "*", "*"))
+            if os.path.isdir(d)
+            and os.path.relpath(d, out_root).split(os.sep)[0] != "db"]
     info["doc_dirs"] = len(dirs)
     recorded_ok, failed_stems = set(), set()
     if checkpoint and os.path.exists(checkpoint):
@@ -280,7 +287,7 @@ def check_outputs(out_root, actions, info, checkpoint=None):
                 recorded_ok.add(rec["doc"])
             elif rec.get("status") and rec.get("path"):
                 failed_stems.add(os.path.splitext(os.path.basename(rec["path"]))[0])
-    empty_ok, empty_failure, in_flight, by_design = 0, 0, 0, 0
+    empty_ok, empty_failure, in_flight, by_design, junk_routed = 0, 0, 0, 0, 0
     # Fixed 2026-09-21: this used to scan only dirs[:600]. Measured over 1,532
     # doc dirs: the capped scan reported 0 unexpected-empty dirs, the uncapped
     # scan reported 9 - including the 3 documents the per-doc timeout killed,
@@ -295,6 +302,19 @@ def check_outputs(out_root, actions, info, checkpoint=None):
         has_tab = os.path.exists(tabj) and os.path.getsize(tabj) > 0
         if has_text or has_tab:
             continue
+        # A dir the HTML pass routed as junk (bot-wall placeholder) holds only
+        # meta.json{"junk": true} by design; it is not a document in flight.
+        # Measured 2026-10-06: 850 of the 856 entries here were such junk dirs
+        # (baltic 821, breakwave 29) on an already-COMPLETE run - the old label
+        # "still being extracted right now" was false for 850/856 of them.
+        _mj = os.path.join(d, "meta.json")
+        if os.path.exists(_mj):
+            try:
+                if json.load(open(_mj, encoding="utf-8")).get("junk") is True:
+                    junk_routed += 1
+                    continue
+            except Exception:
+                pass
         # scanned page with no text layer == nothing to extract, not a defect
         if os.path.exists(pj):
             try:
@@ -318,6 +338,7 @@ def check_outputs(out_root, actions, info, checkpoint=None):
     info["empty_after_ok_status"] = empty_ok
     info["empty_after_failure"] = empty_failure
     info["empty_not_in_checkpoint"] = in_flight
+    info["empty_junk_routed"] = junk_routed
     info["empty_unexpected"] = empty_ok
     if empty_ok:
         actions.append(f"{empty_ok} dirs recorded ok in the checkpoint hold no "

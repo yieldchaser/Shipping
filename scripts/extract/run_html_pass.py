@@ -241,7 +241,12 @@ def main():
                 f.write(json.dumps(im) + "\n")
         with open(os.path.join(ddir, "meta.json"), "w", encoding="utf-8") as f:
             json.dump({"file": rel, "title": title, "blocks": len(blocks),
-                       "tables": len(tables), "images": len(images),
+                       "tables": len([t for t in tables if t]),  # tables.jsonl
+                       # ^ skips empty layout <table> elements (email chrome),
+                       #   which the writer below omits; counted as data tables
+                       #   they inflated meta by 660 across 10 Signal newsletters
+                       #   (2065 claimed vs 1405 written), measured 2026-10-06
+                       "images": len(images),
                        "junk": False,
                        "extraction_ts": time.strftime("%Y-%m-%dT%H:%M:%SZ",
                                                       time.gmtime())}, f, indent=1)
