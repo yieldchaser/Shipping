@@ -435,6 +435,14 @@ def process_all() -> Dict[str, Any]:
     report_summaries: List[Dict[str, Any]] = []
 
     for i, h_path in enumerate(html_files, 1):
+        m_date = re.match(r"^(\d{4}-\d{2}-\d{2})", h_path.name)
+        if m_date:
+            fast_date = m_date.group(1)
+            fast_year = fast_date[:4]
+            fast_md = OUT_MD / fast_year / f"vv_{fast_date}.md"
+            if fast_md.exists() and fast_md.stat().st_size > 100:
+                continue
+
         report = parse_vv_html(h_path)
         year = report["year"]
         issue_date = report["issue_date"]
@@ -491,28 +499,29 @@ def process_all() -> Dict[str, Any]:
         "premium_pct", "comments", "source_file"
     ]
     series_csv_path = OUT_SERIES / "hellenic_vv_sales_series.csv"
-    existing_map = {}
-    if series_csv_path.exists() and series_csv_path.stat().st_size > 0:
-        try:
-            with open(series_csv_path, "r", encoding="utf-8", errors="replace") as rf:
-                for r in csv.DictReader(rf):
-                    k = (r.get("issue_date", ""), r.get("vessel_name", ""), r.get("source_file", ""))
-                    existing_map[k] = r
-        except Exception:
-            pass
-    for row in all_deals_rows:
-        k = (str(row.get("issue_date", "")), str(row.get("vessel_name", "")), str(row.get("source_file", "")))
-        existing_map[k] = {c: row.get(c, "") for c in csv_cols}
-    if existing_map:
-        merged_rows = sorted(existing_map.values(), key=lambda x: (str(x.get("issue_date", "")), str(x.get("sector", "")), str(x.get("vessel_name", ""))))
-        with open(series_csv_path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=csv_cols)
-            writer.writeheader()
-            for row in merged_rows:
-                writer.writerow(row)
-        print(f"\nUpserted {len(all_deals_rows)} deals ({len(merged_rows)} total rows) to {series_csv_path}")
+    if all_deals_rows:
+        existing_map = {}
+        if series_csv_path.exists() and series_csv_path.stat().st_size > 0:
+            try:
+                with open(series_csv_path, "r", encoding="utf-8", errors="replace") as rf:
+                    for r in csv.DictReader(rf):
+                        k = (r.get("issue_date", ""), r.get("vessel_name", ""), r.get("source_file", ""))
+                        existing_map[k] = r
+            except Exception:
+                pass
+        for row in all_deals_rows:
+            k = (str(row.get("issue_date", "")), str(row.get("vessel_name", "")), str(row.get("source_file", "")))
+            existing_map[k] = {c: row.get(c, "") for c in csv_cols}
+        if existing_map:
+            merged_rows = sorted(existing_map.values(), key=lambda x: (str(x.get("issue_date", "")), str(x.get("sector", "")), str(x.get("vessel_name", ""))))
+            with open(series_csv_path, "w", newline="", encoding="utf-8") as f:
+                writer = csv.DictWriter(f, fieldnames=csv_cols)
+                writer.writeheader()
+                for row in merged_rows:
+                    writer.writerow(row)
+            print(f"\nUpserted {len(all_deals_rows)} deals ({len(merged_rows)} total rows) to {series_csv_path}")
     else:
-        print(f"\nNo deals to write for {series_csv_path}; preserving existing CSV.")
+        print(f"\nNo new deals extracted for {series_csv_path}; preserving existing CSV.")
 
     # Write run state summary
     state = {

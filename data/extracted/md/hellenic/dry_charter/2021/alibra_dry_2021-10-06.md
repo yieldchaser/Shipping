@@ -15,7 +15,38 @@ Rates for the smaller sizes moved sideways this week as holidays in Asia lead to
 
 ## Time Charter Estimates ($/pdpr)
 
-*Table estimates not available.*
+| Size | Tenor | Basin | Rate ($/day) | Trend |
+|---|---|---|---|---|
+| HANDY | 6 MOS | ATL | $34,500 | flat |
+| HANDY | 6 MOS | PAC | $35,500 | flat |
+| HANDY | 1 YR | ATL | $28,500 | flat |
+| HANDY | 1 YR | PAC | $25,000 | flat |
+| HANDY | 2 YR | ATL | $19,500 | flat |
+| HANDY | 2 YR | PAC | $20,000 | flat |
+| SUPRAMAX | 6 MOS | ATL | $39,000 | flat |
+| SUPRAMAX | 6 MOS | PAC | $38,500 | flat |
+| SUPRAMAX | 1 YR | ATL | $30,250 | flat |
+| SUPRAMAX | 1 YR | PAC | $27,250 | flat |
+| SUPRAMAX | 2 YR | ATL | $21,500 | flat |
+| SUPRAMAX | 2 YR | PAC | $20,500 | flat |
+| ULTRAMAX | 6 MOS | ATL | $41,750 | flat |
+| ULTRAMAX | 6 MOS | PAC | $42,500 | flat |
+| ULTRAMAX | 1 YR | ATL | $32,000 | flat |
+| ULTRAMAX | 1 YR | PAC | $29,750 | flat |
+| ULTRAMAX | 2 YR | ATL | $25,000 | flat |
+| ULTRAMAX | 2 YR | PAC | $24,000 | flat |
+| PANA/KMAX | 6 MOS | ATL | $38,250 | up |
+| PANA/KMAX | 6 MOS | PAC | $33,000 | up |
+| PANA/KMAX | 1 YR | ATL | $31,000 | up |
+| PANA/KMAX | 1 YR | PAC | $28,000 | up |
+| PANA/KMAX | 2 YR | ATL | $24,000 | flat |
+| PANA/KMAX | 2 YR | PAC | $23,500 | flat |
+| CAPESIZE | 6 MOS | ATL | $54,000 | up |
+| CAPESIZE | 6 MOS | PAC | $52,500 | up |
+| CAPESIZE | 1 YR | ATL | $37,000 | up |
+| CAPESIZE | 1 YR | PAC | $36,000 | up |
+| CAPESIZE | 2 YR | ATL | $26,500 | up |
+| CAPESIZE | 2 YR | PAC | $26,000 | flat |
 
 ## Contact & Source
 

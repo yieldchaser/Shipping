@@ -200,6 +200,25 @@ async def process_gms_item_async(h_path: Path, sem: asyncio.Semaphore) -> Tuple[
     if issue_date == "UNKNOWN" or year == "0000" or "unknown" in [p.lower() for p in h_path.parts]:
         raise ValueError(f"Skipping undated or 0000 stub file: {h_path}")
 
+    stem = f"gms_{issue_date}"
+    year_dir = OUT_MD_DIR / year
+    md_path = year_dir / f"{stem}.md"
+    json_path = year_dir / f"{stem}.tables.json"
+    if md_path.exists() and md_path.stat().st_size > 100:
+        rows: List[Dict[str, Any]] = []
+        if json_path.exists():
+            try:
+                cached = json.loads(json_path.read_text(encoding="utf-8"))
+                rows = cached.get("rankings", [])
+            except Exception:
+                pass
+        return {
+            "issue_date": issue_date,
+            "year": year,
+            "filename": fname,
+            "rankings_count": len(rows),
+        }, rows
+
     content = h_path.read_text(encoding="utf-8", errors="ignore")
     if any(err in content for err in ("Error code 520", "Cloudflare Ray ID", "This site can\u2019t be reached", "This site can't be reached")):
         raise ValueError(f"Skipping Cloudflare/DNS error HTML page: {h_path}")
@@ -226,8 +245,6 @@ async def process_gms_item_async(h_path: Path, sem: asyncio.Semaphore) -> Tuple[
         except Exception as e:
             print(f"  [!] Failed parsing image for {fname}: {e}")
 
-    stem = f"gms_{issue_date}"
-    year_dir = OUT_MD_DIR / year
     year_dir.mkdir(parents=True, exist_ok=True)
 
     # Build clean markdown
@@ -266,12 +283,10 @@ async def process_gms_item_async(h_path: Path, sem: asyncio.Semaphore) -> Tuple[
         ""
     ])
 
-    md_path = year_dir / f"{stem}.md"
     with open(md_path, "w", encoding="utf-8") as mf:
         mf.write("\n".join(md_lines))
 
     # JSON sidecar
-    json_path = year_dir / f"{stem}.tables.json"
     with open(json_path, "w", encoding="utf-8") as jf:
         json.dump({
             "issue_date": issue_date,
@@ -321,19 +336,15 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
 
     print(f"[GMS] Completed {len(summaries)} reports -> {len(all_rankings)} ranking observations.", flush=True)
 
-    # Write master series
-    # 2026-10-04: DO NOT write the canonical path. hellenic_gms_demolition_series.csv is
-    # OWNED by run_gms_demolition.py (audit: 1,092 rows, the full PDF+HTML union). This
-    # LlamaParse-based runner is a duplicate that last-clobbered it with an 8-col slice
-    # (last-writer-wins). Write the diagnostic copy instead.
-    rankings_csv = OUT_SERIES_DIR / "hellenic_gms_demolition_series.LP-SIDECAR.csv"
-    rankings_cols = ["issue_date", "rank", "location", "sentiment", "dry_bulk_usd_ldt", "tankers_usd_ldt", "containers_usd_ldt", "source_file"]
-    with open(rankings_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=rankings_cols)
-        writer.writeheader()
-        for r in sorted(all_rankings, key=lambda x: (x["issue_date"], x["location"])):
-            writer.writerow(r)
-    print(f"Written {len(all_rankings)} rows to {rankings_csv}", flush=True)
+    if all_rankings:
+        rankings_csv = OUT_SERIES_DIR / "hellenic_gms_demolition_series.LP-SIDECAR.csv"
+        rankings_cols = ["issue_date", "rank", "location", "sentiment", "dry_bulk_usd_ldt", "tankers_usd_ldt", "containers_usd_ldt", "source_file"]
+        with open(rankings_csv, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=rankings_cols)
+            writer.writeheader()
+            for r in sorted(all_rankings, key=lambda x: (x["issue_date"], x["location"])):
+                writer.writerow(r)
+        print(f"Written {len(all_rankings)} rows to {rankings_csv}", flush=True)
 
     # Save state
     state = {

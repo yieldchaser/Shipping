@@ -15,7 +15,38 @@ Sentiment remains strong for the smaller sizes in both basins, particularly in t
 
 ## Time Charter Estimates ($/pdpr)
 
-*Table estimates not available.*
+| Size | Tenor | Basin | Rate ($/day) | Trend |
+|---|---|---|---|---|
+| HANDY | 6 MOS | ATL | $29,500 | up |
+| HANDY | 6 MOS | PAC | $34,000 | up |
+| HANDY | 1 YR | ATL | $24,500 | up |
+| HANDY | 1 YR | PAC | $24,000 | flat |
+| HANDY | 2 YR | ATL | $19,500 | up |
+| HANDY | 2 YR | PAC | $20,000 | up |
+| SUPRAMAX | 6 MOS | ATL | $36,500 | up |
+| SUPRAMAX | 6 MOS | PAC | $35,000 | up |
+| SUPRAMAX | 1 YR | ATL | $27,000 | up |
+| SUPRAMAX | 1 YR | PAC | $25,500 | up |
+| SUPRAMAX | 2 YR | ATL | $21,000 | up |
+| SUPRAMAX | 2 YR | PAC | $20,000 | up |
+| ULTRAMAX | 6 MOS | ATL | $40,000 | up |
+| ULTRAMAX | 6 MOS | PAC | $37,500 | up |
+| ULTRAMAX | 1 YR | ATL | $31,500 | up |
+| ULTRAMAX | 1 YR | PAC | $30,000 | up |
+| ULTRAMAX | 2 YR | ATL | $25,000 | flat |
+| ULTRAMAX | 2 YR | PAC | $24,000 | flat |
+| PANA/KMAX | 6 MOS | ATL | $30,000 | down |
+| PANA/KMAX | 6 MOS | PAC | $28,500 | down |
+| PANA/KMAX | 1 YR | ATL | $29,000 | down |
+| PANA/KMAX | 1 YR | PAC | $25,000 | down |
+| PANA/KMAX | 2 YR | ATL | $32,000 | flat |
+| PANA/KMAX | 2 YR | PAC | $29,000 | up |
+| CAPESIZE | 6 MOS | ATL | $32,250 | flat |
+| CAPESIZE | 6 MOS | PAC | $35,000 | flat |
+| CAPESIZE | 1 YR | ATL | $27,500 | flat |
+| CAPESIZE | 1 YR | PAC | $29,000 | flat |
+| CAPESIZE | 2 YR | ATL | $25,000 | flat |
+| CAPESIZE | 2 YR | PAC | $26,000 | flat |
 
 ## Contact & Source
 

@@ -234,20 +234,24 @@ async def process_item_async(cat: str, corpus_dir: Path, out_md_dir: Path,
     year_dir = out_md_dir / year
     md_path = year_dir / f"{stem}.md"
     json_path = year_dir / f"{stem}.tables.json"
-    if md_path.exists() and md_path.stat().st_size > 200 and json_path.exists():
-        try:
-            cached = json.loads(json_path.read_text(encoding="utf-8"))
-            rows = cached.get("records", [])
-            summary = {
-                "issue_date": issue_date,
-                "year": year,
-                "filename": fname,
-                "title": cached.get("title", f"Weekly Time Charter Estimates - {issue_date}"),
-                "observations_count": len(rows),
-            }
-            return summary, rows
-        except Exception:
-            pass
+    if md_path.exists() and md_path.stat().st_size > 100:
+        rows = []
+        title_cached = f"Weekly Time Charter Estimates - {issue_date}"
+        if json_path.exists():
+            try:
+                cached = json.loads(json_path.read_text(encoding="utf-8"))
+                rows = cached.get("records", [])
+                title_cached = cached.get("title", title_cached)
+            except Exception:
+                pass
+        summary = {
+            "issue_date": issue_date,
+            "year": year,
+            "filename": fname,
+            "title": title_cached,
+            "observations_count": len(rows),
+        }
+        return summary, rows
 
     content = h_path.read_text(encoding="utf-8", errors="ignore")
     if any(err in content for err in ("Error code 520", "Cloudflare Ray ID", "This site can\u2019t be reached", "This site can't be reached")):

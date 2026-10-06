@@ -11,7 +11,22 @@
 
 ## Time Charter Estimates ($/pdpr)
 
-*Table estimates not available.*
+| Size | Tenor | Rate ($/day) | Eco / Scrubber | Trend |
+|---|---|---|---|---|
+| HANDY | 2 YR | $27,000 | Standard | flat |
+| HANDY | 5 YR | $24,500 | Yes | flat |
+| MR IMO3 | 2 YR | $31,500 | Standard | flat |
+| MR IMO3 | 5 YR | $28,500 | Yes | flat |
+| LR1 | 2 YR | $35,000 | Standard | flat |
+| LR1 | 5 YR | $30,000 | Yes | flat |
+| LR2 | 2 YR | $55,000 | Standard | flat |
+| LR2 | 5 YR | $50,000 | Yes | flat |
+| AFRA (115k dwt) | 2 YR | $62,500 | Standard | flat |
+| AFRA (115k dwt) | 5 YR | $50,000 | Yes | flat |
+| SUEZ | 2 YR | $80,000 | Standard | flat |
+| SUEZ | 5 YR | $60,000 | Yes | flat |
+| VLCC | 2 YR | $105,000 | Standard | flat |
+| VLCC | 5 YR | $80,000 | Yes | flat |
 
 ## Contact & Source
 

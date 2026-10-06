@@ -15,7 +15,38 @@ The smaller sizes saw some support from port congestion due to the typhoon in th
 
 ## Time Charter Estimates ($/pdpr)
 
-*Table estimates not available.*
+| Size | Tenor | Basin | Rate ($/day) | Trend |
+|---|---|---|---|---|
+| HANDY | 6 MOS | ATL | $28,000 | up |
+| HANDY | 6 MOS | PAC | $30,000 | flat |
+| HANDY | 1 YR | ATL | $23,500 | up |
+| HANDY | 1 YR | PAC | $24,000 | flat |
+| HANDY | 2 YR | ATL | $18,000 | flat |
+| HANDY | 2 YR | PAC | $17,000 | flat |
+| SUPRAMAX | 6 MOS | ATL | $34,500 | up |
+| SUPRAMAX | 6 MOS | PAC | $33,000 | flat |
+| SUPRAMAX | 1 YR | ATL | $26,000 | up |
+| SUPRAMAX | 1 YR | PAC | $24,500 | up |
+| SUPRAMAX | 2 YR | ATL | $20,000 | flat |
+| SUPRAMAX | 2 YR | PAC | $18,750 | flat |
+| ULTRAMAX | 6 MOS | ATL | $36,500 | up |
+| ULTRAMAX | 6 MOS | PAC | $35,000 | up |
+| ULTRAMAX | 1 YR | ATL | $28,500 | up |
+| ULTRAMAX | 1 YR | PAC | $28,500 | up |
+| ULTRAMAX | 2 YR | ATL | $25,000 | flat |
+| ULTRAMAX | 2 YR | PAC | $24,000 | flat |
+| PANA/KMAX | 6 MOS | ATL | $36,000 | up |
+| PANA/KMAX | 6 MOS | PAC | $31,250 | flat |
+| PANA/KMAX | 1 YR | ATL | $30,000 | down |
+| PANA/KMAX | 1 YR | PAC | $26,500 | flat |
+| PANA/KMAX | 2 YR | ATL | $32,000 | down |
+| PANA/KMAX | 2 YR | PAC | $21,000 | flat |
+| CAPESIZE | 6 MOS | ATL | $32,250 | up |
+| CAPESIZE | 6 MOS | PAC | $35,000 | up |
+| CAPESIZE | 1 YR | ATL | $27,500 | up |
+| CAPESIZE | 1 YR | PAC | $29,000 | up |
+| CAPESIZE | 2 YR | ATL | $25,000 | flat |
+| CAPESIZE | 2 YR | PAC | $26,000 | flat |
 
 ## Contact & Source
 

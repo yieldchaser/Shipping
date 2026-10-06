@@ -11,7 +11,32 @@
 
 ## Time Charter Estimates ($/pdpr)
 
-*Table estimates not available.*
+| Size | Tenor | Basin | Rate ($/day) | Trend |
+|---|---|---|---|---|
+| HANDY (38k dwt) | 6 MOS | ATL | $10,500 | flat |
+| HANDY (38k dwt) | 6 MOS | PAC | $10,000 | up |
+| HANDY (38k dwt) | 1 YR | ATL | $10,000 | flat |
+| HANDY (38k dwt) | 1 YR | PAC | $11,500 | up |
+| HANDY (38k dwt) | 2 YR | ATL | $9,500 | flat |
+| HANDY (38k dwt) | 2 YR | PAC | $10,500 | flat |
+| SMAX/ULTRA | 6 MOS | ATL | $14,750 | up |
+| SMAX/ULTRA | 6 MOS | PAC | $13,000 | up |
+| SMAX/ULTRA | 1 YR | ATL | $12,500 | flat |
+| SMAX/ULTRA | 1 YR | PAC | $13,000 | up |
+| SMAX/ULTRA | 2 YR | ATL | $12,500 | flat |
+| SMAX/ULTRA | 2 YR | PAC | $12,500 | flat |
+| PANA/KMAX | 6 MOS | ATL | $13,900 | flat |
+| PANA/KMAX | 6 MOS | PAC | $13,750 | up |
+| PANA/KMAX | 1 YR | ATL | $13,500 | flat |
+| PANA/KMAX | 1 YR | PAC | $14,000 | up |
+| PANA/KMAX | 2 YR | ATL | $13,500 | up |
+| PANA/KMAX | 2 YR | PAC | $13,500 | up |
+| CAPESIZE | 6 MOS | ATL | $15,000 | up |
+| CAPESIZE | 6 MOS | PAC | $15,000 | up |
+| CAPESIZE | 1 YR | ATL | $17,250 | up |
+| CAPESIZE | 1 YR | PAC | $17,250 | up |
+| CAPESIZE | 2 YR | ATL | $15,750 | up |
+| CAPESIZE | 2 YR | PAC | $15,750 | up |
 
 ## Contact & Source
 
