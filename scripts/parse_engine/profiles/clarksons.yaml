@@ -1,0 +1,146 @@
+# Clarksons Hellas (Clarksons Platou Hellas) S&P Weekly Bulletin.
+source: clarksons
+publisher: Clarksons Hellas
+title_template: "Clarksons Hellas S&P Weekly Bulletin {issue_date}"
+
+# Source discovery (relative to CORPUS_ROOT). Duplicates are removed by sha256;
+# the year-partitioned path wins.
+globs:
+  - "corpus/02-hellenic/shipbuilding/pdfs/**/*clarkson*.pdf"
+  - "corpus/02-hellenic/shipbuilding/pdfs/**/*Weekly-Sales*.pdf"
+  - "corpus/01-brokers/clarksons/**/*.pdf"
+prefer_name_regex: "_[0-9a-f]{12}\\.pdf$"   # canonical hashed names used by the existing extracted MDs
+prefer_path_regex: "/(19|20)\\d{2}/"
+
+# Last page = contacts + disclaimer. A 2-page PDF is checked (see last_page_boilerplate_regex).
+pages:
+  drop_last: 1
+  drop_first: 0
+  last_page_boilerplate_regex: "(?i)(disclaimer|contacts|Kifissias|snp@clarksons)"
+
+# Engine plan per document. First match wins. Geometric extraction is the primary table engine;
+# LlamaParse is the paid fallback / quality baseline.
+engine_plan:
+  - match: {}
+    engine: pymupdf_table
+    fallback: llamaparse
+
+llamaparse:
+  tier: agentic
+  version: "2026-01-16"
+  merge_continued_tables: true
+  custom_prompt: >-
+    This is a ship sale & purchase bulletin. Reproduce every table row exactly; one row per vessel;
+    split Built into year and yard columns; keep all commentary paragraphs verbatim under their
+    headings (New Building, Recycling, Demolition, Desk Talk). Do not summarize. Omit contacts and
+    disclaimers.
+
+# Headings used by the validator ("required" must be present, "optional" are reported only).
+expected_sections:
+  - until_year: 2024
+    required: ["Bulk Carriers", "Tankers", "New Building", "Recycling|Recylcing", "Demolition"]
+    optional: ["Desk Talk"]
+  - from_year: 2025
+    required: ["Bulk Carriers|Bulker Sales", "Tankers|Tanker Sales"]
+    optional: ["Desk Talk", "New Building", "Recycling", "Demolition"]
+
+# issue_date extraction. Document header text first, filename second. A date is only emitted when
+# a full day-month-year is present; week-only headers never produce a date.
+date_patterns:
+  header_text:
+    - regex: "(\\d{1,2})\\s+(January|February|March|April|May|June|July|August|September|October|November|December)\\s+((?:19|20)\\d{2})"
+      order: dmy_name
+    - regex: "(\\d{1,2})\\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)\\.?\\s+((?:19|20)\\d{2})"
+      order: dmy_name
+  filename:
+    - regex: "((?:19|20)\\d{2})-(\\d{2})-(\\d{2})_"
+      order: ymd
+    - regex: "report-(\\d{2})-(\\d{2})-((?:19|20)\\d{2})"
+      order: dmy
+    - regex: "clarksons_(\\d{2})_(\\d{2})_((?:19|20)\\d{2})_"
+      order: dmy
+    - regex: "Weekly-Sales-(\\d{1,2})(?:st|nd|rd|th)-([A-Za-z]+)-((?:19|20)\\d{2})"
+      order: dmy_name
+
+# Lines removed from the prose (running headers / footers / banners / boilerplate).
+strip_line_patterns:
+  - "(?i)^\\s*sale\\s*(&|and)\\s*purchase\\s*(\\|.*)?$"
+  - "(?i)^\\s*hellas s&p weekly bulletin.*$"
+  - "(?i)^\\s*page\\s+\\d+\\s+of\\s+\\d+\\s*$"
+  - "(?i)^\\s*clarksons? hellas( ltd\\.?| weekly bulletin.*)?\\s*$"
+  - "(?i)^\\s*(page\\s+)?\\d{1,2}\\s*$"
+  - "(?i)^\\s*clarkson hellas ltd\\.?(\\s+[a-z]{3,9}\\s?\\d{1,2},?\\s?\\d{4})?\\s*$"
+  - "(?i)^\\s*(z=c=\\w*=?|clarksons|.*clarksons sale & purchase)\\s*$"
+  - "(?i)^\\s*\\d{1,2}\\s+(january|february|march|april|may|june|july|august|september|october|november|december)\\s+\\d{4}\\s*$"
+boilerplate_patterns:
+  - "(?i)the material and the information"
+  - "(?i)kifissias"
+  - "(?i)snp@clarksons"
+  - "(?i)www\\.clarksons\\.com"
+  - "(?i)\\bdisclaimer\\b"
+  - "(?i)^\\W*contacts\\W*$"
+
+# Promotion of staged output (python -m scripts.parse_engine promote). Legacy directories hold the
+# previous extraction of the same issues; they are matched on issue_date and replaced.
+promotion:
+  dest: data/extracted/md/clarksons
+  legacy_dirs:
+    - data/extracted/md/clarksons
+    - data/extracted/md/hellenic/shipbuilding/clarksons
+
+# Regions removed from the output (and from validator recall): the page-2 market-data box is held
+# in structured datasets already.
+drop_regions:
+  - anchor_any: ["Baltic Index", "Exchange Rate", "Bunker Prices"]
+    line_start: true
+    max_line_chars: 40
+    until: page_end
+  - anchor_any: ["Disclaimer", "The material and the information"]   # contacts/disclaimer block
+    line_start: true
+    until: block_end
+
+# Geometric tables. Header labels must be found below the anchor line.
+geom:
+  prose_engine: pymupdf
+  footer_margin: 45
+  stop_anchors:
+    - "(?i)^(New Building|Recycling|Demolition\\s*$|Desk Talk|Baltic Index|Contacts)"
+  tables:
+    - name: Bulk Carriers
+      anchor: "(?i)^(Bulk Carriers\\s*$|Bulker Sales)"
+      headers: [Vessel, DWT, "Built|BLT", Details, SS/DD, Price, Buyer]
+      headerless_ok: true
+      key_column: 1
+      row_start_pattern: "\\d"
+      span_columns: [Price, Buyer]
+      per_vessel_columns: [Vessel, DWT]
+      vessel_count_column: SS/DD
+      vessel_count_pattern: "\\bSS\\b"
+      split_columns:
+        - column: Built
+          into: [Year, Yard]
+          pattern: "^((?:[1-4]Q(?:-[1-4]Q)?\\s*)?(?:19|20)\\d{2}(?:\\s*\\+\\s*(?:[1-4]Q(?:-[1-4]Q)?\\s*)?(?:19|20)\\d{2})*)\\s*(.*)$"
+    - name: Tankers - Chemicals - LPG/LNGs
+      anchor: "(?i)^(Tankers\\s+[–-]\\s+Chemicals\\s+[–-]\\s+LPG/LNGs|Tanker Sales)"
+      headers: [Vessel, DWT, "Built|BLT", Details, SS/DD, Price, Buyer]
+      headerless_ok: true
+      key_column: 1
+      row_start_pattern: "\\d"
+      span_columns: [Price, Buyer]
+      per_vessel_columns: [Vessel, DWT]
+      vessel_count_column: SS/DD
+      vessel_count_pattern: "\\bSS\\b"
+      split_columns:
+        - column: Built
+          into: [Year, Yard]
+          pattern: "^((?:[1-4]Q(?:-[1-4]Q)?\\s*)?(?:19|20)\\d{2}(?:\\s*\\+\\s*(?:[1-4]Q(?:-[1-4]Q)?\\s*)?(?:19|20)\\d{2})*)\\s*(.*)$"
+    - name: Demolition - Bulk Carriers GCs
+      anchor: "(?i)^Bulk Carriers\\s+[–-]\\s+GCs?"
+      headers: [Vessel, DWT, "Built|BLT", Details, Price, Delivery]
+      key_column: 1
+      row_start_pattern: "\\d"
+    - name: Demolition - Tankers
+      anchor: "(?i)^Tankers\\s+[–-]\\s+Chemicals\\s+[–-]\\s+LPGs"
+      headers: [Vessel, DWT, "Built|BLT", Details, Price, Delivery]
+      key_column: 1
+      row_start_pattern: "\\d"

@@ -1,0 +1,59 @@
+# Intermodal Shipbrokers weekly report (digital PDF, fixed template).
+source: intermodal
+publisher: Intermodal Shipbrokers
+title_template: "Intermodal Weekly Report {issue_date}"
+
+globs:
+  - "corpus/01-brokers/intermodal/**/*.pdf"
+
+pages:
+  drop_last: 0
+  drop_first: 0
+
+engine_plan:
+  - match: {}
+    engine: pymupdf_table
+    fallback: llamaparse
+
+llamaparse:
+  tier: agentic
+  version: "2026-01-16"
+  merge_continued_tables: true
+  custom_prompt: >-
+    This is a shipbroker weekly market report. Reproduce every table row exactly with one cell per
+    column; keep units in the column they belong to; keep all commentary paragraphs verbatim under
+    their headings. Do not summarize.
+
+expected_sections:
+  - required: ["Newbuilding Orders", "Demolition Sales"]
+    optional: ["Newbuilding Market", "Demolition Market"]
+
+# Weekly reports carry the week number, not a day. No issue_date is derived from them.
+date_patterns:
+  header_text: []
+  filename:
+    - regex: "((?:19|20)\\d{2})-(\\d{2})-(\\d{2})_"
+      order: ymd
+
+strip_line_patterns:
+  - "(?i)^\\s*www\\.intermodal\\.gr\\s*$"
+  - "(?i)^\\s*\\d{1,2}\\s*$"
+boilerplate_patterns:
+  - "(?i)www\\.intermodal\\.gr"
+
+geom:
+  prose_engine: liteparse   # multi-column prose with undeclared price tables: not yet handled by pymupdf_prose
+  footer_margin: 45
+  stop_anchors:
+    - "^(Newbuilding Orders|Demolition Sales)"
+  tables:
+    - name: Newbuilding Orders
+      anchor: "^Newbuilding Orders"
+      headers: [Units, Type, Size, Yard, Delivery, Buyer, Price, Comments]
+      key_column: 0
+      row_start_pattern: "\\d"
+    - name: Demolition Sales
+      anchor: "^Demolition Sales"
+      headers: [Name, Size, Ldt, Built, Yard, Type, $/ldt, Breakers, Comments]
+      key_column: 1
+      row_start_pattern: "\\d"
