@@ -3691,3 +3691,77 @@ writing into `data/extracted/corpus/` is outside this agent's remit. Left as-is.
 4. Optional/bounded: re-extract the 5 `advanced_shipping_2023_W3{1,4,5,6,7}` docs.
 5. (new, low value) Re-run the HTML pass for the 10 Signal newsletters if the
    `data/extracted/corpus/signal/*` tree is wanted current; content already in .md.
+
+## 2026-10-06 22:17 UTC (2026-10-07 03:47 IST) - deep review (3-hourly, job d77cc9df53c4)
+
+Verdict: **FIXED** (one provable labelling defect in the freshly-built
+golden_destiny runner; code committed, golden unchanged, no data file touched).
+
+### Run state and honest liveness
+`Get-CimInstance Win32_Process` for `run_batch`/`batch_worker` returned **nothing** -
+the bulk pass is finished; nothing to supervise. `verify_extraction.py` ->
+`done 880/882`, `ok 876`, `error 3`, `no-extractable-content 1`, `checkpoint_rows 7816`
+(7816 unique), `crash_recovered_docs 249`, `golden 15/15`, `db 189481 tables / 6726703 cells`,
+`empty_unexpected 0`, `actions []`. `state_age_min 21116` is the known COMPLETE-not-dead case
+(queue from the 2026-09-21 inventory, 0 remained). `verify_registers.py` -> ALL CHECKS PASSED:
+177 CSVs / 638,931 rows == JSON == MD, 0 mismatches, 0 control chars, 0 emoji.
+
+### What I measured (independent of the state file)
+The two archive-backfill sources extracted overnight (allied, golden_destiny) are the newest
+code, so I audited their outputs against the rendered source pages rather than trusting counts.
+Spot-check of `allied_2021_W26` page 7 against the series CSV matched exactly: NISSOS SANTORINI
+`$ 90.0m`, MARAN TRITON `$ 29.0m`, BW AMAZON `N/A` - the source text carries those same strings.
+The allied en-bloc fix (52 lot totals moved out of `price_usd_m`) is live: max per-vessel price
+291, 0 exact-duplicate rows across 3,218.
+
+### The defect found (golden_destiny, 252 docs, 5,320-row series)
+`run_golden_destiny.parse_deals_page()` labelled every deal on a page with whatever section
+heading and unit label came **last** on that page:
+
+* Golden Destiny prints 4+ sections per page (e.g. 2024 W47 p2 = TANKERS, GAS TANKERS,
+  CONTAINERS, GENERAL CARGO). Measured: the 306,352 DWT crude tanker `XIDI`
+  (`TNKS OIL CAP. 340,102 CBM`) was stamped `GENERAL CARGO`; the gas carrier `MARVEL SWAN`
+  (`GAS CAP. 170,619 CBM`) likewise.
+* `UNIT_RX = re.compile(r"$?/...").match(...)` can never match the real strings on the page
+  (`US$/Cbm`, `US$/Teu`) because they start with `US`. Confirmed directly: `UNIT_RX.search` ->
+  None. Result: `per_unit_label` was the default `US$/Dwt` for **100% of 5,320 rows**, gas
+  carriers (true unit `US$/Cbm`) and container ships (`US$/Teu`) included. The per-unit VALUE
+  is correct (e.g. 213,000,000 / 170,619 CBM = 1248.4, which the CSV already held); only the
+  label was wrong - the same class as the earlier ISM `$/t` vs `$/day` legend pollution.
+
+### Fix made
+`scripts/extract/publishers/run_golden_destiny.py`: label each row by POSITION. The section
+title is drawn on the same y as its block's first vessel, so a row takes the heading/unit whose
+y is the greatest <= its own y, carrying the last value across pages (this also fixes rows at
+the top of a page whose heading lives on the previous page). `UNIT_RX` now searches and accepts
+the `US$` prefix. Verified against the rendered page:
+`XIDI -> TANKERS`, `MARVEL SWAN -> GAS TANKERS / US$/Cbm`, `BF TIGER -> CONTAINERS / US$/Teu`
+(previously all `GENERAL CARGO / US$/Dwt`).
+
+Measured scale across the 252-doc corpus: **1,749 rows change `section`, 886 change
+`per_unit_label`**. In-memory re-parse only (no writes). `golden_matrix.py` re-run -> star_asia
+pymupdf/plumber-text **15/15**, ssy_atlantic **14/14**, breakwave **6/6** (no GOLDEN REGRESSION).
+
+Branch `auto/extract-fixes-2026-10-06-deepreview`, commit `e047719da` - `scripts/extract/` only.
+`main` untouched, nothing pushed.
+
+### Deliberately NOT changed / pending HUMAN DECISION
+The fix changes how ALREADY-EXTRACTED golden_destiny labels should be interpreted (1,749 +
+886 rows), so per the standing rule I did **not** silently regenerate the deliverable. The
+existing `data/extracted/series/golden_destiny_sales_series.csv` (5,320 rows) and the 252
+`data/extracted/md/golden_destiny/**/*.tables.json` still carry the old page-level labels.
+To apply the fix to the delivered series (safe, ~1 min, single source, not the corpus):
+```
+mv data/extracted/md/golden_destiny/_run_state.json data/extracted/md/golden_destiny/_run_state.bak
+mv data/extracted/md/golden_destiny/_deals.jsonl    data/extracted/md/golden_destiny/_deals.bak
+python scripts/extract/publishers/run_golden_destiny.py
+```
+(it re-parses all 252 docs and rewrites the CSV + .tables.json; without clearing the two state
+files the runner skips every doc and would only rebuild the CSV from the OLD jsonl).
+
+### Inherited, still pending HUMAN DECISION (unchanged)
+1. Inventory drift: 385 corpus PDFs absent from the 2026-09-21 `inventory.jsonl`.
+2. DB/series rebuild so parser fixes since 2026-09-21 reach the derived layer.
+3. Hellenic chunk-shard shortfall (`text_audit_recheck.json`).
+4. Optional/bounded: re-extract the 5 `advanced_shipping_2023_W3{1,4,5,6,7}` docs.
+5. (new) Regenerate the golden_destiny series per the command above to apply commit e047719da.
