@@ -1,0 +1,202 @@
+{
+ "issue_date": "2023-06-09",
+ "report_week": 23,
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\allied\\2023\\allied_2023_W23_Allied-Weekly-Market-Review-Week-23.pdf",
+ "stem": "allied_2023_W23_Allied-Weekly-Market-Review-Week-23",
+ "tables": {
+  "deals": [
+   {
+    "size": "LR1",
+    "name": "GULF CORAL",
+    "dwt": "74,999",
+    "built": "Hyundai 2009 Co",
+    "shipbuilder": "Mipo Dockyard Ltd - Ulsan, S.",
+    "coating": "EPOXY Korea",
+    "price_raw": "$ 28.5m",
+    "buyers": "undisclosed",
+    "comments": "BWTS fitted",
+    "page": 7
+   },
+   {
+    "size": "LR1",
+    "name": "LAKE STURGEON",
+    "dwt": "74,993",
+    "built": "2007",
+    "shipbuilder": "Onomichi Dockyard Ltd - Onomichi Japan",
+    "coating": "Co HS, EPOXY",
+    "price_raw": "$ 27.0m",
+    "buyers": "undisclosed",
+    "comments": "CPP trading",
+    "page": 7
+   },
+   {
+    "size": "MR",
+    "name": "MTM POTOMAC",
+    "dwt": "51,291",
+    "built": "STX 2004",
+    "shipbuilder": "Shipbuilding - Changwon (Jinhae Shipyard), S. Korea",
+    "coating": "Co Ltd Epoxy Phenolic",
+    "price_raw": "$ 18.0m",
+    "buyers": "undisclosed",
+    "comments": "",
+    "page": 7
+   },
+   {
+    "size": "CAPE",
+    "name": "HERUN ZHOUSHAN",
+    "dwt": "181,056",
+    "built": "2017",
+    "shipbuilder": "Shanghai Waigaoqiao Shipbuilding Co Ltd - Shanghai, China",
+    "coating": "",
+    "price_raw": "$ 41.5m",
+    "buyers": "Greek",
+    "comments": "BWTS fitted, eco, bss dely within Jul/Nov '23 - Singapore/Japan range",
+    "page": 7
+   },
+   {
+    "size": "CAPE",
+    "name": "ZAMPA BLUE",
+    "dwt": "178,459",
+    "built": "2011",
+    "shipbuilder": "Mitsui Eng. & SB. Co. Ltd., Chiba Works - Ichihara, Japan",
+    "coating": "",
+    "price_raw": "rgn $ 30.0m",
+    "buyers": "Greek",
+    "comments": "BWTS fitted, tier I",
+    "page": 7
+   },
+   {
+    "size": "PMAX",
+    "name": "SANTA BARBARA",
+    "dwt": "76,361",
+    "built": "Oshima 2011",
+    "shipbuilder": "Shipbuilding Co Ltd - Saikai NS, Japan",
+    "coating": "",
+    "price_raw": "rgn $ 17.7m",
+    "buyers": "Greek",
+    "comments": "BWTS fitted",
+    "page": 7
+   },
+   {
+    "size": "UMAX",
+    "name": "VICTORIA T",
+    "dwt": "61,266",
+    "built": "2017",
+    "shipbuilder": "Shin Kurushima Toyohashi Shipbuilding Co Ltd - Toyohashi AI,",
+    "coating": "",
+    "price_raw": "4 X 30,7t rgn $ CRANES 29.2m",
+    "buyers": "undisclosed",
+    "comments": "old sale, BWTS fitted",
+    "page": 7
+   },
+   {
+    "size": "SMAX",
+    "name": "CF DIAMOND",
+    "dwt": "57,700",
+    "built": "2016",
+    "shipbuilder": "Tsuneishi Shipbuilding Co Ltd - Fukuyama HS, Japan",
+    "coating": "",
+    "price_raw": "4 X 30t rgn low $ CRANES 24.0m",
+    "buyers": "Greek",
+    "comments": "eco, BWTS fitted",
+    "page": 7
+   },
+   {
+    "size": "SMAX",
+    "name": "ARKADIA",
+    "dwt": "56,348",
+    "built": "2012",
+    "shipbuilder": "Hyundai-Vinashin Shipyard Co Ltd - Ninh Hoa, Vietnam",
+    "coating": "",
+    "price_raw": "4 X 27,5t CRANES rgn xs $",
+    "buyers": "undisclosed",
+    "comments": "ice class 1A, BWTS fitted",
+    "page": 7
+   },
+   {
+    "size": "SMAX",
+    "name": "KUMPULA",
+    "dwt": "56,348",
+    "built": "2012",
+    "shipbuilder": "Hyundai-Vinashin Shipyard Co Ltd - Ninh Hoa, Vietnam",
+    "coating": "",
+    "price_raw": "17.0m each 4 X 27,5t CRANES",
+    "buyers": "",
+    "comments": "",
+    "page": 7
+   },
+   {
+    "size": "SMAX",
+    "name": "STOVE OCEAN",
+    "dwt": "55,861",
+    "built": "Oshima 2013",
+    "shipbuilder": "Shipbuilding Co Ltd - Saikai NS, Japan",
+    "coating": "",
+    "price_raw": "4 X 30t $ 21.0m CRANES",
+    "buyers": "Gearbulk",
+    "comments": "BWTS fitted, box-hold, 306 TEU",
+    "page": 7
+   },
+   {
+    "size": "SMAX",
+    "name": "WOOYANG ELITE",
+    "dwt": "55,660",
+    "built": "Hyundai 2011 Co",
+    "shipbuilder": "Mipo Dockyard Ltd - Ulsan, S. Korea",
+    "coating": "",
+    "price_raw": "CR 4x30 T, CR N/A 4x25 T",
+    "buyers": "undisclosed",
+    "comments": "BWTS fitted",
+    "page": 7
+   },
+   {
+    "size": "HANDY",
+    "name": "AMERICAN BULKER",
+    "dwt": "36,228",
+    "built": "2016",
+    "shipbuilder": "Shikoku Dockyard Co. Ltd. - Takamatsu, Japan",
+    "coating": "",
+    "price_raw": "4 X 31,2t rgn $ CRANES 22.5m",
+    "buyers": "S. Korean",
+    "comments": "BWTS fitted, bss Oct/Nov '23 dely, eco, OHBC",
+    "page": 7
+   },
+   {
+    "size": "HANDY",
+    "name": "SEASTAR ENDURANCE",
+    "dwt": "34,290",
+    "built": "2011",
+    "shipbuilder": "Zhejiang Jingang Shipbuilding Co Ltd - Wenling ZJ, China",
+    "coating": "",
+    "price_raw": "4 X 30t rgn $ CRANES 11.7m",
+    "buyers": "European",
+    "comments": "BWTS fitted",
+    "page": 7
+   },
+   {
+    "size": "FEEDER",
+    "name": "DURANDE",
+    "dwt": "",
+    "built": "1,740 2003",
+    "shipbuilder": "Guangzhou Wenchong Shipyard Co Ltd - Guangzhou GD, China",
+    "coating": "",
+    "price_raw": "2 X 40t $ 9.0m CRANES",
+    "buyers": "undisclosed",
+    "comments": "",
+    "page": 7
+   },
+   {
+    "size": "LPG",
+    "name": "GLOBAL SCORPIO",
+    "dwt": "58,814",
+    "built": "2003",
+    "shipbuilder": "HYUNDAI HI, S. Korea",
+    "coating": "",
+    "price_raw": "rgn $ 80,530 47.5m",
+    "buyers": "U. A. E. Based",
+    "comments": "SS/DD due Jul '23",
+    "page": 7
+   }
+  ]
+ }
+}

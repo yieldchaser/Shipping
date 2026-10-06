@@ -1,0 +1,202 @@
+{
+ "issue_date": "2021-11-07",
+ "report_week": 44,
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\allied\\2021\\allied_2021_W44_ALLIED-Weekly-Market-Report_07_11_2021.pdf",
+ "stem": "allied_2021_W44_ALLIED-Weekly-Market-Report_07_11_2021",
+ "tables": {
+  "deals": [
+   {
+    "size": "LR1",
+    "name": "IRIS VICTORIA",
+    "dwt": "74,905",
+    "built": "2010",
+    "shipbuilder": "Minaminippon Shipbuilding Co - Usuki OT",
+    "coating": "Ltd MAN-B&W EPOXY",
+    "price_raw": "$ 17.75m",
+    "buyers": "Transocean",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "MR",
+    "name": "ANGEL 61",
+    "dwt": "48,635",
+    "built": "2006",
+    "shipbuilder": "Iwagi Zosen Co Kamijima EH, Japan",
+    "coating": "Ltd - MAN-B&W EPOXY",
+    "price_raw": "$ 9.8m",
+    "buyers": "Greek",
+    "comments": "BWTS fitted, ucoiled",
+    "page": 6
+   },
+   {
+    "size": "MR",
+    "name": "ANGEL 62",
+    "dwt": "47,410",
+    "built": "2009",
+    "shipbuilder": "Onomichi Dockyard Co Ltd - Onomichi HS, Japan",
+    "coating": "MAN-B&W EPOXY",
+    "price_raw": "rgn $ 13.7m",
+    "buyers": "Spring Marine Management",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "SMALL",
+    "name": "BOW FULING",
+    "dwt": "9,156",
+    "built": "2012",
+    "shipbuilder": "Chongqing Chuandong Shipbuilding",
+    "coating": "MAN Stainless Steel",
+    "price_raw": "",
+    "buyers": "",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "SMALL",
+    "name": "BOW NANGANG",
+    "dwt": "9,124",
+    "built": "2013",
+    "shipbuilder": "Chongqing Chuandong Shipbuilding",
+    "coating": "MAN Stainless Steel",
+    "price_raw": "N/A",
+    "buyers": "E&S Tankers",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "SMALL",
+    "name": "BOW DALIAN",
+    "dwt": "9,118",
+    "built": "2012",
+    "shipbuilder": "Chongqing Chuandong",
+    "coating": "MAN Stainless Steel",
+    "price_raw": "",
+    "buyers": "",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "VLOC",
+    "name": "MP THE KRAFT",
+    "dwt": "209,199",
+    "built": "2020",
+    "shipbuilder": "Jiangsu Newyangzi Shipbuilding Co - Jingjiang JS, China",
+    "coating": "MAN-B&W Ltd",
+    "price_raw": "$ 65.0m",
+    "buyers": "Singaporean",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "VLOC MP",
+    "name": "THE HIGHTOWER",
+    "dwt": "207,999",
+    "built": "2020",
+    "shipbuilder": "Jiangsu Newyangzi Shipbuilding Co - Jingjiang JS, China",
+    "coating": "MAN-B&W Ltd",
+    "price_raw": "$ 65.0m",
+    "buyers": "",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "CAPE",
+    "name": "ASL MARS",
+    "dwt": "175,085",
+    "built": "2004",
+    "shipbuilder": "Shanghai Waigaoqiao Shipbuilding Co",
+    "coating": "MAN-B&W Ltd",
+    "price_raw": "high $ 16.0m",
+    "buyers": "undisclosed",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "KMAX",
+    "name": "MAJULAH HARBOURFRONT",
+    "dwt": "81,922",
+    "built": "2014",
+    "shipbuilder": "Tsuneishi Group (Zhoushan) Shipbuilding Inc",
+    "coating": "MAN-B&W -",
+    "price_raw": "rgn $ 31.0m",
+    "buyers": "Far Eastern",
+    "comments": "eco M/E, BWTS fitted",
+    "page": 6
+   },
+   {
+    "size": "KMAX",
+    "name": "OCEAN ROSEMARY",
+    "dwt": "82,265",
+    "built": "2013",
+    "shipbuilder": "Dalian Shipbuilding Industry Co Ltd Dalian LN (No",
+    "coating": "- MAN-B&W 2",
+    "price_raw": "$ 23.0m",
+    "buyers": "undisclosed",
+    "comments": "BWTS fitted, tier II",
+    "page": 6
+   },
+   {
+    "size": "PMAX",
+    "name": "WEN",
+    "dwt": "76,098",
+    "built": "2011",
+    "shipbuilder": "(Group) Co Ltd",
+    "coating": "MAN-B&W -",
+    "price_raw": "$ 19.64m",
+    "buyers": "Chinese",
+    "comments": "'22",
+    "page": 6
+   },
+   {
+    "size": "HMAX",
+    "name": "BLUEWAYS",
+    "dwt": "46,658",
+    "built": "1998",
+    "shipbuilder": "Shanghai China Mitsui Eng. & Co. Ltd. - Tamano, Japan",
+    "coating": "SB. CR B&W T, CR",
+    "price_raw": "4x30.5 4x30 $ 8.0m T",
+    "buyers": "undisclosed",
+    "comments": "bss cancelling Jan '22",
+    "page": 6
+   },
+   {
+    "size": "HANDY",
+    "name": "SPRING BREEZE",
+    "dwt": "33,847",
+    "built": "2013",
+    "shipbuilder": "Jiangsu Yangzijiang Shipbuilding Co - Jiangyin JS, China",
+    "coating": "4 Ltd MAN-B&W CRANES",
+    "price_raw": "X 30t high $ 15.0m",
+    "buyers": "undisclosed",
+    "comments": "BWTS fitted, incl TC attached at US$ 13,500/day until Aug '22",
+    "page": 6
+   },
+   {
+    "size": "General",
+    "name": "MIGHTY CHAMP",
+    "dwt": "10,084",
+    "built": "2005",
+    "shipbuilder": "Shin Kurushima Dockyard Co. Ltd.",
+    "coating": "CR - B&W T, DE",
+    "price_raw": "2x30.7 1x30 $ 6.0m",
+    "buyers": "undisclosed",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "General",
+    "name": "MIGHTY BOSS",
+    "dwt": "10,074",
+    "built": "2004",
+    "shipbuilder": "Shin Kurushima Dockyard Co. Ltd.",
+    "coating": "CR - B&W T, DE",
+    "price_raw": "2x30.7 1x30 $ 6.0m",
+    "buyers": "undisclosed",
+    "comments": "",
+    "page": 6
+   }
+  ]
+ }
+}

@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (630,698 Total Rows across 175 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (633,916 Total Rows across 176 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -42,6 +42,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [affinity_indices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/affinity_indices_series.csv) | Baltic Clean & Dirty freight benchmark indices | 496 | Verified |
 | [affinity_tce_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/affinity_tce_series.csv) | Baltic TCE Dirty & Clean route earnings ($/day) | 4,039 | Verified |
 | [agora_indicators_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/agora_indicators_series.csv) | Commodities, FX, Bonds, Stocks, Bunkers | 10,002 | Verified |
+| [allied_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/allied_sales_series.csv) | Allied Sales historical structured dataset | 3,218 | Verified |
 | [athenian_historical_demolition_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_historical_demolition_prices_series.csv) |  | 240 | Verified |
 | [athenian_indicative_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_indicative_demolition_series.csv) |  | 3,052 | Verified |
 | [athenian_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_market_commentary_series.csv) |  | 6 | Verified |
@@ -211,7 +212,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [fearnleys_md_master_econometric_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_master_econometric_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (175 CSVs + 1 Master Workbook)** | **630,698** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (176 CSVs + 1 Master Workbook)** | **633,916** | **100.0% Pass** |
 
 ---
 

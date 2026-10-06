@@ -1,3 +1,17 @@
+**THIS RUN (2026-10-06 22:2x, source-by-source, 30m job) - STARTED + COMPLETED the archive backfill's first source: ALLIED 203/203, 0 failures. This is real new extraction, not a re-statement.**
+
+Branch `auto/extract-fixes-2026-10-06-deepreview` (commit on the current branch, never main). Register gate GREEN after sync: **176 CSVs / 633,611 rows** (was 175 / 630,393).
+
+- **Why started:** the only unextracted body left is `corpus/archive/*` (615 PDFs after the gibson correction). allied is GENUINELY_MISSING (absent from feeds, our md tier, and index.html) and is PHASE-1 extraction (md) - the user's standing order to "START THE NEXT SOURCE". Per-source pipeline, not the deleted generic runner.
+- **MEASURED RESULT:** runner `scripts/extract/publishers/run_allied.py` (per-source). **203/203 docs, 0 failed.** md 203 + tables.json 203, 0 files <1KB. md fidelity vs the PDF text layer = **100.00% token recall** on a random 6-doc sample spanning 2021-2023 + both classes (no vision tool in cron -> same-document text reconcile, stated). Deals CSV `data/extracted/series/allied_sales_series.csv` = **3,218 rows**, 3,020 vessels, 130 dates 2021-07-04..2024-02-16, 0 blank dates.
+- **Typed layer reconciled:** vessel name verbatim **3,214/3,218 = 99.88%**; price token **2,426/2,427 = 99.96%**. The 4 name misses are spaced-letter artifacts.
+- **TRIAL caught 3 real bugs before bulk** (the reasons a bulk run would have shipped garbage): (1) one header per page misaligned the SECOND sub-table on a shared page -> now segments every page by header row; (2) midpoint/header-left column cuts bled wrapped Shipbuilder/Coating text across columns -> now assign each word to the NEAREST header anchor; (3) gear text bled into Price -> money token split out.
+- **Disclosed residuals (not hidden):** container sub-tables print TEU+Built as one token (`26642009`) -> dwt blank/built fused; en-bloc member rows show `each` with blank price; 1 price row with a capacity bleed; SnP-Statistics nested sector tables are in the md but not typed (aggregate stats, not a deal series).
+- **Evidence:** `docs/allied_survey.md`, `docs/allied_verdict.md`.
+- **NEXT:** same per-source method on **golden_destiny** (252, mixed number convention - derive per page). anchor (30, overlaps held data) + other (130, not one publisher) remain SKIP. All BACKFILL_ONLY (>180 d) - never CONSTRUCT.
+
+---
+
 **THIS RUN (2026-10-06 21:0x, source-by-source, 30m job) - nothing to EXTRACT (re-verified); produced the MISSING INPUT for the one open decision: a read-only fingerprint survey of `corpus/archive/` (`docs/archive_backfill_survey.md`). NEW measured correction: the archive body is 615 PDFs, not 724 - gibson is already done.**
 
 Branch `auto/extract-fixes-2026-10-06-deepreview`, working tree CLEAN (0 files) at start. Live python = Hermes gateways/proxy only, nothing of ours extracting. Register gate GREEN: `verify_registers.py` = ALL PASSED (175 CSVs / **630,393** rows == JSON == MD, 0 mismatches). xclusiv 271/271 (year-partitioned). Newest corpus mtime = the 2 best_oasis PDFs from 20:03 (already extracted).

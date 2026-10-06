@@ -1,0 +1,178 @@
+{
+ "issue_date": "2021-08-08",
+ "report_week": 31,
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\allied\\2021\\allied_2021_W31_ALLIED-Weekly-Market-Report_08_08_2021-1.pdf",
+ "stem": "allied_2021_W31_ALLIED-Weekly-Market-Report_08_08_2021-1",
+ "tables": {
+  "deals": [
+   {
+    "size": "AFRA",
+    "name": "ST. HELEN",
+    "dwt": "105,661",
+    "built": "2002",
+    "shipbuilder": "Samho Heavy Industries Co Ltd Samho, S. Korea",
+    "coating": "- B&W",
+    "price_raw": "$ 12.5m",
+    "buyers": "Chinese",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "MR",
+    "name": "DEE4 BIRCH",
+    "dwt": "53,712",
+    "built": "2006",
+    "shipbuilder": "Shin Kurushima Dockyard Co. Ltd. Onishi, Japan",
+    "coating": "Mitsubishi - EPOXY",
+    "price_raw": "rgn/xs $ 12.0m",
+    "buyers": "Ridgebury Tankers",
+    "comments": "BWTS fitted",
+    "page": 6
+   },
+   {
+    "size": "MR",
+    "name": "DEE4 ACACIA",
+    "dwt": "53,688",
+    "built": "2006",
+    "shipbuilder": "Shin Kurushima Dockyard Co. Ltd.",
+    "coating": "Mitsubishi - EPOXY",
+    "price_raw": "each",
+    "buyers": "",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "PROD/",
+    "name": "NIPAYIA",
+    "dwt": "19,997",
+    "built": "2009",
+    "shipbuilder": "Onishi, Japan Sekwang Heavy Industries Co Ltd",
+    "coating": "- MAN-B&W Siloxirane (MarineLI",
+    "price_raw": "$ 15.75m",
+    "buyers": "undisclosed",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "CAPE",
+    "name": "AQUA SPLENDOR",
+    "dwt": "175,589",
+    "built": "2012",
+    "shipbuilder": "Jinhai Heavy Industry Co Ltd Daishan County",
+    "coating": "- MAN-B&W ZJ,",
+    "price_raw": "$ 27.5m",
+    "buyers": "undisclosed",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "UMAX LOWLANDS",
+    "name": "BEACON",
+    "dwt": "61,400",
+    "built": "2011",
+    "shipbuilder": "Iwagi Zosen Co Kamijima EH, Japan",
+    "coating": "Ltd - 4 X MAN-B&W CRANES",
+    "price_raw": "30,7t rgn $ 21.0m",
+    "buyers": "Vietnamese",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "SMAX",
+    "name": "ADITYA",
+    "dwt": "55,496",
+    "built": "2008",
+    "shipbuilder": "Oshima Shipbuilding Co - Saikai NS, Japan",
+    "coating": "4 Ltd MAN-B&W CRANES",
+    "price_raw": "X 30t rgn $ 16.5m",
+    "buyers": "undisclosed",
+    "comments": "bss dely Sep-Oct '21",
+    "page": 6
+   },
+   {
+    "size": "SMAX",
+    "name": "HELENA",
+    "dwt": "50,206",
+    "built": "2002",
+    "shipbuilder": "Mitsui Eng. & Co. Ltd., Chiba Works - Ichihara,",
+    "coating": "SB. 4 MAN-B&W CRANES",
+    "price_raw": "X 30t rgn/high $ 9.0m",
+    "buyers": "Chinese",
+    "comments": "bss TC free dely Dec '21 - Spore-Japan range",
+    "page": 6
+   },
+   {
+    "size": "HANDY",
+    "name": "OCEAN MERCURY",
+    "dwt": "37,196",
+    "built": "2012",
+    "shipbuilder": "Hyundai Mipo Dockyard Co Ltd Ulsan, S. Korea",
+    "coating": "4 - MAN-B&W CRANES",
+    "price_raw": "X 30t rgn/mid $ 13.0m",
+    "buyers": "undisclosed",
+    "comments": "incl TC atached to Oldendorff at US$ 9k/day until May '22",
+    "page": 6
+   },
+   {
+    "size": "HANDY",
+    "name": "SAKURA KOBE",
+    "dwt": "33,735",
+    "built": "2011",
+    "shipbuilder": "Shin Kochi Jyuko K.K. - Kochi, Japan",
+    "coating": "4 Mitsubishi CRANES",
+    "price_raw": "X 30t rgn $ 16.2m",
+    "buyers": "undisclosed",
+    "comments": "SS/DD passed, BWTS fitted",
+    "page": 6
+   },
+   {
+    "size": "SMALL",
+    "name": "SEXTA",
+    "dwt": "18,367",
+    "built": "2000",
+    "shipbuilder": "INP Heavy Industries Co Ltd",
+    "coating": "3 - B&W CRANES,",
+    "price_raw": "X 30t 1 $ 3.9m",
+    "buyers": "undisclosed",
+    "comments": "auction sale",
+    "page": 6
+   },
+   {
+    "size": "Cargo",
+    "name": "CSC RUI HAI",
+    "dwt": "12,497",
+    "built": "2012",
+    "shipbuilder": "Yichang HB, China",
+    "coating": "Daihatsu CRANES,2 X",
+    "price_raw": "$ 6.3m 25t",
+    "buyers": "Chinese",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "Cargo",
+    "name": "CSC XIN HAI",
+    "dwt": "12,479",
+    "built": "2012",
+    "shipbuilder": "Yichang HB, China",
+    "coating": "MAN-B&W CRANES,2 X",
+    "price_raw": "$ 6.3m 25t",
+    "buyers": "",
+    "comments": "",
+    "page": 6
+   },
+   {
+    "size": "LPG",
+    "name": "YURICOSMOS",
+    "dwt": "49,999",
+    "built": "2010",
+    "shipbuilder": "Mitsubishi Heavy Industries Ltd. Nagasaki, Japan",
+    "coating": "- Mitsubishi 77,330",
+    "price_raw": "N/A",
+    "buyers": "BW LPG",
+    "comments": "declaration of purchase option 7",
+    "page": 6
+   }
+  ]
+ }
+}

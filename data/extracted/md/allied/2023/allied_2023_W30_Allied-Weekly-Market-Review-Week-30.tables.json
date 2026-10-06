@@ -1,0 +1,178 @@
+{
+ "issue_date": "2023-07-28",
+ "report_week": 30,
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\allied\\2023\\allied_2023_W30_Allied-Weekly-Market-Review-Week-30.pdf",
+ "stem": "allied_2023_W30_Allied-Weekly-Market-Review-Week-30",
+ "tables": {
+  "deals": [
+   {
+    "size": "VLCC",
+    "name": "SIFA",
+    "dwt": "316,373",
+    "built": "2011",
+    "shipbuilder": "HYUNDAI HI, S.",
+    "coating": "Korea",
+    "price_raw": "within rgn",
+    "buyers": "",
+    "comments": "",
+    "page": 7
+   },
+   {
+    "size": "VLCC",
+    "name": "FIDA",
+    "dwt": "316,373",
+    "built": "2011",
+    "shipbuilder": "HYUNDAI HI, S.",
+    "coating": "Korea",
+    "price_raw": "$ 64.0m - 65.0m",
+    "buyers": "Sinokor",
+    "comments": "scrubber fitted",
+    "page": 7
+   },
+   {
+    "size": "VLCC",
+    "name": "SAHAM",
+    "dwt": "299,991",
+    "built": "2010 (Ariake",
+    "shipbuilder": "Universal Shipbuilding Corp - Nagasu Shipyard),",
+    "coating": "KM Japan",
+    "price_raw": "range each",
+    "buyers": "",
+    "comments": "",
+    "page": 7
+   },
+   {
+    "size": "AFRA",
+    "name": "WELLINGTON",
+    "dwt": "108,940",
+    "built": "2009",
+    "shipbuilder": "Shanghai Waigaoqiao Shipbuilding Co Shanghai, China",
+    "coating": "Ltd - EPOXY",
+    "price_raw": "rgn high $ 40.0m",
+    "buyers": "Far Eastern",
+    "comments": "DPP",
+    "page": 7
+   },
+   {
+    "size": "LR1",
+    "name": "PRESIDENT",
+    "dwt": "I 64,999",
+    "built": "2007",
+    "shipbuilder": "SPLIT, Croatia",
+    "coating": "EPOXY",
+    "price_raw": "$ 28.6m",
+    "buyers": "Italian",
+    "comments": "BWTS fitted, ice class 1B",
+    "page": 7
+   },
+   {
+    "size": "SMALL",
+    "name": "ATHENIA",
+    "dwt": "8,828",
+    "built": "2008",
+    "shipbuilder": "YANGZHOU KEJIN SHYD CO, China",
+    "coating": "Epoxy Phenolic",
+    "price_raw": "$ 4.5m",
+    "buyers": "undisclosed",
+    "comments": "",
+    "page": 7
+   },
+   {
+    "size": "SMALL",
+    "name": "EMIN REIS",
+    "dwt": "6,623",
+    "built": "2010",
+    "shipbuilder": "Umo Gemi Sanayi Ticaret Ltd - Karadeniz Eregli, Turkey",
+    "coating": "ve Marine Line",
+    "price_raw": "$ 10.0m",
+    "buyers": "undisclosed",
+    "comments": "",
+    "page": 7
+   },
+   {
+    "size": "CAPE",
+    "name": "SHIOSAI",
+    "dwt": "176,827",
+    "built": "Namura 2009",
+    "shipbuilder": "Shipbuilding Co Ltd - Imari SG, Japan",
+    "coating": "",
+    "price_raw": "rgn $ 21.0m",
+    "buyers": "Chinese",
+    "comments": "BWTS fitted",
+    "page": 7
+   },
+   {
+    "size": "PMAX",
+    "name": "SUNNY ETERNITY",
+    "dwt": "77,211",
+    "built": "Oshima 2014",
+    "shipbuilder": "Shipbuilding Co Ltd - Saikai NS, Japan",
+    "coating": "",
+    "price_raw": "rgn $ 19.5m",
+    "buyers": "Greek",
+    "comments": "eco",
+    "page": 7
+   },
+   {
+    "size": "PMAX",
+    "name": "DESPINA D",
+    "dwt": "76,633",
+    "built": "2004",
+    "shipbuilder": "Imabari Shipbuilding Co Ltd - Marugame KG (Marugame Shipyard),",
+    "coating": "",
+    "price_raw": "$ 10.5m",
+    "buyers": "undisclosed",
+    "comments": "BWTS fitted",
+    "page": 7
+   },
+   {
+    "size": "PMAX",
+    "name": "SHENG WU",
+    "dwt": "76,286",
+    "built": "2005",
+    "shipbuilder": "Tsuneishi Corp - Tadotsu KG, Japan",
+    "coating": "",
+    "price_raw": "$ 14.9m",
+    "buyers": "undisclosed",
+    "comments": "BWTS fitted, old sale",
+    "page": 7
+   },
+   {
+    "size": "SMAX",
+    "name": "DEVBULK GULTEN",
+    "dwt": "55,865",
+    "built": "2015",
+    "shipbuilder": "Mitsui Eng. & SB. Co. Ltd., Chiba Works - Ichihara, Japan",
+    "coating": "",
+    "price_raw": "4 X 30t $ 22.6m CRANES",
+    "buyers": "undisclosed",
+    "comments": "BWTS fitted, eco",
+    "page": 7
+   },
+   {
+    "size": "SMAX",
+    "name": "RHL MARTA",
+    "dwt": "53,808",
+    "built": "2007",
+    "shipbuilder": "Chengxi Shipyard Co Ltd - Jiangyin JS, China",
+    "coating": "",
+    "price_raw": "4 X 36t rgn $ Crane 10.0m",
+    "buyers": "undisclosed",
+    "comments": "BWTS fitted",
+    "page": 7
+   },
+   {
+    "size": "HANDY",
+    "name": "CIELO DI PALERMO",
+    "dwt": "37,059",
+    "built": "2013 Co",
+    "shipbuilder": "Saiki Heavy Industries Ltd - Saiki OT, Japan",
+    "coating": "",
+    "price_raw": "4 X 30,5t $ 17.0m CRANES",
+    "buyers": "undisclosed",
+    "comments": "BWTS fitted",
+    "page": 7
+   }
+  ]
+ }
+}

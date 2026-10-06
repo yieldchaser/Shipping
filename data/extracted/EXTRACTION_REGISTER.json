@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 14:39:39Z",
+  "updated_at": "2026-10-06 17:36:27Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -848,6 +848,28 @@
         "val_IFO380",
         "val_VLSFO",
         "val_MGO"
+      ],
+      "status": "Verified"
+    },
+    {
+      "file": "allied_sales_series.csv",
+      "target_metric": "Allied Sales",
+      "rows": 3218,
+      "columns": [
+        "issue_date",
+        "report_week",
+        "size",
+        "name",
+        "dwt",
+        "built",
+        "shipbuilder",
+        "coating",
+        "price_raw",
+        "price_usd_m",
+        "buyers",
+        "comments",
+        "source_file",
+        "page"
       ],
       "status": "Verified"
     },
@@ -4037,13 +4059,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 630393,
-  "total_master_series_csvs": 175,
-  "total_stacked_rows": 630393,
-  "total_series_csvs": 175,
+  "total_master_stacked_rows": 633611,
+  "total_master_series_csvs": 176,
+  "total_stacked_rows": 633611,
+  "total_series_csvs": 176,
   "total_master_workbooks": 1,
-  "total_series_count": 175,
-  "total_rows_extracted": 630698,
+  "total_series_count": 176,
+  "total_rows_extracted": 633916,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4054,6 +4076,7 @@
     "affinity_indices_series.csv": 496,
     "affinity_tce_series.csv": 4039,
     "agora_indicators_series.csv": 10002,
+    "allied_sales_series.csv": 3218,
     "athenian_historical_demolition_prices_series.csv": 240,
     "athenian_indicative_demolition_series.csv": 3052,
     "athenian_market_commentary_series.csv": 6,

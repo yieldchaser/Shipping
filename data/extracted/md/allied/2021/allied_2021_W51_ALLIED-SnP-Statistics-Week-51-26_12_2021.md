@@ -1,0 +1,2283 @@
+# Allied Weekly Market Report
+
+Issue: Week 51 | 2021-12-26
+
+
+
+2 
+Sector
+No Vessels
+DWT
+Avg. age
+Invested Cap. ($)
+A. Dry Bulk
+1. Small Bulk
+(up to 19,999 dwt)
+2. Handysize
+(20,000 - 39,999 dwt)
+3. Supramax 
+(40,000 - 64,999 dwt)
+4. Panamax 
+(60,000 - 84,999 dwt)
+5. Post Panamax 
+(80,000 - 119,999 dwt)
+6. Capesize 
+(120,000+ dwt)
+Total
+909
+61,394,836
+11
+$ 14,369.3m
+B. Tanker
+1. Minitank 
+(up to 9,999 dwt)
+2. Prod/Chemical
+(10,000 - 24,999 dwt)
+3. MR
+(25,000 - 59,999 dwt)
+4. Panamax 
+(60,000 - 79,999 dwt)
+5. Aframax 
+(80,000 - 119,999 dwt)
+6. Suezmax 
+(120,000 - 199,999 dwt)
+7. VLCC 
+(200,000+ dwt)
+Total
+518
+54,621,163
+12
+$ 9,638.5m
+C. Container Total
+299
+12,605,217
+13
+$ 5,758.5m
+D. Gas Total
+35
+1,611,480
+14
+$ 1,563.0m
+E. Gen. Cargo Total
+<10,000dwt
+18
+134,230
+23
+$ 36.7m
+>10,000dwt
+46
+1,031,916
+14
+$ 348.1m
+Total
+64
+1,166,146
+17
+$ 384.8m
+F. RoRo/Pax Total
+6
+25,518
+23
+$ 11.0m
+G. Others Total
+93
+967,955
+$ 240.1m
+Grand Total
+1,924
+132,392,315
+12
+$ 31,965.2m
+284
+$ 5,323.6m
+25,341,546
+12,289,113
+5,179,596
+7,518,674
+15,115,036
+184,523
+20,648,646
+82
+$ 2,061.4m
+28
+$ 96.6m
+45
+4,213,562
+$ 858.3m
+15
+$ 74.5m
+243
+$ 2,984.1m
+240
+$ 3,067.4m
+13,117,218
+245,814
+8,054,560
+18
+10
+12
+44
+$ 469.3m
+$ 496.4m
+13
+13
+3,140,686
+57
+967,025
+11
+14
+163
+$ 2,151.4m
+83
+$ 3,166.7m
+13
+12
+16
+112
+$ 2,504.2m
+33
+$ 754.0m
+9
+8
+11
+as at December 26th 2021 
+ 
+Dry Bulk Sales per size  during 2021 
+7. VLCC 
+5. Aframax 
+4. Panamax 
+3. MR
+2. Prod/Chemical
+1. Minitank 
+6. Suezmax 
+16.02%
+6.37%
+21.62%
+8.49%
+31.47%
+11.%
+5.41%
+6. Capesize 
+5. Post Panamax 
+4. Panamax 
+3. Supramax 
+2. Handysize
+1. Small Bulk
+9.02%
+4.95%
+31.24%
+26.4%
+26.73%
+1.65%
+Tanker Sales per size  during 2021
+
+3 
+as at December 26th 2021 
+ 
+ 
+ 
+ 
+ 
+0
+50
+100
+150
+200
+250
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+UNITS
+2020
+2021
+Vessels Sold per Month 
+Vessels Sold 2020 Vs 2021 
+units
+Invested Cap. ($)
+2020
+Jan-20
+107
+          
+$ 2,761.8m
+         
+Feb-20
+113
+          
+$ 1,253.1m
+         
+Mar-20
+55
+             
+$ 618.6m
+             
+Apr-20
+48
+             
+$ 610.8m
+             
+May-20
+72
+             
+$ 1,024.1m
+         
+Jun-20
+82
+             
+$ 958.7m
+             
+Jul-20
+117
+          
+$ 1,846.9m
+         
+Aug-20
+92
+             
+$ 1,072.3m
+         
+Sep-20
+93
+             
+$ 959.1m
+             
+Oct-20
+119
+          
+$ 1,758.1m
+         
+Nov-20
+137
+          
+$ 1,589.3m
+         
+Dec-20
+144
+          
+$ 1,908.1m
+         
+Total
+1,179
+      
+$ 16,360.9m
+       
+2021
+Jan-21
+173
+          
+$ 2,194.7m
+         
+Feb-21
+176
+          
+$ 2,137.8m
+         
+Mar-21
+173
+          
+$ 2,408.2m
+         
+Apr-21
+142
+          
+$ 2,528.0m
+         
+May-21
+216
+          
+$ 3,123.3m
+         
+Jun-21
+160
+          
+$ 2,313.5m
+         
+Jul-21
+160
+          
+$ 3,203.8m
+         
+Aug-21
+126
+          
+$ 1,630.6m
+         
+Sep-21
+178
+          
+$ 3,406.5m
+         
+Oct-21
+152
+          
+$ 3,415.6m
+         
+Nov-21
+129
+          
+$ 3,132.3m
+         
+Dec-21
+139
+          
+$ 2,471.1m
+         
+Total
+1,924
+      
+$ 31,965.2m
+       
+Sector
+No Vessels
+DWT
+Avg. age
+Invested Cap.
+A. Dry Bulk Total
+543
+39,807,487
+11
+$ 5,687.5m
+B. Tanker Total
+356
+39,298,189
+14
+$ 5,634.2m
+C. Container Total
+128
+6,711,388
+12
+$ 2,107.7m
+D. Gas Total
+36
+1,496,073
+14
+$ 1,517.0m
+E. Gen. Cargo Total
+56
+1,287,742
+15
+$ 256.9m
+F. RoRo/Pax Total
+14
+96,285
+26
+$ 937.6m
+G. Others Total
+46
+517,896
+$ 220.1m
+Grand Total
+1,179
+89,215,060
+13
+$ 16,360.9m
+Sector
+No Vessels
+DWT
+Avg. age
+Invested Cap.
+A. Dry Bulk Total
+518
+32,966,250
+11
+$ 5,542.2m
+B. Tanker Total
+501
+41,109,935
+12
+$ 8,690.1m
+C. Container Total
+127
+6,867,925
+11
+$ 2,360.3m
+D. Gas Total
+48
+1,543,790
+14
+$ 1,108.4m
+E. Gen. Cargo Total
+73
+1,320,567
+14
+$ 318.1m
+F. RoRo/Pax Total
+20
+62,813
+25
+$ 19.8m
+G. Others Total
+108
+1,365,092
+$ 525.0m
+Grand Total
+1,395
+85,236,372
+12
+$ 18,564.0m
+Sector
+No Vessels
+DWT
+Avg. age
+Invested Cap.
+A. Dry Bulk Total
+541
+40,064,720
+10
+$ 7,067.2m
+B. Tanker Total
+401
+31,475,502
+10
+$ 6,032.3m
+C. Container Total
+192
+7,344,764
+11
+$ 2,489.5m
+D. Gas Total
+52
+1,773,213
+13
+$ 1,485.9m
+E. Gen. Cargo Total
+77
+1,392,557
+13
+$ 443.1m
+F. RoRo/Pax Total
+12
+58,662
+24
+$ 19.7m
+G. Others Total
+139
+1,029,942
+$ 1,327.9m
+Grand Total
+1,414
+83,139,360
+11
+$ 18,865.5m
+Sector
+No Vessels
+DWT
+Avg. age
+Invested Cap.
+A. Dry Bulk Total
+667
+49,874,202
+10
+$ 8,263.9m
+B. Tanker Total
+362
+33,814,382
+11
+$ 6,696.1m
+C. Container Total
+277
+11,932,110
+11
+$ 2,254.5m
+D. Gas Total
+45
+1,335,836
+13
+$ 1,051.7m
+E. Gen. Cargo Total
+87
+1,460,052
+15
+$ 329.5m
+F. RoRo/Pax Total
+17
+51,710
+24
+$ 76.2m
+G. Others Total
+129
+899,910
+$ 1,750.0m
+Grand Total
+1,584
+99,368,202
+11
+$ 20,421.9m
+Sector
+No Vessels
+DWT
+Avg. age
+Invested Cap.
+A. Dry Bulk Total
+649
+47,569,530
+9
+$ 5,818.1m
+B. Tanker Total
+320
+24,426,227
+10
+$ 6,676.4m
+C. Container Total
+112
+4,392,234
+11
+$ 1,153.4m
+D. Gas Total
+32
+782,447
+18
+$ 768.0m
+E. Gen. Cargo Total
+70
+915,733
+15
+$ 186.3m
+F. RoRo/Pax Total
+16
+35,152
+21
+$ 103.2m
+G. Others Total
+29
+503,000
+$ 127.3m
+Grand Total
+1,228
+78,624,323
+11
+$ 14,832.5m
+
+4 
+as at December 26th 2021 
+Buyer Nationality during 2021 - Top 10 
+(No of vessels per sector) 
+(Total Invested Capital per sector in US$) 
+Sellers Nationality during 2021 - Top 10 
+(No of vessels per sector) 
+(Total Received Capital per sector in US$) 
+Dry Bulk
+Tanker
+Container
+Gas
+Total
+Greece
+230
+            
+101
+            
+30
+             
+7
+               
+375
+            
+China
+229
+            
+66
+              
+6
+               
+3
+               
+328
+            
+Switzerland
+2
+                 
+5
+                
+61
+             
+-
+                
+69
+              
+Norway
+12
+              
+19
+              
+6
+               
+-
+                
+44
+              
+Germany
+23
+              
+6
+                
+12
+             
+-
+                
+42
+              
+Singapore
+17
+              
+11
+              
+6
+               
+1
+               
+38
+              
+Denmark
+3
+                 
+15
+              
+8
+               
+2
+               
+32
+              
+Vietnam
+5
+                 
+16
+              
+1
+               
+2
+               
+29
+              
+Turkey
+20
+              
+2
+                
+-
+                
+2
+               
+28
+              
+Middle East
+6
+                 
+17
+              
+-
+                
+-
+                
+27
+              
+undisclosed
+-
+                 
+-
+                 
+-
+                
+-
+                
+-
+                 
+all other
+362
+            
+260
+            
+169
+          
+18
+             
+912
+            
+Total
+909
+            
+518
+            
+299
+          
+35
+             
+1,924
+        
+Dry Bulk
+Tanker
+Container
+Gas
+Total
+Greece
+ 4,118.0m
+   
+ 2,153.6m
+   
+ 394.5m
+    
+ 849.5m
+    
+ 7,575.9m
+   
+China
+ 3,179.7m
+   
+ 1,324.1m
+   
+ 40.4m
+      
+ 255.1m
+    
+ 4,897.7m
+   
+Switzerland
+ 46.2m
+        
+ 180.3m
+      
+ 2,023.9m
+ 
+-
+                
+ 2,250.3m
+   
+Norway
+ 230.7m
+      
+ 850.0m
+      
+ 52.9m
+      
+-
+                
+ 1,283.0m
+   
+Germany
+ 404.1m
+      
+ 57.8m
+        
+ 117.7m
+    
+-
+                
+ 579.5m
+      
+Singapore
+ 511.2m
+      
+ 203.8m
+      
+ 281.0m
+    
+-
+                
+ 1,031.0m
+   
+Denmark
+ 81.8m
+        
+ 348.8m
+      
+ 133.0m
+    
+-
+                
+ 563.6m
+      
+Vietnam
+ 117.0m
+      
+ 223.8m
+      
+ 8.0m
+        
+ 45.0m
+      
+ 398.9m
+      
+Turkey
+ 292.1m
+      
+ 28.9m
+        
+-
+                
+ 13.6m
+      
+ 367.7m
+      
+Middle East
+ 92.9m
+        
+ 137.2m
+      
+-
+                
+-
+                
+ 238.5m
+      
+undisclosed
+-
+                 
+-
+                 
+-
+                
+-
+                
+-
+                 
+all other
+ 5,295.8m
+   
+ 4,130.4m
+   
+ 2,707.2m
+ 
+ 399.8m
+    
+ 12,779.3m
+ 
+Total
+ 14,369.3m
+ 
+ 9,638.5m
+   
+ 5,758.5m
+ 
+ 1,563.0m
+ 
+ 31,965.2m
+ 
+Dry Bulk
+Tanker
+Container
+Gas
+Total
+Japan
+193
+            
+34
+              
+15
+             
+2
+               
+256
+            
+Greece
+107
+            
+88
+              
+29
+             
+5
+               
+233
+            
+China
+83
+              
+17
+              
+17
+             
+2
+               
+128
+            
+Singapore
+31
+              
+65
+              
+12
+             
+2
+               
+119
+            
+Germany
+27
+              
+7
+                
+71
+             
+1
+               
+114
+            
+Bermuda
+36
+              
+24
+              
+17
+             
+6
+               
+86
+              
+Norway
+16
+              
+19
+              
+21
+             
+4
+               
+84
+              
+Denmark
+14
+              
+21
+              
+-
+                
+-
+                
+36
+              
+Monaco
+15
+              
+13
+              
+2
+               
+-
+                
+30
+              
+Taiwan
+17
+              
+7
+                
+2
+               
+-
+                
+28
+              
+undisclosed
+-
+                 
+-
+                 
+-
+                
+-
+                
+-
+                 
+all other
+370
+            
+223
+            
+113
+          
+13
+             
+810
+            
+Total
+909
+            
+518
+            
+299
+          
+35
+             
+1,924
+        
+Dry Bulk
+Tanker
+Container
+Gas
+Total
+Japan
+ 3,302.7m
+   
+ 594.2m
+      
+ 271.0m
+    
+ 48.0m
+      
+ 4,341.5m
+   
+Greece
+ 1,289.1m
+   
+ 1,698.4m
+   
+ 410.5m
+    
+ 455.7m
+    
+ 3,862.6m
+   
+China
+ 1,410.0m
+   
+ 409.3m
+      
+ 495.0m
+    
+ 415.3m
+    
+ 2,771.1m
+   
+Singapore
+ 646.7m
+      
+ 1,184.5m
+   
+ 505.0m
+    
+ 11.0m
+      
+ 2,372.5m
+   
+Germany
+ 505.9m
+      
+ 76.6m
+        
+ 1,163.0m
+ 
+-
+                
+ 1,819.5m
+   
+Bermuda
+ 691.5m
+      
+ 451.6m
+      
+ 277.4m
+    
+ 281.8m
+    
+ 1,702.2m
+   
+Norway
+ 287.1m
+      
+ 512.7m
+      
+ 445.7m
+    
+ 74.7m
+      
+ 1,376.4m
+   
+Denmark
+ 364.9m
+      
+ 185.0m
+      
+-
+                
+-
+                
+ 549.9m
+      
+Monaco
+ 239.5m
+      
+ 221.1m
+      
+ 19.0m
+      
+-
+                
+ 479.6m
+      
+Taiwan
+ 258.4m
+      
+ 90.8m
+        
+ 21.7m
+      
+-
+                
+ 378.4m
+      
+undisclosed
+-
+                 
+-
+                 
+-
+                
+-
+                
+-
+                 
+all other
+ 5,373.7m
+   
+ 4,214.6m
+   
+ 2,150.3m
+ 
+ 276.6m
+    
+ 12,311.6m
+ 
+Total
+ 14,369.3m
+ 
+ 9,638.5m
+   
+ 5,758.5m
+ 
+ 1,563.0m
+ 
+ 31,965.2m
+
+5 
+Sector
+No Of Vessels
+DWT No Of Vessels
+DWT
+A. Dry Bulk
+1. Small Bulk
+(up to 19,999 dwt)
+2. Handysize
+(20,000 - 39,999 dwt)
+3. Supramax 
+(40,000 - 64,999 dwt)
+4. Panamax 
+(60,000 - 84,999 dwt)
+5. Post Panamax 
+(80,000 - 119,999 dwt)
+6. Capesize 
+(120,000+ dwt)
+Total
+132
+14,323,224
+71
+5,680,602
+B. Tanker
+1. Minitank 
+(up to 9,999 dwt)
+2. Product/Chemical
+(10,000 - 24,999 dwt)
+3. MR
+(25,000 - 59,999 dwt)
+4. Panamax 
+(60,000 - 79,999 dwt)
+5. Aframax 
+(80,000 - 119,999 dwt)
+6. Suezmax 
+(120,000 - 199,999 dwt)
+7. VLCC 
+(200,000+ dwt)
+Total
+123
+3,082,820
+301
+14,946,289
+C. Container Total
+83
+2,638,794
+19
+246,846
+D. Gas Total
+20
+446,994
+26
+684,621
+E. Gen. Cargo Total
+<10,000dwt
+78
+                   
+279,882
+       
+80
+                   
+309,578
+       
+>10,000dwt
+42
+                   
+1,055,149
+   
+10
+                   
+247,812
+       
+Total
+120
+1,335,031
+90
+557,390
+F. RoRo/Pax Total
+61
+550,807
+37
+213,845
+G. Others Total
+275
+1,563,644
+336
+2,984,273
+Grand Total
+814
+23,941,314
+880
+25,313,866
+2020
+2021
+16
+                   
+87,113
+         
+12
+                   
+96,603
+         
+26
+                   
+748,598
+       
+75
+                   
+303,316
+       
+120
+                 
+631,586
+       
+2
+                     
+182,299
+       
+1
+                     
+85,256
+         
+18
+                   
+732,470
+       
+60
+                   
+2,482,237
+   
+14
+                   
+224,039
+       
+46
+                   
+692,905
+       
+47
+                   
+11,147,963
+ 
+15
+                   
+3,547,715
+   
+9
+                     
+923,689
+       
+33
+                   
+3,373,747
+   
+3
+                     
+199,372
+       
+10
+                   
+685,346
+       
+1
+                     
+300,361
+       
+15
+                   
+4,498,795
+   
+3
+                     
+399,573
+       
+17
+                   
+2,581,673
+   
+11
+                   
+774,205
+       
+10
+                   
+714,537
+       
+17
+                   
+518,646
+       
+30
+                   
+1,383,046
+   
+16
+                   
+717,845
+       
+as at December 26th 2021 
+ 
+Sector
+2021
+2020
+2019
+A. Dry Bulk
+30.00
+27.85
+30.17
+B. Tanker
+27.64
+31.33
+31.09
+C. Container
+27.68
+23.08
+23.34
+D. Gas
+32.65
+32.85
+35.50
+E. Gen. Cargo
+37.51
+34.35
+34.20
+F. RoRo/Pax
+37.84
+28.25
+32.36
+G. Other
+37.12
+36.00
+34.57
+Total
+33.04
+31.75
+32.08
+7. VLCC 
+6. Suezmax 
+5. Aframax 
+4. Panamax 
+3. MR
+2. Product/Chemical
+1. Minitank 
+4.98%
+5.65%
+10.96%
+3.32%
+19.93%
+15.28%
+39.87%
+6. Capesize 
+5. Post Panamax 
+4. Panamax 
+3. Supramax 
+2. Handysize
+1. Small Bulk
+21.13%
+1.41%
+14.08%
+22.54%
+23.94%
+16.9%
+Average Scrapping Age 
+Dry Bulk scrapping per size during 2021 
+Tanker scrapping per size during 2021
+
+6 
+units
+LDT
+2020
+Jan-20
+71
+     
+518,541
+               
+Feb-20
+80
+     
+552,595
+               
+Mar-20
+49
+     
+199,227
+               
+Apr-20
+37
+     
+214,067
+               
+May-20
+41
+     
+302,747
+               
+Jun-20
+106
+   
+614,005
+               
+Jul-20
+65
+     
+708,974
+               
+Aug-20
+59
+     
+409,672
+               
+Sep-20
+84
+     
+589,285
+               
+Oct-20
+74
+     
+384,524
+               
+Nov-20
+79
+     
+503,196
+               
+Dec-20
+69
+     
+535,429
+               
+Total
+814
+          
+5,532,262
+2021
+Jan-21
+83
+     
+602,056
+               
+Feb-21
+77
+     
+338,232
+               
+Mar-21
+82
+     
+635,360
+               
+Apr-21
+86
+     
+481,418
+               
+May-21
+97
+     
+590,968
+               
+Jun-21
+77
+     
+316,165
+               
+Jul-21
+72
+     
+276,859
+               
+Aug-21
+73
+     
+426,584
+               
+Sep-21
+78
+     
+578,904
+               
+Oct-21
+65
+     
+343,645
+               
+Nov-21
+64
+     
+338,603
+               
+Dec-21
+26
+     
+244,358
+               
+Total
+880
+          
+5,173,152
+as at December 26th 2021 
+ 
+ 
+ 
+ 
+ 
+0
+20
+40
+60
+80
+100
+120
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+UNITS
+2020
+2021
+Vessels Scrapped per Month 
+Vessels Scrapped 2020 Vs 2021 
+Sector
+No Vessels
+DWT
+Avg. age
+LDT
+A. Dry Bulk Total
+132
+14,323,224
+27.85
+1,994,935
+   
+B. Tanker Total
+123
+3,082,820
+31.33
+667,636
+       
+C. Container Total
+83
+2,638,794
+23.08
+929,804
+       
+D. Gas Total
+20
+446,994
+32.85
+189,767
+       
+E. Gen. Cargo Total
+120
+1,335,031
+34.35
+387,658
+       
+F. RoRo/Pax Total
+61
+550,807
+28.25
+623,129
+       
+G. Others Total
+275
+1,563,644
+739,333
+       
+Grand Total
+814
+23,941,314
+31.75
+5,532,262
+Sector
+No Vessels
+DWT
+Avg. age
+LDT
+A. Dry Bulk Total
+92
+8,128,421
+30.17
+1,116,641
+   
+B. Tanker Total
+112
+4,113,764
+31.09
+757,458
+       
+C. Container Total
+110
+2,980,736
+23.34
+1,034,787
+   
+D. Gas Total
+18
+280,569
+35.50
+96,260
+         
+E. Gen. Cargo Total
+111
+808,901
+34.20
+213,749
+       
+F. RoRo/Pax Total
+33
+213,175
+32.36
+167,929
+       
+G. Others Total
+377
+3,085,596
+1,157,169
+   
+Grand Total
+853
+19,611,162
+32.08
+4,543,993
+Sector
+No Vessels
+DWT
+Avg. age
+LDT
+A. Dry Bulk Total
+70
+4,227,944
+33.11
+554,190
+       
+B. Tanker Total
+246
+21,250,032
+27.51
+3,350,759
+   
+C. Container Total
+59
+1,447,991
+23.92
+451,005
+       
+D. Gas Total
+50
+1,245,197
+31.32
+455,435
+       
+E. Gen. Cargo Total
+127
+736,161
+34.26
+199,693
+       
+F. RoRo/Pax Total
+45
+270,165
+36.18
+188,601
+       
+G. Others Total
+458
+2,601,639
+903,728
+       
+Grand Total
+1,055
+31,779,129
+32.85
+6,103,411
+Sector
+No Vessels
+DWT
+Avg. age
+LDT
+A. Dry Bulk Total
+222
+14,130,841
+25.15
+1,982,291
+   
+B. Tanker Total
+141
+11,167,068
+27.27
+1,825,330
+   
+C. Container Total
+141
+5,363,568
+21.24
+1,745,569
+   
+D. Gas Total
+28
+481,503
+32.61
+199,111
+       
+E. Gen. Cargo Total
+230
+1,584,319
+34.09
+427,994
+       
+F. RoRo/Pax Total
+46
+468,172
+32.39
+329,412
+       
+G. Others Total
+341
+2,884,855
+884,490
+       
+Grand Total
+1,149
+36,080,326
+31.06
+7,394,197
+Sector
+No Vessels
+DWT
+Avg. age
+LDT
+A. Dry Bulk Total
+405
+28,981,667
+23.83
+4,294,516
+   
+B. Tanker Total
+62
+3,274,218
+28.98
+625,193
+       
+C. Container Total
+196
+9,026,229
+18.67
+3,011,692
+   
+D. Gas Total
+18
+334,908
+30.83
+147,298
+       
+E. Gen. Cargo Total
+198
+2,292,767
+32.71
+642,509
+       
+F. RoRo/Pax Total
+41
+612,957
+32.20
+405,951
+       
+G. Others Total
+325
+1,033,169
+495,669
+       
+Grand Total
+1,245
+45,555,915
+28.62
+9,622,828
+
+7 
+as at December 26th 2021 
+Demo Destination during 2021 - Top 5 
+(No of vessels per sector) 
+(Total '000s DWT capacity per sector) 
+Sellers Nationality during 2021 - Top 5 
+(No of vessels per sector) 
+(Total '000s DWT capacity per sector) 
+Dry Bulk
+Tanker
+Container
+Gas
+Total
+Bangladesh
+34
+             
+106
+           
+7
+                
+12
+             
+228
+           
+India
+3
+                
+70
+             
+6
+                
+5
+                
+172
+           
+Pakistan
+13
+             
+58
+             
+1
+                
+-
+                
+103
+           
+Turkey
+3
+                
+12
+             
+-
+                
+2
+                
+84
+             
+China
+1
+                
+1
+                
+-
+                
+-
+                
+5
+                
+Unk./Other
+17
+             
+54
+             
+5
+                
+7
+                
+288
+           
+Total
+71
+301
+19
+26
+880
+Dry Bulk
+Tanker
+Container
+Gas
+Total
+Bangladesh
+3,390
+        
+5,425
+        
+57
+             
+335
+           
+9,756
+        
+India
+52
+             
+2,067
+        
+98
+             
+96
+             
+2,796
+        
+Pakistan
+793
+           
+3,176
+        
+26
+             
+-
+                
+4,156
+        
+Turkey
+68
+             
+563
+           
+-
+                
+7
+                
+1,360
+        
+China
+65
+             
+8
+                
+-
+                
+-
+                
+76
+             
+Unk./Other
+1,313
+        
+3,708
+        
+66
+             
+246
+           
+7,171
+        
+Total
+5,681
+        
+14,946
+     
+247
+           
+685
+           
+25,314
+     
+Dry Bulk
+Tanker
+Container
+Gas
+Total
+Greece
+5
+                
+22
+             
+-
+                
+1
+                
+34
+             
+Norway
+-
+                
+4
+                
+-
+                
+2
+                
+29
+             
+India
+-
+                
+4
+                
+-
+                
+-
+                
+27
+             
+Russia
+1
+                
+13
+             
+-
+                
+-
+                
+26
+             
+Indonesia
+5
+                
+10
+             
+-
+                
+-
+                
+17
+             
+all other
+60
+             
+248
+           
+19
+             
+23
+             
+747
+           
+Total
+71
+301
+19
+26
+880
+Dry Bulk
+Tanker
+Container
+Gas
+Total
+Greece
+485
+           
+1,513
+        
+-
+                
+16
+             
+2,032
+        
+Norway
+-
+                
+472
+           
+-
+                
+5
+                
+715
+           
+India
+-
+                
+77
+             
+-
+                
+-
+                
+130
+           
+Russia
+19
+             
+670
+           
+-
+                
+-
+                
+714
+           
+Indonesia
+153
+           
+571
+           
+-
+                
+-
+                
+805
+           
+all other
+5,024
+        
+11,643
+     
+247
+           
+664
+           
+20,917
+     
+Total
+5,681
+        
+14,946
+     
+247
+           
+685
+           
+25,314
+
+8 
+AERAKIS GEORGE
+MOBILE: +30 6946 04 57 37
+BOLIS ILIAS
+MOBILE: +30 6937 02 65 00
+DASKALAKIS GEORGE
+MOBILE: +30 6932 24 80 07
+DRAKOGIANNOPOULOS SAKIS
+MOBILE: +30  6944  88 58 08
+DRAKOGIANNOPOULOS STAVROS
+MOBILE: +30  6932 20 15 65
+FRANGOS HARRIS
+MOBILE: +30 6936 57 67 00
+KLONIZAKIS JOHN
+MOBILE: +30 6948 50 55 81
+KOSTOYANNIS JOHN
+MOBILE: +30 6932 43 39 99
+KOUKOUMIALOS ZANNIS
+MOBILE: +30 6978 15 17 55
+MANOLAS NIKOLAS
+MOBILE: +30 6940 63 22 56
+MOISSOGLOU THEODOROS
+MOBILE: +30 6932 45 52 41
+PAPAIOANNOU ANTONIS
+MOBILE: +30 6936 54 80 22
+PAPOUIS THASSOS
+MOBILE: +30 6944 29 49 89
+PITHIS ALEXIS
+MOBILE: +30 6970 86 33 77
+PRACHALIAS ARGIRIS
+MOBILE: +30 6947 62 82 62
+STASSINAKIS JOHN
+MOBILE: +30 6972 60 92 09
+TSALPATOUROS COSTIS
+MOBILE: +30 6932 20 15 63
+VARVAROS PLUTON
+MOBILE: +30 6937 25 15 15
+Maritime Research & Valuations
+CHASAPIS THOMAS
+MOBILE: +30 6947 82 91 72
+LAZARIDIS GEORGE 
+MOBILE: +30 6946 95 69 40
+VAMVAKAS YIANNIS
+MOBILE: +30 6942 94 71 87
+Sale & Purchase
+ ALLIED SHIPBROKING INC. 
+48, Aigialeias Street, 4th Floor, 
+Maroussi 151 25, Greece 
+Tel:  +30 210 45 24 500 
+Fax: +30 210 45 25 017/ 019 
+E-mail: snp@allied-shipbroking.gr 
+  
+ 
+  
+ALLIED CHARTERING S.A. 
+48, Aigialeias Street, 4th Floor, 
+Maroussi 151 25, Greece 
+Tel : +30 210 42 88 100 
+Fax: +30 210 45 24 201 
+E-mail: drycargo@allied-chartering.gr 
+E-mail: tanker@allied-chartering.gr 
+ALEXOPOULOS PANOS 
+MOBILE: +30 6944 34 66 15
+FLOURIS DIMITRIS
+MOBILE: +30 6937 81 32 39
+KAILAS VAGGELIS
+MOBILE: +30 6942 48 05 69
+KANELLOS DIMITRIS 
+MOBILE: +30 6945 07 47 85
+KARAMANIS COSTAS
+MOBILE: +30 6941 54 14 65
+PATELIS DIMITRIS 
+MOBILE: +30 6944 04 43 61
+THEODOTOS ARISTOFANIS 
+MOBILE: +30 6951 79 82 89
+TSALPATOUROU ANASTASIA
+MOBILE: +30 6951 79 82 91
+TSALPATOUROU MARGARITA  
+MOBILE: +30 6934 74 22 16
+TSOLAKIDI SONIA
+MOBILE: +30 6942 65 66 51
+TZOTZOLI ATHANASIA
+MOBILE: +30 6955 48 19 08
+Tanker Chartering
+FLOURIS JOHN 
+MOBILE: +30 6955 80 15 03 
+IALAIA ARIADNE
+MOBILE: +30 6949 16 71 40
+KATERINIOS MICHAEL
+MOBILE: +30 6981 13 66 23
+STERGIOPOULOS ALEXANDROS
+MOBILE: +30 6951 79 82 91
+MAVRIANOU FOTINI
+MOBILE: +30 6951 79 82 88
+Dry Cargo Chartering
+
+9 
+ 
+Disclaimer 
+The information contained within this report has been provided by Allied Shipbroking Inc. and Allied Chartering S.A. for general information 
+purposes. 
+All the information is compiled through Allied Shipbroking Inc. and Allied Chartering S.A. databases, as well as from other market sources. De-
+spite having taken reasonable care in the gathering, filtering and auditing of this information and believing that the information is accurate and 
+correct, it may still contain errors, as a lot of the views regarding market levels are partially derived from estimates and/or subject judgments 
+while the reported transaction activity is gathered from several sources and rumors, some of which are sometimes hard to validate in full their 
+accuracy and truthfulness. As such we advise that the information be taken cautiously, while advising that this information does not obviate the 
+need to also make further enquiries and seek further information in order to obtain a more accurate outlook. As we make no warranties of any 
+kind, both expressed or implied, as to the completeness, accuracy, reliability or completeness of the information herein, Allied Shipbroking Inc. 
+and its connected persons shall not be held liable to any loss or damage of any kind, including direct, indirect and/or consequential damages 
+caused by negligence of any kind on our part. 
+Any choice to rely on this information provided is strictly at the recipient’s own risk. 
+This report and its information is confidential and solely for the internal use of its recipients, while any re-production or re-distribution of the 
+report and its material is strictly prohibited without prior permission from Allied Shipbroking Inc.   
+If you wish to subscribe to this or any other report we produce, please contact us directly.

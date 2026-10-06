@@ -1,0 +1,190 @@
+{
+ "issue_date": "2023-06-30",
+ "report_week": 26,
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\allied\\2023\\allied_2023_W26_Allied-Weekly-Market-Review-Week-26.pdf",
+ "stem": "allied_2023_W26_Allied-Weekly-Market-Review-Week-26",
+ "tables": {
+  "deals": [
+   {
+    "size": "SUEZ",
+    "name": "MELODIA",
+    "dwt": "158,671",
+    "built": "2011",
+    "shipbuilder": "SAMSUNG HI, S.",
+    "coating": "Korea",
+    "price_raw": "rgn $ 48.0m",
+    "buyers": "U. A. E. Based",
+    "comments": "",
+    "page": 7
+   },
+   {
+    "size": "AFRA",
+    "name": "MINERVA ZOE",
+    "dwt": "105,330",
+    "built": "2004",
+    "shipbuilder": "Hyundai Samho Industries Co Samho, S. Korea",
+    "coating": "Heavy Ltd -",
+    "price_raw": "$ 31.0m",
+    "buyers": "Chinese",
+    "comments": "ice class 1D",
+    "page": 7
+   },
+   {
+    "size": "MR",
+    "name": "SAMPURNA SWARAJYA",
+    "dwt": "32,950",
+    "built": "1999",
+    "shipbuilder": "HYUNDAI HI, S.",
+    "coating": "Korea EPOXY",
+    "price_raw": "$ 3.23m",
+    "buyers": "U. A. E. Based",
+    "comments": "",
+    "page": 7
+   },
+   {
+    "size": "VLOC",
+    "name": "BENITAMOU",
+    "dwt": "206,291",
+    "built": "2008",
+    "shipbuilder": "Imabari Shipbuilding Co Ltd - Saijo EH (Saijo Shipyard), Japan",
+    "coating": "",
+    "price_raw": "high $ 22.0m",
+    "buyers": "Chinese",
+    "comments": "BWTS fitted, incl 1yr BBHP",
+    "page": 7
+   },
+   {
+    "size": "CAPE",
+    "name": "AGIOS CHARALAMBOS",
+    "dwt": "184,872",
+    "built": "2003",
+    "shipbuilder": "Mitsui Eng. & SB. Co. Ltd., Chiba Works - Ichihara, Japan",
+    "coating": "",
+    "price_raw": "$ 14.0m",
+    "buyers": "Indian",
+    "comments": "",
+    "page": 7
+   },
+   {
+    "size": "CAPE",
+    "name": "AQUARANGE",
+    "dwt": "179,842",
+    "built": "2011",
+    "shipbuilder": "HHIC-Phil Inc - Subic, Philippines",
+    "coating": "",
+    "price_raw": "$ rgn 23.5m",
+    "buyers": "Costamare",
+    "comments": "BWTS fitted, DD due",
+    "page": 7
+   },
+   {
+    "size": "KMAX",
+    "name": "JY HONGKONG",
+    "dwt": "81,107",
+    "built": "2019",
+    "shipbuilder": "Chengxi Shipyard Co Ltd - Jiangyin JS, China",
+    "coating": "",
+    "price_raw": "$ 30.0m",
+    "buyers": "undisclosed",
+    "comments": "eco, BWTS fitted, via online auction",
+    "page": 7
+   },
+   {
+    "size": "UMAX",
+    "name": "KK PROGRESSION",
+    "dwt": "64,012",
+    "built": "2018",
+    "shipbuilder": "Tsuneishi Heavy Industries (Cebu) Inc - Balamban, Philippines",
+    "coating": "",
+    "price_raw": "4 X 36t N/A CRANES",
+    "buyers": "Greek",
+    "comments": "eco, BWTS fitted",
+    "page": 7
+   },
+   {
+    "size": "UMAX",
+    "name": "GREAT SPIRIT",
+    "dwt": "61,087",
+    "built": "2019",
+    "shipbuilder": "DACKS (Dalian COSCO KHI Ship Engineering Co Ltd) - Dalian LN,",
+    "coating": "",
+    "price_raw": "4 X 30,5t $ 28.9m CRANES",
+    "buyers": "YZJ Shipping",
+    "comments": "eco, via online auction, bss dely Dec '23",
+    "page": 7
+   },
+   {
+    "size": "HANDY",
+    "name": "TOMINI BORA",
+    "dwt": "37,985",
+    "built": "2016",
+    "shipbuilder": "Zhejiang Ouhua Shipbuilding Co Ltd - Zhoushan ZJ, China",
+    "coating": "",
+    "price_raw": "4 X 30t $ rgn CRANES 19.65m",
+    "buyers": "Greek",
+    "comments": "eco, BWTS Fitted",
+    "page": 7
+   },
+   {
+    "size": "HANDY",
+    "name": "AFRICAN BULKER",
+    "dwt": "36,170",
+    "built": "2015",
+    "shipbuilder": "Shikoku Dockyard Co. Ltd. - Takamatsu, Japan",
+    "coating": "",
+    "price_raw": "4 X 31,2t rgn xs $ CRANES 21.0m",
+    "buyers": "S. Korean",
+    "comments": "BWTS & scrubber fitted",
+    "page": 7
+   },
+   {
+    "size": "SUB",
+    "name": "MONEMVASIA",
+    "dwt": "",
+    "built": "2,470 1998",
+    "shipbuilder": "Aker MTW Werft GmbH - Wismar,",
+    "coating": "",
+    "price_raw": "3 X 45t N/A",
+    "buyers": "undisclosed",
+    "comments": "",
+    "page": 7
+   },
+   {
+    "size": "FEEDER",
+    "name": "TACOMA TRADER",
+    "dwt": "",
+    "built": "1,102 2015",
+    "shipbuilder": "Jiangsu Newyangzi Shipbuilding Co Ltd - Jingjiang JS, China",
+    "coating": "",
+    "price_raw": "2 X 45t rgn $ CRANES 18.5m",
+    "buyers": "German",
+    "comments": "",
+    "page": 7
+   },
+   {
+    "size": "LNG",
+    "name": "HYUNDAI SAMHO 8196",
+    "dwt": "80,690",
+    "built": "2025",
+    "shipbuilder": "Hyundai Samho Heavy Industries Co Ltd - Samho, S. Korea",
+    "coating": "",
+    "price_raw": "170,520 $ 234.0m",
+    "buyers": "Coolco",
+    "comments": "declaration of purchase",
+    "page": 7
+   },
+   {
+    "size": "LNG",
+    "name": "HYUNDAI SAMHO 8197",
+    "dwt": "80,690",
+    "built": "2025",
+    "shipbuilder": "Hyundai Samho Heavy Industries Co Ltd - Samho, S. Korea",
+    "coating": "",
+    "price_raw": "each 170,520",
+    "buyers": "",
+    "comments": "option",
+    "page": 7
+   }
+  ]
+ }
+}
