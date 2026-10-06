@@ -1,3 +1,18 @@
+**THIS RUN (2026-10-07 03:3x, source-by-source, 30m job) - NOTHING NEW TO EXTRACT (independently verified); advanced the one open defect: full per-row PAGE-EVIDENCE classification of the allied en-bloc residuals + a MEASURED proof that no automatic binder is trustworthy. New doc, no data change.**
+
+- **Liveness/state:** no process of ours extracting (python = Hermes gateways only). Branch `auto/extract-fixes-2026-10-06-deepreview`. Register gate GREEN: `verify_registers.py` = 177 CSVs / **638,931** rows, 0 mismatches. **No corpus arrival since 2026-10-06 20:03.** All sources built - prompt's "next source" list is stale (measured md: fearnleys/intermodal 257/affinity 249/banchero 249/agora 219/carriers 137/ism 115/lion 48/xclusiv 271 - all present).
+- **Input/subject:** the 7 allied rows >USD 200m left unlabelled by the 02:1x fix (`docs/allied_enbloc_verdict.md`).
+- **Method (no vision tool in cron - stated):** read each row's OWN page text layer (the skill's mandated substitute).
+- **RESULT - 6 of 7 are lot/package totals wrongly in the per-vessel column, 1 is legit:**
+  * KEEP `HYUNDAI SAMHO 8196` 234.0 - page prints `$ 234.0m each` (Coolco LNG newbuildings) = per-vessel.
+  * LOT totals: `GASLOG SYDNEY` 284.0 (2 LNG, CDB Leasing), `JUDITH SCHULTE` 260.0 (2 container, undisclosed), `HL AQUAMARINE` 291.0 (5 HL VLOC, Golden Ocean), `HARRISON BAY` 238.0 (6 BAY MR, Intl Seaways), `SKS DEE` 239.0 (8 SKS AFRA, TORM A/S - `in cash & 5.5m shares`, no `en bloc` word), `MP THE GRONK` 242.0 (4 MP THE PMAX, MSC).
+- **WHY NOT BOUND (measured, so nobody rebuilds it):** Rule A ("price X joined to `en bloc`/`in cash` in page text, not `each`") fires on **55** rows - far too broad. Rule B (A + consecutive same-Size/name run with the row the only priced member) fires on **14** but **MISSES 4 of the 6 confirmed lots** AND includes a mis-parse (`GALAXY`, stored name is wrong). A rule that over-fires AND misses the confirmed set cannot write values. Left unchanged per "a wrong value is worse than a missing one".
+- **Evidence:** `docs/allied_enbloc_residual_page_evidence.md` (verbatim page quotes per row; the 14-row structural candidate list marked OPEN; two safe routes = vision pass OR a 6-row verified override). Scratch: `scratch/allied_footer_lot_audit.py` (55), `scratch/allied_footer_lot_audit2.py` (14), page-text caches `scratch/allied_resid/*.txt`.
+- Commit: `d01ccb589` (docs only; scratch is gitignored).
+- **NEXT:** nothing to EXTRACT. Open user items unchanged: (a) the allied en-bloc residual - now needs only a mechanical vision pass or the 6-row override; (b) hellenic bare-name `source_file`; (c) inventory/DB rebuild. Watch the automation does not re-stale the register.
+
+---
+
 **THIS RUN (2026-10-07 02:1x, source-by-source, 30m job) - nothing new to EXTRACT (verified); fixed a REAL measured defect the hourly supervisor flagged in the allied series: en-bloc LOT TOTALS were sitting in the per-vessel price column (lion-class). Committed on the current branch.**
 
 - **Liveness/state at start:** no extraction of ours running (python = Hermes gateways only); working tree essentially clean; register gate GREEN `verify_registers.py` = 177 CSVs / 638,931 rows, 0 mismatches. No new corpus arrivals since 2026-10-06 20:03. xclusiv 271/271, all brokers built, archive backfill (allied+golden_destiny) done -> nothing to extract.
