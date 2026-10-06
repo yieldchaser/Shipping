@@ -1,3 +1,24 @@
+**THIS RUN (2026-10-06 16:5x, source-by-source, 30m job) - NOTHING TO EXTRACT (re-verified against DISK, not the prompt). The prompt's "IN PROGRESS: xclusiv" and its "next source" list are STALE - xclusiv is 271/271 and fearnleys/intermodal/affinity/banchero/agora/carriers/ism/lion are all built. Register gate GREEN. NEW measured finding: the md/pdf stem mismatches are DUPLICATE re-downloads whose content IS extracted under the canonical W-name - NOT gaps.**
+
+Branch `auto/extract-fixes-2026-10-06-deepreview` (HEAD 50ce4e62f, working tree CLEAN = 0 files). Live python = 4 Hermes gateway/proxy processes only - nothing of ours extracting. 54 ahead / 12 behind origin (unchanged).
+
+**1. xclusiv COMPLETE at 271/271** (register prose still says 266; 5 docs arrived since). md 271 == pdf 271, ZERO unmatched both directions, 271 `.tables.json`, 0 files <2KB, 4,125,336 chars. Newest doc `xclusiv_2026_xclusiv-2026_09_28` reconciled against its own PDF TEXT LAYER (no vision tool in cron, so text-reconciliation substitute): NAME verbatim **20/20**, PRICE verbatim **19/20** - the single miss is `HIGH 13`, which the PDF literally prints for YC AEQUOR (the publisher's own range notation), so **20/20 faithful**. Series max issue_date **2026-09-28** (newest doc IS in the series layer). Do NOT reopen.
+
+**2. REGISTER GATE GREEN.** `python3 scripts/extract/verify_registers.py` = `ALL VERIFICATION CHECKS PASSED PERFECTLY` - disk 175 CSVs / **630,357** rows == JSON == MD, 0 mismatches, 0 control chars / 0 emoji.
+
+**3. NEW - "missing md" is a FILENAME artifact, not an extraction gap.** Enumerated stems for 12 sources: affinity 7, star_asia 1, banchero_costa 1 PDFs have no md AT THAT STEM. Every one is a SECOND, date-prefixed copy of a report ALREADY extracted under its canonical `..._W<n>_...` name:
+  - `affinity_2026_Affinity-Tanker-Weekly-18.09.2026-HSN.pdf` -> md `affinity_19_09_2026_..._18_september_2026.md`; the 5 `affinity_2026_nan_*` copies -> md under the non-`nan` stem.
+  - `star_asia_05_10_2026_..._week_40.pdf` -> md `star_asia_2026_W40_Market-Report-Week-40.md`.
+  - `bancosta_30_09_2026_..._week_39.pdf` -> md `banchero_costa_2026_W39_...` (and the `bancosta_23_09_..._week_38.md` has no pdf because the W38 pdf carries the W-name).
+  Content is held; no document is unextracted. This is the skill's "check the data isn't already held" rule catching a false alarm.
+
+**4. Non-broker tiers present** (poten 2,174 md / 1,087 pdf; drewry 1,698/288; breakwave 7,008/304; hellenic 7,568/8,027; seabrokers 196/98; signal 892/10). PPA is a CSV tier BY DESIGN (`docs/PPA_ALREADY_EXTRACTED_FINDING.md`, family A+B built, family C per-vessel built), not an md dir - do not read `md=0` as a gap.
+
+**5. Cosmetic staleness - NOT fixed (the automation owns the register).** `docs/EXTRACTION_REGISTER.md` prose doc-counts lag disk (Xclusiv "266" vs 271; affinity "250" vs 256). The numeric gate (row counts) passes; only the human-readable doc counts are behind, and `sync_extraction_register.py` tracks CSV rows, not doc counts, so hand-editing would fight the automation.
+
+**NEXT RUN:** nothing to EXTRACT (independently confirmed). Watch that the automation does not re-stale the register CSV counts (`verify_registers.py` is the gate; `sync_extraction_register.py` is the fix). Carried items remain the user's: inventory/DB-rebuild decisions; the mapping-aware linked-asset fatal gate merge is now DONE on main.
+
+---
 **THIS RUN (2026-10-06 16:0x, source-by-source, 30m job) - Nothing to EXTRACT (re-verified); register gate GREEN on our branch; NEW: ORIGIN/MAIN's register is STALE (self-heals), and the linked-asset gate carried item is now RESOLVED on main.**
 
 Branch `auto/extract-fixes-2026-10-06-deepreview` (HEAD 602d082de, working tree CLEAN = 0 files at run start). Live python = 4 Hermes gateway/proxy processes only - nothing of ours extracting.
