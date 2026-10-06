@@ -1,3 +1,21 @@
+**THIS RUN (2026-10-06 16:0x, source-by-source, 30m job) - Nothing to EXTRACT (re-verified); register gate GREEN on our branch; NEW: ORIGIN/MAIN's register is STALE (self-heals), and the linked-asset gate carried item is now RESOLVED on main.**
+
+Branch `auto/extract-fixes-2026-10-06-deepreview` (HEAD 602d082de, working tree CLEAN = 0 files at run start). Live python = 4 Hermes gateway/proxy processes only - nothing of ours extracting.
+
+**1. Register gate GREEN locally.** `python3 scripts/extract/verify_registers.py` = `ALL VERIFICATION CHECKS PASSED PERFECTLY` - disk 175 CSVs / **630,357** logical rows == JSON == MD, 0 mismatches, 0 control chars/emoji.
+
+**2. NEW + measured: origin/main's register is STALE and would FAIL the gate.** origin/main (`2c9d771c0`) `data/extracted/EXTRACTION_REGISTER.json` = total **630,317**, `hellenic_vv_sales_series.csv` = **2022**; but origin/main's OWN csv is 2063 lines = **2062 rows** (`git show origin/main:data/extracted/series/hellenic_vv_sales_series.csv | wc -l` = 2063). Cause = `9479ec9e4` rewrote the CSV but did not re-run the synchroniser - exactly the re-stale scenario the prior run flagged. It **SELF-HEALS**: every ingest workflow (report_ingest / broker_reports_weekly / fearnleys_weekly / poten_drewry_weekly / signal_reports_weekly / offshore_seabrokers_monthly) runs `python scripts/sync_extraction_register.py || true` and then `git add`s the register, so the next ingest run resyncs from the fixed CSV. Our branch already holds the exact fix (`602d082de`). Do NOT touch main.
+
+**3. Carried item RESOLVED.** The mapping-aware linked-asset fatal gate is now ON origin/main (`5a0d0e63f`; block at lines 82/422 identical to ours; `git diff origin/main HEAD -- scripts/validate_knowledge.py` is EMPTY). Prior runs reported origin/main lacked it - no longer true.
+
+**4. Ledger re-verified CLOSED on all 5 classes** (2026-09-28 `series_verification_ledger.md`): (a) star_asia_deals date columns now ISO - `arrival_date` 2704 ISO / 0 EU, `beaching_date` 1745 ISO / 0 EU; (b) ism agreement tail closed as **PUBLISHER-SIDE** (`docs/ism_residual_verdict.md`, 1,395/1,460 series re-derive exactly from the PDF's own vector drawings); (c) exact-duplicate rows down from ~270 across 10 files to **31 across 7 files** (0.005% of 630k): hellenic_vv_matrix 15, xclusiv_sales 5, gibson_tanker_spot 5, star_asia_deals 2, poten_top_charterers 2, carriers_sales 1, star_asia_ferrous_scrap 1 - the 15 hellenic_vv_matrix dups come from a LlamaParse-parsed MATRIX IMAGE (not text), unverifiable this session (no vision tool), left as documented residual, not fixed; (d) no fake `2026-00-00` dates remain.
+
+**5. Nothing to EXTRACT.** Every `corpus/*` dir has an md tier (01-brokers 3,099 / 02-hellenic 8,027 / 03-breakwave 304 / 04-poten 1,087 / 05-seabrokers 98 / 06-drewry 288 / 07-signal 10 / 09-ppa 518; archive 724 = BACKFILL_ONLY >180d). Liveness on main: `gh run list` shows FFA Live Recorder + Fast GitHub Pages Deploy running.
+
+**NEXT RUN:** unchanged - nothing to extract; watch that the automation does not re-stale the register (`verify_registers.py` is the gate; `sync_extraction_register.py` is the fix). Carried items are the user's (inventory/DB-rebuild; the gate merge is now DONE on main).
+
+---
+
 **THIS RUN (2026-10-06 15:5x, source-by-source, 30m job) - THE REGISTER GATE WAS RED IN HEAD; FIXED. Every other extraction item re-verified CLOSED.**
 
 Branch `auto/extract-fixes-2026-10-06-deepreview` (HEAD 41e877f6c). Nothing of ours was extracting; live python = Hermes gateway(s), proxy_gateway, code_review_graph - no extraction/ingest process. Working tree was CLEAN at run start (the prior run's best_oasis commit landed; `git status` = 0 files).
