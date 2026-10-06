@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 09:57:52Z",
+  "updated_at": "2026-10-06 14:39:39Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1148,7 +1148,7 @@
     {
       "file": "best_oasis_deals_series.csv",
       "target_metric": "Best Oasis Deals",
-      "rows": 892,
+      "rows": 897,
       "columns": [
         "issue_date",
         "vessel_name",
@@ -1169,7 +1169,7 @@
     {
       "file": "best_oasis_demolition_series.csv",
       "target_metric": "Best Oasis Demolition",
-      "rows": 867,
+      "rows": 875,
       "columns": [
         "issue_date",
         "location",
@@ -1186,7 +1186,7 @@
     {
       "file": "best_oasis_exchange_rates_series.csv",
       "target_metric": "Best Oasis Exchange Rates",
-      "rows": 167,
+      "rows": 169,
       "columns": [
         "issue_date",
         "usd_inr",
@@ -1202,7 +1202,7 @@
     {
       "file": "best_oasis_market_commentary_series.csv",
       "target_metric": "Best Oasis Market Commentary",
-      "rows": 1031,
+      "rows": 1039,
       "columns": [
         "issue_date",
         "section",
@@ -2186,7 +2186,7 @@
     {
       "file": "hellenic_best_oasis_deals_series.csv",
       "target_metric": "Hellenic Best Oasis Deals",
-      "rows": 892,
+      "rows": 897,
       "columns": [
         "issue_date",
         "vessel_name",
@@ -2207,7 +2207,7 @@
     {
       "file": "hellenic_best_oasis_demolition_series.csv",
       "target_metric": "Hellenic Best Oasis Demolition",
-      "rows": 867,
+      "rows": 875,
       "columns": [
         "issue_date",
         "location",
@@ -4037,13 +4037,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 630357,
+  "total_master_stacked_rows": 630393,
   "total_master_series_csvs": 175,
-  "total_stacked_rows": 630357,
+  "total_stacked_rows": 630393,
   "total_series_csvs": 175,
   "total_master_workbooks": 1,
   "total_series_count": 175,
-  "total_rows_extracted": 630662,
+  "total_rows_extracted": 630698,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4070,10 +4070,10 @@
     "bancosta_sales_series.csv": 3244,
     "bancosta_secondhand_matrix_series.csv": 1898,
     "bancosta_vhss_series.csv": 553,
-    "best_oasis_deals_series.csv": 892,
-    "best_oasis_demolition_series.csv": 867,
-    "best_oasis_exchange_rates_series.csv": 167,
-    "best_oasis_market_commentary_series.csv": 1031,
+    "best_oasis_deals_series.csv": 897,
+    "best_oasis_demolition_series.csv": 875,
+    "best_oasis_exchange_rates_series.csv": 169,
+    "best_oasis_market_commentary_series.csv": 1039,
     "breakwave_fundamentals_series.csv": 2745,
     "breakwave_insights_metadata.csv": 3213,
     "carriers_bda_series.csv": 375,
@@ -4122,8 +4122,8 @@
     "hellenic_alibra_dry_tc_series.csv": 6467,
     "hellenic_alibra_tanker_tc_series.csv": 7205,
     "hellenic_athenian_demolition_series.csv": 2916,
-    "hellenic_best_oasis_deals_series.csv": 892,
-    "hellenic_best_oasis_demolition_series.csv": 867,
+    "hellenic_best_oasis_deals_series.csv": 897,
+    "hellenic_best_oasis_demolition_series.csv": 875,
     "hellenic_capesize_c3_c5_series.csv": 1164,
     "hellenic_gms_demolition_series.csv": 1096,
     "hellenic_gms_port_positions_series.csv": 2921,

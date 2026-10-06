@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (630,662 Total Rows across 175 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (630,698 Total Rows across 175 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -58,10 +58,10 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [bancosta_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_sales_series.csv) | Secondhand sales transactions with 7-digit IMOs | 3,244 | Verified |
 | [bancosta_secondhand_matrix_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_secondhand_matrix_series.csv) | Baltic secondhand price assessment matrix ($/m) | 1,898 | Verified |
 | [bancosta_vhss_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_vhss_series.csv) | VHSS Containership ConTex index & timecharter rates | 553 | Verified |
-| [best_oasis_deals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_deals_series.csv) |  | 892 | Verified |
-| [best_oasis_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_demolition_series.csv) |  | 867 | Verified |
-| [best_oasis_exchange_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_exchange_rates_series.csv) |  | 167 | Verified |
-| [best_oasis_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_market_commentary_series.csv) |  | 1,031 | Verified |
+| [best_oasis_deals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_deals_series.csv) |  | 897 | Verified |
+| [best_oasis_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_demolition_series.csv) |  | 875 | Verified |
+| [best_oasis_exchange_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_exchange_rates_series.csv) |  | 169 | Verified |
+| [best_oasis_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_market_commentary_series.csv) |  | 1,039 | Verified |
 | [breakwave_fundamentals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/breakwave_fundamentals_series.csv) |  | 2,745 | Verified |
 | [breakwave_insights_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/breakwave_insights_metadata.csv) |  | 3,213 | Verified |
 | [carriers_bda_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_bda_series.csv) | Subcontinent scrap price assessments ($/LDT) | 375 | Verified |
@@ -110,8 +110,8 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [hellenic_alibra_dry_tc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_alibra_dry_tc_series.csv) |  | 6,467 | Verified |
 | [hellenic_alibra_tanker_tc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_alibra_tanker_tc_series.csv) |  | 7,205 | Verified |
 | [hellenic_athenian_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_athenian_demolition_series.csv) |  | 2,916 | Verified |
-| [hellenic_best_oasis_deals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_best_oasis_deals_series.csv) |  | 892 | Verified |
-| [hellenic_best_oasis_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_best_oasis_demolition_series.csv) |  | 867 | Verified |
+| [hellenic_best_oasis_deals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_best_oasis_deals_series.csv) |  | 897 | Verified |
+| [hellenic_best_oasis_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_best_oasis_demolition_series.csv) |  | 875 | Verified |
 | [hellenic_capesize_c3_c5_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_capesize_c3_c5_series.csv) | Daily Capesize iron ore freight rates C3 & C5 ($/t) | 1,164 | Verified |
 | [hellenic_gms_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_gms_demolition_series.csv) |  | 1,096 | Verified |
 | [hellenic_gms_port_positions_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_gms_port_positions_series.csv) |  | 2,921 | Verified |
@@ -211,7 +211,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [fearnleys_md_master_econometric_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_master_econometric_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (175 CSVs + 1 Master Workbook)** | **630,662** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (175 CSVs + 1 Master Workbook)** | **630,698** | **100.0% Pass** |
 
 ---
 
