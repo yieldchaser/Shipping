@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:43:29.882275+00:00",
+  "generated_at": "2026-10-06T21:33:05.603577+00:00",
   "brief_date": "2026-10-06",
   "constituent_holdings": {
     "bdry": {
@@ -7,22 +7,22 @@
         "name": "Capesize 5TC FFA 180kt Timecharter Average M Nov 26",
         "ticker": "C5TCM X26 INDEX",
         "lots": 145.0,
-        "price": 40443.0,
-        "market_value": 5864235.0,
-        "weight": 17.31
+        "price": 40218.0,
+        "market_value": 5831610.0,
+        "weight": 17.29
       },
       "next_contract": {
         "name": "Capesize 5TC FFA 180kt Timecharter Average M Dec 26",
         "ticker": "C5TCM Z26 INDEX",
         "lots": 145.0,
-        "price": 40321.0,
-        "market_value": 5846545.0,
-        "weight": 17.26
+        "price": 40043.0,
+        "market_value": 5806235.0,
+        "weight": 17.22
       },
-      "implied_roll_yield_pct": 0.3,
+      "implied_roll_yield_pct": 0.44,
       "curve_regime": "BACKWARDATION_CARRY",
-      "holding_bet_summary_30d": "30-Day Hold: Direct bet on Capesize 5TC FFA 180kt Timecharter Average M Nov 26 settling above $40,443/day with 0.3% monthly backwardation carry.",
-      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 0.9% cumulative 3-month backwardation carry.",
+      "holding_bet_summary_30d": "30-Day Hold: Direct bet on Capesize 5TC FFA 180kt Timecharter Average M Nov 26 settling above $40,218/day with 0.4% monthly backwardation carry.",
+      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 1.3% cumulative 3-month backwardation carry.",
       "holding_bet_summary_180d": "180-Day Hold: Seasonal cycle traversal. Requires seasonal demand peak to overcome cumulative roll friction and 1.45% OER.",
       "total_active_contracts": 9
     },
@@ -31,22 +31,22 @@
         "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Nov 26",
         "ticker": "DD3CM X26 INDEX",
         "lots": 292.0,
-        "price": 210.427,
-        "market_value": 61444684.0,
-        "weight": 31.1
+        "price": 222.31,
+        "market_value": 64914520.0,
+        "weight": 29.48
       },
       "next_contract": {
-        "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Oct 26",
-        "ticker": "DD3CM V26 INDEX",
-        "lots": 242.0,
-        "price": 237.645,
-        "market_value": 57510090.0,
-        "weight": 29.11
+        "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Dec 26",
+        "ticker": "DD3CM Z26 INDEX",
+        "lots": 302.0,
+        "price": 202.1,
+        "market_value": 61034200.0,
+        "weight": 27.72
       },
-      "implied_roll_yield_pct": -12.93,
-      "curve_regime": "CONTANGO_DRAG",
-      "holding_bet_summary_30d": "30-Day Hold: Direct bet on TD3C FFA 270kt Middle East Gulf to China USD/MT M Nov 26 settling above WS 210.4 (~$210,427/d) with 12.9% monthly contango drag.",
-      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 38.8% cumulative 3-month contango drag.",
+      "implied_roll_yield_pct": 9.09,
+      "curve_regime": "BACKWARDATION_CARRY",
+      "holding_bet_summary_30d": "30-Day Hold: Direct bet on TD3C FFA 270kt Middle East Gulf to China USD/MT M Nov 26 settling above WS 222.3 (~$222,310/d) with 9.1% monthly backwardation carry.",
+      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 27.3% cumulative 3-month backwardation carry.",
       "holding_bet_summary_180d": "180-Day Hold: Seasonal cycle traversal. Requires seasonal demand peak to overcome cumulative roll friction and 1.45% OER.",
       "total_active_contracts": 9
     }
@@ -171,13 +171,13 @@
       "momentum_grade": "STRONG_UP",
       "positioning_bias": "LONG",
       "confidence_score": 0.8,
-      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+3.39sigma). Of 6 Breakwave reports: Sentiment 3 pos/0 neg/3 neu; Momentum 5 pos/0 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
-      "summary": "Tanker is in expansion regime at 2386.0, with z-score +3.39sigma and ROC60 +111.5%. Recent analyst sentiment skews positive (positive:3, neutral:3). Quant momentum and analyst signals align bullishly for tanker (Z=+3.39sigma). Of 6 Breakwave reports: Sentiment 3 pos/0 neg/3 neu; Momentum 5 pos/0 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
+      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+3.39sigma). Of 6 Breakwave reports: Sentiment 4 pos/0 neg/2 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
+      "summary": "Tanker is in expansion regime at 2386.0, with z-score +3.39sigma and ROC60 +111.5%. Recent analyst sentiment skews positive (positive:4, neutral:2). Quant momentum and analyst signals align bullishly for tanker (Z=+3.39sigma). Of 6 Breakwave reports: Sentiment 4 pos/0 neg/2 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
       "key_signals": [
         "Quant: CLEAN_TANKER value=2386.0, z=+3.39sigma, 5Y percentile=99.8%.",
-        "Qual: last 6 reports sentiment mix -> positive:3, neutral:3.",
+        "Qual: last 6 reports sentiment mix -> positive:4, neutral:2.",
         "Cross-check: DIRTY_TANKER value=7444.0, z=+4.62sigma.",
-        "Latest report 2026-09-22: momentum=positive, fundamentals=positive."
+        "Latest report 2026-10-06: momentum=negative, fundamentals=positive."
       ],
       "trade_idea": "Long DIRTY_TANKER vs CLEAN_TANKER spread to capture dirty tanker momentum outperformance.",
       "outlook": "Bias stays constructive for tanker while momentum and sentiment remain aligned.",
@@ -185,12 +185,12 @@
       "watch": "Upcoming OPEC+ production quota decisions and Middle East route fixture volume are the near-term catalysts.",
       "risk_note": "A sudden compression in crude arbitrage margins or rapid fleet repositioning would invalidate the upside thesis.",
       "report_dates": [
+        "2026-10-06",
         "2026-09-22",
         "2026-09-08",
         "2026-08-25",
         "2026-08-11",
-        "2026-07-28",
-        "2026-07-14"
+        "2026-07-28"
       ]
     }
   },
@@ -207,11 +207,11 @@
     "breakwave_drybulk_2026-08-18",
     "breakwave_drybulk_2026-08-04",
     "breakwave_drybulk_2026-07-21",
+    "breakwave_tankers_2026-10-06",
     "breakwave_tankers_2026-09-22",
     "breakwave_tankers_2026-09-08",
     "breakwave_tankers_2026-08-25",
     "breakwave_tankers_2026-08-11",
-    "breakwave_tankers_2026-07-28",
-    "breakwave_tankers_2026-07-14"
+    "breakwave_tankers_2026-07-28"
   ]
 }
