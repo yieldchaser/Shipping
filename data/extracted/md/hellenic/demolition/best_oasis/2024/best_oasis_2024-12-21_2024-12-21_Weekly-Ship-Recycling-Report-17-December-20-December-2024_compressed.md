@@ -1,109 +1,135 @@
 ---
-title: "Best Oasis Weekly Recycling Market Report, 20 December 2024"
+title: "Best Oasis Weekly Ship Recycling Report - 2024-12-21"
 issue_date: "2024-12-21"
-year: 2024
 publisher: "Best Oasis Limited"
-source: "hellenic_demolition"
+source: "best_oasis"
 category: "demolition"
-report_week: None
-source_file: "corpus/02-hellenic/demolition/pdfs/2024-12-21_Weekly-Ship-Recycling-Report-17-December-20-December-2024_compressed.pdf"
-tables_count: 2
+pages: 9
+source_file: "corpus/02-hellenic/demolition/pdfs/best_oasis/2024-12-21_Weekly-Ship-Recycling-Report-17-December-20-December-2024_compressed.pdf"
+tables_count: 3
 ---
 
-# Best Oasis Weekly Recycling Market Report, 20 December 2024
+# Best Oasis Weekly Ship Recycling Report - 2024-12-21
 
-## Best Oasis Indicative Demolition Prices ($/LDT)
+## Weekly Market Overview
 
-| Location | Market Status | Container ($/LDT) | Tanker ($/LDT) | Bulker ($/LDT) | W-o-W Change |
-|:---|:---|:---|:---|:---|:---|
+This week, the ship recycling markets across the four major destinations continued to face challenges, with little improvement in activity or pricing. In India, the market saw several vessels being offered, including large units like VLCCs, but the availability did not translate into heightened activity. Weak demand for local scrap steel kept buyers cautious, resulting in reduced prices and minimal interest despite the supply. In Bangladesh, the situation remained largely stagnant, marking one of the slowest year-ends in recent memory. With no notable vessel offerings or significant developments, the market showed no signs of gaining momentum. Pakistan mirrored this sentiment as the market continued to lack activity or any meaningful changes, reflecting broader uncertainties. Turkiye also remained static, with no visible movement in prices or activity throughout the week. Overall, while vessel availability in India highlighted some activity, the global recycling markets remained subdued, weighed down by low demand and hesitant buyers across all regions.
 
-## Reported Demolition Deals
+Global growth in 2025 is expected to reach a modest 2.5%, reflecting a slow recovery from the pandemic. Emerging markets, led by India and supported by the U.S., will drive growth, with emerging economies expanding at 3.5%-4% and developed economies growing at a slower 1.25%–1.75%. Challenges include rising U.S. tariffs, weaker Chinese demand, eurozone struggles with energy costs, and industrial overcapacity. A stronger dollar will add inflationary pressure on emerging markets that rely on dollar-settled imports, particularly oil. Despite easing global inflation, expected to decline to 4% by 2025, elevated debt levels and unwinding monetary tightening will present ongoing risks to global stability.
 
-| Vessel Name | Type | LDT | Terms | Location | Price ($/LDT) |
-|:---|:---|:---|:---|:---|:---|
+## Indicative Demolition Prices
 
-## Market Overview
+| Location | Market Status | Container ($/LDT) | Tanker ($/LDT) | Bulker ($/LDT) | HMS 1&2 ($/MT) | Shredded ($/MT) |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|
+| India | - | - | - | - | - | - |
+| Bangladesh | - | - | - | - | - | - |
+| Pakistan | - | - | - | - | - | - |
+| Turkey | - | - | - | - | - | - |
 
-This week, the ship recycling markets across the four major destinations continued to face challenges, with little improvement in activity or pricing. In India,
-the market saw several vessels being offered, including large units like VLCCs, but the availability did not translate into heightened activity. Weak demand
-for local scrap steel kept buyers cautious, resulting in reduced prices and minimal interest despite the supply. In Bangladesh, the situation remained largely
-stagnant, marking one of the slowest year-ends in recent memory. With no notable vessel offerings or significant developments, the market showed no
-signs of gaining momentum. Pakistan mirrored this sentiment as the market continued to lack activity or any meaningful changes, reflecting broader
-uncertainties. Turkiye also remained static, with no visible movement in prices or activity throughout the week. Overall, while vessel availability in India
-highlighted some activity, the global recycling markets remained subdued, weighed down by low demand and hesitant buyers across all regions.
-Global growth in 2025 is expected to reach a modest 2.5%, reflecting a slow recovery from the pandemic. Emerging markets, led by India and supported by
-the U.S., will drive growth, with emerging economies expanding at 3.5%-4% and developed economies growing at a slower 1.25%–1.75%. Challenges include
-rising U.S. tariffs, weaker Chinese demand, eurozone struggles with energy costs, and industrial overcapacity. A stronger dollar will add inflationary
-pressure on emerging markets that rely on dollar-settled imports, particularly oil. Despite easing global inflation, expected to decline to 4% by 2025,
-elevated debt levels and unwinding monetary tightening will present ongoing risks to global stability.
-Highlights of the week
-Exchange Rates:
-This Week         :  84.98
-Previous Week :  84.88
-Lost                    :  0.10
-This Week         : 119.63
-Previous Week : 119.37
-Lost                    : 0.26
-This Week           :  278.19
-Previous Week   :  277.73
-Lost                 :  0.46
-This Week           :  35.19
-Previous Week   :   34.95 
-Lost                      :   0.24
-USD / INR
-USD / BDT
-USD / PKR
-USD / TRY
-Best Oasis Limited                                                                                                                    Weekly Ship Recycling Report                                                                                                                            02
+## Exchange Rates & Macro Indicators
 
-Previous Week
-This Week
-Container
-Tanker
-Bulker
-0
-100
-200
-300
-400
-500
-Previous Week
-This Week
-HMS 1&2 (80:20)
-Shredded
-0
-100
-200
-300
-400
-India
-The market remains sluggish, and we have reduced prices due to an influx of new
-tonnage being offered, particularly VLCCs. This increased supply has created pressure as
-buyers are hesitant to purchase, given the weak demand for local scrap steel.
-Buyers are cautious because the demand for local scrap steel is already low. If additional
-steel enters the market, it could further saturate the market, leaving little room for
-buyers to step in, thereby affecting the price situation.
-India is investigating rising imports of "Non-Alloy and Alloy Steel Flat Products" after a
-complaint by the Indian Steel Association, representing major producers like JSW Steel
-and Steel Authority of India. The Directorate General of Trade Remedies (DGTR) is
-leading the probe under the commerce ministry.
-Price for Recycling Ships in India
-Price of HMS 1&2 (80:20) and Shredded
-Beaching Dates
-20 December 2024
-Best Oasis Limited                                                                                                                    Weekly Ship Recycling Report                                                                                                                            03             
-Market sluggish amid weak scrap steel demand and increased
-tonnage supply.
-435
-455
-475
-440
-460
-480
-1.09 %
-1.14 %
-1.04 %
-381
-361
-367
-390
+| Indicator | Value |
+|:---|:---:|
+| USD / INR | 84.98 |
+| USD / BDT | 119.63 |
+| USD / PKR | 278.19 |
+| USD / TRY | 35.19 |
+| Brent Crude ($/bbl) | $72.16 |
+| WTI Crude ($/bbl) | $68.63 |
+
+## Country Market Intelligence
+
+### India
+
+**Highlights of the week**
+
+- the market saw several vessels being offered, including large units like VLCCs, but the availability did not translate into heightened activity. Weak demand
+- for local scrap steel kept buyers cautious, resulting in reduced prices and minimal interest despite the supply. In Bangladesh, the situation remained largely
+- stagnant, marking one of the slowest year-ends in recent memory. With no notable vessel offerings or significant developments, the market showed no
+- signs of gaining momentum. Pakistan mirrored this sentiment as the market continued to lack activity or any meaningful changes, reflecting broader
+- uncertainties. Turkiye also remained static, with no visible movement in prices or activity throughout the week. Overall, while vessel availability in India
+- highlighted some activity, the global recycling markets remained subdued, weighed down by low demand and hesitant buyers across all regions.
+- Global growth in 2025 is expected to reach a modest 2.5%, reflecting a slow recovery from the pandemic. Emerging markets, led by India and supported by
+- the U.S., will drive growth, with emerging economies expanding at 3.5%-4% and developed economies growing at a slower 1.25%–1.75%. Challenges include
+- rising U.S. tariffs, weaker Chinese demand, eurozone struggles with energy costs, and industrial overcapacity. A stronger dollar will add inflationary
+- pressure on emerging markets that rely on dollar-settled imports, particularly oil. Despite easing global inflation, expected to decline to 4% by 2025,
+- elevated debt levels and unwinding monetary tightening will present ongoing risks to global stability.
+- Exchange Rates:
+- USD / INR USD / BDT USD / PKR USD / TRY
+- Lost                    :  0.10
+- Lost                    : 0.26
+- Lost                 :  0.46
+
+### Bangladesh
+
+**Highlights of the week**
+
+- the market saw several vessels being offered, including large units like VLCCs, but the availability did not translate into heightened activity. Weak demand
+- for local scrap steel kept buyers cautious, resulting in reduced prices and minimal interest despite the supply. In Bangladesh, the situation remained largely
+- stagnant, marking one of the slowest year-ends in recent memory. With no notable vessel offerings or significant developments, the market showed no
+- signs of gaining momentum. Pakistan mirrored this sentiment as the market continued to lack activity or any meaningful changes, reflecting broader
+- uncertainties. Turkiye also remained static, with no visible movement in prices or activity throughout the week. Overall, while vessel availability in India
+- highlighted some activity, the global recycling markets remained subdued, weighed down by low demand and hesitant buyers across all regions.
+- Global growth in 2025 is expected to reach a modest 2.5%, reflecting a slow recovery from the pandemic. Emerging markets, led by India and supported by
+- the U.S., will drive growth, with emerging economies expanding at 3.5%-4% and developed economies growing at a slower 1.25%–1.75%. Challenges include
+- rising U.S. tariffs, weaker Chinese demand, eurozone struggles with energy costs, and industrial overcapacity. A stronger dollar will add inflationary
+- pressure on emerging markets that rely on dollar-settled imports, particularly oil. Despite easing global inflation, expected to decline to 4% by 2025,
+- elevated debt levels and unwinding monetary tightening will present ongoing risks to global stability.
+- Exchange Rates:
+- USD / INR USD / BDT USD / PKR USD / TRY
+- Lost                    :  0.10
+- Lost                    : 0.26
+- Lost                 :  0.46
+
+### Pakistan
+
+**Highlights of the week**
+
+- the market saw several vessels being offered, including large units like VLCCs, but the availability did not translate into heightened activity. Weak demand
+- for local scrap steel kept buyers cautious, resulting in reduced prices and minimal interest despite the supply. In Bangladesh, the situation remained largely
+- stagnant, marking one of the slowest year-ends in recent memory. With no notable vessel offerings or significant developments, the market showed no
+- signs of gaining momentum. Pakistan mirrored this sentiment as the market continued to lack activity or any meaningful changes, reflecting broader
+- uncertainties. Turkiye also remained static, with no visible movement in prices or activity throughout the week. Overall, while vessel availability in India
+- highlighted some activity, the global recycling markets remained subdued, weighed down by low demand and hesitant buyers across all regions.
+- Global growth in 2025 is expected to reach a modest 2.5%, reflecting a slow recovery from the pandemic. Emerging markets, led by India and supported by
+- the U.S., will drive growth, with emerging economies expanding at 3.5%-4% and developed economies growing at a slower 1.25%–1.75%. Challenges include
+- rising U.S. tariffs, weaker Chinese demand, eurozone struggles with energy costs, and industrial overcapacity. A stronger dollar will add inflationary
+- pressure on emerging markets that rely on dollar-settled imports, particularly oil. Despite easing global inflation, expected to decline to 4% by 2025,
+- elevated debt levels and unwinding monetary tightening will present ongoing risks to global stability.
+- Exchange Rates:
+- USD / INR USD / BDT USD / PKR USD / TRY
+- Lost                    :  0.10
+- Lost                    : 0.26
+- Lost                 :  0.46
+
+### Turkey
+
+**Highlights of the week**
+
+- the market saw several vessels being offered, including large units like VLCCs, but the availability did not translate into heightened activity. Weak demand
+- for local scrap steel kept buyers cautious, resulting in reduced prices and minimal interest despite the supply. In Bangladesh, the situation remained largely
+- stagnant, marking one of the slowest year-ends in recent memory. With no notable vessel offerings or significant developments, the market showed no
+- signs of gaining momentum. Pakistan mirrored this sentiment as the market continued to lack activity or any meaningful changes, reflecting broader
+- uncertainties. Turkiye also remained static, with no visible movement in prices or activity throughout the week. Overall, while vessel availability in India
+- highlighted some activity, the global recycling markets remained subdued, weighed down by low demand and hesitant buyers across all regions.
+- Global growth in 2025 is expected to reach a modest 2.5%, reflecting a slow recovery from the pandemic. Emerging markets, led by India and supported by
+- the U.S., will drive growth, with emerging economies expanding at 3.5%-4% and developed economies growing at a slower 1.25%–1.75%. Challenges include
+- rising U.S. tariffs, weaker Chinese demand, eurozone struggles with energy costs, and industrial overcapacity. A stronger dollar will add inflationary
+- pressure on emerging markets that rely on dollar-settled imports, particularly oil. Despite easing global inflation, expected to decline to 4% by 2025,
+- elevated debt levels and unwinding monetary tightening will present ongoing risks to global stability.
+- Exchange Rates:
+- USD / INR USD / BDT USD / PKR USD / TRY
+- Lost                    :  0.10
+- Lost                    : 0.26
+- Lost                 :  0.46
+
+## List of Vessels Sold for Demolition
+
+| Vessel Name | Type | IMO No. | Built | Country | LDT | Terms | Location | Price ($/LDT) |
+|:---|:---|:---:|:---:|:---|:---:|:---|:---|:---:|
+| GUO YUAN 9 | BULKER | 9100205 | 1994 | DENMARK | 9,217 | DELIVERED | CHITTAGONG,BANGLADESH | $465 |
+| ASIA 10 | GENERAL CARGO SHIP | 9076351 | 1994 | DENMARK | 2,610 | DELIVERED | CHITTAGONG,BANGLADESH | Undisclosed |
+| GELIBOLU 2 | GENERAL CARGO SHIP | 8319976 | 1984 | NETHERLANDS | 635 | DELIVERED | ALIAGA, TURKIYE | Undisclosed |
+| TANTO | CONTAINER | 9168582 | 1998 | SOUTH KOREA | 4,218 | DELIVERED | ALANG, INDIA | Undisclosed |
+| GREEN COOLER | REEFER | 8804543 | 1990 | FINLAND | 2,990 | DELIVERED | ALIAGA, TURKIYE | Undisclosed |
+| MOBY BABY TWO | RORO/PASSENGER | 7360681 | 1974 | GERMANY | 1,414 | DELIVERED | ALIAGA, TURKIYE | Undisclosed |

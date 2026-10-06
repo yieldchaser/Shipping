@@ -1,112 +1,132 @@
 ---
-title: "Best Oasis Weekly Recycling Market Report, 28 March 2025"
+title: "Best Oasis Weekly Ship Recycling Report - 2025-03-29"
 issue_date: "2025-03-29"
-year: 2025
 publisher: "Best Oasis Limited"
-source: "hellenic_demolition"
+source: "best_oasis"
 category: "demolition"
-report_week: None
-source_file: "corpus/02-hellenic/demolition/pdfs/2025-03-29_Weekly-Ship-Recycling-Report-22-March-28-March-2025_compressed.pdf"
-tables_count: 2
+pages: 9
+source_file: "corpus/02-hellenic/demolition/pdfs/best_oasis/2025-03-29_Weekly-Ship-Recycling-Report-22-March-28-March-2025_compressed.pdf"
+tables_count: 3
 ---
 
-# Best Oasis Weekly Recycling Market Report, 28 March 2025
+# Best Oasis Weekly Ship Recycling Report - 2025-03-29
 
-## Best Oasis Indicative Demolition Prices ($/LDT)
+## Weekly Market Overview
 
-| Location | Market Status | Container ($/LDT) | Tanker ($/LDT) | Bulker ($/LDT) | W-o-W Change |
-|:---|:---|:---|:---|:---|:---|
+Ship recycling markets across South Asia and Türkiye remain subdued, with caution prevailing across the board. In India, local sales are slow despite a slight uptick in price sentiment, as limited tonnage availability draws buyer interest without driving prices up. Bangladesh faces mounting delays due to stricter vessel approvals, disrupting supply chains despite underlying demand. Pakistan continues to mirror the previous week’s quiet tone, with little change in activity or sentiment. In Türkiye, minimal market movement is compounded by rising political unrest and economic uncertainty, further dampening confidence. Overall, supply constraints, regulatory hurdles, and broader economic pressures continue to keep the market in a holding pattern, with stakeholders hesitant to commit until clearer signals emerge.
 
-## Reported Demolition Deals
+Following the European Commission’s recent evaluation of the EU Ship Recycling Regulation, activist groups have renewed discussions and debates over the disposal of end-of-life vessels. Their concerns focus on loopholes such as reflagging, which allows ships to bypass EU standards and be dismantled in non- EU yards. However, calls to limit recycling strictly to EU-listed facilities may overlook on-the-ground progress in key global recycling hubs. With a growing number of Hong Kong Convention-compliant yards in India and now also in Bangladesh, the global landscape is evolving. As the industry braces for a surge in vessel retirements, a more inclusive and unified approach — rather than regionally confined policies — may prove more effective in balancing environmental responsibility with available capacity.
 
-| Vessel Name | Type | LDT | Terms | Location | Price ($/LDT) |
-|:---|:---|:---|:---|:---|:---|
+## Indicative Demolition Prices
 
-## Market Overview
+| Location | Market Status | Container ($/LDT) | Tanker ($/LDT) | Bulker ($/LDT) | HMS 1&2 ($/MT) | Shredded ($/MT) |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|
+| India | - | - | - | - | - | - |
+| Bangladesh | - | - | - | - | - | - |
+| Pakistan | - | - | - | - | - | - |
+| Turkey | - | - | - | - | - | - |
 
-Ship recycling markets across South Asia and Türkiye remain subdued, with caution prevailing across the board. In India, local sales are slow despite a slight
-uptick in price sentiment, as limited tonnage availability draws buyer interest without driving prices up. Bangladesh faces mounting delays due to stricter
-vessel approvals, disrupting supply chains despite underlying demand. Pakistan continues to mirror the previous week’s quiet tone, with little change in
-activity or sentiment. In Türkiye, minimal market movement is compounded by rising political unrest and economic uncertainty, further dampening
-confidence. Overall, supply constraints, regulatory hurdles, and broader economic pressures continue to keep the market in a holding pattern, with
-stakeholders hesitant to commit until clearer signals emerge.
-Following the European Commission’s recent evaluation of the EU Ship Recycling Regulation, activist groups have renewed discussions and debates over the
-disposal of end-of-life vessels. Their concerns focus on loopholes such as reflagging, which allows ships to bypass EU standards and be dismantled in non-
-EU yards. However, calls to limit recycling strictly to EU-listed facilities may overlook on-the-ground progress in key global recycling hubs. With a growing
-number of Hong Kong Convention-compliant yards in India and now also in Bangladesh, the global landscape is evolving. As the industry braces for a surge
-in vessel retirements, a more inclusive and unified approach — rather than regionally confined policies — may prove more effective in balancing
-environmental responsibility with available capacity.
-Highlights of the week
-Exchange Rates:
-This Week         :  85.45
-Previous Week :  86.00
-Gained               : 0.15
-This Week         :   121.51
-Previous Week :   121.47
-Lost                    :   0.08
-This Week           : 280.12
-Previous Week   : 280.13
-  Gained              :   0.01
-This Week           :   38.02
-Previous Week   :   38.01
-Lost                      :   0.01
-USD / INR
-USD / BDT
-USD / PKR
-USD / TRY
-Best Oasis Limited                                                                                                                    Weekly Ship Recycling Report                                                                                                                            02
+## Exchange Rates & Macro Indicators
 
-Previous Week
-This Week
-Container
-Tanker
-Bulker
-0
-100
-200
-300
-400
-500
-Previous Week
-This Week
-HMS 1&2 (80:20)
-Shredded
-0
-100
-200
-300
-400
-India
-The market remains sluggish on sales, with local activity still showing minimal movement
-despite a slight improvement in price sentiment.
-The limited availability of tonnage has prompted increased buyer interest, as recyclers
-become more eager to secure units. However, price levels have not shown any real
-upward shift and continue to hover around previous benchmarks.
-While buyer interest has slightly increased due to the scarcity of units, the broader
-market tone stays cautious, with participants reluctant to commit until more tangible
-changes emerge.
-Price for Recycling Ships in India
-Price of HMS 1&2 (80:20) and Shredded
-28 March to 31 March
-01 April  to  05 April
-Best Oasis Limited                                                                                                                    Weekly Ship Recycling Report                                                                                                                            03             
-The market shows slight buyer interest amid tight tonnage supply,
-but overall sentiment remains slow.
-465
-445
-425
-Beaching Dates
-COLOUR LEGEND: 
-NO CHANGE
-DROPPED
-RAISED
-470
-450
-430
-357
-378
-1.12 %
-1.18 %
-1.08 %
-365
-390
+| Indicator | Value |
+|:---|:---:|
+| USD / INR | 85.45 |
+| USD / BDT | 121.51 |
+| USD / PKR | 280.12 |
+| USD / TRY | 38.02 |
+| Brent Crude ($/bbl) | $74.10 |
+| WTI Crude ($/bbl) | $69.96 |
+
+## Country Market Intelligence
+
+### India
+
+**Highlights of the week**
+
+- Ship recycling markets across South Asia and Türkiye remain subdued, with caution prevailing across the board. In India, local sales are slow despite a slight
+- uptick in price sentiment, as limited tonnage availability draws buyer interest without driving prices up. Bangladesh faces mounting delays due to stricter
+- activity or sentiment. In Türkiye, minimal market movement is compounded by rising political unrest and economic uncertainty, further dampening
+- confidence. Overall, supply constraints, regulatory hurdles, and broader economic pressures continue to keep the market in a holding pattern, with
+- stakeholders hesitant to commit until clearer signals emerge.
+- Following the European Commission’s recent evaluation of the EU Ship Recycling Regulation, activist groups have renewed discussions and debates over the
+- disposal of end-of-life vessels. Their concerns focus on loopholes such as reflagging, which allows ships to bypass EU standards and be dismantled in non-
+- EU yards. However, calls to limit recycling strictly to EU-listed facilities may overlook on-the-ground progress in key global recycling hubs. With a growing
+- number of Hong Kong Convention-compliant yards in India and now also in Bangladesh, the global landscape is evolving. As the industry braces for a surge
+- in vessel retirements, a more inclusive and unified approach — rather than regionally confined policies — may prove more effective in balancing
+- environmental responsibility with available capacity.
+- Exchange Rates:
+- USD / INR USD / BDT USD / PKR USD / TRY
+- Lost                    :   0.08
+- Gained              :   0.01
+- Gained               : 0.15
+
+### Bangladesh
+
+**Highlights of the week**
+
+- Ship recycling markets across South Asia and Türkiye remain subdued, with caution prevailing across the board. In India, local sales are slow despite a slight
+- uptick in price sentiment, as limited tonnage availability draws buyer interest without driving prices up. Bangladesh faces mounting delays due to stricter
+- activity or sentiment. In Türkiye, minimal market movement is compounded by rising political unrest and economic uncertainty, further dampening
+- confidence. Overall, supply constraints, regulatory hurdles, and broader economic pressures continue to keep the market in a holding pattern, with
+- stakeholders hesitant to commit until clearer signals emerge.
+- Following the European Commission’s recent evaluation of the EU Ship Recycling Regulation, activist groups have renewed discussions and debates over the
+- disposal of end-of-life vessels. Their concerns focus on loopholes such as reflagging, which allows ships to bypass EU standards and be dismantled in non-
+- EU yards. However, calls to limit recycling strictly to EU-listed facilities may overlook on-the-ground progress in key global recycling hubs. With a growing
+- number of Hong Kong Convention-compliant yards in India and now also in Bangladesh, the global landscape is evolving. As the industry braces for a surge
+- in vessel retirements, a more inclusive and unified approach — rather than regionally confined policies — may prove more effective in balancing
+- environmental responsibility with available capacity.
+- Exchange Rates:
+- USD / INR USD / BDT USD / PKR USD / TRY
+- Lost                    :   0.08
+- Gained              :   0.01
+- Gained               : 0.15
+
+### Pakistan
+
+**Highlights of the week**
+
+- Ship recycling markets across South Asia and Türkiye remain subdued, with caution prevailing across the board. In India, local sales are slow despite a slight
+- uptick in price sentiment, as limited tonnage availability draws buyer interest without driving prices up. Bangladesh faces mounting delays due to stricter
+- activity or sentiment. In Türkiye, minimal market movement is compounded by rising political unrest and economic uncertainty, further dampening
+- confidence. Overall, supply constraints, regulatory hurdles, and broader economic pressures continue to keep the market in a holding pattern, with
+- stakeholders hesitant to commit until clearer signals emerge.
+- Following the European Commission’s recent evaluation of the EU Ship Recycling Regulation, activist groups have renewed discussions and debates over the
+- disposal of end-of-life vessels. Their concerns focus on loopholes such as reflagging, which allows ships to bypass EU standards and be dismantled in non-
+- EU yards. However, calls to limit recycling strictly to EU-listed facilities may overlook on-the-ground progress in key global recycling hubs. With a growing
+- number of Hong Kong Convention-compliant yards in India and now also in Bangladesh, the global landscape is evolving. As the industry braces for a surge
+- in vessel retirements, a more inclusive and unified approach — rather than regionally confined policies — may prove more effective in balancing
+- environmental responsibility with available capacity.
+- Exchange Rates:
+- USD / INR USD / BDT USD / PKR USD / TRY
+- Lost                    :   0.08
+- Gained              :   0.01
+- Gained               : 0.15
+
+### Turkey
+
+**Highlights of the week**
+
+- Ship recycling markets across South Asia and Türkiye remain subdued, with caution prevailing across the board. In India, local sales are slow despite a slight
+- uptick in price sentiment, as limited tonnage availability draws buyer interest without driving prices up. Bangladesh faces mounting delays due to stricter
+- activity or sentiment. In Türkiye, minimal market movement is compounded by rising political unrest and economic uncertainty, further dampening
+- confidence. Overall, supply constraints, regulatory hurdles, and broader economic pressures continue to keep the market in a holding pattern, with
+- stakeholders hesitant to commit until clearer signals emerge.
+- Following the European Commission’s recent evaluation of the EU Ship Recycling Regulation, activist groups have renewed discussions and debates over the
+- disposal of end-of-life vessels. Their concerns focus on loopholes such as reflagging, which allows ships to bypass EU standards and be dismantled in non-
+- EU yards. However, calls to limit recycling strictly to EU-listed facilities may overlook on-the-ground progress in key global recycling hubs. With a growing
+- number of Hong Kong Convention-compliant yards in India and now also in Bangladesh, the global landscape is evolving. As the industry braces for a surge
+- in vessel retirements, a more inclusive and unified approach — rather than regionally confined policies — may prove more effective in balancing
+- environmental responsibility with available capacity.
+- Exchange Rates:
+- USD / INR USD / BDT USD / PKR USD / TRY
+- Lost                    :   0.08
+- Gained              :   0.01
+- Gained               : 0.15
+
+## List of Vessels Sold for Demolition
+
+| Vessel Name | Type | IMO No. | Built | Country | LDT | Terms | Location | Price ($/LDT) |
+|:---|:---|:---:|:---:|:---|:---:|:---|:---|:---:|
+| KG 7 | CHEMICAL/PRODUCT TANKER | 9213222 | 2000 | JAPAN | 2,649 | DELIVERED | ALANG, INDIA | $630 |
+| SHENG TAI | GENERAL CARGO SHIP | 9169304 | 1997 | CHINA | 2,225 | AS-IS | SHANGHAI | $334 |
+| XIE HAI CHONG HE | BULKER | 9086980 | 1995 | JAPAN | 10,346 | AS-IS | HAINAN | $410 |

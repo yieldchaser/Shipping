@@ -1,106 +1,119 @@
 ---
-title: "Best Oasis Weekly Recycling Market Report, 06 December 2024"
+title: "Best Oasis Weekly Ship Recycling Report - 2024-12-07"
 issue_date: "2024-12-07"
-year: 2024
 publisher: "Best Oasis Limited"
-source: "hellenic_demolition"
+source: "best_oasis"
 category: "demolition"
-report_week: None
-source_file: "corpus/02-hellenic/demolition/pdfs/2024-12-07_Weekly-Ship-Recycling-Report-30-November-06-December-2024_compressed-1.pdf"
-tables_count: 2
+pages: 9
+source_file: "corpus/02-hellenic/demolition/pdfs/best_oasis/2024-12-07_Weekly-Ship-Recycling-Report-30-November-06-December-2024_compressed-1.pdf"
+tables_count: 3
 ---
 
-# Best Oasis Weekly Recycling Market Report, 06 December 2024
+# Best Oasis Weekly Ship Recycling Report - 2024-12-07
 
-## Best Oasis Indicative Demolition Prices ($/LDT)
+## Weekly Market Overview
 
-| Location | Market Status | Container ($/LDT) | Tanker ($/LDT) | Bulker ($/LDT) | W-o-W Change |
-|:---|:---|:---|:---|:---|:---|
+This week in the recycling markets was characterized by stability and subdued activity, with some hope for improvement. In India, the market and sentiment remained unchanged, with optimism for a year-end boost as December trends often bring increased activity. Bangladesh experienced a sluggish market but noted a small price increase due to a two-month deadline extension for yard owners, prompting slightly higher offers from recyclers. Pakistan stayed stagnant, with no activity or progress throughout the week. In Turkiye, the downturn persisted, with weak demand and low activity continuing from the previous week. While significant improvements were absent, there is some anticipation of better trends in the weeks ahead.
 
-## Reported Demolition Deals
+The global economic landscape is on the verge of facing heightened uncertainty as the United States considers imposing 100% tariffs on BRICS nations over their plans to develop a new currency to challenge the U.S. dollar’s dominance. This move could significantly escalate geopolitical tensions and reshape global currency dynamics. The BRICS bloc has been actively advancing "de-dollarisation" strategies to reduce reliance on the dollar and counter Western financial influence. Discussions at the 2022 BRICS Summit highlighted plans for an "international reserve currency" backed by a basket of BRICS currencies and potentially precious metals, signaling a transformative shift in the global financial order.
 
-| Vessel Name | Type | LDT | Terms | Location | Price ($/LDT) |
-|:---|:---|:---|:---|:---|:---|
+## Indicative Demolition Prices
 
-## Market Overview
+| Location | Market Status | Container ($/LDT) | Tanker ($/LDT) | Bulker ($/LDT) | HMS 1&2 ($/MT) | Shredded ($/MT) |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|
+| India | - | - | - | - | - | - |
+| Bangladesh | - | - | - | - | - | - |
+| Pakistan | - | - | - | - | - | - |
+| Turkey | - | - | - | - | - | - |
 
-This week in the recycling markets was characterized by stability and subdued activity, with some hope for improvement. In India, the market and sentiment
-remained unchanged, with optimism for a year-end boost as December trends often bring increased activity. Bangladesh experienced a sluggish market but
-noted a small price increase due to a two-month deadline extension for yard owners, prompting slightly higher offers from recyclers. Pakistan stayed
-stagnant, with no activity or progress throughout the week. In Turkiye, the downturn persisted, with weak demand and low activity continuing from the
-previous week. While significant improvements were absent, there is some anticipation of better trends in the weeks ahead.
-The global economic landscape is on the verge of facing heightened uncertainty as the United States considers imposing 100% tariffs on BRICS nations over
-their plans to develop a new currency to challenge the U.S. dollar’s dominance. This move could significantly escalate geopolitical tensions and reshape
-global currency dynamics. The BRICS bloc has been actively advancing "de-dollarisation" strategies to reduce reliance on the dollar and counter Western
-financial influence. Discussions at the 2022 BRICS Summit highlighted plans for an "international reserve currency" backed by a basket of BRICS currencies
-and potentially precious metals, signaling a transformative shift in the global financial order.
-Highlights of the week
-Exchange Rates:
-This Week         :  84.68
-Previous Week :  84.58
-Lost                    :  0.10
-This Week         : 119.54
-Previous Week : 119.48
-Lost                    : 0.06
-This Week           :  278.01
-Previous Week   :  277.96
-Lost                      :  0.05
-This Week           :   34.79
-Previous Week   :   34.68
-Lost                      :   0.11
-USD / INR
-USD / BDT
-USD / PKR
-USD / TRY
-Best Oasis Limited                                                                                                                    Weekly Ship Recycling Report                                                                                                                            02
+## Exchange Rates & Macro Indicators
 
-Previous Week
-This Week
-Container
-Tanker
-Bulker
-0
-100
-200
-300
-400
-500
-Previous Week
-This Week
-HMS 1&2 (80:20)
-Shredded
-0
-100
-200
-300
-400
-India
-The market and sentiment remain unchanged from the previous week.
-There is a slight optimism that the market may improve in the coming days, as year-end
-trends often bring a December surge.
-The Reserve Bank of India lowered FY 2024-25 GDP growth projection from 7.2% to 6.6%
-and raised the inflation forecast to 4.8% from 4.5%, citing an 18-month low GDP growth
-of 5.4% in the July-September quarter.
-China's steel overcapacity is challenging India, with exports matching India's entire
-production and entering indirectly via free trade agreements with third-party nations. To
-safeguard domestic manufacturers, the Ministry of Steel has proposed a 25% duty on
-certain steel imports, aiming to counter unfair competition and protect the integrity of
-the local industry.
-Price for Recycling Ships in India
-Price of HMS 1&2 (80:20) and Shredded
-Beaching Dates
-06 December to 07 December 2024
-12 December to 20 December 2024
-Best Oasis Limited                                                                                                                    Weekly Ship Recycling Report                                                                                                                            03             
-The market remains stagnant with steady sentiment and cautious
-optimism for improvement ahead.
-445
-465
-485
-445
-465
-485
-360
-383
-380
-360
+| Indicator | Value |
+|:---|:---:|
+| USD / INR | 84.68 |
+| USD / BDT | 119.54 |
+| USD / PKR | 278.01 |
+| USD / TRY | 34.79 |
+| Brent Crude ($/bbl) | $71.52 |
+| WTI Crude ($/bbl) | $67.75 |
+
+## Country Market Intelligence
+
+### India
+
+**Highlights of the week**
+
+- remained unchanged, with optimism for a year-end boost as December trends often bring increased activity. Bangladesh experienced a sluggish market but
+- noted a small price increase due to a two-month deadline extension for yard owners, prompting slightly higher offers from recyclers. Pakistan stayed
+- stagnant, with no activity or progress throughout the week. In Turkiye, the downturn persisted, with weak demand and low activity continuing from the
+- The global economic landscape is on the verge of facing heightened uncertainty as the United States considers imposing 100% tariffs on BRICS nations over
+- their plans to develop a new currency to challenge the U.S. dollar’s dominance. This move could significantly escalate geopolitical tensions and reshape
+- global currency dynamics. The BRICS bloc has been actively advancing "de-dollarisation" strategies to reduce reliance on the dollar and counter Western
+- financial influence. Discussions at the 2022 BRICS Summit highlighted plans for an "international reserve currency" backed by a basket of BRICS currencies
+- and potentially precious metals, signaling a transformative shift in the global financial order.
+- Exchange Rates:
+- USD / INR USD / BDT USD / PKR USD / TRY
+- Lost                    :  0.10
+- Lost                    : 0.06
+- Lost                      :  0.05
+
+### Bangladesh
+
+**Highlights of the week**
+
+- remained unchanged, with optimism for a year-end boost as December trends often bring increased activity. Bangladesh experienced a sluggish market but
+- noted a small price increase due to a two-month deadline extension for yard owners, prompting slightly higher offers from recyclers. Pakistan stayed
+- stagnant, with no activity or progress throughout the week. In Turkiye, the downturn persisted, with weak demand and low activity continuing from the
+- The global economic landscape is on the verge of facing heightened uncertainty as the United States considers imposing 100% tariffs on BRICS nations over
+- their plans to develop a new currency to challenge the U.S. dollar’s dominance. This move could significantly escalate geopolitical tensions and reshape
+- global currency dynamics. The BRICS bloc has been actively advancing "de-dollarisation" strategies to reduce reliance on the dollar and counter Western
+- financial influence. Discussions at the 2022 BRICS Summit highlighted plans for an "international reserve currency" backed by a basket of BRICS currencies
+- and potentially precious metals, signaling a transformative shift in the global financial order.
+- Exchange Rates:
+- USD / INR USD / BDT USD / PKR USD / TRY
+- Lost                    :  0.10
+- Lost                    : 0.06
+- Lost                      :  0.05
+
+### Pakistan
+
+**Highlights of the week**
+
+- remained unchanged, with optimism for a year-end boost as December trends often bring increased activity. Bangladesh experienced a sluggish market but
+- noted a small price increase due to a two-month deadline extension for yard owners, prompting slightly higher offers from recyclers. Pakistan stayed
+- stagnant, with no activity or progress throughout the week. In Turkiye, the downturn persisted, with weak demand and low activity continuing from the
+- The global economic landscape is on the verge of facing heightened uncertainty as the United States considers imposing 100% tariffs on BRICS nations over
+- their plans to develop a new currency to challenge the U.S. dollar’s dominance. This move could significantly escalate geopolitical tensions and reshape
+- global currency dynamics. The BRICS bloc has been actively advancing "de-dollarisation" strategies to reduce reliance on the dollar and counter Western
+- financial influence. Discussions at the 2022 BRICS Summit highlighted plans for an "international reserve currency" backed by a basket of BRICS currencies
+- and potentially precious metals, signaling a transformative shift in the global financial order.
+- Exchange Rates:
+- USD / INR USD / BDT USD / PKR USD / TRY
+- Lost                    :  0.10
+- Lost                    : 0.06
+- Lost                      :  0.05
+
+### Turkey
+
+**Highlights of the week**
+
+- remained unchanged, with optimism for a year-end boost as December trends often bring increased activity. Bangladesh experienced a sluggish market but
+- noted a small price increase due to a two-month deadline extension for yard owners, prompting slightly higher offers from recyclers. Pakistan stayed
+- stagnant, with no activity or progress throughout the week. In Turkiye, the downturn persisted, with weak demand and low activity continuing from the
+- The global economic landscape is on the verge of facing heightened uncertainty as the United States considers imposing 100% tariffs on BRICS nations over
+- their plans to develop a new currency to challenge the U.S. dollar’s dominance. This move could significantly escalate geopolitical tensions and reshape
+- global currency dynamics. The BRICS bloc has been actively advancing "de-dollarisation" strategies to reduce reliance on the dollar and counter Western
+- financial influence. Discussions at the 2022 BRICS Summit highlighted plans for an "international reserve currency" backed by a basket of BRICS currencies
+- and potentially precious metals, signaling a transformative shift in the global financial order.
+- Exchange Rates:
+- USD / INR USD / BDT USD / PKR USD / TRY
+- Lost                    :  0.10
+- Lost                    : 0.06
+- Lost                      :  0.05
+
+## List of Vessels Sold for Demolition
+
+| Vessel Name | Type | IMO No. | Built | Country | LDT | Terms | Location | Price ($/LDT) |
+|:---|:---|:---:|:---:|:---|:---:|:---|:---|:---:|
+| ATHINA I | CRUDE OIL TANKER | 9071818 | 1995 | SOUTH KOREA | 14,883 | AS-IS | KHORFAKKAN | Undisclosed |
+| MEDELIN MASTER | CHEMICAL/PRODUCT TANKER | 9043732 | 1992 | JAPAN | 3,852 | AS-IS | BELAWAN, INDONESIA | $655 |
