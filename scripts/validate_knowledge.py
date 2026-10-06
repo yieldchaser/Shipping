@@ -70,6 +70,17 @@ LINKED_ASSET_FIELDS = [
     "linked_assets_failed",
 ]
 
+# Publisher-hosted linked assets that are permanently unfetchable - they sit behind
+# an auth/bot wall, so no local mirror can ever exist. Measured 2026-10-06: the only
+# unresolved required-local population on the committed manifest is 59
+# `breakwave_insights` refs (`reports/breakwave/<year>/<slug>.html -> ../pdfs/<name>.pdf`)
+# that resolve under `reports/breakwave/pdfs/`, where the publisher serves a
+# 5,174-byte login page under a `.pdf` name (see docs/breakwave_pdf_mirror_verdict.md).
+# These are EXTERNAL_UNAVAILABLE, not a mirroring regression; keeping them fatal would
+# red CI permanently. Any required-local ref resolving OUTSIDE these prefixes stays
+# fatal, so a genuine mirroring gap is still caught.
+EXTERNAL_UNAVAILABLE_LINKED_PREFIXES = ("reports/breakwave/pdfs/",)
+
 
 ROW_ORDER = [
     ("breakwave", "drybulk", "breakwave/drybulk"),
@@ -399,6 +410,19 @@ def validate_linked_asset_coverage(documents: list[dict]):
                     continue
                 if not local_target.exists() or not local_target.is_file():
                     external_non_mirrored.add(f"{source_path} -> {normalized_ref}")
+                    if enforce_required_local_links:
+                        try:
+                            target_rel = (
+                                local_target.resolve()
+                                .relative_to(REPO_ROOT.resolve())
+                                .as_posix()
+                            )
+                        except (OSError, ValueError):
+                            target_rel = ""
+                        if not target_rel.startswith(EXTERNAL_UNAVAILABLE_LINKED_PREFIXES):
+                            unresolved_required_local.add(
+                                f"{source_path} -> {Path(clean_ref).as_posix()}"
+                            )
 
     return {
         "rows_checked": rows_checked,
