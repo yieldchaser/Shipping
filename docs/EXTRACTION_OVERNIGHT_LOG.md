@@ -3456,3 +3456,25 @@ branch so the fix applies to future extractions; main untouched, not pushed).
    tree is ever wanted current. Exact command:
    `python scripts/extract/extract_all.py "corpus/01-brokers/advanced_shipping/2023/advanced_shipping_2023_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf" --out data/extracted/scratch_review/before`
    (repeat per document). Not run; the existing output is otherwise identical.
+
+## 2026-10-06 09:3x IST - restore the dead linked-asset fatal gate (mapping-aware)
+
+`scripts/validate_knowledge.py`: `unresolved_required_local` had been dead since
+`8de08da48` (returned + summed into `failures` at line ~1173, never populated; line 1114
+printed 0 unconditionally). Replayed the removed branch read-only on the committed
+manifest (11,329 rows): the ONLY would-be-fatal population is **59, all `breakwave_insights`**,
+every one `reports/breakwave/<year>/*.html -> ../pdfs/<name>.pdf` resolving to
+`reports/breakwave/pdfs/` = the publisher's ANZ-Portal login-wall assets (5,174-byte HTML
+under a `.pdf` name; `docs/breakwave_pdf_mirror_verdict.md`). Restored the `.add()` with
+`EXTERNAL_UNAVAILABLE_LINKED_PREFIXES = ("reports/breakwave/pdfs/",)` so those stay
+non-fatal while any required-local ref OUTSIDE the prefix is fatal again.
+
+Verified with the validator's own function (`scratch/verify_linked_gate.py`): REAL manifest
+-> 0 (CI cannot regress today), `external_non_mirrored` 11,527 unchanged; CONTROL synthetic
+hellenic `-> ../assets/<missing>.png` -> 1 (caught); CONTROL synthetic breakwave `-> ../pdfs/wall.pdf`
+under `reports/breakwave/` -> 0 (exempt). `py_compile` OK. Feature branch only, main untouched.
+Evidence: `docs/linked_asset_fatal_gate_verdict.md`.
+
+Also this run: independent distinct-content census of hellenic (md5, 8,028 PDFs) - iron_ore
+1181/1181 distinct covered, demolition 726 covered, shipbuilding 357 distinct all covered
+(186 breakwave + 170 clarksons, 0 stems without an md). Extraction programme re-confirmed closed.
