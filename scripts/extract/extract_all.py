@@ -168,10 +168,21 @@ def needs_layout(pdf_path, pno, camelot_tables):
     return False
 
 
-def extract_tables_union(pdf_path, pno, skip_tables=False):
+def extract_tables_union(pdf_path, pno, skip_tables=False, with_text=False):
+    """Union of camelot-stream and pdfplumber tables for one page.
+
+    With with_text=True also returns the pdfplumber page text (str), so a
+    caller can reconcile a grid against a text layer that is NOT the pymupdf
+    one. Measured 2026-10-06 on advanced_shipping 2023 W31/W34/W35/W36/W37:
+    pdfplumber's text layer holds 117/117 of those tables' numeric cells where
+    pymupdf's holds 31/117 - pymupdf maps that font subset's data-cell glyphs to
+    spaces. The text is only a RECALL partner for text_verified, never a routing
+    input (routing still uses the pymupdf page text in process_doc).
+    """
     tables = []
+    page_text = ""
     if skip_tables:
-        return tables
+        return (tables, page_text) if with_text else tables
     try:
         import warnings
         with warnings.catch_warnings():
@@ -191,13 +202,16 @@ def extract_tables_union(pdf_path, pno, skip_tables=False):
         with warnings.catch_warnings():
             warnings.simplefilter("ignore")
             with pdfplumber.open(pdf_path) as pdf:
-                for t in pdf.pages[pno].find_tables():
+                pg = pdf.pages[pno]
+                if with_text:
+                    page_text = pg.extract_text() or ""
+                for t in pg.find_tables():
                     tables.append({"engine": "pdfplumber",
                                    "rows": [[("" if c is None else str(c)) for c in row]
                                             for row in t.extract()]})
     except Exception as exc:
         tables.append({"engine": "pdfplumber", "error": str(exc)[:120]})
-    return tables
+    return (tables, page_text) if with_text else tables
 
 
 class LayoutWorker:
@@ -583,14 +597,22 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
         tabular_page = route in ("text", "image-heavy") or (
             route == "garbled" and not p_rows[-1].get("ocr_queue"))
         if tabular_page:
-            page_tables = extract_tables_union(pdf_path, pno, skip_tables)
+            page_tables, plumber_text = extract_tables_union(
+                pdf_path, pno, skip_tables, with_text=True)
             if gated_layout and (not page_tables or needs_layout(pdf_path, pno, page_tables)):
                 page_tables.extend(layout_tables(page, pdf_path, pno))
             # recall reconciliation: the text layer is the primary value source,
             # the table grid the primary schema source. Record both the
             # per-table confidence and the exact values the grid dropped.
-            page_tables = verify_tables_against_text(page_tables, page_text, pno)
-            orphan = text_values_not_in_tables(page_text, page_tables)
+            # Reconcile against BOTH text layers. pymupdf can drop a font
+            # subset's glyphs to spaces (advanced_shipping 2023 W31-W37: 31/117
+            # of the table cells), which made a real text table look like a
+            # picture and set a false "image table" ocr_queue flag. A value
+            # confirmed by either engine counts; the union only ADDS recall.
+            recon_text = (page_text if not plumber_text
+                          else page_text + chr(10) + plumber_text)
+            page_tables = verify_tables_against_text(page_tables, recon_text, pno)
+            orphan = text_values_not_in_tables(recon_text, page_tables)
             if orphan:
                 p_rows[-1]["values_only_in_text"] = orphan
             if image_only_table_suspect(page, len(page_tables), n_img, pix_chars):
