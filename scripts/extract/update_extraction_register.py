@@ -64,6 +64,7 @@ def generate_extraction_register_md():
         'intermodal_demolition_series.csv': 'Indicative demolition prices & sales fixtures combined',
         'intermodal_indicative_values_series.csv': 'Indicative secondhand 5Y asset values ($M)',
         'intermodal_macro_series.csv': 'Macroeconomic indicators and energy commodity benchmarks',
+        'intermodal_macro_daily_series.csv': 'Macroeconomic indicators, one row per indicator x printed day (iso print_date; ledger 4.3 re-key)',
         'intermodal_maritime_stocks_series.csv': 'Maritime listed shipping equities & stock indices',
         'intermodal_newbuilding_orders_series.csv': 'Reported newbuilding contracting orders & shipyard contracts',
         'intermodal_newbuilding_prices_series.csv': 'Indicative newbuilding benchmark prices ($M)',
