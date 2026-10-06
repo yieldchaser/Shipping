@@ -163,7 +163,8 @@ def parse_doc(pdf_path):
 
 
 DEAL_FIELDS = ["issue_date", "report_week", "size", "name", "dwt", "built",
-               "shipbuilder", "coating", "price_raw", "price_usd_m", "buyers",
+               "shipbuilder", "coating", "price_raw", "price_usd_m",
+               "group_total_mil", "buyers",
                "comments", "source_file", "page"]
 
 
@@ -204,6 +205,66 @@ def write_doc(rec):
 _MONEY_RX = re.compile(r"\$?[ ]*([0-9][0-9.,]*)[ ]*m")
 
 
+_ENBLOC_RX = re.compile(r"en\s*bloc", re.I)
+
+
+def _lot_binding(deals):
+    """Identify en-bloc LOT totals and which row carries each one.
+
+    A lot is a run of CONSECUTIVE rows on a page that (a) share the SAME size
+    class and the SAME fleet name-prefix and (b) contain the words 'en bloc'
+    somewhere in that run's price cells. The lot's transaction value is then the
+    ONE money amount printed among those rows. The row that carries that amount
+    is NOT one vessel's price - blank it and record it as group_total_mil.
+
+    Two guards, both forced by measurement (docs/allied_enbloc_verdict.md):
+      * a CERTAIN own-cell ('$ 245.0m en bloc' in one cell) always binds;
+      * a run holding MORE THAN ONE amount is ambiguous -> leave every row
+        unlabelled (a wrong value is worse than a missing one). Without this
+        guard the rule blanked legit per-vessel prices (ERAWAN 10 $12.0m,
+        DOLPHIN 03 $18.0m - two separate sales on a page that also holds a lot).
+    """
+    out = {}
+    by_page = {}
+    for i, d in enumerate(deals):
+        by_page.setdefault(d.get("_page"), []).append(i)
+
+    def _amt(cell):
+        m = _MONEY_RX.search(cell or "")
+        if not m:
+            return None
+        n = m.group(1)
+        try:
+            return float(n.replace(",", ".")) if ("," in n and "." not in n) else float(n.replace(",", ""))
+        except ValueError:
+            return None
+
+    for pg, idxs in by_page.items():
+        runs, run = [], [idxs[0]]
+        for a, b in zip(idxs, idxs[1:]):
+            na = (deals[a].get("Name", "") or "").split()[:1]
+            nb = (deals[b].get("Name", "") or "").split()[:1]
+            if b == a + 1 and deals[b].get("Size") == deals[a].get("Size") and na == nb:
+                run.append(b)
+            else:
+                runs.append(run); run = [b]
+        runs.append(run)
+        for run in runs:
+            cells = [deals[i].get("Price", "") or "" for i in run]
+            markers = [i for i in run if _ENBLOC_RX.search(deals[i].get("Price", "") or "")]
+            if not markers:
+                continue
+            amts = [(i, _amt(c)) for i, c in zip(run, cells) if _amt(c) is not None]
+            # own-cell markers bind their own amount unambiguously
+            for i in markers:
+                v = _amt(deals[i].get("Price", "") or "")
+                if v is not None:
+                    out[id(deals[i])] = v
+            if len(amts) == 1:
+                out[id(deals[amts[0][0]])] = amts[0][1]
+    return out
+
+
 def _split_row(d):
     """Separate the money token from gear/coating text that bled into Price."""
     gear = _clean(" ".join([d.get("M/E", ""), d.get("Coating", ""), d.get("Gear", "")]))
@@ -221,8 +282,12 @@ def _split_row(d):
 
 def deal_rows(rec):
     rows = []
+    lots = _lot_binding(rec["deals"])
     for d in rec["deals"]:
         gear, price_raw, usd = _split_row(d)
+        gt = lots.get(id(d))
+        if gt is not None:
+            usd = None          # a lot total is not a per-vessel price
         rows.append({
             "issue_date": rec["issue_date"], "report_week": rec["report_week"],
             "size": d.get("Size", ""), "name": d.get("Name", ""),
@@ -231,6 +296,7 @@ def deal_rows(rec):
             "shipbuilder": d.get("Shipbuilder", ""),
             "coating": gear,
             "price_raw": price_raw, "price_usd_m": usd,
+            "group_total_mil": gt,
             "buyers": d.get("Buyers", ""), "comments": d.get("Comments", ""),
             "source_file": rec["source_file"].name, "page": d.get("_page")})
     return rows
