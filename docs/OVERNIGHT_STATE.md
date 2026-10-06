@@ -1,3 +1,17 @@
+**THIS RUN (2026-10-07 02:1x, source-by-source, 30m job) - nothing new to EXTRACT (verified); fixed a REAL measured defect the hourly supervisor flagged in the allied series: en-bloc LOT TOTALS were sitting in the per-vessel price column (lion-class). Committed on the current branch.**
+
+- **Liveness/state at start:** no extraction of ours running (python = Hermes gateways only); working tree essentially clean; register gate GREEN `verify_registers.py` = 177 CSVs / 638,931 rows, 0 mismatches. No new corpus arrivals since 2026-10-06 20:03. xclusiv 271/271, all brokers built, archive backfill (allied+golden_destiny) done -> nothing to extract.
+- **Input:** `docs/allied_enbloc_price_finding.md` (hourly supervisor, read-only) + it was untracked -> now committed.
+- **Defect, confirmed against the pages (pymupdf text; no vision tool in cron - stated):** allied prints a multi-ship lot's value once, next to `en bloc`, and the parser read it as one vessel's price. 15 rows > USD 200m (max 660.0 on an MR row). Pages: STH OSLO `$ 330.0m en bloc` (9 STH UMAX; 220+110 cash+shares), KOOL FIRN `en bloc $ 660.0m` (4 KOOL LNG), ISTANBUL `$ 222.5m en bloc`, DAEWOO 5497 `$ 245.0m en bloc`.
+- **FIX in `scripts/extract/publishers/run_allied.py`** (per-source, not generic): `_lot_binding()` = consecutive rows on a page sharing the SAME size class AND the SAME fleet name-prefix that CONTAIN `en bloc`; the single money amount among them is the lot total -> blanked in `price_usd_m`, written to a NEW `group_total_mil` column. Own-cell (`$ X en bloc` in one cell) always binds.
+- **REJECTED after measurement (recorded so nobody rebuilds it):** a page-text "nearest money to en bloc" binder blanked LEGIT prices (ERAWAN 10 $12.0m, DOLPHIN 03 $18.0m) - a wrong value is worse than a missing one. Ambiguous runs (>=2 amounts) are left unlabelled.
+- **MEASURED:** rows 3,218 unchanged; `price_usd_m` max **660.0 -> 291.0**; rows >200m **15 -> 7**; **52** lot totals moved. Re-run 203/203, 0 failed, 202s. **md control: all 203 `.md` byte-identical** (md5 before/after) - only the CSV changed. Neighbour control kept legit prices (RIDGEBURY SATURN 18.0, MARY SELENA 31.0, LESSLEY 45.0). Register gate GREEN after (638,931).
+- **RESIDUAL (named, classified by eye, NOT auto-bound):** 7 rows >200m remain - 1 LEGIT (`HYUNDAI SAMHO 8196` 234.0, page says `each`); 6 are lot/package totals (`HARRISON BAY` 238, `JUDITH SCHULTE` 260, `HL AQUAMARINE` 291, `GASLOG SYDNEY` 284, `MP THE GRONK` 242, `SKS DEE` 239) that need a page RENDER (vision pass) to bind safely. Full table in `docs/allied_enbloc_verdict.md`.
+- Commits: `5e9b6eba3` (runner+docs), `499d1cf04` (CSV), `b7a2b0ab6` (_deals.jsonl).
+- **NEXT:** nothing to EXTRACT. Remaining open ledger items are intermodal_macro (already fixed, `docs/intermodal_macro_verdict.md`) and the residual ism agreement tail. Carried items remain the user's (hellenic bare-name `source_file`, inventory/DB rebuild). Watch the automation does not re-stale the register.
+
+---
+
 **THIS RUN (2026-10-06 23:5x, source-by-source, 30m job) - STARTED + COMPLETED archive backfill source 2: GOLDEN_DESTINY 252/252, 0 failures. Real new extraction.**
 
 - Branch `auto/extract-fixes-2026-10-06-deepreview`. Runner `scripts/extract/publishers/run_golden_destiny.py` (per-source). md 252 + tables.json 252, 0 files <1KB. Deals CSV `data/extracted/series/golden_destiny_sales_series.csv` = **5,320 rows**, 4,911 vessels, 170 issue dates 2021-07-02..2024-11-29 (**0 blank date/name/dwt/price_raw**).
