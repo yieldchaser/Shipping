@@ -1,3 +1,16 @@
+**THIS RUN (2026-10-06 18:2x, source-by-source, 30m job) - NOTHING TO EXTRACT (independently re-verified vs DISK); spent the run CONTENT-verifying the fresh W40 arrivals (100%) and FIXED 12 broken md `source_file` pointers (clarksons 11, carriers 1). Evidence docs/w40_fresh_arrival_and_sourcefile_verdict.md.**
+
+Branch `auto/extract-fixes-2026-10-06-deepreview`, working tree CLEAN at run start (0 files). No extraction/ingest process of ours. Register gate GREEN: `verify_registers.py` = ALL CHECKS PASSED (disk 175 CSVs / **630,357** rows == JSON == MD; 0 mismatches).
+
+- **Fresh arrivals (2026-10-04..06: advanced_shipping W40, affinity W40, agora W40, lion W40, clarksons 2-Oct, star_asia W40, banchero_costa W39) ALL already have md.** Nothing to extract.
+- **CONTENT-verified them (no vision tool in cron - same-document PDF text-layer reconcile):** star_asia W40 418/418, advanced_shipping W40 385/385, affinity W40 72/72 = **100%**; lion 277/278, agora 183/184 (both single chart/contact-number tokens); banchero_costa W39 1,190/1,258 = 94.6% (known ciphered layer). advanced_shipping's first pass read 89% - ALL 44 misses were the float artifact (`3148.0` vs printed `3,148`), a metric artifact, not a defect.
+- **FIXED (kind-2 exact-path field, repointed):** 11 clarksons md + 1 carriers md carried `source_file` that does not resolve (clarksons pointed at `02-hellenic/shipbuilding/pdfs/` while the PDF lives in `01-brokers/clarksons/2026/`; carriers W28 was a bare name where 135/137 use full paths). `run_clarksons.py` is already fixed (derives repo-relative path); the 11 were pre-fix artifacts. Re-verified clarksons **184/188 resolve, 0 stale**.
+- **MEASURED, NOT fixed (user's call):** hellenic **448** md carry a BARE `source_file` by the athenian builder's convention (`run_athenian_demolition.py:366`); 427 basenames are AMBIGUOUS under corpus/ -> not safely machine-repointable; `validate_extracted_md_quality.py` only checks PRESENCE so they pass. Durable fix = builder writes repo-relative path + regenerate.
+- **`_nan_` naming = NOT a gap.** 17 corpus PDFs carry a literal `nan` in the name (old downloader date-parse bug); the 5 `affinity_2026_nan_*` are BYTE-IDENTICAL (md5) to files already extracted under the good stem; ssy(8)/xclusiv(4) `_nan_` PDFs each have md. 4 orphan `clarksons_2026_nan_*.md` lack frontmatter - superseded dupes, left in place.
+- **NEXT RUN:** nothing to EXTRACT. Open decision for the user: (a) hellenic bare-name convention (fix builder + regenerate); (b) inventory/DB rebuild. Watch the automation does not re-stale the register (`verify_registers.py` gate / `sync_extraction_register.py` fix).
+
+---
+
 **THIS RUN (2026-10-06 17:2x, source-by-source, 30m job) - NOTHING NEW TO EXTRACT (independently re-verified, not a re-statement). Working tree CLEAN (0 files); register gate GREEN; 4 Hermes/proxy python processes only, none ours extracting.**
 
 - **Gate:** `python3 scripts/extract/verify_registers.py` = `ALL VERIFICATION CHECKS PASSED PERFECTLY` - disk 175 CSVs / **630,357** rows == JSON == MD, 0 mismatches, 0 control chars, 0 emoji.

@@ -3,7 +3,7 @@ title: "Clarksons Weekly Sale & Purchase Report - 2023-07-24"
 issue_date: "2023-07-24"
 report_week: 30
 publisher: "Clarkson Hellas Ltd."
-source_file: "2023-07-24_clarksons-platou-hellas-snp-weekly-bulletin-80_report-21-07-2023-1_cebb0332bb75.pdf"
+source_file: "corpus/02-hellenic/shipbuilding/pdfs/2023-07-24_clarksons-platou-hellas-snp-weekly-bulletin-80_report-21-07-2023-1_cebb0332bb75.pdf"
 sales_count: 9
 demolitions_count: 1
 ---

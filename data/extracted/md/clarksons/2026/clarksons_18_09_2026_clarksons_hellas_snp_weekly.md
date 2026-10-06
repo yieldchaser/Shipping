@@ -4,13 +4,13 @@ issue_date: "2026-09-18"
 year: "2026"
 broker: "Clarksons Hellas"
 category: "market_report"
-source_file: "corpus/02-hellenic/shipbuilding/pdfs/clarksons_18_09_2026_clarksons_hellas_snp_weekly.pdf"
+source_file: "corpus/01-brokers/clarksons/2026/clarksons_18_09_2026_clarksons_hellas_snp_weekly.pdf"
 ---
 
 # Clarksons Hellas S&P Weekly - 18/09/2026
 
 - **Date**: 2026-09-18 (18/09/2026)
-- **Source**: `corpus/02-hellenic/shipbuilding/pdfs/clarksons_18_09_2026_clarksons_hellas_snp_weekly.pdf`
+- **Source**: `corpus/01-brokers/clarksons/2026/clarksons_18_09_2026_clarksons_hellas_snp_weekly.pdf`
 - **Publisher**: Clarksons Hellas Ltd.
 
 ## Desk Commentary
