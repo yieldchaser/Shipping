@@ -3606,3 +3606,88 @@ pymupdf blank-glyph reconciliation), and this run found no live one.
    (not text) - unverifiable without a vision tool; documented residual, not fixed.
 
 Committed to `auto/extract-fixes-2026-10-06-deepreview` (docs only); main untouched, not pushed.
+
+## 2026-10-06 20:2x IST (14:5x UTC) - deep review (3-hourly, job d77cc9df53c4)
+
+Verdict: **FIXED** (two provable monitor/metadata false positives; no data touched,
+no extractor changed; golden unchanged).
+
+### Run state and honest liveness
+`Get-CimInstance Win32_Process` for `run_batch`/`batch_worker` returned **nothing** -
+the full pass is finished, nothing to supervise. `verify_extraction.py` -> `done 880/882`,
+`ok 876`, `error 3`, `no-extractable-content 1`, `checkpoint_rows 7816` (7816 unique,
+0 torn), `crash_recovered_docs 249`, `golden 15/15`, `db 189481 tables / 6726703 cells`,
+`quality_empty_docs_in_sample 0`. `state_age_min 20676` is the known COMPLETE-not-dead case.
+`verify_registers.py` -> ALL CHECKS PASSED: disk 175 CSVs / 630,357 logical rows == JSON ==
+MD, 0 mismatches, 0 control chars, 0 emoji. `golden_matrix.py` rc=0 (no GOLDEN REGRESSION):
+star_asia pymupdf-text 15/15, plumber-text 15/15, ssy_atlantic 14/14, breakwave text 6/6.
+
+### What I measured (independent of the state file)
+Decomposed `check_outputs`' `empty_not_in_checkpoint 856` by walking every doc dir and
+classifying it against the checkpoint + its own files:
+- **821** `baltic/*` dirs holding only `meta.json{"junk": true, reason: "bot-wall asset placeholder"}`
+- **29** `breakwave/*` dirs, same (`meta.json junk:true`)
+- **5** `corpus/db/*` entries the glob matched that are not documents at all
+  (`corpus.duckdb`, `catalogue.parquet`, `tables.db`, `tables.parquet`, and the
+  `_backup_20260923_parserrebuild` directory)
+- **1** `signal/march-2025-newsletter` (real doc; see below)
+So the label "still being extracted right now" was false for **850/856** of them on a
+COMPLETE run. Reproduced read-only before the change and re-measured after.
+
+### Fix 1 - verify_extraction.check_outputs (monitor false positive)
+`scripts/extract/verify_extraction.py`: filter the glob to directories and drop the `db`
+component (the exact class already fixed in `check_quality()` on 2026-10-06), and classify
+a dir whose `meta.json` has `junk: true` as by-design rather than in-flight.
+**Before -> after:** `empty_not_in_checkpoint` **856 -> 1**, new `empty_junk_routed 850`,
+`empty_by_design 114`, `empty_unexpected 0`, `doc_dirs 17658 -> 17653`, `golden 15/15`,
+`actions []` (unchanged). The single remaining entry is `signal/march-2025-newsletter`.
+
+### Fix 2 - run_html_pass meta.tables overcount (metadata)
+`meta.json` wrote `len(tables)` = number of `<table>` elements, while `tables.jsonl` only
+emits tables that have rows (`if rows:`). Measured across all 9,061 non-junk HTML dirs:
+meta claimed **2,065** tables, **1,405** lines were written - the 660 gap is entirely the
+10 Signal newsletters (table-based emails whose chrome is ~65-75 empty layout `<table>`s
+each; e.g. `2025-january-newsletter` meta=116 written=43, `may-2026-newsletter` meta=103
+written=40). Changed to `len([t for t in tables if t])` so meta matches the artefact.
+Re-probed the module after the change: for all 10 newsletters `meta_now_would_be ==
+actual_written_now` (43/43, 43/43, 39/39, 29/29, 32/32, 26/26, 40/40, 30/30, 30/30, 0/0).
+
+### Content check on 3 recently-completed docs (opened outputs + source)
+* `seabrokers/2026-08-01_market-report-august-2026`, page 8: the S&P table extracts as a
+  real grid - header `VESSEL/S | TYPE | WINNING BID | BUYING ENTITY` then
+  `Bourbon Calm (2012) | PSV | USD 20.24 million | Bourbon`,
+  `Bourbon Evolution 801 (2011) | MPSV / CSV | USD 14.1 million | Singtech Offshore`,
+  `Bourbon Ampan (2012) & Bourbon Morrakot (2009) | AHTS x 2 | USD 8.3 million | Tan Cang
+  Offshore Services` - rows separate, columns aligned, `text_verified 1.0`. Correct.
+  Two adjacent "tables" on the same page are the prose-scrape class (rows that are
+  sentences) - the known noise, not new.
+* `shipbrokers/xclusiv_2026_08_03`: largest numeric grid is a 20-row camelot-stream table,
+  8 columns, `text_verified 1.0` (`text_verified_cells 50/50`); widths vary per page
+  (2/8/11/6/9) because they are different tables, not a shape defect.
+* `drewry_ais_pdfs/Drewry_AIS_Product_LR2_Week33_2026`: 9 pages, 8 routed `image-heavy`;
+  the 50 "tables" are Power-BI dashboard cell-scatter (e.g. a grid row
+  `['', 'LR2', '', '', '', '', '', 'Fleet Performance', ... 'Week 33', '2026']`). Known
+  noise class, `text_verified 0.93`. Nothing new.
+
+### Investigated and deliberately NOT fixed
+`signal/march-2025-newsletter` (and its 9 siblings) hold **0 text lines** on disk although
+the current extractor recovers 13 blocks for it (`title="March 2025 Newsletter"`, headings
+`Product Highlights`, `Market Highlights`, `Capesize Brazil-to-North China rates`). Cause:
+extracted 2026-09-22, before the 2026-09-23 zero-block fallback in `run_html_pass`. This is
+**not a data loss**: the same text is already held as markdown -
+`corpus/07-signal/newsletters/2025/march-2025-newsletter.md` (8,423 bytes, 1,173 words) and
+its 9 siblings. Per the corpus rule (check feeds/corpus/app first) the fix is worth ~zero, and
+writing into `data/extracted/corpus/` is outside this agent's remit. Left as-is.
+
+### Branch / commit
+`auto/extract-fixes-2026-10-06-deepreview`, commit `a80d4cb12` - both files are
+`scripts/extract/` only. `main` untouched, nothing pushed. Scratch out-dir
+`data/extracted/scratch_review/` deleted after use.
+
+### Inherited, still pending HUMAN DECISION (unchanged)
+1. Inventory drift: 383 corpus PDFs absent from the 2026-09-21 `inventory.jsonl`.
+2. DB/series rebuild so parser fixes since 2026-09-21 reach the derived layer.
+3. Hellenic chunk-shard shortfall (all hellenic), `text_audit_recheck.json`.
+4. Optional/bounded: re-extract the 5 `advanced_shipping_2023_W3{1,4,5,6,7}` docs.
+5. (new, low value) Re-run the HTML pass for the 10 Signal newsletters if the
+   `data/extracted/corpus/signal/*` tree is wanted current; content already in .md.
