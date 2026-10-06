@@ -1,0 +1,1733 @@
+{
+  "done": {
+    "Drewry_AIS_Crude_Aframax_Week27_2026": {
+      "timestamp": "2026-09-25T21:27:16.880989+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 92.4
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week04_20251": {
+      "timestamp": "2026-09-25T21:27:35.132105+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 88.0
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week02_2024": {
+      "timestamp": "2026-09-25T21:27:41.239343+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 87.0
+    },
+    "Drewry_AIS_Crude_Aframax_Week30_2026": {
+      "timestamp": "2026-09-25T21:27:46.701846+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 92.4
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week05_2024": {
+      "timestamp": "2026-09-25T21:27:49.001746+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 88.9
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week01_20251": {
+      "timestamp": "2026-09-25T21:27:59.927850+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 87.8
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week07_20251": {
+      "timestamp": "2026-09-25T21:28:13.561447+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 90.2
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week10_20251": {
+      "timestamp": "2026-09-25T21:28:29.775754+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 92.0
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week13_20251": {
+      "timestamp": "2026-09-25T21:28:33.117054+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 88.9
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week13_2024": {
+      "timestamp": "2026-09-25T21:28:35.643023+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 92.0
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week17_2024": {
+      "timestamp": "2026-09-25T21:29:03.062118+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 91.0
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week16_20251": {
+      "timestamp": "2026-09-25T21:29:07.215615+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 88.9
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week22_20251": {
+      "timestamp": "2026-09-25T21:29:13.282378+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 90.7
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week19_20251": {
+      "timestamp": "2026-09-25T21:29:18.938886+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 90.3
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week21_2024": {
+      "timestamp": "2026-09-25T21:29:21.988351+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 92.1
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week34_20251": {
+      "timestamp": "2026-09-25T21:29:45.710087+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 90.5
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week25_2024": {
+      "timestamp": "2026-09-25T21:29:47.593342+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 91.1
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week32_20241": {
+      "timestamp": "2026-09-25T21:29:51.620998+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 89.2
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week35_20241": {
+      "timestamp": "2026-09-25T21:30:03.014612+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 90.4
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week37_20251": {
+      "timestamp": "2026-09-25T21:30:06.245236+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 90.6
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week38_20241": {
+      "timestamp": "2026-09-25T21:30:16.495409+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 88.8
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week40_20251": {
+      "timestamp": "2026-09-25T21:30:27.045351+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 89.9
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week41_20241": {
+      "timestamp": "2026-09-25T21:30:30.419019+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 91.1
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week44_20241": {
+      "timestamp": "2026-09-25T21:30:39.564062+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 90.4
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week43_20251": {
+      "timestamp": "2026-09-25T21:30:41.641060+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 90.1
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week46_20251": {
+      "timestamp": "2026-09-25T21:30:49.917515+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 92.1
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week47_20241": {
+      "timestamp": "2026-09-25T21:30:54.768542+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 87.1
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week50_20241": {
+      "timestamp": "2026-09-25T21:31:11.843603+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 88.1
+    },
+    "Drewry_AIS_PDF_Crude_Aframax_Week49_20251": {
+      "timestamp": "2026-09-25T21:31:50.959703+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 90.0
+    },
+    "Drewry_AIS_Crude_Suezmax_Week29_2026": {
+      "timestamp": "2026-09-25T21:32:25.179502+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 91.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week02_20251": {
+      "timestamp": "2026-09-25T21:32:34.529007+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 89.0
+    },
+    "Drewry_AIS_Crude_Suezmax_Week35_2026": {
+      "timestamp": "2026-09-25T21:32:35.912823+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 92.0
+    },
+    "Drewry_AIS_Crude_Suezmax_Week26_2026": {
+      "timestamp": "2026-09-25T21:32:38.777076+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 90.0
+    },
+    "Drewry_AIS_Crude_Suezmax_Week32_2026": {
+      "timestamp": "2026-09-25T21:32:41.208705+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 90.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week05_20251": {
+      "timestamp": "2026-09-25T21:33:05.323146+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 87.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week08_20251": {
+      "timestamp": "2026-09-25T21:33:12.023753+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 88.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week11_20251": {
+      "timestamp": "2026-09-25T21:33:17.731320+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 89.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week11_2024": {
+      "timestamp": "2026-09-25T21:33:25.131113+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 89.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week14_20251": {
+      "timestamp": "2026-09-25T21:33:25.881058+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 89.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week15_2024": {
+      "timestamp": "2026-09-25T21:45:12.778549+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 91.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week20_20251": {
+      "timestamp": "2026-09-25T21:45:17.958924+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 91.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week17_20251": {
+      "timestamp": "2026-09-25T21:45:18.496888+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 88.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week19_2024": {
+      "timestamp": "2026-09-25T21:45:22.564679+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 88.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week22_2024": {
+      "timestamp": "2026-09-25T21:45:23.865828+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 89.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week26_20241": {
+      "timestamp": "2026-09-25T21:45:50.097039+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 89.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week23_20251": {
+      "timestamp": "2026-09-25T21:45:56.249388+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 90.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week26_20251": {
+      "timestamp": "2026-09-25T21:45:56.887447+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 90.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week30_20241": {
+      "timestamp": "2026-09-25T21:46:04.965011+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 90.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week32_20251": {
+      "timestamp": "2026-09-25T21:46:06.370494+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 89.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week33_20241": {
+      "timestamp": "2026-09-25T21:46:33.981682+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 88.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week36_20251": {
+      "timestamp": "2026-09-25T21:46:34.118457+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 91.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week39_20251": {
+      "timestamp": "2026-09-25T21:46:38.439906+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 89.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week39_20241": {
+      "timestamp": "2026-09-25T21:46:42.015560+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 90.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week42_20241": {
+      "timestamp": "2026-09-25T21:46:45.646762+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 91.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week45_20241": {
+      "timestamp": "2026-09-25T21:47:06.995448+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 91.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week51_20241": {
+      "timestamp": "2026-09-25T21:47:15.137188+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 87.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week48_20241": {
+      "timestamp": "2026-09-25T21:47:15.332688+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 89.0
+    },
+    "Drewry_AIS_PDF_Crude_Suezmax_Week45_20251": {
+      "timestamp": "2026-09-25T21:47:16.914274+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 90.0
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week03_20251": {
+      "timestamp": "2026-09-25T21:47:53.090585+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 91.1
+    },
+    "Drewry_AIS_Crude_VLCC_Week28_2026": {
+      "timestamp": "2026-09-25T21:47:55.223366+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 89.6
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week06_2024": {
+      "timestamp": "2026-09-25T21:47:56.150140+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 89.7
+    },
+    "Drewry_AIS_Crude_VLCC_Week25_2026": {
+      "timestamp": "2026-09-25T21:48:01.791438+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 89.2
+    },
+    "Drewry_AIS_Crude_VLCC_Week31_2026": {
+      "timestamp": "2026-09-25T21:48:01.975889+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 90.8
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week06_20251": {
+      "timestamp": "2026-09-25T21:48:24.953063+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 89.6
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week10_2024": {
+      "timestamp": "2026-09-25T21:48:40.259510+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 91.8
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week09_20251": {
+      "timestamp": "2026-09-25T21:48:44.694377+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 91.1
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week14_2024": {
+      "timestamp": "2026-09-25T21:48:45.522936+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 92.2
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week12_20251": {
+      "timestamp": "2026-09-25T21:48:49.900238+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 88.7
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week15_20251": {
+      "timestamp": "2026-09-25T21:49:08.784275+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 91.2
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week18_20251": {
+      "timestamp": "2026-09-25T21:49:24.139658+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 91.7
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week18_2024": {
+      "timestamp": "2026-09-25T21:49:25.306751+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 91.4
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week24_20251": {
+      "timestamp": "2026-09-25T21:49:27.192083+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 89.6
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week23_2024": {
+      "timestamp": "2026-09-25T21:49:32.022024+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 91.9
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week27_20241": {
+      "timestamp": "2026-09-25T21:49:46.648620+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 91.7
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week31_20241": {
+      "timestamp": "2026-09-25T21:50:06.517073+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 89.8
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week34_20241": {
+      "timestamp": "2026-09-25T21:50:08.916690+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 89.6
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week31_20251": {
+      "timestamp": "2026-09-25T21:50:15.642267+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 89.6
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week27_20251": {
+      "timestamp": "2026-09-25T21:50:19.528359+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 91.1
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week35_20251": {
+      "timestamp": "2026-09-25T21:50:31.518011+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 90.6
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week38_20251": {
+      "timestamp": "2026-09-25T21:50:40.407923+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 92.2
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week37_20241": {
+      "timestamp": "2026-09-25T21:50:56.840827+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 90.1
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week40_20241": {
+      "timestamp": "2026-09-25T21:50:58.705631+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 90.6
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week44_20251": {
+      "timestamp": "2026-09-25T21:51:10.826203+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 90.8
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week41_20251": {
+      "timestamp": "2026-09-25T21:51:13.650632+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 91.2
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week46_20241": {
+      "timestamp": "2026-09-25T21:51:23.916094+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 89.0
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week47_20251": {
+      "timestamp": "2026-09-25T21:51:41.428759+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 91.7
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week49_20241": {
+      "timestamp": "2026-09-25T21:51:42.837365+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 89.0
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week50_20251": {
+      "timestamp": "2026-09-25T21:51:43.862109+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 91.3
+    },
+    "Drewry_AIS_PDF_Crude_VLCC_Week52_20241": {
+      "timestamp": "2026-09-25T21:51:56.336006+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 87.7
+    },
+    "Drewry_AIS_Drybulk_Capesize_Week33_2026": {
+      "timestamp": "2026-09-25T21:52:29.179162+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.1
+    },
+    "Drewry_AIS_Drybulk_Capesize_Week25_2026": {
+      "timestamp": "2026-09-25T21:52:29.422218+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.6
+    },
+    "Drewry_AIS_Drybulk_Capesize_Week29_2026": {
+      "timestamp": "2026-09-25T21:52:34.925884+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 91.9
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week06_20251": {
+      "timestamp": "2026-09-25T21:52:37.243909+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.2
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week02_20251": {
+      "timestamp": "2026-09-25T21:52:45.846977+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 10,
+      "utilisation": 95.2
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week07_2024": {
+      "timestamp": "2026-09-25T21:53:01.315090+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.3
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week13_20251": {
+      "timestamp": "2026-09-25T21:53:13.906747+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.5
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week10_20251": {
+      "timestamp": "2026-09-25T21:53:18.994156+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.1
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week15_2024": {
+      "timestamp": "2026-09-25T21:53:19.993351+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.5
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week11_2024": {
+      "timestamp": "2026-09-25T21:53:21.629790+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 93.4
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week19_2024": {
+      "timestamp": "2026-09-25T21:53:34.524378+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 93.3
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week19_20251": {
+      "timestamp": "2026-09-25T21:53:51.597521+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 93.2
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week23_20251": {
+      "timestamp": "2026-09-25T21:53:52.518831+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 91.2
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week23_2024": {
+      "timestamp": "2026-09-25T21:53:55.969303+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 93.3
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week27_20241": {
+      "timestamp": "2026-09-25T21:53:59.588004+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.5
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week37_20251": {
+      "timestamp": "2026-09-25T21:54:31.403515+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.4
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week31_20251": {
+      "timestamp": "2026-09-25T21:54:35.442712+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.0
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week27_20251": {
+      "timestamp": "2026-09-25T21:54:41.178405+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 91.4
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week31_20241": {
+      "timestamp": "2026-09-25T21:54:46.307644+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 91.7
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week41_20251": {
+      "timestamp": "2026-09-25T21:55:01.721454+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.3
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week35_20241": {
+      "timestamp": "2026-09-25T21:55:02.547807+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.1
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week39_20241": {
+      "timestamp": "2026-09-25T21:55:03.482447+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 91.8
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week45_20251": {
+      "timestamp": "2026-09-25T21:55:13.355675+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.5
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week47_20241": {
+      "timestamp": "2026-09-25T21:55:18.469990+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 91.2
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week49_20251": {
+      "timestamp": "2026-09-25T21:55:34.120067+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.5
+    },
+    "Drewry_AIS_PDF_Drybulk_Capesize_Week51_20241": {
+      "timestamp": "2026-09-25T21:55:40.214643+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 91.4
+    },
+    "Drewry_AIS_Drybulk_Panamax_Week35_2026": {
+      "timestamp": "2026-09-25T21:56:12.305254+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 93.2
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week03_20251": {
+      "timestamp": "2026-09-25T21:56:13.637326+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 93.7
+    },
+    "Drewry_AIS_Drybulk_Panamax_Week27_2026": {
+      "timestamp": "2026-09-25T21:56:24.417829+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 93.6
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week07_20251": {
+      "timestamp": "2026-09-25T21:56:36.227062+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 93.5
+    },
+    "Drewry_AIS_Drybulk_Panamax_Week31_2026": {
+      "timestamp": "2026-09-25T21:56:40.319474+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 92.7
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week11_20251": {
+      "timestamp": "2026-09-25T21:56:45.511386+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 93.3
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week15_20251": {
+      "timestamp": "2026-09-25T21:56:50.898959+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 93.2
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week16_2024": {
+      "timestamp": "2026-09-25T21:56:56.745129+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 93.5
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week20_2024": {
+      "timestamp": "2026-09-25T21:57:13.992393+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 93.9
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week22_20251": {
+      "timestamp": "2026-09-25T21:57:16.547605+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 92.0
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week18_20251": {
+      "timestamp": "2026-09-25T21:57:20.898530+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 93.1
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week24_2024": {
+      "timestamp": "2026-09-25T21:57:22.768425+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 93.4
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week26_20251": {
+      "timestamp": "2026-09-25T21:57:29.299548+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 91.5
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week28_20241": {
+      "timestamp": "2026-09-25T21:57:46.306427+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 92.9
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week32_20241": {
+      "timestamp": "2026-09-25T21:57:48.363798+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 92.0
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week32_20251": {
+      "timestamp": "2026-09-25T21:57:52.394112+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 91.0
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week40_20241": {
+      "timestamp": "2026-09-25T21:58:12.918062+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 92.5
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week43_20251": {
+      "timestamp": "2026-09-25T21:58:18.378703+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 92.4
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week47_20251": {
+      "timestamp": "2026-09-25T21:58:23.979986+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 91.8
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week44_20241": {
+      "timestamp": "2026-09-25T21:58:25.400329+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 92.1
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week39_20251": {
+      "timestamp": "2026-09-25T21:58:34.400970+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 92.1
+    },
+    "Drewry_AIS_PDF_Drybulk_Panamax_Week48_20241": {
+      "timestamp": "2026-09-25T21:58:45.315964+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 92.3
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week08_20251": {
+      "timestamp": "2026-09-25T21:59:17.806887+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.0
+    },
+    "Drewry_AIS_Drybulk_Supramax_Week26_2026": {
+      "timestamp": "2026-09-25T21:59:19.023042+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.7
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week05_2024": {
+      "timestamp": "2026-09-25T21:59:22.792296+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.2
+    },
+    "Drewry_AIS_Drybulk_Supramax_Week30_2026": {
+      "timestamp": "2026-09-25T21:59:23.714794+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.2
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week04_20251": {
+      "timestamp": "2026-09-25T21:59:25.015483+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.8
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week20_20251": {
+      "timestamp": "2026-09-25T21:59:51.545854+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.4
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week12_20251": {
+      "timestamp": "2026-09-25T22:00:00.871997+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.1
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week17_2024": {
+      "timestamp": "2026-09-25T22:00:03.401084+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 92.7
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week13_2024": {
+      "timestamp": "2026-09-25T22:00:05.002042+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.0
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week16_20251": {
+      "timestamp": "2026-09-25T22:00:06.594873+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.2
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week24_20251": {
+      "timestamp": "2026-09-25T22:00:32.456835+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 92.9
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week21_2024": {
+      "timestamp": "2026-09-25T22:00:34.549241+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.7
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week25_2024": {
+      "timestamp": "2026-09-25T22:00:35.785305+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.1
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week33_20241": {
+      "timestamp": "2026-09-25T22:00:36.883665+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 92.7
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week34_20251": {
+      "timestamp": "2026-09-25T22:00:38.860510+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.2
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week37_20241": {
+      "timestamp": "2026-09-25T22:00:59.804153+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 91.9
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week38_20251": {
+      "timestamp": "2026-09-25T22:01:06.453042+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.7
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week46_20251": {
+      "timestamp": "2026-09-25T22:01:11.244530+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.5
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week45_20241": {
+      "timestamp": "2026-09-25T22:01:20.573555+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 92.1
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week41_20241": {
+      "timestamp": "2026-09-25T22:01:23.965708+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 92.2
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week49_20241": {
+      "timestamp": "2026-09-25T22:01:47.759221+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 91.7
+    },
+    "Drewry_AIS_PDF_Drybulk_Supramax_Week50_20251": {
+      "timestamp": "2026-09-25T22:02:16.773802+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 92.5
+    },
+    "Drewry_AIS_Drybulk_Handysize_Week32_2026": {
+      "timestamp": "2026-09-25T22:02:49.904967+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 94.2
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week05_20251": {
+      "timestamp": "2026-09-25T22:02:50.113821+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.7
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week01_20251": {
+      "timestamp": "2026-09-25T22:02:51.496021+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 10,
+      "utilisation": 92.3
+    },
+    "Drewry_AIS_Drybulk_Handysize_Week28_2026": {
+      "timestamp": "2026-09-25T22:02:55.101135+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.5
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week02_2024": {
+      "timestamp": "2026-09-25T22:03:00.583638+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.0
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week09_20251": {
+      "timestamp": "2026-09-25T22:03:21.837574+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.3
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week06_2024": {
+      "timestamp": "2026-09-25T22:03:22.150023+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.1
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week10_2024": {
+      "timestamp": "2026-09-25T22:03:22.993401+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.3
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week14_2024": {
+      "timestamp": "2026-09-25T22:03:25.991426+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 92.7
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week14_20251": {
+      "timestamp": "2026-09-25T22:03:33.415511+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.4
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week17_20251": {
+      "timestamp": "2026-09-25T22:03:54.199478+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 92.3
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week18_2024": {
+      "timestamp": "2026-09-25T22:03:54.350049+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.4
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week22_2024": {
+      "timestamp": "2026-09-25T22:03:59.995386+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.1
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week25_20251": {
+      "timestamp": "2026-09-25T22:04:02.514941+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.9
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week26_20241": {
+      "timestamp": "2026-09-25T22:04:05.128162+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.1
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week36_20251": {
+      "timestamp": "2026-09-25T22:04:42.827857+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.4
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week30_20241": {
+      "timestamp": "2026-09-25T22:04:44.584797+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.2
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week38_20241": {
+      "timestamp": "2026-09-25T22:04:45.673754+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 92.6
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week34_20241": {
+      "timestamp": "2026-09-25T22:04:50.575161+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 92.3
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week40_20251": {
+      "timestamp": "2026-09-25T22:05:03.970577+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.8
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week42_20241": {
+      "timestamp": "2026-09-25T22:05:15.571994+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 92.8
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week50_20241": {
+      "timestamp": "2026-09-25T22:05:22.032415+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 91.8
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week44_20251": {
+      "timestamp": "2026-09-25T22:05:22.167029+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.4
+    },
+    "Drewry_AIS_PDF_Drybulk_Handysize_Week46_20241": {
+      "timestamp": "2026-09-25T22:05:34.996955+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 92.3
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week05_2024": {
+      "timestamp": "2026-09-25T22:06:08.683975+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 90.9
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week02_20251": {
+      "timestamp": "2026-09-25T22:06:14.225987+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 91.9
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week05_20251": {
+      "timestamp": "2026-09-25T22:06:19.092950+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 89.3
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week02_2024": {
+      "timestamp": "2026-09-25T22:06:25.607480+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 90.0
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week08_2024": {
+      "timestamp": "2026-09-25T22:06:26.110264+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 91.2
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week11_20251": {
+      "timestamp": "2026-09-25T22:06:51.634413+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 90.9
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week08_20251": {
+      "timestamp": "2026-09-25T22:06:57.355409+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 92.9
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week12_2024": {
+      "timestamp": "2026-09-25T22:07:06.496051+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 92.0
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week14_20251": {
+      "timestamp": "2026-09-25T22:07:09.526082+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 91.0
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week16_2024": {
+      "timestamp": "2026-09-25T22:07:28.474455+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 91.2
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week20_2024": {
+      "timestamp": "2026-09-25T22:07:34.962593+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 92.1
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week17_20251": {
+      "timestamp": "2026-09-25T22:07:35.152461+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 89.0
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week23_20251": {
+      "timestamp": "2026-09-25T22:07:41.266931+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 91.6
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week20_20251": {
+      "timestamp": "2026-09-25T22:07:54.939933+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 92.3
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week24_2024": {
+      "timestamp": "2026-09-25T22:08:01.119055+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 90.5
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week26_20251": {
+      "timestamp": "2026-09-25T22:08:07.581107+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 90.8
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week27_20241": {
+      "timestamp": "2026-09-25T22:08:13.094067+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 90.1
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week30_20241": {
+      "timestamp": "2026-09-25T22:08:13.879961+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 90.8
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week33_20241": {
+      "timestamp": "2026-09-25T22:08:27.760002+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 90.3
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week35_20251": {
+      "timestamp": "2026-09-25T22:08:34.171181+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 92.6
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week39_20241": {
+      "timestamp": "2026-09-25T22:08:56.700827+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 93.2
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week38_20251": {
+      "timestamp": "2026-09-25T22:09:03.341508+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 90.6
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week44_20251": {
+      "timestamp": "2026-09-25T22:09:07.005431+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 90.5
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week42_20241": {
+      "timestamp": "2026-09-25T22:09:10.822346+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 88.9
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week41_20251": {
+      "timestamp": "2026-09-25T22:09:12.427608+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 92.4
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week51_20241": {
+      "timestamp": "2026-09-25T22:09:39.566738+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 88.9
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week45_20241": {
+      "timestamp": "2026-09-25T22:09:40.475034+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 90.5
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week47_20251": {
+      "timestamp": "2026-09-25T22:09:40.988285+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 90.9
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week50_20251": {
+      "timestamp": "2026-09-25T22:09:43.611916+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 91.9
+    },
+    "Drewry_AIS_PDF_Product_LR1_Week48_20241": {
+      "timestamp": "2026-09-25T22:09:45.338535+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 90.0
+    },
+    "Drewry_AIS_Product_LR1_Week25_2026": {
+      "timestamp": "2026-09-25T22:10:12.710979+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 90.9
+    },
+    "Drewry_AIS_Product_LR1_Week31_2026": {
+      "timestamp": "2026-09-25T22:10:24.962055+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 89.2
+    },
+    "Drewry_AIS_Product_LR1_Week28_2026": {
+      "timestamp": "2026-09-25T22:10:37.548124+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 88.5
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week04_2024": {
+      "timestamp": "2026-09-25T22:11:11.352553+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 89.5
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week03_20251": {
+      "timestamp": "2026-09-25T22:11:16.323505+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 91.5
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week09_20251": {
+      "timestamp": "2026-09-25T22:11:21.095245+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 87.2
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week13_2024": {
+      "timestamp": "2026-09-25T22:11:22.011482+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 92.0
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week12_20251": {
+      "timestamp": "2026-09-25T22:11:24.171435+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 88.2
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week15_20251": {
+      "timestamp": "2026-09-25T22:11:49.411375+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 90.7
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week17_2024": {
+      "timestamp": "2026-09-25T22:11:53.643993+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 92.0
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week24_20251": {
+      "timestamp": "2026-09-25T22:12:01.785177+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 92.9
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week18_20251": {
+      "timestamp": "2026-09-25T22:12:04.831040+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 90.9
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week21_2024": {
+      "timestamp": "2026-09-25T22:12:13.775453+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 91.7
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week25_2024": {
+      "timestamp": "2026-09-25T22:12:21.024023+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 90.6
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week31_20241": {
+      "timestamp": "2026-09-25T22:12:41.222343+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 89.3
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week27_20251": {
+      "timestamp": "2026-09-25T22:12:42.394816+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 90.5
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week31_20251": {
+      "timestamp": "2026-09-25T22:12:46.698162+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 91.1
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week34_20241": {
+      "timestamp": "2026-09-25T22:12:52.483638+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 89.0
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week28_20241": {
+      "timestamp": "2026-09-25T22:12:55.522839+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 90.2
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week34_20251": {
+      "timestamp": "2026-09-25T22:13:25.111068+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 90.8
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week37_20251": {
+      "timestamp": "2026-09-25T22:13:29.357560+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 91.2
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week40_20241": {
+      "timestamp": "2026-09-25T22:13:36.290615+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 90.2
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week40_20251": {
+      "timestamp": "2026-09-25T22:13:38.007678+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 89.9
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week37_20241": {
+      "timestamp": "2026-09-25T22:13:38.262101+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 89.9
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week46_20241": {
+      "timestamp": "2026-09-25T22:13:57.364214+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 88.5
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week46_20251": {
+      "timestamp": "2026-09-25T22:14:01.456921+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 89.8
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week49_20241": {
+      "timestamp": "2026-09-25T22:14:07.964943+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 88.7
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week49_20251": {
+      "timestamp": "2026-09-25T22:14:10.626227+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 88.8
+    },
+    "Drewry_AIS_PDF_Product_LR2_Week52_20241": {
+      "timestamp": "2026-09-25T22:14:32.952868+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 86.7
+    },
+    "Drewry_AIS_Product_LR2_Week30_2026": {
+      "timestamp": "2026-09-25T22:14:34.117666+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 90.7
+    },
+    "Drewry_AIS_Product_LR2_Week27_2026": {
+      "timestamp": "2026-09-25T22:14:36.164137+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 90.3
+    },
+    "Drewry_AIS_Product_LR2_Week33_2026": {
+      "timestamp": "2026-09-25T22:14:40.625386+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 89.7
+    },
+    "Drewry_AIS_LPG_FR_Week26_2026": {
+      "timestamp": "2026-09-25T22:15:13.405769+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_LPG_FR_Week35_2026": {
+      "timestamp": "2026-09-25T22:15:13.557440+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_LPG_FR_Week32_2026": {
+      "timestamp": "2026-09-25T22:15:18.129084+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week01_20251": {
+      "timestamp": "2026-09-25T22:15:19.469791+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_LPG_FR_Week29_2026": {
+      "timestamp": "2026-09-25T22:15:30.308887+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week04_2024": {
+      "timestamp": "2026-09-25T22:15:45.340004+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week08_2024": {
+      "timestamp": "2026-09-25T22:15:50.336261+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week07_20251": {
+      "timestamp": "2026-09-25T22:15:55.864500+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week04_20251": {
+      "timestamp": "2026-09-25T22:15:57.462480+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week10_20251": {
+      "timestamp": "2026-09-25T22:16:05.854572+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week12_2024": {
+      "timestamp": "2026-09-25T22:16:11.885731+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week16_2024": {
+      "timestamp": "2026-09-25T22:16:22.611645+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week16_20251": {
+      "timestamp": "2026-09-25T22:16:30.187480+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week13_20251": {
+      "timestamp": "2026-09-25T22:16:33.370327+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week20_2024": {
+      "timestamp": "2026-09-25T22:16:54.886128+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week19_20251": {
+      "timestamp": "2026-09-25T22:17:00.495570+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week22_20251": {
+      "timestamp": "2026-09-25T22:17:01.373488+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week25_20251": {
+      "timestamp": "2026-09-25T22:17:01.713241+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week24_2024": {
+      "timestamp": "2026-09-25T22:17:02.344738+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week32_20241": {
+      "timestamp": "2026-09-25T22:17:32.480734+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week28_20241": {
+      "timestamp": "2026-09-25T22:17:33.369689+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week35_20241": {
+      "timestamp": "2026-09-25T22:17:33.895882+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week38_20241": {
+      "timestamp": "2026-09-25T22:17:34.320077+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week36_20251": {
+      "timestamp": "2026-09-25T22:17:50.207070+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week41_20241": {
+      "timestamp": "2026-09-25T22:18:06.093313+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week39_20251": {
+      "timestamp": "2026-09-25T22:18:06.421829+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week43_20251": {
+      "timestamp": "2026-09-25T22:18:07.816101+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week44_20241": {
+      "timestamp": "2026-09-25T22:18:08.146722+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week45_20251": {
+      "timestamp": "2026-09-25T22:20:10.102769+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week50_20241": {
+      "timestamp": "2026-09-25T22:20:42.281938+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_PDF_LPG_FR_Week47_20241": {
+      "timestamp": "2026-09-25T22:20:46.072451+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    },
+    "Drewry_AIS_Crude_Aframax_Week39_2026": {
+      "timestamp": "2026-10-01T09:29:04.764728+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 89.9
+    },
+    "Drewry_AIS_Crude_Aframax_Week36_2026": {
+      "timestamp": "2026-10-01T09:29:06.138768+00:00",
+      "category": "Crude_Aframax",
+      "pages": 9,
+      "utilisation": 90.3
+    },
+    "Drewry_AIS_Crude_Suezmax_Week38_2026": {
+      "timestamp": "2026-10-01T09:29:52.336468+00:00",
+      "category": "Crude_Suezmax",
+      "pages": 9,
+      "utilisation": 89.0
+    },
+    "Drewry_AIS_Crude_VLCC_Week37_2026": {
+      "timestamp": "2026-10-01T09:30:33.706227+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 91.9
+    },
+    "Drewry_AIS_Drybulk_Capesize_Week37_2026": {
+      "timestamp": "2026-10-01T09:31:20.755492+00:00",
+      "category": "Drybulk_Capesize",
+      "pages": 9,
+      "utilisation": 92.2
+    },
+    "Drewry_AIS_Drybulk_Panamax_Week39_2026": {
+      "timestamp": "2026-10-01T09:32:15.070884+00:00",
+      "category": "Drybulk_Panamax",
+      "pages": 9,
+      "utilisation": 92.6
+    },
+    "Drewry_AIS_Drybulk_Supramax_Week38_2026": {
+      "timestamp": "2026-10-01T09:33:02.063147+00:00",
+      "category": "Drybulk_Supramax",
+      "pages": 9,
+      "utilisation": 93.7
+    },
+    "Drewry_AIS_Drybulk_Handysize_Week36_2026": {
+      "timestamp": "2026-10-01T09:33:50.467012+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.0
+    },
+    "Drewry_AIS_Product_LR1_Week37_2026": {
+      "timestamp": "2026-10-01T09:35:28.728474+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 92.0
+    },
+    "Drewry_AIS_Product_LR2_Week36_2026": {
+      "timestamp": "2026-10-01T09:36:17.198114+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 91.8
+    },
+    "Drewry_AIS_Product_LR2_Week39_2026": {
+      "timestamp": "2026-10-01T09:36:40.337636+00:00",
+      "category": "Product_LR2",
+      "pages": 9,
+      "utilisation": 92.8
+    },
+    "Drewry_AIS_LPG_FR_Week38_2026": {
+      "timestamp": "2026-10-01T09:37:44.807941+00:00",
+      "category": "LPG_FR",
+      "pages": 8,
+      "utilisation": null
+    }
+  },
+  "failed": {}
+}

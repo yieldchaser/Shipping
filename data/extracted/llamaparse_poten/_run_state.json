@@ -1,0 +1,1035 @@
+{
+  "done": {
+    "Tanker_Opinion_20040102.pdf": {
+      "pages": 4,
+      "tables": 5,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 20.9
+    },
+    "Tanker_Opinion_20040109.pdf": {
+      "pages": 5,
+      "tables": 7,
+      "charterers": 33,
+      "fixtures": 4,
+      "secs": 13.2
+    },
+    "Tanker_Opinion_20040116.pdf": {
+      "pages": 2,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 15,
+      "secs": 18.8
+    },
+    "Tanker_Opinion_20040123.pdf": {
+      "pages": 5,
+      "tables": 7,
+      "charterers": 130,
+      "fixtures": 13,
+      "secs": 3.4
+    },
+    "Tanker_Opinion_20040130.pdf": {
+      "pages": 3,
+      "tables": 0,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 17.4
+    },
+    "Tanker_Opinion_20040213.pdf": {
+      "pages": 7,
+      "tables": 1,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 20.0
+    },
+    "Tanker_Opinion_20040220.pdf": {
+      "pages": 4,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 30.8
+    },
+    "Tanker_Opinion_20040227.pdf": {
+      "pages": 4,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 13.2
+    },
+    "Tanker_Opinion_20040305.pdf": {
+      "pages": 4,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 0.1,
+      "date": "2004-03-05",
+      "title": "Decisions, Decisions, Stratospheric Scrap Prices: What's An Owner to Do?"
+    },
+    "Tanker_Opinion_20040312.pdf": {
+      "pages": 4,
+      "tables": 1,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 13.4
+    },
+    "Tanker_Opinion_20040319.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 12.6
+    },
+    "Tanker_Opinion_20040326.pdf": {
+      "pages": 3,
+      "tables": 1,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 18.0
+    },
+    "Tanker_Opinion_20040402.pdf": {
+      "pages": 3,
+      "tables": 1,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 18.7
+    },
+    "Tanker_Opinion_20040416.pdf": {
+      "pages": 4,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 0.1,
+      "date": "2004-04-16",
+      "title": "Ship Prices Rise: Will Rates Make up the Difference?"
+    },
+    "Tanker_Opinion_20040421.pdf": {
+      "pages": 4,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 24.5
+    },
+    "Tanker_Opinion_20040423.pdf": {
+      "pages": 5,
+      "tables": 6,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 0.1,
+      "date": "2004-04-23",
+      "title": "The Perfect Storm Rising Gasoline Prices"
+    },
+    "Tanker_Opinion_20040430.pdf": {
+      "pages": 4,
+      "tables": 5,
+      "charterers": 16,
+      "fixtures": 0,
+      "secs": 19.2
+    },
+    "Tanker_Opinion_20040507.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 18.9
+    },
+    "Tanker_Opinion_20040514.pdf": {
+      "pages": 4,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 0.1,
+      "date": "2004-05-14",
+      "title": "Place Your Bets The Race Is Heating Up!"
+    },
+    "Tanker_Opinion_20040521.pdf": {
+      "pages": 4,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 3.9
+    },
+    "Tanker_Opinion_20040604.pdf": {
+      "pages": 3,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 26.0
+    },
+    "Tanker_Opinion_20040625.pdf": {
+      "pages": 5,
+      "tables": 5,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 0.1,
+      "date": "2004-06-25",
+      "title": "If Norway Went Down the Drain"
+    },
+    "Tanker_Opinion_20040709.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 19.5
+    },
+    "Tanker_Opinion_20040730.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 11,
+      "fixtures": 0,
+      "secs": 13.3
+    },
+    "Tanker_Opinion_20041015.pdf": {
+      "pages": 4,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 18.6
+    },
+    "Tanker_Opinion_20041022.pdf": {
+      "pages": 4,
+      "tables": 5,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 18.6
+    },
+    "Tanker_Opinion_20041101.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 18.2
+    },
+    "Tanker_Opinion_20041119.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 18.2
+    },
+    "Tanker_Opinion_20041230.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 12.6
+    },
+    "Tanker_Opinion_20041231.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 2.5
+    },
+    "Tanker_Opinion_20050107.pdf": {
+      "pages": 5,
+      "tables": 6,
+      "charterers": 62,
+      "fixtures": 4,
+      "secs": 19.9
+    },
+    "Tanker_Opinion_20050121.pdf": {
+      "pages": 4,
+      "tables": 5,
+      "charterers": 33,
+      "fixtures": 3,
+      "secs": 18.2
+    },
+    "Tanker_Opinion_20050218.pdf": {
+      "pages": 4,
+      "tables": 7,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 29.4
+    },
+    "Tanker_Opinion_20050304.pdf": {
+      "pages": 4,
+      "tables": 6,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 19.2
+    },
+    "Tanker_Opinion_20050520.pdf": {
+      "pages": 4,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 0.1,
+      "date": "2005-05-20",
+      "title": "Shifting Sands of VLCC Employment"
+    },
+    "Tanker_Opinion_20050603.pdf": {
+      "pages": 4,
+      "tables": 6,
+      "charterers": 0,
+      "fixtures": 2,
+      "secs": 0.1,
+      "date": "2005-06-03",
+      "title": "Cleans Up!"
+    },
+    "Tanker_Opinion_20050610.pdf": {
+      "pages": 4,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 13.2
+    },
+    "Tanker_Opinion_20050624.pdf": {
+      "pages": 4,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 0.1,
+      "date": "2005-06-24",
+      "title": "Is Tanker Activity Telling Us Anything About Oil Exports?"
+    },
+    "Tanker_Opinion_20050701.pdf": {
+      "pages": 3,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 24.2
+    },
+    "Tanker_Opinion_20050812.pdf": {
+      "pages": 3,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 18.7
+    },
+    "Tanker_Opinion_20050930.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 0.1,
+      "date": "2005-09-30",
+      "title": "Down for the Count!"
+    },
+    "Tanker_Opinion_20051202.pdf": {
+      "pages": 3,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 0.0,
+      "date": "2005-12-02",
+      "title": "Suezmax Rates Surging"
+    },
+    "Tanker_Opinion_20051216.pdf": {
+      "pages": 4,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 24.3
+    },
+    "Tanker_Opinion_20060106.pdf": {
+      "pages": 5,
+      "tables": 7,
+      "charterers": 60,
+      "fixtures": 12,
+      "secs": 20.1
+    },
+    "Tanker_Opinion_20060120.pdf": {
+      "pages": 4,
+      "tables": 6,
+      "charterers": 59,
+      "fixtures": 0,
+      "secs": 19.7
+    },
+    "Tanker_Opinion_20060324.pdf": {
+      "pages": 4,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 13.1
+    },
+    "Tanker_Opinion_20060519.pdf": {
+      "pages": 2,
+      "tables": 1,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 9.1
+    },
+    "Tanker_Opinion_20060602.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 0.0,
+      "date": "2006-06-02",
+      "title": "One A Week"
+    },
+    "Tanker_Opinion_20061013.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 8.4
+    },
+    "Tanker_Opinion_20061103.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 5,
+      "secs": 8.0
+    },
+    "Tanker_Opinion_20061215.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 0.1,
+      "date": "2006-12-15",
+      "title": "Aframaxes in the Black (Sea)"
+    },
+    "Tanker_Opinion_20070119.pdf": {
+      "pages": 4,
+      "tables": 6,
+      "charterers": 40,
+      "fixtures": 4,
+      "secs": 12.9
+    },
+    "Tanker_Opinion_20070216.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 5,
+      "secs": 12.7
+    },
+    "Tanker_Opinion_20070223.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 12,
+      "fixtures": 0,
+      "secs": 0.1,
+      "date": "2007-02-23",
+      "title": "The Pacific Arbitrage"
+    },
+    "Tanker_Opinion_20070302.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 13.4
+    },
+    "Tanker_Opinion_20080111.pdf": {
+      "pages": 5,
+      "tables": 6,
+      "charterers": 57,
+      "fixtures": 5,
+      "secs": 12.5
+    },
+    "Tanker_Opinion_20080125.pdf": {
+      "pages": 5,
+      "tables": 6,
+      "charterers": 50,
+      "fixtures": 3,
+      "secs": 18.3
+    },
+    "Tanker_Opinion_20080201.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 12.8
+    },
+    "Tanker_Opinion_20080808.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 8.9
+    },
+    "Tanker_Opinion_20090102.pdf": {
+      "pages": 5,
+      "tables": 6,
+      "charterers": 60,
+      "fixtures": 5,
+      "secs": 12.2
+    },
+    "Tanker_Opinion_20090116.pdf": {
+      "pages": 5,
+      "tables": 6,
+      "charterers": 50,
+      "fixtures": 4,
+      "secs": 12.5
+    },
+    "Tanker_Opinion_20090206.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 3,
+      "secs": 12.5
+    },
+    "Tanker_Opinion_20090227.pdf": {
+      "pages": 2,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 0.1,
+      "date": "2009-02-27",
+      "title": "Slumdogs of the Caribbean"
+    },
+    "Tanker_Opinion_20100108.pdf": {
+      "pages": 5,
+      "tables": 6,
+      "charterers": 60,
+      "fixtures": 5,
+      "secs": 18.6
+    },
+    "Tanker_Opinion_20101124.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 13.4
+    },
+    "Tanker_Opinion_20110107.pdf": {
+      "pages": 5,
+      "tables": 6,
+      "charterers": 57,
+      "fixtures": 5,
+      "secs": 18.7
+    },
+    "Tanker_Opinion_20120316.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 20.4
+    },
+    "Tanker_Opinion_20120405.pdf": {
+      "pages": 2,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 5,
+      "secs": 13.5
+    },
+    "Tanker_Opinion_20120608.pdf": {
+      "pages": 2,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 12.8
+    },
+    "Tanker_Opinion_20120928.pdf": {
+      "pages": 4,
+      "tables": 5,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 18.7
+    },
+    "Tanker_Opinion_20121116.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 13.4
+    },
+    "Tanker_Opinion_20130104.pdf": {
+      "pages": 4,
+      "tables": 6,
+      "charterers": 62,
+      "fixtures": 4,
+      "secs": 20.7
+    },
+    "Tanker_Opinion_20130222.pdf": {
+      "pages": 3,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 24.4
+    },
+    "Tanker_Opinion_20130329.pdf": {
+      "pages": 3,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 13.3
+    },
+    "Tanker_Opinion_20130517.pdf": {
+      "pages": 3,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 45.5
+    },
+    "Tanker_Opinion_20130628.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 12,
+      "fixtures": 0,
+      "secs": 13.5
+    },
+    "Tanker_Opinion_20130802.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 18.5
+    },
+    "Tanker_Opinion_20130809.pdf": {
+      "pages": 3,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 19.4
+    },
+    "Tanker_Opinion_20130823.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 13.6
+    },
+    "Tanker_Opinion_20131101.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 12.8
+    },
+    "Tanker_Opinion_20140103.pdf": {
+      "pages": 5,
+      "tables": 6,
+      "charterers": 70,
+      "fixtures": 3,
+      "secs": 18.7
+    },
+    "Tanker_Opinion_20140314.pdf": {
+      "pages": 3,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 6,
+      "secs": 18.6
+    },
+    "Tanker_Opinion_20140321.pdf": {
+      "pages": 2,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 12.8
+    },
+    "Tanker_Opinion_20140417.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 12.6
+    },
+    "Tanker_Opinion_20040723.pdf": {
+      "pages": 4,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 18.8,
+      "date": "2004-07-23",
+      "title": "A Midsummer Night's Dream!"
+    },
+    "Tanker_Opinion_20040827.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 20.0,
+      "date": "2004-08-27",
+      "title": "The Frenzied Ship Building Market"
+    },
+    "Tanker_Opinion_20040917.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 19.3,
+      "date": "2004-09-17",
+      "title": "OPEC Quotas: Up"
+    },
+    "Tanker_Opinion_20041203.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.0,
+      "date": "2004-12-03",
+      "title": "Gyrating Bunker Prices"
+    },
+    "Tanker_Opinion_20041210.pdf": {
+      "pages": 3,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 16.8,
+      "date": "2004-12-10",
+      "title": "OPEC Cuts Production- Is There a Message?"
+    },
+    "Tanker_Opinion_20041224.pdf": {
+      "pages": 2,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 10.4,
+      "date": "2004-12-24",
+      "title": "Double Feature"
+    },
+    "Tanker_Opinion_20050114.pdf": {
+      "pages": 4,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.2,
+      "date": "2005-01-14",
+      "title": "The $70 Million Dollar Man"
+    },
+    "Tanker_Opinion_20050128.pdf": {
+      "pages": 4,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 4,
+      "secs": 14.3,
+      "date": "2005-01-28",
+      "title": "Cash Disposal Unit"
+    },
+    "Tanker_Opinion_20050311.pdf": {
+      "pages": 4,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.9,
+      "date": "2005-03-11",
+      "title": "The Aframax Family Tree"
+    },
+    "Tanker_Opinion_20050318.pdf": {
+      "pages": 3,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.8,
+      "date": "2005-03-18",
+      "title": "Bunkers Go Bonkers"
+    },
+    "Tanker_Opinion_20050401.pdf": {
+      "pages": 4,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 32.6,
+      "date": "2005-04-01",
+      "title": "$100+ Per Barrel Crude: April Fool?"
+    },
+    "Tanker_Opinion_20050422.pdf": {
+      "pages": 5,
+      "tables": 6,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.6,
+      "date": "2005-04-22",
+      "title": "What Me Worry?"
+    },
+    "Tanker_Opinion_20050513.pdf": {
+      "pages": 3,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 20.6,
+      "date": "2005-05-13",
+      "title": "What Is The Price of Your Crude?"
+    },
+    "Tanker_Opinion_20050617.pdf": {
+      "pages": 4,
+      "tables": 4,
+      "charterers": 14,
+      "fixtures": 0,
+      "secs": 14.5,
+      "date": "2005-06-17",
+      "title": "Topping Off the U.S. Strategic Petroleum Reserve"
+    },
+    "Tanker_Opinion_20050722.pdf": {
+      "pages": 3,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.4,
+      "date": "2005-07-22",
+      "title": "The Cost of Bunkers, Do Owners Care?"
+    },
+    "Tanker_Opinion_20050916.pdf": {
+      "pages": 2,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 20.1,
+      "date": "2005-09-16",
+      "title": "The 26 Annual Fuel Oil/Energy Buyers' Conference"
+    },
+    "Tanker_Opinion_20051007.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 15.1,
+      "date": "2005-10-07",
+      "title": "High Oil Prices & Tanker Demand"
+    },
+    "Tanker_Opinion_20051014.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.8,
+      "date": "2005-10-14",
+      "title": "A Winter of Discontent"
+    },
+    "Tanker_Opinion_20051028.pdf": {
+      "pages": 4,
+      "tables": 4,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 26.9,
+      "date": "2005-10-28",
+      "title": "Are We Moving Towards Chaos?"
+    },
+    "Tanker_Opinion_20051111.pdf": {
+      "pages": 3,
+      "tables": 1,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.1,
+      "date": "2005-11-11",
+      "title": "Now Playing: \\"
+    },
+    "Tanker_Opinion_20051123.pdf": {
+      "pages": 2,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 9.5,
+      "date": "2005-11-23",
+      "title": "Something to be Thankful For"
+    },
+    "Tanker_Opinion_20060113.pdf": {
+      "pages": 2,
+      "tables": 1,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 9.1,
+      "date": "2006-01-13",
+      "title": "Worldscale Flat Up!"
+    },
+    "Tanker_Opinion_20060203.pdf": {
+      "pages": 4,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 13.8,
+      "date": "2006-02-03",
+      "title": "How Not to Kick an Addiction"
+    },
+    "Tanker_Opinion_20060217.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 13.5,
+      "date": "2006-02-17",
+      "title": "Shipyard Prices: Up, Up and Away?"
+    },
+    "Tanker_Opinion_20060428.pdf": {
+      "pages": 4,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 13.9,
+      "date": "2006-04-28",
+      "title": "Passing The Buck"
+    },
+    "Tanker_Opinion_20060804.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.1,
+      "date": "2006-08-04",
+      "title": "What Lazy Days of Summer?"
+    },
+    "Tanker_Opinion_20060811.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 9.7,
+      "date": "2006-08-11",
+      "title": "Pipeline Perils"
+    },
+    "Tanker_Opinion_20060818.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 10.0,
+      "date": "2006-08-18",
+      "title": "Turning on the Taps"
+    },
+    "Tanker_Opinion_20060825.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 13.8,
+      "date": "2006-08-25",
+      "title": "Balancing Act"
+    },
+    "Tanker_Opinion_20060901.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.3,
+      "date": "2006-09-01",
+      "title": "Bottom of the Barrel"
+    },
+    "Tanker_Opinion_20060908.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.0,
+      "date": "2006-09-08",
+      "title": "OPEC Quotas: Staying Steady"
+    },
+    "Tanker_Opinion_20060915.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.8,
+      "date": "2006-09-15",
+      "title": "Untamed Tiger"
+    },
+    "Tanker_Opinion_20060922.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.6,
+      "date": "2006-09-22",
+      "title": "Panamax Plummet"
+    },
+    "Tanker_Opinion_20060929.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 13.9,
+      "date": "2006-09-29",
+      "title": "Driven to Diesel?"
+    },
+    "Tanker_Opinion_20061006.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.3,
+      "date": "2006-10-06",
+      "title": "Time to Term"
+    },
+    "Tanker_Opinion_20061117.pdf": {
+      "pages": 3,
+      "tables": 2,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.6,
+      "date": "2006-11-17",
+      "title": "Sixty Degree Weather"
+    },
+    "Tanker_Opinion_20061201.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.3,
+      "date": "2006-12-01",
+      "title": "A Non-November"
+    },
+    "Tanker_Opinion_20061208.pdf": {
+      "pages": 3,
+      "tables": 1,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.1,
+      "date": "2006-12-08",
+      "title": "Sealing The Deal"
+    },
+    "Tanker_Opinion_20061222.pdf": {
+      "pages": 3,
+      "tables": 3,
+      "charterers": 0,
+      "fixtures": 0,
+      "secs": 14.2,
+      "date": "2006-12-22",
+      "title": "Flat Rates Keep Climbing"
+    }
+  },
+  "failed": {
+    "Tanker_Opinion_20070209.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20070330.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20070413.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20070420.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20070504.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20070608.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20070629.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20070803.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20070817.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20070921.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20071005.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20071015.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20071019.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20071102.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20071116.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20071207.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20071214.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20071221.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20071228.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080104.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080314.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080321.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080328.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080404.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080411.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080418.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080425.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080502.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080509.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080516.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080523.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080620.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080711.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080801.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080815.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080822.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080829.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080905.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080912.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080919.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20080926.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20081017.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20081024.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20081031.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20081107.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20081114.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20081121.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20081126.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20081212.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20081219.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20090220.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20090313.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20090320.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20090327.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20090403.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20090410.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20090417.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20090501.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20090522.pdf": "Empty or truncated output (0 chars)",
+    "Tanker_Opinion_20090529.pdf": "Empty or truncated output (0 chars)"
+  },
+  "pages_parsed": 476,
+  "total_tables": 473
+}
