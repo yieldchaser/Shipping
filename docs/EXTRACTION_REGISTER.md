@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (630,662 Total Rows across 175 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (630,622 Total Rows across 175 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -138,7 +138,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [hellenic_smm_market_drivers_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_smm_market_drivers_series.csv) |  | 14 | Verified |
 | [hellenic_vv_benchmark_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_benchmark_sales_series.csv) |  | 124 | Verified |
 | [hellenic_vv_matrix_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_matrix_series.csv) |  | 12,350 | Verified |
-| [hellenic_vv_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_sales_series.csv) |  | 2,062 | Verified |
+| [hellenic_vv_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_sales_series.csv) |  | 2,022 | Verified |
 | [intermodal_baltic_indices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_baltic_indices_series.csv) | Baltic Dry indices (BDI, BCI, BPI, BSI, BHSI) | 1,255 | Verified |
 | [intermodal_baltic_tc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_baltic_tc_series.csv) | Baltic dry & tanker time charter vector curves | 20,348 | Verified |
 | [intermodal_bunkers_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_bunkers_series.csv) | Bunker prices across Rotterdam, Houston, Singapore ($/t) | 2,287 | Verified |
@@ -211,7 +211,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [fearnleys_md_master_econometric_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_master_econometric_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (175 CSVs + 1 Master Workbook)** | **630,662** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (175 CSVs + 1 Master Workbook)** | **630,622** | **100.0% Pass** |
 
 ---
 
