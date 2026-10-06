@@ -57,15 +57,15 @@ jobs:
           python scripts/build_views.py || true
           python scripts/extract_demolition_pdfs.py || true
           python scripts/extract/orchestrate_incremental_ingest.py || true
-          python scripts/extract/publishers/clean_all_brokers_formatting.py || true
           python scripts/extract/sync_digests.py || true
-          python scripts/audit/verify_broker_md_quality_gate.py || true
+          # TODO: quality gate script does not exist yet
           python scripts/verify/build_corpus_inventory.py --merge-existing || true
           python scripts/sync_extraction_register.py || true
           python scripts/audit/generate_cadence_audit.py || true
 
       - name: Commit & Push New Broker Reports
         run: |
+          python scripts/ci/protect_accepted_md.py
           for fpath in corpus/01-brokers data/extracted/charts; do
             if [ -e "$fpath" ]; then
               git add -f "$fpath" || true

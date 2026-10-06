@@ -198,7 +198,10 @@ jobs:
       - name: Commit new reports
         if: github.event.inputs.dry_run != 'true'
         shell: bash
+        env:
+          ALLOW_MD_REWRITE: ${{ github.event.inputs.overwrite == 'true' && '1' || '' }}
         run: |
+          python scripts/ci/protect_accepted_md.py
           git config user.name "report-bot"
           git config user.email "bot@shipping"
           for fpath in reports corpus/01-brokers corpus/02-hellenic corpus/03-breakwave corpus/08-baltic data/extracted/charts; do

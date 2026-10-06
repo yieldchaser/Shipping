@@ -84,6 +84,7 @@ jobs:
 
       - name: Commit & Push New Data
         run: |
+          python scripts/ci/protect_accepted_md.py
           for fpath in corpus/06-drewry corpus/04-poten data/extracted/charts reports/drewry/ais_manifest.csv; do
             if [ -e "$fpath" ]; then
               git add -f "$fpath" || true

@@ -42,6 +42,30 @@ SERIES_DIR = REPO_ROOT / "data" / "extracted" / "series"
 
 SERIES_DIR.mkdir(parents=True, exist_ok=True)
 
+
+def existing_issue_md(publisher: str, year: str, issue_date: str) -> bool:
+    """True if any .md for this publisher/issue_date exists under MD_BASE_DIR.
+
+    Searches the canonical `<publisher>/<year>/` dir and the flat `<year>/` dir,
+    case-insensitive on the filename, matching the `{publisher}_{issue_date}`
+    filename prefix (a second date later in the name never counts).
+    """
+    if not issue_date or issue_date == "unknown":
+        return False
+    prefix = f"{publisher}_{issue_date}".lower()
+    for d in (MD_BASE_DIR / publisher / year, MD_BASE_DIR / year):
+        if not d.is_dir():
+            continue
+        for f in d.iterdir():
+            n = f.name.lower()
+            if n.endswith(".md") and n.startswith(prefix):
+                return True
+    return False
+
+
+def slug_stem(stem: str) -> str:
+    return re.sub(r"[^\w\-]", "_", stem.lower())
+
 # ------------------------------------------------------------------------------
 # 1. Athenian Shipbrokers Extraction
 # ------------------------------------------------------------------------------
@@ -428,8 +452,8 @@ tables_count: 1
         elif "best-oasis" in name_l or "best oasis" in title_l:
             try:
                 md_dir = MD_BASE_DIR / "best_oasis" / year
-                md_file = md_dir / f"best_oasis_{issue_date}_{pdf_path.stem}.md"
-                if md_file.exists() and not os.environ.get("FORCE_EXTRACT"):
+                md_file = md_dir / f"best_oasis_{issue_date}_{slug_stem(pdf_path.stem)}.md"
+                if (md_file.exists() or existing_issue_md("best_oasis", year, issue_date)) and not os.environ.get("FORCE_EXTRACT"):
                     continue
                 week, p_recs, d_recs, narr = extract_best_oasis(pdf_path, issue_date)
                 best_oasis_series.extend(p_recs)
@@ -497,8 +521,8 @@ tables_count: 2
         elif "gms" in name_l or "gms" in title_l:
             try:
                 md_dir = MD_BASE_DIR / "gms" / year
-                md_file = md_dir / f"gms_{issue_date}_{pdf_path.stem}.md"
-                if md_file.exists() and not os.environ.get("FORCE_EXTRACT"):
+                md_file = md_dir / f"gms_{issue_date}_{slug_stem(pdf_path.stem)}.md"
+                if (md_file.exists() or existing_issue_md("gms", year, issue_date)) and not os.environ.get("FORCE_EXTRACT"):
                     continue
                 week, r_recs, p_recs, narr = extract_gms(pdf_path, issue_date)
                 gms_series.extend(r_recs)

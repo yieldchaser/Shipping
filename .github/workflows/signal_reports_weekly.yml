@@ -55,6 +55,7 @@ jobs:
 
       - name: Commit & Push New Signal Intelligence
         run: |
+          python scripts/ci/protect_accepted_md.py
           for fpath in corpus/07-signal; do
             if [ -e "$fpath" ]; then
               git add -f "$fpath" || true

@@ -64,7 +64,10 @@ jobs:
           python scripts/audit/generate_cadence_audit.py || true
 
       - name: Commit and Push Offshore Updates
+        env:
+          ALLOW_MD_REWRITE: ${{ github.event.inputs.force_all == 'true' && '1' || '' }}
         run: |
+          python scripts/ci/protect_accepted_md.py
           for fpath in corpus/05-seabrokers data/extracted/charts reports/seabrokers_catalog.json; do
             if [ -e "$fpath" ]; then
               git add -f "$fpath" || true
