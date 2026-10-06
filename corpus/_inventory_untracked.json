@@ -44,11 +44,6 @@
       "path": "corpus/archive",
       "untracked_files": 724,
       "untracked_bytes": 726359817
-    },
-    {
-      "path": "corpus/books",
-      "untracked_files": 1,
-      "untracked_bytes": 3613971
     }
   ],
   "entries": [
@@ -64596,11 +64591,6 @@
       "path": "corpus/archive/other/2023/other_2023_Weekly-Report-09.10.2023.pdf",
       "bytes": 1312884,
       "sha256": "f9c73c51d31b3d8e058ed6c4b2267bb51aa25437244575d0522c0cfa85466dc1"
-    },
-    {
-      "path": "corpus/books/worlds_key_industry_harlaftis_tenold_valdaliso.pdf",
-      "bytes": 3613971,
-      "sha256": "f48845dc8bb59662d6465b80c1db62393f8358c8552333bf83a620f149b618ef"
     }
   ]
 }
