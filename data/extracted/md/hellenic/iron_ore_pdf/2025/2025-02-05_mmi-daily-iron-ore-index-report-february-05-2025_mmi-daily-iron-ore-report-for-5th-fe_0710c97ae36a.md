@@ -55,7 +55,7 @@ pages: 6
 # Benchmark Price Indices & Domestic Concentrates
 
 ## Desk Commentary
-Today,ÊDCEÊironÊoreÊfuturesÊmovedÊdownwardsÊaŌerÊaÊhigherÊopening,ÊfluctuatingÊdownwardÊthroughoutÊ theÊday.ÊTheÊmost-tradedÊI2505ÊcontractÊfinallyÊclosedÊatÊ801Êyuan/mt,ÊdownÊ0.99%ÊforÊtheÊday.ÊOnÊtheÊfirstÊ tradingÊdayÊaŌerÊtheÊholiday,ÊtradersÊactivelyÊofferedÊgoods.ÊSteelÊmillsÊmadeÊnumerousÊinquiriesÊbutÊ remainedÊcautiousÊinÊtheirÊpurchases.ÊMarketÊtransactionsÊwereÊsluggishÊtoday.ÊInÊShandong,ÊtheÊmain- streamÊtransactionÊpricesÊofÊPBÊfinesÊwereÊ790-795Êyuan/mt,ÊbasicallyÊstableÊcomparedÊtoÊpre-holidayÊ prices;ÊinÊTangshan,ÊtheÊtransactionÊpriceÊofÊPBÊfinesÊwasÊaroundÊ815Êyuan/mt,ÊalsoÊbasicallyÊstableÊcom- paredÊtoÊpre-holidayÊprices. COPYRIGHTÊMETALSÊMARKETÊ
+Today, DCE iron ore futures moved downwards after a higher opening, fluctuating downward throughout  the day. The most-traded I2505 contract finally closed at 801 yuan/mt, down 0.99% for the day. On the first  trading day after the holiday, traders actively offered goods. Steel mills made numerous inquiries but  remained cautious in their purchases. Market transactions were sluggish today. In Shandong, the main- stream transaction prices of PB fines were 790-795 yuan/mt, basically stable compared to pre-holiday  prices; in Tangshan, the transaction price of PB fines was around 815 yuan/mt, also basically stable com- pared to pre-holiday prices. COPYRIGHT METALS MARKET 
 
 ## MMi Detailed Iron Ore Benchmark Assessments
 | Index Name | Delivery Point / Market | Grade Profile | Currency / Unit | Assessment | Change | Change % | MTD Avg | YTD Avg | 52w Low | 52w High |
