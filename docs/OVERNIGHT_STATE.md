@@ -1,3 +1,18 @@
+**THIS RUN (2026-10-07 11:4x, source-by-source, 30m job) - CLOSED THE ONE ESCALATED ACTION: committed the parked hellenic MMi glyph-fix DATA (260 files) that two prior jobs declined and the hourly supervisor flagged "ACTION REQUIRED BY NEXT COMMITTING JOB". No new source to extract (corpus still complete).**
+
+Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). At start: no extraction of ours running; the python.exe processes are Hermes gateways + the hourly supervisor (it wrote its 11:36 run JSON). HEAD was d5bf6b747. Register gate GREEN at start: 180 CSVs / 641,130 rows, 0 mismatches.
+
+- **INPUT:** `data/extracted/supervisor_run_20261007_1136.json` PARKED_UNCOMMITTED - the hellenic iron-ore glyph fix regenerated 258 md + 2 series CSVs at 07:54 by the 07:38 run, KILLED by machine sleep ~08:00 BEFORE committing. Code side already committed (648025a14); data side (260 files) uncommitted. The 11:08 source-by-source run and the 11:11 deep-review both declined it (own-work-only / collision fear); the supervisor escalated it to the next committing job.
+- **LIVENESS CHECK:** no writer on those files since 07:54 (5h+). Only other dirty file = `logs/fleet_sync.log` (scheduled sync, not mine - left unstaged). No code file modified. Corpus unchanged: newest content still 2026-10-06 20:03 -> nothing to extract.
+- **INDEPENDENT VERIFY BEFORE COMMIT (control; no vision tool in cron - stated):**
+  * CSV daily series: 1176 rows, **exactly ONE column differs** (`commentary`), **0 mismatches in every other column** (all numeric/value columns byte-identical). Commentary series: 1180 rows, only `commentary` differs. HEAD carried E-hat 37,121 / t-hook 8,317 / fi 1,591 / fl 663 / ff 370 / tesh 280 / O-macron 231 / t-hook-palatal 63 / ffi 91 / ffl 12 / U+3000 420; the working tree carries 0 of all of them (only the deliberately-kept U+019E, 2, remains).
+  * MD: 258 changed files, **259 changed lines** (~1 line each); **0 of all 1,193 iron_ore md still hold a fixable glyph**.
+- **COMMIT:** `53b8f4d96` (data only: 258 md + 2 series CSVs), then `6cab0e8d0` (docs: the untracked archive/other survey). Register gate RE-RUN after = still GREEN (180 CSVs / 641,130 rows, 0 mismatches - row counts unchanged).
+- **NOT DONE, ON PURPOSE:** the ism "one lever that IS ours" (`docs/ism_agreement_tail.md` section 4 - pick the cluster median instead of the edge reading on multi-report keys). The same doc measured that residual as the PUBLISHER'S OWN axis-label shift (section 3) = faithful; overriding a faithful publisher reading with a cross-report median would make the data LESS faithful. Declined.
+- **NEXT:** still nothing to EXTRACT (corpus complete; no new arrivals). Remaining open items are the user's (allied en-bloc residual - vision pass or 6-row override; hellenic bare-name `source_file`; inventory/DB rebuild). Watch that the automation does not re-stale the register.
+
+---
+
 **THIS RUN (2026-10-07 11:0x, source-by-source, 30m job) - FIXED A MEASURED DEFECT in a DELIVERED series: the gibson HTML table classifier was publishing FABRICATED values. Real correction, 19 wrong values fixed + 42 garbage rows removed. Prompts xclusiv/next-source are stale (nothing to extract).**
 
 Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). At start: no extraction of ours running (python = Hermes gateways). Closed the ledger's last open item ("the 5 gibson empty rows - confirm against the HTML"). The empty rows were the TIP.
