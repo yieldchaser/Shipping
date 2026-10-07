@@ -4,13 +4,13 @@ source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 41
 date_range: "2026-10-07 to 2026-10-07"
-comments_count: 7
+comments_count: 8
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-07 14:39:58"
+generated_at: "2026-10-07 22:08:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 41, 2026
-*Coverage Period: 2026-10-07 to 2026-10-07 | Total Notes: 7*
+*Coverage Period: 2026-10-07 to 2026-10-07 | Total Notes: 8*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 41 (2026).
@@ -60,7 +60,12 @@ North Sea The Aframax tonnage list in the North Sea is not looking too tight on 
 ---
 
 ## 3. Gas & LNG Markets
-*No dedicated gas/LNG commentary published this week.*
+### LNG Market Report
+**Date:** 2026-10-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+We entered Week 41 and Q4 with subdued spot activity across both basins, as the few requirements being worked last week were concluded by Friday close. The brief period of apparent supply/demand rebalance and subsequent bullish sentiment seen in late September proved to be a flash in the pan, and market conditions have regressed to reflect the weak fundamentals which have characterised Q3, despite robust LNG prices.   As the week has progressed, the West has seen the release of several firm spot, multimonth and longer-term tenders for laycans ranging from the prompt into Q1 2027. On the prompt, the availability list still significantly outweighs cargoes being worked, thereby justifying sharp bids from charterers and soft fixing levels. With no tangible signs of the anticipated winter peak in the market yet, pricing winter for multimonth requirements remains a tough task for owners. Conversely, recent fixtures for multimonth/1-year through 2027 have provided the market a solid benchmark for next year.   Firm requirements in the Pacific began the week on the slim side, but with several cargoes emerging for competing laycans across the tonnage classes, we may begin to see some tightness as the fixing window shifts into November. This is exacerbated by a growing proportion of available ships at risk of requiring cooldown before they can continue trading beyond October. A combination of a lack of liquidity and owners pricing in unique requirement details is maintaining a slight premium in the Pacific compared to the Atlantic.   The continued volatility in the Middle East has been brought back to the fore as a high concentration of attacks on merchant vessels has occurred over the past week. While oil tankers represent the majority of Hormuz transits and have bore the brunt of recent hostilities, an increasing number of LNGCs have resumed trading in the region, and news of an attack on an LNGC transiting into the Gulf was reported on Tuesday. While LNG activity in the region continues to grow and project an air of normality, the week’s events are a stark reminder that the risk is far from over.
+
+---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
 ### Chartering Weekly Comment
