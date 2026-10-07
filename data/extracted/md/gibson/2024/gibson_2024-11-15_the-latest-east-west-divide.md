@@ -9,7 +9,7 @@ category: "tankers"
 format: "html"
 source_url: "https://www.gibsons.co.uk/report/the-latest-east-west-divide/"
 source_file: "corpus/01-brokers/gibson/html/2024/2024-11-15_the-latest-east-west-divide.html"
-tables_count: 19
+tables_count: 18
 charts_count: 4
 ---
 
@@ -123,7 +123,6 @@ Dirty Product Tanker Spot Rates (WS)
 | TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -21.0 | 196.0 | 217.0 | 270.0 | 215.0 |
 | TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | 1.0 | 106.0 | 105.0 | 125.0 | 124.0 |
 | TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | - | 158.0 | 158.0 | 181.0 | 182.0 |
-|  | Dirty Tanker Spot |  |  | - | - | - | - | - |
 
 ### Clean & Dirty Tanker Spot Market Developments - $/day TCE
 

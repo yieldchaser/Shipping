@@ -9,7 +9,7 @@ category: "tankers"
 format: "html"
 source_url: "https://www.gibsons.co.uk/report/all-dried-out/"
 source_file: "corpus/01-brokers/gibson/html/2023/2023-09-29_all-dried-out.html"
-tables_count: 9
+tables_count: 0
 charts_count: 0
 ---
 
@@ -35,17 +35,3 @@ Recycling Prices (US$/LDT)
 Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
 
 ## Rates & Bunkers
-
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
-
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| Vessel Typ | Dirty Tanker Spot |  | Vessel Type | - | - | - | - | - |
-| TD3C | Dirty Tanker Spot | VLCC | VLCC | 127.5 | 98.5 | 74.0 | 49.3 | - |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax | 85.0 | 73.0 | 58.0 | 35.1 | - |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax | 69.0 | 63.5 | 51.0 | 27.4 | - |
-| MR | Dirty Tanker Spot | MR | MR | 47.0 | 40.5 | 32.0 | 19.5 | - |
-| Capesize | Dirty Tanker Spot |  | Capesize | - | - | 29.5 | 24.5 | - |
-| Kamsarmax | Dirty Tanker Spot |  | Kamsarmax | - | 32.0 | 23.0 | 16.8 | - |
-| Ultramax / | Dirty Tanker Spot |  | Ultramax / Supramax | - | 28.5 | 19.0 | 14.4 | - |
-| Handysize | Dirty Tanker Spot |  | Handysize | - | 24.25 | 16.5 | 11.8 | - |

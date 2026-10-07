@@ -9,7 +9,7 @@ category: "tankers"
 format: "html"
 source_url: "https://www.gibsons.co.uk/report/gibson-weekly-projects-report-20-march/"
 source_file: "corpus/01-brokers/gibson/html/2026/2026-03-20_gibson-weekly-projects-report-20-march.html"
-tables_count: 10
+tables_count: 0
 charts_count: 3
 ---
 
@@ -35,18 +35,3 @@ Heidmar has managed to sell the Suezmax LIBERA (158,319 dwt / built 2009 Samsung
 Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
 
 ## Rates & Bunkers
-
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
-
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-|  | Dirty Tanker Spot |  |  | - | - | - | - | - |
-| TD3C | Dirty Tanker Spot | VLCC | VLCC | 80000.0 | 60000.0 | 50000.0 | 100000.0 | 70000.0 |
-| Suez | Dirty Tanker Spot |  | Suez | 65000.0 | 47500.0 | 42500.0 | 75000.0 | 60000.0 |
-| Afra (West | Dirty Tanker Spot |  | Afra (West) | 52000.0 | 42000.0 | 36000.0 | 62000.0 | 50000.0 |
-| Afra (East | Dirty Tanker Spot |  | Afra (East) | 50000.0 | 42000.0 | 36000.0 | 58000.0 | 50000.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 | 40000.0 | 42000.0 | 36000.0 | 45000.0 | 50000.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 | 37000.0 | 30000.0 | 24000.0 | 40000.0 | 31000.0 |
-| TC2 | Clean Tanker Spot | MR | MR (West) | 35000.0 | 25000.0 | 19500.0 | 37000.0 | 27000.0 |
-| TC7 | Clean Tanker Spot | MR | MR (East) | 28000.0 | 25000.0 | 19500.0 | 31000.0 | 27000.0 |
-| Handy | Dirty Tanker Spot |  | Handy | 24000.0 | 19500.0 | 17500.0 | 26000.0 | 21500.0 |

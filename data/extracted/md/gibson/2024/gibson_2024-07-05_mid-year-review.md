@@ -9,7 +9,7 @@ category: "tankers"
 format: "html"
 source_url: "https://www.gibsons.co.uk/report/mid-year-review/"
 source_file: "corpus/01-brokers/gibson/html/2024/2024-07-05_mid-year-review.html"
-tables_count: 27
+tables_count: 18
 charts_count: 3
 ---
 
@@ -124,12 +124,6 @@ Dirty Product Tanker Spot Rates (WS)
 
 | Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
 |---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC | - | - | - | 48.0 | 92.5 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax | - | - | - | 95.0 | 150.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax | - | - | - | 122.5 | 190.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 | - | - | - | 145.0 | 360.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 | - | - | - | 180.0 | 400.0 |
-| MR | Dirty Tanker Spot | MR | MR | - | - | - | 200.0 | 350.0 |
 | TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | -1.0 | 48.0 | 50.0 | 54.0 | 52.0 |
 | TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -10.0 | 100.0 | 110.0 | 110.0 | 91.0 |
 | TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -1.0 | 171.0 | 173.0 | 200.0 | 168.0 |
@@ -142,7 +136,6 @@ Dirty Product Tanker Spot Rates (WS)
 
 | Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
 |---|---|---|---|---|---|---|---|---|
-| Rates (Eco | Dirty Tanker Spot |  | Rates (Eco, Non-Scrubber TCEs) | - | - | - | - | - |
 | TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | -2000.0 | 22750.0 | 24750.0 | 32500.0 | 21750.0 |
 | TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -6500.0 | 37000.0 | 43500.0 | 45250.0 | 27000.0 |
 | TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -750.0 | 41000.0 | 41750.0 | 53500.0 | 35250.0 |
@@ -155,8 +148,6 @@ Dirty Product Tanker Spot Rates (WS)
 
 | Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
 |---|---|---|---|---|---|
-| Rotterdam | VLSFO | 74.98 | 83.0 | - | - |
-| Singapore | VLSFO | - | - | - | - |
 | Rotterdam | VLSFO | 15.0 | 587.0 | 572.0 | 521.0 |
 | Fujairah | VLSFO | 15.0 | 635.0 | 620.0 | 570.0 |
 | Singapore | VLSFO | 11.0 | 634.0 | 623.0 | 571.0 |

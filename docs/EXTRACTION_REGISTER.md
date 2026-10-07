@@ -105,7 +105,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [fearnleys_md_vessel_tightness_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_vessel_tightness_series.csv) | Global Vessel Tightness, Utilization & Port Congestion | 112 | Verified |
 | [fearnleys_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_rates_series.csv) | Tanker spot, dry bulk, gas, & 1Y T/C rates ($/day, WS) | 17,076 | Verified |
 | [gibson_bunker_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_bunker_prices_series.csv) |  | 1,015 | Verified |
-| [gibson_tanker_spot_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_tanker_spot_series.csv) |  | 3,602 | Verified |
+| [gibson_tanker_spot_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_tanker_spot_series.csv) |  | 3,555 | Verified |
 | [gms_demolition_rankings_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_demolition_rankings_series.csv) |  | 1,096 | Verified |
 | [gms_demolition_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_demolition_sales_series.csv) |  | 59 | Verified |
 | [gms_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_market_commentary_series.csv) |  | 1,262 | Verified |

@@ -9,7 +9,7 @@ category: "tankers"
 format: "html"
 source_url: "https://www.gibsons.co.uk/report/gibson-weekly-projects-report-7/"
 source_file: "corpus/01-brokers/gibson/html/2023/2023-11-24_gibson-weekly-projects-report-7.html"
-tables_count: 10
+tables_count: 0
 charts_count: 3
 ---
 
@@ -35,18 +35,3 @@ In the background there is a growing tally of owners declaring purchase options 
 Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
 
 ## Rates & Bunkers
-
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
-
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-|  | Dirty Tanker Spot |  |  | - | - | - | - | - |
-| TD3C | Dirty Tanker Spot | VLCC | VLCC | 45000.0 | 40000.0 | 38500.0 | 51000.0 | 46000.0 |
-| Suez | Dirty Tanker Spot |  | Suez | 45000.0 | 37500.0 | 35000.0 | 50000.0 | 42000.0 |
-| Afra (West | Dirty Tanker Spot |  | Afra (West) | 45000.0 | 38000.0 | 35000.0 | 50000.0 | 43000.0 |
-| Afra (East | Dirty Tanker Spot |  | Afra (East) | 45000.0 | 38000.0 | 35000.0 | 49000.0 | 43000.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 | 39000.0 | 36000.0 | 35000.0 | 43000.0 | 42000.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 | 33000.0 | 30000.0 | 26000.0 | 37000.0 | 34000.0 |
-| TC2 | Clean Tanker Spot | MR | MR (West) | 29000.0 | 24000.0 | 21000.0 | 32000.0 | 28000.0 |
-| TC7 | Clean Tanker Spot | MR | MR (East) | 26000.0 | 24000.0 | 21000.0 | 28500.0 | 28000.0 |
-| Handy | Dirty Tanker Spot |  | Handy | 29000.0 | 22500.0 | 20000.0 | 31000.0 | 25500.0 |

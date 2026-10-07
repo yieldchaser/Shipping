@@ -9,7 +9,7 @@ category: "tankers"
 format: "html"
 source_url: "https://www.gibsons.co.uk/report/the-year-in-review/"
 source_file: "corpus/01-brokers/gibson/html/2024/2024-12-20_the-year-in-review.html"
-tables_count: 35
+tables_count: 18
 charts_count: 3
 ---
 
@@ -120,14 +120,6 @@ Dirty Product Tanker Spot Rates (WS)
 
 | Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
 |---|---|---|---|---|---|---|---|---|
-|  | Dirty Tanker Spot |  |  | - | - | - | - | - |
-|  | Dirty Tanker Spot |  |  | - | - | - | - | - |
-| TD3C | Dirty Tanker Spot | VLCC | VLCC | - | 59.0 | - | - | 42.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax | - | 103.0 | - | - | 88.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax | - | 156.0 | - | - | 125.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 | - | 159.0 | - | - | 114.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 | - | 164.0 | - | - | 111.0 |
-| MR | Dirty Tanker Spot | MR | MR | - | 190.0 | - | - | 132.0 |
 | TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | 1.0 | 40.0 | 40.0 | 54.0 | 50.0 |
 | TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -6.0 | 82.0 | 88.0 | 76.0 | 89.0 |
 | TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -4.0 | 172.0 | 176.0 | 111.0 | 160.0 |
@@ -140,7 +132,6 @@ Dirty Product Tanker Spot Rates (WS)
 
 | Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
 |---|---|---|---|---|---|---|---|---|
-| Rates (TCE | Dirty Tanker Spot |  | Rates (TCEs at 'market speed') | - | - | - | - | - |
 | TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | 250.0 | 17000.0 | 16750.0 | 33000.0 | 23500.0 |
 | TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -4250.0 | 28750.0 | 33000.0 | 24500.0 | 28750.0 |
 | TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -1750.0 | 43250.0 | 45000.0 | 20500.0 | 35000.0 |
@@ -153,14 +144,6 @@ Dirty Product Tanker Spot Rates (WS)
 
 | Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
 |---|---|---|---|---|---|
-| Rotterdam | VLSFO | - | 102.3 | - | - |
-| Rotterdam | VLSFO | - | 50.65 | - | - |
-| Rotterdam | VLSFO | - | 51.6 | - | - |
-| Rotterdam | VLSFO | - | 101.96 | - | - |
-| Rotterdam | VLSFO | - | - | - | - |
-| Rotterdam | VLSFO | - | 77.04 | - | - |
-| Rotterdam | VLSFO | - | - | - | - |
-| Rotterdam | VLSFO | - | 549.0 | - | - |
 | Rotterdam | VLSFO | 11.0 | 516.0 | 505.0 | 519.0 |
 | Fujairah | VLSFO | 15.0 | 542.0 | 527.0 | 561.0 |
 | Singapore | VLSFO | 14.0 | 549.0 | 535.0 | 575.0 |

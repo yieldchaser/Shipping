@@ -9,7 +9,7 @@ category: "tankers"
 format: "html"
 source_url: "https://www.gibsons.co.uk/report/berlin-or-bust/"
 source_file: "corpus/01-brokers/gibson/html/2024/2024-07-12_berlin-or-bust.html"
-tables_count: 8
+tables_count: 0
 charts_count: 0
 ---
 
@@ -31,16 +31,3 @@ Newbuild and Second Hand Benchmark Values ($ million) vs Historical Average Valu
 Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
 
 ## Rates & Bunkers
-
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
-
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC | 130.0 | 115.0 | 85.0 | 52.0 | - |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax | 90.0 | 83.0 | 68.0 | 38.0 | - |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax | 75.0 | 73.0 | 60.0 | 30.0 | - |
-| MR | Dirty Tanker Spot | MR | MR | 52.0 | 47.0 | 39.0 | 21.0 | - |
-| Capesize | Dirty Tanker Spot |  | Capesize | - | 64.0 | 45.0 | 25.0 | - |
-| Kamsarmax | Dirty Tanker Spot |  | Kamsarmax | - | 39.0 | 30.0 | 17.0 | - |
-| Ultramax / | Dirty Tanker Spot |  | Ultramax / Supramax | - | 37.0 | 29.0 | 15.0 | - |
-| Handysize | Dirty Tanker Spot |  | Handysize | - | 29.0 | 21.0 | 12.0 | - |

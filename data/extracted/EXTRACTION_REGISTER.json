@@ -2108,7 +2108,7 @@
   {
    "file": "gibson_tanker_spot_series.csv",
    "target_metric": "Gibson Tanker Spot",
-   "rows": 3602,
+   "rows": 3555,
    "columns": [
     "issue_date",
     "report_week",
@@ -4141,9 +4141,9 @@
    "status": "Verified"
   }
  ],
- "total_master_stacked_rows": 641177,
+ "total_master_stacked_rows": 641130,
  "total_master_series_csvs": 180,
- "total_stacked_rows": 641177,
+ "total_stacked_rows": 641130,
  "total_series_csvs": 180,
  "total_master_workbooks": 1,
  "total_series_count": 180,
@@ -4219,7 +4219,7 @@
   "fearnleys_md_vessel_tightness_series.csv": 112,
   "fearnleys_rates_series.csv": 17076,
   "gibson_bunker_prices_series.csv": 1015,
-  "gibson_tanker_spot_series.csv": 3602,
+  "gibson_tanker_spot_series.csv": 3555,
   "gms_demolition_rankings_series.csv": 1096,
   "gms_demolition_sales_series.csv": 59,
   "gms_market_commentary_series.csv": 1262,
