@@ -11,6 +11,7 @@ and updates Section 1 publisher deliverables and data/extracted/EXTRACTION_REGIS
 
 import os
 import re
+import sys
 import csv
 import json
 import time
@@ -68,7 +69,7 @@ def read_header(file_path: Path):
         except StopIteration:
             return []
 
-def sync_register():
+def sync_register(dry_run: bool = False):
     print("=" * 70)
     print("EXTRACTION REGISTER SYNCHRONIZATION")
     print("=" * 70)
@@ -191,8 +192,12 @@ def sync_register():
         rf"\g<1>{sa_total:,}\g<3>", updated_md)
 
     # Write updated EXTRACTION_REGISTER.md
-    REGISTER_MD.write_text(updated_md, encoding="utf-8")
-    print(f"Successfully synchronized {REGISTER_MD}")
+    if dry_run:
+        print(f"[dry-run] would write {REGISTER_MD} "
+              f"(grand total {grand_total_rows:,} across {total_csv_count} CSVs + {len(xlsx_files)} workbooks)")
+    else:
+        REGISTER_MD.write_text(updated_md, encoding="utf-8")
+        print(f"Successfully synchronized {REGISTER_MD}")
 
     # 6. Synchronize EXTRACTION_REGISTER.json
     if REGISTER_JSON.exists():
@@ -228,9 +233,12 @@ def sync_register():
             reg_data["total_master_series_csvs"] = len(csv_files)
             reg_data["total_series_csvs"] = len(csv_files)
             
-            with open(REGISTER_JSON, "w", encoding="utf-8") as jf:
-                json.dump(reg_data, jf, indent=2)
-            print(f"Successfully synchronized {REGISTER_JSON}")
+            if dry_run:
+                print(f"[dry-run] would write {REGISTER_JSON}")
+            else:
+                with open(REGISTER_JSON, "w", encoding="utf-8") as jf:
+                    json.dump(reg_data, jf, indent=2)
+                print(f"Successfully synchronized {REGISTER_JSON}")
         except Exception as e:
             print(f"Notice updating JSON register: {e}")
 
@@ -238,5 +246,30 @@ def sync_register():
     print(f"SYNCHRONIZATION COMPLETE: {total_csv_count} CSV series, {grand_total_rows:,} total rows.")
     print("=" * 70)
 
+def _usage() -> str:
+    return (
+        'usage: python scripts/sync_extraction_register.py [--dry-run]\n'
+        '\n'
+        'Recomputes the series inventory from data/extracted/series/*.csv and\n'
+        'rewrites docs/EXTRACTION_REGISTER.md (Section 2) and\n'
+        'data/extracted/EXTRACTION_REGISTER.json.\n'
+        '\n'
+        '  --dry-run   compute and print the totals, write nothing\n'
+        '  -h, --help  show this message\n'
+        '\n'
+        'NOTE: this command WRITES the register; there is no such thing as a\n'
+        'harmless invocation. Use --dry-run to inspect first.\n'
+    )
+
+
 if __name__ == "__main__":
-    sync_register()
+    _args = set(sys.argv[1:])
+    if _args & {"-h", "--help"}:
+        print(_usage())
+        raise SystemExit(0)
+    _unknown = _args - {"--dry-run"}
+    if _unknown:
+        print("unknown argument(s): " + str(sorted(_unknown)))
+        print(_usage())
+        raise SystemExit(2)
+    sync_register(dry_run="--dry-run" in _args)
