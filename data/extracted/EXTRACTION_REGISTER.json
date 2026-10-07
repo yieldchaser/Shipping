@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 07:14:38Z",
+  "updated_at": "2026-10-07 13:40:25Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1270,7 +1270,7 @@
     {
       "file": "carriers_bda_series.csv",
       "target_metric": "Subcontinent scrap price assessments ($/LDT)",
-      "rows": 375,
+      "rows": 366,
       "columns": [
         "issue_date",
         "report_week",
@@ -1286,7 +1286,7 @@
     {
       "file": "carriers_bspa_series.csv",
       "target_metric": "Secondhand 5Y price assessments () with visual sentiment",
-      "rows": 749,
+      "rows": 731,
       "columns": [
         "issue_date",
         "report_week",
@@ -1302,7 +1302,7 @@
     {
       "file": "carriers_demolition_series.csv",
       "target_metric": "Demolition reported sales fixtures ($/LDT)",
-      "rows": 178,
+      "rows": 174,
       "columns": [
         "issue_date",
         "report_week",
@@ -1323,7 +1323,7 @@
     {
       "file": "carriers_dry_tc_period_series.csv",
       "target_metric": "Dry bulk time charter period indicative ideas ($/day)",
-      "rows": 3216,
+      "rows": 3144,
       "columns": [
         "issue_date",
         "report_week",
@@ -1340,7 +1340,7 @@
     {
       "file": "carriers_dry_weighted_routes_series.csv",
       "target_metric": "Dry BC Baltic TC weighted average routes ($/day)",
-      "rows": 670,
+      "rows": 655,
       "columns": [
         "issue_date",
         "report_week",
@@ -1355,7 +1355,7 @@
     {
       "file": "carriers_indices_series.csv",
       "target_metric": "DSPA, BSPA, TSPA, DSRA, TSRA, BSRA, BNBI, DNBI, TNBI & Baltic Dry indices",
-      "rows": 1876,
+      "rows": 1834,
       "columns": [
         "issue_date",
         "report_week",
@@ -1372,7 +1372,7 @@
     {
       "file": "carriers_newbuilding_series.csv",
       "target_metric": "Newbuilding reported contracting orders",
-      "rows": 312,
+      "rows": 306,
       "columns": [
         "issue_date",
         "report_week",
@@ -1393,7 +1393,7 @@
     {
       "file": "carriers_sales_series.csv",
       "target_metric": "Secondhand sales transactions () with sister-ship en bloc",
-      "rows": 3130,
+      "rows": 3061,
       "columns": [
         "issue_date",
         "report_week",
@@ -1415,7 +1415,7 @@
     {
       "file": "carriers_tanker_tce_series.csv",
       "target_metric": "Baltic dirty/clean tanker indices & VLCC/Suez/Afra TCE ($/day)",
-      "rows": 804,
+      "rows": 786,
       "columns": [
         "issue_date",
         "report_week",
@@ -4141,13 +4141,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 641130,
+  "total_master_stacked_rows": 640877,
   "total_master_series_csvs": 180,
-  "total_stacked_rows": 641130,
+  "total_stacked_rows": 640877,
   "total_series_csvs": 180,
   "total_master_workbooks": 1,
   "total_series_count": 180,
-  "total_rows_extracted": 641435,
+  "total_rows_extracted": 641182,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4181,15 +4181,15 @@
     "best_oasis_market_commentary_series.csv": 1039,
     "breakwave_fundamentals_series.csv": 2745,
     "breakwave_insights_metadata.csv": 3213,
-    "carriers_bda_series.csv": 375,
-    "carriers_bspa_series.csv": 749,
-    "carriers_demolition_series.csv": 178,
-    "carriers_dry_tc_period_series.csv": 3216,
-    "carriers_dry_weighted_routes_series.csv": 670,
-    "carriers_indices_series.csv": 1876,
-    "carriers_newbuilding_series.csv": 312,
-    "carriers_sales_series.csv": 3130,
-    "carriers_tanker_tce_series.csv": 804,
+    "carriers_bda_series.csv": 366,
+    "carriers_bspa_series.csv": 731,
+    "carriers_demolition_series.csv": 174,
+    "carriers_dry_tc_period_series.csv": 3144,
+    "carriers_dry_weighted_routes_series.csv": 655,
+    "carriers_indices_series.csv": 1834,
+    "carriers_newbuilding_series.csv": 306,
+    "carriers_sales_series.csv": 3061,
+    "carriers_tanker_tce_series.csv": 786,
     "clarksons_demolition_sales_series.csv": 70,
     "clarksons_demolition_series.csv": 120,
     "clarksons_desk_talk_series.csv": 352,
