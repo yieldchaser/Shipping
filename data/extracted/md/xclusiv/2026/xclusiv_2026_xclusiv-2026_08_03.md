@@ -193,9 +193,9 @@ The tanker S&P activity was focused on the VLCC sector this week, with 7 sales r
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | SEAPASSION | VLCC | 299,271 | 2017 | S. KOREA | HHI | ADNOC | $125.0M | SCRUBBER FITTED |
 | Tankers | DONOUSSA | VLCC | 299,999 | 2016 | S. KOREA | DAEWOO | COSCO | $123.0M | - |
-| Tankers | DELTA AMAZON | VLCC | 319,896 | 2015 | S. KOREA | JINHAI HEAVY | ADNOC | $2015.0M | - |
+| Tankers | DELTA AMAZON | VLCC | 319,896 | 2015 | S. KOREA | JINHAI HEAVY | ADNOC | $120.0M | - |
 | Tankers | DELTA APOLLONIA | VLCC | 319,725 | 2015 | S. KOREA | JINHAI HEAVY | ADNOC | each | - |
-| Tankers | DELTA ANGELICA | VLCC | 319,911 | 2012 | S. KOREA | HHI | ADNOC | $2012.0M | - |
+| Tankers | DELTA ANGELICA | VLCC | 319,911 | 2012 | S. KOREA | HHI | ADNOC | $116.0M | - |
 | Tankers | DELTA GLORY | VLCC | 319,819 | 2012 | S. KOREA | HHI | ADNOC | each | - |
 | Tankers | GRIT | VLCC | 298,555 | 2003 | S. KOREA | DAEWOO | S. KOREA | $50.0M | - |
 | Tankers | ANCHOR 18 | Small Tanker | 19,971 | 2009 | CHINA | QINGSHAN | CHINESE | $16.4M | ICE CLASS 1A, StSt |

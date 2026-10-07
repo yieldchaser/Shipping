@@ -323,7 +323,7 @@
       "YARD": "JINHAI HEAVY",
       "BUYERS": "ADNOC",
       "PRICE": "2015 Units: 120",
-      "PRICE_USD_MILL": 2015.0,
+      "PRICE_USD_MILL": 120.0,
       "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_08_03.pdf"
     },
@@ -357,7 +357,7 @@
       "YARD": "HHI",
       "BUYERS": "ADNOC",
       "PRICE": "2012 Units: 116",
-      "PRICE_USD_MILL": 2012.0,
+      "PRICE_USD_MILL": 116.0,
       "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_08_03.pdf"
     },

@@ -475,7 +475,19 @@ def extract_sales_tables(
                             elif dwt_num >= 40000: v_type = "MR2"
                             else: v_type = "Small Tanker"
 
-                    parsed_p = parse_price_mill(price)
+                    # The publisher's price cell repeats the vessel YEAR as its first
+                    # token on rare pages (measured 2026-08-03 W31: DELTA AMAZON's
+                    # PRICE cell reads '2015 Units: 120' while 2015 is ALREADY the
+                    # YEAR column; the narrative on the same page says 'USD 120 mills
+                    # each'). parse_price_mill took the first number and published the
+                    # year as the price (2015.0 / 2012.0). Drop a leading token equal
+                    # to the row's own YEAR before parsing, so the year can never
+                    # become the price. Anchored on the row's OWN year field, not on a
+                    # position or a fixed digit count.
+                    _price_for_parse = price
+                    if year and _price_for_parse.startswith(year) and len(_price_for_parse) > len(year):
+                        _price_for_parse = _price_for_parse[len(year):].strip()
+                    parsed_p = parse_price_mill(_price_for_parse)
                     item = {
                         "issue_date": issue_date,
                         "report_week": report_week,
