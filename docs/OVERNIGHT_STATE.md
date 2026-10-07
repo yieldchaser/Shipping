@@ -1,3 +1,12 @@
+**THIS RUN (2026-10-07 16:4x, source-by-source, 30m job) - NOTHING TO EXTRACT (independently re-measured). Liveness proof + register gate green. No data changed.**
+
+Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). At start: NO extraction of OURS running (python.exe set = Hermes gateways + fleet-sync; no `run_*` process). Tree clean except `logs/fleet_sync.log` (scheduled sync, left unstaged) - 1 changed file total. Corpus UNCHANGED: `git status corpus` = 0 changes; newest corpus dir mtime still 2026-10-06 18:41 -> no new arrivals.
+
+- Register gate RE-RUN: `scripts/extract/verify_registers.py` = ALL PASSED (180 CSVs / 641,130 logical rows == JSON == MD; 0 mismatches; 0 control chars/emoji).
+- Content-based coverage RE-ENUMERATED this run (pdf vs md, recursive under year subdirs): advanced_shipping 255/255, affinity 256/**249**, agora 219/219, banchero_costa 248/249, carriers 136/137, clarksons 11/188, fearnleys 263/12000, fearnleys-md 180/183, gibson 109/265, intermodal 257/257, ism 115/115, lion 48/48, ssy 530/530, star_asia 201/**200**, xclusiv **271/271**. The two short ones (affinity -7, star_asia -1) remain the known corpus BYTE-DUPLICATES (md5), not missing work. **No extraction gap.**
+- Ledger defect list FULLY CLOSED (re-confirmed: `series_verification_ledger.md` line 460 "the last two open items ... were ALREADY CLOSED"; 4.3 intermodal_macro closed 2026-09-28/10-03).
+- NEXT: nothing to extract (corpus complete; no new arrivals). Remaining open items are the user's: (a) allied en-bloc residual; (b) hellenic bare-name `source_file`; (c) inventory/DB rebuild.
+
 **THIS RUN (2026-10-07 15:2x, source-by-source, 30m job) - NOTHING TO EXTRACT (independently re-measured this run). NEW FACT RECORDED: a PARALLEL Claude agent has a LIVE extraction running on this repo - do NOT duplicate or kill it. No data changed.**
 
 Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). At start: NO extraction of OURS running and no xclusiv run in flight. xclusiv `_run_state.json` does NOT exist (3-pass source) - completion judged by OUTPUT FILES. Tree clean except `logs/fleet_sync.log` (scheduled sync, left unstaged).
