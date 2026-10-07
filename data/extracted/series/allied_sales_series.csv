@@ -232,7 +232,7 @@ issue_date,report_week,size,name,dwt,built,shipbuilder,coating,price_raw,price_u
 2021-09-05,35,SMAX CENTENARIO,FORZA,56129,2012,"Mitsui Eng. & Co. Ltd., Chiba Works - Ichihara,",SB. 4 MAN-B&W CRANES X 30t $ rgn/xs,20.0m,20.0,,undisclosed,,allied_2021_W35_ALLIED-Weekly-Market-Report_05_09_2021-1_compressed.pdf,6
 2021-09-05,35,SMAX,CRESSIDA,55614,2006,Nantong COSCO KHI Ship Engineering Co,"4 X MAN-B&W CRANES Ltd 30,5t rgn",15.5m,15.5,,undisclosed,bss prompt dely,allied_2021_W35_ALLIED-Weekly-Market-Report_05_09_2021-1_compressed.pdf,6
 2021-09-05,35,SMAX,ANTOINE,55498,2009,"Mitsui Eng. & Co. Ltd., Chiba Works - Ichihara, Japan",SB. 4 MAN-B&W CRANES X 30t,19.2m,19.2,,undisclosed,"incl the balance of index linked TC 97% of BSI until early Oct '21 - latest Feb '22, BWTS fitted 7",allied_2021_W35_ALLIED-Weekly-Market-Report_05_09_2021-1_compressed.pdf,6
-2021-09-05,35,PMAX,MP THE GRONK,,50602005,Hanjin Heavy Industries & Construction Co,B&W Ltd,242.0m,242.0,,MSC,,allied_2021_W35_ALLIED-Weekly-Market-Report_05_09_2021-1_compressed.pdf,7
+2021-09-05,35,PMAX,MP THE GRONK,,50602005,Hanjin Heavy Industries & Construction Co,B&W Ltd,242.0m,,242.0,MSC,,allied_2021_W35_ALLIED-Weekly-Market-Report_05_09_2021-1_compressed.pdf,7
 2021-09-05,35,FEEDER,FEEDER 1,,17502021,COSCO (Guangdong) Shipyard Co Ltd,MAN-B&W -,39.0m,39.0,,undisclosed,8,allied_2021_W35_ALLIED-Weekly-Market-Report_05_09_2021-1_compressed.pdf,7
 2021-09-12,36,VLCC,KOS,305870,2001,Daewoo Shipbuilding Marine Engineering,& B&W rgn,26.0m,26.0,,undisclosed,old sale,allied_2021_W36_ALLIED-Weekly-Market-Report_12_09_2021.pdf,6
 2021-09-12,36,AFRA,MINERVA NIKE,105320,2004,"Hyundai Samho Heavy Industries Co Ltd - Samho,",B&W S.,14.0m,14.0,,undisclosed,old sale,allied_2021_W36_ALLIED-Weekly-Market-Report_12_09_2021.pdf,6
@@ -1378,7 +1378,7 @@ issue_date,report_week,size,name,dwt,built,shipbuilder,coating,price_raw,price_u
 2022-07-31,30,HANDY,MARIA L,28404,1998,"The Hakodate Co Ltd - Hakodate HK, Japan","Dock 4 X B&W CRANES 30,5t",7.3m,7.3,,Syrian,,allied_2022_W30_ALLIED-Weekly-Market-Report_31_07_2022.pdf,7
 2022-07-31,30,HANDY,GLOBAL AQUARIUS,28328,2010,Imabari Shipbuilding Co - Imabari EH,"4 X Ltd MAN-B&W CRANES 30,5t",14.8m,14.8,,Vietnamese,BWTS fitted,allied_2022_W30_ALLIED-Weekly-Market-Report_31_07_2022.pdf,7
 2022-07-31,30,HANDY,A RACER,26467,1996,Guangzhou Shipyard,4 B&W CRANES X 30t,6.8m,6.8,,Middle Eastern,BWTS fitted,allied_2022_W30_ALLIED-Weekly-Market-Report_31_07_2022.pdf,7
-2022-07-31,30,PMAX,JUDITH SCHULTE,,94032013,"Industry Co Ltd Shanghai, China",MAN-B&W -,260.0m,260.0,,undisclosed,,allied_2022_W30_ALLIED-Weekly-Market-Report_31_07_2022.pdf,7
+2022-07-31,30,PMAX,JUDITH SCHULTE,,94032013,"Industry Co Ltd Shanghai, China",MAN-B&W -,260.0m,,260.0,undisclosed,,allied_2022_W30_ALLIED-Weekly-Market-Report_31_07_2022.pdf,7
 2022-07-31,30,PMAX,CAP CAPRICORN,,38842013,"Zhejiang Shipbuilding Co - Fenghua ZJ, China",Ltd MAN-B&W,75.0m,75.0,,CMA-CGM,,allied_2022_W30_ALLIED-Weekly-Market-Report_31_07_2022.pdf,7
 2022-07-31,30,FEEDER,A KIBO,,17082008,Imabari Shipbuilding Co - Imabari EH,Ltd MAN-B&W,30.0m,30.0,,undisclosed,,allied_2022_W30_ALLIED-Weekly-Market-Report_31_07_2022.pdf,7
 2022-07-31,30,FEEDER CARIBBEAN,EXPRESS,,17062007,"Aker MTW Werft GmbH - Wismar, Germany",3 MAN CRANES X 45t,30.1m,30.1,,undisclosed,,allied_2022_W30_ALLIED-Weekly-Market-Report_31_07_2022.pdf,7
@@ -2089,7 +2089,7 @@ issue_date,report_week,size,name,dwt,built,shipbuilder,coating,price_raw,price_u
 2023-02-17,7,SMALL,ATA OCEAN,7003,2010,"Umo Gemi Sanayi Ticaret Ltd - Karadeniz Eregli, Turkey",ve Marine Line,9.7m,9.7,,Turkish,,allied_2023_W07_Allied-Weekly-Market-Review-Week-07.pdf,8
 2023-02-17,7,VLOC,HL PEARL,207999,2020,"New Times Shipbuilding Co Ltd - Jingjiang JS, China",,,,,,,allied_2023_W07_Allied-Weekly-Market-Review-Week-07.pdf,8
 2023-02-17,7,VLOC,HL SAPPHIRE,207999,2021,"New Times Shipbuilding Co Ltd - Jingjiang JS, China",,,,,,,allied_2023_W07_Allied-Weekly-Market-Review-Week-07.pdf,8
-2023-02-17,7,VLOC,HL AQUAMARINE,207999,2021,"New Times Shipbuilding Co Ltd - Jingjiang JS, China",en,291.0m,291.0,,Golden Ocean,"BWTS fitted, Scrubber fitted, bss TCB for 36",allied_2023_W07_Allied-Weekly-Market-Review-Week-07.pdf,8
+2023-02-17,7,VLOC,HL AQUAMARINE,207999,2021,"New Times Shipbuilding Co Ltd - Jingjiang JS, China",en,291.0m,,291.0,Golden Ocean,"BWTS fitted, Scrubber fitted, bss TCB for 36",allied_2023_W07_Allied-Weekly-Market-Review-Week-07.pdf,8
 2023-02-17,7,VLOC,HL DIAMOND,207999,2020,"New Times Shipbuilding Co Ltd - Jingjiang JS, China",,bloc,,,,"months at US$ 21,000/day",allied_2023_W07_Allied-Weekly-Market-Review-Week-07.pdf,8
 2023-02-17,7,VLOC,HL EMERALD,207999,2020,"New Times Shipbuilding Co Ltd - Jingjiang JS, China",,,,,,,allied_2023_W07_Allied-Weekly-Market-Review-Week-07.pdf,8
 2023-02-17,7,VLOC HL,PORT WALCOTT,207999,2017,"Shipping Industry (Jiangsu) Co Ltd - Jiangdu JS, China",,,,,,,allied_2023_W07_Allied-Weekly-Market-Review-Week-07.pdf,8
@@ -2229,7 +2229,7 @@ issue_date,report_week,size,name,dwt,built,shipbuilder,coating,price_raw,price_u
 2023-03-24,12,PMAX,HUI XIN 9,75658,2012,"Shanghai Shipyard Co Ltd - Shanghai, China",xs,17.0m,17.0,,Averton Bulk,BWTS fitted,allied_2023_W12_Allied-Weekly-Market-Review-Week-12.pdf,7
 2023-03-24,12,SMAX,CARMENCITA,58773,2009,"Tsuneishi Heavy Industries (Cebu) Inc - Balamban, Philippines",4 X 30t CRANES,16.0m,16.0,,undisclosed,BWTS fitted,allied_2023_W12_Allied-Weekly-Market-Review-Week-12.pdf,7
 2023-03-24,12,FEEDER,TS HONGKONG,,15742006,"Jiangsu Yangzijiang Shipbuilding Co Ltd - Jiangyin JS, China",low,8.0m,8.0,,Middle Eastern,BWTS fitted,allied_2023_W12_Allied-Weekly-Market-Review-Week-12.pdf,8
-2023-03-24,12,LNG,GASLOG SYDNEY,82010,2013,"SAMSUNG HI, S. Korea","151,900",284.0m,284.0,,CDB Leasing,,allied_2023_W12_Allied-Weekly-Market-Review-Week-12.pdf,8
+2023-03-24,12,LNG,GASLOG SYDNEY,82010,2013,"SAMSUNG HI, S. Korea","151,900",284.0m,,284.0,CDB Leasing,,allied_2023_W12_Allied-Weekly-Market-Review-Week-12.pdf,8
 2023-03-24,12,LNG GASLOG,SARATOGA,81855,2014,"SAMSUNG HI, S. Korea",,"en bloc 151,990",,,,,allied_2023_W12_Allied-Weekly-Market-Review-Week-12.pdf,8
 2023-03-31,13,SUEZ,EVERBRIGHT,156717,2010,"Jiangsu Rongsheng Shipbuilding Co Rugao JS, China",Ltd -,43.5m,43.5,,Besiktas,Scrubber fitted,allied_2023_W13_Allied-Weekly-Market-Review-Week-13.pdf,7
 2023-03-31,13,AFRA,NECTAR SEA,105370,2008,"Sumitomo Heavy Industries Marine Engineering Co.,",& Ltd. -,37.0m,37.0,,undisclosed,Scrubber fitted,allied_2023_W13_Allied-Weekly-Market-Review-Week-13.pdf,7
@@ -2908,7 +2908,7 @@ issue_date,report_week,size,name,dwt,built,shipbuilder,coating,price_raw,price_u
 2023-11-10,45,AFRA,SKS DOKKA,119950,2010,"Hyundai Samho Industries Co Ltd Samho, S. Korea",Heavy EPOXY -,,,,,,allied_2023_W45_Allied-Weekly-Market-Review-Week-45.pdf,7
 2023-11-10,45,AFRA,SKS DELTA,119456,2010,"Hyundai Samho Industries Co Ltd Samho, S. Korea",Heavy EPOXY -,,,,,,allied_2023_W45_Allied-Weekly-Market-Review-Week-45.pdf,7
 2023-11-10,45,AFRA,SKS DOURO,119456,2010,"Hyundai Samho Industries Co Ltd Samho, S. Korea",Heavy EPOXY -,,,,,,allied_2023_W45_Allied-Weekly-Market-Review-Week-45.pdf,7
-2023-11-10,45,AFRA,SKS DEE,119456,2010,"Hyundai Samho Industries Co Ltd Samho, S. Korea",Heavy EPOXY - in cash & 5.5,239.0m,239.0,,TORM A/S,"eco, LR2",allied_2023_W45_Allied-Weekly-Market-Review-Week-45.pdf,7
+2023-11-10,45,AFRA,SKS DEE,119456,2010,"Hyundai Samho Industries Co Ltd Samho, S. Korea",Heavy EPOXY - in cash & 5.5,239.0m,,239.0,TORM A/S,"eco, LR2",allied_2023_W45_Allied-Weekly-Market-Review-Week-45.pdf,7
 2023-11-10,45,AFRA,SKS DONGGANG,119456,2011,"Hyundai Samho Industries Co Ltd Samho, S. Korea",Heavy - EPOXY,millions shares,,,,,allied_2023_W45_Allied-Weekly-Market-Review-Week-45.pdf,7
 2023-11-10,45,AFRA,SKS DODA,119456,2012,"Hyundai Samho Industries Co Ltd Samho, S. Korea",Heavy - EPOXY,,,,,,allied_2023_W45_Allied-Weekly-Market-Review-Week-45.pdf,7
 2023-11-10,45,AFRA,SKS DEMINI,119456,2012,"Hyundai Samho Industries Co Ltd Samho, S. Korea",Heavy - EPOXY,,,,,,allied_2023_W45_Allied-Weekly-Market-Review-Week-45.pdf,7
@@ -3200,7 +3200,7 @@ issue_date,report_week,size,name,dwt,built,shipbuilder,coating,price_raw,price_u
 2024-02-16,7,SUEZ,FRONT THOR,156719,2010,"Jiangsu Rongsheng Shipbuilding Co Rugao JS, China",Ltd -,45.5m,45.5,,undisclosed,BWTS & scrubber fitted,allied_2024_W07_Allied-Weekly-Market-Review-Week-07.pdf,7
 2024-02-16,7,MR,EXCELSIOR BAY,49990,2014,"SPP Shipbuilding Ltd - Sacheon, S.",Co Epoxy Korea Phenolic,,,,,,allied_2024_W07_Allied-Weekly-Market-Review-Week-07.pdf,7
 2024-02-16,7,MR,CRYSTAL BAY,49990,2014,"SPP Shipbuilding Ltd - Sacheon, S.",Co Epoxy Korea Phenolic,,,,,,allied_2024_W07_Allied-Weekly-Market-Review-Week-07.pdf,7
-2024-02-16,7,MR,HARRISON BAY,49990,2015,"SPP Shipbuilding Ltd - Sacheon, S.",Co Epoxy Korea Phenolic,238.0m,238.0,,International,BWTS & scrubber fitted,allied_2024_W07_Allied-Weekly-Market-Review-Week-07.pdf,7
+2024-02-16,7,MR,HARRISON BAY,49990,2015,"SPP Shipbuilding Ltd - Sacheon, S.",Co Epoxy Korea Phenolic,238.0m,,238.0,International,BWTS & scrubber fitted,allied_2024_W07_Allied-Weekly-Market-Review-Week-07.pdf,7
 2024-02-16,7,MR,SAINT ALBANS BAY,49990,2015,"SPP Shipbuilding Ltd - Sacheon, S.",Co Epoxy Korea Phenolic,en bloc,,,Seaways,,allied_2024_W07_Allied-Weekly-Market-Review-Week-07.pdf,7
 2024-02-16,7,MR,JENNINGS BAY,49990,2015,"SPP Shipbuilding Ltd - Sacheon, S.",Co Epoxy Korea Phenolic,,,,,,allied_2024_W07_Allied-Weekly-Market-Review-Week-07.pdf,7
 2024-02-16,7,MR,LAFAYETTE BAY,49990,2015,"SPP Shipbuilding Ltd - Sacheon, S.",Co Epoxy Korea Phenolic,,,,,,allied_2024_W07_Allied-Weekly-Market-Review-Week-07.pdf,7
