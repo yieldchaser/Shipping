@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-10-06_2026_10_06_breakwave_tanker_report_10_6_2026__root",
+  "doc_id": "hellenic_shipbuilding_2026-10-06_2026_10_06_breakwave_tanker_report_10_6_2026",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 10.6.2026",
+  "section_path": [
+    "Breakwave Tanker Report 10.6.2026"
+  ],
+  "section_path_text": "Breakwave Tanker Report 10.6.2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDisrupted Vessel Circulation, Atlantic Tightening, Drives New Records - The close of the third quarter left crude freight\nSource: Breakwave Advisors\n\nLinked asset: 2026-10-06_breakwave-tanker-report-10-6-2026_breakwavetankersoctober62026report_50188d04a4d8.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-10-06_breakwave-tanker-report-10-6-2026_breakwavetankersoctober62026report_50188d04a4d8.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### October 6, 2026\n\n- **Disrupted Vessel Circulation, Atlantic Tightening, Drives New Records -** The close of the third quarter left crude freight at **exceptionally high levels**, with the consequences of Saudi Arabia's East-West pipeline disruption still shaping the eastern market and **Atlantic tightening** providing stronger support to owners. Middle East crude exports averaged 18.5 million bpd in the seven days to October 1, according to provisional estimates, **exceeding the pre-war** regional average of 18 million bpd. The total includes shipments through Hormuz and the Red Sea, loadings from other regional terminals and ship-to-ship transfers in the Gulf of Oman.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "products",
+    "oil",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1819,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-10-06_breakwave-tanker-report-10-6-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-10-6-2026",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-10-06_2026_10_06_breakwave_tanker_report_10_6_2026__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-10-06_2026_10_06_breakwave_tanker_report_10_6_2026",
+      "parent_id": "hellenic_shipbuilding_2026-10-06_2026_10_06_breakwave_tanker_report_10_6_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Disrupted Vessel Circulation, Atlantic Tightening, Drives New Records - The close of the third quarter left crude freight\nSource: Breakwave Advisors",
+      "keywords": [
+        "atlantic",
+        "circulation",
+        "close",
+        "crude",
+        "disrupted",
+        "drives",
+        "left",
+        "new"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-10-06_2026_10_06_breakwave_tanker_report_10_6_2026__s02_linked_asset_2026_10_06_breakwave_tanker_report_10_6_2026_breakwavetankersoctober62026report_50188d04a4d8_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-10-06_2026_10_06_breakwave_tanker_report_10_6_2026",
+      "parent_id": "hellenic_shipbuilding_2026-10-06_2026_10_06_breakwave_tanker_report_10_6_2026__root",
+      "title": "Linked asset: 2026-10-06_breakwave-tanker-report-10-6-2026_breakwavetankersoctober62026report_50188d04a4d8.pdf",
+      "section_path": [
+        "Linked asset: 2026-10-06_breakwave-tanker-report-10-6-2026_breakwavetankersoctober62026report_50188d04a4d8.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-10-06_breakwave-tanker-report-10-6-2026_breakwavetankersoctober62026report_50188d04a4d8.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-10-06_breakwave-tanker-report-10-6-2026_breakwavetankersoctober62026report_50188d04a4d8.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### October 6, 2026\n\n- **Disrupted Vessel Circulation, Atlantic Tightening, Drives New Records -** The close of the third quarter left crude freight at **exceptionally high levels**, with the consequences of Saudi Arabia's East-West pipeline disruption still shaping the eastern market and **Atlantic tightening** providing stronger support to owners. Middle East crude exports averaged 18.5 million bpd in the seven days to October 1, according to provisional estimates, **exceeding the pre-war** regional average of 18 million bpd.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1742,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
