@@ -120,6 +120,22 @@ def _parse_band(body, anchors, cols, page_no):
         row["_page"] = page_no
         if not row.get("Dwt"):
             row["Dwt"] = row.get("TEU", "") or row.get("CBM", "")
+
+        # Name-suffix bleed (measured 2026-10-07): a vessel name ending in a
+        # number ("BUNGA KELANA 7", "HYUNDAI MIPO 2853") puts its trailing token
+        # at an x nearer the Dwt header than the Name header (measured "7" at
+        # x=117 between Name=77.6 and Dwt=140.5), so the token is bucketed into
+        # Dwt and digit-strips into the dwt: "7 105,194" -> 7105194, and the
+        # 4-digit cases ("6 4,679" -> 6479) are silently plausible-but-wrong.
+        # A real dwt is ONE number, so a Dwt cell holding exactly TWO numeric
+        # tokens is always this bleed: the first is the name's suffix, the
+        # second the true dwt. Return the suffix to the name.
+        _dwtoks = (row.get("Dwt", "") or "").split()
+        if (len(_dwtoks) == 2 and all(re.fullmatch(r"[\d,]+", t) for t in _dwtoks)
+                and "," not in _dwtoks[0]
+                and len(re.sub(r"\D", "", _dwtoks[0])) <= 4):
+            row["Name"] = _clean(row.get("Name", "") + " " + _dwtoks[0])
+            row["Dwt"] = _dwtoks[1]
         size = row.get("Size", "")
         name = row.get("Name", "")
         has_num = bool(re.search(r"\d{3,}", row.get("Dwt", "")))
