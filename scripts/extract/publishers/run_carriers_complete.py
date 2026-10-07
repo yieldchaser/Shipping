@@ -475,6 +475,23 @@ def extract_newbuilding_rows(
     source_file: str,
 ) -> List[Dict[str, Any]]:
     """Extract Newbuilding Market orders using two-pass fragment association."""
+    # The publisher stacks DIFFERENT tables on one page. On some eras (e.g. 2024
+    # W07) the Secondhand/BSPA assessment table sits directly BELOW the
+    # Newbuilding table with NO section caption of its own, so the band the
+    # anchor walk assigns to "newbuilding" swallows it whole -- 6 rows of
+    # vessel-class assessments (VLCC 305000 / 104.795) and the header line
+    # "Size / Size (MT) / Price in $m / Sentiment" leaked into the Newbuilding
+    # series. Anchor on the OTHER table's own header text -- unique to it: it
+    # always carries "Price in $m" AND "Sentiment" -- and truncate the
+    # newbuilding band there. Derived from the page, no coordinate hardcoded.
+    for y, line in lines:
+        if not (y_start < y < y_end):
+            continue
+        _s = " ".join(w[4] for w in line).lower()
+        if ("price in" in _s and "sentiment" in _s) or ("ldt" in _s and "sentiment" in _s):
+            y_end = y
+            break
+
     candidates: List[Dict[str, Any]] = []
 
     # Pass 1: find row starts
@@ -555,9 +572,12 @@ def extract_newbuilding_rows(
     rows: List[Dict[str, Any]] = []
     for c in candidates:
         v_type = c["type"]
-        if not v_type or v_type.upper() in ["TYPE", "TOTAL", "NEWBUILDING"]:
+        if not v_type or v_type.upper() in ["TYPE", "TOTAL", "NEWBUILDING", "SIZE"]:
             continue
-        p_mil = parse_numeric(c["price_raw"])
+        # Shape-based: the MIL$ column mixes ISO integers ("230 EACH") with the
+        # publisher's European decimal comma ("117,5 EACH" == 117.5m, "37,3" ==
+        # 37.3m). parse_numeric stripped the comma and produced a 10x-1000x error.
+        p_mil = parse_price_mill(c["price_raw"])
         yard_str = clean_text(" ".join(w[2] for w in sorted(c["yard_words"], key=lambda x: (round(x[0], 1), x[1]))))
         owners_str = clean_text(" ".join(w[2] for w in sorted(c["owners_words"], key=lambda x: (round(x[0], 1), x[1]))))
         comm_str = clean_text(" ".join(w[2] for w in sorted(c["comments_words"], key=lambda x: (round(x[0], 1), x[1]))))

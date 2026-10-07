@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 13:40:25Z",
+  "updated_at": "2026-10-07 14:30:53Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1372,7 +1372,7 @@
     {
       "file": "carriers_newbuilding_series.csv",
       "target_metric": "Newbuilding reported contracting orders",
-      "rows": 306,
+      "rows": 299,
       "columns": [
         "issue_date",
         "report_week",
@@ -4141,13 +4141,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 640877,
+  "total_master_stacked_rows": 640870,
   "total_master_series_csvs": 180,
-  "total_stacked_rows": 640877,
+  "total_stacked_rows": 640870,
   "total_series_csvs": 180,
   "total_master_workbooks": 1,
   "total_series_count": 180,
-  "total_rows_extracted": 641182,
+  "total_rows_extracted": 641175,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4187,7 +4187,7 @@
     "carriers_dry_tc_period_series.csv": 3144,
     "carriers_dry_weighted_routes_series.csv": 655,
     "carriers_indices_series.csv": 1834,
-    "carriers_newbuilding_series.csv": 306,
+    "carriers_newbuilding_series.csv": 299,
     "carriers_sales_series.csv": 3061,
     "carriers_tanker_tce_series.csv": 786,
     "clarksons_demolition_sales_series.csv": 70,
