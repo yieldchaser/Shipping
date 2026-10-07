@@ -24134,6 +24134,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 10011,Panamax TCE Cont/Far East,Panamax,Cont / Far East,usd/day,2026-10-02,30622,
 10011,Panamax TCE Cont/Far East,Panamax,Cont / Far East,usd/day,2026-10-05,30385,
 10011,Panamax TCE Cont/Far East,Panamax,Cont / Far East,usd/day,2026-10-06,30287,
+10011,Panamax TCE Cont/Far East,Panamax,Cont / Far East,usd/day,2026-10-07,30393,
 10013,Panamax TCE Far East/Cont,Panamax,Far East / Cont,usd/day,2018-01-02,5459,
 10013,Panamax TCE Far East/Cont,Panamax,Far East / Cont,usd/day,2018-01-03,5431,
 10013,Panamax TCE Far East/Cont,Panamax,Far East / Cont,usd/day,2018-01-04,5506,
@@ -26321,6 +26322,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 10013,Panamax TCE Far East/Cont,Panamax,Far East / Cont,usd/day,2026-10-02,13106,
 10013,Panamax TCE Far East/Cont,Panamax,Far East / Cont,usd/day,2026-10-05,13075,
 10013,Panamax TCE Far East/Cont,Panamax,Far East / Cont,usd/day,2026-10-06,13091,
+10013,Panamax TCE Far East/Cont,Panamax,Far East / Cont,usd/day,2026-10-07,13189,
 10012,Panamax TCE Far East RV,Panamax,Far East Round Voyage,usd/day,2018-01-02,10510,
 10012,Panamax TCE Far East RV,Panamax,Far East Round Voyage,usd/day,2018-01-03,10371,
 10012,Panamax TCE Far East RV,Panamax,Far East Round Voyage,usd/day,2018-01-04,10645,
@@ -28508,6 +28510,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 10012,Panamax TCE Far East RV,Panamax,Far East Round Voyage,usd/day,2026-10-02,20597,
 10012,Panamax TCE Far East RV,Panamax,Far East Round Voyage,usd/day,2026-10-05,20553,
 10012,Panamax TCE Far East RV,Panamax,Far East Round Voyage,usd/day,2026-10-06,20614,
+10012,Panamax TCE Far East RV,Panamax,Far East Round Voyage,usd/day,2026-10-07,20844,
 10010,Panamax Transatlantic RV,Panamax,Transatlantic Round Voyage,usd/day,2018-01-02,12517,
 10010,Panamax Transatlantic RV,Panamax,Transatlantic Round Voyage,usd/day,2018-01-03,12433,
 10010,Panamax Transatlantic RV,Panamax,Transatlantic Round Voyage,usd/day,2018-01-04,12711,
@@ -30695,6 +30698,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 10010,Panamax Transatlantic RV,Panamax,Transatlantic Round Voyage,usd/day,2026-10-02,21618,
 10010,Panamax Transatlantic RV,Panamax,Transatlantic Round Voyage,usd/day,2026-10-05,21541,
 10010,Panamax Transatlantic RV,Panamax,Transatlantic Round Voyage,usd/day,2026-10-06,21532,
+10010,Panamax Transatlantic RV,Panamax,Transatlantic Round Voyage,usd/day,2026-10-07,21805,
 120137,Supramax South China - Indonesia RV,Supramax,South China / Indonesia RV,usd/day,2023-05-02,10469,
 120137,Supramax South China - Indonesia RV,Supramax,South China / Indonesia RV,usd/day,2023-05-03,10214,
 120137,Supramax South China - Indonesia RV,Supramax,South China / Indonesia RV,usd/day,2023-05-04,10007,
@@ -32431,6 +32435,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 120132,Supramax Transatlantic RV (raw A),Supramax,Transatlantic Round Voyage,usd/day,2026-10-02,32038,
 120132,Supramax Transatlantic RV (raw A),Supramax,Transatlantic Round Voyage,usd/day,2026-10-05,31931,
 120132,Supramax Transatlantic RV (raw A),Supramax,Transatlantic Round Voyage,usd/day,2026-10-06,31875,
+120132,Supramax Transatlantic RV (raw A),Supramax,Transatlantic Round Voyage,usd/day,2026-10-07,31806,
 ,SUPRAMAX_TRANSATLANTIC_RV_AVG,Supramax,Transatlantic Round Voyage,usd/day,2023-05-02,16554,"mean(120132:18893,120133:14214)"
 ,SUPRAMAX_TRANSATLANTIC_RV_AVG,Supramax,Transatlantic Round Voyage,usd/day,2023-05-03,16243,"mean(120132:18236,120133:14250)"
 ,SUPRAMAX_TRANSATLANTIC_RV_AVG,Supramax,Transatlantic Round Voyage,usd/day,2023-05-04,16038,"mean(120132:17982,120133:14093)"
@@ -33291,6 +33296,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 ,SUPRAMAX_TRANSATLANTIC_RV_AVG,Supramax,Transatlantic Round Voyage,usd/day,2026-10-02,23779,"mean(120132:32038,120133:15519)"
 ,SUPRAMAX_TRANSATLANTIC_RV_AVG,Supramax,Transatlantic Round Voyage,usd/day,2026-10-05,23719,"mean(120132:31931,120133:15506)"
 ,SUPRAMAX_TRANSATLANTIC_RV_AVG,Supramax,Transatlantic Round Voyage,usd/day,2026-10-06,23732,"mean(120132:31875,120133:15588)"
+,SUPRAMAX_TRANSATLANTIC_RV_AVG,Supramax,Transatlantic Round Voyage,usd/day,2026-10-07,23785,"mean(120132:31806,120133:15763)"
 120133,Supramax Transatlantic RV (raw B),Supramax,Transatlantic Round Voyage,usd/day,2023-05-02,14214,
 120133,Supramax Transatlantic RV (raw B),Supramax,Transatlantic Round Voyage,usd/day,2023-05-03,14250,
 120133,Supramax Transatlantic RV (raw B),Supramax,Transatlantic Round Voyage,usd/day,2023-05-04,14093,
@@ -34151,6 +34157,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 120133,Supramax Transatlantic RV (raw B),Supramax,Transatlantic Round Voyage,usd/day,2026-10-02,15519,
 120133,Supramax Transatlantic RV (raw B),Supramax,Transatlantic Round Voyage,usd/day,2026-10-05,15506,
 120133,Supramax Transatlantic RV (raw B),Supramax,Transatlantic Round Voyage,usd/day,2026-10-06,15588,
+120133,Supramax Transatlantic RV (raw B),Supramax,Transatlantic Round Voyage,usd/day,2026-10-07,15763,
 120129,Supramax US Gulf - China/South Japan,Supramax,US Gulf / China-South Japan,usd/day,2023-05-02,25214,
 120129,Supramax US Gulf - China/South Japan,Supramax,US Gulf / China-South Japan,usd/day,2023-05-03,24979,
 120129,Supramax US Gulf - China/South Japan,Supramax,US Gulf / China-South Japan,usd/day,2023-05-04,24329,
@@ -35011,3 +35018,4 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 120129,Supramax US Gulf - China/South Japan,Supramax,US Gulf / China-South Japan,usd/day,2026-10-02,31794,
 120129,Supramax US Gulf - China/South Japan,Supramax,US Gulf / China-South Japan,usd/day,2026-10-05,31631,
 120129,Supramax US Gulf - China/South Japan,Supramax,US Gulf / China-South Japan,usd/day,2026-10-06,31600,
+120129,Supramax US Gulf - China/South Japan,Supramax,US Gulf / China-South Japan,usd/day,2026-10-07,31644,
