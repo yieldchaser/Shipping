@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 20:54:19Z",
+  "updated_at": "2026-10-07 21:54:18Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1263,7 +1263,7 @@
     {
       "file": "carriers_bspa_series.csv",
       "target_metric": "Secondhand 5Y price assessments () with visual sentiment",
-      "rows": 749,
+      "rows": 755,
       "columns": [
         "issue_date",
         "report_week",
@@ -1370,7 +1370,7 @@
     {
       "file": "carriers_sales_series.csv",
       "target_metric": "Secondhand sales transactions () with sister-ship en bloc",
-      "rows": 3130,
+      "rows": 3165,
       "columns": [
         "issue_date",
         "report_week",
@@ -2016,7 +2016,7 @@
     {
       "file": "fearnleys_rates_series.csv",
       "target_metric": "Tanker spot, dry bulk, gas, & 1Y T/C rates ($/day, WS)",
-      "rows": 17076,
+      "rows": 17112,
       "columns": [
         "issue_date",
         "report_week",
@@ -4037,13 +4037,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 630624,
+  "total_master_stacked_rows": 630701,
   "total_master_series_csvs": 175,
-  "total_stacked_rows": 630624,
+  "total_stacked_rows": 630701,
   "total_series_csvs": 175,
   "total_master_workbooks": 1,
   "total_series_count": 175,
-  "total_rows_extracted": 630929,
+  "total_rows_extracted": 631006,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4077,13 +4077,13 @@
     "breakwave_fundamentals_series.csv": 2755,
     "breakwave_insights_metadata.csv": 3214,
     "carriers_bda_series.csv": 375,
-    "carriers_bspa_series.csv": 749,
+    "carriers_bspa_series.csv": 755,
     "carriers_demolition_series.csv": 178,
     "carriers_dry_tc_period_series.csv": 3216,
     "carriers_dry_weighted_routes_series.csv": 670,
     "carriers_indices_series.csv": 1876,
     "carriers_newbuilding_series.csv": 312,
-    "carriers_sales_series.csv": 3130,
+    "carriers_sales_series.csv": 3165,
     "carriers_tanker_tce_series.csv": 804,
     "clarksons_demolition_sales_series.csv": 70,
     "clarksons_demolition_series.csv": 120,
@@ -4112,7 +4112,7 @@
     "fearnleys_md_shipment_volumes_series.csv": 43,
     "fearnleys_md_tc_vs_asset_series.csv": 14,
     "fearnleys_md_vessel_tightness_series.csv": 115,
-    "fearnleys_rates_series.csv": 17076,
+    "fearnleys_rates_series.csv": 17112,
     "gibson_bunker_prices_series.csv": 1015,
     "gibson_tanker_spot_series.csv": 3602,
     "gms_demolition_rankings_series.csv": 1096,

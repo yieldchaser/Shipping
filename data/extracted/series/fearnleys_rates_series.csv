@@ -17075,3 +17075,39 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-10-01,40,18,06 Market Brief,Exchange Rates,USD/KRW,1235.5,FX,-7.3,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
 2026-10-01,40,18,06 Market Brief,Exchange Rates,EUR/USD,1.14,FX,-7.3,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
 2026-10-01,40,18,06 Market Brief,Interest Rates,SOFR USD,3.65,Rate,-0.01,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
+2026-10-07,41,3,01 Tankers,Dirty Spot,MEG/WEST,725.0,280',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,3,01 Tankers,Dirty Spot,MEG/Japan,1250.0,280',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,3,01 Tankers,Dirty Spot,MEG/Singapore,1275.0,280',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,3,01 Tankers,Dirty Spot,WAF/FEAST,720.0,260',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,3,01 Tankers,Dirty Spot,WAF/USAC,945.0,130',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,3,01 Tankers,Dirty Spot,Sidi Kerir/W Med,975.0,135',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,3,01 Tankers,Dirty Spot,N. Afr/Euromed,790.0,80',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,3,01 Tankers,Dirty Spot,UK/Cont,80.0,80',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,4,01 Tankers,Dirty Spot,Caribs/USG,1050.0,70',1.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,4,01 Tankers,Period & Availability,1 Year T/C - ECO / SCRUBBER,230000.0,Modern,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,4,01 Tankers,Period & Availability,Fixed in all areas last week,63.0,-,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,82444.0,Capesize,-1112.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,7,02 Dry Bulk,Dry Spot,Australia/China,14.6,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,7,02 Dry Bulk,Dry Spot,Pacific RV,39164.0,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,7,02 Dry Bulk,Dry Spot,Transatlantic RV,21805.0,Panamax,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,8,02 Dry Bulk,Dry Spot,TCE Far East/Cont,13189.0,Panamax,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,8,02 Dry Bulk,Dry Spot,TCE Far East RV,20844.0,Panamax,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,8,02 Dry Bulk,Dry Spot,US Gulf - China/South Japan,31644.0,Supramax,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,8,02 Dry Bulk,Dry Spot,South China - Indonesia RV,16769.0,Supramax,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,9,02 Dry Bulk,Dry Spot,Baltic Dry Index (BDI),2994.0,Index,-8.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,10,03 Gas,LPG Spot,VLGC,1.0,84',7.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,11,03 Gas,LPG Spot,LGC,3700000.0,60',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,11,03 Gas,LPG Spot,MGC,2000000.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,12,03 Gas,LPG Spot,COASTER Europe,440000.0,3 500-5 000 cbm,-10000.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,12,03 Gas,LPG FOB,FOB North Sea/Ansi,664.5,Propane/Butane,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,12,03 Gas,LPG FOB,Saudi Arabia/CP,680.0,Propane/Butane,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,12,03 Gas,LPG FOB,MT Belvieu,459.78,Propane/Butane,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,12,03 Gas,LPG FOB,Sonatrach/Bethioua,670.0,Propane/Butane,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,17,06 Market Brief,Exchange Rates,USD/JPY,158.09,FX,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,17,06 Market Brief,Exchange Rates,USD/NOK,9.56,FX,-0.14,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,17,06 Market Brief,Exchange Rates,USD/KRW,1235.5,FX,-0.14,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,17,06 Market Brief,Exchange Rates,EUR/USD,-0.14,FX,-0.04,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,18,06 Market Brief,Interest Rates,SOFR USD,3.65,Rate,-0.01,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,18,06 Market Brief,Commodity Prices,Brent Spot,83.97,Spot,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,18,06 Market Brief,Bunker Prices,380 CST,458.0,Fuel Oil,-1.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-10-07,41,18,06 Market Brief,Bunker Prices,MGO,902.0,Gasoil,-1.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W41_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
