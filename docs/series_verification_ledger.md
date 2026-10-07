@@ -452,7 +452,8 @@ Control: 19/245 sidecars changed, diff confined to ffa_assessments / currencies 
 **8 of 10 series CSVs byte-identical**. Rebuilt from cached markdown - no API spend.
 Left verbatim (page-side, not repaired): 2025_W30's 32 garbled tenor labels; 2026_W19's corrected rows
 carry a blank tenor because the page read has no tenor column.
-STILL OPEN: the bancosta freight_rates residue (numeric unit / DRY_BULK, branch 11).
+CLOSED 2026-10-07 18:0x IST (re-measured this run): the bancosta freight_rates residue is
+RESOLVED - see the closing section at the end of this file.
 
 
 ---
@@ -543,3 +544,32 @@ OLD path drops `['bunker_prices','macro_indicators','maritime_stocks']`, NEW pat
 and still takes fresh values for the 10 owned keys. No extraction re-run; no data file touched.
 * Register Intermodal row re-measured and corrected (16 counts, total **62,510** rows).
 * Evidence: `docs/intermodal_macro_verdict.md` (ADDENDUM 2026-10-03).
+
+
+---
+
+# CLOSED 2026-10-07 18:0x IST - the last "STILL OPEN" pointer in this ledger (bancosta freight_rates residue) is measured RESOLVED
+
+The line-455 pointer above was the only un-closed item left in this ledger. Re-measured against the
+CURRENT shipped files (not the note), using the ledger's own defect signatures:
+
+| file | defect signature | measured now |
+|---|---|---|
+| bancosta_freight_rates_series.csv | numeric `unit` (one-column shift) | **0** |
+| bancosta_freight_rates_series.csv | `sector` = DRY_BULK | **0** |
+| bancosta_freight_rates_series.csv | `%` in `rate_previous` | **0** |
+| bancosta_ffa_series.csv | currency-pair `tenor` | **0** |
+| bancosta_ffa_series.csv | `%` in `rate_previous` | **0** |
+
+freight_rates holds only the five real freight classes (DIRTY_TANKER 6,638 / CLEAN_TANKER 5,143 /
+SUPRAMAX 4,448 / PANAMAX 2,185 / CAPESIZE 2,173) and only textual units (usd/day, ws, usd/t,
+usd/mt, days, usd mln) - no branch-11 residue. The file grew 20,329 -> **20,587** rows since the
+residue was recorded; the freight bench was rebuilt.
+
+The only residual in the commodities tier is the ACCEPTED `category=GENERAL` **33** rows - the
+2026-09-29 fix table's own "after" value, not an open item. Nothing is genuinely open in this
+ledger's defect list.
+
+Context this run: no extraction runner of ours is live (`tasklist` python.exe = MCP graph server,
+2 Hermes gateways, litellm proxy only) and `git status corpus` = 0 -> corpus complete, nothing to
+extract.

@@ -6,6 +6,8 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ## 1. Master Publisher Status Ledger (All 18 Publishers CLOSED & Audited)
 
+> Counts in this table are **as-of-close snapshots** recorded when each publisher was closed; several have since been corrected by the verification ledger. The **live** per-series inventory is Section 2, kept current by `scripts/sync_extraction_register.py`. Where the two differ, Section 2 and the CSV on disk are authoritative.
+
 | Publisher | Total PDFs | Eras Active | Status | Extracted Rows / Deliverables | What Was Skipped & Rationale | Quality & Verification Gate | Tooling & LlamaParse Tier |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **SSY** | 519 | 2021–2026 | `CLOSED` | `ssy_capesize_index_series.csv` (8,881 rows)<br>`ssy_capesize_series.csv` (8,881 rows)<br>`ssy_route_rates_series.csv` (5,160 rows)<br>`ssy_capesize_index_time_series.csv` (516 rows)<br>519 markdown files + sidecars (23,471 rows across 4 series) | Baltic standard indices (BDI, BCI) already held in `data/derived/held_data_catalog.json` | 100.0% coverage across all 519 reports (259 Atlantic + 260 Pacific); 10 route rates per report extracted (5,190 rows); Calculated Index, historical changes, and T/C day rates verified against rendered ground truth; zero prose bleed | Local PyMuPDF span geometry + vector chart calibration engine (`run_ssy_complete.py`) |
