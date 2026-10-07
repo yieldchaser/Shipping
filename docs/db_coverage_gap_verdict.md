@@ -70,3 +70,35 @@ No `run_*` of ours in flight. The only extraction process is the parallel agent'
 worktree. `corpus/` is git-tracked (51,826 files under it) and `git status corpus` =
 0 changes -> no new arrivals (newest content 2026-10-06). Register gate
 `scripts/extract/verify_registers.py` = ALL PASSED, 180 CSVs / 640,870 logical rows.
+
+---
+
+## UPDATE 2026-10-07 23:4x IST — a rebuild is a measured NO-OP; the gap is UPSTREAM ingestion, not the DB
+
+Measured this run (read-only), to answer the question the 22:2x note left open
+("refresh = `build_table_db.py`"): **would a refresh actually close the gap?**
+
+**No.** The store the DB is built from is itself frozen.
+
+* Producer chain (read from source): `corpus.duckdb` <- `scripts/extract/build_table_db.py`
+  <- `data/extracted/corpus/<source>/<stem>/tables.jsonl` <- `scripts/extract/extract_all.py`
+  driven off `data/extracted/inventory.jsonl`.
+* **0 of 17,654** doc dirs (2 levels under `data/extracted/corpus`) have an mtime newer
+  than the 2026-10-03 build epoch. `data/extracted/inventory.jsonl` mtime is
+  **2026-09-21 15:29**. Newest store content = shipbrokers **2026-09-19**; every store dir
+  is <= 2026-09-22.
+* Therefore `build_table_db.py` (incremental) prints `no new tables found; nothing to write`
+  — it would add **0** documents. `--rebuild` would only reconstruct the identical content
+  from the identical (frozen) inputs. **A DB refresh cannot reach xclusiv 2026-09-29,
+  intermodal/agora 2026-09-30, carriers 2026-09-28, banchero 2026-09-23, or any newer md**,
+  because those were never routed into the `corpus/` store — they exist ONLY as the
+  per-publisher `md/` tiers.
+* Consequence for the earlier note: the DB lag is NOT a "rebuild was not run" condition.
+  It is upstream. The remedy is a USER decision: re-run the store pipeline
+  (`inventory.jsonl` rebuild -> `extract_all.py --inventory ... --out data/extracted/corpus`)
+  over the current corpus, THEN `build_table_db.py`. Blast radius unchanged: scripts-only,
+  not app-displayed (`index.html` 0 `duckdb` refs).
+
+Evidence: `os.scandir` of 17,654 store doc dirs vs the 2026-10-03 build epoch (0 newer);
+the mtimes above. This run did NOT run the rebuild (it would be a 125 MB rewrite for zero
+new content).
