@@ -160,6 +160,12 @@ def sync_register(dry_run: bool = False):
     # Update Carriers
     carriers_sales_rows = disk_inventory.get("carriers_sales_series.csv", 3105)
     updated_md = re.sub(r"`carriers_sales_series\.csv` \([0-9,]+ rows\)", f"`carriers_sales_series.csv` ({carriers_sales_rows:,} rows)", updated_md)
+    carriers_core = ["carriers_sales_series", "carriers_dry_tc_period_series", "carriers_indices_series",
+                     "carriers_tanker_tce_series", "carriers_bspa_series", "carriers_dry_weighted_routes_series",
+                     "carriers_bda_series", "carriers_newbuilding_series", "carriers_demolition_series"]
+    carriers_total = sum(disk_inventory.get(f"{n}.csv", 0) for n in carriers_core)
+    updated_md = re.sub(r"\([0-9,]+ (total )?rows across 9 series\)",
+                        lambda m: f"({carriers_total:,} {m.group(1) or ''}rows across 9 series)", updated_md)
 
     # Update Lion
     lion_sales_rows = disk_inventory.get("lion_sales_series.csv", 1200)
