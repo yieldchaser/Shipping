@@ -3942,3 +3942,93 @@ from a concurrent process - nothing is committed on the auto branch for them. If
 that process is interrupted the delivered fixes are lost. The concurrent agent
 should be allowed to commit, or its data changes committed, rather than left
 sitting uncommitted.
+
+## 2026-10-07 09:01 UTC (14:31 IST) - deep review (3-hourly, job d77cc9df53c4)
+
+Verdict: **HEALTHY**. Bulk run complete; verifier exit 0, golden 15/15, registers
+100% match, working tree clean, no batch process. No defect was proven that is in
+my lane. The four "implausible values" I chased all turned out FAITHFUL to the
+source PDF (evidence below) - recorded plainly rather than inventing a fix.
+
+### Run state (measured)
+No `run_batch` / `batch_worker` process (Win32_Process query empty). `verify_extraction.py`
+exit 0, `actions: []`: checkpoint 7,816 rows / 7,816 unique (0 torn); `golden 15/15`;
+`db 189,481 tables / 6,726,703 cells`; `state_note` = known COMPLETE-not-dead
+(queue frozen at the 2026-09-21 inventory, 0 remained); `inventory_drift 385`
+(informational). `corpus_checkpoint.jsonl` mtime 2026-09-22 11:12 (not being
+written). Disk free **13.7 GB** (98% used; earlier logs saw 13.4-27 GB - at the low
+end, no action, see flag).
+
+### This run's predecessor fixed something; verified it landed
+The 11:10 run flagged a DIRTY tree (concurrent gibson/hellenic fixes uncommitted).
+Those are now committed: `53b8f4d96` (MMi glyph fix -> 258 md + 2 series; re-verified
+0 glyph hits in `hellenic_iron_ore_{daily,commentary}_series.csv`) and `17bc30497`.
+`gibson_tanker_spot_series.csv` now carries **0** dry-bulk route codes; categories
+are Clean/Dirty Tanker Spot only. Human decision 6 is RESOLVED. Tree clean (only
+`logs/fleet_sync.log`, the scheduled sync, left unstaged).
+
+### Three recently-completed docs opened (output vs source)
+1. `intermodal_2021_W26` - tables.jsonl 42 tables: camelot-stream grids are clean
+   (`[1] 59x17 acc95.1 tv0.986`; `[19] p3 41x11 acc99.7` S&P rows `POST | DOUBLE |
+   95,720 | 2012 | IMABARI, Japan | $21.3m`). pdfplumber union tables are
+   multi-value blobs (`[21] Size|Name|...|'POST DOUBLE\nPMAX PROVIDENCE'`), the
+   documented union-partner role. Not a defect.
+2. `drewry_ais_pdfs/Drewry_AIS_Product_LR2_Week33_2026` - page-0 table is the
+   Power-BI nav chrome (`Power BI Desktop`, `Vessel deployment/Speed/...`); the data
+   is on image pages. Known template behaviour.
+3. `hellenic/…best-oasis…2021-07-03` - text reads like the document; the India
+   recycling price table (`Container/Tanker/Bulker 530/530/510/510/500/500`) lands only
+   in a pdfplumber fused cell (tv 0.333), i.e. the documented prose-fused class -
+   and that tree is not read by the app (bespoke `run_hellenic_demolition.py` supplies
+   the delivered series).
+
+### Four implausible values chased to ground truth - all FAITHFUL (no fix)
+Plausibility scan over all 180 `data/extracted/series/*.csv` flagged columns with
+out-of-range values. Each was opened against the rendered source page:
+* `bancosta_freight_rates` `TC20 LR2 AG-UKC (90k) unit=usd mln` = **17,131,250** -
+  the PDF (W39 p11, `banchero_costa_2026_W39_...pdf`) literally prints
+  `usd mln 17,131,250 / 16,606,250 / +3.2%`. Publisher's own quirk, reproduced exactly.
+* `bancosta_freight_rates` `TC14-TCE MR USG-UKC` = **7,900,000** - PDF page 10 contains
+  `7,900` and `7,390`. Faithful.
+* `ssy_route_rates` `T/C TRIP FAR EAST/CONT rate_curr = -2.11` - PDF page
+  (`ssy_2022_P20220830.pdf`) table row is literally `T/C TRIP FAR EAST/CONT |
+   180,000 DWT | 10.0% | -1.98 | -2.11`. The report itself prints a negative there.
+  Faithful.
+* `fearnleys_rates` `VLGC value 1,020,000` - PDF says `LPG Rates / Spot Market
+  (USD/Month) / VLGC (84 000 cbm) $1,020,000`. Correct (unit is USD/month; the series
+  leaves `unit` blank - a metadata gap, not a value error).
+Negative tanker TCEs (affinity/bancosta/intermodal/gibson, 2021-2022) are real
+(spot TCE below zero). Cross-source agreement on the extreme 2022-03/2026-03 spikes
+(bancosta = affinity = intermodal = 233,699 on 2022-03-04 TD17) is further evidence
+the extraction is correct.
+
+### Structural scan - no new smell
+Duplicated/100%-empty columns across the 180 series are all documented aliases
+(`issue_date`/`issue`, `price_current_usd_per_ldt`/`price_usd_per_ldt`) or known
+empty-by-design fields (bancosta_newbuilding owner/size/yard; star_asia
+built/terms; seabrokers source_page). `drewry_ais_lpg_fr` `current_utilisation_pct`
+0/32 is CORRECT: the LPG-FR KPI card (source PDF p1) shows tonne-miles index and
+anchor changes, never a utilisation %; VLCC/others populate it from text.
+
+### Deliberately NOT changed, and why
+* No code fix: no defect was proven in my lane. The four anomalies I investigated
+  are faithful reproductions of the publishers' own tables; "fixing" them would
+  corrupt correct data.
+* `extract_all` tree smells (prose-fused tables) left alone - nothing in the app
+  reads that tree (runbook section "What the extract_all corpus does and does not
+  feed"); the publishers involved have bespoke runners.
+
+### Flag for the human
+* **Disk free 13.7 GB (98% used)** - at the low end of the observed 13.4-27 GB
+  range. Incremental extraction still writes here; worth reclaiming scratch/duplicate
+  artefacts before it bites. Not actioned by me (outside `scripts/extract/`).
+* Housekeeping note for future agents: a stale `struct.py` sits in
+  `%LOCALAPPDATA%\Temp` and shadows the stdlib for any scratch script placed there
+  (Python 3.14 puts the script dir on `sys.path`; `import pymupdf` then dies with
+  `module 'struct' has no attribute 'calcsize'`). Put scratch scripts in a
+  subdirectory, not Temp root.
+* Inherited human decisions 1-5 stand unchanged (inventory drift 385; DB/series
+  rebuild; hellenic chunk-shard shortfall; 5 advanced_shipping docs; golden_destiny
+  regen). Decision 6 resolved this run.
+
+Branch/commit: none this run (no change). Working tree clean.
