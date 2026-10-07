@@ -1,3 +1,15 @@
+**THIS RUN (2026-10-07 18:0x, source-by-source, 30m job) - NOTHING TO EXTRACT (independently re-measured); CLOSED the ledger's last open pointer (bancosta freight_rates residue). Docs only, no data changed.**
+
+Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). Liveness at start: NO extraction of ours running - `tasklist` python.exe = code_review_graph MCP server + 2 `hermes_cli.main gateway run` + litellm proxy (port 4000); a transient untracked `scripts/build_local_flow_artifacts.py` exited before check. Tree clean except `logs/fleet_sync.log` (scheduled sync, left unstaged). `git status corpus` = **0 changes** -> no new arrivals.
+
+- **Ledger's LAST OPEN item CLOSED (measured, not by the note).** `docs/series_verification_ledger.md` still carried `STILL OPEN: the bancosta freight_rates residue (numeric unit / DRY_BULK, branch 11)` - the only un-closed pointer left. Re-measured against the CURRENT files with the ledger's own signatures: `bancosta_freight_rates_series.csv` = **0** numeric `unit`, **0** `sector`=DRY_BULK, **0** `%` in rate_previous; `bancosta_ffa_series.csv` = **0** currency-pair `tenor`, **0** `%` in rate_previous. freight_rates sectors are only the five real classes (DIRTY_TANKER 6,638 / CLEAN_TANKER 5,143 / SUPRAMAX 4,448 / PANAMAX 2,185 / CAPESIZE 2,173); units all textual; file grew 20,329 -> **20,587** rows since recorded. Only residual = the ACCEPTED `category=GENERAL` **33** rows (the 2026-09-29 fix table's own "after" value).
+- **Register caveat added:** Section 1 (publisher ledger) counts are as-of-close snapshots and now diverge from disk (e.g. bancosta row still lists 25,715 / 7,659 / 2,319 / 941 vs live 20,587 / 7,726 / 8,555 / 288; intermodal row lists 61,181/16 series vs live 17 series incl. `intermodal_macro_daily_series.csv` 22,760). Section 2 (lines 52-61 bancosta, 154 intermodal, etc.) MATCHES disk exactly. Added a one-line caveat under the Section 1 header pointing readers to Section 2 as authoritative - rather than hand-editing 18 narrative rows.
+- **Register gate GREEN** (re-run after edits): `scripts/extract/verify_registers.py` = ALL PASSED, 180 CSVs / **641,130** logical rows == JSON == MD, 0 mismatches, 0 control chars/emoji.
+- **COMMIT:** `4e4ab432a` (docs only - `series_verification_ledger.md` + `EXTRACTION_REGISTER.md`). No data/extraction file touched.
+- **NEXT:** still NOTHING to EXTRACT (corpus complete; no new arrivals). Remaining open items are the USER's: (a) allied en-bloc residual; (b) hellenic bare-name `source_file` (3 builders); (c) inventory/DB rebuild; (d) register Section 1 narrative counts (now caveated, not rewritten).
+
+---
+
 **THIS RUN (2026-10-07 17:2x, source-by-source, 30m job) - NOTHING TO EXTRACT (independently re-measured); closed the disclosed `run_intermodal_full.py` sidecar-CLOBBER residual at the code level. No data changed.**
 
 Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). Liveness at start: NO extraction of ours running (`tasklist python.exe` = empty); tree clean except `logs/fleet_sync.log` (scheduled sync, left unstaged); `git status corpus` = **0 changes** -> no new arrivals.
