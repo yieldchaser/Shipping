@@ -1,3 +1,20 @@
+**THIS RUN (2026-10-07 11:0x, source-by-source, 30m job) - FIXED A MEASURED DEFECT in a DELIVERED series: the gibson HTML table classifier was publishing FABRICATED values. Real correction, 19 wrong values fixed + 42 garbage rows removed. Prompts xclusiv/next-source are stale (nothing to extract).**
+
+Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). At start: no extraction of ours running (python = Hermes gateways). Closed the ledger's last open item ("the 5 gibson empty rows - confirm against the HTML"). The empty rows were the TIP.
+
+- **ROOT CAUSE:** `run_gibson_html.py` chose market tables by a loose substring over the WHOLE table (`'TD3C' in text or 'Suezmax' in text`). That matched NON-market tables in 8 review/projects files: the **Newbuild and Second Hand Benchmark Values** grid (**$ million** valuations), the **FFA forward-curve matrix** (`-weekly-projects-report-*`), and review-issue "Rates (TCEs at market speed)" grids - each parsed as "Spot Worldscale"; and any table containing "VLSFO" as bunker prices.
+- **MEASURED:** 156 HTML files scanned; OLD test matched 153 tables, only 145 are the real grid -> **8 fake spot tables + 3 fake bunker tables** across **8 files**.
+- **DELIVERED IMPACT:** `gibson_tanker_spot_series.csv` 3,602 -> **3,555** (**42 fake rows removed**, **15 rows CORRECTED**); `gibson_bunker_prices_series.csv` 1,015 -> 1,015 (**4 rows CORRECTED**). The 19 corrections are the dangerous kind - the fake row had won the dedupe slot and was **publishing a fabricated number** where the page prints the real one (2023-12-15 `TD3C` WS old `79.0` -> real `56.0/67.0`; TC1 `306 -> 149`; TD25 `305 -> 156`; same on 2024-07-05 and 2024-12-20).
+- **FIX (per-source, runner only):** a table is SPOT only if a row's first cell matches the publisher's own `TD3C VLCC AG-China WS` label pattern; BUNKER only if a row is `<Port> <Grade>`. Plus a blank-first-cell guard (drops the real grid's trailing spacer row). No geometry, no file list.
+- **MD (primary deliverable):** exactly **9 .md + 9 .tables.json** changed; other 147 byte-identical to HEAD. (An early pass blanked `source_url` on all 156 and CRLF-churned them - both fully undone; recovered the url from `gibson_all_reports_catalog.json`.)
+- **VERIFY (no vision tool in cron - stated):** (1) every corrected value is a verbatim token in the source HTML (checked 2023-12-15 / 2024-07-05 / 2024-12-20 - 0 missing); (2) control - every key common to old+new CSV is byte-identical except exactly the 15 intended corrections, 0 rows added; (3) old-vs-new table test differs ONLY on the 8 fake tables.
+- Register synced spot 3,602 -> 3,555; `verify_registers.py` = **ALL PASSED (180 CSVs / 641,130 rows, 0 mismatches)**. Evidence `docs/gibson_verdict.md`.
+- Also: killed a stale hung `git.exe` (from a timed-out earlier command) that held `.git/index.lock`.
+
+- **NEXT:** nothing to EXTRACT - corpus complete (no new arrivals; newest still 2026-10-06). The gibson item is now CLOSED. Remaining open ledger items are the user's (allied en-bloc residual - needs a vision pass or the 6-row override; hellenic bare-name `source_file`; inventory/DB rebuild) and the residual ism agreement tail. Watch that the automation does not re-stale the register.
+
+---
+
 **THIS RUN (2026-10-07 06:5x, source-by-source, 30m job) - NOTHING TO EXTRACT (independently re-measured this run); closed the two questions the 05:4x run left open, with measured evidence. No data change.**
 
 Branch `auto/extract-fixes-2026-10-06-deepreview` (NOT main). At start: no extraction of ours running (the python.exe processes are Hermes gateways only); register gate GREEN `verify_registers.py` = **180 CSVs / 641,177 rows**, 0 mismatches with JSON and MD. Newest corpus content still 2026-10-06.

@@ -190,13 +190,25 @@ def parse_html_report(html: str, iso_date: str, slug: str, url: str):
                 ffa_period = m_q.group(1)
                 break
                 
-        is_spot_table = any('TD3C' in clean_text(r.get_text()) or 'Suezmax' in clean_text(r.get_text()) for r in rows)
-        is_bunker_table = any('VLSFO' in clean_text(r.get_text()) or 'LSMGO' in clean_text(r.get_text()) for r in rows)
+        # A genuine market table is identified by its own DATA rows, not by a loose
+        # substring anywhere in the table. The old tests matched "TD3C"/"Suezmax"
+        # (Newbuild & Second Hand Benchmark Values, and the FFA forward-curve matrix
+        # in the weekly-projects reports) and any table containing "VLSFO" -- so
+        # secondhand $m valuations and review-issue rate grids were mislabelled as
+        # spot Worldscale / bunker rows. Measured 2026-10-07: 8 such spot tables and
+        # 3 such bunker tables across 8 review/projects files.
+        def _first_cell(tr):
+            cs = tr.find_all(['th', 'td'])
+            return clean_text(cs[0].get_text()) if cs else ""
+        SPOT_RE = re.compile(r'^\s*T[DC]\d+[A-Za-z]*\b.*(WS|TCE)', re.IGNORECASE)
+        BUNKER_RE = re.compile(r'(Rotterdam|Fujairah|Singapore).*\b(VLSFO|LSMGO|MGO|HSFO)\b', re.IGNORECASE)
+        is_spot_table = any(SPOT_RE.match(_first_cell(tr)) for tr in rows)
+        is_bunker_table = any(BUNKER_RE.search(_first_cell(tr)) for tr in rows)
         
         if is_spot_table:
             for r in rows[1:]:
                 cells = [clean_text(c.get_text()) for c in r.find_all(['th', 'td'])]
-                if not cells or len(cells) < 4:
+                if not cells or len(cells) < 4 or not cells[0]:
                     continue
                 row_label = cells[0]
                 chg = cells[1] if len(cells) > 1 else ""
@@ -270,7 +282,7 @@ def parse_html_report(html: str, iso_date: str, slug: str, url: str):
         elif is_bunker_table:
             for r in rows[1:]:
                 cells = [clean_text(c.get_text()) for c in r.find_all(['th', 'td'])]
-                if not cells or len(cells) < 4:
+                if not cells or len(cells) < 4 or not cells[0]:
                     continue
                 port_grade = cells[0]
                 chg = cells[1] if len(cells) > 1 else ""
