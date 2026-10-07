@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 5932,
-      "untracked_bytes": 3462189445
+      "untracked_files": 5924,
+      "untracked_bytes": 3457974696
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,26 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "path": "corpus/01-brokers/_digests/banchero_costa/2026/banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.md",
-      "bytes": 59658,
-      "sha256": "9e8992329b4db55997fe0ab8bd400ca2c55154bfe1d9c1e8fed84e309fd1ce8e"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/intermodal/2026/intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.md",
-      "bytes": 25491,
-      "sha256": "428da51bdde21816a3ef47142d727bed4a3bd2fc8f40cc495aadb9b65ce6385a"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_05_10_2026_ssy_atlantic_capesize_index_5_october_2026.md",
-      "bytes": 3144,
-      "sha256": "5e3108b8bd440485d72b1b8c423a0bf5cedd9a513e27e070fe6acc5a7e552f25"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/xclusiv/2026/xclusiv_06_10_2026_xclusiv_shipbrokers_weekly_05th_october_2026.md",
-      "bytes": 23922,
-      "sha256": "d0456e24f8ffd9a612b712d0f3d4270c3cdd1fc5601aaad923d894909d36e156"
-    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -4776,11 +4756,6 @@
       "path": "corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W50_Bancosta-Weekly-2025-50_compressed.pdf",
       "bytes": 1627204,
       "sha256": "035ed9c7822847eb5ea01f3ec2d635dfcf038a18fdc8e8abc77ed049344bb636"
-    },
-    {
-      "path": "corpus/01-brokers/banchero_costa/2026/banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.pdf",
-      "bytes": 1021770,
-      "sha256": "095350c9adb942ce2ecb3674775083b8cf5712b37e93b64914db3fda1ad44cc9"
     },
     {
       "path": "corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W02_Bancosta-Weekly-2026-02_compressed.pdf",
@@ -23683,11 +23658,6 @@
       "sha256": "c9fac24f50115f7a8d67584cb55124800745db44cb69b19d05fa0cd0a095b456"
     },
     {
-      "path": "corpus/01-brokers/intermodal/2026/intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf",
-      "bytes": 1155648,
-      "sha256": "4ecc61c5e9a32ffdf037ab2576f3e61cbeac344c87c79875ad114f3f80f0c431"
-    },
-    {
       "path": "corpus/01-brokers/intermodal/2026/intermodal_2026_W02_Intermodal-Report-Week-02-2026.pdf",
       "bytes": 1271765,
       "sha256": "67c1b58a176bc74f71aac5875fe48bb505f0181acf9f996722a1a4ab83fe10e8"
@@ -26918,11 +26888,6 @@
       "sha256": "4f307388f563639b482b4c101ae054050a5575a0ca13e7dd1d8e12312277e8b8"
     },
     {
-      "path": "corpus/01-brokers/ssy/2026/ssy_05_10_2026_ssy_atlantic_capesize_index_5_october_2026.pdf",
-      "bytes": 190491,
-      "sha256": "0ec022373a36eb9d78451d3b6811d24679a3e84cec31028f62a2fb1ba7737224"
-    },
-    {
       "path": "corpus/01-brokers/ssy/2026/ssy_14_09_2026_ssy_atlantic_capesize_index_14_september_2026.pdf",
       "bytes": 189215,
       "sha256": "8f7fdc77497604f10fbcd2b15822671c2d328fb968ee3a1c06d8fc47bb6c89e3"
@@ -29476,11 +29441,6 @@
       "path": "corpus/01-brokers/xclusiv/2025/xclusiv_2025_xclusiv-2025_12_22.pdf",
       "bytes": 1968821,
       "sha256": "b9cc0a93f34cb9daf613994c56c6911084ce7d118b4271c7afb165761940a7d0"
-    },
-    {
-      "path": "corpus/01-brokers/xclusiv/2026/xclusiv_06_10_2026_xclusiv_shipbrokers_weekly_05th_october_2026.pdf",
-      "bytes": 1734625,
-      "sha256": "629a155fc8bae06c0d0b7fa0ecc42a007af0c7672b83ce85ea0a4904a557a4e4"
     },
     {
       "path": "corpus/01-brokers/xclusiv/2026/xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf",
