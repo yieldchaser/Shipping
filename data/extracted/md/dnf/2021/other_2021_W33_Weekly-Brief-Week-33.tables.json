@@ -1,0 +1,217 @@
+{
+ "issue_date": "2021-08-23",
+ "stem": "other_2021_W33_Weekly-Brief-Week-33",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W33_Weekly-Brief-Week-33.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "ADS GALTESUND",
+    "dwt_raw": "75,395",
+    "built_raw": "2007",
+    "price_raw": "£15.9M",
+    "price_currency": "£",
+    "price_m": 15.9,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ASHIYA STAR",
+    "dwt_raw": "52,200",
+    "built_raw": "2006",
+    "price_raw": "£13.8M",
+    "price_currency": "£",
+    "price_m": 13.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ASIA RUBY II",
+    "dwt_raw": "62,996",
+    "built_raw": "2014",
+    "price_raw": "£24.0M",
+    "price_currency": "£",
+    "price_m": 24.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ASIA RUBY III",
+    "dwt_raw": "63,023",
+    "built_raw": "2014",
+    "price_raw": "£22.0M",
+    "price_currency": "£",
+    "price_m": 22.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ASIA RUBY IV",
+    "dwt_raw": "62,982",
+    "built_raw": "2014",
+    "price_raw": "£23.8M",
+    "price_currency": "£",
+    "price_m": 23.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ATHOS",
+    "dwt_raw": "30,618",
+    "built_raw": "2007",
+    "price_raw": "£11.1M",
+    "price_currency": "£",
+    "price_m": 11.1,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ATLANTIC ENSENADA",
+    "dwt_raw": "55,814",
+    "built_raw": "2006",
+    "price_raw": "£15.8M",
+    "price_currency": "£",
+    "price_m": 15.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "BELCARGO",
+    "dwt_raw": "58,700",
+    "built_raw": "2008",
+    "price_raw": "£16.5M",
+    "price_currency": "£",
+    "price_m": 16.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "BOZOK",
+    "dwt_raw": "9,200",
+    "built_raw": "1997",
+    "price_raw": "£2.8M",
+    "price_currency": "£",
+    "price_m": 2.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "FOUR DIAMOND",
+    "dwt_raw": "34,059",
+    "built_raw": "2011",
+    "price_raw": "£12.4M",
+    "price_currency": "£",
+    "price_m": 12.4,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "FOUR EMERALD",
+    "dwt_raw": "33,992",
+    "built_raw": "2013",
+    "price_raw": "£15.1M",
+    "price_currency": "£",
+    "price_m": 15.1,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MELATI LAUT",
+    "dwt_raw": "56,643",
+    "built_raw": "2011",
+    "price_raw": "£15.3M",
+    "price_currency": "£",
+    "price_m": 15.3,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NORD PEAK",
+    "dwt_raw": "61,600",
+    "built_raw": "2011",
+    "price_raw": "£22.5M",
+    "price_currency": "£",
+    "price_m": 22.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "PRISCILLA VENTURE",
+    "dwt_raw": "77,283",
+    "built_raw": "4016",
+    "price_raw": "£18.2M",
+    "price_currency": "£",
+    "price_m": 18.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SPAR DRACO",
+    "dwt_raw": "53,565",
+    "built_raw": "2006",
+    "price_raw": "£13.5M",
+    "price_currency": "£",
+    "price_m": 13.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "WAN AN",
+    "dwt_raw": "42,717",
+    "built_raw": "1998",
+    "price_raw": "£7.0M",
+    "price_currency": "£",
+    "price_m": 7.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 515.0,
+    "mgo": 612.0,
+    "ifo380": 415.0,
+    "week_label": "32",
+    "page": 1
+   },
+   {
+    "vlsfo": 518.0,
+    "mgo": 615.0,
+    "ifo380": 424.0,
+    "week_label": "31",
+    "page": 1
+   }
+  ]
+ }
+}

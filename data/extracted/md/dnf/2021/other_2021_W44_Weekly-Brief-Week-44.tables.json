@@ -1,0 +1,140 @@
+{
+ "issue_date": "2021-11-08",
+ "stem": "other_2021_W44_Weekly-Brief-Week-44",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W44_Weekly-Brief-Week-44.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "BERNA",
+    "dwt_raw": "21,964",
+    "built_raw": "1995",
+    "price_raw": "£6.0M",
+    "price_currency": "£",
+    "price_m": 6.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "KEY DISCOVERY",
+    "dwt_raw": "82,152",
+    "built_raw": "2010",
+    "price_raw": "£24.5M",
+    "price_currency": "£",
+    "price_m": 24.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "LILIAN",
+    "dwt_raw": "24,838",
+    "built_raw": "1999",
+    "price_raw": "£6.8M",
+    "price_currency": "£",
+    "price_m": 6.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MP THE HIGHTOWER",
+    "dwt_raw": "209,000",
+    "built_raw": "2020",
+    "price_raw": "En bloc",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MP THE KRAFT",
+    "dwt_raw": "209,000",
+    "built_raw": "2020",
+    "price_raw": "En bloc",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ORTOLAN BETA STRAIT",
+    "dwt_raw": "29,975",
+    "built_raw": "2010",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SHANDONG CHONG WEN",
+    "dwt_raw": "76,098",
+    "built_raw": "2011",
+    "price_raw": "£19.6M",
+    "price_currency": "£",
+    "price_m": 19.6,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SOPHIA N",
+    "dwt_raw": "56,868",
+    "built_raw": "2009",
+    "price_raw": "£17.8M",
+    "price_currency": "£",
+    "price_m": 17.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SUNLEAF GRACE",
+    "dwt_raw": "61,683",
+    "built_raw": "2011",
+    "price_raw": "£21.5M",
+    "price_currency": "£",
+    "price_m": 21.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 629.0,
+    "mgo": 763.0,
+    "ifo380": 510.0,
+    "week_label": "44",
+    "page": 1
+   },
+   {
+    "vlsfo": 637.0,
+    "mgo": 764.0,
+    "ifo380": 524.0,
+    "week_label": "43",
+    "page": 1
+   },
+   {
+    "vlsfo": 635.0,
+    "mgo": 758.0,
+    "ifo380": 533.0,
+    "week_label": "42",
+    "page": 1
+   }
+  ]
+ }
+}

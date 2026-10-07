@@ -1,0 +1,205 @@
+{
+ "issue_date": "2021-10-11",
+ "stem": "other_2021_W40_Weekly-Brief-Week-40",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W40_Weekly-Brief-Week-40.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "AMIRA ILHAM",
+    "dwt_raw": "28,400",
+    "built_raw": "2009",
+    "price_raw": "£13.5M",
+    "price_currency": "£",
+    "price_m": 13.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ASL MARS",
+    "dwt_raw": "175,085",
+    "built_raw": "2004",
+    "price_raw": "£16.2M",
+    "price_currency": "£",
+    "price_m": 16.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MEL PRIDE",
+    "dwt_raw": "32,260",
+    "built_raw": "1999",
+    "price_raw": "£8.0M",
+    "price_currency": "£",
+    "price_m": 8.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NEW DAYS",
+    "dwt_raw": "38,230",
+    "built_raw": "2017",
+    "price_raw": "£26.0M",
+    "price_currency": "£",
+    "price_m": 26.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NEW FACE",
+    "dwt_raw": "38,342",
+    "built_raw": "2017",
+    "price_raw": "£26.0M",
+    "price_currency": "£",
+    "price_m": 26.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NEW LIFE",
+    "dwt_raw": "28,227",
+    "built_raw": "2013",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "OCEAN GINGER",
+    "dwt_raw": "75,000",
+    "built_raw": "2002",
+    "price_raw": "£11.5M",
+    "price_currency": "£",
+    "price_m": 11.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SHUANG XI",
+    "dwt_raw": "93,237",
+    "built_raw": "2010",
+    "price_raw": "£20.2M",
+    "price_currency": "£",
+    "price_m": 20.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "STELLA BELLA",
+    "dwt_raw": "250,400",
+    "built_raw": "2016",
+    "price_raw": "£60.0M",
+    "price_currency": "£",
+    "price_m": 60.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "STELLA IVY",
+    "dwt_raw": "250,300",
+    "built_raw": "2015",
+    "price_raw": "£58.0M",
+    "price_currency": "£",
+    "price_m": 58.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "TESORO",
+    "dwt_raw": "53,350",
+    "built_raw": "2007",
+    "price_raw": "£15.8M",
+    "price_currency": "£",
+    "price_m": 15.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "TRUE ENDURANCE",
+    "dwt_raw": "179,147",
+    "built_raw": "2012",
+    "price_raw": "£32.5M",
+    "price_currency": "£",
+    "price_m": 32.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "VORANA MANX",
+    "dwt_raw": "82,000",
+    "built_raw": "2021",
+    "price_raw": "£40.0M",
+    "price_currency": "£",
+    "price_m": 40.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "XIN HUA",
+    "dwt_raw": "82,269",
+    "built_raw": "2012",
+    "price_raw": "£22.0M",
+    "price_currency": "£",
+    "price_m": 22.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ZEPHYRUS",
+    "dwt_raw": "81,981",
+    "built_raw": "2019",
+    "price_raw": "£36.5M",
+    "price_currency": "£",
+    "price_m": 36.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 601.0,
+    "mgo": 721.0,
+    "ifo380": 513.0,
+    "week_label": "40",
+    "page": 1
+   },
+   {
+    "vlsfo": 583.0,
+    "mgo": 692.0,
+    "ifo380": 482.0,
+    "week_label": "39",
+    "page": 1
+   }
+  ]
+ }
+}

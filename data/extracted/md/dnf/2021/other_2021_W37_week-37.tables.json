@@ -1,0 +1,248 @@
+{
+ "issue_date": "2021-09-20",
+ "stem": "other_2021_W37_week-37",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W37_week-37.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "GREAT AMITY",
+    "dwt_raw": "56,050",
+    "built_raw": "2004",
+    "price_raw": "£14.0M",
+    "price_currency": "£",
+    "price_m": 14.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "GREAT TALENT",
+    "dwt_raw": "76,773",
+    "built_raw": "2005",
+    "price_raw": "£17.0M",
+    "price_currency": "£",
+    "price_m": 17.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "INGENIOUS",
+    "dwt_raw": "55,648",
+    "built_raw": "2011",
+    "price_raw": "£17.8M",
+    "price_currency": "£",
+    "price_m": 17.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "LDN FORTUNA",
+    "dwt_raw": "93,251",
+    "built_raw": "2011",
+    "price_raw": "£19.7M",
+    "price_currency": "£",
+    "price_m": 19.7,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "LOWLANDS NELLO",
+    "dwt_raw": "82,014",
+    "built_raw": "2015",
+    "price_raw": "£32.0M",
+    "price_currency": "£",
+    "price_m": 32.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MAHAVIR",
+    "dwt_raw": "74,005",
+    "built_raw": "2000",
+    "price_raw": "£11.8M",
+    "price_currency": "£",
+    "price_m": 11.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MARITIME FAITH",
+    "dwt_raw": "33,166",
+    "built_raw": "2011",
+    "price_raw": "£16.0M",
+    "price_currency": "£",
+    "price_m": 16.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "PEAK LIBERTY",
+    "dwt_raw": "81,837",
+    "built_raw": "2015",
+    "price_raw": "£28.0M",
+    "price_currency": "£",
+    "price_m": 28.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "PEAK PEGASUS",
+    "dwt_raw": "82,000",
+    "built_raw": "2013",
+    "price_raw": "£27.0M",
+    "price_currency": "£",
+    "price_m": 27.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "PROSPEROUS",
+    "dwt_raw": "179,100",
+    "built_raw": "2011",
+    "price_raw": "£31.0M",
+    "price_currency": "£",
+    "price_m": 31.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SFL DEE",
+    "dwt_raw": "31,716",
+    "built_raw": "2013",
+    "price_raw": "£14.2M",
+    "price_currency": "£",
+    "price_m": 14.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SFL KENT",
+    "dwt_raw": "34,061",
+    "built_raw": "2012",
+    "price_raw": "£15.2M",
+    "price_currency": "£",
+    "price_m": 15.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SFL MEDWAY",
+    "dwt_raw": "33,800",
+    "built_raw": "2011",
+    "price_raw": "£14.8M",
+    "price_currency": "£",
+    "price_m": 14.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SFL SPEY",
+    "dwt_raw": "33,985",
+    "built_raw": "2011",
+    "price_raw": "£14.6M",
+    "price_currency": "£",
+    "price_m": 14.6,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SFL TRENT",
+    "dwt_raw": "34,025",
+    "built_raw": "2012",
+    "price_raw": "£15.0M",
+    "price_currency": "£",
+    "price_m": 15.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SFL TYNE",
+    "dwt_raw": "31,905",
+    "built_raw": "2012",
+    "price_raw": "£13.5M",
+    "price_currency": "£",
+    "price_m": 13.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SHAO SHAN 5",
+    "dwt_raw": "75,700",
+    "built_raw": "2012",
+    "price_raw": "£20.8M",
+    "price_currency": "£",
+    "price_m": 20.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "TRANS OCEANIC",
+    "dwt_raw": "58,168",
+    "built_raw": "2012",
+    "price_raw": "£23.0M",
+    "price_currency": "£",
+    "price_m": 23.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 534.0,
+    "mgo": 623.0,
+    "ifo380": 435.0,
+    "week_label": "34",
+    "page": 1
+   },
+   {
+    "vlsfo": 543.0,
+    "mgo": 638.0,
+    "ifo380": 442.0,
+    "week_label": "35",
+    "page": 1
+   },
+   {
+    "vlsfo": 548.0,
+    "mgo": 650.0,
+    "ifo380": 452.0,
+    "week_label": "36",
+    "page": 1
+   }
+  ]
+ }
+}

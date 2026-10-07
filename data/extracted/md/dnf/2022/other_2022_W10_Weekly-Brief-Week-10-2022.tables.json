@@ -1,0 +1,128 @@
+{
+ "issue_date": "2022-03-14",
+ "stem": "other_2022_W10_Weekly-Brief-Week-10-2022",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2022\\other_2022_W10_Weekly-Brief-Week-10-2022.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "SEA MELODY I",
+    "dwt_raw": "75,957",
+    "built_raw": "2022",
+    "price_raw": "$13.4M",
+    "price_currency": "$",
+    "price_m": 13.4,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "GOYA",
+    "dwt_raw": "75,750",
+    "built_raw": "2008",
+    "price_raw": "$15.0M",
+    "price_currency": "$",
+    "price_m": 15.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "HAI LONG",
+    "dwt_raw": "63,486",
+    "built_raw": "2014",
+    "price_raw": "$16.0M",
+    "price_currency": "$",
+    "price_m": 16.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "HANTON TRADER II",
+    "dwt_raw": "63,486",
+    "built_raw": "2014",
+    "price_raw": "$25.8M",
+    "price_currency": "$",
+    "price_m": 25.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ANTERO",
+    "dwt_raw": "56,892",
+    "built_raw": "2011",
+    "price_raw": "$17.6M",
+    "price_currency": "$",
+    "price_m": 17.6,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NATHAN BRANDON",
+    "dwt_raw": "56,849",
+    "built_raw": "2007",
+    "price_raw": "$19.5M",
+    "price_currency": "$",
+    "price_m": 19.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "PRABHU GOPAL",
+    "dwt_raw": "56,000",
+    "built_raw": "2003",
+    "price_raw": "$14.0M",
+    "price_currency": "$",
+    "price_m": 14.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "JIN CHENG",
+    "dwt_raw": "52,861",
+    "built_raw": "2004",
+    "price_raw": "$13.9M",
+    "price_currency": "$",
+    "price_m": 13.9,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 1003.0,
+    "mgo": 1210.0,
+    "ifo380": 715.0,
+    "week_label": "10",
+    "page": 1
+   },
+   {
+    "vlsfo": 829.0,
+    "mgo": 979.0,
+    "ifo380": 623.0,
+    "week_label": "9",
+    "page": 1
+   },
+   {
+    "vlsfo": 765.0,
+    "mgo": 895.0,
+    "ifo380": 592.0,
+    "week_label": "8",
+    "page": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "issue_date": "2022-01-17",
+ "stem": "other_2022_W02_Weekly-Brief-Week-2-2022",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2022\\other_2022_W02_Weekly-Brief-Week-2-2022.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "ASL JUPITER",
+    "dwt_raw": "87,052",
+    "built_raw": "2005",
+    "price_raw": "£13.2M",
+    "price_currency": "£",
+    "price_m": 13.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CRIMSON PRINCESS",
+    "dwt_raw": "38,395",
+    "built_raw": "2012",
+    "price_raw": "£19.0M",
+    "price_currency": "£",
+    "price_m": 19.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "DIAMOND STARS",
+    "dwt_raw": "55,389",
+    "built_raw": "2011",
+    "price_raw": "£17.0M",
+    "price_currency": "£",
+    "price_m": 17.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "HH PIONEER",
+    "dwt_raw": "72,940",
+    "built_raw": "1997",
+    "price_raw": "£9.0M",
+    "price_currency": "£",
+    "price_m": 9.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "INTREPID EAGLE",
+    "dwt_raw": "33,773",
+    "built_raw": "2013",
+    "price_raw": "£15.5M",
+    "price_currency": "£",
+    "price_m": 15.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "OCEAN DOTEY",
+    "dwt_raw": "69,045",
+    "built_raw": "1995",
+    "price_raw": "£7.8M",
+    "price_currency": "£",
+    "price_m": 7.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SPARROW",
+    "dwt_raw": "48,200",
+    "built_raw": "4000",
+    "price_raw": "£13.5M",
+    "price_currency": "£",
+    "price_m": 13.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "TANIKAZE",
+    "dwt_raw": "56,064",
+    "built_raw": "2013",
+    "price_raw": "£23.0M",
+    "price_currency": "£",
+    "price_m": 23.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "TIENTSIN",
+    "dwt_raw": "37,657",
+    "built_raw": "2016",
+    "price_raw": "£26.5M",
+    "price_currency": "£",
+    "price_m": 26.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 657.0,
+    "mgo": 781.0,
+    "ifo380": 509.0,
+    "week_label": "2",
+    "page": 1
+   },
+   {
+    "vlsfo": 636.0,
+    "mgo": 745.0,
+    "ifo380": 491.0,
+    "week_label": "1",
+    "page": 1
+   },
+   {
+    "vlsfo": 641.0,
+    "mgo": 732.0,
+    "ifo380": 489.0,
+    "week_label": "52",
+    "page": 1
+   }
+  ]
+ }
+}

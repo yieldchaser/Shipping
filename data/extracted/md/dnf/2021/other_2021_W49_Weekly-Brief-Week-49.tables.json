@@ -1,0 +1,248 @@
+{
+ "issue_date": "2021-12-13",
+ "stem": "other_2021_W49_Weekly-Brief-Week-49",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W49_Weekly-Brief-Week-49.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "AEC DILIGENCE",
+    "dwt_raw": "31,642",
+    "built_raw": "2002",
+    "price_raw": "£9.5M",
+    "price_currency": "£",
+    "price_m": 9.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "BELNOR",
+    "dwt_raw": "58,018",
+    "built_raw": "2010",
+    "price_raw": "£16.7M",
+    "price_currency": "£",
+    "price_m": 16.7,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "BELSTAR",
+    "dwt_raw": "57,970",
+    "built_raw": "2009",
+    "price_raw": "£16.7M",
+    "price_currency": "£",
+    "price_m": 16.7,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CAPE TREASURE",
+    "dwt_raw": "180,201",
+    "built_raw": "2007",
+    "price_raw": "£21.5M",
+    "price_currency": "£",
+    "price_m": 21.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "EGYPTIAN MIKE",
+    "dwt_raw": "81,601",
+    "built_raw": "2011",
+    "price_raw": "£19.6M",
+    "price_currency": "£",
+    "price_m": 19.6,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "GEORGE P",
+    "dwt_raw": "81,569",
+    "built_raw": "2012",
+    "price_raw": "£19.6M",
+    "price_currency": "£",
+    "price_m": 19.6,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "KING BARLEY",
+    "dwt_raw": "82,177",
+    "built_raw": "2012",
+    "price_raw": "£22.0M",
+    "price_currency": "£",
+    "price_m": 22.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "LEO STAR I",
+    "dwt_raw": "22,145",
+    "built_raw": "1993",
+    "price_raw": "£5.2M",
+    "price_currency": "£",
+    "price_m": 5.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MOONBEAM",
+    "dwt_raw": "58,138",
+    "built_raw": "2013",
+    "price_raw": "£19.4M",
+    "price_currency": "£",
+    "price_m": 19.4,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SAN SEBASTIAN",
+    "dwt_raw": "32,285",
+    "built_raw": "2007",
+    "price_raw": "£10.8M",
+    "price_currency": "£",
+    "price_m": 10.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SHANDONG HONG TU",
+    "dwt_raw": "76,116",
+    "built_raw": "2012",
+    "price_raw": "£20.3M",
+    "price_currency": "£",
+    "price_m": 20.3,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "TARGA",
+    "dwt_raw": "28,419",
+    "built_raw": "2009",
+    "price_raw": "£14.0M",
+    "price_currency": "£",
+    "price_m": 14.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "TOMINI INFINITY",
+    "dwt_raw": "56,700",
+    "built_raw": "2010",
+    "price_raw": "£16.2M",
+    "price_currency": "£",
+    "price_m": 16.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "UNIVERSAL BANGKOK",
+    "dwt_raw": "56,729",
+    "built_raw": "2012",
+    "price_raw": "£16.5M",
+    "price_currency": "£",
+    "price_m": 16.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "UNIVERSAL BREMEN",
+    "dwt_raw": "56,726",
+    "built_raw": "2010",
+    "price_raw": "£16.5M",
+    "price_currency": "£",
+    "price_m": 16.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "WAJED",
+    "dwt_raw": "45,621",
+    "built_raw": "1998",
+    "price_raw": "£10.2M",
+    "price_currency": "£",
+    "price_m": 10.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "XIANG HUA",
+    "dwt_raw": "53,350",
+    "built_raw": "2003",
+    "price_raw": "£11.1M",
+    "price_currency": "£",
+    "price_m": 11.1,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ZHONG XIN PEARL",
+    "dwt_raw": "75,321",
+    "built_raw": "2013",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 596.0,
+    "mgo": 710.0,
+    "ifo380": 465.0,
+    "week_label": "49",
+    "page": 1
+   },
+   {
+    "vlsfo": 587.0,
+    "mgo": 698.0,
+    "ifo380": 463.0,
+    "week_label": "48",
+    "page": 1
+   },
+   {
+    "vlsfo": 618.0,
+    "mgo": 738.0,
+    "ifo380": 498.0,
+    "week_label": "47",
+    "page": 1
+   }
+  ]
+ }
+}

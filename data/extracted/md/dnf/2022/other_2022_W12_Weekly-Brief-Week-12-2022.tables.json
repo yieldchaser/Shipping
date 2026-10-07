@@ -1,0 +1,176 @@
+{
+ "issue_date": "2022-03-28",
+ "stem": "other_2022_W12_Weekly-Brief-Week-12-2022",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2022\\other_2022_W12_Weekly-Brief-Week-12-2022.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "OCEAN GARLIC",
+    "dwt_raw": "82,305",
+    "built_raw": "2012",
+    "price_raw": "$21.0M",
+    "price_currency": "$",
+    "price_m": 21.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ATLANTIC TULUM",
+    "dwt_raw": "58,802",
+    "built_raw": "2008",
+    "price_raw": "$17.5M",
+    "price_currency": "$",
+    "price_m": 17.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "DAYANG CENTURY",
+    "dwt_raw": "56,780",
+    "built_raw": "2012",
+    "price_raw": "$17.9M",
+    "price_currency": "$",
+    "price_m": 17.9,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SEACON SINGAPORE",
+    "dwt_raw": "56,540",
+    "built_raw": "2013",
+    "price_raw": "$19.6M",
+    "price_currency": "$",
+    "price_m": 19.6,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SHANGRILA",
+    "dwt_raw": "52,342",
+    "built_raw": "2001",
+    "price_raw": "$11.9M",
+    "price_currency": "$",
+    "price_m": 11.9,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "LUCKY SEA",
+    "dwt_raw": "52,200",
+    "built_raw": "2005",
+    "price_raw": "$12.0M",
+    "price_currency": "$",
+    "price_m": 12.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CIELO DI MONACO",
+    "dwt_raw": "39,202",
+    "built_raw": "2014",
+    "price_raw": "$24.2M",
+    "price_currency": "$",
+    "price_m": 24.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "VENTURE TEAM",
+    "dwt_raw": "38,904",
+    "built_raw": "2015",
+    "price_raw": "$25.0M",
+    "price_currency": "$",
+    "price_m": 25.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "OCEAN IBIS",
+    "dwt_raw": "38,486",
+    "built_raw": "2013",
+    "price_raw": "$24.0M",
+    "price_currency": "$",
+    "price_m": 24.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CORSAIR",
+    "dwt_raw": "35,062",
+    "built_raw": "2001",
+    "price_raw": "$11.5M",
+    "price_currency": "$",
+    "price_m": 11.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "GLOBAL ECHO",
+    "dwt_raw": "28,207",
+    "built_raw": "2012",
+    "price_raw": "$15.2M",
+    "price_currency": "$",
+    "price_m": 15.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "Iron Ore",
+    "dwt_raw": "",
+    "built_raw": "30 days ($/t)",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 938.0,
+    "mgo": 1123.0,
+    "ifo380": 710.0,
+    "week_label": "12",
+    "page": 1
+   },
+   {
+    "vlsfo": 906.0,
+    "mgo": 1070.0,
+    "ifo380": 680.0,
+    "week_label": "11",
+    "page": 1
+   },
+   {
+    "vlsfo": 1006.0,
+    "mgo": 1214.0,
+    "ifo380": 714.0,
+    "week_label": "10",
+    "page": 1
+   }
+  ]
+ }
+}

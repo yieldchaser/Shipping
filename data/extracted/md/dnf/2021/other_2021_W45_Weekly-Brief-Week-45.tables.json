@@ -1,0 +1,176 @@
+{
+ "issue_date": "2021-11-15",
+ "stem": "other_2021_W45_Weekly-Brief-Week-45",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W45_Weekly-Brief-Week-45.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "BAO MAY",
+    "dwt_raw": "178,050",
+    "built_raw": "2010",
+    "price_raw": "£32.0M",
+    "price_currency": "£",
+    "price_m": 32.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "IKAN SENYUR",
+    "dwt_raw": "61,494",
+    "built_raw": "2010",
+    "price_raw": "£22.0M",
+    "price_currency": "£",
+    "price_m": 22.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "LAKE DANY",
+    "dwt_raw": "28,358",
+    "built_raw": "2008",
+    "price_raw": "£11.9M",
+    "price_currency": "£",
+    "price_m": 11.9,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MAJULAH HARBOURFRONT",
+    "dwt_raw": "81,922",
+    "built_raw": "2014",
+    "price_raw": "£31.0M",
+    "price_currency": "£",
+    "price_m": 31.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NAUTICAL ALICE",
+    "dwt_raw": "63,580",
+    "built_raw": "2016",
+    "price_raw": "£28.5M",
+    "price_currency": "£",
+    "price_m": 28.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "OCEAN ROSEMARY",
+    "dwt_raw": "82,265",
+    "built_raw": "2013",
+    "price_raw": "£23.0M",
+    "price_currency": "£",
+    "price_m": 23.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SHANDONG HAI TONG",
+    "dwt_raw": "56,724",
+    "built_raw": "2012",
+    "price_raw": "£16.7M",
+    "price_currency": "£",
+    "price_m": 16.7,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SOHO MERCHANT",
+    "dwt_raw": "63,800",
+    "built_raw": "2015",
+    "price_raw": "En bloc",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SOHO TRADER",
+    "dwt_raw": "63,473",
+    "built_raw": "2015",
+    "price_raw": "En bloc",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SPRING BREEZE",
+    "dwt_raw": "33,847",
+    "built_raw": "2013",
+    "price_raw": "£15.0M",
+    "price_currency": "£",
+    "price_m": 15.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "STAR DAMON",
+    "dwt_raw": "63,301",
+    "built_raw": "2012",
+    "price_raw": "£22.5M",
+    "price_currency": "£",
+    "price_m": 22.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "YUTAI AMBITIONS",
+    "dwt_raw": "77,283",
+    "built_raw": "2008",
+    "price_raw": "£18.0M",
+    "price_currency": "£",
+    "price_m": 18.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 623.0,
+    "mgo": 746.0,
+    "ifo380": 495.0,
+    "week_label": "46",
+    "page": 1
+   },
+   {
+    "vlsfo": 632.0,
+    "mgo": 760.0,
+    "ifo380": 505.0,
+    "week_label": "45",
+    "page": 1
+   },
+   {
+    "vlsfo": 629.0,
+    "mgo": 763.0,
+    "ifo380": 510.0,
+    "week_label": "44",
+    "page": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,296 @@
+{
+ "issue_date": "2021-10-25",
+ "stem": "other_2021_W42_Weekly-Brief-Week-42",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W42_Weekly-Brief-Week-42.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "ATLANTIC YACATAN",
+    "dwt_raw": "55,863",
+    "built_raw": "2006",
+    "price_raw": "£17.0M",
+    "price_currency": "£",
+    "price_m": 17.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CARMENCITA",
+    "dwt_raw": "58,773",
+    "built_raw": "2009",
+    "price_raw": "£21.0M",
+    "price_currency": "£",
+    "price_m": 21.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "DANIELA OETKER",
+    "dwt_raw": "61,228",
+    "built_raw": "2015",
+    "price_raw": "£29.8M",
+    "price_currency": "£",
+    "price_m": 29.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "DANSAS",
+    "dwt_raw": "81,027",
+    "built_raw": "2015",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "FEDERAL DANUBE",
+    "dwt_raw": "37,116",
+    "built_raw": "2004",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "FEDERAL ELBE",
+    "dwt_raw": "37,058",
+    "built_raw": "2003",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "GLOBAL PASSION",
+    "dwt_raw": "33,686",
+    "built_raw": "2011",
+    "price_raw": "£17.5M",
+    "price_currency": "£",
+    "price_m": 17.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "GOLDEN BRIDGE",
+    "dwt_raw": "31,900",
+    "built_raw": "2019",
+    "price_raw": "£10.5M",
+    "price_currency": "£",
+    "price_m": 10.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "IKAN SELAYANG",
+    "dwt_raw": "56,139",
+    "built_raw": "2013",
+    "price_raw": "£26.5M",
+    "price_currency": "£",
+    "price_m": 26.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "KANOURA",
+    "dwt_raw": "61,396",
+    "built_raw": "2013",
+    "price_raw": "£28.4M",
+    "price_currency": "£",
+    "price_m": 28.4,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "LUCKY SEA",
+    "dwt_raw": "52,200",
+    "built_raw": "2005",
+    "price_raw": "£14.2M",
+    "price_currency": "£",
+    "price_m": 14.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MAGNOLIA",
+    "dwt_raw": "28,389",
+    "built_raw": "2011",
+    "price_raw": "£13.0M",
+    "price_currency": "£",
+    "price_m": 13.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MP PANAMAX 4",
+    "dwt_raw": "69,925",
+    "built_raw": "1995",
+    "price_raw": "£6.0M",
+    "price_currency": "£",
+    "price_m": 6.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "OCEAN HOPE",
+    "dwt_raw": "32,877",
+    "built_raw": "2012",
+    "price_raw": "£18.0M",
+    "price_currency": "£",
+    "price_m": 18.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "PACIFIC 08",
+    "dwt_raw": "52,471",
+    "built_raw": "2004",
+    "price_raw": "£15.4M",
+    "price_currency": "£",
+    "price_m": 15.4,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "QUEEN ASIA",
+    "dwt_raw": "28,425",
+    "built_raw": "2011",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "RAMANAS ROSE",
+    "dwt_raw": "84,500",
+    "built_raw": "2021",
+    "price_raw": "£44.0M",
+    "price_currency": "£",
+    "price_m": 44.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ROYAL JUSTICE",
+    "dwt_raw": "37,000",
+    "built_raw": "2012",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SHANDONG HAI CHANG",
+    "dwt_raw": "75,200",
+    "built_raw": "2011",
+    "price_raw": "£16.7M",
+    "price_currency": "£",
+    "price_m": 16.7,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "STONY LAKE",
+    "dwt_raw": "45,269",
+    "built_raw": "1997",
+    "price_raw": "£6.5M",
+    "price_currency": "£",
+    "price_m": 6.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "WP BRAVE",
+    "dwt_raw": "58,627",
+    "built_raw": "2012",
+    "price_raw": "£21.8M",
+    "price_currency": "£",
+    "price_m": 21.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "XING NING HAI",
+    "dwt_raw": "34,400",
+    "built_raw": "2015",
+    "price_raw": "£23.0M",
+    "price_currency": "£",
+    "price_m": 23.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 3454.0,
+    "mgo": 764.0,
+    "ifo380": 525.0,
+    "week_label": "43",
+    "page": 1
+   },
+   {
+    "vlsfo": 2297.0,
+    "mgo": 758.0,
+    "ifo380": 3083.0,
+    "week_label": "42",
+    "page": 1
+   },
+   {
+    "vlsfo": 624.0,
+    "mgo": 749.0,
+    "ifo380": 531.0,
+    "week_label": "41",
+    "page": 1
+   }
+  ]
+ }
+}

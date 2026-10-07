@@ -1,0 +1,80 @@
+{
+ "issue_date": "2022-05-02",
+ "stem": "other_2022_W17_Weekly-Brief-Week-17-2022",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2022\\other_2022_W17_Weekly-Brief-Week-17-2022.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "CORAL TOPAZ",
+    "dwt_raw": "76,598",
+    "built_raw": "2007",
+    "price_raw": "$18.4M",
+    "price_currency": "$",
+    "price_m": 18.4,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ELIM PEACE",
+    "dwt_raw": "51,187",
+    "built_raw": "2003",
+    "price_raw": "$12.5M",
+    "price_currency": "$",
+    "price_m": 12.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CORONA",
+    "dwt_raw": "46,693",
+    "built_raw": "2000",
+    "price_raw": "$10.2M",
+    "price_currency": "$",
+    "price_m": 10.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "DOLCE VITA",
+    "dwt_raw": "38,690",
+    "built_raw": "2015",
+    "price_raw": "$25.0M",
+    "price_currency": "$",
+    "price_m": 25.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 897.0,
+    "mgo": 1266.0,
+    "ifo380": 739.0,
+    "week_label": "17",
+    "page": 1
+   },
+   {
+    "vlsfo": 926.0,
+    "mgo": 1244.0,
+    "ifo380": 727.0,
+    "week_label": "16",
+    "page": 1
+   },
+   {
+    "vlsfo": 920.0,
+    "mgo": 1150.0,
+    "ifo380": 704.0,
+    "week_label": "15",
+    "page": 1
+   }
+  ]
+ }
+}

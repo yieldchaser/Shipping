@@ -1,0 +1,212 @@
+{
+ "issue_date": "2021-10-18",
+ "stem": "other_2021_W41_Weekly-Brief-Week-41",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W41_Weekly-Brief-Week-41.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "BAOGANG GLORY",
+    "dwt_raw": "207,826",
+    "built_raw": "2008",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "BLUEMOON",
+    "dwt_raw": "170,089",
+    "built_raw": "2002",
+    "price_raw": "£15.8M",
+    "price_currency": "£",
+    "price_m": 15.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CAPE GARLAND",
+    "dwt_raw": "178,394",
+    "built_raw": "2009",
+    "price_raw": "£32.0M",
+    "price_currency": "£",
+    "price_m": 32.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "GAIL",
+    "dwt_raw": "29,966",
+    "built_raw": "2011",
+    "price_raw": "£13.0M",
+    "price_currency": "£",
+    "price_m": 13.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "GOLDEN ENDURER",
+    "dwt_raw": "79,457",
+    "built_raw": "2011",
+    "price_raw": "£20.0M",
+    "price_currency": "£",
+    "price_m": 20.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "GOLDEN OPPORTUNITY",
+    "dwt_raw": "75,000",
+    "built_raw": "2008",
+    "price_raw": "£17.2M",
+    "price_currency": "£",
+    "price_m": 17.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "HTC DELTA",
+    "dwt_raw": "56,533",
+    "built_raw": "2014",
+    "price_raw": "£21.0M",
+    "price_currency": "£",
+    "price_m": 21.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "IBIS WIND",
+    "dwt_raw": "82,937",
+    "built_raw": "2013",
+    "price_raw": "£28.0M",
+    "price_currency": "£",
+    "price_m": 28.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "LENA B",
+    "dwt_raw": "81,900",
+    "built_raw": "2017",
+    "price_raw": "£35.0M",
+    "price_currency": "£",
+    "price_m": 35.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MARINER",
+    "dwt_raw": "56,784",
+    "built_raw": "2009",
+    "price_raw": "£16.8M",
+    "price_currency": "£",
+    "price_m": 16.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ORIANA C",
+    "dwt_raw": "34,417",
+    "built_raw": "2012",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ORIENT VIOLET",
+    "dwt_raw": "77,111",
+    "built_raw": "2015",
+    "price_raw": "£30.3M",
+    "price_currency": "£",
+    "price_m": 30.3,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SHANDONG HAI SHENG",
+    "dwt_raw": "56,532",
+    "built_raw": "2011",
+    "price_raw": "£17.1M",
+    "price_currency": "£",
+    "price_m": 17.1,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SILVER EAGLE",
+    "dwt_raw": "50,337",
+    "built_raw": "2003",
+    "price_raw": "£12.8M",
+    "price_currency": "£",
+    "price_m": 12.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "XING ZHI HAI",
+    "dwt_raw": "34,400",
+    "built_raw": "2015",
+    "price_raw": "£22.0M",
+    "price_currency": "£",
+    "price_m": 22.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 3391.0,
+    "mgo": 4136.0,
+    "ifo380": 3144.0,
+    "week_label": "42",
+    "page": 1
+   },
+   {
+    "vlsfo": 624.0,
+    "mgo": 749.0,
+    "ifo380": 531.0,
+    "week_label": "41",
+    "page": 1
+   },
+   {
+    "vlsfo": 601.0,
+    "mgo": 721.0,
+    "ifo380": 513.0,
+    "week_label": "40",
+    "page": 1
+   }
+  ]
+ }
+}

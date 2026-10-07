@@ -1,0 +1,164 @@
+{
+ "issue_date": "2021-12-20",
+ "stem": "other_2021_W50_Weekly-Brief-Week-50",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W50_Weekly-Brief-Week-50.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "DEWO GANDAWATI",
+    "dwt_raw": "28,282",
+    "built_raw": "2008",
+    "price_raw": "£11.7M",
+    "price_currency": "£",
+    "price_m": 11.7,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "FERONIA",
+    "dwt_raw": "56,058",
+    "built_raw": "2007",
+    "price_raw": "£16.0M",
+    "price_currency": "£",
+    "price_m": 16.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "LAN HAI HE XIE",
+    "dwt_raw": "56,620",
+    "built_raw": "2011",
+    "price_raw": "£18.4M",
+    "price_currency": "£",
+    "price_m": 18.4,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MACHITIS",
+    "dwt_raw": "18,315",
+    "built_raw": "1997",
+    "price_raw": "£6.0M",
+    "price_currency": "£",
+    "price_m": 6.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NORD COLUMBIA",
+    "dwt_raw": "60,396",
+    "built_raw": "2018",
+    "price_raw": "£32.0M",
+    "price_currency": "£",
+    "price_m": 32.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NORDRUBICON",
+    "dwt_raw": "37,985",
+    "built_raw": "2016",
+    "price_raw": "£21.4M",
+    "price_currency": "£",
+    "price_m": 21.4,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "PACIFIC BLESS",
+    "dwt_raw": "56,361",
+    "built_raw": "2012",
+    "price_raw": "£17.1M",
+    "price_currency": "£",
+    "price_m": 17.1,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "PACIFIC CROWN",
+    "dwt_raw": "56,469",
+    "built_raw": "2012",
+    "price_raw": "£17.1M",
+    "price_currency": "£",
+    "price_m": 17.1,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SHANDONG HAI DA",
+    "dwt_raw": "56,734",
+    "built_raw": "2013",
+    "price_raw": "£18.0M",
+    "price_currency": "£",
+    "price_m": 18.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SILVIA GLORY",
+    "dwt_raw": "56,797",
+    "built_raw": "2012",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "UNION ERWIN",
+    "dwt_raw": "55,733",
+    "built_raw": "4022",
+    "price_raw": "£21.0M",
+    "price_currency": "£",
+    "price_m": 21.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 601.0,
+    "mgo": 718.0,
+    "ifo380": 467.0,
+    "week_label": "50",
+    "page": 1
+   },
+   {
+    "vlsfo": 596.0,
+    "mgo": 710.0,
+    "ifo380": 465.0,
+    "week_label": "49",
+    "page": 1
+   },
+   {
+    "vlsfo": 587.0,
+    "mgo": 698.0,
+    "ifo380": 463.0,
+    "week_label": "48",
+    "page": 1
+   }
+  ]
+ }
+}

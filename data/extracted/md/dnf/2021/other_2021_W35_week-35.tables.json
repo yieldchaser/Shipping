@@ -1,0 +1,169 @@
+{
+ "issue_date": "2021-09-06",
+ "stem": "other_2021_W35_week-35",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W35_week-35.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "ALAM MADU",
+    "dwt_raw": "58,045",
+    "built_raw": "2014",
+    "price_raw": "£27.0M",
+    "price_currency": "£",
+    "price_m": 27.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ALAM MOLEK",
+    "dwt_raw": "58,074",
+    "built_raw": "2014",
+    "price_raw": "£27.0M",
+    "price_currency": "£",
+    "price_m": 27.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CENTENARIO FORZA",
+    "dwt_raw": "56,129",
+    "built_raw": "2012",
+    "price_raw": "£20.0M",
+    "price_currency": "£",
+    "price_m": 20.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "HUA RONG 1",
+    "dwt_raw": "56,381",
+    "built_raw": "2012",
+    "price_raw": "£19.2M",
+    "price_currency": "£",
+    "price_m": 19.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "IVS PHOENIX",
+    "dwt_raw": "60,477",
+    "built_raw": "2019",
+    "price_raw": "£23.5M",
+    "price_currency": "£",
+    "price_m": 23.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "PHOEBE STAR",
+    "dwt_raw": "32,597",
+    "built_raw": "2010",
+    "price_raw": "£14.0M",
+    "price_currency": "£",
+    "price_m": 14.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SDTR IRENE",
+    "dwt_raw": "84,972",
+    "built_raw": "2022",
+    "price_raw": "£36.0M",
+    "price_currency": "£",
+    "price_m": 36.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SIBULK TRADITION",
+    "dwt_raw": "53,206",
+    "built_raw": "2008",
+    "price_raw": "£16.1M",
+    "price_currency": "£",
+    "price_m": 16.1,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SKYLIGHT",
+    "dwt_raw": "56,847",
+    "built_raw": "2009",
+    "price_raw": "£16.4M",
+    "price_currency": "£",
+    "price_m": 16.4,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "STELLA HOPE",
+    "dwt_raw": "180,000",
+    "built_raw": "2016",
+    "price_raw": "£44.0M",
+    "price_currency": "£",
+    "price_m": 44.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "STELLA NAOMI",
+    "dwt_raw": "181,031",
+    "built_raw": "2016",
+    "price_raw": "£44.0M",
+    "price_currency": "£",
+    "price_m": 44.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "STELLA NORA",
+    "dwt_raw": "180,000",
+    "built_raw": "2016",
+    "price_raw": "£44.0M",
+    "price_currency": "£",
+    "price_m": 44.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 498.0,
+    "mgo": 585.0,
+    "ifo380": 391.0,
+    "week_label": "33",
+    "page": 1
+   },
+   {
+    "vlsfo": 515.0,
+    "mgo": 612.0,
+    "ifo380": 415.0,
+    "week_label": "32",
+    "page": 1
+   }
+  ]
+ }
+}

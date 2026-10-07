@@ -1,0 +1,94 @@
+{
+ "issue_date": "2021-07-19",
+ "stem": "other_2021_W28_Week-28",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W28_Week-28.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "BULK DENMARK",
+    "dwt_raw": "181,360",
+    "built_raw": "2010",
+    "price_raw": "$30,000,000",
+    "price_currency": "$",
+    "price_m": 30.0,
+    "buyer": "Greece",
+    "owner": "NISSEN KAIUN",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "LOWLANDS GREEN",
+    "dwt_raw": "95,650",
+    "built_raw": "2011",
+    "price_raw": "$21,000,000",
+    "price_currency": "$",
+    "price_m": 21.0,
+    "buyer": "",
+    "owner": "CLDN COBELFRET SINGAPORE",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "NAVIOS MARCO POLO",
+    "dwt_raw": "80,647",
+    "built_raw": "2011",
+    "price_raw": "$22,000,000",
+    "price_currency": "$",
+    "price_m": 22.0,
+    "buyer": "",
+    "owner": "NISSEN KAIUN",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "NAVIOS AZALEA",
+    "dwt_raw": "74,800",
+    "built_raw": "2005",
+    "price_raw": "$13,000,000",
+    "price_currency": "$",
+    "price_m": 13.0,
+    "buyer": "",
+    "owner": "NAVIOS SHIPMANAGEMENT",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "BELFRI",
+    "dwt_raw": "55,900",
+    "built_raw": "2007",
+    "price_raw": "$15,000,000",
+    "price_currency": "$",
+    "price_m": 15.0,
+    "buyer": "China",
+    "owner": "LIGHTHOUSE NAVIGATION",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "GREAT RECOURCE",
+    "dwt_raw": "31,800",
+    "built_raw": "2010",
+    "price_raw": "$12,000,000",
+    "price_currency": "$",
+    "price_m": 12.0,
+    "buyer": "Greece",
+    "owner": "",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "LUCKY LIFE",
+    "dwt_raw": "28,000",
+    "built_raw": "2013",
+    "price_raw": "$14,000,000",
+    "price_currency": "$",
+    "price_m": 14.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 2
+   }
+  ],
+  "bunker_prices": []
+ }
+}

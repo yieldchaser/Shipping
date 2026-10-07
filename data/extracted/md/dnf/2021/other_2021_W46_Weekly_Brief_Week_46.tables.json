@@ -1,0 +1,212 @@
+{
+ "issue_date": "2021-11-22",
+ "stem": "other_2021_W46_Weekly_Brief_Week_46",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W46_Weekly_Brief_Week_46.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "BERLIN",
+    "dwt_raw": "76,600",
+    "built_raw": "2009",
+    "price_raw": "£19.9M",
+    "price_currency": "£",
+    "price_m": 19.9,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "BRAVEHEART",
+    "dwt_raw": "74,117",
+    "built_raw": "2001",
+    "price_raw": "£13.0M",
+    "price_currency": "£",
+    "price_m": 13.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "BUNJI",
+    "dwt_raw": "98,704",
+    "built_raw": "2013",
+    "price_raw": "£23.8M",
+    "price_currency": "£",
+    "price_m": 23.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CHERRY DREAM",
+    "dwt_raw": "51,703",
+    "built_raw": "2011",
+    "price_raw": "£17.5M",
+    "price_currency": "£",
+    "price_m": 17.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "FU HENG SHAN",
+    "dwt_raw": "57,034",
+    "built_raw": "2011",
+    "price_raw": "£20.0M",
+    "price_currency": "£",
+    "price_m": 20.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NORDCOLORADO",
+    "dwt_raw": "37,976",
+    "built_raw": "2018",
+    "price_raw": "£32.0M",
+    "price_currency": "£",
+    "price_m": 32.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ORIENT ACCORD",
+    "dwt_raw": "33,755",
+    "built_raw": "2010",
+    "price_raw": "EN BLOC",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ORIENT TIGER",
+    "dwt_raw": "33,701",
+    "built_raw": "2011",
+    "price_raw": "EN BLOC",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ORIENT TRADER",
+    "dwt_raw": "33,757",
+    "built_raw": "2010",
+    "price_raw": "EN BLOC",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ORIENT TRAIL",
+    "dwt_raw": "33,762",
+    "built_raw": "2011",
+    "price_raw": "EN BLOC",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ORIENT TRANSIT",
+    "dwt_raw": "33,755",
+    "built_raw": "2010",
+    "price_raw": "EN BLOC",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SM AURORA",
+    "dwt_raw": "81,970",
+    "built_raw": "2012",
+    "price_raw": "£21.0M",
+    "price_currency": "£",
+    "price_m": 21.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "STAR CRIOS",
+    "dwt_raw": "63,301",
+    "built_raw": "2012",
+    "price_raw": "£21.5M",
+    "price_currency": "£",
+    "price_m": 21.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SUPER LYDIA",
+    "dwt_raw": "37,406",
+    "built_raw": "2007",
+    "price_raw": "£13.0M",
+    "price_currency": "£",
+    "price_m": 13.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ZHONG XING DA 98",
+    "dwt_raw": "38,448",
+    "built_raw": "2013",
+    "price_raw": "£14.1M",
+    "price_currency": "£",
+    "price_m": 14.1,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 609.0,
+    "mgo": 734.0,
+    "ifo380": 494.0,
+    "week_label": "47",
+    "page": 1
+   },
+   {
+    "vlsfo": 643.0,
+    "mgo": 742.0,
+    "ifo380": 492.0,
+    "week_label": "46",
+    "page": 1
+   },
+   {
+    "vlsfo": 632.0,
+    "mgo": 760.0,
+    "ifo380": 505.0,
+    "week_label": "45",
+    "page": 1
+   }
+  ]
+ }
+}

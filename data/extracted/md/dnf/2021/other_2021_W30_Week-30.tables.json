@@ -1,0 +1,130 @@
+{
+ "issue_date": "2021-08-02",
+ "stem": "other_2021_W30_Week-30",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W30_Week-30.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "GREAT REWARD",
+    "dwt_raw": "31,785",
+    "built_raw": "2011",
+    "price_raw": "$12,000,000",
+    "price_currency": "$",
+    "price_m": 12.0,
+    "buyer": "China",
+    "owner": "",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "ULTRA CALBUCO",
+    "dwt_raw": "38,000",
+    "built_raw": "2017",
+    "price_raw": "$23,000,000",
+    "price_currency": "$",
+    "price_m": 23.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "TS JASMINE",
+    "dwt_raw": "38,900",
+    "built_raw": "2018",
+    "price_raw": "$20,000,000",
+    "price_currency": "$",
+    "price_m": 20.0,
+    "buyer": "China",
+    "owner": "",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "DORY",
+    "dwt_raw": "55,700",
+    "built_raw": "2010",
+    "price_raw": "$17,500,000",
+    "price_currency": "$",
+    "price_m": 17.5,
+    "buyer": "",
+    "owner": "SK SHIPPING",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "PHOENIX RISING",
+    "dwt_raw": "60,400",
+    "built_raw": "2015",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "Greece",
+    "owner": "",
+    "notes": "$55,000,000 en bloc",
+    "page": 2
+   },
+   {
+    "vessel_name": "CALICO JACK",
+    "dwt_raw": "61,000",
+    "built_raw": "2015",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "Greece",
+    "owner": "",
+    "notes": "$55,000,000 en bloc",
+    "page": 2
+   },
+   {
+    "vessel_name": "OCEAN PHOENIX TREE",
+    "dwt_raw": "62,600",
+    "built_raw": "2017",
+    "price_raw": "$29,000,000",
+    "price_currency": "$",
+    "price_m": 29.0,
+    "buyer": "",
+    "owner": "HANDYBULK SHIPPING",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "KOMI",
+    "dwt_raw": "63,800",
+    "built_raw": "2015",
+    "price_raw": "$25,000,000",
+    "price_currency": "$",
+    "price_m": 25.0,
+    "buyer": "Greece",
+    "owner": "",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "GLORIOUS WIND",
+    "dwt_raw": "83,410",
+    "built_raw": "2010",
+    "price_raw": "$20,000,000",
+    "price_currency": "$",
+    "price_m": 20.0,
+    "buyer": "Greece",
+    "owner": "MARUBENI CORP",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "DYNA CAMELLIA",
+    "dwt_raw": "91,600",
+    "built_raw": "2007",
+    "price_raw": "$17,000,000",
+    "price_currency": "$",
+    "price_m": 17.0,
+    "buyer": "China",
+    "owner": "HSIN CHIEN MARINE",
+    "notes": "",
+    "page": 2
+   }
+  ],
+  "bunker_prices": []
+ }
+}

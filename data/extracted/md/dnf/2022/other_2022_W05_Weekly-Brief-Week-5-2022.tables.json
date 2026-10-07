@@ -1,0 +1,176 @@
+{
+ "issue_date": "2022-02-07",
+ "stem": "other_2022_W05_Weekly-Brief-Week-5-2022",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2022\\other_2022_W05_Weekly-Brief-Week-5-2022.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "BAOSTEEL ELEVATION",
+    "dwt_raw": "206,312",
+    "built_raw": "2007",
+    "price_raw": "$18.0M",
+    "price_currency": "$",
+    "price_m": 18.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "BOTTIGLIERI FRANCO VELA",
+    "dwt_raw": "93,274",
+    "built_raw": "2010",
+    "price_raw": "$17.0M",
+    "price_currency": "$",
+    "price_m": 17.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "BOTTIGLIERI GIULIO BORRIELLO",
+    "dwt_raw": "93,258",
+    "built_raw": "2011",
+    "price_raw": "$18.5M",
+    "price_currency": "$",
+    "price_m": 18.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CIELO DI VIRGIN GORDA",
+    "dwt_raw": "39,202",
+    "built_raw": "2015",
+    "price_raw": "$22.7M",
+    "price_currency": "$",
+    "price_m": 22.7,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "DAIDO AMBITION",
+    "dwt_raw": "37,800",
+    "built_raw": "2021",
+    "price_raw": "$33.0M",
+    "price_currency": "$",
+    "price_m": 33.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "G TAISHAN",
+    "dwt_raw": "58,780",
+    "built_raw": "2008",
+    "price_raw": "$17.4M",
+    "price_currency": "$",
+    "price_m": 17.4,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "KOUJU LILY",
+    "dwt_raw": "58,872",
+    "built_raw": "2011",
+    "price_raw": "$24.5M",
+    "price_currency": "$",
+    "price_m": 24.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MAGDA",
+    "dwt_raw": "58,018",
+    "built_raw": "2010",
+    "price_raw": "$16.9M",
+    "price_currency": "$",
+    "price_m": 16.9,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MARINE PRINCESS",
+    "dwt_raw": "35,501",
+    "built_raw": "2012",
+    "price_raw": "$16.4M",
+    "price_currency": "$",
+    "price_m": 16.4,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NORD FORTUNE",
+    "dwt_raw": "76,596",
+    "built_raw": "2008",
+    "price_raw": "$16.0M",
+    "price_currency": "$",
+    "price_m": 16.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SKAWA",
+    "dwt_raw": "17,073",
+    "built_raw": "2012",
+    "price_raw": "$10.0M",
+    "price_currency": "$",
+    "price_m": 10.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "WOORI STAR",
+    "dwt_raw": "28,678",
+    "built_raw": "1999",
+    "price_raw": "$7.0M",
+    "price_currency": "$",
+    "price_m": 7.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 714.0,
+    "mgo": 847.0,
+    "ifo380": 561.0,
+    "week_label": "5",
+    "page": 1
+   },
+   {
+    "vlsfo": 691.0,
+    "mgo": 820.0,
+    "ifo380": 543.0,
+    "week_label": "4",
+    "page": 1
+   },
+   {
+    "vlsfo": 692.0,
+    "mgo": 814.0,
+    "ifo380": 534.0,
+    "week_label": "3",
+    "page": 1
+   }
+  ]
+ }
+}

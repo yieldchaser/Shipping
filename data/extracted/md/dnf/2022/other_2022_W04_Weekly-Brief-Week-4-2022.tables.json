@@ -1,0 +1,284 @@
+{
+ "issue_date": "2022-01-31",
+ "stem": "other_2022_W04_Weekly-Brief-Week-4-2022",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2022\\other_2022_W04_Weekly-Brief-Week-4-2022.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "ELVA",
+    "dwt_raw": "73,910",
+    "built_raw": "2001",
+    "price_raw": "$11.0M",
+    "price_currency": "$",
+    "price_m": 11.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "HUI XIN 18",
+    "dwt_raw": "35,045",
+    "built_raw": "2012",
+    "price_raw": "$11.6M",
+    "price_currency": "$",
+    "price_m": 11.6,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "INTERLINK ABILITY",
+    "dwt_raw": "38,683",
+    "built_raw": "2015",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "INTERLINK AFFINITY",
+    "dwt_raw": "39,046",
+    "built_raw": "2016",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "INTERLINK AUDACITY",
+    "dwt_raw": "39,100",
+    "built_raw": "2016",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "INTERLINK FIDELITY",
+    "dwt_raw": "38,792",
+    "built_raw": "2015",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "INTERLINK MOBILITY",
+    "dwt_raw": "38,767",
+    "built_raw": "2015",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "INTERLINK PRIORITY",
+    "dwt_raw": "38,709",
+    "built_raw": "2015",
+    "price_raw": "En bloc",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "INTERLINK PROBITY",
+    "dwt_raw": "38,638",
+    "built_raw": "2015",
+    "price_raw": "USD280M",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "INTERLINK QUALITY",
+    "dwt_raw": "38,719",
+    "built_raw": "2016",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "INTERLINK TENACITY",
+    "dwt_raw": "38,785",
+    "built_raw": "2016",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "INTERLINK UTILITY",
+    "dwt_raw": "38,719",
+    "built_raw": "2016",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "INTERLINK VERACITY",
+    "dwt_raw": "38,763",
+    "built_raw": "2016",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "JIN HANG",
+    "dwt_raw": "93,069",
+    "built_raw": "2012",
+    "price_raw": "$17.2M",
+    "price_currency": "$",
+    "price_m": 17.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "JIN HAO",
+    "dwt_raw": "56,624",
+    "built_raw": "2012",
+    "price_raw": "$15.7M",
+    "price_currency": "$",
+    "price_m": 15.7,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MOLYVOS LUCK",
+    "dwt_raw": "57,924",
+    "built_raw": "2014",
+    "price_raw": "$21.2M",
+    "price_currency": "$",
+    "price_m": 21.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ROYAL INNOVATION",
+    "dwt_raw": "28,374",
+    "built_raw": "2011",
+    "price_raw": "$13.0M",
+    "price_currency": "$",
+    "price_m": 13.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SAFESEA NEHA II",
+    "dwt_raw": "53,389",
+    "built_raw": "2008",
+    "price_raw": "$13.0M",
+    "price_currency": "$",
+    "price_m": 13.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SILVERSTAR",
+    "dwt_raw": "31,762",
+    "built_raw": "3998",
+    "price_raw": "$18.5M",
+    "price_currency": "$",
+    "price_m": 18.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SOUTH TRADER",
+    "dwt_raw": "181,300",
+    "built_raw": "2014",
+    "price_raw": "$33.8M",
+    "price_currency": "$",
+    "price_m": 33.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ULTRA TOLHUACA",
+    "dwt_raw": "37,429",
+    "built_raw": "2015",
+    "price_raw": "$24.5M",
+    "price_currency": "$",
+    "price_m": 24.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 691.0,
+    "mgo": 820.0,
+    "ifo380": 543.0,
+    "week_label": "4",
+    "page": 1
+   },
+   {
+    "vlsfo": 689.0,
+    "mgo": 810.0,
+    "ifo380": 533.0,
+    "week_label": "3",
+    "page": 1
+   },
+   {
+    "vlsfo": 664.0,
+    "mgo": 788.0,
+    "ifo380": 514.0,
+    "week_label": "2",
+    "page": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "issue_date": "2021-12-06",
+ "stem": "other_2021_W48_Weekly-Brief-Week-48",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W48_Weekly-Brief-Week-48.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "AQUAPRINCESS",
+    "dwt_raw": "182,060",
+    "built_raw": "2009",
+    "price_raw": "£25.0M",
+    "price_currency": "£",
+    "price_m": 25.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CAPE TREASURE",
+    "dwt_raw": "180,201",
+    "built_raw": "2007",
+    "price_raw": "£21.5M",
+    "price_currency": "£",
+    "price_m": 21.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CLIPPER BETTINA",
+    "dwt_raw": "38,221",
+    "built_raw": "2012",
+    "price_raw": "£19.3M",
+    "price_currency": "£",
+    "price_m": 19.3,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "FAREAST HOPE",
+    "dwt_raw": "55,628",
+    "built_raw": "2004",
+    "price_raw": "£14.8M",
+    "price_currency": "£",
+    "price_m": 14.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "GDF SUEZ NORTH SEA",
+    "dwt_raw": "55,848",
+    "built_raw": "2012",
+    "price_raw": "£21.0M",
+    "price_currency": "£",
+    "price_m": 21.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NONI",
+    "dwt_raw": "61,631",
+    "built_raw": "2015",
+    "price_raw": "£27.5M",
+    "price_currency": "£",
+    "price_m": 27.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "OCEAN GALAXY",
+    "dwt_raw": "37,193",
+    "built_raw": "2011",
+    "price_raw": "£16.5M",
+    "price_currency": "£",
+    "price_m": 16.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SITC HUASHAN",
+    "dwt_raw": "76,249",
+    "built_raw": "2012",
+    "price_raw": "£22.0M",
+    "price_currency": "£",
+    "price_m": 22.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "STAR ARTEMIS",
+    "dwt_raw": "63,205",
+    "built_raw": "2015",
+    "price_raw": "£26.5M",
+    "price_currency": "£",
+    "price_m": 26.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "STAR EOS",
+    "dwt_raw": "63,132",
+    "built_raw": "2015",
+    "price_raw": "£26.5M",
+    "price_currency": "£",
+    "price_m": 26.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "VIRGO COLOSSUS",
+    "dwt_raw": "61,616",
+    "built_raw": "2012",
+    "price_raw": "£24.0M",
+    "price_currency": "£",
+    "price_m": 24.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 587.0,
+    "mgo": 698.0,
+    "ifo380": 463.0,
+    "week_label": "48",
+    "page": 1
+   },
+   {
+    "vlsfo": 618.0,
+    "mgo": 738.0,
+    "ifo380": 498.0,
+    "week_label": "47",
+    "page": 1
+   },
+   {
+    "vlsfo": 643.0,
+    "mgo": 742.0,
+    "ifo380": 492.0,
+    "week_label": "46",
+    "page": 1
+   }
+  ]
+ }
+}

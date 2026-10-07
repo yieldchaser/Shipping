@@ -1,0 +1,236 @@
+{
+ "issue_date": "2022-04-11",
+ "stem": "other_2022_W14_Weekly_Brief_Week_14_2022",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2022\\other_2022_W14_Weekly_Brief_Week_14_2022.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "MARAN PROGRESS",
+    "dwt_raw": "114,407",
+    "built_raw": "2014",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MARAN DAWN",
+    "dwt_raw": "114,091",
+    "built_raw": "2011",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MARAN SKY",
+    "dwt_raw": "114,078",
+    "built_raw": "2011",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MARAN SUN",
+    "dwt_raw": "114,078",
+    "built_raw": "2011",
+    "price_raw": "En bloc",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MARAN WISDOM",
+    "dwt_raw": "114,046",
+    "built_raw": "2014",
+    "price_raw": "$200.0 M",
+    "price_currency": "$",
+    "price_m": 200.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MARAN ZENITH",
+    "dwt_raw": "114,038",
+    "built_raw": "2013",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MARAN ASPIRATION",
+    "dwt_raw": "114,013",
+    "built_raw": "2012",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "MARAN OCEAN",
+    "dwt_raw": "114,007",
+    "built_raw": "2011",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CMB PAUILLAC",
+    "dwt_raw": "95,707",
+    "built_raw": "2012",
+    "price_raw": "$24.5M",
+    "price_currency": "$",
+    "price_m": 24.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ROSCO LITCHI",
+    "dwt_raw": "82,153",
+    "built_raw": "2011",
+    "price_raw": "$25.0M",
+    "price_currency": "$",
+    "price_m": 25.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "YANGTZE XING HUA",
+    "dwt_raw": "81,677",
+    "built_raw": "2012",
+    "price_raw": "$21.5M",
+    "price_currency": "$",
+    "price_m": 21.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SEA NEPTUNE",
+    "dwt_raw": "81,631",
+    "built_raw": "2013",
+    "price_raw": "$22.5M",
+    "price_currency": "$",
+    "price_m": 22.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CORAL CRYSTAL",
+    "dwt_raw": "78,103",
+    "built_raw": "2012",
+    "price_raw": "$25.0M",
+    "price_currency": "$",
+    "price_m": 25.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ULTRA INITIATOR",
+    "dwt_raw": "62,647",
+    "built_raw": "2019",
+    "price_raw": "$36.8M",
+    "price_currency": "$",
+    "price_m": 36.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "ENY",
+    "dwt_raw": "53,525",
+    "built_raw": "2006",
+    "price_raw": "$17.0M",
+    "price_currency": "$",
+    "price_m": 17.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "STRATEGIC ENCOUNTER",
+    "dwt_raw": "33,000",
+    "built_raw": "2010",
+    "price_raw": "$14.0M",
+    "price_currency": "$",
+    "price_m": 14.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "Iron Ore",
+    "dwt_raw": "",
+    "built_raw": "30 days ($/t)",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 920.0,
+    "mgo": 1150.0,
+    "ifo380": 743.0,
+    "week_label": "14",
+    "page": 1
+   },
+   {
+    "vlsfo": 930.0,
+    "mgo": 1168.0,
+    "ifo380": 820.0,
+    "week_label": "13",
+    "page": 1
+   },
+   {
+    "vlsfo": 947.0,
+    "mgo": 1160.0,
+    "ifo380": 716.0,
+    "week_label": "12",
+    "page": 1
+   }
+  ]
+ }
+}

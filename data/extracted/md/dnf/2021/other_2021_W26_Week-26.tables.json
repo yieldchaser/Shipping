@@ -1,0 +1,166 @@
+{
+ "issue_date": "2021-07-05",
+ "stem": "other_2021_W26_Week-26",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W26_Week-26.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "SPRINGBANK",
+    "dwt_raw": "177,066",
+    "built_raw": "2010",
+    "price_raw": "$26,500,000",
+    "price_currency": "$",
+    "price_m": 26.5,
+    "buyer": "Greece",
+    "owner": "MINSHENG FINANCIAL LEASING CO LTD",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "KOULITSA",
+    "dwt_raw": "76,858",
+    "built_raw": "2003",
+    "price_raw": "$13,500,000",
+    "price_currency": "$",
+    "price_m": 13.5,
+    "buyer": "",
+    "owner": "SAFE BULKERS",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "IMPERIAL ROSE",
+    "dwt_raw": "76,619",
+    "built_raw": "2008",
+    "price_raw": "$18,000,000",
+    "price_currency": "$",
+    "price_m": 18.0,
+    "buyer": "",
+    "owner": "SHIPWRIGHT MANAGEMENT",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "AQUAMAN",
+    "dwt_raw": "75,243",
+    "built_raw": "2001",
+    "price_raw": "$11,000,000",
+    "price_currency": "$",
+    "price_m": 11.0,
+    "buyer": "",
+    "owner": "DIANA SHIPPING",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "SERENE SUSANNAH",
+    "dwt_raw": "57,266",
+    "built_raw": "2010",
+    "price_raw": "$15,000,000",
+    "price_currency": "$",
+    "price_m": 15.0,
+    "buyer": "",
+    "owner": "CHANDRIS HELLAS",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "IMPERIAL FORTUNE",
+    "dwt_raw": "53,505",
+    "built_raw": "2006",
+    "price_raw": "$13,000,000",
+    "price_currency": "$",
+    "price_m": 13.0,
+    "buyer": "",
+    "owner": "YANO KAIUN",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "NEW UNITY",
+    "dwt_raw": "53,472",
+    "built_raw": "2006",
+    "price_raw": "$13,000,000",
+    "price_currency": "$",
+    "price_m": 13.0,
+    "buyer": "",
+    "owner": "DAIWA KISEN",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "INTERLINK VERITY",
+    "dwt_raw": "37,163",
+    "built_raw": "2012",
+    "price_raw": "$14,800,000",
+    "price_currency": "$",
+    "price_m": 14.8,
+    "buyer": "Greece",
+    "owner": "INTERLINK",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "INTERLINK PARITY",
+    "dwt_raw": "37,152",
+    "built_raw": "2012",
+    "price_raw": "$14,800,000",
+    "price_currency": "$",
+    "price_m": 14.8,
+    "buyer": "Greece",
+    "owner": "INTERLINK",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "INTERLINK EQUITY",
+    "dwt_raw": "37,071",
+    "built_raw": "2013",
+    "price_raw": "$14,700,000",
+    "price_currency": "$",
+    "price_m": 14.7,
+    "buyer": "Greece",
+    "owner": "INTERLINK",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "N DISCOVERY",
+    "dwt_raw": "37,019",
+    "built_raw": "2012",
+    "price_raw": "$14,000,000",
+    "price_currency": "$",
+    "price_m": 14.0,
+    "buyer": "Greece",
+    "owner": "HANSEATIC UNITY CHARTERING",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "DREAM ISLAND",
+    "dwt_raw": "34,467",
+    "built_raw": "2015",
+    "price_raw": "$18,800,000",
+    "price_currency": "$",
+    "price_m": 18.8,
+    "buyer": "Turkey",
+    "owner": "SHIKISHIMA KISEN",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "KING COTTON",
+    "dwt_raw": "33,622",
+    "built_raw": "2011",
+    "price_raw": "$13,000,000",
+    "price_currency": "$",
+    "price_m": 13.0,
+    "buyer": "",
+    "owner": "FAIRMONT SHIPPING",
+    "notes": "",
+    "page": 2
+   }
+  ],
+  "bunker_prices": []
+ }
+}

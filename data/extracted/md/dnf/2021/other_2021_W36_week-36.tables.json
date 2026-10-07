@@ -1,0 +1,140 @@
+{
+ "issue_date": "2021-09-13",
+ "stem": "other_2021_W36_week-36",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W36_week-36.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "BAO ELLA",
+    "dwt_raw": "53,468",
+    "built_raw": "2006",
+    "price_raw": "£14.8M",
+    "price_currency": "£",
+    "price_m": 14.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "JOSCO SUZHOU",
+    "dwt_raw": "49,416",
+    "built_raw": "2004",
+    "price_raw": "£13.5M",
+    "price_currency": "£",
+    "price_m": 13.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NAVIOS ALTAIR I",
+    "dwt_raw": "74,475",
+    "built_raw": "2006",
+    "price_raw": "£14.0M",
+    "price_currency": "£",
+    "price_m": 14.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NEW PRIDE",
+    "dwt_raw": "58,761",
+    "built_raw": "2008",
+    "price_raw": "£18.8M",
+    "price_currency": "£",
+    "price_m": 18.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NORD SUMMIT",
+    "dwt_raw": "61,649",
+    "built_raw": "2012",
+    "price_raw": "£22.5M",
+    "price_currency": "£",
+    "price_m": 22.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NSS DYNAMIC",
+    "dwt_raw": "233,584",
+    "built_raw": "2002",
+    "price_raw": "£18.5M",
+    "price_currency": "£",
+    "price_m": 18.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SEACON SHANGHAI",
+    "dwt_raw": "82,000",
+    "built_raw": "2019",
+    "price_raw": "£35.0M",
+    "price_currency": "£",
+    "price_m": 35.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SHAO SHAN 6",
+    "dwt_raw": "75,700",
+    "built_raw": "2012",
+    "price_raw": "£20.9M",
+    "price_currency": "£",
+    "price_m": 20.9,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "VIJAYANAGAR",
+    "dwt_raw": "82,162",
+    "built_raw": "2010",
+    "price_raw": "£24.0M",
+    "price_currency": "£",
+    "price_m": 24.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 534.0,
+    "mgo": 623.0,
+    "ifo380": 435.0,
+    "week_label": "34",
+    "page": 1
+   },
+   {
+    "vlsfo": 543.0,
+    "mgo": 638.0,
+    "ifo380": 442.0,
+    "week_label": "35",
+    "page": 1
+   },
+   {
+    "vlsfo": 548.0,
+    "mgo": 650.0,
+    "ifo380": 452.0,
+    "week_label": "36",
+    "page": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "issue_date": "2021-11-01",
+ "stem": "other_2021_W43_Weekly-Brief-Week-43",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W43_Weekly-Brief-Week-43.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "AROMA 2",
+    "dwt_raw": "28,509",
+    "built_raw": "2009",
+    "price_raw": "",
+    "price_currency": "",
+    "price_m": null,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "BEI LUN HAI 9",
+    "dwt_raw": "69,703",
+    "built_raw": "1989",
+    "price_raw": "£4.7M",
+    "price_currency": "£",
+    "price_m": 4.7,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CAPE SPRING",
+    "dwt_raw": "180,082",
+    "built_raw": "2011",
+    "price_raw": "£30.0M",
+    "price_currency": "£",
+    "price_m": 30.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "CREST NAVIGATOR",
+    "dwt_raw": "36,360",
+    "built_raw": "2012",
+    "price_raw": "£21.0M",
+    "price_currency": "£",
+    "price_m": 21.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "DORY",
+    "dwt_raw": "34,529",
+    "built_raw": "2010",
+    "price_raw": "£16.2M",
+    "price_currency": "£",
+    "price_m": 16.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "KIVELI",
+    "dwt_raw": "38,191",
+    "built_raw": "2008",
+    "price_raw": "£11.0M",
+    "price_currency": "£",
+    "price_m": 11.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "LILIAN",
+    "dwt_raw": "24,838",
+    "built_raw": "1999",
+    "price_raw": "£6.8M",
+    "price_currency": "£",
+    "price_m": 6.8,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NINA-MARIE",
+    "dwt_raw": "35,974",
+    "built_raw": "2012",
+    "price_raw": "£17.5M",
+    "price_currency": "£",
+    "price_m": 17.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "NORDIC MALMOE",
+    "dwt_raw": "35,038",
+    "built_raw": "2012",
+    "price_raw": "£16.7M",
+    "price_currency": "£",
+    "price_m": 16.7,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "RENATE",
+    "dwt_raw": "35,496",
+    "built_raw": "2013",
+    "price_raw": "£18.0M",
+    "price_currency": "£",
+    "price_m": 18.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SHENG JIA HE 2",
+    "dwt_raw": "34,365",
+    "built_raw": "2013",
+    "price_raw": "£7.2M",
+    "price_currency": "£",
+    "price_m": 7.2,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   },
+   {
+    "vessel_name": "SKOPOS",
+    "dwt_raw": "28,100",
+    "built_raw": "2001",
+    "price_raw": "£7.5M",
+    "price_currency": "£",
+    "price_m": 7.5,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 1
+   }
+  ],
+  "bunker_prices": [
+   {
+    "vlsfo": 637.0,
+    "mgo": 764.0,
+    "ifo380": 524.0,
+    "week_label": "43",
+    "page": 1
+   },
+   {
+    "vlsfo": 635.0,
+    "mgo": 758.0,
+    "ifo380": 533.0,
+    "week_label": "42",
+    "page": 1
+   },
+   {
+    "vlsfo": 624.0,
+    "mgo": 749.0,
+    "ifo380": 531.0,
+    "week_label": "41",
+    "page": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "issue_date": "2021-08-16",
+ "stem": "other_2021_W32_Week-32",
+ "source_file": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\archive\\other\\2021\\other_2021_W32_Week-32.pdf",
+ "tables": {
+  "secondhand_transactions": [
+   {
+    "vessel_name": "SEXTA",
+    "dwt_raw": "18,367",
+    "built_raw": "2000",
+    "price_raw": "$4,000,000",
+    "price_currency": "$",
+    "price_m": 4.0,
+    "buyer": "",
+    "owner": "MEDLINK MANAGEMENT",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "ORIENT GLORY",
+    "dwt_raw": "32,419",
+    "built_raw": "2013",
+    "price_raw": "$15,000,000",
+    "price_currency": "$",
+    "price_m": 15.0,
+    "buyer": "Greece",
+    "owner": "BOKWANG SHIPPING",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "MARATHA PROMISE",
+    "dwt_raw": "37,187",
+    "built_raw": "2012",
+    "price_raw": "$16,000,000",
+    "price_currency": "$",
+    "price_m": 16.0,
+    "buyer": "",
+    "owner": "CHOWGULE STEAMSHIPS",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "OCEAN MERCURY",
+    "dwt_raw": "37,196",
+    "built_raw": "2012",
+    "price_raw": "$13,000,000",
+    "price_currency": "$",
+    "price_m": 13.0,
+    "buyer": "",
+    "owner": "DOJIMA MARINE",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "GLORIUS SAIKI",
+    "dwt_raw": "37,200",
+    "built_raw": "2012",
+    "price_raw": "$16,000,000",
+    "price_currency": "$",
+    "price_m": 16.0,
+    "buyer": "Hong Kong",
+    "owner": "",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "ADITYA",
+    "dwt_raw": "55,496",
+    "built_raw": "2008",
+    "price_raw": "$16,500,000",
+    "price_currency": "$",
+    "price_m": 16.5,
+    "buyer": "Norway",
+    "owner": "SHOEI KISEN",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "SANTA BARBARA",
+    "dwt_raw": "61,381",
+    "built_raw": "2013",
+    "price_raw": "$24,000,000",
+    "price_currency": "$",
+    "price_m": 24.0,
+    "buyer": "Far East",
+    "owner": "NORDEN",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "CABEIRO",
+    "dwt_raw": "74,475",
+    "built_raw": "2007",
+    "price_raw": "$13,000,000",
+    "price_currency": "$",
+    "price_m": 13.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "TRANS AFRICA",
+    "dwt_raw": "81,270",
+    "built_raw": "2017",
+    "price_raw": "$30,000,000",
+    "price_currency": "$",
+    "price_m": 30.0,
+    "buyer": "",
+    "owner": "BERKELEY SHIPPING",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "AQUA SPENDOR",
+    "dwt_raw": "175,589",
+    "built_raw": "2012",
+    "price_raw": "$27,000,000",
+    "price_currency": "$",
+    "price_m": 27.0,
+    "buyer": "",
+    "owner": "",
+    "notes": "",
+    "page": 2
+   },
+   {
+    "vessel_name": "YUMETAMOU",
+    "dwt_raw": "181,400",
+    "built_raw": "2012",
+    "price_raw": "$32,000,000",
+    "price_currency": "$",
+    "price_m": 32.0,
+    "buyer": "Greece",
+    "owner": "DOUN KISEN",
+    "notes": "",
+    "page": 2
+   }
+  ],
+  "bunker_prices": []
+ }
+}
