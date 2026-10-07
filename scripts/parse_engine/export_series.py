@@ -17,11 +17,15 @@ from typing import Any
 from scripts.parse_engine.config import REPO_ROOT
 from scripts.parse_engine.promote import read_frontmatter
 
+# Columns of the old series files, kept so existing readers (r["issue"], r["NAME"] ...) keep working.
+SALES_ALIASES = ["issue", "page", "NAME", "TYPE", "DWT", "BUILT", "YARD", "PRICE", "BUYERS", "SS_DD", "COMMENTS", "extra_json"]
+DEMO_ALIASES = ["issue", "page", "NAME", "TYPE", "DWT", "BUILT", "YARD", "PRICE", "DELIVERY", "COMMENTS", "extra_json"]
 SALES_FIELDS = ["issue_date", "report_week", "section", "vessel", "dwt", "built_year", "yard", "details", "ss_dd",
-                "price_raw", "price_usd_m", "price_qualifier", "price_scope", "buyer", "en_bloc", "en_bloc_group",
-                "built_raw", "source_file", "source_sha256"]
+                "price_raw", "price_usd_m", "price_usd_m_per_vessel", "price_qualifier", "price_scope", "buyer", "en_bloc",
+                "en_bloc_group",
+                "built_raw", "source_file", "source_sha256"] + SALES_ALIASES
 DEMO_FIELDS = ["issue_date", "report_week", "section", "vessel", "dwt", "built_year", "built_place", "ldt",
-               "price_raw", "price_usd_ldt", "destination", "details", "built_raw", "source_file", "source_sha256"]
+               "price_raw", "price_usd_ldt", "destination", "details", "built_raw", "source_file", "source_sha256"] + DEMO_ALIASES
 
 NO_SALES = "no reported sales"
 EN_BLOC_RE = re.compile(r"en\s*-?\s*bloc", re.I)
@@ -35,13 +39,14 @@ AMOUNT_RE = re.compile(
 
 # ---------------------------------------------------------------------------------------- parsing
 def parse_amount(token: str) -> float | None:
-    """'22,7' -> 22.7 (decimal comma), '1,250' -> 1250, '222.5' -> 222.5."""
+    """'22,7' -> 22.7 (decimal comma), '1,250' -> 1250, '222.5' -> 222.5, '1.250,5' -> 1250.5, '1,250.5' -> 1250.5."""
     t = token.strip().rstrip(".,")
-    if "," in t and "." not in t:
+    if "," in t and "." in t:
+        # the separator that comes last is the decimal mark
+        t = t.replace(".", "").replace(",", ".") if t.rfind(",") > t.rfind(".") else t.replace(",", "")
+    elif "," in t:
         head, _, tail = t.rpartition(",")
         t = f"{head.replace(',', '')}.{tail}" if 1 <= len(tail) <= 2 and head else t.replace(",", "")
-    else:
-        t = t.replace(",", "")
     try:
         return float(t)
     except ValueError:
@@ -111,8 +116,12 @@ def section_of(table_name: str) -> str:
     return "other"
 
 
-def parse_ldt(details: str) -> int | str:
+def parse_ldt(details: str, bare_ok: bool = False) -> int | str:
+    """LDT from a Details cell ("9,543 LDT"). With `bare_ok` (a demolition table, where the column holds the
+    light displacement) a bare number such as "9,200" is read as LDT too."""
     m = re.search(r"([\d.,]+)\s*LDT", details or "", re.I)
+    if not m and bare_ok:
+        m = re.fullmatch(r"\s*([\d][\d.,]*)\s*", details or "")
     if not m:
         return ""
     tok = m.group(1).strip(".,")
@@ -150,7 +159,128 @@ def _col(columns: list[str], *names: str) -> int | None:
     return None
 
 
-def export(root: Path, out_dir: Path, only_stems: set[str] | None = None) -> dict[str, Any]:
+def with_aliases(row: dict[str, Any], demo: bool) -> dict[str, Any]:
+    """Add the legacy-named columns (see SALES_ALIASES / DEMO_ALIASES) to a flat series row."""
+    import json as _json
+    extra = {"stem": Path(str(row.get("source_file", ""))).stem, "source_file": Path(str(row.get("source_file", ""))).name,
+             "raw_built": row.get("built_raw", "")}
+    out = {**row, "issue": row.get("issue_date"), "NAME": row.get("vessel"), "TYPE": "",
+           "DWT": row.get("dwt_raw", row.get("dwt")), "BUILT": row.get("built_raw") if demo else row.get("built_year"),
+           "YARD": row.get("built_place") if demo else row.get("yard"), "PRICE": row.get("price_raw"),
+           "COMMENTS": row.get("details"), "extra_json": _json.dumps(extra, ensure_ascii=False)}
+    if demo:
+        out["DELIVERY"] = row.get("destination")
+    else:
+        out["BUYERS"] = row.get("buyer")
+        out["SS_DD"] = row.get("ss_dd")
+    return out
+
+
+def tables_of(data: Any) -> list[dict[str, Any]]:
+    """The table list of a tables.json: schema parse_engine/v1 (object with "tables") or a bare list."""
+    if isinstance(data, dict):
+        return list(data.get("tables") or [])
+    return list(data or [])
+
+
+def issue_rows(tables: list[dict[str, Any]], meta: dict[str, Any]) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    """Flat vessel rows (sales, demolitions) of one issue. `meta` carries issue_date, report_week,
+    source_file and source_sha256.
+
+    en_bloc_group changes when the en-bloc state, the raw price or the buyer changes between consecutive
+    rows, so two neighbouring en-bloc deals are two groups. price_usd_m_per_vessel is the group price
+    divided by the vessels in the group when price_scope is 'group', otherwise it equals price_usd_m."""
+    sales: list[dict[str, Any]] = []
+    demo: list[dict[str, Any]] = []
+    for t in tables:
+        cols, rows = t["columns"], t["rows"]
+        if t.get("empty") or (rows and rows[0][0].strip().lower() == NO_SALES):
+            continue
+        is_demo = t["name"].lower().startswith("demolition")
+        ix = {k: _col(cols, *v) for k, v in {
+            "vessel": ("Vessel",), "dwt": ("DWT",), "year": ("Year",), "yard": ("Yard",),
+            "built": ("Built",), "details": ("Details",), "ssdd": ("SS/DD",), "price": ("Price",),
+            "buyer": ("Buyer",), "delivery": ("Delivery",)}.items()}
+        get = lambda row, k: row[ix[k]].strip() if ix[k] is not None and ix[k] < len(row) else ""  # noqa: E731
+        flagged = set(t.get("en_bloc_rows", []))
+        sec = section_of(t["name"])
+        group = 0
+        prev_key: tuple[str, str] | None = None
+        first_sale = len(sales)
+        for ri, row in enumerate(rows):
+            if re.fullmatch(r"[-\u2013\u2014\s]*", get(row, "vessel")):
+                continue                      # a dash placeholder row ("--") is not a vessel
+            if is_demo:
+                built = get(row, "built") or get(row, "year")
+                m = re.match(r"((?:19|20)\d{2})\s*(.*)$", built)
+                demo.append({**meta, "section": sec, "vessel": get(row, "vessel"), "page": t.get("page"),
+                             "dwt_raw": get(row, "dwt"), "dwt": parse_int(get(row, "dwt")), "built_year": int(m.group(1)) if m else "",
+                             "built_place": (m.group(2) if m else built).strip(), "ldt": parse_ldt(get(row, "details"), bare_ok=True),
+                             "price_raw": get(row, "price"), "price_usd_ldt": parse_demo_price(get(row, "price")),
+                             "destination": get(row, "delivery"), "details": get(row, "details"), "built_raw": built})
+                continue
+            price_raw = get(row, "price")
+            buyer = get(row, "buyer")
+            pp = parse_price(price_raw)
+            en_bloc = bool(pp["en_bloc"] or ri in flagged or EN_BLOC_RE.search(buyer))
+            key = (price_raw, buyer)
+            if en_bloc and (prev_key is None or key != prev_key):
+                group += 1
+            prev_key = key if en_bloc else None
+            if en_bloc and not pp["price_scope"] and pp["price_usd_m"] != "":
+                pp["price_scope"] = "group"
+            year_raw = get(row, "year") or get(row, "built")
+            sales.append({**meta, "section": sec, "vessel": get(row, "vessel"), "page": t.get("page"),
+                          "dwt_raw": get(row, "dwt"), "dwt": parse_int(get(row, "dwt")), "built_year": parse_year(year_raw),
+                          "yard": get(row, "yard"), "details": get(row, "details"), "ss_dd": get(row, "ssdd"),
+                          "price_raw": price_raw, "price_usd_m": pp["price_usd_m"],
+                          "price_qualifier": pp["price_qualifier"], "price_scope": pp["price_scope"],
+                          "buyer": buyer, "en_bloc": en_bloc,
+                          "en_bloc_group": f"{meta['issue_date']}#{sec}{group}" if en_bloc else "",
+                          "built_raw": year_raw})
+        sizes: dict[str, int] = {}
+        for r in sales[first_sale:]:
+            if r["en_bloc_group"]:
+                sizes[r["en_bloc_group"]] = sizes.get(r["en_bloc_group"], 0) + 1
+        for r in sales[first_sale:]:
+            price = r["price_usd_m"]
+            if price == "":
+                r["price_usd_m_per_vessel"] = ""
+            elif r["price_scope"] == "group" and r["en_bloc_group"]:
+                r["price_usd_m_per_vessel"] = round(price / sizes[r["en_bloc_group"]], 3)
+            else:
+                r["price_usd_m_per_vessel"] = price
+    return sales, demo
+
+
+def legacy_aliases(row: dict[str, Any]) -> dict[str, Any]:
+    """Upper-case keys the legacy Clarksons sidecars used (NAME, DWT, BUILT, YARD, PRICE, BUYERS, SS_DD)."""
+    return {**row, "NAME": row.get("vessel"), "DWT": row.get("dwt"), "BUILT": row.get("built_year"),
+            "YARD": row.get("yard"), "PRICE": row.get("price_raw"), "BUYERS": row.get("buyer"),
+            "SS_DD": row.get("ss_dd")}
+
+
+def sidecar_payload(tables: list[dict[str, Any]], issue_date: str | None, source_file: str,
+                    source_sha256: str) -> dict[str, Any]:
+    """tables.json for one issue: object schema parse_engine/v1, readable by the legacy consumers
+    (dict root, `sales`, `demolitions`, `sales_count`, `demo_count`) and carrying the geometric tables."""
+    week = date.fromisoformat(issue_date).isocalendar()[1] if issue_date else None
+    meta = {"issue_date": issue_date, "report_week": week, "source_file": source_file, "source_sha256": source_sha256}
+    sales, demo = issue_rows(tables, meta)
+    return {"schema": "parse_engine/v1", "issue_date": issue_date, "report_week": week, "source_file": source_file,
+            "source_sha256": source_sha256, "sales_count": len(sales), "demo_count": len(demo),
+            "tables": tables, "sales": [legacy_aliases(r) for r in sales], "demolitions": demo}
+
+
+def export(root: Path, out_dir: Path, only_stems: set[str] | None = None,
+           require_engine_schema: bool = False) -> dict[str, Any]:
+    if require_engine_schema:
+        legacy = [tj for _, tj in _iter_issues(root)
+                  if not isinstance(json.loads(tj.read_text(encoding="utf-8")), dict)
+                  or json.loads(tj.read_text(encoding="utf-8")).get("schema") != "parse_engine/v1"]
+        if legacy:
+            raise SystemExit(f"series: {len(legacy)} tables.json under {root} are not schema parse_engine/v1 "
+                             f"(first: {legacy[0].name}); promote the parse_engine output first")
     sales: list[dict[str, Any]] = []
     demo: list[dict[str, Any]] = []
     issues = 0
@@ -165,53 +295,16 @@ def export(root: Path, out_dir: Path, only_stems: set[str] | None = None) -> dic
         week = date.fromisoformat(str(issue_date)).isocalendar()[1]
         meta = {"issue_date": str(issue_date), "report_week": week, "source_file": fm.get("source_file", ""),
                 "source_sha256": fm.get("source_sha256", "")}
-        for t in json.loads(tj.read_text(encoding="utf-8")):
-            cols, rows = t["columns"], t["rows"]
-            if t.get("empty") or (rows and rows[0][0].strip().lower() == NO_SALES):
-                continue
-            is_demo = t["name"].lower().startswith("demolition")
-            ix = {k: _col(cols, *v) for k, v in {
-                "vessel": ("Vessel",), "dwt": ("DWT",), "year": ("Year",), "yard": ("Yard",),
-                "built": ("Built",), "details": ("Details",), "ssdd": ("SS/DD",), "price": ("Price",),
-                "buyer": ("Buyer",), "delivery": ("Delivery",)}.items()}
-            get = lambda row, k: row[ix[k]].strip() if ix[k] is not None and ix[k] < len(row) else ""  # noqa: E731
-            flagged = set(t.get("en_bloc_rows", []))
-            group = 0
-            prev_en_bloc = False
-            for ri, row in enumerate(rows):
-                if is_demo:
-                    built = get(row, "built") or get(row, "year")
-                    m = re.match(r"((?:19|20)\d{2})\s*(.*)$", built)
-                    demo.append({**meta, "section": section_of(t["name"]), "vessel": get(row, "vessel"),
-                                 "dwt": parse_int(get(row, "dwt")), "built_year": int(m.group(1)) if m else "",
-                                 "built_place": (m.group(2) if m else built).strip(), "ldt": parse_ldt(get(row, "details")),
-                                 "price_raw": get(row, "price"), "price_usd_ldt": parse_demo_price(get(row, "price")),
-                                 "destination": get(row, "delivery"), "details": get(row, "details"), "built_raw": built})
-                    continue
-                price_raw = get(row, "price")
-                pp = parse_price(price_raw)
-                en_bloc = bool(pp["en_bloc"] or ri in flagged or EN_BLOC_RE.search(get(row, "buyer")))
-                if en_bloc and not prev_en_bloc:
-                    group += 1
-                prev_en_bloc = en_bloc
-                if en_bloc and not pp["price_scope"] and pp["price_usd_m"] != "":
-                    pp["price_scope"] = "group"
-                year_raw = get(row, "year") or get(row, "built")
-                sales.append({**meta, "section": section_of(t["name"]), "vessel": get(row, "vessel"),
-                              "dwt": parse_int(get(row, "dwt")), "built_year": parse_year(year_raw),
-                              "yard": get(row, "yard"), "details": get(row, "details"), "ss_dd": get(row, "ssdd"),
-                              "price_raw": price_raw, "price_usd_m": pp["price_usd_m"],
-                              "price_qualifier": pp["price_qualifier"], "price_scope": pp["price_scope"],
-                              "buyer": get(row, "buyer"), "en_bloc": en_bloc,
-                              "en_bloc_group": f"{meta['issue_date']}#{section_of(t['name'])}{group}" if en_bloc else "",
-                              "built_raw": year_raw})
+        s_rows, d_rows = issue_rows(tables_of(json.loads(tj.read_text(encoding="utf-8"))), meta)
+        sales.extend(s_rows)
+        demo.extend(d_rows)
     out_dir.mkdir(parents=True, exist_ok=True)
-    for name, fields, rows in (("clarksons_sales_series.csv", SALES_FIELDS, sales),
-                               ("clarksons_demolition_series.csv", DEMO_FIELDS, demo)):
+    for name, fields, rows, is_demo in (("clarksons_sales_series.csv", SALES_FIELDS, sales, False),
+                                        ("clarksons_demolition_series.csv", DEMO_FIELDS, demo, True)):
         with open(out_dir / name, "w", newline="", encoding="utf-8") as fh:
-            w = csv.DictWriter(fh, fieldnames=fields)
+            w = csv.DictWriter(fh, fieldnames=fields, extrasaction="ignore")
             w.writeheader()
-            w.writerows(rows)
+            w.writerows(with_aliases(r, is_demo) for r in rows)
     return {"issues": issues, "sales_rows": len(sales), "demolition_rows": len(demo), "sales": sales, "demo": demo}
 
 
@@ -258,8 +351,8 @@ DEFAULT_OLD = {"sales_series": ("clarksons_sales_series.csv", "issue_date", "NAM
 
 
 def run_export(root: Path, out_dir: Path, series_dir: Path = REPO_ROOT / "data" / "extracted" / "series",
-               only_stems: set[str] | None = None) -> dict[str, Any]:
-    res = export(root, out_dir, only_stems)
+               only_stems: set[str] | None = None, require_engine_schema: bool = False) -> dict[str, Any]:
+    res = export(root, out_dir, only_stems, require_engine_schema)
     res["comparison"] = {}
     for key, (fname, dcol, vcol) in DEFAULT_OLD.items():
         path = series_dir / fname

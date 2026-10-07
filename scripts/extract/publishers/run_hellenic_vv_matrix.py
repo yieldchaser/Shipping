@@ -354,6 +354,7 @@ async def process_vv_item_async(h_path: Path, sem: asyncio.Semaphore) -> Tuple[D
     ])
 
     md_path = year_dir / f"{stem}.md"
+    _refuse_legacy_vv_write(md_path, year_dir / f"{stem}.tables.json")
     with open(md_path, "w", encoding="utf-8") as mf:
         mf.write("\n".join(md_lines))
 
@@ -456,7 +457,24 @@ def dedupe_report_copies(html_files: List[Path]) -> List[Path]:
     return sorted(hp for hp, _owns in best.values())
 
 
+def _refuse_legacy_vv_write(*paths: Path) -> None:
+    """VesselsValue Markdown, sidecars and series now come from `python -m scripts.parse_engine_html vv`
+    (deal lines, sector commentary and the VV Mini Matrix, with validation). This legacy runner writes a
+    different schema and rewrites the whole series files, so it refuses to run unless
+    ALLOW_LEGACY_VV_EXTRACT=1 and then never replaces an existing path."""
+    if os.environ.get("ALLOW_LEGACY_VV_EXTRACT") != "1":
+        raise SystemExit("%s: disabled - VesselsValue is parsed with `python -m scripts.parse_engine_html vv`. "
+                         "Set ALLOW_LEGACY_VV_EXTRACT=1 to override (existing files are still never overwritten)."
+                         % Path(__file__).name)
+    for p in paths:
+        if Path(p).exists():
+            raise SystemExit("%s: refusing to overwrite existing %s; use scripts.parse_engine_html"
+                             % (Path(__file__).name, p))
+
+
+
 async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
+    _refuse_legacy_vv_write()
     OUT_MD_DIR.mkdir(parents=True, exist_ok=True)
     OUT_SERIES_DIR.mkdir(parents=True, exist_ok=True)
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
@@ -494,6 +512,7 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
 
     # Write master series
     matrix_csv = OUT_SERIES_DIR / "hellenic_vv_matrix_series.csv"
+    _refuse_legacy_vv_write(matrix_csv, OUT_SERIES_DIR / "hellenic_vv_benchmark_sales_series.csv")
     matrix_cols = ["issue_date", "sector", "vessel_class", "benchmark_size", "age_years", "pct_change_weekly", "source_file"]
     with open(matrix_csv, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=matrix_cols)

@@ -171,7 +171,7 @@ def _html_table_to_gfm(html: str) -> str:
                 row[price] = (row[price] + " (en bloc)").strip()
     if body and all(x.strip() in _EMPTY for r in body for x in r):
         body = [["No reported sales"] + [""] * (width - 1)]
-    esc = lambda s: s.replace("|", "\|")  # noqa: E731
+    esc = lambda s: s.replace("|", "\\|")  # noqa: E731
     lines = ["| " + " | ".join(esc(h) for h in header) + " |", "|" + "|".join("---" for _ in header) + "|"]
     lines += ["| " + " | ".join(esc(x) for x in r) + " |" for r in body]
     return "\n".join(lines)
@@ -181,3 +181,39 @@ def html_tables_to_gfm(md: str) -> str:
     """Convert <table> blocks (LlamaParse v2 output) to GFM; rowspans are repeated per row."""
     return re.sub(r"<table\b.*?</table>", lambda m: "\n\n" + _html_table_to_gfm(m.group(0)) + "\n\n", md,
                   flags=re.S | re.I)
+
+
+def nest_headings_md(md: str) -> str:
+    """After cleaning: a heading directly followed by another heading of the same or a shallower level
+    (a section title and its first table title, e.g. "Demolition" / "Bulk Carriers - GCs") would leave the
+    first one empty, so the second is pushed one level below it. The table titles that follow in the same
+    section (headings directly followed by a table, until the next text paragraph) are pushed with it, so
+    sibling tables keep one level. Done on the final text so removed letterhead lines cannot matter."""
+    blocks = re.split(r"\n\s*\n", md.strip())
+
+    def level_of(b: str) -> int:
+        m = re.match(r"(#{1,6}) ", b)
+        return len(m.group(1)) if m and "\n" not in b.strip() else 0
+
+    out: list[str] = []
+    prev_level = 0
+    child_level = 0            # >0 while the tables of a section whose first title was pushed are being nested
+    section_level = 0
+    for i, b in enumerate(blocks):
+        lvl = level_of(b)
+        nxt = blocks[i + 1] if i + 1 < len(blocks) else ""
+        is_table_title = lvl > 0 and nxt.lstrip().startswith("|")
+        if lvl and prev_level and lvl <= prev_level:
+            section_level, child_level = prev_level, min(prev_level + 1, 6)
+            b = "#" * child_level + b[lvl:]
+            lvl = child_level
+        elif lvl and is_table_title and child_level and lvl <= section_level:
+            b = "#" * child_level + b[lvl:]
+            lvl = child_level
+        elif child_level and not b.lstrip().startswith(("|", "#")):
+            child_level = 0    # a text paragraph ends the section
+        elif lvl and not is_table_title and lvl <= section_level:
+            child_level = 0    # a new section heading
+        prev_level = lvl
+        out.append(b)
+    return "\n\n".join(out) + "\n"

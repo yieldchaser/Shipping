@@ -861,7 +861,9 @@ def extract_fearnleys(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
 
 
 def extract_clarksons(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
-    """Specialized extraction for Clarksons Platou Hellas."""
+    """Disabled: Clarksons extraction moved to scripts.parse_engine (see process_single_pdf)."""
+    raise RuntimeError("Clarksons extraction moved to `python -m scripts.parse_engine`; refusing to write "
+                       "data/extracted/md/clarksons from this orchestrator")
     import run_clarksons as rc
     from datetime import datetime
     stem = pdf_path.stem
@@ -955,6 +957,14 @@ def process_single_pdf(
     """
     pdf_path = Path(pdf_path).resolve()
     stem = pdf_path.stem
+
+    if pub == "clarksons":
+        # Clarksons Markdown, sidecars and series are produced by `python -m scripts.parse_engine`
+        # (run -> promote --apply -> series). Writing them here (specialised or universal pipeline)
+        # would overwrite the promoted files with the legacy schema.
+        print(f"  [skip] clarksons {pdf_path.name}: handled by scripts.parse_engine, not this orchestrator")
+        return {"stem": stem, "pub": pub, "year": "skipped", "matched_charts": [], "untracked_candidates": [],
+                "specialized": False, "skipped": True}
 
     # 1. Specialized Publisher Delegation
     specialized_result: Optional[Dict[str, Any]] = None

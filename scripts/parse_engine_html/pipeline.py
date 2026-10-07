@@ -10,14 +10,15 @@ from pathlib import Path
 
 from scripts.parse_engine_html import PARSER_NAME, PARSER_VERSION
 from scripts.parse_engine_html.html_extract import Article, extract_article, parse_title_date
-from scripts.parse_engine_html.matrix import MatrixResult, decode_refs, parse_matrix_image
+from scripts.parse_engine_html.matrix import MatrixResult, parse_matrix_image
 from scripts.parse_engine_html.render import ImageRef, IssueContext, render_markdown, tables_payload
-from scripts.parse_engine_html.series import (MATRIX_FIELDS, SALES_FIELDS, compare, matrix_series_rows,
-                                              sales_rows, write_csv)
+from scripts.parse_engine_html.series import (MATRIX_FIELDS, SALES_FIELDS, append_new_issues, compare,
+                                              matrix_series_rows, sales_rows, write_csv)
 
 DEFAULT_SRC = Path("corpus/02-hellenic/vessel_valuations")
 DEFAULT_OUT = Path(".reparse_staging/vessel_valuations")
 EXISTING_SERIES = Path("data/extracted/series")
+LIVE_MD = Path("data/extracted/md/hellenic/vessel_valuations")
 IMG_EXTS = (".jpg", ".jpeg", ".png")
 
 
@@ -76,12 +77,16 @@ def choose_canonical(arts: list[tuple[Path, Article]]):
 
 
 def _ocr_one(args):
-    path, cache_dir = args
-    return parse_matrix_image(Path(path), Path(cache_dir)).to_json()
+    path, cache_dir, article_date = args
+    return parse_matrix_image(Path(path), Path(cache_dir), article_date).to_json()
 
 
 def run(src: Path = DEFAULT_SRC, out: Path = DEFAULT_OUT, years: list[int] | None = None, limit: int | None = None,
-        workers: int = 1, do_matrix: bool = True, existing_series: Path = EXISTING_SERIES) -> dict:
+        workers: int = 1, do_matrix: bool = True, existing_series: Path = EXISTING_SERIES,
+        incremental: bool = False, md_root: Path = LIVE_MD) -> dict:
+    """Staging run (default): rebuild everything under `out`. Incremental run: only issues that have no
+    `vv_<date>.md` under `md_root` yet are parsed; their MD/sidecar are written next to the existing ones and
+    their series rows are appended to `existing_series/*.csv` (existing files and rows are never rewritten)."""
     files = list_sources(src, years)
     parsed: list[tuple[Path, Article]] = []
     skipped: list[dict] = []
@@ -93,11 +98,14 @@ def run(src: Path = DEFAULT_SRC, out: Path = DEFAULT_OUT, years: list[int] | Non
             parsed.append((f, art))
     chosen, dupes = choose_canonical(parsed)
     duplicate_files = {n for v in dupes.values() for n in v}
+    if incremental:
+        chosen = [(f, a) for f, a in chosen
+                  if not (md_root / str(a.issue_date.year) / f"vv_{a.issue_date.isoformat()}.md").exists()]
     if limit:
         chosen = chosen[:limit]
 
     ctxs: list[IssueContext] = []
-    todo: list[Path] = []
+    todo: list[tuple[Path, str]] = []
     for f, art in chosen:
         ctx = IssueContext(article=art, source_rel=f.as_posix(), duplicates=dupes.get(f.name, []))
         mat, logo, how = find_images(f, art)
@@ -106,43 +114,41 @@ def run(src: Path = DEFAULT_SRC, out: Path = DEFAULT_OUT, years: list[int] | Non
         if mat:
             ctx.matrix_image = mat.name
             ctx.images.append(ImageRef(mat.as_posix(), sha256_file(mat), "matrix"))
-            todo.append(mat)
+            todo.append((mat, art.issue_date.isoformat()))
         ctx.matrix_how = how
         ctxs.append(ctx)
 
     cache_dir = out / "_matrix_cache"
     results: dict[str, MatrixResult] = {}
     if do_matrix and todo:
-        jobs = [(str(p), str(cache_dir)) for p in todo]
+        jobs = [(str(p), str(cache_dir), d) for p, d in todo]
         if workers > 1:
             with ProcessPoolExecutor(max_workers=workers) as ex:
                 outs = list(ex.map(_ocr_one, jobs, chunksize=2))
         else:
             outs = [_ocr_one(j) for j in jobs]
-        for p, o in zip(todo, outs):
+        for (p, _d), o in zip(todo, outs):
             results[p.as_posix()] = MatrixResult.from_json(o)
     ok_results = [r for r in results.values() if r.status == "ok"]
-    ref_report = decode_refs(ok_results)
+    ref_report = {"ok_matrices": len(ok_results),
+                  "benchmark_cells_blank": sum(1 for r in ok_results for c in r.cells if not c.ref_text),
+                  "benchmark_cells_total": sum(len(r.cells) for r in ok_results)}
 
     for ctx in ctxs:
         mat_ref = next((i for i in ctx.images if i.role == "matrix"), None)
         if mat_ref and mat_ref.path in results:
             ctx.matrix = results[mat_ref.path]
-            ctx.unverified_refs = {(c.age, c.group, c.column) for c in ctx.matrix.cells
-                                   if ctx.matrix.status == "ok" and not c.ref_text}
-            a = ctx.article
-            if ctx.matrix.image_date and a.issue_date and ctx.matrix.image_date != a.issue_date.isoformat():
-                ctx.matrix.warnings.append(
-                    f"image date label {ctx.matrix.image_date} differs from the article date {a.issue_date.isoformat()}")
         elif mat_ref and not do_matrix:
             ctx.matrix = None
 
     written = []
     for ctx in ctxs:
         a = ctx.article
-        year_dir = out / str(a.issue_date.year)
+        year_dir = (md_root if incremental else out) / str(a.issue_date.year)
         year_dir.mkdir(parents=True, exist_ok=True)
         md_path = year_dir / f"vv_{a.issue_date.isoformat()}.md"
+        if incremental and md_path.exists():
+            continue                      # never rewrite an existing issue
         md_path.write_text(render_markdown(ctx), encoding="utf-8", newline="\n")
         md_path.with_suffix(".tables.json").write_text(
             json.dumps(tables_payload(ctx), ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
@@ -150,11 +156,16 @@ def run(src: Path = DEFAULT_SRC, out: Path = DEFAULT_OUT, years: list[int] | Non
 
     sales = sales_rows(ctxs)
     matrix = matrix_series_rows(ctxs)
-    write_csv(out / "series" / "hellenic_vv_sales_series.csv", SALES_FIELDS, sales)
-    write_csv(out / "series" / "hellenic_vv_matrix_series.csv", MATRIX_FIELDS, matrix)
+    if incremental:
+        append_new_issues(existing_series / "hellenic_vv_sales_series.csv", SALES_FIELDS, sales)
+        append_new_issues(existing_series / "hellenic_vv_matrix_series.csv", MATRIX_FIELDS, matrix)
+    else:
+        write_csv(out / "series" / "hellenic_vv_sales_series.csv", SALES_FIELDS, sales)
+        write_csv(out / "series" / "hellenic_vv_matrix_series.csv", MATRIX_FIELDS, matrix)
     comparison = compare(sales, matrix, existing_series)
 
     report = build_report(ctxs, chosen, skipped, dupes, duplicate_files, results, ref_report, comparison, written, do_matrix)
+    out.mkdir(parents=True, exist_ok=True)
     (out / "_report.json").write_text(json.dumps(report, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     return report
 
@@ -170,7 +181,7 @@ def build_report(ctxs, chosen, skipped, dupes, duplicate_files, results, ref_rep
     no_image = [{"issue_date": c.article.issue_date.isoformat(), "how": getattr(c, "matrix_how", "")}
                 for c in ctxs if c.matrix_image is None]
     date_mismatch = [{"issue_date": c.article.issue_date.isoformat(), "image_date": c.matrix.image_date}
-                     for c in ctxs if c.matrix is not None and any("differs" in w for w in c.matrix.warnings)]
+                     for c in ctxs if c.matrix is not None and any("date label" in e for e in c.matrix.errors)]
     by_year = defaultdict(lambda: Counter())
     for c in ctxs:
         y = c.article.issue_date.year

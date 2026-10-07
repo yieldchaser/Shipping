@@ -575,8 +575,22 @@ def build_markdown_document(pdf_path: Path, issue_date: str, printed_date: str,
     return "\n".join(lines)
 
 
+def _refuse_legacy_clarksons_write(*paths: Path) -> None:
+    """Clarksons Markdown/sidecars/series now come from `python -m scripts.parse_engine` (run, promote --apply,
+    series). This legacy extractor writes a different tables.json schema and would overwrite promoted files,
+    so it refuses to run unless ALLOW_LEGACY_CLARKSONS_EXTRACT=1 and then never replaces an existing path."""
+    if os.environ.get("ALLOW_LEGACY_CLARKSONS_EXTRACT") != "1":
+        raise SystemExit("run_clarksons: disabled - Clarksons is parsed with `python -m scripts.parse_engine` "
+                         "(run -> promote --apply -> series). Set ALLOW_LEGACY_CLARKSONS_EXTRACT=1 to override "
+                         "(existing files are still never overwritten).")
+    for p in paths:
+        if Path(p).exists():
+            raise SystemExit(f"run_clarksons: refusing to overwrite existing {p}; use scripts.parse_engine")
+
+
 def process_all(verify: bool = True) -> Dict[str, Any]:
     """Execute full extraction workflow across all discovered Clarksons PDFs."""
+    _refuse_legacy_clarksons_write()
     OUT_MD.mkdir(parents=True, exist_ok=True)
     OUT_SERIES.mkdir(parents=True, exist_ok=True)
 
@@ -611,6 +625,9 @@ def process_all(verify: bool = True) -> Dict[str, Any]:
         commentary = extract_desk_commentary(doc)
         sales_recs, demo_recs = extract_all_transactions(doc, pdf_path, issue_date)
 
+        _refuse_legacy_clarksons_write(OUT_MD / f"{stem}.md", OUT_MD / f"{stem}.tables.json",
+                                       OUT_MD / (issue_date[:4] if issue_date else "2026") / f"{stem}.md",
+                                       OUT_MD / (issue_date[:4] if issue_date else "2026") / f"{stem}.tables.json")
         # 1. Write <stem>.tables.json (both flat root and year subfolder)
         payload_json = {
             "issue_date": issue_date,
@@ -724,6 +741,7 @@ def process_all(verify: bool = True) -> Dict[str, Any]:
         "YARD", "PRICE", "BUYERS", "SS_DD", "COMMENTS", "extra_json"
     ]
     sales_csv_path = OUT_SERIES / "clarksons_sales_series.csv"
+    _refuse_legacy_clarksons_write(sales_csv_path, OUT_SERIES / "clarksons_demolition_series.csv")
     with open(sales_csv_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=sales_cols)
         writer.writeheader()

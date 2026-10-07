@@ -30,6 +30,22 @@ OUT_MD = ROOT / "data" / "extracted" / "md" / "hellenic" / "vessel_valuations"
 OUT_SERIES = ROOT / "data" / "extracted" / "series"
 STATE_FILE = OUT_MD / "_run_state.json"
 
+
+def _refuse_legacy_vv_write(*paths: Path) -> None:
+    """VesselsValue Markdown, sidecars and series now come from `python -m scripts.parse_engine_html vv`
+    (deal lines, sector commentary and the VV Mini Matrix, with validation). This legacy runner writes a
+    different schema and rewrites the whole series files, so it refuses to run unless
+    ALLOW_LEGACY_VV_EXTRACT=1 and then never replaces an existing path."""
+    if os.environ.get("ALLOW_LEGACY_VV_EXTRACT") != "1":
+        raise SystemExit("%s: disabled - VesselsValue is parsed with `python -m scripts.parse_engine_html vv`. "
+                         "Set ALLOW_LEGACY_VV_EXTRACT=1 to override (existing files are still never overwritten)."
+                         % Path(__file__).name)
+    for p in paths:
+        if Path(p).exists():
+            raise SystemExit("%s: refusing to overwrite existing %s; use scripts.parse_engine_html"
+                             % (Path(__file__).name, p))
+
+
 SECTOR_MAP = {
     "tanker": "Tanker",
     "tankers": "Tanker",
@@ -419,6 +435,7 @@ def build_markdown_document(report: Dict[str, Any]) -> str:
 
 def process_all() -> Dict[str, Any]:
     """Execute complete VesselsValue extraction across all 259 weekly reports."""
+    _refuse_legacy_vv_write()
     OUT_MD.mkdir(parents=True, exist_ok=True)
     OUT_SERIES.mkdir(parents=True, exist_ok=True)
 
@@ -457,6 +474,7 @@ def process_all() -> Dict[str, Any]:
 
         # 1. Write <stem>.tables.json
         tab_json_path = year_dir / f"{stem}.tables.json"
+        _refuse_legacy_vv_write(tab_json_path, md_path)
         with open(tab_json_path, "w", encoding="utf-8") as f:
             json.dump(report, f, indent=2, ensure_ascii=False)
 
@@ -502,6 +520,7 @@ def process_all() -> Dict[str, Any]:
         "premium_pct", "comments", "source_file"
     ]
     series_csv_path = OUT_SERIES / "hellenic_vv_sales_series.csv"
+    _refuse_legacy_vv_write(series_csv_path)
     if all_deals_rows:
         existing_map = {}
         if series_csv_path.exists() and series_csv_path.stat().st_size > 0:

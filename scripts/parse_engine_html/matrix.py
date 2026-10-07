@@ -25,7 +25,7 @@ from datetime import date
 from pathlib import Path
 from statistics import median
 
-MATRIX_VERSION = "1.4.0"
+MATRIX_VERSION = "2.0.0"
 GROUPS = ("Tankers", "Bulkers", "Containers")
 COLUMNS: tuple[tuple[str, str], ...] = (
     ("Tankers", "VLCC"), ("Tankers", "Suez"), ("Tankers", "Afra"), ("Tankers", "LR1"), ("Tankers", "MR"),
@@ -34,7 +34,7 @@ COLUMNS: tuple[tuple[str, str], ...] = (
 )
 AGES = (0, 5, 10, 15, 20, 25)
 PCT_CELL_RE = re.compile(r"^[+-]?\d+(\.\d+)?%$|^N/A$")
-REF_CELL_RE = re.compile(r"^(?:\d{2,4}k?|N/A)$")
+REF_CELL_RE = re.compile(r"^(?:\d{2,3}k|\d{4}|N/A)$")
 _IMG_DATE_RE = re.compile(r"(\d{1,2})\s*([A-Za-z]{3,9})\.?\s*(\d{4})")
 _MONTHS = {m: i for i, m in enumerate(
     ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"], 1)}
@@ -191,10 +191,10 @@ def parse_image_date(text: str) -> date | None:
 def normalise_pct(text: str, colour_sign: str, wide: bool = False) -> tuple[str | None, str]:
     """Recogniser text + sign colour -> ('+0.5%' | '-1.4%' | '0.0%' | 'N/A', note).
 
-    The sign comes from the colour (green +, red -). A sign character in the text is only a cross-check; a
-    leading digit in front of a one-digit integer part ('11.3') is a mis-read '+' glyph unless the ink is as wide
-    as a genuine two-digit value (`wide`, measured from pixels); the sign glyph is then dropped and the cell is
-    reported with note 'sign_glyph_read_as_digit'.
+    The sign comes from the colour (green +, red -); a sign character in the text is only a cross-check. Nothing is
+    repaired: a leading digit in front of a one-digit integer part ('11.3', '10.4') could be a mis-read '+' glyph,
+    so it is accepted only when the ink is as wide as a genuine two-digit value (`wide`, measured from pixels) and
+    rejected otherwise. Zero is always '0.0%' (never '-0.0%').
     """
     t = text.replace(" ", "").replace(",", ".").upper()
     if t in ("N/A", "NA", "N/", "/A", "NVA", "N|A", "NIA"):
@@ -207,27 +207,47 @@ def normalise_pct(text: str, colour_sign: str, wide: bool = False) -> tuple[str 
     if text_sign and colour_sign and text_sign != colour_sign:
         return None, f"sign text {text_sign!r} vs colour {colour_sign!r}"
     integer = m.group(2)
-    note = ""
     if len(integer) == 2 and not glyph and colour_sign and integer[0] in "147" and not wide:
-        integer, note = integer[1], "sign_glyph_read_as_digit"
+        return None, "ambiguous leading digit (possible mis-read sign glyph)"
+    if float(f"{integer}.{m.group(3)}") == 0.0:
+        return "0.0%", ""
     sign = colour_sign or text_sign
-    return f"{sign}{integer}.{m.group(3)}%", note
+    return f"{sign}{integer}.{m.group(3)}%", ""
 
 
 def normalise_ref(text: str) -> str | None:
     t = text.replace(" ", "").replace(",", "")
     if t.upper() in ("N/A", "NA", "NVA", "N|A"):
         return "N/A"
-    m = re.fullmatch(r"(\d{2,4})([kK]?)", t)
+    m = re.fullmatch(r"(\d{2,3})[kK]|(\d{4})", t)
     if not m:
         return None
-    return m.group(1) + ("k" if m.group(2) else "")
+    return f"{m.group(1)}k" if m.group(1) else m.group(2)
 
 
 def ref_value(ref_text: str) -> int | None:
     if ref_text == "N/A":
         return None
     return int(ref_text[:-1]) * 1000 if ref_text.endswith("k") else int(ref_text)
+
+
+# Plausible benchmark-size range per column (a range check only: a reading outside it is dropped, never repaired).
+REF_RANGES: dict[tuple[str, str], tuple[int, int]] = {
+    ("Tankers", "VLCC"): (280_000, 330_000), ("Tankers", "Suez"): (140_000, 170_000),
+    ("Tankers", "Afra"): (95_000, 125_000), ("Tankers", "LR1"): (60_000, 85_000),
+    ("Tankers", "MR"): (40_000, 55_000),
+    ("Bulkers", "Cape"): (150_000, 190_000), ("Bulkers", "Pmax"): (70_000, 90_000),
+    ("Bulkers", "Supra"): (45_000, 70_000), ("Bulkers", "Handy"): (25_000, 42_000),
+    ("Containers", "Post Pmax"): (4_500, 10_000), ("Containers", "Pmax"): (3_000, 5_500),
+    ("Containers", "Handy"): (1_400, 2_200), ("Containers", "Fmax"): (800, 1_300),
+}
+
+
+def ref_in_range(group: str, column: str, ref_text: str) -> bool:
+    if ref_text == "N/A":
+        return True
+    lo, hi = REF_RANGES[(group, column)]
+    return lo <= (ref_value(ref_text) or 0) <= hi
 
 
 def vote(candidates: list[str]) -> tuple[str | None, str]:
@@ -247,6 +267,18 @@ def vote(candidates: list[str]) -> tuple[str | None, str]:
 
 
 @dataclass
+class BandRead:
+    """Raw recogniser output for one text band (value or benchmark line of one cell); decisions are re-derivable."""
+    age: int
+    group: str
+    column: str
+    kind: str                       # val | ref
+    sign: str = ""                  # colour sign of the value band
+    wide: bool = False              # ink as wide as a two-digit value
+    reads: list[list] = field(default_factory=list)      # [variant, scale, text]
+
+
+@dataclass
 class Cell:
     age: int
     group: str
@@ -255,9 +287,8 @@ class Cell:
     pct: float | None = None
     ref_text: str = ""
     ref_size: int | None = None
-    ref_reads: list[str] = field(default_factory=list)   # every valid benchmark reading (for lexicon decoding)
     problems: list[str] = field(default_factory=list)    # value problems: make the image fail
-    notes: list[str] = field(default_factory=list)       # benchmark problems / repairs: reported, image stays ok
+    notes: list[str] = field(default_factory=list)       # benchmark problems: reported, benchmark left blank
 
 
 @dataclass
@@ -271,13 +302,16 @@ class MatrixResult:
     cells: list[Cell] = field(default_factory=list)
     errors: list[str] = field(default_factory=list)
     warnings: list[str] = field(default_factory=list)
+    bands: list[BandRead] = field(default_factory=list)
+    date_reads: list[str] = field(default_factory=list)
 
     def to_json(self) -> dict:
         return asdict(self)
 
     @staticmethod
     def from_json(d: dict) -> "MatrixResult":
-        return MatrixResult(**{**d, "cells": [Cell(**c) for c in d.get("cells", [])]})
+        return MatrixResult(**{**d, "cells": [Cell(**c) for c in d.get("cells", [])],
+                               "bands": [BandRead(**b) for b in d.get("bands", [])]})
 
 
 # ---------------------------------------------------------------------------------------------------
@@ -289,8 +323,13 @@ _ENGINE = None
 def get_engine():
     global _ENGINE
     if _ENGINE is None:
+        import os
+        for var in ("OMP_NUM_THREADS", "OPENBLAS_NUM_THREADS", "MKL_NUM_THREADS"):
+            os.environ.setdefault(var, "1")        # several worker processes: avoid thread oversubscription
+        import cv2
+        cv2.setNumThreads(1)
         from rapidocr_onnxruntime import RapidOCR
-        _ENGINE = RapidOCR(intra_op_num_threads=2, inter_op_num_threads=1)
+        _ENGINE = RapidOCR(intra_op_num_threads=1, inter_op_num_threads=1)
     return _ENGINE
 
 
@@ -358,15 +397,17 @@ def _render(band, variant: str, scale: int):
 
 
 # (variant, scale): the first pair always runs, the rest only for cells whose first readings fail or disagree
-PASS1_VAL = (("raw", 5), ("stretch", 5))      # a value needs two agreeing renders
-PASS1_REF = (("raw", 5),)                     # a benchmark is checked later against the lexicon
-PASS2 = (("raw", 4), ("stretch", 5), ("raw", 3))
-PASS3 = (("stretch", 4), ("thick", 4), ("soft", 3), ("raw", 7), ("stretch", 6))
-
-
 def _np():
     import numpy
     return numpy
+
+
+PASS1_VAL = (("raw", 5), ("stretch", 5))                 # a value needs two agreeing renders
+PASS1_REF = (("raw", 5), ("raw", 4))                   # so does a benchmark size (more renders only on disagreement)
+PASS2 = (("raw", 4), ("stretch", 6), ("raw", 3))
+PASS3 = (("stretch", 4), ("thick", 4), ("soft", 3), ("raw", 7), ("stretch", 6))
+DATE_PLAN = (("raw", 5), ("raw", 4), ("stretch", 5), ("stretch", 6))
+RAW_SCHEMA = "raw2"          # cache key: the stored raw recogniser output; policy changes never need a re-OCR
 
 
 def _rec(images) -> list[str]:
@@ -376,103 +417,125 @@ def _rec(images) -> list[str]:
     return [str(t) for t, _c in res]
 
 
-def read_cells(rgb, grid: Grid) -> list[Cell]:
-    """Re-read every cell of the reconstructed grid from pixels (value band + benchmark band per cell)."""
+def decide_band(br: BandRead) -> tuple[str | None, str]:
+    """Policy: >= 2 agreeing renders (strictly the most common) and, for sizes, inside the column's plausible range."""
+    texts = [r[2] for r in br.reads]
+    if br.kind == "val":
+        cands = [v for v, _n in (normalise_pct(t, br.sign, br.wide) for t in texts) if v]
+        top, why = vote(cands)
+        if top is not None and top != "N/A" and top[0] not in "+-" and float(top[:-1]) != 0.0:
+            return None, f"non-zero value {top} with neutral colour (sign unresolved)"
+        return top, why
+    cands = [v for v in (normalise_ref(t) for t in texts) if v]
+    top, why = vote(cands)
+    if top is not None and not ref_in_range(br.group, br.column, top):
+        return None, f"{top} is outside the plausible range for {br.group}/{br.column}"
+    return top, why
+
+
+def collect_reads(rgb, grid: Grid) -> list[BandRead]:
+    """OCR every value band and benchmark band of the grid, escalating to more render variants only for bands the
+    policy cannot decide yet."""
     H, W = rgb.shape[:2]
     half = grid.col_pitch / 2 - 2
     gap = grid.ref_y[0] - grid.val_y[0]
-    cells: list[Cell] = []
-    bands: list[tuple[int, str, object, str]] = []      # (cell index, kind, band pixels, colour sign)
-    ink_w: dict[int, int] = {}
+    pix: list = []
+    bands: list[BandRead] = []
+    widths: dict[int, int] = {}
     for r, age in enumerate(AGES[:grid.n_rows]):
         for c, (grp, col) in enumerate(COLUMNS[:grid.n_cols]):
-            cell = Cell(age=age, group=grp, column=col)
-            cells.append(cell)
             xa, xb = int(max(grid.col_x[c] - half, 0)), int(min(grid.col_x[c] + half, W))
             for kind, yc in (("val", grid.val_y[r]), ("ref", grid.ref_y[r])):
                 ya, yb = int(max(yc - gap * 0.5, 0)), int(min(yc + gap * 0.5, H))
                 band = rgb[ya:yb, xa:xb]
-                sign = _colour_sign(band, _ink_mask(band)) if kind == "val" else ""
-                bands.append((len(cells) - 1, kind, band, sign))
+                ink = _ink_mask(band)
+                sign = _colour_sign(band, ink) if kind == "val" else ""
+                br = BandRead(age, grp, col, kind, sign)
+                bands.append(br)
+                pix.append(band)
                 if kind == "val" and sign:
-                    xs = _np().where(_ink_mask(band).any(axis=0))[0]
+                    xs = _np().where(ink.any(axis=0))[0]
                     if len(xs):
-                        ink_w[len(bands) - 1] = int(xs.max() - xs.min() + 1)
-    med_w = median(ink_w.values()) if ink_w else 0
+                        widths[len(bands) - 1] = int(xs.max() - xs.min() + 1)
+    med_w = median(widths.values()) if widths else 0
+    for bi, w in widths.items():
+        bands[bi].wide = w >= 1.09 * med_w
 
-    def read_all(todo: list[int], plan) -> dict[int, list[str]]:
+    def read(todo: list[int], plan) -> None:
         jobs = []
         for bi in todo:
             for variant, scale in plan:
-                img = _render(bands[bi][2], variant, scale)
+                img = _render(pix[bi], variant, scale)
                 if img is not None:
-                    jobs.append((bi, img))
-        texts = _rec([j[1] for j in jobs])
-        out: dict[int, list[str]] = {bi: [] for bi in todo}
-        for (bi, _img), t in zip(jobs, texts):
-            out[bi].append(t)
-        return out
+                    jobs.append((bi, variant, scale, img))
+        for (bi, variant, scale, _img), text in zip(jobs, _rec([j[3] for j in jobs])):
+            bands[bi].reads.append([variant, scale, text])
 
-    def interpret(bi: int, texts: list[str]) -> list[str]:
-        _ci, kind, _band, sign = bands[bi]
-        if kind == "val":
-            wide = bi in ink_w and ink_w[bi] >= 1.09 * med_w
-            return [v for v, _n in (normalise_pct(t, sign, wide) for t in texts) if v]
-        return [v for v in (normalise_ref(t) for t in texts) if v]
-
-    val_idx = [i for i, b in enumerate(bands) if b[1] == "val"]
-    ref_idx = [i for i, b in enumerate(bands) if b[1] == "ref"]
-    raw: dict[int, list[str]] = {**read_all(val_idx, PASS1_VAL), **read_all(ref_idx, PASS1_REF)}
-    valid: dict[int, list[str]] = {bi: interpret(bi, raw[bi]) for bi in raw}
+    read([i for i, b in enumerate(bands) if b.kind == "val"], PASS1_VAL)
+    read([i for i, b in enumerate(bands) if b.kind == "ref"], PASS1_REF)
     for plan in (PASS2, PASS3):
-        redo = [bi for bi in valid
-                if (bands[bi][1] == "val" and vote(valid[bi])[0] is None)
-                or (bands[bi][1] == "ref" and (not valid[bi] or (len(set(valid[bi])) > 1 and vote(valid[bi])[0] is None)))]
+        redo = [i for i, b in enumerate(bands) if decide_band(b)[0] is None]
         if not redo:
             break
-        extra = read_all(redo, plan)
-        for bi in redo:
-            raw[bi] += extra[bi]
-            valid[bi] = interpret(bi, raw[bi])
+        read(redo, plan)
+    return bands
 
-    for bi, (ci, kind, _band, _sign) in enumerate(bands):
-        cell = cells[ci]
-        label = "value" if kind == "val" else "benchmark"
-        if not raw.get(bi):
-            cell.problems.append(f"no {label} glyphs")
-            continue
-        if kind == "ref":
-            cell.ref_reads = list(valid[bi])
-        top, why = (valid[bi][0], "") if kind == "ref" and len(valid[bi]) == 1 else vote(valid[bi])
-        if top is None:
-            (cell.problems if kind == "val" else cell.notes).append(f"{label} not read: {why}; raw={raw[bi]}")
-            continue
-        if kind == "val":
-            if top != "N/A" and top[0] not in "+-" and float(top[:-1]) != 0.0:
-                cell.problems.append(f"non-zero value {top} with neutral colour (sign unresolved)")
+
+def cells_from_bands(bands: list[BandRead]) -> list[Cell]:
+    by = {(b.age, b.group, b.column, b.kind): b for b in bands}
+    cells: list[Cell] = []
+    for age in sorted({b.age for b in bands}):
+        for grp, col in COLUMNS:
+            vb, rb = by.get((age, grp, col, "val")), by.get((age, grp, col, "ref"))
+            if vb is None or rb is None:
                 continue
-            cell.pct_text = top
-            cell.pct = None if top == "N/A" else float(top[:-1])
-        else:
-            cell.ref_text = top
-            cell.ref_size = ref_value(top)
+            cell = Cell(age=age, group=grp, column=col)
+            if not vb.reads:
+                cell.problems.append("no value glyphs")
+            else:
+                top, why = decide_band(vb)
+                if top is None:
+                    cell.problems.append(f"value not read: {why}; raw={[r[2] for r in vb.reads]}")
+                else:
+                    cell.pct_text = top
+                    cell.pct = None if top == "N/A" else float(top[:-1])
+            if not rb.reads:
+                cell.notes.append("no benchmark glyphs")
+            else:
+                top, why = decide_band(rb)
+                if top is None:
+                    cell.notes.append(f"benchmark left blank: {why}; raw={[r[2] for r in rb.reads]}")
+                else:
+                    cell.ref_text = top
+                    cell.ref_size = ref_value(top)
+            cells.append(cell)
     return cells
 
 
-def read_date_label(rgb, grid: Grid) -> str | None:
-    """OCR the small date label above the table ('07 March 2023') using the detected boxes left of the title."""
+def read_date_reads(rgb, grid: Grid) -> list[str]:
+    """OCR the small date label above the table ('07 March 2023'): boxes left of the title, several renders."""
     cands = [b for b in grid.title_boxes if b.w < 0.25 * rgb.shape[1] and b.h < 30 and b.x0 < 0.3 * rgb.shape[1]]
-    imgs = []
+    texts: list[str] = []
     for b in sorted(cands, key=lambda b: (b.x0, b.y0))[:4]:
         crop = rgb[int(max(b.y0 - 2, 0)):int(b.y1 + 3), int(max(b.x0 - 2, 0)):int(b.x1 + 3)]
-        img = _render(crop, "raw", 5)
-        if img is not None:
-            imgs.append(img)
-    for text in _rec(imgs):
-        d = parse_image_date(text)
-        if d:
-            return d.isoformat()
-    return None
+        imgs = [i for i in (_render(crop, v, s) for v, s in DATE_PLAN) if i is not None]
+        texts += _rec(imgs)
+    return texts
+
+
+def decide_date(texts: list[str]) -> str | None:
+    """Most common plausible date among the renders (a year outside 2015-2035 is an OCR error, e.g. '7075')."""
+    found: dict[str, int] = {}
+    for t in texts:
+        d = parse_image_date(t)
+        if d and 2015 <= d.year <= 2035:
+            found[d.isoformat()] = found.get(d.isoformat(), 0) + 1
+    if not found:
+        return None
+    ranked = sorted(found.items(), key=lambda kv: -kv[1])
+    if len(ranked) > 1 and ranked[0][1] == ranked[1][1]:
+        return None
+    return ranked[0][0]
 
 
 def validate_cells(cells: list[Cell]) -> list[str]:
@@ -489,17 +552,35 @@ def validate_cells(cells: list[Cell]) -> list[str]:
     return errs
 
 
-def parse_matrix_image(path: Path, cache_dir: Path | None = None) -> MatrixResult:
+def finalize(res: MatrixResult, article_date: str | None = None) -> MatrixResult:
+    """Apply the decision policy to the stored raw reads. An image is OK only if every percentage cell is read,
+    and (when article_date is given) its date label equals the article date."""
+    res.errors = [e for e in res.errors if e.startswith("grid:")]
+    if res.errors:
+        res.status = "failed"
+        return res
+    res.image_date = decide_date(res.date_reads)
+    res.cells = cells_from_bands(res.bands)
+    res.errors = validate_cells(res.cells)
+    if len(res.cells) != len(COLUMNS) * len(AGES):
+        res.errors.append(f"only {len(res.cells)} of {len(COLUMNS) * len(AGES)} cells present")
+    if article_date is not None and res.image_date != article_date:
+        res.errors.append(f"image date label {res.image_date!r} does not match the article date {article_date}")
+    res.status = "ok" if not res.errors else "failed"
+    return res
+
+
+def parse_matrix_image(path: Path, cache_dir: Path | None = None, article_date: str | None = None) -> MatrixResult:
     raw = path.read_bytes()
     sha = hashlib.sha256(raw).hexdigest()
     cache_file = None
     if cache_dir is not None:
         cache_dir.mkdir(parents=True, exist_ok=True)
-        cache_file = cache_dir / f"{sha[:24]}_v{MATRIX_VERSION}.json"
+        cache_file = cache_dir / f"{sha[:24]}_{RAW_SCHEMA}.json"
         if cache_file.exists():
             res = MatrixResult.from_json(json.loads(cache_file.read_text(encoding="utf-8")))
             res.image = path.name
-            return res
+            return finalize(res, article_date)
     res = MatrixResult(status="failed", image=path.name, image_sha256=sha)
     try:
         import numpy as np
@@ -507,49 +588,12 @@ def parse_matrix_image(path: Path, cache_dir: Path | None = None) -> MatrixResul
         rgb = np.asarray(Image.open(path).convert("RGB"))
         grid = reconstruct_grid(detect_boxes(rgb))
         res.n_rows, res.n_cols = grid.n_rows, grid.n_cols
-        res.image_date = read_date_label(rgb, grid)
-        res.cells = read_cells(rgb, grid)
-        res.errors = validate_cells(res.cells)
-        res.status = "ok" if not res.errors else "failed"
+        res.date_reads = read_date_reads(rgb, grid)
+        res.bands = collect_reads(rgb, grid)
     except GridError as exc:
         res.errors.append(f"grid: {exc}")
     except Exception as exc:  # unreadable image, engine failure ...
-        res.errors.append(f"{type(exc).__name__}: {exc}")
+        res.errors.append(f"grid: {type(exc).__name__}: {exc}")
     if cache_file is not None:
         cache_file.write_text(json.dumps(res.to_json(), ensure_ascii=False), encoding="utf-8")
-    return res
-
-
-def decode_refs(results: list[MatrixResult], min_count: int = 6) -> dict:
-    """Benchmark sizes come from a small closed set per column (320k, 7000, ...). Italic grey digits are the
-    weakest OCR target ('1' -> 'J', '7' -> '/'), so unresolved or rare readings are decoded against the lexicon
-    of readings that the images themselves confirm with a clear vote: a cell takes a lexicon value only when its
-    own render candidates contain exactly one lexicon value; otherwise the benchmark stays empty (never guessed)."""
-    lex: dict[str, dict[str, int]] = {}
-    for r in results:
-        for c in r.cells:
-            if c.ref_text:
-                d = lex.setdefault(c.column + "|" + c.group, {})
-                d[c.ref_text] = d.get(c.ref_text, 0) + 1
-    stats = {"voted": 0, "lexicon_resolved": 0, "rare_dropped": 0, "unresolved": 0}
-    for r in results:
-        for c in r.cells:
-            d = lex.get(c.column + "|" + c.group, {})
-            common = {v for v, n in d.items() if n >= min_count}
-            if c.ref_text and c.ref_text in common:
-                stats["voted"] += 1
-                continue
-            cands = {v for v in c.ref_reads if v in common}
-            had = c.ref_text
-            c.ref_text, c.ref_size = "", None
-            if len(cands) == 1:
-                c.ref_text = next(iter(cands))
-                c.ref_size = ref_value(c.ref_text)
-                c.notes.append("benchmark resolved against lexicon")
-                stats["lexicon_resolved"] += 1
-            elif had:
-                c.notes.append(f"benchmark {had} is rare for this column: dropped")
-                stats["rare_dropped"] += 1
-            else:
-                stats["unresolved"] += 1
-    return stats
+    return finalize(res, article_date)

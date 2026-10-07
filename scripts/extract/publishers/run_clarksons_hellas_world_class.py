@@ -659,8 +659,22 @@ def generate_clarksons_markdown(data: Dict[str, Any]) -> str:
     return "\n".join(md)
 
 
+def _refuse_legacy_clarksons_write(*paths: Path) -> None:
+    """Clarksons Markdown/sidecars/series now come from `python -m scripts.parse_engine` (run, promote --apply,
+    series). This legacy extractor writes a different tables.json schema and would overwrite promoted files,
+    so it refuses to run unless ALLOW_LEGACY_CLARKSONS_EXTRACT=1 and then never replaces an existing path."""
+    if os.environ.get("ALLOW_LEGACY_CLARKSONS_EXTRACT") != "1":
+        raise SystemExit("run_clarksons: disabled - Clarksons is parsed with `python -m scripts.parse_engine` "
+                         "(run -> promote --apply -> series). Set ALLOW_LEGACY_CLARKSONS_EXTRACT=1 to override "
+                         "(existing files are still never overwritten).")
+    for p in paths:
+        if Path(p).exists():
+            raise SystemExit(f"run_clarksons: refusing to overwrite existing {p}; use scripts.parse_engine")
+
+
 def process_all_clarksons():
     """Extract and compile all 165 Clarksons reports into Markdown, JSON sidecars, and Master Series CSVs."""
+    _refuse_legacy_clarksons_write()
     unique_pdfs = get_unique_clarksons_reports(PDF_ROOT)
     print(f"Executing extraction across {len(unique_pdfs)} unique Clarksons reports spanning 2021 to 2026...", flush=True)
 
@@ -695,6 +709,7 @@ def process_all_clarksons():
         raw_md = cache_file.read_text(encoding="utf-8")
         data = extract_clarksons_data(raw_md, issue_date, report_week, pdf.name)
 
+        _refuse_legacy_clarksons_write(md_file, json_file, md_broker_file, json_broker_file)
         # Write sidecars to both directories
         sidecar_content = json.dumps(data, indent=2, ensure_ascii=False) + "\n"
         full_md = generate_clarksons_markdown(data)
@@ -725,6 +740,7 @@ def process_all_clarksons():
             "gear_cranes", "special_coating", "ss_due", "dd_due", "price_usd_m",
             "price_raw", "buyer", "is_en_bloc", "is_auction", "source_file"
         ]
+        _refuse_legacy_clarksons_write(p_sales)
         with open(p_sales, "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=fieldnames)
             writer.writeheader()
@@ -734,6 +750,7 @@ def process_all_clarksons():
     # 2. Desk Talk & Commentary Series
     if all_commentary:
         p_comm = OUT_SERIES_DIR / "clarksons_desk_talk_series.csv"
+        _refuse_legacy_clarksons_write(p_comm)
         with open(p_comm, "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=["issue_date", "report_week", "sector", "commentary_text", "source_file"])
             writer.writeheader()
@@ -743,6 +760,7 @@ def process_all_clarksons():
     # 3. Demolition Sales Series
     if all_demo:
         p_demo = OUT_SERIES_DIR / "clarksons_demolition_sales_series.csv"
+        _refuse_legacy_clarksons_write(p_demo)
         with open(p_demo, "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=["issue_date", "report_week", "vessel_name", "dwt", "built", "details", "price_usd_per_ldt", "price_raw", "delivery_location", "source_file"])
             writer.writeheader()
@@ -752,6 +770,7 @@ def process_all_clarksons():
     # 4. Macro & FX Series
     if all_macro:
         p_macro = OUT_SERIES_DIR / "clarksons_macro_series.csv"
+        _refuse_legacy_clarksons_write(p_macro)
         with open(p_macro, "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=["issue_date", "report_week", "bdi", "eur_usd", "source_file"])
             writer.writeheader()

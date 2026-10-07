@@ -92,14 +92,75 @@ def load_staged(staging: Path, source: str) -> list[Staged]:
     return out
 
 
+DEFAULT_NAME_MARKERS = ("clarkson", "weekly-sales")
+
+
+def belongs_to_source(md: Path, markers: tuple[str, ...]) -> bool:
+    """True when the legacy MD is a file of this source: its own name, or the PDF it was extracted from
+    (frontmatter source_file), carries a marker. A frontmatter broker label alone is not enough: the legacy
+    extraction mislabelled an SSY report as Clarksons, and nothing but this source's files may be replaced."""
+    names = [md.name.lower()]
+    sf = read_frontmatter(md).get("source_file")
+    if sf:
+        names.append(Path(str(sf)).name.lower())
+    return any(m in n for n in names for m in markers)
+
+
+def existing_index(dirs: list[Path], date_patterns: dict[str, Any] | None,
+                   markers: tuple[str, ...]) -> tuple[set[str], set[str], set[str]]:
+    """(stems, issue dates, 12-hex PDF hashes) of the source's MD files already present in `dirs`."""
+    stems: set[str] = set()
+    dates: set[str] = set()
+    hashes: set[str] = set()
+    for d in dirs:
+        for md in d.rglob("*.md"):
+            if not belongs_to_source(md, markers):
+                continue
+            stems.add(md.stem)
+            dates |= old_issue_dates(md, date_patterns)
+            h = HASH_SUFFIX.search(md.name)
+            if h:
+                hashes.add(h.group(1))
+    return stems, dates, hashes
+
+
+def is_existing(stem: str, issue_date: str | None, index: tuple[set[str], set[str], set[str]]) -> bool:
+    stems, dates, hashes = index
+    h = HASH_SUFFIX.search(stem + ".md")
+    return stem in stems or bool(issue_date and issue_date in dates) or bool(h and h.group(1) in hashes)
+
+
 def build_plan(source: str, staging: Path, dest_root: Path, legacy_dirs: list[Path], accept_flags: set[str],
-               repo_root: Path = REPO_ROOT, date_patterns: dict[str, Any] | None = None) -> Plan:
+               repo_root: Path = REPO_ROOT, date_patterns: dict[str, Any] | None = None,
+               name_markers: tuple[str, ...] = DEFAULT_NAME_MARKERS, new_only: bool = False) -> Plan:
+    """new_only: promote only issues that have no MD yet (by stem, issue date or PDF hash) and never remove or
+    overwrite anything: the incremental weekly mode."""
     plan = Plan()
     staged = load_staged(staging, source)
+    if new_only:
+        index = existing_index([dest_root, *legacy_dirs], date_patterns, name_markers)
+        for st in staged:
+            blocking = [f for f in st.flags if f not in accept_flags]
+            target = dest_root / st.year / (st.stem + ".md")
+            if is_existing(st.stem, st.issue_date, index):
+                plan.rows.append({"action": "skip_existing", "old_path": "", "new_path": str(target),
+                                  "issue_date": st.issue_date or "", "detail": "an MD for this issue exists"})
+            elif blocking or not st.issue_date:
+                plan.rows.append({"action": "skip_flagged", "old_path": "", "new_path": str(target),
+                                  "issue_date": st.issue_date or "", "detail": ";".join(blocking or ["issue_date_null"])})
+            else:
+                plan.promote.append(st)
+                plan.rows.append({"action": "promote", "old_path": "", "new_path": str(target),
+                                  "issue_date": st.issue_date, "detail": "new issue"})
+        return plan
     legacy: list[tuple[Path, set[str]]] = []
+    foreign: list[Path] = []
     for d in legacy_dirs:
         for md in sorted(d.rglob("*.md")):
-            legacy.append((md, old_issue_dates(md, date_patterns)))
+            if belongs_to_source(md, name_markers):
+                legacy.append((md, old_issue_dates(md, date_patterns)))
+            else:
+                foreign.append(md)
 
     def rel(p: Path) -> str:
         try:
@@ -126,6 +187,16 @@ def build_plan(source: str, staging: Path, dest_root: Path, legacy_dirs: list[Pa
         new_md = dest_root / st.year / (st.stem + ".md")
         plan.rows.append({"action": "promote", "old_path": "", "new_path": rel(new_md), "issue_date": st.issue_date,
                           "detail": "accepted:" + ";".join(f for f in st.flags if f in accept_flags) if st.flags else ""})
+
+    for st in plan.promote:       # a promoted issue without tables must not keep an old sidecar next to it
+        side = dest_root / st.year / (st.stem + ".tables.json")
+        if st.tables is None and side.exists():
+            plan.remove.append(side)
+            plan.rows.append({"action": "git_rm_stale_sidecar", "old_path": rel(side), "new_path": "",
+                              "issue_date": st.issue_date or "", "detail": "new parse has no tables"})
+    for md in foreign:        # other publishers' files that live in the legacy folders: never touched
+        plan.rows.append({"action": "ignore_other_publisher", "old_path": rel(md), "new_path": "",
+                          "issue_date": "", "detail": "name/source_file carry no " + "/".join(name_markers)})
 
     dest_paths = {}
     for st in plan.promote:
@@ -193,16 +264,45 @@ def write_plan_csv(plan: Plan, path: Path) -> None:
         w.writerows(plan.rows)
 
 
-def apply_plan(plan: Plan, dest_root: Path, repo_root: Path = REPO_ROOT) -> None:
-    """Copy promoted files, then `git rm` the replaced legacy files. Nothing is committed."""
+def _git(args: list[str], repo_root: Path) -> subprocess.CompletedProcess:
+    return subprocess.run(["git", *args], cwd=repo_root, capture_output=True, text=True)
+
+
+def apply_plan(plan: Plan, dest_root: Path, repo_root: Path = REPO_ROOT,
+               allowed_dirs: list[Path] | None = None) -> dict[str, Any]:
+    """Copy promoted files, then remove the replaced legacy files one by one. Nothing is committed.
+
+    A tracked file is removed with `git rm` (never -f): if git refuses (local modifications) the file is
+    reported in `skipped`, not forced. An untracked file is deleted only when it lies inside one of
+    `allowed_dirs` (the source's own legacy folders). Files that were just written are never removed."""
+    written_n = 0
     for st in plan.promote:
         target = dest_root / st.year
         target.mkdir(parents=True, exist_ok=True)
         shutil.copyfile(st.md, target / (st.stem + ".md"))
+        written_n += 1
         if st.tables is not None:
             shutil.copyfile(st.tables, target / (st.stem + ".tables.json"))
+            written_n += 1
     written = {(dest_root / st.year / (st.stem + suffix)).resolve() for st in plan.promote
-               for suffix in (".md", ".tables.json")}
-    removable = [str(p) for p in plan.remove if p.exists() and p.resolve() not in written]
-    for i in range(0, len(removable), 50):
-        subprocess.run(["git", "rm", "-q", "-f", "--", *removable[i:i + 50]], cwd=repo_root, check=True)
+               for suffix in (".md", ".tables.json") if suffix == ".md" or st.tables is not None}
+    allowed = [d.resolve() for d in (allowed_dirs or [])]
+    report: dict[str, Any] = {"written": written_n, "removed": [], "skipped": [], "git_rm": 0, "deleted_untracked": 0}
+    for p in plan.remove:
+        if not p.exists() or p.resolve() in written:
+            continue
+        if allowed and not any(a in p.resolve().parents for a in allowed):
+            report["skipped"].append((str(p), "outside the source's legacy folders"))
+            continue
+        tracked = _git(["ls-files", "--error-unmatch", "--", str(p)], repo_root).returncode == 0
+        if tracked:
+            res = _git(["rm", "-q", "--", str(p)], repo_root)
+            if res.returncode != 0:
+                report["skipped"].append((str(p), "git rm refused: " + res.stderr.strip().splitlines()[-1][:120]))
+                continue
+            report["git_rm"] += 1
+        else:
+            p.unlink()
+            report["deleted_untracked"] += 1
+        report["removed"].append(str(p))
+    return report

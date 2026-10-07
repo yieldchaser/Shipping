@@ -298,3 +298,107 @@ def test_wordpress_fragment_with_comment_title(tmp_path):
 def test_non_vv_page_is_flagged(tmp_path):
     art = extract_article(write_html(tmp_path, "d.html", "Day of the Seafarer 2024", "<p>hello</p>"))
     assert not art.is_vv_report
+
+
+# --------------------------------------------------------------------------------------------- verifier regressions
+@pytest.mark.parametrize("line,built,yard", [
+    ("Handy Container H Cygnus (1,800 TEU, Jiangsu Yangzi Xinfu, Jan 2022) sold to Minerva Marine for USD 34 mil, "
+     "VV Value USD 33 mil", "Jan 2022", "Jiangsu Yangzi Xinfu"),
+    ("Handy Containers Valdivia, Valentina, Violetta (1,853 TEU, Sietas, 2007/08) sold to MSC for USD 57 mil en bloc, "
+     "VV Value USD 57.34 mil en bloc", "2007/08", "Sietas"),
+    ("Suezmax Ridgebury Judith (150,400 DWT, Universal, Apr 2008) sold to Unknown Greek buyers for USD 38 mil "
+     "(SS/DD Due), VV Value USD 40.57 mil", "Apr 2008", "Universal"),
+    ("Feedermax A Washia, Hull 569 and Hull 570 (1,096 TEU, Kyokuyo, May 2023) sold to Imoto Lines in an en bloc deal "
+     "for USD 78 mil, VV Value USD 71.05 mil", "May 2023", "Kyokuyo"),
+    ("2 x Feedermax Contship Sun and Contship Fun (966 TEU, Yangfan 2007/6) sold En Bloc to Greek buyers for USD 16.5 "
+     "mil Inc TC, VV Value USD 13.80 mil", "2007/6", "Yangfan"),
+    ("Supramax BC Karteria (50,300 DWT, Aug 2001 Kawasaki) sold to unknown Middle Eastern buyers for 7 mil, "
+     "VV Value USD 6.75 mil", "Aug 2001", "Kawasaki"),
+    ("VLCC Delos (318,600 DWT, Jun 2019. Daewoo) sold to undisclosed buyers for USD 116 mil, VV Value USD 113.78 mil",
+     "Jun 2019", "Daewoo"),
+])
+def test_built_and_yard_in_either_order(line, built, yard):
+    d = ok(line, "Containers")
+    assert (d.built_text, d.yard) == (built, yard)
+    assert "spec_order_swapped" in d.flags or d.built_text == built
+
+
+def test_multi_date_spec_keeps_all_dates_out_of_the_yard():
+    d = ok("MR1s (Chem / Product) PSS Vitality and PSS Energy (37,300 DWT, Jan 2002, Dec 2001, Hyundai Mipo) sold to "
+           "Far Eastern buyers in an en bloc deal for USD 20 mil, VV Value USD 19 mil", "Tankers")
+    assert d.built_text == "Jan 2002 / Dec 2001" and d.yard == "Hyundai Mipo"
+
+
+@pytest.mark.parametrize("spec", [
+    "115,00 DWT, Jan 2009, Hanjin HI",         # truncated 115,000
+    "206,00 DWT, Jul 2020, Qingdao Yangfan",
+    "81.600 DWT, Apr 2020, Imabari",           # thousands dot typo
+    "34,700 DWR, Mar 2007, Dalian Shipbuilding",
+])
+def test_truncated_or_typo_sizes_are_unparsed_not_wrong(spec):
+    res = parse_deal_line(f"Aframax Test Ship ({spec}) sold to Greek buyers for USD 41.50 mil, VV Value USD 42.78 mil")
+    assert res.deal is None and "spec" in res.reason
+
+
+def test_multi_size_lines_keep_whole_numbers():
+    d = ok("Handy Containers AS Fabiana and AS Franziska (1,296 TEU & 1,345 TEU, Oct 2007 & Jun 2005, Zhejiang Ouhua & "
+           "Jiangsu Yangzijiang) sold to European buyers in an en bloc deal for USD 21 mil, VV en bloc value USD 22.1 mil.",
+           "Containers")
+    assert d.size is None and d.size_text == "1,296 & 1,345" and d.size_unit == "TEU"
+    e = ok("MR2 Torm Resilience and Ragnhild (50,000 DWT & 46,200 DWT, 2005, STX Offshore) sold to Chinese buyers in an "
+           "enbloc deal for USD 30 mil, VV enbloc value USD 30.3 mil", "Tankers")
+    assert e.size is None and e.size_text == "50,000 & 46,200"
+
+
+def test_size_each_flag_keeps_the_full_number():
+    d = ok("Post Panamax MH Pegasus & MH Perseus (7,092 TEU each, 2023, SWS) sold en bloc by MH Ship Holding to MPC "
+           "Container Ships for USD 85 mil each, VV Value USD 88.4 mil", "Containers")
+    assert d.size == 7092 and "each" in d.flags
+
+
+@pytest.mark.parametrize("line", [
+    "Handysize Sigma Venture (34,700 DWT, Jun 2012, Chengxi Shipyard) sold DD Passed by Sigma Shipping USD 11.75 mil, "
+    "VV Value USD 12.21 mil",
+    "Handy Containers Ela (1,696 TEU, Apr 2012, Guangzhou) and Kestrel (1,809 TEU, May 2013, CSBC) sold to Erasmus for "
+    "mid 40s en bloc, VV Value USD 43.7 mil en bloc.",
+    "Panamax BC White Whale (76,000 DWT, Jul 2012, Hudong Zhonghua) sold DD due to unknown Greek buyers for USD 12.75 "
+    "mil, VV Value USD 14.03. mil",
+])
+def test_source_typos_in_counterparty_or_comment_are_unparsed(line):
+    res = parse_deal_line(line, "Bulkers")
+    assert res.deal is None and "typo" in res.reason
+
+
+def test_en_bloc_typo_phrase_does_not_pollute_the_buyer():
+    d = ok("Handy Bulkers New History and New Inspiration (36,300 DWT, Mar & May 2013, Shikoku Dockyard) sold to Tufton "
+           "Oceanic Assests in and en bloc deal for USD 41.20 mil, VV en bloc value USD 43.32 mil.")
+    assert d.buyer == "Tufton Oceanic Assests" and "en_bloc" in d.flags
+
+
+def test_en_bloc_is_visible_in_the_comments_column():
+    d = ok("Capesizes Stella Lucy (179,700 DWT, Jul 2015, Qingdao Beihai Shipbuilding HI) and Stella Laura (179,500 DWT, "
+           "Jun 2015, Qingdao Beihai Shipbuilding HI) sold to Dryships in an en bloc deal for USD 74.50 mil, VV en bloc "
+           f"value USD 71.70 mil {DASH} Including Charter.")
+    assert d.comments_all == "Including Charter; en bloc"
+    from scripts.parse_engine_html.render import deal_row
+    assert deal_row(d)[-1] == "Including Charter; en bloc"
+    e = ok(f"Capesize X (180,000 DWT, 2010, Y) sold en bloc to Z for USD 1 mil, VV Value USD 1 mil {DASH} En Bloc.")
+    assert e.comments_all == "En Bloc"                       # not duplicated
+
+
+def test_comment_comma_before_sold_is_not_a_qualifier():
+    d = ok("Capesize Cape Spring (180,100 DWT, Sep 2011, Qingdao Beihai Shipbuilding HI), sold for USD 30.10 mil, "
+           f"VV value USD 30.04 mil {DASH} SS/DD Passed.")
+    assert d.qualifiers == "" and d.comments == "SS/DD Passed"
+
+
+def test_incremental_csv_append_keeps_existing_header_and_rows(tmp_path):
+    from scripts.parse_engine_html.series import append_new_issues, read_csv
+    p = tmp_path / "s.csv"
+    p.write_text("issue_date,sector,vessel_name\n2021-07-06,Bulker,Old\n", encoding="utf-8")
+    n = append_new_issues(p, ("issue_date", "sector", "vessel_name", "extra"), [
+        {"issue_date": "2021-07-06", "sector": "Bulker", "vessel_name": "DUP", "extra": "x"},
+        {"issue_date": "2021-07-13", "sector": "Tanker", "vessel_name": "New", "extra": "y"}])
+    rows = read_csv(p)
+    assert n == 1 and [r["vessel_name"] for r in rows] == ["Old", "New"]
+    assert list(rows[0].keys()) == ["issue_date", "sector", "vessel_name"]       # header untouched, no extra column

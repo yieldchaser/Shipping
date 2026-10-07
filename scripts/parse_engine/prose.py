@@ -138,7 +138,7 @@ BLOCK_END_MAX_GAP = 8.0
 
 def _anchor_rects(page: pymupdf.Page, rule: dict[str, Any]) -> list[pymupdf.Rect]:
     """Rects of the anchors. With `line_start: true` an anchor only counts when a text line begins with
-    it (case-sensitive, and at most `max_line_chars` long when given), so prose that merely mentions
+    it (case-insensitive, and at most `max_line_chars` long when given), so prose that merely mentions
     "exchange rate" or "disclaimer" never starts a dropped region."""
     anchors = rule.get("anchor_any", [])
     if not rule.get("line_start"):
@@ -153,7 +153,8 @@ def _anchor_rects(page: pymupdf.Page, rule: dict[str, Any]) -> list[pymupdf.Rect
         text = " ".join(w[4] for w in ws)
         if max_chars and len(text) > max_chars:
             continue
-        if any(text.startswith(a) for a in anchors):
+        low = text.lower()
+        if any(low.startswith(a.lower()) for a in anchors):
             rects.append(pymupdf.Rect(min(w[0] for w in ws), min(w[1] for w in ws),
                                       max(w[2] for w in ws), max(w[3] for w in ws)))
     return rects
@@ -314,14 +315,23 @@ def page_prose(page: pymupdf.Page, page_no: int, exclude: list[tuple[float, floa
     return paras
 
 
-def assign_heading_levels(paras: list[Para], body: float) -> None:
-    sizes = sorted({max(l.size for l in p.lines) for p in paras if p.heading and max(l.size for l in p.lines) >= body + HEADING_SIZE_DELTA},
-                   reverse=True)
-    top = sizes[0] if sizes else None
+def assign_heading_levels(paras: list[Para], body: float, tables: list[Any] | None = None) -> None:
+    """Heading level by relative font size, ranking prose headings and table titles together so that titles
+    printed at the same size get the same level: the largest size is level 1, everything else level 2."""
+    sizes = [max(l.size for l in p.lines) for p in paras if p.heading]
+    sizes += [t.title_size for t in (tables or []) if t.title_size]
+    big = [x for x in sizes if x >= body + HEADING_SIZE_DELTA]
+    top = max(big) if big else None
+
+    def level(size: float) -> int:
+        return 1 if top is not None and size >= top - 0.2 and size >= body + HEADING_SIZE_DELTA else 2
+
     for p in paras:
         if p.heading:
-            size = max(l.size for l in p.lines)
-            p.heading = 1 if top is not None and size >= top - 0.2 and size >= body + HEADING_SIZE_DELTA else 2
+            p.heading = level(max(l.size for l in p.lines))
+    for t in tables or []:
+        if t.title_size:
+            t.level = level(t.title_size)
 
 
 def order_items(paras: list[Para], tables: list[Any]) -> list[tuple[str, Any]]:

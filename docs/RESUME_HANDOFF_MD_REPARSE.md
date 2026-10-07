@@ -15,7 +15,44 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 1. **`scripts/parse_engine/`** — reproducible engine. Free path: `pymupdf_table` (geometric tables anchored on headers) + `pymupdf_prose`. Paid fallback: LlamaParse v2 `agentic`, version pinned `2026-01-16`, cache in `.parse_cache/<sha256>/` (gitignored). Profiles in `scripts/parse_engine/profiles/*.yaml`. CLI: `python -m scripts.parse_engine run|promote|series ...`.
 2. **Clarksons**: 179 unique PDFs (396 files, dupes by sha256) parsed free; promotion plan in `.reparse_staging/clarksons/promotion_plan.csv`. **Verifier said NO-GO** until: B1 retire `scripts/extract/publishers/run_clarksons.py` from `scripts/orchestrate_pipeline.py:102` (it would overwrite) + tables.json schema compat; B2 case-insensitive drop_regions (market box leaks in 55 files); B3 case-insensitive filename date patterns (2026 dates 1 day late); promote source guard; cache config hash; en-bloc grouping; per-vessel Details in merged cells. A coder was fixing these when the session paused — re-check state, re-run batch (free), re-verify, then `promote --apply`, then series.
 3. **`scripts/parse_engine_html/`** — VesselsValue HTML deals + VV Mini Matrix image OCR (in progress). Output to `.reparse_staging/vessel_valuations/`.
-4. **`scripts/md_cleanup/chart_tables.py`** — removes LLM-guessed chart tables (values not printed in source text layer), replaces with `> Figure: … not transcribed` note. Guarded mode default; ISM (vector-engine charts) and any "Vector" section excluded. Dry-run results in `.reparse_staging/chart_cleanup/guard_published/` (8,890 tables). Was about to APPLY in place — check `git diff --stat data/extracted/md` before committing.
+4. **SHELVED — see HARD RULE.** `scripts/md_cleanup/chart_tables.py` — removes LLM-guessed chart tables (values not printed in source text layer), replaces with `> Figure: … not transcribed` note. Guarded mode default; ISM (vector-engine charts) and any "Vector" section excluded. Dry-run results in `.reparse_staging/chart_cleanup/guard_published/` (8,890 tables). Was about to APPLY in place — check `git diff --stat data/extracted/md` before committing.
+
+## STATUS 2026-10-07 21:30 IST — PAUSED by owner (usage limits). Agents stopped mid-round; WIP committed on branch.
+- Owner priority: START THE DEEPSEEK GRAPHRAG BUILD. Recommendation given: build GraphRAG now on the audited-GOOD
+  corpus; exclude data/extracted/md/clarksons, hellenic/shipbuilding/clarksons, hellenic/vessel_valuations (and the
+  other defective sources) or ingest them as-is flagged low-trust; swap in re-parsed versions later as incremental updates.
+- Clarksons: 3 verifier rounds done. Round-3 confirmed all earlier items fixed. OPEN (coder was mid-fix when stopped,
+  partial edits possible — run tests first): (1) export_series._iter_issues picks up SSY file
+  clarksons/2026/2026-05-18_ssy-pacific-capesize-… → --require-engine-schema aborts; filter by belongs_to_source.
+  (2) en-bloc shared cells: Details concatenated into each sister row (2023-09-29 FENGNING group, 2022-04-08 ARDMORE,
+  2023-11-10 TORM ESTRID/ISMINI, 2023-11-17); multi-amount Price cell assigns first amount to all (2021-09-17 SFL
+  MEDWAY 14.8/KENT 15.2/CLYDE 14.0, 2024-01-05 XING SHOU HAI 28, TORM ISMINI 20.5). Plus minor list (demo price ranges,
+  greek homoglyphs in series, new-only per-PDF try/except, pyyaml in workflows, one workflow only for Clarksons steps).
+  Owner question pending: keep engine-added "(en bloc)" marker in Price (not printed in PDF)? I recommended keep.
+- VV: verifier fix list items 1–12 (see below) partly done when stopped; OCR cache in .reparse_staging/vessel_valuations/_matrix_cache.
+- Not started: Xclusiv, Carriers, Best Oasis, Star Asia, Intermodal tables, metadata, self-hosted runner.
+
+## STATUS 2026-10-07 11:20 IST (uncommitted work on disk in this worktree; nothing promoted)
+- Clarksons: all first-round NO-GO items fixed by coder (93 tests pass; legacy runners refuse to run; orchestrators skip
+  Clarksons; promote needs --apply). Staged 179/179 flag-free. My visual check of 2024-01-12 vs PDF: staged beats both
+  old sets (keeps HIGH/RGN/XS qualifiers, demolition table, commentary). REMAINING: en-bloc merged-cell bug
+  (CRESTED/STELLAR EAGLE: shared Details split by line, per-vessel SS/DD duplicated) + explain 98 old-only vessels vs
+  clarksons_snp_sales_series.csv. Coder was on it. Then: verifier → visual check → `promote --apply` → series → commit.
+- VesselsValue: staged MD far better (2023-03-07 matrix 78/78 exact vs image; commentary/comments/class fixed).
+  Verifier NO-GO: benchmark sizes misread (~130 rows: 710k/770k for 110k, 100 for 1100) — emit only when ≥2 renders
+  agree; Built/Yard swap (≥9), truncated sizes (≥6), buyer typos, en bloc not in MD, -0; undisclosed digit repair;
+  ok matrix needs date label; map series to existing vocab; retire run_hellenic_vessel_valuations.py +
+  run_hellenic_vv_matrix.py (report_ingest.yml:152, orchestrate_pipeline.py:113 — 13-col DictWriter would crash).
+  Keep current matrix rows for failed issues only in years where current ≥98% accurate vs staged (2026 current = garbage).
+  2026 matrix images are 600px — unreadable, mark "not machine-readable", never guess. Coder was on it.
+- Agents may have died at session limit: resume by re-sending these fix lists to coders (check git diff first).
+
+## HARD RULE (owner, 2026-10-07)
+Never run bulk scripts over MDs audited GOOD (list below). Owner hand-perfected them (tables, firmer/softer, arrows).
+Chart cleanup (`scripts/md_cleanup/chart_tables.py`) was applied 2026-10-07, verifier NO-GO: it removed ~197 real
+Banchero FFA tables (image-only pages, empty text layer) and kept round-number chart guesses. Fully reverted; tool is
+SHELVED — do not run it. Only re-parse the defective sources, and replace a file only after rendering the PDF page
+and confirming the new MD beats the old one visually.
 
 ## Audit verdicts (PDF text recall + visual page checks)
 Good: intermodal text, banchero text/tables, advanced, affinity, carriers (except below), ssy, ism, star_asia (except below), poten, seabrokers, gibson, fearnleys, fearnleys-md, drewry ais text, MMI iron ore, breakwave, alibra, baltic, signal.

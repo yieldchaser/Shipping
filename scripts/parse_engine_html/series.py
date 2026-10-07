@@ -7,6 +7,8 @@ from pathlib import Path
 
 from scripts.parse_engine_html.render import IssueContext
 
+# vocabulary of the existing data/extracted/series files: singular sectors in the sales series ...
+SALES_SECTOR = {"Bulkers": "Bulker", "Tankers": "Tanker", "Containers": "Container"}
 SALES_FIELDS = (
     "issue_date", "sector", "vessel_name", "vessel_class", "dwt_spec", "built_date", "yard", "buyer",
     "price_usd_m", "vv_value_usd_m", "premium_pct", "comments", "source_file",
@@ -31,7 +33,7 @@ def sales_rows(ctxs: list[IssueContext]) -> list[dict]:
         for s in a.sectors:
             for d in s.deals:
                 rows.append({
-                    "issue_date": a.issue_date.isoformat(), "sector": s.name,
+                    "issue_date": a.issue_date.isoformat(), "sector": SALES_SECTOR.get(s.name, s.name),
                     "vessel_name": d.vessel_name, "vessel_class": d.vessel_class,
                     "dwt_spec": f"{d.size_text} {d.size_unit}".strip(), "built_date": d.built_text,
                     "yard": d.yard, "buyer": d.buyer, "price_usd_m": _num(d.price_usd_m),
@@ -53,9 +55,9 @@ def matrix_series_rows(ctxs: list[IssueContext]) -> list[dict]:
         for c in ctx.matrix.cells:
             if c.pct is None:          # N/A cell: no observation
                 continue
-            verified = (c.age, c.group, c.column) not in ctx.unverified_refs
+            verified = bool(c.ref_text)
             rows.append({
-                "issue_date": ctx.article.issue_date.isoformat(), "sector": c.group, "vessel_class": c.column,
+                "issue_date": ctx.article.issue_date.isoformat(), "sector": c.group, "vessel_class": f"{c.group} {c.column}",
                 "benchmark_size": c.ref_text if verified else "", "age_years": c.age,
                 "pct_change_weekly": _num(c.pct), "source_file": ctx.article.source_file,
                 "benchmark_size_num": _num(c.ref_size) if verified else "",
@@ -69,6 +71,29 @@ def write_csv(path: Path, fields: tuple[str, ...], rows: list[dict]) -> None:
         w = csv.DictWriter(fh, fieldnames=fields, extrasaction="ignore")
         w.writeheader()
         w.writerows(rows)
+
+
+def append_new_issues(path: Path, fields: tuple[str, ...], rows: list[dict]) -> int:
+    """Append rows of issue dates that are not in the CSV yet, using the CSV's own header (so a file written by
+    an older writer keeps its columns). Existing rows are never touched; returns the number of rows appended."""
+    existing_dates: set[str] = set()
+    header = list(fields)
+    if path.exists() and path.stat().st_size > 0:
+        with path.open(newline="", encoding="utf-8") as fh:
+            rd = csv.DictReader(fh)
+            header = list(rd.fieldnames or fields)
+            existing_dates = {r.get("issue_date", "") for r in rd}
+    new = [r for r in rows if r.get("issue_date") not in existing_dates]
+    if not new:
+        return 0
+    path.parent.mkdir(parents=True, exist_ok=True)
+    fresh = not path.exists() or path.stat().st_size == 0
+    with path.open("a", newline="", encoding="utf-8") as fh:
+        w = csv.DictWriter(fh, fieldnames=header, extrasaction="ignore", lineterminator="\n")
+        if fresh:
+            w.writeheader()
+        w.writerows(new)
+    return len(new)
 
 
 def read_csv(path: Path) -> list[dict]:

@@ -10,12 +10,14 @@ from typing import Any
 import pymupdf
 
 from scripts.parse_engine import geom_table, liteparse, prose
-from scripts.parse_engine.cache import cache_get, cache_put
+from scripts.parse_engine.cache import cache_get, cache_put, config_hash
 from scripts.parse_engine.config import (CREDITS_PER_PAGE, REPO_ROOT, pages_to_spec, repo_relative,
                                          select_pages, sha256_file)
 from scripts.parse_engine.dates import parse_issue_date
-from scripts.parse_engine.llama import CreditsExhausted, LlamaParseClient, estimate_credits
-from scripts.parse_engine.normalize import build_frontmatter, clean_markdown, html_tables_to_gfm, now_iso
+from scripts.parse_engine.export_series import sidecar_payload
+from scripts.parse_engine.llama import (CreditsExhausted, LlamaParseClient, LlamaParseError,
+                                        build_v2_configuration, estimate_credits)
+from scripts.parse_engine.normalize import build_frontmatter, clean_markdown, html_tables_to_gfm, nest_headings_md, now_iso
 from scripts.parse_engine.validate import validate_output, write_validation
 
 ENGINE_TAG = {"llamaparse": "llama", "pymupdf_table": "geom", "liteparse": "lit", "pymupdf": "pymupdf"}
@@ -172,9 +174,9 @@ def run_geom(plan: FilePlan, profile: dict[str, Any], prose_engine: str | None =
             exclude = [t.bbox for t in tables] + prose.drop_region_boxes(page, drops)
             paras = prose.page_prose(page, p, exclude, repeated, body)
             all_paras.extend(paras)
-            page_items.append(prose.order_items(paras, tables))
+            page_items.append(prose.order_items(paras, [t for t in tables if not t.hidden]))
             all_tables.extend(tables)
-        prose.assign_heading_levels(all_paras, body)
+        prose.assign_heading_levels(all_paras, body, all_tables)
         parts = [prose.render([it for items in page_items for it in items], level)]
         parser = "pymupdf_table + pymupdf_prose"
     else:
@@ -187,7 +189,7 @@ def run_geom(plan: FilePlan, profile: dict[str, Any], prose_engine: str | None =
         parser = f"pymupdf_table + liteparse {liteparse.lit_version()}"
     return {
         "markdown": "\n\n".join(parts),
-        "tables": [t.to_json() for t in all_tables],
+        "tables": [t.to_json() for t in all_tables if not t.hidden],
         "parser": parser,
         "api": "local", "tier": None, "credits_used": 0, "parsed_at": None,
     }
@@ -196,9 +198,11 @@ def run_geom(plan: FilePlan, profile: dict[str, Any], prose_engine: str | None =
 def _page_tables(page: pymupdf.Page, p: int, gcfg: dict[str, Any], drops: list[dict[str, Any]] | None,
                  memory: dict[Any, Any] | None = None):
     tables = geom_table.find_tables(page, p, gcfg.get("tables", []), gcfg.get("stop_anchors"),
-                                    float(gcfg.get("footer_margin", 45)), memory)
+                                    float(gcfg.get("footer_margin", 45)), memory, gcfg.get("continuation_ignore"))
     boxes = prose.drop_region_boxes(page, drops)
-    return [t for t in tables if not any(t.bbox[1] >= b[1] - 1 for b in boxes)]
+    # a table is dropped only when it starts inside a dropped region (the contacts block can sit at the
+    # top of a page with the real tables below it)
+    return [t for t in tables if not any(b[1] - 1 <= t.bbox[1] <= b[3] for b in boxes)]
 
 
 def dropped_boxes(plan: FilePlan, profile: dict[str, Any]) -> list[dict[str, Any]]:
@@ -218,12 +222,31 @@ def run_lit(plan: FilePlan, profile: dict[str, Any]) -> dict[str, Any]:
             "parsed_at": None}
 
 
+def payload_problems(payload: dict[str, Any], n_pages: int) -> list[str]:
+    """Reasons a LlamaParse result must not be cached or used: failed pages, empty pages, missing pages."""
+    pages = payload.get("markdown_pages") or []
+    problems = []
+    if pages:
+        if len(pages) < n_pages:
+            problems.append(f"{len(pages)} of {n_pages} pages returned")
+        problems += [f"page {p.get('page')} failed: {p.get('error')}" for p in pages if p.get("success") is False]
+        problems += [f"page {p.get('page')} empty" for p in pages if p.get("success") is not False
+                     and not (p.get("markdown") or "").strip()]
+    elif not (payload.get("markdown") or "").strip():
+        problems.append("empty markdown")
+    return problems
+
+
 def run_llama(plan: FilePlan, profile: dict[str, Any], client: LlamaParseClient | None,
               budget: dict[str, Any]) -> dict[str, Any]:
     cfg = profile.get("llamaparse", {})
     tier, version = plan.tier or cfg["tier"], plan.version or cfg["version"]
     spec = plan.pages_spec
-    payload = cache_get(plan.sha256, "llamaparse", tier, version, spec)
+    merge = bool(cfg.get("merge_continued_tables", True))
+    cfg_hash = config_hash(build_v2_configuration(tier, version, spec, cfg.get("custom_prompt"), merge))
+    payload = cache_get(plan.sha256, "llamaparse", tier, version, spec, cfg_hash=cfg_hash)
+    if payload is not None and payload_problems(payload, len(plan.pages)):
+        payload = None                       # a bad cache entry is never trusted
     hit = payload is not None
     used = 0
     if payload is None:
@@ -232,11 +255,13 @@ def run_llama(plan: FilePlan, profile: dict[str, Any], client: LlamaParseClient 
         if cap is not None and budget["spent"] + est > cap:
             raise BudgetExceeded(f"{est} credits would exceed --max-credits {cap} (spent {budget['spent']})")
         client = client or LlamaParseClient()
-        payload = client.parse(plan.pdf, tier, version, spec, cfg.get("custom_prompt"),
-                               bool(cfg.get("merge_continued_tables", True)))
-        cache_put(plan.sha256, "llamaparse", tier, version, spec, payload)
+        payload = client.parse(plan.pdf, tier, version, spec, cfg.get("custom_prompt"), merge)
         used = est
-        budget["spent"] += used
+        budget["spent"] += used              # the call was made and billed even if the result is unusable
+        problems = payload_problems(payload, len(plan.pages))
+        if problems:
+            raise LlamaParseError("LlamaParse result not cached: " + "; ".join(problems[:4]))
+        cache_put(plan.sha256, "llamaparse", tier, version, spec, payload, cfg_hash=cfg_hash)
     resolved = payload.get("version_resolved") or version
     return {
         "markdown": html_tables_to_gfm(payload["markdown"]).replace("<br />", " "), "tables": [],
@@ -293,7 +318,7 @@ def run_file(plan: FilePlan, profile: dict[str, Any], source: str, staging: Path
     else:
         raise ValueError(f"unsupported engine '{engine}'")
 
-    body = clean_markdown(res["markdown"], profile)
+    body = nest_headings_md(clean_markdown(res["markdown"], profile))
     title_tpl = profile.get("title_template", "{source} {issue_date}")
     if plan.issue_date:
         title = title_tpl.format(issue_date=plan.issue_date, source=source)
@@ -311,9 +336,12 @@ def run_file(plan: FilePlan, profile: dict[str, Any], source: str, staging: Path
     paths["md"].parent.mkdir(parents=True, exist_ok=True)
     paths["md"].write_text(md, encoding="utf-8")
     if res.get("tables"):
-        paths["tables"].write_text(json.dumps(res["tables"], indent=2, ensure_ascii=False), encoding="utf-8")
+        paths["tables"].write_text(json.dumps(sidecar_payload(res["tables"], plan.issue_date, repo_relative(plan.pdf),
+                                                              plan.sha256), indent=2, ensure_ascii=False), encoding="utf-8")
 
     regions = res["tables"] and [{"page": t["page"], "name": t["name"], "bbox": t["bbox"]} for t in res["tables"]]
+    regions = (regions or []) + [{"page": x["page"], "name": t["name"], "bbox": x["bbox"]}
+                                 for t in (res["tables"] or []) for x in t.get("extra_regions", [])]
     if not regions:
         regions = _regions(plan, profile)
     report = validate_output(md, plan.pdf, plan.pages, profile, plan.year, regions, plan.issue_date,
@@ -328,6 +356,17 @@ def run_file(plan: FilePlan, profile: dict[str, Any], source: str, staging: Path
         flags.append("few_tables")
     if unassigned:
         flags.append(f"table_unassigned_words={unassigned}")
+    frag_res = [re.compile(p) for p in (profile.get("table_fragment_patterns") or [])]
+    if frag_res and engine == "pymupdf_table":
+        frag = [ln for ln in body.split("\n") if ln.strip() and not ln.lstrip().startswith(("|", "#"))
+                and any(r.search(ln) for r in frag_res)]
+        if frag:
+            flags.append(f"table_text_in_prose:{len(frag)}")
+    for heading, prefix in (profile.get("heading_requires_tables") or {}).items():
+        has_heading = re.search(r"^#+ " + re.escape(heading) + r"\b", body, re.M | re.I) is not None
+        has_table = any(t["name"].lower().startswith(prefix.lower()) for t in (res.get("tables") or []))
+        if engine == "pymupdf_table" and has_heading and not has_table:
+            flags.append(f"heading_without_tables:{heading}")
     report["flags"] = flags
     write_validation(paths["validation"], report)
     return {

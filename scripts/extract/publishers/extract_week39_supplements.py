@@ -448,6 +448,11 @@ def extract_clarksons_doc(pdf_path: Path) -> Dict[str, Any]:
     # Derive year from issue date — never hardcode
     year_str = issue[:4]
     dest_dir = MD_DIR / "clarksons" / year_str
+    _series_csv = SERIES_DIR / "clarksons_sales_series.csv"
+    if (dest_dir / f"{stem}.md").exists() or (
+            _series_csv.exists() and "source_sha256" in _series_csv.read_text(encoding="utf-8", errors="ignore")[:1500]):
+        raise SystemExit("extract_week39_supplements: Clarksons MD/series now come from `python -m scripts.parse_engine` "
+                         "(schema parse_engine/v1); refusing to overwrite them with the legacy layout")
     dest_dir.mkdir(parents=True, exist_ok=True)
     sidecar_data = {
         "stem": stem,

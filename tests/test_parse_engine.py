@@ -395,6 +395,21 @@ def test_year_typo_in_header_loses_to_filename_when_filename_year_is_folder_year
 def test_header_wins_when_a_second_filename_date_equals_it():
     fn = "2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf"
     r = parse_issue_date(DATE_PATTERNS, "Hellas S&P Weekly Bulletin 23 April 2022", fn, folder_year=2022)
-    assert r == ("2022-04-23", "header_corroborated_by_filename", True, "2022-04-23")
+    assert r == ("2022-04-23", "header", False, "2022-04-23")     # printed report-23-04-2022 date is primary
     fn2 = "2022-10-28_clarksons-platou-hellas-snp-weekly-bulletin-42_report-29-10-2022_d88997c2e5f4.pdf"
     assert parse_issue_date(DATE_PATTERNS, "29 October 2022", fn2, folder_year=2022)[0] == "2022-10-29"
+
+
+def test_lowercase_weekly_sales_name_gives_the_printed_date_not_the_crawl_prefix():
+    fn = "2026-03-07_clarksons-platou-hellas-snp-weekly-bulletin-124_weekly-sales-06th-mar-2026_aaaaaaaaaaaa.pdf"
+    assert parse_issue_date(DATE_PATTERNS, "", fn, folder_year=2026)[:2] == ("2026-03-06", "filename")
+    fn2 = "clarksons_2026_Weekly-Sales-2nd-October-2026.pdf"
+    assert parse_issue_date(DATE_PATTERNS, "", fn2)[0] == "2026-10-02"
+    fn3 = "2025-10-24_clarksons-platou-hellas-snp-weekly-bulletin-111_weekly-sales-24th-oct-2025_e721320e3ba1.pdf"
+    assert parse_issue_date(DATE_PATTERNS, "", fn3)[0] == "2025-10-24"
+
+
+def test_year_typo_still_picks_the_prefix_when_the_report_date_repeats_the_typo():
+    fn = "2022-01-21_clarksons-platou-hellas-snp-weekly-bulletin-5_report-21-01-2021_a3fb3f45981f.pdf"
+    r = parse_issue_date(DATE_PATTERNS, "21 January 2021", fn, folder_year=2022)
+    assert r[:2] == ("2022-01-21", "filename_over_header_year_typo")

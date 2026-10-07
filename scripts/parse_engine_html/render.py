@@ -33,7 +33,6 @@ class IssueContext:
     matrix: MatrixResult | None = None
     matrix_image: str | None = None
     matrix_how: str = ""
-    unverified_refs: set[tuple[int, str, str]] = field(default_factory=set)   # (age, group, column)
     duplicates: list[str] = field(default_factory=list)
     parsed_at: str = field(default_factory=lambda: datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
 
@@ -81,10 +80,7 @@ def matrix_rows(ctx: IssueContext) -> tuple[list[str], list[list[str]]]:
         row = [str(age)]
         for g, c in COLUMNS:
             cell = by[(age, g, c)]
-            ref = cell.ref_text
-            if ref and (age, g, c) in ctx.unverified_refs:
-                ref = f"{ref}?"
-            row.append(f"{cell.pct_text} ({ref})" if ref else cell.pct_text)
+            row.append(f"{cell.pct_text} ({cell.ref_text})" if cell.ref_text else cell.pct_text)
         rows.append(row)
     return header, rows
 
@@ -174,8 +170,8 @@ def render_markdown(ctx: IssueContext) -> str:
         m = ctx.matrix
         out += [f"Source image: `{ctx.matrix_image}`"
                 + (f" (image date label {m.image_date})" if m.image_date else "") + ".",
-                "Each cell: weekly % change (reference benchmark size). `?` = benchmark size not "
-                "corroborated by other issues.", ""]
+                "Each cell: weekly % change (reference benchmark size); a missing size means the benchmark "
+                "could not be read with agreement between independent renders.", ""]
         header, rows = matrix_rows(ctx)
         out += md_table(header, rows) + [""]
     for w in (ctx.matrix.warnings if ctx.matrix else []) + a.warnings:
@@ -191,8 +187,7 @@ def tables_payload(ctx: IssueContext) -> dict:
             "status": ctx.matrix.status, "image": ctx.matrix_image, "image_sha256": ctx.matrix.image_sha256,
             "image_date": ctx.matrix.image_date, "n_rows": ctx.matrix.n_rows, "n_cols": ctx.matrix.n_cols,
             "errors": ctx.matrix.errors, "warnings": ctx.matrix.warnings,
-            "cells": [{**c.__dict__, "ref_unverified": (c.age, c.group, c.column) in ctx.unverified_refs}
-                      for c in ctx.matrix.cells],
+            "cells": [c.__dict__ for c in ctx.matrix.cells],
         }
     return {
         "issue_date": a.issue_date.isoformat() if a.issue_date else None,

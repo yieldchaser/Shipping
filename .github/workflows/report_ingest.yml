@@ -149,10 +149,15 @@ jobs:
             python scripts/extract/publishers/run_hellenic_demolition.py || true
             python scripts/extract/publishers/run_hellenic_gms_demolition.py || true
             python scripts/extract/publishers/run_hellenic_alibra_tc.py || true
-            python scripts/extract/publishers/run_hellenic_vessel_valuations.py || true
+            # VesselsValue: new issues only, never rewrites existing MD / series rows (legacy runners are disabled)
+            python -m scripts.parse_engine_html vv --incremental || true
           fi
 
           python scripts/extract/orchestrate_incremental_ingest.py || true
+          # Clarksons: parse and promote only NEW issues (never overwrites; the legacy extractor is retired)
+          python -m scripts.parse_engine run --source clarksons --new-only || true
+          python -m scripts.parse_engine promote --source clarksons --new-only --apply || true
+          python -m scripts.parse_engine series --source clarksons --root data/extracted/md/clarksons --out-dir data/extracted/series --require-engine-schema || true
           python scripts/verify/build_corpus_inventory.py --merge-existing || true
           python scripts/sync_extraction_register.py || true
           python scripts/audit/generate_cadence_audit.py || true

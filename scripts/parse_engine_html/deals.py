@@ -34,9 +34,19 @@ CLASS_RE = re.compile(
     r"(?=\s|$|\(|(?-i:[A-Z]))", re.I)
 
 NUM = r"(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?"
+# a size is a COMPLETE number: "115,00 DWT" (typo) must not be read as 115, nor "1,296 TEU & 1,345 TEU" as 1
+SIZE_ITEM = rf"(?!\d{{1,3}}\.\d{{3}}\b){NUM}(?![,.]?\d)\s?[kK]?(?:\s*(?:DWT|TEU|CBM))?"
 SPEC_RE = re.compile(
-    rf"^(?:c\.\s*)?(?P<size>{NUM}\s?[kK]?(?:\s*(?:/|-|–|&|and|to)\s*{NUM}\s?[kK]?)*)\s*"
-    rf"(?P<unit>DWT|TEU|CBM|cbm)?(?P<flag>\s+(?:resale|newbuild)s?)?\s*(?:,\s*(?P<rest>.*))?$", re.I | re.S)
+    rf"^(?:c\.\s*|between\s+)?(?P<size>{SIZE_ITEM}(?:\s*(?:/|-|–|&|and|to)\s*{SIZE_ITEM})*)\s*"
+    rf"(?P<unit>DWT|TEU|CBM)?(?P<flag>\s+(?:resale|newbuild|each)s?)?\s*(?:,\s*(?P<rest>.*))?$", re.I | re.S)
+UNIT_WORD_RE = re.compile(r"\b(DWT|TEU|CBM)\b", re.I)
+MON = r"(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?"
+DATE_PART_RE = re.compile(
+    rf"^(?:{MON}(?:\s*(?:/|&|-|–|and|to)\s*{MON})*\s+)?\d{{4}}(?:\s*(?:/|-|–|&|to|and)\s*(?:{MON}\s+)?\d{{1,4}})?$", re.I)
+LEADING_DATE_RE = re.compile(
+    rf"^(?P<d>(?:{MON}(?:\s*(?:/|&|-|–|and|to)\s*{MON})*\s+)?\d{{4}}(?:/\d{{1,4}})?)\s+(?P<y>[A-Za-z].*)$", re.I)
+TRAILING_DATE_RE = re.compile(
+    rf"^(?P<y>.*?\S)\s+(?P<d>(?:{MON}\s+)?\d{{4}}(?:/\d{{1,4}})?)$", re.I)
 UNIT = r"(?:mill?|mi|bil|bn|m)"
 VV_RE = re.compile(
     rf"VV\s+(?P<eb>en[\s-]?bloc\s+)?values?\s*(?:USD\s*)?(?P<v>{NUM})(?:\s*(?:USD\s*)?(?P<u>{UNIT})(?![A-Za-z0-9]|\.\d))?(?![A-Za-z0-9]|\.\d)",
@@ -55,7 +65,7 @@ UNDISC_PRICE_RE = re.compile(
     re.I)
 DASH_CLASS = "–—−�\\-"
 TAIL_RE = re.compile(rf"^\s*\.?\s*(?:[{DASH_CLASS}]+\s*(?P<c>.*?))?\s*\.?\s*$", re.S)
-EN_BLOC_RE = re.compile(r"\b(?:in\s+an?\s+)?en[\s-]?bloc(?:\s+deal)?\b", re.I)
+EN_BLOC_RE = re.compile(r"\b(?:in\s+(?:an?\s+|and\s+)?)?en[\s-]?bloc(?:\s+deal)?\b", re.I)
 ACTION_RE = re.compile(r"^(sold|on subs|ordered|acquired|purchased|bought)\b", re.I)
 WHO_RE = re.compile(r"(?:^|\s)(to|by)\s+", re.I)
 MONTHS = {m: i for i, m in enumerate(
@@ -90,7 +100,14 @@ class Deal:
 
     @property
     def comments_all(self) -> str:
-        return "; ".join(x for x in (self.comments, self.qualifiers) if x)
+        """Dash comments, then sale terms embedded in the sentence, then 'en bloc'; duplicates dropped."""
+        parts: list[str] = []
+        for x in (self.comments, self.qualifiers):
+            if x and x.lower() not in (p.lower() for p in parts):
+                parts.append(x)
+        if "en_bloc" in self.flags and not any("bloc" in p.lower() for p in parts):
+            parts.append("en bloc")
+        return "; ".join(parts)
 
     def to_dict(self) -> dict:
         d = asdict(self)
@@ -141,6 +158,50 @@ def _clean(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip(" ,.;")
 
 
+_TRAIL_JUNK = re.compile(r"(?:^|\s)(?:USD|mil|mill|for|in|and|en|with|to|by|an?|the)$", re.I)
+_MONEY_IN_NAME = re.compile(r"\bUSD\b|\bmill?\b|\bfor (?:mid|a|an|the)\b|\d\s?mil", re.I)
+
+
+def source_typo_reason(d: "Deal") -> str:
+    """Counterparty / comment text polluted by a typo in the source ('Sigma Shipping USD', 'Assests in and',
+    'Erasmus for mid 40s', comment 'in'): such a line is returned as unparsed instead of a wrong row."""
+    for label, val in (("buyer", d.buyer), ("seller", d.seller)):
+        if val and (_TRAIL_JUNK.search(val) or _MONEY_IN_NAME.search(val)):
+            return f"source typo: {label} text {val!r} is polluted"
+    c = d.comments.strip()
+    if c and (re.fullmatch(r"(?:mill?|mi|in|and|for|usd|to|by)", c, re.I) or re.match(r"(?:mill?|mi)\b", c, re.I)):
+        return f"source typo: comment text {c!r} is not a comment"
+    return ""
+
+
+def split_built_yard(rest: str, flags: list[str]) -> tuple[str, str]:
+    """The tail of the spec parenthesis holds build date(s) and a yard in either order ("Jan 2013, Hyundai Mipo",
+    "Jiangsu Yangzi Xinfu, Jan 2022", "Sietas, 2007/08", "Yangfan 2007/6", "Mar 2011 Oshima", "Jun 2019. Daewoo").
+    Date parts are recognised by shape, never by position."""
+    rest = re.sub(r"(?<=\d{4})\.\s+", ", ", rest)
+    parts = [norm_line(p) for p in rest.split(",") if p.strip()]
+    if not parts:
+        return "", ""
+    dates: list[str] = []
+    yards: list[str] = []
+    for i, p in enumerate(parts):
+        if DATE_PART_RE.match(p):
+            dates.append(p)
+            if yards:
+                flags.append("spec_order_swapped")
+            continue
+        lm = LEADING_DATE_RE.match(p) or TRAILING_DATE_RE.match(p)
+        if lm and not dates:
+            dates.append(lm.group("d"))
+            yards.append(lm.group("y"))
+            flags.append("spec_order_swapped")
+        else:
+            yards.append(p)
+    if dates and parts and DATE_PART_RE.match(parts[0]) is None and "spec_order_swapped" not in flags:
+        flags.append("spec_order_swapped")
+    return " / ".join(dates), ", ".join(yards)
+
+
 def parse_deal_line(text: str, sector: str = "") -> ParseResult:
     t = norm_line(text)
     vv = None
@@ -157,7 +218,7 @@ def parse_deal_line(text: str, sector: str = "") -> ParseResult:
         return ParseResult(None, "no vessel spec parenthesis (size, built, yard)")
     spec_m = spec_ms[0]
     lead = norm_line(head[:spec_m.start()])
-    after = norm_line(head[spec_ms[-1].end():])
+    after = norm_line(head[spec_ms[-1].end():]).lstrip(" ,")
     sms = []
     for x in spec_ms:
         one = SPEC_RE.match(x.group(1).strip())
@@ -202,24 +263,14 @@ def parse_deal_line(text: str, sector: str = "") -> ParseResult:
     # 3. spec fields (one spec per vessel; en bloc lines with several specs are joined with " / ")
     sizes, builts, yards, units = [], [], [], set()
     for one in sms:
-        sizes.append(norm_line(one.group("size")))
+        raw_size = norm_line(one.group("size"))
+        units.update(u.upper() for u in UNIT_WORD_RE.findall(raw_size))
         if one.group("unit"):
             units.add(one.group("unit").upper())
+        sizes.append(norm_line(UNIT_WORD_RE.sub(" ", raw_size)))
         if one.group("flag"):
             d.flags.append(one.group("flag").strip().lower())
-        rest = one.group("rest")
-        built = yard = ""
-        if rest:
-            if "," in rest:
-                built, yard = rest.split(",", 1)
-            elif re.search(r"\d{4}", rest):
-                built, yard = rest, ""
-            else:
-                built, yard = "", rest
-            built, yard = norm_line(built), norm_line(yard)
-            if not re.search(r"\d{4}", built) and re.fullmatch(r"\d{4}", yard):
-                built, yard = yard, built
-                d.flags.append("spec_order_swapped")
+        built, yard = split_built_yard(one.group("rest") or "", d.flags)
         builts.append(built)
         yards.append(yard)
     d.size_text = " / ".join(sizes)
@@ -232,6 +283,8 @@ def parse_deal_line(text: str, sector: str = "") -> ParseResult:
     d.built_text = " / ".join(builts) if len(builts) > 1 else builts[0]
     d.built = _built_iso(builts[0]) if len(builts) == 1 else None
     d.yard = " / ".join(dict.fromkeys(y for y in yards if y))
+    if re.search(r"(?<!\d)(?:19|20)\d{2}(?!\d)", d.yard) and not re.search(r"hull|\d{5}", d.yard, re.I):
+        return ParseResult(None, f"spec tail not understood (a year inside the yard text): {d.yard!r}")
     if extra_names:
         d.flags.append("multi_spec")
         d.vessel_name = ", ".join([d.vessel_name] + extra_names)
@@ -307,6 +360,11 @@ def parse_deal_line(text: str, sector: str = "") -> ParseResult:
     d.qualifiers = "; ".join(q for q in quals if q)
     d.flags = list(dict.fromkeys(d.flags))
 
+    if d.size is not None and d.size < 200:
+        return ParseResult(None, f"implausible vessel size {d.size_text} {d.size_unit} (source typo)")
+    typo = source_typo_reason(d)
+    if typo:
+        return ParseResult(None, typo)
     if d.price_usd_m is not None and d.vv_value_usd_m:
         d.premium_pct = round((d.price_usd_m / d.vv_value_usd_m - 1) * 100, 2)
     return ParseResult(d)

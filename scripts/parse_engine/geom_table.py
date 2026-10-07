@@ -20,7 +20,7 @@ import pymupdf
 ROW_TOL = 3.0          # y tolerance (pt) when ordering text inside a cell
 PHRASE_GAP = 6.0       # max gap (pt) between words belonging to one phrase
 RULE_MIN_LEN = 3.0
-EMPTY_MARKERS = {"", "-", "\u2013", "\u2014"}
+EMPTY_CELL_RE = re.compile(r"^[-\u2013\u2014]*$")      # blank or a dash placeholder ("-", "--", en/em dashes)
 NO_SALES = "No reported sales"
 
 
@@ -82,6 +82,13 @@ class TableResult:
     boundary_source: str = "rulings"
     row_source: str = "rulings"
     unassigned_words: int = 0
+    title_size: float | None = None           # font size of the printed title line (heading level ranking)
+    level: int | None = None                  # markdown heading level chosen by the engine
+    row_meta: list[list[float]] = field(default_factory=list)   # per row: [page, band top, band bottom, interval]
+    column_bounds: list[float] = field(default_factory=list)
+    source_columns: list[str] = field(default_factory=list)    # header labels before the Built split
+    hidden: bool = False                      # stub that only marks a continuation region (excluded from prose)
+    extra_regions: list[dict[str, Any]] = field(default_factory=list)   # continuation rows on following pages
 
     def to_json(self) -> dict[str, Any]:
         return {
@@ -90,9 +97,13 @@ class TableResult:
             "en_bloc_rows": self.en_bloc_rows, "empty": self.empty,
             "boundary_source": self.boundary_source, "row_source": self.row_source,
             "unassigned_words": self.unassigned_words,
+            **({"extra_regions": self.extra_regions} if self.extra_regions else {}),
+            "row_meta": self.row_meta, "column_bounds": [round(b, 1) for b in self.column_bounds],
+            "source_columns": self.source_columns,
         }
 
     def to_markdown(self, heading_level: int = 3) -> str:
+        heading_level = self.level or heading_level
         return render_gfm(self.columns, self.rows, heading=self.title, level=heading_level)
 
 
@@ -225,12 +236,18 @@ def _covers(seg: Segment, x: float) -> bool:
 
 
 # --------------------------------------------------------------------------- phrases / assignment
-def _phrases(words: list[Word]) -> list[tuple[float, float, float, list[Word]]]:
-    """Group same-line words with small gaps. Returns (cx, y0, y1, words)."""
+def _phrases(words: list[Word], bounds: list[float] | None = None) -> list[tuple[float, float, float, list[Word]]]:
+    """Group same-line words with small gaps. Returns (cx, y0, y1, words).
+
+    With column `bounds`, a phrase is also cut where its next word lies in another column ("DD 08/21" next to
+    "(BWTS on order included)" are two cells, not one phrase), except for phrases that start in the first
+    column: those can be one printed description spanning several columns."""
     ws = sorted(words, key=lambda w: (round(w.cy / ROW_TOL), w.x0))
     out: list[list[Word]] = []
     for w in ws:
-        if out and abs(out[-1][-1].cy - w.cy) <= ROW_TOL and 0 <= w.x0 - out[-1][-1].x1 <= PHRASE_GAP:
+        if out and abs(out[-1][-1].cy - w.cy) <= ROW_TOL and 0 <= w.x0 - out[-1][-1].x1 <= PHRASE_GAP and not (
+                bounds and len(bounds) > 3 and out[-1][0].x0 >= bounds[1]
+                and _column_of(out[-1][-1].cx, bounds) != _column_of(w.cx, bounds)):
             out[-1].append(w)
         else:
             out.append([w])
@@ -269,7 +286,8 @@ def _join_cell(words: list[Word]) -> str:
 # --------------------------------------------------------------------------- extraction
 def extract_table(cfg: dict[str, Any], page: pymupdf.Page, page_no: int, words: list[Word],
                   hsegs: list[Segment], vsegs: list[Segment], anchor_bbox: tuple[float, float, float, float],
-                  title: str, limit_y: float, memory: dict[Any, Any] | None = None) -> TableResult | None:
+                  title: str, limit_y: float, memory: dict[Any, Any] | None = None,
+                  continuation: bool = False) -> TableResult | None:
     labels: list[str] = cfg["headers"]
     n = len(labels)
     ax0, ay0, ax1, ay1 = anchor_bbox
@@ -306,11 +324,16 @@ def extract_table(cfg: dict[str, Any], page: pymupdf.Page, page_no: int, words: 
     hdr_top = max(above) if above else hy0 - 2
     body_rules = _dedupe([p for p in below])
     has_rulings = len(body_rules) >= 1
-    hdr_bottom = body_rules[0] if has_rulings else hy1 + 2
+    hdr_bottom = hy1 if continuation else (body_rules[0] if has_rulings else hy1 + 2)
 
     # column boundaries
-    v_in_header = _dedupe([v.pos for v in vsegs if v.a <= (hdr_top + hdr_bottom) / 2 <= v.b
-                           and hx0 - 60 <= v.pos <= hx1 + 60])
+    def _vlines(y: float) -> list[float]:
+        return _dedupe([v.pos for v in vsegs if v.a <= y <= v.b and hx0 - 60 <= v.pos <= hx1 + 60], tol=4.5)
+
+    v_in_header = _vlines((hdr_top + hdr_bottom) / 2)
+    if len(v_in_header) != n + 1:
+        # some layouts (2021) rule only the body rows: use the verticals that cross the first body row
+        v_in_header = _vlines(hdr_bottom + 8)
     if headerless:
         bounds, boundary_source = list(geo["bounds"]), geo["boundary_source"]
     elif len(v_in_header) == n + 1 and all(v_in_header[i] <= centers[i] <= v_in_header[i + 1] for i in range(n)):
@@ -327,7 +350,10 @@ def extract_table(cfg: dict[str, Any], page: pymupdf.Page, page_no: int, words: 
                   and bounds[0] - 1 <= w.cx <= bounds[-1] + 1]
 
     # row intervals
-    key_rules = [s for s in cand_h if _covers(s, key_cx) and s.pos > hdr_bottom + 0.5 and s.pos <= limit_y + 0.5]
+    # every ruling that crosses the key column separates two rows, even a partial one (SFL SPEY / MEDWAY have a
+    # rule only under name, DWT, SS/DD and Price): not just rules that span half the table
+    key_rules = [s for s in hsegs if _covers(s, key_cx) and s.pos > hdr_bottom + 0.5 and s.pos <= limit_y + 0.5
+                 and s.a >= hx0 - 40 and s.b <= hx1 + 60]
     row_edges: list[float]
     if has_rulings and key_rules:
         row_edges = [hdr_bottom, *_dedupe([s.pos for s in key_rules])]
@@ -350,7 +376,7 @@ def extract_table(cfg: dict[str, Any], page: pymupdf.Page, page_no: int, words: 
                and w.y1 <= limit_y + 1]
     cells: list[list[list[Word]]] = [[[] for _ in range(ncols)] for _ in intervals]
     unassigned = len(skipped)
-    phrases = _phrases(body_words)
+    phrases = _phrases(body_words, bounds if boundary_source == "rulings" else None)
     # a phrase that starts in the first column and runs across 2+ further columns is one merged cell
     # (e.g. a printed deal description in place of a vessel name): keep it in the first column, together
     # with the later lines of that cell (they may start further right, e.g. a short last line)
@@ -376,7 +402,8 @@ def extract_table(cfg: dict[str, Any], page: pymupdf.Page, page_no: int, words: 
 
     # merged (spanning) cells: a column boundary is open when no ruling covers that column there
     per_vessel = {i for i, l in enumerate(labels) if l.split("|")[0] in (cfg.get("per_vessel_columns") or [])}
-    merged, flagged = _merged_rows(cells, intervals, hsegs, bounds, key_col, ncols, row_source, per_vessel)
+    shared = {i for i, l in enumerate(labels) if l.split("|")[0] in (cfg.get("span_columns") or [])}
+    merged, flagged = _merged_rows(cells, intervals, hsegs, bounds, key_col, ncols, row_source, per_vessel, shared)
     if row_source == "key-column" and intervals:
         key_ys = []
         for (ya, yb), row in zip(intervals, cells):
@@ -391,31 +418,44 @@ def extract_table(cfg: dict[str, Any], page: pymupdf.Page, page_no: int, words: 
     rows_text: list[list[str]] = []
     kept_flags: list[int] = []
     expand = row_source == "rulings"
+    part_patterns = {i: re.compile(cfg["split_part_patterns"][l.split("|")[0]]) for i, l in enumerate(labels)
+                     if l.split("|")[0] in (cfg.get("split_part_patterns") or {})}
     count_hint = None
     if cfg.get("vessel_count_column") in [l.split("|")[0] for l in labels]:
         hint_ci = [l.split("|")[0] for l in labels].index(cfg["vessel_count_column"])
         count_hint = (hint_ci, re.compile(cfg.get("vessel_count_pattern", r"\bSS\b")))
-    shared = {i for i, l in enumerate(labels) if l.split("|")[0] in (cfg.get("span_columns") or [])}
+    names0 = [l.split("|")[0] for l in labels]
+    group_markers = {names0.index(k): re.compile(v, re.I) for k, v in (cfg.get("group_markers") or {}).items() if k in names0}
+    amount_cols = {i for i, l in enumerate(names0) if l in (cfg.get("amount_split_columns") or [])}
+    row_meta: list[list[float]] = []
     for i, row in enumerate(merged):
         if not any(x.strip() for x in row):
             continue
-        subs = _expand_deal(cells[i], row, key_col, shared, cfg.get("row_start_pattern"),
-                            int(cfg.get("name_column", 0)), count_hint, per_vessel,
-                            _name_rules(hsegs, bounds, int(cfg.get("name_column", 0)), intervals[i])) if expand else None
-        if subs:
-            for sub in subs:
+        expanded = _expand_deal(cells[i], row, key_col, shared, cfg.get("row_start_pattern"),
+                                int(cfg.get("name_column", 0)), count_hint, per_vessel,
+                                _name_rules(hsegs, bounds, int(cfg.get("name_column", 0)), intervals[i]),
+                                {c: _name_rules(hsegs, bounds, c, intervals[i]) for c in range(ncols)},
+                                part_patterns, group_markers, amount_cols) if expand else None
+        if expanded:
+            subs, key_ys_i = expanded
+            a_i, b_i = intervals[i]
+            for j, sub in enumerate(subs):
                 kept_flags.append(len(rows_text))
                 rows_text.append(sub)
+                top = a_i if j == 0 else (key_ys_i[j - 1] + key_ys_i[j]) / 2
+                bottom = b_i if j == len(subs) - 1 else (key_ys_i[j] + key_ys_i[j + 1]) / 2
+                row_meta.append([page_no, round(top, 1), round(bottom, 1), i])
             continue
         if i in flagged:
             kept_flags.append(len(rows_text))
         rows_text.append(row)
+        row_meta.append([page_no, round(intervals[i][0], 1), round(intervals[i][1], 1), i])
 
     if memory is not None and not headerless:
         memory[mem_key] = {"hx0": hx0, "hx1": hx1, "centers": centers, "bounds": bounds,
                            "boundary_source": boundary_source}
     columns = [l.split("|")[0] for l in labels]
-    empty = all(all(x.strip() in EMPTY_MARKERS for x in r) for r in rows_text)
+    empty = all(all(EMPTY_CELL_RE.match(x.strip()) for x in r) for r in rows_text)
     if empty:
         rows_text = [[NO_SALES] + [""] * (ncols - 1)]
         kept_flags = []
@@ -432,7 +472,8 @@ def extract_table(cfg: dict[str, Any], page: pymupdf.Page, page_no: int, words: 
         bbox=(min(ax0, bounds[0] if boundary_source == "rulings" else hx0), ay0,
               max(ax1, bounds[-1] if boundary_source == "rulings" else hx1), bottom),
         columns=columns, rows=rows_text, en_bloc_rows=kept_flags, empty=empty,
-        boundary_source=boundary_source, row_source=row_source, unassigned_words=unassigned)
+        boundary_source=boundary_source, row_source=row_source, unassigned_words=unassigned,
+        row_meta=[] if empty else row_meta, column_bounds=list(bounds), source_columns=list(names0))
 
 
 def _has_key_phrase(words: list[Word], bounds: list[float], key_col: int, pattern: str | None) -> bool:
@@ -491,7 +532,7 @@ def _split_column(words: list[Word], key_ys: list[float], tol: float = 6.5) -> l
             if j + 1 < m:
                 nxt = [_mean_cy(ln) for ln in _line_groups(groups[j + 1])]
                 bounds_gap.append(nxt[0] - ys[-1])
-        if inner and len(set(counts)) > 1 and min(bounds_gap) <= 1.35 * (sum(inner) / len(inner)):
+        if inner and min(bounds_gap) <= 1.35 * (sum(inner) / len(inner)):
             return None
     return [_join_cell(g) for g in groups]
 
@@ -503,10 +544,41 @@ def _name_rules(hsegs: list[Segment], bounds: list[float], name_col: int, interv
     return sorted(s.pos for s in hsegs if a + 3 < s.pos < b - 3 and _covers(s, cx))
 
 
+AMOUNT_TOKEN_RE = re.compile(
+    r"(?:(?:RGN|REGION|LOW|MID|HIGH|XS)(?:\s*[/\-]\s*(?:LOW|MID|HIGH|XS|RGN))?\s+)*(?:USD|US\$|\$)\s*\d[\d.,]*\s*(?:M|B|BN)?\b",
+    re.I)
+
+
+def _split_by_amounts(text: str, m: int) -> list[str] | None:
+    """Cut a shared price text into m pieces when it holds exactly m amounts ("USD 14.6 M USD 14.8 M (en bloc)")."""
+    hits = list(AMOUNT_TOKEN_RE.finditer(text))
+    if len(hits) != m:
+        return None
+    starts = [0] + [h.start() for h in hits[1:]]
+    ends = starts[1:] + [len(text)]
+    return [text[a:b].strip() for a, b in zip(starts, ends)]
+
+
+def _split_by_marker(words: list[Word], marker: re.Pattern, m: int, match: bool = False) -> list[str] | None:
+    """Split a cell into m texts, one starting at each line that contains the marker (e.g. one "SS" block
+    per vessel). Used when the marker occurs on exactly m lines; lines before the first marker join part 1."""
+    lines = _line_groups(words)
+    test = marker.match if match else marker.search
+    starts = [i for i, ln in enumerate(lines) if test(" ".join(w.text for w in ln))]
+    if len(starts) != m:
+        return None
+    starts[0] = 0
+    bounds = starts + [len(lines)]
+    return [_join_cell([w for ln in lines[a:b] for w in ln]) for a, b in zip(bounds, bounds[1:])]
+
+
 def _expand_deal(cells_row: list[list[Word]], merged_row: list[str], key_col: int, shared: set[int],
                  pattern: str | None, name_col: int = 0, count_hint: tuple[int, re.Pattern] | None = None,
-                 per_vessel: set[int] | None = None, name_rules: list[float] | None = None
-                 ) -> list[list[str]] | None:
+                 per_vessel: set[int] | None = None, name_rules: list[float] | None = None,
+                 col_rules: dict[int, list[float]] | None = None,
+                 part_patterns: dict[int, re.Pattern] | None = None,
+                 group_markers: dict[int, re.Pattern] | None = None, amount_cols: set[int] | None = None
+                 ) -> tuple[list[list[str]], list[float]] | None:
     """One ruled row can hold several vessels (en bloc / sister ships). Return one row per vessel,
     repeating shared cells (price, buyer, and any cell that cannot be split per vessel).
 
@@ -544,16 +616,60 @@ def _expand_deal(cells_row: list[list[Word]], merged_row: list[str], key_col: in
     m = len(key_ys)
     out = [[""] * len(merged_row) for _ in range(m)]
     for c, words in enumerate(cells_row):
+        # one amount per vessel in a shared price cell ("USD 14.6 M USD 14.8 M"): assign them in reading order;
+        # a different number of amounts stays one raw shared text (the series then leaves the price blank)
+        if c in (amount_cols or set()) and m > 1:
+            pieces = _split_by_amounts(merged_row[c], m)
+            if pieces is not None:
+                for j in range(m):
+                    out[j][c] = pieces[j]
+                continue
+        # a column with its own rulings between the vessels has one cell per vessel: take the lines of each
+        # cell (a column without such rulings is either one shared cell or split by alignment below)
+        cuts = (col_rules or {}).get(c)
+        if c not in shared and cuts and len(cuts) == m - 1:
+            edges = [-1e9, *cuts, 1e9]
+            groups = [[w for w in words if edges[k] < w.cy < edges[k + 1]] for k in range(m)]
+            if all(groups):
+                for j in range(m):
+                    out[j][c] = _join_cell(groups[j])
+                continue
+        if count_hint is not None and c == count_hint[0] and c not in shared:
+            marked = _split_by_marker(words, count_hint[1], m)
+            if marked is not None:
+                for j in range(m):
+                    out[j][c] = marked[j]
+                continue
+        # a column whose cell holds one block per vessel (engine makers, SS lines, years) is cut at the markers
+        # when the marker count equals the vessel count; one marker means one shared block (copied whole);
+        # any other count is left as the raw shared text rather than guessed
+        mk = (group_markers or {}).get(c)
+        if mk is not None and c not in (per_vessel or set()):
+            lines = _line_groups(words)
+            n_mark = sum(1 for ln in lines if mk.match(" ".join(w.text for w in ln)))
+            if n_mark == m:
+                for j, txt in enumerate(_split_by_marker(words, mk, m, match=True) or []):
+                    out[j][c] = txt
+                continue
+            if n_mark >= 1:
+                for j in range(m):
+                    out[j][c] = merged_row[c]
+                continue
         # columns that always hold one value per vessel (name, DWT) are split by nearest line without
         # the alignment tolerance used for cells that may be one value shared by all vessels
         parts = None if c in shared else _split_column(words, key_ys, 1e9 if c in (per_vessel or set()) else 6.5)
+        # a split is only believed when every part looks like a standalone value of that column (a Built part
+        # must start with a year): "2012 HHIC-PHILIPPINES" / "(SUBIC SHIPYARD)" is one shared cell, not two
+        pat = (part_patterns or {}).get(c)
+        if parts is not None and pat is not None and not all(pat.match(x) for x in parts):
+            parts = None
         for j in range(m):
             out[j][c] = parts[j] if parts is not None else merged_row[c]
-    return out
+    return out, key_ys
 
 
-def _merged_rows(cells, intervals, hsegs, bounds, key_col, ncols, row_source, skip_cols: set[int] | None = None
-                 ) -> tuple[list[list[str]], set[int]]:
+def _merged_rows(cells, intervals, hsegs, bounds, key_col, ncols, row_source, skip_cols: set[int] | None = None,
+                 flag_cols: set[int] | None = None) -> tuple[list[list[str]], set[int]]:
     """Join cell text per row; cells without a ruling between rows span them (replicated, flagged)."""
     rows = [[_join_cell(c) for c in row] for row in cells]
     flagged: set[int] = set()
@@ -573,7 +689,8 @@ def _merged_rows(cells, intervals, hsegs, bounds, key_col, ncols, row_source, sk
                 text = _join_cell([w for k in range(i, j + 1) for w in cells[k][c]])
                 for k in range(i, j + 1):
                     rows[k][c] = text
-                    flagged.add(k)
+                    if flag_cols is None or c in flag_cols:
+                        flagged.add(k)
             i = j + 1
     return rows, flagged
 
@@ -667,7 +784,7 @@ def _apply_splits(splits: list[dict[str, Any]], columns: list[str], rows: list[l
 # --------------------------------------------------------------------------- page-level driver
 def find_tables(page: pymupdf.Page, page_no: int, table_cfgs: list[dict[str, Any]],
                 stop_anchors: list[str] | None = None, footer_margin: float = 45.0,
-                memory: dict[Any, Any] | None = None) -> list[TableResult]:
+                memory: dict[Any, Any] | None = None, continuation_ignore: list[str] | None = None) -> list[TableResult]:
     words = page_words(page)
     if not words:
         return []
@@ -690,11 +807,105 @@ def find_tables(page: pymupdf.Page, page_no: int, table_cfgs: list[dict[str, Any
             limit = min([footer_y] + nxt)
             res = extract_table(cfg, page, page_no, words, hsegs, vsegs, bb, text, limit, memory)
             if res is not None:
+                res.title_size = _title_font_size(page, bb)
                 results.append(res)
                 consumed.add(li)
                 done_cfgs.add(ci)
     results.sort(key=lambda t: t.bbox[1])
+    if memory is not None:
+        stub = _continue_open_table(memory, page, page_no, table_cfgs, words, hsegs, vsegs, boundary_ys, footer_y,
+                                    continuation_ignore)
+        if stub is not None:
+            results.insert(0, stub)
+        real = [t for t in results if not t.hidden and not t.empty]
+        last = real[-1] if real else None
+        # "open" = nothing but the footer follows the table on this page, so its rows may go on overleaf
+        trailing = [w for w in words if w.y0 > (last.bbox[3] + 3 if last else 0) and w.y1 < footer_y] if last else []
+        memory["_open"] = last if (last is not None and not trailing) else None
+        memory["_open_page"] = page_no
     return results
+
+
+CONTINUATION_TOP = 45.0
+
+
+def _title_font_size(page: pymupdf.Page, bb: tuple[float, float, float, float]) -> float | None:
+    """Font size of the text line at `bb` (the printed table title)."""
+    best = None
+    for b in page.get_text("dict")["blocks"]:
+        for ln in b.get("lines", []):
+            x0, y0, x1, y1 = ln["bbox"]
+            if abs(y0 - bb[1]) < 2.5 and x0 <= bb[2] and x1 >= bb[0]:
+                sizes = [s["size"] for s in ln["spans"] if s["text"].strip()]
+                if sizes:
+                    best = max(sizes)
+    return best
+
+
+def _ignored_word_ids(words: list[Word], patterns: list[str] | None) -> set[int]:
+    """ids of words on lines (same PyMuPDF block/line) whose text matches one of the ignore patterns,
+    e.g. a letterhead line repeated at the top of every page."""
+    if not patterns:
+        return set()
+    rxs = [re.compile(p) for p in patterns]
+    groups: dict[tuple[int, int], list[Word]] = {}
+    for w in words:
+        groups.setdefault((w.block, w.line), []).append(w)
+    out: set[int] = set()
+    for ws in groups.values():
+        text = " ".join(w.text for w in sorted(ws, key=lambda w: w.x0))
+        if any(r.match(text) for r in rxs):
+            out.update(id(w) for w in ws)
+    return out
+
+
+KEY_VALUE_DEFAULT = r"^\d{1,3}(?:[.,]\d{3})+$|^\d{4,6}$"
+CONTINUATION_MAX_LINE_WORDS = 18
+
+
+def _continue_open_table(memory: dict[Any, Any], page: pymupdf.Page, page_no: int, table_cfgs: list[dict[str, Any]],
+                         words: list[Word], hsegs: list[Segment], vsegs: list[Segment], boundary_ys: list[float],
+                         footer_y: float, ignore: list[str] | None = None) -> TableResult | None:
+    """A table that is the last thing on a page goes on at the top of the next one without a title or header.
+    Its rows are parsed with the column geometry of the table, appended to it, and the region is returned as a
+    hidden stub so the prose engine does not print those rows again. Letterhead lines matching `ignore` are
+    skipped. Only attempted when the first remaining line has a DWT-like number in the key column and is
+    short; a prose paragraph never qualifies."""
+    prev: TableResult | None = memory.get("_open")
+    if prev is None or memory.get("_open_page") != page_no - 1:
+        return None
+    cfg = next((c for c in table_cfgs if c["name"] == prev.name), None)
+    if cfg is None or not cfg.get("headerless_ok"):
+        return None
+    geo = memory.get(tuple(cfg["headers"]))
+    if geo is None:
+        return None
+    skip = _ignored_word_ids(words, ignore)
+    nxt = [y for y in boundary_ys if y > CONTINUATION_TOP + 6]
+    limit = min([footer_y] + nxt)
+    body = [w for w in words if w.y0 >= CONTINUATION_TOP and w.y1 <= limit + 1 and id(w) not in skip]
+    if not body:
+        return None
+    top = max([CONTINUATION_TOP] + [w.y1 + 1 for w in words if id(w) in skip and w.y1 < min(b.y0 for b in body) + 1])
+    first_y = min(w.y0 for w in body)
+    first_line = [w for w in body if abs(w.y0 - first_y) <= 12]
+    key = int(cfg.get("key_column", 0))
+    kv = re.compile(cfg.get("key_value_pattern", KEY_VALUE_DEFAULT))
+    if len(first_line) > CONTINUATION_MAX_LINE_WORDS or not any(
+            geo["bounds"][key] <= w.cx < geo["bounds"][key + 1] and kv.match(w.text) for w in first_line):
+        return None
+    anchor = (geo["hx0"], top - 12, geo["hx1"], top - 2)
+    res = extract_table(cfg, page, page_no, words, hsegs, vsegs, anchor, "", limit, memory, continuation=True)
+    if res is None or res.empty or not res.rows:
+        return None
+    offset = len(prev.rows)
+    prev.rows.extend(res.rows)
+    prev.en_bloc_rows.extend(i + offset for i in res.en_bloc_rows)
+    prev.row_meta.extend(res.row_meta)
+    prev.unassigned_words += res.unassigned_words
+    prev.extra_regions.append({"page": page_no, "bbox": [round(v, 2) for v in res.bbox]})
+    res.hidden = True
+    return res
 
 
 # --------------------------------------------------------------------------- prose assembly

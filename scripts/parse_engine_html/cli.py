@@ -19,7 +19,8 @@ def _years(arg: list[int] | None) -> list[int] | None:
 
 def cmd_vv(args) -> int:
     report = run(src=Path(args.src), out=Path(args.out), years=_years(args.years), limit=args.limit,
-                 workers=args.workers, do_matrix=not args.no_matrix, existing_series=Path(args.existing_series))
+                 workers=args.workers, do_matrix=not args.no_matrix, existing_series=Path(args.existing_series),
+                 incremental=args.incremental, md_root=Path(args.md_root))
     print(json.dumps({k: v for k, v in report.items() if k not in ("unparsed_lines",)}, ensure_ascii=False,
                      indent=1)[:12000])
     print(f"\nunparsed deal lines: {report['deals_unparsed']}")
@@ -84,13 +85,22 @@ def cmd_compare(args) -> int:
     return 0
 
 
+def cmd_fallback(args) -> int:
+    from scripts.parse_engine_html.fallback import main_cli
+    rep = main_cli(Path(args.out), Path(args.existing_series), args.threshold)
+    print(json.dumps({k: v for k, v in rep.items() if k != "dropped"}, indent=1))
+    print(f"dropped: {len(rep['dropped'])} (see _fallback_report.json)")
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(prog="python -m scripts.parse_engine_html")
     sub = p.add_subparsers(dest="cmd", required=True)
     for name, fn, help_ in (("vv", cmd_vv, "parse every Hellenic VV issue into the staging tree"),
                             ("survey", cmd_survey, "list the HTML/image formats found per year"),
                             ("vocab", cmd_vocab, "vessel-class vocabulary coverage"),
-                            ("compare", cmd_compare, "staged vs existing series row counts")):
+                            ("compare", cmd_compare, "staged vs existing series row counts"),
+                            ("fallback", cmd_fallback, "keep current matrix rows for failed issues where accurate")):
         sp = sub.add_parser(name, help=help_)
         sp.add_argument("--src", default=str(DEFAULT_SRC))
         sp.add_argument("--out", default=str(DEFAULT_OUT))
@@ -100,6 +110,12 @@ def main(argv: list[str] | None = None) -> int:
             sp.add_argument("--limit", type=int)
             sp.add_argument("--workers", type=int, default=1)
             sp.add_argument("--no-matrix", action="store_true", help="skip OCR (text parsing only)")
+            sp.add_argument("--incremental", action="store_true",
+                            help="new issues only: write MD/sidecar under --md-root and append their series rows to "
+                                 "--existing-series; existing files and rows are never rewritten")
+            sp.add_argument("--md-root", default="data/extracted/md/hellenic/vessel_valuations")
+        if name == "fallback":
+            sp.add_argument("--threshold", type=float, default=0.98)
         sp.set_defaults(fn=fn)
     args = p.parse_args(argv)
     return args.fn(args)

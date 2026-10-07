@@ -99,7 +99,9 @@ def stage_extract() -> bool:
     success = True
     steps = [
         ("Carriers Chartering Complete Extraction", [sys.executable, "scripts/extract/publishers/run_carriers_complete.py"]),
-        ("Clarksons S&P & Demolition Extraction", [sys.executable, "scripts/extract/publishers/run_clarksons.py"]),
+        # Clarksons S&P / demolition is parsed and promoted with `python -m scripts.parse_engine`
+        # (run -> promote --apply -> series). The legacy run_clarksons.py would overwrite the promoted
+        # data/extracted/md/clarksons files and series, so it is no longer part of this pipeline.
         ("Lion Shipbrokers Table & Sentiment Extraction", [sys.executable, "scripts/extract/publishers/run_lion_tables.py"]),
         ("Affinity Tanker Extraction", [sys.executable, "scripts/extract/publishers/run_affinity.py"]),
         ("Affinity Table Sidecars & Series Stacking", [sys.executable, "scripts/extract/publishers/run_affinity_tables.py"]),
@@ -108,7 +110,9 @@ def stage_extract() -> bool:
         ("Best Oasis Ship Recycling Extraction", [sys.executable, "scripts/extract/publishers/run_best_oasis_demolition.py"]),
         ("Athenian Demolition Quick Updates", [sys.executable, "scripts/extract/publishers/run_athenian_demolition.py"]),
         ("GMS Leadership Demolition Extraction", [sys.executable, "scripts/extract/publishers/run_gms_demolition.py"]),
-        ("VesselsValue HTML & Valuation Extraction", [sys.executable, "scripts/extract/publishers/run_hellenic_vessel_valuations.py"]),
+        # VesselsValue: new issues only (never rewrites existing MD / series rows); the legacy
+        # run_hellenic_vessel_valuations.py / run_hellenic_vv_matrix.py refuse to run without ALLOW_LEGACY_VV_EXTRACT=1.
+        ("VesselsValue Incremental Extraction", [sys.executable, "-m", "scripts.parse_engine_html", "vv", "--incremental"]),
         ("SSY Capesize Index & Routes Extraction", [sys.executable, "scripts/extract/publishers/run_ssy_complete.py"]),
         ("Breakwave Clean LiteParse Extraction", [sys.executable, "scripts/extract/publishers/run_breakwave_clean_liteparse.py", "--batch"]),
         ("Xclusiv Cover-to-Cover Extraction", [sys.executable, "scripts/extract/publishers/run_xclusiv_full_cover_to_cover.py"]),

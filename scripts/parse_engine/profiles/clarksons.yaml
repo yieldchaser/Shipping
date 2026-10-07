@@ -52,15 +52,18 @@ date_patterns:
       order: dmy_name
     - regex: "(\\d{1,2})\\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)\\.?\\s+((?:19|20)\\d{2})"
       order: dmy_name
+  # Filename patterns, most trustworthy first. The printed-date patterns (Weekly-Sales-06th-Mar-2026,
+  # clarksons_02_10_2026_..., report-23-04-2022) win over the crawl-date prefix (YYYY-MM-DD_), which is
+  # often the day the file was fetched.
   filename:
-    - regex: "((?:19|20)\\d{2})-(\\d{2})-(\\d{2})_"
-      order: ymd
-    - regex: "report-(\\d{2})-(\\d{2})-((?:19|20)\\d{2})"
-      order: dmy
-    - regex: "clarksons_(\\d{2})_(\\d{2})_((?:19|20)\\d{2})_"
-      order: dmy
-    - regex: "Weekly-Sales-(\\d{1,2})(?:st|nd|rd|th)-([A-Za-z]+)-((?:19|20)\\d{2})"
+    - regex: "(?i)Weekly-Sales-(\\d{1,2})(?:st|nd|rd|th)?-([A-Za-z]+)-((?:19|20)\\d{2})"
       order: dmy_name
+    - regex: "(?i)clarksons_(\\d{2})_(\\d{2})_((?:19|20)\\d{2})_"
+      order: dmy
+    - regex: "(?i)report-(\\d{2})-(\\d{2})-((?:19|20)\\d{2})"
+      order: dmy
+    - regex: "(?i)((?:19|20)\\d{2})-(\\d{2})-(\\d{2})_"
+      order: ymd
 
 # Lines removed from the prose (running headers / footers / banners / boilerplate).
 strip_line_patterns:
@@ -69,6 +72,7 @@ strip_line_patterns:
   - "(?i)^\\s*page\\s+\\d+\\s+of\\s+\\d+\\s*$"
   - "(?i)^\\s*clarksons? hellas( ltd\\.?| weekly bulletin.*)?\\s*$"
   - "(?i)^\\s*(page\\s+)?\\d{1,2}\\s*$"
+  - "(?i)^\\s*\\d{1,2}(st|nd|rd|th)?\\s+(jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)[a-z]*\\.?\\s+\\d{4}\\s*$"
   - "(?i)^\\s*clarkson hellas ltd\\.?(\\s+[a-z]{3,9}\\s?\\d{1,2},?\\s?\\d{4})?\\s*$"
   - "(?i)^\\s*(z=c=\\w*=?|clarksons|.*clarksons sale & purchase)\\s*$"
   - "(?i)^\\s*\\d{1,2}\\s+(january|february|march|april|may|june|july|august|september|october|november|december)\\s+\\d{4}\\s*$"
@@ -84,6 +88,8 @@ boilerplate_patterns:
 # previous extraction of the same issues; they are matched on issue_date and replaced.
 promotion:
   dest: data/extracted/md/clarksons
+  # a legacy MD is only replaced when its own name or its source PDF name carries one of these
+  name_markers: [clarkson, weekly-sales]
   legacy_dirs:
     - data/extracted/md/clarksons
     - data/extracted/md/hellenic/shipbuilding/clarksons
@@ -99,9 +105,24 @@ drop_regions:
     line_start: true
     until: block_end
 
+# Lines that look like table cells (engine makers, SS/DD dates, gear) must never be left in the prose: a table
+# row that was not extracted would otherwise survive as garbled text.
+table_fragment_patterns:
+  - "^SS \\d{2}/\\d{2}"
+  - "^DD \\d{2}/\\d{2}"
+  - "^(B\\. ?& ?W\\.|MAN-?B&W|MITSUBISHI|WARTSILA|SULZER) "
+  - "^C:\\d?X\\d+"
+  - "^[*]{0,2}[A-Z0-9][A-Z0-9 .-]{2,30}[*]{0,2} \\d{1,3}[.,]\\d{3} (19|20)\\d{2}"
+
+# A section heading whose tables were not extracted is flagged (the tables would silently be missing).
+heading_requires_tables:
+  Demolition: Demolition
+
 # Geometric tables. Header labels must be found below the anchor line.
 geom:
   prose_engine: pymupdf
+  # letterhead text repeated at the top of 2026 pages; skipped when looking for table rows that continue overleaf
+  continuation_ignore: ["(?i)^Clarkson Hellas Ltd\\.?$"]
   footer_margin: 45
   stop_anchors:
     - "(?i)^(New Building|Recycling|Demolition\\s*$|Desk Talk|Baltic Index|Contacts)"
@@ -114,6 +135,8 @@ geom:
       row_start_pattern: "\\d"
       span_columns: [Price, Buyer]
       per_vessel_columns: [Vessel, DWT]
+      split_part_patterns:
+        Built: "^(?:[1-4]Q(?:-[1-4]Q)?\\s*)?(?:19|20)\\d{2}"
       vessel_count_column: SS/DD
       vessel_count_pattern: "\\bSS\\b"
       split_columns:
@@ -128,6 +151,8 @@ geom:
       row_start_pattern: "\\d"
       span_columns: [Price, Buyer]
       per_vessel_columns: [Vessel, DWT]
+      split_part_patterns:
+        Built: "^(?:[1-4]Q(?:-[1-4]Q)?\\s*)?(?:19|20)\\d{2}"
       vessel_count_column: SS/DD
       vessel_count_pattern: "\\bSS\\b"
       split_columns:
