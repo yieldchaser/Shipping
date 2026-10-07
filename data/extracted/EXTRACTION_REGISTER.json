@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 16:48:57Z",
+  "updated_at": "2026-10-07 20:54:19Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1923,7 +1923,7 @@
     {
       "file": "fearnleys_md_coal_futures_spread_series.csv",
       "target_metric": "P5 vs Newcastle Coal Futures Spread Lead ($/t)",
-      "rows": 47,
+      "rows": 48,
       "columns": [
         "issue_date",
         "year",
@@ -1961,7 +1961,7 @@
     {
       "file": "fearnleys_md_shipment_volumes_series.csv",
       "target_metric": "Global Dry Bulk Shipment Volume YoY Growth (%)",
-      "rows": 40,
+      "rows": 43,
       "columns": [
         "issue_date",
         "year",
@@ -1997,7 +1997,7 @@
     {
       "file": "fearnleys_md_vessel_tightness_series.csv",
       "target_metric": "Global Vessel Tightness, Utilization & Port Congestion",
-      "rows": 112,
+      "rows": 115,
       "columns": [
         "issue_date",
         "year",
@@ -4037,13 +4037,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 630617,
+  "total_master_stacked_rows": 630624,
   "total_master_series_csvs": 175,
-  "total_stacked_rows": 630617,
+  "total_stacked_rows": 630624,
   "total_series_csvs": 175,
   "total_master_workbooks": 1,
   "total_series_count": 175,
-  "total_rows_extracted": 630922,
+  "total_rows_extracted": 630929,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4107,11 +4107,11 @@
     "drewry_ais_utilisation_curves_series.csv": 1007,
     "drewry_opinions_metadata.csv": 551,
     "drewry_wci_series.csv": 6,
-    "fearnleys_md_coal_futures_spread_series.csv": 47,
+    "fearnleys_md_coal_futures_spread_series.csv": 48,
     "fearnleys_md_macro_correlations_series.csv": 78,
-    "fearnleys_md_shipment_volumes_series.csv": 40,
+    "fearnleys_md_shipment_volumes_series.csv": 43,
     "fearnleys_md_tc_vs_asset_series.csv": 14,
-    "fearnleys_md_vessel_tightness_series.csv": 112,
+    "fearnleys_md_vessel_tightness_series.csv": 115,
     "fearnleys_rates_series.csv": 17076,
     "gibson_bunker_prices_series.csv": 1015,
     "gibson_tanker_spot_series.csv": 3602,

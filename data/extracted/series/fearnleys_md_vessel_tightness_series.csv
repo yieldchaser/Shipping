@@ -111,3 +111,6 @@ issue_date,year,department,report_title,chart_family,indicator_metric,indicator_
 2026-09-30,2026,BULK,Fearnleys Dry Bulk Weekly,P5TC vs Pacific Tightness Indicator Zoom In.png,Indicator Metric,72.0,Freight Benchmark,273.5,Concurrent,190c6f48-0d96-416d-8157-70474979f10c
 2026-09-30,2026,BULK,Fearnleys Dry Bulk Weekly,P6 vs SATL Tightness Zoom In.png,South Atlantic Vessel Count,452.5,P6 / BCI5TC Index USD/day,20818.6,1 Month Lead,190c6f48-0d96-416d-8157-70474979f10c
 2026-09-30,2026,BULK,Fearnleys Dry Bulk Weekly,supraultra ballaster laden vessel ratio.png,Indicator Metric,512.0,Freight Benchmark,100.0,Concurrent,190c6f48-0d96-416d-8157-70474979f10c
+2026-10-07,2026,BULK,Fearnleys Dry Bulk Weekly,P5TC vs Pacific Tightness Indicator Zoom In.png,Indicator Metric,452.0,Freight Benchmark,296.0,Concurrent,eaa9d164-ef32-4861-b3c3-7f93faf786de
+2026-10-07,2026,BULK,Fearnleys Dry Bulk Weekly,P6 vs SATL Tightness Zoom In.png,South Atlantic Vessel Count,198.9,P6 / BCI5TC Index USD/day,20767.9,1 Month Lead,eaa9d164-ef32-4861-b3c3-7f93faf786de
+2026-10-07,2026,BULK,Fearnleys Dry Bulk Weekly,supraultra ballaster laden vessel ratio.png,Indicator Metric,512.0,Freight Benchmark,99.0,Concurrent,eaa9d164-ef32-4861-b3c3-7f93faf786de
