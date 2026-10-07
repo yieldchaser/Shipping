@@ -207,6 +207,28 @@ _MONEY_RX = re.compile(r"\$?[ ]*([0-9][0-9.,]*)[ ]*m")
 
 _ENBLOC_RX = re.compile(r"en\s*bloc", re.I)
 
+# PAGE-VERIFIED lot totals that _lot_binding() cannot see.
+# Why they are missed: for these rows the table parser assigned the FOOTER
+# amount to the row (the AMOUNT was on the page but the words 'en bloc'/'in cash'
+# were not picked up into that row's Price cell), so the marker scan in
+# _lot_binding() finds nothing and the run is skipped.
+# Each entry was classified by READING THE ROW'S OWN PAGE TEXT (the vision
+# substitute this session has - no image tool). Evidence table:
+# docs/allied_enbloc_residual_page_evidence.md.
+# Rules used, all three required: (1) the vessel's OWN table row on the page
+# prints NO money token; (2) the stored price equals an amount the page prints
+# joined to 'en bloc'/'in cash'; (3) that amount has no competing 'each'/'p/v'
+# occurrence on the page. HYUNDAI SAMHO 8196 (234.0) is deliberately NOT here:
+# its page prints '$ 234.0m each' (per-vessel) - see the same doc.
+VERIFIED_LOT_TOTALS = {
+    ("allied_2021_W35_ALLIED-Weekly-Market-Report_05_09_2021-1_compressed.pdf", "MP THE GRONK"): 242.0,
+    ("allied_2022_W30_ALLIED-Weekly-Market-Report_31_07_2022.pdf", "JUDITH SCHULTE"): 260.0,
+    ("allied_2023_W07_Allied-Weekly-Market-Review-Week-07.pdf", "HL AQUAMARINE"): 291.0,
+    ("allied_2023_W12_Allied-Weekly-Market-Review-Week-12.pdf", "GASLOG SYDNEY"): 284.0,
+    ("allied_2023_W45_Allied-Weekly-Market-Review-Week-45.pdf", "SKS DEE"): 239.0,
+    ("allied_2024_W07_Allied-Weekly-Market-Review-Week-07.pdf", "HARRISON BAY"): 238.0,
+}
+
 
 def _lot_binding(deals):
     """Identify en-bloc LOT totals and which row carries each one.
@@ -286,6 +308,9 @@ def deal_rows(rec):
     for d in rec["deals"]:
         gear, price_raw, usd = _split_row(d)
         gt = lots.get(id(d))
+        vkey = (rec["source_file"].name, d.get("Name", ""))
+        if vkey in VERIFIED_LOT_TOTALS:
+            gt = VERIFIED_LOT_TOTALS[vkey]
         if gt is not None:
             usd = None          # a lot total is not a per-vessel price
         rows.append({

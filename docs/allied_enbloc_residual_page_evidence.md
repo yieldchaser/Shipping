@@ -73,3 +73,19 @@ python3 scratch/allied_footer_lot_audit.py     # Rule A: 55 candidates
 python3 scratch/allied_footer_lot_audit2.py    # Rule B: 14 candidates (misses 4 confirmed)
 # page-text reads for the 7 residuals are cached in scratch/allied_resid/*.txt
 ```
+
+---
+
+# FIXED 2026-10-07 21:xx - route 2 executed (6 page-confirmed rows)
+
+The 6 confirmed lot/package totals above are now blanked in `price_usd_m` and recorded in
+`group_total_mil` via a page-verified `VERIFIED_LOT_TOTALS` override in `run_allied.py`
+(applied after `_lot_binding()`). `HYUNDAI SAMHO 8196` (234.0, printed `each`) is kept.
+Full runner re-run: 203/203, 0 failures, 340 s; exactly 12 field changes on 6 rows; md +
+tables tiers byte-identical (control); register gate green. Full evidence:
+**`docs/allied_enbloc_residual_verdict.md`**.
+
+Route 2 was chosen over waiting for a render because these 6 are the *same class* as the 52
+rows the 02:1x fix already corrected. The 14 structural candidates here remain OPEN: the
+same text-only rule fires on 42 rows but over-fires on 10 (newbuilding hull rows) and cannot
+disambiguate pages printing >=2 `en bloc` amounts - see the verdict doc's residual section.
