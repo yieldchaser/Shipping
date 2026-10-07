@@ -1,3 +1,16 @@
+**THIS RUN (2026-10-07 14:3x, source-by-source, 30m job) - NOTHING TO EXTRACT (independently re-measured this run); added a CONTENT-BASED per-publisher coverage table; still ZERO real gap. No data changed.**
+
+Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). Liveness at start: NO extraction of ours running (tasklist python.exe filter empty; only Hermes gateways/supervisor per the 14:05 supervisor JSON). Tree clean except `logs/fleet_sync.log` (scheduled sync, left unstaged). Corpus UNCHANGED - newest content still **2026-10-06 18:41** (dir-mtime sweep of corpus/) -> no new arrivals. Register gate **GREEN** before and after: `verify_registers.py` = ALL PASSED (180 CSVs / **641,130** logical rows == JSON == MD; 0 mismatches; 0 control chars/emoji).
+
+- **Prompt is stale (re-confirmed).** xclusiv is 266/266 DONE (plus corpus-wide register xclusiv 271 md); every "next source" it names (fearnleys, intermodal, affinity, banchero_costa, agora, carriers, ism, lion) is already built, and the non-broker trio (04-poten 1,087 md / 09-ppa CSVs / 06-drewry 849 md) is held -> SKIP (three-baseline test stands).
+- **NEW this run: content-based completeness table** (PDF count vs md count, per publisher). Every source's md count is >= its DISTINCT-PDF count:
+  advanced_shipping 255/255, affinity 256 pdf/**248 distinct** -> 249 md, agora 219/219, banchero_costa 248 -> 249 md, carriers 136 -> 137 md, intermodal 257/257, ism 115/115, lion 48/48, ssy 530/530, star_asia 201 pdf/**198 distinct** -> 200 md, xclusiv 271/271. The only two that looked short (affinity -8, star_asia -2) are corpus BYTE-DUPLICATES (md5), not missing work. **No extraction gap exists.**
+- Ledger + register: every publisher CLOSED; `series_verification_ledger.md` defect list fully closed (last entry 2026-10-03). Nothing open that is not the user's call.
+
+- **NEXT:** no source to extract (corpus complete; no new arrivals). Open items remain the user's: (a) allied en-bloc residual (vision pass or 6-row override); (b) hellenic bare-name `source_file` (now scoped to 3 builders; athenian subset machine-resolvable 257/257 by sha256); (c) inventory/DB rebuild. Watch that the automation does not re-stale the register.
+
+---
+
 **THIS RUN (2026-10-07 13:5x, source-by-source, 30m job) - NOTHING TO EXTRACT (re-measured); advanced the record on the carried "hellenic bare-name source_file" item: it is THREE builders, not one, and the athenian subset resolves 257/257 by sha256. No data changed.**
 
 Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). At start: no extraction of ours running (python.exe set = Hermes gateways; the hourly supervisor last wrote its 12:38 run JSON); tree held only `logs/fleet_sync.log` (scheduled sync, not mine); NO parked/escalated work (supervisor 12:38: `parked_uncommitted` RESOLVED, `wedged_or_dead` none); corpus UNCHANGED (newest content 2026-10-06 18:41 -> nothing new). Register gate GREEN: `verify_registers.py` = ALL PASSED (180 CSVs / **641,130** logical rows == JSON == MD; 0 mismatches; 0 control chars/emoji). Newest series artefact on disk = the gibson fix (11:02); nothing since.
