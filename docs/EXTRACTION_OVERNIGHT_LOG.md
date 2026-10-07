@@ -4032,3 +4032,83 @@ anchor changes, never a utilisation %; VLCC/others populate it from text.
   regen). Decision 6 resolved this run.
 
 Branch/commit: none this run (no change). Working tree clean.
+
+
+## 2026-10-07 12:33 UTC (18:03 IST) - deep review (3-hourly, job d77cc9df53c4)
+
+Verdict: **NEEDS HUMAN DECISION**. The bulk run is complete and every automated
+gate is green (verifier exit 0, golden 15/15, registers 100% match), but the
+DELIVERED `carriers_sales_series.csv` is STALE relative to its own already-merged
+price fix: **282 rows carry `price_usd_mill` in full US dollars** where the column
+unit is millions.
+
+### The defect (measured both ways in this run)
+* Current code (HEAD) `parse_price_mill('38,000,000') -> 38.25`; single-document
+  reproduce on `corpus/01-brokers/carriers/2026/carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf`
+  with the imported extractor: `GCL HAZIRA raw='38,000,000' mill=38.0`,
+  `SEA RUNNER raw='20,500,000' mill=20.5`, `NEW WAVELET 42,000,000 -> 42.0`.
+* The delivered CSV (HEAD, committed 2026-10-06 in `017ae47e7`) holds the OLD
+  values: `GCL HAZIRA | raw='38,000,000' | mill=38000000.0`,
+  `SEA RUNNER | raw='20,500,000' | mill=20500000.0`, `DYLAN 19,500,000 -> 19500000.0`,
+  `VELA 10,000,000 -> 10000000.0` (1e6x error, well-formed float, so no shape check
+  catches it).
+* Census of the delivered file (3,130 rows): **282 rows with `price_usd_mill >= 1000**
+  - 281 dated 2026, 1 dated 2023 (`11,80` -> `1180.0`, MAGIC MOON 2023-11-13).
+
+### Root cause (why the earlier "FIXED" claim no longer holds)
+The code fix (`f81eb2e7b` / cherry `a33b4e44f`, 2026-10-05) touched ONLY
+`run_carriers_complete.py`. In the SAME session the recovery documented at the
+2026-10-05 entry ("I regenerated the 9 delivered carriers_*_series.csv") rewrote
+the delivered CSVs from the PRE-fix script version `57d064c09^` and re-ran it, to
+match the recorded row counts (carriers_sales 3,130). That regeneration therefore
+re-introduced the exact values the code fix had just corrected. The row COUNT
+matched, so the restore looked correct and was committed on 2026-10-06.
+`verify_registers.py` cannot see this: CSV, JSON and MD are all generated from the
+same stale run, so they agree with each other (100% match) while all three are wrong.
+
+### Why it cannot be caught automatically today
+`grep -rn parse_price_mill tests/` = **0 hits** - the fix shipped with no regression
+test, so nothing fails when the deliverable drifts from the code. `tests/` is
+outside this job's edit scope, so no test is added here.
+
+### HUMAN DECISION - regenerate the carriers series
+```
+python scripts/extract/publishers/run_carriers_complete.py
+python scripts/extract/update_extraction_register.py
+```
+Rewrites all 9 `carriers_*_series.csv` + 131 `.md` from the 130 corpus PDFs, then
+refreshes the register JSON/MD. Affected: **282 rows** in `carriers_sales_series.csv`.
+Blast radius: NOT app-displayed - `index.html` fetches no carriers series, and no
+`data/views/**` or `data/derived/*` artefact embeds `price_usd_mill` (checked).
+This is not a whole-corpus re-extraction; it is one publisher's bespoke runner.
+I did NOT run it: a wrong convention in already-extracted data is a human decision
+(rule 3f), and the runner has a documented history of an accidental shrink incident.
+
+### Same-class items, smaller, NOT actioned (noted for the human)
+* `carriers_newbuilding_series.csv` `price_usd_mill` - 4 rows: `'117,5 EACH' -> 1175.0`
+  (should be 117.5m, 2025 W38) and `15000/6000/7000 -> 15000.0/...` (2024 W07, raw
+  looks like a bleed, not a price). This path (line ~574) still uses `parse_numeric`.
+* `xclusiv_sales_series.csv` `PRICE_USD_MILL` - 5 rows: `'2,350 ENBLOC' -> 2350.0`
+  (2023-10-16, x3) and `'2015 Units: 120' -> 2015.0` / `'2012 Units: 116' -> 2012.0`
+  (2026-08-03, a year read as a price - column bleed).
+
+### Gates run this run (all green, no code change made)
+* `golden_matrix.py`: Star Asia 15/15 (pymupdf-text, plumber-text), SSY 14/14,
+  Breakwave 6/6. No regression.
+* `verify_registers.py`: 180 CSVs / 641,130 rows == JSON == MD, 0 mismatches.
+* `recall_gap_report.py --source carriers`: reproduces the documented engine
+  coverage limit - 513 vessel-sale-grade values in page text but in no grid cell,
+  across 97 of 125 docs (78%); camelot re-run on the source returns no such cell.
+  Known, and irrelevant to the delivered series (bespoke runner supplies it).
+* Run state: no `run_batch`/`batch_worker` process (Win32_Process empty); checkpoint
+  7,816 / 7,816 unique; `golden 15/15`; db 189,481 tables / 6,726,703 cells;
+  `state_note` = known COMPLETE-not-dead (queue frozen at the 2026-09-21 inventory);
+  disk free **19.5 GB** (up from 13.7 GB last run).
+
+### Deliberately NOT changed, and why
+* No code change: the code is already correct. The defect is in the delivered DATA.
+* Did not regenerate the carriers CSVs (rule 3f / human-gated, see above).
+* Did not touch `tests/` (out of edit scope) or `index.html` / other pipelines.
+
+Branch/commit: appended to `docs/EXTRACTION_OVERNIGHT_LOG.md` on
+`auto/extract-fixes-2026-10-07-deepreview` (no code change).
