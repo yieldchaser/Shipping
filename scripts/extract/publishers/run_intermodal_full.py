@@ -1236,6 +1236,20 @@ def process_single_pdf(
             "demolition_sales": parsed["demo_sales"]
         }
     }
+    # Preserve enrichment keys written by the sibling finance runner
+    # (maritime_stocks / bunker_prices / macro_indicators). A bare write of the
+    # fresh `tables` dict silently clobbered them (disclosed 2026-10-03). Only
+    # keys this runner does NOT own are carried over; same-name keys keep the
+    # freshly parsed value.
+    if sidecar_path.exists():
+        try:
+            _old = json.loads(sidecar_path.read_text(encoding="utf-8"))
+            _old_tables = _old.get("tables") if isinstance(_old, dict) else None
+            if isinstance(_old_tables, dict):
+                for _k, _v in _old_tables.items():
+                    sidecar_data["tables"].setdefault(_k, _v)
+        except Exception:
+            pass
     sidecar_path.write_text(json.dumps(sidecar_data, indent=2, ensure_ascii=False), encoding="utf-8")
 
     # Update cover-to-cover md in data/extracted/md/intermodal/<year>/<stem>.md

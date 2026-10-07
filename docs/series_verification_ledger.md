@@ -532,5 +532,14 @@ on `intermodal_macro_series.csv` and found a defect neither had captured:
   year-partitioned, so `macro_indicators` had never been written (0/256 sidecars). Now 255 do.
   Residual (disclosed): `run_intermodal_full.py` writes a fresh sidecar dict and would clobber the
   key on its next pass; no reader consumes it today.
+
+# FIXED 2026-10-07 17:2x - the sidecar-clobber residual is closed at the CODE level
+
+`run_intermodal_full.py` now MERGES: before writing it loads the existing sidecar and carries over
+any `tables` key it does not own (`maritime_stocks` / `bunker_prices` / `macro_indicators`), while
+same-name keys keep the freshly parsed value. Verified in isolation on a real enriched sidecar
+(`md/intermodal/2021/intermodal_2021_W26_*.tables.json`, 13 keys incl. all 3 enrichment keys):
+OLD path drops `['bunker_prices','macro_indicators','maritime_stocks']`, NEW path preserves all 3
+and still takes fresh values for the 10 owned keys. No extraction re-run; no data file touched.
 * Register Intermodal row re-measured and corrected (16 counts, total **62,510** rows).
 * Evidence: `docs/intermodal_macro_verdict.md` (ADDENDUM 2026-10-03).

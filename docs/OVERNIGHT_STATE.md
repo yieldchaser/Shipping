@@ -1,3 +1,14 @@
+**THIS RUN (2026-10-07 17:2x, source-by-source, 30m job) - NOTHING TO EXTRACT (independently re-measured); closed the disclosed `run_intermodal_full.py` sidecar-CLOBBER residual at the code level. No data changed.**
+
+Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). Liveness at start: NO extraction of ours running (`tasklist python.exe` = empty); tree clean except `logs/fleet_sync.log` (scheduled sync, left unstaged); `git status corpus` = **0 changes** -> no new arrivals.
+
+- Coverage re-enumerated (pdf vs md): advanced_shipping 255/255, star_asia 201/200, ssy 530/530, xclusiv 271/271, affinity 256/249, agora 219/219, ism 115/115, lion 48/48, intermodal 257/257, banchero_costa 248/249, carriers 136/137, gibson 109/265, clarksons 11/188. The two short ones (affinity -7, star_asia -1) remain the known corpus BYTE-DUPLICATES. **No extraction gap.**
+- Register gate RE-RUN: `scripts/extract/verify_registers.py` = **ALL PASSED** (180 CSVs / **641,130** logical rows == JSON == MD; 0 mismatches; 0 control chars/emoji).
+- **FIX (code only):** the ledger's last disclosed residual - `run_intermodal_full.py` wrote a FRESH `tables` dict, silently clobbering `maritime_stocks` / `bunker_prices` / `macro_indicators` enriched by `run_intermodal_finance.py` on any later pass. It now **merges**: loads the existing sidecar and `setdefault`s the keys it does not own; same-name keys keep the freshly parsed value. Verified on a real enriched sidecar (`md/intermodal/2021/intermodal_2021_W26_*.tables.json`, 13 keys): OLD drops the 3 enrichment keys, NEW preserves all 3 + fresh values for the 10 owned keys. No extraction re-run; no data file touched. Ledger updated.
+- **NEXT:** still NOTHING to EXTRACT (corpus complete; no new arrivals). Remaining open items are the USER's: (a) allied en-bloc residual; (b) hellenic bare-name `source_file` (3 builders); (c) inventory/DB rebuild.
+
+---
+
 **THIS RUN (2026-10-07 16:4x, source-by-source, 30m job) - NOTHING TO EXTRACT (independently re-measured). Liveness proof + register gate green. No data changed.**
 
 Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). At start: NO extraction of OURS running (python.exe set = Hermes gateways + fleet-sync; no `run_*` process). Tree clean except `logs/fleet_sync.log` (scheduled sync, left unstaged) - 1 changed file total. Corpus UNCHANGED: `git status corpus` = 0 changes; newest corpus dir mtime still 2026-10-06 18:41 -> no new arrivals.
