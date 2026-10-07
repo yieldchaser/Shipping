@@ -3864,3 +3864,81 @@ New branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main); files under
    python scripts/extract/publishers/run_hellenic_iron_ore_pdf.py
    ```
    then re-run `verify_registers.py` (row counts unchanged, so the register should stay GREEN).
+
+## 2026-10-07 05:40 UTC (11:10 IST) - deep review (3-hourly, job d77cc9df53c4)
+
+Verdict: **HEALTHY** (bulk run complete; verifier, golden and registers all green).
+No new code defect was proven that was mine to fix. One real defect was found in
+the corpus DELIVERABLE layer but it is already being fixed by a live parallel
+agent (uncommitted) - I verified it and did NOT touch it.
+
+### Run state (measured)
+No `run_batch` / `batch_worker` process running. `verify_extraction.py`: done
+880/882, status ok 876, error 3 (`not-a-pdf` bad header, correct quarantine),
+`no-extractable-content` 1; checkpoint 7,816 rows / 7,816 unique (0 torn);
+`golden 15/15`; db 189,481 tables / 6,726,703 cells; `state_note` is the known
+COMPLETE-not-dead case (queue from the 2026-09-21 inventory, 0 remained),
+`inventory_drift 385` (informational).
+
+### Independent measurements this run
+* `golden_matrix.py` re-run -> Star Asia table cells **15/15** (pymupdf-text and
+  plumber-text); SSY 14/14; Breakwave 6/6. No regression.
+* `verify_registers.py` -> ALL CHECKS PASSED: **180 CSVs / 641,130 rows** == JSON
+  == MD, 0 mismatches (down 47 from the 641,177 in the 07:45 report - see gibson).
+* Structural scan over `data/extracted/corpus/` (16,803 doc dirs; 25 docs sampled
+  per source): only documented classes appear - books / prose-as-1col tables;
+  drewry Power-BI cell-scatter (35.6% of tables `text_verified` 0, known); poten
+  essays 2.4% tv0; cftc 33%. No new systematic shape smell.
+* Doc-level: drewry Week33 (messy prose+number grid, expected); poten
+  `2014-In-The-Rear-View` (prose parsed as table, expected); breakwave
+  `2026-09-15` (newsletter layout, tv 1.0); hellenic `gms-week-27` (HTML prose,
+  0 tables, correct).
+
+### Defect found and verified - already fixed by a parallel agent (NOT touched by me)
+The gibson HTML runner mislabelled the "Newbuild & Second Hand Benchmark Values
+($ million)" table as a tanker spot table. Read off the source page
+`corpus/01-brokers/gibson/html/2023/2023-09-29_all-dried-out.html`: the table is
+`VLCC 127.5 / Suezmax 85 / Aframax 69 / MR 47 / Capesize 64.5 / Kamsarmax 35 /
+Ultramax 33 / Handysize 30` - vessel **valuations** in $m. The old loose test
+(any cell containing `Suezmax`/`TD3C`/`VLSFO`) emitted them into
+`gibson_tanker_spot_series.csv` as `market_type=Spot Worldscale`,
+`category=Dirty Tanker Spot`, with dry-bulk route codes (`Capesize`,`Kamsarmax`,
+`Ultramax /`,`Handysize`). A live parallel process is rewriting
+`run_gibson_html.py` (mtime 10:51:57) with a strict regex (first cell must match
+`T[DC]\d+...#(WS|TCE)`; bunker requires port+`VLSFO`): **47 rows removed** from
+the tanker-spot series, 9 gibson `.md` files reclassified. I verified the change
+direction is right (the source page contains no `TD3C`/`Worldscale`/`VLSFO`) and
+left it untouched.
+* Residual note for the human: the 47 removed rows also include plausible
+  FFA/$-day rows (`TC1`,`TC2`,`TC5`,`TC7`, e.g. `TC1,LR2,...,39000.0,36000.0,
+  35000.0,43000.0,42000.0,FFA`) that were filed under `market_type=Spot
+  Worldscale` - internally inconsistent (Worldscale is a % not $/day), so
+  dropping is defensible; keeping them as TCE/FFA is the alternative if wanted.
+* Impact: the gibson series are NOT read by `index.html` (only
+  `data/clarksons/gibson_all_reports_catalog.json` is); corpus/register only.
+
+### Hellenic glyph fix reached the deliverable (verified)
+`data/extracted/series/hellenic_iron_ore_daily_series.csv` (working tree, mtime
+07:54) no longer carries U+00CA / U+019F / U+FB01...; the commentary now reads
+"General transactions in the market". U+00B2 / U+00B9 superscripts remain by
+design. HEAD still had the glyphs. Uncommitted.
+
+### Deliberately NOT changed, and why
+* `run_gibson_html.py`, the gibson md+series, and the hellenic CSVs: a parallel
+  agent is actively writing them right now (`run_gibson_html.py` mtime 10:51:57;
+  `pytest tests/` pid 20032 at 10:44; `parse_engine promote` pid 23116 at 10:53).
+  Editing or committing them would collide with that agent.
+* No code fix made this run: no defect was proven that is in my lane and not
+  already being fixed. Recording that plainly rather than inventing work.
+* Human decisions 1-6 from the 07:45 entry stand unchanged (inventory drift;
+  DB/series rebuild; hellenic chunk shards; 5 advanced_shipping docs;
+  golden_destiny regen; apply glyph fix to delivered text - now done for the
+  daily series).
+
+### Flag for the human
+The working tree is **DIRTY** with uncommitted DATA changes (gibson md + 2 series
+CSVs; hellenic 2 series CSVs) plus a code change to `run_gibson_html.py`, all
+from a concurrent process - nothing is committed on the auto branch for them. If
+that process is interrupted the delivered fixes are lost. The concurrent agent
+should be allowed to commit, or its data changes committed, rather than left
+sitting uncommitted.
