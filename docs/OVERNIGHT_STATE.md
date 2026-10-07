@@ -1,3 +1,27 @@
+**THIS RUN (2026-10-07 05:4x, source-by-source, 30m job) - STARTED + COMPLETED a NEW source: DNF ANALYSIS "Dry Bulk Weekly Brief" 38/38, 0 failures. Real new extraction. Archive/other is now exhausted (see last line).**
+
+Branch `auto/extract-fixes-2026-10-06-deepreview`. Nothing of ours was extracting at start (no `_run_state.json` for DNF, no runner). Register gate GREEN at start (178/640,383).
+
+**SOURCE:** `corpus/archive/other` holds 130 PDFs = 5 publications (`docs/archive_other_survey.md`); the largest unextracted one was DNF Analysis, **38 docs** 2021-07-05..2022-05-09. Enumerated by the `dnfanalysis` content token, NOT by filename. GENUINELY_MISSING (feeds, md tier, index.html all absent). BACKFILL_ONLY (>500 d).
+
+**TWO LAYOUT ERAS - the trap:** era A (2021 W26-W32, 6 docs, 7 pages, "DRY BULK WEEKLY") orders the S&P table `Ships Sold | Built | DWT | Price | Buyer | Owner`; era B (2021 W33 - 2022 W18, 32 docs, 4 pages, "DRY BULK WEEKLY BRIEF") orders it `Vessel Name | DWT | Built | Price`. **Built and DWT swap order between the eras** - a fixed x-cut swaps the year into the tonnage on one era. Every threshold is derived from each page's own header row.
+
+**MEASURED:** 38/38 md + .tables.json, 0 failed, 0 files <1KB, 115-125 s (88 non-DNF PDFs scanned + skipped). `dnf_secondhand_transactions_series.csv` = **521 rows** / 38 issue dates. `dnf_bunker_prices_series.csv` = **273 rows** / 32 issue dates.
+
+**VERIFICATION (no vision tool in this cron session - stated):** (1) verbatim token reconcile against each document's OWN text layer, per page - vessel_name **521/521 = 100%**, dwt **517/517 = 100%**, price_raw **481/481 = 100%**, built_year 6/6, bunker value **273/273 = 100%**, **0 mismatches**; (2) pixel-INK test on rendered pages (W26 `177,066` 696 dark px/1,775; W18 `206,331` 916/1,976). `scratch/verify_dnf.py`.
+
+**TRIAL caught 5 real bugs BEFORE bulk** (each found by the check, not by a metric): prose/news panel + chart panels leaking into the table; WEEK-column integers read as values; a second header line (`Price (US$)`, `of Buyer`) bleeding into row 1; multi-word names with a trailing number shredded across columns (`ZHONG XING DA 98`); and multi-line name cells joined in x order (`NAVIOS MARCO POLO` read as `NAVIOS POLO MARCO`). The 5th bug's first fix was itself wrong (gap chained against the cluster's FIRST word, not its LAST).
+
+**FAITHFUL, not defects (verified on the page):** 2021 W33-W50 print a stray **`£`** glyph where `$` is meant (preserved in `price_currency`, never rewritten); `UNION ERWIN` built prints **`4022`** (publisher typo, kept as raw string); `SILVIA GLORY` prints no price (left blank); 5 `ORIENT *` rows print **`EN BLOC`** in the price cell (lot sale, `price_m` NULL - no fabricated number).
+
+**RESIDUE (named):** bunker series is 273 of an expected 288 - 5 docs emit 2 of 3 weekly rows (`W33, W34, W35, W39, W40` 2021); every emitted value is verbatim. Era A's demolition + newbuilding tables and the 3 commodity charts are in the .md but not typed (survey section 5).
+
+Register synced 178 -> **180 CSVs / 641,177 rows**; `verify_registers.py` = ALL PASSED (100.0%). Commits `5e16fb888` (runner+survey+verdict), `0ab657d33` (data+register).
+
+- **NEXT:** `corpus/archive/other` is now exhausted - seasure 86/86 (04:1x run) and dnf 38/38 (this run) are the only two real recurring publications in it; UP Oil (2) / Psarras (1) / hellenic recycling 1 = SKIP (no cadence / held family). The whole `corpus/archive/*` backfill is therefore DONE (allied, golden_destiny, seasure, dnf; anchor/other-stragglers SKIP). Next source must come from OUTSIDE the archive: re-check `corpus/04-poten` 1,087 / `corpus/09-ppa` (87.6% already in the DB - scope to the 42 missing FY docs) / `corpus/06-drewry` 276, each behind its own THREE-BASELINE test before building. Watch that the automation does not re-stale the register.
+
+---
+
 **THIS RUN (2026-10-07 04:1x, source-by-source, 30m job) - TWO things: (1) APPLIED the parallel 3-hourly review job's verified golden_destiny label fix (e047719da) to the DELIVERED series; (2) STARTED + COMPLETED a NEW source: SEASURE 86/86. Real new extraction.**
 
 Branch `auto/extract-fixes-2026-10-06-deepreview`. Working tree clean at start; nothing of ours extracting; NO new corpus arrivals (newest still 2026-10-06 20:03). xclusiv 271/271 = done (prompt stale). Register gate GREEN at start (177/638,931).
