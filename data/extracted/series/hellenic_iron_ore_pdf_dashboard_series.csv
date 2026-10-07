@@ -211,3 +211,22 @@ date,year,indicator,value,unit,change,source_file
 2026-10-05,2026,hot_metal_daily_avg_mt_million,2.3882,mt_m,0.0,2026-10-05_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261005_en.pdf
 2026-10-05,2026,port_inventory_10_ports_mt_million,103.02,mt_m,0.0,2026-10-05_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261005_en.pdf
 2026-10-05,2026,port_inventory_35_ports_mt_million,145.45,mt_m,0.0,2026-10-05_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261005_en.pdf
+2026-10-06,2026,MMi 61% Seaborne Index,91.65,USD/dmt,-0.35,2026-10-06_mmi-daily-iron-ore-index-report-october-6-2026_io20261006-en_647632f6c6ef.pdf
+2026-10-06,2026,MMi 65% Seaborne Index,110.0,USD/dmt,-0.8,2026-10-06_mmi-daily-iron-ore-index-report-october-6-2026_io20261006-en_647632f6c6ef.pdf
+2026-10-06,2026,SGX Iron Ore Most-traded,91.35,USD/dmt,0.0,2026-10-06_mmi-daily-iron-ore-index-report-october-6-2026_io20261006-en_647632f6c6ef.pdf
+2026-10-06,2026,arrivals_chinese_ports_mt_million,29.0943,mt_m,0.0,2026-10-06_mmi-daily-iron-ore-index-report-october-6-2026_io20261006-en_647632f6c6ef.pdf
+2026-10-06,2026,bf_capacity_utilisation_pct,58.1,pct,0.0,2026-10-06_mmi-daily-iron-ore-index-report-october-6-2026_io20261006-en_647632f6c6ef.pdf
+2026-10-06,2026,bf_operating_rate_pct,88.57,pct,0.0,2026-10-06_mmi-daily-iron-ore-index-report-october-6-2026_io20261006-en_647632f6c6ef.pdf
+2026-10-06,2026,freight_c3_usd_mt,40.26,USD/mt,0.0,2026-10-06_mmi-daily-iron-ore-index-report-october-6-2026_io20261006-en_647632f6c6ef.pdf
+2026-10-06,2026,freight_c5_usd_mt,14.13,USD/mt,0.0,2026-10-06_mmi-daily-iron-ore-index-report-october-6-2026_io20261006-en_647632f6c6ef.pdf
+2026-10-06,2026,global_shipments_mt_million,35.9424,mt_m,0.0,2026-10-06_mmi-daily-iron-ore-index-report-october-6-2026_io20261006-en_647632f6c6ef.pdf
+2026-10-06,2026,hot_metal_daily_avg_mt_million,2.3882,mt_m,0.0,2026-10-06_mmi-daily-iron-ore-index-report-october-6-2026_io20261006-en_647632f6c6ef.pdf
+2026-10-07,2026,MMi 61% Seaborne Index,91.25,USD/dmt,-0.4,2026-10-07_mmi-daily-iron-ore-index-report-october-7-2026_io20261007-en_eb7ed742c1da.pdf
+2026-10-07,2026,MMi 65% Seaborne Index,109.7,USD/dmt,-0.3,2026-10-07_mmi-daily-iron-ore-index-report-october-7-2026_io20261007-en_eb7ed742c1da.pdf
+2026-10-07,2026,arrivals_chinese_ports_mt_million,29.0943,mt_m,0.0,2026-10-07_mmi-daily-iron-ore-index-report-october-7-2026_io20261007-en_eb7ed742c1da.pdf
+2026-10-07,2026,bf_capacity_utilisation_pct,58.1,pct,0.0,2026-10-07_mmi-daily-iron-ore-index-report-october-7-2026_io20261007-en_eb7ed742c1da.pdf
+2026-10-07,2026,bf_operating_rate_pct,88.57,pct,0.0,2026-10-07_mmi-daily-iron-ore-index-report-october-7-2026_io20261007-en_eb7ed742c1da.pdf
+2026-10-07,2026,freight_c3_usd_mt,40.26,USD/mt,0.0,2026-10-07_mmi-daily-iron-ore-index-report-october-7-2026_io20261007-en_eb7ed742c1da.pdf
+2026-10-07,2026,freight_c5_usd_mt,14.13,USD/mt,0.0,2026-10-07_mmi-daily-iron-ore-index-report-october-7-2026_io20261007-en_eb7ed742c1da.pdf
+2026-10-07,2026,global_shipments_mt_million,35.9424,mt_m,0.0,2026-10-07_mmi-daily-iron-ore-index-report-october-7-2026_io20261007-en_eb7ed742c1da.pdf
+2026-10-07,2026,hot_metal_daily_avg_mt_million,2.3882,mt_m,0.0,2026-10-07_mmi-daily-iron-ore-index-report-october-7-2026_io20261007-en_eb7ed742c1da.pdf
