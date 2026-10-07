@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "fe5d3157-7e1a-4d29-8c2f-d6375f96be7f"
 images_count: 7
-local_pdf: "../pdfs/2026/2026-07-03_lng-fsru-quarterly-q226.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/report.pdf"
 ---
 # FSRU Quarterly - Q2/26
 
 **Date:** 2026-07-03 | **Department:** LNG | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2026/2026-07-03_lng-fsru-quarterly-q226.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/report.pdf)  
 
 ---
 
@@ -76,13 +75,13 @@ The final piece of the puzzle is **WHEN** all this actually comes to fruition an
 ![FSRU demand: Expected projects by vessel solution](../images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_Projects_by_Type_FSRU.png)
 
 > **Figure 1: FSRU demand: Expected projects by vessel solution**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_Projects_by_Type_FSRU.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_Projects_by_Type_FSRU.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_Projects_by_Type_FSRU.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_Projects_by_Type_FSRU.png)
 
 
 ![FSRU demand: Expected projects by region](../images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_Projects_by_Region.png)
 
 > **Figure 2: FSRU demand: Expected projects by region**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_Projects_by_Region.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_Projects_by_Region.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_Projects_by_Region.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_Projects_by_Region.png)
 
 
 ---
@@ -104,13 +103,13 @@ From a global perspective, **FSRUs delivered an all-time high 17.4% of all LNG v
 ![Global volumes imported through FSRUs (2023-2026YTD)](../images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/VOLUMES_BY_MONTH_2023-2026YTD.png)
 
 > **Figure 3: Global volumes imported through FSRUs (2023-2026YTD)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/VOLUMES_BY_MONTH_2023-2026YTD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/VOLUMES_BY_MONTH_2023-2026YTD.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/VOLUMES_BY_MONTH_2023-2026YTD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/VOLUMES_BY_MONTH_2023-2026YTD.png)
 
 
 ![Monthly volumes imported through FSRUs by region (2026YTD)](../images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/MONTHLY_VOLUMES_2026YTD.png)
 
 > **Figure 4: Monthly volumes imported through FSRUs by region (2026YTD)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/MONTHLY_VOLUMES_2026YTD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/MONTHLY_VOLUMES_2026YTD.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/MONTHLY_VOLUMES_2026YTD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/MONTHLY_VOLUMES_2026YTD.png)
 
 
 ---
@@ -128,7 +127,7 @@ From a global perspective, **FSRUs delivered an all-time high 17.4% of all LNG v
 ![Fsru Map](../images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_MAP.png)
 
 > **Figure 5: Fsru Map**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_MAP.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_MAP.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_MAP.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/FSRU_MAP.png)
 
 **BW MAGNA** departed Acu at two occasions during the quarter with an extended period for nearly a month mid-May to mid-June. While the reason is not clear the disruption clearly has had an impact on GNAs TPPs.
 
@@ -150,13 +149,13 @@ From a global perspective, **FSRUs delivered an all-time high 17.4% of all LNG v
 ![FSRU conversion candidates: Secondhand values](../images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/SH.png)
 
 > **Figure 6: FSRU conversion candidates: Secondhand values**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/SH.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/SH.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/SH.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/SH.png)
 
 
 ![FSRU Newbuild prices](../images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/NB.png)
 
 > **Figure 7: FSRU Newbuild prices**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/NB.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/NB.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/NB.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe5d3157-7e1a-4d29-8c2f-d6375f96be7f/NB.png)
 
 The steady stream of requirements is driving interest in additional tonnage and we currently count **four newbuilds and three firm conversions** in the orderbook. However, adding the units that are expected to firm up upon satisfaction of CPs we can **add another five conversions** - and then another **2-3 semi-speculative units**. Hence, the potential additional supply at present stands at 13-14 units. Putting that in the context of a fleet of just north of 50 units one may argue the early warnings go off for those thinking orderbook as % of fleet. **However, the different specifications, sizes and to a certain extent bespoke units renders the supply risk somewhat lower.**
 

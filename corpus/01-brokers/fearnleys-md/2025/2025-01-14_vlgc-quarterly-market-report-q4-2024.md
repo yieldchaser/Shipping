@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "89a6b8a5-9e85-4512-b009-32e752ffb4c8"
 images_count: 13
-local_pdf: "../pdfs/2025/2025-01-14_vlgc-quarterly-market-report-q4-2024.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/report.pdf"
 ---
 # VLGC Quarterly Market Report - Q4 2024
 
 **Date:** 2025-01-14 | **Department:** LPG | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2025/2025-01-14_vlgc-quarterly-market-report-q4-2024.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/report.pdf)  
 
 ---
 
@@ -31,13 +30,13 @@ The Middle East exported 39.7 million tonnes, just 1 million tonnes up, resultin
 ![Tce 2024](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE%202024.JPG)
 
 > **Figure 1: Tce 2024**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE%202024.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE 2024.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE%202024.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE 2024.JPG)
 
 
 ![Global Seaborne Lpg](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Global%20seaborne%20LPG.JPG)
 
 > **Figure 2: Global Seaborne Lpg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Global%20seaborne%20LPG.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Global seaborne LPG.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Global%20seaborne%20LPG.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Global seaborne LPG.JPG)
 
 
 ### Earnings
@@ -46,7 +45,7 @@ The Middle East exported 39.7 million tonnes, just 1 million tonnes up, resultin
 ![Tce Q4 2024](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE%20Q4%202024.JPG)
 
 > **Figure 3: Tce Q4 2024**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE%20Q4%202024.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE Q4 2024.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE%20Q4%202024.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE Q4 2024.JPG)
 
 
 ### Liftings statistics: U.S. & Middle East
@@ -67,19 +66,19 @@ The monthly average number of liftings continue to grow, while the monthly avera
 ![Monthlyliftings](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/MonthlyLiftings.JPG)
 
 > **Figure 4: Monthlyliftings**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/MonthlyLiftings.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/MonthlyLiftings.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/MonthlyLiftings.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/MonthlyLiftings.JPG)
 
 
 ![Spot Liftings2](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot%20Liftings2.JPG)
 
 > **Figure 5: Spot Liftings2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot%20Liftings2.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot Liftings2.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot%20Liftings2.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot Liftings2.JPG)
 
 
 ![Arb Vs Blpg3](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Arb%20vs%20BLPG3.JPG)
 
 > **Figure 6: Arb Vs Blpg3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Arb%20vs%20BLPG3.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Arb vs BLPG3.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Arb%20vs%20BLPG3.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Arb vs BLPG3.JPG)
 
 Throughout the year, there was a deviating correlation between the arbitrage window from West to East and the BLPG-3 (Houston-Chiba) freight rate. In general, there was an increased buying interest for product, causing fewer spot fixtures out of the U.S. Gulf. This is further explained as a larger share of the fleet was controlled by traders rather than owners. This caused the market to see less spot shipping activity, further adding to fleet availability and contributing to lower freight rates. Additionally, maintenance and disruptions at export terminals in the U.S. had ripple effects on export availability.
 
@@ -91,7 +90,7 @@ The opening of transits in the Panama Canal also contributed to increasing fleet
 ![Laden Vlgc Transits2](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Laden%20VLGC%20Transits2.JPG)
 
 > **Figure 7: Laden Vlgc Transits2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Laden%20VLGC%20Transits2.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Laden VLGC Transits2.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Laden%20VLGC%20Transits2.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Laden VLGC Transits2.JPG)
 
 The sailing pattern of the VLGC fleet is a major variable in terms of fleet capacity and availability. In 2023, when the Panama Canal was highly congested with record-high auction costs and harsh transit restrictions, a majority of the fleet chose the longer route around the Cape of Good Hope instead of the canal. We also saw an increase in the utilization of the Suez Canal before it was deemed unsafe territory. As water levels in the Panama Canal resurged, restrictions were retracted, and we saw a continuous increase in VLGC transits again. A significant portion of ships sailing in ballast back to the West still choose the longer route instead of the canal. This is both due to the instability of transiting the canal, as well as the option for Middle Eastern and African cargoes. This unpredictable variation in waypoint transits creates uncertainty in terms of future fleet capacity.
 
@@ -102,13 +101,13 @@ The sailing pattern of the VLGC fleet is a major variable in terms of fleet capa
 ![Top Exporters](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top%20Exporters.JPG)
 
 > **Figure 8: Top Exporters**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top%20Exporters.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top Exporters.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top%20Exporters.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top Exporters.JPG)
 
 
 ![Top Importers](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top%20Importers.JPG)
 
 > **Figure 9: Top Importers**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top%20Importers.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top Importers.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top%20Importers.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top Importers.JPG)
 
 
 ### U.S. Production & Export
@@ -119,13 +118,13 @@ The U.S. continues to increase its production and exports, with expectations of 
 ![Us Expansions](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/US%20Expansions.JPG)
 
 > **Figure 10: Us Expansions**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/US%20Expansions.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/US Expansions.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/US%20Expansions.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/US Expansions.JPG)
 
 
 ![Spot Terminal Fees](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot%20Terminal%20fees.JPG)
 
 > **Figure 11: Spot Terminal Fees**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot%20Terminal%20fees.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot Terminal fees.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot%20Terminal%20fees.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot Terminal fees.JPG)
 
 
 ### Fleet & Orderbook
@@ -134,13 +133,13 @@ The U.S. continues to increase its production and exports, with expectations of 
 ![Fleet Development Q4](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Fleet%20development%20Q4.JPG)
 
 > **Figure 12: Fleet Development Q4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Fleet%20development%20Q4.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Fleet development Q4.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Fleet%20development%20Q4.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Fleet development Q4.JPG)
 
 
 ![Orderbook](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Orderbook.JPG)
 
 > **Figure 13: Orderbook**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Orderbook.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Orderbook.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Orderbook.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Orderbook.JPG)
 
 The incremental ammonia volumes that will come online, will likely be captured by the MGCs, where the orderbook-fleet ratio is at 44%, and all vessels of this segment can lift ammonia. They are also the segment with the widest infrastructure network, as well as experience, in the commodity. 30% of all seaborne ammonia is also currently lifted by Handysize Gas Carriers, which will likely cover an additional part of future supplied volumes.
 

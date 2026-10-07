@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "6ba0bda4-c3f0-468b-ac96-ecd258b42165"
 images_count: 7
-local_pdf: "../pdfs/2026/2026-01-01_lng-fsru-annual-report-2025.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/report.pdf"
 ---
 # FSRU Annual Review - 2025
 
 **Date:** 2026-01-01 | **Department:** LNG | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2026/2026-01-01_lng-fsru-annual-report-2025.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/report.pdf)  
 
 ---
 
@@ -54,13 +53,13 @@ These are just a few aspects of how FSRUs can impact long-term LNG demand and we
 ![FSRU "Hot spots": Set to absorb additional 30mtpa by 2030](../images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/Emerging_Mkts_1.jpg)
 
 > **Figure 1: FSRU "Hot spots": Set to absorb additional 30mtpa by 2030**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/Emerging_Mkts_1.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/Emerging_Mkts_1.jpg)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/Emerging_Mkts_1.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/Emerging_Mkts_1.jpg)
 
 
 ![FSRU Utilization: Global average has been around 1.3mtpa](../images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/Avg_FSRU_Throughput_1.png.jpg)
 
 > **Figure 2: FSRU Utilization: Global average has been around 1.3mtpa**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/Avg_FSRU_Throughput_1.png.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/Avg_FSRU_Throughput_1.png.jpg)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/Avg_FSRU_Throughput_1.png.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/Avg_FSRU_Throughput_1.png.jpg)
 
 
 ### FSRU activity and volumes
@@ -79,13 +78,13 @@ Finally, the only FSRU without a cargo in 2025 was CAPE ANN in Le Havre (a reaso
 ![Global volumes imported through FSRUs (2022-2025)](../images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/IMPORTS_BY_YEAR.png)
 
 > **Figure 3: Global volumes imported through FSRUs (2022-2025)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/IMPORTS_BY_YEAR.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/IMPORTS_BY_YEAR.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/IMPORTS_BY_YEAR.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/IMPORTS_BY_YEAR.png)
 
 
 ![Monthly volumes imported through FSRUs by region (2025)](../images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/IMPORTS_BY_REGION_Q425.png)
 
 > **Figure 4: Monthly volumes imported through FSRUs by region (2025)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/IMPORTS_BY_REGION_Q425.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/IMPORTS_BY_REGION_Q425.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/IMPORTS_BY_REGION_Q425.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/IMPORTS_BY_REGION_Q425.png)
 
 
 ### Recent FSRU Project Developments
@@ -97,7 +96,7 @@ Finally, the only FSRU without a cargo in 2025 was CAPE ANN in Le Havre (a reaso
 ![Global Fsru Map](../images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/GLOBAL_FSRU_MAP.jpg)
 
 > **Figure 5: Global Fsru Map**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/GLOBAL_FSRU_MAP.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/GLOBAL_FSRU_MAP.jpg)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/GLOBAL_FSRU_MAP.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/GLOBAL_FSRU_MAP.jpg)
 
 As the FSRU market remains by and large sold out there are limited units moving around (which is in many ways good and reflected in the high volumes).
 
@@ -116,13 +115,13 @@ As the FSRU market remains by and large sold out there are limited units moving 
 ![FSRU conversion candidates: Secondhand values](../images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/SH%20Values.jpg)
 
 > **Figure 6: FSRU conversion candidates: Secondhand values**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/SH%20Values.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/SH Values.jpg)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/SH%20Values.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/SH Values.jpg)
 
 
 ![FSRU Newbuild prices](../images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/NB%20Values.jpg)
 
 > **Figure 7: FSRU Newbuild prices**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/NB%20Values.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/NB Values.jpg)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/6ba0bda4-c3f0-468b-ac96-ecd258b42165/NB%20Values.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/NB Values.jpg)
 
 Despite the view that new FSRUs may come up short in saving the day in respect of the impending LNG oversupply, the **activity level remains very high**. The width of the project pipeline remains wide (albeit a bit leaky in terms of project quality) and we maintain that at least 3-4 genuine new projects will reach FID. What was a reserved approach to taking semi-speculative positions on FSRUs has turned during the quarter and **our tally shows 8-10 conversion units** in the works of which **4-5 have a dedicated home/project** already. The remaining are essentially speculative, but we caveat it by the fact that **nobody has gone full blast** on a conversion just yet. The approach is to do pre-engineering and ordering regas module - and for a select few - position with a vessel acquisition.
 

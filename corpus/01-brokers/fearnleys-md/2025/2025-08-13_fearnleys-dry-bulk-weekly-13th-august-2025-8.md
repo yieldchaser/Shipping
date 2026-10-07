@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "fe2aa00a-76e2-4bdc-a666-b39c293bbf59"
 images_count: 12
-local_pdf: "../pdfs/2025/2025-08-13_fearnleys-dry-bulk-weekly-13th-august-2025-8.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/report.pdf"
 ---
 # Fearnleys Dry Bulk Weekly
 
 **Date:** 2025-08-13 | **Department:** BULK | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2025/2025-08-13_fearnleys-dry-bulk-weekly-13th-august-2025-8.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/report.pdf)  
 
 ---
 
@@ -29,25 +28,25 @@ Since last week, the share of profitable steel mills in China has increased furt
 ![China Daily Imported Iron Ore Consumption](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Daily%20imported%20iron%20ore%20consumption.png)
 
 > **Figure 1: China Daily Imported Iron Ore Consumption**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Daily%20imported%20iron%20ore%20consumption.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Daily imported iron ore consumption.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Daily%20imported%20iron%20ore%20consumption.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Daily imported iron ore consumption.png)
 
 
 ![Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png)
 
 > **Figure 2: Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/IRON ORE FUTURES LEAD VS CAPE.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/IRON ORE FUTURES LEAD VS CAPE.png)
 
 
 ![China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png)
 
 > **Figure 3: China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
 
 
 ![Capesize/Newcastlemax Total Loadings, 2024 vs 2025](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Capenewc%20Weekly%20Shipment%20Volumes.png)
 
 > **Figure 4: Capesize/Newcastlemax Total Loadings, 2024 vs 2025**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Capenewc%20Weekly%20Shipment%20Volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Capenewc Weekly Shipment Volumes.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Capenewc%20Weekly%20Shipment%20Volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Capenewc Weekly Shipment Volumes.png)
 
 
 ---
@@ -66,25 +65,25 @@ Vessels heading to Indonesia have continued to rise in the last weeks (bottom le
 ![Panamax Atlantic vs Pacific Index](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX%20ATL%20VS%20PAC.png)
 
 > **Figure 5: Panamax Atlantic vs Pacific Index**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX%20ATL%20VS%20PAC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX ATL VS PAC.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX%20ATL%20VS%20PAC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX ATL VS PAC.png)
 
 
 ![Panamax/Kamsarmax Coal Loadings, 2024 vs 2025](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/panamax%20kamsarmax%20weekly%20coal%20shipments.png)
 
 > **Figure 6: Panamax/Kamsarmax Coal Loadings, 2024 vs 2025**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/panamax%20kamsarmax%20weekly%20coal%20shipments.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/panamax kamsarmax weekly coal shipments.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/panamax%20kamsarmax%20weekly%20coal%20shipments.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/panamax kamsarmax weekly coal shipments.png)
 
 
 ![Panamax / Kamsarmax Heading to Indonesia](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX%20KAMSARMAX%20HEADING%20TO%20INDONESIA.png)
 
 > **Figure 7: Panamax / Kamsarmax Heading to Indonesia**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX%20KAMSARMAX%20HEADING%20TO%20INDONESIA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX KAMSARMAX HEADING TO INDONESIA.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX%20KAMSARMAX%20HEADING%20TO%20INDONESIA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX KAMSARMAX HEADING TO INDONESIA.png)
 
 
 ![Panamax / Kamsarmax Brazil Soybeans Loadings  24 vs 25](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/BRAZIL%20SOYBEAN%20LOADINGS.png)
 
 > **Figure 8: Panamax / Kamsarmax Brazil Soybeans Loadings  24 vs 25**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/BRAZIL%20SOYBEAN%20LOADINGS.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/BRAZIL SOYBEAN LOADINGS.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/BRAZIL%20SOYBEAN%20LOADINGS.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/BRAZIL SOYBEAN LOADINGS.png)
 
 
 ---
@@ -105,22 +104,22 @@ Market strength remains, although going much higher than this could be hard, as 
 ![Supramax Ultramax Weekly Total Loadings 2024 vs 2025](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/supra%20ultra%20total%20weekly%20shipment%20volumes.png)
 
 > **Figure 9: Supramax Ultramax Weekly Total Loadings 2024 vs 2025**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/supra%20ultra%20total%20weekly%20shipment%20volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/supra ultra total weekly shipment volumes.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/supra%20ultra%20total%20weekly%20shipment%20volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/supra ultra total weekly shipment volumes.png)
 
 
 ![Ultramax Index 2024 vs 2025](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultra%20Index%202024%20vs%202025.png)
 
 > **Figure 10: Ultramax Index 2024 vs 2025**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultra%20Index%202024%20vs%202025.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultra Index 2024 vs 2025.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultra%20Index%202024%20vs%202025.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultra Index 2024 vs 2025.png)
 
 
 ![Supramax58 Index vs Handysize38 Index Spread](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/SUPRA%20HANDY%20SPREAD.png)
 
 > **Figure 11: Supramax58 Index vs Handysize38 Index Spread**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/SUPRA%20HANDY%20SPREAD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/SUPRA HANDY SPREAD.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/SUPRA%20HANDY%20SPREAD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/SUPRA HANDY SPREAD.png)
 
 
 ![Ultramax Atlantic vs Pacific Earnings](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultramax%20Atl%20vs%20Pac.png)
 
 > **Figure 12: Ultramax Atlantic vs Pacific Earnings**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultramax%20Atl%20vs%20Pac.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultramax Atl vs Pac.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultramax%20Atl%20vs%20Pac.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultramax Atl vs Pac.png)

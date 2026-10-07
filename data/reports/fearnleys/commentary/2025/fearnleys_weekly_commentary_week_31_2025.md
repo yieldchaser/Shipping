@@ -6,7 +6,7 @@ week: 31
 date_range: "2025-07-30 to 2025-08-01"
 comments_count: 11
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-07 12:02:15"
+generated_at: "2026-10-07 14:39:57"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 31, 2025

@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b"
 images_count: 15
-local_pdf: "../pdfs/2025/2025-05-30_fearnleys-tanker-market-wrap-up-may-2025.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/report.pdf"
 ---
 # Fearnleys Tanker Market Wrap-up May 2025
 
 **Date:** 2025-05-30 | **Department:** TANK | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2025/2025-05-30_fearnleys-tanker-market-wrap-up-may-2025.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/report.pdf)  
 
 ---
 
@@ -34,7 +33,7 @@ While the outlook for the second half of this year remains strong, there are som
 ![Rates and forecast](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/rates.png)
 
 > **Figure 1: Rates and forecast**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/rates.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/rates.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/rates.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/rates.png)
 
 Volumes and tonne-miles have tapered in May to date vs. the preceding two months and current fixing pace for June indicates only small changes. Crude tanker volumes are fairly in line with the same time last year, whilst products have declined slightly. OPEC+ cut unwind and eventually more South American volumes may in coming months offset (some of) the normal seasonal downside. Two out of five new Brazil/GuyanaFPSOs this year have started production, with a combined capacity of 405 kbpd. The remaining three will add another 650 kbpd. Once ramped up, that will be a key trigger for (big) tanker rates to recover again.
 
@@ -42,25 +41,25 @@ Volumes and tonne-miles have tapered in May to date vs. the preceding two months
 ![Seaborne crude oil volumes, ex. Iran](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/volc.png)
 
 > **Figure 2: Seaborne crude oil volumes, ex. Iran**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/volc.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/volc.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/volc.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/volc.png)
 
 
 ![Seaborne oil product volumes, ex. Iran](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/volp.png)
 
 > **Figure 3: Seaborne oil product volumes, ex. Iran**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/volp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/volp.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/volp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/volp.png)
 
 
 ![Monthly Atlantic VLCC fixtures](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/vatl.png)
 
 > **Figure 4: Monthly Atlantic VLCC fixtures**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/vatl.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/vatl.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/vatl.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/vatl.png)
 
 
 ![Monthly MEG VLCC fixtures](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/vmeg.png)
 
 > **Figure 5: Monthly MEG VLCC fixtures**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/vmeg.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/vmeg.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/vmeg.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/vmeg.png)
 
 The main reason for a slightly weaker (crude) tanker market in recent weeks has been the lack of a West-East arbitrage and as a result lower tonne-miles due to shorter sailing distances. Asian buyers seem to find sufficient supply from the MEG for the time being, which may also be aided by the cut unwind from the OPEC+ near-term. 
 
@@ -70,13 +69,13 @@ Once new production fully ramps up in Brazil and Guyana, however, that should su
 ![WTI & Brent - Dubai, less 2-1 WTI forward spread](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/arba.png)
 
 > **Figure 6: WTI & Brent - Dubai, less 2-1 WTI forward spread**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/arba.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/arba.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/arba.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/arba.png)
 
 
 ![Brent 7-1 month forward spread](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/fwd.png)
 
 > **Figure 7: Brent 7-1 month forward spread**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/fwd.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/fwd.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/fwd.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/fwd.png)
 
 The IEA's oil market balance forecasts still point to meaningful inventory builds of 0.7 mbpd this year. In the most recent report, the latest OPEC+ production increase is 'magically' offset by a baseline demand revision for the Middle East and Africa of a combined 3-400 kbpd. This revision also explains why oil inventories have consistently built less than the IEA's estimates have pointed to the last year(s). 
 
@@ -92,13 +91,13 @@ Some of what has been missing for tanker demand is USG crude oil exports, which 
 ![USG exports](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/usg.png)
 
 > **Figure 8: USG exports**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/usg.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/usg.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/usg.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/usg.png)
 
 
 ![Vancouver exports](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/tmx.png)
 
 > **Figure 9: Vancouver exports**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/tmx.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/tmx.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/tmx.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/tmx.png)
 
 
 ---
@@ -115,13 +114,13 @@ There is more phase-out potential, although the majority of candidates are or ha
 ![Quarterly deliveries, crude tankers](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/delyc.png)
 
 > **Figure 10: Quarterly deliveries, crude tankers**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/delyc.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/delyc.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/delyc.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/delyc.png)
 
 
 ![Quarterly deliveries, product tankers](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/delyp.png)
 
 > **Figure 11: Quarterly deliveries, product tankers**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/delyp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/delyp.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/delyp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/delyp.png)
 
 While ordering has slowed this year compared to the last two years, scrapping has picked up somewhat. Already, nearly as much has been scrapped YTD as the two previous years combined, more vessels are reported for sale and some have been converted. That said, the absolute level remains low in a historical context as (some) older ladies find alternative employment in the shadow markets. 
 
@@ -131,13 +130,13 @@ Ordering stands below the historical norm, and interest appears limited due to t
 ![Ordering, tankers +42k dwt](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/order.png)
 
 > **Figure 12: Ordering, tankers +42k dwt**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/order.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/order.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/order.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/order.png)
 
 
 ![Scrapping, tankers +42k dwt](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/scrap.png)
 
 > **Figure 13: Scrapping, tankers +42k dwt**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/scrap.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/scrap.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/scrap.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/scrap.png)
 
 After the latest announcements, a total 14.5% of the tanker fleet is now sanctioned by either the OFAC, EU or UK. While the latter two do not carry the same weight as the OFAC, it does hamper trade opportunities and utilisation. Loadings on sanctioned tonnage, and especially the OFAC sanctioned vessels, have declined significantly YTD which indicates this does impact shipping - although there are still workarounds for exports. 
 
@@ -149,13 +148,13 @@ In any case, the compliant VLCC fleet is now shrinking.
 ![Sanctioned fleet overview](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/sctn.png)
 
 > **Figure 14: Sanctioned fleet overview**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/sctn.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/sctn.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/sctn.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/sctn.png)
 
 
 ![Sanctioned fleet profile](../images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/sanctpro.png)
 
 > **Figure 15: Sanctioned fleet profile**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/sanctpro.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/sanctpro.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/sanctpro.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/sanctpro.png)
 
 Loadings on OFAC, EU and UK listed vessels have steadily declined over the last couple of years, with a steeper decline in recent months after additional vessels have been added to the lists.
 

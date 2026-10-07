@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "ed53424f-627d-47b5-a010-a6862f0d4e60"
 images_count: 17
-local_pdf: "../pdfs/2024/2024-08-14_fearnleys-tanker-market-wrap-up-julaug-2024.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/report.pdf"
 ---
 # Fearnleys Tanker Market Wrap-up Jul/Aug 2024
 
 **Date:** 2024-08-14 | **Department:** TANK | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2024/2024-08-14_fearnleys-tanker-market-wrap-up-julaug-2024.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/report.pdf)  
 
 ---
 
@@ -31,7 +30,7 @@ Recent macro worries with the reversal of the JPY carry trade after the BOJ's ra
 ![Rates and forecast](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/rate.png)
 
 > **Figure 1: Rates and forecast**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/rate.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/rate.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/rate.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/rate.png)
 
 
 ### Recent market development
@@ -48,13 +47,13 @@ For Suezmaxes, the decline in earnings has been about similar, despite tonne-mil
 ![VLCC tonne-mile demand](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/tmv.png)
 
 > **Figure 2: VLCC tonne-mile demand**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/tmv.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/tmv.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/tmv.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/tmv.png)
 
 
 ![Suezmax tonne-mile demand](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/tms.png)
 
 > **Figure 3: Suezmax tonne-mile demand**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/tms.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/tms.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/tms.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/tms.png)
 
 The earnings decline is similar also for Aframaxes, following a 3.1% dip in tonne-miles, whereas LR2s have fared much better with earnings up by nearly $15k/d y/y  following a 9.7% YTD increase in tonne-miles. Looking at these two combined, which is more appropriate given the switching flexibility, we see fleet growth YTD of 1.5% vs. tonne-mile growth of 3.2% - which also rhymes with the overall increase in earnings between them. 
 
@@ -64,13 +63,13 @@ For MRs tonne-mile demand of 3.2% has also outpaced fleet growth of 0.9% which c
 ![Afra/LR2 tonne-mile demand](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/tma.png)
 
 > **Figure 4: Afra/LR2 tonne-mile demand**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/tma.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/tma.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/tma.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/tma.png)
 
 
 ![MR/Handy tonne-mile demand](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/tmm.png)
 
 > **Figure 5: MR/Handy tonne-mile demand**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/tmm.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/tmm.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/tmm.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/tmm.png)
 
 
 ### Oil market
@@ -85,13 +84,13 @@ Through the remainder of this year, the IEA forecasts nearly 500 kbpd of supply 
 ![Oil market balance](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/bal.png)
 
 > **Figure 6: Oil market balance**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/bal.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/bal.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/bal.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/bal.png)
 
 
 ![Brent 7-1 month forward spread](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/fwd.png)
 
 > **Figure 7: Brent 7-1 month forward spread**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/fwd.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/fwd.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/fwd.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/fwd.png)
 
 The geographical mismatch between global oil supply and demand growth is set to grow further, which should facilitate for increased West-East trade going forward. The IEA's latest estimates do show a narrowing of the supply/demand gap with slightly lower supply growth in the West (0.8 mbpd) and slightly lower demand estimates in the East (0.9 mbpd) this year vs. previous expectations - although the gap widens further next year (Western supply growth of 1.7 mbpd and Eastern demand growth of 0.8 mbpd). 
 
@@ -101,13 +100,13 @@ In line with this recent slight softening of Eastern and slight strengthening of
 ![Oil supply vs. demand growth by region](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/demsup.png)
 
 > **Figure 8: Oil supply vs. demand growth by region**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/demsup.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/demsup.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/demsup.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/demsup.png)
 
 
 ![Brent/WTI vs. Dubai pricing](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/arb.png)
 
 > **Figure 9: Brent/WTI vs. Dubai pricing**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/arb.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/arb.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/arb.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/arb.png)
 
 China's apparent oil demand figures were again slightly lower y/y in June, but YTD remain 3.8% higher vs. the same period last year. Refinery runs are down 1.5% and crude oil imports down 2.3%. There has thus been an implied stock build of nearly 1 mbpd YTD vs. 750 kbpd last year. 
 
@@ -127,7 +126,7 @@ The recent softening of product tanker rates is in large part explained by the c
 ![Refinery throughput](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/ref.png)
 
 > **Figure 10: Refinery throughput**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/ref.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/ref.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/ref.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/ref.png)
 
 
 ### Fleet growth outlook
@@ -140,7 +139,7 @@ Regardless, fleet growth for this and next year will remain historically low, fo
 ![Orderbook to fleet, current vs. historical](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/obfleet.png)
 
 > **Figure 11: Orderbook to fleet, current vs. historical**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/obfleet.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/obfleet.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/obfleet.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/obfleet.png)
 
 That said, there appears to be some rebalancing in the cards over the next year and a half, where fleet growth will be the lowest for VLCCs and Suezmaxes and highest for Afra/LR2s and MRs, which means that the outperformance of the latter two over the past few years will likely subside. Overall, gross product tanker fleet growth is scheduled to pick up to 5.5% next year, vs. 1.6% for crude tankers.  
 
@@ -150,13 +149,13 @@ From 2026 onwards fleet growth may become more meaningful, which means the marke
 ![Annual deliveries](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/dely.png)
 
 > **Figure 12: Annual deliveries**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/dely.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/dely.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/dely.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/dely.png)
 
 
 ![Orderbook vs. phase-out potential](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/obphas.png)
 
 > **Figure 13: Orderbook vs. phase-out potential**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/obphas.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/obphas.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/obphas.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/obphas.png)
 
 Ordering YTD has risen to an annualised pace which has only been surpassed a few year historically, while scrapping remains minimal. The 27m dwt which has already been ordered is nearly on par with last year's full year count of 28m. However, to accommodate for continued demand growth and the wall of phase-out candidates coming from the early 2000s newbuilding boom, ordering of such magnitude may be needed - not only now, but also going forward as eventually the oldest vessels will become obsolete, even from the shadow markets... 
 
@@ -166,13 +165,13 @@ Only two vessels have been confirmed scrapped this year, and while a handful mor
 ![Historical tanker ordering](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/yorder.png)
 
 > **Figure 14: Historical tanker ordering**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/yorder.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/yorder.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/yorder.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/yorder.png)
 
 
 ![Historical tanker phase-out](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/yscrap.png)
 
 > **Figure 15: Historical tanker phase-out**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/yscrap.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/yscrap.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/yscrap.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/yscrap.png)
 
 Already by 2026 nearly half the tanker fleet will be 15+ years old. While not relevant for phase-out, it does at least pose a challenge for those charterers who adhere to a strict 15 years age limit, and suggests these restrictions may be eased going forward. 
 
@@ -182,10 +181,10 @@ More relevant is the 20-25% of the fleet which will be 20+ years old in two year
 ![15+ years old vessels as % of total fleet](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/15.png)
 
 > **Figure 16: 15+ years old vessels as % of total fleet**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/15.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/15.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/15.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/15.png)
 
 
 ![20+ years old vessels as % of total fleet](../images/ed53424f-627d-47b5-a010-a6862f0d4e60/20.png)
 
 > **Figure 17: 20+ years old vessels as % of total fleet**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/20.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/20.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ed53424f-627d-47b5-a010-a6862f0d4e60/20.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ed53424f-627d-47b5-a010-a6862f0d4e60/20.png)

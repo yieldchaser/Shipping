@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "afbebada-a565-491d-a70d-11ac1790e6a0"
 images_count: 26
-local_pdf: "../pdfs/2026/2026-10-02_lng-shipping-quarterly-report-q3-2026.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/report.pdf"
 ---
 # LNG Shipping - Quarterly Report Q3 2026
 
 **Date:** 2026-10-02 | **Department:** LNG | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2026/2026-10-02_lng-shipping-quarterly-report-q3-2026.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/report.pdf)  
 
 ---
 
@@ -33,7 +32,7 @@ One liquefaction FID was reached at the very end of the quarter. Phase 2 of LNG 
 ![Spot charter rates and JKM](../images/afbebada-a565-491d-a70d-11ac1790e6a0/lng%20and%20spot.png)
 
 > **Figure 1: Spot charter rates and JKM**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/lng%20and%20spot.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/lng and spot.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/lng%20and%20spot.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/lng and spot.png)
 
 
 ## Charter Rates
@@ -50,37 +49,37 @@ One year charter rates declined steadily throughout the quarter, falling from th
 ![Two-stroke spot charter rates by region](../images/afbebada-a565-491d-a70d-11ac1790e6a0/spot%20by%20basin.png)
 
 > **Figure 2: Two-stroke spot charter rates by region**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/spot%20by%20basin.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/spot by basin.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/spot%20by%20basin.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/spot by basin.png)
 
 
 ![Average spot charter rates](../images/afbebada-a565-491d-a70d-11ac1790e6a0/spot%20svg.png)
 
 > **Figure 3: Average spot charter rates**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/spot%20svg.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/spot svg.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/spot%20svg.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/spot svg.png)
 
 
 ![1-year charter rates](../images/afbebada-a565-491d-a70d-11ac1790e6a0/1year.png)
 
 > **Figure 4: 1-year charter rates**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/1year.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/1year.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/1year.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/1year.png)
 
 
 ![Term charter rates (two-stroke)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/longterm.png)
 
 > **Figure 5: Term charter rates (two-stroke)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/longterm.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/longterm.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/longterm.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/longterm.png)
 
 
 ![Monthly spot charter rates (two-stroke)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/mnt%202str.png)
 
 > **Figure 6: Monthly spot charter rates (two-stroke)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/mnt%202str.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/mnt 2str.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/mnt%202str.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/mnt 2str.png)
 
 
 ![Quarterly spot charter rates (two-stroke)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/qtr%202str.png)
 
 > **Figure 7: Quarterly spot charter rates (two-stroke)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/qtr%202str.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/qtr 2str.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/qtr%202str.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/qtr 2str.png)
 
 
 ## Chartering Activity
@@ -101,31 +100,31 @@ All one year deals concluded during the quarter were for two stroke vessels, and
 ![Short-term fixture activity (< 3 years)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/shorttemr%20fixt.png)
 
 > **Figure 8: Short-term fixture activity (< 3 years)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/shorttemr%20fixt.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/shorttemr fixt.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/shorttemr%20fixt.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/shorttemr fixt.png)
 
 
 ![Short term fixtures by sublet vs independent owners](../images/afbebada-a565-491d-a70d-11ac1790e6a0/sub%20vs%20ind.png)
 
 > **Figure 9: Short term fixtures by sublet vs independent owners**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/sub%20vs%20ind.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/sub vs ind.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/sub%20vs%20ind.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/sub vs ind.png)
 
 
 ![Q3 short-term fixtures by propulsion and owner type](../images/afbebada-a565-491d-a70d-11ac1790e6a0/prop%20fixt.png)
 
 > **Figure 10: Q3 short-term fixtures by propulsion and owner type**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/prop%20fixt.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/prop fixt.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/prop%20fixt.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/prop fixt.png)
 
 
 ![Short-term fixtures in Q3 (count)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/q3%20count.png)
 
 > **Figure 11: Short-term fixtures in Q3 (count)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/q3%20count.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/q3 count.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/q3%20count.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/q3 count.png)
 
 
 ![Short-term fixtures in Q3 (fixed days)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/q3%20fixed%20days.png)
 
 > **Figure 12: Short-term fixtures in Q3 (fixed days)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/q3%20fixed%20days.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/q3 fixed days.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/q3%20fixed%20days.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/q3 fixed days.png)
 
 
 ## Trade Flows
@@ -144,49 +143,49 @@ The number of Panama Canal transits nearly doubled compared with Q2, reaching ar
 ![Quarterly loaded LNG](../images/afbebada-a565-491d-a70d-11ac1790e6a0/loaded%20q.png)
 
 > **Figure 13: Quarterly loaded LNG**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/loaded%20q.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/loaded q.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/loaded%20q.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/loaded q.png)
 
 
 ![Monthly loaded LNG](../images/afbebada-a565-491d-a70d-11ac1790e6a0/loaded%20m.png)
 
 > **Figure 14: Monthly loaded LNG**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/loaded%20m.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/loaded m.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/loaded%20m.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/loaded m.png)
 
 
 ![Global tonne-miles](../images/afbebada-a565-491d-a70d-11ac1790e6a0/tmi.png)
 
 > **Figure 15: Global tonne-miles**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/tmi.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/tmi.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/tmi.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/tmi.png)
 
 
 ![Tonne-miles by propulsion (Q1-Q3)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/q1%20to%20q3%20tmi%20by%20prop.png)
 
 > **Figure 16: Tonne-miles by propulsion (Q1-Q3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/q1%20to%20q3%20tmi%20by%20prop.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/q1 to q3 tmi by prop.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/q1%20to%20q3%20tmi%20by%20prop.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/q1 to q3 tmi by prop.png)
 
 
 ![Destination of US LNG](../images/afbebada-a565-491d-a70d-11ac1790e6a0/us%20lng%20abs.png)
 
 > **Figure 17: Destination of US LNG**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/us%20lng%20abs.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/us lng abs.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/us%20lng%20abs.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/us lng abs.png)
 
 
 ![Destination of US LNG, share](../images/afbebada-a565-491d-a70d-11ac1790e6a0/dest%20us%20lng.png)
 
 > **Figure 18: Destination of US LNG, share**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/dest%20us%20lng.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/dest us lng.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/dest%20us%20lng.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/dest us lng.png)
 
 
 ![Q3 2025 vs 2026 by exporting country](../images/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall.png)
 
 > **Figure 19: Q3 2025 vs 2026 by exporting country**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall.png)
 
 
 ![Q3 2025 vs 2026 by importing country](../images/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall%20imp%20new.png)
 
 > **Figure 20: Q3 2025 vs 2026 by importing country**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall%20imp%20new.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall imp new.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall%20imp%20new.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall imp new.png)
 
 
 ## LNGC Fleet
@@ -195,7 +194,7 @@ The number of Panama Canal transits nearly doubled compared with Q2, reaching ar
 ![LNGC fleet by status](../images/afbebada-a565-491d-a70d-11ac1790e6a0/status.png)
 
 > **Figure 21: LNGC fleet by status**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/status.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/status.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/status.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/status.png)
 
 There are currently around 90 LNGCs over 20 years of age, of which approximately 30 are estimated to be idle. We expected higher scrapping activity this year, but the stronger charter market earlier in the year appears to have delayed retirement decisions. However, the period of stronger earnings has done little to improve employment prospects for steam turbines. Steam turbine tonne miles during the first nine months of the year were 23% lower than in the same period last year, and utilization of older vessels continues to deteriorate.
 
@@ -205,25 +204,25 @@ While scrapping activity has remained limited, several transactions completed du
 ![LNGC orders](../images/afbebada-a565-491d-a70d-11ac1790e6a0/orders.png)
 
 > **Figure 22: LNGC orders**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/orders.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/orders.png)
 
 
 ![LNGC deliveries](../images/afbebada-a565-491d-a70d-11ac1790e6a0/deliveries.png)
 
 > **Figure 23: LNGC deliveries**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/deliveries.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/deliveries.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/deliveries.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/deliveries.png)
 
 
 ![LNGC newbuild prices](../images/afbebada-a565-491d-a70d-11ac1790e6a0/nbprice.png)
 
 > **Figure 24: LNGC newbuild prices**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/nbprice.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/nbprice.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/nbprice.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/nbprice.png)
 
 
 ![Orderbook by yard](../images/afbebada-a565-491d-a70d-11ac1790e6a0/ob%20yard.png)
 
 > **Figure 25: Orderbook by yard**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/ob%20yard.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/ob yard.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/ob%20yard.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/ob yard.png)
 
 
 ## Outlook
@@ -240,4 +239,4 @@ Several liquefaction projects are approaching FID, while global LNG demand is ex
 ![Ships needed vs fleet count (with current orderbook and estimated number of ships leaving the trading fleet)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/balance%20new.png)
 
 > **Figure 26: Ships needed vs fleet count (with current orderbook and estimated number of ships leaving the trading fleet)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/balance%20new.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/balance new.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/balance%20new.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/balance new.png)

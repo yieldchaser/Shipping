@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "70828f3a-f901-4d80-be14-16919023cbaf"
 images_count: 7
-local_pdf: "../pdfs/2025/2025-10-09_lng-fsru-report-q325.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/report.pdf"
 ---
 # FSRU Quarterly - Q3/25
 
 **Date:** 2025-10-09 | **Department:** LNG | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2025/2025-10-09_lng-fsru-report-q325.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/report.pdf)  
 
 ---
 
@@ -43,13 +42,13 @@ Now, one would be prone to look for alternative rapidly growing markets with sim
 ![Installed PV capacity: Europe and Brazil still feels "exponential"](../images/70828f3a-f901-4d80-be14-16919023cbaf/PV_BRAZIL_EUROPE_Q325.png)
 
 > **Figure 1: Installed PV capacity: Europe and Brazil still feels "exponential"**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70828f3a-f901-4d80-be14-16919023cbaf/PV_BRAZIL_EUROPE_Q325.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/PV_BRAZIL_EUROPE_Q325.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/70828f3a-f901-4d80-be14-16919023cbaf/PV_BRAZIL_EUROPE_Q325.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/PV_BRAZIL_EUROPE_Q325.png)
 
 
 ![Installed PV capacity: Latent demand from rapidly growing markets](../images/70828f3a-f901-4d80-be14-16919023cbaf/PV_EMERGING_Q325.png)
 
 > **Figure 2: Installed PV capacity: Latent demand from rapidly growing markets**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70828f3a-f901-4d80-be14-16919023cbaf/PV_EMERGING_Q325.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/PV_EMERGING_Q325.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/70828f3a-f901-4d80-be14-16919023cbaf/PV_EMERGING_Q325.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/PV_EMERGING_Q325.png)
 
 
 ### FSRU activity and volumes
@@ -64,13 +63,13 @@ The pace at which FSRUs are gathering operational momentum may be lost on the ge
 ![Global volumes imported through FSRUs (2022-2025YTD)](../images/70828f3a-f901-4d80-be14-16919023cbaf/Global_by_year_Q325.png)
 
 > **Figure 3: Global volumes imported through FSRUs (2022-2025YTD)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70828f3a-f901-4d80-be14-16919023cbaf/Global_by_year_Q325.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/Global_by_year_Q325.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/70828f3a-f901-4d80-be14-16919023cbaf/Global_by_year_Q325.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/Global_by_year_Q325.png)
 
 
 ![Monthly volumes imported through FSRUs by region (2025)](../images/70828f3a-f901-4d80-be14-16919023cbaf/Monthly_by_region_Q325.png)
 
 > **Figure 4: Monthly volumes imported through FSRUs by region (2025)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70828f3a-f901-4d80-be14-16919023cbaf/Monthly_by_region_Q325.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/Monthly_by_region_Q325.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/70828f3a-f901-4d80-be14-16919023cbaf/Monthly_by_region_Q325.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/Monthly_by_region_Q325.png)
 
 
 ### Recent FSRU Project Developments
@@ -82,7 +81,7 @@ The pace at which FSRUs are gathering operational momentum may be lost on the ge
 ![Fsru Global Map 2](../images/70828f3a-f901-4d80-be14-16919023cbaf/FSRU_GLOBAL_MAP_2.jpg)
 
 > **Figure 5: Fsru Global Map 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70828f3a-f901-4d80-be14-16919023cbaf/FSRU_GLOBAL_MAP_2.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/FSRU_GLOBAL_MAP_2.jpg)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/70828f3a-f901-4d80-be14-16919023cbaf/FSRU_GLOBAL_MAP_2.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/FSRU_GLOBAL_MAP_2.jpg)
 
 As the FSRU market is by and large sold out there are limited units moving around (which is in many ways good).
 
@@ -103,13 +102,13 @@ Additionally, the **ENERGOS WINTER** arrived at Damietta, Egypt late-Sep and is 
 ![FSRU conversion candidates: Secondhand values](../images/70828f3a-f901-4d80-be14-16919023cbaf/SH_Values.png)
 
 > **Figure 6: FSRU conversion candidates: Secondhand values**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70828f3a-f901-4d80-be14-16919023cbaf/SH_Values.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/SH_Values.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/70828f3a-f901-4d80-be14-16919023cbaf/SH_Values.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/SH_Values.png)
 
 
 ![FSRU Newbuild prices](../images/70828f3a-f901-4d80-be14-16919023cbaf/NB_Values.png)
 
 > **Figure 7: FSRU Newbuild prices**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70828f3a-f901-4d80-be14-16919023cbaf/NB_Values.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/NB_Values.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/70828f3a-f901-4d80-be14-16919023cbaf/NB_Values.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70828f3a-f901-4d80-be14-16919023cbaf/NB_Values.png)
 
 The FSRU market remains virtually sold out and we continue to see 2026 as a very active year for project developers and FSRU players alike. The width of type of projects (national security, private initiatives and a healthy mix of grid and power) suggests a decent part of the pipeline will materialize. The skepticism and conservativism of the FSRU providers appears to show a few slight cracks - benefitting the supply/demand balance. We hear a few speculative regas positions and pre-engineering in the works to shorten lead times. We also see more S&P transactions as conversion candidates needs to be secured. Prices for donor vessels have not stopped the drop and discussions on STs (138k-145k) are ranging between low-20s and high-30s while larger DFDE/TFDEs (160k-174k) are a much wider range. While some projects only need the "cheap and cheerful" FSRU, there has been a notable trend shift towards larger and more modern conversion candidates in our discussions.
 

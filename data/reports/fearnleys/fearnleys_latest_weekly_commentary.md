@@ -4,13 +4,13 @@ source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 41
 date_range: "2026-10-07 to 2026-10-07"
-comments_count: 5
+comments_count: 7
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-07 12:02:15"
+generated_at: "2026-10-07 14:39:58"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 41, 2026
-*Coverage Period: 2026-10-07 to 2026-10-07 | Total Notes: 5*
+*Coverage Period: 2026-10-07 to 2026-10-07 | Total Notes: 7*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 41 (2026).
@@ -20,6 +20,20 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 **Date:** 2026-10-07 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
 
 This week on Capesize, major trade routes in general have seen noticeable decline as Chinese National Holidays combined with a dip in Iron Ore prices sees less trading and weaker demand in certain regions. On C5 we saw slow activity early week with levels in the low USD 14s. Today tells a different story, with markets showing signs of improvement, triggering a flurry of fixtures for 2H October laycans ex Australia. So far today we have seen approximately 17 Pacific fixtures ranging from low USD 14s to mid-high 14 levels, with highest done at USD 14.7. On C3 Brazil/China however, recovery yet to be seen. The Baltic indicates a further dip on C3 to USD 34.66 as limited fresh activity combined with long tonnage lists head for Brazil. Owners have mostly remained quiet so far today, as many wait and watch the market - with hope of stabilization as seen in the Pacific. Some offers seen in the USD 35s and rumors of a fixture at USD 34.20 was reported this morning for an early November laycan. While FFAs show overall improvement, C3 remains bearish with limited fresh activity near term, while Pacific C5 regains traction, overtaking C3 as the higher daily earner.  Daily Earnings (TCE) C5: 34860 vs C3: 31183
+
+---
+
+### Panamax Weekly Comment
+**Date:** 2026-10-07 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
+
+The Panamax market has traded broadly sideways through Golden Week in China, with the latest BPI gains pointing to selective firming rather than a sustained recovery. In the Atlantic, fresh NCSA grain inquiry is supporting TA business and October ECSA positions remain relatively tight, while FH activity is quieter and bid–offer spreads remain wide. The Pacific has regained some momentum on Aussie and NoPac business, although limited Indo inquiry continues to restrain the southern market. Period interest persists, and the FFA curve has firmed at the front end, but its discount into next year argues for a measured outlook; our in-house shipment research shows stronger Atlantic coal and Pacific grain flows against weaker Indian Ocean volumes, suggesting a position-led market rather than uniform tightening across both basins.
+
+---
+
+### Supramax Weekly Comment
+**Date:** 2026-10-07 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
+
+The Handy market has remained strong across both basins, where we see numerous strong fixtures for both transatlantic and transpacific trips. Still seeing a healthy amount of short-period and multiple laden-leg fixtures at healthy levels, with owners eager to fixing out whilst holding firm on rates.  The Supra- and Ultramax market softened a touch in terms of longer periods, but owners are still generally holding firm and rather fixing trips than caving to softer numbers. Despite newly set sanctions by the US, the Supra- and Ultramaxes have been heavily supported by scrap out of ARAG to East Mediterranean and managed to keep a balanced supply and demand.
 
 ---
 

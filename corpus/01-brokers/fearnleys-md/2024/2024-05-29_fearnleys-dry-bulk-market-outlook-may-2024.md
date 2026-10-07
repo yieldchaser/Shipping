@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "e60b724c-82f8-4d9b-b6eb-cf4d14f273ab"
 images_count: 29
-local_pdf: "../pdfs/2024/2024-05-29_fearnleys-dry-bulk-market-outlook-may-2024.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/report.pdf"
 ---
 # Fearnleys Dry Bulk Market Outlook
 
 **Date:** 2024-05-29 | **Department:** BULK | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2024/2024-05-29_fearnleys-dry-bulk-market-outlook-may-2024.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/report.pdf)  
 
 ---
 
@@ -28,13 +27,13 @@ All in all, we maintain our general view of a bullish 2024, a slightly lower mar
 ![Earnings Forecasts](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Rate%20forecasts.png)
 
 > **Figure 1: Earnings Forecasts**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Rate%20forecasts.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Rate forecasts.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Rate%20forecasts.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Rate forecasts.png)
 
 
 ![BDI by Year](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/bdi%20by%20year%202.png)
 
 > **Figure 2: BDI by Year**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/bdi%20by%20year%202.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/bdi by year 2.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/bdi%20by%20year%202.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/bdi by year 2.png)
 
 
 ## SUPPLY OUTLOOK
@@ -93,37 +92,37 @@ Handysize 25-50kdwt         9.2%
 ![Total Fleet Growth Including Estimate](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/total%20fleet%20growth.png)
 
 > **Figure 3: Total Fleet Growth Including Estimate**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/total%20fleet%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/total fleet growth.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/total%20fleet%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/total fleet growth.png)
 
 
 ![Cape/Newc Fleet Growth Including Estimate](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/capesize%20fleet%20growth.png)
 
 > **Figure 4: Cape/Newc Fleet Growth Including Estimate**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/capesize%20fleet%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/capesize fleet growth.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/capesize%20fleet%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/capesize fleet growth.png)
 
 
 ![VLOC Fleet Growth Including Estimate](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/vloc%20fleet%20growth.png)
 
 > **Figure 5: VLOC Fleet Growth Including Estimate**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/vloc%20fleet%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/vloc fleet growth.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/vloc%20fleet%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/vloc fleet growth.png)
 
 
 ![Panamax/Kamsarmax Fleet Growth Including Estimate](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax%20fleet%20growth.png)
 
 > **Figure 6: Panamax/Kamsarmax Fleet Growth Including Estimate**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax%20fleet%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax fleet growth.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax%20fleet%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax fleet growth.png)
 
 
 ![Supramax/Ultramax Fleet Growth Including Estimate](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax%20fleet%20growth.png)
 
 > **Figure 7: Supramax/Ultramax Fleet Growth Including Estimate**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax%20fleet%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax fleet growth.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax%20fleet%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax fleet growth.png)
 
 
 ![Handysize Fleet Growth Including Estimate](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize%20fleet%20growth.png)
 
 > **Figure 8: Handysize Fleet Growth Including Estimate**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize%20fleet%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize fleet growth.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize%20fleet%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize fleet growth.png)
 
 
 ## PERIOD RATES AND ASSET VALUES
@@ -146,25 +145,25 @@ We believe 1 year time charter rates will make year-to-date highs for all segmen
 ![Capesize 1 Year TC vs Capesize 10 Year Old](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/cape1yr%20tc%20vs%20asset.png)
 
 > **Figure 9: Capesize 1 Year TC vs Capesize 10 Year Old**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/cape1yr%20tc%20vs%20asset.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/cape1yr tc vs asset.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/cape1yr%20tc%20vs%20asset.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/cape1yr tc vs asset.png)
 
 
 ![Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax%201%20yr%20tc%20vs%20asset.png)
 
 > **Figure 10: Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax%201%20yr%20tc%20vs%20asset.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax 1 yr tc vs asset.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax%201%20yr%20tc%20vs%20asset.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax 1 yr tc vs asset.png)
 
 
 ![Supramax 1 Year TC vs Supramax 10 Year Old](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax%201%20yr%20tc%20vs%20asset.png)
 
 > **Figure 11: Supramax 1 Year TC vs Supramax 10 Year Old**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax%201%20yr%20tc%20vs%20asset.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax 1 yr tc vs asset.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax%201%20yr%20tc%20vs%20asset.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax 1 yr tc vs asset.png)
 
 
 ![Handysize 1 Year TC vs Handysize 10 Year Old](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize%201yr%20tc%20vs%20asset.png)
 
 > **Figure 12: Handysize 1 Year TC vs Handysize 10 Year Old**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize%201yr%20tc%20vs%20asset.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize 1yr tc vs asset.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize%201yr%20tc%20vs%20asset.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize 1yr tc vs asset.png)
 
 
 ### Asset Values vs Spot Earnings Averages
@@ -173,25 +172,25 @@ We believe 1 year time charter rates will make year-to-date highs for all segmen
 ![Capesize 6 Months Spot Market Average (Moved 3 Months Forward) vs Capesize 10 Year Old](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/cape%20spot%20lead.png)
 
 > **Figure 13: Capesize 6 Months Spot Market Average (Moved 3 Months Forward) vs Capesize 10 Year Old**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/cape%20spot%20lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/cape spot lead.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/cape%20spot%20lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/cape spot lead.png)
 
 
 ![Kamsarmax 6 Months Spot Market Average (Moved 3 Months Forward) vs Kamsarmax 10 Year Old](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax%20spot%20lead.png)
 
 > **Figure 14: Kamsarmax 6 Months Spot Market Average (Moved 3 Months Forward) vs Kamsarmax 10 Year Old**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax%20spot%20lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax spot lead.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax%20spot%20lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax spot lead.png)
 
 
 ![Supramax 6 Months Spot Market Average (Moved 3 Months Forward) vs Supramax 10 Year Old](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax%20spot%20lead.png)
 
 > **Figure 15: Supramax 6 Months Spot Market Average (Moved 3 Months Forward) vs Supramax 10 Year Old**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax%20spot%20lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax spot lead.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax%20spot%20lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax spot lead.png)
 
 
 ![Handysize 6 Months Spot Market Average (Moved 3 Months Forward) vs Handysize  10 Year Old](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize%20spot%20lead.png)
 
 > **Figure 16: Handysize 6 Months Spot Market Average (Moved 3 Months Forward) vs Handysize  10 Year Old**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize%20spot%20lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize spot lead.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize%20spot%20lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize spot lead.png)
 
 
 ### Asset Values vs Commodity Prices
@@ -202,25 +201,25 @@ The below chart displays the close correlation between commodity prices and dry 
 ![Gold Price (Moved Forward 1 Year) vs Industrial Metals Price Index](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold%20vs%20Industrial%20Metals.png)
 
 > **Figure 17: Gold Price (Moved Forward 1 Year) vs Industrial Metals Price Index**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold%20vs%20Industrial%20Metals.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold vs Industrial Metals.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold%20vs%20Industrial%20Metals.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold vs Industrial Metals.png)
 
 
 ![Gold Price (Moved Forward 1 Year) vs Supramax/Ultramax 10 Year Old](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold%20vs%20Ultramax.png)
 
 > **Figure 18: Gold Price (Moved Forward 1 Year) vs Supramax/Ultramax 10 Year Old**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold%20vs%20Ultramax.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold vs Ultramax.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold%20vs%20Ultramax.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold vs Ultramax.png)
 
 
 ![Industrial Metals Price Index (Moved Forward 6 Months) vs Supramax/Ultramax 10 Year Old](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Industrial%20Metals%20vs%20Supramax%2010%20Year%20Old.png)
 
 > **Figure 19: Industrial Metals Price Index (Moved Forward 6 Months) vs Supramax/Ultramax 10 Year Old**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Industrial%20Metals%20vs%20Supramax%2010%20Year%20Old.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Industrial Metals vs Supramax 10 Year Old.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Industrial%20Metals%20vs%20Supramax%2010%20Year%20Old.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Industrial Metals vs Supramax 10 Year Old.png)
 
 
 ![Gold Price (Moved Forward 1 Year) vs Brent Oil Price](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold%20vs%20Oil.png)
 
 > **Figure 20: Gold Price (Moved Forward 1 Year) vs Brent Oil Price**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold%20vs%20Oil.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold vs Oil.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold%20vs%20Oil.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Gold vs Oil.png)
 
 
 ## TRADE FLOWS
@@ -304,31 +303,31 @@ Total Minor Bulks: 3.5%
 ![Total Ton-Time Growth vs Supply Growth](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/total%20ton%20time%20growth.png)
 
 > **Figure 21: Total Ton-Time Growth vs Supply Growth**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/total%20ton%20time%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/total ton time growth.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/total%20ton%20time%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/total ton time growth.png)
 
 
 ![Capesize/Newcastlemax Ton-Time Growth vs Supply Growth](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/capenewc%20tontime%20vs%20supply.png)
 
 > **Figure 22: Capesize/Newcastlemax Ton-Time Growth vs Supply Growth**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/capenewc%20tontime%20vs%20supply.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/capenewc tontime vs supply.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/capenewc%20tontime%20vs%20supply.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/capenewc tontime vs supply.png)
 
 
 ![Panamax/Kamsarmax Ton-Time Growth vs Supply Growth](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax%20market%20balance.png)
 
 > **Figure 23: Panamax/Kamsarmax Ton-Time Growth vs Supply Growth**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax%20market%20balance.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax market balance.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax%20market%20balance.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/panamax market balance.png)
 
 
 ![Supramax/Ultramax Ton-Time Growth vs Supply Growth](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax%20market%20balance.png)
 
 > **Figure 24: Supramax/Ultramax Ton-Time Growth vs Supply Growth**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax%20market%20balance.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax market balance.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax%20market%20balance.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/supramax market balance.png)
 
 
 ![Handysize Ton-Time Growth vs Supply Growth](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize%20market%20balance.png)
 
 > **Figure 25: Handysize Ton-Time Growth vs Supply Growth**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize%20market%20balance.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize market balance.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize%20market%20balance.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/handysize market balance.png)
 
 
 ## MACRO ECONOMIC OUTLOOK
@@ -344,22 +343,22 @@ Before that period, fundamentals should be strong, however. It is likely that ea
 ![OECD Diffusion Index vs Baltic Dry Index Year on Year Change](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/oecd%20vs%20bdi.png)
 
 > **Figure 26: OECD Diffusion Index vs Baltic Dry Index Year on Year Change**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/oecd%20vs%20bdi.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/oecd vs bdi.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/oecd%20vs%20bdi.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/oecd vs bdi.png)
 
 
 ![Economic Growth Index (Moved Forward 3 Months) vs BDI 6 Months Average](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Economic%20Growth%20Index%20vs%20BDI.png)
 
 > **Figure 27: Economic Growth Index (Moved Forward 3 Months) vs BDI 6 Months Average**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Economic%20Growth%20Index%20vs%20BDI.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Economic Growth Index vs BDI.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Economic%20Growth%20Index%20vs%20BDI.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Economic Growth Index vs BDI.png)
 
 
 ![China Bulk Commodity Imports Growth (Moved 1 Year Forward) vs OECD Economic Indicator for G-20 Countries](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/China%20bulk%20imports%20lead%20vs%20OECD.png)
 
 > **Figure 28: China Bulk Commodity Imports Growth (Moved 1 Year Forward) vs OECD Economic Indicator for G-20 Countries**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/China%20bulk%20imports%20lead%20vs%20OECD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/China bulk imports lead vs OECD.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/China%20bulk%20imports%20lead%20vs%20OECD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/China bulk imports lead vs OECD.png)
 
 
 ![Coal, Gas and Oil 18 Months Change (Moved 18 Months Forward) vs Baltic Dry Index Year on Year](../images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Energy%20vs%20BDI.png)
 
 > **Figure 29: Coal, Gas and Oil 18 Months Change (Moved 18 Months Forward) vs Baltic Dry Index Year on Year**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Energy%20vs%20BDI.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Energy vs BDI.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Energy%20vs%20BDI.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e60b724c-82f8-4d9b-b6eb-cf4d14f273ab/Energy vs BDI.png)

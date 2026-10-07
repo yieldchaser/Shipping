@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "f1b56dc0-0df6-4717-8893-895ba397a8f2"
 images_count: 12
-local_pdf: "../pdfs/2026/2026-01-07_fearnleys-dry-bulk-weekly-7th-january-2026.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/report.pdf"
 ---
 # Fearnleys Dry Bulk Weekly
 
 **Date:** 2026-01-07 | **Department:** BULK | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2026/2026-01-07_fearnleys-dry-bulk-weekly-7th-january-2026.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/report.pdf)  
 
 ---
 
@@ -30,25 +29,25 @@ The ratio between Capes and Kamsarmaxes remains quite high, which, along with a 
 ![Share of Profitable Steel Mills (7 Weeks Lead) vs Hot Metal Output](../images/f1b56dc0-0df6-4717-8893-895ba397a8f2/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png)
 
 > **Figure 1: Share of Profitable Steel Mills (7 Weeks Lead) vs Hot Metal Output**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
 
 
 ![Iron Ore Futures Spread, 1st Month Minus 3rd Month (3 Months Lead) vs BCI5TC 60 Days Rolling Average](../images/f1b56dc0-0df6-4717-8893-895ba397a8f2/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png)
 
 > **Figure 2: Iron Ore Futures Spread, 1st Month Minus 3rd Month (3 Months Lead) vs BCI5TC 60 Days Rolling Average**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/IRON ORE FUTURES LEAD VS CAPE.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/IRON ORE FUTURES LEAD VS CAPE.png)
 
 
 ![Copper Price Lead vs Capesize 10-Year Old](../images/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER%20PRICE%20LEAD%20VS%20CAPESIZE%2010%20YEAR%20OLD.png)
 
 > **Figure 3: Copper Price Lead vs Capesize 10-Year Old**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER%20PRICE%20LEAD%20VS%20CAPESIZE%2010%20YEAR%20OLD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER PRICE LEAD VS CAPESIZE 10 YEAR OLD.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER%20PRICE%20LEAD%20VS%20CAPESIZE%2010%20YEAR%20OLD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER PRICE LEAD VS CAPESIZE 10 YEAR OLD.png)
 
 
 ![Iron Ore Fines CFR China, 3 Months Lead vs BCI5TC](../images/f1b56dc0-0df6-4717-8893-895ba397a8f2/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png)
 
 > **Figure 4: Iron Ore Fines CFR China, 3 Months Lead vs BCI5TC**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png)
 
 
 ---
@@ -67,25 +66,25 @@ The indicators below suggest a rising market going forward in the next few weeks
 ![Copper Price Lead vs Kamsarmax 10 Year Old](../images/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER%20PRICE%20LEAD%20VS%20KAMSARMAX%2010%20YEAR%20OLD.png)
 
 > **Figure 5: Copper Price Lead vs Kamsarmax 10 Year Old**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER%20PRICE%20LEAD%20VS%20KAMSARMAX%2010%20YEAR%20OLD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER PRICE LEAD VS KAMSARMAX 10 YEAR OLD.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER%20PRICE%20LEAD%20VS%20KAMSARMAX%2010%20YEAR%20OLD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER PRICE LEAD VS KAMSARMAX 10 YEAR OLD.png)
 
 
 ![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../images/f1b56dc0-0df6-4717-8893-895ba397a8f2/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png)
 
 > **Figure 6: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/P5 vs Newcastle Coal Futures Spread Lead.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/P5 vs Newcastle Coal Futures Spread Lead.png)
 
 
 ![North Atlantic net Vessel Change vs P1A minus P5](../images/f1b56dc0-0df6-4717-8893-895ba397a8f2/p1a%20minus%20p5.png)
 
 > **Figure 7: North Atlantic net Vessel Change vs P1A minus P5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/p1a%20minus%20p5.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/p1a minus p5.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/p1a%20minus%20p5.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/p1a minus p5.png)
 
 
 ![South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6](../images/f1b56dc0-0df6-4717-8893-895ba397a8f2/P6%20vs%20SATL%20Tightness.png)
 
 > **Figure 8: South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/P6%20vs%20SATL%20Tightness.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/P6 vs SATL Tightness.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/P6%20vs%20SATL%20Tightness.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/P6 vs SATL Tightness.png)
 
 
 ---
@@ -104,22 +103,22 @@ We think the market drop is close to being done. Stable to firm outlook in the n
 ![Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC](../images/f1b56dc0-0df6-4717-8893-895ba397a8f2/3%20MONTHS%20CHANGE%20OF%20COPPER%20VS%203%20MONTHS%20CHANGE%20OF%20SUPRA%2010%20TC.png)
 
 > **Figure 9: Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/3%20MONTHS%20CHANGE%20OF%20COPPER%20VS%203%20MONTHS%20CHANGE%20OF%20SUPRA%2010%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/3%20MONTHS%20CHANGE%20OF%20COPPER%20VS%203%20MONTHS%20CHANGE%20OF%20SUPRA%2010%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png)
 
 
 ![Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change](../images/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
 
 > **Figure 10: Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
 
 
 ![Industrial Metals Index vs Ultramax 1 Year TC](../images/9318cc69-55a4-4e54-8555-c8957db7e395/Industrial%20Metals%20Index%20vs%20Ultramax%201%20Year%20TC.png)
 
 > **Figure 11: Industrial Metals Index vs Ultramax 1 Year TC**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/9318cc69-55a4-4e54-8555-c8957db7e395/Industrial%20Metals%20Index%20vs%20Ultramax%201%20Year%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/9318cc69-55a4-4e54-8555-c8957db7e395/Industrial Metals Index vs Ultramax 1 Year TC.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/9318cc69-55a4-4e54-8555-c8957db7e395/Industrial%20Metals%20Index%20vs%20Ultramax%201%20Year%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/9318cc69-55a4-4e54-8555-c8957db7e395/Industrial Metals Index vs Ultramax 1 Year TC.png)
 
 
 ![Copper Price Lead vs Supramax 10-Year Old](../images/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER%20PRICE%20LEAD%20VS%20SUPRAMAX%2010%20YEAR%20OLD.png)
 
 > **Figure 12: Copper Price Lead vs Supramax 10-Year Old**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER%20PRICE%20LEAD%20VS%20SUPRAMAX%2010%20YEAR%20OLD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER PRICE LEAD VS SUPRAMAX 10 YEAR OLD.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER%20PRICE%20LEAD%20VS%20SUPRAMAX%2010%20YEAR%20OLD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f1b56dc0-0df6-4717-8893-895ba397a8f2/COPPER PRICE LEAD VS SUPRAMAX 10 YEAR OLD.png)

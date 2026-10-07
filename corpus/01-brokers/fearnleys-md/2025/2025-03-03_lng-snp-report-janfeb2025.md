@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "f17a6927-c7e2-4e86-8c98-c5fcba7f3140"
 images_count: 12
-local_pdf: "../pdfs/2025/2025-03-03_lng-snp-report-janfeb2025.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/report.pdf"
 ---
 # LNG SnP report - January & February
 
 **Date:** 2025-03-03 | **Department:** LNG | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2025/2025-03-03_lng-snp-report-janfeb2025.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/report.pdf)  
 
 ---
 
@@ -29,19 +28,19 @@ The market outlook remains cautiously optimistic, though. Activity in recent mon
 ![Recent sales](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest%20sales.png)
 
 > **Figure 1: Recent sales**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest%20sales.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest sales.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest%20sales.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest sales.png)
 
 
 ![Yearly sales](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20sales.png)
 
 > **Figure 2: Yearly sales**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20sales.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly sales.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20sales.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly sales.png)
 
 
 ![Asset values](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/asset%20values.png)
 
 > **Figure 3: Asset values**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/asset%20values.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/asset values.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/asset%20values.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/asset values.png)
 
 
 ## Newbuilding update
@@ -52,19 +51,19 @@ The newbuilding market in general has started the year with a lack of inertia, i
 ![Recent orders](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest%20orders.png)
 
 > **Figure 4: Recent orders**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest%20orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest orders.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest%20orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest orders.png)
 
 
 ![Deliveries incl. orderbook](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20deliveries.png)
 
 > **Figure 5: Deliveries incl. orderbook**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20deliveries.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly deliveries.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20deliveries.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly deliveries.png)
 
 
 ![LNGC orders](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20orders.png)
 
 > **Figure 6: LNGC orders**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly orders.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly orders.png)
 
 
 ## Interest rates
@@ -77,13 +76,13 @@ A number of central banks have already commenced interest rate cuts (US, Eurozon
 ![Interest rate (90 day avg. SOFR)](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/sofr.png)
 
 > **Figure 7: Interest rate (90 day avg. SOFR)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/sofr.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/sofr.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/sofr.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/sofr.png)
 
 
 ![10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/10y2y.png)
 
 > **Figure 8: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/10y2y.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/10y2y.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/10y2y.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/10y2y.png)
 
 
 ## Recycling
@@ -92,7 +91,7 @@ A number of central banks have already commenced interest rate cuts (US, Eurozon
 ![Demolition price (large tanker)](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/demo%20price.png)
 
 > **Figure 9: Demolition price (large tanker)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/demo%20price.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/demo price.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/demo%20price.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/demo price.png)
 
 
 ## World fleet at a glance
@@ -101,16 +100,16 @@ A number of central banks have already commenced interest rate cuts (US, Eurozon
 ![Live fleet by propulsion](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/live%20by%20prop.png)
 
 > **Figure 10: Live fleet by propulsion**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/live%20by%20prop.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/live by prop.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/live%20by%20prop.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/live by prop.png)
 
 
 ![Total fleet](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/fleet%20by%20status.png)
 
 > **Figure 11: Total fleet**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/fleet%20by%20status.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/fleet by status.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/fleet%20by%20status.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/fleet by status.png)
 
 
 ![LNGC fleet by propulsion and delivery year](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/by%20prop%20and%20delivery.png)
 
 > **Figure 12: LNGC fleet by propulsion and delivery year**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/by%20prop%20and%20delivery.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/by prop and delivery.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/by%20prop%20and%20delivery.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/by prop and delivery.png)

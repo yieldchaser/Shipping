@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "879763e2-3118-4a64-9f23-7362da6e1abd"
 images_count: 9
-local_pdf: "../pdfs/2025/2025-03-05_fearnleys-dry-bulk-weekly-5th-march-2025-1.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/report.pdf"
 ---
 # Fearnleys Dry Bulk Weekly
 
 **Date:** 2025-03-05 | **Department:** BULK | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2025/2025-03-05_fearnleys-dry-bulk-weekly-5th-march-2025-1.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/report.pdf)  
 
 ---
 
@@ -26,19 +25,19 @@ However, fundamentals are weighed down by iron ore inventories in China, weak ma
 ![Laden Capesize/Newcastlemax, by Year](../images/879763e2-3118-4a64-9f23-7362da6e1abd/LADEN%20CAPES%20NEWCS.png)
 
 > **Figure 1: Laden Capesize/Newcastlemax, by Year**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/LADEN%20CAPES%20NEWCS.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/LADEN CAPES NEWCS.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/LADEN%20CAPES%20NEWCS.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/LADEN CAPES NEWCS.png)
 
 
 ![VLOCs Waiting to Load in Brazil](../images/879763e2-3118-4a64-9f23-7362da6e1abd/VLOC%20BRAZIL%20CONGESTION.png)
 
 > **Figure 2: VLOCs Waiting to Load in Brazil**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/VLOC%20BRAZIL%20CONGESTION.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/VLOC BRAZIL CONGESTION.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/VLOC%20BRAZIL%20CONGESTION.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/VLOC BRAZIL CONGESTION.png)
 
 
 ![Iron Ore Price, 3 Months Lead vs BCI5TC](../images/879763e2-3118-4a64-9f23-7362da6e1abd/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png)
 
 > **Figure 3: Iron Ore Price, 3 Months Lead vs BCI5TC**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png)
 
 
 ## Panamax/Kamsarmax
@@ -51,19 +50,19 @@ The market is weak in both the Atlantic and the Pacific, so the seasonal correla
 ![Panamax / Kamsarmax Ballasting to Brazil or Argentina](../images/879763e2-3118-4a64-9f23-7362da6e1abd/panamax%20kamsarmax%20heading%20to%20brazil%20or%20argentina.png)
 
 > **Figure 4: Panamax / Kamsarmax Ballasting to Brazil or Argentina**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/panamax%20kamsarmax%20heading%20to%20brazil%20or%20argentina.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/panamax kamsarmax heading to brazil or argentina.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/panamax%20kamsarmax%20heading%20to%20brazil%20or%20argentina.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/panamax kamsarmax heading to brazil or argentina.png)
 
 
 ![Panamax / Kamsarmax Laden With Coal to China or India](../images/879763e2-3118-4a64-9f23-7362da6e1abd/PANAMAX%20KAMSARMAX%20HEADING%20TO%20CHINA%20OR%20INDIA%20WITH%20COAL.png)
 
 > **Figure 5: Panamax / Kamsarmax Laden With Coal to China or India**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/PANAMAX%20KAMSARMAX%20HEADING%20TO%20CHINA%20OR%20INDIA%20WITH%20COAL.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/PANAMAX KAMSARMAX HEADING TO CHINA OR INDIA WITH COAL.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/PANAMAX%20KAMSARMAX%20HEADING%20TO%20CHINA%20OR%20INDIA%20WITH%20COAL.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/PANAMAX KAMSARMAX HEADING TO CHINA OR INDIA WITH COAL.png)
 
 
 ![Kamsarmax Market Seasonality](../images/879763e2-3118-4a64-9f23-7362da6e1abd/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png)
 
 > **Figure 6: Kamsarmax Market Seasonality**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/PANAMAX KAMSARMAX SEASONAL AVERAGE.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/PANAMAX KAMSARMAX SEASONAL AVERAGE.png)
 
 
 ## Supramax/Ultramax
@@ -77,16 +76,16 @@ Seasonal correlations suggest the Ultramax index will reach around 13kpd this mo
 ![Copper Price Lead vs Supramax 1 Year TC 6 Months Change](../images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
 
 > **Figure 7: Copper Price Lead vs Supramax 1 Year TC 6 Months Change**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
 
 
 ![Supramax / Ultramax Market Seasonality](../images/879763e2-3118-4a64-9f23-7362da6e1abd/SUPRAMAX%20SEASONALITY.png)
 
 > **Figure 8: Supramax / Ultramax Market Seasonality**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/SUPRAMAX%20SEASONALITY.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/SUPRAMAX SEASONALITY.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/SUPRAMAX%20SEASONALITY.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/SUPRAMAX SEASONALITY.png)
 
 
 ![Laden Supramax/Ultramax Vessels, and Year on Year Change](../images/879763e2-3118-4a64-9f23-7362da6e1abd/LADEN%20SUPRAMAX%20ULTRAMAX.png)
 
 > **Figure 9: Laden Supramax/Ultramax Vessels, and Year on Year Change**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/LADEN%20SUPRAMAX%20ULTRAMAX.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/LADEN SUPRAMAX ULTRAMAX.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/879763e2-3118-4a64-9f23-7362da6e1abd/LADEN%20SUPRAMAX%20ULTRAMAX.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/879763e2-3118-4a64-9f23-7362da6e1abd/LADEN SUPRAMAX ULTRAMAX.png)

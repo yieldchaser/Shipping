@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "720efc6b-2f2b-44f6-8047-64f911ad0b31"
 images_count: 12
-local_pdf: "../pdfs/2025/2025-10-01_fearnleys-dry-bulk-weekly-24th-september-2025-13.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/report.pdf"
 ---
 # Fearnleys Dry Bulk Weekly
 
 **Date:** 2025-10-01 | **Department:** BULK | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2025/2025-10-01_fearnleys-dry-bulk-weekly-24th-september-2025-13.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/report.pdf)  
 
 ---
 
@@ -27,25 +26,25 @@ Regarding the BHP story, there could be fewer cargoes than usual for a short per
 ![Cape/Newc Ballaster/Laden Vessel Ratio](../images/720efc6b-2f2b-44f6-8047-64f911ad0b31/CAPENEWC%20BALLASTER%20LADEN%20VESSEL%20RATIO.png)
 
 > **Figure 1: Cape/Newc Ballaster/Laden Vessel Ratio**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/CAPENEWC%20BALLASTER%20LADEN%20VESSEL%20RATIO.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/CAPENEWC BALLASTER LADEN VESSEL RATIO.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/CAPENEWC%20BALLASTER%20LADEN%20VESSEL%20RATIO.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/CAPENEWC BALLASTER LADEN VESSEL RATIO.png)
 
 
 ![Iron Ore Futures Spread, 1st Month Minus 3rd Month (3 Months Lead) vs BCI5TC 60 Days Rolling Average](../images/720efc6b-2f2b-44f6-8047-64f911ad0b31/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png)
 
 > **Figure 2: Iron Ore Futures Spread, 1st Month Minus 3rd Month (3 Months Lead) vs BCI5TC 60 Days Rolling Average**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/IRON ORE FUTURES LEAD VS CAPE.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/IRON ORE FUTURES LEAD VS CAPE.png)
 
 
 ![China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output](../images/720efc6b-2f2b-44f6-8047-64f911ad0b31/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png)
 
 > **Figure 3: China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
 
 
 ![Cape/Newc Weekly Shipment Volumes 24 vs 25](../images/720efc6b-2f2b-44f6-8047-64f911ad0b31/Capenewc%20Weekly%20Shipment%20Volumes.png)
 
 > **Figure 4: Cape/Newc Weekly Shipment Volumes 24 vs 25**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/Capenewc%20Weekly%20Shipment%20Volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/Capenewc Weekly Shipment Volumes.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/Capenewc%20Weekly%20Shipment%20Volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/Capenewc Weekly Shipment Volumes.png)
 
 
 ---
@@ -60,25 +59,25 @@ Vessel supply in the South Atlantic has tightened, so if volumes increase, the m
 ![Panamax / Kamsarmax Ballasting to Argentina](../images/720efc6b-2f2b-44f6-8047-64f911ad0b31/Panamax%20Kamsarmax%20Ballasting%20to%20Argentina.png)
 
 > **Figure 5: Panamax / Kamsarmax Ballasting to Argentina**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/Panamax%20Kamsarmax%20Ballasting%20to%20Argentina.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/Panamax Kamsarmax Ballasting to Argentina.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/Panamax%20Kamsarmax%20Ballasting%20to%20Argentina.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/Panamax Kamsarmax Ballasting to Argentina.png)
 
 
 ![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../images/720efc6b-2f2b-44f6-8047-64f911ad0b31/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png)
 
 > **Figure 6: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/P5 vs Newcastle Coal Futures Spread Lead.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/P5 vs Newcastle Coal Futures Spread Lead.png)
 
 
 ![Panamax/Kamsarmax Ballasting to the US, 24 vs 25](../images/720efc6b-2f2b-44f6-8047-64f911ad0b31/PmxKmx%20AIS%20USA.png)
 
 > **Figure 7: Panamax/Kamsarmax Ballasting to the US, 24 vs 25**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/PmxKmx%20AIS%20USA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/PmxKmx AIS USA.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/PmxKmx%20AIS%20USA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/PmxKmx AIS USA.png)
 
 
 ![South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6](../images/720efc6b-2f2b-44f6-8047-64f911ad0b31/P6%20vs%20SATL%20Tightness.png)
 
 > **Figure 8: South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/P6%20vs%20SATL%20Tightness.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/P6 vs SATL Tightness.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/P6%20vs%20SATL%20Tightness.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/P6 vs SATL Tightness.png)
 
 
 ---
@@ -95,22 +94,22 @@ The divergence between the Atlantic and the Pacific keeps getting more extreme. 
 ![Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC](../images/a801a57f-cc13-49fd-9adb-090e7f39da40/3%20MONTHS%20CHANGE%20OF%20COPPER%20VS%203%20MONTHS%20CHANGE%20OF%20SUPRA%2010%20TC.png)
 
 > **Figure 9: Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/a801a57f-cc13-49fd-9adb-090e7f39da40/3%20MONTHS%20CHANGE%20OF%20COPPER%20VS%203%20MONTHS%20CHANGE%20OF%20SUPRA%2010%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a801a57f-cc13-49fd-9adb-090e7f39da40/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/a801a57f-cc13-49fd-9adb-090e7f39da40/3%20MONTHS%20CHANGE%20OF%20COPPER%20VS%203%20MONTHS%20CHANGE%20OF%20SUPRA%2010%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a801a57f-cc13-49fd-9adb-090e7f39da40/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png)
 
 
 ![Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
 
 > **Figure 10: Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
 
 
 ![Supramax 6TC 2006-2025](../images/a7b7d051-2b47-43c1-8e28-79f911978e1a/Supra6TC.png)
 
 > **Figure 11: Supramax 6TC 2006-2025**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/a7b7d051-2b47-43c1-8e28-79f911978e1a/Supra6TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a7b7d051-2b47-43c1-8e28-79f911978e1a/Supra6TC.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/a7b7d051-2b47-43c1-8e28-79f911978e1a/Supra6TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a7b7d051-2b47-43c1-8e28-79f911978e1a/Supra6TC.png)
 
 
 ![Supra/Ultra Ballaster/Laden Vessel Ratio](../images/720efc6b-2f2b-44f6-8047-64f911ad0b31/SUPRAMAX%20ULTRAMAX%20BALLASTER%20LADEN%20VESSEL%20RATIO.png)
 
 > **Figure 12: Supra/Ultra Ballaster/Laden Vessel Ratio**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/SUPRAMAX%20ULTRAMAX%20BALLASTER%20LADEN%20VESSEL%20RATIO.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/SUPRAMAX ULTRAMAX BALLASTER LADEN VESSEL RATIO.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/720efc6b-2f2b-44f6-8047-64f911ad0b31/SUPRAMAX%20ULTRAMAX%20BALLASTER%20LADEN%20VESSEL%20RATIO.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/720efc6b-2f2b-44f6-8047-64f911ad0b31/SUPRAMAX ULTRAMAX BALLASTER LADEN VESSEL RATIO.png)

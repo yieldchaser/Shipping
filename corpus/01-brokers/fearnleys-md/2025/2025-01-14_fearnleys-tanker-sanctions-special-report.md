@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "f13e2f1b-acc2-4517-83e4-79035eaf7553"
 images_count: 5
-local_pdf: "../pdfs/2025/2025-01-14_fearnleys-tanker-sanctions-special-report.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/f13e2f1b-acc2-4517-83e4-79035eaf7553/report.pdf"
 ---
 # Fearnleys Tanker Sanctions Special Report
 
 **Date:** 2025-01-14 | **Department:** TANK | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2025/2025-01-14_fearnleys-tanker-sanctions-special-report.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f13e2f1b-acc2-4517-83e4-79035eaf7553/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/f13e2f1b-acc2-4517-83e4-79035eaf7553/report.pdf)  
 
 ---
 
@@ -25,7 +24,7 @@ After more than three years of near total complacency, the Biden administration 
 ![Percentage share of 2024 global total](../images/f13e2f1b-acc2-4517-83e4-79035eaf7553/Share.png)
 
 > **Figure 1: Percentage share of 2024 global total**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f13e2f1b-acc2-4517-83e4-79035eaf7553/Share.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f13e2f1b-acc2-4517-83e4-79035eaf7553/Share.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f13e2f1b-acc2-4517-83e4-79035eaf7553/Share.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f13e2f1b-acc2-4517-83e4-79035eaf7553/Share.png)
 
 
 ### Tanker market impact
@@ -40,7 +39,7 @@ The little evidence so far suggests that OFAC sanctions are relatively effective
 ![Shadow market tonne-miles](../images/f13e2f1b-acc2-4517-83e4-79035eaf7553/shadowtm.png)
 
 > **Figure 2: Shadow market tonne-miles**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f13e2f1b-acc2-4517-83e4-79035eaf7553/shadowtm.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f13e2f1b-acc2-4517-83e4-79035eaf7553/shadowtm.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f13e2f1b-acc2-4517-83e4-79035eaf7553/shadowtm.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f13e2f1b-acc2-4517-83e4-79035eaf7553/shadowtm.png)
 
 The latest batch of OFAC sanctions includes183 vessels, of which 129 are (relevant) tankers: 4 VLCCs, 24 Suez, 75 Afra/LR2, 2 LR1s and 23 MR/Handy, which are on average built in 2008. The total OFAC list now includes nearly 400 (relevant) tankers: 91 VLCCs, 66 Suez, 145 Afra/LR2, 18 Pmax/LR1 and 68 MR/Handy. This equates to just below 10% of the total tanker fleet, split between nearly 12% of the crude tanker fleet and slightly more than 4% of product tankers. 20% of the ice class Aframax fleet is now sanctioned, and another about 30% will definitely not do Russian business, which may also givethe Russians some challenges this winter. 
 
@@ -58,7 +57,7 @@ The US also blacklisted Chinese state-owned operator Shandong United Energy Pipe
 ![OFAC listed tankers trade map](../images/f13e2f1b-acc2-4517-83e4-79035eaf7553/Capture.PNG)
 
 > **Figure 3: OFAC listed tankers trade map**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f13e2f1b-acc2-4517-83e4-79035eaf7553/Capture.PNG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f13e2f1b-acc2-4517-83e4-79035eaf7553/Capture.PNG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f13e2f1b-acc2-4517-83e4-79035eaf7553/Capture.PNG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f13e2f1b-acc2-4517-83e4-79035eaf7553/Capture.PNG)
 
 
 ### Oil market impact
@@ -79,13 +78,13 @@ An intriguing question is whether these new sanctions were coordinated with the 
 ![Brent 7-1 month forward spread](../images/f13e2f1b-acc2-4517-83e4-79035eaf7553/fwd.png)
 
 > **Figure 4: Brent 7-1 month forward spread**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f13e2f1b-acc2-4517-83e4-79035eaf7553/fwd.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f13e2f1b-acc2-4517-83e4-79035eaf7553/fwd.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f13e2f1b-acc2-4517-83e4-79035eaf7553/fwd.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f13e2f1b-acc2-4517-83e4-79035eaf7553/fwd.png)
 
 
 ![IEA oil market balance](../images/f13e2f1b-acc2-4517-83e4-79035eaf7553/balance.png)
 
 > **Figure 5: IEA oil market balance**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f13e2f1b-acc2-4517-83e4-79035eaf7553/balance.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f13e2f1b-acc2-4517-83e4-79035eaf7553/balance.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/f13e2f1b-acc2-4517-83e4-79035eaf7553/balance.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f13e2f1b-acc2-4517-83e4-79035eaf7553/balance.png)
 
 
 ### Iran and Russia's options

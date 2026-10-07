@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "cdbc06fe-7852-46fb-be04-c93838468290"
 images_count: 15
-local_pdf: "../pdfs/2025/2025-04-04_vlgc-quarterly-market-report---q1-2025.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/report.pdf"
 ---
 # VLGC Quarterly Report - Q1 2025
 
 **Date:** 2025-04-04 | **Department:** LPG | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2025/2025-04-04_vlgc-quarterly-market-report---q1-2025.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/report.pdf)  
 
 ---
 
@@ -23,13 +22,13 @@ pdf_url: "https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c
 ![Balticq1](../images/cdbc06fe-7852-46fb-be04-c93838468290/BalticQ1.JPG)
 
 > **Figure 1: Balticq1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/BalticQ1.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/BalticQ1.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/BalticQ1.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/BalticQ1.JPG)
 
 
 ![Avg Tce Q1](../images/cdbc06fe-7852-46fb-be04-c93838468290/Avg%20TCE%20Q1.JPG)
 
 > **Figure 2: Avg Tce Q1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Avg%20TCE%20Q1.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Avg TCE Q1.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Avg%20TCE%20Q1.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Avg TCE Q1.JPG)
 
 The year was off to a smooth start, with earnings levels fluctuating in rather small waves. **The quarterly average ended at $36,000 p.d.** across the three indexes. See detailed overview in the charts below. This is 32% lower than the quarterly average in 2024.
 
@@ -39,7 +38,7 @@ U.S. exports have been growing at a quicker pace than production, resulting in r
 ![Arbq1](../images/cdbc06fe-7852-46fb-be04-c93838468290/ArbQ1.JPG)
 
 > **Figure 3: Arbq1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/ArbQ1.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/ArbQ1.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/ArbQ1.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/ArbQ1.JPG)
 
 
 ### Exports and Imports
@@ -48,13 +47,13 @@ U.S. exports have been growing at a quicker pace than production, resulting in r
 ![Exportsq1](../images/cdbc06fe-7852-46fb-be04-c93838468290/ExportsQ1.JPG)
 
 > **Figure 4: Exportsq1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/ExportsQ1.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/ExportsQ1.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/ExportsQ1.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/ExportsQ1.JPG)
 
 
 ![Importsq1](../images/cdbc06fe-7852-46fb-be04-c93838468290/ImportsQ1.JPG)
 
 > **Figure 5: Importsq1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/ImportsQ1.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/ImportsQ1.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/ImportsQ1.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/ImportsQ1.JPG)
 
 
 ### Panama or Cape of Good Hope?
@@ -67,7 +66,7 @@ The general cost for a VLGC to transit the canal, saw a big jump on Jan. 1st of 
 ![Waypoints](../images/cdbc06fe-7852-46fb-be04-c93838468290/Waypoints.JPG)
 
 > **Figure 6: Waypoints**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Waypoints.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Waypoints.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Waypoints.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Waypoints.JPG)
 
 
 ### U.S. Production and Terminal Capacity Expansion
@@ -76,13 +75,13 @@ The general cost for a VLGC to transit the canal, saw a big jump on Jan. 1st of 
 ![Us Prod](../images/cdbc06fe-7852-46fb-be04-c93838468290/US%20Prod.JPG)
 
 > **Figure 7: Us Prod**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/US%20Prod.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/US Prod.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/US%20Prod.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/US Prod.JPG)
 
 
 ![Inventories](../images/cdbc06fe-7852-46fb-be04-c93838468290/Inventories.JPG)
 
 > **Figure 8: Inventories**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Inventories.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Inventories.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Inventories.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Inventories.JPG)
 
 U.S. LPG production continues to increase, with total production up 27.25% over the past five years. Only 5% growth is expected in the next three years; however, export capacity is set to increase substantially during the same period. Domestic consumption remains stable, as do export levels, which hover around 60%. VLGCs account for 82% of all seaborne exports, which amounted to 52 million tons in 2024.
 
@@ -92,7 +91,7 @@ Announced capacity expansions from several U.S. terminals have boosted market co
 ![Exp](../images/cdbc06fe-7852-46fb-be04-c93838468290/Exp.JPG)
 
 > **Figure 9: Exp**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Exp.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Exp.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Exp.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Exp.JPG)
 
 
 ### The Middle East
@@ -101,7 +100,7 @@ Announced capacity expansions from several U.S. terminals have boosted market co
 ![Meg](../images/cdbc06fe-7852-46fb-be04-c93838468290/MEG.JPG)
 
 > **Figure 10: Meg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/MEG.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/MEG.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/MEG.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/MEG.JPG)
 
 So far this year, supplied exports from the Middle East have been stable, with about 2 million tons provided from each country. We are not expecting to see much growth from the region in 2025, however, in 2026, long-awaited natural gas projects in Qatar will finally come online (North Field East). Additionally, in 2027 (North Field South), which will result in some incremental LPG output. Approximately 4.2 MTPA in 2026, and another 2 MTPA in 2027, increasing the regions export capacity from 46 to 52 MTPA. This additional supply of LPG will be beneficial to the fleet expansion that will occur at the same time.
 
@@ -112,7 +111,7 @@ So far this year, supplied exports from the Middle East have been stable, with a
 ![Chinese Imports](../images/cdbc06fe-7852-46fb-be04-c93838468290/Chinese%20imports.JPG)
 
 > **Figure 11: Chinese Imports**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Chinese%20imports.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Chinese imports.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Chinese%20imports.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Chinese imports.JPG)
 
 
 ### Fleet and Orderbook
@@ -121,7 +120,7 @@ So far this year, supplied exports from the Middle East have been stable, with a
 ![Fleet Development 2025](../images/cdbc06fe-7852-46fb-be04-c93838468290/Fleet%20development%202025.JPG)
 
 > **Figure 12: Fleet Development 2025**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Fleet%20development%202025.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Fleet development 2025.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Fleet%20development%202025.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Fleet development 2025.JPG)
 
 During the first quarter of 2025, three newbuilds were delivered-one in January and two in March. All three ships are capable of lifting ammonia at 85% capacity. The remaining number of deliveries for the year is nine, giving a total of 12 newbuilds. The fleet now stands at 404 ships, including floating storage. The orderbook consists of 100 ships, resulting in an orderbook-fleet ratio of 24.75%, which is just above the 20-year average of 21%. However, during 2026 and 2027, the fleet will grow by 19.4% in total, potentially causing more substantial disruptions to the fleet balance.
 
@@ -131,19 +130,19 @@ The trading fleet is aging, with 61 ships now over 20 years old, equaling 15% of
 ![Rep](../images/cdbc06fe-7852-46fb-be04-c93838468290/Rep.JPG)
 
 > **Figure 13: Rep**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Rep.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Rep.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Rep.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Rep.JPG)
 
 
 ![Ob Del](../images/cdbc06fe-7852-46fb-be04-c93838468290/OB%20Del.JPG)
 
 > **Figure 14: Ob Del**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/OB%20Del.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/OB Del.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/OB%20Del.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/OB Del.JPG)
 
 
 ![Yards](../images/cdbc06fe-7852-46fb-be04-c93838468290/Yards.JPG)
 
 > **Figure 15: Yards**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Yards.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Yards.JPG)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Yards.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Yards.JPG)
 
 Hyundai remains the largest builder of newbuilds, while one quarter of the newbuilds are being constructed in China. Normally, this would not be of much interest to the masses; however, in light of the recent proposed port call fees for Chinese-built ships, it could have an impact, going forward.
 
