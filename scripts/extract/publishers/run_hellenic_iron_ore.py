@@ -29,6 +29,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import pandas as pd
 import pymupdf
 
+from text_glyph_fix import fix_glyphs
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s"
@@ -128,7 +130,7 @@ def parse_mmi_report(doc: pymupdf.Document, pdf_name: str, date_iso: str) -> dic
         m_c = re.search(r"MARKET\s+COMMENTARY[\s\S]*?(?=\n\n[A-Z\s]{4,}|\Z)", p2_text, re.I)
         if m_c:
             lines = [l.strip() for l in m_c.group(0).splitlines() if l.strip()]
-            record["commentary"] = " ".join(lines[1:])
+            record["commentary"] = fix_glyphs(" ".join(lines[1:]))
     
     return record
 
@@ -183,7 +185,7 @@ def parse_smm_report(doc: pymupdf.Document, pdf_name: str, date_iso: str) -> dic
 
     m_comm = re.search(r"Commentary[\s\S]*?(?=\n\n|\Z)", txt, re.I)
     if m_comm:
-        record["commentary"] = m_comm.group(0).strip()
+        record["commentary"] = fix_glyphs(m_comm.group(0).strip())
 
     return record
 

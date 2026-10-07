@@ -35,6 +35,7 @@ from llama_parse import LlamaParse
 ROOT = Path(__file__).resolve().parents[3]
 sys.path.insert(0, str(ROOT))
 from scripts.extract.llama_manager import manager as key_manager
+from scripts.extract.publishers.text_glyph_fix import fix_glyphs
 
 INPUT_DIR = ROOT / "corpus" / "02-hellenic" / "iron_ore"
 OUT_MD_DIR = ROOT / "data" / "extracted" / "md" / "hellenic" / "iron_ore"
@@ -423,7 +424,7 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
         if comm:
             all_commentaries.append({
                 "issue_date": summary["issue_date"],
-                "commentary": comm,
+                "commentary": fix_glyphs(comm),
                 "source_file": summary["filename"]
             })
         report_summaries.append(summary)

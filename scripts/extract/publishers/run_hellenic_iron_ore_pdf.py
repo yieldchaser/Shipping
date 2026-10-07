@@ -39,6 +39,8 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional, Set, Tuple
 
 import pymupdf
+
+from text_glyph_fix import fix_glyphs
 from bs4 import BeautifulSoup
 from llama_parse import LlamaParse
 
@@ -383,7 +385,7 @@ def extract_commentary_from_page2(page2_text: str, pdf_path: Optional[Path] = No
         lines = [clean_cell_text(l) for l in raw_comm.splitlines() if not l.strip().startswith("|") and len(l.strip()) > 0]
         cleaned = "\n\n".join(lines)
         if len(cleaned) > 50:
-            return cleaned
+            return fix_glyphs(cleaned)
     
     m2 = re.search(r"##\s*MARKET\s*COMMENTARY\s*\n(.*?)(?=\n##|\Z)", page2_text, re.DOTALL | re.IGNORECASE)
     if m2:
@@ -391,7 +393,7 @@ def extract_commentary_from_page2(page2_text: str, pdf_path: Optional[Path] = No
         lines = [clean_cell_text(l) for l in raw_comm.splitlines() if not l.strip().startswith("|") and len(l.strip()) > 0]
         cleaned = "\n\n".join(lines)
         if len(cleaned) > 50:
-            return cleaned
+            return fix_glyphs(cleaned)
 
     # PyMuPDF vector text fallback (resolves cases where commentary was placed inside an empty table cell)
     if pdf_path and pdf_path.exists():
@@ -415,7 +417,7 @@ def extract_commentary_from_page2(page2_text: str, pdf_path: Optional[Path] = No
                     lines = [l.strip() for l in comm_block.splitlines() if l.strip() and "MARKET COMMENTARY" not in l]
                     cleaned_comm = " ".join(lines)
                     if len(cleaned_comm) > 50:
-                        return cleaned_comm
+                        return fix_glyphs(cleaned_comm)
         except Exception:
             pass
     return ""

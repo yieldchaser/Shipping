@@ -3765,3 +3765,102 @@ files the runner skips every doc and would only rebuild the CSV from the OLD jso
 3. Hellenic chunk-shard shortfall (`text_audit_recheck.json`).
 4. Optional/bounded: re-extract the 5 `advanced_shipping_2023_W3{1,4,5,6,7}` docs.
 5. (new) Regenerate the golden_destiny series per the command above to apply commit e047719da.
+
+
+## 2026-10-07 02:15 UTC (2026-10-07 07:45 IST) - deep review (3-hourly, job d77cc9df53c4)
+
+Verdict: **FIXED** (one provable data defect: font-glyph substitutions left in the
+DELIVERED hellenic iron-ore commentary; code committed to a new branch, golden unchanged,
+no data file rewritten - existing series carry the old text until a re-run).
+
+### Run state and honest liveness
+`Get-CimInstance Win32_Process` for `run_batch`/`batch_worker` returned **nothing** - the
+bulk pass is finished; nothing to supervise. `verify_extraction.py` -> `done 880/882`,
+`ok 876`, `error 3`, `no-extractable-content 1`, `checkpoint_rows 7816` (7816 unique, 0 torn),
+`crash_recovered_docs 249`, `empty_unexpected 0`, `empty_junk_routed 850`,
+`golden 15/15`, `db 189,481 tables / 6,726,703 cells`, `actions []`. `state_age_min 21339`
+is the known COMPLETE-not-dead case (queue from the 2026-09-21 inventory, 0 remained;
+`inventory_drift` 385, informational). `verify_registers.py` -> ALL CHECKS PASSED:
+**180 CSVs / 641,177 logical rows** == JSON == MD, 0 mismatches, 0 control chars, 0 emoji.
+
+### What I measured independently (not from the state file)
+* Corpus-wide structural scan over `data/extracted/corpus/` (16,803 doc dirs, 192,555
+  tables): per-source median `text_verified` is healthy - shipbrokers 1.000, hellenic 1.000,
+  poten 1.000, seabrokers 1.000, drybulk 1.000. The zero-verified tables are the known
+  classes: drewry Power-BI cell-scatter (median 0.333, already documented), books whose
+  prose scrapes as one-cell rows, shipbrokers chart-pseudo-tables (y-axis tick ladders),
+  and hellenic pdfplumber `(cid:N)` mojibake (detector fixed 2026-10-03).
+* Only **2** of 7,816 checkpoint docs have `garbled_blocks > 0`; only **113** "ok" docs have
+  0 blocks and all are 1-page `cftc_statements` routed `scanned` (expected).
+* **Independent spot-check of the two newest runners** (the newest code is where defects
+  hide): DNF W26 (`2021-07-05`) - all 13 vessels' name/year/DWT/price align exactly to the
+  page columns (SPRINGBANK 177,066/2010/26.5; AQUAMAN 75,243/2001/11.0; KOULITSA
+  76,858/2003/13.5 ...). SEASURE (`other_2021_09-July-2021..pdf`) - `Leadership |
+  Capesize | 171,200 | Koyo Dock | 2001 | 12.0 | VV 12.1 | Far Eastern | Seanergy Maritime`
+  matches the CSV byte-for-byte. Both correct.
+
+### The defect found (delivered hellenic iron-ore commentary)
+`data/extracted/series/hellenic_iron_ore_daily_series.csv` `commentary` (1,175 rows) carries
+the MMi subset-font glyph substitutions. Full non-ASCII census of that column (37 distinct):
+
+| code point | n | meaning | disposition |
+|---|---:|---|---|
+| U+00CA `E-circumflex` | 37,121 | **space** glyph | -> space (FIXED) |
+| U+019F | 8,317 | `ti` | -> ti (FIXED) |
+| U+FB01/FB02/FB00/FB03/FB04 | 1,591/663/370/91/12 | `fi fl ff ffi ffl` | -> expanded (FIXED) |
+| U+01A9 / U+014C / U+01AB | 280/231/63 | `tt / ft / tti` | -> expanded (FIXED) |
+| U+3000 | 420 | space | -> space (FIXED) |
+| U+00B2 / U+00B9 | 7,785 / 2,595 | superscript 2 / 1 | **NOT touched** (see below) |
+| `-`, `-`, `*`, arrows, quotes, `a/o/u/n` diacritics, CJK | <=200 each | genuine | kept |
+
+Read off the page: `DCE<U+00CA>iron<U+00CA>ore<U+00CA>futures<U+00CA>con<U+019F>nued<U+00CA>to<U+00CA>fluctuate`
+-> "DCE iron ore futures continued to fluctuate"; `be<U+01A9>er`->better, `pu<U+01AB>ng`->putting,
+`a<U+014C>ernoon`->afternoon, `<U+019F>`->ti (sentiment/cautious/attention). Numers are
+unaffected throughout (the numeric columns have no glyphs).
+
+### Fix made
+New `scripts/extract/publishers/text_glyph_fix.py` (`fix_glyphs`) with the verified ligature
+and space-glyph maps, wired into the three hellenic iron-ore runners at the commentary
+boundary: `run_hellenic_iron_ore.py` (2 sites; produces the daily series),
+`run_hellenic_iron_ore_pdf.py` (3 return sites; it already had a PARTIAL map missing
+`tt/ft/tti` on the primary path), `run_hellenic_iron_ore_images.py` (the commentary series).
+`fix_glyphs` runs only on commentary; every other column is untouched.
+Reproduced on one real document: `2022-10-13_..._e4ecbfac4a7a.pdf`, delivered
+"...General transac<U+019F>ons in the market..." -> re-parsed "...General transactions in the
+market...", 0 ligature glyphs left. In-memory over all 1,175 rows: **846 rows change**,
+residual substitution glyphs **0**.
+
+### Deliberately NOT changed, and why
+* `U+00B2` / `U+00B9` (7,785 / 2,595). They may be footnote superscripts rather than glyph
+  substitutions and no single target could be proven; leaving a visible glyph beats a
+  wrong-but-readable decode (the standing rule). Disclosed, not guessed.
+* The wider glyph table (ASCII remaps t->W, D->M ...). Applying `decode_mojibake.decode()`
+  to this text **corrupts it**: it turns "DCE iron ore futures declined" into
+  "MCN iron ore fuWures TeclineT". Verified this run. The helper therefore contains only
+  single, unambiguous substitutions.
+* The existing `data/extracted/series/*.csv` and `md/hellenic/iron_ore_pdf/**` still carry the
+  OLD text - rewriting a deliverable is a data change, not a code fix (see human decision 6).
+* `run_hellenic_iron_ore.py:200` has a pre-existing invalid escape (`"%\product"`,
+  SyntaxWarning). Left alone: the intent ("% product" vs "%product") is ambiguous and
+  unrelated to this defect.
+
+### Branch / commit
+New branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main); files under
+`scripts/extract/` + this log only. Nothing pushed.
+
+### Human decisions (6 is new; 1-5 inherited, unchanged)
+1. Inventory drift: 385 corpus PDFs absent from the 2026-09-21 `inventory.jsonl`.
+2. DB/series rebuild so parser fixes since 2026-09-21 reach the derived layer.
+3. Hellenic chunk-shard shortfall (`text_audit_recheck.json`).
+4. Optional/bounded: re-extract the 5 `advanced_shipping_2023_W3{1,4,5,6,7}` docs.
+5. Regenerate the golden_destiny series to apply commit e047719da.
+6. **NEW - apply the glyph fix to the delivered text** (single source, not the corpus).
+   `hellenic_iron_ore_daily_series.csv` 846/1,175 commentary rows change;
+   `hellenic_iron_ore_commentary_series.csv` and the `md/hellenic/iron_ore_pdf/**` md carry
+   the same residue. Safe commands (re-run the runner; numbers do not move):
+   ```
+   python scripts/extract/publishers/run_hellenic_iron_ore.py
+   python scripts/extract/publishers/run_hellenic_iron_ore_images.py   # needs LlamaParse key
+   python scripts/extract/publishers/run_hellenic_iron_ore_pdf.py
+   ```
+   then re-run `verify_registers.py` (row counts unchanged, so the register should stay GREEN).
