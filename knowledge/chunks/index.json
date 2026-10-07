@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T16:27:46Z",
+ "generated_at": "2026-10-07T22:10:49Z",
  "compiler_version": 2,
  "count": 105,
  "files": [
@@ -323,7 +323,7 @@
    "path": "knowledge/chunks/hellenic_dry_charter_2026.jsonl",
    "stem": "hellenic_dry_charter_2026",
    "year": 2026,
-   "bytes": 142023
+   "bytes": 145554
   },
   {
    "file": "hellenic_iron_ore.jsonl",
@@ -498,7 +498,7 @@
    "path": "knowledge/chunks/hellenic_tanker_charter_2026.jsonl",
    "stem": "hellenic_tanker_charter_2026",
    "year": 2026,
-   "bytes": 151170
+   "bytes": 154832
   },
   {
    "file": "hellenic_vessel_valuations.jsonl",

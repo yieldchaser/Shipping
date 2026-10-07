@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T16:23:24Z",
+  "generated_at": "2026-10-07T22:06:57Z",
   "current_date": "2026-10-07",
   "warning_count": 6,
   "high_severity_count": 0,
@@ -52,7 +52,7 @@
             "avg_tone_score": 0.0,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-30"
+            "latest_date": "2026-10-07"
           },
           {
             "source": "breakwave",
@@ -88,14 +88,14 @@
         "topic_id": "oil_and_opec",
         "title": "Oil and OPEC",
         "severity": "watch",
-        "score_diff": 0.92,
+        "score_diff": 0.83,
         "source_scores": [
           {
             "source": "hellenic",
-            "avg_tone_score": -0.17,
+            "avg_tone_score": -0.08,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-30"
+            "latest_date": "2026-10-07"
           },
           {
             "source": "baltic",
@@ -138,7 +138,7 @@
             "avg_tone_score": -0.08,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-30"
+            "latest_date": "2026-10-07"
           },
           {
             "source": "breakwave",
@@ -185,10 +185,10 @@
           },
           {
             "source": "hellenic",
-            "avg_tone_score": 0.29,
-            "dominant_tone": "constructive",
+            "avg_tone_score": 0.38,
+            "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-10-06"
+            "latest_date": "2026-10-07"
           },
           {
             "source": "breakwave_insights",
@@ -217,14 +217,14 @@
         "topic_id": "vlcc_and_suezmax",
         "title": "VLCC and Suezmax",
         "severity": "watch",
-        "score_diff": 0.92,
+        "score_diff": 0.83,
         "source_scores": [
           {
             "source": "hellenic",
-            "avg_tone_score": -0.17,
+            "avg_tone_score": -0.08,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-30"
+            "latest_date": "2026-10-07"
           },
           {
             "source": "baltic",

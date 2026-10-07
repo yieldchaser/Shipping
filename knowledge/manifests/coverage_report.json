@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-07T16:23:24Z",
+  "generated_at": "2026-10-07T22:06:57Z",
   "current_date": "2026-10-07",
   "corpus": {
-    "document_count": 11335,
-    "chunk_count": 113036,
-    "section_count": 38816,
+    "document_count": 11337,
+    "chunk_count": 113040,
+    "section_count": 38820,
     "topic_count": 10,
     "topic_evidence_count": 2500,
     "wiki_page_count": 10
@@ -120,11 +120,11 @@
       "category": "dry_charter",
       "status": "healthy",
       "cadence_days": 14,
-      "latest_date": "2026-09-30",
-      "age_days": 7,
+      "latest_date": "2026-10-07",
+      "age_days": 0,
       "latest_gap_days": 7,
       "max_recent_gap_days": 7,
-      "dated_doc_count": 279,
+      "dated_doc_count": 280,
       "undated_doc_count": 1
     },
     {
@@ -133,11 +133,11 @@
       "category": "tanker_charter",
       "status": "healthy",
       "cadence_days": 14,
-      "latest_date": "2026-09-30",
-      "age_days": 7,
+      "latest_date": "2026-10-07",
+      "age_days": 0,
       "latest_gap_days": 7,
       "max_recent_gap_days": 7,
-      "dated_doc_count": 278,
+      "dated_doc_count": 279,
       "undated_doc_count": 0
     },
     {
@@ -217,7 +217,7 @@
       "relevant_corpus_latest_date": "2026-10-07",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 81,
+      "document_count": 80,
       "source_counts": {
         "baltic": 16,
         "breakwave": 4,
@@ -227,11 +227,11 @@
       "category_counts": {
         "demolition": 21,
         "dry": 16,
-        "dry_charter": 7,
+        "dry_charter": 9,
         "drybulk": 4,
         "insights": 133,
-        "iron_ore": 53,
-        "shipbuilding": 9,
+        "iron_ore": 52,
+        "shipbuilding": 8,
         "vessel_valuations": 7
       },
       "recent_sources_present": [
@@ -244,7 +244,7 @@
       "tone_distribution": {
         "cautiously_bearish": 11,
         "constructive": 53,
-        "neutral": 17
+        "neutral": 16
       }
     },
     {
@@ -252,24 +252,24 @@
       "title": "Tanker Market",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-10-06",
-      "latest_evidence_age_days": 1,
-      "relevant_corpus_latest_date": "2026-10-06",
+      "latest_evidence_date": "2026-10-07",
+      "latest_evidence_age_days": 0,
+      "relevant_corpus_latest_date": "2026-10-07",
       "lag_days": 0,
       "evidence_count": 250,
       "document_count": 82,
       "source_counts": {
         "baltic": 24,
         "breakwave": 6,
-        "breakwave_insights": 162,
-        "hellenic": 58
+        "breakwave_insights": 160,
+        "hellenic": 60
       },
       "category_counts": {
         "demolition": 29,
-        "insights": 162,
+        "insights": 160,
         "shipbuilding": 11,
         "tanker": 24,
-        "tanker_charter": 9,
+        "tanker_charter": 11,
         "tankers": 6,
         "vessel_valuations": 9
       },
@@ -281,9 +281,9 @@
       ],
       "missing_recent_sources": [],
       "tone_distribution": {
-        "cautiously_bearish": 9,
+        "cautiously_bearish": 8,
         "constructive": 54,
-        "neutral": 19
+        "neutral": 20
       }
     },
     {
@@ -296,18 +296,18 @@
       "relevant_corpus_latest_date": "2026-10-07",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 124,
+      "document_count": 125,
       "source_counts": {
         "baltic": 29,
         "breakwave": 10,
-        "breakwave_insights": 80,
-        "hellenic": 131
+        "breakwave_insights": 79,
+        "hellenic": 132
       },
       "category_counts": {
         "dry": 29,
-        "dry_charter": 9,
+        "dry_charter": 10,
         "drybulk": 10,
-        "insights": 80,
+        "insights": 79,
         "iron_ore": 114,
         "vessel_valuations": 8
       },
@@ -321,7 +321,7 @@
       "tone_distribution": {
         "cautiously_bearish": 23,
         "constructive": 71,
-        "neutral": 30
+        "neutral": 31
       }
     },
     {
@@ -329,21 +329,21 @@
       "title": "Panamax and Supramax",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-10-05",
-      "latest_evidence_age_days": 2,
-      "relevant_corpus_latest_date": "2026-10-06",
-      "lag_days": 1,
+      "latest_evidence_date": "2026-10-07",
+      "latest_evidence_age_days": 0,
+      "relevant_corpus_latest_date": "2026-10-07",
+      "lag_days": 0,
       "evidence_count": 250,
       "document_count": 121,
       "source_counts": {
-        "baltic": 80,
+        "baltic": 79,
         "breakwave": 9,
         "breakwave_insights": 135,
-        "hellenic": 26
+        "hellenic": 27
       },
       "category_counts": {
-        "dry": 80,
-        "dry_charter": 12,
+        "dry": 79,
+        "dry_charter": 13,
         "drybulk": 9,
         "insights": 135,
         "vessel_valuations": 14
@@ -357,8 +357,8 @@
       "missing_recent_sources": [],
       "tone_distribution": {
         "cautiously_bearish": 10,
-        "constructive": 67,
-        "neutral": 44
+        "constructive": 66,
+        "neutral": 45
       }
     },
     {
@@ -366,22 +366,22 @@
       "title": "VLCC and Suezmax",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-10-06",
-      "latest_evidence_age_days": 1,
-      "relevant_corpus_latest_date": "2026-10-06",
+      "latest_evidence_date": "2026-10-07",
+      "latest_evidence_age_days": 0,
+      "relevant_corpus_latest_date": "2026-10-07",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 100,
+      "document_count": 101,
       "source_counts": {
         "baltic": 68,
         "breakwave": 10,
-        "breakwave_insights": 158,
-        "hellenic": 14
+        "breakwave_insights": 157,
+        "hellenic": 15
       },
       "category_counts": {
-        "insights": 158,
+        "insights": 157,
         "tanker": 68,
-        "tanker_charter": 5,
+        "tanker_charter": 6,
         "tankers": 10,
         "vessel_valuations": 9
       },
@@ -395,7 +395,7 @@
       "tone_distribution": {
         "cautiously_bearish": 9,
         "constructive": 62,
-        "neutral": 28,
+        "neutral": 29,
         "neutral_sentiment": 1
       }
     },
@@ -409,7 +409,7 @@
       "relevant_corpus_latest_date": "2026-10-07",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 101,
+      "document_count": 102,
       "source_counts": {
         "baltic": 25,
         "breakwave": 6,
@@ -418,10 +418,10 @@
       },
       "category_counts": {
         "dry": 25,
-        "dry_charter": 6,
+        "dry_charter": 7,
         "drybulk": 6,
         "insights": 130,
-        "iron_ore": 83
+        "iron_ore": 82
       },
       "recent_sources_present": [
         "baltic",
@@ -433,7 +433,7 @@
       "tone_distribution": {
         "cautiously_bearish": 16,
         "constructive": 70,
-        "neutral": 15
+        "neutral": 16
       }
     },
     {
@@ -441,23 +441,23 @@
       "title": "Coal and Grain Flows",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-10-06",
-      "latest_evidence_age_days": 1,
-      "relevant_corpus_latest_date": "2026-10-06",
+      "latest_evidence_date": "2026-10-07",
+      "latest_evidence_age_days": 0,
+      "relevant_corpus_latest_date": "2026-10-07",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 108,
+      "document_count": 109,
       "source_counts": {
         "baltic": 72,
         "breakwave": 7,
-        "breakwave_insights": 162,
-        "hellenic": 9
+        "breakwave_insights": 161,
+        "hellenic": 10
       },
       "category_counts": {
         "dry": 72,
-        "dry_charter": 9,
+        "dry_charter": 10,
         "drybulk": 7,
-        "insights": 162
+        "insights": 161
       },
       "recent_sources_present": [
         "baltic",
@@ -469,7 +469,7 @@
       "tone_distribution": {
         "cautiously_bearish": 8,
         "constructive": 73,
-        "neutral": 27
+        "neutral": 28
       }
     },
     {
@@ -477,22 +477,22 @@
       "title": "Oil and OPEC",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-10-06",
-      "latest_evidence_age_days": 1,
-      "relevant_corpus_latest_date": "2026-10-06",
+      "latest_evidence_date": "2026-10-07",
+      "latest_evidence_age_days": 0,
+      "relevant_corpus_latest_date": "2026-10-07",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 98,
+      "document_count": 99,
       "source_counts": {
-        "baltic": 40,
+        "baltic": 39,
         "breakwave": 10,
         "breakwave_insights": 187,
-        "hellenic": 13
+        "hellenic": 14
       },
       "category_counts": {
         "insights": 187,
-        "tanker": 40,
-        "tanker_charter": 5,
+        "tanker": 39,
+        "tanker_charter": 6,
         "tankers": 10,
         "vessel_valuations": 8
       },
@@ -506,7 +506,7 @@
       "tone_distribution": {
         "cautiously_bearish": 13,
         "constructive": 60,
-        "neutral": 24,
+        "neutral": 25,
         "neutral_sentiment": 1
       }
     },
@@ -589,10 +589,10 @@
         },
         {
           "source": "hellenic",
-          "avg_tone_score": 0.29,
-          "dominant_tone": "constructive",
+          "avg_tone_score": 0.38,
+          "dominant_tone": "neutral",
           "doc_count": 6,
-          "latest_date": "2026-10-06"
+          "latest_date": "2026-10-07"
         },
         {
           "source": "breakwave_insights",
@@ -622,7 +622,7 @@
           "avg_tone_score": -0.08,
           "dominant_tone": "neutral",
           "doc_count": 6,
-          "latest_date": "2026-09-30"
+          "latest_date": "2026-10-07"
         },
         {
           "source": "breakwave",
@@ -652,14 +652,14 @@
       "topic_id": "vlcc_and_suezmax",
       "title": "VLCC and Suezmax",
       "severity": "watch",
-      "score_diff": 0.92,
+      "score_diff": 0.83,
       "source_scores": [
         {
           "source": "hellenic",
-          "avg_tone_score": -0.17,
+          "avg_tone_score": -0.08,
           "dominant_tone": "neutral",
           "doc_count": 6,
-          "latest_date": "2026-09-30"
+          "latest_date": "2026-10-07"
         },
         {
           "source": "baltic",
@@ -696,7 +696,7 @@
           "avg_tone_score": 0.0,
           "dominant_tone": "neutral",
           "doc_count": 6,
-          "latest_date": "2026-09-30"
+          "latest_date": "2026-10-07"
         },
         {
           "source": "breakwave",
@@ -726,14 +726,14 @@
       "topic_id": "oil_and_opec",
       "title": "Oil and OPEC",
       "severity": "watch",
-      "score_diff": 0.92,
+      "score_diff": 0.83,
       "source_scores": [
         {
           "source": "hellenic",
-          "avg_tone_score": -0.17,
+          "avg_tone_score": -0.08,
           "dominant_tone": "neutral",
           "doc_count": 6,
-          "latest_date": "2026-09-30"
+          "latest_date": "2026-10-07"
         },
         {
           "source": "baltic",
