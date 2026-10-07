@@ -4112,3 +4112,92 @@ I did NOT run it: a wrong convention in already-extracted data is a human decisi
 
 Branch/commit: appended to `docs/EXTRACTION_OVERNIGHT_LOG.md` on
 `auto/extract-fixes-2026-10-07-deepreview` (no code change).
+
+---
+
+## 2026-10-07 22:07 IST — DEEP REVIEW (3-hourly cron d77cc9df53c4)
+
+**Headline: one real, previously-undisclosed defect found and FIXED in code
+(commit f900eb5de). The delivered `allied_sales_series.csv` still carries the
+old wrong values until one regeneration is run — see HUMAN DECISION.**
+Branch: `auto/extract-fixes-2026-10-07-deepreview` (this job's branch, continued
+from the prior deep-review run rather than forking a new date branch).
+
+### What I measured
+- `verify_extraction.py --json`: exit 0, `actions: []`. golden **15/15**, db
+  **189,481 tables / 6,726,703 cells**, checkpoint **7,816/7,816 unique**,
+  `empty_after_ok_status` 0, `empty_unexpected` 0, 74 genuine not-a-pdf
+  quarantines. `state_age_min` 22,200 = the known COMPLETE-not-dead full pass
+  (its queue is the frozen 2026-09-21 inventory).
+- Liveness: no `run_batch`/`batch_worker` (the full pass is complete). Active
+  work seen this run: `run_allied.py` (parent 25040 + per-doc child 23960) and
+  `parse_engine_html vv --workers 6` (pid 11392). The allied job finished during
+  this run and the parallel agent committed its allied work
+  (`ce3e3f30b`, `0d92b3713`, `033ba56ad`) — no orphan/zombie left.
+- Disk: C: **99% used, 7.1 GB free**. Log trend this day: 27.1 → 23.9 → 23.7 →
+  16.0 → 23.0 → 19.8 → 16.4 → 13.4 → 19.5 → 13.7 → **7.1 GB**. Tight; the
+  scratch dirs are the growth (meas_20261004 744 MB, serieskey 497 MB,
+  db_series_refresh 426 MB). Not actioned (outside this job's scope).
+
+### Defect found — allied: vessel-name suffix bleeding into `dwt`
+A magnitude scan of all 180 series CSVs flagged `allied_sales_series.csv`
+`dwt` min=510 / **max=285,350,000**. Root cause measured from the page words:
+
+```
+allied_2021_W37 page 7: header anchors  Name x=77.6,  Dwt x=140.5
+row "BUNGA KELANA 7":  "KELANA" x=84.2  "7" x=117.1  "105,194" x=133.8
+_col_of() assigns each word to the NEAREST header anchor -> "7" is 23.4 pt
+from Dwt and 39.5 pt from Name, so it is bucketed into Dwt; the cell becomes
+"7 105,194" and `re.sub(r"[^\d]","",...)` turns it into 7105194.
+```
+
+**17 rows across 13 documents** are affected. Every raw Dwt cell is exactly
+`"<short> <real dwt>"`: `'7 105,194'→7105194`, `'2853 50,000'→285350000`,
+`'98 38,448'→9838448`, `'2041 37,481'→204137481`, `'728 17,204'→72817204`,
+`'6 4,679'→6479`, `'5 9,039'→9039`, `'8 58,018'→858018`, …
+Ground truth read from the `.md` page text: the vessels are "NEWOCEAN 6"
+(dwt 4,679 — not 6,479), "ZHONG XING DA 98" (38,448 — not 9,838,448),
+"BUNGA KELANA 7" (105,194 — not 7,105,194).
+**9 of the 17 are magnitude-visible; the other 8 are silently
+plausible-but-wrong** (a 1-digit name prefix gives a 4–6 digit dwt). The
+allied verdict's reconciliation checked vessel-name and price tokens verbatim
+but never `dwt`, so the existing gate could not see it.
+
+### Fix — code, validated
+`scripts/extract/publishers/run_allied.py`, `_parse_band()`: a real dwt is ONE
+number, so a Dwt cell holding **exactly two numeric tokens** is always this
+bleed — return the leading token to `Name`, keep the second as the dwt.
+16 lines, one file, one commit **f900eb5de**.
+Evidence: re-parsed all 13 affected documents from the real PDFs before/after —
+**exactly 17 rows changed**, `name` + `dwt` only, no other field and no other
+row (327 rows compared). Values match the page text. `golden_matrix.py`
+unchanged: Star Asia **15/15**, SSY **14/14**, Breakwave **6/6**.
+
+### HUMAN DECISION — regenerate the allied series (I did NOT run it)
+`data/extracted/series/allied_sales_series.csv` still holds the old values.
+`run_all()` **skips** docs already in `_run_state.json["done"]` and rebuilds the
+CSV from the existing `_deals.jsonl`, so simply re-running the runner would NOT
+fix these rows — and its dedup key `(source_file, name, dwt, price_raw)` would
+keep the old wrong rows *alongside* the corrected ones. A clean rebuild of this
+ONE publisher is required:
+```bash
+mv data/extracted/md/allied/_deals.jsonl data/extracted/md/allied/_deals.jsonl.pre_dwtfix
+python3 -c "import json,pathlib;p=pathlib.Path('data/extracted/md/allied/_run_state.json');s=json.loads(p.read_text());s['done']=[];s['failed']=[];p.write_text(json.dumps(s,indent=1))"
+python3 scripts/extract/publishers/run_allied.py
+python3 scripts/extract/update_extraction_register.py
+```
+Affected: **17 rows / 3,218 (0.53%)**. Allied is BACKFILL_ONLY (content ends
+2024-02-16, ~865 d), not app-fed, so this is data hygiene, not a forward series.
+
+### Deliberately NOT changed, and why
+- Did not regenerate the allied CSV: a data change on already-extracted rows is
+  a human decision (rule 3f), and the runner's dedup key would duplicate rows.
+- `singletons_sales_series.csv` (noted, 46 rows): the 23 carriers-sourced rows
+  have `price_usd_m` empty while `price_raw` holds `"70,000,000"` (dollars),
+  whereas the 23 bancosta rows use millions (`"72.0"`). Mixed convention in a
+  small curated series; not app-fed; left for review.
+- Did not touch `index.html`, other pipelines, `tests/`, or the git history.
+
+### Not a regression, do not "fix"
+- The 74 `not-a-pdf` quarantines and the 385 inventory-drift PDFs are the
+  documented expected states (see runbook), not defects.
