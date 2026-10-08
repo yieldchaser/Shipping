@@ -63,3 +63,14 @@ report_date,year,month,vessel_class,metric,value,value_text,unit,note,source,sou
 2026-08-01,2026,8,Viking Reach,helideck,,Sikorsky S-92,text,,seabrokers,7.0
 2026-08-01,2026,8,Viking Reach,moonpool,,7.2 metres x 7.2 metres,text,,seabrokers,7.0
 2026-08-01,2026,8,Viking Reach,rovs,,1 x Supporter work-class & 1,text,,seabrokers,7.0
+2026-09-01,2026,9,ACE Aristotelis,featured,1.0,,count,,seabrokers,7.0
+2026-09-01,2026,9,ACE Aristotelis,length,88.0,,m,,seabrokers,7.0
+2026-09-01,2026,9,ACE Aristotelis,breadth,20.0,,m,,seabrokers,7.0
+2026-09-01,2026,9,ACE Aristotelis,deck_area,1000.0,,m2,,seabrokers,7.0
+2026-09-01,2026,9,ACE Aristotelis,deadweight,4700.0,,tonnes,,seabrokers,7.0
+2026-09-01,2026,9,ACE Aristotelis,accommodation,60.0,,persons,,seabrokers,7.0
+2026-09-01,2026,9,ACE Aristotelis,owner,,Capital Offshore,text,,seabrokers,7.0
+2026-09-01,2026,9,ACE Aristotelis,manager,,UOS Capital,text,,seabrokers,7.0
+2026-09-01,2026,9,ACE Aristotelis,design,,Breeze Z4423 PSV,text,,seabrokers,7.0
+2026-09-01,2026,9,ACE Aristotelis,designer,,Breeze Ship Design,text,,seabrokers,7.0
+2026-09-01,2026,9,ACE Aristotelis,dynamic_positioning,,Kongsberg,text,,seabrokers,7.0

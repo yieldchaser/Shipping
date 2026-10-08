@@ -5432,3 +5432,28 @@ SS; status=COLD STACK",seabrokers,13.0
 2026-08-01,2026,8,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-08,rig=WELL-SAFE PROTECTOR; type=JU; status=WARM STACK,seabrokers,13.0
 2026-08-01,2026,8,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-08,rig=WEST AQUARIUS; type=SS; status=COLD STACK,seabrokers,13.0
 2026-08-01,2026,8,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-08,rig=WEST PHOENIX; type=SS; status=COLD STACK,seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,"rig=TULLOW CHARTER FOR 
+WEST AFRICA CONTRACT; type=JORO; status=JU
+WARM STACK",seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,"rig=West Africa.
+ultra-deepwater drillship relocated from the; type=NOBLE ENDEAVOR; status=SS
+WARM STACK",seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,"rig=been contracted for a firm period of five years, with; type=VALARIS VIKING; status=JU
+COLD STACK",seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,"rig=Thailand, and further options are available to PTTEP to; type=WELL-SAFE PROTECTOR; status=JU
+WARM STACK",seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,"rig=Oil to drill up to ten wells offshore Ghana. 
+While the charterer has not been named, it; type=WEST AQUARIUS; status=SS
+COLD STACK",seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,"rig=for a five-well firm campaign offshore Ghana, 
+in the US Gulf until January 2027, and is; type=WEST PHOENIX; status=SS
+COLD STACK",seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,rig=HERCULES; type=SS; status=WARM STACK,seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,rig=JORO; type=JU; status=WARM STACK,seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,rig=NOBLE CLAUS BACHMANN; type=SS; status=WARM STACK,seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,rig=NOBLE ENDEAVOR; type=SS; status=WARM STACK,seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,rig=NOBLE INNOVATOR; type=JU; status=WARM STACK,seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,rig=VALARIS VIKING; type=JU; status=COLD STACK,seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,rig=WELL-SAFE PROTECTOR; type=JU; status=WARM STACK,seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,rig=WEST AQUARIUS; type=SS; status=COLD STACK,seabrokers,13.0
+2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,rig=WEST PHOENIX; type=SS; status=COLD STACK,seabrokers,13.0

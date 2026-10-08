@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 09:21:42Z",
+  "updated_at": "2026-10-08 10:24:10Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -3441,7 +3441,7 @@
     {
       "file": "seabrokers_feature_vessels_series.csv",
       "target_metric": "Seabrokers Feature Vessels",
-      "rows": 64,
+      "rows": 75,
       "columns": [
         "report_date",
         "year",
@@ -3460,7 +3460,7 @@
     {
       "file": "seabrokers_fleet_moves_series.csv",
       "target_metric": "Seabrokers Fleet Moves",
-      "rows": 197,
+      "rows": 203,
       "columns": [
         "report_date",
         "year",
@@ -3477,7 +3477,7 @@
     {
       "file": "seabrokers_osv_monthly_history_series.csv",
       "target_metric": "Seabrokers Osv Monthly History",
-      "rows": 6280,
+      "rows": 6364,
       "columns": [
         "report_date",
         "year",
@@ -3495,7 +3495,7 @@
     {
       "file": "seabrokers_osv_spot_rates_series.csv",
       "target_metric": "Seabrokers Osv Spot Rates",
-      "rows": 1855,
+      "rows": 1875,
       "columns": [
         "report_date",
         "year",
@@ -3512,7 +3512,7 @@
     {
       "file": "seabrokers_osv_utilisation_series.csv",
       "target_metric": "Seabrokers Osv Utilisation",
-      "rows": 2304,
+      "rows": 2328,
       "columns": [
         "report_date",
         "year",
@@ -3549,7 +3549,7 @@
     {
       "file": "seabrokers_rigs_market_series.csv",
       "target_metric": "Seabrokers Rigs Market",
-      "rows": 4467,
+      "rows": 4482,
       "columns": [
         "report_date",
         "year",
@@ -3571,7 +3571,7 @@
     {
       "file": "seabrokers_snp_auctions_series.csv",
       "target_metric": "Seabrokers Snp Auctions",
-      "rows": 251,
+      "rows": 281,
       "columns": [
         "report_date",
         "year",
@@ -4141,13 +4141,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 640917,
+  "total_master_stacked_rows": 641107,
   "total_master_series_csvs": 180,
-  "total_stacked_rows": 640917,
+  "total_stacked_rows": 641107,
   "total_series_csvs": 180,
   "total_master_workbooks": 1,
   "total_series_count": 180,
-  "total_rows_extracted": 641222,
+  "total_rows_extracted": 641412,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4291,14 +4291,14 @@
     "poten_top_charterers_series.csv": 756,
     "poten_vlcc_historical_rates_series.csv": 24,
     "seabrokers_catalog_metadata.csv": 97,
-    "seabrokers_feature_vessels_series.csv": 64,
-    "seabrokers_fleet_moves_series.csv": 197,
-    "seabrokers_osv_monthly_history_series.csv": 6280,
-    "seabrokers_osv_spot_rates_series.csv": 1855,
-    "seabrokers_osv_utilisation_series.csv": 2304,
+    "seabrokers_feature_vessels_series.csv": 75,
+    "seabrokers_fleet_moves_series.csv": 203,
+    "seabrokers_osv_monthly_history_series.csv": 6364,
+    "seabrokers_osv_spot_rates_series.csv": 1875,
+    "seabrokers_osv_utilisation_series.csv": 2328,
     "seabrokers_renewables_and_ets_series.csv": 16,
-    "seabrokers_rigs_market_series.csv": 4467,
-    "seabrokers_snp_auctions_series.csv": 251,
+    "seabrokers_rigs_market_series.csv": 4482,
+    "seabrokers_snp_auctions_series.csv": 281,
     "seasure_sales_series.csv": 1452,
     "signal_reports_metadata.csv": 446,
     "signal_vessel_counts_series.csv": 106,

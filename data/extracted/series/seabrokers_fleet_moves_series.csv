@@ -196,3 +196,9 @@ report_date,year,month,vessel_class,metric,value_text,note,source,source_page
 2026-08-01,2026,8,SEA EVERTSEN,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
 2026-08-01,2026,8,SKANDI MASTER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
 2026-08-01,2026,8,SKANDI SALTFJORD,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-09-01,2026,9,BEAR,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-09-01,2026,9,BOKA FULMAR,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-09-01,2026,9,BOULDER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-09-01,2026,9,MH FREEDOM,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-09-01,2026,9,PACIFIC DISCOVERY,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-09-01,2026,9,SKANDI HERA,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
