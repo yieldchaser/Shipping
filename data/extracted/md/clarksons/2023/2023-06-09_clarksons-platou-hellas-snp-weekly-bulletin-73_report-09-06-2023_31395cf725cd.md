@@ -1,53 +1,68 @@
 ---
-title: "Clarksons Hellas S&P Weekly - 09/06/2023"
-issue_date: "2023-06-09"
-year: "2023"
-broker: "Clarksons Hellas"
-category: "market_report"
-source_file: "corpus/02-hellenic/shipbuilding/pdfs/2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73_report-09-06-2023_31395cf725cd.pdf"
+title: Clarksons Hellas S&P Weekly Bulletin 2023-06-09
+publisher: Clarksons Hellas
+source: clarksons
+issue_date: '2023-06-09'
+document_header_date: '2023-06-09'
+issue_date_conflict: false
+year: 2023
+source_file: corpus/02-hellenic/shipbuilding/pdfs/2023/2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73_report-09-06-2023_31395cf725cd.pdf
+source_sha256: 6306ea5ce61f4f13a52d50295df08f52c1201a769bb15e3cfd764474bce4299e
+pages_total: 4
+pages_parsed: 1-2
+parser: pymupdf_table + pymupdf_prose
+parsed_at: '2026-10-08T04:23:47Z'
 ---
 
-# Clarksons Hellas S&P Weekly - 09/06/2023
+# Bulk Carriers
 
-- **Date**: 2023-06-09 (09/06/2023)
-- **Source**: `corpus/02-hellenic/shipbuilding/pdfs/2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73_report-09-06-2023_31395cf725cd.pdf`
-- **Publisher**: Clarksons Hellas Ltd.
+| Vessel | DWT | Year | Yard | Details | SS/DD | Price | Buyer |
+|---|---|---|---|---|---|---|---|
+| HERUN ZHOUSHAN | 181,056 | 2017 | SHANGHAI JIANGNAN | MAN B. & W. 6G70ME-C9.2 BWTS fitted | SS 09/27 DD 01/26 | USD 41.5 M | U/D |
+| KMARIN SINGAPORE | 63,083 | 2015 | JIANGSU NEW HANTONG | MAN B. & W. 5G60ME-C9.2 4 x 30 T, BWTS fitted | SS 08/25 DD 08/23 | U/D | GREEKS |
+| VICTORIA T | 61,266 | 2017 | SHIN KURUSHIMA | MAN B. & W. 6S50ME-B9.3, 4 X 30 T, BWTS fitted | SS 07/27 DD 01/25 | LOW USD 29 M | U/D |
+| CF DIAMOND | 57,700 | 2016 | TSUNEISHI | MAN B. & W. 6S50ME-C8.2, 4 x30 T, BWTS fitted | SS 06/26 DD 03/24 | XS USD 24 M | U/D |
+| SEASTAR ENDUREANCE | 34,290 | 2011 | ZHEJIANG JINGANG | MAN B. & W. 6S42MC7.2, 4 x30 T, BWTS fitted | SS 09/26 DD 10/24 | RGN USD 11.7 M | U/D |
 
-## Desk Commentary
+# Tankers – Chemicals – LPG/LNGs
 
-### Desk Talk
+| Vessel | DWT | Year | Yard | Details | SS/DD | Price | Buyer |
+|---|---|---|---|---|---|---|---|
+| MTM POTOMAC | 51,291 | 2004 | STX | MAN B. & W. 6S50MC-C8.1 BWTS fitted | SS 11/24 DD 11/24 | RGN USD 18 M | U/D |
+| SUPER RUBY | 50,400 | 2006 | SHINA | MAN B. & W. 6S50MC-C8.1 BWTS fitted, CPP | SS 02/26 DD 09/24 | RGN USD 21 M | U/D |
+
+# New Building
+
+In the tanker market this week, Zhoushan Changhong announced orders for four firm, plus four optional 115k dwt LR2’s for an unnamed buyer, reported to be Turkish interests, with the firm vessels expected to deliver in 2H 2025 and 1H 2026. The yard also announced contracting two firm 115k dwt LR2s with an unnamed Singaporean, reported to be Stamford, with the vessels expected to deliver in 2H 2025. CSSC GSI contracted two firm plus two optional LNG dual-fuel 111k dwt LR2s with EPS, with delivery of the firm expected in 1Q and 4Q 2026.
+
+In dry bulk, MOL announced ordering a 95k dwt Post Panamax bulker at Oshima, which will deliver in July 2026. The vessel will be fitted with LNG dual fuel propulsion. Clients of Meadway Shipping ordered a 42k dwt Handysize bulker at Oshima, with delivery expected in 1Q 2026.
+
+In the gas carrier market, Avance Gas announced ordering two firm plus two optional 40k CBM MGCs at Nantong CIMC SOE, with the firm vessels slater for delivery in 4Q 2025 and 1Q 2026 respectively.
+
+In containers, CSSC Huangpu Wenchong announced contracting six firm plus two optional 1,250 TEU feeder container ships for X-Press feeders. The vessels will be Methanol capable and the firm vessels are set to deliver from 3Q 2025 onwards. Nantong CIMC SOE announced contracts two firm plus two optional LNG Dual-fuel 1,450 TEU feeder containerships for an unnamed owner, with the firm vessels expected to deliver in 2025.
+
+# Recycling
+
+## Opportunity!
 
 Market conditions remain stable with the lack of tonnage continuing to frustrate those recyclers that have empty yards.
 
-## S&P Transaction Tables
+Having attended the Tradewinds Shipowners Forum during Norshipping, it was interesting that a main topic centred on future opportunities concerning LNG fuel and cleaner emissions, with more emphasis focussing on the renewal of the existing global fleet to environmentally friendly trades. Moving on from the discussions, the surprising factor is why are we not seeing more units circulating for recycling?
 
-### Bulker Sales
+The pressure is certainly being ramped up on ship Owners to bring their aging vessels to the new appropriate standards or consider the recycling of their tonnage and therefore, we certainly expect the supply to the recycling industry to step up from Q4 this year onwards through the next few years.
 
-| Vessel | DWT | Built | Yard | Details | SS/DD | Price | Buyer |
-|---|---|---|---|---|---|---|---|
-| HERUN ZHOUSHAN | 181,056 | 2017 | SHANGHAI MAN B. JIANGNAN | & W. 6G70ME-C9.2 SS BWTS fitted DD | 09/27 01/26 | USD 41.5 M | U/D |
-| KMARIN SINGAPORE | 63,083 | 2015 | JIANGSU NEW MAN B. HANTONG 4 x | & W. 5G60ME-C9.2 SS 30 T, BWTS fitted DD | 08/25 08/23 | U/D | GREEKS |
-| VICTORIA T | 61,266 | 2017 | SHIN MAN B. KURUSHIMA 4 X | & W. 6S50ME-B9.3, SS 30 T, BWTS fitted DD | 07/27 LOW 01/25 | USD 29 M | U/D |
-| CF DIAMOND | 57,700 |  | MAN B. 2016 TSUNEISHI 4 x30 | & W. 6S50ME-C8.2, SS T, BWTS fitted DD | 06/26 XS 03/24 | USD 24 M | U/D |
-| SEASTAR ENDUREANCE | 34,290 | 2011 | ZHEJIANG MAN B. JINGANG 4 x30 | & W. 6S42MC7.2, SS T, BWTS fitted DD | 09/26 RGN 10/24 | USD 11.7 M | U/D |
+Meantime, as of today, Bangladesh and India remain the dominant areas in the Indian sub-Continent with Pakistan still only able to watch from the sidelines due to their ongoing financial implications.
 
-### Tanker Sales
+# Demolition
 
-| Vessel | DWT | Built | Yard | Details | SS/DD | Price | Buyer |
-|---|---|---|---|---|---|---|---|
-| MTM POTOMAC | 51,291 |  | MAN B. 2004 STX MAN B. | & W. 6S50MC-C8.1 SS BWTS fitted DD & W. 6S50MC-C8.1 SS | 11/24 RGN 11/24 02/26 | USD 18 M | U/D |
-| SUPER RUBY | 50,400 |  | MAN B. 2006 SHINA | & W. 6S50MC-C8.1 SS BWTS fitted, CPP DD | 02/26 RGN 09/24 | USD 21 M | U/D |
+## Bulk Carriers – GCs – CVs
 
-## Demolition & Recycling Sales
+| Vessel | DWT | Built | Details | Price | Delivery |
+|---|---|---|---|---|---|
+| JAMSINE II | 45,269 | 1997 CHINA | 9,563 LDT | USD 575.00/LT | Bangladesh - sale includes about 100-120 tons bunkers RoB. |
 
-| Vessel | Type | DWT | Built | Details | Price | Delivery |
-|---|---|---|---|---|---|---|
-| JAMSINE II | Supramax | 45,269 | 1997 | 9,563 LDT | Bangladesh USD includes about 575.00/LT tons bunkers | - sale 100-120 RoB. |
+## Tankers – Chemicals – LPGs
 
-## Contact & Legal Disclaimer
-
-**Clarkson Hellas Ltd.**  
-Direct: +(30) 210 458 6700 | Fax: +(30) 210 458 6799  
-Website: www.clarksons.com  
-
-> *The material and information contained herein are provided by Clarkson Hellas Ltd for general information purposes only.*
+| Vessel | DWT | Built | Details | Price | Delivery |
+|---|---|---|---|---|---|
+| No reported sales |  |  |  |  |  |

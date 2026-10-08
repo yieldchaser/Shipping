@@ -1,95 +1,403 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2022-09-09",
-  "printed_date": "09/09/2022",
-  "source_file": "2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf",
+  "report_week": 36,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf",
+  "source_sha256": "971d58b5e8a3cd9233e3ed731a8031e8f1ff3971b66d1737e914fa4bc834060c",
   "sales_count": 2,
   "demo_count": 3,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulk Carriers",
+      "page": 1,
+      "bbox": [
+        27.96,
+        122.35,
+        567.1,
+        194.18
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "ECO DESTINY",
+          "35,287",
+          "2005",
+          "SHIKOKU",
+          "MAN B. & W. 6S46MC-C7.1 4 x 30 T, BWTS fitted",
+          "SS 05/25 DD 04/23",
+          "USD 12.7 M",
+          "MIDDLE EASTERNS"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          169.1,
+          194.2,
+          0
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tankers – Chemicals – LPG/LNGs",
+      "page": 1,
+      "bbox": [
+        28.32,
+        221.23,
+        567.1,
+        300.17
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "CELSIUS MEXICO",
+          "20,866",
+          "2008",
+          "SHIN KURUSHIMA",
+          "MAN B. & W. 6S42MC7.1 Stainless Steel, 20 Pumps IMO II/III, BWTS Due",
+          "SS 09/22 DD 09/22",
+          "USD 14.9 M",
+          "CHINESE"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          268.0,
+          300.2,
+          0
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Demolition - Bulk Carriers GCs",
+      "title": "Bulk Carriers – GCs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        77.47,
+        567.1,
+        229.1
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "WINNING INTEGRITY",
+          "172,571",
+          "2000 Japan",
+          "21,216 LDT",
+          "USD 602.50/LTD (Sale including about 200 tons bunkers RoB)",
+          "‘as is’ Singapore"
+        ],
+        [
+          "CHANG SHENG",
+          "75,752",
+          "1998 Japan",
+          "9,824 LDT",
+          "U/D",
+          "‘as is’ Singapore"
+        ],
+        [
+          "BEI LUN 6",
+          "43,665",
+          "1989 Japan",
+          "8,015 LDT",
+          "USD 611/LTD",
+          "Bangladesh"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          123.1,
+          183.4,
+          0
+        ],
+        [
+          2,
+          183.4,
+          206.2,
+          1
+        ],
+        [
+          2,
+          206.2,
+          229.1,
+          2
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    },
+    {
+      "name": "Demolition - Tankers",
+      "title": "Tankers – Chemicals – LPGs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        252.55,
+        567.1,
+        363.17
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2022-09-09",
-      "stem": "2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c",
-      "source_file": "2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf",
-      "section": "Bulker Sales",
+      "report_week": 36,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf",
+      "source_sha256": "971d58b5e8a3cd9233e3ed731a8031e8f1ff3971b66d1737e914fa4bc834060c",
+      "section": "bulk",
+      "vessel": "ECO DESTINY",
       "page": 1,
+      "dwt_raw": "35,287",
+      "dwt": 35287,
+      "built_year": 2005,
+      "yard": "SHIKOKU",
+      "details": "MAN B. & W. 6S46MC-C7.1 4 x 30 T, BWTS fitted",
+      "ss_dd": "SS 05/25 DD 04/23",
+      "price_raw": "USD 12.7 M",
+      "price_usd_m": 12.7,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "MIDDLE EASTERNS",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2005",
+      "price_usd_m_per_vessel": 12.7,
       "NAME": "ECO DESTINY",
-      "TYPE": "Handysize",
-      "DWT": "35,287",
-      "BUILT": "",
-      "YARD": "MAN B. 2005 SHIKOKU 4 x",
-      "PRICE": "USD 12.7 M MIDDLE",
-      "BUYERS": "EASTERNS",
-      "SS_DD": "05/25 04/23",
-      "COMMENTS": "& W. 6S46MC-C7.1 SS 30 T, BWTS fitted DD",
-      "raw_built": "MAN B. 2005 SHIKOKU 4 x",
-      "raw_details": "& W. 6S46MC-C7.1 SS 30 T, BWTS fitted DD"
+      "DWT": 35287,
+      "BUILT": 2005,
+      "YARD": "SHIKOKU",
+      "PRICE": "USD 12.7 M",
+      "BUYERS": "MIDDLE EASTERNS",
+      "SS_DD": "SS 05/25 DD 04/23"
     },
     {
       "issue_date": "2022-09-09",
-      "stem": "2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c",
-      "source_file": "2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf",
-      "section": "Tanker Sales",
+      "report_week": 36,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf",
+      "source_sha256": "971d58b5e8a3cd9233e3ed731a8031e8f1ff3971b66d1737e914fa4bc834060c",
+      "section": "tanker",
+      "vessel": "CELSIUS MEXICO",
       "page": 1,
+      "dwt_raw": "20,866",
+      "dwt": 20866,
+      "built_year": 2008,
+      "yard": "SHIN KURUSHIMA",
+      "details": "MAN B. & W. 6S42MC7.1 Stainless Steel, 20 Pumps IMO II/III, BWTS Due",
+      "ss_dd": "SS 09/22 DD 09/22",
+      "price_raw": "USD 14.9 M",
+      "price_usd_m": 14.9,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "CHINESE",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2008",
+      "price_usd_m_per_vessel": 14.9,
       "NAME": "CELSIUS MEXICO",
-      "TYPE": "Handysize",
-      "DWT": "20,866",
-      "BUILT": "",
-      "YARD": "MAN 2008 Stainless SHIN KURUSHIMA IMO",
+      "DWT": 20866,
+      "BUILT": 2008,
+      "YARD": "SHIN KURUSHIMA",
       "PRICE": "USD 14.9 M",
       "BUYERS": "CHINESE",
-      "SS_DD": "09/22 09/22",
-      "COMMENTS": "B. & W. 6S42MC7.1 SS Steel, 20 Pumps DD II/III, BWTS Due",
-      "raw_built": "MAN 2008 Stainless SHIN KURUSHIMA IMO",
-      "raw_details": "B. & W. 6S42MC7.1 SS Steel, 20 Pumps DD II/III, BWTS Due"
+      "SS_DD": "SS 09/22 DD 09/22"
     }
   ],
   "demolitions": [
     {
       "issue_date": "2022-09-09",
-      "stem": "2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c",
-      "source_file": "2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf",
-      "section": "Bulker Sales",
+      "report_week": 36,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf",
+      "source_sha256": "971d58b5e8a3cd9233e3ed731a8031e8f1ff3971b66d1737e914fa4bc834060c",
+      "section": "bulk",
+      "vessel": "WINNING INTEGRITY",
       "page": 2,
-      "NAME": "WINNING INTEGRITY",
-      "TYPE": "Capesize",
-      "DWT": "172,571",
-      "BUILT": "2000",
-      "YARD": "Japan",
-      "PRICE": "602.50/LTD 'as is' including 200 tons RoB)",
-      "DELIVERY": "Singapore",
-      "COMMENTS": "21,216 LDT",
-      "raw_built": "2000 Japan"
+      "dwt_raw": "172,571",
+      "dwt": 172571,
+      "built_year": 2000,
+      "built_place": "Japan",
+      "ldt": 21216,
+      "price_raw": "USD 602.50/LTD (Sale including about 200 tons bunkers RoB)",
+      "price_usd_ldt": 602.5,
+      "destination": "‘as is’ Singapore",
+      "details": "21,216 LDT",
+      "built_raw": "2000 Japan"
     },
     {
       "issue_date": "2022-09-09",
-      "stem": "2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c",
-      "source_file": "2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf",
-      "section": "Bulker Sales",
+      "report_week": 36,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf",
+      "source_sha256": "971d58b5e8a3cd9233e3ed731a8031e8f1ff3971b66d1737e914fa4bc834060c",
+      "section": "bulk",
+      "vessel": "CHANG SHENG",
       "page": 2,
-      "NAME": "CHANG SHENG",
-      "TYPE": "Panamax",
-      "DWT": "75,752",
-      "BUILT": "1998",
-      "YARD": "Japan",
-      "PRICE": "U/D 'as is'",
-      "DELIVERY": "Singapore",
-      "COMMENTS": "9,824 LDT",
-      "raw_built": "1998 Japan"
+      "dwt_raw": "75,752",
+      "dwt": 75752,
+      "built_year": 1998,
+      "built_place": "Japan",
+      "ldt": 9824,
+      "price_raw": "U/D",
+      "price_usd_ldt": "",
+      "destination": "‘as is’ Singapore",
+      "details": "9,824 LDT",
+      "built_raw": "1998 Japan"
     },
     {
       "issue_date": "2022-09-09",
-      "stem": "2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c",
-      "source_file": "2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf",
-      "section": "Bulker Sales",
+      "report_week": 36,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf",
+      "source_sha256": "971d58b5e8a3cd9233e3ed731a8031e8f1ff3971b66d1737e914fa4bc834060c",
+      "section": "bulk",
+      "vessel": "BEI LUN 6",
       "page": 2,
-      "NAME": "BEI LUN 6",
-      "TYPE": "Handysize",
-      "DWT": "43,665",
-      "BUILT": "1989",
-      "YARD": "Japan",
-      "PRICE": "611/LTD Bangladesh",
-      "DELIVERY": "",
-      "COMMENTS": "8,015 LDT",
-      "raw_built": "1989 Japan"
+      "dwt_raw": "43,665",
+      "dwt": 43665,
+      "built_year": 1989,
+      "built_place": "Japan",
+      "ldt": 8015,
+      "price_raw": "USD 611/LTD",
+      "price_usd_ldt": 611.0,
+      "destination": "Bangladesh",
+      "details": "8,015 LDT",
+      "built_raw": "1989 Japan"
     }
   ]
 }

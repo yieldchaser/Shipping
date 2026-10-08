@@ -356,6 +356,9 @@ def run_file(plan: FilePlan, profile: dict[str, Any], source: str, staging: Path
         flags.append("few_tables")
     if unassigned:
         flags.append(f"table_unassigned_words={unassigned}")
+    mismatched = sum(t.get("shared_cell_count_mismatch", 0) for t in (res.get("tables") or []))
+    if mismatched:
+        flags.append(f"shared_cell_count_mismatch={mismatched}")
     frag_res = [re.compile(p) for p in (profile.get("table_fragment_patterns") or [])]
     if frag_res and engine == "pymupdf_table":
         frag = [ln for ln in body.split("\n") if ln.strip() and not ln.lstrip().startswith(("|", "#"))

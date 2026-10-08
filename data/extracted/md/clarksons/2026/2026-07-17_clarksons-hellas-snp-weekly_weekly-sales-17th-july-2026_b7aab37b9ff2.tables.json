@@ -1,45 +1,214 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2026-07-17",
-  "printed_date": "17/07/2026",
-  "source_file": "2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2.pdf",
+  "report_week": 29,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2.pdf",
+  "source_sha256": "2da792497fc5dea1c1aa81367971b7d380e3fd5ea12e080b10b96fc27afd13df",
   "sales_count": 2,
   "demo_count": 0,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulker Sales",
+      "page": 2,
+      "bbox": [
+        40.92,
+        253.86,
+        555.94,
+        442.07
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "HEROIC",
+          "182,060",
+          "2010",
+          "ODENSE LINDO",
+          "B&W 6S70MC-C7.2",
+          "SS 10/30 DD 09/27",
+          "USD 32,8 M",
+          "EUROPEAN"
+        ],
+        [
+          "BLUE AKIHABARA",
+          "61,630",
+          "2014",
+          "NANTONG COSCO KHI (NACKS)",
+          "B&W 6S50ME-B9.2 CR:4X30T",
+          "SS 03/29 DD 03/27",
+          "USD XS 25 M",
+          "U/D"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "header-midpoints",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          316.6,
+          354.5,
+          0
+        ],
+        [
+          2,
+          354.5,
+          404.8,
+          1
+        ]
+      ],
+      "column_bounds": [
+        0.0,
+        119.9,
+        191.0,
+        271.1,
+        354.3,
+        425.6,
+        500.5,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tanker Sales",
+      "page": 2,
+      "bbox": [
+        40.92,
+        445.76,
+        567.94,
+        554.11
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "header-midpoints",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        0.0,
+        120.1,
+        195.1,
+        285.8,
+        379.2,
+        452.8,
+        519.6,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2026-07-17",
-      "stem": "2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2",
-      "source_file": "2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2.pdf",
-      "section": "Bulker Sales",
+      "report_week": 29,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2.pdf",
+      "source_sha256": "2da792497fc5dea1c1aa81367971b7d380e3fd5ea12e080b10b96fc27afd13df",
+      "section": "bulk",
+      "vessel": "HEROIC",
       "page": 2,
+      "dwt_raw": "182,060",
+      "dwt": 182060,
+      "built_year": 2010,
+      "yard": "ODENSE LINDO",
+      "details": "B&W 6S70MC-C7.2",
+      "ss_dd": "SS 10/30 DD 09/27",
+      "price_raw": "USD 32,8 M",
+      "price_usd_m": 32.8,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "EUROPEAN",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2010",
+      "price_usd_m_per_vessel": 32.8,
       "NAME": "HEROIC",
-      "TYPE": "Capesize",
-      "DWT": "182,060",
-      "BUILT": "2010",
+      "DWT": 182060,
+      "BUILT": 2010,
       "YARD": "ODENSE LINDO",
       "PRICE": "USD 32,8 M",
       "BUYERS": "EUROPEAN",
-      "SS_DD": "SS 10/30 DD 09/27",
-      "COMMENTS": "B&W 6S70MC-C7.2",
-      "raw_built": "2010 ODENSE LINDO",
-      "raw_details": "B&W 6S70MC-C7.2"
+      "SS_DD": "SS 10/30 DD 09/27"
     },
     {
       "issue_date": "2026-07-17",
-      "stem": "2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2",
-      "source_file": "2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2.pdf",
-      "section": "Bulker Sales",
+      "report_week": 29,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2.pdf",
+      "source_sha256": "2da792497fc5dea1c1aa81367971b7d380e3fd5ea12e080b10b96fc27afd13df",
+      "section": "bulk",
+      "vessel": "BLUE AKIHABARA",
       "page": 2,
+      "dwt_raw": "61,630",
+      "dwt": 61630,
+      "built_year": 2014,
+      "yard": "NANTONG COSCO KHI (NACKS)",
+      "details": "B&W 6S50ME-B9.2 CR:4X30T",
+      "ss_dd": "SS 03/29 DD 03/27",
+      "price_raw": "USD XS 25 M",
+      "price_usd_m": 25.0,
+      "price_qualifier": "XS",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2014",
+      "price_usd_m_per_vessel": 25.0,
       "NAME": "BLUE AKIHABARA",
-      "TYPE": "Ultramax",
-      "DWT": "61,630",
-      "BUILT": "2014",
+      "DWT": 61630,
+      "BUILT": 2014,
       "YARD": "NANTONG COSCO KHI (NACKS)",
       "PRICE": "USD XS 25 M",
       "BUYERS": "U/D",
-      "SS_DD": "SS 03/29 DD 03/27",
-      "COMMENTS": "B&W 6S50ME-B9.2 CR:4X30T",
-      "raw_built": "2014 NANTONG COSCO KHI (NACKS)",
-      "raw_details": "B&W 6S50ME-B9.2 CR:4X30T"
+      "SS_DD": "SS 03/29 DD 03/27"
     }
   ],
   "demolitions": []

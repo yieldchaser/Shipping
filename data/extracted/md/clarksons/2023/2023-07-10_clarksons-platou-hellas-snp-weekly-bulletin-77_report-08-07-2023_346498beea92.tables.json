@@ -1,97 +1,426 @@
 {
-  "issue_date": "2023-07-10",
-  "printed_date": "10/07/2023",
-  "source_file": "2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
+  "schema": "parse_engine/v1",
+  "issue_date": "2023-07-08",
+  "report_week": 27,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
+  "source_sha256": "486aa2357a84ce48540dc70506d93ccb43e1234406bbff966c7b2d8fa6374f42",
   "sales_count": 3,
   "demo_count": 2,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulk Carriers",
+      "page": 1,
+      "bbox": [
+        27.77,
+        121.9,
+        567.25,
+        266.58
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "BENITAMOU",
+          "206,291",
+          "2008",
+          "IMABARI",
+          "MAN B. & W. 6S70MC-C7.1, BWTS fitted",
+          "SS 05/27 DD 07/25",
+          "HIGH USD 22 M (BBHP)",
+          "CHINESE"
+        ],
+        [
+          "AQUAMARINE",
+          "182,060",
+          "2009",
+          "ODENSE",
+          "MAN B. & W. 6S70MC-C7.1, BWTS fitted",
+          "SS 10/27 DD 11/24",
+          "USD 18.5 M",
+          "GREEKS"
+        ],
+        [
+          "MARYLISA V",
+          "52,428",
+          "2003",
+          "TSUNESIHI",
+          "MAN B. & W. 6S70MC, 4 X 30 T",
+          "SS 09/23 DD 09/23",
+          "USD 7.6 M",
+          "CHINESE"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          168.3,
+          206.0,
+          0
+        ],
+        [
+          1,
+          206.0,
+          236.3,
+          1
+        ],
+        [
+          1,
+          236.3,
+          266.6,
+          2
+        ]
+      ],
+      "column_bounds": [
+        28.5,
+        113.6,
+        156.1,
+        241.1,
+        354.6,
+        404.2,
+        489.2,
+        567.2
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tankers – Chemicals – LPG/LNGs",
+      "page": 1,
+      "bbox": [
+        28.52,
+        287.7,
+        567.25,
+        359.35
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.5,
+        113.6,
+        156.1,
+        241.1,
+        354.6,
+        404.2,
+        489.2,
+        567.2
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Demolition - Bulk Carriers GCs",
+      "title": "Bulk Carriers – GCs – CVs",
+      "page": 2,
+      "bbox": [
+        28.52,
+        316.45,
+        567.25,
+        407.62
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "SHUN FENG 9",
+          "73,350",
+          "1994 JAPAN",
+          "10,356 LDT",
+          "USD 510/LT",
+          "‘AS IS’ CHINA"
+        ],
+        [
+          "JI YOU",
+          "45,296",
+          "1994 JAPAN",
+          "7,548 LDT",
+          "USD 510/LT",
+          "‘AS IS’ CHINA"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          361.9,
+          384.6,
+          0
+        ],
+        [
+          2,
+          384.6,
+          407.6,
+          1
+        ]
+      ],
+      "column_bounds": [
+        28.5,
+        125.6,
+        180.8,
+        267.9,
+        400.2,
+        461.0,
+        567.2
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    },
+    {
+      "name": "Demolition - Tankers",
+      "title": "Tankers – Chemicals – LPGs",
+      "page": 2,
+      "bbox": [
+        28.52,
+        430.97,
+        567.25,
+        522.65
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.5,
+        125.6,
+        180.8,
+        267.9,
+        400.2,
+        461.0,
+        567.2
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    }
+  ],
   "sales": [
     {
-      "issue_date": "2023-07-10",
-      "stem": "2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92",
-      "source_file": "2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
-      "section": "Bulker Sales",
+      "issue_date": "2023-07-08",
+      "report_week": 27,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
+      "source_sha256": "486aa2357a84ce48540dc70506d93ccb43e1234406bbff966c7b2d8fa6374f42",
+      "section": "bulk",
+      "vessel": "BENITAMOU",
       "page": 1,
+      "dwt_raw": "206,291",
+      "dwt": 206291,
+      "built_year": 2008,
+      "yard": "IMABARI",
+      "details": "MAN B. & W. 6S70MC-C7.1, BWTS fitted",
+      "ss_dd": "SS 05/27 DD 07/25",
+      "price_raw": "HIGH USD 22 M (BBHP)",
+      "price_usd_m": 22.0,
+      "price_qualifier": "HIGH",
+      "price_scope": "vessel",
+      "buyer": "CHINESE",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2008",
+      "price_usd_m_per_vessel": 22.0,
       "NAME": "BENITAMOU",
-      "TYPE": "Capesize",
-      "DWT": "206,291",
-      "BUILT": "",
-      "YARD": "MAN 2008 IMABARI",
-      "PRICE": "USD 22 M (BBHP)",
+      "DWT": 206291,
+      "BUILT": 2008,
+      "YARD": "IMABARI",
+      "PRICE": "HIGH USD 22 M (BBHP)",
       "BUYERS": "CHINESE",
-      "SS_DD": "HIGH 05/27 07/25",
-      "COMMENTS": "B. & W. 6S70MC- SS C7.1, BWTS fitted DD",
-      "raw_built": "MAN 2008 IMABARI",
-      "raw_details": "B. & W. 6S70MC- SS C7.1, BWTS fitted DD"
+      "SS_DD": "SS 05/27 DD 07/25"
     },
     {
-      "issue_date": "2023-07-10",
-      "stem": "2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92",
-      "source_file": "2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
-      "section": "Bulker Sales",
+      "issue_date": "2023-07-08",
+      "report_week": 27,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
+      "source_sha256": "486aa2357a84ce48540dc70506d93ccb43e1234406bbff966c7b2d8fa6374f42",
+      "section": "bulk",
+      "vessel": "AQUAMARINE",
       "page": 1,
+      "dwt_raw": "182,060",
+      "dwt": 182060,
+      "built_year": 2009,
+      "yard": "ODENSE",
+      "details": "MAN B. & W. 6S70MC-C7.1, BWTS fitted",
+      "ss_dd": "SS 10/27 DD 11/24",
+      "price_raw": "USD 18.5 M",
+      "price_usd_m": 18.5,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "GREEKS",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2009",
+      "price_usd_m_per_vessel": 18.5,
       "NAME": "AQUAMARINE",
-      "TYPE": "Capesize",
-      "DWT": "182,060",
-      "BUILT": "",
-      "YARD": "MAN B. 2009 ODENSE",
+      "DWT": 182060,
+      "BUILT": 2009,
+      "YARD": "ODENSE",
       "PRICE": "USD 18.5 M",
       "BUYERS": "GREEKS",
-      "SS_DD": "10/27 11/24",
-      "COMMENTS": "& W. 6S70MC-C7.1, SS BWTS fitted DD",
-      "raw_built": "MAN B. 2009 ODENSE",
-      "raw_details": "& W. 6S70MC-C7.1, SS BWTS fitted DD"
+      "SS_DD": "SS 10/27 DD 11/24"
     },
     {
-      "issue_date": "2023-07-10",
-      "stem": "2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92",
-      "source_file": "2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
-      "section": "Bulker Sales",
+      "issue_date": "2023-07-08",
+      "report_week": 27,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
+      "source_sha256": "486aa2357a84ce48540dc70506d93ccb43e1234406bbff966c7b2d8fa6374f42",
+      "section": "bulk",
+      "vessel": "MARYLISA V",
       "page": 1,
+      "dwt_raw": "52,428",
+      "dwt": 52428,
+      "built_year": 2003,
+      "yard": "TSUNESIHI",
+      "details": "MAN B. & W. 6S70MC, 4 X 30 T",
+      "ss_dd": "SS 09/23 DD 09/23",
+      "price_raw": "USD 7.6 M",
+      "price_usd_m": 7.6,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "CHINESE",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2003",
+      "price_usd_m_per_vessel": 7.6,
       "NAME": "MARYLISA V",
-      "TYPE": "Supramax",
-      "DWT": "52,428",
-      "BUILT": "",
-      "YARD": "MAN 2003 TSUNESIHI",
+      "DWT": 52428,
+      "BUILT": 2003,
+      "YARD": "TSUNESIHI",
       "PRICE": "USD 7.6 M",
       "BUYERS": "CHINESE",
-      "SS_DD": "09/23 09/23",
-      "COMMENTS": "B. & W. 6S70MC, SS 4 X 30 T DD",
-      "raw_built": "MAN 2003 TSUNESIHI",
-      "raw_details": "B. & W. 6S70MC, SS 4 X 30 T DD"
+      "SS_DD": "SS 09/23 DD 09/23"
     }
   ],
   "demolitions": [
     {
-      "issue_date": "2023-07-10",
-      "stem": "2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92",
-      "source_file": "2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
-      "section": "Bulker Sales",
+      "issue_date": "2023-07-08",
+      "report_week": 27,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
+      "source_sha256": "486aa2357a84ce48540dc70506d93ccb43e1234406bbff966c7b2d8fa6374f42",
+      "section": "bulk",
+      "vessel": "SHUN FENG 9",
       "page": 2,
-      "NAME": "SHUN FENG 9",
-      "TYPE": "Panamax",
-      "DWT": "73,350",
-      "BUILT": "1994",
-      "YARD": "JAPAN",
-      "PRICE": "510/LT 'AS IS'",
-      "DELIVERY": "CHINA",
-      "COMMENTS": "10,356 LDT",
-      "raw_built": "1994 JAPAN"
+      "dwt_raw": "73,350",
+      "dwt": 73350,
+      "built_year": 1994,
+      "built_place": "JAPAN",
+      "ldt": 10356,
+      "price_raw": "USD 510/LT",
+      "price_usd_ldt": 510.0,
+      "destination": "‘AS IS’ CHINA",
+      "details": "10,356 LDT",
+      "built_raw": "1994 JAPAN"
     },
     {
-      "issue_date": "2023-07-10",
-      "stem": "2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92",
-      "source_file": "2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
-      "section": "Bulker Sales",
+      "issue_date": "2023-07-08",
+      "report_week": 27,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
+      "source_sha256": "486aa2357a84ce48540dc70506d93ccb43e1234406bbff966c7b2d8fa6374f42",
+      "section": "bulk",
+      "vessel": "JI YOU",
       "page": 2,
-      "NAME": "JI YOU",
-      "TYPE": "Supramax",
-      "DWT": "45,296",
-      "BUILT": "1994",
-      "YARD": "JAPAN",
-      "PRICE": "510/LT 'AS IS'",
-      "DELIVERY": "CHINA",
-      "COMMENTS": "7,548 LDT",
-      "raw_built": "1994 JAPAN"
+      "dwt_raw": "45,296",
+      "dwt": 45296,
+      "built_year": 1994,
+      "built_place": "JAPAN",
+      "ldt": 7548,
+      "price_raw": "USD 510/LT",
+      "price_usd_ldt": 510.0,
+      "destination": "‘AS IS’ CHINA",
+      "details": "7,548 LDT",
+      "built_raw": "1994 JAPAN"
     }
   ]
 }

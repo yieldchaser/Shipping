@@ -57,10 +57,6 @@ jobs:
           python scripts/build_views.py || true
           python scripts/extract_demolition_pdfs.py || true
           python scripts/extract/orchestrate_incremental_ingest.py || true
-          # Clarksons: parse and promote only NEW issues (never overwrites; the legacy extractor is retired)
-          python -m scripts.parse_engine run --source clarksons --new-only || true
-          python -m scripts.parse_engine promote --source clarksons --new-only --apply || true
-          python -m scripts.parse_engine series --source clarksons --root data/extracted/md/clarksons --out-dir data/extracted/series --require-engine-schema || true
           python scripts/extract/sync_digests.py || true
           # TODO: quality gate script does not exist yet
           python scripts/verify/build_corpus_inventory.py --merge-existing || true

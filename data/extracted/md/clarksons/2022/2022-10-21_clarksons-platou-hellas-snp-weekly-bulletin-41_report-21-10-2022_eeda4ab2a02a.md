@@ -1,51 +1,76 @@
 ---
-title: "Clarksons Hellas S&P Weekly - 21/10/2022"
-issue_date: "2022-10-21"
-year: "2022"
-broker: "Clarksons Hellas"
-category: "market_report"
-source_file: "corpus/02-hellenic/shipbuilding/pdfs/2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a.pdf"
+title: Clarksons Hellas S&P Weekly Bulletin 2022-10-21
+publisher: Clarksons Hellas
+source: clarksons
+issue_date: '2022-10-21'
+document_header_date: '2022-10-21'
+issue_date_conflict: false
+year: 2022
+source_file: corpus/02-hellenic/shipbuilding/pdfs/2022/2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a.pdf
+source_sha256: 17338c5cee63f699da98fe6e6e2010e905fe3fabb6cc75ae1dd0640fdce61418
+pages_total: 3
+pages_parsed: 1-2
+parser: pymupdf_table + pymupdf_prose
+parsed_at: '2026-10-08T04:23:38Z'
 ---
 
-# Clarksons Hellas S&P Weekly - 21/10/2022
+# Bulk Carriers
 
-- **Date**: 2022-10-21 (21/10/2022)
-- **Source**: `corpus/02-hellenic/shipbuilding/pdfs/2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a.pdf`
-- **Publisher**: Clarksons Hellas Ltd.
+| Vessel | DWT | Year | Yard | Details | SS/DD | Price | Buyer |
+|---|---|---|---|---|---|---|---|
+| ARETHOUSA | 169,770 | 2001 | SASEBO HI | MAN B. & W. 6S70MC6.1 BWTS Fitted | SS 06/26 DD 07/24 | USD 15.1 M | GREEKS |
+| CMB CHARDONNAY | 95,707 | 2012 | KOYO | MAN B. & W. 6S60MC-C7.2 BWTS Due | SS 11/22 DD 11/22 | USD 20.8 M | CHINESE |
+| LARA VENTURE | 93,758 | 2011 | SHANHAIGUAN | MAN-B&W 6S60MC6.2 BWTS Fitted | SS 09/26 DD 11/24 | USD 20.2 M | M. EASTERNS |
+| AROUZU | 82,250 | 2012 | TSUNEISHI | MAN B. & W. 6S60MC-C7.2 BWTS & SCRUBBER Fitted | SS 03/27 DD 01/25 | USD 24.75 M | GREEKS |
+| MSXT HERA | 81,738 | 2018 | CHENGXI | MAN-B&W 6S60ME-C8.2 BWTS Fitted | SS 11/23 DD 11/23 | USD 54 M (En Bloc) | CHINESE |
+| CCS ORCHID | 81,966 | 2017 | JNS | MAN-B&W 6S60ME-C8.2 BWTS Fitted | SS 01/27 DD 02/25 | USD 54 M (En Bloc) | CHINESE |
+| SEAWIND | 75,637 | 2006 | SANOYAS | MAN B. & W. 7S50MC-C8.1 BWTS Fitted | SS 05/26 DD 09/24 | USD 15.2 M | U/D |
+| ULTRA WOLLONGONG | 61,684 | 2011 | OSHIMA | MAN-B&W 6S50MC-C8.2 4 x 30 T, BWTS Fitted | SS 06/26 DD 06/24 | LOW USD 22 M | HK BASED |
+| OCEAN SATOKO | 37,215 | 2011 | HMD | MAN B. & W. 6S46MC-C7.2 4 x 30 T, BWTS Fitted | SS 12/26 DD 12/24 | USD 16.9 M | FAR EASTERNS |
 
-## Desk Commentary
+# Tankers – Chemicals – LPG/LNGs
 
-### Desk Talk
+| Vessel | DWT | Year | Yard | Details | SS/DD | Price | Buyer |
+|---|---|---|---|---|---|---|---|
+| EUROPE | 442,470 | 2002 | DAEWOO | SULZER 9RTA84T-D Floating Storage Unit | SS 11/22 DD 11/22 | USD 42.5 M | U/D |
+| CAP PHILIPPE | 158,920 | 2006 | SAMSUNG HI | MAN-B&W 6S70ME-C7.1 1C, Ice Class BWTS Fitted | SS 07/26 DD 08/24 | USD 35 M | U/D |
+
+# New Building
+
+In tankers this week, it has been reported that EPS contracted four firm plus two optional 50k dwt MRs at New Times, with the first firm vessel expected to deliver in 2Q 2025, the second firm vessel in 3Q 2025 and the final two vessels in 4Q 2025.
+
+In the gas carrier market, DSME confirmed taking orders for two firm 200k CBM LNG Carriers from Venture Global, with the vessels slated for delivery in 2H 2026. Samsung announced contracting two firm 88k CBM VLGCs from EPS, with the vessels set for delivery in 2H 2025.
+
+In Containers, Amasus shipping announced contracting four firm 4k dwt, 214 TEU MPP’s at Bogazici Denizcilik, with the first vessel expected to deliver in 2023 and the other vessels in 2024.
+
+In the Ferry market, Tongzhou Ferry ordered a 500 passenger, 20 Car Passenger Ferry at Zhejiang Kailing SB, with the vessel expected to deliver in end 2023.
+
+# Recycling
+
+## Green Steel!
 
 All eyes this week were on the Tradewinds Ship Recycling Forum in Dubai where it was the highest ever attended conference, with just under 300 personnel descending on this annual event. This was a very encouraging and positive sign for the industry, despite the lack of market activity this year. However, it was disappointing to note the lack of participation from the ship owning community, who have a significant stake in this important shipping pillar.
 
-## S&P Transaction Tables
+The main topics of debate and discussions this week were surprisingly not centred around aggressive pressure from the NGO’s and other environmental groups but more aligned to green steel and sustainability in ship operations and ship materials. The current focus was on decarbonisation and the downstream scenario from the steel that is recycled from vessels and how this could impact the further environment.
 
-### Bulker Sales
+Several presentations were provided to the audience by the ship recyclers and organisations from all three destinations in the Indian sub. Continent and Turkey which continued to show positive signs of improvement. One encouraging announcement was from the representative of Pakistan who informed the conference attendees that the Federal Government of Pakistan through various local associations has in principle recently confirmed their approval to proceed with the signing and ratification of the Hong Kong Convention for the safe and environmentally sound ship recycling. This is one big step but we hasten to add, their domestic yards in Gadani will take several years to implement the change in their yards with the impermeable flooring etc. But much credit must be given to the local authorities for their commitment to work towards a much better and safer recycling business in Pakistan. Change has to begin somewhere!
 
-| Vessel | DWT | Built | Yard | Details | SS/DD | Price | Buyer |
-|---|---|---|---|---|---|---|---|
-| ARETHOUSA | 169,770 |  | MAN B. 2001 SASEBO HI MAN B. | & W. 6S70MC6.1 SS BWTS Fitted DD & W. 6S60MC-C7.2 | 06/26 07/24 | USD 15.1 M | GREEKS |
-| CMB CHARDONNAY | 95,707 |  | MAN B. 2012 KOYO MAN-B&W | & W. 6S60MC-C7.2 SS BWTS Due DD 6S60MC6.2 | 11/22 11/22 | USD 20.8 M | CHINESE |
-| LARA VENTURE | 93,758 |  | MAN-B&W 2011 SHANHAIGUAN | 6S60MC6.2 SS BWTS Fitted DD | 09/26 11/24 | USD 20.2 M M. | EASTERNS |
-| AROUZU | 82,250 |  | MAN B. 2012 TSUNEISHI BWTS & MAN-B&W | & W. 6S60MC-C7.2 SS SCRUBBER Fitted DD 6S60ME-C8.2 | 03/27 USD 01/25 | 24.75 M | GREEKS |
-| MSXT HERA | 81,738 |  | MAN-B&W 2018 CHENGXI MAN-B&W | 6S60ME-C8.2 SS BWTS Fitted DD 6S60ME-C8.2 | 11/23 11/23 | USD 54 M | CHINESE |
-| CCS ORCHID | 81,966 |  | MAN-B&W 2017 JNS MAN B. | 6S60ME-C8.2 SS BWTS Fitted DD & W. 7S50MC-C8.1 | 01/27 02/25 | (En Bloc) | CHINESE |
-| SEAWIND | 75,637 |  | MAN B. 2006 SANOYAS MAN-B&W | & W. 7S50MC-C8.1 SS BWTS Fitted DD 6S50MC-C8.2 | 05/26 09/24 | USD 15.2 M | U/D |
-| ULTRA WOLLONGONG | 61,684 |  | MAN-B&W 2011 OSHIMA 4 x MAN B. | 6S50MC-C8.2 SS 30 T, BWTS Fitted DD & W. 6S46MC-C7.2 SS | 06/26 LOW 06/24 12/26 | USD 22 M HK | BASED |
-| OCEAN SATOKO | 37,215 |  | MAN B. 2011 HMD 4 x | & W. 6S46MC-C7.2 SS 30 T, BWTS Fitted DD | 12/26 12/24 | USD 16.9 M FAR | EASTERNS |
+In addition, it was announced that the Government of Pakistan, through the local Ministry of Climate change, has also recently issued a National Hazardous Waste Management Policy of Pakistan 2022, again showing their commitment for a greener climate. Some ship recyclers in Pakistan are already preparing their yards for HKC compliancy. There was even talk of another 100 yards being developed to cater for further expansion, but this again will be several years down the line.
 
-### Tanker Sales
+Elsewhere the representatives from India and Bangladesh also showed their improved facilities and gave an insight into how they are looking to improve the recycling procedures downstream from the yards to the steel mills.
 
-| Vessel | DWT | Built | Yard | Details | SS/DD | Price | Buyer |
-|---|---|---|---|---|---|---|---|
-| EUROPE | 442,470 | 2002 | DAEWOO Floating MAN-B&W | SULZER 9RTA84T-D SS Storage Unit DD 6S70ME-C7.1 SS | 11/22 11/22 07/26 | USD 42.5 M | U/D |
-| CAP PHILIPPE | 158,920 |  | MAN-B&W 2006 SAMSUNG HI Ice Class | 6S70ME-C7.1 SS 1C, DD BWTS Fitted | 07/26 08/24 | USD 35 M | U/D |
+As for the current market conditions, everyone stressed how quiet the market has been and the scarcity of tonnage in the recycling yards. The general views were that this scenario will continue into the new year and beyond and whilst market prices currently remain stable, many predict a return towards the USD 500/ldt at some stage during next year due to the continuing financial implications caused by the uncertainty globally which will affect commodities and currencies. Next week will see the Diwali festivities arrive, therefore little activity is expected, and we take this opportunity to wish all those celebrating, a Happy Diwali and all the best for much success and good health for the coming year.
 
-## Contact & Legal Disclaimer
+# Demolition
 
-**Clarkson Hellas Ltd.**  
-Direct: +(30) 210 458 6700 | Fax: +(30) 210 458 6799  
-Website: www.clarksons.com  
+## Bulk Carriers – GCs
 
-> *The material and information contained herein are provided by Clarkson Hellas Ltd for general information purposes only.*
+| Vessel | DWT | Built | Details | Price | Delivery |
+|---|---|---|---|---|---|
+| No reported sales |  |  |  |  |  |
+
+## Tankers – Chemicals – LPGs
+
+| Vessel | DWT | Built | Details | Price | Delivery |
+|---|---|---|---|---|---|
+| No reported sales |  |  |  |  |  |

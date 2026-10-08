@@ -1,129 +1,492 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2023-08-11",
-  "printed_date": "11/08/2023",
-  "source_file": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
+  "report_week": 32,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
+  "source_sha256": "b2cef29bd06ab8184f3334208670dab71dddd367ba507c55c24c7bc4cf01cada",
   "sales_count": 3,
   "demo_count": 4,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulk Carriers",
+      "page": 1,
+      "bbox": [
+        22.68,
+        122.35,
+        568.54,
+        249.02
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "ARIADNE",
+          "180,010",
+          "2009",
+          "DAEWOO",
+          "MAN-B&W 6S70MC-C7.1, BWTS FITTED",
+          "SS 02/24 DD 02/24",
+          "XS USD 21 M",
+          "U/D"
+        ],
+        [
+          "NAVIOS SOUTHERN STAR",
+          "82,224",
+          "2013",
+          "TSUNEISHI ZOSEN",
+          "MAN B. & W. 6S60MC-C7.2 BWTS fitted",
+          "SS 04/28 DD 04/26",
+          "USD 21.5 M",
+          "GREEKS"
+        ],
+        [
+          "KK MINERAL",
+          "45,429",
+          "2017",
+          "TSUNEISHI ZHOUSHAN",
+          "MAN B. & W. 6S50MC-C8.2 4 X 30 T, BWTS fitted",
+          "SS 05/27 DD 07/25",
+          "USD 22 M",
+          "CHINESE"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          169.1,
+          191.8,
+          0
+        ],
+        [
+          1,
+          191.8,
+          223.9,
+          1
+        ],
+        [
+          1,
+          223.9,
+          249.0,
+          2
+        ]
+      ],
+      "column_bounds": [
+        22.7,
+        107.7,
+        150.3,
+        241.0,
+        377.1,
+        433.9,
+        504.7,
+        568.5
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tankers – Chemicals – LPG/LNGs",
+      "page": 1,
+      "bbox": [
+        22.68,
+        270.1,
+        568.54,
+        341.93
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        22.7,
+        107.7,
+        150.3,
+        235.4,
+        377.1,
+        433.9,
+        504.7,
+        568.5
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Demolition - Bulk Carriers GCs",
+      "title": "Bulk Carriers – GCs – CVs",
+      "page": 2,
+      "bbox": [
+        22.68,
+        307.54,
+        561.34,
+        444.77
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "MV YUE",
+          "45,194",
+          "1996 TAIWAN",
+          "LDT 7,981",
+          "USD 475/LT",
+          "“AS IS” SINGAPORE"
+        ],
+        [
+          "CV HENG HUI 2",
+          "44,585",
+          "1993 GERMANY",
+          "LDT 14,775",
+          "USD 550/LT",
+          "“AS IS” COLOMBO"
+        ],
+        [
+          "CV MSC ERMINA",
+          "47,384",
+          "1994 JAPAN",
+          "LDT 17,695",
+          "USD 500/LT",
+          "INDIA"
+        ],
+        [
+          "CV SINOKOR TIANJIN",
+          "11,031",
+          "1998 CHINA",
+          "LDT 4,672",
+          "USD 600/LT",
+          "INDIA"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          353.2,
+          376.0,
+          0
+        ],
+        [
+          2,
+          376.0,
+          398.9,
+          1
+        ],
+        [
+          2,
+          398.9,
+          421.8,
+          2
+        ],
+        [
+          2,
+          421.8,
+          444.8,
+          3
+        ]
+      ],
+      "column_bounds": [
+        22.7,
+        119.9,
+        175.1,
+        261.9,
+        394.3,
+        455.1,
+        561.3
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    },
+    {
+      "name": "Demolition - Tankers",
+      "title": "Tankers – Chemicals – LPGs",
+      "page": 2,
+      "bbox": [
+        22.68,
+        468.24,
+        561.34,
+        643.42
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        22.7,
+        119.9,
+        175.1,
+        261.9,
+        394.3,
+        455.1,
+        561.3
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2023-08-11",
-      "stem": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2",
-      "source_file": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
-      "section": "Bulker Sales",
+      "report_week": 32,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
+      "source_sha256": "b2cef29bd06ab8184f3334208670dab71dddd367ba507c55c24c7bc4cf01cada",
+      "section": "bulk",
+      "vessel": "ARIADNE",
       "page": 1,
-      "NAME": "ARIADNE 180,010",
-      "TYPE": "Capesize",
-      "DWT": "180,010",
-      "BUILT": "2009",
+      "dwt_raw": "180,010",
+      "dwt": 180010,
+      "built_year": 2009,
+      "yard": "DAEWOO",
+      "details": "MAN-B&W 6S70MC-C7.1, BWTS FITTED",
+      "ss_dd": "SS 02/24 DD 02/24",
+      "price_raw": "XS USD 21 M",
+      "price_usd_m": 21.0,
+      "price_qualifier": "XS",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2009",
+      "price_usd_m_per_vessel": 21.0,
+      "NAME": "ARIADNE",
+      "DWT": 180010,
+      "BUILT": 2009,
       "YARD": "DAEWOO",
       "PRICE": "XS USD 21 M",
       "BUYERS": "U/D",
-      "SS_DD": "SS 02/24 DD 02/24",
-      "COMMENTS": "MAN-B&W 6S70MC-C7.1, BWTS FITTED",
-      "raw_built": "2009 DAEWOO",
-      "raw_details": "MAN-B&W 6S70MC-C7.1, BWTS FITTED"
+      "SS_DD": "SS 02/24 DD 02/24"
     },
     {
       "issue_date": "2023-08-11",
-      "stem": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2",
-      "source_file": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
-      "section": "Bulker Sales",
+      "report_week": 32,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
+      "source_sha256": "b2cef29bd06ab8184f3334208670dab71dddd367ba507c55c24c7bc4cf01cada",
+      "section": "bulk",
+      "vessel": "NAVIOS SOUTHERN STAR",
       "page": 1,
-      "NAME": "NAVIOS SOUTHERN 82,224 STAR",
-      "TYPE": "Kamsarmax",
-      "DWT": "82,224",
-      "BUILT": "",
-      "YARD": "MAN 2013 TSUNEISHI ZOSEN 2017 TSUNEISHI MAN",
+      "dwt_raw": "82,224",
+      "dwt": 82224,
+      "built_year": 2013,
+      "yard": "TSUNEISHI ZOSEN",
+      "details": "MAN B. & W. 6S60MC-C7.2 BWTS fitted",
+      "ss_dd": "SS 04/28 DD 04/26",
+      "price_raw": "USD 21.5 M",
+      "price_usd_m": 21.5,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "GREEKS",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2013",
+      "price_usd_m_per_vessel": 21.5,
+      "NAME": "NAVIOS SOUTHERN STAR",
+      "DWT": 82224,
+      "BUILT": 2013,
+      "YARD": "TSUNEISHI ZOSEN",
       "PRICE": "USD 21.5 M",
       "BUYERS": "GREEKS",
-      "SS_DD": "SS 04/28 DD 04/26 SS 05/27",
-      "COMMENTS": "B. & W. 6S60MC-C7.2 BWTS fitted B. & W. 6S50MC-C8.2",
-      "raw_built": "MAN 2013 TSUNEISHI ZOSEN 2017 TSUNEISHI MAN",
-      "raw_details": "B. & W. 6S60MC-C7.2 BWTS fitted B. & W. 6S50MC-C8.2"
+      "SS_DD": "SS 04/28 DD 04/26"
     },
     {
       "issue_date": "2023-08-11",
-      "stem": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2",
-      "source_file": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
-      "section": "Bulker Sales",
+      "report_week": 32,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
+      "source_sha256": "b2cef29bd06ab8184f3334208670dab71dddd367ba507c55c24c7bc4cf01cada",
+      "section": "bulk",
+      "vessel": "KK MINERAL",
       "page": 1,
-      "NAME": "KK MINERAL 45,429",
-      "TYPE": "Supramax",
-      "DWT": "45,429",
-      "BUILT": "2017",
-      "YARD": "TSUNEISHI MAN ZHOUSHAN 4",
+      "dwt_raw": "45,429",
+      "dwt": 45429,
+      "built_year": 2017,
+      "yard": "TSUNEISHI ZHOUSHAN",
+      "details": "MAN B. & W. 6S50MC-C8.2 4 X 30 T, BWTS fitted",
+      "ss_dd": "SS 05/27 DD 07/25",
+      "price_raw": "USD 22 M",
+      "price_usd_m": 22.0,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "CHINESE",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2017",
+      "price_usd_m_per_vessel": 22.0,
+      "NAME": "KK MINERAL",
+      "DWT": 45429,
+      "BUILT": 2017,
+      "YARD": "TSUNEISHI ZHOUSHAN",
       "PRICE": "USD 22 M",
       "BUYERS": "CHINESE",
-      "SS_DD": "SS 05/27 DD 07/25",
-      "COMMENTS": "B. & W. 6S50MC-C8.2 X 30 T, BWTS fitted",
-      "raw_built": "2017 TSUNEISHI MAN ZHOUSHAN 4",
-      "raw_details": "B. & W. 6S50MC-C8.2 X 30 T, BWTS fitted"
+      "SS_DD": "SS 05/27 DD 07/25"
     }
   ],
   "demolitions": [
     {
       "issue_date": "2023-08-11",
-      "stem": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2",
-      "source_file": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
-      "section": "Bulker Sales",
+      "report_week": 32,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
+      "source_sha256": "b2cef29bd06ab8184f3334208670dab71dddd367ba507c55c24c7bc4cf01cada",
+      "section": "bulk",
+      "vessel": "MV YUE",
       "page": 2,
-      "NAME": "MV YUE",
-      "TYPE": "Supramax",
-      "DWT": "45,194",
-      "BUILT": "1996",
-      "YARD": "TAIWAN",
-      "PRICE": "475/LT \"AS IS\"",
-      "DELIVERY": "SINGAPORE",
-      "COMMENTS": "LDT 7,981",
-      "raw_built": "1996 TAIWAN"
+      "dwt_raw": "45,194",
+      "dwt": 45194,
+      "built_year": 1996,
+      "built_place": "TAIWAN",
+      "ldt": "",
+      "price_raw": "USD 475/LT",
+      "price_usd_ldt": 475.0,
+      "destination": "“AS IS” SINGAPORE",
+      "details": "LDT 7,981",
+      "built_raw": "1996 TAIWAN"
     },
     {
       "issue_date": "2023-08-11",
-      "stem": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2",
-      "source_file": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
-      "section": "Bulker Sales",
+      "report_week": 32,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
+      "source_sha256": "b2cef29bd06ab8184f3334208670dab71dddd367ba507c55c24c7bc4cf01cada",
+      "section": "bulk",
+      "vessel": "CV HENG HUI 2",
       "page": 2,
-      "NAME": "CV HENG HUI 2",
-      "TYPE": "Handysize",
-      "DWT": "44,585",
-      "BUILT": "1993",
-      "YARD": "GERMANY",
-      "PRICE": "550/LT \"AS IS\"",
-      "DELIVERY": "COLOMBO",
-      "COMMENTS": "LDT 14,775",
-      "raw_built": "1993 GERMANY"
+      "dwt_raw": "44,585",
+      "dwt": 44585,
+      "built_year": 1993,
+      "built_place": "GERMANY",
+      "ldt": "",
+      "price_raw": "USD 550/LT",
+      "price_usd_ldt": 550.0,
+      "destination": "“AS IS” COLOMBO",
+      "details": "LDT 14,775",
+      "built_raw": "1993 GERMANY"
     },
     {
       "issue_date": "2023-08-11",
-      "stem": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2",
-      "source_file": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
-      "section": "Bulker Sales",
+      "report_week": 32,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
+      "source_sha256": "b2cef29bd06ab8184f3334208670dab71dddd367ba507c55c24c7bc4cf01cada",
+      "section": "bulk",
+      "vessel": "CV MSC ERMINA",
       "page": 2,
-      "NAME": "CV MSC ERMINA",
-      "TYPE": "Supramax",
-      "DWT": "47,384",
-      "BUILT": "1994",
-      "YARD": "JAPAN",
-      "PRICE": "500/LT INDIA",
-      "DELIVERY": "",
-      "COMMENTS": "LDT 17,695",
-      "raw_built": "1994 JAPAN"
+      "dwt_raw": "47,384",
+      "dwt": 47384,
+      "built_year": 1994,
+      "built_place": "JAPAN",
+      "ldt": "",
+      "price_raw": "USD 500/LT",
+      "price_usd_ldt": 500.0,
+      "destination": "INDIA",
+      "details": "LDT 17,695",
+      "built_raw": "1994 JAPAN"
     },
     {
       "issue_date": "2023-08-11",
-      "stem": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2",
-      "source_file": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
-      "section": "Bulker Sales",
+      "report_week": 32,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
+      "source_sha256": "b2cef29bd06ab8184f3334208670dab71dddd367ba507c55c24c7bc4cf01cada",
+      "section": "bulk",
+      "vessel": "CV SINOKOR TIANJIN",
       "page": 2,
-      "NAME": "CV SINOKOR TIANJIN",
-      "TYPE": "Handysize",
-      "DWT": "11,031",
-      "BUILT": "1998",
-      "YARD": "CHINA",
-      "PRICE": "600/LT INDIA",
-      "DELIVERY": "",
-      "COMMENTS": "LDT 4,672",
-      "raw_built": "1998 CHINA"
+      "dwt_raw": "11,031",
+      "dwt": 11031,
+      "built_year": 1998,
+      "built_place": "CHINA",
+      "ldt": "",
+      "price_raw": "USD 600/LT",
+      "price_usd_ldt": 600.0,
+      "destination": "INDIA",
+      "details": "LDT 4,672",
+      "built_raw": "1998 CHINA"
     }
   ]
 }

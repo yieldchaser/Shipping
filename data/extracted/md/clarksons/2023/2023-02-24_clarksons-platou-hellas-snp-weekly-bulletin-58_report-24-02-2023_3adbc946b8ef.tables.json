@@ -1,115 +1,457 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2023-02-24",
-  "printed_date": "24/02/2023",
-  "source_file": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
+  "report_week": 8,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
+  "source_sha256": "7976b72cc89eb33704387a16f76754e0f8b1f88e92ddb3be4e4dce6748b5bef2",
   "sales_count": 4,
   "demo_count": 2,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulk Carriers",
+      "page": 1,
+      "bbox": [
+        27.96,
+        122.35,
+        567.1,
+        238.1
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "INTERLINK PRIORITY",
+          "38,709",
+          "2015",
+          "TAIZHOU KOUAN",
+          "MAN B. & W. 5S50ME-B9.3 Ice Class 1C, 4 x 30 T OHBH, BWTS Fitted",
+          "SS 09/25 DD 11/23",
+          "USD 19.8 M",
+          "EUROPEANS"
+        ],
+        [
+          "PATRONUS",
+          "30,587",
+          "2007",
+          "COCHIN (INDIA)",
+          "MAN B. & W. 6S42MC7.1 Box Shaped, 4 x30 T BWTS Fitted",
+          "SS 02/26 DD 03/24",
+          "MID USD 7 M",
+          "TURKISH"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          169.1,
+          201.1,
+          0
+        ],
+        [
+          1,
+          201.1,
+          238.1,
+          1
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tankers – Chemicals – LPG/LNGs",
+      "page": 1,
+      "bbox": [
+        28.32,
+        265.15,
+        567.1,
+        366.89
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "COSGLORY LAKE",
+          "299,145",
+          "2003",
+          "UNIVERSAL",
+          "MAN B. & W. 7S80MC6.1",
+          "SS 04/23 DD 04/23",
+          "USD 39 M",
+          "UAE BASED"
+        ],
+        [
+          "MARLIN AMETHYST",
+          "49,999",
+          "2015",
+          "CSSC",
+          "MAN B. & W. 6S50ME-B9.3 IMO II/III, 12 Pumps BWTS Fitted",
+          "SS 07/25 DD 10/23",
+          "HIGH USD 33 M",
+          "UK BASED (c/o Union Maritime)"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          311.9,
+          337.0,
+          0
+        ],
+        [
+          1,
+          337.0,
+          366.9,
+          1
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Demolition - Bulk Carriers GCs",
+      "title": "Bulk Carriers – GCs – CVs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        77.45,
+        567.1,
+        168.62
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "VADI",
+          "70,087",
+          "1994 S. KOREA",
+          "10,085 LDT A spare propeller and abt 300 tons bunkers RoB included in the price",
+          "USD 575/LDT",
+          "Bangladesh"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          123.1,
+          168.6,
+          0
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    },
+    {
+      "name": "Demolition - Tankers",
+      "title": "Tankers – Chemicals – LPGs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        192.07,
+        567.1,
+        281.9
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "DA QING 439",
+          "37,603",
+          "1999 CHINA",
+          "9,827 LDT",
+          "USD 500/LDT",
+          "‘as is’ Nanjing"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          237.7,
+          260.7,
+          0
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2023-02-24",
-      "stem": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef",
-      "source_file": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
-      "section": "Bulker Sales",
+      "report_week": 8,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
+      "source_sha256": "7976b72cc89eb33704387a16f76754e0f8b1f88e92ddb3be4e4dce6748b5bef2",
+      "section": "bulk",
+      "vessel": "INTERLINK PRIORITY",
       "page": 1,
+      "dwt_raw": "38,709",
+      "dwt": 38709,
+      "built_year": 2015,
+      "yard": "TAIZHOU KOUAN",
+      "details": "MAN B. & W. 5S50ME-B9.3 Ice Class 1C, 4 x 30 T OHBH, BWTS Fitted",
+      "ss_dd": "SS 09/25 DD 11/23",
+      "price_raw": "USD 19.8 M",
+      "price_usd_m": 19.8,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "EUROPEANS",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2015",
+      "price_usd_m_per_vessel": 19.8,
       "NAME": "INTERLINK PRIORITY",
-      "TYPE": "Handysize",
-      "DWT": "38,709",
-      "BUILT": "",
-      "YARD": "MAN B. 2015 TAIZHOU Ice KOUAN OHBH,",
+      "DWT": 38709,
+      "BUILT": 2015,
+      "YARD": "TAIZHOU KOUAN",
       "PRICE": "USD 19.8 M",
       "BUYERS": "EUROPEANS",
-      "SS_DD": "09/25 11/23",
-      "COMMENTS": "& W. 5S50ME-B9.3 SS Class 1C, 4 x 30 T DD BWTS Fitted",
-      "raw_built": "MAN B. 2015 TAIZHOU Ice KOUAN OHBH,",
-      "raw_details": "& W. 5S50ME-B9.3 SS Class 1C, 4 x 30 T DD BWTS Fitted"
+      "SS_DD": "SS 09/25 DD 11/23"
     },
     {
       "issue_date": "2023-02-24",
-      "stem": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef",
-      "source_file": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
-      "section": "Bulker Sales",
+      "report_week": 8,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
+      "source_sha256": "7976b72cc89eb33704387a16f76754e0f8b1f88e92ddb3be4e4dce6748b5bef2",
+      "section": "bulk",
+      "vessel": "PATRONUS",
       "page": 1,
+      "dwt_raw": "30,587",
+      "dwt": 30587,
+      "built_year": 2007,
+      "yard": "COCHIN (INDIA)",
+      "details": "MAN B. & W. 6S42MC7.1 Box Shaped, 4 x30 T BWTS Fitted",
+      "ss_dd": "SS 02/26 DD 03/24",
+      "price_raw": "MID USD 7 M",
+      "price_usd_m": 7.0,
+      "price_qualifier": "MID",
+      "price_scope": "vessel",
+      "buyer": "TURKISH",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2007",
+      "price_usd_m_per_vessel": 7.0,
       "NAME": "PATRONUS",
-      "TYPE": "Handysize",
-      "DWT": "30,587",
-      "BUILT": "",
-      "YARD": "MAN B. 2007 COCHIN Box (INDIA)",
-      "PRICE": "USD 7 M",
+      "DWT": 30587,
+      "BUILT": 2007,
+      "YARD": "COCHIN (INDIA)",
+      "PRICE": "MID USD 7 M",
       "BUYERS": "TURKISH",
-      "SS_DD": "02/26 MID 03/24",
-      "COMMENTS": "& W. 6S42MC7.1 SS Shaped, 4 x30 T DD BWTS Fitted",
-      "raw_built": "MAN B. 2007 COCHIN Box (INDIA)",
-      "raw_details": "& W. 6S42MC7.1 SS Shaped, 4 x30 T DD BWTS Fitted"
+      "SS_DD": "SS 02/26 DD 03/24"
     },
     {
       "issue_date": "2023-02-24",
-      "stem": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef",
-      "source_file": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
-      "section": "Tanker Sales",
+      "report_week": 8,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
+      "source_sha256": "7976b72cc89eb33704387a16f76754e0f8b1f88e92ddb3be4e4dce6748b5bef2",
+      "section": "tanker",
+      "vessel": "COSGLORY LAKE",
       "page": 1,
+      "dwt_raw": "299,145",
+      "dwt": 299145,
+      "built_year": 2003,
+      "yard": "UNIVERSAL",
+      "details": "MAN B. & W. 7S80MC6.1",
+      "ss_dd": "SS 04/23 DD 04/23",
+      "price_raw": "USD 39 M",
+      "price_usd_m": 39.0,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "UAE BASED",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2003",
+      "price_usd_m_per_vessel": 39.0,
       "NAME": "COSGLORY LAKE",
-      "TYPE": "VLCC",
-      "DWT": "299,145",
-      "BUILT": "2003",
-      "YARD": "UNIVERSAL MAN MAN B.",
-      "PRICE": "USD 39 M UAE UK",
-      "BUYERS": "BASED BASED",
-      "SS_DD": "04/23 04/23",
-      "COMMENTS": "SS B. & W. 7S80MC6.1 DD & W. 6S50ME-B9.3",
-      "raw_built": "2003 UNIVERSAL MAN MAN B.",
-      "raw_details": "SS B. & W. 7S80MC6.1 DD & W. 6S50ME-B9.3"
+      "DWT": 299145,
+      "BUILT": 2003,
+      "YARD": "UNIVERSAL",
+      "PRICE": "USD 39 M",
+      "BUYERS": "UAE BASED",
+      "SS_DD": "SS 04/23 DD 04/23"
     },
     {
       "issue_date": "2023-02-24",
-      "stem": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef",
-      "source_file": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
-      "section": "Tanker Sales",
+      "report_week": 8,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
+      "source_sha256": "7976b72cc89eb33704387a16f76754e0f8b1f88e92ddb3be4e4dce6748b5bef2",
+      "section": "tanker",
+      "vessel": "MARLIN AMETHYST",
       "page": 1,
+      "dwt_raw": "49,999",
+      "dwt": 49999,
+      "built_year": 2015,
+      "yard": "CSSC",
+      "details": "MAN B. & W. 6S50ME-B9.3 IMO II/III, 12 Pumps BWTS Fitted",
+      "ss_dd": "SS 07/25 DD 10/23",
+      "price_raw": "HIGH USD 33 M",
+      "price_usd_m": 33.0,
+      "price_qualifier": "HIGH",
+      "price_scope": "vessel",
+      "buyer": "UK BASED (c/o Union Maritime)",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2015",
+      "price_usd_m_per_vessel": 33.0,
       "NAME": "MARLIN AMETHYST",
-      "TYPE": "MR",
-      "DWT": "49,999",
-      "BUILT": "",
-      "YARD": "MAN B. 2015 CSSC IMO",
-      "PRICE": "UK USD 33 M (c/o",
-      "BUYERS": "BASED Union Maritime)",
-      "SS_DD": "07/25 HIGH 10/23",
-      "COMMENTS": "& W. 6S50ME-B9.3 SS II/III, 12 Pumps DD BWTS Fitted",
-      "raw_built": "MAN B. 2015 CSSC IMO",
-      "raw_details": "& W. 6S50ME-B9.3 SS II/III, 12 Pumps DD BWTS Fitted"
+      "DWT": 49999,
+      "BUILT": 2015,
+      "YARD": "CSSC",
+      "PRICE": "HIGH USD 33 M",
+      "BUYERS": "UK BASED (c/o Union Maritime)",
+      "SS_DD": "SS 07/25 DD 10/23"
     }
   ],
   "demolitions": [
     {
       "issue_date": "2023-02-24",
-      "stem": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef",
-      "source_file": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
-      "section": "Bulker Sales",
+      "report_week": 8,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
+      "source_sha256": "7976b72cc89eb33704387a16f76754e0f8b1f88e92ddb3be4e4dce6748b5bef2",
+      "section": "bulk",
+      "vessel": "VADI",
       "page": 2,
-      "NAME": "VADI",
-      "TYPE": "Panamax",
-      "DWT": "70,087",
-      "BUILT": "1994",
-      "YARD": "S. KOREA",
-      "PRICE": "575/LDT Bangladesh",
-      "DELIVERY": "",
-      "COMMENTS": "10,085 LDT A spare propeller and abt 300 bunkers RoB included in the",
-      "raw_built": "1994 S. KOREA"
+      "dwt_raw": "70,087",
+      "dwt": 70087,
+      "built_year": 1994,
+      "built_place": "S. KOREA",
+      "ldt": 10085,
+      "price_raw": "USD 575/LDT",
+      "price_usd_ldt": 575.0,
+      "destination": "Bangladesh",
+      "details": "10,085 LDT A spare propeller and abt 300 tons bunkers RoB included in the price",
+      "built_raw": "1994 S. KOREA"
     },
     {
       "issue_date": "2023-02-24",
-      "stem": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef",
-      "source_file": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
-      "section": "Tanker Sales",
+      "report_week": 8,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
+      "source_sha256": "7976b72cc89eb33704387a16f76754e0f8b1f88e92ddb3be4e4dce6748b5bef2",
+      "section": "tanker",
+      "vessel": "DA QING 439",
       "page": 2,
-      "NAME": "DA QING 439",
-      "TYPE": "Handysize",
-      "DWT": "37,603",
-      "BUILT": "1999",
-      "YARD": "CHINA",
-      "PRICE": "500/LDT 'as is'",
-      "DELIVERY": "Nanjing",
-      "COMMENTS": "9,827 LDT",
-      "raw_built": "1999 CHINA"
+      "dwt_raw": "37,603",
+      "dwt": 37603,
+      "built_year": 1999,
+      "built_place": "CHINA",
+      "ldt": 9827,
+      "price_raw": "USD 500/LDT",
+      "price_usd_ldt": 500.0,
+      "destination": "‘as is’ Nanjing",
+      "details": "9,827 LDT",
+      "built_raw": "1999 CHINA"
     }
   ]
 }

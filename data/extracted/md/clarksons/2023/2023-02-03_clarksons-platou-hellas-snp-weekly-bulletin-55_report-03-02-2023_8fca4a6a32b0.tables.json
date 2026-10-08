@@ -1,99 +1,431 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2023-02-03",
-  "printed_date": "03/02/2023",
-  "source_file": "2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
+  "report_week": 5,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
+  "source_sha256": "b9798bcaae65797fc0bd8ca55925ef060c09495315b992bc8bad06f1f3a57079",
   "sales_count": 4,
   "demo_count": 1,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulk Carriers",
+      "page": 1,
+      "bbox": [
+        27.96,
+        122.35,
+        567.1,
+        258.38
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "BONITA",
+          "58,105",
+          "2010",
+          "TSUNEISHI (ZHOUSHAN)",
+          "MAN B. & W. 6S50MC-C8.2 4 x 30 T, BWTS Fitted",
+          "SS 09/25 DD 08/23",
+          "USD 15.9 M",
+          "GREEKS"
+        ],
+        [
+          "VENTURE OCEAN",
+          "38,947",
+          "2015",
+          "JIANGMEN NANYANG",
+          "MAN B. & W. 5S50ME-B9.2 OHBS (Holds 2,3,4), 4 x 30 T, Logs Fitted, BWTS Fitted",
+          "SS 10/25 DD 10/23",
+          "USD 18.5 M",
+          "U/D"
+        ],
+        [
+          "AS ELENIA",
+          "34,421",
+          "2011",
+          "SPP",
+          "MAN B. & W. 5S50MC-C8.2 4 x 35 T, BWTS Fitted",
+          "SS 09/26 DD 12/24",
+          "USD 13.3 M",
+          "TURKISH"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          169.1,
+          201.1,
+          0
+        ],
+        [
+          1,
+          201.1,
+          233.3,
+          1
+        ],
+        [
+          1,
+          233.3,
+          258.4,
+          2
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tankers – Chemicals – LPG/LNGs",
+      "page": 1,
+      "bbox": [
+        28.32,
+        285.46,
+        567.1,
+        362.21
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "MARKOS I",
+          "45,557",
+          "2005",
+          "ULJANIK BRODOGRADILISTE",
+          "MAN B. & W. 6S50MC-C8.1 IMO II, 18 Tanks BWTS FITTED",
+          "SS 08/25 DD 08/25",
+          "LOW USD 17 M",
+          "CHINESE"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          332.2,
+          362.2,
+          0
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Demolition - Bulk Carriers GCs",
+      "title": "Bulk Carriers – GCs – CVs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        244.99,
+        567.1,
+        322.73
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "SAMC RESPONSIBILITY",
+          "175,775",
+          "2003 TAIWAN",
+          "24,181 LDT",
+          "RGN USD 520/LDT",
+          "‘as is’ Singapore"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          290.6,
+          322.7,
+          0
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    },
+    {
+      "name": "Demolition - Tankers",
+      "title": "Tankers – Chemicals – LPGs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        346.18,
+        567.1,
+        436.01
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2023-02-03",
-      "stem": "2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0",
-      "source_file": "2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
-      "section": "Bulker Sales",
+      "report_week": 5,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
+      "source_sha256": "b9798bcaae65797fc0bd8ca55925ef060c09495315b992bc8bad06f1f3a57079",
+      "section": "bulk",
+      "vessel": "BONITA",
       "page": 1,
+      "dwt_raw": "58,105",
+      "dwt": 58105,
+      "built_year": 2010,
+      "yard": "TSUNEISHI (ZHOUSHAN)",
+      "details": "MAN B. & W. 6S50MC-C8.2 4 x 30 T, BWTS Fitted",
+      "ss_dd": "SS 09/25 DD 08/23",
+      "price_raw": "USD 15.9 M",
+      "price_usd_m": 15.9,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "GREEKS",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2010",
+      "price_usd_m_per_vessel": 15.9,
       "NAME": "BONITA",
-      "TYPE": "Supramax",
-      "DWT": "58,105",
-      "BUILT": "2010",
-      "YARD": "TSUNEISHI MAN B. 4 x (ZHOUSHAN)",
+      "DWT": 58105,
+      "BUILT": 2010,
+      "YARD": "TSUNEISHI (ZHOUSHAN)",
       "PRICE": "USD 15.9 M",
       "BUYERS": "GREEKS",
-      "SS_DD": "09/25 08/23",
-      "COMMENTS": "& W. 6S50MC-C8.2 SS 30 T, BWTS Fitted DD",
-      "raw_built": "2010 TSUNEISHI MAN B. 4 x (ZHOUSHAN)",
-      "raw_details": "& W. 6S50MC-C8.2 SS 30 T, BWTS Fitted DD"
+      "SS_DD": "SS 09/25 DD 08/23"
     },
     {
       "issue_date": "2023-02-03",
-      "stem": "2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0",
-      "source_file": "2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
-      "section": "Bulker Sales",
+      "report_week": 5,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
+      "source_sha256": "b9798bcaae65797fc0bd8ca55925ef060c09495315b992bc8bad06f1f3a57079",
+      "section": "bulk",
+      "vessel": "VENTURE OCEAN",
       "page": 1,
+      "dwt_raw": "38,947",
+      "dwt": 38947,
+      "built_year": 2015,
+      "yard": "JIANGMEN NANYANG",
+      "details": "MAN B. & W. 5S50ME-B9.2 OHBS (Holds 2,3,4), 4 x 30 T, Logs Fitted, BWTS Fitted",
+      "ss_dd": "SS 10/25 DD 10/23",
+      "price_raw": "USD 18.5 M",
+      "price_usd_m": 18.5,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2015",
+      "price_usd_m_per_vessel": 18.5,
       "NAME": "VENTURE OCEAN",
-      "TYPE": "Handysize",
-      "DWT": "38,947",
-      "BUILT": "",
-      "YARD": "MAN B. 2015 JIANGMEN OHBS NANYANG Logs",
+      "DWT": 38947,
+      "BUILT": 2015,
+      "YARD": "JIANGMEN NANYANG",
       "PRICE": "USD 18.5 M",
       "BUYERS": "U/D",
-      "SS_DD": "10/25 10/23",
-      "COMMENTS": "& W. 5S50ME-B9.2 SS (Holds 2,3,4), 4 x 30 T, DD Fitted, BWTS Fitted",
-      "raw_built": "MAN B. 2015 JIANGMEN OHBS NANYANG Logs",
-      "raw_details": "& W. 5S50ME-B9.2 SS (Holds 2,3,4), 4 x 30 T, DD Fitted, BWTS Fitted"
+      "SS_DD": "SS 10/25 DD 10/23"
     },
     {
       "issue_date": "2023-02-03",
-      "stem": "2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0",
-      "source_file": "2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
-      "section": "Bulker Sales",
+      "report_week": 5,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
+      "source_sha256": "b9798bcaae65797fc0bd8ca55925ef060c09495315b992bc8bad06f1f3a57079",
+      "section": "bulk",
+      "vessel": "AS ELENIA",
       "page": 1,
+      "dwt_raw": "34,421",
+      "dwt": 34421,
+      "built_year": 2011,
+      "yard": "SPP",
+      "details": "MAN B. & W. 5S50MC-C8.2 4 x 35 T, BWTS Fitted",
+      "ss_dd": "SS 09/26 DD 12/24",
+      "price_raw": "USD 13.3 M",
+      "price_usd_m": 13.3,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "TURKISH",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2011",
+      "price_usd_m_per_vessel": 13.3,
       "NAME": "AS ELENIA",
-      "TYPE": "Handysize",
-      "DWT": "34,421",
-      "BUILT": "",
-      "YARD": "MAN B. 2011 SPP 4 x",
+      "DWT": 34421,
+      "BUILT": 2011,
+      "YARD": "SPP",
       "PRICE": "USD 13.3 M",
       "BUYERS": "TURKISH",
-      "SS_DD": "09/26 12/24",
-      "COMMENTS": "& W. 5S50MC-C8.2 SS 35 T, BWTS Fitted DD",
-      "raw_built": "MAN B. 2011 SPP 4 x",
-      "raw_details": "& W. 5S50MC-C8.2 SS 35 T, BWTS Fitted DD"
+      "SS_DD": "SS 09/26 DD 12/24"
     },
     {
       "issue_date": "2023-02-03",
-      "stem": "2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0",
-      "source_file": "2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
-      "section": "Tanker Sales",
+      "report_week": 5,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
+      "source_sha256": "b9798bcaae65797fc0bd8ca55925ef060c09495315b992bc8bad06f1f3a57079",
+      "section": "tanker",
+      "vessel": "MARKOS I",
       "page": 1,
+      "dwt_raw": "45,557",
+      "dwt": 45557,
+      "built_year": 2005,
+      "yard": "ULJANIK BRODOGRADILISTE",
+      "details": "MAN B. & W. 6S50MC-C8.1 IMO II, 18 Tanks BWTS FITTED",
+      "ss_dd": "SS 08/25 DD 08/25",
+      "price_raw": "LOW USD 17 M",
+      "price_usd_m": 17.0,
+      "price_qualifier": "LOW",
+      "price_scope": "vessel",
+      "buyer": "CHINESE",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2005",
+      "price_usd_m_per_vessel": 17.0,
       "NAME": "MARKOS I",
-      "TYPE": "MR",
-      "DWT": "45,557",
-      "BUILT": "",
-      "YARD": "MAN B. 2005 ULJANIK BRODOGRADILISTE",
-      "PRICE": "USD 17 M",
+      "DWT": 45557,
+      "BUILT": 2005,
+      "YARD": "ULJANIK BRODOGRADILISTE",
+      "PRICE": "LOW USD 17 M",
       "BUYERS": "CHINESE",
-      "SS_DD": "08/25 LOW 08/25",
-      "COMMENTS": "& W. 6S50MC-C8.1 SS IMO II, 18 Tanks DD BWTS FITTED",
-      "raw_built": "MAN B. 2005 ULJANIK BRODOGRADILISTE",
-      "raw_details": "& W. 6S50MC-C8.1 SS IMO II, 18 Tanks DD BWTS FITTED"
+      "SS_DD": "SS 08/25 DD 08/25"
     }
   ],
   "demolitions": [
     {
       "issue_date": "2023-02-03",
-      "stem": "2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0",
-      "source_file": "2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
-      "section": "Bulker Sales",
+      "report_week": 5,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
+      "source_sha256": "b9798bcaae65797fc0bd8ca55925ef060c09495315b992bc8bad06f1f3a57079",
+      "section": "bulk",
+      "vessel": "SAMC RESPONSIBILITY",
       "page": 2,
-      "NAME": "SAMC RESPONSIBILITY",
-      "TYPE": "Capesize",
-      "DWT": "175,775",
-      "BUILT": "2003",
-      "YARD": "TAIWAN",
-      "PRICE": "USD 'as is' 520/LDT",
-      "DELIVERY": "Singapore",
-      "COMMENTS": "24,181 LDT",
-      "raw_built": "2003 TAIWAN"
+      "dwt_raw": "175,775",
+      "dwt": 175775,
+      "built_year": 2003,
+      "built_place": "TAIWAN",
+      "ldt": 24181,
+      "price_raw": "RGN USD 520/LDT",
+      "price_usd_ldt": 520.0,
+      "destination": "‘as is’ Singapore",
+      "details": "24,181 LDT",
+      "built_raw": "2003 TAIWAN"
     }
   ]
 }

@@ -82,6 +82,7 @@ class TableResult:
     boundary_source: str = "rulings"
     row_source: str = "rulings"
     unassigned_words: int = 0
+    shared_cell_count_mismatch: int = 0       # shared cells whose block count differs from the vessel count (kept whole)
     title_size: float | None = None           # font size of the printed title line (heading level ranking)
     level: int | None = None                  # markdown heading level chosen by the engine
     row_meta: list[list[float]] = field(default_factory=list)   # per row: [page, band top, band bottom, interval]
@@ -98,6 +99,7 @@ class TableResult:
             "boundary_source": self.boundary_source, "row_source": self.row_source,
             "unassigned_words": self.unassigned_words,
             **({"extra_regions": self.extra_regions} if self.extra_regions else {}),
+            **({"shared_cell_count_mismatch": self.shared_cell_count_mismatch} if self.shared_cell_count_mismatch else {}),
             "row_meta": self.row_meta, "column_bounds": [round(b, 1) for b in self.column_bounds],
             "source_columns": self.source_columns,
         }
@@ -352,8 +354,11 @@ def extract_table(cfg: dict[str, Any], page: pymupdf.Page, page_no: int, words: 
     # row intervals
     # every ruling that crosses the key column separates two rows, even a partial one (SFL SPEY / MEDWAY have a
     # rule only under name, DWT, SS/DD and Price): not just rules that span half the table
+    # (a ruled table frame can start further left than the header text: SFL bulletins start at x=14, header at 57)
+    rule_lo = min(hx0 - 40, bounds[0] - 3) if boundary_source == "rulings" else hx0 - 40
+    rule_hi = max(hx1 + 60, bounds[-1] + 3) if boundary_source == "rulings" else hx1 + 60
     key_rules = [s for s in hsegs if _covers(s, key_cx) and s.pos > hdr_bottom + 0.5 and s.pos <= limit_y + 0.5
-                 and s.a >= hx0 - 40 and s.b <= hx1 + 60]
+                 and s.a >= rule_lo and s.b <= rule_hi]
     row_edges: list[float]
     if has_rulings and key_rules:
         row_edges = [hdr_bottom, *_dedupe([s.pos for s in key_rules])]
@@ -427,6 +432,8 @@ def extract_table(cfg: dict[str, Any], page: pymupdf.Page, page_no: int, words: 
     names0 = [l.split("|")[0] for l in labels]
     group_markers = {names0.index(k): re.compile(v, re.I) for k, v in (cfg.get("group_markers") or {}).items() if k in names0}
     amount_cols = {i for i, l in enumerate(names0) if l in (cfg.get("amount_split_columns") or [])}
+    centered_cols = {i for i, l in enumerate(names0) if l in (cfg.get("centered_split_columns") or [])}
+    mismatch: list[int] = []
     row_meta: list[list[float]] = []
     for i, row in enumerate(merged):
         if not any(x.strip() for x in row):
@@ -435,7 +442,7 @@ def extract_table(cfg: dict[str, Any], page: pymupdf.Page, page_no: int, words: 
                                 int(cfg.get("name_column", 0)), count_hint, per_vessel,
                                 _name_rules(hsegs, bounds, int(cfg.get("name_column", 0)), intervals[i]),
                                 {c: _name_rules(hsegs, bounds, c, intervals[i]) for c in range(ncols)},
-                                part_patterns, group_markers, amount_cols) if expand else None
+                                part_patterns, group_markers, amount_cols, centered_cols, mismatch) if expand else None
         if expanded:
             subs, key_ys_i = expanded
             a_i, b_i = intervals[i]
@@ -473,6 +480,7 @@ def extract_table(cfg: dict[str, Any], page: pymupdf.Page, page_no: int, words: 
               max(ax1, bounds[-1] if boundary_source == "rulings" else hx1), bottom),
         columns=columns, rows=rows_text, en_bloc_rows=kept_flags, empty=empty,
         boundary_source=boundary_source, row_source=row_source, unassigned_words=unassigned,
+        shared_cell_count_mismatch=len(mismatch),
         row_meta=[] if empty else row_meta, column_bounds=list(bounds), source_columns=list(names0))
 
 
@@ -499,12 +507,16 @@ def _mean_cy(words: list[Word]) -> float:
     return sum(w.cy for w in words) / len(words)
 
 
-def _split_column(words: list[Word], key_ys: list[float], tol: float = 6.5) -> list[str] | None:
+def _split_column(words: list[Word], key_ys: list[float], tol: float = 6.5, centered: float = 0.0) -> list[str] | None:
     """Split a cell shared by m vessels into m texts, or None when the cell is one shared value.
 
     Every text line goes to the vessel whose key line is nearest (so a wrapped name stays with its
     vessel). The split is accepted only if every vessel receives text and each vessel's first line
-    starts within `tol` of its key line; a value centred between two vessels is therefore shared."""
+    starts within `tol` of its key line; a value centred between two vessels is therefore shared.
+
+    `centered` > 0 is the mode for multi-line comment cells (Details): each vessel's block is centred on its
+    key line rather than starting on it, so the block's mean line position must lie within `centered` of the
+    key line and the gap between neighbouring blocks must be bigger than the line pitch inside them."""
     m = len(key_ys)
     lines = _line_groups(words)
     if not lines:
@@ -519,9 +531,13 @@ def _split_column(words: list[Word], key_ys: list[float], tol: float = 6.5) -> l
             first_y[j] = cy
     if any(not g for g in groups):
         return None
-    if any(abs(first_y[j] - key_ys[j]) > tol for j in range(m)):
+    if centered:
+        if any(abs(sum(_mean_cy(ln) for ln in _line_groups(g)) / len(_line_groups(g)) - key_ys[j]) > centered
+               for j, g in enumerate(groups)):
+            return None
+    elif any(abs(first_y[j] - key_ys[j]) > tol for j in range(m)):
         return None
-    if tol < 1e8:
+    if tol < 1e8 or centered:
         # one block of evenly spaced lines cut into unequal parts is a shared cell, not per-vessel text:
         # a real boundary shows a bigger gap than the line pitch inside the groups
         counts = [len(_line_groups(g)) for g in groups]
@@ -532,9 +548,20 @@ def _split_column(words: list[Word], key_ys: list[float], tol: float = 6.5) -> l
             if j + 1 < m:
                 nxt = [_mean_cy(ln) for ln in _line_groups(groups[j + 1])]
                 bounds_gap.append(nxt[0] - ys[-1])
-        if inner and min(bounds_gap) <= 1.35 * (sum(inner) / len(inner)):
+        pitch = sum(inner) / len(inner) if inner else 10.0
+        if min(bounds_gap) <= 1.35 * pitch:
             return None
     return [_join_cell(g) for g in groups]
+
+
+def _block_count(words: list[Word]) -> int:
+    """Number of separate text blocks in a cell: line groups apart by more than the line pitch start a new block."""
+    ys = [_mean_cy(ln) for ln in _line_groups(words)]
+    gaps = [b - a for a, b in zip(ys, ys[1:])]
+    if not gaps:
+        return 1 if ys else 0
+    pitch = min(gaps)
+    return 1 + sum(1 for g in gaps if g > 1.35 * pitch)
 
 
 def _name_rules(hsegs: list[Segment], bounds: list[float], name_col: int, interval: tuple[float, float]) -> list[float]:
@@ -577,8 +604,8 @@ def _expand_deal(cells_row: list[list[Word]], merged_row: list[str], key_col: in
                  per_vessel: set[int] | None = None, name_rules: list[float] | None = None,
                  col_rules: dict[int, list[float]] | None = None,
                  part_patterns: dict[int, re.Pattern] | None = None,
-                 group_markers: dict[int, re.Pattern] | None = None, amount_cols: set[int] | None = None
-                 ) -> tuple[list[list[str]], list[float]] | None:
+                 group_markers: dict[int, re.Pattern] | None = None, amount_cols: set[int] | None = None,
+                 centered_cols: set[int] | None = None, mismatch: list[int] | None = None) -> tuple[list[list[str]], list[float]] | None:
     """One ruled row can hold several vessels (en bloc / sister ships). Return one row per vessel,
     repeating shared cells (price, buyer, and any cell that cannot be split per vessel).
 
@@ -658,6 +685,11 @@ def _expand_deal(cells_row: list[list[Word]], merged_row: list[str], key_col: in
         # columns that always hold one value per vessel (name, DWT) are split by nearest line without
         # the alignment tolerance used for cells that may be one value shared by all vessels
         parts = None if c in shared else _split_column(words, key_ys, 1e9 if c in (per_vessel or set()) else 6.5)
+        if parts is None and c in (centered_cols or set()):
+            parts = _split_column(words, key_ys, 6.5, centered=9.0)
+            # blocks that cannot be matched one-to-one with the vessels are kept whole (never guessed) and flagged
+            if parts is None and mismatch is not None and _block_count(words) not in (0, 1, m):
+                mismatch.append(c)
         # a split is only believed when every part looks like a standalone value of that column (a Built part
         # must start with a year): "2012 HHIC-PHILIPPINES" / "(SUBIC SHIPYARD)" is one shared cell, not two
         pat = (part_patterns or {}).get(c)
@@ -903,6 +935,7 @@ def _continue_open_table(memory: dict[Any, Any], page: pymupdf.Page, page_no: in
     prev.en_bloc_rows.extend(i + offset for i in res.en_bloc_rows)
     prev.row_meta.extend(res.row_meta)
     prev.unassigned_words += res.unassigned_words
+    prev.shared_cell_count_mismatch += res.shared_cell_count_mismatch
     prev.extra_regions.append({"page": page_no, "bbox": [round(v, 2) for v in res.bbox]})
     res.hidden = True
     return res

@@ -1,45 +1,214 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2026-09-04",
-  "printed_date": "4 Sept 2026",
-  "source_file": "clarksons_2026_Weekly-Sales-04th-Sept-2026.pdf",
+  "report_week": 36,
+  "source_file": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-04th-Sept-2026.pdf",
+  "source_sha256": "b53f09739818dc39859bef4dbe5d46c7e31684ec68eb58f08e08007055451de3",
   "sales_count": 2,
   "demo_count": 0,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulker Sales",
+      "page": 2,
+      "bbox": [
+        40.92,
+        168.63,
+        561.34,
+        363.9
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "FLC HAPPINESS",
+          "56,799",
+          "2009",
+          "TAIZHOU KOUAN",
+          "B&W 6S50MC-C8.2 CR: 4X30T",
+          "SS 08/29 DD 09/27",
+          "USD 12.9 M",
+          "CHINESE"
+        ],
+        [
+          "COLUMBIA RIVER",
+          "56,013",
+          "2006",
+          "MITSUI",
+          "B&W 6S50MC-C8.1 CR: 4X30.5T SCRUBBER",
+          "SS 10/26 DD 10/26",
+          "LOW USD 13 M",
+          "CHINESE"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "header-midpoints",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          230.9,
+          278.8,
+          0
+        ],
+        [
+          2,
+          278.8,
+          326.7,
+          1
+        ]
+      ],
+      "column_bounds": [
+        0.0,
+        109.2,
+        176.7,
+        264.4,
+        361.2,
+        439.0,
+        509.9,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tanker Sales",
+      "page": 2,
+      "bbox": [
+        40.92,
+        367.62,
+        565.66,
+        475.75
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "header-midpoints",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        0.0,
+        120.1,
+        195.1,
+        285.8,
+        379.2,
+        451.6,
+        517.3,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2026-09-04",
-      "stem": "clarksons_2026_Weekly-Sales-04th-Sept-2026",
-      "source_file": "clarksons_2026_Weekly-Sales-04th-Sept-2026.pdf",
-      "section": "Bulker Sales",
+      "report_week": 36,
+      "source_file": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-04th-Sept-2026.pdf",
+      "source_sha256": "b53f09739818dc39859bef4dbe5d46c7e31684ec68eb58f08e08007055451de3",
+      "section": "bulk",
+      "vessel": "FLC HAPPINESS",
       "page": 2,
+      "dwt_raw": "56,799",
+      "dwt": 56799,
+      "built_year": 2009,
+      "yard": "TAIZHOU KOUAN",
+      "details": "B&W 6S50MC-C8.2 CR: 4X30T",
+      "ss_dd": "SS 08/29 DD 09/27",
+      "price_raw": "USD 12.9 M",
+      "price_usd_m": 12.9,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "CHINESE",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2009",
+      "price_usd_m_per_vessel": 12.9,
       "NAME": "FLC HAPPINESS",
-      "TYPE": "Supramax",
-      "DWT": "56,799",
-      "BUILT": "2009",
+      "DWT": 56799,
+      "BUILT": 2009,
       "YARD": "TAIZHOU KOUAN",
       "PRICE": "USD 12.9 M",
       "BUYERS": "CHINESE",
-      "SS_DD": "SS 08/29 DD 09/27",
-      "COMMENTS": "B&W 6S50MC-C8.2 CR: 4X30T",
-      "raw_built": "2009 TAIZHOU KOUAN",
-      "raw_details": "B&W 6S50MC-C8.2 CR: 4X30T"
+      "SS_DD": "SS 08/29 DD 09/27"
     },
     {
       "issue_date": "2026-09-04",
-      "stem": "clarksons_2026_Weekly-Sales-04th-Sept-2026",
-      "source_file": "clarksons_2026_Weekly-Sales-04th-Sept-2026.pdf",
-      "section": "Bulker Sales",
+      "report_week": 36,
+      "source_file": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-04th-Sept-2026.pdf",
+      "source_sha256": "b53f09739818dc39859bef4dbe5d46c7e31684ec68eb58f08e08007055451de3",
+      "section": "bulk",
+      "vessel": "COLUMBIA RIVER",
       "page": 2,
+      "dwt_raw": "56,013",
+      "dwt": 56013,
+      "built_year": 2006,
+      "yard": "MITSUI",
+      "details": "B&W 6S50MC-C8.1 CR: 4X30.5T SCRUBBER",
+      "ss_dd": "SS 10/26 DD 10/26",
+      "price_raw": "LOW USD 13 M",
+      "price_usd_m": 13.0,
+      "price_qualifier": "LOW",
+      "price_scope": "vessel",
+      "buyer": "CHINESE",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2006",
+      "price_usd_m_per_vessel": 13.0,
       "NAME": "COLUMBIA RIVER",
-      "TYPE": "Supramax",
-      "DWT": "56,013",
-      "BUILT": "2006",
+      "DWT": 56013,
+      "BUILT": 2006,
       "YARD": "MITSUI",
       "PRICE": "LOW USD 13 M",
       "BUYERS": "CHINESE",
-      "SS_DD": "SS 10/26 DD 10/26",
-      "COMMENTS": "B&W 6S50MC-C8.1 CR: 4X30.5T SCRUBBER",
-      "raw_built": "2006 MITSUI",
-      "raw_details": "B&W 6S50MC-C8.1 CR: 4X30.5T SCRUBBER"
+      "SS_DD": "SS 10/26 DD 10/26"
     }
   ],
   "demolitions": []

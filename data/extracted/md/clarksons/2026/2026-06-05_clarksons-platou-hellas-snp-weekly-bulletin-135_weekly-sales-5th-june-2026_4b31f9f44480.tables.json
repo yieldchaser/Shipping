@@ -1,45 +1,214 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2026-06-05",
-  "printed_date": "05/06/2026",
-  "source_file": "2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf",
+  "report_week": 23,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2026/2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf",
+  "source_sha256": "d4fb9b968d9079d29b7366b059ea37cf6e90056370db425846602d22caaae6a0",
   "sales_count": 2,
   "demo_count": 0,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulker Sales",
+      "page": 2,
+      "bbox": [
+        40.92,
+        168.63,
+        561.34,
+        354.2
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "DIMITRIS A",
+          "82,518",
+          "2008",
+          "TSUNEISHI ZHOUSHAN",
+          "B&W 7S50MC-C8.1",
+          "SS 08/28 DD 09/26",
+          "USD 14.8 M",
+          "CHINESE"
+        ],
+        [
+          "AE MARS",
+          "53,630",
+          "2006",
+          "SINOPACIFIC DAYANG",
+          "B&W 6S50MC-C8.1",
+          "SS 08/26 DD 08/26",
+          "XS USD 9 M",
+          "CHINESE"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "header-midpoints",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          238.9,
+          278.0,
+          0
+        ],
+        [
+          2,
+          278.0,
+          317.0,
+          1
+        ]
+      ],
+      "column_bounds": [
+        0.0,
+        122.5,
+        192.7,
+        273.3,
+        356.6,
+        428.6,
+        505.7,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tanker Sales",
+      "page": 2,
+      "bbox": [
+        40.92,
+        357.9,
+        567.94,
+        427.26
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "header-midpoints",
+      "row_source": "key-column",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        0.0,
+        120.1,
+        195.1,
+        285.8,
+        379.2,
+        452.8,
+        519.6,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2026-06-05",
-      "stem": "2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480",
-      "source_file": "2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf",
-      "section": "Bulker Sales",
+      "report_week": 23,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2026/2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf",
+      "source_sha256": "d4fb9b968d9079d29b7366b059ea37cf6e90056370db425846602d22caaae6a0",
+      "section": "bulk",
+      "vessel": "DIMITRIS A",
       "page": 2,
+      "dwt_raw": "82,518",
+      "dwt": 82518,
+      "built_year": 2008,
+      "yard": "TSUNEISHI ZHOUSHAN",
+      "details": "B&W 7S50MC-C8.1",
+      "ss_dd": "SS 08/28 DD 09/26",
+      "price_raw": "USD 14.8 M",
+      "price_usd_m": 14.8,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "CHINESE",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2008",
+      "price_usd_m_per_vessel": 14.8,
       "NAME": "DIMITRIS A",
-      "TYPE": "Kamsarmax",
-      "DWT": "82,518",
-      "BUILT": "2008",
+      "DWT": 82518,
+      "BUILT": 2008,
       "YARD": "TSUNEISHI ZHOUSHAN",
       "PRICE": "USD 14.8 M",
       "BUYERS": "CHINESE",
-      "SS_DD": "SS 08/28 DD 09/26",
-      "COMMENTS": "B&W 7S50MC-C8.1",
-      "raw_built": "2008 TSUNEISHI ZHOUSHAN",
-      "raw_details": "B&W 7S50MC-C8.1"
+      "SS_DD": "SS 08/28 DD 09/26"
     },
     {
       "issue_date": "2026-06-05",
-      "stem": "2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480",
-      "source_file": "2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf",
-      "section": "Bulker Sales",
+      "report_week": 23,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2026/2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf",
+      "source_sha256": "d4fb9b968d9079d29b7366b059ea37cf6e90056370db425846602d22caaae6a0",
+      "section": "bulk",
+      "vessel": "AE MARS",
       "page": 2,
+      "dwt_raw": "53,630",
+      "dwt": 53630,
+      "built_year": 2006,
+      "yard": "SINOPACIFIC DAYANG",
+      "details": "B&W 6S50MC-C8.1",
+      "ss_dd": "SS 08/26 DD 08/26",
+      "price_raw": "XS USD 9 M",
+      "price_usd_m": 9.0,
+      "price_qualifier": "XS",
+      "price_scope": "vessel",
+      "buyer": "CHINESE",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2006",
+      "price_usd_m_per_vessel": 9.0,
       "NAME": "AE MARS",
-      "TYPE": "Supramax",
-      "DWT": "53,630",
-      "BUILT": "2006",
+      "DWT": 53630,
+      "BUILT": 2006,
       "YARD": "SINOPACIFIC DAYANG",
       "PRICE": "XS USD 9 M",
       "BUYERS": "CHINESE",
-      "SS_DD": "SS 08/26 DD 08/26",
-      "COMMENTS": "B&W 6S50MC-C8.1",
-      "raw_built": "2006 SINOPACIFIC DAYANG",
-      "raw_details": "B&W 6S50MC-C8.1"
+      "SS_DD": "SS 08/26 DD 08/26"
     }
   ],
   "demolitions": []

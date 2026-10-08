@@ -202,8 +202,8 @@ def test_series_csv_keeps_the_legacy_columns(tmp_path):
 def test_series_refuses_legacy_sidecars_when_the_engine_schema_is_required(tmp_path):
     stage = tmp_path / "md" / "2022"
     stage.mkdir(parents=True)
-    (stage / "x.md").write_text("---\nissue_date: '2022-08-19'\n---\n\nbody\n", encoding="utf-8")
-    (stage / "x.tables.json").write_text(json.dumps({"issue_date": "2022-08-19", "sales": []}), encoding="utf-8")
+    (stage / "clarksons_x.md").write_text("---\nissue_date: '2022-08-19'\n---\n\nbody\n", encoding="utf-8")
+    (stage / "clarksons_x.tables.json").write_text(json.dumps({"issue_date": "2022-08-19", "sales": []}), encoding="utf-8")
     with pytest.raises(SystemExit):
         xs.export(tmp_path / "md", tmp_path / "out", require_engine_schema=True)
 
@@ -257,11 +257,14 @@ def test_new_only_matches_an_existing_issue_by_date_or_pdf_hash(tmp_path):
 
 
 def test_workflows_run_the_new_only_clarksons_ingest():
-    for wf in ("report_ingest.yml", "broker_reports_weekly.yml"):
-        text = (ROOT / ".github" / "workflows" / wf).read_text(encoding="utf-8")
-        assert "scripts.parse_engine run --source clarksons --new-only" in text
-        assert "scripts.parse_engine promote --source clarksons --new-only --apply" in text
-        assert "run_clarksons.py" not in text
+    # the engine steps live in exactly one workflow (report_ingest.yml, which also scrapes the Clarksons PDFs)
+    texts = {wf: (ROOT / ".github" / "workflows" / wf).read_text(encoding="utf-8")
+             for wf in ("report_ingest.yml", "broker_reports_weekly.yml")}
+    assert "scripts.parse_engine run --source clarksons --new-only" in texts["report_ingest.yml"]
+    assert "scripts.parse_engine promote --source clarksons --new-only --apply" in texts["report_ingest.yml"]
+    assert "pyyaml" in texts["report_ingest.yml"] and "pymupdf" in texts["report_ingest.yml"]
+    assert "scripts.parse_engine" not in texts["broker_reports_weekly.yml"]
+    assert all("run_clarksons.py" not in t for t in texts.values())
 
 
 # ------------------------------------------------------------------------------------ 2b. fragment gate

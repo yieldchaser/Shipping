@@ -1,81 +1,403 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2022-11-04",
-  "printed_date": "04/11/2022",
-  "source_file": "2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf",
+  "report_week": 44,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf",
+  "source_sha256": "67a660cbbed9474720df6725843058b436a620df9cba8f1590d659de96fd184a",
   "sales_count": 4,
   "demo_count": 0,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulk Carriers",
+      "page": 1,
+      "bbox": [
+        27.86,
+        122.14,
+        567.12,
+        251.35
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "EDWARD N",
+          "176,216",
+          "2011",
+          "SWS",
+          "MAN B. & W. 6S70MC6.2 BWTS Fitted",
+          "SS 01/26 DD 04/24",
+          "RGN USD 23 M",
+          "TAIWANESE"
+        ],
+        [
+          "CARO PARDE",
+          "63,227",
+          "2012",
+          "SINOPACIFIC DAYANG",
+          "MAN B. & W. 5S60ME-C8.2 Tier II, 4 x 36 T BWTS Due",
+          "SS 12/22 DD 12/22",
+          "LOW USD 21 M",
+          "CHINESE"
+        ],
+        [
+          "WAAL CONFIDENCE",
+          "33,387",
+          "2009",
+          "SHIN KOCHI",
+          "MITSUBISHI 6UEC52LA 4 x 30 T, BWTS Fitted",
+          "SS 06/24 DD 06/24",
+          "USD 15.2 M",
+          "GREEKS"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          169.0,
+          194.2,
+          0
+        ],
+        [
+          1,
+          194.2,
+          226.4,
+          1
+        ],
+        [
+          1,
+          226.4,
+          251.3,
+          2
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.3,
+        156.1,
+        241.1,
+        354.4,
+        404.1,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tankers – Chemicals – LPG/LNGs",
+      "page": 1,
+      "bbox": [
+        28.34,
+        278.43,
+        567.12,
+        357.47
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "CELSIUS RIMINI",
+          "53,603",
+          "2009",
+          "SHIN KURUSHIMA",
+          "MITSUBISHI 6UEC60LS Pumps 4, BWTS Fitted",
+          "SS 03/27 DD 05/25",
+          "USD 24.5 M",
+          "BANGLADESHI"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          325.3,
+          357.5,
+          0
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.3,
+        156.1,
+        241.1,
+        354.4,
+        404.1,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Demolition - Bulk Carriers GCs",
+      "title": "Bulk Carriers – GCs",
+      "page": 2,
+      "bbox": [
+        28.34,
+        311.79,
+        567.12,
+        380.52
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        125.6,
+        180.8,
+        267.7,
+        400.0,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    },
+    {
+      "name": "Demolition - Tankers",
+      "title": "Tankers – Chemicals – LPGs",
+      "page": 2,
+      "bbox": [
+        28.34,
+        403.97,
+        567.12,
+        514.46
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        125.6,
+        180.8,
+        267.7,
+        400.0,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2022-11-04",
-      "stem": "2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200",
-      "source_file": "2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf",
-      "section": "Bulker Sales",
+      "report_week": 44,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf",
+      "source_sha256": "67a660cbbed9474720df6725843058b436a620df9cba8f1590d659de96fd184a",
+      "section": "bulk",
+      "vessel": "EDWARD N",
       "page": 1,
+      "dwt_raw": "176,216",
+      "dwt": 176216,
+      "built_year": 2011,
+      "yard": "SWS",
+      "details": "MAN B. & W. 6S70MC6.2 BWTS Fitted",
+      "ss_dd": "SS 01/26 DD 04/24",
+      "price_raw": "RGN USD 23 M",
+      "price_usd_m": 23.0,
+      "price_qualifier": "RGN",
+      "price_scope": "vessel",
+      "buyer": "TAIWANESE",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2011",
+      "price_usd_m_per_vessel": 23.0,
       "NAME": "EDWARD N",
-      "TYPE": "Capesize",
-      "DWT": "176,216",
-      "BUILT": "",
-      "YARD": "MAN B. 2011 SWS MAN B.",
-      "PRICE": "USD 23 M",
+      "DWT": 176216,
+      "BUILT": 2011,
+      "YARD": "SWS",
+      "PRICE": "RGN USD 23 M",
       "BUYERS": "TAIWANESE",
-      "SS_DD": "01/26 RGN 04/24",
-      "COMMENTS": "& W. 6S70MC6.2 SS BWTS Fitted DD & W. 5S60ME-C8.2",
-      "raw_built": "MAN B. 2011 SWS MAN B.",
-      "raw_details": "& W. 6S70MC6.2 SS BWTS Fitted DD & W. 5S60ME-C8.2"
+      "SS_DD": "SS 01/26 DD 04/24"
     },
     {
       "issue_date": "2022-11-04",
-      "stem": "2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200",
-      "source_file": "2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf",
-      "section": "Bulker Sales",
+      "report_week": 44,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf",
+      "source_sha256": "67a660cbbed9474720df6725843058b436a620df9cba8f1590d659de96fd184a",
+      "section": "bulk",
+      "vessel": "CARO PARDE",
       "page": 1,
+      "dwt_raw": "63,227",
+      "dwt": 63227,
+      "built_year": 2012,
+      "yard": "SINOPACIFIC DAYANG",
+      "details": "MAN B. & W. 5S60ME-C8.2 Tier II, 4 x 36 T BWTS Due",
+      "ss_dd": "SS 12/22 DD 12/22",
+      "price_raw": "LOW USD 21 M",
+      "price_usd_m": 21.0,
+      "price_qualifier": "LOW",
+      "price_scope": "vessel",
+      "buyer": "CHINESE",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2012",
+      "price_usd_m_per_vessel": 21.0,
       "NAME": "CARO PARDE",
-      "TYPE": "Ultramax",
-      "DWT": "63,227",
-      "BUILT": "",
-      "YARD": "MAN B. 2012 SINOPACIFIC DAYANG",
-      "PRICE": "USD 21 M",
+      "DWT": 63227,
+      "BUILT": 2012,
+      "YARD": "SINOPACIFIC DAYANG",
+      "PRICE": "LOW USD 21 M",
       "BUYERS": "CHINESE",
-      "SS_DD": "12/22 LOW 12/22",
-      "COMMENTS": "& W. 5S60ME-C8.2 SS Tier II, 4 x 36 T DD BWTS Due",
-      "raw_built": "MAN B. 2012 SINOPACIFIC DAYANG",
-      "raw_details": "& W. 5S60ME-C8.2 SS Tier II, 4 x 36 T DD BWTS Due"
+      "SS_DD": "SS 12/22 DD 12/22"
     },
     {
       "issue_date": "2022-11-04",
-      "stem": "2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200",
-      "source_file": "2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf",
-      "section": "Bulker Sales",
+      "report_week": 44,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf",
+      "source_sha256": "67a660cbbed9474720df6725843058b436a620df9cba8f1590d659de96fd184a",
+      "section": "bulk",
+      "vessel": "WAAL CONFIDENCE",
       "page": 1,
+      "dwt_raw": "33,387",
+      "dwt": 33387,
+      "built_year": 2009,
+      "yard": "SHIN KOCHI",
+      "details": "MITSUBISHI 6UEC52LA 4 x 30 T, BWTS Fitted",
+      "ss_dd": "SS 06/24 DD 06/24",
+      "price_raw": "USD 15.2 M",
+      "price_usd_m": 15.2,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "GREEKS",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2009",
+      "price_usd_m_per_vessel": 15.2,
       "NAME": "WAAL CONFIDENCE",
-      "TYPE": "Handysize",
-      "DWT": "33,387",
-      "BUILT": "2009",
-      "YARD": "SHIN KOCHI 4 x",
+      "DWT": 33387,
+      "BUILT": 2009,
+      "YARD": "SHIN KOCHI",
       "PRICE": "USD 15.2 M",
       "BUYERS": "GREEKS",
-      "SS_DD": "06/24 06/24",
-      "COMMENTS": "MITSUBISHI 6UEC52LA SS 30 T, BWTS Fitted DD",
-      "raw_built": "2009 SHIN KOCHI 4 x",
-      "raw_details": "MITSUBISHI 6UEC52LA SS 30 T, BWTS Fitted DD"
+      "SS_DD": "SS 06/24 DD 06/24"
     },
     {
       "issue_date": "2022-11-04",
-      "stem": "2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200",
-      "source_file": "2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf",
-      "section": "Tanker Sales",
+      "report_week": 44,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf",
+      "source_sha256": "67a660cbbed9474720df6725843058b436a620df9cba8f1590d659de96fd184a",
+      "section": "tanker",
+      "vessel": "CELSIUS RIMINI",
       "page": 1,
+      "dwt_raw": "53,603",
+      "dwt": 53603,
+      "built_year": 2009,
+      "yard": "SHIN KURUSHIMA",
+      "details": "MITSUBISHI 6UEC60LS Pumps 4, BWTS Fitted",
+      "ss_dd": "SS 03/27 DD 05/25",
+      "price_raw": "USD 24.5 M",
+      "price_usd_m": 24.5,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "BANGLADESHI",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2009",
+      "price_usd_m_per_vessel": 24.5,
       "NAME": "CELSIUS RIMINI",
-      "TYPE": "MR",
-      "DWT": "53,603",
-      "BUILT": "2009",
-      "YARD": "SHIN KURUSHIMA Pumps",
+      "DWT": 53603,
+      "BUILT": 2009,
+      "YARD": "SHIN KURUSHIMA",
       "PRICE": "USD 24.5 M",
       "BUYERS": "BANGLADESHI",
-      "SS_DD": "03/27 05/25",
-      "COMMENTS": "MITSUBISHI 6UEC60LS SS 4, BWTS Fitted DD",
-      "raw_built": "2009 SHIN KURUSHIMA Pumps",
-      "raw_details": "MITSUBISHI 6UEC60LS SS 4, BWTS Fitted DD"
+      "SS_DD": "SS 03/27 DD 05/25"
     }
   ],
   "demolitions": []

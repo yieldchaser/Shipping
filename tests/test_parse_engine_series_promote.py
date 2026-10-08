@@ -68,7 +68,7 @@ def test_export_series_rows_and_en_bloc_groups(tmp_path):
               "rows": [["No reported sales", "", "", "", "", "", "", ""]]}
     demo = {"name": "Demolition - Bulk Carriers GCs", "columns": ["Vessel", "DWT", "Built", "Details", "Price", "Delivery"],
             "empty": False, "rows": [["K", "69,235", "1993 JAPAN", "9,543 LDT", "USD 585.5 / LDT", "BANGLADESH"]]}
-    _write_issue(tmp_path / "stage", "2021", "2021-07-09_x", "2021-07-09", [sales, tanker, demo])
+    _write_issue(tmp_path / "stage", "2021", "2021-07-09_clarkson_x", "2021-07-09", [sales, tanker, demo])
     res = xs.export(tmp_path / "stage", tmp_path / "out")
     rows = res["sales"]
     assert [r["vessel"] for r in rows] == ["A", "B", "C"]            # "No reported sales" is not a vessel

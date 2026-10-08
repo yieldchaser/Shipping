@@ -1,81 +1,403 @@
 {
-  "issue_date": "2023-04-18",
-  "printed_date": "18/04/2023",
-  "source_file": "2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf",
+  "schema": "parse_engine/v1",
+  "issue_date": "2023-04-14",
+  "report_week": 15,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf",
+  "source_sha256": "a7d285c7095e093cf4cbd11125a15b945be895608cc3107f1f75211af7afe999",
   "sales_count": 4,
   "demo_count": 0,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulk Carriers",
+      "page": 1,
+      "bbox": [
+        27.86,
+        122.14,
+        567.12,
+        226.39
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "GLOBAL ROYAL",
+          "61,211",
+          "2022",
+          "DACKS",
+          "MAN B. & W. 6S50ME-B9.3 4 x 30 T, BWTS Fitted",
+          "SS 03/27 DD 03/25",
+          "RGN USD 34.25 M",
+          "GREEKS"
+        ],
+        [
+          "ASIAN TRIUMPH",
+          "56,532",
+          "2012",
+          "COSCO ZHOUSHAN",
+          "MAN B. & W. 6S50MC-C8.2 4 x 30 T, BWTS Fitted",
+          "SS 09/27 DD 09/25",
+          "MID USD 15 M",
+          "U/D"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          169.0,
+          194.2,
+          0
+        ],
+        [
+          1,
+          194.2,
+          226.4,
+          1
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.3,
+        156.1,
+        241.1,
+        354.4,
+        404.1,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tankers – Chemicals – LPG/LNGs",
+      "page": 1,
+      "bbox": [
+        28.34,
+        247.2,
+        567.12,
+        349.3
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "DI MATTEO",
+          "46,646",
+          "2009",
+          "NAIKAI ZOSEN",
+          "MAN B. & W. 6S50MC-C8.2 4 Pumps, BWTS Fitted",
+          "SS 10/24 DD 10/24",
+          "USD 26 M",
+          "U/D"
+        ],
+        [
+          "MAERSK MICHIGAN",
+          "47,047",
+          "2003",
+          "ONOMICHI",
+          "MAN B. & W. 6S50MC6.1 4 Pumps, CAP 1, CPP BWTS Fitted",
+          "SS 07/23 DD 07/23",
+          "HIGH USD 14 M",
+          "U/D"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          294.1,
+          319.3,
+          0
+        ],
+        [
+          1,
+          319.3,
+          349.3,
+          1
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.3,
+        156.1,
+        241.1,
+        354.4,
+        404.1,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Demolition - Bulk Carriers GCs",
+      "title": "Bulk Carriers – GCs – CVs",
+      "page": 2,
+      "bbox": [
+        28.34,
+        77.47,
+        567.12,
+        146.21
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        125.6,
+        180.8,
+        267.7,
+        400.0,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    },
+    {
+      "name": "Demolition - Tankers",
+      "title": "Tankers – Chemicals – LPGs",
+      "page": 2,
+      "bbox": [
+        28.34,
+        169.42,
+        567.12,
+        261.91
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        125.6,
+        180.8,
+        267.7,
+        400.0,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    }
+  ],
   "sales": [
     {
-      "issue_date": "2023-04-18",
-      "stem": "2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc",
-      "source_file": "2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf",
-      "section": "Bulker Sales",
+      "issue_date": "2023-04-14",
+      "report_week": 15,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf",
+      "source_sha256": "a7d285c7095e093cf4cbd11125a15b945be895608cc3107f1f75211af7afe999",
+      "section": "bulk",
+      "vessel": "GLOBAL ROYAL",
       "page": 1,
+      "dwt_raw": "61,211",
+      "dwt": 61211,
+      "built_year": 2022,
+      "yard": "DACKS",
+      "details": "MAN B. & W. 6S50ME-B9.3 4 x 30 T, BWTS Fitted",
+      "ss_dd": "SS 03/27 DD 03/25",
+      "price_raw": "RGN USD 34.25 M",
+      "price_usd_m": 34.25,
+      "price_qualifier": "RGN",
+      "price_scope": "vessel",
+      "buyer": "GREEKS",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2022",
+      "price_usd_m_per_vessel": 34.25,
       "NAME": "GLOBAL ROYAL",
-      "TYPE": "Ultramax",
-      "DWT": "61,211",
-      "BUILT": "",
-      "YARD": "MAN B. 2022 DACKS 4 x",
-      "PRICE": "USD 34.25 M",
+      "DWT": 61211,
+      "BUILT": 2022,
+      "YARD": "DACKS",
+      "PRICE": "RGN USD 34.25 M",
       "BUYERS": "GREEKS",
-      "SS_DD": "03/27 RGN 03/25",
-      "COMMENTS": "& W. 6S50ME-B9.3 SS 30 T, BWTS Fitted DD",
-      "raw_built": "MAN B. 2022 DACKS 4 x",
-      "raw_details": "& W. 6S50ME-B9.3 SS 30 T, BWTS Fitted DD"
+      "SS_DD": "SS 03/27 DD 03/25"
     },
     {
-      "issue_date": "2023-04-18",
-      "stem": "2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc",
-      "source_file": "2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf",
-      "section": "Bulker Sales",
+      "issue_date": "2023-04-14",
+      "report_week": 15,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf",
+      "source_sha256": "a7d285c7095e093cf4cbd11125a15b945be895608cc3107f1f75211af7afe999",
+      "section": "bulk",
+      "vessel": "ASIAN TRIUMPH",
       "page": 1,
+      "dwt_raw": "56,532",
+      "dwt": 56532,
+      "built_year": 2012,
+      "yard": "COSCO ZHOUSHAN",
+      "details": "MAN B. & W. 6S50MC-C8.2 4 x 30 T, BWTS Fitted",
+      "ss_dd": "SS 09/27 DD 09/25",
+      "price_raw": "MID USD 15 M",
+      "price_usd_m": 15.0,
+      "price_qualifier": "MID",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2012",
+      "price_usd_m_per_vessel": 15.0,
       "NAME": "ASIAN TRIUMPH",
-      "TYPE": "Supramax",
-      "DWT": "56,532",
-      "BUILT": "2012",
-      "YARD": "COSCO MAN B. ZHOUSHAN 4 x",
-      "PRICE": "USD 15 M",
+      "DWT": 56532,
+      "BUILT": 2012,
+      "YARD": "COSCO ZHOUSHAN",
+      "PRICE": "MID USD 15 M",
       "BUYERS": "U/D",
-      "SS_DD": "09/27 MID 09/25",
-      "COMMENTS": "& W. 6S50MC-C8.2 SS 30 T, BWTS Fitted DD",
-      "raw_built": "2012 COSCO MAN B. ZHOUSHAN 4 x",
-      "raw_details": "& W. 6S50MC-C8.2 SS 30 T, BWTS Fitted DD"
+      "SS_DD": "SS 09/27 DD 09/25"
     },
     {
-      "issue_date": "2023-04-18",
-      "stem": "2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc",
-      "source_file": "2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf",
-      "section": "Tanker Sales",
+      "issue_date": "2023-04-14",
+      "report_week": 15,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf",
+      "source_sha256": "a7d285c7095e093cf4cbd11125a15b945be895608cc3107f1f75211af7afe999",
+      "section": "tanker",
+      "vessel": "DI MATTEO",
       "page": 1,
+      "dwt_raw": "46,646",
+      "dwt": 46646,
+      "built_year": 2009,
+      "yard": "NAIKAI ZOSEN",
+      "details": "MAN B. & W. 6S50MC-C8.2 4 Pumps, BWTS Fitted",
+      "ss_dd": "SS 10/24 DD 10/24",
+      "price_raw": "USD 26 M",
+      "price_usd_m": 26.0,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2009",
+      "price_usd_m_per_vessel": 26.0,
       "NAME": "DI MATTEO",
-      "TYPE": "MR",
-      "DWT": "46,646",
-      "BUILT": "",
-      "YARD": "MAN B. 2009 NAIKAI ZOSEN 4 MAN",
+      "DWT": 46646,
+      "BUILT": 2009,
+      "YARD": "NAIKAI ZOSEN",
       "PRICE": "USD 26 M",
       "BUYERS": "U/D",
-      "SS_DD": "10/24 10/24",
-      "COMMENTS": "& W. 6S50MC-C8.2 SS Pumps, BWTS Fitted DD B. & W. 6S50MC6.1",
-      "raw_built": "MAN B. 2009 NAIKAI ZOSEN 4 MAN",
-      "raw_details": "& W. 6S50MC-C8.2 SS Pumps, BWTS Fitted DD B. & W. 6S50MC6.1"
+      "SS_DD": "SS 10/24 DD 10/24"
     },
     {
-      "issue_date": "2023-04-18",
-      "stem": "2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc",
-      "source_file": "2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf",
-      "section": "Tanker Sales",
+      "issue_date": "2023-04-14",
+      "report_week": 15,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf",
+      "source_sha256": "a7d285c7095e093cf4cbd11125a15b945be895608cc3107f1f75211af7afe999",
+      "section": "tanker",
+      "vessel": "MAERSK MICHIGAN",
       "page": 1,
+      "dwt_raw": "47,047",
+      "dwt": 47047,
+      "built_year": 2003,
+      "yard": "ONOMICHI",
+      "details": "MAN B. & W. 6S50MC6.1 4 Pumps, CAP 1, CPP BWTS Fitted",
+      "ss_dd": "SS 07/23 DD 07/23",
+      "price_raw": "HIGH USD 14 M",
+      "price_usd_m": 14.0,
+      "price_qualifier": "HIGH",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2003",
+      "price_usd_m_per_vessel": 14.0,
       "NAME": "MAERSK MICHIGAN",
-      "TYPE": "MR",
-      "DWT": "47,047",
-      "BUILT": "",
-      "YARD": "MAN 2003 ONOMICHI 4",
-      "PRICE": "USD 14 M",
+      "DWT": 47047,
+      "BUILT": 2003,
+      "YARD": "ONOMICHI",
+      "PRICE": "HIGH USD 14 M",
       "BUYERS": "U/D",
-      "SS_DD": "07/23 HIGH 07/23",
-      "COMMENTS": "B. & W. 6S50MC6.1 SS Pumps, CAP 1, CPP DD BWTS Fitted",
-      "raw_built": "MAN 2003 ONOMICHI 4",
-      "raw_details": "B. & W. 6S50MC6.1 SS Pumps, CAP 1, CPP DD BWTS Fitted"
+      "SS_DD": "SS 07/23 DD 07/23"
     }
   ],
   "demolitions": []

@@ -1,51 +1,72 @@
 ---
-title: "Clarksons Hellas S&P Weekly - 24/03/2023"
-issue_date: "2023-03-24"
-year: "2023"
-broker: "Clarksons Hellas"
-category: "market_report"
-source_file: "corpus/02-hellenic/shipbuilding/pdfs/2023-03-24_clarksons-platou-hellas-snp-weekly-bulletin-62_report-24-03-2023_4346978973de.pdf"
+title: Clarksons Hellas S&P Weekly Bulletin 2023-03-24
+publisher: Clarksons Hellas
+source: clarksons
+issue_date: '2023-03-24'
+document_header_date: '2023-03-24'
+issue_date_conflict: false
+year: 2023
+source_file: corpus/02-hellenic/shipbuilding/pdfs/2023/2023-03-24_clarksons-platou-hellas-snp-weekly-bulletin-62_report-24-03-2023_4346978973de.pdf
+source_sha256: 75a007721fb81e846ec96b19a189b9c65e8bda870f42780cb68792c7a372e3ef
+pages_total: 3
+pages_parsed: 1-2
+parser: pymupdf_table + pymupdf_prose
+parsed_at: '2026-10-08T04:23:44Z'
 ---
 
-# Clarksons Hellas S&P Weekly - 24/03/2023
+# Bulk Carriers
 
-- **Date**: 2023-03-24 (24/03/2023)
-- **Source**: `corpus/02-hellenic/shipbuilding/pdfs/2023-03-24_clarksons-platou-hellas-snp-weekly-bulletin-62_report-24-03-2023_4346978973de.pdf`
-- **Publisher**: Clarksons Hellas Ltd.
+| Vessel | DWT | Year | Yard | Details | SS/DD | Price | Buyer |
+|---|---|---|---|---|---|---|---|
+| HUI XIN 9 | 75,658 | 2012 | SHANGHAI SHIPYARD | MAN B. & W. 5S60MC6.2 BWTS Ordered | SS 05/27 DD 05/25 | XS USD 17 M | EUROPEANS |
+| CARMENCITA | 58,773 | 2009 | TSUNEISHI (CEBU) | MAN B. & W. 6S50MC6.2 4 x 30 T, BWTS Fitted | SS 05/24 DD 05/24 | USD 16 M | U/D |
+| AMIS ORCHID | 58,120 | 2012 | TSUNEISHI (CEBU) | MAN B. & W. 6S50ME-C8.1 4 x 30 T, BWTS Fitted | SS 07/25 DD 07/25 | USD 18.9 M (Index linked TC attached until February-June 2024) | GREEKS |
+| ERISORT | 39,763 | 2014 | CHENGXI | WARTSILA 5RT-flex50-B Boxed, Logs Fitted 4 x 36 T, BWTS Fitted | SS 10/24 DD 10/24 | USD 20.2 M EACH (en bloc) | USA BASED |
+| ERRADALE | 39,757 | 2014 | CHENGXI | WARTSILA 5RT-flex50-B Boxed, Logs Fitted 4 x 36 T, BWTS Fitted | SS 08/24 DD 08/24 | USD 20.2 M EACH (en bloc) | USA BASED |
+| WULIN | 39,049 | 2014 | CHENGXI | WARTSILA 5RT-flex50-B Boxed 4x 36 T, BWTS Fitted | SS 03/24 DD 03/24 | USD 20.2 M EACH (en bloc) | USA BASED |
+| DAIWAN CHAMPION | 34,393 | 2015 | NAMURA | MAN B. & W. 6S46ME-B8.3 4 x 30 T, BWTS Fitted | SS 02/25 DD 02/25 | HIGH USD 19 M (Index linked TC attached until February-June 2024) | EUROPEANS |
 
-## Desk Commentary
+# Tankers – Chemicals – LPG/LNGs
 
-### Desk Talk
+| Vessel | DWT | Year | Yard | Details | SS/DD | Price | Buyer |
+|---|---|---|---|---|---|---|---|
+| HAFNIA DANUBE | 76,564 | 2007 | DALIAN | MAN B. & W. 6S60MC6.1 3 Pumps, CPP, BWTS Fitted | SS 03/27 DD 06/25 | XS USD 23 M EACH (en bloc) | U/D |
+| HAFNIA HUDSON | 76,564 | 2007 | DALIAN | MAN B. & W. 6S60MC6.1 3 Pumps, CPP, BWTS Fitted | SS 06/27 DD 07/25 | XS USD 23 M EACH (en bloc) | U/D |
+| PTI DANUBE | 49,999 | 2017 | SPP | MAN B. & W. 6S50ME-B9.3 12 Pumps, BWTS Fitted | SS 01/27 DD 02/25 | XS USD 40 M | EUROPEANS |
+| JEMMA | 38,402 | 2008 | GSI | MAN B. & W. 6S50MC-C8.1 10 Pumps, CPP, BWTS Due | SS 06/23 DD 06/23 | USD 18 M | TURKISH |
+
+# New Building
+
+In the gas carrier market this week, Hyundai announced signing contracts with Arab Maritime Petro (AMPTC) for a pair of VLGCs. These are understood to be 91,000cbm vessels will both have LPG dual fuel propulsion and will deliver within 2Q 2026 and 3Q 2026 respectively.
+
+Meanwhile, in the car carrier market, GSI Nansha announced orders for three firm LND dual-fuel 8,600 CEU PCTC’s for HMM, with the vessels expected to deliver in 2026.
+
+Finally in containers, Samskip HF contracted two firm plus two optional zero-emission, Hydrogen fuelled 730 TEU Feeder containerships at Cochin Shipyard. The vessels are slated for delivery in 2025.
+
+# Recycling
+
+## Ramadan Mubarak!
 
 The holy month of Ramadan has arrived which seasonally, will ensure a lack of appetite from the recyclers to engage in new negotiations. Market activity has slowed anyway due to the lack of tonnage supply as ship owners try to benefit from the rebounding freight markets. There are reports that a slight softening on price levels have materialised this week from both Bangladesh and India, although these are predicted to only be a temporary measure.
 
-## S&P Transaction Tables
+This quiet time will enable the Bangladeshi recyclers to digest the tonnage recently acquired following their well-publicised financial constraints. There certainly has been a larger volume of arrivals to the Chattogram shores over recent weeks compared to the arrivals at their counterparts in India.
 
-### Bulker Sales
+Finally, there has been an announcement made by the local custom authorities in Alang, India whereby in addition to the regular Notice of Readiness delivery documents required for completing inward clearance, the following additional clauses are to be included in future contracts:
 
-| Vessel | DWT | Built | Yard | Details | SS/DD | Price | Buyer |
-|---|---|---|---|---|---|---|---|
-| HUI XIN 9 | 75,658 | 2012 | SHANGHAI MAN B. SHIPYARD | & W. 5S60MC6.2 SS BWTS Ordered DD | 05/27 XS 05/25 | USD 17 M | EUROPEANS |
-| CARMENCITA | 58,773 | 2009 | TSUNEISHI MAN B. (CEBU) 4 x | & W. 6S50MC6.2 SS 30 T, BWTS Fitted DD | 05/24 05/24 | USD 16 M | U/D |
-| AMIS ORCHID | 58,120 | 2012 | TSUNEISHI MAN B. (CEBU) 4 x | & W. 6S50ME-C8.1 SS 30 T, BWTS Fitted DD | 07/25 (Index 07/25 | linked TC attached until February-June 2024) | GREEKS |
-| ERISORT | 39,763 | 2014 | CHENGXI WARTSILA Boxed, | SS 5RT-flex50-B DD Logs Fitted SS | 10/24 10/24 08/24 | USD 20.2 M |  |
-| ERRADALE | 39,757 |  | Boxed, 4 x 2014 CHENGXI WARTSILA | Logs Fitted SS 36 T, BWTS Fitted DD 5RT-flex50-B | 08/24 08/24 | USD 20.2 M USA EACH | BASED |
-| WULIN | 39,049 |  | WARTSILA 2014 CHENGXI 4x | 5RT-flex50-B SS Boxed DD 36 T, BWTS Fitted | 03/24 03/24 |  |  |
-| DAIWAN CHAMPION | 34,393 |  | MAN B. 2015 NAMURA 4 x | & W. 6S46ME-B8.3 SS 30 T, BWTS Fitted DD | HIGH 02/25 (Index 02/25 | USD 19 M linked TC attached until February-June 2024) | EUROPEANS |
+1. Survey report for bunker on board of inside and outside the engine room tanks and also, confirming all tanks are connected with each other.
 
-### Tanker Sales
+2. Certificate from Master confirming all tanks and pipeline are connected with each other on vessel.
 
-| Vessel | DWT | Built | Yard | Details | SS/DD | Price | Buyer |
-|---|---|---|---|---|---|---|---|
-| HAFNIA DANUBE | 76,564 | 2007 | DALIAN MAN 3 Pumps, | SS DD B. & W. 6S60MC6.1 CPP, BWTS Fitted SS | 03/27 06/25 XS 06/27 | USD 23 M EACH | U/D |
-| HAFNIA HUDSON | 76,564 |  | 3 Pumps, 2007 DALIAN MAN B. | CPP, BWTS Fitted SS DD & W. 6S50ME-B9.3 SS | 06/27 07/25 01/27 | EACH | U/D |
-| PTI DANUBE | 49,999 |  | MAN B. 2017 SPP 12 MAN B. | & W. 6S50ME-B9.3 SS Pumps, BWTS Fitted DD & W. 6S50MC-C8.1 SS | 01/27 XS 02/25 06/23 | USD 40 M | EUROPEANS |
-| JEMMA | 38,402 |  | MAN B. 2008 GSI 10 Pumps, | & W. 6S50MC-C8.1 SS CPP, BWTS Due DD | 06/23 06/23 | USD 18 M | TURKISH |
+# Demolition
 
-## Contact & Legal Disclaimer
+## Bulk Carriers – GCs – CVs
 
-**Clarkson Hellas Ltd.**  
-Direct: +(30) 210 458 6700 | Fax: +(30) 210 458 6799  
-Website: www.clarksons.com  
+| Vessel | DWT | Built | Details | Price | Delivery |
+|---|---|---|---|---|---|
+| No reported sales |  |  |  |  |  |
 
-> *The material and information contained herein are provided by Clarkson Hellas Ltd for general information purposes only.*
+## Tankers – Chemicals – LPGs
+
+| Vessel | DWT | Built | Details | Price | Delivery |
+|---|---|---|---|---|---|
+| No reported sales |  |  |  |  |  |

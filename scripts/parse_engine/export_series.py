@@ -15,7 +15,7 @@ from pathlib import Path
 from typing import Any
 
 from scripts.parse_engine.config import REPO_ROOT
-from scripts.parse_engine.promote import read_frontmatter
+from scripts.parse_engine.promote import DEFAULT_NAME_MARKERS, belongs_to_source, read_frontmatter
 
 # Columns of the old series files, kept so existing readers (r["issue"], r["NAME"] ...) keep working.
 SALES_ALIASES = ["issue", "page", "NAME", "TYPE", "DWT", "BUILT", "YARD", "PRICE", "BUYERS", "SS_DD", "COMMENTS", "extra_json"]
@@ -133,7 +133,21 @@ def parse_ldt(details: str, bare_ok: bool = False) -> int | str:
         return ""
 
 
+GREEK_TO_LATIN = str.maketrans({"Α": "A", "Β": "B", "Ε": "E", "Ζ": "Z", "Η": "H", "Ι": "I", "Κ": "K", "Μ": "M",
+                                "Ν": "N", "Ο": "O", "Ρ": "P", "Τ": "T", "Υ": "Y", "Χ": "X", "ο": "o", "ν": "v"})
+PRICE_RANGE_RE = re.compile(r"(\d[\d.,]*)\s*[-–]\s*(\d[\d.,]*)")
+
+
+def latinize(name: str) -> str:
+    """Greek capitals that look like Latin letters ("ΑLPHA") back to Latin, so one vessel keeps one spelling."""
+    return (name or "").translate(GREEK_TO_LATIN)
+
+
 def parse_demo_price(raw: str) -> float | str:
+    """USD/LDT of a demolition price; a printed range ("540-550") is kept verbatim as text, never cut to its low end."""
+    rng = PRICE_RANGE_RE.search(raw or "")
+    if rng:
+        return f"{rng.group(1)}-{rng.group(2)}"
     m = re.search(r"([\d][\d.,]*)\s*(?:/\s*(?:LDT|LT|ldt)|USD)?", raw or "")
     if not m or not re.search(r"\d", raw or ""):
         return ""
@@ -142,11 +156,13 @@ def parse_demo_price(raw: str) -> float | str:
 
 
 # ---------------------------------------------------------------------------------------- export
-def _iter_issues(root: Path) -> list[tuple[Path, Path]]:
+def _iter_issues(root: Path, markers: tuple[str, ...] = DEFAULT_NAME_MARKERS) -> list[tuple[Path, Path]]:
+    """(md, tables.json) pairs under `root` that belong to the source: another publisher's report filed under
+    the same directory (an SSY report in clarksons/2026) is not an issue of this series."""
     pairs = []
     for tj in sorted(root.glob("*/*.tables.json")):
         md = tj.with_name(tj.name[: -len(".tables.json")] + ".md")
-        if md.exists():
+        if md.exists() and belongs_to_source(md, markers):
             pairs.append((md, tj))
     return pairs
 
@@ -202,6 +218,7 @@ def issue_rows(tables: list[dict[str, Any]], meta: dict[str, Any]) -> tuple[list
             "built": ("Built",), "details": ("Details",), "ssdd": ("SS/DD",), "price": ("Price",),
             "buyer": ("Buyer",), "delivery": ("Delivery",)}.items()}
         get = lambda row, k: row[ix[k]].strip() if ix[k] is not None and ix[k] < len(row) else ""  # noqa: E731
+        vessel = lambda row: latinize(get(row, "vessel"))  # noqa: E731
         flagged = set(t.get("en_bloc_rows", []))
         sec = section_of(t["name"])
         group = 0
@@ -213,7 +230,7 @@ def issue_rows(tables: list[dict[str, Any]], meta: dict[str, Any]) -> tuple[list
             if is_demo:
                 built = get(row, "built") or get(row, "year")
                 m = re.match(r"((?:19|20)\d{2})\s*(.*)$", built)
-                demo.append({**meta, "section": sec, "vessel": get(row, "vessel"), "page": t.get("page"),
+                demo.append({**meta, "section": sec, "vessel": vessel(row), "page": t.get("page"),
                              "dwt_raw": get(row, "dwt"), "dwt": parse_int(get(row, "dwt")), "built_year": int(m.group(1)) if m else "",
                              "built_place": (m.group(2) if m else built).strip(), "ldt": parse_ldt(get(row, "details"), bare_ok=True),
                              "price_raw": get(row, "price"), "price_usd_ldt": parse_demo_price(get(row, "price")),
@@ -230,7 +247,7 @@ def issue_rows(tables: list[dict[str, Any]], meta: dict[str, Any]) -> tuple[list
             if en_bloc and not pp["price_scope"] and pp["price_usd_m"] != "":
                 pp["price_scope"] = "group"
             year_raw = get(row, "year") or get(row, "built")
-            sales.append({**meta, "section": sec, "vessel": get(row, "vessel"), "page": t.get("page"),
+            sales.append({**meta, "section": sec, "vessel": vessel(row), "page": t.get("page"),
                           "dwt_raw": get(row, "dwt"), "dwt": parse_int(get(row, "dwt")), "built_year": parse_year(year_raw),
                           "yard": get(row, "yard"), "details": get(row, "details"), "ss_dd": get(row, "ssdd"),
                           "price_raw": price_raw, "price_usd_m": pp["price_usd_m"],
@@ -273,9 +290,9 @@ def sidecar_payload(tables: list[dict[str, Any]], issue_date: str | None, source
 
 
 def export(root: Path, out_dir: Path, only_stems: set[str] | None = None,
-           require_engine_schema: bool = False) -> dict[str, Any]:
+           require_engine_schema: bool = False, markers: tuple[str, ...] = DEFAULT_NAME_MARKERS) -> dict[str, Any]:
     if require_engine_schema:
-        legacy = [tj for _, tj in _iter_issues(root)
+        legacy = [tj for _, tj in _iter_issues(root, markers)
                   if not isinstance(json.loads(tj.read_text(encoding="utf-8")), dict)
                   or json.loads(tj.read_text(encoding="utf-8")).get("schema") != "parse_engine/v1"]
         if legacy:
@@ -284,7 +301,7 @@ def export(root: Path, out_dir: Path, only_stems: set[str] | None = None,
     sales: list[dict[str, Any]] = []
     demo: list[dict[str, Any]] = []
     issues = 0
-    for md, tj in _iter_issues(root):
+    for md, tj in _iter_issues(root, markers):
         if only_stems is not None and md.stem not in only_stems:
             continue
         fm = read_frontmatter(md)
@@ -351,8 +368,9 @@ DEFAULT_OLD = {"sales_series": ("clarksons_sales_series.csv", "issue_date", "NAM
 
 
 def run_export(root: Path, out_dir: Path, series_dir: Path = REPO_ROOT / "data" / "extracted" / "series",
-               only_stems: set[str] | None = None, require_engine_schema: bool = False) -> dict[str, Any]:
-    res = export(root, out_dir, only_stems, require_engine_schema)
+               only_stems: set[str] | None = None, require_engine_schema: bool = False,
+               markers: tuple[str, ...] = DEFAULT_NAME_MARKERS) -> dict[str, Any]:
+    res = export(root, out_dir, only_stems, require_engine_schema, markers)
     res["comparison"] = {}
     for key, (fname, dcol, vcol) in DEFAULT_OLD.items():
         path = series_dir / fname

@@ -1,45 +1,214 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2025-12-12",
-  "printed_date": "12/12/2025",
-  "source_file": "2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf",
+  "report_week": 50,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2025/2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf",
+  "source_sha256": "cd30e1853532e55a85259087804f97ca552bec1a2c2aefd057bf23ebe976c938",
   "sales_count": 2,
   "demo_count": 0,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulker Sales",
+      "page": 2,
+      "bbox": [
+        40.92,
+        168.63,
+        563.5,
+        420.27
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "ATLANTIC LION",
+          "209,205",
+          "2020",
+          "SWS",
+          "B&W 6G70ME-C9.5 BWTS FITTED SCRUBBER FITTED",
+          "SS 07/30 DD 07/28",
+          "USD 73.75 M",
+          "KOREAN"
+        ],
+        [
+          "IVS WINDSOR",
+          "60,279",
+          "2016",
+          "OSHIMA",
+          "B&W 6S50ME-B9.3 4x30T BWTS FITTED",
+          "SS 09/26 DD 09/26",
+          "LOW USD 25 M",
+          "GREEK"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "header-midpoints",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          230.9,
+          269.9,
+          0
+        ],
+        [
+          2,
+          269.9,
+          305.8,
+          1
+        ]
+      ],
+      "column_bounds": [
+        0.0,
+        120.0,
+        194.6,
+        287.6,
+        380.3,
+        449.7,
+        514.7,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tanker Sales",
+      "page": 2,
+      "bbox": [
+        40.92,
+        423.92,
+        563.5,
+        446.52
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "header-midpoints",
+      "row_source": "key-column",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        0.0,
+        120.0,
+        194.6,
+        287.6,
+        380.3,
+        449.7,
+        514.7,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2025-12-12",
-      "stem": "2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054",
-      "source_file": "2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf",
-      "section": "Bulker Sales",
+      "report_week": 50,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2025/2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf",
+      "source_sha256": "cd30e1853532e55a85259087804f97ca552bec1a2c2aefd057bf23ebe976c938",
+      "section": "bulk",
+      "vessel": "ATLANTIC LION",
       "page": 2,
+      "dwt_raw": "209,205",
+      "dwt": 209205,
+      "built_year": 2020,
+      "yard": "SWS",
+      "details": "B&W 6G70ME-C9.5 BWTS FITTED SCRUBBER FITTED",
+      "ss_dd": "SS 07/30 DD 07/28",
+      "price_raw": "USD 73.75 M",
+      "price_usd_m": 73.75,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "KOREAN",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2020",
+      "price_usd_m_per_vessel": 73.75,
       "NAME": "ATLANTIC LION",
-      "TYPE": "Capesize",
-      "DWT": "209,205",
-      "BUILT": "2020",
+      "DWT": 209205,
+      "BUILT": 2020,
       "YARD": "SWS",
       "PRICE": "USD 73.75 M",
       "BUYERS": "KOREAN",
-      "SS_DD": "SS 07/30 DD 07/28",
-      "COMMENTS": "B&W 6G70ME-C9.5 BWTS FITTED SCRUBBER FITTED",
-      "raw_built": "2020 SWS",
-      "raw_details": "B&W 6G70ME-C9.5 BWTS FITTED SCRUBBER FITTED"
+      "SS_DD": "SS 07/30 DD 07/28"
     },
     {
       "issue_date": "2025-12-12",
-      "stem": "2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054",
-      "source_file": "2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf",
-      "section": "Bulker Sales",
+      "report_week": 50,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2025/2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf",
+      "source_sha256": "cd30e1853532e55a85259087804f97ca552bec1a2c2aefd057bf23ebe976c938",
+      "section": "bulk",
+      "vessel": "IVS WINDSOR",
       "page": 2,
+      "dwt_raw": "60,279",
+      "dwt": 60279,
+      "built_year": 2016,
+      "yard": "OSHIMA",
+      "details": "B&W 6S50ME-B9.3 4x30T BWTS FITTED",
+      "ss_dd": "SS 09/26 DD 09/26",
+      "price_raw": "LOW USD 25 M",
+      "price_usd_m": 25.0,
+      "price_qualifier": "LOW",
+      "price_scope": "vessel",
+      "buyer": "GREEK",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2016",
+      "price_usd_m_per_vessel": 25.0,
       "NAME": "IVS WINDSOR",
-      "TYPE": "Ultramax",
-      "DWT": "60,279",
-      "BUILT": "2016",
+      "DWT": 60279,
+      "BUILT": 2016,
       "YARD": "OSHIMA",
       "PRICE": "LOW USD 25 M",
       "BUYERS": "GREEK",
-      "SS_DD": "SS 09/26 DD 09/26",
-      "COMMENTS": "B&W 6S50ME-B9.3 4x30T BWTS FITTED",
-      "raw_built": "2016 OSHIMA",
-      "raw_details": "B&W 6S50ME-B9.3 4x30T BWTS FITTED"
+      "SS_DD": "SS 09/26 DD 09/26"
     }
   ],
   "demolitions": []

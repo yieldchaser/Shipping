@@ -1,45 +1,214 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2026-09-25",
-  "printed_date": "25 Sept 2026",
-  "source_file": "clarksons_2026_Weekly-Sales-25th-Sept-2026.pdf",
+  "report_week": 39,
+  "source_file": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-25th-Sept-2026.pdf",
+  "source_sha256": "f95311df16aaa6fe4b19ed4a0a6a8be17c1179e0115c06b32cc132fcb3ec1617",
   "sales_count": 2,
   "demo_count": 0,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulker Sales",
+      "page": 2,
+      "bbox": [
+        40.92,
+        168.63,
+        562.9,
+        323.36
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "header-midpoints",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        0.0,
+        106.4,
+        176.9,
+        272.1,
+        373.6,
+        451.1,
+        515.9,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tanker Sales",
+      "page": 2,
+      "bbox": [
+        40.92,
+        327.06,
+        565.66,
+        487.03
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "SPEEDWAY",
+          "158,594",
+          "2017",
+          "HYUNDAI SAMHO",
+          "B. & W. 6G70ME-C9.2",
+          "SS 01/27 DD 01/27",
+          "USD 99 M",
+          "U/D"
+        ],
+        [
+          "EUROINTEGRITY",
+          "105,291",
+          "2009",
+          "HHI",
+          "B. & W. 6S60MC-C7.2",
+          "SS 02/29 DD 03/27",
+          "USD 60 M",
+          "U/D"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "header-midpoints",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          401.5,
+          444.3,
+          0
+        ],
+        [
+          2,
+          444.3,
+          487.0,
+          1
+        ]
+      ],
+      "column_bounds": [
+        0.0,
+        120.1,
+        195.1,
+        285.8,
+        379.2,
+        451.6,
+        517.3,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2026-09-25",
-      "stem": "clarksons_2026_Weekly-Sales-25th-Sept-2026",
-      "source_file": "clarksons_2026_Weekly-Sales-25th-Sept-2026.pdf",
-      "section": "Tanker Sales",
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-25th-Sept-2026.pdf",
+      "source_sha256": "f95311df16aaa6fe4b19ed4a0a6a8be17c1179e0115c06b32cc132fcb3ec1617",
+      "section": "tanker",
+      "vessel": "SPEEDWAY",
       "page": 2,
+      "dwt_raw": "158,594",
+      "dwt": 158594,
+      "built_year": 2017,
+      "yard": "HYUNDAI SAMHO",
+      "details": "B. & W. 6G70ME-C9.2",
+      "ss_dd": "SS 01/27 DD 01/27",
+      "price_raw": "USD 99 M",
+      "price_usd_m": 99.0,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2017",
+      "price_usd_m_per_vessel": 99.0,
       "NAME": "SPEEDWAY",
-      "TYPE": "Suezmax",
-      "DWT": "158,594",
-      "BUILT": "2017",
+      "DWT": 158594,
+      "BUILT": 2017,
       "YARD": "HYUNDAI SAMHO",
       "PRICE": "USD 99 M",
       "BUYERS": "U/D",
-      "SS_DD": "SS 01/27 DD 01/27",
-      "COMMENTS": "B. & W. 6G70ME-C9.2",
-      "raw_built": "2017 HYUNDAI SAMHO",
-      "raw_details": "B. & W. 6G70ME-C9.2"
+      "SS_DD": "SS 01/27 DD 01/27"
     },
     {
       "issue_date": "2026-09-25",
-      "stem": "clarksons_2026_Weekly-Sales-25th-Sept-2026",
-      "source_file": "clarksons_2026_Weekly-Sales-25th-Sept-2026.pdf",
-      "section": "Tanker Sales",
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-25th-Sept-2026.pdf",
+      "source_sha256": "f95311df16aaa6fe4b19ed4a0a6a8be17c1179e0115c06b32cc132fcb3ec1617",
+      "section": "tanker",
+      "vessel": "EUROINTEGRITY",
       "page": 2,
+      "dwt_raw": "105,291",
+      "dwt": 105291,
+      "built_year": 2009,
+      "yard": "HHI",
+      "details": "B. & W. 6S60MC-C7.2",
+      "ss_dd": "SS 02/29 DD 03/27",
+      "price_raw": "USD 60 M",
+      "price_usd_m": 60.0,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2009",
+      "price_usd_m_per_vessel": 60.0,
       "NAME": "EUROINTEGRITY",
-      "TYPE": "Suezmax",
-      "DWT": "105,291",
-      "BUILT": "2009",
+      "DWT": 105291,
+      "BUILT": 2009,
       "YARD": "HHI",
       "PRICE": "USD 60 M",
       "BUYERS": "U/D",
-      "SS_DD": "SS 02/29 DD 03/27",
-      "COMMENTS": "B. & W. 6S60MC-C7.2",
-      "raw_built": "2009 HHI",
-      "raw_details": "B. & W. 6S60MC-C7.2"
+      "SS_DD": "SS 02/29 DD 03/27"
     }
   ],
   "demolitions": []

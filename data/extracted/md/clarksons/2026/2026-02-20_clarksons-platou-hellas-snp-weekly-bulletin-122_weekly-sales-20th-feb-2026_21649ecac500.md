@@ -1,55 +1,50 @@
 ---
-title: "Clarksons Hellas S&P Weekly - 20/02/2026"
-issue_date: "2026-02-20"
-year: "2026"
-broker: "Clarksons Hellas"
-category: "market_report"
-source_file: "corpus/02-hellenic/shipbuilding/pdfs/2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf"
+title: Clarksons Hellas S&P Weekly Bulletin 2026-02-20
+publisher: Clarksons Hellas
+source: clarksons
+issue_date: '2026-02-20'
+document_header_date: null
+issue_date_conflict: false
+year: 2026
+source_file: corpus/02-hellenic/shipbuilding/pdfs/2026/2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf
+source_sha256: 5c8328160e554e0eaf2f0fb40dc95eddbc84ee0a768e4bd73f8792d2a93e095a
+pages_total: 3
+pages_parsed: 1-2
+parser: pymupdf_table + pymupdf_prose
+parsed_at: '2026-10-08T04:24:04Z'
 ---
 
-# Clarksons Hellas S&P Weekly - 20/02/2026
-
-- **Date**: 2026-02-20 (20/02/2026)
-- **Source**: `corpus/02-hellenic/shipbuilding/pdfs/2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf`
-- **Publisher**: Clarksons Hellas Ltd.
-
-## Desk Commentary
-
-### Desk Talk
+# Desk Talk
 
 Activity has moderated this week as the Lunar New Year period temporarily slows market momentum. But despite seasonal slowdown, overall asset values continue to hold at firm levels across sectors, reflecting underlying confidence in earnings and sustained buying appetite.
 
 With several offer deadlines scheduled for next week, activity is expected to accelerate, and we will be able to report further as the market momentum builds.
 
-### Dry Cargo S&P
+## Dry Cargo
 
-Further activity was recorded in the larger sizes, with the Capesize MICHALIS H (ABT 180K DWT, 2012, DAILAN, SCRUBBER) reported sold at USD 35.2 m, reflecting continued appetite for Capesize tonnage. In the geared segment, the Supramax LIANSON DYNAMIC (ABT 53K DWT, 2006, CHENGXI) was reported sold at levels in xs USD 9 m. Whilst we are hearing of a 2010 Japanese built Supramax being committed in levels close to USD 15 m.
+Further activity was recorded in the larger sizes, with the Capesize **MICHALIS H** (ABT 180K DWT, 2012, DAILAN, SCRUBBER) reported sold at USD 35.2 m, reflecting continued appetite for Capesize tonnage.
 
-### Tanker S&P
+In the geared segment, the Supramax **LIANSON DYNAMIC** (ABT 53K DWT, 2006, CHENGXI) was reported sold at levels in xs USD 9 m. Whilst we are hearing of a 2010 Japanese built Supramax being committed in levels close to USD 15 m.
 
-On the VLCC front, the scrubber fitted SINGAPORE SPIRIT (ABT 318K DWT, 2013, SWS) is reported sold at USD 84.5 m to C/O Sinokor. Additionally, on the Aframax segment, the Korean built P. SOPHIA (ABT 105K DWT, 2009, Hyundai HI Ulsan) has changed hands achieving USD 36.65 m. Meanwhile, in the MR space, the zinc coated CABO NEGRO II (ABT 47K DWT, 2006, SK Onishi) is reported sold at levels in the low USD 14 m range.
+## Tanker
 
-## S&P Transaction Tables
+On the VLCC front, the scrubber fitted **SINGAPORE SPIRIT** (ABT 318K DWT, 2013, SWS) is reported sold at USD 84.5 m to C/O Sinokor.
 
-### Bulker Sales
+Additionally, on the Aframax segment, the Korean built **P. SOPHIA** (ABT 105K DWT, 2009, Hyundai HI Ulsan) has changed hands achieving USD 36.65 m.
 
-| Vessel | DWT | Built | Yard | Details | SS/DD | Price | Buyer |
+Meanwhile, in the MR space, the zinc coated **CABO NEGRO II** (ABT 47K DWT, 2006, SK Onishi) is reported sold at levels in the low USD 14 m range.
+
+## Bulker Sales
+
+| Vessel | DWT | Year | Yard | Details | SS/DD | Price | Buyer |
 |---|---|---|---|---|---|---|---|
 | MICHALIS H | 180,355 | 2012 | DALIAN | B&W 6S70MC-C7.2 SCRUBBER FITTED BWTS FITTED | SS 06/27 DD 06/27 | REGION 35.2 M | U/D |
 | LIANSON DYNAMIC | 53,535 | 2006 | CHENGXI | B&W 6S50MC-C8.1 4 x 35T BWTS FITTED | SS 07/26 DD 07/26 | USD XS 9 M | U/D |
 
-### Tanker Sales
+## Tanker Sales
 
-| Vessel | DWT | Built | Yard | Details | SS/DD | Price | Buyer |
+| Vessel | DWT | Year | Yard | Details | SS/DD | Price | Buyer |
 |---|---|---|---|---|---|---|---|
-| SINGAPORE SPIRIT | 318,473 | 2013 | SWS | FLEX82T-A BWTS FITTED SCRUBBER FITTED | SS 06/28 DD 09/27 | USD 84.5 M | C/O SINOKOR |
+| SINGAPORE SPIRIT | 318,473 | 2013 | SWS | WARTSILA 7RT-FLEX82T-A BWTS FITTED SCRUBBER FITTED | SS 06/28 DD 09/27 | USD 84.5 M | C/O SINOKOR |
 | P. SOPHIA | 105,333 | 2009 | HYUNDAI HI ULSAN | B&W 6S60MC-C8.1 | SS 09/29 DD 11/27 | USD 36.65 M | U/D |
 | CABO NEGRO II | 47,236 | 2006 | SK ONISHI | MITSUBISHI 6UEC60LS ZINC COATED | SS 05/26 DD 05/26 | USD LOW 14 M | U/D |
-
-## Contact & Legal Disclaimer
-
-**Clarkson Hellas Ltd.**  
-Direct: +(30) 210 458 6700 | Fax: +(30) 210 458 6799  
-Website: www.clarksons.com  
-
-> *The material and information contained herein are provided by Clarkson Hellas Ltd for general information purposes only.*

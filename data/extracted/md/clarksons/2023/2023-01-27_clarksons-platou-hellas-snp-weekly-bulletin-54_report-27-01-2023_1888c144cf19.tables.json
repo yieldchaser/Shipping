@@ -1,81 +1,403 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2023-01-27",
-  "printed_date": "27/01/2023",
-  "source_file": "2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf",
+  "report_week": 4,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf",
+  "source_sha256": "1f350040fc569b337324569ba1c0a6eeec51e8e9d5296e5ada418e6072291730",
   "sales_count": 4,
   "demo_count": 0,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulk Carriers",
+      "page": 1,
+      "bbox": [
+        27.96,
+        122.35,
+        567.1,
+        226.34
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "OCEAN DOMINA",
+          "76,255",
+          "2005",
+          "TSUNEISHI ZOSEN",
+          "MAN B. & W. 6S60MC6.1 BWTS Due (Ordered)",
+          "SS 06/25 DD 08/23",
+          "RGN USD 10.5 M",
+          "U/D"
+        ],
+        [
+          "AFRICAN VENTURE",
+          "34,721",
+          "2012",
+          "CHENGXI",
+          "MAN B. & W. 5S50MC-G Tier II, 4 x 30 T, BWTS Fitted",
+          "SS 06/27 DD 08/25",
+          "HIGH USD 12 M",
+          "U/D"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          169.1,
+          201.1,
+          0
+        ],
+        [
+          1,
+          201.1,
+          226.3,
+          1
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tankers – Chemicals – LPG/LNGs",
+      "page": 1,
+      "bbox": [
+        28.32,
+        253.27,
+        567.1,
+        350.33
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "LEO",
+          "112,719",
+          "2010",
+          "NEW CENTURY",
+          "MAN B. & W. 7S60MC-C7.2 BWTS Fitted",
+          "SS 09/25 DD 12/23",
+          "USD 45.5 M",
+          "DUBAI BASED"
+        ],
+        [
+          "PROODOS",
+          "47,120",
+          "2005",
+          "STX (JINHAE)",
+          "MAN B. & W. 6S50MC-C8.1 CPP, CAP1, BWTS Fitted",
+          "SS 01/25 DD 01/25",
+          "HIGH USD 18 M",
+          "EUROPEANS"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          300.0,
+          325.2,
+          0
+        ],
+        [
+          1,
+          325.2,
+          350.3,
+          1
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Demolition - Bulk Carriers GCs",
+      "title": "Bulk Carriers – GCs – CVs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        77.45,
+        567.1,
+        146.06
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    },
+    {
+      "name": "Demolition - Tankers",
+      "title": "Tankers – Chemicals – LPGs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        169.51,
+        567.1,
+        259.34
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2023-01-27",
-      "stem": "2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19",
-      "source_file": "2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf",
-      "section": "Bulker Sales",
+      "report_week": 4,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf",
+      "source_sha256": "1f350040fc569b337324569ba1c0a6eeec51e8e9d5296e5ada418e6072291730",
+      "section": "bulk",
+      "vessel": "OCEAN DOMINA",
       "page": 1,
+      "dwt_raw": "76,255",
+      "dwt": 76255,
+      "built_year": 2005,
+      "yard": "TSUNEISHI ZOSEN",
+      "details": "MAN B. & W. 6S60MC6.1 BWTS Due (Ordered)",
+      "ss_dd": "SS 06/25 DD 08/23",
+      "price_raw": "RGN USD 10.5 M",
+      "price_usd_m": 10.5,
+      "price_qualifier": "RGN",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2005",
+      "price_usd_m_per_vessel": 10.5,
       "NAME": "OCEAN DOMINA",
-      "TYPE": "Panamax",
-      "DWT": "76,255",
-      "BUILT": "2005",
-      "YARD": "TSUNEISHI MAN B. BWTS ZOSEN",
-      "PRICE": "USD 10.5 M",
+      "DWT": 76255,
+      "BUILT": 2005,
+      "YARD": "TSUNEISHI ZOSEN",
+      "PRICE": "RGN USD 10.5 M",
       "BUYERS": "U/D",
-      "SS_DD": "06/25 RGN 08/23",
-      "COMMENTS": "& W. 6S60MC6.1 SS Due (Ordered) DD",
-      "raw_built": "2005 TSUNEISHI MAN B. BWTS ZOSEN",
-      "raw_details": "& W. 6S60MC6.1 SS Due (Ordered) DD"
+      "SS_DD": "SS 06/25 DD 08/23"
     },
     {
       "issue_date": "2023-01-27",
-      "stem": "2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19",
-      "source_file": "2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf",
-      "section": "Bulker Sales",
+      "report_week": 4,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf",
+      "source_sha256": "1f350040fc569b337324569ba1c0a6eeec51e8e9d5296e5ada418e6072291730",
+      "section": "bulk",
+      "vessel": "AFRICAN VENTURE",
       "page": 1,
+      "dwt_raw": "34,721",
+      "dwt": 34721,
+      "built_year": 2012,
+      "yard": "CHENGXI",
+      "details": "MAN B. & W. 5S50MC-G Tier II, 4 x 30 T, BWTS Fitted",
+      "ss_dd": "SS 06/27 DD 08/25",
+      "price_raw": "HIGH USD 12 M",
+      "price_usd_m": 12.0,
+      "price_qualifier": "HIGH",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2012",
+      "price_usd_m_per_vessel": 12.0,
       "NAME": "AFRICAN VENTURE",
-      "TYPE": "Handysize",
-      "DWT": "34,721",
-      "BUILT": "",
-      "YARD": "MAN 2012 CHENGXI Tier II, 4",
-      "PRICE": "USD 12 M",
+      "DWT": 34721,
+      "BUILT": 2012,
+      "YARD": "CHENGXI",
+      "PRICE": "HIGH USD 12 M",
       "BUYERS": "U/D",
-      "SS_DD": "06/27 HIGH 08/25",
-      "COMMENTS": "B. & W. 5S50MC-G SS x 30 T, BWTS Fitted DD",
-      "raw_built": "MAN 2012 CHENGXI Tier II, 4",
-      "raw_details": "B. & W. 5S50MC-G SS x 30 T, BWTS Fitted DD"
+      "SS_DD": "SS 06/27 DD 08/25"
     },
     {
       "issue_date": "2023-01-27",
-      "stem": "2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19",
-      "source_file": "2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf",
-      "section": "Tanker Sales",
+      "report_week": 4,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf",
+      "source_sha256": "1f350040fc569b337324569ba1c0a6eeec51e8e9d5296e5ada418e6072291730",
+      "section": "tanker",
+      "vessel": "LEO",
       "page": 1,
+      "dwt_raw": "112,719",
+      "dwt": 112719,
+      "built_year": 2010,
+      "yard": "NEW CENTURY",
+      "details": "MAN B. & W. 7S60MC-C7.2 BWTS Fitted",
+      "ss_dd": "SS 09/25 DD 12/23",
+      "price_raw": "USD 45.5 M",
+      "price_usd_m": 45.5,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "DUBAI BASED",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2010",
+      "price_usd_m_per_vessel": 45.5,
       "NAME": "LEO",
-      "TYPE": "Aframax",
-      "DWT": "112,719",
-      "BUILT": "2010",
-      "YARD": "NEW MAN B. CENTURY 2005 STX MAN B.",
-      "PRICE": "USD 45.5 M DUBAI",
-      "BUYERS": "BASED",
-      "SS_DD": "09/25 12/23 01/25",
-      "COMMENTS": "& W. 7S60MC-C7.2 SS BWTS Fitted DD & W. 6S50MC-C8.1 SS",
-      "raw_built": "2010 NEW MAN B. CENTURY 2005 STX MAN B.",
-      "raw_details": "& W. 7S60MC-C7.2 SS BWTS Fitted DD & W. 6S50MC-C8.1 SS"
+      "DWT": 112719,
+      "BUILT": 2010,
+      "YARD": "NEW CENTURY",
+      "PRICE": "USD 45.5 M",
+      "BUYERS": "DUBAI BASED",
+      "SS_DD": "SS 09/25 DD 12/23"
     },
     {
       "issue_date": "2023-01-27",
-      "stem": "2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19",
-      "source_file": "2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf",
-      "section": "Tanker Sales",
+      "report_week": 4,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf",
+      "source_sha256": "1f350040fc569b337324569ba1c0a6eeec51e8e9d5296e5ada418e6072291730",
+      "section": "tanker",
+      "vessel": "PROODOS",
       "page": 1,
+      "dwt_raw": "47,120",
+      "dwt": 47120,
+      "built_year": 2005,
+      "yard": "STX (JINHAE)",
+      "details": "MAN B. & W. 6S50MC-C8.1 CPP, CAP1, BWTS Fitted",
+      "ss_dd": "SS 01/25 DD 01/25",
+      "price_raw": "HIGH USD 18 M",
+      "price_usd_m": 18.0,
+      "price_qualifier": "HIGH",
+      "price_scope": "vessel",
+      "buyer": "EUROPEANS",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2005",
+      "price_usd_m_per_vessel": 18.0,
       "NAME": "PROODOS",
-      "TYPE": "MR",
-      "DWT": "47,120",
-      "BUILT": "2005",
-      "YARD": "STX MAN B. (JINHAE) CPP,",
-      "PRICE": "USD 18 M",
+      "DWT": 47120,
+      "BUILT": 2005,
+      "YARD": "STX (JINHAE)",
+      "PRICE": "HIGH USD 18 M",
       "BUYERS": "EUROPEANS",
-      "SS_DD": "01/25 HIGH 01/25",
-      "COMMENTS": "& W. 6S50MC-C8.1 SS CAP1, BWTS Fitted DD",
-      "raw_built": "2005 STX MAN B. (JINHAE) CPP,",
-      "raw_details": "& W. 6S50MC-C8.1 SS CAP1, BWTS Fitted DD"
+      "SS_DD": "SS 01/25 DD 01/25"
     }
   ],
   "demolitions": []

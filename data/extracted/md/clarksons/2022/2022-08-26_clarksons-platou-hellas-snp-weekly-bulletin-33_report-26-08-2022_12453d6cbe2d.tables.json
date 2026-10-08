@@ -1,99 +1,431 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2022-08-26",
-  "printed_date": "26/08/2022",
-  "source_file": "2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
+  "report_week": 34,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
+  "source_sha256": "135236302d6a1555c0085b0b07312c0f5a55a3aafef466bb4735893ca1b606ce",
   "sales_count": 4,
   "demo_count": 1,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulk Carriers",
+      "page": 1,
+      "bbox": [
+        28.32,
+        124.87,
+        567.1,
+        201.62
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "FW ADVENTURER",
+          "34,487",
+          "2019",
+          "HAKODATE",
+          "MAN B. & W. 6S46ME-B8.5 4 x 30 T, Logs fitted BWTS fitted",
+          "SS 01/24 DD 01/24",
+          "USD 28.3 M",
+          "GREEKS"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          171.6,
+          201.6,
+          0
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tankers – Chemicals – LPG/LNGs",
+      "page": 1,
+      "bbox": [
+        28.32,
+        228.55,
+        567.1,
+        362.57
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "IMPERIA",
+          "114,849",
+          "2006",
+          "SAMSUNG",
+          "MAN B. & W. 7S60MC6.1 Ice Class 1A, BWTS fitted",
+          "SS 03/23 DD 03/23",
+          "USD 32 M",
+          "U/D"
+        ],
+        [
+          "ALPINE AMALIA",
+          "105,304",
+          "2010",
+          "HHI",
+          "MAN B. & W. 6S60MC-C8.1 3 Pumps, Trading CPP Scrubber & BWTS fitted",
+          "SS 06/25 DD 11/24",
+          "USD 36.5 M",
+          "GREEKS"
+        ],
+        [
+          "AGNES VICTORY",
+          "47,400",
+          "2004",
+          "ULJANIK BRODOGRADILISTE",
+          "MAN B. & W. 6S50MC-C8.1 10 Pumps, IMO II",
+          "SS 02/24 DD 02/24",
+          "MID-HIGH USD 16 M",
+          "U/D"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          275.3,
+          300.5,
+          0
+        ],
+        [
+          1,
+          300.5,
+          330.4,
+          1
+        ],
+        [
+          1,
+          330.4,
+          362.6,
+          2
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Demolition - Bulk Carriers GCs",
+      "title": "Bulk Carriers – GCs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        77.47,
+        567.1,
+        146.06
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    },
+    {
+      "name": "Demolition - Tankers",
+      "title": "Tankers – Chemicals – LPGs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        169.51,
+        567.1,
+        278.33
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "URANUS",
+          "299,157",
+          "2002 JAPAN",
+          "39,825 LDT",
+          "USD 610/LDT",
+          "Full range Indian sub-continent during October"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          215.2,
+          257.2,
+          0
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2022-08-26",
-      "stem": "2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d",
-      "source_file": "2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
-      "section": "Bulker Sales",
+      "report_week": 34,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
+      "source_sha256": "135236302d6a1555c0085b0b07312c0f5a55a3aafef466bb4735893ca1b606ce",
+      "section": "bulk",
+      "vessel": "FW ADVENTURER",
       "page": 1,
+      "dwt_raw": "34,487",
+      "dwt": 34487,
+      "built_year": 2019,
+      "yard": "HAKODATE",
+      "details": "MAN B. & W. 6S46ME-B8.5 4 x 30 T, Logs fitted BWTS fitted",
+      "ss_dd": "SS 01/24 DD 01/24",
+      "price_raw": "USD 28.3 M",
+      "price_usd_m": 28.3,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "GREEKS",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2019",
+      "price_usd_m_per_vessel": 28.3,
       "NAME": "FW ADVENTURER",
-      "TYPE": "Handysize",
-      "DWT": "34,487",
-      "BUILT": "",
-      "YARD": "MAN B. 2019 HAKODATE 4 x",
+      "DWT": 34487,
+      "BUILT": 2019,
+      "YARD": "HAKODATE",
       "PRICE": "USD 28.3 M",
       "BUYERS": "GREEKS",
-      "SS_DD": "01/24 01/24",
-      "COMMENTS": "& W. 6S46ME-B8.5 SS 30 T, Logs fitted DD BWTS fitted",
-      "raw_built": "MAN B. 2019 HAKODATE 4 x",
-      "raw_details": "& W. 6S46ME-B8.5 SS 30 T, Logs fitted DD BWTS fitted"
+      "SS_DD": "SS 01/24 DD 01/24"
     },
     {
       "issue_date": "2022-08-26",
-      "stem": "2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d",
-      "source_file": "2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
-      "section": "Tanker Sales",
+      "report_week": 34,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
+      "source_sha256": "135236302d6a1555c0085b0b07312c0f5a55a3aafef466bb4735893ca1b606ce",
+      "section": "tanker",
+      "vessel": "IMPERIA",
       "page": 1,
+      "dwt_raw": "114,849",
+      "dwt": 114849,
+      "built_year": 2006,
+      "yard": "SAMSUNG",
+      "details": "MAN B. & W. 7S60MC6.1 Ice Class 1A, BWTS fitted",
+      "ss_dd": "SS 03/23 DD 03/23",
+      "price_raw": "USD 32 M",
+      "price_usd_m": 32.0,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2006",
+      "price_usd_m_per_vessel": 32.0,
       "NAME": "IMPERIA",
-      "TYPE": "Aframax",
-      "DWT": "114,849",
-      "BUILT": "",
-      "YARD": "MAN 2006 SAMSUNG Ice MAN B.",
+      "DWT": 114849,
+      "BUILT": 2006,
+      "YARD": "SAMSUNG",
       "PRICE": "USD 32 M",
       "BUYERS": "U/D",
-      "SS_DD": "03/23 03/23",
-      "COMMENTS": "B. & W. 7S60MC6.1 SS Class 1A, BWTS fitted DD & W. 6S60MC-C8.1",
-      "raw_built": "MAN 2006 SAMSUNG Ice MAN B.",
-      "raw_details": "B. & W. 7S60MC6.1 SS Class 1A, BWTS fitted DD & W. 6S60MC-C8.1"
+      "SS_DD": "SS 03/23 DD 03/23"
     },
     {
       "issue_date": "2022-08-26",
-      "stem": "2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d",
-      "source_file": "2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
-      "section": "Tanker Sales",
+      "report_week": 34,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
+      "source_sha256": "135236302d6a1555c0085b0b07312c0f5a55a3aafef466bb4735893ca1b606ce",
+      "section": "tanker",
+      "vessel": "ALPINE AMALIA",
       "page": 1,
+      "dwt_raw": "105,304",
+      "dwt": 105304,
+      "built_year": 2010,
+      "yard": "HHI",
+      "details": "MAN B. & W. 6S60MC-C8.1 3 Pumps, Trading CPP Scrubber & BWTS fitted",
+      "ss_dd": "SS 06/25 DD 11/24",
+      "price_raw": "USD 36.5 M",
+      "price_usd_m": 36.5,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "GREEKS",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2010",
+      "price_usd_m_per_vessel": 36.5,
       "NAME": "ALPINE AMALIA",
-      "TYPE": "Aframax",
-      "DWT": "105,304",
-      "BUILT": "",
-      "YARD": "MAN B. 3 2010 HHI Scrubber",
+      "DWT": 105304,
+      "BUILT": 2010,
+      "YARD": "HHI",
       "PRICE": "USD 36.5 M",
       "BUYERS": "GREEKS",
-      "SS_DD": "06/25 11/24",
-      "COMMENTS": "& W. 6S60MC-C8.1 SS Pumps, Trading CPP DD & BWTS fitted",
-      "raw_built": "MAN B. 3 2010 HHI Scrubber",
-      "raw_details": "& W. 6S60MC-C8.1 SS Pumps, Trading CPP DD & BWTS fitted"
+      "SS_DD": "SS 06/25 DD 11/24"
     },
     {
       "issue_date": "2022-08-26",
-      "stem": "2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d",
-      "source_file": "2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
-      "section": "Tanker Sales",
+      "report_week": 34,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
+      "source_sha256": "135236302d6a1555c0085b0b07312c0f5a55a3aafef466bb4735893ca1b606ce",
+      "section": "tanker",
+      "vessel": "AGNES VICTORY",
       "page": 1,
+      "dwt_raw": "47,400",
+      "dwt": 47400,
+      "built_year": 2004,
+      "yard": "ULJANIK BRODOGRADILISTE",
+      "details": "MAN B. & W. 6S50MC-C8.1 10 Pumps, IMO II",
+      "ss_dd": "SS 02/24 DD 02/24",
+      "price_raw": "MID-HIGH USD 16 M",
+      "price_usd_m": 16.0,
+      "price_qualifier": "MID/HIGH",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2004",
+      "price_usd_m_per_vessel": 16.0,
       "NAME": "AGNES VICTORY",
-      "TYPE": "MR",
-      "DWT": "47,400",
-      "BUILT": "2004",
-      "YARD": "ULJANIK MAN B. BRODOGRADILISTE 10",
+      "DWT": 47400,
+      "BUILT": 2004,
+      "YARD": "ULJANIK BRODOGRADILISTE",
       "PRICE": "MID-HIGH USD 16 M",
       "BUYERS": "U/D",
-      "SS_DD": "02/24 02/24",
-      "COMMENTS": "& W. 6S50MC-C8.1 SS Pumps, IMO II DD",
-      "raw_built": "2004 ULJANIK MAN B. BRODOGRADILISTE 10",
-      "raw_details": "& W. 6S50MC-C8.1 SS Pumps, IMO II DD"
+      "SS_DD": "SS 02/24 DD 02/24"
     }
   ],
   "demolitions": [
     {
       "issue_date": "2022-08-26",
-      "stem": "2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d",
-      "source_file": "2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
-      "section": "Tanker Sales",
+      "report_week": 34,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
+      "source_sha256": "135236302d6a1555c0085b0b07312c0f5a55a3aafef466bb4735893ca1b606ce",
+      "section": "tanker",
+      "vessel": "URANUS",
       "page": 2,
-      "NAME": "URANUS",
-      "TYPE": "VLCC",
-      "DWT": "299,157",
-      "BUILT": "2002",
-      "YARD": "JAPAN",
-      "PRICE": "Full range 610/LDT sub-continent October",
-      "DELIVERY": "Indian during",
-      "COMMENTS": "39,825 LDT",
-      "raw_built": "2002 JAPAN"
+      "dwt_raw": "299,157",
+      "dwt": 299157,
+      "built_year": 2002,
+      "built_place": "JAPAN",
+      "ldt": 39825,
+      "price_raw": "USD 610/LDT",
+      "price_usd_ldt": 610.0,
+      "destination": "Full range Indian sub-continent during October",
+      "details": "39,825 LDT",
+      "built_raw": "2002 JAPAN"
     }
   ]
 }

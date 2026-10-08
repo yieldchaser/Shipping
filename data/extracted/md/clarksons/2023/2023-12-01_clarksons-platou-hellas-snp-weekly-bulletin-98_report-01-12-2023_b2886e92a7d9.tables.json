@@ -1,81 +1,365 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2023-12-01",
-  "printed_date": "01/12/2023",
-  "source_file": "2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf",
-  "sales_count": 4,
+  "report_week": 48,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf",
+  "source_sha256": "3c308844cf516d1c3bdfaba3c68b3104505933e47179e283a98d2367c433394f",
+  "sales_count": 3,
   "demo_count": 0,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulk Carriers",
+      "page": 1,
+      "bbox": [
+        27.96,
+        122.35,
+        567.1,
+        283.37
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "PEDHOULAS CHERRY",
+          "82,013",
+          "2015",
+          "JIANGSU NEW YANGZIJIANG",
+          "MAN B.&W. 6S60ME-C8.2 BWTS fitted, SCRUBBER fitted",
+          "SS 07/25 DD 07/25",
+          "USD 26.6 M",
+          "GREEKS"
+        ],
+        [
+          "KAI OLDENDORFF",
+          "81,184",
+          "2019",
+          "JIANGSU NEW HANTONG",
+          "MAN B.&W. 6S60ME-C8 BWTS fitted SCRUBBER fitted",
+          "SS 01/24 DD 01/24",
+          "USD 30.75 M",
+          "FAR EASTERN"
+        ],
+        [
+          "PING JING",
+          "34,398",
+          "2015",
+          "NAMURA",
+          "MAN B.&W. 6S46ME-B8.3 BWTS fitted",
+          "SS 05/25 DD 05/25",
+          "USD 17.2 M",
+          "FAR EATSERN"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          169.1,
+          211.0,
+          0
+        ],
+        [
+          1,
+          211.0,
+          253.0,
+          1
+        ],
+        [
+          1,
+          253.0,
+          283.4,
+          2
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        347.3,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tankers – Chemicals – LPG/LNGs",
+      "page": 1,
+      "bbox": [
+        28.32,
+        304.3,
+        567.1,
+        376.25
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Demolition - Bulk Carriers GCs",
+      "title": "Bulk Carriers – GCs – CVs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        314.5,
+        567.1,
+        383.09
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    },
+    {
+      "name": "Demolition - Tankers",
+      "title": "Tankers – Chemicals – LPGs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        406.54,
+        567.1,
+        498.79
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2023-12-01",
-      "stem": "2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9",
-      "source_file": "2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf",
-      "section": "Bulker Sales",
+      "report_week": 48,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf",
+      "source_sha256": "3c308844cf516d1c3bdfaba3c68b3104505933e47179e283a98d2367c433394f",
+      "section": "bulk",
+      "vessel": "PEDHOULAS CHERRY",
       "page": 1,
-      "NAME": "PEDHOULAS",
-      "TYPE": "Kamsarmax",
-      "DWT": "82,013",
-      "BUILT": "2015",
-      "YARD": "JIANGSU NEW MAN YANGZIJIANG",
+      "dwt_raw": "82,013",
+      "dwt": 82013,
+      "built_year": 2015,
+      "yard": "JIANGSU NEW YANGZIJIANG",
+      "details": "MAN B.&W. 6S60ME-C8.2 BWTS fitted, SCRUBBER fitted",
+      "ss_dd": "SS 07/25 DD 07/25",
+      "price_raw": "USD 26.6 M",
+      "price_usd_m": 26.6,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "GREEKS",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2015",
+      "price_usd_m_per_vessel": 26.6,
+      "NAME": "PEDHOULAS CHERRY",
+      "DWT": 82013,
+      "BUILT": 2015,
+      "YARD": "JIANGSU NEW YANGZIJIANG",
       "PRICE": "USD 26.6 M",
       "BUYERS": "GREEKS",
-      "SS_DD": "07/25 07/25",
-      "COMMENTS": "B.&W. 6S60ME-C8.2 SS BWTS fitted, DD SCRUBBER fitted",
-      "raw_built": "2015 JIANGSU NEW MAN YANGZIJIANG",
-      "raw_details": "B.&W. 6S60ME-C8.2 SS BWTS fitted, DD SCRUBBER fitted"
+      "SS_DD": "SS 07/25 DD 07/25"
     },
     {
       "issue_date": "2023-12-01",
-      "stem": "2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9",
-      "source_file": "2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf",
-      "section": "Bulker Sales",
+      "report_week": 48,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf",
+      "source_sha256": "3c308844cf516d1c3bdfaba3c68b3104505933e47179e283a98d2367c433394f",
+      "section": "bulk",
+      "vessel": "KAI OLDENDORFF",
       "page": 1,
-      "NAME": "CHERRY",
-      "TYPE": "Kamsarmax",
-      "DWT": "82,013",
-      "BUILT": "",
-      "YARD": "YANGZIJIANG",
-      "PRICE": "USD 26.6 M",
-      "BUYERS": "GREEKS",
-      "SS_DD": "07/25 07/25",
-      "COMMENTS": "SS BWTS fitted, DD SCRUBBER fitted",
-      "raw_built": "YANGZIJIANG",
-      "raw_details": "SS BWTS fitted, DD SCRUBBER fitted"
-    },
-    {
-      "issue_date": "2023-12-01",
-      "stem": "2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9",
-      "source_file": "2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf",
-      "section": "Bulker Sales",
-      "page": 1,
+      "dwt_raw": "81,184",
+      "dwt": 81184,
+      "built_year": 2019,
+      "yard": "JIANGSU NEW HANTONG",
+      "details": "MAN B.&W. 6S60ME-C8 BWTS fitted SCRUBBER fitted",
+      "ss_dd": "SS 01/24 DD 01/24",
+      "price_raw": "USD 30.75 M",
+      "price_usd_m": 30.75,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "FAR EASTERN",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2019",
+      "price_usd_m_per_vessel": 30.75,
       "NAME": "KAI OLDENDORFF",
-      "TYPE": "Kamsarmax",
-      "DWT": "81,184",
-      "BUILT": "2019",
-      "YARD": "JIANGSU NEW MAN HANTONG",
-      "PRICE": "30.75 M FAR",
-      "BUYERS": "EASTERN",
-      "SS_DD": "01/24 USD 01/24",
-      "COMMENTS": "B.&W. 6S60ME-C8 SS BWTS fitted DD SCRUBBER fitted",
-      "raw_built": "2019 JIANGSU NEW MAN HANTONG",
-      "raw_details": "B.&W. 6S60ME-C8 SS BWTS fitted DD SCRUBBER fitted"
+      "DWT": 81184,
+      "BUILT": 2019,
+      "YARD": "JIANGSU NEW HANTONG",
+      "PRICE": "USD 30.75 M",
+      "BUYERS": "FAR EASTERN",
+      "SS_DD": "SS 01/24 DD 01/24"
     },
     {
       "issue_date": "2023-12-01",
-      "stem": "2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9",
-      "source_file": "2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf",
-      "section": "Bulker Sales",
+      "report_week": 48,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf",
+      "source_sha256": "3c308844cf516d1c3bdfaba3c68b3104505933e47179e283a98d2367c433394f",
+      "section": "bulk",
+      "vessel": "PING JING",
       "page": 1,
+      "dwt_raw": "34,398",
+      "dwt": 34398,
+      "built_year": 2015,
+      "yard": "NAMURA",
+      "details": "MAN B.&W. 6S46ME-B8.3 BWTS fitted",
+      "ss_dd": "SS 05/25 DD 05/25",
+      "price_raw": "USD 17.2 M",
+      "price_usd_m": 17.2,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "FAR EATSERN",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2015",
+      "price_usd_m_per_vessel": 17.2,
       "NAME": "PING JING",
-      "TYPE": "Handysize",
-      "DWT": "34,398",
-      "BUILT": "",
-      "YARD": "MAN 2015 NAMURA",
-      "PRICE": "USD 17.2 M FAR",
-      "BUYERS": "EATSERN",
-      "SS_DD": "05/25 05/25",
-      "COMMENTS": "B.&W. 6S46ME-B8.3 SS BWTS fitted DD",
-      "raw_built": "MAN 2015 NAMURA",
-      "raw_details": "B.&W. 6S46ME-B8.3 SS BWTS fitted DD"
+      "DWT": 34398,
+      "BUILT": 2015,
+      "YARD": "NAMURA",
+      "PRICE": "USD 17.2 M",
+      "BUYERS": "FAR EATSERN",
+      "SS_DD": "SS 05/25 DD 05/25"
     }
   ],
   "demolitions": []

@@ -1,115 +1,464 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2023-03-03",
-  "printed_date": "03/03/2023",
-  "source_file": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
+  "report_week": 9,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
+  "source_sha256": "ed1d0b3680081b0ffcfbc94328e880943a2e7f0a653a93f9a8e907926cc7b602",
   "sales_count": 4,
   "demo_count": 2,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulk Carriers",
+      "page": 1,
+      "bbox": [
+        27.96,
+        122.35,
+        567.1,
+        258.38
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "ELIZABETH II",
+          "180,184",
+          "2007",
+          "IMABARI",
+          "MAN B. & W. 6S70MC-C7.1 BWTS Due",
+          "SS 01/25 DD 08/23",
+          "RGN USD 17.5 M",
+          "U/D"
+        ],
+        [
+          "ASTON",
+          "63,614",
+          "2020",
+          "COSCO HI (YANGZHOU)",
+          "MAN B. & W. 5S60ME-C8.5 4 x 30T Scrubber & BWTS Fitted",
+          "SS 03/25 DD 03/25",
+          "RGN USD 30 M",
+          "US BASED"
+        ],
+        [
+          "SUPRA ONIKI",
+          "57,022",
+          "2010",
+          "CSC QINGSHAN",
+          "MAN B. & W. 6S50MC-C8.2 4 x 35 T, BWTS Fitted",
+          "SS 07/25 DD 08/23",
+          "XS USD 13 M",
+          "U/D"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          169.1,
+          194.2,
+          0
+        ],
+        [
+          1,
+          194.2,
+          226.3,
+          1
+        ],
+        [
+          1,
+          226.3,
+          258.4,
+          2
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tankers – Chemicals – LPG/LNGs",
+      "page": 1,
+      "bbox": [
+        28.32,
+        285.46,
+        567.1,
+        362.21
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "SAND SHINER",
+          "73,727",
+          "2006",
+          "NEW CENTURY",
+          "MAN B. & W. 5S60MC-C7.1 LR1, CPP, CAP1 Scrubber & BWTS Fitted",
+          "SS 12/26 DD 11/23",
+          "USD 23.3 M",
+          "GREEKS"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          332.2,
+          362.2,
+          0
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Demolition - Bulk Carriers GCs",
+      "title": "Bulk Carriers – GCs – CVs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        77.45,
+        567.1,
+        193.94
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "AGIA TRIAS",
+          "185,820",
+          "2002 Japan",
+          "22,132 LDT 400 tons bunkers RoB included in the price",
+          "USD 569/LDT",
+          "‘as is’ Singapore"
+        ],
+        [
+          "SUNLIGHT",
+          "172,572",
+          "2000 Japan",
+          "21,215 LDT",
+          "USD 575/LDT",
+          "‘as is’ Singapore"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          123.1,
+          171.0,
+          0
+        ],
+        [
+          2,
+          171.0,
+          193.9,
+          1
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    },
+    {
+      "name": "Demolition - Tankers",
+      "title": "Tankers – Chemicals – LPGs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        217.39,
+        567.1,
+        307.25
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2023-03-03",
-      "stem": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6",
-      "source_file": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
-      "section": "Bulker Sales",
+      "report_week": 9,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
+      "source_sha256": "ed1d0b3680081b0ffcfbc94328e880943a2e7f0a653a93f9a8e907926cc7b602",
+      "section": "bulk",
+      "vessel": "ELIZABETH II",
       "page": 1,
+      "dwt_raw": "180,184",
+      "dwt": 180184,
+      "built_year": 2007,
+      "yard": "IMABARI",
+      "details": "MAN B. & W. 6S70MC-C7.1 BWTS Due",
+      "ss_dd": "SS 01/25 DD 08/23",
+      "price_raw": "RGN USD 17.5 M",
+      "price_usd_m": 17.5,
+      "price_qualifier": "RGN",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2007",
+      "price_usd_m_per_vessel": 17.5,
       "NAME": "ELIZABETH II",
-      "TYPE": "Capesize",
-      "DWT": "180,184",
-      "BUILT": "",
-      "YARD": "MAN B. 2007 IMABARI MAN B.",
-      "PRICE": "USD 17.5 M",
+      "DWT": 180184,
+      "BUILT": 2007,
+      "YARD": "IMABARI",
+      "PRICE": "RGN USD 17.5 M",
       "BUYERS": "U/D",
-      "SS_DD": "01/25 RGN 08/23",
-      "COMMENTS": "& W. 6S70MC-C7.1 SS BWTS Due DD & W. 5S60ME-C8.5",
-      "raw_built": "MAN B. 2007 IMABARI MAN B.",
-      "raw_details": "& W. 6S70MC-C7.1 SS BWTS Due DD & W. 5S60ME-C8.5"
+      "SS_DD": "SS 01/25 DD 08/23"
     },
     {
       "issue_date": "2023-03-03",
-      "stem": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6",
-      "source_file": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
-      "section": "Bulker Sales",
+      "report_week": 9,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
+      "source_sha256": "ed1d0b3680081b0ffcfbc94328e880943a2e7f0a653a93f9a8e907926cc7b602",
+      "section": "bulk",
+      "vessel": "ASTON",
       "page": 1,
+      "dwt_raw": "63,614",
+      "dwt": 63614,
+      "built_year": 2020,
+      "yard": "COSCO HI (YANGZHOU)",
+      "details": "MAN B. & W. 5S60ME-C8.5 4 x 30T Scrubber & BWTS Fitted",
+      "ss_dd": "SS 03/25 DD 03/25",
+      "price_raw": "RGN USD 30 M",
+      "price_usd_m": 30.0,
+      "price_qualifier": "RGN",
+      "price_scope": "vessel",
+      "buyer": "US BASED",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2020",
+      "price_usd_m_per_vessel": 30.0,
       "NAME": "ASTON",
-      "TYPE": "Ultramax",
-      "DWT": "63,614",
-      "BUILT": "",
-      "YARD": "MAN B. 2020 COSCO HI (YANGZHOU) Scrubber",
-      "PRICE": "USD 30 M US",
-      "BUYERS": "BASED",
-      "SS_DD": "03/25 RGN 03/25",
-      "COMMENTS": "& W. 5S60ME-C8.5 SS 4 x 30T DD & BWTS Fitted",
-      "raw_built": "MAN B. 2020 COSCO HI (YANGZHOU) Scrubber",
-      "raw_details": "& W. 5S60ME-C8.5 SS 4 x 30T DD & BWTS Fitted"
+      "DWT": 63614,
+      "BUILT": 2020,
+      "YARD": "COSCO HI (YANGZHOU)",
+      "PRICE": "RGN USD 30 M",
+      "BUYERS": "US BASED",
+      "SS_DD": "SS 03/25 DD 03/25"
     },
     {
       "issue_date": "2023-03-03",
-      "stem": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6",
-      "source_file": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
-      "section": "Bulker Sales",
+      "report_week": 9,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
+      "source_sha256": "ed1d0b3680081b0ffcfbc94328e880943a2e7f0a653a93f9a8e907926cc7b602",
+      "section": "bulk",
+      "vessel": "SUPRA ONIKI",
       "page": 1,
+      "dwt_raw": "57,022",
+      "dwt": 57022,
+      "built_year": 2010,
+      "yard": "CSC QINGSHAN",
+      "details": "MAN B. & W. 6S50MC-C8.2 4 x 35 T, BWTS Fitted",
+      "ss_dd": "SS 07/25 DD 08/23",
+      "price_raw": "XS USD 13 M",
+      "price_usd_m": 13.0,
+      "price_qualifier": "XS",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2010",
+      "price_usd_m_per_vessel": 13.0,
       "NAME": "SUPRA ONIKI",
-      "TYPE": "Supramax",
-      "DWT": "57,022",
-      "BUILT": "2010",
-      "YARD": "CSC MAN B. QINGSHAN 4 x",
-      "PRICE": "USD 13 M",
+      "DWT": 57022,
+      "BUILT": 2010,
+      "YARD": "CSC QINGSHAN",
+      "PRICE": "XS USD 13 M",
       "BUYERS": "U/D",
-      "SS_DD": "07/25 XS 08/23",
-      "COMMENTS": "& W. 6S50MC-C8.2 SS 35 T, BWTS Fitted DD",
-      "raw_built": "2010 CSC MAN B. QINGSHAN 4 x",
-      "raw_details": "& W. 6S50MC-C8.2 SS 35 T, BWTS Fitted DD"
+      "SS_DD": "SS 07/25 DD 08/23"
     },
     {
       "issue_date": "2023-03-03",
-      "stem": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6",
-      "source_file": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
-      "section": "Tanker Sales",
+      "report_week": 9,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
+      "source_sha256": "ed1d0b3680081b0ffcfbc94328e880943a2e7f0a653a93f9a8e907926cc7b602",
+      "section": "tanker",
+      "vessel": "SAND SHINER",
       "page": 1,
+      "dwt_raw": "73,727",
+      "dwt": 73727,
+      "built_year": 2006,
+      "yard": "NEW CENTURY",
+      "details": "MAN B. & W. 5S60MC-C7.1 LR1, CPP, CAP1 Scrubber & BWTS Fitted",
+      "ss_dd": "SS 12/26 DD 11/23",
+      "price_raw": "USD 23.3 M",
+      "price_usd_m": 23.3,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "GREEKS",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2006",
+      "price_usd_m_per_vessel": 23.3,
       "NAME": "SAND SHINER",
-      "TYPE": "Panamax",
-      "DWT": "73,727",
-      "BUILT": "",
-      "YARD": "MAN B. 2006 NEW CENTURY Scrubber",
+      "DWT": 73727,
+      "BUILT": 2006,
+      "YARD": "NEW CENTURY",
       "PRICE": "USD 23.3 M",
       "BUYERS": "GREEKS",
-      "SS_DD": "12/26 11/23",
-      "COMMENTS": "& W. 5S60MC-C7.1 SS LR1, CPP, CAP1 DD & BWTS Fitted",
-      "raw_built": "MAN B. 2006 NEW CENTURY Scrubber",
-      "raw_details": "& W. 5S60MC-C7.1 SS LR1, CPP, CAP1 DD & BWTS Fitted"
+      "SS_DD": "SS 12/26 DD 11/23"
     }
   ],
   "demolitions": [
     {
       "issue_date": "2023-03-03",
-      "stem": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6",
-      "source_file": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
-      "section": "Bulker Sales",
+      "report_week": 9,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
+      "source_sha256": "ed1d0b3680081b0ffcfbc94328e880943a2e7f0a653a93f9a8e907926cc7b602",
+      "section": "bulk",
+      "vessel": "AGIA TRIAS",
       "page": 2,
-      "NAME": "AGIA TRIAS",
-      "TYPE": "Capesize",
-      "DWT": "185,820",
-      "BUILT": "2002",
-      "YARD": "Japan",
-      "PRICE": "569/LDT 'as is'",
-      "DELIVERY": "Singapore",
-      "COMMENTS": "22,132 LDT 400 tons bunkers RoB included in the price",
-      "raw_built": "2002 Japan"
+      "dwt_raw": "185,820",
+      "dwt": 185820,
+      "built_year": 2002,
+      "built_place": "Japan",
+      "ldt": 22132,
+      "price_raw": "USD 569/LDT",
+      "price_usd_ldt": 569.0,
+      "destination": "‘as is’ Singapore",
+      "details": "22,132 LDT 400 tons bunkers RoB included in the price",
+      "built_raw": "2002 Japan"
     },
     {
       "issue_date": "2023-03-03",
-      "stem": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6",
-      "source_file": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
-      "section": "Bulker Sales",
+      "report_week": 9,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2023/2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
+      "source_sha256": "ed1d0b3680081b0ffcfbc94328e880943a2e7f0a653a93f9a8e907926cc7b602",
+      "section": "bulk",
+      "vessel": "SUNLIGHT",
       "page": 2,
-      "NAME": "SUNLIGHT",
-      "TYPE": "Capesize",
-      "DWT": "172,572",
-      "BUILT": "2000",
-      "YARD": "Japan",
-      "PRICE": "575/LDT 'as is'",
-      "DELIVERY": "Singapore",
-      "COMMENTS": "21,215 LDT",
-      "raw_built": "2000 Japan"
+      "dwt_raw": "172,572",
+      "dwt": 172572,
+      "built_year": 2000,
+      "built_place": "Japan",
+      "ldt": 21215,
+      "price_raw": "USD 575/LDT",
+      "price_usd_ldt": 575.0,
+      "destination": "‘as is’ Singapore",
+      "details": "21,215 LDT",
+      "built_raw": "2000 Japan"
     }
   ]
 }

@@ -109,6 +109,9 @@ def cmd_run(args) -> int:
         except CreditsExhausted as exc:
             row = {"file": pl.pdf.name, "engine": engine_name, "problems": [f"credits_exhausted: {exc}"],
                    "passed": False}
+        except Exception as exc:  # noqa: BLE001 - one unreadable PDF must not stop the batch
+            row = {"file": pl.pdf.name, "engine": engine_name, "problems": [f"exception: {type(exc).__name__}: {exc}"],
+                   "flags": ["exception"], "passed": False}
         rows.append(row)
         status = "OK" if row["passed"] else "CHECK " + ",".join(row.get("flags") or row["problems"])
         print(f"{row['file'][:60]:60} {row['engine']:14} credits={row.get('credits_used', 0):>3} "
@@ -155,7 +158,9 @@ def cmd_series(args) -> int:
     only = None
     if args.eligible_only:
         only = {s.stem for s in promote.load_staged(staging, args.source) if not s.flags and s.issue_date}
-    res = export_series.run_export(root, out_dir, only_stems=only, require_engine_schema=args.require_engine_schema)
+    markers = tuple((load_profile(args.source).get("promotion") or {}).get("name_markers", promote.DEFAULT_NAME_MARKERS))
+    res = export_series.run_export(root, out_dir, only_stems=only, require_engine_schema=args.require_engine_schema,
+                                   markers=markers)
     print(f"issues={res['issues']} sales_rows={res['sales_rows']} demolition_rows={res['demolition_rows']} out={out_dir.as_posix()}")
     for name, c in res["comparison"].items():
         print(name, c)

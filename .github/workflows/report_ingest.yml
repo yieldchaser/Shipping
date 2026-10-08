@@ -53,7 +53,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 lxml selenium pymupdf pillow pandas openpyxl llama-parse liteparse
+          pip install requests beautifulsoup4 lxml selenium pymupdf pyyaml pillow pandas openpyxl llama-parse liteparse
           npm install -g @llamaindex/liteparse || true
 
       - name: Configure Git identity

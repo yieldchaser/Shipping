@@ -1,81 +1,403 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2022-08-05",
-  "printed_date": "05/08/2022",
-  "source_file": "2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf",
+  "report_week": 31,
+  "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf",
+  "source_sha256": "0db55f6e73c57bcfcd1fcd8c7237e3991e6479e37178886ca8cd9d2dcf1aa58d",
   "sales_count": 4,
   "demo_count": 0,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulk Carriers",
+      "page": 1,
+      "bbox": [
+        28.32,
+        124.87,
+        567.1,
+        196.82
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "MISS SIMONA",
+          "34,602",
+          "2010",
+          "SPP",
+          "MAN B. & W. 5S50MC-C8.2 4 x 35 T, BWTS fitted",
+          "SS 06/25 DD 08/23",
+          "USD 16.8 M",
+          "GREEKS"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          171.6,
+          196.8,
+          0
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tankers – Chemicals – LPG/LNGs",
+      "page": 1,
+      "bbox": [
+        28.32,
+        223.75,
+        567.1,
+        359.93
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "ALTAIR TRADER",
+          "311,110",
+          "2005",
+          "MITSUI",
+          "MAN B. & W. 7S80MC-C6.1 4 Pumps",
+          "SS 05/25 DD 09/23",
+          "RGN USD 36 M",
+          "U/D"
+        ],
+        [
+          "STAVANGER FALCON",
+          "105,419",
+          "2009",
+          "SUMITOMO",
+          "MAN B. & W. 6S60MC-C7.2 3 Pumps",
+          "SS 02/24 DD 02/24",
+          "RGN USD 29 M",
+          "M. EASTERNS"
+        ],
+        [
+          "CHOLA QUEEN",
+          "107,123",
+          "2002",
+          "IMABARI",
+          "MAN B. & W. 6S60MC-C7.1 3 Pumps",
+          "SS 10/22 DD 10/22",
+          "MID USD 16 M",
+          "SINGAPORE BASED"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          1,
+          270.5,
+          295.6,
+          0
+        ],
+        [
+          1,
+          295.6,
+          327.8,
+          1
+        ],
+        [
+          1,
+          327.8,
+          359.9,
+          2
+        ]
+      ],
+      "column_bounds": [
+        28.3,
+        113.4,
+        155.9,
+        241.0,
+        354.4,
+        404.0,
+        489.1,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Demolition - Bulk Carriers GCs",
+      "title": "Bulk Carriers – GCs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        382.66,
+        567.1,
+        451.27
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    },
+    {
+      "name": "Demolition - Tankers",
+      "title": "Tankers – Chemicals – LPGs",
+      "page": 2,
+      "bbox": [
+        28.32,
+        474.72,
+        567.1,
+        564.55
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "rulings",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        28.3,
+        125.5,
+        180.7,
+        267.7,
+        399.9,
+        460.8,
+        567.1
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "Price",
+        "Delivery"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2022-08-05",
-      "stem": "2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581",
-      "source_file": "2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf",
-      "section": "Bulker Sales",
+      "report_week": 31,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf",
+      "source_sha256": "0db55f6e73c57bcfcd1fcd8c7237e3991e6479e37178886ca8cd9d2dcf1aa58d",
+      "section": "bulk",
+      "vessel": "MISS SIMONA",
       "page": 1,
+      "dwt_raw": "34,602",
+      "dwt": 34602,
+      "built_year": 2010,
+      "yard": "SPP",
+      "details": "MAN B. & W. 5S50MC-C8.2 4 x 35 T, BWTS fitted",
+      "ss_dd": "SS 06/25 DD 08/23",
+      "price_raw": "USD 16.8 M",
+      "price_usd_m": 16.8,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "GREEKS",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2010",
+      "price_usd_m_per_vessel": 16.8,
       "NAME": "MISS SIMONA",
-      "TYPE": "Handysize",
-      "DWT": "34,602",
-      "BUILT": "",
-      "YARD": "MAN B. 2010 SPP 4 x",
+      "DWT": 34602,
+      "BUILT": 2010,
+      "YARD": "SPP",
       "PRICE": "USD 16.8 M",
       "BUYERS": "GREEKS",
-      "SS_DD": "06/25 08/23",
-      "COMMENTS": "& W. 5S50MC-C8.2 SS 35 T, BWTS fitted DD",
-      "raw_built": "MAN B. 2010 SPP 4 x",
-      "raw_details": "& W. 5S50MC-C8.2 SS 35 T, BWTS fitted DD"
+      "SS_DD": "SS 06/25 DD 08/23"
     },
     {
       "issue_date": "2022-08-05",
-      "stem": "2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581",
-      "source_file": "2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf",
-      "section": "Tanker Sales",
+      "report_week": 31,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf",
+      "source_sha256": "0db55f6e73c57bcfcd1fcd8c7237e3991e6479e37178886ca8cd9d2dcf1aa58d",
+      "section": "tanker",
+      "vessel": "ALTAIR TRADER",
       "page": 1,
+      "dwt_raw": "311,110",
+      "dwt": 311110,
+      "built_year": 2005,
+      "yard": "MITSUI",
+      "details": "MAN B. & W. 7S80MC-C6.1 4 Pumps",
+      "ss_dd": "SS 05/25 DD 09/23",
+      "price_raw": "RGN USD 36 M",
+      "price_usd_m": 36.0,
+      "price_qualifier": "RGN",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2005",
+      "price_usd_m_per_vessel": 36.0,
       "NAME": "ALTAIR TRADER",
-      "TYPE": "VLCC",
-      "DWT": "311,110",
-      "BUILT": "",
-      "YARD": "MAN B. 2005 MITSUI",
-      "PRICE": "USD 36 M",
+      "DWT": 311110,
+      "BUILT": 2005,
+      "YARD": "MITSUI",
+      "PRICE": "RGN USD 36 M",
       "BUYERS": "U/D",
-      "SS_DD": "05/25 RGN 09/23",
-      "COMMENTS": "& W. 7S80MC-C6.1 SS 4 Pumps DD",
-      "raw_built": "MAN B. 2005 MITSUI",
-      "raw_details": "& W. 7S80MC-C6.1 SS 4 Pumps DD"
+      "SS_DD": "SS 05/25 DD 09/23"
     },
     {
       "issue_date": "2022-08-05",
-      "stem": "2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581",
-      "source_file": "2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf",
-      "section": "Tanker Sales",
+      "report_week": 31,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf",
+      "source_sha256": "0db55f6e73c57bcfcd1fcd8c7237e3991e6479e37178886ca8cd9d2dcf1aa58d",
+      "section": "tanker",
+      "vessel": "STAVANGER FALCON",
       "page": 1,
+      "dwt_raw": "105,419",
+      "dwt": 105419,
+      "built_year": 2009,
+      "yard": "SUMITOMO",
+      "details": "MAN B. & W. 6S60MC-C7.2 3 Pumps",
+      "ss_dd": "SS 02/24 DD 02/24",
+      "price_raw": "RGN USD 29 M",
+      "price_usd_m": 29.0,
+      "price_qualifier": "RGN",
+      "price_scope": "vessel",
+      "buyer": "M. EASTERNS",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2009",
+      "price_usd_m_per_vessel": 29.0,
       "NAME": "STAVANGER FALCON",
-      "TYPE": "Aframax",
-      "DWT": "105,419",
-      "BUILT": "",
-      "YARD": "MAN B. 2009 SUMITOMO",
-      "PRICE": "USD 29 M M.",
-      "BUYERS": "EASTERNS",
-      "SS_DD": "02/24 RGN 02/24",
-      "COMMENTS": "& W. 6S60MC-C7.2 SS 3 Pumps DD",
-      "raw_built": "MAN B. 2009 SUMITOMO",
-      "raw_details": "& W. 6S60MC-C7.2 SS 3 Pumps DD"
+      "DWT": 105419,
+      "BUILT": 2009,
+      "YARD": "SUMITOMO",
+      "PRICE": "RGN USD 29 M",
+      "BUYERS": "M. EASTERNS",
+      "SS_DD": "SS 02/24 DD 02/24"
     },
     {
       "issue_date": "2022-08-05",
-      "stem": "2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581",
-      "source_file": "2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf",
-      "section": "Tanker Sales",
+      "report_week": 31,
+      "source_file": "corpus/02-hellenic/shipbuilding/pdfs/2022/2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf",
+      "source_sha256": "0db55f6e73c57bcfcd1fcd8c7237e3991e6479e37178886ca8cd9d2dcf1aa58d",
+      "section": "tanker",
+      "vessel": "CHOLA QUEEN",
       "page": 1,
+      "dwt_raw": "107,123",
+      "dwt": 107123,
+      "built_year": 2002,
+      "yard": "IMABARI",
+      "details": "MAN B. & W. 6S60MC-C7.1 3 Pumps",
+      "ss_dd": "SS 10/22 DD 10/22",
+      "price_raw": "MID USD 16 M",
+      "price_usd_m": 16.0,
+      "price_qualifier": "MID",
+      "price_scope": "vessel",
+      "buyer": "SINGAPORE BASED",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2002",
+      "price_usd_m_per_vessel": 16.0,
       "NAME": "CHOLA QUEEN",
-      "TYPE": "Aframax",
-      "DWT": "107,123",
-      "BUILT": "",
-      "YARD": "MAN B. 2002 IMABARI",
-      "PRICE": "USD 16 M",
+      "DWT": 107123,
+      "BUILT": 2002,
+      "YARD": "IMABARI",
+      "PRICE": "MID USD 16 M",
       "BUYERS": "SINGAPORE BASED",
-      "SS_DD": "10/22 MID 10/22",
-      "COMMENTS": "& W. 6S60MC-C7.1 SS 3 Pumps DD",
-      "raw_built": "MAN B. 2002 IMABARI",
-      "raw_details": "& W. 6S60MC-C7.1 SS 3 Pumps DD"
+      "SS_DD": "SS 10/22 DD 10/22"
     }
   ],
   "demolitions": []

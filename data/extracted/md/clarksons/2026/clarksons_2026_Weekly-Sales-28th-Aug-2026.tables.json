@@ -1,45 +1,205 @@
 {
+  "schema": "parse_engine/v1",
   "issue_date": "2026-08-28",
-  "printed_date": "28 Aug 2026",
-  "source_file": "clarksons_2026_Weekly-Sales-28th-Aug-2026.pdf",
+  "report_week": 35,
+  "source_file": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-28th-Aug-2026.pdf",
+  "source_sha256": "4a7685e07f84462a1c01b9026a64c5e2b18a53a2c1f56cafb334642157dc6315",
   "sales_count": 2,
   "demo_count": 0,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulker Sales",
+      "page": 2,
+      "bbox": [
+        40.92,
+        168.63,
+        561.36,
+        316.05
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "HARVEST",
+          "58,779",
+          "2008",
+          "TSUNEISHI (ZHOUSHAN)",
+          "B&W 6S50MC-C8.1 SCRUBBER FITTED CR:4X30T (GRAB FITTED)",
+          "SS 02/28 DD 02/28",
+          "USD 13.8 M",
+          "CHINESE"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "header-midpoints",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          230.9,
+          278.8,
+          0
+        ]
+      ],
+      "column_bounds": [
+        0.0,
+        102.4,
+        173.3,
+        264.4,
+        361.2,
+        439.0,
+        509.9,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tanker Sales",
+      "page": 2,
+      "bbox": [
+        40.92,
+        319.74,
+        565.68,
+        427.99
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "CAPE BENAT",
+          "156,719",
+          "2010",
+          "JIANGSU RONGSHENG",
+          "B&W 6S70MC-C7.2 SCRUBBER FITTED",
+          "SS 03/30 DD 04/28",
+          "USD 62.5 M",
+          "C/O LILA GLOBAL"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "header-midpoints",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          389.1,
+          428.0,
+          0
+        ]
+      ],
+      "column_bounds": [
+        0.0,
+        120.1,
+        195.1,
+        285.8,
+        379.2,
+        451.7,
+        517.3,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    }
+  ],
   "sales": [
     {
       "issue_date": "2026-08-28",
-      "stem": "clarksons_2026_Weekly-Sales-28th-Aug-2026",
-      "source_file": "clarksons_2026_Weekly-Sales-28th-Aug-2026.pdf",
-      "section": "Bulker Sales",
+      "report_week": 35,
+      "source_file": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-28th-Aug-2026.pdf",
+      "source_sha256": "4a7685e07f84462a1c01b9026a64c5e2b18a53a2c1f56cafb334642157dc6315",
+      "section": "bulk",
+      "vessel": "HARVEST",
       "page": 2,
+      "dwt_raw": "58,779",
+      "dwt": 58779,
+      "built_year": 2008,
+      "yard": "TSUNEISHI (ZHOUSHAN)",
+      "details": "B&W 6S50MC-C8.1 SCRUBBER FITTED CR:4X30T (GRAB FITTED)",
+      "ss_dd": "SS 02/28 DD 02/28",
+      "price_raw": "USD 13.8 M",
+      "price_usd_m": 13.8,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "CHINESE",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2008",
+      "price_usd_m_per_vessel": 13.8,
       "NAME": "HARVEST",
-      "TYPE": "Supramax",
-      "DWT": "58,779",
-      "BUILT": "2008",
+      "DWT": 58779,
+      "BUILT": 2008,
       "YARD": "TSUNEISHI (ZHOUSHAN)",
       "PRICE": "USD 13.8 M",
       "BUYERS": "CHINESE",
-      "SS_DD": "SS 02/28 DD 02/28",
-      "COMMENTS": "B&W 6S50MC-C8.1 SCRUBBER FITTED CR:4X30T (GRAB FITTED)",
-      "raw_built": "2008 TSUNEISHI (ZHOUSHAN)",
-      "raw_details": "B&W 6S50MC-C8.1 SCRUBBER FITTED CR:4X30T (GRAB FITTED)"
+      "SS_DD": "SS 02/28 DD 02/28"
     },
     {
       "issue_date": "2026-08-28",
-      "stem": "clarksons_2026_Weekly-Sales-28th-Aug-2026",
-      "source_file": "clarksons_2026_Weekly-Sales-28th-Aug-2026.pdf",
-      "section": "Tanker Sales",
+      "report_week": 35,
+      "source_file": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-28th-Aug-2026.pdf",
+      "source_sha256": "4a7685e07f84462a1c01b9026a64c5e2b18a53a2c1f56cafb334642157dc6315",
+      "section": "tanker",
+      "vessel": "CAPE BENAT",
       "page": 2,
+      "dwt_raw": "156,719",
+      "dwt": 156719,
+      "built_year": 2010,
+      "yard": "JIANGSU RONGSHENG",
+      "details": "B&W 6S70MC-C7.2 SCRUBBER FITTED",
+      "ss_dd": "SS 03/30 DD 04/28",
+      "price_raw": "USD 62.5 M",
+      "price_usd_m": 62.5,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "C/O LILA GLOBAL",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2010",
+      "price_usd_m_per_vessel": 62.5,
       "NAME": "CAPE BENAT",
-      "TYPE": "Capesize",
-      "DWT": "156,719",
-      "BUILT": "2010",
+      "DWT": 156719,
+      "BUILT": 2010,
       "YARD": "JIANGSU RONGSHENG",
       "PRICE": "USD 62.5 M",
       "BUYERS": "C/O LILA GLOBAL",
-      "SS_DD": "SS 03/30 DD 04/28",
-      "COMMENTS": "B&W 6S70MC-C7.2 SCRUBBER FITTED",
-      "raw_built": "2010 JIANGSU RONGSHENG",
-      "raw_details": "B&W 6S70MC-C7.2 SCRUBBER FITTED"
+      "SS_DD": "SS 03/30 DD 04/28"
     }
   ],
   "demolitions": []
