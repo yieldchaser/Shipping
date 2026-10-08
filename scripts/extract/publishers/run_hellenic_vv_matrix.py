@@ -144,6 +144,76 @@ async def get_or_parse_image_async(img_path: Path, sem: asyncio.Semaphore) -> st
                 tmp_pdf.unlink()
 
 
+_SECTOR_WORDS = ("Tankers", "Bulkers", "Containers", "Gas")
+
+# Class tokens that occur in ONE sector only. Used to veto a header whose sector
+# PREFIX contradicts its own class (measured: "Bulkers Fmax", "Bulkers MR" are
+# OCR garbles of container/tanker columns; believing the prefix there would
+# invent a wrong label, so those keep their keyword-derived sector).
+_TANKER_ONLY = ("vlcc", "vloc", "yloc", "suez", "supz", "afra", "afr", "alfa", "ama",
+                "lr1", "lr2", "lri", "lr0", "lrg", "uri", "uoi", "mr", "mb", "seaw")
+_BULKER_ONLY = ("cape", "supra", "supr", "spra", "sups", "super", "s upr", "s upra")
+_CONTAINER_ONLY = ("fmax", "fines", "finex", "fenix", "feedermax", "feeder")
+_BARE_CONTAINER_FAMILY = ("post pmax", "post panamax", "post panx")
+
+
+def _norm_class(vclass: str) -> str:
+    return " ".join(str(vclass).replace("<br/>", " ").replace("<br>", " ").split()).lower()
+
+
+def _class_token(vclass: str) -> str:
+    low = _norm_class(vclass)
+    for w in ("tankers", "bulkers", "containers", "gas"):
+        if low.startswith(w):
+            return low[len(w):].strip()
+    return low
+
+
+def _sector_from_header(vclass: str):
+    """The sector the header cell states outright, or None when it states none
+    or contradicts itself. The publisher writes each matrix column as
+    "<Sector> <Class>" ("Containers Handy"), so the cell carries the answer."""
+    low = _norm_class(vclass)
+    prefix = None
+    for w in _SECTOR_WORDS:
+        if low.startswith(w.lower()):
+            prefix = w
+            break
+    if prefix is None:
+        # The one column the publisher sometimes writes bare. Its OWN dominant
+        # header form is "Containers Post Pmax" (75 of 261 reports) and its
+        # benchmark is a TEU figure (7000/6500/5500) - never the "<n>k" DWT form
+        # every bulker column uses - so the bare cell is that same column.
+        if low in _BARE_CONTAINER_FAMILY:
+            return "Containers"
+        return None
+    token = _class_token(vclass)
+    own = {"Tankers": _TANKER_ONLY, "Bulkers": _BULKER_ONLY,
+           "Containers": _CONTAINER_ONLY, "Gas": ()}[prefix]
+    others = []
+    for w in _SECTOR_WORDS:
+        if w == prefix:
+            continue
+        others += {"Tankers": _TANKER_ONLY, "Bulkers": _BULKER_ONLY,
+                   "Containers": _CONTAINER_ONLY, "Gas": ()}[w]
+    if token in own or token not in others:
+        return prefix
+    return None
+
+
+def _legacy_sector_keyword(vclass: str):
+    """The original keyword scan (bulker words tested before container words),
+    kept as the fallback so only header-prefixed columns change."""
+    low = _norm_class(vclass)
+    if any(k in low for k in ["vlcc", "suez", "afra", "lr1", "lr2", "mr"]):
+        return "Tankers"
+    if any(k in low for k in ["cape", "pmax", "panamax", "supra", "supramax", "handy"]):
+        return "Bulkers"
+    if any(k in low for k in ["container", "post pmax", "fmax", "feeder"]):
+        return "Containers"
+    return None
+
+
 def parse_vv_matrix_markdown(md_text: str, issue_date: str, source_file: str) -> List[Dict[str, Any]]:
     """Parse LlamaParse markdown tables for VesselsValue weekly change matrix, handling multi-table sections."""
     records: List[Dict[str, Any]] = []
@@ -154,9 +224,13 @@ def parse_vv_matrix_markdown(md_text: str, issue_date: str, source_file: str) ->
     while i < len(lines):
         line = lines[i].strip()
         if line.startswith("#"):
-            sec_candidate = line.lstrip("#").strip()
+            # A section heading is a line that IS a sector name. The table TITLE
+            # ("VV Mini Matrix - Weekly Change Bulkers", 8 cached reports) merely
+            # CONTAINS one, and treating it as a heading filed every column of that
+            # table under Bulkers.
+            sec_candidate = line.lstrip("#").strip().strip("*").strip()
             for s in ["Tankers", "Bulkers", "Containers", "Gas"]:
-                if s.lower() in sec_candidate.lower():
+                if s.lower() == sec_candidate.lower():
                     current_section = s
                     break
             i += 1
@@ -177,14 +251,13 @@ def parse_vv_matrix_markdown(md_text: str, issue_date: str, source_file: str) ->
             for h in h_parts[1:]:
                 h_clean = h.replace("<br/>", " ").replace("<br>", " ").strip()
                 vclass = h_clean
-                sec = current_section
-                if sec == "Unknown":
-                    if any(k in vclass.lower() for k in ["vlcc", "suez", "afra", "lr1", "lr2", "mr"]):
-                        sec = "Tankers"
-                    elif any(k in vclass.lower() for k in ["cape", "pmax", "panamax", "supra", "supramax", "handy"]):
-                        sec = "Bulkers"
-                    elif any(k in vclass.lower() for k in ["container", "post pmax", "fmax", "feeder"]):
-                        sec = "Containers"
+                sec = _sector_from_header(vclass)
+                if sec is None and current_section != "Unknown":
+                    sec = current_section
+                if sec is None:
+                    sec = _legacy_sector_keyword(vclass)
+                if sec is None:
+                    sec = "Unknown"
                 col_meta.append((sec, vclass))
 
             current_age = None
