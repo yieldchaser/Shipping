@@ -34,7 +34,7 @@ def newest_md_date(mdsrc):
         dates=[]
         for m in re.finditer(r'(20\d{2})[_-](\d{2})[_-](\d{2})', b):
             dates.append(f"{m.group(1)}-{m.group(2)}-{m.group(3)}")
-        for m in re.finditer(r'(\d{2})[_-](\d{2})[_-](20\d{2})', b):
+        for m in re.finditer(r'(?<![\d-])(\d{2})[_-](\d{2})[_-](20\d{2})', b):
             d=f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
             if m.group(2) in ('10','11','12') or int(m.group(2))<=12:
                 dates.append(d)
