@@ -11,7 +11,7 @@ source_sha256: 5c8328160e554e0eaf2f0fb40dc95eddbc84ee0a768e4bd73f8792d2a93e095a
 pages_total: 3
 pages_parsed: 1-2
 parser: pymupdf_table + pymupdf_prose
-parsed_at: '2026-10-08T04:24:04Z'
+parsed_at: '2026-10-08T04:38:17Z'
 ---
 
 # Desk Talk

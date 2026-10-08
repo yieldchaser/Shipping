@@ -122,3 +122,15 @@ def test_block_count_mismatch_is_flagged_and_text_kept_whole():
     res = gt.TableResult(name="n", title="", page=1, bbox=(0, 0, 1, 1), columns=[], rows=[], shared_cell_count_mismatch=1)
     assert res.to_json()["shared_cell_count_mismatch"] == 1
     assert gt._block_count(cells[3]) == 3
+
+
+def test_expand_deal_cell_spanning_some_of_the_vessels_goes_to_each_of_them():
+    # DONG-A OKNOS / ASTREA share "2010 HHI" (one cell), EOS has its own "2009 HHI": one ruling for three vessels
+    cells = [[] for _ in range(3)]
+    cells[0] = _cell(10, [(200, "OKNOS"), (230, "ASTREA"), (260, "EOS")])
+    cells[1] = _cell(140, [(200, "179,329"), (230, "179,329"), (260, "179,329")])
+    cells[2] = _cell(180, [(215, "2010 HHI"), (260, "2009 HHI")])
+    merged = [gt._join_cell(c) for c in cells]
+    out, _ = gt._expand_deal(cells, merged, 1, set(), r"\d", 0, None, {0, 1}, None, {2: [245.0]}, None, None, None, None, None)
+    assert [r[2] for r in out] == ["2010 HHI", "2010 HHI", "2009 HHI"]
+

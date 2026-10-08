@@ -449,9 +449,9 @@ def extract_table(cfg: dict[str, Any], page: pymupdf.Page, page_no: int, words: 
             for j, sub in enumerate(subs):
                 kept_flags.append(len(rows_text))
                 rows_text.append(sub)
-                top = a_i if j == 0 else (key_ys_i[j - 1] + key_ys_i[j]) / 2
-                bottom = b_i if j == len(subs) - 1 else (key_ys_i[j] + key_ys_i[j + 1]) / 2
-                row_meta.append([page_no, round(top, 1), round(bottom, 1), i])
+                sub_top = a_i if j == 0 else (key_ys_i[j - 1] + key_ys_i[j]) / 2
+                sub_bottom = b_i if j == len(subs) - 1 else (key_ys_i[j] + key_ys_i[j + 1]) / 2
+                row_meta.append([page_no, round(sub_top, 1), round(sub_bottom, 1), i])
             continue
         if i in flagged:
             kept_flags.append(len(rows_text))
@@ -660,6 +660,16 @@ def _expand_deal(cells_row: list[list[Word]], merged_row: list[str], key_col: in
             if all(groups):
                 for j in range(m):
                     out[j][c] = _join_cell(groups[j])
+                continue
+        # fewer rulings than vessels - 1: each ruled cell spans the vessels whose key line lies inside it
+        # (DONG-A OKNOS / ASTREA share "2010 HHI", EOS has "2009 HHI"), so the cell text goes to each of them
+        if c not in shared and c not in (per_vessel or set()) and cuts and 0 < len(cuts) < m - 1:
+            edges = [-1e9, *sorted(cuts), 1e9]
+            seg_of = [next(k for k in range(len(edges) - 1) if edges[k] < y <= edges[k + 1]) for y in key_ys]
+            segs = [[w for w in words if edges[k] < w.cy < edges[k + 1]] for k in range(len(edges) - 1)]
+            if all(segs) and set(seg_of) == set(range(len(segs))):
+                for j in range(m):
+                    out[j][c] = _join_cell(segs[seg_of[j]])
                 continue
         if count_hint is not None and c == count_hint[0] and c not in shared:
             marked = _split_by_marker(words, count_hint[1], m)

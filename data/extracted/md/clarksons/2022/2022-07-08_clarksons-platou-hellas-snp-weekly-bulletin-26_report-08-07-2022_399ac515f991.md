@@ -11,7 +11,7 @@ source_sha256: a09861f6f5715bdee9884a81b06ccb790ad16d6d82582b63572dd78c15f5142a
 pages_total: 3
 pages_parsed: 1-2
 parser: pymupdf_table + pymupdf_prose
-parsed_at: '2026-10-08T04:23:34Z'
+parsed_at: '2026-10-08T04:37:47Z'
 ---
 
 ` Sale and Purchase

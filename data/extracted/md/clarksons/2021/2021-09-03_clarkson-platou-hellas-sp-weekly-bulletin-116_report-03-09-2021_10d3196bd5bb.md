@@ -11,7 +11,7 @@ source_sha256: 2556a8170abc5f6c1268bad1af6810e231766327136931149b3d835dc29e837e
 pages_total: 3
 pages_parsed: 1-2
 parser: pymupdf_table + pymupdf_prose
-parsed_at: '2026-10-08T04:22:42Z'
+parsed_at: '2026-10-08T04:36:44Z'
 ---
 
 ## BULK CARRIERS
