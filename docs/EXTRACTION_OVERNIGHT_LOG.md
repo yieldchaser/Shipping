@@ -4424,3 +4424,102 @@ other source touched, no re-extraction.
 ### Scratch
 `scratch/deepreview/` holds the two evidence scripts (`consistency.py`,
 `verify_all.py`); the pre-fix CSV copies were deleted. `scratch/` is gitignored.
+
+## 2026-10-08 21:0x IST (15:3x UTC) - DEEP REVIEW (3-hourly cron d77cc9df53c4)
+
+**Headline: one systematic extraction defect FOUND and FIXED - Fearnleys' "Dry 1Y TC"
+block (the 1-Year time-charter rate table) read the wrong numbers on era-A pages,
+because a bare route label also matches the Dry Spot SECTION HEADER printed above it.
+Second: a confirmed date-parse bug in the freshness audit tool FIXED. Delivered CSVs
+NOT regenerated (already-extracted data = human decision, see bottom).**
+
+### What I measured first
+- `verify_extraction.py --json`: exit 0, `actions: []`. golden **15/15**, checkpoint
+  **7,816/7,816 unique**, 74 not-a-pdf quarantines, db 189,481 tables / 6,726,703
+  cells, `mean_text_verified` 0.863. Nothing wrong at the pipeline level.
+- Liveness: NO `run_batch` / `batch_worker`. The only python working in-tree was the
+  PARALLEL 30-min job's `scripts/extract/publishers/audit_agora_dates.py` (PID 21428) -
+  left alone; it committed agora work to this same branch mid-run.
+- Opened 3 freshly-completed doc outputs (drewry AIS LR1 W28, seabrokers 2026-08 p8,
+  Fearnleys 2023-W12). The Drewry AIS low `text_verified` (0.44) is EXPECTED - Power BI
+  pages are raster charts, only p9 is text.
+
+### Defect 1 - Fearnleys Dry 1Y TC bound to the Dry Spot header - FIXED (commit 861054ddc)
+`extract_rate_cards()` in `scripts/extract/publishers/run_fearnleys_normalized.py`
+matches a route by substring over the page lines and takes the first hit. The label
+`Capesize` (Dry 1Y TC) also appears in the Dry Spot section header
+`Capesize (USD/Day, USD/Tonne)`, which precedes the 1Y TC table; the matcher then read
+the FOLLOWING rows. Ground truth, page 3 of
+`fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf` prints:
+
+```
+1 Year T/C (USD/Day)
+Newcastlemax (208 000 dwt)  $25,750  $1,250
+Capesize (180 000 dwt)      $20,750  $750     <- CSV had value=180, change=-1181
+Kamsarmax (82 000 dwt)      $18,500  $0
+Panamax (75 000 dwt)        $17,000  -$500    <- CSV had value=12445
+Supramax (58 000 dwt)       $14,500  -$1,000  <- CSV had value=15329
+```
+The CSV row `Dry 1Y TC | Capesize` read `180` (the "180" of the Dry Spot row
+`TCE Cont/Far East (180 DWT)`) with `change=-1181`. `Panamax`/`Supramax` took the Dry
+Spot values 12445/15329 - **wrong in the plausible direction** (both look like plausible
+$/day), so no magnitude check catches them; only the printed page does.
+**Fix**: require a Dry 1Y TC row to fall after the page's `1 Year T/C` heading.
+
+**Verified** on that page: after the fix the six rows are
+25750 / 20750 / 18500 / 17000 / 15750 / 14500 = the printed table exactly.
+**Blast radius across the whole publisher, not a sample**: re-ran `extract_rate_cards`
+over **128** fearnleys docs (2021-2023 + a 2026 control) and diffed every Dry 1Y TC
+value against the delivered CSV -> **20 rows corrected, 161 unchanged, 0 errored**
+(2021:3, 2022:4, 2023:13, **2026:0** - the control era is untouched). Examples:
+`2023_W18 Capesize 180 -> 21500`, `2022_W49 Panamax 16245 -> 14500`,
+`2023_W06 Panamax 5140 -> 15500`. **No row loss**: original vs fixed emit IDENTICAL
+Dry 1Y TC label sets on the 8 highest-row files. Golden gate byte-identical
+(Star Asia 15/15, SSY 14/14, Breakwave 6/6).
+
+### Defect 2 - freshness tool mis-parsed dates - FIXED (commit fe92bb55e)
+`scripts/extract/audit_series_freshness.py::newest_md_date` has a second
+DD[-_]MM[-_]YYYY regex that also matched the TAIL of a YYYY-MM-DD token: in
+`gms_2026-09-12_2026-09-12_gms-week-37-...` it matched `09-12_2026` -> `2026-12-09`,
+inflating the source's newest-md date and raising a false "MD NEWER" flag. Added a
+negative lookbehind for a preceding digit-or-hyphen. Measured: hellenic newest_md
+2026-12-09 -> 2026-10-05, breakwave 2026-12-01 -> 2026-10-05; the MD-NEWER flag count
+over the 27 md sources drops 10 -> 9 (hellenic no longer falsely flagged; the remaining
+9 are the publication-date-vs-period convention the 30-min job already catalogued).
+
+### Checked and NOT defects (do not "fix")
+- **`seabrokers_snp_auctions_series.csv` duplicate key - CLOSED as NOT a defect.**
+  The previous run left 221 rows sharing one `(report_date, vessel_class, metric)` key
+  for review. The source settles it: the 2026-08 report page 9 is a multi-lot auction
+  table (VESSEL/S | TYPE | WINNING BID | BUYING ENTITY) and lists **exactly 29** vessels
+  for 2026-08 - the CSV has **29** rows, one per vessel, each carrying the vessel in
+  `note` (`vessel=Bourbon Kaimook (2012); buyer=Tan Cang Offshore Services`). One row
+  per lot is correct; the natural key simply needs `note`. No change needed.
+- `drewry_ais_pdfs` `mean_text_verified` 0.44 / 3,900 zero-tv tables = raster chart
+  pages, by design (Power BI template). `orphan_values` remains chart furniture.
+
+### Deliberately NOT changed, and why
+- **Did NOT regenerate `fearnleys_rates_series.csv`.** The code fix corrects only the
+  documents extracted from now on; the delivered CSV still carries the 20 wrong 2021-23
+  rows. Changing already-extracted data is a human decision (and the 30-min job owns
+  data regenerations). Exact command if approved:
+  `python3 scripts/extract/publishers/run_fearnleys_normalized.py`
+  (writes `data/extracted/series/fearnleys_rates_series.csv`; 17,076 rows, pkey
+  `(issue_date, chapter, section, label)`, merge preserves other sections). Expect
+  ~20 Dry 1Y TC values to change and no row-count change.
+- **Era-B (2024/2025) `Dry 1Y TC` rows still wrong.** On the 2024/2025 "Fearnpulse"
+  layout the page text order is `... value / size / change / LABEL / size ...` - the
+  row's own value is not adjacent to its label (measured on `fearnleys_2024_W27` p8:
+  near `Capesize` at (58,764) sits only `180'` at (514,771)), so the parser falls back
+  to the size. **45** Dry 1Y TC rows currently equal their own size number (Capesize 14,
+  Kamsarmax 11, Ultramax 9, Supramax 3, Newcastlemax 3, Panamax 3, Handysize 2). Fixing
+  it needs a column-position parse for that layout - not attempted blindly this pass.
+- Did not touch `index.html`, other pipelines, `tests/`, git history, the DB or the
+  corpus; did not push.
+- Note: running `scripts/analysis/golden_matrix.py` rewrites
+  `scripts/analysis/golden_matrix.json` (outside my allowed paths) - reverted it.
+
+### Scratch
+`scratch/deepreview/` holds `fearnleys_measure2.py` (+ `fearnleys_changed2.json`), the
+pre-fix copies (`run_fearnleys_normalized.py.orig`, `audit_series_freshness.py.orig`),
+`golden_after.txt`, `freshness_after.txt`. `scratch/` is gitignored.
