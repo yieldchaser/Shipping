@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-10-07T22:06:57Z",
-  "current_date": "2026-10-07",
-  "warning_count": 6,
+  "generated_at": "2026-10-08T16:24:29Z",
+  "current_date": "2026-10-08",
+  "warning_count": 5,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
-      "healthy": 13,
-      "reference": 1,
-      "watch": 1
+      "healthy": 14,
+      "reference": 1
     },
     "topics": {
       "healthy": 10
@@ -17,25 +16,6 @@
     }
   },
   "warnings": [
-    {
-      "severity": "watch",
-      "kind": "source_freshness",
-      "key": "baltic/ningbo",
-      "message": "baltic/ningbo is watch at 12 days since the latest dated document.",
-      "details": {
-        "label": "baltic/ningbo",
-        "source": "baltic",
-        "category": "ningbo",
-        "status": "watch",
-        "cadence_days": 7,
-        "latest_date": "2026-09-25",
-        "age_days": 12,
-        "latest_gap_days": 7,
-        "max_recent_gap_days": 7,
-        "dated_doc_count": 546,
-        "undated_doc_count": 0
-      }
-    },
     {
       "severity": "watch",
       "kind": "topic_divergence",
@@ -73,7 +53,7 @@
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-10-06"
+            "latest_date": "2026-10-08"
           }
         ],
         "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
@@ -83,7 +63,7 @@
       "severity": "watch",
       "kind": "topic_divergence",
       "key": "oil_and_opec",
-      "message": "Oil and OPEC shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
+      "message": "Oil and OPEC shows recent tone divergence: breakwave reads constructive while hellenic reads neutral.",
       "details": {
         "topic_id": "oil_and_opec",
         "title": "Oil and OPEC",
@@ -105,21 +85,21 @@
             "latest_date": "2026-10-02"
           },
           {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.75,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-10-08"
+          },
+          {
             "source": "breakwave",
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 5,
             "latest_date": "2026-10-06"
-          },
-          {
-            "source": "breakwave_insights",
-            "avg_tone_score": 0.75,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-10-06"
           }
         ],
-        "message": "Oil and OPEC shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
+        "message": "Oil and OPEC shows recent tone divergence: breakwave reads constructive while hellenic reads neutral."
       }
     },
     {
@@ -159,7 +139,7 @@
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-10-05"
+            "latest_date": "2026-10-08"
           }
         ],
         "message": "Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
@@ -195,7 +175,7 @@
             "avg_tone_score": 0.62,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-10-06"
+            "latest_date": "2026-10-08"
           },
           {
             "source": "breakwave",
