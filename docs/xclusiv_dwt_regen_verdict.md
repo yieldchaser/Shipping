@@ -42,3 +42,24 @@ Copied back only what changed in content:
   duplicate-stem leftovers (unaffected 2026 docs); left untouched.
 - Pre-existing non-defects seen in the column and NOT introduced here: a handful of
   ordinal tokens (`2nd`,`9th`) with blank dwt, and 2 rows with a fused `"93,237 82,269"`.
+
+---
+
+# clarksons regeneration (same defect, same evening)
+
+Ran `run_clarksons.py` with OUT paths redirected to `scratch/` (180 unique reports
+from 1,011 hellenic-shipbuilding + 11 broker PDFs, deduped by md5; **61 s**).
+
+- `clarksons_sales_series.csv`: **6** rows changed (`175.085`, `65.125`, `48.012`,
+  `53.840`, `49.600`, `63.800`); `clarksons_demolition_series.csv`: **1** row
+  (`45.654`, ETERNAL LUCK 2023-06-02). Row counts unmoved (sales 1343, demo 120);
+  **7/7** DWT transforms are exactly `period -> comma`; **0** other-column changes.
+- Applied only the dwt/type changes to **6** md + `.tables.json` docs and the 2 CSVs,
+  preserving the delivered **LF** EOL (no EOL churn).
+- Ground truth: `2026-03-28_...bulletin-127....pdf` p1 narrative reads
+  `JIN RUI (ABT, 63K DWT, 2014, JIANGSU HANTONG)` beside the table cell `63.800`.
+- **Disclosed, NOT applied:** the regeneration also flipped `source_file` from
+  `corpus/01-brokers/clarksons/2026/...` to `corpus/02-hellenic/shipbuilding/pdfs/...`
+  on **9 other 2026 docs** (the runner's md5 dedup picked the hellenic duplicate
+  copy this time). That is a path-reference change unrelated to the dwt fix and was
+  deliberately left out of the commit.
