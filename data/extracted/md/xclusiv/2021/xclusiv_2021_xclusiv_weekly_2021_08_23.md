@@ -127,17 +127,17 @@ BOZOK 9.200 1997 NETHERLANDS BIJLSMA LEMMER UNDISCLOSED $2.8 SS: 10/2024 - DD: 0
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | OCEAN EMERALD | Handysize | 92.950 | 2012 | CHINA | COSCO DALIAN | CHINESE | $17.25M | DELIVERY NOV 2021/ JAN 2022, SS/DD: 03/2022 |
-| Bulk Carriers | PRISCILLA VENTURE | Handysize | 77.283 | 2008 | JAPAN | OSHIMA | CHINESE | $18.0M | SS/DD: 03/2023 |
-| Bulk Carriers | ADS GALTESUND | Handysize | 75.395 | 2007 | JAPAN | UNIVERSAL | UNDISCLOSED | $16.0M | DELY DEC 2021, SS/DD: 01/2022 |
-| Bulk Carriers | ISHIZUCHI | Handysize | 77.247 | 2006 | JAPAN | SASEBO | CHINESE | $16.5M | COAL CARRIER (BEAM 36.5m - 5Ho/Ha), SS/DD: 12/2021 |
-| Bulk Carriers | BELCARGO | Handysize | 58.729 | 2008 | PHILIPPINES | TSUNEISHI | UNDISCLOSED | $17.0M | SS/DD: 08/2022 |
-| Bulk Carriers | ATLANTIC ENSENADA | Handysize | 55.814 | 2006 | JAPAN | KAWASAKI | BANGLADESH | $15.25M | SS/DD: 04/2023 |
-| Bulk Carriers | SPAR DRACO | Handysize | 53.565 | 2006 | CHINA | CHENGXI | UNDISCLOSED | $13.0M | DELIVERY WITH SS/DD DUE, SS/DD: 10/2021 |
-| Bulk Carriers | WAN AN | Handysize | 42.717 | 1998 | JAPAN | IHI | CHINESE | $7.0M | SS: 01/2026 - DD: 07/2023 |
-| Bulk Carriers | NEW POWER | Handysize | 32.070 | 2012 | JAPAN | HAKODATE | UNDISCLOSED | $15.25M | DELIVERY DEC 2021, SS/DD: 11/2022 CAPACITY OF 987 TEU, BWTS FITTED, SS: 01/2025 - DD: |
-| Bulk Carriers | OSLO WAVE | Handysize | 17.451 | 2000 | CHINA | JINGJIANG | UNDISCLOSED | $12.0M | 10/2022 |
-| Bulk Carriers | BOZOK | Handysize | 9.200 | 1997 | NETHERLANDS | BIJLSMA LEMMER | UNDISCLOSED | $2.8M | SS: 10/2024 - DD: 09/2022 |
+| Bulk Carriers | OCEAN EMERALD | Kamsarmax | 92,950 | 2012 | CHINA | COSCO DALIAN | CHINESE | $17.25M | DELIVERY NOV 2021/ JAN 2022, SS/DD: 03/2022 |
+| Bulk Carriers | PRISCILLA VENTURE | Panamax | 77,283 | 2008 | JAPAN | OSHIMA | CHINESE | $18.0M | SS/DD: 03/2023 |
+| Bulk Carriers | ADS GALTESUND | Panamax | 75,395 | 2007 | JAPAN | UNIVERSAL | UNDISCLOSED | $16.0M | DELY DEC 2021, SS/DD: 01/2022 |
+| Bulk Carriers | ISHIZUCHI | Panamax | 77,247 | 2006 | JAPAN | SASEBO | CHINESE | $16.5M | COAL CARRIER (BEAM 36.5m - 5Ho/Ha), SS/DD: 12/2021 |
+| Bulk Carriers | BELCARGO | Supramax | 58,729 | 2008 | PHILIPPINES | TSUNEISHI | UNDISCLOSED | $17.0M | SS/DD: 08/2022 |
+| Bulk Carriers | ATLANTIC ENSENADA | Supramax | 55,814 | 2006 | JAPAN | KAWASAKI | BANGLADESH | $15.25M | SS/DD: 04/2023 |
+| Bulk Carriers | SPAR DRACO | Supramax | 53,565 | 2006 | CHINA | CHENGXI | UNDISCLOSED | $13.0M | DELIVERY WITH SS/DD DUE, SS/DD: 10/2021 |
+| Bulk Carriers | WAN AN | Handysize | 42,717 | 1998 | JAPAN | IHI | CHINESE | $7.0M | SS: 01/2026 - DD: 07/2023 |
+| Bulk Carriers | NEW POWER | Handysize | 32,070 | 2012 | JAPAN | HAKODATE | UNDISCLOSED | $15.25M | DELIVERY DEC 2021, SS/DD: 11/2022 CAPACITY OF 987 TEU, BWTS FITTED, SS: 01/2025 - DD: |
+| Bulk Carriers | OSLO WAVE | Handysize | 17,451 | 2000 | CHINA | JINGJIANG | UNDISCLOSED | $12.0M | 10/2022 |
+| Bulk Carriers | BOZOK | Handysize | 9,200 | 1997 | NETHERLANDS | BIJLSMA LEMMER | UNDISCLOSED | $2.8M | SS: 10/2024 - DD: 09/2022 |
 | Bulk Carriers | 23rd | Bulk Carriers |  |  |  |  | - | - | - |
 
 ### Tanker Secondhand Prices ($ mills)

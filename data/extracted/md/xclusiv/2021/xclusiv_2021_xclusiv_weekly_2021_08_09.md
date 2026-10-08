@@ -103,12 +103,12 @@ AREL 1 10.560 1993 TURKEY SELAH UNDISCLOSED xs $3 SS: 08/2024 - DD: 06/2022
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | YUMETAMOU | Handysize | 181.407 | 2012 | JAPAN | KOYO | SAFE BULKERS | $32.3M | 1-YEAR BBHP SCHEME, SS: 03/2025 - DD: 07/2022 |
-| Bulk Carriers | AQUA SPLENDOR | Handysize | 175.589 | 2012 | CHINA | JINHAI HEAVY | UNDISCLOSED | $20.0M | SS/DD: 06/2022 |
-| Bulk Carriers | LOWLANDS BEACON | Handysize | 61.400 | 2011 | JAPAN | IWAGI ZOSEN | UNDISCLOSED | $21.0M | SS/DD: 04/2022 |
-| Bulk Carriers | MARATHA PROMISE | Handysize | 37.187 | 2012 | JAPAN | SAIKI | UNDISCLOSED | $16.5M | SS/DD: 03/2022 |
-| Bulk Carriers | SAKURA KOBE | Handysize | 33.735 | 2011 | JAPAN | SHIN KOCHI | TAYLOR MARITIME | $16.2M | BWTS FITTED, SS:11/2024 - DD: 10/2022 |
-| Bulk Carriers | AREL 1 | Handysize | 10.560 | 1993 | TURKEY | SELAH | UNDISCLOSED | $3.0M | SS: 08/2024 - DD: 06/2022 |
+| Bulk Carriers | YUMETAMOU | Capesize | 181,407 | 2012 | JAPAN | KOYO | SAFE BULKERS | $32.3M | 1-YEAR BBHP SCHEME, SS: 03/2025 - DD: 07/2022 |
+| Bulk Carriers | AQUA SPLENDOR | Capesize | 175,589 | 2012 | CHINA | JINHAI HEAVY | UNDISCLOSED | $20.0M | SS/DD: 06/2022 |
+| Bulk Carriers | LOWLANDS BEACON | Ultramax | 61,400 | 2011 | JAPAN | IWAGI ZOSEN | UNDISCLOSED | $21.0M | SS/DD: 04/2022 |
+| Bulk Carriers | MARATHA PROMISE | Handysize | 37,187 | 2012 | JAPAN | SAIKI | UNDISCLOSED | $16.5M | SS/DD: 03/2022 |
+| Bulk Carriers | SAKURA KOBE | Handysize | 33,735 | 2011 | JAPAN | SHIN KOCHI | TAYLOR MARITIME | $16.2M | BWTS FITTED, SS:11/2024 - DD: 10/2022 |
+| Bulk Carriers | AREL 1 | Handysize | 10,560 | 1993 | TURKEY | SELAH | UNDISCLOSED | $3.0M | SS: 08/2024 - DD: 06/2022 |
 | Bulk Carriers | 9th | Bulk Carriers |  |  |  |  | - | - | - |
 
 ### Tanker Secondhand Prices ($ mills)
