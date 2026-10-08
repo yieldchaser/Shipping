@@ -135,7 +135,7 @@ def cmd_promote(args) -> int:
     accept = set(cfg.get("accept_flags", [])) | {f for f in (args.accept_flags or "").split(",") if f}
     plan = promote.build_plan(args.source, staging, dest, legacy, accept, date_patterns=profile.get("date_patterns"),
                               name_markers=tuple(cfg.get("name_markers", promote.DEFAULT_NAME_MARKERS)),
-                              new_only=args.new_only)
+                              new_only=args.new_only, require_marker=cfg.get("require_validation_marker"))
     csv_path = Path(args.plan_csv) if args.plan_csv else staging / args.source / "promotion_plan.csv"
     promote.write_plan_csv(plan, csv_path)
     counts = promote.summarize(plan)

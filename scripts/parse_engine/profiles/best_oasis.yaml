@@ -1,0 +1,81 @@
+# Best Oasis weekly ship-recycling report (published via Hellenic Shipping News). Three PDF templates:
+# 2021-22 portrait (7 pp), 2022-25 landscape slides (9 pp), 2025-26 portrait (4 pp). Layout notes and the chart
+# rebuild rules: scripts/parse_engine/best_oasis.py. Other demolition publishers (GMS, Athenian) are not covered.
+source: best_oasis
+publisher: Best Oasis Limited
+title_template: "Best Oasis Weekly Ship Recycling Report {issue_date}"
+
+globs:
+  - "corpus/02-hellenic/demolition/pdfs/*eekly-Ship-Recycling-Report*.pdf"
+  - "corpus/02-hellenic/demolition/pdfs/*best-oasis*.pdf"
+# the same PDF is filed twice (HSN download with a 12-hex suffix and the plain name): the hashed name is kept
+prefer_name_regex: '_[0-9a-f]{12}\.pdf$'
+
+# The last page of the 7/9-page templates is the contacts page (cut by drop_regions below, then dropped as
+# boilerplate). The 4-page template ends with the tables page, which is kept.
+pages:
+  drop_last: 1
+  drop_first: 0
+  last_page_boilerplate_regex: '(?i)(contact us|disclaimer)'
+
+engine_plan:
+  - match: {}
+    engine: pymupdf_table
+
+# The free path is the only path for these digital PDFs; configured so a flagged file can be estimated first.
+llamaparse:
+  tier: agentic
+  version: "2026-01-16"
+  merge_continued_tables: true
+  custom_prompt: >-
+    This is a ship recycling weekly report. Reproduce every table row exactly; read the printed data labels of
+    each bar chart into a table (previous week, this week); keep all commentary paragraphs verbatim under their
+    headings. Omit contacts and disclaimers.
+
+expected_sections:
+  - required: ["India", "Bangladesh", "Pakistan"]
+    optional: ["Turkey|Türkiye|Turkiye", "List of Vessels Sold", "Bunker Prices"]
+
+# issue_date is the Saturday-dated crawl date in the file name; the printed header is a date range.
+header_text_chars: 0
+date_patterns:
+  header_text: []
+  filename:
+    - regex: '^((?:19|20)\d{2})-(\d{2})-(\d{2})_'
+      order: ymd
+
+strip_line_patterns:
+  - '(?i)^\s*h?e?k?l*e?nic\s*$'
+  - '(?i)^\s*weekly\s+ship\s+recycling\s+report\s*$'
+  - '(?i)^\s*(weekly ship recycling|report)\s*$'
+  - '(?i)^\s*best oasis( limited)?\s*(weekly ship recycling report)?\s*\d{0,2}\s*$'
+  - '(?i)^\s*(head office|visit|email|contact)\s*:.*$'
+  - '(?i)^\s*our offices\s*$'
+  - '(?i)^\s*scan to (view|download).*$'
+  - '(?i)^\s*recycling with the best\s*$'
+  - '(?i)^\s*\d{1,2}\s*$'
+boilerplate_patterns:
+  - '(?i)best-oasis\.com'
+  - '(?i)bol@bol\.ae'
+  - '(?i)^\s*disclaimer\b'
+
+sidecar_vessel_rows: false
+
+drop_regions:
+  - anchor_any: ["Contact Us"]
+    line_start: true
+    until: page_end
+  - anchor_any: ["Disclaimer:"]
+    line_start: true
+    until: block_end
+
+geom:
+  prose_engine: best_oasis
+  table_heading_level: 3
+
+promotion:
+  require_validation_marker: continuity_ran      # best_oasis_continuity must have run on the staged issue
+  dest: data/extracted/md/hellenic/demolition/best_oasis
+  name_markers: [oasis, weekly-ship-recycling-report]
+  legacy_dirs:
+    - data/extracted/md/hellenic/demolition/best_oasis

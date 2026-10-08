@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import csv
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -41,6 +42,36 @@ class Plan:
     promote: list[Staged] = field(default_factory=list)
     remove: list[Path] = field(default_factory=list)
     overwrite: list[Path] = field(default_factory=list)
+
+
+class PromoteError(RuntimeError):
+    """A promotion invariant failed (a target would be removed, or a target is missing after apply)."""
+
+
+def _key(p: Path) -> str:
+    """Case- and separator-insensitive identity of a path (the working tree may be a case-insensitive filesystem)."""
+    return os.path.normcase(str(Path(p).resolve()))
+
+
+def target_keys(plan: "Plan", dest_root: Path) -> set[str]:
+    """Every file the plan will write (promoted MD and its sidecar)."""
+    keys = set()
+    for st in plan.promote:
+        keys.add(_key(dest_root / st.year / (st.stem + ".md")))
+        if st.tables is not None:
+            keys.add(_key(dest_root / st.year / (st.stem + ".tables.json")))
+    return keys
+
+
+def assert_plan_invariants(plan: "Plan", dest_root: Path) -> None:
+    """A path the plan writes or overwrites must never be in the removal set; each promoted target is written once."""
+    targets = target_keys(plan, dest_root)
+    clash = sorted(str(p) for p in plan.remove if _key(p) in targets)
+    if clash:
+        raise PromoteError(f"{len(clash)} removal(s) are also promotion targets, e.g. {clash[0]}")
+    names = [(st.year, st.stem) for st in plan.promote]
+    if len(set(names)) != len(names):
+        raise PromoteError("two promoted issues share one target name")
 
 
 def read_frontmatter(path: Path) -> dict[str, Any]:
@@ -77,7 +108,7 @@ def old_issue_dates(path: Path, date_patterns: dict[str, Any] | None = None) -> 
     return dates
 
 
-def load_staged(staging: Path, source: str) -> list[Staged]:
+def load_staged(staging: Path, source: str, require_marker: str | None = None) -> list[Staged]:
     out = []
     for vpath in sorted((staging / source).glob("*/*.validation.json")):
         stem = vpath.name[: -len(".validation.json")]
@@ -87,8 +118,11 @@ def load_staged(staging: Path, source: str) -> list[Staged]:
         report = json.loads(vpath.read_text(encoding="utf-8"))
         fm = read_frontmatter(md)
         tables = vpath.with_name(stem + ".tables.json")
+        flags = list(report.get("flags", report.get("problems", [])))
+        if require_marker and report.get(require_marker) is not True:
+            flags.append(f"missing_{require_marker}")        # a post-parse step the profile requires has not run
         out.append(Staged(stem, vpath.parent.name, fm.get("issue_date"), md, tables if tables.exists() else None,
-                          list(report.get("flags", report.get("problems", []))), fm.get("source_file")))
+                          flags, fm.get("source_file")))
     return out
 
 
@@ -132,11 +166,12 @@ def is_existing(stem: str, issue_date: str | None, index: tuple[set[str], set[st
 
 def build_plan(source: str, staging: Path, dest_root: Path, legacy_dirs: list[Path], accept_flags: set[str],
                repo_root: Path = REPO_ROOT, date_patterns: dict[str, Any] | None = None,
-               name_markers: tuple[str, ...] = DEFAULT_NAME_MARKERS, new_only: bool = False) -> Plan:
+               name_markers: tuple[str, ...] = DEFAULT_NAME_MARKERS, new_only: bool = False,
+               require_marker: str | None = None) -> Plan:
     """new_only: promote only issues that have no MD yet (by stem, issue date or PDF hash) and never remove or
     overwrite anything: the incremental weekly mode."""
     plan = Plan()
-    staged = load_staged(staging, source)
+    staged = load_staged(staging, source, require_marker)
     if new_only:
         index = existing_index([dest_root, *legacy_dirs], date_patterns, name_markers)
         for st in staged:
@@ -246,6 +281,7 @@ def build_plan(source: str, staging: Path, dest_root: Path, legacy_dirs: list[Pa
                 plan.remove.append(c)
                 plan.rows.append({"action": "git_rm", "old_path": rel(c), "new_path": rel(new_md),
                                   "issue_date": match.issue_date or "", "detail": ""})
+    assert_plan_invariants(plan, dest_root)
     return plan
 
 
@@ -275,6 +311,7 @@ def apply_plan(plan: Plan, dest_root: Path, repo_root: Path = REPO_ROOT,
     A tracked file is removed with `git rm` (never -f): if git refuses (local modifications) the file is
     reported in `skipped`, not forced. An untracked file is deleted only when it lies inside one of
     `allowed_dirs` (the source's own legacy folders). Files that were just written are never removed."""
+    assert_plan_invariants(plan, dest_root)          # fail before touching anything
     written_n = 0
     for st in plan.promote:
         target = dest_root / st.year
@@ -284,12 +321,11 @@ def apply_plan(plan: Plan, dest_root: Path, repo_root: Path = REPO_ROOT,
         if st.tables is not None:
             shutil.copyfile(st.tables, target / (st.stem + ".tables.json"))
             written_n += 1
-    written = {(dest_root / st.year / (st.stem + suffix)).resolve() for st in plan.promote
-               for suffix in (".md", ".tables.json") if suffix == ".md" or st.tables is not None}
+    written = target_keys(plan, dest_root)
     allowed = [d.resolve() for d in (allowed_dirs or [])]
     report: dict[str, Any] = {"written": written_n, "removed": [], "skipped": [], "git_rm": 0, "deleted_untracked": 0}
     for p in plan.remove:
-        if not p.exists() or p.resolve() in written:
+        if not p.exists() or _key(p) in written:        # a file that was just written is never removed
             continue
         if allowed and not any(a in p.resolve().parents for a in allowed):
             report["skipped"].append((str(p), "outside the source's legacy folders"))
@@ -305,4 +341,7 @@ def apply_plan(plan: Plan, dest_root: Path, repo_root: Path = REPO_ROOT,
             p.unlink()
             report["deleted_untracked"] += 1
         report["removed"].append(str(p))
+    missing = [str(Path(k)) for k in sorted(written) if not Path(k).is_file() or Path(k).stat().st_size == 0]
+    if missing:
+        raise PromoteError(f"{len(missing)} promoted file(s) missing or empty after apply, e.g. {missing[0]}")
     return report

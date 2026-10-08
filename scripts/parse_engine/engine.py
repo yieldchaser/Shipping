@@ -9,7 +9,7 @@ from typing import Any
 
 import pymupdf
 
-from scripts.parse_engine import geom_table, liteparse, prose, xclusiv
+from scripts.parse_engine import best_oasis, geom_table, liteparse, prose, xclusiv
 from scripts.parse_engine.cache import cache_get, cache_put, config_hash
 from scripts.parse_engine.config import (CREDITS_PER_PAGE, REPO_ROOT, pages_to_spec, repo_relative,
                                          select_pages, sha256_file)
@@ -24,7 +24,8 @@ ENGINE_TAG = {"llamaparse": "llama", "pymupdf_table": "geom", "liteparse": "lit"
 DEFAULT_STAGING = REPO_ROOT / ".reparse_staging"
 # plan notes that are informational and never block promotion
 INFO_NOTE_PREFIXES = ("trailing_boilerplate_dropped", "two_page_content_kept", "last_page_not_boilerplate_kept", "pages_override", "issue_date_conflict_filename_chosen",
-                      "issue_date_conflict_year_typo_filename_chosen", "issue_date_conflict_header_corroborated")
+                      "issue_date_conflict_year_typo_filename_chosen", "issue_date_conflict_header_corroborated",
+                      "best_oasis:figure_note")
 
 
 @dataclass
@@ -166,6 +167,10 @@ def run_geom(plan: FilePlan, profile: dict[str, Any], prose_engine: str | None =
     if prose_engine == "xclusiv":
         res = xclusiv.run(plan, doc, profile)
         plan.notes.extend(f"xclusiv:{p}" for p in res.pop("problems"))
+        return res
+    if prose_engine == "best_oasis":
+        res = best_oasis.run(plan, doc, profile)
+        plan.notes.extend(f"best_oasis:{p}" for p in res.pop("problems"))
         return res
     if prose_engine == "pymupdf":
         repeated = prose.repeated_band_texts(doc)
