@@ -17,6 +17,16 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 3. **`scripts/parse_engine_html/`** — VesselsValue HTML deals + VV Mini Matrix image OCR (in progress). Output to `.reparse_staging/vessel_valuations/`.
 4. **SHELVED — see HARD RULE.** `scripts/md_cleanup/chart_tables.py` — removes LLM-guessed chart tables (values not printed in source text layer), replaces with `> Figure: … not transcribed` note. Guarded mode default; ISM (vector-engine charts) and any "Vector" section excluded. Dry-run results in `.reparse_staging/chart_cleanup/guard_published/` (8,890 tables). Was about to APPLY in place — check `git diff --stat data/extracted/md` before committing.
 
+## STATUS 2026-10-08 midday — CLARKSONS + VV LIVE ON MAIN (c5ee2048f)
+- VV: 224/255 issues promoted (51818b6f5). 31 keep old MD (1–2 unparsed deal lines each — next fix).
+  Matrix: 160 ok / 94 "not machine-readable" (mostly 2025–26 small images). Benchmark sizes reconciled across
+  issues (misreads blanked, 289 cells); label date must equal issue date or ±1–2 weeks. VV series CSVs NOT yet
+  regenerated (CI `vv --incremental` will append; full regen pending). Main has vv_2026-10-06.md from legacy runner
+  (pre-guard) — re-parse with engine.
+- Knowledge validator passes after merge. Pushes to main are slow (repo size) and race the FFA bot: fetch+merge+push loop.
+- NEXT: Xclusiv 2021–23 coder running (profile scripts/parse_engine/profiles/xclusiv.yaml, staging .reparse_staging/xclusiv).
+  Then Carriers, Best Oasis, Star Asia, Intermodal tables, metadata, self-hosted runner.
+
 ## STATUS 2026-10-08 — CLARKSONS DONE (on branch, not yet on main)
 - All 179 Clarksons issues promoted from parse engine (commits 9aeb395d1, 056d97c96); 161+20 duplicate/legacy MDs
   removed (hellenic/shipbuilding/clarksons dupes); clarksons_sales_series.csv + demolition series refreshed.
