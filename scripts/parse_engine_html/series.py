@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import csv
+import re
 from collections import Counter
 from pathlib import Path
 
@@ -13,11 +14,37 @@ SALES_FIELDS = (
     "issue_date", "sector", "vessel_name", "vessel_class", "dwt_spec", "built_date", "yard", "buyer",
     "price_usd_m", "vv_value_usd_m", "premium_pct", "comments", "source_file",
     "size", "size_unit", "built_iso", "seller", "n_vessels", "en_bloc", "action", "price_raw", "flags",
+    "vessel_class_raw",
 )
 MATRIX_FIELDS = (
     "issue_date", "sector", "vessel_class", "benchmark_size", "age_years", "pct_change_weekly", "source_file",
     "benchmark_size_num",
 )
+
+
+# vessel_class vocabulary of the existing sales series; anything else keeps the verbatim class
+LEGACY_CLASSES = {
+    "VLCC", "Suezmax", "Aframax", "LR1", "LR2", "MR2", "MR", "Capesize", "Newcastlemax", "Kamsarmax", "Panamax",
+    "Post Panamax", "Supramax", "Ultramax", "Handysize", "Feedermax", "Container", "General",
+}
+_CLASS_ALIAS = {"MRs": "MR", "Handy": "Handysize", "Sub-Panamax": "Sub Panamax", "Post-Panamax": "Post Panamax",
+                "PostPanamax": "Post Panamax"}
+_CLASS_SUFFIX = re.compile(r"\s+(?:BCs?|Bulkers?|Cont(?:ainer)?s?|Tankers?)$", re.I)
+
+
+def canonical_class(sector: str, vessel_class: str) -> str:
+    """Map a verbatim class ('Panamax BC', 'VLCCs', 'Handy Bulker', 'MR2 (Chem/Product)') to the vocabulary of the
+    existing series files; a class outside that vocabulary is returned unchanged (never guessed)."""
+    base = re.sub(r"\s*\([^)]*\)", "", vessel_class).strip()
+    base = re.sub(r"[’']s$", "", base)
+    base = _CLASS_SUFFIX.sub("", base).strip()
+    if base == "Handy" and sector.lower().startswith("tanker"):
+        return "Handy Tanker"
+    for cand in (base, base[:-1] if base.endswith("s") else base, base[:-2] if base.endswith("es") else base):
+        cand = _CLASS_ALIAS.get(cand, cand)
+        if cand == "Handysize" or cand in LEGACY_CLASSES:
+            return cand
+    return vessel_class
 
 
 def _num(x) -> str:
@@ -34,7 +61,8 @@ def sales_rows(ctxs: list[IssueContext]) -> list[dict]:
             for d in s.deals:
                 rows.append({
                     "issue_date": a.issue_date.isoformat(), "sector": SALES_SECTOR.get(s.name, s.name),
-                    "vessel_name": d.vessel_name, "vessel_class": d.vessel_class,
+                    "vessel_name": d.vessel_name,
+                    "vessel_class": canonical_class(s.name, d.vessel_class), "vessel_class_raw": d.vessel_class,
                     "dwt_spec": f"{d.size_text} {d.size_unit}".strip(), "built_date": d.built_text,
                     "yard": d.yard, "buyer": d.buyer, "price_usd_m": _num(d.price_usd_m),
                     "vv_value_usd_m": _num(d.vv_value_usd_m), "premium_pct": _num(d.premium_pct),
@@ -52,6 +80,8 @@ def matrix_series_rows(ctxs: list[IssueContext]) -> list[dict]:
     for ctx in ctxs:
         if ctx.matrix is None or ctx.matrix.status != "ok":
             continue
+        if ctx.matrix.image_date != ctx.article.issue_date.isoformat():
+            continue                    # the image is another week's table: never filed under this issue date
         for c in ctx.matrix.cells:
             if c.pct is None:          # N/A cell: no observation
                 continue

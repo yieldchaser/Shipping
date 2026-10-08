@@ -93,6 +93,13 @@ def cmd_fallback(args) -> int:
     return 0
 
 
+def cmd_promote(args) -> int:
+    from scripts.parse_engine_html.promote import main_cli
+    rep = main_cli(Path(args.out), Path(args.live), args.apply)
+    print(json.dumps(rep, indent=1, ensure_ascii=False))
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(prog="python -m scripts.parse_engine_html")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -100,7 +107,8 @@ def main(argv: list[str] | None = None) -> int:
                             ("survey", cmd_survey, "list the HTML/image formats found per year"),
                             ("vocab", cmd_vocab, "vessel-class vocabulary coverage"),
                             ("compare", cmd_compare, "staged vs existing series row counts"),
-                            ("fallback", cmd_fallback, "keep current matrix rows for failed issues where accurate")):
+                            ("fallback", cmd_fallback, "keep current matrix rows for failed issues where accurate"),
+                            ("promote", cmd_promote, "copy passing staged issues over the live MDs (dry run unless --apply)")):
         sp = sub.add_parser(name, help=help_)
         sp.add_argument("--src", default=str(DEFAULT_SRC))
         sp.add_argument("--out", default=str(DEFAULT_OUT))
@@ -114,6 +122,9 @@ def main(argv: list[str] | None = None) -> int:
                             help="new issues only: write MD/sidecar under --md-root and append their series rows to "
                                  "--existing-series; existing files and rows are never rewritten")
             sp.add_argument("--md-root", default="data/extracted/md/hellenic/vessel_valuations")
+        if name == "promote":
+            sp.add_argument("--live", default="data/extracted/md/hellenic/vessel_valuations")
+            sp.add_argument("--apply", action="store_true", help="write the files (default: dry run)")
         if name == "fallback":
             sp.add_argument("--threshold", type=float, default=0.98)
         sp.set_defaults(fn=fn)

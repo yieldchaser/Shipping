@@ -15,7 +15,8 @@ DEAL_HEADERS = ("Vessel", "Class", "Size", "Built", "Yard", "Buyer", "Price ($M)
                 "Premium (%)", "Comments")
 
 NO_MATRIX_IMAGE = "No matrix image"
-MATRIX_UNREADABLE = "Matrix image present but not machine-readable"
+MATRIX_UNREADABLE = "Matrix image not machine-readable"
+LOW_RES_PX = 1000                 # matrix images narrower than this (2026 archive: 600 px) cannot be read
 
 
 @dataclass
@@ -33,6 +34,8 @@ class IssueContext:
     matrix: MatrixResult | None = None
     matrix_image: str | None = None
     matrix_how: str = ""
+    matrix_px: tuple[int, int] | None = None
+    matrix_error: str = ""            # OCR engine failure (not a verdict on the image): matrix shown as not run
     duplicates: list[str] = field(default_factory=list)
     parsed_at: str = field(default_factory=lambda: datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
 
@@ -67,7 +70,8 @@ def deal_row(d) -> list[str]:
     else:
         price = d.price_raw or "n/a"
     prem = "" if d.premium_pct is None else f"{d.premium_pct:+.2f}"
-    return [d.vessel_name, d.vessel_class, size, d.built_text, d.yard, buyer, price,
+    cls = f"{d.count_text}x {d.vessel_class}" if d.count_text else d.vessel_class
+    return [d.vessel_name, cls, size, d.built_text, d.yard, buyer, price,
             _num(d.vv_value_usd_m), prem, d.comments_all]
 
 
@@ -117,7 +121,7 @@ def render_markdown(ctx: IssueContext) -> str:
         f"parser_version: {PARSER_VERSION}",
         f"matrix_ocr: {_yaml_str('rapidocr_onnxruntime (PP-OCR, local) matrix reader ' + MATRIX_VERSION)}",
         f"matrix_status: {ctx.matrix_status}",
-        f"matrix_image_date: {ctx.matrix.image_date if ctx.matrix and ctx.matrix.image_date else ''}",
+        f"matrix_image_date: {ctx.matrix.image_date if ctx.matrix and ctx.matrix.status == 'ok' and ctx.matrix.image_date else ''}",
         f"deals_parsed: {a.n_deals}",
         f"deals_unparsed: {a.n_unparsed}",
         f"parsed_at: {ctx.parsed_at}",
@@ -155,13 +159,17 @@ def render_markdown(ctx: IssueContext) -> str:
         out += [""]
     else:
         out += ["None (0).", ""]
-    out += [f"## {MATRIX_HEADING}", ""]
+    ok_matrix = ctx.matrix is not None and ctx.matrix.status == "ok"
+    out += [f"## {MATRIX_HEADING}" + (f" – {ctx.matrix.image_date or iso}" if ok_matrix else ""), ""]
     if ctx.matrix_image is None:
         out += [f"*{NO_MATRIX_IMAGE}.*", ""]
     elif ctx.matrix is None:
         out += [f"*Matrix OCR was not run for this build* ({ctx.matrix_image}).", ""]
     elif ctx.matrix.status != "ok":
-        out += [f"*{MATRIX_UNREADABLE}* ({ctx.matrix_image}).", ""]
+        out += [f"*{MATRIX_UNREADABLE}* ({ctx.matrix_image}). No matrix numbers are given for this issue.", ""]
+        if ctx.matrix_px and ctx.matrix_px[0] < LOW_RES_PX:
+            out += [f"The archived image is only {ctx.matrix_px[0]}x{ctx.matrix_px[1]} px, too small to read the "
+                    "figures reliably.", ""]
         if ctx.matrix is not None:
             for e in ctx.matrix.errors[:6]:
                 out += [f"- {e}"]

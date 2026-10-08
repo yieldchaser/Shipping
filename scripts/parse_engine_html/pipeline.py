@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import re
 from collections import Counter, defaultdict
 from concurrent.futures import ProcessPoolExecutor
@@ -38,6 +39,26 @@ def sha256_file(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
+def repo_rel(p: Path) -> Path:
+    """Repo-relative path (relative to the working directory); never absolute for files inside the repo."""
+    p = Path(os.path.normpath(p))
+    if p.is_absolute():
+        try:
+            return p.relative_to(Path.cwd().resolve())
+        except ValueError:
+            return p
+    return p
+
+
+def image_size(path: Path) -> tuple[int, int] | None:
+    try:
+        from PIL import Image
+        with Image.open(path) as im:
+            return im.size
+    except Exception:
+        return None
+
+
 def find_images(html: Path, art: Article) -> tuple[Path | None, Path | None, str]:
     """(matrix image, logo image, how the matrix was found). Companion `_img2.*` first, then a local asset
     referenced by the HTML; remote-only references are reported but not fetched."""
@@ -49,7 +70,7 @@ def find_images(html: Path, art: Article) -> tuple[Path | None, Path | None, str
         for ref in art.image_refs:
             if ref.startswith(("http://", "https://")):
                 continue
-            cand = (html.parent / ref).resolve()
+            cand = repo_rel(html.parent / ref)
             if cand.exists() and cand.suffix.lower() in IMG_EXTS:
                 matrix, how = cand, "html_asset"
                 break
@@ -107,12 +128,14 @@ def run(src: Path = DEFAULT_SRC, out: Path = DEFAULT_OUT, years: list[int] | Non
     ctxs: list[IssueContext] = []
     todo: list[tuple[Path, str]] = []
     for f, art in chosen:
-        ctx = IssueContext(article=art, source_rel=f.as_posix(), duplicates=dupes.get(f.name, []))
+        ctx = IssueContext(article=art, source_rel=repo_rel(f).as_posix(), duplicates=dupes.get(f.name, []))
         mat, logo, how = find_images(f, art)
+        mat, logo = (repo_rel(mat) if mat else None), (repo_rel(logo) if logo else None)
         if logo:
             ctx.images.append(ImageRef(logo.as_posix(), sha256_file(logo), "logo"))
         if mat:
             ctx.matrix_image = mat.name
+            ctx.matrix_px = image_size(mat)
             ctx.images.append(ImageRef(mat.as_posix(), sha256_file(mat), "matrix"))
             todo.append((mat, art.issue_date.isoformat()))
         ctx.matrix_how = how
@@ -137,10 +160,18 @@ def run(src: Path = DEFAULT_SRC, out: Path = DEFAULT_OUT, years: list[int] | Non
     for ctx in ctxs:
         mat_ref = next((i for i in ctx.images if i.role == "matrix"), None)
         if mat_ref and mat_ref.path in results:
-            ctx.matrix = results[mat_ref.path]
+            if results[mat_ref.path].status == "error":      # engine failure: not a verdict, retried next run
+                ctx.matrix, ctx.matrix_error = None, "; ".join(results[mat_ref.path].errors)[:300]
+            else:
+                ctx.matrix = results[mat_ref.path]
         elif mat_ref and not do_matrix:
             ctx.matrix = None
 
+    bench = reconcile_benchmarks(ctxs, prior_benchmarks(existing_series) if incremental else None)
+    deferred = [c for c in ctxs if c.matrix_error]
+    if incremental:
+        # an issue whose matrix engine failed is not final: write nothing, so the next run parses it again
+        ctxs = [c for c in ctxs if not c.matrix_error]
     written = []
     for ctx in ctxs:
         a = ctx.article
@@ -165,9 +196,97 @@ def run(src: Path = DEFAULT_SRC, out: Path = DEFAULT_OUT, years: list[int] | Non
     comparison = compare(sales, matrix, existing_series)
 
     report = build_report(ctxs, chosen, skipped, dupes, duplicate_files, results, ref_report, comparison, written, do_matrix)
+    report["matrix"]["benchmark_reconcile"] = bench
+    report["matrix"]["engine_errors"] = [
+        {"issue_date": c.article.issue_date.isoformat(), "error": c.matrix_error} for c in deferred]
     out.mkdir(parents=True, exist_ok=True)
     (out / "_report.json").write_text(json.dumps(report, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     return report
+
+
+MAX_ISSUE_GAP_DAYS = 9          # 'adjacent' = the next/previous weekly issue, not merely the next ok one
+MIN_RUN = 4                     # a size that differs from the consensus survives only in a run of >= 4 weekly issues
+LONG_RUN = 8                    # ... and a run shorter than this only if it is not a single confusable-digit slip
+CONFUSABLE = {frozenset(p) for p in
+              [(a, b) for a in "035689" for b in "035689" if a < b] + [("1", "7"), ("2", "7")]}
+
+
+def confusable(read: str, consensus: str) -> bool:
+    """True if `read` is `consensus` with exactly one digit replaced by a look-alike (0/3/5/6/8/9, 1/7, 2/7)."""
+    ra, ca = read.rstrip("k"), consensus.rstrip("k")
+    if read.endswith("k") != consensus.endswith("k") or len(ra) != len(ca):
+        return False
+    diff = [(x, y) for x, y in zip(ra, ca) if x != y]
+    return len(diff) == 1 and frozenset(diff[0]) in CONFUSABLE
+
+
+def _weekly(a, b) -> bool:
+    return abs((b.article.issue_date - a.article.issue_date).days) <= MAX_ISSUE_GAP_DAYS
+
+
+def prior_benchmarks(existing_series: Path) -> dict:
+    """{(group, column, age): Counter(size)} from the existing matrix series (incremental runs have few new issues)."""
+    from collections import Counter
+    from scripts.parse_engine_html.matrix import COLUMNS
+    key = {f"{g} {c}": (g, c) for g, c in COLUMNS}
+    out: dict = defaultdict(Counter)
+    f = existing_series / "hellenic_vv_matrix_series.csv"
+    if f.exists():
+        import csv
+        with f.open(newline="", encoding="utf-8") as fh:
+            for r in csv.DictReader(fh):
+                k = key.get(r.get("vessel_class", "").strip())
+                size = (r.get("benchmark_size") or "").strip().lower()
+                if k and size and size != "n/a" and r.get("age_years", "").isdigit():
+                    out[(k[0], k[1], int(r["age_years"]))][size] += 1
+    return out
+
+
+def reconcile_benchmarks(ctxs, prior: dict | None = None) -> dict:
+    """Benchmark sizes are near-constant per (column, age) with rare step changes, and the OCR can misread the same
+    glyph identically in every render. An OCR'd size is therefore kept only if it equals the consensus (mode over all
+    ok issues) of its (column, age), or is read in that cell in a run of >= MIN_RUN consecutive weekly issues (a failed or missing issue
+    breaks the run). Anything else is blanked and noted in the sidecar (raw reads stay there).
+    Percentages are never touched. Returns blanked cells and the deviations that survived."""
+    from collections import Counter
+    ok = sorted((c for c in ctxs if c.matrix is not None and c.matrix.status == "ok"),
+                key=lambda c: c.article.issue_date)
+    mode: dict = defaultdict(Counter)
+    for k, cnt in (prior or {}).items():
+        mode[k].update(cnt)
+    for c in ok:
+        for cell in c.matrix.cells:
+            if cell.ref_text and cell.ref_text != "N/A":
+                mode[(cell.group, cell.column, cell.age)][cell.ref_text] += 1
+    orig = [{(cl.group, cl.column, cl.age): cl.ref_text for cl in c.matrix.cells} for c in ok]
+    blanked, survived = [], []
+    for i, c in enumerate(ok):
+        for cell in c.matrix.cells:
+            r = cell.ref_text
+            if not r or r == "N/A":
+                continue
+            k = (cell.group, cell.column, cell.age)
+            cons = mode[k].most_common(1)[0][0]
+            if r == cons:
+                continue
+            lo = hi = i                  # run of consecutive weekly ok issues reading this same size in this cell
+            while lo > 0 and orig[lo - 1].get(k) == r and _weekly(ok[lo - 1], ok[lo]):
+                lo -= 1
+            while hi < len(ok) - 1 and orig[hi + 1].get(k) == r and _weekly(ok[hi], ok[hi + 1]):
+                hi += 1
+            tag = {"issue_date": c.article.issue_date.isoformat(), "cell": f"{cell.group}/{cell.column} age {cell.age}",
+                   "read": r, "consensus": cons, "run": hi - lo + 1}
+            run = hi - lo + 1
+            if run >= LONG_RUN or (run >= MIN_RUN and not confusable(r, cons)):
+                survived.append(tag)
+                continue
+            ref_band = next((b for b in c.matrix.bands if (b.age, b.group, b.column, b.kind) == (
+                cell.age, cell.group, cell.column, "ref")), None)
+            cell.raw_ref = [x[2] for x in ref_band.reads] if ref_band and ref_band.reads else [r]
+            cell.notes.append("benchmark left blank: differs from the column/age consensus and from adjacent issues")
+            cell.ref_text, cell.ref_size = "", None
+            blanked.append(tag)
+    return {"blanked": blanked, "surviving_deviations": survived}
 
 
 def build_report(ctxs, chosen, skipped, dupes, duplicate_files, results, ref_report, comparison, written, do_matrix):

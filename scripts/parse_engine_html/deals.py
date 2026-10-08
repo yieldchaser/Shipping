@@ -80,6 +80,7 @@ class Deal:
     vessel_class: str = ""
     vessel_name: str = ""
     n_vessels: int | None = None
+    count_text: str = ""          # leading vessel count as written ("5", "2/3"): shown as "5x" in the deal row
     size: float | None = None
     size_text: str = ""
     size_unit: str = ""
@@ -247,6 +248,7 @@ def parse_deal_line(text: str, sector: str = "") -> ParseResult:
     count = cm.group("count")
     if count:
         d.flags.append("count_prefix")
+        d.count_text = count
         d.n_vessels = int(count) if count.isdigit() else None
     last_word = re.sub(r"\s*\(.*\)$", "", d.vessel_class).split()[-1].lower()
     plural_class = last_word.endswith("s")

@@ -107,8 +107,9 @@ def test_leading_digit_is_never_repaired_only_accepted_when_ink_is_wide():
     assert normalise_pct("+10.4%", "+", wide=False)[0] == "+10.4%"     # explicit sign glyph read: genuine
 
 
-def test_zero_is_never_negative_zero():
-    assert normalise_pct("-0.0%", "-")[0] == "0.0%"
+def test_zero_keeps_a_printed_minus_only():
+    assert normalise_pct("-0.0%", "-")[0] == "-0.0%"
+    assert normalise_pct("0.0%", "")[0] == "0.0%"
     assert normalise_pct("+0.0%", "+")[0] == "0.0%"
     assert normalise_pct("0.0%", "")[0] == "0.0%"
 
@@ -143,11 +144,12 @@ def _band(kind, texts, sign="", group="Tankers", col="Afra", wide=False):
 
 
 def test_benchmark_needs_two_agreeing_renders_and_range():
-    assert decide_band(_band("ref", ["110k", "110k", "710k"]))[0] == "110k"
+    assert decide_band(_band("ref", ["110k", "110k", "110k", "710k"]))[0] == "110k"
+    assert decide_band(_band("ref", ["110k", "110k", "710k"]))[0] is None           # only 1 vote ahead
     assert decide_band(_band("ref", ["710k", "710k", "710k"]))[0] is None            # agreed but impossible
     assert decide_band(_band("ref", ["110k"]))[0] is None                          # single render: no size
     assert decide_band(_band("ref", ["110k", "710k"]))[0] is None                  # disagreement: no size
-    assert decide_band(_band("ref", ["N/A", "N/A", "11k"]))[0] == "N/A"
+    assert decide_band(_band("ref", ["N/A", "N/A", "N/A", "11k"]))[0] == "N/A"
 
 
 def test_value_needs_two_agreeing_renders():
@@ -183,12 +185,39 @@ def _result(date_reads, image_date_reads_ok=True):
 
 def test_ok_matrix_requires_image_date_equal_to_article_date():
     assert finalize(_result(["07 March 2023", "07 March 2023"]), "2023-03-07").status == "ok"
+    other = finalize(_result(["07 March 2023", "07 March 2023"]), "2023-03-14")
+    assert other.status == "ok" and other.image_date == "2023-03-07" and "differs from the issue date" in other.warnings[0]
     wrong = finalize(_result(["07 March 2023"]), "2023-03-14")
-    assert wrong.status == "failed" and "does not match" in wrong.errors[0]
+    assert wrong.status == "failed" and "could not be read" in wrong.errors[0]
     empty = finalize(_result([]), "2023-03-07")
     assert empty.status == "failed" and "None" in empty.errors[0]
     bad_year = finalize(_result(["06 May 7075", "06 May 7075"]), "2025-05-06")
     assert bad_year.status == "failed"            # '7075' is an OCR error, never accepted as a date
+
+
+def test_differing_label_is_accepted_only_as_whole_weeks_stale():
+    def fin(label, article):
+        return finalize(_result([label, label]), article)
+    stale = fin("27 May 2025", "2025-06-03")                         # genuine one-week-stale image
+    assert stale.status == "ok" and stale.image_date == "2025-05-27" and stale.warnings
+    assert fin("20 May 2025", "2025-06-03").status == "ok"            # two weeks
+    assert fin("13 May 2025", "2025-06-03").status == "failed"        # three weeks: not accepted
+    for label, article in (("07 May 2025", "2025-05-27"),            # day digit 27 -> 7
+                           ("08 August 2021", "2023-08-08"),         # year misread
+                           ("03 March 2026", "2026-03-31"),
+                           ("03 October 2023", "2023-10-31")):      # 28 days: a misread, never a stale image
+        res = fin(label, article)
+        assert res.status == "failed" and any("date label unreliable" in e for e in res.errors), (label, res.errors)
+    assert fin("01 August 2025", "2025-08-12").status == "failed"
+    assert fin("04 April 2025", "2025-06-03").status == "failed"       # 60 days: more than 8 weeks
+
+
+def test_date_label_fields_are_voted_separately():
+    # the tiny label loses a different field in each render (real reads of the 2025-06-17 image)
+    reads = ["17 June: 7075", "17 Jne: 7075", "17 June 7075", "17 2025", "172025", "17 kv 2025", "17k2025"]
+    assert decide_date(reads) == "2025-06-17"
+    assert decide_date(["17 June 7075", "17 2025"]) is None            # one vote per field is not agreement
+    assert decide_date(["17 June 2025", "17 June 2025", "17 May 2025", "17 May 2025"]) is None
 
 
 def test_decide_date_prefers_plausible_year_among_renders():
@@ -197,7 +226,9 @@ def test_decide_date_prefers_plausible_year_among_renders():
 
 
 def test_vote_needs_agreement():
-    assert vote(["+0.5%", "+0.5%", "+0.6%"]) == ("+0.5%", "")
+    assert vote(["+0.5%", "+0.5%", "+0.5%", "+0.6%"]) == ("+0.5%", "")
+    assert vote(["+0.5%", "+0.5%", "+0.6%"])[0] is None            # winner must be 2 votes ahead
+    assert "+0.6%" not in vote(["+0.5%", "+0.6%"])[1]                 # reasons never carry readings
     assert vote(["+0.5%"])[0] is None
     assert vote(["+0.5%", "+0.6%"])[0] is None
     assert vote([])[0] is None

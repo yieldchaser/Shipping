@@ -29,7 +29,7 @@ def staged_cells(tables_dir: Path) -> tuple[dict, set[str]]:
         m = d.get("matrix")
         if not d.get("issue_date") or m is None:
             continue
-        if m["status"] != "ok":
+        if m["status"] != "ok" or m.get("image_date") != d["issue_date"]:
             failed.add(d["issue_date"])
             continue
         for c in m["cells"]:
