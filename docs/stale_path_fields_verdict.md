@@ -157,3 +157,20 @@ NOT hand-edited, deliberately:
 
 For the user: a digest-tier regeneration (or an explicit override list) closes this; it needs network
 access to HSN, so it was not run unattended.
+
+## Cross-check: where the old `reports/` prefix still survives anywhere in the corpus
+
+Targeted `grep -rlE '^(raw_pdf_path|source_file|source_pdf|md_file|html_path|pdf_path|local_path): *"?reports/'`
+per corpus group, i.e. only OLD-PREFIX PATH FIELDS (not content mentions):
+
+| corpus group | files with an old `reports/` path field |
+|---|---|
+| 01-brokers | **33** - all of them `_digests/<pub>/2026/*.md` (Defect 5) |
+| 02-hellenic, 03-breakwave, 04-poten, 05-seabrokers, 06-drewry, 07-signal, 08-baltic, 09-ppa, 10-companies, archive | **0** |
+
+So the migration is clean everywhere except the digest tier, and the digest tier is a regenerable
+knowledge output whose builder is already fixed. The `check_old_path_refs.py` hit counts (27,902 for
+`reports/hellenic`, 46,677 for `reports/breakwave`, 17,215 for `reports/poten`, ...) are dominated by
+CONTENT MENTIONS inside `data/stashed_redundant_sources/` and `docs/` - the skill's kind 3, which must
+NOT be rewritten (rewriting it corrupts extracted article content). `knowledge/derived/topic_evidence.jsonl`
+is kind 3 as well (regenerable), not a reference to repair by hand.
