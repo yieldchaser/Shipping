@@ -8,8 +8,9 @@ from scripts.md_cleanup import carriers_fix as cf
 
 PDF = Path(r"C:\Users\Dell\Github\Shipping\corpus\01-brokers\carriers\2025"
            r"\carriers_2025_W21_WK-21-25-CARRIERS_SP-MARKET-REPORT.pdf")
-MD = cf.REPO_ROOT / cf.MD_ROOT_REL / "2025" / "carriers_2025_W21_WK-21-25-CARRIERS_SP-MARKET-REPORT.md"
-needs_files = pytest.mark.skipif(not (PDF.exists() and MD.exists()), reason="local-only PDF/MD missing")
+# pre-fix W21 MD, committed so tests do not depend on the live (already fixed) MD
+MD = Path(__file__).parent / "fixtures" / "carriers" / "carriers_2025_W21_prefix.md"
+needs_files = pytest.mark.skipif(not PDF.exists(), reason="local-only PDF missing")
 
 
 def test_split_join_roundtrip():
