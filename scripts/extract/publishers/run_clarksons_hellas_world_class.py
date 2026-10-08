@@ -33,6 +33,11 @@ import logging
 import os
 import re
 import sys
+
+if __name__ == "__main__" and os.environ.get("ALLOW_LEGACY_CLARKSONS_EXTRACT") != "1":   # before any heavy import
+    raise SystemExit("run_clarksons: disabled - Clarksons is parsed with `python -m scripts.parse_engine` "
+                     "(run -> promote --apply -> series). Set ALLOW_LEGACY_CLARKSONS_EXTRACT=1 to override "
+                     "(existing files are still never overwritten).")
 import time
 from datetime import datetime
 from pathlib import Path

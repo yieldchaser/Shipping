@@ -19,6 +19,11 @@ import json
 import os
 import re
 import sys
+
+if __name__ == "__main__" and os.environ.get("ALLOW_LEGACY_VV_EXTRACT") != "1":      # before any heavy import
+    raise SystemExit("%s: disabled - VesselsValue is parsed with `python -m scripts.parse_engine_html vv`. "
+                     "Set ALLOW_LEGACY_VV_EXTRACT=1 to override (existing files are still never overwritten)."
+                     % os.path.basename(__file__))
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
