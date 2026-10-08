@@ -40,11 +40,11 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W51_WK-51-23-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SSL DELHI | CV | 33.912 | 10.669 | 2000 | GmbH - Wismar Nippon Kokan KK | 532.0 |  | 100 MT BUNKERS INC. |
-| JIN HAI XI | BC | 28.615 | 5.937 | 1995 | (NKK Corp) - Yokohama KN (Tsurumi Shipyard) Guangzhou | 506.0 | INDIA |  |
-| TJ ORHAN | CV | 20.631 | 7.36 | 1998 | Wenchong Shipyard - Guangzhou GD Jiangdong Shipyard | 560.0 | INDIA | INC. BUNKERS AS IS |
+| SSL DELHI | CV | 33.912 | 10.669 | 2000 | GmbH - Wismar Nippon Kokan KK | 532 |  | 100 MT BUNKERS INC. |
+| JIN HAI XI | BC | 28.615 | 5.937 | 1995 | (NKK Corp) - Yokohama KN (Tsurumi Shipyard) Guangzhou | 506 | INDIA |  |
+| TJ ORHAN | CV | 20.631 | 7.36 | 1998 | Wenchong Shipyard - Guangzhou GD Jiangdong Shipyard | 560 | INDIA | INC. BUNKERS AS IS |
 | CORSICA | MPP | 6.404 | 3.926 | 2001 | - Wuhu AH |  |  | SINGAPORE DAMAGED |
-| SHUN SHIN | GE | 2.508 | 520.0 | 2005 | FUZHOU FUKAI SHIPBUILD |  | UNDISCLOSED |  |
+| SHUN SHIN | GE | 2.508 | 520 | 2005 | FUZHOU FUKAI SHIPBUILD |  | UNDISCLOSED |  |
 
 ## Newbuilding Market
 
@@ -68,9 +68,9 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W51_WK-51-23-CARRIERS_SP-
 
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Subcontinent | 15000 - 25000 | 506.16 | UP |
-| Containers | Subcontinent | 6000 - 10000 |  |  |
-| Bulkers | Subcontinent | 7000 - 12000 | 500.27 | UP |
+| Tankers | Subcontinent | 15000 - 25000 | 506.16 | DOWN |
+| Containers | Subcontinent | 6000 - 10000 | N/A |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 500.27 | DOWN |
 
 ## Market & Baltic Indices
 
@@ -79,41 +79,41 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W51_WK-51-23-CARRIERS_SP-
 | Sale and Purchase Index | DSPA | 3.272 |  |  | UP |
 | Sale and Purchase Index | BSPA | 5.219 |  |  | UP |
 | Sale and Purchase Index | TSPA | 7.167 |  |  | UP |
-| Recycling Index | DSRA | 7.009 |  |  | UP |
-| Recycling Index | TSRA | 12.384 |  |  | UP |
-| Recycling Index | BSRA | 9.697 |  |  | UP |
+| Recycling Index | DSRA | 7.009 |  |  | DOWN |
+| Recycling Index | TSRA | 12.384 |  |  | DOWN |
+| Recycling Index | BSRA | 9.697 |  |  | DOWN |
 | Newbuilding Index | BNBI |  |  |  |  |
 | Newbuilding Index | DNBI |  |  |  |  |
 | Newbuilding Index | TNBI |  |  |  |  |
-| Baltic Dry Indices | BDI | 2288.0 | 471.0 | 1817.0 |  |
-| Baltic Dry Indices | BCI | 3936.0 | 1229.0 | 2707.0 |  |
-| Baltic Dry Indices | BPI | 1906.0 | -9.0 | 1915.0 |  |
-| Baltic Dry Indices | BSI | 1419.0 | 202.0 | 1217.0 |  |
-| Baltic Dry Indices | BHSI | 907.0 | 302.0 | 605.0 |  |
+| Baltic Dry Indices | BDI | 2288 | 471 | 1817 |  |
+| Baltic Dry Indices | BCI | 3936 | 1229 | 2707 |  |
+| Baltic Dry Indices | BPI | 1906 | -9 | 1915 |  |
+| Baltic Dry Indices | BSI | 1419 | 202 | 1217 |  |
+| Baltic Dry Indices | BHSI | 907 | 302 | 605 |  |
 
 ## Dry BC Baltic Time Charter Weighted Average routes
 
 | Route / Class | This WK ($/day) | Week Ch. ($/day) | Prev. WK ($/day) |
 | --- | --- | --- | --- |
-| CAPE 180K | 32639.0 | 10192.0 | 22447.0 |
-| TESS 82K | 17155.0 | -80.0 | 17235.0 |
-| LME 74K | 15819.0 | -80.0 | 15899.0 |
+| CAPE 180K | 32639 | 10192 | 22447 |
+| TESS 82K | 17155 | -80 | 17235 |
+| LME 74K | 15819 | -80 | 15899 |
 | SUPRA 63K | 17778.0 | 4389.0 | 13389.0 |
-| HANDY 38K | 15608.0 | 4720.0 | 10888.0 |
+| HANDY 38K | 15608 | 4720 | 10888 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
 
 | Vessel Class | Tenor | Rate ($/day) | Rate Raw |
 | --- | --- | --- | --- |
-| CAPE 180k | SHORT | 23000.0 | 23,000 |
-| KAMSAR 82k | SHORT | 15000.0 | 15,000 |
-| PANAMAX 76k | SHORT | 14000.0 | 14,000 |
+| CAPE 180k | SHORT | 23000 | 23,000 |
+| KAMSAR 82k | SHORT | 15000 | 15,000 |
+| PANAMAX 76k | SHORT | 14000 | 14,000 |
 | UMAX | SHORT |  | ATL 24,000 PAC 14,000 |
 | SUPRA TESS 58k | SHORT |  | ATL 21,500 PAC 12,500 |
 | HANDY 32k | SHORT |  | N/A |
-| CAPE 180k | 1-YR | 18500.0 | 18,500 |
-| KAMSAR 82k | 1-YR | 14500.0 | 14,500 |
-| PANAMAX 76k | 1-YR | 13500.0 | 13,500 |
+| CAPE 180k | 1-YR | 18500 | 18,500 |
+| KAMSAR 82k | 1-YR | 14500 | 14,500 |
+| PANAMAX 76k | 1-YR | 13500 | 13,500 |
 | UMAX | 1-YR |  | ATL 16,500 PAC 14,500 |
 | SUPRA TESS 58k | 1-YR |  | ATL 14,500 PAC 13,000 |
 | HANDY 32k | 1-YR |  | N/A |
@@ -134,9 +134,9 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W51_WK-51-23-CARRIERS_SP-
 
 | Metric Name | This WK | Week Ch. | Previous |
 | --- | --- | --- | --- |
-| Baltic DIRTY Tanker Index | 1116.0 | -194.0 | 1310.0 |
-| Baltic CLEAN Tanker Index | 949.0 | 87.0 | 862.0 |
-| VLCC TCE | 19.732 | -11854.0 | 31.586 |
-| SUEZ TCE | 46.165 | -2967.0 | 49.132 |
-| AFRA TCE | 39.443 | -16093.0 | 55.536 |
-| MR ATLANTIC TC routes | 44.077 | -2430.0 | 46.507 |
+| Baltic DIRTY Tanker Index | 1116 | -194 | 1310 |
+| Baltic CLEAN Tanker Index | 949 | 87 | 862 |
+| VLCC TCE | 19732 | -11854 | 31586 |
+| SUEZ TCE | 46165 | -2967 | 49132 |
+| AFRA TCE | 39443 | -16093 | 55536 |
+| MR ATLANTIC TC routes | 44077 | -2430 | 46507 |

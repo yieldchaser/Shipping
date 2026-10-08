@@ -16,36 +16,36 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W11_WK-11-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ALIADO | BC | 177022.0 | 2005 | Namura Shipbuilding - Imari | 19.10 | UNDISCLOSED |  |
-| COPERNICUS N | BC | 93062.0 | 2010 | Taizhou Kouan Shipbuilding | 12.35 | UNDISCLOSED |  |
-| ST. DIMITRIOS | BC | 82688.0 | 2007 | Tsuneishi Holdings Fukuyama | 13.00 | UNDISCLOSED |  |
-| CCS ORCHID | BC | 81966.0 | 2017 | Jiangsu Newyangzi | 27.24 | BRIGHT NAVIGATION | AUCTION SALE |
-| TRABZON | BC | 81660.0 | 2011 | Hyundai Mipo Dockyard Co | 17.50 | UNDISCLOSED |  |
-| OCEAN LION | BC | 75656.0 | 2005 | Sanoyas Hishino Meisho Corp | 10.00 | UNDISCLOSED |  |
-| ABILITY | BC | 64253.0 | 2021 | Shin Kurushima Onishi | 37.00 | UNDISCLOSED |  |
-| SINOP | BC | 63200.0 | 2013 | Yangzhou Dayang | 22.50 | GREEK |  |
-| PAPA JOHN | BC | 56543.0 | 2010 | Qingshan Shipyard | 13.20 | CHINESE |  |
-| SOMNATH | BC | 55707.0 | 2005 | Oshima Shipbuilding Co Ltd | 8.60 | CHINESE |  |
-| CL CONTIGO | BC | 40799.0 | 2015 | Jiangsu Hantong Ship HI | 19.50 | UNDISCLOSED |  |
-| PACIFIC HARMONY | BC | 38139.0 | 2013 | Imabari Shbldg - Imabari | 18.20 | GREEK |  |
-| DL LAVENDER | BC | 35194.0 | 2014 | SPP Shipbuilding - Tongyeong | 15.80 | GREEK |  |
-| AFRICAN OWL | BC | 34382.0 | 2016 | Namura Shipbuilding - Imari | 18.50 | UNDISCLOSED |  |
-| AFRICAN WEAVER | BC | 34369.0 | 2016 | Namura Shipbuilding - Imari | 18.50 | UNDISCLOSED |  |
-| S FONTVIEILLE | TANKER | 49990.0 | 2013 | Hyundai Mipo Dockyard Co | 32.50 | GREEK |  |
-| FJELLANGER | TANKER | 46287.0 | 2010 | Hyundai Mipo Dockyard Co | 48.00 EN BLOC | EUROPEAN | ZINC COATED |
-| FINNANGER | TANKER | 46251.0 | 2009 | Hyundai Mipo Dockyard Co | 48.00 EN BLOC | EUROPEAN | ZINC COATED |
-| BUM SHIN | TANKER | 19997.0 | 2003 | Shin Kurushima Akitsu | 7.50 | CHINESE |  |
-| ASIA EVERGREEN | TANKER | 14000.0 | 2012 | Fujian Shenglong SB | XS 9.00 | UNDISCLOSED |  |
-| FELIXSTOWE | CV | 50790.0 | 2002 | Samsung Heavy Inds - Geoje | 18.00 | GREEK | 4,253 TEU |
-| SUNNY PHOENIX | CV | 50789.0 | 2002 | Samsung Heavy Inds - Geoje | 18.00 | GREEK | 4,253 TEU |
-| SONGA WOLF | CV | 23732.0 | 2007 | Guangzhou Wenchong | 19.00 | UNDISCLOSED | 1,700 TEU |
+| ALIADO | BC | 177022 | 2005 | Namura Shipbuilding - Imari | 19.10 | UNDISCLOSED |  |
+| COPERNICUS N | BC | 93062 | 2010 | Taizhou Kouan Shipbuilding | 12.35 | UNDISCLOSED |  |
+| ST. DIMITRIOS | BC | 82688 | 2007 | Tsuneishi Holdings Fukuyama | 13.00 | UNDISCLOSED |  |
+| CCS ORCHID | BC | 81966 | 2017 | Jiangsu Newyangzi | 27.24 | BRIGHT NAVIGATION | AUCTION SALE |
+| TRABZON | BC | 81660 | 2011 | Hyundai Mipo Dockyard Co | 17.50 | UNDISCLOSED |  |
+| OCEAN LION | BC | 75656 | 2005 | Sanoyas Hishino Meisho Corp | 10.00 | UNDISCLOSED |  |
+| ABILITY | BC | 64253 | 2021 | Shin Kurushima Onishi | 37.00 | UNDISCLOSED |  |
+| SINOP | BC | 63200 | 2013 | Yangzhou Dayang | 22.50 | GREEK |  |
+| PAPA JOHN | BC | 56543 | 2010 | Qingshan Shipyard | 13.20 | CHINESE |  |
+| SOMNATH | BC | 55707 | 2005 | Oshima Shipbuilding Co Ltd | 8.60 | CHINESE |  |
+| CL CONTIGO | BC | 40799 | 2015 | Jiangsu Hantong Ship HI | 19.50 | UNDISCLOSED |  |
+| PACIFIC HARMONY | BC | 38139 | 2013 | Imabari Shbldg - Imabari | 18.20 | GREEK |  |
+| DL LAVENDER | BC | 35194 | 2014 | SPP Shipbuilding - Tongyeong | 15.80 | GREEK |  |
+| AFRICAN OWL | BC | 34382 | 2016 | Namura Shipbuilding - Imari | 18.50 | UNDISCLOSED |  |
+| AFRICAN WEAVER | BC | 34369 | 2016 | Namura Shipbuilding - Imari | 18.50 | UNDISCLOSED |  |
+| S FONTVIEILLE | TANKER | 49990 | 2013 | Hyundai Mipo Dockyard Co | 32.50 | GREEK |  |
+| FJELLANGER | TANKER | 46287 | 2010 | Hyundai Mipo Dockyard Co | 48.00 EN BLOC | EUROPEAN | ZINC COATED |
+| FINNANGER | TANKER | 46251 | 2009 | Hyundai Mipo Dockyard Co | 48.00 EN BLOC | EUROPEAN | ZINC COATED |
+| BUM SHIN | TANKER | 19997 | 2003 | Shin Kurushima Akitsu | 7.50 | CHINESE |  |
+| ASIA EVERGREEN | TANKER | 14000 | 2012 | Fujian Shenglong SB | XS 9.00 | UNDISCLOSED |  |
+| FELIXSTOWE | CV | 50790 | 2002 | Samsung Heavy Inds - Geoje | 18.00 | GREEK | 4,253 TEU |
+| SUNNY PHOENIX | CV | 50789 | 2002 | Samsung Heavy Inds - Geoje | 18.00 | GREEK | 4,253 TEU |
+| SONGA WOLF | CV | 23732 | 2007 | Guangzhou Wenchong | 19.00 | UNDISCLOSED | 1,700 TEU |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| JIN JIANG | BC | 172549.0 | 21238.0 | 2000 | Nippon Kokan | 433.0 | INCL. | AS IS CHINA BUNKERS |
-| ENERGIA | BC | 105752.0 | 19585.0 | 2001 | Imabari Shipbuilding | 418.0 | INCL. | AS IS JAPAN BUNKERS |
+| JIN JIANG | BC | 172549 | 21238 | 2000 | Nippon Kokan | 433 | INCL. | AS IS CHINA BUNKERS |
+| ENERGIA | BC | 105752 | 19585 | 2001 | Imabari Shipbuilding | 418 | INCL. | AS IS JAPAN BUNKERS |
 
 ## Newbuilding Market
 
@@ -71,7 +71,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W11_WK-11-26-CARRIERS_SP-
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
 | Tankers | Subcontinent | 15000 - 25000 | 443.5 | UP |
-| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Containers | Subcontinent | 6000 - 10000 | N/A |  |
 | Bulkers | Subcontinent | 7000 - 12000 | 429.45 | UP |
 
 ## Market & Baltic Indices
@@ -86,36 +86,36 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W11_WK-11-26-CARRIERS_SP-
 | Recycling Index | BSRA |  |  |  |  |
 | Newbuilding Index | BNBI |  |  |  |  |
 | Newbuilding Index | DNBI | 4.905 |  |  | UP |
-| Newbuilding Index | TNBI | 7.6 |  |  | UP |
-| Baltic Dry Indices | BDI | 2038.0 | -28.0 | 2066.0 |  |
-| Baltic Dry Indices | BCI | 2927.0 | 92.0 | 2835.0 |  |
-| Baltic Dry Indices | BPI | 1836.0 | -78.0 | 1914.0 |  |
-| Baltic Dry Indices | BSI | 1268.0 | -105.0 | 1373.0 |  |
-| Baltic Dry Indices | BHSI | 788.0 | -45.0 | 833.0 |  |
+| Newbuilding Index | TNBI | 7.600 |  |  | UP |
+| Baltic Dry Indices | BDI | 2038 | -28 | 2066 |  |
+| Baltic Dry Indices | BCI | 2927 | 92 | 2835 |  |
+| Baltic Dry Indices | BPI | 1836 | -78 | 1914 |  |
+| Baltic Dry Indices | BSI | 1268 | -105 | 1373 |  |
+| Baltic Dry Indices | BHSI | 788 | -45 | 833 |  |
 
 ## Dry BC Baltic Time Charter Weighted Average routes
 
 | Route / Class | This WK ($/day) | Week Ch. ($/day) | Prev. WK ($/day) |
 | --- | --- | --- | --- |
-| CAPE 180K | 26543.0 | 833.0 | 25710.0 |
-| TESS 82K | 16528.0 | -695.0 | 17223.0 |
+| CAPE 180K | 26543 | 833 | 25710 |
+| TESS 82K | 16528 | -695 | 17223 |
 | LME 74K |  |  |  |
-| SUPRA 63K | 16030.0 | -1325.0 | 17355.0 |
-| HANDY 38K | 14186.0 | -816.0 | 15002.0 |
+| SUPRA 63K | 16030 | -1325 | 17355 |
+| HANDY 38K | 14186 | -816 | 15002 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
 
 | Vessel Class | Tenor | Rate ($/day) | Rate Raw |
 | --- | --- | --- | --- |
-| CAPE 180k | SHORT | 24000.0 | 24,000 |
-| KAMSAR 82k | SHORT | 18500.0 | 18,500 |
-| PANAMAX 76k | SHORT | 17000.0 | 17,000 |
+| CAPE 180k | SHORT | 24000 | 24,000 |
+| KAMSAR 82k | SHORT | 18500 | 18,500 |
+| PANAMAX 76k | SHORT | 17000 | 17,000 |
 | UMAX | SHORT |  | ATL 17,000 PAC 17,000 |
 | SUPRA TESS 58k | SHORT |  | ATL 15,000 PAC 15,000 |
 | HANDY 32k | SHORT |  | N/A |
-| CAPE 180k | 1-YR | 26000.0 | 26,000 |
-| KAMSAR 82k | 1-YR | 17000.0 | 17,000 |
-| PANAMAX 76k | 1-YR | 15500.0 | 15,500 |
+| CAPE 180k | 1-YR | 26000 | 26,000 |
+| KAMSAR 82k | 1-YR | 17000 | 17,000 |
+| PANAMAX 76k | 1-YR | 15500 | 15,500 |
 | UMAX | 1-YR |  | ATL 17,500 PAC 17,500 |
 | SUPRA TESS 58k | 1-YR |  | ATL 15,500 PAC 15,500 |
 | HANDY 32k | 1-YR |  | N/A |
@@ -136,9 +136,9 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W11_WK-11-26-CARRIERS_SP-
 
 | Metric Name | This WK | Week Ch. | Previous |
 | --- | --- | --- | --- |
-| Baltic DIRTY Tanker Index | 2849.0 | -191.0 | 3040.0 |
-| Baltic CLEAN Tanker Index | 1455.0 | -130.0 | 1585.0 |
-| VLCC TCE | 272.144 | -16886.0 | 289.03 |
-| SUEZ TCE | 174.721 | -14526.0 | 189.247 |
-| AFRA TCE | 88.978 | -29713.0 | 118.691 |
-| MR ATLANTIC TC routes | 70.478 | -6614.0 | 77.092 |
+| Baltic DIRTY Tanker Index | 2849 | -191 | 3040 |
+| Baltic CLEAN Tanker Index | 1455 | -130 | 1585 |
+| VLCC TCE | 272.144 | -16886 | 289.03 |
+| SUEZ TCE | 174721 | -14526 | 189247 |
+| AFRA TCE | 88978 | -29713 | 118691 |
+| MR ATLANTIC TC routes | 70478 | -6614 | 77092 |

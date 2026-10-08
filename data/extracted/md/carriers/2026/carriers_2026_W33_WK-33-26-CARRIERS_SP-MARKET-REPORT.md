@@ -16,28 +16,28 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W33_WK-33-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| JIAN FA | BC | 175085.0 | 2004 | Shanghai Waigaoqiao Shbldg | 18,500,000 UNDISCLOSED | Scrubber | fitted |
-| BBG WUZHOU | BC | 81895.0 | 2016 | Tsuneishi Zhoushan Shbldg | 29,000,000 UNDISCLOSED |  |  |
-| PRESINGE | BC | 81886.0 | 2015 | Tsuneishi Zhoushan Shbldg | 31,000,000 UNDISCLOSED |  |  |
-| KARTINI SAMUDRA | BC | 73592.0 | 2004 | Daewoo Shipbuilding | 7,800,000 | CHINESE |  |
-| GRAMOS | BC | 61171.0 | 2019 | Nantong COSCO KHI Ship | 34,500,000 | GREEK |  |
-| GLOBAL ORIOLE | BC | 58716.0 | 2012 | Nantong COSCO KHI Ship | 19,00,000 UNDISCLOSED |  |  |
-| LILA MUNDRA | BC | 57269.0 | 2009 | STX Dalian Shipbuilding Co | 12,500,000 UNDISCLOSED |  |  |
-| SONANGOL NAMIBE | TANKER | 158425.0 | 2007 | Daewoo Shipbuilding & | 49,700,000 | BEST OASIS |  |
-| BRISTOL | TANKER | 157077.0 | 2024 | Hyundai Samho HI | 123,000,000 | NAFTOMAR |  |
-| ON PROMISE | TANKER | 50100.0 | 2026 | HD Hyundai Mipo Co Ltd | 59,000,000 UNDISCLOSED | Dely | ex yard |
-| ON PROSPER | TANKER | 50100.0 | 2026 | HD Hyundai Mipo Co Ltd | 59,000,000 UNDISCLOSED | Dely | ex yard |
-| ATLANTIC EAGLE | TANKER | 47128.0 | 2007 | Hyundai Mipo Dockyard Co | 18,000,000 UNDISCLOSED |  |  |
-| MUMBAI | TANKER | 46818.0 | 2003 | Hyundai Mipo Dockyard Co | 10,350,000 UNDISCLOSED |  |  |
-| MAERSK KATE | TANKER | 39756.0 | 2010 | Guangzhou Shipyard Intl Co L | 21,900,000 UNDISCLOSED |  |  |
-| DAMSGAARD | TANKER | 19998.0 | 2016 | Fukuoka Shipbuilding | 33,000,000 UNDISCLOSED |  | ST.STEEL |
-| AS SICILIA | CV | 25927.0 | 2008 | Taizhou Kouan Shipbuilding | 18,500,000 UNDISCLOSED |  | 1,794 TEU |
+| JIAN FA | BC | 175085 | 2004 | Shanghai Waigaoqiao Shbldg | 18,500,000 UNDISCLOSED | Scrubber | fitted |
+| BBG WUZHOU | BC | 81895 | 2016 | Tsuneishi Zhoushan Shbldg | 29,000,000 UNDISCLOSED |  |  |
+| PRESINGE | BC | 81886 | 2015 | Tsuneishi Zhoushan Shbldg | 31,000,000 UNDISCLOSED |  |  |
+| KARTINI SAMUDRA | BC | 73592 | 2004 | Daewoo Shipbuilding | 7,800,000 | CHINESE |  |
+| GRAMOS | BC | 61171 | 2019 | Nantong COSCO KHI Ship | 34,500,000 | GREEK |  |
+| GLOBAL ORIOLE | BC | 58716 | 2012 | Nantong COSCO KHI Ship | 19,00,000 UNDISCLOSED |  |  |
+| LILA MUNDRA | BC | 57269 | 2009 | STX Dalian Shipbuilding Co | 12,500,000 UNDISCLOSED |  |  |
+| SONANGOL NAMIBE | TANKER | 158425 | 2007 | Daewoo Shipbuilding & | 49,700,000 | BEST OASIS |  |
+| BRISTOL | TANKER | 157077 | 2024 | Hyundai Samho HI | 123,000,000 | NAFTOMAR |  |
+| ON PROMISE | TANKER | 50100 | 2026 | HD Hyundai Mipo Co Ltd | 59,000,000 UNDISCLOSED | Dely | ex yard |
+| ON PROSPER | TANKER | 50100 | 2026 | HD Hyundai Mipo Co Ltd | 59,000,000 UNDISCLOSED | Dely | ex yard |
+| ATLANTIC EAGLE | TANKER | 47128 | 2007 | Hyundai Mipo Dockyard Co | 18,000,000 UNDISCLOSED |  |  |
+| MUMBAI | TANKER | 46818 | 2003 | Hyundai Mipo Dockyard Co | 10,350,000 UNDISCLOSED |  |  |
+| MAERSK KATE | TANKER | 39756 | 2010 | Guangzhou Shipyard Intl Co L | 21,900,000 UNDISCLOSED |  |  |
+| DAMSGAARD | TANKER | 19998 | 2016 | Fukuoka Shipbuilding | 33,000,000 UNDISCLOSED |  | ST.STEEL |
+| AS SICILIA | CV | 25927 | 2008 | Taizhou Kouan Shipbuilding | 18,500,000 UNDISCLOSED |  | 1,794 TEU |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ISA STAR | MPP | 8275.0 | 3412.0 | 2000 | Stocznia Gdanska | 475.0 |  |  |
+| ISA STAR | MPP | 8275 | 3412 | 2000 | Stocznia Gdanska | 475 |  |  |
 
 ## Newbuilding Market
 
@@ -55,7 +55,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W33_WK-33-26-CARRIERS_SP-
 | Tankers | Vlcc | 305000 | 143.533 | UP |
 | Tankers | Aframax | 115000 | 83.679 | UP |
 | Tankers | Mr Product | 51000 | 49.31 | UP |
-| Bulkers | Capesize | 180000 | 70.975 | UP |
+| Bulkers | Capesize | 180000 | 70.975 | DOWN |
 | Bulkers | Panamax | 82500 | 37.952 | UP |
 | Bulkers | Ultramax | 63500 | 37.546 | UP |
 
@@ -64,7 +64,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W33_WK-33-26-CARRIERS_SP-
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
 | Tankers | Subcontinent | 15000 - 25000 | 486.08 | UP |
-| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Containers | Subcontinent | 6000 - 10000 | N/A |  |
 | Bulkers | Subcontinent | 7000 - 12000 | 470.3 | UP |
 
 ## Market & Baltic Indices
@@ -78,37 +78,37 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W33_WK-33-26-CARRIERS_SP-
 | Recycling Index | TSRA | 11.832 |  |  | UP |
 | Recycling Index | BSRA |  |  |  |  |
 | Newbuilding Index | BNBI |  |  |  |  |
-| Newbuilding Index | DNBI | 5.1 |  |  | UP |
+| Newbuilding Index | DNBI | 5.100 |  |  | UP |
 | Newbuilding Index | TNBI | 8.045 |  |  | UP |
 | Baltic Dry Indices | BDI | 2878.0 | 35.0 | 2843.0 |  |
-| Baltic Dry Indices | BCI | 4590.0 | 26.0 | 4564.0 |  |
-| Baltic Dry Indices | BPI | 2206.0 | 71.0 | 2135.0 |  |
-| Baltic Dry Indices | BSI | 1628.0 | 18.0 | 1610.0 |  |
-| Baltic Dry Indices | BHSI | 864.0 | -20.0 | 884.0 |  |
+| Baltic Dry Indices | BCI | 4590 | 26 | 4564 |  |
+| Baltic Dry Indices | BPI | 2206 | 71 | 2135 |  |
+| Baltic Dry Indices | BSI | 1628 | 18 | 1610 |  |
+| Baltic Dry Indices | BHSI | 864 | -20 | 884 |  |
 
 ## Dry BC Baltic Time Charter Weighted Average routes
 
 | Route / Class | This WK ($/day) | Week Ch. ($/day) | Prev. WK ($/day) |
 | --- | --- | --- | --- |
-| CAPE 180K | 41625.0 | 230.0 | 41395.0 |
-| TESS 82K | 19853.0 | 641.0 | 19212.0 |
+| CAPE 180K | 41625 | 230 | 41395 |
+| TESS 82K | 19853 | 641 | 19212 |
 | LME 74K |  |  |  |
-| SUPRA 63K | 20572.0 | 225.0 | 20347.0 |
-| HANDY 38K | 15553.0 | -353.0 | 15906.0 |
+| SUPRA 63K | 20572 | 225 | 20347 |
+| HANDY 38K | 15553 | -353 | 15906 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
 
 | Vessel Class | Tenor | Rate ($/day) | Rate Raw |
 | --- | --- | --- | --- |
-| CAPE 180k | SHORT | 32000.0 | 32,000 |
-| KAMSAR 82k | SHORT | 17800.0 | 17,800 |
-| PANAMAX 76k | SHORT | 16300.0 | 16,300 |
+| CAPE 180k | SHORT | 32000 | 32,000 |
+| KAMSAR 82k | SHORT | 17800 | 17,800 |
+| PANAMAX 76k | SHORT | 16300 | 16,300 |
 | UMAX | SHORT |  | ATL 21,000 PAC 20,000 |
 | SUPRA TESS 58k | SHORT |  | ATL 19,000 PAC 18,500 |
 | HANDY 32k | SHORT |  | N/A |
-| CAPE 180k | 1-YR | 35000.0 | 35,000 |
-| KAMSAR 82k | 1-YR | 19000.0 | 19,000 |
-| PANAMAX 76k | 1-YR | 17500.0 | 17,500 |
+| CAPE 180k | 1-YR | 35000 | 35,000 |
+| KAMSAR 82k | 1-YR | 19000 | 19,000 |
+| PANAMAX 76k | 1-YR | 17500 | 17,500 |
 | UMAX | 1-YR |  | ATL 20,000 PAC 20,000 |
 | SUPRA TESS 58k | 1-YR |  | ATL 18,000 PAC 18,000 |
 | HANDY 32k | 1-YR |  | N/A |
@@ -129,9 +129,9 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W33_WK-33-26-CARRIERS_SP-
 
 | Metric Name | This WK | Week Ch. | Previous |
 | --- | --- | --- | --- |
-| Baltic DIRTY Tanker Index | 2824.0 | 270.0 | 2554.0 |
-| Baltic CLEAN Tanker Index | 1283.0 | -153.0 | 1436.0 |
-| VLCC TCE | 250.766 | 28867.0 | 221.899 |
-| SUEZ TCE | 290.048 | 75617.0 | 214.431 |
-| AFRA TCE | 83.853 | 358.0 | 83.495 |
-| MR ATLANTIC TC routes | 25.752 | -18328.0 | 44.08 |
+| Baltic DIRTY Tanker Index | 2824 | 270 | 2554 |
+| Baltic CLEAN Tanker Index | 1283 | -153 | 1436 |
+| VLCC TCE | 250766 | 28867 | 221899 |
+| SUEZ TCE | 290048 | 75617 | 214431 |
+| AFRA TCE | 83853 | 358 | 83495 |
+| MR ATLANTIC TC routes | 25.752 | -18328 | 44.08 |

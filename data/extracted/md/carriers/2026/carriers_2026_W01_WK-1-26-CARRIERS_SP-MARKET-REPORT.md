@@ -16,11 +16,11 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W01_WK-1-26-CARRIERS_SP-M
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| SEACON SHANGHAI | BC | 80811.0 | 2019 | Huangpu Wenchong Longxue | 26.70 | DEXTER NAVIGATION |  |
-| DHT EUROPE | TANKER | 317713.0 | 2007 | Hyundai Samho HI | 101.60 EN BLOC | UNDISCLOSED |  |
-| DHT CHINA | TANKER | 317794.0 | 2007 | Hyundai Samho HI | 101.60 EN BLOC | UNDISCLOSED | INCL T/C TO |
-| NAVIGARE GENEROSA | VLGC | 54564.0 | 2015 | Hyundai Heavy Inds - Gunsan | 80.00 | GESCO | EXXON @ USD 1.1 MIL PER MONTH UNTIL |
-| JAG VISHNU | VLGC | 49996.0 | 2002 | Kawasaki Shipbuilding - | 42.00 | UNDISCLOSED | 02/2027 |
+| SEACON SHANGHAI | BC | 80811 | 2019 | Huangpu Wenchong Longxue | 26.70 | DEXTER NAVIGATION |  |
+| DHT EUROPE | TANKER | 317713 | 2007 | Hyundai Samho HI | 101.60 EN BLOC | UNDISCLOSED |  |
+| DHT CHINA | TANKER | 317794 | 2007 | Hyundai Samho HI | 101.60 EN BLOC | UNDISCLOSED | INCL T/C TO |
+| NAVIGARE GENEROSA | VLGC | 54564 | 2015 | Hyundai Heavy Inds - Gunsan | 80.00 | GESCO | EXXON @ USD 1.1 MIL PER MONTH UNTIL |
+| JAG VISHNU | VLGC | 49996 | 2002 | Kawasaki Shipbuilding - | 42.00 | UNDISCLOSED | 02/2027 |
 
 ## Demolition Market
 
@@ -34,20 +34,20 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W01_WK-1-26-CARRIERS_SP-M
 
 | Sector | Vessel Class | Size (DWT) | Price ($M) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Vlcc | 305000 | 117.537 | UP |
+| Tankers | Vlcc | 305000 | 117.537 | DOWN |
 | Tankers | Aframax | 115000 | 65.686 | UP |
 | Tankers | Mr Product | 51000 | 42.416 | UP |
 | Bulkers | Capesize | 180000 | 63.982 | UP |
-| Bulkers | Panamax | 82500 | 33.091 | UP |
+| Bulkers | Panamax | 82500 | 33.091 | DOWN |
 | Bulkers | Supramax | 58328 | 25.696 | STEADY |
 
 ## BDA Baltic Demolition Assessments
 
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Subcontinent | 15000 - 25000 | 415.8 | UP |
-| Containers | Subcontinent | 6000 - 10000 |  |  |
-| Bulkers | Subcontinent | 7000 - 12000 | 404.09 | UP |
+| Tankers | Subcontinent | 15000 - 25000 | 415.8 | DOWN |
+| Containers | Subcontinent | 6000 - 10000 | N/A |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 404.09 | DOWN |
 
 ## Market & Baltic Indices
 
@@ -56,27 +56,27 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W01_WK-1-26-CARRIERS_SP-M
 | Sale and Purchase Index | DSPA | 3.869 |  |  | UP |
 | Sale and Purchase Index | BSPA |  |  |  |  |
 | Sale and Purchase Index | TSPA | 7.623 |  |  | UP |
-| Recycling Index | DSRA | 5.63 |  |  | UP |
-| Recycling Index | TSRA | 10.11 |  |  | UP |
+| Recycling Index | DSRA | 5.630 |  |  | DOWN |
+| Recycling Index | TSRA | 10.110 |  |  | DOWN |
 | Recycling Index | BSRA |  |  |  |  |
 | Newbuilding Index | BNBI |  |  |  |  |
 | Newbuilding Index | DNBI | 4.859 |  |  | UP |
 | Newbuilding Index | TNBI | 7.569 |  |  | UP |
-| Baltic Dry Indices | BDI | 1851.0 | -128.0 | 1979.0 |  |
-| Baltic Dry Indices | BCI | 3049.0 | -510.0 | 3559.0 |  |
-| Baltic Dry Indices | BPI | 1293.0 | 11.0 | 1282.0 |  |
-| Baltic Dry Indices | BSI | 1043.0 | -150.0 | 1193.0 |  |
-| Baltic Dry Indices | BHSI | 660.0 | -77.0 | 737.0 |  |
+| Baltic Dry Indices | BDI | 1851 | -128 | 1979 |  |
+| Baltic Dry Indices | BCI | 3049 | -510 | 3559 |  |
+| Baltic Dry Indices | BPI | 1293 | 11 | 1282 |  |
+| Baltic Dry Indices | BSI | 1043 | -150 | 1193 |  |
+| Baltic Dry Indices | BHSI | 660 | -77 | 737 |  |
 
 ## Dry BC Baltic Time Charter Weighted Average routes
 
 | Route / Class | This WK ($/day) | Week Ch. ($/day) | Prev. WK ($/day) |
 | --- | --- | --- | --- |
-| CAPE 180K | 27652.0 | -1866.0 | 29518.0 |
-| TESS 82K | 11640.0 | 100.0 | 11540.0 |
-| LME 74K | 10304.0 | 100.0 | 10204.0 |
-| SUPRA 63K | 13189.0 | -1894.0 | 15083.0 |
-| HANDY 38K | 11874.0 | -1387.0 | 13261.0 |
+| CAPE 180K | 27652 | -1866 | 29518 |
+| TESS 82K | 11640 | 100 | 11540 |
+| LME 74K | 10304 | 100 | 10204 |
+| SUPRA 63K | 13189 | -1894 | 15083 |
+| HANDY 38K | 11874 | -1387 | 13261 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
 
@@ -111,9 +111,9 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W01_WK-1-26-CARRIERS_SP-M
 
 | Metric Name | This WK | Week Ch. | Previous |
 | --- | --- | --- | --- |
-| Baltic DIRTY Tanker Index | 1188.0 | -199.0 | 1387.0 |
-| Baltic CLEAN Tanker Index | 746.0 | -9.0 | 755.0 |
-| VLCC TCE | 38.242 | -45640.0 | 83.882 |
-| SUEZ TCE | 74.974 | -16491.0 | 91.465 |
-| AFRA TCE | 48.282 | -13696.0 | 61.978 |
-| MR ATLANTIC TC routes | 21.204 | -6798.0 | 28.002 |
+| Baltic DIRTY Tanker Index | 1188 | -199 | 1387 |
+| Baltic CLEAN Tanker Index | 746 | -9 | 755 |
+| VLCC TCE | 38242 | -45640 | 83882 |
+| SUEZ TCE | 74974 | -16491 | 91465 |
+| AFRA TCE | 48282 | -13696 | 61978 |
+| MR ATLANTIC TC routes | 21204 | -6798 | 28002 |

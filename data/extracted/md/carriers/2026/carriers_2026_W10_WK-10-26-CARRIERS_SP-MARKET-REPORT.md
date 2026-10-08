@@ -16,28 +16,28 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W10_WK-10-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| LUCKY CARINA | BC | 177947.0 | 2007 | Shanghai Waigaoqiao Shbldg | 23.80 | CHINESE |  |
-| SPIRIT OF HO-PING | BC | 82152.0 | 2011 | TSUNEISHI SHBLDG - FKY | 19.35 | UNDISCLOSED |  |
-| NORD AURIGA | BC | 81795.0 | 2020 | Jiangsu Newyangzi Shipbuilding | 32.00 | UNDISCLOSED |  |
-| CASDA | BC | 64012.0 | 2018 | Tsuneishi Heavy Inds Cebu | 61.00 EN BLOC | UNDISCLOSED |  |
-| GEMMA | BC | 63878.0 | 2017 | Tsuneishi Zhoushan Shbldg | 61.00 EN BLOC | UNDISCLOSED |  |
-| JIN PING | BC | 63800.0 | 2014 | Jiangsu Hantong Ship HI | 23.46 | UNDISCLOSED |  |
-| DESERT DIGNITY | BC | 63503.0 | 2016 | Imabari Shbldg - Imabari | 28.00 | UNDISCLOSED |  |
-| SIIRT | BC | 63200.0 | 2013 | Yangzhou Dayang Shipbuilding | 21.50 | UNDISCLOSED |  |
-| CLOVER | BC | 61377.0 | 2013 | Iwagi Zosen Co Ltd | 21.00 | UNDISCLOSED |  |
-| GENCO PREDATOR | BC | 55407.0 | 2005 | Nantong COSCO KHI Ship Eng | 10.50 | CHINESE |  |
-| GENCO PICARDY | BC | 55317.0 | 2005 | Nantong COSCO KHI Ship Eng | 10.50 | CHINESE |  |
-| ACTION TRADER | BC | 39481.0 | 2017 | Jiangmen Nanyang Ship Eng | 21.00 | UNDISCLOSED |  |
-| NORD SANTIAGO | BC | 39475.0 | 2018 | Jiangmen Nanyang Ship Eng | 22.00 | UNDISCLOSED |  |
-| QI CHENG 3 | BC | 38268.0 | 2012 | JIANGSU MINGYANG SHIPB | 11.00 | UNDISCLOSED |  |
-| ZAFER | BC | 35186.0 | 2011 | Samho Shipbuilding Co Ltd | LOW 13.00 | GREEK |  |
-| KEN GIANT | BC | 28323.0 | 2009 | I-S Shipyard Co Ltd | 8.60 | TURKISH |  |
-| ILL GAP | TANKER | 306352.0 | 2004 | Mitsubishi Nagasaki | 31.00 | UNDISCLOSED |  |
-| GREEN ATTITUDE | TANKER | 112532.0 | 2018 | COSCO Shipping HI Zhoushan | 71.00 | UNDISCLOSED |  |
-| VOLTA RIVER | TANKER | 105839.0 | 2007 | Tsuneishi Holdings - Tadotsu | 33.00 | UNDISCLOSED |  |
-| TIGRIS | TANKER | 12920.0 | 2009 | STX OFFSHORE & SHBLDG | 9.60 | UAE |  |
-| MARGARETE SCHULTE | CV | 34457.0 | 2006 | STX Shipbuilding - Jinhae | 25.00 | MSC | 2,602 TEU |
-| LUCIE SCHULTE | CV | 34396.0 | 2006 | STX Shipbuilding - Jinhae | 25.00 | MSC | 2,602 TEU |
+| LUCKY CARINA | BC | 177947 | 2007 | Shanghai Waigaoqiao Shbldg | 23.80 | CHINESE |  |
+| SPIRIT OF HO-PING | BC | 82152 | 2011 | TSUNEISHI SHBLDG - FKY | 19.35 | UNDISCLOSED |  |
+| NORD AURIGA | BC | 81795 | 2020 | Jiangsu Newyangzi Shipbuilding | 32.00 | UNDISCLOSED |  |
+| CASDA | BC | 64012 | 2018 | Tsuneishi Heavy Inds Cebu | 61.00 EN BLOC | UNDISCLOSED |  |
+| GEMMA | BC | 63878 | 2017 | Tsuneishi Zhoushan Shbldg | 61.00 EN BLOC | UNDISCLOSED |  |
+| JIN PING | BC | 63800 | 2014 | Jiangsu Hantong Ship HI | 23.46 | UNDISCLOSED |  |
+| DESERT DIGNITY | BC | 63503 | 2016 | Imabari Shbldg - Imabari | 28.00 | UNDISCLOSED |  |
+| SIIRT | BC | 63200 | 2013 | Yangzhou Dayang Shipbuilding | 21.50 | UNDISCLOSED |  |
+| CLOVER | BC | 61377 | 2013 | Iwagi Zosen Co Ltd | 21.00 | UNDISCLOSED |  |
+| GENCO PREDATOR | BC | 55407 | 2005 | Nantong COSCO KHI Ship Eng | 10.50 | CHINESE |  |
+| GENCO PICARDY | BC | 55317 | 2005 | Nantong COSCO KHI Ship Eng | 10.50 | CHINESE |  |
+| ACTION TRADER | BC | 39481 | 2017 | Jiangmen Nanyang Ship Eng | 21.00 | UNDISCLOSED |  |
+| NORD SANTIAGO | BC | 39475 | 2018 | Jiangmen Nanyang Ship Eng | 22.00 | UNDISCLOSED |  |
+| QI CHENG 3 | BC | 38268 | 2012 | JIANGSU MINGYANG SHIPB | 11.00 | UNDISCLOSED |  |
+| ZAFER | BC | 35186 | 2011 | Samho Shipbuilding Co Ltd | LOW 13.00 | GREEK |  |
+| KEN GIANT | BC | 28323 | 2009 | I-S Shipyard Co Ltd | 8.60 | TURKISH |  |
+| ILL GAP | TANKER | 306352 | 2004 | Mitsubishi Nagasaki | 31.00 | UNDISCLOSED |  |
+| GREEN ATTITUDE | TANKER | 112532 | 2018 | COSCO Shipping HI Zhoushan | 71.00 | UNDISCLOSED |  |
+| VOLTA RIVER | TANKER | 105839 | 2007 | Tsuneishi Holdings - Tadotsu | 33.00 | UNDISCLOSED |  |
+| TIGRIS | TANKER | 12920 | 2009 | STX OFFSHORE & SHBLDG | 9.60 | UAE |  |
+| MARGARETE SCHULTE | CV | 34457 | 2006 | STX Shipbuilding - Jinhae | 25.00 | MSC | 2,602 TEU |
+| LUCIE SCHULTE | CV | 34396 | 2006 | STX Shipbuilding - Jinhae | 25.00 | MSC | 2,602 TEU |
 
 ## Demolition Market
 
@@ -65,7 +65,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W10_WK-10-26-CARRIERS_SP-
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
 | Tankers | Subcontinent | 15000 - 25000 | 436.06 | UP |
-| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Containers | Subcontinent | 6000 - 10000 | N/A |  |
 | Bulkers | Subcontinent | 7000 - 12000 | 424.53 | UP |
 
 ## Market & Baltic Indices
@@ -80,36 +80,36 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W10_WK-10-26-CARRIERS_SP-
 | Recycling Index | BSRA |  |  |  |  |
 | Newbuilding Index | BNBI |  |  |  |  |
 | Newbuilding Index | DNBI | 4.905 |  |  | UP |
-| Newbuilding Index | TNBI | 7.6 |  |  | UP |
-| Baltic Dry Indices | BDI | 2066.0 | -121.0 | 2187.0 |  |
-| Baltic Dry Indices | BCI | 2835.0 | -298.0 | 3133.0 |  |
-| Baltic Dry Indices | BPI | 1914.0 | -65.0 | 1979.0 |  |
-| Baltic Dry Indices | BSI | 1373.0 | 12.0 | 1361.0 |  |
-| Baltic Dry Indices | BHSI | 833.0 | 48.0 | 785.0 |  |
+| Newbuilding Index | TNBI | 7.600 |  |  | UP |
+| Baltic Dry Indices | BDI | 2066 | -121 | 2187 |  |
+| Baltic Dry Indices | BCI | 2835 | -298 | 3133 |  |
+| Baltic Dry Indices | BPI | 1914 | -65 | 1979 |  |
+| Baltic Dry Indices | BSI | 1373 | 12 | 1361 |  |
+| Baltic Dry Indices | BHSI | 833 | 48 | 785 |  |
 
 ## Dry BC Baltic Time Charter Weighted Average routes
 
 | Route / Class | This WK ($/day) | Week Ch. ($/day) | Prev. WK ($/day) |
 | --- | --- | --- | --- |
-| CAPE 180K | 25710.0 | -2703.0 | 28413.0 |
-| TESS 82K | 17223.0 | -591.0 | 17814.0 |
+| CAPE 180K | 25710 | -2703 | 28413 |
+| TESS 82K | 17223 | -591 | 17814 |
 | LME 74K |  |  |  |
-| SUPRA 63K | 17355.0 | 148.0 | 17207.0 |
-| HANDY 38K | 15002.0 | 868.0 | 14134.0 |
+| SUPRA 63K | 17355 | 148 | 17207 |
+| HANDY 38K | 15002 | 868 | 14134 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
 
 | Vessel Class | Tenor | Rate ($/day) | Rate Raw |
 | --- | --- | --- | --- |
-| CAPE 180k | SHORT | 26000.0 | 26,000 |
-| KAMSAR 82k | SHORT | 17500.0 | 17,500 |
-| PANAMAX 76k | SHORT | 16000.0 | 16,000 |
+| CAPE 180k | SHORT | 26000 | 26,000 |
+| KAMSAR 82k | SHORT | 17500 | 17,500 |
+| PANAMAX 76k | SHORT | 16000 | 16,000 |
 | UMAX | SHORT |  | ATL 17,500 PAC 17,500 |
 | SUPRA TESS 58k | SHORT |  | ATL 15,000 PAC 15,000 |
 | HANDY 32k | SHORT |  | N/A |
-| CAPE 180k | 1-YR | 25000.0 | 25,000 |
-| KAMSAR 82k | 1-YR | 16000.0 | 16,000 |
-| PANAMAX 76k | 1-YR | 15500.0 | 15,500 |
+| CAPE 180k | 1-YR | 25000 | 25,000 |
+| KAMSAR 82k | 1-YR | 16000 | 16,000 |
+| PANAMAX 76k | 1-YR | 15500 | 15,500 |
 | UMAX | 1-YR |  | ATL 18,000 PAC 18,000 |
 | SUPRA TESS 58k | 1-YR |  | ATL 15,500 PAC 15,500 |
 | HANDY 32k | 1-YR |  | N/A |
@@ -130,9 +130,9 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W10_WK-10-26-CARRIERS_SP-
 
 | Metric Name | This WK | Week Ch. | Previous |
 | --- | --- | --- | --- |
-| Baltic DIRTY Tanker Index | 3040.0 | 718.0 | 2322.0 |
-| Baltic CLEAN Tanker Index | 1585.0 | 461.0 | 1124.0 |
-| VLCC TCE | 289.03 | 8089.0 | 280.941 |
-| SUEZ TCE | 189.247 | 30716.0 | 158.531 |
-| AFRA TCE | 118.691 | 33277.0 | 85.414 |
-| MR ATLANTIC TC routes | 77.092 | 20096.0 | 56.996 |
+| Baltic DIRTY Tanker Index | 3040 | 718 | 2322 |
+| Baltic CLEAN Tanker Index | 1585 | 461 | 1124 |
+| VLCC TCE | 289.03 | 8089 | 280.941 |
+| SUEZ TCE | 189247 | 30716 | 158531 |
+| AFRA TCE | 118691 | 33277 | 85414 |
+| MR ATLANTIC TC routes | 77092 | 20096 | 56996 |

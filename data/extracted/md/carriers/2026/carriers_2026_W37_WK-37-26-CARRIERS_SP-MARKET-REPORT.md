@@ -16,26 +16,26 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W37_WK-37-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| OSAKA STAR | BC | 84947.0 | 2016 | Sasebo Heavy Industries | 34,000,000 UNDISCLOSED |  |  |
-| BW JAPAN | BC | 81609.0 | 2019 | Tsuneishi Heavy Inds Cebu | 38,250,000 GREAT | EASTERN |  |
-| DAEBO GLADSTONE | BC | 81399.0 | 2013 | Hyundai Samho HI | 21,000,000 UNDISCLOSED |  |  |
-| SEA ORION | BC | 76602.0 | 2005 | Imabari Shbldg - Marugame | 11,500,000 UNDISCLOSED |  |  |
-| MELIA | BC | 76225.0 | 2005 | Tsuneishi Corp - Tadotsu | 11,500,000 UNDISCLOSED |  |  |
-| AE JUPITER | BC | 74475.0 | 2007 | Hudong-Zhonghua | 11,500,000 | CHINESE |  |
-| DOLPHIN 76 | BC | 74133.0 | 2002 | Namura Shipbuilding - Imari | 7,800,000 UNDISCLOSED |  |  |
-| OCEAN GLORY | BC | 48437.0 | 2001 | Sanoyas Hishino Meisho Corp | 5,800,000 UNDISCLOSED |  |  |
-| BOSTON HARMONY | BC | 38561.0 | 2015 | Shin Kurushima Toyohashi | 23,000,000 UNDISCLOSED |  |  |
-| CRIMSON WYOMING | BC | 33117.0 | 2015 | Kanda Kawajiri | 18,000,000 | GREEK |  |
-| NISSOS HERACLEA | TANKER | 313525.0 | 2009 | Hyundai Heavy Inds - Ulsan | 112,000,000 | MIDDLE EASTERN |  |
-| PINIOS | TANKER | 299999.0 | 2026 | Hengli Shipbuilding Dalian | 200,000,000 UNDISCLOSED |  |  |
-| NEWNEW PANDA 1 | CV | 53697.0 | 2007 | Hyundai Mipo | 43,000,000 UNDISCLOSED |  | 4,363 TEU |
+| OSAKA STAR | BC | 84947 | 2016 | Sasebo Heavy Industries | 34,000,000 UNDISCLOSED |  |  |
+| BW JAPAN | BC | 81609 | 2019 | Tsuneishi Heavy Inds Cebu | 38,250,000 GREAT | EASTERN |  |
+| DAEBO GLADSTONE | BC | 81399 | 2013 | Hyundai Samho HI | 21,000,000 UNDISCLOSED |  |  |
+| SEA ORION | BC | 76602 | 2005 | Imabari Shbldg - Marugame | 11,500,000 UNDISCLOSED |  |  |
+| MELIA | BC | 76225 | 2005 | Tsuneishi Corp - Tadotsu | 11,500,000 UNDISCLOSED |  |  |
+| AE JUPITER | BC | 74475 | 2007 | Hudong-Zhonghua | 11,500,000 | CHINESE |  |
+| DOLPHIN 76 | BC | 74133 | 2002 | Namura Shipbuilding - Imari | 7,800,000 UNDISCLOSED |  |  |
+| OCEAN GLORY | BC | 48437 | 2001 | Sanoyas Hishino Meisho Corp | 5,800,000 UNDISCLOSED |  |  |
+| BOSTON HARMONY | BC | 38561 | 2015 | Shin Kurushima Toyohashi | 23,000,000 UNDISCLOSED |  |  |
+| CRIMSON WYOMING | BC | 33117 | 2015 | Kanda Kawajiri | 18,000,000 | GREEK |  |
+| NISSOS HERACLEA | TANKER | 313525 | 2009 | Hyundai Heavy Inds - Ulsan | 112,000,000 | MIDDLE EASTERN |  |
+| PINIOS | TANKER | 299999 | 2026 | Hengli Shipbuilding Dalian | 200,000,000 UNDISCLOSED |  |  |
+| NEWNEW PANDA 1 | CV | 53697 | 2007 | Hyundai Mipo | 43,000,000 UNDISCLOSED |  | 4,363 TEU |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| UNIORDER | BC | 47240.0 | 7078.0 | 1997 | Oshima | 450.0 | AS | IS INDONESIA |
-| V. L. 15 | TANKER | 2816.0 | 1427.0 | 1994 | Murakami Hide | 515.0 |  |  |
+| UNIORDER | BC | 47240 | 7078 | 1997 | Oshima | 450 | AS | IS INDONESIA |
+| V. L. 15 | TANKER | 2816 | 1427 | 1994 | Murakami Hide | 515 |  |  |
 
 ## Newbuilding Market
 
@@ -59,7 +59,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W37_WK-37-26-CARRIERS_SP-
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
 | Tankers | Subcontinent | 15000 - 25000 | 510.66 | UP |
-| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Containers | Subcontinent | 6000 - 10000 | N/A |  |
 | Bulkers | Subcontinent | 7000 - 12000 | 495.52 | UP |
 
 ## Market & Baltic Indices
@@ -76,34 +76,34 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W37_WK-37-26-CARRIERS_SP-
 | Newbuilding Index | DNBI | 5.117 |  |  | UP |
 | Newbuilding Index | TNBI | 8.085 |  |  | UP |
 | Baltic Dry Indices | BDI | 3445.0 | -130.0 | 3575.0 |  |
-| Baltic Dry Indices | BCI | 5912.0 | -374.0 | 6286.0 |  |
-| Baltic Dry Indices | BPI | 2393.0 | -38.0 | 2431.0 |  |
+| Baltic Dry Indices | BCI | 5912 | -374 | 6286 |  |
+| Baltic Dry Indices | BPI | 2393 | -38 | 2431 |  |
 | Baltic Dry Indices | BSI | 1725.0 | 43.0 | 1682.0 |  |
-| Baltic Dry Indices | BHSI | 942.0 | 36.0 | 906.0 |  |
+| Baltic Dry Indices | BHSI | 942 | 36 | 906 |  |
 
 ## Dry BC Baltic Time Charter Weighted Average routes
 
 | Route / Class | This WK ($/day) | Week Ch. ($/day) | Prev. WK ($/day) |
 | --- | --- | --- | --- |
-| CAPE 180K | 53622.0 | -3389.0 | 57011.0 |
-| TESS 82K | 21540.0 | -338.0 | 21878.0 |
+| CAPE 180K | 53622 | -3389 | 57011 |
+| TESS 82K | 21540 | -338 | 21878 |
 | LME 74K |  |  |  |
-| SUPRA 63K | 21807.0 | 540.0 | 21267.0 |
-| HANDY 38K | 16959.0 | 656.0 | 16303.0 |
+| SUPRA 63K | 21807 | 540 | 21267 |
+| HANDY 38K | 16959 | 656 | 16303 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
 
 | Vessel Class | Tenor | Rate ($/day) | Rate Raw |
 | --- | --- | --- | --- |
-| CAPE 180k | SHORT | 40000.0 | 40,000 |
-| KAMSAR 82k | SHORT | 23000.0 | 23,000 |
-| PANAMAX 76k | SHORT | 21500.0 | 21,500 |
+| CAPE 180k | SHORT | 40000 | 40,000 |
+| KAMSAR 82k | SHORT | 23000 | 23,000 |
+| PANAMAX 76k | SHORT | 21500 | 21,500 |
 | UMAX | SHORT |  | ATL 22,500 PAC 21,500 |
 | SUPRA TESS 58k | SHORT |  | ATL 19,500 PAC 19,000 |
 | HANDY 32k | SHORT |  | N/A |
-| CAPE 180k | 1-YR | 37000.0 | 37,000 |
-| KAMSAR 82k | 1-YR | 21000.0 | 21,000 |
-| PANAMAX 76k | 1-YR | 19500.0 | 19,500 |
+| CAPE 180k | 1-YR | 37000 | 37,000 |
+| KAMSAR 82k | 1-YR | 21000 | 21,000 |
+| PANAMAX 76k | 1-YR | 19500 | 19,500 |
 | UMAX | 1-YR |  | ATL 21,000 PAC 21,000 |
 | SUPRA TESS 58k | 1-YR |  | ATL 18,500 PAC 18,500 |
 | HANDY 32k | 1-YR |  | N/A |
@@ -124,9 +124,9 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W37_WK-37-26-CARRIERS_SP-
 
 | Metric Name | This WK | Week Ch. | Previous |
 | --- | --- | --- | --- |
-| Baltic DIRTY Tanker Index | 4325.0 | 1457.0 | 2868.0 |
-| Baltic CLEAN Tanker Index | 1837.0 | 253.0 | 1584.0 |
-| VLCC TCE | 588.593 | 19981.0 | 388.612 |
-| SUEZ TCE | 305.44 | 146726.0 | 158.714 |
-| AFRA TCE | 142.403 | 75510.0 | 66.893 |
-| MR ATLANTIC TC routes | 21347.0 |  |  |
+| Baltic DIRTY Tanker Index | 4325 | 1457 | 2868 |
+| Baltic CLEAN Tanker Index | 1837 | 253 | 1584 |
+| VLCC TCE | 588.593 | 19981 | 388.612 |
+| SUEZ TCE | 305.44 | 146726 | 158.714 |
+| AFRA TCE | 142403 | 75510 | 66893 |
+| MR ATLANTIC TC routes | 21347 |  |  |

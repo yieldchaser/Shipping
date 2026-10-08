@@ -16,25 +16,25 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W01_WK-12-24-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPT TASOS | BC | 181500.0 | 2023 | Namura Shipbuilding - Imari | 70.50 | NORDEN A/S | ECO |
-| HIGHLAND PARK | BC | 174093.0 | 2006 | Shanghai Waigaoqiao Shbldg | 15.00 | CHINESE | BWTS FITTED |
-| THE EVOLUTION | BC | 88270.0 | 2010 | Imabari Shbldg - Marugame | 17.40 | UNDISCLOSED | BWTS FITTED |
-| SFAKIA WAVE | BC | 87340.0 | 2011 | Hudong-Zhonghua Shipbuilding | 16.00 | CHINESE | BWTS FITTED |
-| NIAN NU JIAO | BC | 83601.0 | 2010 | Sanoyas | 18.00 | UNDISCLOSED |  |
-| MAGIC VENUS | BC | 83416.0 | 2010 | Sanoyas Hishino Meisho Corp | 17.50 | UNDISCLOSED |  |
-| ARTEMIS | BC | 81963.0 | 2013 | COSCO Dalian Shipyard Co Ltd | 19.50 | CHINESE | BWTS FITTED |
-| SUPER LUNA | BC | 81517.0 | 2016 | Jinhai Heavy Industry | 22.60 | MODION MARITIME | BWTS FITTED |
-| TOMINI BRAVERY | BC | 81027.0 | 2015 | Jiangsu Jinling Ships Co Ltd | 24.50 | GREEK | TC ATTACHED 13.000$ LESS 5% 3-5/2024 |
-| XING HE HAI | BC | 61473.0 | 2016 | Dalian Cosco Khi Ship | 26.00 EACH | CHINESE |  |
-| XING HAO HAI | BC | 61452.0 | 2016 | Dalian Cosco Khi Ship |  |  |  |
-| IKAN PARANG | BC | 56618.0 | 2011 | Taizhou Kouan Shipbuilding Co | 11.00 | UNDISCLOSED | BWTS |
-| RICHMOND PEARL | BC | 53100.0 | 2009 | Yangzhou Dayang Shipbuilding | 10.00 | UNDISCLOSED |  |
-| BARONESS | BC | 34264.0 | 2011 | Zhejiang Jingang Shipbuilding | - | UNDISCLOSED |  |
-| SEASTAR TRADITION | BC | 30465.0 | 2009 | Tsuji Heavy Industries Jiangsu | - | UNDISCLOSED |  |
+| CAPT TASOS | BC | 181500 | 2023 | Namura Shipbuilding - Imari | 70.50 | NORDEN A/S | ECO |
+| HIGHLAND PARK | BC | 174093 | 2006 | Shanghai Waigaoqiao Shbldg | 15.00 | CHINESE | BWTS FITTED |
+| THE EVOLUTION | BC | 88270 | 2010 | Imabari Shbldg - Marugame | 17.40 | UNDISCLOSED | BWTS FITTED |
+| SFAKIA WAVE | BC | 87340 | 2011 | Hudong-Zhonghua Shipbuilding | 16.00 | CHINESE | BWTS FITTED |
+| NIAN NU JIAO | BC | 83601 | 2010 | Sanoyas | 18.00 | UNDISCLOSED |  |
+| MAGIC VENUS | BC | 83416 | 2010 | Sanoyas Hishino Meisho Corp | 17.50 | UNDISCLOSED |  |
+| ARTEMIS | BC | 81963 | 2013 | COSCO Dalian Shipyard Co Ltd | 19.50 | CHINESE | BWTS FITTED |
+| SUPER LUNA | BC | 81517 | 2016 | Jinhai Heavy Industry | 22.60 | MODION MARITIME | BWTS FITTED |
+| TOMINI BRAVERY | BC | 81027 | 2015 | Jiangsu Jinling Ships Co Ltd | 24.50 | GREEK | TC ATTACHED 13.000$ LESS 5% 3-5/2024 |
+| XING HE HAI | BC | 61473 | 2016 | Dalian Cosco Khi Ship | 26.00 EACH | CHINESE |  |
+| XING HAO HAI | BC | 61452 | 2016 | Dalian Cosco Khi Ship |  |  |  |
+| IKAN PARANG | BC | 56618 | 2011 | Taizhou Kouan Shipbuilding Co | 11.00 | UNDISCLOSED | BWTS |
+| RICHMOND PEARL | BC | 53100 | 2009 | Yangzhou Dayang Shipbuilding | 10.00 | UNDISCLOSED |  |
+| BARONESS | BC | 34264 | 2011 | Zhejiang Jingang Shipbuilding | - | UNDISCLOSED |  |
+| SEASTAR TRADITION | BC | 30465 | 2009 | Tsuji Heavy Industries Jiangsu | - | UNDISCLOSED |  |
 | VENUS GLORY | GAS | 54.474 | 2008 | Daewoo Shipbuilding & Marine | 66.00 | UNDISCLOSED |  |
-| BELLA CIAO | TANKER | 156586.0 | 2020 | New Times Shipbuilding Co Ltd | 86.00 | PERTAMINA | SCRUBBER FITTED TIER III |
-| CHEMTRANS MOON | TANKER | 72365.0 | 2004 | Hudong-Zhonghua Shipbuilding | 17.00 |  | EPOXY |
-| CHEMTRANS SEA | TANKER | 72365.0 | 2004 | Hudong-Zhonghua Shipbuilding | EACH | UNDISCLOSED | BWTS FITTED |
+| BELLA CIAO | TANKER | 156586 | 2020 | New Times Shipbuilding Co Ltd | 86.00 | PERTAMINA | SCRUBBER FITTED TIER III |
+| CHEMTRANS MOON | TANKER | 72365 | 2004 | Hudong-Zhonghua Shipbuilding | 17.00 |  | EPOXY |
+| CHEMTRANS SEA | TANKER | 72365 | 2004 | Hudong-Zhonghua Shipbuilding | EACH | UNDISCLOSED | BWTS FITTED |
 
 ## Demolition Market
 
@@ -63,9 +63,9 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W01_WK-12-24-CARRIERS_SP-
 
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Subcontinent | 15000 - 25000 | 502.91 | UP |
-| Containers | Subcontinent | 6000 - 10000 |  |  |
-| Bulkers | Subcontinent | 7000 - 12000 | 496.22 | UP |
+| Tankers | Subcontinent | 15000 - 25000 | 502.91 | DOWN |
+| Containers | Subcontinent | 6000 - 10000 | N/A |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 496.22 | DOWN |
 
 ## Market & Baltic Indices
 
@@ -74,41 +74,41 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W01_WK-12-24-CARRIERS_SP-
 | Sale and Purchase Index | DSPA | 3.297 |  |  | UP |
 | Sale and Purchase Index | BSPA | 5.288 |  |  | UP |
 | Sale and Purchase Index | TSPA | 7.278 |  |  | UP |
-| Recycling Index | DSRA | 6.935 |  |  | UP |
-| Recycling Index | TSRA | 12.25 |  |  | UP |
-| Recycling Index | BSRA | 9.593 |  |  | UP |
+| Recycling Index | DSRA | 6.935 |  |  | DOWN |
+| Recycling Index | TSRA | 12.250 |  |  | DOWN |
+| Recycling Index | BSRA | 9.593 |  |  | DOWN |
 | Newbuilding Index | BNBI |  |  |  |  |
 | Newbuilding Index | DNBI |  |  |  |  |
 | Newbuilding Index | TNBI |  |  |  |  |
-| Baltic Dry Indices | BDI | 2022.0 | -71.0 | 2093.0 |  |
-| Baltic Dry Indices | BCI | 3599.0 | 115.0 | 3484.0 |  |
-| Baltic Dry Indices | BPI | 1605.0 | -267.0 | 1872.0 |  |
-| Baltic Dry Indices | BSI | 1194.0 | -114.0 | 1308.0 |  |
-| Baltic Dry Indices | BHSI | 680.0 | -128.0 | 808.0 |  |
+| Baltic Dry Indices | BDI | 2022 | -71 | 2093 |  |
+| Baltic Dry Indices | BCI | 3599 | 115 | 3484 |  |
+| Baltic Dry Indices | BPI | 1605 | -267 | 1872 |  |
+| Baltic Dry Indices | BSI | 1194 | -114 | 1308 |  |
+| Baltic Dry Indices | BHSI | 680 | -128 | 808 |  |
 
 ## Dry BC Baltic Time Charter Weighted Average routes
 
 | Route / Class | This WK ($/day) | Week Ch. ($/day) | Prev. WK ($/day) |
 | --- | --- | --- | --- |
-| CAPE 180K | 29851.0 | 955.0 | 28896.0 |
-| TESS 82K | 14449.0 | -2402.0 | 16851.0 |
-| LME 74K | 13113.0 | -2402.0 | 15515.0 |
+| CAPE 180K | 29851 | 955 | 28896 |
+| TESS 82K | 14449 | -2402 | 16851 |
+| LME 74K | 13113 | -2402 | 15515 |
 | SUPRA 63K | 13138.0 | -1254.0 | 14392.0 |
-| HANDY 38K | 12247.0 | -2290.0 | 14537.0 |
+| HANDY 38K | 12247 | -2290 | 14537 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
 
 | Vessel Class | Tenor | Rate ($/day) | Rate Raw |
 | --- | --- | --- | --- |
-| CAPE 180k | SHORT | 22000.0 | 22,000 |
-| KAMSAR 82k | SHORT | 13500.0 | 13,500 |
-| PANAMAX 76k | SHORT | 12500.0 | 12,500 |
+| CAPE 180k | SHORT | 22000 | 22,000 |
+| KAMSAR 82k | SHORT | 13500 | 13,500 |
+| PANAMAX 76k | SHORT | 12500 | 12,500 |
 | UMAX | SHORT |  | ATL 21,500 PAC 14,500 |
 | SUPRA TESS 58k | SHORT |  | ATL 18,500 PAC 13,000 |
 | HANDY 32k | SHORT |  | N/A |
-| CAPE 180k | 1-YR | 18000.0 | 18,000 |
-| KAMSAR 82k | 1-YR | 14500.0 | 14,500 |
-| PANAMAX 76k | 1-YR | 13500.0 | 13,500 |
+| CAPE 180k | 1-YR | 18000 | 18,000 |
+| KAMSAR 82k | 1-YR | 14500 | 14,500 |
+| PANAMAX 76k | 1-YR | 13500 | 13,500 |
 | UMAX | 1-YR |  | ATL 16,000 PAC 14,500 |
 | SUPRA TESS 58k | 1-YR |  | ATL 14,000 PAC 13,000 |
 | HANDY 32k | 1-YR |  | N/A |
@@ -129,9 +129,9 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W01_WK-12-24-CARRIERS_SP-
 
 | Metric Name | This WK | Week Ch. | Previous |
 | --- | --- | --- | --- |
-| Baltic DIRTY Tanker Index | 1416.0 | 158.0 | 1258.0 |
-| Baltic CLEAN Tanker Index | 787.0 | -138.0 | 925.0 |
-| VLCC TCE | 43.967 | 13831.0 | 30.136 |
-| SUEZ TCE | 60.63 | 10197.0 | 50.433 |
-| AFRA TCE | 63.378 | 17469.0 | 45.909 |
-| MR ATLANTIC TC routes | 22.499 | -5254.0 | 27.753 |
+| Baltic DIRTY Tanker Index | 1416 | 158 | 1258 |
+| Baltic CLEAN Tanker Index | 787 | -138 | 925 |
+| VLCC TCE | 43967 | 13831 | 30136 |
+| SUEZ TCE | 60.63 | 10197 | 50.433 |
+| AFRA TCE | 63378 | 17469 | 45909 |
+| MR ATLANTIC TC routes | 22499 | -5254 | 27753 |

@@ -16,40 +16,40 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W49_WK-49-23-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| HERUN CHINA | BC | 181056.0 | 2017 | Shanghai Waigaoqiao Shbldg | 42.00 | UNDISCLOSED | SS 1/2027 DEL 3-5/2024 |
-| MARAN INNOVATION | BC | 171681.0 | 2004 | Daewoo Shipbuilding & Marine | 13.50 | LILA GLOBAL | SS 3/2024 |
-| GENCO COMMODUS | BC | 169098.0 | 2009 | Sungdong Shipbuilding & Eng | 19.50 | UNDISCLOSED | SS 7/2024 |
-| PEDHOULAS CHERRY | BC | 82013.0 | 2015 | Jiangsu Newyangzi | 26.60 | PYXIS TANKERS | SS 7/2025 |
-| CYMONA GALAXY | BC | 81383.0 | 2009 | Universal Shbldg - Maizuru | 15.00 | UNDISCLOSED | SS 6/2024 DEL 3/2024 |
-| KAI OLDENDORFF | BC | 81243.0 | 2019 | Jiangsu Hantong Ship HI | 30.10 | UNDISCLOSED | SS 1/2024 |
-| GOLDEN HAWK | BC | 58068.0 | 2015 | Shin Kurushima Toyohashi | 21.60 | BANGLADESH | SS/DD 2/2025 |
-| RUI FU KANG | BC | 57000.0 | 2011 | Xiamen Shipbuilding Industry | 12.00 | UNDISCLOSED | AUCTION |
-| ZHE HAI 169 | BC | 57000.0 | 2011 | China Shipping Ind Jiangsu | 11.70 | UNDISCLOSED | ONLINE AUCTION SS 8/2026 |
-| ERMIONE | BC | 56557.0 | 2008 | IHI Marine United - Yokohama | 14.00 | UNDISCLOSED | SS 9/2028 |
-| ORANGE RIVER | BC | 55687.0 | 2007 | Mitsui Tamano | - | INDONESIAN | SS 2/2027 |
-| ATLANTIC ALTAMIRA | BC | 43368.0 | 2017 | Qingshan Shipyard | 23.00 | KOREAN | SS 7/2027 |
-| IJSSEL CONFIDENCE | BC | 38243.0 | 2012 | Imabari Shbldg - Imabari | 16.50 | UNDISCLOSED | SS 1/2027 |
-| VULLY | BC | 35697.0 | 2011 | Shinan Heavy Industries Co | 12.90 | FAR EASTERN | SS 6/2026 |
-| PAN GLORIS | BC | 32975.0 | 2010 | Taizhou Maple Leaf Shbldg | UNDISCLOSED | SYRIAN | SS 1/2025 |
-| SARONIC SPIRE | BC | 32355.0 | 2004 | Kanda Kawajiri | 8.40 | UNDISCLOSED | SS 7/2024 |
-| TANAIS FLYER | BC | 28674.0 | 1998 | Imabari Shbldg - Imabari | 4.80 | UNDISCLOSED |  |
-| HARAD | TANKER | 303115.0 | 2001 | Samsung Heavy Inds - Geoje | 30.00 | CHINESE | SS 10/2026 |
-| JESSICA D | TANKER | 300976.0 | 2004 | IHI Marine United - Kure | 32.50 | UNDISCLOSED | SS 7/2024 |
-| NOBLEWAY | TANKER | 164028.0 | 2010 | Bohai Shipbuilding Heavy Ind | 47.00 | NEW SHIPPING | SS 7/2025 |
-| S-TREASURE | TANKER | 106061.0 | 2005 | Hyundai Samho HI | 32.00 | UNDISCLOSED | SS/DD 9/2025 |
-| LR2 ETERNITY | TANKER | 105445.0 | 2006 | Sumitomo Heavy Marine Yokosuka | UNDISCLOSED | UAE | SS/DD 11/2026 EPOXY |
-| BEA SCHULTE | CV | 59270.0 | 2010 | Daewoo Shipbuilding & Marine | UNDISCLOSED | MSC | SS 3/2025 |
-| NORTHERN DECENCY | CV | 48847.0 | 2003 | Hyundai Heavy Inds - Ulsan | 12.65 | FAR EASTERN |  |
-| LEO PERDANA | CV | 33423.0 | 2007 | Naikai Zosen Corp | 11.00 | MIDDLE EASTERN | SS 8/2025 |
-| ANTON SCHEPERS | CV | 13500.0 | 2004 | Daewoo-Mangalia | UNDISCLOSED | UNDISCLOSED |  |
+| HERUN CHINA | BC | 181056 | 2017 | Shanghai Waigaoqiao Shbldg | 42.00 | UNDISCLOSED | SS 1/2027 DEL 3-5/2024 |
+| MARAN INNOVATION | BC | 171681 | 2004 | Daewoo Shipbuilding & Marine | 13.50 | LILA GLOBAL | SS 3/2024 |
+| GENCO COMMODUS | BC | 169098 | 2009 | Sungdong Shipbuilding & Eng | 19.50 | UNDISCLOSED | SS 7/2024 |
+| PEDHOULAS CHERRY | BC | 82013 | 2015 | Jiangsu Newyangzi | 26.60 | PYXIS TANKERS | SS 7/2025 |
+| CYMONA GALAXY | BC | 81383 | 2009 | Universal Shbldg - Maizuru | 15.00 | UNDISCLOSED | SS 6/2024 DEL 3/2024 |
+| KAI OLDENDORFF | BC | 81243 | 2019 | Jiangsu Hantong Ship HI | 30.10 | UNDISCLOSED | SS 1/2024 |
+| GOLDEN HAWK | BC | 58068 | 2015 | Shin Kurushima Toyohashi | 21.60 | BANGLADESH | SS/DD 2/2025 |
+| RUI FU KANG | BC | 57000 | 2011 | Xiamen Shipbuilding Industry | 12.00 | UNDISCLOSED | AUCTION |
+| ZHE HAI 169 | BC | 57000 | 2011 | China Shipping Ind Jiangsu | 11.70 | UNDISCLOSED | ONLINE AUCTION SS 8/2026 |
+| ERMIONE | BC | 56557 | 2008 | IHI Marine United - Yokohama | 14.00 | UNDISCLOSED | SS 9/2028 |
+| ORANGE RIVER | BC | 55687 | 2007 | Mitsui Tamano | - | INDONESIAN | SS 2/2027 |
+| ATLANTIC ALTAMIRA | BC | 43368 | 2017 | Qingshan Shipyard | 23.00 | KOREAN | SS 7/2027 |
+| IJSSEL CONFIDENCE | BC | 38243 | 2012 | Imabari Shbldg - Imabari | 16.50 | UNDISCLOSED | SS 1/2027 |
+| VULLY | BC | 35697 | 2011 | Shinan Heavy Industries Co | 12.90 | FAR EASTERN | SS 6/2026 |
+| PAN GLORIS | BC | 32975 | 2010 | Taizhou Maple Leaf Shbldg | UNDISCLOSED | SYRIAN | SS 1/2025 |
+| SARONIC SPIRE | BC | 32355 | 2004 | Kanda Kawajiri | 8.40 | UNDISCLOSED | SS 7/2024 |
+| TANAIS FLYER | BC | 28674 | 1998 | Imabari Shbldg - Imabari | 4.80 | UNDISCLOSED |  |
+| HARAD | TANKER | 303115 | 2001 | Samsung Heavy Inds - Geoje | 30.00 | CHINESE | SS 10/2026 |
+| JESSICA D | TANKER | 300976 | 2004 | IHI Marine United - Kure | 32.50 | UNDISCLOSED | SS 7/2024 |
+| NOBLEWAY | TANKER | 164028 | 2010 | Bohai Shipbuilding Heavy Ind | 47.00 | NEW SHIPPING | SS 7/2025 |
+| S-TREASURE | TANKER | 106061 | 2005 | Hyundai Samho HI | 32.00 | UNDISCLOSED | SS/DD 9/2025 |
+| LR2 ETERNITY | TANKER | 105445 | 2006 | Sumitomo Heavy Marine Yokosuka | UNDISCLOSED | UAE | SS/DD 11/2026 EPOXY |
+| BEA SCHULTE | CV | 59270 | 2010 | Daewoo Shipbuilding & Marine | UNDISCLOSED | MSC | SS 3/2025 |
+| NORTHERN DECENCY | CV | 48847 | 2003 | Hyundai Heavy Inds - Ulsan | 12.65 | FAR EASTERN |  |
+| LEO PERDANA | CV | 33423 | 2007 | Naikai Zosen Corp | 11.00 | MIDDLE EASTERN | SS 8/2025 |
+| ANTON SCHEPERS | CV | 13500 | 2004 | Daewoo-Mangalia | UNDISCLOSED | UNDISCLOSED |  |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| G HARMONY | BC | 35014.0 | 11248.0 | 2005 | Kouan Shipbuilding | 510.0 | SUBCONT |  |
-| MSC RITA | CV | 104849.0 | 30712.0 | 2005 | Hanjin HHI | 407.0 | UAE | AS IS KHALIFA TOW REQ. AS IS |
-| ZE HONG | CV | 41624.0 | 11618.0 | 1995 | Thyssen Nordseewerke | 520.0 |  | ZHOUSHAN 285MT BUNKERS |
+| G HARMONY | BC | 35014 | 11248 | 2005 | Kouan Shipbuilding | 510 | SUBCONT |  |
+| MSC RITA | CV | 104849 | 30712 | 2005 | Hanjin HHI | 407 | UAE | AS IS KHALIFA TOW REQ. AS IS |
+| ZE HONG | CV | 41624 | 11618 | 1995 | Thyssen Nordseewerke | 520 |  | ZHOUSHAN 285MT BUNKERS |
 
 ## Newbuilding Market
 
@@ -75,52 +75,52 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W49_WK-49-23-CARRIERS_SP-
 
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Subcontinent | 15000 - 25000 | 505.41 | UP |
-| Containers | Subcontinent | 6000 - 10000 |  |  |
-| Bulkers | Subcontinent | 7000 - 12000 | 500.16 | UP |
+| Tankers | Subcontinent | 15000 - 25000 | 505.41 | DOWN |
+| Containers | Subcontinent | 6000 - 10000 | N/A |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 500.16 | DOWN |
 
 ## Market & Baltic Indices
 
 | Category | Index Name | Current Value | Change | Previous Value | Sentiment |
 | --- | --- | --- | --- | --- | --- |
-| Sale and Purchase Index | DSPA | 3.26 |  |  | UP |
+| Sale and Purchase Index | DSPA | 3.260 |  |  | UP |
 | Sale and Purchase Index | BSPA | 5.155 |  |  | UP |
 | Sale and Purchase Index | TSPA | 7.051 |  |  | UP |
-| Recycling Index | DSRA | 7.003 |  |  | UP |
-| Recycling Index | TSRA | 12.371 |  |  | UP |
-| Recycling Index | BSRA | 9.687 |  |  | UP |
+| Recycling Index | DSRA | 7.003 |  |  | DOWN |
+| Recycling Index | TSRA | 12.371 |  |  | DOWN |
+| Recycling Index | BSRA | 9.687 |  |  | DOWN |
 | Newbuilding Index | BNBI |  |  |  |  |
 | Newbuilding Index | DNBI |  |  |  |  |
 | Newbuilding Index | TNBI |  |  |  |  |
-| Baltic Dry Indices | BDI | 3346.0 | 1087.0 | 2259.0 |  |
-| Baltic Dry Indices | BCI | 6582.0 | 2763.0 | 3819.0 |  |
-| Baltic Dry Indices | BPI | 2441.0 | 346.0 | 2095.0 |  |
-| Baltic Dry Indices | BSI | 1526.0 | 234.0 | 1292.0 |  |
-| Baltic Dry Indices | BHSI | 800.0 | 120.0 | 680.0 |  |
+| Baltic Dry Indices | BDI | 3346 | 1087 | 2259 |  |
+| Baltic Dry Indices | BCI | 6582 | 2763 | 3819 |  |
+| Baltic Dry Indices | BPI | 2441 | 346 | 2095 |  |
+| Baltic Dry Indices | BSI | 1526 | 234 | 1292 |  |
+| Baltic Dry Indices | BHSI | 800 | 120 | 680 |  |
 
 ## Dry BC Baltic Time Charter Weighted Average routes
 
 | Route / Class | This WK ($/day) | Week Ch. ($/day) | Prev. WK ($/day) |
 | --- | --- | --- | --- |
-| CAPE 180K | 54584.0 | 22913.0 | 31671.0 |
-| TESS 82K | 21966.0 | 3107.0 | 18859.0 |
-| LME 74K | 20630.0 | 3107.0 | 17523.0 |
+| CAPE 180K | 54584 | 22913 | 31671 |
+| TESS 82K | 21966 | 3107 | 18859 |
+| LME 74K | 20630 | 3107 | 17523 |
 | SUPRA 63K | 16788.0 | 2579.0 | 14209.0 |
-| HANDY 38K | 14393.0 | 2152.0 | 12241.0 |
+| HANDY 38K | 14393 | 2152 | 12241 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
 
 | Vessel Class | Tenor | Rate ($/day) | Rate Raw |
 | --- | --- | --- | --- |
-| CAPE 180k | SHORT | 23000.0 | 23,000 |
-| KAMSAR 82k | SHORT | 15500.0 | 15,500 |
-| PANAMAX 76k | SHORT | 14500.0 | 14,500 |
+| CAPE 180k | SHORT | 23000 | 23,000 |
+| KAMSAR 82k | SHORT | 15500 | 15,500 |
+| PANAMAX 76k | SHORT | 14500 | 14,500 |
 | UMAX | SHORT |  | ATL 23,000 PAC 16,000 |
 | SUPRA TESS 58k | SHORT |  | ATL 21,000 PAC 13,000 |
 | HANDY 32k | SHORT |  | N/A |
-| CAPE 180k | 1-YR | 20000.0 | 20,000 |
-| KAMSAR 82k | 1-YR | 15000.0 | 15,000 |
-| PANAMAX 76k | 1-YR | 14000.0 | 14,000 |
+| CAPE 180k | 1-YR | 20000 | 20,000 |
+| KAMSAR 82k | 1-YR | 15000 | 15,000 |
+| PANAMAX 76k | 1-YR | 14000 | 14,000 |
 | UMAX | 1-YR |  | ATL 17,000 PAC 15,000 |
 | SUPRA TESS 58k | 1-YR |  | ATL 14,750 PAC 13,500 |
 | HANDY 32k | 1-YR |  | N/A |
@@ -141,9 +141,9 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W49_WK-49-23-CARRIERS_SP-
 
 | Metric Name | This WK | Week Ch. | Previous |
 | --- | --- | --- | --- |
-| Baltic DIRTY Tanker Index | 1171.0 | -51.0 | 1222.0 |
-| Baltic CLEAN Tanker Index | 830.0 | 8.0 | 822.0 |
-| VLCC TCE | 26.179 | 318.0 | 25.861 |
-| SUEZ TCE | 49.073 | -1137.0 | 50.21 |
-| AFRA TCE | 41.373 | -3531.0 | 44.904 |
-| MR ATLANTIC TC routes | 54.99 | -222.0 | 55.212 |
+| Baltic DIRTY Tanker Index | 1171 | -51 | 1222 |
+| Baltic CLEAN Tanker Index | 830 | 8 | 822 |
+| VLCC TCE | 26179 | 318 | 25861 |
+| SUEZ TCE | 49.073 | -1137 | 50.21 |
+| AFRA TCE | 41373 | -3531 | 44904 |
+| MR ATLANTIC TC routes | 54.99 | -222 | 55.212 |

@@ -16,39 +16,39 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W15_WK-15-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| YANGZE 901 | BC | 93229.0 | 2012 | Jiangsu Newyangzi | 12.80 | UNDISCLOSED |  |
-| OHSHU MARU | BC | 92075.0 | 2011 | Namura Shipbuilding - Imari | 16.20 | UNDISCLOSED |  |
-| SKYROS | BC | 79366.0 | 2011 | Nanjing Wujiazui Shipbuilding | 13.00 | UNDISCLOSED |  |
-| N AMALTHIA | BC | 75356.0 | 2006 | Universal Shbldg - Maizuru | 10.00 | UNDISCLOSED |  |
-| TAILWINDS | BC | 73624.0 | 2004 | Jiangnan Shipyard Group Co | 8.50 | CHINESE |  |
-| ASL IXORA | BC | 61470.0 | 2012 | Shin Kasado Dockyard Co Ltd | 19.60 | CHINESE |  |
-| SERENE AMELIA | BC | 57238.0 | 2010 | STX OFFSHORE & SHBLDG | 14.50 | UNDISCLOSED |  |
-| AQUAVITA BAY | BC | 55757.0 | 2014 | JAPAN MARINE UTD - KUR | 20.00 | UAE |  |
-| K. RUBY | BC | 55688.0 | 2011 | IHI Marine United - Yokohama | 15.80 | UNDISCLOSED |  |
-| POSEIDON S | BC | 53482.0 | 2008 | Iwagi Zosen Co Ltd | 13.00 | TURKISH |  |
-| ASTRO ORION | BC | 37388.0 | 2017 | AVIC WEIHAI SHIPYARD C | 21.00 | COSMOSHIP |  |
-| ITHACA PATIENCE | BC | 28349.0 | 2010 | Shimanami Shipyard Co Ltd | 9.70 | UNDISCLOSED |  |
-| JUNO BRAVE | BC | 25081.0 | 2012 | Murakami Hide | 6.50 | UNDISCLOSED |  |
-| STENA SURPRISE | TANKER | 158491.0 | 2012 | Sungdong Shipbuilding & Eng | - | UNDISCLOSED |  |
-| CAP FELIX | TANKER | 158765.0 | 2008 | Samsung Heavy Inds - Geoje | 95.00 EN BLOC | UNDISCLOSED |  |
-| SIENNA | TANKER | 149847.0 | 2007 | Universal Shbldg - Tsu | 95.00 EN BLOC | UNDISCLOSED |  |
-| ASIA ASCEND | TANKER | 115444.0 | 2004 | Samsung Heavy Inds - Geoje | 32.00 | CHINESE |  |
-| PM IMPERIAL | TANKER | 76574.0 | 2007 | Dalian Shipbuilding Ind - No 1 | 20.00 | UNDISCLOSED |  |
-| SHAHRAZAD | TANKER | 74999.0 | 2009 | Hyundai Mipo Dockyard Co | 22.00 | UNDISCLOSED |  |
-| EVER VICTORY | TANKER | 70426.0 | 2005 | Universal Shbldg - Maizuru | 14.68 | UNDISCLOSED |  |
-| SEA RAKER | TANKER | 70426.0 | 2005 | Universal Shbldg - Maizuru | 14.00 | UNDISCLOSED |  |
-| JAG PRAKASH | TANKER | 47848.0 | 2007 | STX Shipbuilding - Jinhae | 17.50 | UNDISCLOSED |  |
-| GT FREEDOM | TANKER | 45994.0 | 2003 | Shin Kurushima Onishi | 8.50 | UNDISCLOSED |  |
-| EAST COAST | TANKER | 37515.0 | 2005 | Hyundai Mipo Dockyard Co | 11.70 | UNDISCLOSED |  |
-| JBU SAPPHIRE | TANKER | 19860.0 | 2009 | Kitanihon | 18.70 | CHINESE | ST. STEEL |
-| CELSIUS NAPLES | CV | 63350.0 | 2009 | Daewoo Shipbuilding & Marine | 34.50 | GREEK | 4,860 TEU |
+| YANGZE 901 | BC | 93229 | 2012 | Jiangsu Newyangzi | 12.80 | UNDISCLOSED |  |
+| OHSHU MARU | BC | 92075 | 2011 | Namura Shipbuilding - Imari | 16.20 | UNDISCLOSED |  |
+| SKYROS | BC | 79366 | 2011 | Nanjing Wujiazui Shipbuilding | 13.00 | UNDISCLOSED |  |
+| N AMALTHIA | BC | 75356 | 2006 | Universal Shbldg - Maizuru | 10.00 | UNDISCLOSED |  |
+| TAILWINDS | BC | 73624 | 2004 | Jiangnan Shipyard Group Co | 8.50 | CHINESE |  |
+| ASL IXORA | BC | 61470 | 2012 | Shin Kasado Dockyard Co Ltd | 19.60 | CHINESE |  |
+| SERENE AMELIA | BC | 57238 | 2010 | STX OFFSHORE & SHBLDG | 14.50 | UNDISCLOSED |  |
+| AQUAVITA BAY | BC | 55757 | 2014 | JAPAN MARINE UTD - KUR | 20.00 | UAE |  |
+| K. RUBY | BC | 55688 | 2011 | IHI Marine United - Yokohama | 15.80 | UNDISCLOSED |  |
+| POSEIDON S | BC | 53482 | 2008 | Iwagi Zosen Co Ltd | 13.00 | TURKISH |  |
+| ASTRO ORION | BC | 37388 | 2017 | AVIC WEIHAI SHIPYARD C | 21.00 | COSMOSHIP |  |
+| ITHACA PATIENCE | BC | 28349 | 2010 | Shimanami Shipyard Co Ltd | 9.70 | UNDISCLOSED |  |
+| JUNO BRAVE | BC | 25081 | 2012 | Murakami Hide | 6.50 | UNDISCLOSED |  |
+| STENA SURPRISE | TANKER | 158491 | 2012 | Sungdong Shipbuilding & Eng | - | UNDISCLOSED |  |
+| CAP FELIX | TANKER | 158765 | 2008 | Samsung Heavy Inds - Geoje | 95.00 EN BLOC | UNDISCLOSED |  |
+| SIENNA | TANKER | 149847 | 2007 | Universal Shbldg - Tsu | 95.00 EN BLOC | UNDISCLOSED |  |
+| ASIA ASCEND | TANKER | 115444 | 2004 | Samsung Heavy Inds - Geoje | 32.00 | CHINESE |  |
+| PM IMPERIAL | TANKER | 76574 | 2007 | Dalian Shipbuilding Ind - No 1 | 20.00 | UNDISCLOSED |  |
+| SHAHRAZAD | TANKER | 74999 | 2009 | Hyundai Mipo Dockyard Co | 22.00 | UNDISCLOSED |  |
+| EVER VICTORY | TANKER | 70426 | 2005 | Universal Shbldg - Maizuru | 14.68 | UNDISCLOSED |  |
+| SEA RAKER | TANKER | 70426 | 2005 | Universal Shbldg - Maizuru | 14.00 | UNDISCLOSED |  |
+| JAG PRAKASH | TANKER | 47848 | 2007 | STX Shipbuilding - Jinhae | 17.50 | UNDISCLOSED |  |
+| GT FREEDOM | TANKER | 45994 | 2003 | Shin Kurushima Onishi | 8.50 | UNDISCLOSED |  |
+| EAST COAST | TANKER | 37515 | 2005 | Hyundai Mipo Dockyard Co | 11.70 | UNDISCLOSED |  |
+| JBU SAPPHIRE | TANKER | 19860 | 2009 | Kitanihon | 18.70 | CHINESE | ST. STEEL |
+| CELSIUS NAPLES | CV | 63350 | 2009 | Daewoo Shipbuilding & Marine | 34.50 | GREEK | 4,860 TEU |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BOW FAITH | TANKER | 37479.0 | 11060.0 | 1997 | Kvaerner Floro | 945.0 | INDIA | ST. STEEL & BUNKERS |
-| ANDHIKA | LNG | 73220.0 | 10026.0 | 1998 | Sumitomo HI | 461.0 | AS | IS INDONESIA |
+| BOW FAITH | TANKER | 37479 | 11060 | 1997 | Kvaerner Floro | 945 | INDIA | ST. STEEL & BUNKERS |
+| ANDHIKA | LNG | 73220 | 10026 | 1998 | Sumitomo HI | 461 | AS | IS INDONESIA |
 
 ## Newbuilding Market
 
@@ -74,7 +74,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W15_WK-15-26-CARRIERS_SP-
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
 | Tankers | Subcontinent | 15000 - 25000 | 456.52 | UP |
-| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Containers | Subcontinent | 6000 - 10000 | N/A |  |
 | Bulkers | Subcontinent | 7000 - 12000 | 446.3 | UP |
 
 ## Market & Baltic Indices
@@ -90,35 +90,35 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W15_WK-15-26-CARRIERS_SP-
 | Newbuilding Index | BNBI |  |  |  |  |
 | Newbuilding Index | DNBI | 5.0 |  |  | UP |
 | Newbuilding Index | TNBI | 7.838 |  |  | UP |
-| Baltic Dry Indices | BDI | 2250.0 | 155.0 | 2095.0 |  |
-| Baltic Dry Indices | BCI | 3437.0 | 289.0 | 3148.0 |  |
-| Baltic Dry Indices | BPI | 1862.0 | 60.0 | 1802.0 |  |
-| Baltic Dry Indices | BSI | 1320.0 | 89.0 | 1231.0 |  |
-| Baltic Dry Indices | BHSI | 701.0 | 7.0 | 694.0 |  |
+| Baltic Dry Indices | BDI | 2250 | 155 | 2095 |  |
+| Baltic Dry Indices | BCI | 3437 | 289 | 3148 |  |
+| Baltic Dry Indices | BPI | 1862 | 60 | 1802 |  |
+| Baltic Dry Indices | BSI | 1320 | 89 | 1231 |  |
+| Baltic Dry Indices | BHSI | 701 | 7 | 694 |  |
 
 ## Dry BC Baltic Time Charter Weighted Average routes
 
 | Route / Class | This WK ($/day) | Week Ch. ($/day) | Prev. WK ($/day) |
 | --- | --- | --- | --- |
-| CAPE 180K | 31170.0 | 2622.0 | 28548.0 |
-| TESS 82K | 16757.0 | 537.0 | 16220.0 |
+| CAPE 180K | 31170 | 2622 | 28548 |
+| TESS 82K | 16757 | 537 | 16220 |
 | LME 74K |  |  |  |
-| SUPRA 63K | 16681.0 | 1117.0 | 15564.0 |
-| HANDY 38K | 12626.0 | -126.0 | 12500.0 |
+| SUPRA 63K | 16681 | 1117 | 15564 |
+| HANDY 38K | 12626 | -126 | 12500 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
 
 | Vessel Class | Tenor | Rate ($/day) | Rate Raw |
 | --- | --- | --- | --- |
-| CAPE 180k | SHORT | 29500.0 | 29,500 |
-| KAMSAR 82k | SHORT | 19500.0 | 19,500 |
-| PANAMAX 76k | SHORT | 16500.0 | 16,500 |
+| CAPE 180k | SHORT | 29500 | 29,500 |
+| KAMSAR 82k | SHORT | 19500 | 19,500 |
+| PANAMAX 76k | SHORT | 16500 | 16,500 |
 | UMAX | SHORT |  | ATL 18,500 PAC 18,500 |
 | SUPRA TESS 58k | SHORT |  | ATL 16,000 PAC 16,000 |
 | HANDY 32k | SHORT |  | N/A |
-| CAPE 180k | 1-YR | 28000.0 | 28,000 |
-| KAMSAR 82k | 1-YR | 18500.0 | 18,500 |
-| PANAMAX 76k | 1-YR | 15500.0 | 15,500 |
+| CAPE 180k | 1-YR | 28000 | 28,000 |
+| KAMSAR 82k | 1-YR | 18500 | 18,500 |
+| PANAMAX 76k | 1-YR | 15500 | 15,500 |
 | UMAX | 1-YR |  | ATL 18,000 PAC 18,000 |
 | SUPRA TESS 58k | 1-YR |  | ATL 16,000 PAC 16,000 |
 | HANDY 32k | 1-YR |  | N/A |
@@ -139,9 +139,9 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W15_WK-15-26-CARRIERS_SP-
 
 | Metric Name | This WK | Week Ch. | Previous |
 | --- | --- | --- | --- |
-| Baltic DIRTY Tanker Index | 3422.0 | -76.0 | 3498.0 |
-| Baltic CLEAN Tanker Index | 2146.0 | 174.0 | 1972.0 |
-| VLCC TCE | 232.914 | 26556.0 | 206.358 |
-| SUEZ TCE | 216.943 | -19383.0 | 236.326 |
-| AFRA TCE | 169.182 | -39365.0 | 208.547 |
-| MR ATLANTIC TC routes | 113.755 | 15947.0 | 97.808 |
+| Baltic DIRTY Tanker Index | 3422 | -76 | 3498 |
+| Baltic CLEAN Tanker Index | 2146 | 174 | 1972 |
+| VLCC TCE | 232914 | 26556 | 206358 |
+| SUEZ TCE | 216943 | -19383 | 236326 |
+| AFRA TCE | 169182 | -39365 | 208547 |
+| MR ATLANTIC TC routes | 113755 | 15947 | 97808 |

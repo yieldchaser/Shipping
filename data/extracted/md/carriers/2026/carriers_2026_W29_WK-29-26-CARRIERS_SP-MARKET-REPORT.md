@@ -16,24 +16,24 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W29_WK-29-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| AASHNA | BC | 179523.0 | 2012 | HHIC-Phil Inc | 37,500,000 | CHINESE |  |
-| INDUS PROSPERITY | BC | 92988.0 | 2011 | Taizhou Sanfu Ship Engineering | 13,250,000 UNDISCLOSED | SS/DD | DUE |
-| OCEAN RHEA | BC | 92648.0 | 2011 | Jiangsu Jinling Ships Co Ltd | 15,250,000 UNDISCLOSED |  |  |
-| BRITTA OLDENDORFF | BC | 62623.0 | 2020 | Oshima Shipbuilding Co Ltd | 37,000,000 | MEGHNA |  |
-| BENJAMIN OLDENDORFF | BC | 62623.0 | 2020 | Oshima Shipbuilding Co Ltd | 37,000,000 | MEGHNA |  |
-| BLUE AKIHABARA | BC | 61630.0 | 2014 | Nantong COSCO KHI Ship Eng | 25,500,000 | GREEK |  |
-| INCE BEYLERBEYI | BC | 61429.0 | 2012 | Iwagi Zosen Co Ltd | 22,500,000 | MIDDLE EASTERN |  |
-| IVS CRIMSON CREEK | BC | 57945.0 | 2014 | Shin Kurushima Toyohashi | 23,300,000 | GREEK |  |
-| HPC ATLANTIC | BC | 56064.0 | 2013 | MINAMINIPPON SHBLDG - | 19,500,000 UNDISCLOSED |  |  |
-| OCEAN HIRYU | BC | 52982.0 | 2003 | Oshima Shipbuilding Co Ltd | 7,900,000 | CHINESE |  |
-| THOR INFINITY | BC | 52383.0 | 2002 | Tsuneishi Heavy Inds Cebu | 7,800,000 | CHINESE |  |
-| BLUE UNION ALPHA | BC | 28386.0 | 2011 | Imabari Shbldg - Imabari | 9,650,000 UNDISCLOSED |  |  |
-| GH HOLIDAY | TANKER | 157543.0 | 2016 | New Times Shipbuilding Co | 81,000,000 | MIDDLE EASTERN |  |
-| MINERVA RITA | TANKER | 50922.0 | 2005 | STX Shipbuilding - Jinhae | 16,200,000 | CHINESE |  |
-| FG ROTTERDAM | TANKER | 19995.0 | 2012 | Usuki Shipyard Co Ltd | 22,700,000 UNDISCLOSED |  |  |
-| DING HENG 39 | TANKER | 19994.0 | 2008 | Fukuoka Shipbuilding - Fukuoka | 18,300,000 UNDISCLOSED | SS/DD | ST. STEEL DUE |
-| CNC DREAM | TANKER | 19773.0 | 2004 | Fukuoka Shipbuilding - Fukuoka | 11,500,000 UNDISCLOSED |  | ST. STEEL |
-| APOLLO TRADER | CV | 13732.0 | 2003 | Jiangdong Shipyard | 11,000,000 UNDISCLOSED |  | 1,118 TEU |
+| AASHNA | BC | 179523 | 2012 | HHIC-Phil Inc | 37,500,000 | CHINESE |  |
+| INDUS PROSPERITY | BC | 92988 | 2011 | Taizhou Sanfu Ship Engineering | 13,250,000 UNDISCLOSED | SS/DD | DUE |
+| OCEAN RHEA | BC | 92648 | 2011 | Jiangsu Jinling Ships Co Ltd | 15,250,000 UNDISCLOSED |  |  |
+| BRITTA OLDENDORFF | BC | 62623 | 2020 | Oshima Shipbuilding Co Ltd | 37,000,000 | MEGHNA |  |
+| BENJAMIN OLDENDORFF | BC | 62623 | 2020 | Oshima Shipbuilding Co Ltd | 37,000,000 | MEGHNA |  |
+| BLUE AKIHABARA | BC | 61630 | 2014 | Nantong COSCO KHI Ship Eng | 25,500,000 | GREEK |  |
+| INCE BEYLERBEYI | BC | 61429 | 2012 | Iwagi Zosen Co Ltd | 22,500,000 | MIDDLE EASTERN |  |
+| IVS CRIMSON CREEK | BC | 57945 | 2014 | Shin Kurushima Toyohashi | 23,300,000 | GREEK |  |
+| HPC ATLANTIC | BC | 56064 | 2013 | MINAMINIPPON SHBLDG - | 19,500,000 UNDISCLOSED |  |  |
+| OCEAN HIRYU | BC | 52982 | 2003 | Oshima Shipbuilding Co Ltd | 7,900,000 | CHINESE |  |
+| THOR INFINITY | BC | 52383 | 2002 | Tsuneishi Heavy Inds Cebu | 7,800,000 | CHINESE |  |
+| BLUE UNION ALPHA | BC | 28386 | 2011 | Imabari Shbldg - Imabari | 9,650,000 UNDISCLOSED |  |  |
+| GH HOLIDAY | TANKER | 157543 | 2016 | New Times Shipbuilding Co | 81,000,000 | MIDDLE EASTERN |  |
+| MINERVA RITA | TANKER | 50922 | 2005 | STX Shipbuilding - Jinhae | 16,200,000 | CHINESE |  |
+| FG ROTTERDAM | TANKER | 19995 | 2012 | Usuki Shipyard Co Ltd | 22,700,000 UNDISCLOSED |  |  |
+| DING HENG 39 | TANKER | 19994 | 2008 | Fukuoka Shipbuilding - Fukuoka | 18,300,000 UNDISCLOSED | SS/DD | ST. STEEL DUE |
+| CNC DREAM | TANKER | 19773 | 2004 | Fukuoka Shipbuilding - Fukuoka | 11,500,000 UNDISCLOSED |  | ST. STEEL |
+| APOLLO TRADER | CV | 13732 | 2003 | Jiangdong Shipyard | 11,000,000 UNDISCLOSED |  | 1,118 TEU |
 
 ## Demolition Market
 
@@ -61,9 +61,9 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W29_WK-29-26-CARRIERS_SP-
 
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Subcontinent | 15000 - 25000 | 465.0 | UP |
-| Containers | Subcontinent | 6000 - 10000 |  |  |
-| Bulkers | Subcontinent | 7000 - 12000 | 451.69 | UP |
+| Tankers | Subcontinent | 15000 - 25000 | 465 | DOWN |
+| Containers | Subcontinent | 6000 - 10000 | N/A |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 451.69 | DOWN |
 
 ## Market & Baltic Indices
 
@@ -72,41 +72,41 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W29_WK-29-26-CARRIERS_SP-
 | Sale and Purchase Index | DSPA | 4.406 |  |  | UP |
 | Sale and Purchase Index | BSPA |  |  |  |  |
 | Sale and Purchase Index | TSPA | 9.379 |  |  | UP |
-| Recycling Index | DSRA | 6.296 |  |  | UP |
-| Recycling Index | TSRA | 11.337 |  |  | UP |
+| Recycling Index | DSRA | 6.296 |  |  | DOWN |
+| Recycling Index | TSRA | 11.337 |  |  | DOWN |
 | Recycling Index | BSRA |  |  |  |  |
 | Newbuilding Index | BNBI |  |  |  |  |
 | Newbuilding Index | DNBI | 5.091 |  |  | UP |
 | Newbuilding Index | TNBI | 8.045 |  |  | UP |
 | Baltic Dry Indices | BDI | 2671.0 | -289.0 | 2960.0 |  |
-| Baltic Dry Indices | BCI | 3889.0 | -813.0 | 4702.0 |  |
-| Baltic Dry Indices | BPI | 2227.0 | -23.0 | 2250.0 |  |
-| Baltic Dry Indices | BSI | 1738.0 | 31.0 | 1707.0 |  |
-| Baltic Dry Indices | BHSI | 901.0 | -13.0 | 914.0 |  |
+| Baltic Dry Indices | BCI | 3889 | -813 | 4702 |  |
+| Baltic Dry Indices | BPI | 2227 | -23 | 2250 |  |
+| Baltic Dry Indices | BSI | 1738 | 31 | 1707 |  |
+| Baltic Dry Indices | BHSI | 901 | -13 | 914 |  |
 
 ## Dry BC Baltic Time Charter Weighted Average routes
 
 | Route / Class | This WK ($/day) | Week Ch. ($/day) | Prev. WK ($/day) |
 | --- | --- | --- | --- |
-| CAPE 180K | 35271.0 | -3807.0 | 39078.0 |
-| TESS 82K | 20045.0 | 102.0 | 19943.0 |
+| CAPE 180K | 35271 | -3807 | 39078 |
+| TESS 82K | 20045 | 102 | 19943 |
 | LME 74K |  |  |  |
-| SUPRA 63K | 21965.0 | 786.0 | 21179.0 |
-| HANDY 38K | 16224.0 | -626.0 | 16850.0 |
+| SUPRA 63K | 21965 | 786 | 21179 |
+| HANDY 38K | 16224 | -626 | 16850 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
 
 | Vessel Class | Tenor | Rate ($/day) | Rate Raw |
 | --- | --- | --- | --- |
-| CAPE 180k | SHORT | 33000.0 | 33,000 |
-| KAMSAR 82k | SHORT | 18000.0 | 18,000 |
-| PANAMAX 76k | SHORT | 16500.0 | 16,500 |
+| CAPE 180k | SHORT | 33000 | 33,000 |
+| KAMSAR 82k | SHORT | 18000 | 18,000 |
+| PANAMAX 76k | SHORT | 16500 | 16,500 |
 | UMAX | SHORT |  | ATL 21,000 PAC 21,000 |
 | SUPRA TESS 58k | SHORT |  | ATL 19,500 PAC 19,500 |
 | HANDY 32k | SHORT |  | N/A |
-| CAPE 180k | 1-YR | 30500.0 | 30,500 |
-| KAMSAR 82k | 1-YR | 17000.0 | 17,000 |
-| PANAMAX 76k | 1-YR | 15500.0 | 15,500 |
+| CAPE 180k | 1-YR | 30500 | 30,500 |
+| KAMSAR 82k | 1-YR | 17000 | 17,000 |
+| PANAMAX 76k | 1-YR | 15500 | 15,500 |
 | UMAX | 1-YR |  | ATL 20,000 PAC 20,000 |
 | SUPRA TESS 58k | 1-YR |  | ATL 19,000 PAC 19,000 |
 | HANDY 32k | 1-YR |  | N/A |
@@ -127,9 +127,9 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W29_WK-29-26-CARRIERS_SP-
 
 | Metric Name | This WK | Week Ch. | Previous |
 | --- | --- | --- | --- |
-| Baltic DIRTY Tanker Index | 2298.0 | 238.0 | 2060.0 |
-| Baltic CLEAN Tanker Index | 1262.0 | 134.0 | 1128.0 |
-| VLCC TCE | 195.647 | -11549.0 | 207.796 |
-| SUEZ TCE | 149.781 | 5003.0 | 144.778 |
-| AFRA TCE | 86.529 | 29857.0 | 56.672 |
-| MR ATLANTIC TC routes | 35.014 | -2646.0 | 37.66 |
+| Baltic DIRTY Tanker Index | 2298 | 238 | 2060 |
+| Baltic CLEAN Tanker Index | 1262 | 134 | 1128 |
+| VLCC TCE | 195.647 | -11549 | 207.796 |
+| SUEZ TCE | 149781 | 5003 | 144778 |
+| AFRA TCE | 86529 | 29857 | 56672 |
+| MR ATLANTIC TC routes | 35.014 | -2646 | 37.66 |

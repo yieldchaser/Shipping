@@ -16,41 +16,41 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W40_WK-40-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| BULK JOYANCE | BC | 175636.0 | 2012 | JINHAI HEAVY INDUSTRY | 31,100,000 | CHINESE |  |
-| EKATERINI V | BC | 173555.0 | 2012 | Bohai Shipbuilding Heavy Ind | 35,000,000 | FAR EASTERN |  |
-| CONSTANTINOS G.O. | BC | 87447.0 | 2011 | Hudong-Zhonghua | 16,000,000 | UNDISCLOSED |  |
-| DENSA PELICAN | BC | 82744.0 | 2012 | STX OFFSHORE & SHBLDG | 20,500,000 | UNDISCLOSED |  |
-| KIRRIBILLI | BC | 82206.0 | 2011 | TSUNEISHI SHBLDG - FKY | 22,750,000 | UNDISCLOSED |  |
-| WORLD DIANA | BC | 82031.0 | 2020 | Oshima Shipbuilding Co Ltd | 41,000,000 | UNDISCLOSED |  |
-| MOON | BC | 80505.0 | 2012 | STX OFFSHORE & SHBLDG | 19,000,000 | UNDISCLOSED |  |
-| JUNIPER | BC | 57185.0 | 2011 | STX Dalian Shipbuilding | 16,500,000 | UNDISCLOSED |  |
-| PLATE QUEEN | BC | 55649.0 | 2007 | Oshima Shipbuilding Co Ltd | 15,350,000 | UNDISCLOSED |  |
-| NEW HORIZON | BC | 55445.0 | 2010 | Kawasaki Shipbuilding - Kobe | 18,300,000 | UNDISCLOSED |  |
-| PROMETHEUS 1 | BC | 55415.0 | 2012 | Hyundai-Vinashin Shipyard | 19,000,000 | GREEK |  |
-| SSI AVENGER | BC | 52949.0 | 2004 | Oshima Shipbuilding Co Ltd | 10,000,000 | UNDISCLOSED |  |
-| OLYMPIC TARGET | TANKER | 319861.0 | 2011 | Hyundai Heavy Inds - Ulsan | 150,000,000 | GREEK |  |
-| OLYMPIC LIGHT | TANKER | 317106.0 | 2011 | Hyundai Samho HI | 150,000,000 | GREEK |  |
-| SEA LEOPARD | TANKER | 314000.0 | 2011 | Daewoo Shipbuilding | 169,000,000 | UNDISCLOSED |  |
-| NORDIC FREEDOM | TANKER | 159331.0 | 2005 | Daewoo Shipbuilding | 65,000,000 | UNDISCLOSED |  |
-| TIANLONG | TANKER | 159021.0 | 2009 | Bohai Shipbuilding Heavy Ind | 88,000,000 | UNDISCLOSED |  |
-| SAMSUNG 2764 | TANKER | 156850.0 | 2029 | Samsung Heavy Inds - Geoje | - | UNDISCLOSED |  |
-| TATAKI | TANKER | 149992.0 | 2010 | New Times Shipbuilding | 97,000,000 | UNDISCLOSED |  |
-| KAROLOS | TANKER | 149991.0 | 2009 | New Times Shipbuilding | 90,000,000 | UNDISCLOSED |  |
-| ADVANTAGE ATOM | TANKER | 116014.0 | 2011 | Samsung Heavy Inds - Geoje | 52,500,000 | UNDISCLOSED |  |
-| STI ELYSEES | TANKER | 109999.0 | 2014 | Hyundai Samho HI | 70,000,000 | GREEK |  |
-| STI VENETO | TANKER | 89999.0 | 2015 | Hyundai Samho HI | 73,000,000 | UNDISCLOSED |  |
-| JAG SPARROW | TANKER | 74999.0 | 2005 | Hyundai Heavy Inds - Ulsan | 23,500,000 | UNDISCLOSED |  |
-| BLUEBIRD | TANKER | 74074.0 | 2016 | New Times Shipbuilding Co | 55,000,000 | YASA |  |
-| STARLING | TANKER | 74033.0 | 2016 | New Times Shipbuilding Co | 55,000,000 | YASA |  |
-| ASIAN PHOENIX | TANKER | 72782.0 | 2006 | Dalian Shipbuilding Ind | 20,000,000 | UNDISCLOSED |  |
-| TORM LAURA | TANKER | 53160.0 | 2008 | Guangzhou Shipyard Intl Co | 22,500,000 | UNDISCLOSED |  |
-| GREEN PLANET | TANKER | 50844.0 | 2014 | Dae Sun Shipbuilding & Eng | 37,250,000 | UNDISCLOSED |  |
-| MP MR TANKER 1 | TANKER | 49999.0 | 2011 | Hyundai Mipo Dockyard Co | 29,000,000 | UNDISCLOSED |  |
-| SEA RUNNER | TANKER | 49999.0 | 2008 | Guangzhou Shipyard Intl Co | 20,500,000 | UNDISCLOSED |  |
-| BOW VICTORY | TANKER | 21193.0 | 2016 | Asakawa | 32,000,000 | UNDISCLOSED |  |
-| BW LOYALTY | VLGC | 55056.0 | 2008 | Daewoo Shipbuilding | 84,000,000 | ETERNITY DUBAI |  |
-| COSCO HAMBURG | CV | 69193.0 | 2001 | Kawasaki HI - Sakaide | 32,000,000 | UNDISCLOSED | 5,618 TEU |
-| COSCO FELIXSTOWE | CV | 69107.0 | 2002 | Nantong COSCO KHI Ship | 32,000,000 | UNDISCLOSED | INCL 3 YEAR T/C |
+| BULK JOYANCE | BC | 175636 | 2012 | JINHAI HEAVY INDUSTRY | 31,100,000 | CHINESE |  |
+| EKATERINI V | BC | 173555 | 2012 | Bohai Shipbuilding Heavy Ind | 35,000,000 | FAR EASTERN |  |
+| CONSTANTINOS G.O. | BC | 87447 | 2011 | Hudong-Zhonghua | 16,000,000 | UNDISCLOSED |  |
+| DENSA PELICAN | BC | 82744 | 2012 | STX OFFSHORE & SHBLDG | 20,500,000 | UNDISCLOSED |  |
+| KIRRIBILLI | BC | 82206 | 2011 | TSUNEISHI SHBLDG - FKY | 22,750,000 | UNDISCLOSED |  |
+| WORLD DIANA | BC | 82031 | 2020 | Oshima Shipbuilding Co Ltd | 41,000,000 | UNDISCLOSED |  |
+| MOON | BC | 80505 | 2012 | STX OFFSHORE & SHBLDG | 19,000,000 | UNDISCLOSED |  |
+| JUNIPER | BC | 57185 | 2011 | STX Dalian Shipbuilding | 16,500,000 | UNDISCLOSED |  |
+| PLATE QUEEN | BC | 55649 | 2007 | Oshima Shipbuilding Co Ltd | 15,350,000 | UNDISCLOSED |  |
+| NEW HORIZON | BC | 55445 | 2010 | Kawasaki Shipbuilding - Kobe | 18,300,000 | UNDISCLOSED |  |
+| PROMETHEUS 1 | BC | 55415 | 2012 | Hyundai-Vinashin Shipyard | 19,000,000 | GREEK |  |
+| SSI AVENGER | BC | 52949 | 2004 | Oshima Shipbuilding Co Ltd | 10,000,000 | UNDISCLOSED |  |
+| OLYMPIC TARGET | TANKER | 319861 | 2011 | Hyundai Heavy Inds - Ulsan | 150,000,000 | GREEK |  |
+| OLYMPIC LIGHT | TANKER | 317106 | 2011 | Hyundai Samho HI | 150,000,000 | GREEK |  |
+| SEA LEOPARD | TANKER | 314000 | 2011 | Daewoo Shipbuilding | 169,000,000 | UNDISCLOSED |  |
+| NORDIC FREEDOM | TANKER | 159331 | 2005 | Daewoo Shipbuilding | 65,000,000 | UNDISCLOSED |  |
+| TIANLONG | TANKER | 159021 | 2009 | Bohai Shipbuilding Heavy Ind | 88,000,000 | UNDISCLOSED |  |
+| SAMSUNG 2764 | TANKER | 156850 | 2029 | Samsung Heavy Inds - Geoje | - | UNDISCLOSED |  |
+| TATAKI | TANKER | 149992 | 2010 | New Times Shipbuilding | 97,000,000 | UNDISCLOSED |  |
+| KAROLOS | TANKER | 149991 | 2009 | New Times Shipbuilding | 90,000,000 | UNDISCLOSED |  |
+| ADVANTAGE ATOM | TANKER | 116014 | 2011 | Samsung Heavy Inds - Geoje | 52,500,000 | UNDISCLOSED |  |
+| STI ELYSEES | TANKER | 109999 | 2014 | Hyundai Samho HI | 70,000,000 | GREEK |  |
+| STI VENETO | TANKER | 89999 | 2015 | Hyundai Samho HI | 73,000,000 | UNDISCLOSED |  |
+| JAG SPARROW | TANKER | 74999 | 2005 | Hyundai Heavy Inds - Ulsan | 23,500,000 | UNDISCLOSED |  |
+| BLUEBIRD | TANKER | 74074 | 2016 | New Times Shipbuilding Co | 55,000,000 | YASA |  |
+| STARLING | TANKER | 74033 | 2016 | New Times Shipbuilding Co | 55,000,000 | YASA |  |
+| ASIAN PHOENIX | TANKER | 72782 | 2006 | Dalian Shipbuilding Ind | 20,000,000 | UNDISCLOSED |  |
+| TORM LAURA | TANKER | 53160 | 2008 | Guangzhou Shipyard Intl Co | 22,500,000 | UNDISCLOSED |  |
+| GREEN PLANET | TANKER | 50844 | 2014 | Dae Sun Shipbuilding & Eng | 37,250,000 | UNDISCLOSED |  |
+| MP MR TANKER 1 | TANKER | 49999 | 2011 | Hyundai Mipo Dockyard Co | 29,000,000 | UNDISCLOSED |  |
+| SEA RUNNER | TANKER | 49999 | 2008 | Guangzhou Shipyard Intl Co | 20,500,000 | UNDISCLOSED |  |
+| BOW VICTORY | TANKER | 21193 | 2016 | Asakawa | 32,000,000 | UNDISCLOSED |  |
+| BW LOYALTY | VLGC | 55056 | 2008 | Daewoo Shipbuilding | 84,000,000 | ETERNITY DUBAI |  |
+| COSCO HAMBURG | CV | 69193 | 2001 | Kawasaki HI - Sakaide | 32,000,000 | UNDISCLOSED | 5,618 TEU |
+| COSCO FELIXSTOWE | CV | 69107 | 2002 | Nantong COSCO KHI Ship | 32,000,000 | UNDISCLOSED | INCL 3 YEAR T/C |
 
 ## Demolition Market
 
@@ -79,9 +79,9 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W40_WK-40-26-CARRIERS_SP-
 
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Subcontinent | 15000 - 25000 | 512.25 | UP |
-| Containers | Subcontinent | 6000 - 10000 |  |  |
-| Bulkers | Subcontinent | 7000 - 12000 | 495.88 | UP |
+| Tankers | Subcontinent | 15000 - 25000 | 512.25 | DOWN |
+| Containers | Subcontinent | 6000 - 10000 | N/A |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 495.88 | DOWN |
 
 ## Market & Baltic Indices
 
@@ -90,41 +90,41 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W40_WK-40-26-CARRIERS_SP-
 | Sale and Purchase Index | DSPA | 4.609 |  |  | UP |
 | Sale and Purchase Index | BSPA |  |  |  |  |
 | Sale and Purchase Index | TSPA | 10.934 |  |  | UP |
-| Recycling Index | DSRA | 6.916 |  |  | UP |
-| Recycling Index | TSRA | 12.449 |  |  | UP |
+| Recycling Index | DSRA | 6.916 |  |  | DOWN |
+| Recycling Index | TSRA | 12.449 |  |  | DOWN |
 | Recycling Index | BSRA |  |  |  |  |
 | Newbuilding Index | BNBI |  |  |  |  |
 | Newbuilding Index | DNBI | 5.141 |  |  | UP |
 | Newbuilding Index | TNBI | 8.123 |  |  | UP |
 | Baltic Dry Indices | BDI | 3070.0 | -198.0 | 3268.0 |  |
-| Baltic Dry Indices | BCI | 4833.0 | -518.0 | 5351.0 |  |
-| Baltic Dry Indices | BPI | 2364.0 | -38.0 | 2402.0 |  |
+| Baltic Dry Indices | BCI | 4833 | -518 | 5351 |  |
+| Baltic Dry Indices | BPI | 2364 | -38 | 2402 |  |
 | Baltic Dry Indices | BSI | 1790.0 | 0.0 | 1790.0 |  |
-| Baltic Dry Indices | BHSI | 1004.0 | -8.0 | 1012.0 |  |
+| Baltic Dry Indices | BHSI | 1004 | -8 | 1012 |  |
 
 ## Dry BC Baltic Time Charter Weighted Average routes
 
 | Route / Class | This WK ($/day) | Week Ch. ($/day) | Prev. WK ($/day) |
 | --- | --- | --- | --- |
-| CAPE 180K | 43833.0 | -4694.0 | 48527.0 |
-| TESS 82K | 21273.0 | -347.0 | 21620.0 |
+| CAPE 180K | 43833 | -4694 | 48527 |
+| TESS 82K | 21273 | -347 | 21620 |
 | LME 74K |  |  |  |
-| SUPRA 63K |  | 0.0 | 22620.0 |
-| HANDY 38K | 18067.0 | -141.0 | 18208.0 |
+| SUPRA 63K |  | 0 | 22620 |
+| HANDY 38K | 18067 | -141 | 18208 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
 
 | Vessel Class | Tenor | Rate ($/day) | Rate Raw |
 | --- | --- | --- | --- |
-| CAPE 180k | SHORT | 36000.0 | 36,000 |
-| KAMSAR 82k | SHORT | 22000.0 | 22,000 |
-| PANAMAX 76k | SHORT | 20500.0 | 20,500 |
+| CAPE 180k | SHORT | 36000 | 36,000 |
+| KAMSAR 82k | SHORT | 22000 | 22,000 |
+| PANAMAX 76k | SHORT | 20500 | 20,500 |
 | UMAX | SHORT |  | ATL 22,500 PAC 21,500 |
 | SUPRA TESS 58k | SHORT |  | ATL 19,500 PAC 19,000 |
 | HANDY 32k | SHORT |  | N/A |
-| CAPE 180k | 1-YR | 33000.0 | 33,000 |
-| KAMSAR 82k | 1-YR | 20000.0 | 20,000 |
-| PANAMAX 76k | 1-YR | 18500.0 | 18,500 |
+| CAPE 180k | 1-YR | 33000 | 33,000 |
+| KAMSAR 82k | 1-YR | 20000 | 20,000 |
+| PANAMAX 76k | 1-YR | 18500 | 18,500 |
 | UMAX | 1-YR |  | ATL 21,000 PAC 21,000 |
 | SUPRA TESS 58k | 1-YR |  | ATL 18,500 PAC 18,500 |
 | HANDY 32k | 1-YR |  | N/A |
@@ -145,9 +145,9 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W40_WK-40-26-CARRIERS_SP-
 
 | Metric Name | This WK | Week Ch. | Previous |
 | --- | --- | --- | --- |
-| Baltic DIRTY Tanker Index | 7185.0 | 1753.0 | 5432.0 |
-| Baltic CLEAN Tanker Index | 2396.0 | 170.0 | 2226.0 |
-| VLCC TCE |  | 137370.0 | 695.267 |
-| SUEZ TCE | 684.108 | 382257.0 | 301.851 |
-| AFRA TCE | 326.432 | 84404.0 | 242.028 |
-| MR ATLANTIC TC routes |  | 6113.0 |  |
+| Baltic DIRTY Tanker Index | 7185 | 1753 | 5432 |
+| Baltic CLEAN Tanker Index | 2396 | 170 | 2226 |
+| VLCC TCE |  | 137370 | 695.267 |
+| SUEZ TCE | 684108 | 382257 | 301851 |
+| AFRA TCE | 326432 | 84404 | 242028 |
+| MR ATLANTIC TC routes |  | 6113 |  |
