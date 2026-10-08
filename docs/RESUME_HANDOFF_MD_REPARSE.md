@@ -17,6 +17,15 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 3. **`scripts/parse_engine_html/`** — VesselsValue HTML deals + VV Mini Matrix image OCR (in progress). Output to `.reparse_staging/vessel_valuations/`.
 4. **SHELVED — see HARD RULE.** `scripts/md_cleanup/chart_tables.py` — removes LLM-guessed chart tables (values not printed in source text layer), replaces with `> Figure: … not transcribed` note. Guarded mode default; ISM (vector-engine charts) and any "Vector" section excluded. Dry-run results in `.reparse_staging/chart_cleanup/guard_published/` (8,890 tables). Was about to APPLY in place — check `git diff --stat data/extracted/md` before committing.
 
+## STATUS 2026-10-08 — CLARKSONS DONE (on branch, not yet on main)
+- All 179 Clarksons issues promoted from parse engine (commits 9aeb395d1, 056d97c96); 161+20 duplicate/legacy MDs
+  removed (hellenic/shipbuilding/clarksons dupes); clarksons_sales_series.csv + demolition series refreshed.
+  Verifier GO x2; visual checks vs PDF (SFL 2021-09-17, DONG-A/WUHU/INTERLINK 2022-02-25) match.
+- Not merged to main yet: branch also holds in-progress VV parser wired into report_ingest.yml. Merge after VV verified.
+- Follow-ups (non-blocking): re-run intermodal staging to confirm geom_table changes don't alter it; test for generic
+  exception in cli run; compare_vs_*.csv written into data/extracted/series by `series` (delete, don't commit).
+- VV coder started 2026-10-08 on fix list below.
+
 ## STATUS 2026-10-07 21:30 IST — PAUSED by owner (usage limits). Agents stopped mid-round; WIP committed on branch.
 - Owner priority: START THE DEEPSEEK GRAPHRAG BUILD. Recommendation given: build GraphRAG now on the audited-GOOD
   corpus; exclude data/extracted/md/clarksons, hellenic/shipbuilding/clarksons, hellenic/vessel_valuations (and the
