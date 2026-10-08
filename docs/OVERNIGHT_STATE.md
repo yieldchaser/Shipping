@@ -1,3 +1,15 @@
+**THIS RUN (2026-10-08 10:0x, source-by-source, 30m job) - NOTHING TO EXTRACT (re-measured after a ~10h gap in state entries; prior 09:24 run FAILED); xclusiv confirmed DONE; register gate GREEN. Docs only, no data changed.**
+
+Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). Liveness at start: no `run_*` extraction of ours; the automated fleet sync is live (commit `898759c99` at 10:05, `logs/fleet_sync.log` mtime 10:05). Tree = 3 geospatial live-position files + `logs/fleet_sync.log` (sync-owned, left unstaged). `git status corpus` = **0 changes** (51,826 tracked) -> no new arrivals; newest broker content still 2026-10-06.
+
+- **xclusiv CONFIRMED DONE, not in progress.** `docs/xclusiv_verdict.md` present (2026-10-06); 266/266 by every register/state entry. The prompt's "xclusiv in progress, re-run if dead" and its "next source" list (fearnleys, intermodal, affinity, banchero_costa, agora, carriers, ism, lion) are STALE - all built and `CLOSED` in `docs/EXTRACTION_REGISTER.md`.
+- Register gate: `scripts/extract/verify_registers.py` = **ALL PASSED**, 180 CSVs / **640,870** logical rows == JSON == MD, 0 mismatches, 0 control chars/emoji.
+- Content coverage spot-check (non-broker): poten 1087/1087 md; breakwave 304 pdf / 3504 md; drewry 288/849 md; seabrokers 98/98; baltic 2228 md; hellenic ~99.9% (iron_ore `pdfs/` = duplicate uploads, deduped to 1,171 daily issues per `docs/hellenic_coverage_verdict.md`). **No extraction gap.**
+- Open items remain the USER's: (a) allied en-bloc residual (vision pass or the 6-row override) plus the 17 human-gated allied dwt name-suffix rows (commit `f900eb5de`); (b) hellenic bare-name `source_file` (3 builders; 427/448 ambiguous under corpus/); (c) inventory/DB rebuild - the UPSTREAM store pipeline, not a DB rebuild.
+
+**NEXT:** no source to extract (corpus complete; no new arrivals).
+
+---
 **THIS RUN (2026-10-07 23:4x, source-by-source, 30m job) - NOTHING TO EXTRACT (re-measured); CORRECTED open item (c): a DB rebuild is a measured NO-OP - the gap is UPSTREAM ingestion, not the DB. Docs only, no data changed.**
 
 Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). Liveness at start: NO `run_*` of OURS in flight. `tasklist` python.exe = 2 Hermes gateways (6956/4628) + 2 litellm proxies (20736/21696) + code_review_graph (16164) + http.server 8769 (13100); the only extraction process is the PARALLEL Claude agent `parse_engine_html vv --workers 6` (PID 11392 + 6 spawn workers) in its own worktree - leave it. Tree clean except `logs/fleet_sync.log`. `git status corpus` = **0 changes** -> no new arrivals. xclusiv **271/271** (pdf==md, 0 gap).
