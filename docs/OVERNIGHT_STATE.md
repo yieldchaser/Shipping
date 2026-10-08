@@ -1,3 +1,17 @@
+**THIS RUN (2026-10-08 11:2x, source-by-source, 30m job) - NOTHING TO EXTRACT (independently re-measured); register gate GREEN; every newest issue confirmed PRESENT in its shipped series. Docs only, no data changed.**
+
+Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). Liveness at start: NO `run_*` extraction of ours in flight (python.exe set = Hermes gateway/web-server procs, no `run_`); the automated fleet sync ran 10:12 (`logs/fleet_sync.log` SUCCESS, position data only - not the PDF corpus). Tree = `logs/fleet_sync.log` only (sync-owned, left unstaged). `git status corpus` = **0 changes** -> no new arrivals.
+
+- **xclusiv CONFIRMED DONE, not in progress.** `data/extracted/md/xclusiv/**/*.md` = **271**; `corpus/**/xclusiv/*.pdf` = **271** (pdf==md, 0 gap). The prompt's "xclusiv in progress / next source" list is STALE - every named source (fearnleys, intermodal, affinity, banchero_costa, agora, carriers, ism, lion) is built and `CLOSED` in `docs/EXTRACTION_REGISTER.md`.
+- **Register gate RE-RUN: ALL PASSED** - 180 CSVs / **640,870** logical rows == JSON == MD, 0 mismatches, 0 control chars/emoji. (The Section 2 header "641,175" is the CSV total **plus** the 3 XLSX workbook rows, i.e. 640,870 CSV + 305 workbook - not drift; `sync_extraction_register.py` re-run reproduced it exactly and left the MD byte-identical.)
+- **Coverage re-audited by content (broker stems, pdf vs md):** advanced_shipping 255/255, agora 219/219, intermodal 257/257, xclusiv 271/271, ssy 530/530, ism 115/115, lion 48/48, banchero_costa 248/249, carriers 136/137, star_asia 201/200, affinity 256/249. Every "short" pair is the known corpus BYTE-DUPLICATE or the pipeline's own rename (banchero `bancosta_30_09_2026_...week_39` -> md `banchero_costa_2026_W39_...`; star_asia W40 likewise). **No extraction gap.**
+- **Newest issues confirmed IN their shipped series (content check, not count):** star_asia `issue_date` max **2026-10-02** (W40); bancosta max **2026-09-28** = W39 (`report_week: 39` in the md frontmatter; 22 W39 rows present in `bancosta_sales_series.csv` with the W39 source_file) - so the freshest collected PDFs are extracted AND stacked, not just sitting as md.
+- Also verified: banchero W39 md frontmatter `source_file` = full `corpus/...pdf` path (not a bare name); `bancosta` W39 rows carry the md-relative source_file form the ledger already accounts for.
+
+**NEXT:** no source to extract (corpus complete; no new arrivals). New weekly issues (W41) are due ~2026-10-09..13 - the fleet sync will pull them; re-check `git status corpus` then. Remaining open items remain the USER's: (a) allied 42-row render pass (needs vision); (b) hellenic bare-name `source_file` (3 builders); (c) inventory/DB rebuild (UPSTREAM store pipeline, not a DB rebuild).
+
+---
+
 **THIS RUN (2026-10-08 10:0x, source-by-source, 30m job) - NOTHING TO EXTRACT (re-measured after a ~10h gap in state entries; prior 09:24 run FAILED); xclusiv confirmed DONE; register gate GREEN. Docs only, no data changed.**
 
 Branch `auto/extract-fixes-2026-10-07-deepreview` (NOT main). Liveness at start: no `run_*` extraction of ours; the automated fleet sync is live (commit `898759c99` at 10:05, `logs/fleet_sync.log` mtime 10:05). Tree = 3 geospatial live-position files + `logs/fleet_sync.log` (sync-owned, left unstaged). `git status corpus` = **0 changes** (51,826 tracked) -> no new arrivals; newest broker content still 2026-10-06.
