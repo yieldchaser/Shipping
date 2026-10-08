@@ -1,3 +1,17 @@
+**THIS RUN (2026-10-08 14:2x, source-by-source, 30m job) - FOUND AND FIXED A REAL FRESHNESS GAP: agora's Week 40 (2026-10-02) was extracted to .md but never stacked into its series. Committed a per-source stacker.**
+
+Branch `auto/extract-fixes-2026-10-08` (NOT main). Liveness at start: NO `run_*` of ours (python.exe = 3 Hermes/gateway procs); `git status corpus` = **0 changes** (newest broker content still 2026-10-06) -> no new arrivals. Tree clean except `logs/fleet_sync.log`.
+
+- **THE GAP (measured):** `agora_indicators_series.csv` stopped at **2026-09-25 / wk39** while `corpus/01-brokers/agora/2026/agora_2026_W40_...pdf` (md5 `a2b3930fcc`) and its `.md`/`.tables.json` (24 KB) existed, and `_run_state.json` listed the byte-identical keeper `agora_02_10_2026_...` as **done** (214/0). Cause: `run_agora.py` writes only sidecars; the series was extended only by a scratch script with **hardcoded weeks**. The register gate cannot see this (it compares the CSV to itself).
+- **DATE CONVENTION - got it wrong first, then measured it.** First append used the cover's reference date **2026-10-01 (Thu)**: WRONG. Measured on the shipped series: **212/213 dates are Fridays** and `report_week` == ISO week on **213/213** rows. Correct W40 = **2026-10-02** (Fri, ISO wk40). Fixed and re-verified: **213/213 Fridays, 0 week mismatches**.
+- **VERIFY (control on the same doc):** (1) builder reproduces 4 EXISTING weeks byte-exact (W35/W36/W37/W39 `EXACT MATCH=True`); (2) every built W40 value found as a numeric token in the PDF's own text layer with the doc's EU rule = **141/141 (100.0%)**; (3) append control = existing rows byte-identical; 10,002 -> **10,049** (+47, no removals).
+- **COMMITTED TOOLING:** `scripts/extract/publishers/stack_agora_weeks.py` - idempotent per-source stacker: date from the doc's own cover, md5 dedup, double-count guard, append-only control. `--dry-run` on the pre-fix corpus proposed exactly the W40 week + 3 named skips, no collateral.
+- **NAMED, NOT CHANGED (a wrong value beats a missing one):** `agora_2022_W52_...Week-52.-2021...pdf` is stacked as **2022-12-30** but its cover says **Week 52 / 2021** (85 rows; likely a year error - needs its own measured fix); `agora_2025_W38_...Week-42-2025...pdf` (filename W38 vs cover Week 42, already in series as 2025-09-19); `agora_2026_W33...` (cover W33 but its ref date is ISO wk34). Evidence: `docs/agora_w40_gap_verdict.md`.
+- **Gate:** `verify_registers.py` ALL PASSED - 180 CSVs / **640,917** logical rows == JSON == MD, 0 mismatches (was 640,870; delta exactly +47).
+- **NEXT:** no other source to extract (corpus complete; 0 arrivals). Watch `git status corpus` for W41 (~2026-10-09..13).
+
+---
+
 **THIS RUN (2026-10-08 13:4x, source-by-source, 30m job) - APPLIED A MEASURED DATA FIX: regenerated xclusiv sales (126 rows) + clarksons sales (6) and demo (1) to close the period-thousands DWT defect. The code was already fixed (5c0a1e933); the delivered data still carried the raw values. Two data commits.**
 
 Branch `auto/extract-fixes-2026-10-08` (NOT main). Liveness at start: NO `run_*` of ours; python.exe = 2 Hermes gateways (1292/20628) + code_review_graph serve (20584). `git status corpus` = **0 changes** -> no new arrivals (newest content 2026-10-06). Working tree clean except `logs/fleet_sync.log`.
