@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 14:30:53Z",
+  "updated_at": "2026-10-08 09:21:42Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -833,7 +833,7 @@
     {
       "file": "agora_indicators_series.csv",
       "target_metric": "Commodities, FX, Bonds, Stocks, Bunkers",
-      "rows": 10002,
+      "rows": 10049,
       "columns": [
         "issue_date",
         "report_week",
@@ -4141,13 +4141,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 640870,
+  "total_master_stacked_rows": 640917,
   "total_master_series_csvs": 180,
-  "total_stacked_rows": 640870,
+  "total_stacked_rows": 640917,
   "total_series_csvs": 180,
   "total_master_workbooks": 1,
   "total_series_count": 180,
-  "total_rows_extracted": 641175,
+  "total_rows_extracted": 641222,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4157,7 +4157,7 @@
     "affinity_bda_series.csv": 744,
     "affinity_indices_series.csv": 496,
     "affinity_tce_series.csv": 4039,
-    "agora_indicators_series.csv": 10002,
+    "agora_indicators_series.csv": 10049,
     "allied_sales_series.csv": 3218,
     "athenian_historical_demolition_prices_series.csv": 240,
     "athenian_indicative_demolition_series.csv": 3052,
