@@ -510,6 +510,18 @@ def extract_rate_cards(doc: pymupdf.Document) -> List[Dict[str, Any]]:
         txt = clean_encoding(raw_page_txt)
         lines = [l.strip() for l in txt.splitlines() if l.strip()]
 
+        # Index of the page's 1 Year T/C heading (Dry Bulk period-rate table).
+        # The section heading e.g. "Capesize (USD/Day, USD/Tonne)" also contains a
+        # route label, so a bare label match would otherwise bind to the Dry Spot
+        # block and read the wrong numbers (measured: Capesize -> 180 from
+        # "TCE Cont/Far East (180 DWT)" and change -1181). Anchor 1Y TC rows to
+        # the block that follows this heading.
+        tc_head_idx = None
+        for _k, _l in enumerate(lines):
+            if re.match(r"^1\s+Year\s+T/C", _l):
+                tc_head_idx = _k
+                break
+
         for i, ln in enumerate(lines):
             for route, sect, chapter, default_sz in known_routes:
                 # Chapter affinity: only match if page chapter aligns
@@ -522,6 +534,8 @@ def extract_rate_cards(doc: pymupdf.Document) -> List[Dict[str, Any]]:
                 if sect == "Dry Spot" and "1 Year T/C Dry Bulk" in raw_page_txt:
                     continue
                 if sect == "Period & Availability" and "1 Year T/C" not in raw_page_txt and "Fixed in all areas" not in raw_page_txt:
+                    continue
+                if sect == "Dry 1Y TC" and (tc_head_idx is None or i <= tc_head_idx):
                     continue
 
                 if route.lower() in ln.lower():
