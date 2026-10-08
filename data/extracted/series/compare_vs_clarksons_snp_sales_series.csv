@@ -1,0 +1,384 @@
+side,issue_date,vessel,issue_in_both_sets
+old_only,2021-07-02,MAYA VN,True
+old_only,2021-07-09,JETSTAR,True
+old_only,2021-07-23,BULL SUMBAWA,True
+old_only,2021-08-27,SKY SINO,True
+old_only,2021-09-17,BCI,True
+old_only,2021-09-17,BDI,True
+old_only,2021-09-17,BHSI,True
+old_only,2021-09-17,BPI,True
+old_only,2021-09-17,BSI,True
+old_only,2021-10-08,BCI,True
+old_only,2021-10-08,BDI,True
+old_only,2021-10-08,BHSI,True
+old_only,2021-10-08,BPI,True
+old_only,2021-10-08,BSI,True
+old_only,2022-02-11,BCI,True
+old_only,2022-02-11,BDI,True
+old_only,2022-02-11,BHSI,True
+old_only,2022-02-11,BPI,True
+old_only,2022-02-11,BSI,True
+old_only,2022-02-25,BCI,True
+old_only,2022-02-25,BDI,True
+old_only,2022-02-25,BHSI,True
+old_only,2022-02-25,BPI,True
+old_only,2022-02-25,BSI,True
+old_only,2022-04-22,CORAL TOPAZ,False
+old_only,2022-04-22,CORONA,False
+old_only,2022-04-22,DOLCE VITA,False
+old_only,2022-04-22,ELIM PEACE,False
+old_only,2022-04-22,LARGO SEA,False
+old_only,2022-04-22,TORM GYDA,False
+old_only,2022-05-13,"HL RICHARDS BAY""",True
+old_only,2022-06-10,BCI,True
+old_only,2022-06-10,BDI,True
+old_only,2022-06-10,BHSI,True
+old_only,2022-06-10,BPI,True
+old_only,2022-06-10,BSI,True
+old_only,2022-06-17,HIKARI,True
+old_only,2022-06-17,KYOTO,True
+old_only,2022-07-08,HUIXIN 8,True
+old_only,2022-07-22,OKRA,True
+old_only,2022-07-29,FSU - BONGKOT STAR,True
+old_only,2022-09-03,ARGO,False
+old_only,2022-09-03,CELSIUS ESBJERG,False
+old_only,2022-09-03,CELSIUS EVERETT,False
+old_only,2022-09-03,DHT EDELWEISS,False
+old_only,2022-09-03,LILA FUJAIRAH,False
+old_only,2022-09-03,MALTO HOPE,False
+old_only,2022-09-23,KG ASIA,True
+old_only,2022-10-14,BLUSEA,True
+old_only,2022-10-21,AROZU,True
+old_only,2022-10-28,BELLE OCEAN,False
+old_only,2022-10-28,DOOYANG JEJU,False
+old_only,2022-10-28,FANOULA,False
+old_only,2022-10-28,FOREST PARK,False
+old_only,2022-10-28,JIAN DA,False
+old_only,2022-10-28,NORD YUCATAN,False
+old_only,2022-10-28,ORIENT ANGEL,False
+old_only,2022-10-28,P. FOS,False
+old_only,2022-10-28,RS AURORA,False
+old_only,2022-10-28,VAN STAR,False
+old_only,2022-12-09,C/V UNI-ARDENT,True
+old_only,2023-01-09,AQUANAVIGATOR,False
+old_only,2023-01-09,AQUASALWADOR,False
+old_only,2023-01-09,COSGREAT LAKE,False
+old_only,2023-01-09,ICE TRANSPORTER,False
+old_only,2023-01-09,KIRISHIMA SKY,False
+old_only,2023-01-09,SYRA,False
+old_only,2023-02-10,BCI,True
+old_only,2023-02-10,BDI,True
+old_only,2023-02-10,BHSI,True
+old_only,2023-02-10,BPI,True
+old_only,2023-02-10,BSI,True
+old_only,2023-03-17,CV VASI STAR,True
+old_only,2023-03-24,BCI,True
+old_only,2023-03-24,BDI,True
+old_only,2023-03-24,BHSI,True
+old_only,2023-03-24,BPI,True
+old_only,2023-03-24,BSI,True
+old_only,2023-04-11,BLACK FOREST,False
+old_only,2023-04-11,BULK JAPAN,False
+old_only,2023-04-11,ELDORIS,False
+old_only,2023-04-11,NORIENT SATURN,False
+old_only,2023-04-11,SANMAR SONGBIRD,False
+old_only,2023-04-11,STELLA ADA,False
+old_only,2023-04-18,ASIAN TRIUMPH,False
+old_only,2023-04-18,DI MATTEO,False
+old_only,2023-04-18,GLOBAL ROYAL,False
+old_only,2023-04-18,MAERSK MICHIGAN,False
+old_only,2023-04-28,"CV ""MSC LUCIA""",True
+old_only,2023-04-28,FERNAN VAZ,True
+old_only,2023-06-09,SEASTAR ENDURANCE,True
+old_only,2023-06-16,ARKADIA KUMPULA,True
+old_only,2023-06-30,CV MSC FEDERICA,True
+old_only,2023-07-10,AQUAMARINE,False
+old_only,2023-07-10,BENITAMOU,False
+old_only,2023-07-10,JI YOU,False
+old_only,2023-07-10,MARYLISA V,False
+old_only,2023-07-10,SHUN FENG 9,False
+old_only,2023-07-14,XIANG HE,True
+old_only,2023-07-24,AQUAKATIE,False
+old_only,2023-07-24,AQUAPROUD,False
+old_only,2023-07-24,DELPHINUS,False
+old_only,2023-07-24,HENRIETTE OLDENDORFF,False
+old_only,2023-07-24,JENNY M,False
+old_only,2023-07-24,MTM POTOMAC,False
+old_only,2023-07-24,NEW JUPITER,False
+old_only,2023-07-24,NORD HYDRA,False
+old_only,2023-07-24,PAN EDELWEISS PAN DAISY,False
+old_only,2023-08-04,CV MSC LANA II,True
+old_only,2023-08-11,CV HENG HUI 2,True
+old_only,2023-08-11,CV MSC ERMINA,True
+old_only,2023-08-11,CV SINOKOR TIANJIN,True
+old_only,2023-08-11,MV YUE,True
+old_only,2023-08-18,CV SINOKOR AKITA,True
+old_only,2023-08-25,CV ZEFYROS REEFER,True
+old_only,2023-08-25,GLORIA 1,True
+old_only,2023-09-08,CV UGL HONGKONG,True
+old_only,2023-09-08,WINNING JOY,True
+old_only,2023-09-15,CV EVER DEVOTE,True
+old_only,2023-09-15,CV UNI -ASPIRE,True
+old_only,2023-09-22,CV FORTUNE TRADER,True
+old_only,2023-09-29,TYCOON,True
+old_only,2023-10-06,BRADLEY,True
+old_only,2023-10-06,GULF VENTURE,True
+old_only,2023-10-06,MSC JAMSINE,True
+old_only,2023-10-13,MINERAL SHOU GANG INTERNATIONAL,True
+old_only,2023-11-17,BCI,True
+old_only,2023-11-17,BDI,True
+old_only,2023-11-17,BHSI,True
+old_only,2023-11-17,BPI,True
+old_only,2023-11-17,BSI,True
+old_only,2023-12-15,CV SILK,True
+old_only,2024-01-05,CV MSC SOPHIE,True
+old_only,2024-01-12,CV MSC UMA,True
+old_only,2024-01-26,XIN XIANG AN,True
+old_only,2024-02-16,BCI,True
+old_only,2024-02-16,BDI,True
+old_only,2024-02-16,BHSI,True
+old_only,2024-02-16,BONTRUMP EMIRATES,True
+old_only,2024-02-16,BPI,True
+old_only,2024-02-16,BSI,True
+old_only,2024-02-16,BULK SEOUL BULK SHANGHAI,True
+old_only,2024-02-16,SINAR TARAKAN,True
+old_only,2024-02-23,HONG YUAN 01,True
+old_only,2024-02-23,SIA,True
+old_only,2025-11-07,4X MR NB'S,True
+old_only,2026-03-07,ACTION TRADER,False
+old_only,2026-03-07,CAPE SANDRA,False
+old_only,2026-03-07,GREEN ATTITUDE,False
+old_only,2026-03-07,KEN GIANT,False
+old_only,2026-03-07,MANGUSTA,False
+old_only,2026-03-07,NORD SANTIAGO,False
+old_only,2026-03-07,ROZA,False
+old_only,2026-03-07,SINBAD,False
+old_only,2026-03-07,STI OSCEOLA,False
+old_only,2026-03-07,STI SENECA,False
+old_only,2026-03-07,STI SOLIDARITY,False
+old_only,2026-03-07,TRINITY I,False
+old_only,2026-03-14,CCS ORCHID,False
+old_only,2026-03-14,FINNANGER,False
+old_only,2026-03-14,FJELLANGER,False
+old_only,2026-03-14,PACIFIC HARMONY,False
+old_only,2026-03-14,SIDER IMABARI,False
+old_only,2026-03-21,BARWON,False
+old_only,2026-03-21,CHRYSOPIGI,False
+old_only,2026-03-21,FIGEAC,False
+old_only,2026-03-21,MG MERCURY,False
+old_only,2026-03-21,SOMNATH,False
+old_only,2026-03-28,AGRI KINSALE,False
+old_only,2026-03-28,FRONTIER GARLAND,False
+old_only,2026-03-28,GIA INSPIRATION,False
+old_only,2026-03-28,HIGH SEAS,False
+old_only,2026-03-28,JIN RUI,False
+old_only,2026-05-15,N/B DH SHIPBUILDING,True
+new_only,2021-07-02,NISSOS SANTORINI,True
+new_only,2021-07-09,BULK ECUADOR,True
+new_only,2021-09-24,BUNGA KELANA 7,True
+new_only,2021-10-29,SEAWAYS CAPE HENRY,True
+new_only,2021-10-29,SEAWAYS HENDRICKS,True
+new_only,2021-10-29,SEAWAYS LIBERTY,True
+new_only,2021-10-29,SEAWAYS TRITON,True
+new_only,2021-10-29,SEAWAYS TYBEE,True
+new_only,2021-12-17,BAREILLY,True
+new_only,2021-12-17,GOLD,True
+new_only,2022-01-28,STI EXCEED,True
+new_only,2022-01-28,STI EXCEL,True
+new_only,2022-01-28,STI EXCELLENCE,True
+new_only,2022-01-28,STI EXCELSIOR,True
+new_only,2022-01-28,STI EXECUTIVE,True
+new_only,2022-01-28,STI EXPEDITE,True
+new_only,2022-01-28,STI EXPERIENCE,True
+new_only,2022-01-28,STI EXPRESS,True
+new_only,2022-01-28,STI PRESTIGE,True
+new_only,2022-01-28,STI PRIDE,True
+new_only,2022-01-28,STI PROVIDENCE,True
+new_only,2022-04-08,ARDMORE SEALANCER,True
+new_only,2022-04-08,ARDMORE SEALIFTER,True
+new_only,2022-04-23,CORAL TOPAZ,False
+new_only,2022-04-23,CORONA,False
+new_only,2022-04-23,DOLCE VITA,False
+new_only,2022-04-23,ELIM PEACE,False
+new_only,2022-04-23,LARGO SEA,False
+new_only,2022-04-23,TORM GYDA,False
+new_only,2022-05-13,HUA RONG 3,True
+new_only,2022-05-13,MERAY GLYFADA,True
+new_only,2022-05-13,NORD BALTIC,True
+new_only,2022-06-10,BALTIC COMMANDER I,True
+new_only,2022-06-24,BALTIC FAVOUR,True
+new_only,2022-07-08,ELANDRA CORALLO,True
+new_only,2022-07-08,HUI XIN 8,True
+new_only,2022-09-02,ARGO,False
+new_only,2022-09-02,BALTIC MONARCH,False
+new_only,2022-09-02,CELSIUS ESBJERG,False
+new_only,2022-09-02,CELSIUS EVERETT,False
+new_only,2022-09-02,DHT EDELWEISS,False
+new_only,2022-09-02,LILA FUJAIRAH,False
+new_only,2022-09-02,MALTO HOPE,False
+new_only,2022-10-14,BLUESEA,True
+new_only,2022-10-21,AROUZU,True
+new_only,2022-10-29,BELLE OCEAN,False
+new_only,2022-10-29,DOOYANG JEJU,False
+new_only,2022-10-29,FANOULA,False
+new_only,2022-10-29,FOREST PARK,False
+new_only,2022-10-29,JIAN DA,False
+new_only,2022-10-29,NORD YUCATAN,False
+new_only,2022-10-29,ORIENT ANGEL,False
+new_only,2022-10-29,P. FOS,False
+new_only,2022-10-29,RS AURORA,False
+new_only,2022-10-29,VAN STAR,False
+new_only,2023-01-07,AQUANAVIGATOR,False
+new_only,2023-01-07,AQUASALWADOR,False
+new_only,2023-01-07,COSGREAT LAKE,False
+new_only,2023-01-07,ICE TRANSPORTER,False
+new_only,2023-01-07,KIRISHIMA SKY,False
+new_only,2023-01-07,SYRA,False
+new_only,2023-01-20,ALPINE PACIFICA,True
+new_only,2023-01-20,ALPINE PEARL,True
+new_only,2023-01-20,JO PINARI,True
+new_only,2023-01-20,JO PROVEL,True
+new_only,2023-01-20,JO REDWOOD,True
+new_only,2023-03-10,MTM MUMBAI,True
+new_only,2023-03-10,MTM YANGON,True
+new_only,2023-03-10,UTVIKEN,True
+new_only,2023-03-17,JULIA L,True
+new_only,2023-03-17,MARJORIE K,True
+new_only,2023-03-17,STREAM BALTIC,True
+new_only,2023-03-17,STREAM PACIFIC,True
+new_only,2023-03-24,HAFNIA HUDSON,True
+new_only,2023-04-07,BLACK FOREST,False
+new_only,2023-04-07,BULK JAPAN,False
+new_only,2023-04-07,ELDORIS,False
+new_only,2023-04-07,NORIENT SATURN,False
+new_only,2023-04-07,SANMAR SONGBIRD,False
+new_only,2023-04-07,STELLA ADA,False
+new_only,2023-04-14,ASIAN TRIUMPH,False
+new_only,2023-04-14,DI MATTEO,False
+new_only,2023-04-14,GLOBAL ROYAL,False
+new_only,2023-04-14,MAERSK MICHIGAN,False
+new_only,2023-06-09,SEASTAR ENDUREANCE,True
+new_only,2023-06-16,ARKADIA,True
+new_only,2023-06-16,KUMPULA,True
+new_only,2023-07-08,AQUAMARINE,False
+new_only,2023-07-08,BENITAMOU,False
+new_only,2023-07-08,MARYLISA V,False
+new_only,2023-07-21,AQUAKATIE,False
+new_only,2023-07-21,AQUAPROUD,False
+new_only,2023-07-21,DELPHINUS,False
+new_only,2023-07-21,HENRIETTE OLDENDORFF,False
+new_only,2023-07-21,JENNY M,False
+new_only,2023-07-21,MTM POTOMAC,False
+new_only,2023-07-21,NEW JUPITER,False
+new_only,2023-07-21,NORD HYDRA,False
+new_only,2023-07-21,PAN DAISY,False
+new_only,2023-07-21,PAN EDELWEISS,False
+new_only,2023-10-13,A HUGE TRANSACTION CONCERNING VLCC TONNAGE HAS BEEN REPORTED INVOLVING C/O FRONTLINE (AS BUYERS) OF 24 MODERN ECO VLCC’S FROM C/O EURONAV (AS SELLERS). THE DEAL INVOLVES KOREAN BUILT VESSELS RANGING FROM 2015 AND 2023.,True
+new_only,2023-10-13,MINERAL SHOUGANG INTERNATIONAL,True
+new_only,2023-10-20,BALTIC MARINER I,True
+new_only,2024-02-16,BULK SEOUL,True
+new_only,2024-02-16,BULK SHANGHAI,True
+new_only,2025-11-07,4X MR NB’S,True
+new_only,2026-02-13,ELANDRA BALTIC,True
+new_only,2026-03-06,ACTION TRADER,False
+new_only,2026-03-06,CAPE SANDRA,False
+new_only,2026-03-06,GREEN ATTITUDE,False
+new_only,2026-03-06,KEN GIANT,False
+new_only,2026-03-06,MANGUSTA,False
+new_only,2026-03-06,NORD SANTIAGO,False
+new_only,2026-03-06,ROZA,False
+new_only,2026-03-06,SINBAD,False
+new_only,2026-03-06,STI OSCEOLA,False
+new_only,2026-03-06,STI SENECA,False
+new_only,2026-03-06,STI SOLIDARITY,False
+new_only,2026-03-06,TRINITY I,False
+new_only,2026-03-13,CCS ORCHID,False
+new_only,2026-03-13,FINNANGER,False
+new_only,2026-03-13,FJELLANGER,False
+new_only,2026-03-13,PACIFIC HARMONY,False
+new_only,2026-03-13,SIDER IMABARI,False
+new_only,2026-03-20,BARWON,False
+new_only,2026-03-20,CHRYSOPIGI,False
+new_only,2026-03-20,FIGEAC,False
+new_only,2026-03-20,MG MERCURY,False
+new_only,2026-03-20,SOMNATH,False
+new_only,2026-03-27,AGRI KINSALE,False
+new_only,2026-03-27,FRONTIER GARLAND,False
+new_only,2026-03-27,GIA INSPIRATION,False
+new_only,2026-03-27,HIGH SEAS,False
+new_only,2026-03-27,JIN RUI,False
+new_only,2026-04-24,CHAKRAVATI,False
+new_only,2026-04-24,CORONA BRAVE,False
+new_only,2026-04-24,N/B ‘NDY1315’,False
+new_only,2026-04-24,N/B ‘NDY1316’,False
+new_only,2026-04-24,STI AQUA,False
+new_only,2026-04-24,STI MADISON,False
+new_only,2026-04-24,STI OPERA,False
+new_only,2026-04-24,STI PARK,False
+new_only,2026-04-24,STI REGINA,False
+new_only,2026-04-24,STI SLOANE,False
+new_only,2026-05-15,N/B DH SHIPBUILDING 5111,True
+new_only,2026-05-22,CHIN SHAN,False
+new_only,2026-05-22,LOWLANDS DAWN,False
+new_only,2026-05-22,LOWLANDS TEAL,False
+new_only,2026-05-22,NORD POLARIS,False
+new_only,2026-05-22,PANAGIA FORCE,False
+new_only,2026-05-22,PANSTELLAR,False
+new_only,2026-05-22,PEDHOULAS COMMANDER,False
+new_only,2026-05-22,XENIA,False
+new_only,2026-07-03,AC YOUTH,False
+new_only,2026-07-03,ASAHI OCEAN,False
+new_only,2026-07-03,ATLANTIC STAR,False
+new_only,2026-07-03,LAGONDA,False
+new_only,2026-07-03,MARINICKI C,False
+new_only,2026-07-03,SCION MATHILDA,False
+new_only,2026-07-17,BLUE AKIHABARA,False
+new_only,2026-07-17,HEROIC,False
+new_only,2026-07-24,BENJAMIN OLDENDORFF,False
+new_only,2026-07-24,BRITTA OLDENDORFF,False
+new_only,2026-07-24,SEACON TOKYO,False
+new_only,2026-07-24,UNITED HALO,False
+new_only,2026-07-24,VENUS HALO,False
+new_only,2026-08-07,ORANGE TIGER,False
+new_only,2026-08-07,RONG FU,False
+new_only,2026-08-07,VELOS JASPER,False
+new_only,2026-08-14,BBG WUZHOU,False
+new_only,2026-08-14,BRISTOL,False
+new_only,2026-08-14,GLOBAL ORIOLE,False
+new_only,2026-08-14,GLORY BRIDGE,False
+new_only,2026-08-14,MEDI POSITANO,False
+new_only,2026-08-14,ON PROMISE,False
+new_only,2026-08-14,ON PROSPER,False
+new_only,2026-08-14,PRESINGE,False
+new_only,2026-08-14,ROYAL HOPE,False
+new_only,2026-08-21,AMARYLLIS,False
+new_only,2026-08-21,LILA MUNDRA,False
+new_only,2026-08-21,MARIANNA,False
+new_only,2026-08-28,CAPE BENAT,False
+new_only,2026-08-28,HARVEST,False
+new_only,2026-09-04,COLUMBIA RIVER,False
+new_only,2026-09-04,FLC HAPPINESS,False
+new_only,2026-09-11,GRAN COUVA,False
+new_only,2026-09-11,NBA PEACE,False
+new_only,2026-09-11,NBA VIVA,False
+new_only,2026-09-11,NISSOS HERACLEA,False
+new_only,2026-09-11,STENIA COLOSSUS,False
+new_only,2026-09-18,BW JAPAN,False
+new_only,2026-09-18,CK VENTURE,False
+new_only,2026-09-18,CRIMSON WYOMING,False
+new_only,2026-09-18,DOLPHIN 76,False
+new_only,2026-09-18,HIGHLAND,False
+new_only,2026-09-18,LUZON,False
+new_only,2026-09-18,MELIA,False
+new_only,2026-09-18,OSAKA STAR,False
+new_only,2026-09-18,PS AMALFI,False
+new_only,2026-09-18,SKY KNIGHT,False
+new_only,2026-09-25,EUROINTEGRITY,False
+new_only,2026-09-25,SPEEDWAY,False
+new_only,2026-10-02,ATLANTIC CROWN,False
+new_only,2026-10-02,BABITONGA,False
+new_only,2026-10-02,BULK JOYANCE,False
+new_only,2026-10-02,GCL HAZIRA,False
+new_only,2026-10-02,LC MILADY,False
+new_only,2026-10-02,SEAKING,False
+new_only,2026-10-02,YC AEQUOR,False

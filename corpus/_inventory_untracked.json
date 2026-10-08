@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4056,
-      "untracked_bytes": 2389105703
+      "untracked_files": 4060,
+      "untracked_bytes": 2391343564
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 20,
+      "untracked_bytes": 3201584
     },
     {
       "path": "corpus/04-poten",
@@ -34,6 +34,11 @@
       "path": "corpus/07-signal",
       "untracked_files": 301,
       "untracked_bytes": 174871570
+    },
+    {
+      "path": "corpus/08-baltic",
+      "untracked_files": 2,
+      "untracked_bytes": 8110
     },
     {
       "path": "corpus/09-ppa",
@@ -20138,6 +20143,16 @@
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/2026/2026-10-08_mmi-daily-iron-ore-index-report-october-8-2026.html",
+      "bytes": 4610,
+      "sha256": "c15ff98eeb1291fac34dfa85f84d5ee6baf7cd034801962b14ef83a664d60474"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-10-08_mmi-daily-iron-ore-index-report-october-8-2026_08102026chinese3_c43328aa67bf.jpg",
+      "bytes": 168503,
+      "sha256": "3db6d46f75ef16984c73d282844335eb43bd3d1e8c1f3484b1d19426d2e19308"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
       "bytes": 1106014,
       "sha256": "b82a5abf0415bdb8da87e942ca7a69caa92b9e22ff1373ec591775898b1b0aa3"
@@ -30133,6 +30148,11 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-10-08_mmi-daily-iron-ore-index-report-october-8-2026_io20261008-en_3d6b08a15284.pdf",
+      "bytes": 1032374,
+      "sha256": "06b2af427553b3d68a0b3a1a224fa20bc5a2ecc4877c0d27e71658761e90dcef"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31521,6 +31541,11 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-08_mmi-daily-iron-ore-index-report-october-_io20261008-en.pdf",
+      "bytes": 1032374,
+      "sha256": "06b2af427553b3d68a0b3a1a224fa20bc5a2ecc4877c0d27e71658761e90dcef"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -34953,6 +34978,26 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-08_dry-bulk-supply-heavier-deliveries-but-ageing-fleet-offers-a-buffer.html",
+      "bytes": 7097,
+      "sha256": "7e9e3df5a0a32bf5f811bdf393a1cc35adce4946253eff3558f829867316418e"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-08_dry-bulk-supply-heavier-deliveries-but-ageing-fleet-offers-a-buffer.md",
+      "bytes": 5553,
+      "sha256": "5d34b958fba4038d7e0acdbd0cfff95317b7fe09e398123c94f145688487be4f"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows.html",
+      "bytes": 12722,
+      "sha256": "666ab074437753ffa19a777717076c6a752daad3b89f2457d9996944c270e8db"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows.md",
+      "bytes": 12132,
+      "sha256": "3c0b395b84a2cb95a18750d58d49cb3423de58aa8dfaf213964d62780f50f027"
+    },
+    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -34996,6 +35041,41 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-08_dry-bulk-supply-heavier-deliveries-but-ageing-fleet-offers-a-buffer_img_unsplash-image-j8urutz8mc0_d44eb921d781.jpg",
+      "bytes": 130147,
+      "sha256": "5894734e385552988d78a80b0af696d4c9b450113cf36da3f27113dd8111904f"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow2_2651a0bfd9f0.png",
+      "bytes": 69641,
+      "sha256": "36e5e01e0ac841ca78f00063dcee35c49dde7e3442a98d4cdf3a9e48788bc372"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow3_eb2d21f9f5e2.png",
+      "bytes": 64035,
+      "sha256": "a3d8eeb38e008148c8ad87bc226d9031e221224cba7e85f4869e5e1e533c66e1"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow4_3495894fbb48.png",
+      "bytes": 66889,
+      "sha256": "7d98732dd1fb07a8ae56e059c0713e94830c86b7d74bd32b3eac60a6bca03e63"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b96d781bd12.png",
+      "bytes": 197708,
+      "sha256": "39b82a03e6650f97e2a0ba8714c2b4fb9603a81fa6439d407d480bf7ff7222cd"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7f70afbbfc4.png",
+      "bytes": 412403,
+      "sha256": "469a5d4f38b96e48852ef74aac8717766191c7891ccd1fe22f5bf9f0214f88b7"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png",
+      "bytes": 187271,
+      "sha256": "a71e6d4f37fccf966018a1881470c6b0c2d6eb21234a5aa245a44a6f401ba0fe"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
@@ -43386,6 +43466,16 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
+    },
+    {
+      "path": "corpus/08-baltic/ningbo/2026/2026-10-02_ningbo-containerised-freight-index-02102_ningbo.html",
+      "bytes": 4974,
+      "sha256": "5b71a74afa0f2e02dc68f80b11ee6380d3b8e2c2016fd701f79669322a15e1f8"
+    },
+    {
+      "path": "corpus/08-baltic/ningbo/2026/2026-10-02_ningbo-containerised-freight-index-02102_ningbo.md",
+      "bytes": 3136,
+      "sha256": "03f877dc9310e9a568a5d55d8ee6641485083e7a95b9f5ed18aeadb7f5a7b7d1"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
