@@ -124,3 +124,36 @@ python scripts/extract/verify_registers.py                                # gate
 python scratch/freshness_sweep.py ; python scratch/gap_candidates.py <source> <series_max_date>
 python scratch/md_path_scan.py ; python scratch/json_path_scan.py         # path-field sweep
 ```
+
+## Defect 5 - the DIGEST tier `corpus/01-brokers/_digests/**/*.md` (33 files) - NAMED, builder already correct
+
+Found by running the repo's own `scripts/verify/check_old_path_refs.py` alongside this sweep (it
+classifies hits `[CODE?]` vs `[comment ]`; the digest hits are real path fields, not content mentions).
+Each digest carries a frontmatter field `raw_pdf_path`:
+
+```
+corpus/01-brokers/_digests/affinity/2026/affinity_12_09_2026_...md
+  line 8:  raw_pdf_path: "reports/shipbrokers/affinity/2026/affinity_12_09_2026_....pdf"   -> 404 (pre-migration prefix)
+corpus/01-brokers/_digests/affinity/2026/affinity_26_09_2026_...md
+  line 8:  raw_pdf_path: "corpus/01-brokers/affinity/2026/affinity_26_09_2026_....pdf"    -> resolves
+```
+
+The tier is INTERNALLY INCONSISTENT: the newest digests were written after the migration, the older ones
+before it. Measured: **33 digest md files, 33 distinct stale values** (carriers 21, ssy 2, and 1 each for
+advanced_shipping, affinity, agora, banchero_costa, clarksons, fearnleys, intermodal, ism, star_asia,
+xclusiv; gibson and lion 0). Of the 33: **19 resolve** by the simple prefix
+`reports/shipbrokers/<pub>/<year>/ -> corpus/01-brokers/<pub>/<year>/`, and **14 point at documents the
+corpus does NOT contain** (`general_broker_2026_*`, `lion_shipbrokers_25_09_2026_clarksons_hellas_snp_weekly`,
+`bancosta_16_09_2026_*`, `agora_11_09_2026_*`, ...), i.e. the source PDFs were never kept under that name.
+
+NOT hand-edited, deliberately:
+* the writer is ALREADY CORRECT - `scripts/scrapers/fetch_hsn_shipbrokers.py:198` builds
+  `local_pdf_path = str(pdf_target.relative_to(REPO_ROOT))`, so this is a regenerable knowledge-tier
+  output (`corpus/01-brokers/_digests`), whose sanctioned fix is to RE-RUN the digest builder, not to
+  patch 33 files by hand;
+* a partial mechanical repoint would fix 19 and leave 14 unlabelled, producing a tier that is half
+  rewritten with no way to tell the two apart afterwards;
+* 14 of the referenced PDFs are absent from the corpus altogether, so no path repair can make them resolve.
+
+For the user: a digest-tier regeneration (or an explicit override list) closes this; it needs network
+access to HSN, so it was not run unattended.
