@@ -262,7 +262,7 @@ def test_benchmark_adjacency_means_consecutive_weeks_not_next_ok_issue(tmp_path)
     assert [b["issue_date"] for b in rep["blanked"]] == ["2025-06-17", "2025-06-24", "2025-08-12", "2025-08-26"]   # gaps break the run
 
 
-def test_confusable_digit_slips_and_long_runs():
+def test_confusable_digit_slips_and_long_runs(tmp_path):
     from scripts.parse_engine_html.pipeline import confusable
     assert confusable("90k", "80k") and confusable("39k", "38k") and confusable("30k", "38k")
     assert confusable("71k", "11k") and confusable("72k", "22k") and confusable("5500", "6500")
@@ -271,7 +271,7 @@ def test_confusable_digit_slips_and_long_runs():
     from datetime import timedelta
     from scripts.parse_engine_html.pipeline import reconcile_benchmarks
     wk = [(date(2025, 1, 7) + timedelta(days=7 * n)).isoformat() for n in range(20)]
-    ctxs = [_bench_ctx(None if False else Path("."), d, "39k" if d in wk[10:] else None) for d in wk]
+    ctxs = [_bench_ctx(tmp_path, d, "39k" if d in wk[10:] else None) for d in wk]
     assert not reconcile_benchmarks(ctxs)["blanked"]            # a run of 10 survives even if confusable
 
 
