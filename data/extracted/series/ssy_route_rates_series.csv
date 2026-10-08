@@ -5159,3 +5159,13 @@ issue_date,report_week,year,basin,route,cargo_size,weight_pct,rates_date_prev,ra
 2026-09-25,39,2026,Pacific,NSW/ZHOUSHAN,"130,000/10%",10%,2026-09-18,2026-09-25,20.95,20.4,-0.55,ssy_2026_20260925-Pacific-Capesize-Report.pdf
 2026-09-25,39,2026,Pacific,T/C TRIP FAR EAST/CONT,"180,000 DWT",10%,2026-09-18,2026-09-25,3.67,3.86,0.19,ssy_2026_20260925-Pacific-Capesize-Report.pdf
 2026-09-25,39,2026,Pacific,T/C TRANSPACIFIC ROUND,"180,000 DWT",10%,2026-09-18,2026-09-25,8.5,7.74,-0.76,ssy_2026_20260925-Pacific-Capesize-Report.pdf
+2026-10-02,40,2026,Atlantic,NARVIK/ROTTERDAM,"150,000/10%",10%,2026-09-25,2026-10-02,10.95,10.1,-0.85,ssy_05_10_2026_ssy_atlantic_capesize_index_5_october_2026.pdf
+2026-10-02,40,2026,Atlantic,TUBARAO/ROTTERDAM,"170,000/10%",10%,2026-09-25,2026-10-02,19.85,17.65,-2.2,ssy_05_10_2026_ssy_atlantic_capesize_index_5_october_2026.pdf
+2026-10-02,40,2026,Atlantic,RICHARDS BAY/ROTTERDAM,"150,000/10%",10%,2026-09-25,2026-10-02,21.05,18.85,-2.2,ssy_05_10_2026_ssy_atlantic_capesize_index_5_october_2026.pdf
+2026-10-02,40,2026,Atlantic,SEVEN ISLANDS/ROTTERDAM,"170,000/10%",10%,2026-09-25,2026-10-02,17.3,16.7,-0.6,ssy_05_10_2026_ssy_atlantic_capesize_index_5_october_2026.pdf
+2026-10-02,40,2026,Atlantic,PUERTO BOLIVAR/ROTTERDAM,"160,000/10%",10%,2026-09-25,2026-10-02,24.65,23.45,-1.2,ssy_05_10_2026_ssy_atlantic_capesize_index_5_october_2026.pdf
+2026-10-02,40,2026,Atlantic,NOUADHIBOU/QINGDAO,"170,000/10%",10%,2026-09-25,2026-10-02,43.0,38.25,-4.75,ssy_05_10_2026_ssy_atlantic_capesize_index_5_october_2026.pdf
+2026-10-02,40,2026,Atlantic,TUBARAO/JAPAN,"160,000/10%",10%,2026-09-25,2026-10-02,42.1,37.35,-4.75,ssy_05_10_2026_ssy_atlantic_capesize_index_5_october_2026.pdf
+2026-10-02,40,2026,Atlantic,TUBARAO/QINGDAO,"160,000/10%",10%,2026-09-25,2026-10-02,42.4,37.65,-4.75,ssy_05_10_2026_ssy_atlantic_capesize_index_5_october_2026.pdf
+2026-10-02,40,2026,Atlantic,T/C TRIP CONT/FAR EAST,"180,000 DWT",10%,2026-09-25,2026-10-02,15.45,14.78,-0.67,ssy_05_10_2026_ssy_atlantic_capesize_index_5_october_2026.pdf
+2026-10-02,40,2026,Atlantic,T/C TRANSATLANTIC ROUND,"180,000 DWT",10%,2026-09-25,2026-10-02,10.64,9.75,-0.89,ssy_05_10_2026_ssy_atlantic_capesize_index_5_october_2026.pdf

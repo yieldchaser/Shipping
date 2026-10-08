@@ -1,5 +1,218 @@
 [
   {
+    "id": "eaa9d164-ef32-4861-b3c3-7f93faf786de",
+    "date": "2026-10-07",
+    "title": " Fearnleys Dry Bulk Weekly",
+    "department": "BULK",
+    "slug": "fearnleys-dry-bulk-weekly-7th-october-2026-28",
+    "status": "published",
+    "pdf_url": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/report.pdf",
+    "audio_url": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/summary-en.mp3",
+    "content": [
+      {
+        "id": "1e833d8a-a9a5-4295-a88a-a8c819431e8c",
+        "type": "heading1",
+        "content": "Capesize/Newcastlemax"
+      },
+      {
+        "id": "z4xrutx",
+        "type": "fullWidthParagraph",
+        "content": "We made a model consisting of factors like the global ballast/laden vessel ratio, West of Singapore ballasters, and a couple of other AIS indicators. Below the charts are tables showing where the model sits currently. It is only at extremes that these models give very clear suggestions about the near-term outlook. \n\nSince last week, the models have fallen to an extreme low, which strongly suggests a near-term bottom is close. The bearish signals from the previous extremes are \"live\" through the end of next week. \n\nYear-on-year growth rates of South Atlantic volume flows continue to decrease, as iron ore shipment growth from Brazil has been negative for four straight weeks, and on a six-week basis, bauxite growth has declined from an exceptional +80% a month ago to +22% as per last week. \n",
+        "textAlignment": "left"
+      },
+      {
+        "id": "a101264f-df5b-4f04-a09d-d5ac9c18df10",
+        "type": "halfWidthChartFromFile",
+        "title": "Cape/Newc Composite Model",
+        "content": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/Cape Composite Model.png"
+      },
+      {
+        "id": "ad42ed57-1ad9-4822-9525-adc3795a5ea8",
+        "type": "halfWidthChartFromFile",
+        "title": "Cape/Newc Composite Model - 4 Weeks Change",
+        "content": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/Cape Composite Model 4 Weeks Change.png"
+      },
+      {
+        "id": "0a842241-4d77-4304-bc92-fdaf1a2bcd12",
+        "type": "halfWidthChartFromFile",
+        "title": "",
+        "content": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/cape model.png"
+      },
+      {
+        "id": "d71ca010-105d-41bf-8972-f048222731d9",
+        "type": "halfWidthChartFromFile",
+        "title": "",
+        "content": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/cape momentum model.png"
+      },
+      {
+        "id": "f85ae58d-a5a5-4087-aa6e-f87bb9d383c1",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "a6dbd3fc-e74c-4ebd-952c-8eb867354183",
+        "type": "heading1",
+        "content": "Panamax/Kamsarmax "
+      },
+      {
+        "id": "80107745-39c1-41c9-a4d3-6fab4fd87601",
+        "type": "fullWidthParagraph",
+        "content": "Shipment volume growth continues to be lower than DWT supply growth, though a slight relative improvement have been seen over the last few weeks. Through week 40, growth was 3.1%, compared to DWT supply growth of 4.2%. Over the last 10 weeks, volume growth was 1.4% compared to the same period last year.  \n\nThe South Atlantic tightness indicator suggests a slow upward movement over the next weeks, whereas the Pacific tightness indicator suggests the market will drop. If Capes bottom now, as suggested in that section, it most likely means sideways over the next couple of weeks for Kamsarmaxes. \n\n**Top left chart:** Shipment volumes were up 3.1% year on year through week 40. In the last ten weeks, volumes were down +1.4% compared to the same period last year. Supply growth was 4.2% at the latest reading. \n**Top right chart:** The 2-month lead of the coal futures curve suggests the market could be past the peak. \n**Bottom left chart:** The Pacific tightness indicator suggests the market will drop after the Chinese holidays. \n**Bottom right chart:** The SATL tightness indicator suggests P6 will rise slightly over the next weeks. ",
+        "textAlignment": ""
+      },
+      {
+        "id": "06eeaad1-bf7b-483d-984e-c3b7bd48ef27",
+        "type": "halfWidthChartFromFile",
+        "title": "Weekly Shipment Volumes ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/panamax kamsarmax weekly shipment volumes.png"
+      },
+      {
+        "id": "82a8e034-060f-4e59-8be6-61658bcf732c",
+        "type": "halfWidthChartFromFile",
+        "title": "P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/P5 vs Newcastle Coal Futures Spread Lead.png"
+      },
+      {
+        "id": "d8f30520-a1db-4d77-93c1-b6ae7ab9687f",
+        "type": "halfWidthChartFromFile",
+        "title": "P5TC vs Pacific Vessel Tightness Indicator (Lead 3 Weeks)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/P5TC vs Pacific Tightness Indicator Zoom In.png"
+      },
+      {
+        "id": "a19ee1de-4379-436a-afb6-e6c5ca568621",
+        "type": "halfWidthChartFromFile",
+        "title": "P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/P6 vs SATL Tightness Zoom In.png"
+      },
+      {
+        "id": "d9915617-4941-46b7-8c0b-8edfab10c3f9",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "4eec2f29-c25f-411e-b8e1-1f353a37b17f",
+        "type": "heading1",
+        "content": "Supramax/Ultramax "
+      },
+      {
+        "id": "2ffdd4ab-a80e-44e5-846a-1de0aa4103b2",
+        "type": "fullWidthParagraph",
+        "content": "Through week 40, shipment volume growth was 3.9% year-on-year, whereas over the last 10 weeks, growth was 3.2% compared to the same period last year. DWT supply growth continues at 5.5% year-on-year. \nThe relative increase in volume growth over the last weeks is now reflected in a lower ballast/laden vessel ratio. \n\n**Top left chart:** Weekly shipment volumes, 2026 ytd vs 2025. \n**Top right chart:** S11TC vs the Ballaster/Laden vessel ratio. A lower ratio indicates a looser market balance, and vice versa. The index and the ballast/laden ratio have diverged from the index over the last month and a half\n**Bottom left chart:** The industrial metals index is composed of copper, aluminium, zinc and nickel, and weighted according to market value. The 9-month change of this index has a high correlation with the 9-month change of the Ultramax 1-year TC rate, and leads by about 3 months. \n**Bottom right chart:** The 9-month change of the price of copper has a high correlation with the 9-month change of the Ultramax 1-year TC rate. The copper price change leads by about 4 months. "
+      },
+      {
+        "id": "e50ce1a5-fdfc-403d-9f9a-834ec6e0b5df",
+        "type": "halfWidthChartFromFile",
+        "title": "Weekly Shipment Volumes",
+        "content": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/SUPRAMAX ULTRAMAX WEEKLY SHIPMENT VOLUMES.png"
+      },
+      {
+        "id": "2f8257b6-4369-402a-a81e-fc9d1291ccf1",
+        "type": "halfWidthChartFromFile",
+        "title": "Ballaster/Laden Vessel Ratio vs S11TC",
+        "content": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/supraultra ballaster laden vessel ratio.png"
+      },
+      {
+        "id": "7f7299e1-2244-4c7a-a101-4d431d4340d7",
+        "type": "halfWidthChartFromFile",
+        "title": "Industrial Metals Price Index vs Ultra/Supra 1 Year TC",
+        "content": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/Industrial Metals Index vs Ultramax 1 Year TC.png"
+      },
+      {
+        "id": "5f69f216-748e-4444-9561-a6e9572ee56b",
+        "type": "halfWidthChartFromFile",
+        "title": "Copper Price vs Ultramax 1 Year TC ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/COPPER 9 MONTHS CHANGE VS ULTRAMAX 9 MONTHS CHANGE.png"
+      },
+      {
+        "id": "b0a343c5-f4cc-4c07-a650-e11d3b540290",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "6e966718-9772-4e7f-a146-e4055dfea94c",
+        "type": "heading1",
+        "content": "Handysize"
+      },
+      {
+        "id": "9d05aede-e8fa-4a7b-8baf-4285ba058a00",
+        "type": "fullWidthParagraph",
+        "content": "Through week 40, shipment volume growth grew by an estimated 1.0% compared to last year. DWT supply growth remains at 3.2%. The market remains firmer than the weak headline figures suggest. In the near term, the strength of the Ultramax segment suggests continued sideways/slightly up in this segment. \n\n**Top left chart:** The ratio between Rio-Recalada / Skaw-Passero (HS3) and SEA / Singapore-Japan (HS5) is usually a good predictor of tops and bottoms of the HS3 route. A higher ratio suggests a market top, and a lower ratio suggests a market bottom. \n**Top right chart:** Through week 39, Handysize shipment volumes were 1.0% higher year on year, declining from the 3%+ figures seen in the last months. DWT supply growth was 3.2% at the latest reading. \n**Bottom left chart:** The correlation between the S11TC and HS7TC is over 90%. The correlation is even higher when the S11TC index is shifted forward a few days, which means that movements in the S11TC index often lead the movements of the HS7TC. \n**Bottom right chart:** The change in the price of copper is usually an accurate leading indicator for asset values. "
+      },
+      {
+        "id": "4f2d6a0d-e0a2-4de9-a179-3eab94fd3bdf",
+        "type": "halfWidthChartFromFile",
+        "title": "HS3 vs Ratio of HS3 and HS5",
+        "content": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/HS3 RATIO.png"
+      },
+      {
+        "id": "fc26dd83-edbf-410f-90c8-27eb0c81f27c",
+        "type": "halfWidthChartFromFile",
+        "title": "Weekly Shipment Volumes ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/HANDYSIZE WEEKLY SHIPMENT VOLUMES.png"
+      },
+      {
+        "id": "a73647a4-ec2d-4531-974e-031fe10c4611",
+        "type": "halfWidthChartFromFile",
+        "title": "S11TC Shifted 1 Week Forward, vs HS7TC",
+        "content": "https://pbrkapp.blob.core.windows.net/report/eaa9d164-ef32-4861-b3c3-7f93faf786de/ULTRA LEAD HANDY.png"
+      },
+      {
+        "id": "fd6c2de9-3057-4d5d-82f0-d91159377b4e",
+        "type": "halfWidthChartFromFile",
+        "title": "Copper Price 6 Months Change, 6 Months Lead, vs Handysize 10 Year Old 6 Months Change ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0c93677f-6535-4dce-9faf-4bd6057e8a69/copper vs handysize.png"
+      },
+      {
+        "id": "c2eb505c-66b3-4f17-96fd-566d76024fd6",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "2ad47b89-ea19-4bd6-a971-54a0e07b50eb",
+        "type": "heading1",
+        "content": "Fundamentals and Macro"
+      },
+      {
+        "id": "29ab710d-e922-49eb-8f8b-6de2c786a6d4",
+        "type": "halfWidthChartFromFile",
+        "title": "Economic Cycle Index vs Dry Bulk Ton-Time Growth",
+        "content": "https://pbrkapp.blob.core.windows.net/report/190c6f48-0d96-416d-8157-70474979f10c/Commodity and Currency vs TonTime.png"
+      },
+      {
+        "id": "be520210-5b27-45e3-a511-263cd56facf7",
+        "type": "halfWidthChartFromFile",
+        "title": "Economic Cycle Index vs Kamsarmax 10-Year Old",
+        "content": "https://pbrkapp.blob.core.windows.net/report/190c6f48-0d96-416d-8157-70474979f10c/Commodity and Currency vs Kamsarmax.png"
+      },
+      {
+        "id": "6a0f2bd2-cacf-482e-8f05-e677132ea306",
+        "type": "halfWidthChartFromFile",
+        "title": "Economic Cycle Index vs Dry Bulk Volume Growth",
+        "content": "https://pbrkapp.blob.core.windows.net/report/190c6f48-0d96-416d-8157-70474979f10c/Commodity and Currency vs Volumes.png"
+      },
+      {
+        "id": "a39aabe9-8dd1-4e5c-9129-8111f69e8311",
+        "type": "halfWidthChartFromFile",
+        "title": "Economic Cycle Index vs BDI",
+        "content": "https://pbrkapp.blob.core.windows.net/report/190c6f48-0d96-416d-8157-70474979f10c/Commodity and Currency vs BDI.png"
+      },
+      {
+        "id": "d29ba951-c4aa-4785-8cc5-b8fc3b851e19",
+        "type": "halfWidthChartFromFile",
+        "title": "Fleet Age Profile",
+        "content": "https://pbrkapp.blob.core.windows.net/report/523b991f-2926-48bf-bb3b-082065a1c9a7/FLEET AGE PROFILE.png"
+      },
+      {
+        "id": "6ab69130-0a3d-4e6b-9b4e-3e836592899b",
+        "type": "halfWidthChartFromFile",
+        "title": "Ton-Time Growth vs DWT Supply Growth",
+        "content": "https://pbrkapp.blob.core.windows.net/report/523b991f-2926-48bf-bb3b-082065a1c9a7/TON-TIME VS SUPPLY.png"
+      }
+    ],
+    "created_at": "2026-10-07T11:05:59.084+00:00",
+    "updated_at": "2026-10-07T12:47:08.339+00:00"
+  },
+  {
     "id": "391aa6f8-c4c0-4e59-9323-95b9e43c4ce2",
     "date": "2026-10-05",
     "title": "FSRU Quarterly - Q3/26",

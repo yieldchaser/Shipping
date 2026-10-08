@@ -39,3 +39,6 @@ issue_date,year,report_week,department,report_title,vessel_segment,shipment_volu
 2026-09-30,2026,39,BULK,Fearnleys Dry Bulk Weekly,Panamax/Kamsarmax,2.9%,,4.2%,,190c6f48-0d96-416d-8157-70474979f10c
 2026-09-30,2026,39,BULK,Fearnleys Dry Bulk Weekly,Supramax/Ultramax,3.8%,,5.2%,,190c6f48-0d96-416d-8157-70474979f10c
 2026-09-30,2026,39,BULK,Fearnleys Dry Bulk Weekly,Handysize,3.2%,,3.2%,,190c6f48-0d96-416d-8157-70474979f10c
+2026-10-07,2026,40,BULK,Fearnleys Dry Bulk Weekly,Panamax/Kamsarmax,3.1%,,4.2%,,eaa9d164-ef32-4861-b3c3-7f93faf786de
+2026-10-07,2026,40,BULK,Fearnleys Dry Bulk Weekly,Supramax/Ultramax,3.9%,,,,eaa9d164-ef32-4861-b3c3-7f93faf786de
+2026-10-07,2026,39,BULK,Fearnleys Dry Bulk Weekly,Handysize,3.2%,,3.2%,,eaa9d164-ef32-4861-b3c3-7f93faf786de

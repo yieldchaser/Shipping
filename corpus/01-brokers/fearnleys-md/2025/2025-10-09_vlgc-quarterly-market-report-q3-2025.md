@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "d254833f-b752-48b8-bd36-58b75bc53202"
 images_count: 21
-local_pdf: "../pdfs/2025/2025-10-09_vlgc-quarterly-market-report-q3-2025.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/report.pdf"
 ---
 # VLGC Quarterly Report - Q3 2025
 
 **Date:** 2025-10-09 | **Department:** LPG | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2025/2025-10-09_vlgc-quarterly-market-report-q3-2025.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/report.pdf)  
 
 ---
 
@@ -23,25 +22,25 @@ pdf_url: "https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-5
 ![Blpg Dollar Per Ton](../images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG%20dollar%20per%20ton.png)
 
 > **Figure 1: Blpg Dollar Per Ton**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG%20dollar%20per%20ton.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/BLPG dollar per ton.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG%20dollar%20per%20ton.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/BLPG dollar per ton.png)
 
 
 ![Premium Discount](../images/d254833f-b752-48b8-bd36-58b75bc53202/Premium-Discount.png)
 
 > **Figure 2: Premium Discount**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Premium-Discount.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Premium-Discount.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Premium-Discount.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Premium-Discount.png)
 
 
 ![Blpg1 Tce](../images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG1%20TCE.png)
 
 > **Figure 3: Blpg1 Tce**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG1%20TCE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/BLPG1 TCE.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG1%20TCE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/BLPG1 TCE.png)
 
 
 ![Blpg3 Tce](../images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG3%20TCE.png)
 
 > **Figure 4: Blpg3 Tce**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG3%20TCE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/BLPG3 TCE.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG3%20TCE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/BLPG3 TCE.png)
 
 The average daily spot earnings across the three index routes reached $75,000 per day in Q3, driven by a tighter market environment. This elevated the year-to-date average to $54,000 per day, marking a $10,000 increase from the post-Q2 figure-a 4.8% quarterly rise and a 45.6% year-on-year gain.
 
@@ -61,19 +60,19 @@ This regulatory uncertainty had a tangible impact on freight rates in September.
 ![Global Lpg](../images/d254833f-b752-48b8-bd36-58b75bc53202/Global%20LPG.png)
 
 > **Figure 5: Global Lpg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Global%20LPG.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Global LPG.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Global%20LPG.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Global LPG.png)
 
 
 ![Top Exporters](../images/d254833f-b752-48b8-bd36-58b75bc53202/Top%20Exporters.png)
 
 > **Figure 6: Top Exporters**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Top%20Exporters.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Top Exporters.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Top%20Exporters.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Top Exporters.png)
 
 
 ![Top Importers](../images/d254833f-b752-48b8-bd36-58b75bc53202/Top%20importers.png)
 
 > **Figure 7: Top Importers**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Top%20importers.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Top importers.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Top%20importers.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Top importers.png)
 
 
 ### U.S. Production and Terminal Capacity Expansion
@@ -82,13 +81,13 @@ This regulatory uncertainty had a tangible impact on freight rates in September.
 ![Us Production](../images/d254833f-b752-48b8-bd36-58b75bc53202/US%20Production.png)
 
 > **Figure 8: Us Production**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/US%20Production.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/US Production.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/US%20Production.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/US Production.png)
 
 
 ![Us Propane](../images/d254833f-b752-48b8-bd36-58b75bc53202/US%20Propane.png)
 
 > **Figure 9: Us Propane**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/US%20Propane.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/US Propane.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/US%20Propane.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/US Propane.png)
 
 U.S. LPG production continues to rise, with total output increasing by 75% over the past ten years. While growth is expected to moderate to approximately 5% over the next three years, export capacity is projected to expand significantly during the same period. Domestic consumption remains stable, as do export levels, which consistently hover around 60%. All residual volumes of LPG that is not domestically consumed, will be priced to clear out - enabling flexible exports. Furthermore, production from the Permian Basin is projected to grow at an annual rate of 7% through 2030, outpacing crude oil growth by 4%.
 
@@ -102,13 +101,13 @@ The most influential factor in fleet utilization is the sailing patterns chosen 
 ![Laden Transits](../images/d254833f-b752-48b8-bd36-58b75bc53202/Laden%20Transits.png)
 
 > **Figure 10: Laden Transits**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Laden%20Transits.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Laden Transits.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Laden%20Transits.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Laden Transits.png)
 
 
 ![Ballast Transits](../images/d254833f-b752-48b8-bd36-58b75bc53202/Ballast%20Transits.png)
 
 > **Figure 11: Ballast Transits**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Ballast%20Transits.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Ballast Transits.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Ballast%20Transits.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Ballast Transits.png)
 
 The Panama Canal remains a critical bottleneck in the VLGC market due to its unpredictable operational capacity and volatility. In Q3, congestion levels typically seen during peak winter months emerged unexpectedly, catching the market off guard. Auction fees surged to nearly $1 million, significantly tightening capacity. As a result, the share of ballasting ships returning to the U.S. via the Cape of Good Hope (COGH) rose from 22% in August to 40% in September.
 
@@ -120,7 +119,7 @@ Another factor contributing to canal congestion is the emergence of VLECs transp
 ![Expansions](../images/d254833f-b752-48b8-bd36-58b75bc53202/Expansions.png)
 
 > **Figure 12: Expansions**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Expansions.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Expansions.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Expansions.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Expansions.png)
 
 
 ### The Middle East
@@ -129,7 +128,7 @@ Another factor contributing to canal congestion is the emergence of VLECs transp
 ![Meg Exports](../images/d254833f-b752-48b8-bd36-58b75bc53202/MEG%20Exports.png)
 
 > **Figure 13: Meg Exports**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/MEG%20Exports.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/MEG Exports.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/MEG%20Exports.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/MEG Exports.png)
 
 The ongoing trade tensions between the U.S. and China, has caused disruptions in cargo flows, solidifying LPG exports from the Middle East, which have surpassed 30 million tons year-to-date. Key contributors include Qatar, the UAE, Saudi Arabia, and Iran. Notably, 90% of Iranian LPG exports are destined for China, with 96% of these volumes transported by VLGCs, primarily by the dedicated fleet segment.
 
@@ -143,7 +142,7 @@ In July, the U.S. and Indonesia signed a trade agreement under which Indonesia w
 ![Saudi Cp Lpg](../images/d254833f-b752-48b8-bd36-58b75bc53202/Saudi%20CP%20LPG.png)
 
 > **Figure 14: Saudi Cp Lpg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Saudi%20CP%20LPG.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Saudi CP LPG.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Saudi%20CP%20LPG.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Saudi CP LPG.png)
 
 
 ---
@@ -155,13 +154,13 @@ In July, the U.S. and Indonesia signed a trade agreement under which Indonesia w
 ![Chinese Imports](../images/d254833f-b752-48b8-bd36-58b75bc53202/Chinese%20imports.png)
 
 > **Figure 15: Chinese Imports**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Chinese%20imports.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Chinese imports.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Chinese%20imports.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Chinese imports.png)
 
 
 ![Chinese Imports By Origin](../images/d254833f-b752-48b8-bd36-58b75bc53202/Chinese%20imports%20by%20Origin.png)
 
 > **Figure 16: Chinese Imports By Origin**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Chinese%20imports%20by%20Origin.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Chinese imports by Origin.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Chinese%20imports%20by%20Origin.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Chinese imports by Origin.png)
 
 Following "Liberation Day" in April, cargo flows have been reshuffled, underscoring the high flexibility of the LPG market-though this adaptability comes at the cost of increased logistics expenses. Compared to the same period last year, Chinese VLGC imports remain steady at 25.95 million tons.
 
@@ -173,7 +172,7 @@ Starting October 14th, Chinese-owned and/or operated VLGCs calling at U.S. ports
 ![Pdh Capacity](../images/d254833f-b752-48b8-bd36-58b75bc53202/PDH%20Capacity.png)
 
 > **Figure 17: Pdh Capacity**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/PDH%20Capacity.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/PDH Capacity.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/PDH%20Capacity.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/PDH Capacity.png)
 
 The current tariffs have been imposed by the same U.S. administration that originally introduced them in 2018, suggesting a more resilient and prolonged stance this time around. This could imply that trade disruptions may persist longer than previously anticipated. However, China's dependency on U.S. LPG supply is now five times greater than it was in 2018, potentially giving China greater leverage in negotiations. China currently accounts for over $10 billion in annual U.S. energy export value, underscoring a strong mutual dependency between the two nations.
 
@@ -189,7 +188,7 @@ The rapid expansion of China's PDH capacity in recent years means that significa
 ![Fleet Development](../images/d254833f-b752-48b8-bd36-58b75bc53202/Fleet%20development.png)
 
 > **Figure 18: Fleet Development**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Fleet%20development.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Fleet development.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Fleet%20development.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Fleet development.png)
 
 As we close in on the last quarter of the year, 10 newbuilds have been delivered, and 3 are remaining, giving a total of 13 newbuilds. The fleet now stands at 410 ships, including floating storages. The orderbook consists of 107 ships, resulting in an orderbook-fleet ratio of 26%, which is slightly above the 20-year average of 21%. Nonetheless, the fleet is set to grow by 19.4% through 2026 and 2027 in total, which could have an accumulated effect by offsetting the fleet balance in to a surplus. 
 
@@ -199,13 +198,13 @@ As the Panama Canal is expected to become increasingly congested in the coming y
 ![Ob Deliveries](../images/d254833f-b752-48b8-bd36-58b75bc53202/OB%20Deliveries.png)
 
 > **Figure 19: Ob Deliveries**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/OB%20Deliveries.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/OB Deliveries.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/OB%20Deliveries.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/OB Deliveries.png)
 
 
 ![Ob Yards](../images/d254833f-b752-48b8-bd36-58b75bc53202/OB%20Yards.png)
 
 > **Figure 20: Ob Yards**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/OB%20Yards.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/OB Yards.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/OB%20Yards.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/OB Yards.png)
 
 Ordering activity in 2025 has been extremely modest compared to the 2 previous years, as both the current newbuilding prices as well as the size of the orderbook has put a damper on ordering interest. 
 
@@ -217,7 +216,7 @@ On the ammonia side, market interest and activity has remained limited throughou
 ![Asset Values](../images/d254833f-b752-48b8-bd36-58b75bc53202/Asset%20values.png)
 
 > **Figure 21: Asset Values**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Asset%20values.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Asset values.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Asset%20values.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Asset values.png)
 
 In line with elevated earning levels, asset values for LPG carriers have risen sharply over the past few years. At the end of 2022, a VLGC was priced at $80 million-a figure now equivalent to the cost of a 40,000 cbm MGC. Prices increased by 50% to $120 million as ordering activity surged, reaching record highs for two consecutive years. The peak was recorded in April 2024, when VLGCs were priced at $127 million. Although ordering activity has slowed in 2025, leading to a softening in newbuilding prices, shipyards continue to maintain relatively high price levels due to long backlogs from other shipping segments. This price softening reflects current market sentiment, which is shaped by a larger orderbook.
 

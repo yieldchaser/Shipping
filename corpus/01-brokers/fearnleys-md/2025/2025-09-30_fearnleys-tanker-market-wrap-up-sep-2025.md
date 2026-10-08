@@ -7,13 +7,12 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351"
 images_count: 27
-local_pdf: "../pdfs/2025/2025-09-30_fearnleys-tanker-market-wrap-up-sep-2025.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/report.pdf"
 ---
 # Fearnleys Tanker Market Wrap-up Sep 2025
 
 **Date:** 2025-09-30 | **Department:** TANK | **Publisher:** Fearnleys AS  
-**Original PDF:** [Local PDF](../pdfs/2025/2025-09-30_fearnleys-tanker-market-wrap-up-sep-2025.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/report.pdf)  
+**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/report.pdf)  
 
 ---
 
@@ -41,7 +40,7 @@ Going into next year we see directionally lower rates due to rising fleet growth
 ![Rates catching up closer to our forecast](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/rates.png)
 
 > **Figure 1: Rates catching up closer to our forecast**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/rates.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/rates.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/rates.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/rates.png)
 
 
 ### Most of the bull case has played out, but rates not fully so until now
@@ -56,13 +55,13 @@ So, a lot of this has played out. Underlying Chinese oil demand has not been tha
 ![Global oil supply growth vs. tanker demand](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tm.png)
 
 > **Figure 2: Global oil supply growth vs. tanker demand**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tm.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tm.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tm.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tm.png)
 
 
 ![China oil storage capacity](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/chistor.png)
 
 > **Figure 3: China oil storage capacity**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/chistor.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/chistor.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/chistor.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/chistor.png)
 
 
 ### Much of the upside may already have been taken out
@@ -75,13 +74,13 @@ Going forward, however, more may be sourced from the MEG vs. the Atlantic basin,
 ![OECD oil inventories](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oecd.png)
 
 > **Figure 4: OECD oil inventories**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oecd.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oecd.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oecd.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oecd.png)
 
 
 ![Non-OECD oil inventories](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/non-oecd.png)
 
 > **Figure 5: Non-OECD oil inventories**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/non-oecd.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/non-oecd.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/non-oecd.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/non-oecd.png)
 
 The West-East arb. has narrowed recently to the point where it is now closed. It was for a while supported by the very strong Dubai/Murban prices, which have now fallen. Given increasing output from Middle Eastern producers and less ramp-up in the Atlantic going forward, this should all else equal not be supportive of a wide open arbitrage. 
 
@@ -91,13 +90,13 @@ A risk to the downside is if or when the Brent forward curve flips into contango
 ![USG-West arbitrage narrowing - WTI better priced into Europe](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/arb.png)
 
 > **Figure 6: USG-West arbitrage narrowing - WTI better priced into Europe**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/arb.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/arb.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/arb.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/arb.png)
 
 
 ![Watch the Brent forward curve](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/fwd.png)
 
 > **Figure 7: Watch the Brent forward curve**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/fwd.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/fwd.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/fwd.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/fwd.png)
 
 With most of the new FPSOs coming on in Brazil and Guyana having started the last few months, the biggest volume ramp-up from the Atlantic basin has already happened. Although there may be some more in it, the EIA forecasts a Q/Q decline of 120 kbpd in 4Q'25 and another 340 kbpd in Q1'26.  
 
@@ -107,13 +106,13 @@ Near term there may also be some export decline due to increasing refinery runs 
 ![Key Atlantic producers q/q supply growth](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/atalntic.png)
 
 > **Figure 8: Key Atlantic producers q/q supply growth**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/atalntic.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/atalntic.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/atalntic.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/atalntic.png)
 
 
 ![U.S. refinery runs](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/usref.png)
 
 > **Figure 9: U.S. refinery runs**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/usref.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/usref.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/usref.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/usref.png)
 
 What may lend upside support, however, is intensified Ukrainian attacks on Russian infrastructure and/or secondary sanctions if such are implemented. Trump's recent change in tune and green light for the Ukrainians to carry out long-range attacks into Russia could give greater implications for export capacity. 
 
@@ -131,25 +130,25 @@ It is likely that these tonne-mile figures lag a bit and that the full month dat
 ![Total compliant tanker tonne-miles](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmtot.png)
 
 > **Figure 10: Total compliant tanker tonne-miles**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmtot.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmtot.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmtot.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmtot.png)
 
 
 ![Compliant VLCC tonne-miles](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmv.png)
 
 > **Figure 11: Compliant VLCC tonne-miles**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmv.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmv.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmv.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmv.png)
 
 
 ![Compliant crude tanker tonne-miles](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmc.png)
 
 > **Figure 12: Compliant crude tanker tonne-miles**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmc.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmc.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmc.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmc.png)
 
 
 ![Compliant product tanker tonne-miles](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmp.png)
 
 > **Figure 13: Compliant product tanker tonne-miles**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmp.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmp.png)
 
 
 ### Slower demand growth next year
@@ -162,13 +161,13 @@ That is, if the oil market can accommodate extra OPEC+ barrels. Energy agency ba
 ![IEA oil supply/demand balance](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/ieabal.png)
 
 > **Figure 14: IEA oil supply/demand balance**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/ieabal.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/ieabal.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/ieabal.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/ieabal.png)
 
 
 ![OPEC cut tranches](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/opec.png)
 
 > **Figure 15: OPEC cut tranches**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/opec.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/opec.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/opec.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/opec.png)
 
 Next year global refinery runs are estimated by the IEA to increase by about 0.5 mbpd, down from 0.6 mbpd this year. Refinery capacity may increase by about 1.1 mbpd, which indicates the potential for some more crude oil production to be absorbed. 
 
@@ -180,25 +179,25 @@ Current refinery margins are stronger in the West than the East, partly supporte
 ![Refinery capacity additions](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/ref.png)
 
 > **Figure 16: Refinery capacity additions**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/ref.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/ref.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/ref.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/ref.png)
 
 
 ![U.S. Gulf Coast crack spreads](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackus.png)
 
 > **Figure 17: U.S. Gulf Coast crack spreads**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackus.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackus.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackus.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackus.png)
 
 
 ![NorthWest Europe crack spreads](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackeu.png)
 
 > **Figure 18: NorthWest Europe crack spreads**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackeu.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackeu.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackeu.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackeu.png)
 
 
 ![China Bohai Bay crack spreads](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackchi.png)
 
 > **Figure 19: China Bohai Bay crack spreads**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackchi.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackchi.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackchi.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackchi.png)
 
 
 ### Fleet growth on the rise
@@ -211,13 +210,13 @@ It starts the coming quarter, but this is likely to be more than offset by risin
 ![Annual deliveries](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/delya.png)
 
 > **Figure 20: Annual deliveries**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/delya.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/delya.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/delya.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/delya.png)
 
 
 ![Quarterly deliveries](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/delyq.png)
 
 > **Figure 21: Quarterly deliveries**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/delyq.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/delyq.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/delyq.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/delyq.png)
 
 Below is an overview of the oldest part of the various fleets: For instance, all VLCCs built 2000 and earlier are either sanctioned or operate in the shadow market. 87% of VLCCs built 2001-2005 are either sanctioned or shadow, while 'only' 21% of VLCCs built 2006-2010 are. In other words, we may not see any phase-out near-term, as almost all vessels which would otherwise be phase-out candidates are already phased out of the compliant market. For 2027-30, however, there could be more meaningful phase-out, especially if rates come off.. 
 
@@ -227,25 +226,25 @@ For Suezmaxes, 93% of the vessels built 2000 or earlier are sanctioned/shadow, a
 ![Older VLCC fleet composition](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofV.png)
 
 > **Figure 22: Older VLCC fleet composition**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofV.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofV.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofV.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofV.png)
 
 
 ![Older Suezmax fleet composition](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofS.png)
 
 > **Figure 23: Older Suezmax fleet composition**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofS.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofS.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofS.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofS.png)
 
 
 ![Older Afra/LR2 fleet composition](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofA.png)
 
 > **Figure 24: Older Afra/LR2 fleet composition**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofA.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofA.png)
 
 
 ![Older MR fleet composition](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofM.png)
 
 > **Figure 25: Older MR fleet composition**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofM.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofM.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofM.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofM.png)
 
 Compared to the last two years phase-out has picked up significantly and ordering slowed quite a bit YTD. However, on a run-rate basis, phase-out is still only on pace to come to 0.4% of the fleet this year, a third of the the historical average in dwt terms, while ordering may come to 3.7%, 50% more than the historical average in dwt terms.
 
@@ -253,13 +252,13 @@ Compared to the last two years phase-out has picked up significantly and orderin
 ![Phase-out YTD picked up slightly](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/scrap.png)
 
 > **Figure 26: Phase-out YTD picked up slightly**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/scrap.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/scrap.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/scrap.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/scrap.png)
 
 
 ![Ordering YTD slower, but still elevated](../images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/order.png)
 
 > **Figure 27: Ordering YTD slower, but still elevated**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/order.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/order.png)
+> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/order.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/order.png)
 
 
 ---
