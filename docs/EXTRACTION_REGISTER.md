@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (641,412 Total Rows across 180 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (640,054 Total Rows across 180 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -181,7 +181,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [seabrokers_osv_spot_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_osv_spot_rates_series.csv) |  | 1,875 | Verified |
 | [seabrokers_osv_utilisation_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_osv_utilisation_series.csv) |  | 2,328 | Verified |
 | [seabrokers_renewables_and_ets_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_renewables_and_ets_series.csv) |  | 16 | Verified |
-| [seabrokers_rigs_market_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_rigs_market_series.csv) |  | 4,482 | Verified |
+| [seabrokers_rigs_market_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_rigs_market_series.csv) |  | 3,124 | Verified |
 | [seabrokers_snp_auctions_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_snp_auctions_series.csv) |  | 281 | Verified |
 | [seasure_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seasure_sales_series.csv) |  | 1,452 | Verified |
 | [signal_reports_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/signal_reports_metadata.csv) |  | 446 | Verified |
@@ -216,7 +216,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [fearnleys_md_master_econometric_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_master_econometric_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (180 CSVs + 1 Master Workbook)** | **641,412** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (180 CSVs + 1 Master Workbook)** | **640,054** | **100.0% Pass** |
 
 ---
 

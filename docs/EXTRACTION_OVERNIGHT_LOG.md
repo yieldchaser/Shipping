@@ -4320,3 +4320,107 @@ human rather than risking the golden sources for a handful of rows.
   `data/extracted/md/xclusiv/<stem>.{md,tables.json}` sidecars; I reverted the
   touched tracked sidecars and removed the 6 new untracked files, so the only
   working-tree change is the two parsers (+ this log).
+
+---
+
+## 2026-10-08 16:5x IST - DEEP REVIEW (3-hourly cron d77cc9df53c4)
+
+**Headline: one systematic defect FOUND and FIXED - `seabrokers_rigs_market_series.csv`
+section `rigs_inactive` (the monthly "INACTIVE RIGS NORTHWEST EUROPE" table) was
+46% page prose, with the NAME/TYPE/STATUS pairing misaligned and the table
+header emitted as a data row.** Branch `auto/extract-fixes-2026-10-08` (NOT main);
+the delivered CSV is regenerated in the same commit, so the fix is already in
+the data.
+
+### What I measured first
+- `verify_extraction.py --json`: exit 0, `actions: []`. golden **15/15**,
+  checkpoint **7,816/7,816 unique**, `empty_after_ok_status` 0, `empty_unexpected`
+  0, 74 genuine not-a-pdf quarantines, db 189,481 tables / 6,726,703 cells,
+  `mean_text_verified` 0.863.
+- Liveness: no `run_batch` / `batch_worker`. python.exe = 2 Hermes gateways,
+  code_review_graph, and `python -m scripts.parse_engine run --source best_oas`
+  (started 16:02) which is NOT this repo (`scripts/parse_engine` does not exist
+  here) - another working copy, no orphan left by this run.
+- Disk: C: 8.4 GB free.
+- **Checkpoint-vs-output integrity (new check, 16,804 doc dirs):** for the 7,739
+  dirs that map to a checkpoint row, `pages.jsonl` / `tables.jsonl` /
+  `text.jsonl` line counts equal the checkpoint's recorded pages/tables/blocks -
+  **0 mismatches**. The 9,065 unmatched dirs are the non-PDF stores the PDF
+  checkpoint never covered (breakwave 3,223, hellenic 3,140, baltic 3,038 -
+  HTML/other-source trees).
+- Gates: `golden_matrix.py` Star Asia **15/15** (plumber-text + pymupdf-text),
+  SSY 14/14, Breakwave 6/6; `check_measured_rules.py` 11/11;
+  `verify_registers.py` **100.0% MATCH** after the register sync.
+
+### Defect - seabrokers inactive rigs (3,256 rows, 92 months) - FIXED
+`extract_inactive()` in `scripts/extract/publishers/seabrokers_ext/02_extract.py`
+took `[c for c in cells if c][:3]` from EVERY row of any camelot grid containing
+the string "INACTIVE RIGS". That grid holds the WHOLE page - chart axis ticks,
+prose, and the same table 2-3 times at different x positions - so prose rows and
+shifted cells were emitted as rigs. Ground truth read off the rendered pages:
+
+```
+2026-09 page 13 (printed 26): 9 rigs   -> CSV had 15 rows (6 prose)
+2026-08 page 13:              9 rigs   -> CSV had 17 rows
+2020-07 page 14 (printed 15): 41 rigs  -> CSV had 74 rows
+first 2020-07 row note: "rig=NAME; type=TYPE; status=STATUS"   <- header as data
+                        "rig=$70;  type=BIDEFORD DOLPHIN; status=SS"
+2026-08 rows: "rig=30%; type=$0; status=undisclosed charterer. This seven-month campaign"
+```
+
+**Fix**: anchor on content, never on a column index. A row is a rig row only if
+it actually carries (rig TYPE in SS/JU/DS, `*STACK` status); the name is the cell
+before the type; the three engine-specific grid shapes (name|type|status,
+name|type+status merged, and all-three-merged, each possibly shifted right) are
+all handled; rows are de-duplicated by rig name. NotFound -> no row.
+**Verified against the SOURCE for the whole publisher, not a sample**: page text
+of all 98 PDFs vs the CSV -> **92 months contain an inactive-rig table and all 92
+match exactly (0 missing, 0 extra names); the other 6 months have no such table
+and the CSV now correctly emits none.** (First attempt of the fix lost 2024-01
+and 2024-04 - the merged-cell months - which this loop caught; the shipped
+version is the second, re-verified one.)
+
+**Blast radius / controls**: `rigs_inactive` 3,256 -> **1,898** rows over the same
+92 months; the other two sections of the same CSV are untouched
+(`rig_day_rates` 312, `rig_utilisation` 914), and of the 8 seabrokers CSVs **7
+are byte-identical** to the committed state (including both app-fed ones:
+`osv_spot_rates`, `osv_utilisation`). The single changed file went 4,482 -> 3,124
+rows. Register synced via `scripts/sync_extraction_register.py`
+(`total_master_stacked_rows` 641,107 -> 639,749).
+Publishers affected: seabrokers only, its own bespoke per-source pipeline - no
+other source touched, no re-extraction.
+
+### Checked and NOT defects (do not "fix")
+- **`orphan_values` (63,129 across 4,489 docs) is mostly chart furniture, not
+  lost table cells.** Opened `advanced_shipping_2021_W26` (116 orphans):
+  `['2021','26','50,000','32,500','36,','38,500','5.000','15.000','100','6947','70']`
+  = year/page numbers, chart y-axis ticks (note `5.000/15.000` = EU thousands)
+  and split tokens. Judge orphans per page before calling them dropped cells.
+- **The two previous runs' data claims are correct.** Re-read the source pages:
+  seabrokers Sept-2026 util 87/79/52/61 and rates 18,250/22,275/66,231/110,702
+  (`2026-09-01_market-report-september-2026.pdf` p10/11) match the stacked rows;
+  agora W40 bunkers Fujairah 667/960/1694, Houston 540/739/1384, Rotterdam
+  629/700/1409, Singapore 754/877/1323 (`W40` p5) match `agora_indicators_series.csv`.
+- `data/derived/offshore_summary.json` already carries Sep 2026 (kpis 110702 /
+  66231 / 22275 / 18250) - the Offshore tab was NOT stale, so nothing app-facing
+  needed touching.
+
+### Deliberately NOT changed, and why
+- `seabrokers_snp_auctions_series.csv` (281 rows): 221 share one
+  (report_date, vessel_class, metric) key - e.g. 12 `winning_bid` rows for
+  2026-08 AHTS. Could be legitimate multi-lot auctions, and I could not prove the
+  source splits them, so it is left for review, not "fixed".
+- Register prose `publishers.seabrokers.verification` still says
+  "May 2018 to August 2026 ... 8 master time series stacked (15,434 rows)" -
+  stale by one month and by the new row count (8 CSVs = 14,266 rows). Authored
+  prose, outside `scripts/extract/` + `docs/EXTRACTION_*.md`; flagged, not edited.
+- `data/derived/offshore_summary.json` metadata still says
+  `coverage: "May 2018 - August 2026 (97 Months Continuous)"` while its own
+  `latest_month` is September 2026 (and `total_reports` 98). Cosmetic, upstream
+  of my allowed paths.
+- Did not touch `index.html`, other pipelines, `tests/`, or git history; did not
+  rebuild the extract_all DB or the corpus.
+
+### Scratch
+`scratch/deepreview/` holds the two evidence scripts (`consistency.py`,
+`verify_all.py`); the pre-fix CSV copies were deleted. `scratch/` is gitignored.

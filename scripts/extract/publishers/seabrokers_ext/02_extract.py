@@ -591,13 +591,103 @@ def extract_feature_vessel(doc, date, items):
 
 
 # ------------------------------------------------------ K: inactive rig list
+RIG_TYPES = {"SS", "JU", "DS"}
+_NL = chr(10)
+RIG_STATUS_RX = re.compile(r"^(WARM|COLD|HOT)[ ]+STACK$", re.I)
+RIG_NAME_RX = re.compile(r"^[A-Z0-9][A-Z0-9 .,'-/&()+]*$")
+
+
+def _cell_lines(c):
+    """A cell can merge several values with newlines (engine-dependent)."""
+    return [x.strip() for x in str(c).split(_NL) if x.strip()]
+
+
+def _is_type(l):
+    return l.strip().upper() in RIG_TYPES
+
+
+def _is_status(l):
+    return bool(RIG_STATUS_RX.match(l.strip()))
+
+
+def _rig_pairs(lines):
+    """Split a flat line list into (type, status) pairs if it is all pairs."""
+    if len(lines) < 2 or len(lines) % 2:
+        return None
+    pairs = [(lines[k], lines[k + 1]) for k in range(0, len(lines), 2)]
+    if all(_is_type(t) and _is_status(s) for t, s in pairs):
+        return pairs
+    return None
+
+
+def _rig_triplets(lines):
+    """Split a flat line list into (name, type, status) triplets if it is all
+    triplets (one cell holding whole rig rows)."""
+    if len(lines) < 3 or len(lines) % 3:
+        return None
+    trip = [(lines[k], lines[k + 1], lines[k + 2]) for k in range(0, len(lines), 3)]
+    if all(_is_type(t) and _is_status(s) and RIG_NAME_RX.match(n) for n, t, s in trip):
+        return trip
+    return None
+
+
+def _rig_rows_from_cells(cells):
+    """Recover (name, type, status) triples from one grid row.
+
+    Three grid shapes occur in this corpus for the same table:
+      A) [name][type][status]        - pdfplumber / some camelot months
+      B) [name][type + status]       - camelot when the last two columns
+                                       collapse into one cell
+      C) [name + type + status]      - everything merged in one cell
+    plus every one of them can arrive with the rig columns shifted right by
+    several empty cells and with page prose in the leading cells.
+    """
+    out = []
+    n = len(cells)
+    for i in range(n):
+        lines = _cell_lines(cells[i])
+        if not lines:
+            continue
+        trip = _rig_triplets(lines)
+        if trip:
+            out.extend(trip)
+            continue
+        pairs = _rig_pairs(lines)
+        if pairs:
+            names = _cell_lines(cells[i - 1]) if i >= 1 else []
+            if len(names) == len(pairs):
+                out.extend((nm, t, s) for nm, (t, s) in zip(names, pairs))
+            elif names:
+                out.append((names[-1], pairs[0][0], pairs[0][1]))
+            continue
+        if all(_is_type(l) for l in lines) and i + 1 < n:
+            nxt = _cell_lines(cells[i + 1])
+            if len(nxt) == len(lines) and all(_is_status(s) for s in nxt):
+                names = _cell_lines(cells[i - 1]) if i >= 1 else []
+                if len(names) == len(lines):
+                    out.extend(zip(names, lines, nxt))
+                elif names:
+                    out.append((names[-1], lines[0], nxt[0]))
+    return out
+
+
 def extract_inactive(tables, date):
+    """Northwest Europe inactive-rig list: NAME | TYPE | STATUS.
+
+    Anchor on CONTENT, never on a column index: the rig table sits inside a
+    camelot grid that also carries chart axis labels and page prose, the same
+    grid is emitted 2-3 times per page with the columns at different x, and
+    the last columns collapse into one cell in some months. Only rows whose
+    cells actually read (rig TYPE, *STACK status) are accepted; rows are
+    de-duplicated by rig name. Measured against the rendered pages across all
+    97 reports (see docs/EXTRACTION_OVERNIGHT_LOG.md 2026-10-08).
+    """
+    seen = set()
+    rows_ = []
     for t in tables:
         flat = [str(c) for r in t["rows"] for c in r]
-        joined = " ".join(flat).upper()
-        if "INACTIVE RIGS" not in joined:
+        if "INACTIVE RIGS" not in " ".join(flat).upper():
             continue
-        rows_ = []
         start = False
         for r in t["rows"]:
             cells = [str(c).strip() for c in r]
@@ -608,21 +698,17 @@ def extract_inactive(tables, date):
                 continue
             if [c.upper() for c in cells[:3]] == ["NAME", "TYPE", "STATUS"]:
                 continue
-            nz = [c for c in cells if c]
-            if len(nz) < 3:
-                # combined cells: NAME\nTYPE\nSTATUS
-                if nz and "\n" in nz[0]:
-                    parts = [p.strip() for p in nz[0].split("\n")]
-                    if len(parts) == 3:
-                        rows_.append(parts)
-                continue
-            rows_.append(nz[:3])
-        for nm, tp, st in rows_:
-            if not nm or not tp or not st:
-                continue
-            emit(date, "rigs_inactive", None, "Northwest Europe", "inactive_rig",
-                 1, "count", period=date[:7], page=t.get("page"),
-                 note=f"rig={nm}; type={tp}; status={st}")
+            for nm, tp, st in _rig_rows_from_cells(cells):
+                if len(nm) < 3 or not RIG_NAME_RX.match(nm):
+                    continue
+                if nm.upper() in seen:
+                    continue
+                seen.add(nm.upper())
+                rows_.append((nm, tp, st, t.get("page")))
+    for nm, tp, st, pg in rows_:
+        emit(date, "rigs_inactive", None, "Northwest Europe", "inactive_rig",
+             1, "count", period=date[:7], page=pg,
+             note=f"rig={nm}; type={tp}; status={st}")
 
 
 # ----------------------------------------------------- L: EU/UK ETS prices
