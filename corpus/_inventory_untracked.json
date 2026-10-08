@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2929,
-      "untracked_bytes": 2298237622
+      "untracked_files": 2925,
+      "untracked_bytes": 2297404614
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,16 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "path": "corpus/01-brokers/_digests/carriers/2026/carriers_07_10_2026_carriers_sales_purchase_market_report_week_40.md",
-      "bytes": 9854,
-      "sha256": "a0f5b2ab3e81c0c667073b72e9d207ed3599f4530cc3d6f565a702e7e33145cc"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/fearnleys/2026/fearnleys_08_10_2026_fearnleys_week_41_2026.md",
-      "bytes": 10802,
-      "sha256": "a57a08196a16906b4a38319746192d909b7df6636eb7afb3bca4e7ff7fc219f8"
-    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -5438,11 +5428,6 @@
       "sha256": "d614475e31d15e54029376f4c1d53053d6ff96ffd108a6eb646d2e88fc5149f9"
     },
     {
-      "path": "corpus/01-brokers/carriers/2026/carriers_07_10_2026_carriers_sales_purchase_market_report_week_40.pdf",
-      "bytes": 339410,
-      "sha256": "846bcd14fc1071ce023c7fc09229385508c9e7f4e4636a00a0a5ea43268b34d4"
-    },
-    {
       "path": "corpus/01-brokers/carriers/2026/carriers_2026_W01_WK-1-26-CARRIERS_SP-MARKET-REPORT.pdf",
       "bytes": 337616,
       "sha256": "80c28b24644b6951bcc1e85b2445d628df622ba40758164b2f44e3953f70cd8b"
@@ -6796,11 +6781,6 @@
       "path": "corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf",
       "bytes": 463756,
       "sha256": "62cf00a3cc089f203f0f78bba113eae955cc570863e8e86f31ab61a0f3909015"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys/2026/fearnleys_08_10_2026_fearnleys_week_41_2026.pdf",
-      "bytes": 472942,
-      "sha256": "56262409974d8a70c9df9fff720ba895fc5a028bc6d63b17fb6caad792818168"
     },
     {
       "path": "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W01_Fearnleys-Weekly-Report-_-Fearnpulse.pdf",

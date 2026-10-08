@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (631,006 Total Rows across 175 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (631,031 Total Rows across 175 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -74,10 +74,10 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [carriers_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_sales_series.csv) | Secondhand sales transactions ($M) with sister-ship en bloc | 3,165 | Verified |
 | [carriers_tanker_tce_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_tanker_tce_series.csv) | Baltic dirty/clean tanker indices & VLCC/Suez/Afra TCE ($/day) | 804 | Verified |
 | [clarksons_demolition_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/clarksons_demolition_sales_series.csv) | Clarksons Platou Hellas reported demolition fixtures ($/LDT) | 70 | Verified |
-| [clarksons_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/clarksons_demolition_series.csv) |  | 120 | Verified |
+| [clarksons_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/clarksons_demolition_series.csv) |  | 123 | Verified |
 | [clarksons_desk_talk_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/clarksons_desk_talk_series.csv) |  | 352 | Verified |
 | [clarksons_macro_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/clarksons_macro_series.csv) |  | 165 | Verified |
-| [clarksons_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/clarksons_sales_series.csv) | Clarksons Platou Hellas secondhand sales transactions ($M) | 1,343 | Verified |
+| [clarksons_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/clarksons_sales_series.csv) | Clarksons Platou Hellas secondhand sales transactions ($M) | 1,365 | Verified |
 | [clarksons_snp_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/clarksons_snp_sales_series.csv) | Clarksons Platou Hellas secondhand bulker & tanker sales (2021–2026) | 1,329 | Verified |
 | [drewry_ais_crude_aframax_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_crude_aframax_series.csv) | Aframax fleet intelligence, utilisation, speed & earnings | 31 | Verified |
 | [drewry_ais_crude_suezmax_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_crude_suezmax_series.csv) | Suezmax fleet intelligence, utilisation, speed & earnings | 30 | Verified |
@@ -211,7 +211,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [fearnleys_md_master_econometric_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_master_econometric_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (175 CSVs + 1 Master Workbook)** | **631,006** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (175 CSVs + 1 Master Workbook)** | **631,031** | **100.0% Pass** |
 
 ---
 
