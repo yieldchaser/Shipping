@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 13:51:29Z",
+  "updated_at": "2026-10-08 14:27:20Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -2065,7 +2065,7 @@
     {
       "file": "gibson_bunker_prices_series.csv",
       "target_metric": "Gibson Bunker Prices",
-      "rows": 1015,
+      "rows": 1019,
       "columns": [
         "issue_date",
         "report_week",
@@ -2082,7 +2082,7 @@
     {
       "file": "gibson_tanker_spot_series.csv",
       "target_metric": "Gibson Tanker Spot",
-      "rows": 3602,
+      "rows": 3616,
       "columns": [
         "issue_date",
         "report_week",
@@ -4068,13 +4068,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 630726,
+  "total_master_stacked_rows": 630744,
   "total_master_series_csvs": 175,
-  "total_stacked_rows": 630726,
+  "total_stacked_rows": 630744,
   "total_series_csvs": 175,
   "total_master_workbooks": 1,
   "total_series_count": 175,
-  "total_rows_extracted": 631031,
+  "total_rows_extracted": 631049,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4144,8 +4144,8 @@
     "fearnleys_md_tc_vs_asset_series.csv": 14,
     "fearnleys_md_vessel_tightness_series.csv": 115,
     "fearnleys_rates_series.csv": 17112,
-    "gibson_bunker_prices_series.csv": 1015,
-    "gibson_tanker_spot_series.csv": 3602,
+    "gibson_bunker_prices_series.csv": 1019,
+    "gibson_tanker_spot_series.csv": 3616,
     "gms_demolition_rankings_series.csv": 1096,
     "gms_demolition_sales_series.csv": 59,
     "gms_market_commentary_series.csv": 1262,

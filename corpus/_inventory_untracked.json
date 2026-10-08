@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2925,
-      "untracked_bytes": 2297404614
+      "untracked_files": 2926,
+      "untracked_bytes": 2297549087
     },
     {
       "path": "corpus/02-hellenic",
@@ -7566,6 +7566,11 @@
       "path": "corpus/01-brokers/gibson/2023/gibson_2023_Gibson-Shipbrokers_week-34.pdf",
       "bytes": 960664,
       "sha256": "98705825d2fed4e4dd41bb9f492a44d129f8eb0333a3d62047701191060f5f7e"
+    },
+    {
+      "path": "corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html",
+      "bytes": 144473,
+      "sha256": "a4b7b54677cceb653b679136d3b2c26f3ef06323234ec2d5b46b73c7e3a26a9a"
     },
     {
       "path": "corpus/01-brokers/intermodal/2021/intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf",

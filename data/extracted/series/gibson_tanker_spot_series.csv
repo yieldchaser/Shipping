@@ -3377,6 +3377,20 @@ issue_date,report_week,category,market_type,route_code,vessel_class,route_descri
 2026-06-05,23,Dirty Tanker Spot,Spot Worldscale,TD25,Aframax,Aframax USG-UKC,59.0,252.0,193.0,292.0,325.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-05_resilient-vlccs.html
 2026-06-05,23,Dirty Tanker Spot,Spot Worldscale,TD3C,VLCC,VLCC AG-China,11.0,403.0,392.0,459.0,439.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-05_resilient-vlccs.html
 2026-06-05,23,Dirty Tanker Spot,Spot Worldscale,,,,,,,,,,corpus/01-brokers/gibson/html/2026/2026-06-05_gibson-weekly-projects-report-05-june.html
+2026-06-12,24,Clean Tanker Spot,$/day TCE,TC1,LR2,LR2 AG-Japan,-1500.0,143750.0,145250.0,156250.0,,,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Clean Tanker Spot,$/day TCE,TC18,MR,MR USG-Brazil,1750.0,41000.0,39250.0,17250.0,48750.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Clean Tanker Spot,$/day TCE,TC5,LR1,LR1 AG-Japan,-2750.0,107750.0,110500.0,124000.0,104750.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Clean Tanker Spot,$/day TCE,TC7,MR,MR Singapore-EC Aus,-500.0,30750.0,31250.0,39250.0,35250.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Clean Tanker Spot,Spot Worldscale,TC1,LR2,LR2 AG-Japan,-9.0,502.0,511.0,547.0,,,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Clean Tanker Spot,Spot Worldscale,TC18,MR,MR USG-Brazil,4.0,325.0,321.0,210.0,386.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Clean Tanker Spot,Spot Worldscale,TC5,LR1,LR1 AG-Japan,-16.0,524.0,541.0,601.0,525.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Clean Tanker Spot,Spot Worldscale,TC7,MR,MR Singapore-EC Aus,-10.0,286.0,296.0,348.0,321.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Dirty Tanker Spot,$/day TCE,TD20,Suezmax,Suezmax WAF-UKC,8250.0,68750.0,60500.0,87500.0,86000.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Dirty Tanker Spot,$/day TCE,TD25,Aframax,Aframax USG-UKC,-19000.0,43250.0,62250.0,54250.0,79750.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Dirty Tanker Spot,$/day TCE,TD3C,VLCC,VLCC AG-China,2000.0,423500.0,421500.0,472500.0,441000.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Dirty Tanker Spot,Spot Worldscale,TD20,Suezmax,Suezmax WAF-UKC,11.0,158.0,148.0,194.0,197.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Dirty Tanker Spot,Spot Worldscale,TD25,Aframax,Aframax USG-UKC,-54.0,197.0,252.0,236.0,311.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Dirty Tanker Spot,Spot Worldscale,TD3C,VLCC,VLCC AG-China,-1.0,402.0,403.0,448.0,424.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
 2026-06-19,25,Clean Tanker Spot,$/day TCE,TC1,LR2,LR2 AG-Japan,-1000.0,142750.0,143750.0,150500.0,,,corpus/01-brokers/gibson/html/2026/2026-06-19_fourteen-points.html
 2026-06-19,25,Clean Tanker Spot,$/day TCE,TC18,MR,MR USG-Brazil,-20250.0,20750.0,41000.0,17000.0,48250.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-19_fourteen-points.html
 2026-06-19,25,Clean Tanker Spot,$/day TCE,TC5,LR1,LR1 AG-Japan,-1250.0,106500.0,107750.0,116750.0,113250.0,Q2,corpus/01-brokers/gibson/html/2026/2026-06-19_fourteen-points.html

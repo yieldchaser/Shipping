@@ -950,6 +950,10 @@ issue_date,report_week,port,grade,change_wow,price_current,price_prev,price_last
 2026-06-05,23,Rotterdam,LSMGO,103.0,1124.0,1021.0,1159.0,corpus/01-brokers/gibson/html/2026/2026-06-05_resilient-vlccs.html
 2026-06-05,23,Rotterdam,VLSFO,9.0,714.0,705.0,801.0,corpus/01-brokers/gibson/html/2026/2026-06-05_resilient-vlccs.html
 2026-06-05,23,Singapore,VLSFO,6.0,792.0,786.0,825.0,corpus/01-brokers/gibson/html/2026/2026-06-05_resilient-vlccs.html
+2026-06-12,24,Fujairah,VLSFO,207.0,1231.0,1024.0,876.0,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Rotterdam,LSMGO,-40.0,1084.0,1124.0,1205.0,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Rotterdam,VLSFO,-47.0,667.0,714.0,750.0,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
+2026-06-12,24,Singapore,VLSFO,-30.0,762.0,792.0,828.0,corpus/01-brokers/gibson/html/2026/2026-06-12_too-much-of-a-good-thing.html
 2026-06-19,25,Fujairah,VLSFO,36.0,1229.0,1193.0,907.0,corpus/01-brokers/gibson/html/2026/2026-06-19_fourteen-points.html
 2026-06-19,25,Rotterdam,LSMGO,-147.0,870.0,1017.0,1184.0,corpus/01-brokers/gibson/html/2026/2026-06-19_fourteen-points.html
 2026-06-19,25,Rotterdam,VLSFO,-65.0,571.0,636.0,732.0,corpus/01-brokers/gibson/html/2026/2026-06-19_fourteen-points.html
