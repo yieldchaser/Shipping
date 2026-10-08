@@ -4201,3 +4201,122 @@ Affected: **17 rows / 3,218 (0.53%)**. Allied is BACKFILL_ONLY (content ends
 ### Not a regression, do not "fix"
 - The 74 `not-a-pdf` quarantines and the 385 inventory-drift PDFs are the
   documented expected states (see runbook), not defects.
+
+---
+
+## 2026-10-08 12:59 IST — DEEP REVIEW (3-hourly cron d77cc9df53c4)
+
+**Headline: one systematic number-format defect found and FIXED in code —
+xclusiv (126 rows) and clarksons (6 rows) publish DWT with a PERIOD as the
+thousands separator, which the parsers kept verbatim. The delivered CSVs still
+carry the raw values until one regeneration each — HUMAN DECISION below.**
+Branch: `auto/extract-fixes-2026-10-08` (branched from the 2026-10-07
+deep-review branch, so the allied fix f900eb5de is in ancestry).
+
+### What I measured
+- `verify_extraction.py --json`: exit 0, `actions: []`. golden **15/15**, db
+  **189,481 tables / 6,726,703 cells**, checkpoint **7,816/7,816 unique**,
+  `empty_after_ok_status` 0, `empty_unexpected` 0, 74 genuine not-a-pdf
+  quarantines, `mean_text_verified` 0.859. `state_age_min` 23,118 = the known
+  COMPLETE-not-dead full pass (queue = frozen 2026-09-21 inventory).
+- Liveness: no `run_batch`/`batch_worker`. The only python process is
+  `python -m scripts.parse_engine run --source xclusiv` (pid 24360, started
+  12:28) — **not this repo** (`scripts/parse_engine` does not exist here), so it
+  is another working copy; no orphan left by this run.
+- Disk: C: **9.3 GB free (98% used)**.
+- Gates: `golden_matrix.py` Star Asia **15/15**, SSY 14/14, Breakwave 6/6;
+  `check_measured_rules.py` 11/11; `verify_registers.py` 180 CSVs == JSON == MD.
+
+### Defect A (FIXED, code) — xclusiv sales DWT, period-thousands, 126 rows
+A magnitude scan of all 183 series CSVs (max/min per numeric col) flagged
+`xclusiv_sales_series.csv` `DWT` max **285,350,000** and 137 sub-1000 values.
+Reading the delivered rows:
+
+```
+2021-08-02  HARK OLDENDORFF  DWT= 209.325  TYPE= Handysize
+2021-08-02  DYNA CAMELLIA   DWT=  91.569  TYPE= Handysize
+2021-08-02  AM EXPRESS      DWT=  82.245  TYPE= Handysize
+2022-01-24  BAOSTEEL ELEVATION DWT= 206.312 TYPE= Handysize
+```
+Ground truth read straight off the rendered page
+(`corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_08_02.pdf`
+p3, `get_text("words")`): the cell literally reads `209.325` / `91.569` /
+`82.245` — i.e. the publisher used a **period as the thousands separator** in
+the Bulk Carriers table of the 2021-08-02, 2021-09-06/13/27 and 2022-01-24
+issues (46/56/24 rows), while **5,274 other rows in the same column use commas**
+(`75,356`). A dwt is a whole number, so a period grouping exactly three digits
+is always thousands here; the runner's own docstring asserted "dot=decimal" for
+this source, so the vessel-type derivation also collapsed every one of these to
+the `Handysize` fallback (a real 209,325 dwt ship advertised as Handysize).
+
+**Fix**: `scripts/extract/publishers/run_xclusiv_tables.py` — added
+`_norm_tonnage()` (`\d{1,3}(\.\d{3})+` -> commas) and applied it to the sales
+`DWT` and the demo-sales `DWT`/`LDT` reads. Verified on ONE document to stdout
+(no CSV write): 2021-08-02 `HARK OLDENDORFF 209,325 / Capesize`,
+`HARVEST SKY 95,717 / Kamsarmax`, `BAOSTEEL ELEVATION 206,312 / Capesize`;
+2022-01-24 `JIN HANG 93,069 / Kamsarmax`. A 2026 comma-era document is
+**unchanged** (`81,986 / Kamsarmax`). golden unchanged (Star Asia 15/15).
+
+### Defect B (FIXED, code) — clarksons sales DWT, period-thousands, 6 rows
+`clarksons_sales_series.csv` `DWT` holds 6 raw period-thousands values among
+1,302 comma rows: `175.085` (2021-10-08), `65.125`, `48.012`, `53.840`,
+`49.600`, `63.800`. Ground truth:
+`corpus/02-hellenic/shipbuilding/pdfs/2026-03-28_..._bulletin-127_....pdf`
+p1 narrative reads *"the JIN RUI (ABT, **63K** DWT, 2014, JIANGSU HANTONG)"*
+while the table cell reads `63.800`; p1 of bulletin-115 reads *"WARIYA NAREE
+(ABT **53K** DWT ...)"* beside the cell `53.840`. Same helper added to
+`scripts/extract/publishers/run_clarksons.py`
+(`dwt_clean = _norm_tonnage(clean_text(row_cols[1]))`), verified on the
+bulletin-127 doc: `JIN RUI DWT= 63,800 TYPE= Ultramax`.
+
+### HUMAN DECISION — regenerate the two affected series (I did NOT run it)
+The delivered CSVs still hold the raw strings, so a numeric read is 1000x off
+and the type is wrong for exactly:
+- `data/extracted/series/xclusiv_sales_series.csv` — **126 rows**
+- `data/extracted/series/clarksons_sales_series.csv` — **6 rows**
+
+Both runners rewrite their whole CSV set from the source PDFs:
+```bash
+python3 scripts/extract/publishers/run_xclusiv_tables.py     # 266 PDFs, rewrites 6 xclusiv CSVs
+python3 scripts/extract/publishers/run_clarksons.py          # rewrites clarksons CSVs
+python3 scripts/extract/update_extraction_register.py
+```
+Affected publishers: xclusiv is app-adjacent (10 series, 21,135 rows) and
+clarksons is CLOSED (29 sales). This is a wrong convention in already-extracted
+data -> human decision (rule 3f), so it is left for review.
+
+### Checked and NOT defects (do not "fix")
+- `gibson_tanker_spot_series.csv` `rate_current` max **1,292,500** looked
+  impossible, but the source HTML reads verbatim `TD3C VLCC AG-China WS 18
+  1,158 ...` / `TD3C VLCC AG-China TCE $/day 22,250 1,292,500 1,270,250 ...`
+  (`corpus/01-brokers/gibson/html/2026/2026-09-25_clean-catchup.html`). The
+  values are faithful to the source; a magnitude heuristic alone must not
+  condemn them.
+- `intermodal_*`/`hellenic_*` negative `*_chg_*`/`diff_*` columns are signed
+  changes; the negative flags are expected.
+- The 74 `not-a-pdf` quarantines and the 385 inventory-drift PDFs remain the
+  documented expected states.
+
+### Candidate single-row items, source-confirmed, NOT fixed
+- `star_asia_deals_series.csv` 2025-06-27 `BITUMEN PRINCESS` `ldt=288390.0`;
+  the source recycling table (`.../star_asia_2025_W26_Market-report-Week-26.pdf`
+  p10) cell reads `2,883,90` — a decimal-comma (2,883.90 LDT) that
+  `parse_clean_num` strips to 288390 (100x). 1 row.
+- `star_asia_deals_series.csv` `SURYA A (UNDER TOW)` `ldt=81680.0` x3
+  (2024-09-07/14/28); source cell reads `8,1680` (a garbled source token). 3 rows.
+- `lion_deals_series.csv` + `lion_demo_sales_series.csv` 2025-12-12
+  `PATCHARAWADEE 12` `ldt=13,451,737.0`; the source PDF p2 text layer reads
+  `LDT 1345,1,737 dwt` (missing space between LDT 1,345 and dwt 1,737). 1 row in
+  each CSV.
+- `golden_destiny_sales_series.csv` 2023-04-28 `JIANGSU YANGZI XINFU YZJ`
+  `dwt=2022000.0`; source token is `YZJ2022,000` (ambiguous), 1 row.
+These are each 1-3 rows and would need per-source parser work; left for the
+human rather than risking the golden sources for a handful of rows.
+
+### Deliberately NOT changed, and why
+- Did not regenerate any CSV (rule 3f, see HUMAN DECISION).
+- Did not touch `index.html`, other pipelines, `tests/`, or the git history.
+- Note: my read-only verification calls to `process_pdf` write the flat
+  `data/extracted/md/xclusiv/<stem>.{md,tables.json}` sidecars; I reverted the
+  touched tracked sidecars and removed the 6 new untracked files, so the only
+  working-tree change is the two parsers (+ this log).

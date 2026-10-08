@@ -67,6 +67,26 @@ def clean_text(s: str) -> str:
     return s
 
 
+def _norm_tonnage(v: str) -> str:
+    """Normalize a dwt cell to the publisher's canonical comma form.
+
+    Measured 2026-10-08: the Clarksons (Platou Hellas) sales table prints dwt
+    with a PERIOD as the thousands separator ("63.800" = 63,800 dwt, "53.840"),
+    while 1,302 other rows in the same column use commas ("177,065").  A dwt is
+    a whole number, so a period that groups EXACTLY three digits is a thousands
+    separator and never a decimal point: keeping "63.800" is a silent 1000x
+    error and mis-types the vessel.  Ground truth: the narrative in
+    corpus/02-hellenic/shipbuilding/pdfs/2026-03-28_..._bulletin-127_....pdf p1
+    reads "the JIN RUI (ABT, 63K DWT ...)" beside the table cell "63.800".
+    """
+    if not v:
+        return v
+    s = str(v).strip()
+    if re.fullmatch(r"\d{1,3}(?:\.\d{3})+", s):
+        return s.replace(".", ",")
+    return v
+
+
 def parse_issue_date(pdf_path: Path, doc: pymupdf.Document) -> Tuple[str, str]:
     """Extract standard ISO date (YYYY-MM-DD) and printed date string."""
     fname = pdf_path.name
@@ -424,7 +444,7 @@ def extract_all_transactions(doc: pymupdf.Document, pdf_path: Path, issue_date: 
                 built_yr = m_yr.group(1) if m_yr else ""
                 yard = m_yr.group(2) if m_yr else raw_built
 
-                dwt_clean = clean_text(row_cols[1])
+                dwt_clean = _norm_tonnage(clean_text(row_cols[1]))
                 price_clean = clean_text(row_cols[5])
                 details_clean = clean_text(row_cols[3])
                 buyer_or_deliv = clean_text(row_cols[6])
