@@ -7,7 +7,7 @@
   "benchmarks": [
     {
       "chart_id": "star_asia_w35_p11_ldt_anchors",
-      "source_pdf": "reports/shipbrokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf",
+      "source_pdf": "corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf",
       "page": 11,
       "type": "annual_ldt_totals",
       "points": [
@@ -120,7 +120,7 @@
     },
     {
       "chart_id": "star_asia_w35_p4_dry_bulk_tc",
-      "source_pdf": "reports/shipbrokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf",
+      "source_pdf": "corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf",
       "page": 4,
       "type": "dry_bulk_1y_tc_annual_averages",
       "points": [
@@ -178,7 +178,7 @@
     },
     {
       "chart_id": "star_asia_w35_p7_tanker_tc",
-      "source_pdf": "reports/shipbrokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf",
+      "source_pdf": "corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf",
       "page": 7,
       "type": "tanker_1y_tc_annual_averages",
       "points": [
@@ -236,7 +236,7 @@
     },
     {
       "chart_id": "advanced_shipping_w36_p5_demolition_rates",
-      "source_pdf": "reports/shipbrokers/advanced_shipping/2026/advanced_shipping_2026_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf",
+      "source_pdf": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_2026_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf",
       "page": 5,
       "type": "indicative_scrap_prices",
       "points": [
@@ -284,7 +284,7 @@
     },
     {
       "chart_id": "advanced_shipping_w36_p5_fixtures",
-      "source_pdf": "reports/shipbrokers/advanced_shipping/2026/advanced_shipping_2026_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf",
+      "source_pdf": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_2026_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf",
       "page": 5,
       "type": "demolition_fixture_transactions",
       "points": [
@@ -308,7 +308,7 @@
     },
     {
       "chart_id": "allied_w7_p9_fixtures",
-      "source_pdf": "reports/shipbrokers/allied/2024/allied_2024_W07_Allied-Weekly-Market-Review-Week-07.pdf",
+      "source_pdf": "corpus/archive/allied/2024/allied_2024_W07_Allied-Weekly-Market-Review-Week-07.pdf",
       "page": 9,
       "type": "secondhand_sales",
       "points": [
@@ -337,7 +337,7 @@
     },
     {
       "chart_id": "star_asia_w35_p11_unlabelled_curve_anchors",
-      "source_pdf": "reports/shipbrokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf",
+      "source_pdf": "corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf",
       "page": 11,
       "type": "visual_landmark_pixel_anchors",
       "points": [
