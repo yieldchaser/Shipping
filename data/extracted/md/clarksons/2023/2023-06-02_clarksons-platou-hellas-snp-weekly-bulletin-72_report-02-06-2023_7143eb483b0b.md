@@ -42,7 +42,7 @@ The quiet market continued this week with both Bangladesh and Indian markets rem
 
 | Vessel | Type | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|---|
-| ETERNAL LUCK | Handysize | 45.654 | 1996 | 7.525 LDT | Bangladesh 575/LDT included abt RoB | – sale 260 T of bunkers |
+| ETERNAL LUCK | Supramax | 45,654 | 1996 | 7.525 LDT | Bangladesh 575/LDT included abt RoB | – sale 260 T of bunkers |
 
 ## Contact & Legal Disclaimer
 

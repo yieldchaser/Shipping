@@ -47,7 +47,7 @@ Certainly, we are seeing more inquiry and urgency from the Chattogram recyclers 
 | KASSOS I | 318,683 | 2007 | HYUNDAI MAN-B&W SAMHO BWTS | 6S90MC-C MK5 SS & scrubber fitted DD | 07/27 07/25 | $60 M | MIDDLE EASTERNS |
 | ATHINA II | 318,658 |  | MAN-B&W 2005 HHI MAN-B&W | 6S90MC-C MK5 SS Scrubber fitted DD 7S80MC-C6.1 SS | 12/23 12/23 12/25 | $56 M | U/D |
 | YUFUSAN | 311,389 |  | MAN-B&W 2005 MITSUI MAN-B&W | 7S80MC-C6.1 SS BWTS fitted DD 6S50MC-C8.1 SS | 12/25 12/23 08/25 | $52 M | ASIANS |
-| SEAMUSE | 48.012 |  | MAN-B&W 2007 IWAGI | 6S50MC-C8.1 SS BWTS fitted DD SS | 08/25 08/25 03/23 | $21.7 M | U/D |
+| SEAMUSE | 48,012 |  | MAN-B&W 2007 IWAGI | 6S50MC-C8.1 SS BWTS fitted DD SS | 08/25 08/25 03/23 | $21.7 M | U/D |
 | MTM MANILA | 44,999 |  | MAN-B&W | SS DD 6S50MC-C8.1 SS | 03/23 03/23 04/23 | $14.8 M |  |
 | MTM YANGON | 44,999 |  | MAN-B&W 2003 HMD BWTS | 6S50MC-C8.1 SS fitted, 14 pumps, CPP SS | 04/23 DD04/23 06/23 | $14.8 M each | U/D |
 | MTM MUMBAI | 44,996 |  |  | SS DD SS | 06/23 06/23 04/24 |  |  |

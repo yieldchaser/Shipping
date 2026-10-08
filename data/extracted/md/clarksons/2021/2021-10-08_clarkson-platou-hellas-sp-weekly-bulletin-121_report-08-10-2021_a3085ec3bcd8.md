@@ -42,7 +42,7 @@ In addition, demand to buy tonnage should remain in place as the infrastructure 
 | Vessel | DWT | Built | Yard | Details | SS/DD | Price | Buyer |
 |---|---|---|---|---|---|---|---|
 | TRUE ENDURANCE | 179,147 | 2012 | HHI | MAN-B&W 6S70MC-C8 | SS 04/22 DD 04/22 | RGN USD 33 M | TURKISH |
-| ASL MARS | 175.085 | 2004 | SWS | MAN-B&W 6S70MC6.1 | SS 08/24 DD 07/22 | USD 16.2 M (delivery Q1 '22) | CHINESE |
+| ASL MARS | 175,085 | 2004 | SWS | MAN-B&W 6S70MC6.1 | SS 08/24 DD 07/22 | USD 16.2 M (delivery Q1 '22) | CHINESE |
 | VORANA MANX | 82,000 |  | DELY DEC 2021 EX-YARD | MAN-B&W 6S60ME-C10.5 | N/A | USD 42.2 M | GREEKS |
 | ZEPHYRUS | 81,981 | 2019 | JIANGSU NEW YANGZIJIANG | MAN-B&W 6S60ME-C8.2 BWTS fitted | SS 03/24 DD 03.22 | USD 36.5 M | HK BASED |
 | STOVE FRIEND | 57,679 | 2016 | TSUNEISHI CEBU | MAN-B&W 6S50ME-C8.2 4 x 30 T | SS/DD Freshly | USD 28 M each | NORWEGIANS (c/o Belships) |
