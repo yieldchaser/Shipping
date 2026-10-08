@@ -17,6 +17,20 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 3. **`scripts/parse_engine_html/`** — VesselsValue HTML deals + VV Mini Matrix image OCR (in progress). Output to `.reparse_staging/vessel_valuations/`.
 4. **SHELVED — see HARD RULE.** `scripts/md_cleanup/chart_tables.py` — removes LLM-guessed chart tables (values not printed in source text layer), replaces with `> Figure: … not transcribed` note. Guarded mode default; ISM (vector-engine charts) and any "Vector" section excluded. Dry-run results in `.reparse_staging/chart_cleanup/guard_published/` (8,890 tables). Was about to APPLY in place — check `git diff --stat data/extracted/md` before committing.
 
+## STATUS 2026-10-08 23:30 IST — PAUSED (weekly limit 98%). Resume Saturday.
+LIVE ON MAIN: Clarksons 179 · VV 224/255 · Xclusiv 2021–23 123/124 (18f9a8ae8) · Carriers cell fixes 135 files
+(23437f6d4) · Best Oasis 210 issues + 259 dupes removed (4ab1ef138). Knowledge validator passes.
+IN PROGRESS — Star Asia (targeted fixer, NOT applied): scripts/md_cleanup/star_asia_fix.py (WIP committed on branch),
+staging .reparse_staging/star_asia/ (197 files). Verifier GO on everything except ONE blocker: find_orphans
+(~star_asia_fix.py:378-392) is vocabulary-only + unbounded upward walk → must require line == printed PDF table
+span/cell concatenation, cap run length; tests: commentary "Alang"/"Prices are about the ships" kept, W28 fragment
+removed; rerun must remove exactly 4 blocks (2023 W24/W26/W28/W30). Then verifier → `--promote --apply` → commit → push.
+Owner decision pending: trend arrows in Star Asia snapshot are images (↔); currently "IMPROVING /" without arrow.
+NEXT after Star Asia: Intermodal tables → Carriers row-level re-parse (154 missing sales rows, demolition column shift
+in ~109 files, en-bloc price cells, label drift e.g. SUPRA 63K vs TESS 58K) → VV leftovers (31 blocked issues,
+vv_2026-10-06 legacy, VV series regen) → metadata → self-hosted runner. Keys rotation at very end (owner).
+Lessons: always verify promote apply by counting files on disk; push loop (fetch+merge+push) races FFA bot.
+
 ## STATUS 2026-10-08 midday — CLARKSONS + VV LIVE ON MAIN (c5ee2048f)
 - VV: 224/255 issues promoted (51818b6f5). 31 keep old MD (1–2 unparsed deal lines each — next fix).
   Matrix: 160 ok / 94 "not machine-readable" (mostly 2025–26 small images). Benchmark sizes reconciled across
