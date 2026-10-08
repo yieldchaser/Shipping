@@ -1,1068 +1,1388 @@
 {
-  "stem": "xclusiv_2022_xclusiv_weekly_2022_08_01",
-  "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf",
+  "schema": "parse_engine/v1",
   "issue_date": "2022-08-01",
-  "report_week": 30,
-  "pages": 7,
-  "useful_pages": 5,
-  "editorial_title": "",
-  "nutshell": [],
-  "market_commentary": [],
-  "baltic_indices": [],
-  "freight_commentary": {
-    "Dry Bulk Freight": "Handysize: The BHSI-38 average of the 7 T/C Routes closed the week softer at USD 21,114/day. Brazil to Continent pays USD 30,511/day, S.E. Asia trip to Spore/Japan is softer at USD 22,594/day, while U.S. Gulf to Continent is marginally down at USD 17,914/day. 38K Handy 1y T/C rate is reduced by USD 1.5k/day this week, at USD 18,750/day while 32k Handy 1y T/C is softer at USD 15,750/day in Atlantic and USD 16,750/day in Pacific region.\n\n90,000 Bulk Carrier Spot Earnings (Gearless)\n\n50,000 Bulk Carrier Spot Earnings (Geared)",
-    "Tanker Freight": "70,000 Product Tanker Spot Earnings"
-  },
-  "dry_snp_activity": "S&P activity was quite intense this week as Louis Dreyfus Armateurs Group (LDA) and its partners, Groupe Roullier and Peugeot Invest, have reached an agreement with institutional investors advised by J.P. Morgan Global Alternatives’ Global Transportation Group and the shipowner MUR Shipping BV, for the sale of a fleet of 13 handysize and supramax bulk carriers. The ships will be gradually delivered to their future owner in the coming weeks. The Panamax “Bonanza YR” - 76K/2006 Tsuneishi was sold to Chinese buyers for USD 16.5 mills. The Ultramax “Nautical Anne” - 64K/2016 New Hantong was sold for USD 31 mills being BWTS & Scrubber fitted, but understand deal has long subs. On the Supramax sector “Teresa Oetker” - 58K/2010 Yangzhou Dayang , BWTS fitted with tier II m/e and tier I d/g was sold for low USD 17 mills, the “Eships Progress” - 57K/2012 Cosco Guangdong was sold for USD 18 mills, the BWTS fitted “Jia Hui Shan” - 57K/2011 CIC Jiangsu was sold for USD 17 mills and the BWTS fitted “Sophia K” - 56K/2011 Mitsui was sold for USD 22.9 mills, basis delivery September in Med. Moving to smaller sizes, the vintage Handysizes “Maria L” - 28K/1998 Hakodate and “A Racer” - 26K/1996 Guangzhou were sold for USD low 7 mills and USD high 6 mills respectively, while the “African Falcon” - 27K/2003 New Century was bought by Egyptians for USD 11.5 mills.\n\nOn the wet sector the activity remained strong for another week. The VLCCs “Tinat” - 317K/2002 HHI & “Altair Trader” - 311K/2005 Mitsui were sold to undisclosed buyers for USD 30 mills and USD 36.5 mills respectively. On the Suezmax Sector, the “SPM Strength” - 159K/2002 HHI was sold to Chinese buyers for USD 17 mills and the ice class 1A “Ridgebury Lindy B” - 146K/2007 Universal was sold for USD 33 mills to clients of StealthGas. In the Aframax sector we had 5 sales this week. The “Aristodimos” - 114K/2006 Samsung was sold for USD 14.5 mills to Chinese buyers, the “Voyager I” - 107K/2002 Tsuneishi was sold for USD 14.5 mills, the “Stavanger Falcon” - 105K/2009 Sumitomo was sold for USD 28.1 mills, the “Prosperous” - 105K/2009 Sumitomo was sold for USD 28.7 mills and the “Chola Queen” - 105K/2002 Imabari was sold for USD 17 mills. The Panamax “Alpine Penelope” - 74K/2008 Sungdong was sold for USD 21 mills, while the 4 years older “Karadeniz Powership Anatolia” - 73K/2004 Samsung Heavy was sold for USD 13.1 mills. On the smaller sizes the enbloc sale of MR2s “Jal Upasana” - 47K/2006 Naikai Zosen & “Jal Sasvata” - 47K/2009Naikai Zosen for USD 33.5 mills for both units.",
-  "wet_snp_activity": "BANGLADESH 33.5 ENBLOC SS: 07/2026 - DD: 11/2024, BWTS FITTED",
-  "reported_sales": [
+  "report_week": 31,
+  "source_file": "corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_08_01.pdf",
+  "source_sha256": "62e6828bf80ee857c42ab4567a09ba2a64dce52cc31a7600456e61c1a0bb364c",
+  "sales_count": 0,
+  "demo_count": 0,
+  "tables": [
     {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Bulk Carriers",
+      "name": "Baltic Dry Indices",
+      "title": "",
+      "page": 1,
+      "bbox": [
+        448.58,
+        64.84,
+        762.15,
+        151.18
+      ],
+      "columns": [
+        "Index",
+        "Current",
+        "Previous",
+        "Change (%)",
+        "3Y Trend / Historical Averages"
+      ],
+      "rows": [
+        [
+          "BDI",
+          "1,895",
+          "2,146",
+          "-11.7%",
+          "2022: 2,258 / 2021: 2,943 / 2020: 1,064"
+        ],
+        [
+          "BCI",
+          "2,081",
+          "2,696",
+          "-22.8%",
+          "2022: 2,207 / 2021: 4,015 / 2020: 1,752"
+        ],
+        [
+          "BPI",
+          "2,051",
+          "2,093",
+          "-2.0%",
+          "2022: 2,696 / 2021: 2,988 / 2020: 1,101"
+        ],
+        [
+          "BSI",
+          "1,971",
+          "2,080",
+          "-5.2%",
+          "2022: 2,418 / 2021: 2,434 / 2020: 743"
+        ],
+        [
+          "BHSI",
+          "1,173",
+          "1,211",
+          "-3.1%",
+          "2022: 1,408 / 2021: 1,428 / 2020: 444"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Index",
+        "Current",
+        "Previous",
+        "Change (%)",
+        "3Y Trend / Historical Averages"
+      ],
+      "weeks": [
+        "30",
+        "29"
+      ]
+    },
+    {
+      "name": "Baltic Tanker Indices",
+      "title": "",
+      "page": 1,
+      "bbox": [
+        448.58,
+        155.12,
+        762.15,
+        207.6
+      ],
+      "columns": [
+        "Index",
+        "Current",
+        "Previous",
+        "Change (%)",
+        "3Y Trend / Historical Averages"
+      ],
+      "rows": [
+        [
+          "BDTI",
+          "1,466",
+          "1,485",
+          "-1.3%",
+          "2022: 1,129 / 2021: 644 / 2020: 722"
+        ],
+        [
+          "BCTI",
+          "1,363",
+          "1,316",
+          "3.6%",
+          "2022: 1,095 / 2021: 532 / 2020: 586"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Index",
+        "Current",
+        "Previous",
+        "Change (%)",
+        "3Y Trend / Historical Averages"
+      ],
+      "weeks": [
+        "30",
+        "29"
+      ]
+    },
+    {
+      "name": "Dry Newbuilding Prices",
+      "title": "",
+      "page": 1,
+      "bbox": [
+        451.96,
+        222.04,
+        754.23,
+        295.4
+      ],
+      "columns": [
+        "Sector",
+        "Vessel Type",
+        "Price ($M)",
+        "Jul/21 Price ($M)",
+        "Change (%)",
+        "3Y Average Prices ($M)"
+      ],
+      "rows": [
+        [
+          "Dry",
+          "Capesize",
+          "$64.3M",
+          "$59.3M",
+          "8%",
+          "2022: 62.1 / 2021: 56.0 / 2020: 47.6"
+        ],
+        [
+          "Dry",
+          "Kamsarmax",
+          "$37.2M",
+          "$33.2M",
+          "12%",
+          "2022: 36.7 / 2021: 31.7 / 2020: 29.7"
+        ],
+        [
+          "Dry",
+          "Ultramax",
+          "$34.3M",
+          "$30.6M",
+          "12%",
+          "2022: 33.5 / 2021: 29.1 / 2020: 24.6"
+        ],
+        [
+          "Dry",
+          "Handysize",
+          "$30.4M",
+          "$27.2M",
+          "12%",
+          "2022: 30.1 / 2021: 26.8 / 2020: 23.1"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Sector",
+        "Vessel Type",
+        "Price ($M)",
+        "Jul/21 Price ($M)",
+        "Change (%)",
+        "3Y Average Prices ($M)"
+      ],
+      "period": [
+        "Jul/22",
+        "Jul/21"
+      ]
+    },
+    {
+      "name": "Tanker Newbuilding Prices",
+      "title": "",
+      "page": 1,
+      "bbox": [
+        451.96,
+        299.33,
+        754.23,
+        385.69
+      ],
+      "columns": [
+        "Sector",
+        "Vessel Type",
+        "Price ($M)",
+        "Jul/21 Price ($M)",
+        "Change (%)",
+        "3Y Average Prices ($M)"
+      ],
+      "rows": [
+        [
+          "Tanker",
+          "VLCC",
+          "$118.3M",
+          "$100.2M",
+          "18%",
+          "2022: 115.4 / 2021: 98.3 / 2020: 88.6"
+        ],
+        [
+          "Tanker",
+          "Suezmax",
+          "$79.8M",
+          "$68.0M",
+          "17%",
+          "2022: 77.8 / 2021: 66.3 / 2020: 58.6"
+        ],
+        [
+          "Tanker",
+          "Aframax",
+          "$61.8M",
+          "$53.8M",
+          "15%",
+          "2022: 60.5 / 2021: 53.3 / 2020: 47.8"
+        ],
+        [
+          "Tanker",
+          "Panamax",
+          "$53.3M",
+          "$47.0M",
+          "13%",
+          "2022: 52.0 / 2021: 46.7 / 2020: 43.6"
+        ],
+        [
+          "Tanker",
+          "MR2",
+          "$43.1M",
+          "$37.6M",
+          "15%",
+          "2022: 41.6 / 2021: 37.4 / 2020: 34.6"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Sector",
+        "Vessel Type",
+        "Price ($M)",
+        "Jul/21 Price ($M)",
+        "Change (%)",
+        "3Y Average Prices ($M)"
+      ],
+      "period": [
+        "Jul/22",
+        "Jul/21"
+      ]
+    },
+    {
+      "name": "Demolition Prices",
+      "title": "",
+      "page": 1,
+      "bbox": [
+        452.52,
+        400.52,
+        757.0,
+        475.26
+      ],
+      "columns": [
+        "Segment",
+        "Country",
+        "Price ($/LDT)",
+        "Week 29 ($/LDT)",
+        "Change"
+      ],
+      "rows": [
+        [
+          "Bulkers",
+          "India",
+          "$570",
+          "$575",
+          "-5"
+        ],
+        [
+          "Bulkers",
+          "Bangladesh",
+          "$570",
+          "$575",
+          "-5"
+        ],
+        [
+          "Bulkers",
+          "Pakistan",
+          "$570",
+          "$575",
+          "-5"
+        ],
+        [
+          "Bulkers",
+          "Turkey",
+          "$315",
+          "$315",
+          "0"
+        ],
+        [
+          "Tankers",
+          "India",
+          "$575",
+          "$580",
+          "-5"
+        ],
+        [
+          "Tankers",
+          "Bangladesh",
+          "$580",
+          "$585",
+          "-5"
+        ],
+        [
+          "Tankers",
+          "Pakistan",
+          "$575",
+          "$580",
+          "-5"
+        ],
+        [
+          "Tankers",
+          "Turkey",
+          "$325",
+          "$325",
+          "0"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Segment",
+        "Country",
+        "Price ($/LDT)",
+        "Week 29 ($/LDT)",
+        "Change"
+      ],
+      "weeks": [
+        "30",
+        "29"
+      ]
+    },
+    {
+      "name": "Dry Secondhand Prices",
+      "title": "",
+      "page": 2,
+      "bbox": [
+        411.95,
+        58.39,
+        738.69,
+        272.25
+      ],
+      "columns": [
+        "Vessel Type",
+        "Tenor",
+        "Price ($M)",
+        "Jul/21 Price ($M)",
+        "12m Change (%)",
+        "12m Diff ($M)",
+        "3Y Average Prices ($M)"
+      ],
+      "rows": [
+        [
+          "Capesize 180k",
+          "Resale",
+          "$62.2M",
+          "$53.3M",
+          "17%",
+          "8.9",
+          "2022: 60.9 / 2021: 54.0 / 2020: 49.4"
+        ],
+        [
+          "Capesize 180k",
+          "5 Year",
+          "$53.0M",
+          "$43.6M",
+          "22%",
+          "9.4",
+          "2022: 49.9 / 2021: 42.8 / 2020: 42.8"
+        ],
+        [
+          "Capesize 180k",
+          "10 Year",
+          "$35.9M",
+          "$30.5M",
+          "18%",
+          "5.4",
+          "2022: 34.1 / 2021: 29.0 / 2020: 20.3"
+        ],
+        [
+          "Capesize 180k",
+          "15 Year",
+          "$23.2M",
+          "$20.5M",
+          "13%",
+          "2.7",
+          "2022: 21.9 / 2021: 19.2 / 2020: 12.5"
+        ],
+        [
+          "Kamsarmax 82k",
+          "Resale",
+          "$42.6M",
+          "$35.0M",
+          "22%",
+          "7.6",
+          "2022: 42.5 / 2021: 34.9 / 2020: 29.6"
+        ],
+        [
+          "Kamsarmax 82k",
+          "5 Year",
+          "$36.8M",
+          "$30.0M",
+          "23%",
+          "6.8",
+          "2022: 35.8 / 2021: 29.2 / 2020: 29.2"
+        ],
+        [
+          "Panamax 76k",
+          "10 Year",
+          "$27.5M",
+          "$21.9M",
+          "26%",
+          "5.6",
+          "2022: 26.7 / 2021: 21.1 / 2020: 13.2"
+        ],
+        [
+          "Panamax 76k",
+          "15 Year",
+          "$18.8M",
+          "$16.2M",
+          "16%",
+          "2.6",
+          "2022: 17.7 / 2021: 14.7 / 2020: 8.7"
+        ],
+        [
+          "Ultramax 64k",
+          "Resale",
+          "$40.7M",
+          "$33.1M",
+          "23%",
+          "7.6",
+          "2022: 39.5 / 2021: 32.3 / 2020: 26.8"
+        ],
+        [
+          "Ultramax 61k",
+          "5 Year",
+          "$33.6M",
+          "$27.5M",
+          "22%",
+          "6.1",
+          "2022: 32.7 / 2021: 25.7 / 2020: 25.7"
+        ],
+        [
+          "Supramax 58k",
+          "5 Year",
+          "$28.4M",
+          "$23.5M",
+          "21%",
+          "4.9",
+          "2022: 27.2 / 2021: 22.0 / 2020: 15.8"
+        ],
+        [
+          "Supramax 56k",
+          "10 Year",
+          "$23.4M",
+          "$18.5M",
+          "26%",
+          "4.9",
+          "2022: 22.6 / 2021: 17.4 / 2020: 11.1"
+        ],
+        [
+          "Supramax 52k",
+          "15 Year",
+          "$18.2M",
+          "$13.7M",
+          "33%",
+          "4.5",
+          "2022: 17.4 / 2021: 12.3 / 2020: 7.2"
+        ],
+        [
+          "Handy 38k",
+          "Resale",
+          "$32.5M",
+          "$27.5M",
+          "18%",
+          "5.0",
+          "2022: 32.0 / 2021: 26.1 / 2020: 21.3"
+        ],
+        [
+          "Handy 37k",
+          "5 Year",
+          "$28.6M",
+          "$21.5M",
+          "33%",
+          "7.1",
+          "2022: 28.0 / 2021: 21.0 / 2020: 21.0"
+        ],
+        [
+          "Handy 32k",
+          "10 Year",
+          "$20.0M",
+          "$14.6M",
+          "38%",
+          "5.5",
+          "2022: 18.8 / 2021: 13.7 / 2020: 8.5"
+        ],
+        [
+          "Handy 28k",
+          "15 Year",
+          "$14.2M",
+          "$8.3M",
+          "72%",
+          "5.9",
+          "2022: 12.3 / 2021: 8.1 / 2020: 5.2"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Vessel Type",
+        "Tenor",
+        "Price ($M)",
+        "Jul/21 Price ($M)",
+        "12m Change (%)",
+        "12m Diff ($M)",
+        "3Y Average Prices ($M)"
+      ],
+      "period": [
+        "Jul/22",
+        "Jul/21"
+      ]
+    },
+    {
+      "name": "Tanker Secondhand Prices",
+      "title": "",
+      "page": 3,
+      "bbox": [
+        416.91,
+        62.47,
+        741.32,
+        265.5
+      ],
+      "columns": [
+        "Vessel Type",
+        "Tenor",
+        "Price ($M)",
+        "Jul/21 Price ($M)",
+        "12m Change (%)",
+        "12m Diff ($M)",
+        "3Y Average Prices ($M)"
+      ],
+      "rows": [
+        [
+          "VLCC 320k",
+          "Resale",
+          "$106.6M",
+          "$97.1M",
+          "10%",
+          "9.5",
+          "2022: 99.7 / 2021: 94.8 / 2020: 95.5"
+        ],
+        [
+          "VLCC 320k",
+          "5 Year",
+          "$81.6M",
+          "$71.9M",
+          "14%",
+          "9.7",
+          "2022: 74.8 / 2021: 69.2 / 2020: 69.2"
+        ],
+        [
+          "VLCC 300k",
+          "10 Year",
+          "$56.9M",
+          "$50.1M",
+          "14%",
+          "6.9",
+          "2022: 51.4 / 2021: 47.1 / 2020: 47.9"
+        ],
+        [
+          "VLCC 300k",
+          "15 Year",
+          "$38.8M",
+          "$35.8M",
+          "8%",
+          "3.0",
+          "2022: 36.5 / 2021: 33.6 / 2020: 33.5"
+        ],
+        [
+          "Suezmax 160k",
+          "Resale",
+          "$76.3M",
+          "$67.1M",
+          "14%",
+          "9.2",
+          "2022: 70.7 / 2021: 64.4 / 2020: 64.9"
+        ],
+        [
+          "Suezmax 160k",
+          "5 Year",
+          "$56.4M",
+          "$49.0M",
+          "15%",
+          "7.4",
+          "2022: 50.9 / 2021: 46.7 / 2020: 46.7"
+        ],
+        [
+          "Suezmax 150k",
+          "10 Year",
+          "$41.8M",
+          "$33.2M",
+          "26%",
+          "8.6",
+          "2022: 35.3 / 2021: 31.3 / 2020: 33.7"
+        ],
+        [
+          "Suezmax 150k",
+          "15 Year",
+          "$28.9M",
+          "$22.1M",
+          "31%",
+          "6.8",
+          "2022: 24.8 / 2021: 22.1 / 2020: 23.2"
+        ],
+        [
+          "Aframax 110k",
+          "Resale",
+          "$66.0M",
+          "$55.1M",
+          "20%",
+          "10.9",
+          "2022: 60.5 / 2021: 52.2 / 2020: 51.0"
+        ],
+        [
+          "Aframax 110k",
+          "5 Year",
+          "$51.1M",
+          "$40.0M",
+          "28%",
+          "11.1",
+          "2022: 46.8 / 2021: 38.3 / 2020: 38.3"
+        ],
+        [
+          "Aframax 105k",
+          "10 Year",
+          "$36.9M",
+          "$26.0M",
+          "42%",
+          "10.9",
+          "2022: 31.0 / 2021: 24.8 / 2020: 26.0"
+        ],
+        [
+          "Aframax 105k",
+          "15 Year",
+          "$26.7M",
+          "$16.0M",
+          "66%",
+          "10.6",
+          "2022: 20.5 / 2021: 15.5 / 2020: 15.9"
+        ],
+        [
+          "MR2 52k",
+          "Resale",
+          "$43.7M",
+          "$38.0M",
+          "15%",
+          "5.7",
+          "2022: 40.5 / 2021: 37.2 / 2020: 37.5"
+        ],
+        [
+          "MR2 51k",
+          "5 Year",
+          "$34.9M",
+          "$28.0M",
+          "25%",
+          "6.9",
+          "2022: 31.8 / 2021: 27.7 / 2020: 27.7"
+        ],
+        [
+          "MR2 47k",
+          "10 Year",
+          "$25.3M",
+          "$19.5M",
+          "30%",
+          "5.8",
+          "2022: 21.9 / 2021: 18.5 / 2020: 18.2"
+        ],
+        [
+          "MR2 45k",
+          "15 Year",
+          "$17.0M",
+          "$13.0M",
+          "31%",
+          "4.0",
+          "2022: 13.6 / 2021: 11.8 / 2020: 11.6"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Vessel Type",
+        "Tenor",
+        "Price ($M)",
+        "Jul/21 Price ($M)",
+        "12m Change (%)",
+        "12m Diff ($M)",
+        "3Y Average Prices ($M)"
+      ],
+      "period": [
+        "Jul/22",
+        "Jul/21"
+      ]
+    },
+    {
+      "name": "Bulk Carrier Sales",
+      "title": "BULK CARRIER SALES",
       "page": 4,
-      "NAME": "EKATERINI",
-      "TYPE": "Capesize",
-      "DWT": "173,555",
-      "YEAR": "2012",
-      "COUNTRY": "CHINA",
-      "YARD": "BOHAI",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "UNDISCLOSED",
-      "PRICE_USD_MILL": "",
-      "COMMENTS": "SS: 01/2027 - DD: 09/2024",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
+      "bbox": [
+        49.03,
+        279.33,
+        731.81,
+        437.34
+      ],
+      "columns": [
+        "Section",
+        "Name",
+        "DWT",
+        "Year",
+        "Country",
+        "Yard",
+        "Buyers",
+        "Price ($M)",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "Bulk Carriers",
+          "EKATERINI",
+          "173,555",
+          "2012",
+          "CHINA",
+          "BOHAI",
+          "UNDISCLOSED",
+          "UNDISCLOSED",
+          "SS: 01/2027 - DD: 09/2024"
+        ],
+        [
+          "Bulk Carriers",
+          "BONANZA YR",
+          "76,465",
+          "2006",
+          "JAPAN",
+          "TSUNEISHI",
+          "CHINESE",
+          "16.5",
+          "SS: 08/2026 - DD: 09/2024, BWTS FITTED"
+        ],
+        [
+          "Bulk Carriers",
+          "NAUTICAL ANNE",
+          "63,593",
+          "2016",
+          "CHINA",
+          "NEW HANTONG",
+          "UNDISCLOSED",
+          "31",
+          "SS/DD: DUE 06/2022, BWTS & SCRUBBER FITTED, DEAL HAS LONG SUBS"
+        ],
+        [
+          "Bulk Carriers",
+          "TERESA OETKER",
+          "58,018",
+          "2010",
+          "CHINA",
+          "YANGZHOU DAYANG",
+          "UNDISCLOSED",
+          "LOW 17",
+          "SS: 11/2025 - DD: 10/2023, BWTS FITTED, TIER II M/E & TIER I D/G"
+        ],
+        [
+          "Bulk Carriers",
+          "ESHIPS PROGRESS",
+          "56,897",
+          "2012",
+          "CHINA",
+          "COSCO GUANGDONG",
+          "UNDISCLOSED",
+          "18",
+          "SS/DD: DUE 08/2022"
+        ],
+        [
+          "Bulk Carriers",
+          "JIA HUI SHAN",
+          "56,611",
+          "2011",
+          "CHINA",
+          "CIC JIANGSU",
+          "UNDISCLOSED",
+          "17",
+          "SS: 01/2026 - DD: 12/2022, BWTS FITTED"
+        ],
+        [
+          "Bulk Carriers",
+          "SOPHIA K",
+          "55,612",
+          "2011",
+          "JAPAN",
+          "MITSUI",
+          "UNDISCLOSED",
+          "22.9",
+          "SS: 07/2026 - DD: 10/2023, BWTS FITTED, BSS DELIVERY IN SEPT IN THE MED"
+        ],
+        [
+          "Bulk Carriers",
+          "DENALI",
+          "53,800",
+          "2009",
+          "CHINA",
+          "JIANGSU EASTERN",
+          "UNDISCLOSED",
+          "16",
+          "SS: 01/2024 - DD: 28/12/2023"
+        ],
+        [
+          "Bulk Carriers",
+          "EQUINOX VOYAGER",
+          "52,000",
+          "2002",
+          "CROATIA",
+          "BRODOSPLIT- BRODOGRADILISTE",
+          "CHINESE",
+          "15.3",
+          "SS: 05/2027 - DD: 05/2025, BWTS FITTED, OLD SALE"
+        ],
+        [
+          "Bulk Carriers",
+          "MARIA L",
+          "28,404",
+          "1998",
+          "JAPAN",
+          "THE HAKODATE",
+          "SYRIAN",
+          "LOW 7",
+          "SS: 10/2022 - DD: 10/2022"
+        ],
+        [
+          "Bulk Carriers",
+          "AFRICAN FALCON",
+          "27,101",
+          "2003",
+          "CHINA",
+          "NEW CENTURY",
+          "EGYPTIANS",
+          "11.5",
+          "SS: 06/2023 - DD: 06/2023"
+        ],
+        [
+          "Bulk Carriers",
+          "A RACER",
+          "26,467",
+          "1996",
+          "CHINA",
+          "GSI",
+          "MIDDLE EASTERN",
+          "HIGH 6",
+          "SS: 06/2026 - DD: 09/2024"
+        ],
+        [
+          "Bulk Carriers",
+          "QUANTRA",
+          "18,367",
+          "2000",
+          "S. KOREA",
+          "INP",
+          "TURKISH",
+          "6",
+          "SS: 07/2025 - DD: 09/2024"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Name",
+        "DWT",
+        "Year",
+        "Country",
+        "Yard",
+        "Buyers",
+        "Price (Usd Mills)",
+        "Notes/ Comments"
+      ],
+      "unit": "DWT",
+      "sales_title": "BULK CARRIER SALES"
     },
     {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "BONANZA YR",
-      "TYPE": "Panamax",
-      "DWT": "76,465",
-      "YEAR": "2006",
-      "COUNTRY": "JAPAN",
-      "YARD": "TSUNEISHI",
-      "BUYERS": "CHINESE",
-      "PRICE": "16.5",
-      "PRICE_USD_MILL": 16.5,
-      "COMMENTS": "SS: 08/2026 - DD: 09/2024, BWTS FITTED",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "NAUTICAL ANNE",
-      "TYPE": "Ultramax",
-      "DWT": "63,593",
-      "YEAR": "2016",
-      "COUNTRY": "CHINA",
-      "YARD": "NEW HANTONG",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "31",
-      "PRICE_USD_MILL": 31.0,
-      "COMMENTS": "SS/DD: DUE 06/2022, BWTS & SCRUBBER FITTED, DEAL HAS LONG SUBS",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "TERESA OETKER",
-      "TYPE": "Supramax",
-      "DWT": "58,018",
-      "YEAR": "2010",
-      "COUNTRY": "CHINA",
-      "YARD": "YANGZHOU DAYANG",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "LOW 17",
-      "PRICE_USD_MILL": 17.0,
-      "COMMENTS": "SS: 11/2025 - DD: 10/2023, BWTS FITTED, TIER II M/E & TIER I D/G",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "ESHIPS PROGRESS",
-      "TYPE": "Supramax",
-      "DWT": "56,897",
-      "YEAR": "2012",
-      "COUNTRY": "CHINA",
-      "YARD": "COSCO GUANGDONG",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "18",
-      "PRICE_USD_MILL": 18.0,
-      "COMMENTS": "SS/DD: DUE 08/2022",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "JIA HUI SHAN",
-      "TYPE": "Supramax",
-      "DWT": "56,611",
-      "YEAR": "2011",
-      "COUNTRY": "CHINA",
-      "YARD": "CIC JIANGSU",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "17",
-      "PRICE_USD_MILL": 17.0,
-      "COMMENTS": "SS: 01/2026 - DD: 12/2022, BWTS FITTED",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "SOPHIA K",
-      "TYPE": "Supramax",
-      "DWT": "55,612",
-      "YEAR": "2011",
-      "COUNTRY": "JAPAN",
-      "YARD": "MITSUI",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "22.9",
-      "PRICE_USD_MILL": 22.9,
-      "COMMENTS": "SS: 07/2026 - DD: 10/2023, BWTS FITTED, BSS DELIVERY IN SEPT IN THE MED",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "DENALI",
-      "TYPE": "Supramax",
-      "DWT": "53,800",
-      "YEAR": "2009",
-      "COUNTRY": "CHINA",
-      "YARD": "JIANGSU EASTERN",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "16",
-      "PRICE_USD_MILL": 16.0,
-      "COMMENTS": "SS: 01/2024 - DD: 28/12/2023",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "EQUINOX VOYAGER",
-      "TYPE": "Supramax",
-      "DWT": "52,000",
-      "YEAR": "2002",
-      "COUNTRY": "CROATIA",
-      "YARD": "BRODOSPLIT- BRODOGRADILISTE",
-      "BUYERS": "CHINESE",
-      "PRICE": "15.3",
-      "PRICE_USD_MILL": 15.3,
-      "COMMENTS": "SS: 05/2027 - DD: 05/2025, BWTS FITTED, OLD SALE",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "MARIA L",
-      "TYPE": "Handysize",
-      "DWT": "28,404",
-      "YEAR": "1998",
-      "COUNTRY": "JAPAN",
-      "YARD": "THE HAKODATE",
-      "BUYERS": "SYRIAN",
-      "PRICE": "LOW 7",
-      "PRICE_USD_MILL": 7.0,
-      "COMMENTS": "SS: 10/2022 - DD: 10/2022",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "AFRICAN FALCON",
-      "TYPE": "Handysize",
-      "DWT": "27,101",
-      "YEAR": "2003",
-      "COUNTRY": "CHINA",
-      "YARD": "NEW CENTURY",
-      "BUYERS": "EGYPTIANS",
-      "PRICE": "11.5",
-      "PRICE_USD_MILL": 11.5,
-      "COMMENTS": "SS: 06/2023 - DD: 06/2023",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "A RACER",
-      "TYPE": "Handysize",
-      "DWT": "26,467",
-      "YEAR": "1996",
-      "COUNTRY": "CHINA",
-      "YARD": "GSI",
-      "BUYERS": "MIDDLE EASTERN",
-      "PRICE": "HIGH 6",
-      "PRICE_USD_MILL": 6.0,
-      "COMMENTS": "SS: 06/2026 - DD: 09/2024",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "QUANTRA",
-      "TYPE": "Handysize",
-      "DWT": "18,367",
-      "YEAR": "2000",
-      "COUNTRY": "S. KOREA",
-      "YARD": "INP",
-      "BUYERS": "TURKISH",
-      "PRICE": "6",
-      "PRICE_USD_MILL": 6.0,
-      "COMMENTS": "SS: 07/2025 - DD: 09/2024",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
+      "name": "Tanker Sales",
+      "title": "TANKER SALES",
       "page": 5,
-      "NAME": "TINAT",
-      "TYPE": "VLCC",
-      "DWT": "316,502",
-      "YEAR": "2002",
-      "COUNTRY": "S. KOREA",
-      "YARD": "HHI",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "30",
-      "PRICE_USD_MILL": 30.0,
-      "COMMENTS": "SS: 09/2022 - DD: 09/2022, BWTS DUE",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
+      "bbox": [
+        30.31,
+        47.1,
+        694.79,
+        258.2
+      ],
+      "columns": [
+        "Section",
+        "Name",
+        "DWT",
+        "Year",
+        "Country",
+        "Yard",
+        "Buyers",
+        "Price ($M)",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "Tankers",
+          "TINAT",
+          "316,502",
+          "2002",
+          "S. KOREA",
+          "HHI",
+          "UNDISCLOSED",
+          "30",
+          "SS: 09/2022 - DD: 09/2022, BWTS DUE"
+        ],
+        [
+          "Tankers",
+          "ALTAIR TRADER",
+          "311,110",
+          "2005",
+          "JAPAN",
+          "MITSUI",
+          "UNDISCLOSED",
+          "36-36.5",
+          "SS: 05/2025 - DD: 09/2023"
+        ],
+        [
+          "Tankers",
+          "SPM STRENGTΗ",
+          "159,314",
+          "2002",
+          "S. KOREA",
+          "HHI",
+          "CHINESE",
+          "17",
+          "SS/DD : 07/2022 DUE"
+        ],
+        [
+          "Tankers",
+          "RIDGEBURY LINDY B",
+          "146,356",
+          "2007",
+          "JAPAN",
+          "UNIVERSAL",
+          "CLIENTS OF STEALTHGAS",
+          "33",
+          "SS: 01/2027 - DD: 5/20225, ICE CLASSED 1A"
+        ],
+        [
+          "Tankers",
+          "ARISTODIMOS",
+          "113,553",
+          "2006",
+          "S. KOREA",
+          "SAMSUNG",
+          "CHINESE",
+          "26",
+          "SS: 04/2026 - DD: 03/2025, ICE CLASS 1A"
+        ],
+        [
+          "Tankers",
+          "VOYAGER I",
+          "106,638",
+          "2002",
+          "JAPAN",
+          "TSUNEISHI",
+          "CHINESE",
+          "14.5",
+          "SS: 10/2022 - DD: 10/2022"
+        ],
+        [
+          "Tankers",
+          "STAVANGER FALCON",
+          "105,419",
+          "2009",
+          "JAPAN",
+          "SUMITOMO",
+          "UNDISCLOSED",
+          "28.1",
+          "SS: 02/2024 - DD: 02/2024"
+        ],
+        [
+          "Tankers",
+          "PROSPEROUS",
+          "105,355",
+          "2009",
+          "JAPAN",
+          "SUMITOMO",
+          "UNDISCLOSED",
+          "28.7",
+          "SS: 01/2024 - DD: 01/2024"
+        ],
+        [
+          "Tankers",
+          "CHOLA QUEEN",
+          "104,996",
+          "2002",
+          "JAPAN",
+          "IMABARI",
+          "UNDISCLOSED",
+          "17",
+          "SS: 10/2022 - DD: 10/2022"
+        ],
+        [
+          "Tankers",
+          "ALPINE PENELOPE",
+          "74,401",
+          "2008",
+          "S. KOREA",
+          "SUNGDONG",
+          "UNDISCLOSED",
+          "21",
+          "SS: 04/2023 - DD: 04/2023"
+        ],
+        [
+          "Tankers",
+          "KARADENIZ POWERSHIP ANATOLIA",
+          "72,515",
+          "2004",
+          "S. KOREA",
+          "SHI",
+          "UNDISCLOSED",
+          "13.1",
+          "SS: 07/2024 - DD: 12/2022"
+        ],
+        [
+          "Tankers",
+          "HIGH PRIORITY",
+          "46,847",
+          "2005",
+          "JAPAN",
+          "NAIKAI",
+          "GREEK",
+          "13.4",
+          "SS: 03/2025 - DD: 04/2023, BWTS FITTED, CPP"
+        ],
+        [
+          "Tankers",
+          "JAL UPASANA",
+          "46,846",
+          "2006",
+          "JAPAN",
+          "NAIKAI ZOSEN",
+          "CLIENTS OF DORIA SHIPPING BANGLADESH",
+          "33.5 ENBLOC",
+          "SS: 07/2026 - DD: 11/2024, BWTS FITTED"
+        ],
+        [
+          "Tankers",
+          "JAL SASVATA",
+          "46,590",
+          "2009",
+          "JAPAN",
+          "NAIKAI ZOSEN",
+          "CLIENTS OF DORIA SHIPPING BANGLADESH",
+          "33.5 ENBLOC",
+          "SS: 04/2024 - DD: 04/2024, BWTS FITTED"
+        ],
+        [
+          "Tankers",
+          "SEAEXPLORER",
+          "39,975",
+          "2003",
+          "S. KOREA",
+          "HYUNDAI MIPO",
+          "TURKISH",
+          "9.3",
+          "SS: 12/2022 - DD: 12/2022"
+        ],
+        [
+          "Tankers",
+          "STEFANIE",
+          "37,248",
+          "2003",
+          "S. KOREA",
+          "HYUNDAI MIPO",
+          "UNDISCLOSED",
+          "UNDISCLOSED",
+          "SS: 04/2023 - DD: 07/2023"
+        ],
+        [
+          "Tankers",
+          "LILA FRONTIER",
+          "19,805",
+          "2004",
+          "JAPAN",
+          "KITANIHON",
+          "UNDISCLOSED",
+          "11.2",
+          "SS: 08/2024 - DD: 08/2022"
+        ],
+        [
+          "Tankers",
+          "LEFTERIS",
+          "4,973",
+          "1997",
+          "CHINA",
+          "QIUXIN",
+          "UNDISCLOSED",
+          "3.1",
+          "SS: 10/2024 - DD: 10/2022"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Name",
+        "DWT",
+        "Year",
+        "Country",
+        "Yard",
+        "Buyers",
+        "Price (Usd Mills)",
+        "Notes/ Comments"
+      ],
+      "unit": "DWT",
+      "sales_title": "TANKER SALES"
     },
     {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
+      "name": "Other Reported Sales - Gas",
+      "title": "GAS SALES",
       "page": 5,
-      "NAME": "ALTAIR TRADER",
-      "TYPE": "VLCC",
-      "DWT": "311,110",
-      "YEAR": "2005",
-      "COUNTRY": "JAPAN",
-      "YARD": "MITSUI",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "36-36.5",
-      "PRICE_USD_MILL": 36.0,
-      "COMMENTS": "SS: 05/2025 - DD: 09/2023",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
+      "bbox": [
+        36.79,
+        279.78,
+        704.95,
+        349.98
+      ],
+      "columns": [
+        "Section",
+        "Name",
+        "Size",
+        "Size Unit",
+        "Year",
+        "Country",
+        "Yard",
+        "Buyers",
+        "Price ($M)",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "Gas",
+          "METHANE SHIRLEY ELISABETH",
+          "145,488",
+          "CBM",
+          "2007",
+          "S. KOREA",
+          "SAMSUNG",
+          "UNDISCLOSED",
+          "54",
+          "SS: 03/2025 - DD: 03/2023, LNG"
+        ],
+        [
+          "Gas",
+          "G. SYMPHONY",
+          "81,608",
+          "CBM",
+          "2011",
+          "JAPAN",
+          "MITSUBISHI",
+          "UAE",
+          "56",
+          "SS: 11/2026 - DD: 02/2025, BWTS & SCRUBBER FITTED"
+        ],
+        [
+          "Gas",
+          "GLOBAL CAPRICORN",
+          "77,105",
+          "CBM",
+          "2005",
+          "S. KOREA",
+          "DAEWOO",
+          "UNDISCLOSED",
+          "43.5",
+          "SS: 01/2025 - DD: 04/2023"
+        ],
+        [
+          "Gas",
+          "BASTOGNE",
+          "34,000",
+          "CBM",
+          "2002",
+          "S. KOREA",
+          "HHI",
+          "UNDISCLOSED",
+          "20",
+          "SS: 06/2022 - DD: 06/2022, BWTS FITTED"
+        ],
+        [
+          "Gas",
+          "NAVIGATOR MAGELLAN",
+          "20,815",
+          "CBM",
+          "1998",
+          "JAPAN",
+          "MITSUI",
+          "UNDISCLOSED",
+          "12.2",
+          "SS: 05/2025 - DD: 06/2023"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Name",
+        "CBM",
+        "Year",
+        "Country",
+        "Yard",
+        "Buyers",
+        "Price (Usd Mills)",
+        "Notes/ Comments"
+      ],
+      "unit": "CBM",
+      "sales_title": "GAS SALES"
     },
     {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
+      "name": "Other Reported Sales - Containers",
+      "title": "CONTAINER SALES",
       "page": 5,
-      "NAME": "SPM STRENGTΗ",
-      "TYPE": "Suezmax",
-      "DWT": "159,314",
-      "YEAR": "2002",
-      "COUNTRY": "S. KOREA",
-      "YARD": "HHI",
-      "BUYERS": "CHINESE",
-      "PRICE": "17",
-      "PRICE_USD_MILL": 17.0,
-      "COMMENTS": "SS/DD : 07/2022 DUE",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "RIDGEBURY LINDY B",
-      "TYPE": "Suezmax",
-      "DWT": "146,356",
-      "YEAR": "2007",
-      "COUNTRY": "JAPAN",
-      "YARD": "UNIVERSAL",
-      "BUYERS": "CLIENTS OF STEALTHGAS",
-      "PRICE": "33",
-      "PRICE_USD_MILL": 33.0,
-      "COMMENTS": "SS: 01/2027 - DD: 5/20225, ICE CLASSED 1A",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "ARISTODIMOS",
-      "TYPE": "Aframax",
-      "DWT": "113,553",
-      "YEAR": "2006",
-      "COUNTRY": "S. KOREA",
-      "YARD": "SAMSUNG",
-      "BUYERS": "CHINESE",
-      "PRICE": "26",
-      "PRICE_USD_MILL": 26.0,
-      "COMMENTS": "SS: 04/2026 - DD: 03/2025, ICE CLASS 1A",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "VOYAGER I",
-      "TYPE": "Aframax",
-      "DWT": "106,638",
-      "YEAR": "2002",
-      "COUNTRY": "JAPAN",
-      "YARD": "TSUNEISHI",
-      "BUYERS": "CHINESE",
-      "PRICE": "14.5",
-      "PRICE_USD_MILL": 14.5,
-      "COMMENTS": "SS: 10/2022 - DD: 10/2022",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "STAVANGER FALCON",
-      "TYPE": "Aframax",
-      "DWT": "105,419",
-      "YEAR": "2009",
-      "COUNTRY": "JAPAN",
-      "YARD": "SUMITOMO",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "28.1",
-      "PRICE_USD_MILL": 28.1,
-      "COMMENTS": "SS: 02/2024 - DD: 02/2024",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "PROSPEROUS",
-      "TYPE": "Aframax",
-      "DWT": "105,355",
-      "YEAR": "2009",
-      "COUNTRY": "JAPAN",
-      "YARD": "SUMITOMO",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "28.7",
-      "PRICE_USD_MILL": 28.7,
-      "COMMENTS": "SS: 01/2024 - DD: 01/2024",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "CHOLA QUEEN",
-      "TYPE": "Aframax",
-      "DWT": "104,996",
-      "YEAR": "2002",
-      "COUNTRY": "JAPAN",
-      "YARD": "IMABARI",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "17",
-      "PRICE_USD_MILL": 17.0,
-      "COMMENTS": "SS: 10/2022 - DD: 10/2022",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "ALPINE PENELOPE",
-      "TYPE": "Panamax",
-      "DWT": "74,401",
-      "YEAR": "2008",
-      "COUNTRY": "S. KOREA",
-      "YARD": "SUNGDONG",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "21",
-      "PRICE_USD_MILL": 21.0,
-      "COMMENTS": "SS: 04/2023 - DD: 04/2023",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "KARADENIZ POWERSHIP ANATOLIA",
-      "TYPE": "Panamax",
-      "DWT": "72,515",
-      "YEAR": "2004",
-      "COUNTRY": "S. KOREA",
-      "YARD": "SHI",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "13.1",
-      "PRICE_USD_MILL": 13.1,
-      "COMMENTS": "SS: 07/2024 - DD: 12/2022",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "HIGH PRIORITY",
-      "TYPE": "MR2",
-      "DWT": "46,847",
-      "YEAR": "2005",
-      "COUNTRY": "JAPAN",
-      "YARD": "NAIKAI",
-      "BUYERS": "GREEK",
-      "PRICE": "13.4",
-      "PRICE_USD_MILL": 13.4,
-      "COMMENTS": "SS: 03/2025 - DD: 04/2023, BWTS FITTED, CPP",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "JAL UPASANA",
-      "TYPE": "MR2",
-      "DWT": "46,846",
-      "YEAR": "2006",
-      "COUNTRY": "JAPAN",
-      "YARD": "NAIKAI ZOSEN",
-      "BUYERS": "CLIENTS OF DORIA SHIPPING",
-      "PRICE": "33.5 ENBLOC",
-      "PRICE_USD_MILL": 33.5,
-      "COMMENTS": "SS: 07/2026 - DD: 11/2024, BWTS FITTED",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "JAL SASVATA",
-      "TYPE": "MR2",
-      "DWT": "46,590",
-      "YEAR": "2009",
-      "COUNTRY": "JAPAN",
-      "YARD": "NAIKAI ZOSEN",
-      "BUYERS": "CLIENTS OF DORIA SHIPPING",
-      "PRICE": "33.5 ENBLOC",
-      "PRICE_USD_MILL": 33.5,
-      "COMMENTS": "SS: 04/2024 - DD: 04/2024, BWTS FITTED",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "SEAEXPLORER",
-      "TYPE": "Small Tanker",
-      "DWT": "39,975",
-      "YEAR": "2003",
-      "COUNTRY": "S. KOREA",
-      "YARD": "HYUNDAI MIPO",
-      "BUYERS": "TURKISH",
-      "PRICE": "9.3",
-      "PRICE_USD_MILL": 9.3,
-      "COMMENTS": "SS: 12/2022 - DD: 12/2022",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "STEFANIE",
-      "TYPE": "Small Tanker",
-      "DWT": "37,248",
-      "YEAR": "2003",
-      "COUNTRY": "S. KOREA",
-      "YARD": "HYUNDAI MIPO",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "UNDISCLOSED",
-      "PRICE_USD_MILL": "",
-      "COMMENTS": "SS: 04/2023 - DD: 07/2023",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "LILA FRONTIER",
-      "TYPE": "Small Tanker",
-      "DWT": "19,805",
-      "YEAR": "2004",
-      "COUNTRY": "JAPAN",
-      "YARD": "KITANIHON",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "11.2",
-      "PRICE_USD_MILL": 11.2,
-      "COMMENTS": "SS: 08/2024 - DD: 08/2022",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Tankers",
-      "page": 5,
-      "NAME": "LEFTERIS",
-      "TYPE": "Small Tanker",
-      "DWT": "4,973",
-      "YEAR": "1997",
-      "COUNTRY": "CHINA",
-      "YARD": "QIUXIN",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "3.1",
-      "PRICE_USD_MILL": 3.1,
-      "COMMENTS": "SS: 10/2024 - DD: 10/2022",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Gas",
-      "page": 5,
-      "NAME": "METHANE SHIRLEY ELISABETH",
-      "TYPE": "Gas",
-      "DWT": "145,488",
-      "YEAR": "2007",
-      "COUNTRY": "S. KOREA",
-      "YARD": "SAMSUNG",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "54",
-      "PRICE_USD_MILL": 54.0,
-      "COMMENTS": "SS: 03/2025 - DD: 03/2023, LNG",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Gas",
-      "page": 5,
-      "NAME": "G. SYMPHONY",
-      "TYPE": "Gas",
-      "DWT": "81,608",
-      "YEAR": "2011",
-      "COUNTRY": "JAPAN",
-      "YARD": "MITSUBISHI",
-      "BUYERS": "UAE",
-      "PRICE": "56",
-      "PRICE_USD_MILL": 56.0,
-      "COMMENTS": "SS: 11/2026 - DD: 02/2025, BWTS & SCRUBBER FITTED",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Gas",
-      "page": 5,
-      "NAME": "GLOBAL CAPRICORN",
-      "TYPE": "Gas",
-      "DWT": "77,105",
-      "YEAR": "2005",
-      "COUNTRY": "S. KOREA",
-      "YARD": "DAEWOO",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "43.5",
-      "PRICE_USD_MILL": 43.5,
-      "COMMENTS": "SS: 01/2025 - DD: 04/2023",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Gas",
-      "page": 5,
-      "NAME": "BASTOGNE",
-      "TYPE": "Gas",
-      "DWT": "34,000",
-      "YEAR": "2002",
-      "COUNTRY": "S. KOREA",
-      "YARD": "HHI",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "20",
-      "PRICE_USD_MILL": 20.0,
-      "COMMENTS": "SS: 06/2022 - DD: 06/2022, BWTS FITTED",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Gas",
-      "page": 5,
-      "NAME": "NAVIGATOR MAGELLAN",
-      "TYPE": "Gas",
-      "DWT": "20,815",
-      "YEAR": "1998",
-      "COUNTRY": "JAPAN",
-      "YARD": "MITSUI",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "12.2",
-      "PRICE_USD_MILL": 12.2,
-      "COMMENTS": "SS: 05/2025 - DD: 06/2023",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Containers",
-      "page": 5,
-      "NAME": "JUDITH SCHULTE",
-      "TYPE": "Containers",
-      "DWT": "9,403",
-      "YEAR": "2013",
-      "COUNTRY": "CHINA",
-      "YARD": "JIANGNAN CHANGXING",
-      "BUYERS": "CLIENTS OF MSC",
-      "PRICE": "UNDISCLOSED",
-      "PRICE_USD_MILL": "",
-      "COMMENTS": "SS: 07/2023 - DD: 07/2023, BWTS FITTED",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Containers",
-      "page": 5,
-      "NAME": "JOHANNA SCHULTE",
-      "TYPE": "Containers",
-      "DWT": "9,403",
-      "YEAR": "2013",
-      "COUNTRY": "CHINA",
-      "YARD": "JIANGNAN CHANGXING",
-      "BUYERS": "CLIENTS OF MSC",
-      "PRICE": "UNDISCLOSED",
-      "PRICE_USD_MILL": "",
-      "COMMENTS": "SS: 10/2023 - DD: 10/2023, BWTS FITTED",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Containers",
-      "page": 5,
-      "NAME": "ENDURANCE",
-      "TYPE": "Containers",
-      "DWT": "750",
-      "YEAR": "2005",
-      "COUNTRY": "ROMANIA",
-      "YARD": "DAEWOO - MANGALIA",
-      "BUYERS": "TURKISH",
-      "PRICE": "8",
-      "PRICE_USD_MILL": 8.0,
-      "COMMENTS": "SS: 10/2025 - DD: 08/2023",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "section": "Containers",
-      "page": 5,
-      "NAME": "HARBOUR EXPRESS",
-      "TYPE": "Containers",
-      "DWT": "560",
-      "YEAR": "1998",
-      "COUNTRY": "JAPAN",
-      "YARD": "WATANABE ZOSEN",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "10",
-      "PRICE_USD_MILL": 10.0,
-      "COMMENTS": "SS: 03/2023 - DD: 03/2023",
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
+      "bbox": [
+        49.51,
+        378.28,
+        688.66,
+        437.8
+      ],
+      "columns": [
+        "Section",
+        "Name",
+        "Size",
+        "Size Unit",
+        "Year",
+        "Country",
+        "Yard",
+        "Buyers",
+        "Price ($M)",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "Containers",
+          "JUDITH SCHULTE",
+          "9,403",
+          "TEU",
+          "2013",
+          "CHINA",
+          "JIANGNAN CHANGXING",
+          "CLIENTS OF MSC",
+          "UNDISCLOSED",
+          "SS: 07/2023 - DD: 07/2023, BWTS FITTED"
+        ],
+        [
+          "Containers",
+          "JOHANNA SCHULTE",
+          "9,403",
+          "TEU",
+          "2013",
+          "CHINA",
+          "JIANGNAN CHANGXING",
+          "CLIENTS OF MSC",
+          "UNDISCLOSED",
+          "SS: 10/2023 - DD: 10/2023, BWTS FITTED"
+        ],
+        [
+          "Containers",
+          "ENDURANCE",
+          "750",
+          "TEU",
+          "2005",
+          "ROMANIA",
+          "DAEWOO - MANGALIA",
+          "TURKISH",
+          "8",
+          "SS: 10/2025 - DD: 08/2023"
+        ],
+        [
+          "Containers",
+          "HARBOUR EXPRESS",
+          "560",
+          "TEU",
+          "1998",
+          "JAPAN",
+          "WATANABE ZOSEN",
+          "UNDISCLOSED",
+          "10",
+          "SS: 03/2023 - DD: 03/2023"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Name",
+        "TEU",
+        "Year",
+        "Country",
+        "Yard",
+        "Buyers",
+        "Price (Usd Mills)",
+        "Notes/ Comments"
+      ],
+      "unit": "TEU",
+      "sales_title": "CONTAINER SALES"
     }
   ],
-  "demo_sales": [],
-  "newbuilding_orders": [],
-  "indicative_demolition_prices": [
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "segment": "Bulkers",
-      "country": "India",
-      "price_usd_per_ldt": 570.0,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "segment": "Tankers",
-      "country": "India",
-      "price_usd_per_ldt": 575.0,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "segment": "Bulkers",
-      "country": "Bangladesh",
-      "price_usd_per_ldt": 570.0,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "segment": "Tankers",
-      "country": "Bangladesh",
-      "price_usd_per_ldt": 580.0,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "segment": "Bulkers",
-      "country": "Pakistan",
-      "price_usd_per_ldt": 570.0,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "segment": "Tankers",
-      "country": "Pakistan",
-      "price_usd_per_ldt": 575.0,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "segment": "Bulkers",
-      "country": "Turkey",
-      "price_usd_per_ldt": 315.0,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "segment": "Tankers",
-      "country": "Turkey",
-      "price_usd_per_ldt": 325.0,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    }
-  ],
-  "indicative_secondhand_prices": [
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Capesize",
-      "tenor": "Resale",
-      "price_usd_mill": 62.2,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Capesize",
-      "tenor": "5 Year",
-      "price_usd_mill": 53.0,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Capesize",
-      "tenor": "10 Year",
-      "price_usd_mill": 35.9,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Capesize",
-      "tenor": "15 Year",
-      "price_usd_mill": 23.2,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Kamsarmax",
-      "tenor": "Resale",
-      "price_usd_mill": 42.6,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Kamsarmax",
-      "tenor": "5 Year",
-      "price_usd_mill": 36.8,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Panamax",
-      "tenor": "10 Year",
-      "price_usd_mill": 27.5,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Panamax",
-      "tenor": "15 Year",
-      "price_usd_mill": 18.8,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Ultramax",
-      "tenor": "Resale",
-      "price_usd_mill": 40.7,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Ultramax",
-      "tenor": "5 Year",
-      "price_usd_mill": 33.6,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Supramax",
-      "tenor": "5 Year",
-      "price_usd_mill": 28.4,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Supramax",
-      "tenor": "10 Year",
-      "price_usd_mill": 23.4,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Supramax",
-      "tenor": "15 Year",
-      "price_usd_mill": 18.2,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Handysize",
-      "tenor": "Resale",
-      "price_usd_mill": 32.5,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Handysize",
-      "tenor": "5 Year",
-      "price_usd_mill": 28.6,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Handysize",
-      "tenor": "10 Year",
-      "price_usd_mill": 20.0,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Dry",
-      "vessel_type": "Handysize",
-      "tenor": "15 Year",
-      "price_usd_mill": 14.2,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "VLCC",
-      "tenor": "Resale",
-      "price_usd_mill": 106.6,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "VLCC",
-      "tenor": "5 Year",
-      "price_usd_mill": 81.6,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "VLCC",
-      "tenor": "10 Year",
-      "price_usd_mill": 56.9,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "VLCC",
-      "tenor": "15 Year",
-      "price_usd_mill": 38.8,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "Suezmax",
-      "tenor": "Resale",
-      "price_usd_mill": 76.3,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "Suezmax",
-      "tenor": "5 Year",
-      "price_usd_mill": 56.4,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "Suezmax",
-      "tenor": "10 Year",
-      "price_usd_mill": 41.8,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "Suezmax",
-      "tenor": "15 Year",
-      "price_usd_mill": 28.9,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "Aframax",
-      "tenor": "Resale",
-      "price_usd_mill": 66.0,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "Aframax",
-      "tenor": "5 Year",
-      "price_usd_mill": 51.1,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "Aframax",
-      "tenor": "10 Year",
-      "price_usd_mill": 36.9,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "Aframax",
-      "tenor": "15 Year",
-      "price_usd_mill": 26.7,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "MR2",
-      "tenor": "Resale",
-      "price_usd_mill": 43.7,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "MR2",
-      "tenor": "5 Year",
-      "price_usd_mill": 34.9,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "MR2",
-      "tenor": "10 Year",
-      "price_usd_mill": 25.3,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    },
-    {
-      "issue_date": "2022-08-01",
-      "report_week": 30,
-      "sector": "Tanker",
-      "vessel_type": "MR2",
-      "tenor": "15 Year",
-      "price_usd_mill": 17.0,
-      "source_file": "xclusiv_2022_xclusiv_weekly_2022_08_01.pdf"
-    }
-  ],
-  "indicative_newbuilding_prices": []
+  "sales": [],
+  "demolitions": []
 }

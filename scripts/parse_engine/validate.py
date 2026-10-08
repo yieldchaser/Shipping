@@ -164,12 +164,14 @@ def _num_tokens(text: str) -> list[str]:
     return out
 
 
-def table_numeric_recall(regions: list[dict[str, Any]], pdf: Path, tables_text: str) -> dict[str, Any]:
+def table_numeric_recall(regions: list[dict[str, Any]], pdf: Path, tables_text: str,
+                         ignore: list[str] | None = None) -> dict[str, Any]:
     """Every numeric token inside a table bbox on the PDF must appear in the emitted tables."""
     if not regions:
         return {"table_numeric_recall": None, "table_numeric_tokens": 0, "table_numeric_missing": []}
     doc = pymupdf.open(pdf)
     haystack = tables_text
+    skip = [re.compile(p) for p in (ignore or [])]      # label tokens a profile deliberately re-spells ("5y" -> "5 Year")
     total, missing = 0, []
     for reg in regions:
         x0, y0, x1, y1 = reg["bbox"]
@@ -178,6 +180,8 @@ def table_numeric_recall(regions: list[dict[str, Any]], pdf: Path, tables_text: 
             cx, cy = (w[0] + w[2]) / 2, (w[1] + w[3]) / 2
             if x0 - 1 <= cx <= x1 + 1 and y0 - 1 <= cy <= y1 + 1:
                 for tok in _num_tokens(w[4]):
+                    if any(r.search(tok) for r in skip):
+                        continue
                     total += 1
                     if tok not in haystack:
                         missing.append({"page": reg["page"], "table": reg["name"], "token": tok})
@@ -223,7 +227,7 @@ def validate_output(md: str, pdf: Path, pages: list[int], profile: dict[str, Any
     }
     report.update(text_recall(pdf, pages, body, profile.get("boilerplate_patterns", []),
                               profile.get("strip_line_patterns", []), dropped))
-    report.update(table_numeric_recall(regions or [], pdf, tables_text))
+    report.update(table_numeric_recall(regions or [], pdf, tables_text, profile.get("numeric_recall_ignore")))
     th = profile.get("validation_thresholds", {})
     problems = []
     if report["sections_missing"]:

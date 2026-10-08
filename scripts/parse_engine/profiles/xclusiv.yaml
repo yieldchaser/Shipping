@@ -1,0 +1,98 @@
+# Xclusiv Shipbrokers weekly market report, 2021-2023 template (landscape digital PDF, fixed layout).
+# Layout and parsing notes: scripts/parse_engine/xclusiv.py. 2024+ MDs are a different template and are
+# not covered by this profile.
+source: xclusiv
+publisher: Xclusiv Shipbrokers Inc.
+title_template: "Xclusiv Shipbrokers Weekly Market Report {issue_date}"
+
+globs:
+  - "corpus/01-brokers/xclusiv/2021/*.pdf"
+  - "corpus/01-brokers/xclusiv/2022/*.pdf"
+  - "corpus/01-brokers/xclusiv/2023/*.pdf"
+
+# Parsing notes: the first five pages are useful; the rest is commodity/currency tables, key contacts and
+# the disclaimer. Reports have 6 or 7 pages.
+pages:
+  keep_first: 5
+
+engine_plan:
+  - match: {}
+    engine: pymupdf_table
+
+# The free path is the only path for this template. LlamaParse is configured only so a flagged file can be
+# estimated and reported before any credit is spent.
+llamaparse:
+  tier: agentic
+  version: "2026-01-16"
+  merge_continued_tables: true
+  custom_prompt: >-
+    This is a shipbroker weekly market report. Reproduce every table row exactly with one cell per
+    column; keep all commentary paragraphs verbatim under their headings. Do not summarize.
+
+# Early-2021 issues have no S&P commentary page and some weeks print no tanker sales table, so those sections
+# are optional here; xclusiv.py reports "sales_table_not_extracted" when a printed sales title has no table.
+expected_sections:
+  - required:
+      - "Market Overview"
+      - "Editorial"
+      - "Baltic Exchange Freight Indices"
+      - "Freight Market Analysis"
+      - "Dry Bulk Freight"
+      - "Tanker Freight"
+      - "Newbuilding Market"
+      - "Sale & Purchase Market"
+      - "Dry Secondhand Prices"
+      - "Tanker Secondhand Prices"
+      - "Bulk Carrier Sales"
+      - "Demolition Market"
+    optional: ["Dry S&P Activity Commentary", "Tanker S&P Activity Commentary", "Tanker Sales", "Other Reported Sales"]
+
+# The printed date sits on its own line at the foot of every page ("18th October 2021"); commentary
+# mentions other dates, so only a line-anchored date counts as the header date.
+header_text_chars: 20000
+date_patterns:
+  header_text:
+    - regex: "(?m)^\\s*(\\d{1,2})(?:st|nd|rd|th)\\s+(January|February|March|April|May|June|July|August|September|October|November|December)\\s+((?:19|20)\\d{2})\\s*$"
+      order: dmy_name
+  filename:
+    - regex: "((?:19|20)\\d{2})_(\\d{2})_(\\d{1,2})"
+      order: ymd
+
+strip_line_patterns:
+  - "(?i)^\\s*xclusiv shipbrokers( weekly| inc\\.?)?\\s*$"
+  - "(?i)^\\s*research & valuations\\s*$"
+  - "(?i)^\\s*www\\.xclusiv\\.gr\\s*$"
+  - "(?i)^\\s*page\\s+\\d+\\s*$"
+  - "(?i)^\\s*\\d{1,2}(st|nd|rd|th)\\s+[a-z]+\\s+\\d{4}\\s*$"
+  - "(?i)^\\s*(kifissias 342 avenue,?|15451 psychico.*|tel:.*)\\s*$"
+boilerplate_patterns:
+  - "(?i)www\\.xclusiv\\.gr"
+  - "(?i)kifissias"
+  - "(?i)^\\s*xclusiv shipbrokers inc"
+  - "(?i)psychico|athens, hellas"
+
+# Tenor labels ("5y") are re-spelled "5 Year" in the 2024-format table; month labels ("Oct/21") name the
+# period of a price column and are not table data.
+numeric_recall_ignore:
+  - "^\\d{1,2}y$"
+  - "^[A-Z][a-z]{2}/\\d{2}$"
+
+# Charts (spot earnings and 1y T/C, dry and wet) print no values; from the first chart title to the bottom of
+# the page is dropped, so axis labels and legends never reach the prose.
+drop_regions:
+  - anchor_any: ["Bulk Carrier Spot Earnings", "Bulk Carrier 1y TC", "Crude Tanker Spot Earnings",
+                 "Product Tanker Spot Earnings", "Tanker 1y TC"]
+    line_start: true
+    until: page_end
+
+# Only the geometric tables are written to the sidecar; the vessel-row flattening is Clarksons-specific.
+sidecar_vessel_rows: false
+
+geom:
+  prose_engine: xclusiv
+
+promotion:
+  dest: data/extracted/md/xclusiv
+  name_markers: [xclusiv]
+  legacy_dirs:
+    - data/extracted/md/xclusiv

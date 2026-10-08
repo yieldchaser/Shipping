@@ -1,657 +1,1290 @@
 {
-  "stem": "xclusiv_2021_xclusiv_weekly_2021_10_18",
-  "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf",
+  "schema": "parse_engine/v1",
   "issue_date": "2021-10-18",
-  "report_week": 41,
-  "pages": 6,
-  "useful_pages": 4,
-  "editorial_title": "",
-  "nutshell": [],
-  "market_commentary": [
-    "As the Dry Bulk market enjoys its best market for over a decade, we are motivated to observe asset prices in equally firm moments in recent dry bulk shipping history. Specifically, on 7th October 2021, the BDI attained a 13-year high at 5,650 points. The last time BDI (yet, with a different underlying synthesis) was at similar levels was on the 5th September 2008, when it had been correcting from its all-time high of 11,793 points on 20th May 2008. Observing the BDI even earlier, we notice that on 3rd February 2004, the BDI was at similar levels to today, during its ascent to glory back then. Limiting attention to Supramax asset values within the dry bulk space for simplicity purposes, the September 2008 levels easily outnumber the respective equivalent 2021 and 2004 asset values, since they had incorporated the irrationally exuberant pricing of the ultra firm 2007 – 2008 years while a notable time lag prevailed during 2008 between the timing earnings corrected and until asset values represented such correction. Leaving 2008 aside, by comparing asset values of Feb ’04 vs Oct ’21, we observe that, interestingly, they are somewhat comparable/correlated. One can also notice the substantially higher NB pricing of today vs ’04.",
-    "Oil Tanker’s “Supramax counterpart”, in terms of deadweight & versatility of carrying cargoes/trading routes, the MR2, is under increased interest & speculation lately for several reasons. On the supply side, finally we have a decent scrapping year with about 29 MR2s having been scrapped 2021-YTD (vs 8 MR2s in the whole of 2020 and 13 MR2s in 2019). The respective NB orderbook is composed (well below 10% of the Fleet) while the NB pricing flirts with rgn $40m levels in S. Korea for the 1st time since 2009 which, along with regulatory/technological uncertainty and post-2024 delivery positions, will discourage many ship-owners from placing orders. The shrinking orderbook bodes well with an increasing number of 15+ year-old MR2 units. The product tanker transportation demand side, although it has been disappointing throughout Covid era, now entertains cautious optimism fueled by the exacerbated energy crisis. The shortage of natural gas, LNG and coal supplies will inevitably catalyze demand for oil and generate oil products demand, which the owners of oil (product) tankers would be pleased to cover. Such increase in oil products demand may be, in turn, constrained by energy crisis within the energy industry per se, with refineries not having energy to process. Despite the real asset inflation nowadays, from the table below we notice that especially the 10y-old & 15y-old MR2’s are below their historical average prices. Especially studying the 15y-old MR2 pricing, we notice that even in depressed asset markets, they tend to maintain a strong resistance in the rgn $9m price level, close to a $4m+ premium over scrap. Thus, one may consider 15y-old acquisitions at rgn/max $10m as quite conservative, providing with upside potential should demand pick back up.",
-    "PERIOD MR2 5y Avg ($m) MR2 10y Avg ($m) MR2 15y Avg ($m) 2000-2010 34.7 26.6 17.8 2010-2021 26.8 17.8 10.9 2000-2021 30.6 21.9 14.1 Oct-21 28.0 17.5 11.0",
-    "PERIOD Supramax NB Avg ($m) Supramax 5y Avg ($m) Supramax 10y Avg ($m) Supramax 15y Avg ($m) Supramax 20y Avg ($m) 03-Feb-04 25.3 25.0 18.5 14.0 9.0 05-Sep-08 48.5 72.0 61.0 50.0 37.0 Oct-21 32.5 26.3 23.1 15.8 9.5"
-  ],
-  "baltic_indices": [],
-  "freight_commentary": {
-    "Dry Bulk Freight": "Panamax: the BPI-82 5T/C route average started the week at USD 34,794/day and following 5 consecutive positive sessions of the BPI, it closed the week improved at USD 36,584/day. Trip from Skaw-Gib to F.East is improved at USD 50,736/day, while Pacific Return voyage is also up at 39,581/day, while Atlantic R/V is firmer at USD 32,335/day. Kamsarmax 1 year T/C rate is USD 32,750/day, while Panamax 1 year T/C is USD 30,250/day.\n\nSupramax: the BSI-58 10T/C route average closed the week about USD 1,800/day higher than its opening at USD 39,333/day. South China trip via Indonesia E.C.India is at USD 37,688/day, W.Africa trip via ECSA to N.China at 44,304/day, Med/Bl Sea to China/S.Korea is firmer at USD 53,433/day, Atlantic R/V pays USD 39,750/day, while Pacific Return voyage pays USD 36,479/day. 1 year T/C rate for Ultramax is USD 34,500/day, with 1 year T/C for Supramax at USD 31,500/day.\n\nHandysize: the BHSI-38 average of the 7T/C Routes closed the week at USD 36,372/day. Brazil to Continent is softer and pays USD 36,461/day, S.E.Asia trip to Spore-Japan at 36,544/day, U.S.Gulf to Continent is firmer by USD 2700/day at USD 34,679/day. 1 year T/C rate for 38k Handy is USD 30,500/day, 32k Handysize 1y T/C Atlantic region is USD 27,850/day, whereas 32k Handy 1y T/C Pacific region is 27,250/day.",
-    "Tanker Freight": "Suezmax average T/CE closed the week marginaly down at USD 3,335/day. Trip from W.Africa to Continent is at USD 6,354/day, Bl.Sea to Med is softer at USD 316/day, Middle East Gulf to Med is at USD -7,949/day. 1y T/C rate for D/H Eco 150k dwt Suezmax is USD 21,250/day.\n\nAframax average T/CE closed the week at USD 5,222/day. Trip from N.Sea to Continent is at USD 562/day, trip from Kuwait to Spore at USD 147/day, trip from Carribs to US Gulf significantly improved by USD 14,900/day at USD 17,449/day, and S.E.Asia to EC Australia softer at USD 3,771/day. 1y T/C rate for Aframax is USD 16,250/day.\n\nProducts: The LR2 route (TC1) M.East Gulf to Japan is down this week at USD 2,090/day. Trip from Middle East to F.East is down at USD -10,022/day, while the LR1 (TC5) route Mid.East Gulf to Japan is firmer by USD 4,167/day at USD 8,002/day, and Amsterdam to Lome is at USD 1,586/day. The MR Atlantic Basket earnings is unchanged at USD 1,404/day, with MR route from Cont. to USAC at USD 2/day, US Gulf to Cont. down at USD -6,039/day, US Gulf to Brazil softer at USD 1,147/day, ARA to W.Africa firmer at USD 1,774/day. Eco MR2 1y T/C rate is at USD 15,000/day."
-  },
-  "dry_snp_activity": "CAPE GARLAND 178,394 2009 JAPAN MITSUI CHINESE 32.5 BWTS FTD, SS: 01/2024 - DD: 01/2024\n\nBLUEMOON 170,089 2002 JAPAN IHI CHINESE 15.75 SS/DD: 12/2021 LENA B 81,922 2017 CHINA TSUNEISHI ZHOUSAN HOA PHAT rgn 35 BWTS FTD, SS/DD: 01/2022\n\nOn the secondhand tanker market, we continue to observe limited number of transactions. Interestingly, a handful of modern tankers built between 2018 and 2020 were reported sold. Highlighting the acquisition from JP Morgan of 2 scrubber fitted sister LR2’s, the “Navi g8 Providen ence” 111K/2018 New Times, and the “Navi g8 Pride LHZ” ” 111K/2018 New Times, which were sold for region USD 48 mill each. Also, clients of Norden paid USD 36.5 mill each for 2 x MR2 ships, the ‘’E co Los Angeles’’ es’’-50K/2020 HMD and ‘’E co City Of Angels’’ s’’-50K/2020 HMD.",
-  "wet_snp_activity": "",
-  "reported_sales": [
+  "report_week": 42,
+  "source_file": "corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_10_18.pdf",
+  "source_sha256": "6bd7a95c828843b387c78f32e97a98cfb81a464aec0470328d5899924c0f710c",
+  "sales_count": 0,
+  "demo_count": 0,
+  "tables": [
     {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "CAPE GARLAND",
-      "TYPE": "Capesize",
-      "DWT": "178,394",
-      "YEAR": "2009",
-      "COUNTRY": "JAPAN",
-      "YARD": "MITSUI",
-      "BUYERS": "CHINESE",
-      "PRICE": "32.5",
-      "PRICE_USD_MILL": 32.5,
-      "COMMENTS": "BWTS FTD, SS: 01/2024 - DD: 01/2024",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
+      "name": "Baltic Dry Indices",
+      "title": "",
+      "page": 1,
+      "bbox": [
+        443.77,
+        72.64,
+        757.23,
+        159.13
+      ],
+      "columns": [
+        "Index",
+        "Current",
+        "Previous",
+        "Change (%)",
+        "3Y Trend / Historical Averages"
+      ],
+      "rows": [
+        [
+          "BDI",
+          "4,854",
+          "5,526",
+          "-12.2%",
+          "2021: 2,906 / 2020: 1,064 / 2019: 1,353"
+        ],
+        [
+          "BCI",
+          "7,767",
+          "10,112",
+          "-23.2%",
+          "2021: 3,970 / 2020: 1,752 / 2019: 2,261"
+        ],
+        [
+          "BPI",
+          "4,065",
+          "3,866",
+          "5.1%",
+          "2021: 2,961 / 2020: 1,101 / 2019: 1,387"
+        ],
+        [
+          "BSI",
+          "3,567",
+          "3,417",
+          "4.4%",
+          "2021: 2,386 / 2020: 743 / 2019: 880"
+        ],
+        [
+          "BHSI",
+          "2,021",
+          "2,015",
+          "0.3%",
+          "2021: 1,364 / 2020: 444 / 2019: 491"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Index",
+        "Current",
+        "Previous",
+        "Change (%)",
+        "3Y Trend / Historical Averages"
+      ],
+      "weeks": [
+        "41",
+        "40"
+      ]
     },
     {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "BLUEMOON",
-      "TYPE": "Capesize",
-      "DWT": "170,089",
-      "YEAR": "2002",
-      "COUNTRY": "JAPAN",
-      "YARD": "IHI",
-      "BUYERS": "CHINESE",
-      "PRICE": "15.75",
-      "PRICE_USD_MILL": 15.75,
-      "COMMENTS": "SS/DD: 12/2021",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
+      "name": "Baltic Tanker Indices",
+      "title": "",
+      "page": 1,
+      "bbox": [
+        443.77,
+        163.07,
+        757.23,
+        215.64
+      ],
+      "columns": [
+        "Index",
+        "Current",
+        "Previous",
+        "Change (%)",
+        "3Y Trend / Historical Averages"
+      ],
+      "rows": [
+        [
+          "BDTI",
+          "726",
+          "680",
+          "6.8%",
+          "2021: 610 / 2020: 722 / 2019: 855"
+        ],
+        [
+          "BCTI",
+          "550",
+          "473",
+          "16.3%",
+          "2021: 502 / 2020: 586 / 2019: 607"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Index",
+        "Current",
+        "Previous",
+        "Change (%)",
+        "3Y Trend / Historical Averages"
+      ],
+      "weeks": [
+        "41",
+        "40"
+      ]
     },
     {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "LENA B",
-      "TYPE": "Kamsarmax",
-      "DWT": "81,922",
-      "YEAR": "2017",
-      "COUNTRY": "CHINA",
-      "YARD": "TSUNEISHI ZHOUSAN",
-      "BUYERS": "HOA PHAT",
-      "PRICE": "rgn 35",
-      "PRICE_USD_MILL": 35.0,
-      "COMMENTS": "BWTS FTD, SS/DD: 01/2022",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
+      "name": "Dry Newbuilding Prices",
+      "title": "",
+      "page": 1,
+      "bbox": [
+        447.27,
+        226.48,
+        749.43,
+        301.66
+      ],
+      "columns": [
+        "Sector",
+        "Vessel Type",
+        "Price ($M)",
+        "Oct/20 Price ($M)",
+        "Change (%)",
+        "3Y Average Prices ($M)"
+      ],
+      "rows": [
+        [
+          "Dry",
+          "Capesize",
+          "$60.2M",
+          "$46.5M",
+          "29%",
+          "2021: 55.0 / 2020: 47.6 / 2019: 50.6"
+        ],
+        [
+          "Dry",
+          "Kamsarmax",
+          "$36.1M",
+          "$27.4M",
+          "32%",
+          "2021: 30.8 / 2020: 29.7 / 2019: 33.4"
+        ],
+        [
+          "Dry",
+          "Ultramax",
+          "$32.4M",
+          "$24.1M",
+          "35%",
+          "2021: 28.3 / 2020: 24.6 / 2019: 25.9"
+        ],
+        [
+          "Dry",
+          "Handysize",
+          "$30.0M",
+          "$22.9M",
+          "31%",
+          "2021: 26.1 / 2020: 23.1 / 2019: 23.9"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Sector",
+        "Vessel Type",
+        "Price ($M)",
+        "Oct/20 Price ($M)",
+        "Change (%)",
+        "3Y Average Prices ($M)"
+      ],
+      "period": [
+        "Oct/21",
+        "Oct/20"
+      ]
     },
     {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "IBIS WIND",
-      "TYPE": "Kamsarmax",
-      "DWT": "82,937",
-      "YEAR": "2013",
-      "COUNTRY": "JAPAN",
-      "YARD": "SANOYAS SHIPBUILDING",
-      "BUYERS": "STAROCEAN",
-      "PRICE": "28.1",
-      "PRICE_USD_MILL": 28.1,
-      "COMMENTS": "BWTS FTD, SS: 07/2025 - DD: 09/2023",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
+      "name": "Tanker Newbuilding Prices",
+      "title": "",
+      "page": 1,
+      "bbox": [
+        447.27,
+        305.6,
+        749.43,
+        392.07
+      ],
+      "columns": [
+        "Sector",
+        "Vessel Type",
+        "Price ($M)",
+        "Oct/20 Price ($M)",
+        "Change (%)",
+        "3Y Average Prices ($M)"
+      ],
+      "rows": [
+        [
+          "Tanker",
+          "VLCC",
+          "$106.8M",
+          "$85.4M",
+          "25%",
+          "2021: 95.8 / 2020: 88.6 / 2019: 92.6"
+        ],
+        [
+          "Tanker",
+          "Suezmax",
+          "$73.5M",
+          "$56.0M",
+          "31%",
+          "2021: 64.2 / 2020: 58.6 / 2019: 61.5"
+        ],
+        [
+          "Tanker",
+          "Aframax",
+          "$59.2M",
+          "$46.3M",
+          "28%",
+          "2021: 51.9 / 2020: 47.8 / 2019: 48.5"
+        ],
+        [
+          "Tanker",
+          "Panamax",
+          "$50.9M",
+          "$42.5M",
+          "20%",
+          "2021: 45.7 / 2020: 43.6 / 2019: 44.5"
+        ],
+        [
+          "Tanker",
+          "MR2",
+          "$40.6M",
+          "$34.0M",
+          "19%",
+          "2021: 36.5 / 2020: 34.6 / 2019: 36.4"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Sector",
+        "Vessel Type",
+        "Price ($M)",
+        "Oct/20 Price ($M)",
+        "Change (%)",
+        "3Y Average Prices ($M)"
+      ],
+      "period": [
+        "Oct/21",
+        "Oct/20"
+      ]
     },
     {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "ORIENT VIOLET",
-      "TYPE": "Panamax",
-      "DWT": "77,111",
-      "YEAR": "2015",
-      "COUNTRY": "JAPAN",
-      "YARD": "IMABARI",
-      "BUYERS": "TMS",
-      "PRICE": "xs 30",
-      "PRICE_USD_MILL": 30.0,
-      "COMMENTS": "BWTS FTD, 04/2025 - DD: 02/2023",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
+      "name": "Demolition Prices",
+      "title": "",
+      "page": 1,
+      "bbox": [
+        439.66,
+        405.51,
+        751.99,
+        478.35
+      ],
+      "columns": [
+        "Segment",
+        "Country",
+        "Price ($/LDT)",
+        "Week 40 ($/LDT)",
+        "Change"
+      ],
+      "rows": [
+        [
+          "Bulkers",
+          "India",
+          "$580",
+          "$575",
+          "5"
+        ],
+        [
+          "Bulkers",
+          "Bangladesh",
+          "$595",
+          "$590",
+          "5"
+        ],
+        [
+          "Bulkers",
+          "Pakistan",
+          "$590",
+          "$585",
+          "5"
+        ],
+        [
+          "Bulkers",
+          "Turkey",
+          "$275",
+          "$270",
+          "5"
+        ],
+        [
+          "Tankers",
+          "India",
+          "$590",
+          "$585",
+          "5"
+        ],
+        [
+          "Tankers",
+          "Bangladesh",
+          "$605",
+          "$600",
+          "5"
+        ],
+        [
+          "Tankers",
+          "Pakistan",
+          "$600",
+          "$595",
+          "5"
+        ],
+        [
+          "Tankers",
+          "Turkey",
+          "$285",
+          "$280",
+          "5"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Segment",
+        "Country",
+        "Price ($/LDT)",
+        "Week 40 ($/LDT)",
+        "Change"
+      ],
+      "weeks": [
+        "41",
+        "40"
+      ]
     },
     {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "GOLDEN ENDURER",
-      "TYPE": "Panamax",
-      "DWT": "79,457",
-      "YEAR": "2011",
-      "COUNTRY": "CHINA",
-      "YARD": "JINHAI",
-      "BUYERS": "STAM SHIPPING",
-      "PRICE": "37.2 Enbloc",
-      "PRICE_USD_MILL": 37.2,
-      "COMMENTS": "BWTS FTD, SS: 01/2026 - DD: 02/2024",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
+      "name": "Commentary Table - MR2 5y Avg ($m)",
+      "title": "",
+      "page": 1,
+      "bbox": [
+        103.52,
+        443.42,
+        331.77,
+        483.72
+      ],
+      "columns": [
+        "Period",
+        "MR2 5y Avg ($m)",
+        "MR2 10y Avg ($m)",
+        "MR2 15y Avg ($m)"
+      ],
+      "rows": [
+        [
+          "2000-2010",
+          "34.7",
+          "26.6",
+          "17.8"
+        ],
+        [
+          "2010-2021",
+          "26.8",
+          "17.8",
+          "10.9"
+        ],
+        [
+          "2000-2021",
+          "30.6",
+          "21.9",
+          "14.1"
+        ],
+        [
+          "Oct-21",
+          "28.0",
+          "17.5",
+          "11.0"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Period",
+        "MR2 5y Avg ($m)",
+        "MR2 10y Avg ($m)",
+        "MR2 15y Avg ($m)"
+      ]
     },
     {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "GOLDEN OPPORTUNITY",
-      "TYPE": "Panamax",
-      "DWT": "75,825",
-      "YEAR": "2008",
-      "COUNTRY": "CHINA",
-      "YARD": "RONGSHENG",
-      "BUYERS": "STAM SHIPPING",
-      "PRICE": "37.2 Enbloc",
-      "PRICE_USD_MILL": 37.2,
-      "COMMENTS": "BWTS FTD, SS/DD: 08/2023",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
+      "name": "Commentary Table - Supramax NB Avg ($m)",
+      "title": "",
+      "page": 1,
+      "bbox": [
+        39.76,
+        219.1,
+        409.95,
+        251.99
+      ],
+      "columns": [
+        "Period",
+        "Supramax NB Avg ($m)",
+        "Supramax 5y Avg ($m)",
+        "Supramax 10y Avg ($m)",
+        "Supramax 15y Avg ($m)",
+        "Supramax 20y Avg ($m)"
+      ],
+      "rows": [
+        [
+          "03-Feb-04",
+          "25.3",
+          "25.0",
+          "18.5",
+          "14.0",
+          "9.0"
+        ],
+        [
+          "05-Sep-08",
+          "48.5",
+          "72.0",
+          "61.0",
+          "50.0",
+          "37.0"
+        ],
+        [
+          "Oct-21",
+          "32.5",
+          "26.3",
+          "23.1",
+          "15.8",
+          "9.5"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Period",
+        "Supramax NB Avg ($m)",
+        "Supramax 5y Avg ($m)",
+        "Supramax 10y Avg ($m)",
+        "Supramax 15y Avg ($m)",
+        "Supramax 20y Avg ($m)"
+      ]
     },
     {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "DANIELA OETKER",
-      "TYPE": "Ultramax",
-      "DWT": "61,228",
-      "YEAR": "2015",
-      "COUNTRY": "JAPAN",
-      "YARD": "SHIN KASADO",
-      "BUYERS": "MEGHNA",
-      "PRICE": "rgn 29.8",
-      "PRICE_USD_MILL": 29.8,
-      "COMMENTS": "BWTS FTD, SS: 03/2025 - DD: 03/2023",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
+      "name": "Dry Secondhand Prices",
+      "title": "",
+      "page": 2,
+      "bbox": [
+        412.07,
+        59.23,
+        738.93,
+        408.16
+      ],
+      "columns": [
+        "Vessel Type",
+        "Tenor",
+        "Price ($M)",
+        "Oct/20 Price ($M)",
+        "12m Change (%)",
+        "12m Diff ($M)",
+        "3Y Average Prices ($M)"
+      ],
+      "rows": [
+        [
+          "Capesize 180k",
+          "Resale",
+          "$58.5M",
+          "$49.0M",
+          "19%",
+          "9.5",
+          "2021: 52.8 / 2020: 49.4 / 2019: 52.0"
+        ],
+        [
+          "Capesize 180k",
+          "5 Year",
+          "$47.2M",
+          "$34.5M",
+          "37%",
+          "12.7",
+          "2021: 41.7 / 2020: 35.3 / 2019: 35.3"
+        ],
+        [
+          "Capesize 180k",
+          "10 Year",
+          "$33.0M",
+          "$19.8M",
+          "67%",
+          "13.2",
+          "2021: 27.7 / 2020: 20.3 / 2019: 23.9"
+        ],
+        [
+          "Capesize 180k",
+          "15 Year",
+          "$22.1M",
+          "$12.5M",
+          "77%",
+          "9.6",
+          "2021: 18.5 / 2020: 12.5 / 2019: 14.4"
+        ],
+        [
+          "Kamsarmax 82k",
+          "Resale",
+          "$40.8M",
+          "$29.5M",
+          "38%",
+          "11.3",
+          "2021: 33.4 / 2020: 29.6 / 2019: 31.2"
+        ],
+        [
+          "Kamsarmax 82k",
+          "5 Year",
+          "$33.9M",
+          "$22.6M",
+          "50%",
+          "11.3",
+          "2021: 28.2 / 2020: 22.6 / 2019: 22.6"
+        ],
+        [
+          "Panamax 76k",
+          "10 Year",
+          "$25.1M",
+          "$13.4M",
+          "88%",
+          "11.7",
+          "2021: 20.3 / 2020: 13.2 / 2019: 13.9"
+        ],
+        [
+          "Panamax 76k",
+          "15 Year",
+          "$17.9M",
+          "$8.2M",
+          "118%",
+          "9.7",
+          "2021: 14.1 / 2020: 8.7 / 2019: 9.2"
+        ],
+        [
+          "Ultramax 64k",
+          "Resale",
+          "$37.4M",
+          "$26.3M",
+          "42%",
+          "11.1",
+          "2021: 31.1 / 2020: 26.8 / 2019: 28.1"
+        ],
+        [
+          "Ultramax 61k",
+          "5 Year",
+          "$31.4M",
+          "$18.1M",
+          "74%",
+          "13.4",
+          "2021: 24.8 / 2020: 19.1 / 2019: 19.1"
+        ],
+        [
+          "Supramax 58k",
+          "5 Year",
+          "$26.2M",
+          "$15.3M",
+          "71%",
+          "10.9",
+          "2021: 20.9 / 2020: 15.8 / 2019: 17.7"
+        ],
+        [
+          "Supramax 56k",
+          "10 Year",
+          "$23.2M",
+          "$10.7M",
+          "118%",
+          "12.6",
+          "2021: 16.3 / 2020: 11.1 / 2019: 13.2"
+        ],
+        [
+          "Supramax 52k",
+          "15 Year",
+          "$16.1M",
+          "$6.7M",
+          "140%",
+          "9.4",
+          "2021: 11.4 / 2020: 7.2 / 2019: 8.2"
+        ],
+        [
+          "Handy 38k",
+          "Resale",
+          "$29.8M",
+          "$20.5M",
+          "46%",
+          "9.3",
+          "2021: 25.3 / 2020: 21.3 / 2019: 23.7"
+        ],
+        [
+          "Handy 37k",
+          "5 Year",
+          "$25.0M",
+          "$14.7M",
+          "70%",
+          "10.3",
+          "2021: 19.9 / 2020: 14.9 / 2019: 14.9"
+        ],
+        [
+          "Handy 32k",
+          "10 Year",
+          "$17.0M",
+          "$8.4M",
+          "102%",
+          "8.6",
+          "2021: 12.9 / 2020: 8.5 / 2019: 10.5"
+        ],
+        [
+          "Handy 28k",
+          "15 Year",
+          "$11.0M",
+          "$5.0M",
+          "123%",
+          "6.1",
+          "2021: 7.5 / 2020: 5.2 / 2019: 6.3"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Vessel Type",
+        "Tenor",
+        "Price ($M)",
+        "Oct/20 Price ($M)",
+        "12m Change (%)",
+        "12m Diff ($M)",
+        "3Y Average Prices ($M)"
+      ],
+      "period": [
+        "Oct/21",
+        "Oct/20"
+      ]
     },
     {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "HTC DELTA",
-      "TYPE": "Supramax",
-      "DWT": "56,533",
-      "YEAR": "2014",
-      "COUNTRY": "CHINA",
-      "YARD": "TAIZHOU SANFU",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "21.5",
-      "PRICE_USD_MILL": 21.5,
-      "COMMENTS": "BWTS FTD, TIER II, SS: 06/2024 - DD: 06/2022",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
+      "name": "Tanker Secondhand Prices",
+      "title": "",
+      "page": 3,
+      "bbox": [
+        414.03,
+        67.99,
+        738.44,
+        406.23
+      ],
+      "columns": [
+        "Vessel Type",
+        "Tenor",
+        "Price ($M)",
+        "Oct/20 Price ($M)",
+        "12m Change (%)",
+        "12m Diff ($M)",
+        "3Y Average Prices ($M)"
+      ],
+      "rows": [
+        [
+          "VLCC 320k",
+          "Resale",
+          "$97.3M",
+          "$90.0M",
+          "8%",
+          "7.3",
+          "2021: 93.9 / 2020: 95.5 / 2019: 96.1"
+        ],
+        [
+          "VLCC 320k",
+          "5 Year",
+          "$70.0M",
+          "$65.0M",
+          "8%",
+          "5.0",
+          "2021: 69.0 / 2020: 70.5 / 2019: 70.5"
+        ],
+        [
+          "VLCC 300k",
+          "10 Year",
+          "$46.6M",
+          "$44.0M",
+          "6%",
+          "2.6",
+          "2021: 47.3 / 2020: 47.9 / 2019: 47.7"
+        ],
+        [
+          "VLCC 300k",
+          "15 Year",
+          "$33.2M",
+          "$30.0M",
+          "11%",
+          "3.2",
+          "2021: 33.7 / 2020: 33.5 / 2019: 32.9"
+        ],
+        [
+          "Suezmax 160k",
+          "Resale",
+          "$67.0M",
+          "$60.0M",
+          "12%",
+          "7.0",
+          "2021: 63.5 / 2020: 64.9 / 2019: 67.6"
+        ],
+        [
+          "Suezmax 160k",
+          "5 Year",
+          "$47.9M",
+          "$44.0M",
+          "9%",
+          "3.9",
+          "2021: 46.6 / 2020: 48.7 / 2019: 48.7"
+        ],
+        [
+          "Suezmax 150k",
+          "10 Year",
+          "$32.0M",
+          "$30.0M",
+          "7%",
+          "2.0",
+          "2021: 31.4 / 2020: 33.7 / 2019: 34.2"
+        ],
+        [
+          "Suezmax 150k",
+          "15 Year",
+          "$22.1M",
+          "$22.0M",
+          "0.3%",
+          "0.1",
+          "2021: 22.0 / 2020: 23.2 / 2019: 19.4"
+        ],
+        [
+          "Aframax 110k",
+          "Resale",
+          "$54.7M",
+          "$46.6M",
+          "17%",
+          "8.1",
+          "2021: 51.4 / 2020: 51.0 / 2019: 52.0"
+        ],
+        [
+          "Aframax 110k",
+          "5 Year",
+          "$40.0M",
+          "$33.8M",
+          "18%",
+          "6.2",
+          "2021: 37.9 / 2020: 37.7 / 2019: 37.7"
+        ],
+        [
+          "Aframax 105k",
+          "10 Year",
+          "$25.9M",
+          "$22.1M",
+          "17%",
+          "3.8",
+          "2021: 24.5 / 2020: 26.0 / 2019: 24.8"
+        ],
+        [
+          "Aframax 105k",
+          "15 Year",
+          "$15.9M",
+          "$14.4M",
+          "10%",
+          "1.5",
+          "2021: 15.3 / 2020: 15.9 / 2019: 14.8"
+        ],
+        [
+          "MR2 52k",
+          "Resale",
+          "$38.0M",
+          "$36.0M",
+          "6%",
+          "2.0",
+          "2021: 37.0 / 2020: 37.5 / 2019: 38.6"
+        ],
+        [
+          "MR2 51k",
+          "5 Year",
+          "$27.7M",
+          "$26.0M",
+          "6%",
+          "1.7",
+          "2021: 27.6 / 2020: 27.9 / 2019: 27.9"
+        ],
+        [
+          "MR2 47k",
+          "10 Year",
+          "$17.7M",
+          "$17.0M",
+          "4%",
+          "0.7",
+          "2021: 18.7 / 2020: 18.2 / 2019: 18.3"
+        ],
+        [
+          "MR2 45k",
+          "15 Year",
+          "$11.1M",
+          "$11.0M",
+          "0.6%",
+          "0.1",
+          "2021: 12.1 / 2020: 11.7 / 2019: 10.3"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Vessel Type",
+        "Tenor",
+        "Price ($M)",
+        "Oct/20 Price ($M)",
+        "12m Change (%)",
+        "12m Diff ($M)",
+        "3Y Average Prices ($M)"
+      ],
+      "period": [
+        "Oct/21",
+        "Oct/20"
+      ]
     },
     {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
+      "name": "Bulk Carrier Sales",
+      "title": "BULK CARRIER SALES",
       "page": 4,
-      "NAME": "SHANDONG HAI SHENG",
-      "TYPE": "Supramax",
-      "DWT": "56,531",
-      "YEAR": "2011",
-      "COUNTRY": "CHINA",
-      "YARD": "YANGZHOU GUOYU",
-      "BUYERS": "CHINESE",
-      "PRICE": "17.8",
-      "PRICE_USD_MILL": 17.8,
-      "COMMENTS": "AUCTION, SS/DD: 10/2021",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
+      "bbox": [
+        31.09,
+        195.61,
+        704.76,
+        380.57
+      ],
+      "columns": [
+        "Section",
+        "Name",
+        "DWT",
+        "Year",
+        "Country",
+        "Yard",
+        "Buyers",
+        "Price ($M)",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "Bulk Carriers",
+          "CAPE GARLAND",
+          "178,394",
+          "2009",
+          "JAPAN",
+          "MITSUI",
+          "CHINESE",
+          "32.5",
+          "BWTS FTD, SS: 01/2024 - DD: 01/2024"
+        ],
+        [
+          "Bulk Carriers",
+          "BLUEMOON",
+          "170,089",
+          "2002",
+          "JAPAN",
+          "IHI",
+          "CHINESE",
+          "15.75",
+          "SS/DD: 12/2021"
+        ],
+        [
+          "Bulk Carriers",
+          "LENA B",
+          "81,922",
+          "2017",
+          "CHINA",
+          "TSUNEISHI ZHOUSAN",
+          "HOA PHAT",
+          "rgn 35",
+          "BWTS FTD, SS/DD: 01/2022"
+        ],
+        [
+          "Bulk Carriers",
+          "IBIS WIND",
+          "82,937",
+          "2013",
+          "JAPAN",
+          "SANOYAS SHIPBUILDING",
+          "STAROCEAN",
+          "28.1",
+          "BWTS FTD, SS: 07/2025 - DD: 09/2023"
+        ],
+        [
+          "Bulk Carriers",
+          "ORIENT VIOLET",
+          "77,111",
+          "2015",
+          "JAPAN",
+          "IMABARI",
+          "TMS",
+          "xs 30",
+          "BWTS FTD, 04/2025 - DD: 02/2023"
+        ],
+        [
+          "Bulk Carriers",
+          "GOLDEN ENDURER",
+          "79,457",
+          "2011",
+          "CHINA",
+          "JINHAI",
+          "STAM SHIPPING",
+          "37.2 Enbloc",
+          "BWTS FTD, SS: 01/2026 - DD: 02/2024"
+        ],
+        [
+          "Bulk Carriers",
+          "GOLDEN OPPORTUNITY",
+          "75,825",
+          "2008",
+          "CHINA",
+          "RONGSHENG",
+          "STAM SHIPPING",
+          "37.2 Enbloc",
+          "BWTS FTD, SS/DD: 08/2023"
+        ],
+        [
+          "Bulk Carriers",
+          "DANIELA OETKER",
+          "61,228",
+          "2015",
+          "JAPAN",
+          "SHIN KASADO",
+          "MEGHNA",
+          "rgn 29.8",
+          "BWTS FTD, SS: 03/2025 - DD: 03/2023"
+        ],
+        [
+          "Bulk Carriers",
+          "HTC DELTA",
+          "56,533",
+          "2014",
+          "CHINA",
+          "TAIZHOU SANFU",
+          "UNDISCLOSED",
+          "21.5",
+          "BWTS FTD, TIER II, SS: 06/2024 - DD: 06/2022"
+        ],
+        [
+          "Bulk Carriers",
+          "SHANDONG HAI SHENG",
+          "56,531",
+          "2011",
+          "CHINA",
+          "YANGZHOU GUOYU",
+          "CHINESE",
+          "17.8",
+          "AUCTION, SS/DD: 10/2021"
+        ],
+        [
+          "Bulk Carriers",
+          "ATLANTIC YUCATAN",
+          "55,863",
+          "2006",
+          "JAPAN",
+          "KAWASAKI",
+          "UNDISCLOSED",
+          "low 17",
+          "SS/DD: 03/2023"
+        ],
+        [
+          "Bulk Carriers",
+          "XING NING HAI",
+          "34,443",
+          "2015",
+          "JAPAN",
+          "NAMURA",
+          "UNDISCLOSED",
+          "23.1",
+          "BWTS FTD, SS: 07/2025 - DD: 08/2023"
+        ],
+        [
+          "Bulk Carriers",
+          "OCEAN HOPE",
+          "32,877",
+          "2012",
+          "JAPAN",
+          "KANDA",
+          "UNDISCLOSED",
+          "low 18",
+          "SS: 08/2025 - DD: 08/2023"
+        ],
+        [
+          "Bulk Carriers",
+          "QUEEN ASIA",
+          "28,425",
+          "2011",
+          "JAPAN",
+          "IMABARI",
+          "UNDISCLOSED",
+          "rgn 15",
+          "BWTS FTD, SS:03/2026 - DD: 03/2024"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Name",
+        "DWT",
+        "Year",
+        "Country",
+        "Yard",
+        "Buyers",
+        "Price (Usd Mills)",
+        "Notes/ Comments"
+      ],
+      "unit": "DWT",
+      "sales_title": "BULK CARRIER SALES"
     },
     {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "ATLANTIC YUCATAN",
-      "TYPE": "Supramax",
-      "DWT": "55,863",
-      "YEAR": "2006",
-      "COUNTRY": "JAPAN",
-      "YARD": "KAWASAKI",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "low 17",
-      "PRICE_USD_MILL": 17.0,
-      "COMMENTS": "SS/DD: 03/2023",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
+      "name": "Tanker Sales",
+      "title": "TANKER SALES",
+      "page": 5,
+      "bbox": [
+        30.61,
+        76.34,
+        739.51,
+        193.35
+      ],
+      "columns": [
+        "Section",
+        "Name",
+        "DWT",
+        "Year",
+        "Country",
+        "Yard",
+        "Buyers",
+        "Price ($M)",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "Tankers",
+          "SCF URAL",
+          "159,314",
+          "2002",
+          "S. KOREA",
+          "HHI",
+          "SAUDI ARABIAN",
+          "rgn 16",
+          "SS/DD: 07/2022"
+        ],
+        [
+          "Tankers",
+          "NAVIG8 PROVIDENCE",
+          "110,928",
+          "2018",
+          "CHINA",
+          "NEW TIMES",
+          "JP MORGAN",
+          "rgn 48",
+          "5-YEAR TC ATTCHED, SCRUBBER FTD, SS/DD: 08/2023"
+        ],
+        [
+          "Tankers",
+          "NAVIG8 PRIDE LHZ",
+          "110,928",
+          "2018",
+          "CHINA",
+          "NEW TIMES",
+          "JP MORGAN",
+          "rgn 48",
+          "5-YEAR TC ATTCHED, SCRUBBER FTD, SS/DD: 08/2023"
+        ],
+        [
+          "Tankers",
+          "AMERICAS SPIRIT",
+          "111,920",
+          "2003",
+          "S. KOREA",
+          "HHI",
+          "WINSON",
+          "11.7",
+          "OLD SALE, VESSEL HAS BEEN DELIVERED, SS: 05/2023 - DD: 11/2021"
+        ],
+        [
+          "Tankers",
+          "ECO LOS ANGELES",
+          "50,185",
+          "2020",
+          "S. KOREA",
+          "HMD",
+          "NORDEN",
+          "36.5",
+          "3-YEAR T/C ATTACHED FROM BUILT AT RATE OF USD 17.5K/DAY, SS: 02/2025 - DD: 02/2023"
+        ],
+        [
+          "Tankers",
+          "ECO CITY OF ANGELS",
+          "49,815",
+          "2020",
+          "S. KOREA",
+          "HMD",
+          "NORDEN",
+          "36.5",
+          "3-YEAR T/C ATTACHED FROM BUILT AT RATE OF USD 17.5K/DAY, SS: 02/2025 - DD: 02/2023"
+        ],
+        [
+          "Tankers",
+          "GRAZIA",
+          "50,213",
+          "2010",
+          "CHINA",
+          "GUANGZHOU",
+          "UNDISCLOSED",
+          "$14.25",
+          "BWTS FTD, SS: 15/11/2025 - DD: 15/02/2024"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Name",
+        "DWT",
+        "Year",
+        "Country",
+        "Yard",
+        "Buyers",
+        "Price (Usd Mills)",
+        "Notes/ Comments"
+      ],
+      "unit": "DWT",
+      "sales_title": "TANKER SALES"
     },
     {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "XING NING HAI",
-      "TYPE": "Handysize",
-      "DWT": "34,443",
-      "YEAR": "2015",
-      "COUNTRY": "JAPAN",
-      "YARD": "NAMURA",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "23.1",
-      "PRICE_USD_MILL": 23.1,
-      "COMMENTS": "BWTS FTD, SS: 07/2025 - DD: 08/2023",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "OCEAN HOPE",
-      "TYPE": "Handysize",
-      "DWT": "32,877",
-      "YEAR": "2012",
-      "COUNTRY": "JAPAN",
-      "YARD": "KANDA",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "low 18",
-      "PRICE_USD_MILL": 18.0,
-      "COMMENTS": "SS: 08/2025 - DD: 08/2023",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "QUEEN ASIA",
-      "TYPE": "Handysize",
-      "DWT": "28,425",
-      "YEAR": "2011",
-      "COUNTRY": "JAPAN",
-      "YARD": "IMABARI",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "rgn 15",
-      "PRICE_USD_MILL": 15.0,
-      "COMMENTS": "BWTS FTD, SS:03/2026 - DD: 03/2024",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "section": "Bulk Carriers",
-      "page": 4,
-      "NAME": "18th",
-      "TYPE": "Bulk Carriers",
-      "DWT": "",
-      "YEAR": "",
-      "COUNTRY": "",
-      "YARD": "",
-      "BUYERS": "",
-      "PRICE": "",
-      "PRICE_USD_MILL": "",
-      "COMMENTS": "",
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
+      "name": "Other Reported Sales - Gas",
+      "title": "GAS SALES",
+      "page": 5,
+      "bbox": [
+        29.89,
+        251.91,
+        705.0,
+        319.43
+      ],
+      "columns": [
+        "Section",
+        "Name",
+        "Size",
+        "Size Unit",
+        "Year",
+        "Country",
+        "Yard",
+        "Buyers",
+        "Price ($M)",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "Gas",
+          "GASLOG SALEM",
+          "151.9",
+          "CBM",
+          "2015",
+          "S. KOREA",
+          "SAMSUNG",
+          "CHINA DEVELOPMENT BANK",
+          "128",
+          "\"LNG\", 5-YEAR BBB, SS: 04/2025 - DD: 03/2023"
+        ],
+        [
+          "Gas",
+          "GASLOG SHANGHAI",
+          "151.9",
+          "CBM",
+          "2013",
+          "S. KOREA",
+          "SAMSUNG",
+          "CHINA DEVELOPMENT BANK",
+          "120",
+          "\"LNG\", 5-YEAR BBB, SS/DD: 01/2023"
+        ],
+        [
+          "Gas",
+          "IRIS GLORY",
+          "83.7",
+          "CBM",
+          "2008",
+          "S. KOREA",
+          "DAEWOO",
+          "JAPANESE",
+          "41.65",
+          "\"LPG/C\", 9-YEAR BBB, SS/DD: 3/2023"
+        ],
+        [
+          "Gas",
+          "HAPPY BRIDE",
+          "6,261",
+          "CBM",
+          "1999",
+          "S. KOREA",
+          "HHI",
+          "TURKISH",
+          "4.7",
+          "OLD SALE, SS/DD: 05/2022"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "xclusiv_rows",
+      "row_source": "xclusiv",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [],
+      "source_columns": [
+        "Name",
+        "CBM",
+        "Year",
+        "Country",
+        "Yard",
+        "Buyers",
+        "Price (Usd Mills)",
+        "Notes/ Comments"
+      ],
+      "unit": "CBM",
+      "sales_title": "GAS SALES"
     }
   ],
-  "demo_sales": [],
-  "newbuilding_orders": [],
-  "indicative_demolition_prices": [
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "segment": "Bulkers",
-      "country": "India",
-      "price_usd_per_ldt": 580.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "segment": "Tankers",
-      "country": "India",
-      "price_usd_per_ldt": 590.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "segment": "Bulkers",
-      "country": "Bangladesh",
-      "price_usd_per_ldt": 595.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "segment": "Tankers",
-      "country": "Bangladesh",
-      "price_usd_per_ldt": 605.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "segment": "Bulkers",
-      "country": "Pakistan",
-      "price_usd_per_ldt": 590.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "segment": "Tankers",
-      "country": "Pakistan",
-      "price_usd_per_ldt": 600.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "segment": "Bulkers",
-      "country": "Turkey",
-      "price_usd_per_ldt": 275.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "segment": "Tankers",
-      "country": "Turkey",
-      "price_usd_per_ldt": 285.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    }
-  ],
-  "indicative_secondhand_prices": [
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Capesize",
-      "tenor": "Resale",
-      "price_usd_mill": 58.5,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Capesize",
-      "tenor": "5 Year",
-      "price_usd_mill": 47.2,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Capesize",
-      "tenor": "10 Year",
-      "price_usd_mill": 33.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Capesize",
-      "tenor": "15 Year",
-      "price_usd_mill": 22.1,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Kamsarmax",
-      "tenor": "Resale",
-      "price_usd_mill": 40.8,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Kamsarmax",
-      "tenor": "5 Year",
-      "price_usd_mill": 33.9,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Panamax",
-      "tenor": "10 Year",
-      "price_usd_mill": 25.1,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Panamax",
-      "tenor": "15 Year",
-      "price_usd_mill": 17.9,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Ultramax",
-      "tenor": "Resale",
-      "price_usd_mill": 37.4,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Ultramax",
-      "tenor": "5 Year",
-      "price_usd_mill": 31.4,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Supramax",
-      "tenor": "5 Year",
-      "price_usd_mill": 26.2,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Supramax",
-      "tenor": "10 Year",
-      "price_usd_mill": 23.2,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Supramax",
-      "tenor": "15 Year",
-      "price_usd_mill": 16.1,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Handysize",
-      "tenor": "Resale",
-      "price_usd_mill": 29.8,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Handysize",
-      "tenor": "5 Year",
-      "price_usd_mill": 25.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Handysize",
-      "tenor": "10 Year",
-      "price_usd_mill": 17.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Dry",
-      "vessel_type": "Handysize",
-      "tenor": "15 Year",
-      "price_usd_mill": 11.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "VLCC",
-      "tenor": "Resale",
-      "price_usd_mill": 97.3,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "VLCC",
-      "tenor": "5 Year",
-      "price_usd_mill": 70.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "VLCC",
-      "tenor": "10 Year",
-      "price_usd_mill": 46.6,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "VLCC",
-      "tenor": "15 Year",
-      "price_usd_mill": 33.2,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "Suezmax",
-      "tenor": "Resale",
-      "price_usd_mill": 67.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "Suezmax",
-      "tenor": "5 Year",
-      "price_usd_mill": 47.9,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "Suezmax",
-      "tenor": "10 Year",
-      "price_usd_mill": 32.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "Suezmax",
-      "tenor": "15 Year",
-      "price_usd_mill": 22.1,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "Aframax",
-      "tenor": "Resale",
-      "price_usd_mill": 54.7,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "Aframax",
-      "tenor": "5 Year",
-      "price_usd_mill": 40.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "Aframax",
-      "tenor": "10 Year",
-      "price_usd_mill": 25.9,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "Aframax",
-      "tenor": "15 Year",
-      "price_usd_mill": 15.9,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "MR2",
-      "tenor": "Resale",
-      "price_usd_mill": 38.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "MR2",
-      "tenor": "5 Year",
-      "price_usd_mill": 27.7,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "MR2",
-      "tenor": "10 Year",
-      "price_usd_mill": 17.7,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    },
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "MR2",
-      "tenor": "15 Year",
-      "price_usd_mill": 11.1,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    }
-  ],
-  "indicative_newbuilding_prices": [
-    {
-      "issue_date": "2021-10-18",
-      "report_week": 41,
-      "sector": "Tanker",
-      "vessel_type": "MR2",
-      "price_usd_mill": 10.0,
-      "source_file": "xclusiv_2021_xclusiv_weekly_2021_10_18.pdf"
-    }
-  ]
+  "sales": [],
+  "demolitions": []
 }

@@ -278,12 +278,12 @@ def legacy_aliases(row: dict[str, Any]) -> dict[str, Any]:
 
 
 def sidecar_payload(tables: list[dict[str, Any]], issue_date: str | None, source_file: str,
-                    source_sha256: str) -> dict[str, Any]:
+                    source_sha256: str, vessel_rows: bool = True) -> dict[str, Any]:
     """tables.json for one issue: object schema parse_engine/v1, readable by the legacy consumers
     (dict root, `sales`, `demolitions`, `sales_count`, `demo_count`) and carrying the geometric tables."""
     week = date.fromisoformat(issue_date).isocalendar()[1] if issue_date else None
     meta = {"issue_date": issue_date, "report_week": week, "source_file": source_file, "source_sha256": source_sha256}
-    sales, demo = issue_rows(tables, meta)
+    sales, demo = issue_rows(tables, meta) if vessel_rows else ([], [])
     return {"schema": "parse_engine/v1", "issue_date": issue_date, "report_week": week, "source_file": source_file,
             "source_sha256": source_sha256, "sales_count": len(sales), "demo_count": len(demo),
             "tables": tables, "sales": [legacy_aliases(r) for r in sales], "demolitions": demo}

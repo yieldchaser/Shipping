@@ -9,7 +9,7 @@ from typing import Any
 
 import pymupdf
 
-from scripts.parse_engine import geom_table, liteparse, prose
+from scripts.parse_engine import geom_table, liteparse, prose, xclusiv
 from scripts.parse_engine.cache import cache_get, cache_put, config_hash
 from scripts.parse_engine.config import (CREDITS_PER_PAGE, REPO_ROOT, pages_to_spec, repo_relative,
                                          select_pages, sha256_file)
@@ -163,6 +163,10 @@ def run_geom(plan: FilePlan, profile: dict[str, Any], prose_engine: str | None =
     drops = profile.get("drop_regions")
     all_tables, parts = [], []
     memory: dict[Any, Any] = {}
+    if prose_engine == "xclusiv":
+        res = xclusiv.run(plan, doc, profile)
+        plan.notes.extend(f"xclusiv:{p}" for p in res.pop("problems"))
+        return res
     if prose_engine == "pymupdf":
         repeated = prose.repeated_band_texts(doc)
         body = prose.body_font_size(doc, plan.pages)
@@ -337,7 +341,7 @@ def run_file(plan: FilePlan, profile: dict[str, Any], source: str, staging: Path
     paths["md"].write_text(md, encoding="utf-8")
     if res.get("tables"):
         paths["tables"].write_text(json.dumps(sidecar_payload(res["tables"], plan.issue_date, repo_relative(plan.pdf),
-                                                              plan.sha256), indent=2, ensure_ascii=False), encoding="utf-8")
+                                                              plan.sha256, profile.get("sidecar_vessel_rows", True)), indent=2, ensure_ascii=False), encoding="utf-8")
 
     regions = res["tables"] and [{"page": t["page"], "name": t["name"], "bbox": t["bbox"]} for t in res["tables"]]
     regions = (regions or []) + [{"page": x["page"], "name": t["name"], "bbox": x["bbox"]}

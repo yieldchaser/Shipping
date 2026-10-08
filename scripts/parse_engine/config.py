@@ -75,7 +75,7 @@ def _rule_for_year(rule: Any, year: int | None) -> dict[str, int]:
             continue
         if "from_year" in r and (year is None or year < r["from_year"]):
             continue
-        return {k: int(v) for k, v in r.items() if k in ("drop_first", "drop_last")}
+        return {k: int(v) for k, v in r.items() if k in ("drop_first", "drop_last", "keep_first")}
     return {}
 
 
@@ -84,6 +84,8 @@ def select_pages(total: int, rule: Any, year: int | None = None) -> list[int]:
     r = _rule_for_year(rule, year)
     first = 1 + r.get("drop_first", 0)
     last = total - r.get("drop_last", 0)
+    if r.get("keep_first"):                       # "first N pages are useful", whatever the page count
+        last = min(last, first - 1 + int(r["keep_first"]))
     pages = list(range(first, last + 1))
     return pages or list(range(1, total + 1))
 

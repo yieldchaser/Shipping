@@ -1,34 +1,22 @@
 ---
-title: "Xclusiv Shipbrokers Weekly Market Report - Week 35, 2021"
-issue_date: "2021-09-06"
-report_week: 35
+title: Xclusiv Shipbrokers Weekly Market Report 2021-09-06
+publisher: Xclusiv Shipbrokers Inc.
+source: xclusiv
+issue_date: '2021-09-06'
+document_header_date: '2021-09-06'
+issue_date_conflict: false
 year: 2021
-broker: "Xclusiv Shipbrokers"
-source: "xclusiv"
-source_file: "corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_09_06.pdf"
-pages: 6
-useful_pages: 4
-editorial_title: null
-sales_count: 16
-demo_sales_count: 0
-secondhand_prices_count: 32
-newbuilding_prices_count: 1
-demolition_prices_count: 6
-baltic_indices_count: 1
----
-
-# Xclusiv Shipbrokers Weekly Market Report - Week 35, 2021
-
-- **Publisher**: Xclusiv Shipbrokers Inc.
-- **Issue Date**: 2021-09-06 (Week 35)
-- **Source**: `corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_09_06.pdf`
-- **Pages**: 6 (Cover-to-cover extraction of useful pages 1 to 4; final 2 pages discarded per notes)
-
+source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_09_06.pdf
+source_sha256: 9fa1d735a4cc10b1c06e7f56906d6bef512eaf6c72d6f58296ff777d00059a52
+pages_total: 6
+pages_parsed: 1-5
+parser: pymupdf_table + xclusiv_template
+parsed_at: '2026-10-08T08:13:53Z'
 ---
 
 ## Market Overview
 
-### Desk Commentary
+### Editorial: Market Commentary:
 
 Supply disruptions and bottlenecks in manufacturers, who were not well-prepared to increase their capacity quickly, are causing widespread problems in most economies all over the world. These disruptions and shortages will most likely have quite a strong impact on economies’ inflation rates. Already Eurozone’s inflation rate surged to a 10-year high within August. According to Merrill’s latest report, global growth has slowed to levels not seen since the 1970s due to the supply chain bottlenecks. After the 2008 financial crisis China’s rapid industrial growth paved the way for the recovering of the global economy, however, we note the contraction of China’s manufacturing activity for the first time since April 2020, as a renewed drop in output was recorded and total new orders declined. The Caixin China General Manufacturing Purchasing Manager’s Index (PMI) fell to 49.2 in August from 50.3 in July which although marginal represents a shift from expansion to recession.
 
@@ -44,13 +32,19 @@ Returning from the summer holidays there is an increase in the sales and purchas
 
 | Index | Current | Previous | Change (%) | 3Y Trend / Historical Averages |
 |---|---|---|---|---|
-| BHSI | 2,021 | 2,020 | 2019 | 2026: 60 |
-
----
+| BDI | 3,944 | 4,235 | -6.9% | 2021: 2,589 / 2020: 1,064 / 2019: 1,353 |
+| BCI | 5,625 | 6,162 | -8.7% | 2021: 3,312 / 2020: 1,752 / 2019: 2,261 |
+| BPI | 3,605 | 3,874 | -6.9% | 2021: 2,802 / 2020: 1,101 / 2019: 1,387 |
+| BSI | 3,348 | 3,470 | -3.5% | 2021: 2,217 / 2020: 743 / 2019: 880 |
+| BHSI | 1,838 | 1,897 | -3.1% | 2021: 1,265 / 2020: 444 / 2019: 491 |
+| BDTI | 616 | 604 | 2.0% | 2021: 605 / 2020: 722 / 2019: 855 |
+| BCTI | 517 | 512 | 1.0% | 2021: 504 / 2020: 586 / 2019: 607 |
 
 ## Freight Market Analysis
 
 ### Dry Bulk Freight
+
+Capesize: Average of the 5T/C Routes started the week at USD 51,099/day, and closed the week greatly reduced by USD 4.5k at USD 46,647/day. Trip from Cont. to F.East this week is down at USD 79,600/day, Transatlantic Return voyage is down at USD 52,099/day, while Pacific Return voyage is reduced by USD 6.3k at USD 41,235/day. Capesize 1 year T/C rate is USD 31,000/day, while eco 180k Capesize is USD 32,750/day.
 
 Panamax: The BPI-82 5T/C route average started the week at USD 34,870/day & closed the week down at USD 32,445/day. Trip from Skaw-Gib to F.East is down by USD 3.5k at USD 46,923/day, Pacific Return voyage is USD 34,735/day, while Atlantic R/V is reduced by USD 6.4k at USD 26,630/ day. Kamsarmax 1 year T/C rate is USD 31,000/day, while Panamax 1 year T/C is USD 28,750/day.
 
@@ -58,144 +52,132 @@ Supramax: The BSI-58 10T/C route average closed the week about USD 1,000/day low
 
 Handysize: The Average of the 7T/C Routes for BHSI-38 closed the week USD 1k lower at USD 33,087/day. Brazil to Continent pays USD 3k less at USD 33,722/day, S.E.Asia trip to Spore-Japan at USD 36,375/day, U.S.Gulf to Continent is USD 5k less at USD 24,071/day. 1 year T/C rate for 38k Handy is at USD 27,750/day with 1 year T/C for 32k Handysize in Atlantic region is at USD 25,750/day, whereas 32k Handy 1y T/C in Pacific region is at USD 24,750/day.
 
+CAPE I E C AM A MA C PA AMA C
+
+P A C A C A C
+
 ### Tanker Freight
+
+Crude: VLCC average T/CE still heavily negative, ended the week at USD -9,312/day. M.East Gulf to China trip up by USD 1.4k at USD -1,960/day, US Gulf to China down at USD 885/day, M.East Gulf to Singapore improved at USD 737/day, W.Africa to China at USD 74/day, M.East Gulf to US Gulf similar to past week at USD -16,664/day. 1 year T/C for 310k dwt D/H Eco VLCC USD 23,500/day.
 
 Suezmax average T/CE closed the week softer at USD -1,754/day. Trip from W.Africa to Continent is at down USD 1,414/day, Bl.Sea to Med is down by USD 1.6k at USD -4,921/day, Middle East Gulf to Med at USD -16,661/day. 1 year T/C rate for D/H Eco 150k dwt Suezmax is at USD 19,500/day.
 
 Aframax average T/CE closed the week up at USD 1,577/day. Trip from N.Sea to Continent is at USD -5,290/day, trip from Kuwait to Spore at USD 3,047/day, trip from Carribs to US Gulf improved by USD 8k at USD 6,778/day, S.E.Asia to EC Australia down at USD 5,790/day. 1 year T/C rate for Aframax is at USD 16,500/day.
 
-Products: The LR2 route (TC1) M.East Gulf to Japan is this week slightly firmer at USD 12,243/day. Trip from Middle East to F.East is at USD -6,915/day, while the LR1 (TC5) route Mid.East Gulf to Japan is softer at USD 10,550/day and Amsterdam to Lome is softer too at USD 2,541/day. The MR Atlantic Basket earnings is down by USD 3.3k at USD 1,386/day, with MR route from Cont. to USAC down by USD 2k at USD 850/day, US Gulf to Cont. down by USD 2.5k at USD - 5,598/day, US Gulf to Brazil down at USD 887/day, ARA to W.Africa down at USD 2,743/day. Eco MR2 1 year T/C rate is at USD 14,000/day.
+Products: The LR2 route (TC1) M.East Gulf to Japan is this week slightly firmer at USD 12,243/day. Trip from Middle East to F.East is at USD -6,915/day, while the LR1 (TC5) route Mid.East Gulf to Japan is softer at USD 10,550/day and Amsterdam to Lome is softer too at USD 2,541/day. The MR Atlantic Basket earnings is down by USD 3.3k at USD 1,386/day, with MR route from Cont. to USAC down by USD 2k at USD 850/day, US Gulf to Cont. down by USD 2.5k at USD -5,598/day, US Gulf to Brazil down at USD 887/day, ARA to W.Africa down at USD 2,743/day. Eco MR2 1 year T/C rate is at USD 14,000/day.
 
----
+CC C E MA A AMA
+
+C C A A E C C PAC A E C C
 
 ## Newbuilding Market
 
 ### Indicative Newbuilding Prices ($ mills)
 
-| Sector | Vessel Type | Price ($M) |
-|---|---|---|
-| Tanker | MR2 | $50.0M |
-
----
+| Sector | Vessel Type | Price ($M) | Sep/20 Price ($M) | Change (%) | 3Y Average Prices ($M) |
+|---|---|---|---|---|---|
+| Dry | Capesize | $60.0M | $46.5M | 29.0% | 2021: 54.1 / 2020: 47.6 / 2019: 50.6 |
+| Dry | Kamsarmax | $34.0M | $29.0M | 17.2% | 2021: 29.9 / 2020: 29.7 / 2019: 33.4 |
+| Dry | Ultramax | $31.6M | $24.2M | 30.6% | 2021: 27.7 / 2020: 24.6 / 2019: 25.9 |
+| Dry | Handysize | $29.0M | $22.8M | 27.2% | 2021: 25.5 / 2020: 23.1 / 2019: 23.9 |
+| Tanker | VLCC | $103.8M | $86.4M | 20.2% | 2021: 94.1 / 2020: 88.6 / 2019: 92.6 |
+| Tanker | Suezmax | $70.6M | $56.3M | 25.5% | 2021: 62.8 / 2020: 58.6 / 2019: 61.5 |
+| Tanker | Aframax | $56.8M | $47.3M | 20.2% | 2021: 50.8 / 2020: 47.8 / 2019: 48.5 |
+| Tanker | Panamax | $49.0M | $42.6M | 15.0% | 2021: 44.9 / 2020: 43.6 / 2019: 44.5 |
+| Tanker | MR2 | $39.5M | $34.0M | 16.2% | 2021: 35.9 / 2020: 34.6 / 2019: 36.4 |
 
 ## Sale & Purchase Market
 
 ### Dry Secondhand Prices ($ mills)
 
-| Vessel Type | Tenor | Price ($M) |
-|---|---|---|
-| Capesize | Resale | $54.8M |
-| Capesize | 5 Year | $44.7M |
-| Capesize | 10 Year | $33.6M |
-| Capesize | 15 Year | $21.0M |
-| Kamsarmax | Resale | $36.9M |
-| Kamsarmax | 5 Year | $31.2M |
-| Panamax | 10 Year | $23.7M |
-| Panamax | 15 Year | $16.9M |
-| Ultramax | Resale | $34.6M |
-| Ultramax | 5 Year | $30.2M |
-| Supramax | 10 Year | $20.7M |
-| Supramax | 15 Year | $15.0M |
-| Handysize | Resale | $28.5M |
-| Handysize | 5 Year | $23.9M |
-| Handysize | 10 Year | $16.6M |
-| Handysize | 15 Year | $9.8M |
-
-### Dry S&P Activity Commentary
-
-DS CHARME 176.000 2011 CHINA JIANGSU RONGSHENG UNDISCLOSED region $28 TC TILL JULY 2022 AT 89% OF BCI 5TC, SS: 06/2026 - DD: 06/2024
-
-OCEAN DIAMOND 93.025 2012 CHINA COSCO DALIAN UNDISCLOSED $17.25 SHE IS ON TC AT USD 9.8K TILL MIN 9 NOV 2021 TO MAX 24 JAN 2022,
-
-SDTR IRENE 84.800 2022 CHINA DALIAN CHINESE $36 P-PANAMAX, AUCTION SALE
-
-ALAM MOLEK 58.074 2014 JAPAN SHIN KURUSHIMA $26 ELECTRONIC M/E, SS: 10/2024 - DD: 10/2022
-
-ALAM MADU 58.045 2014 JAPAN SHIN KURUSHIMA $26 ELECTRONIC M/E, SS: 09/2024 - DD: 09/2022
-
-CENTENARIO FORZA 56.129 2012 JAPAN MITSUI UNDISCLOSED $20.5 SS/DD: 04/2022
-
-ANTOINE 55.498 2009 JAPAN MITSUI BEKS low $19 BWTS FITTED, TC ATTACHED AT 97% BSI TILL OCT 2021/ FEB 2022,
-
-SKYLIGHT 56.847 2009 CHINA TAIZHOU SANFU UNDISCLOSED $16.35 BWTS FITTED, SS: 07/2024 - DD: 07/2022
-
-SIBULK TRADITION 53.206 2008 JAPAN IWAGI CHINESE xs $17 SS: 07/2025 - DD: 10/2023
-
-PRABHU GOPAL 56.060 2003 JAPAN MITSUI UNDISCLOSED mid $13 SS/DD: 03/2023
-
-PACIFIC PAMELA 49.061 1997 JAPAN OSHIMA CHINESE region $8 SS/DD: 01/2022
+| Vessel Type | Tenor | Price ($M) | Sep/20 Price ($M) | 12m Change (%) | 12m Diff ($M) | 3Y Average Prices ($M) |
+|---|---|---|---|---|---|---|
+| Capesize 180k | Resale | $54.8M | $49.0M | 11.8% | 5.8 | 2021: 52.0 / 2020: 49.4 / 2019: 52.0 |
+| Capesize 180k | 5 Year | $44.7M | $35.0M | 27.7% | 9.7 | 2021: 40.9 / 2020: 35.3 / 2019: 35.3 |
+| Capesize 180k | 10 Year | $33.6M | $20.0M | 68.4% | 13.7 | 2021: 27.1 / 2020: 20.3 / 2019: 23.9 |
+| Capesize 180k | 15 Year | $21.0M | $12.7M | 64.9% | 8.3 | 2021: 18.0 / 2020: 12.5 / 2019: 14.4 |
+| Kamsarmax 82k | Resale | $36.9M | $29.5M | 25.1% | 7.4 | 2021: 32.4 / 2020: 29.6 / 2019: 31.2 |
+| Kamsarmax 82k | 5 Year | $31.2M | $23.0M | 35.7% | 8.2 | 2021: 27.4 / 2020: 22.8 / 2019: 22.8 |
+| Panamax 76k | 10 Year | $23.7M | $13.3M | 78.9% | 10.5 | 2021: 19.6 / 2020: 13.2 / 2019: 13.9 |
+| Panamax 76k | 15 Year | $16.9M | $8.2M | 106.1% | 8.7 | 2021: 13.5 / 2020: 8.7 / 2019: 9.2 |
+| Ultramax 64k | Resale | $34.6M | $26.5M | 30.6% | 8.1 | 2021: 30.3 / 2020: 26.8 / 2019: 28.1 |
+| Ultramax 61k | 5 Year | $30.2M | $18.0M | 67.8% | 12.2 | 2021: 23.8 / 2020: 19.1 / 2019: 19.1 |
+| Suprmax 58k | 5 Year | $25.0M | $15.5M | 61.3% | 9.5 | 2021: 20.1 / 2020: 15.8 / 2019: 17.7 |
+| Supramax 56k | 10 Year | $20.7M | $10.5M | 97.1% | 10.2 | 2021: 15.4 / 2020: 11.1 / 2019: 13.2 |
+| Supramax 52k | 15 Year | $15.0M | $6.8M | 121.4% | 8.2 | 2021: 10.7 / 2020: 7.2 / 2019: 8.2 |
+| Handy 38k | Resale | $28.5M | $20.5M | 39.0% | 8.0 | 2021: 24.7 / 2020: 21.3 / 2019: 23.7 |
+| Handy 37k | 5 Year | $23.9M | $14.7M | 63.1% | 9.3 | 2021: 19.2 / 2020: 14.9 / 2019: 14.9 |
+| Handy 32k | 10 Year | $16.6M | $8.4M | 97.6% | 8.2 | 2021: 12.3 / 2020: 8.5 / 2019: 10.5 |
+| Handy 28k | 15 Year | $9.8M | $5.0M | 96.5% | 4.8 | 2021: 6.9 / 2020: 5.2 / 2019: 6.3 |
 
 ### Bulk Carrier Sales
 
-| Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
-|---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | DS CHARME | Handysize | 176.000 | 2011 | CHINA | JIANGSU RONGSHENG | UNDISCLOSED | $28.0M | TILL JULY 2022 AT 89% OF BCI 5TC, SS: 06/2026 - DD: 06/2024 ON TC AT USD 9.8K TILL MIN 9 NOV 2021 TO MAX 24 JAN 2022, |
-| Bulk Carriers | OCEAN DIAMOND | Handysize | 93.025 | 2012 | CHINA | COSCO DALIAN | UNDISCLOSED | $17.25M | SS/DD: 01/2022 |
-| Bulk Carriers | SDTR IRENE | Handysize | 84.800 | 2022 | CHINA | DALIAN | CHINESE | $36.0M | P-PANAMAX, AUCTION SALE |
-| Bulk Carriers | ALAM MOLEK | Handysize | 58.074 | 2014 | JAPAN | SHIN KURUSHIMA | MEGHNA | $26.0M | ELECTRONIC M/E, SS: 10/2024 - DD: 10/2022 |
-| Bulk Carriers | ALAM MADU | Handysize | 58.045 | 2014 | JAPAN | SHIN KURUSHIMA | MEGHNA | $26.0M | ELECTRONIC M/E, SS: 09/2024 - DD: 09/2022 |
-| Bulk Carriers | CENTENARIO FORZA | Handysize | 56.129 | 2012 | JAPAN | MITSUI | UNDISCLOSED | $20.5M | SS/DD: 04/2022 FITTED, TC ATTACHED AT 97% BSI TILL OCT 2021/ FEB 2022, |
-| Bulk Carriers | ANTOINE | Handysize | 55.498 | 2009 | JAPAN | MITSUI | BEKS | $19.0M | SS/DD: 03/2024 |
-| Bulk Carriers | SKYLIGHT | Handysize | 56.847 | 2009 | CHINA | TAIZHOU SANFU | UNDISCLOSED | $16.35M | BWTS FITTED, SS: 07/2024 - DD: 07/2022 |
-| Bulk Carriers | SIBULK TRADITION | Handysize | 53.206 | 2008 | JAPAN | IWAGI | CHINESE | $17.0M | SS: 07/2025 - DD: 10/2023 |
-| Bulk Carriers | PRABHU GOPAL | Handysize | 56.060 | 2003 | JAPAN | MITSUI | UNDISCLOSED | $13.0M | SS/DD: 03/2023 |
-| Bulk Carriers | PACIFIC PAMELA | Handysize | 49.061 | 1997 | JAPAN | OSHIMA | CHINESE | $8.0M | SS/DD: 01/2022 |
-| Bulk Carriers | SIDER MOON | Handysize | 26.355 | 2015 | JAPAN | YAMANISHI | KOPUZLAR | UNDISCLOSED | BWTS FITTED, SS: 06/2025 - DD: 09/2023 |
-| Bulk Carriers | PALOMA | Handysize | 28.338 | 2010 | JAPAN | SHIMANAMI | UNDISCLOSED | $13.5M | BWTS FITTED, SS: 05/2025 - DD: 08/2023 |
-| Bulk Carriers | BF TIMARU | Handysize | 11.142 | 2006 | S. KOREA | DAEHAN | CHINESE | $6.5M | SS/DD: 11/2021 |
-| Bulk Carriers | BF CALOOSA | Handysize | 11.145 | 2007 | S. KOREA | DAEHAN | CHINESE | $6.5M | SS/DD: 12/2021 |
-| Bulk Carriers | 6th | Bulk Carriers |  |  |  |  | - | - | - |
+| Section | Name | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
+|---|---|---|---|---|---|---|---|---|
+| Bulk Carriers | DS CHARME | 176.000 | 2011 | CHINA | JIANGSU RONGSHENG | UNDISCLOSED | region $28 | TC TILL JULY 2022 AT 89% OF BCI 5TC, SS: 06/2026 - DD: 06/2024 |
+| Bulk Carriers | OCEAN DIAMOND | 93.025 | 2012 | CHINA | COSCO DALIAN | UNDISCLOSED | $17.25 | SHE IS ON TC AT USD 9.8K TILL MIN 9 NOV 2021 TO MAX 24 JAN 2022, SS/DD: 01/2022 |
+| Bulk Carriers | SDTR IRENE | 84.800 | 2022 | CHINA | DALIAN | CHINESE | $36 | P-PANAMAX, AUCTION SALE |
+| Bulk Carriers | ALAM MOLEK | 58.074 | 2014 | JAPAN | SHIN KURUSHIMA | MEGHNA | $26 | ELECTRONIC M/E, SS: 10/2024 - DD: 10/2022 |
+| Bulk Carriers | ALAM MADU | 58.045 | 2014 | JAPAN | SHIN KURUSHIMA | MEGHNA | $26 | ELECTRONIC M/E, SS: 09/2024 - DD: 09/2022 |
+| Bulk Carriers | CENTENARIO FORZA | 56.129 | 2012 | JAPAN | MITSUI | UNDISCLOSED | $20.5 | SS/DD: 04/2022 |
+| Bulk Carriers | ANTOINE | 55.498 | 2009 | JAPAN | MITSUI | BEKS | low $19 | BWTS FITTED, TC ATTACHED AT 97% BSI TILL OCT 2021/ FEB 2022, SS/DD: 03/2024 |
+| Bulk Carriers | SKYLIGHT | 56.847 | 2009 | CHINA | TAIZHOU SANFU | UNDISCLOSED | $16.35 | BWTS FITTED, SS: 07/2024 - DD: 07/2022 |
+| Bulk Carriers | SIBULK TRADITION | 53.206 | 2008 | JAPAN | IWAGI | CHINESE | xs $17 | SS: 07/2025 - DD: 10/2023 |
+| Bulk Carriers | PRABHU GOPAL | 56.060 | 2003 | JAPAN | MITSUI | UNDISCLOSED | mid $13 | SS/DD: 03/2023 |
+| Bulk Carriers | PACIFIC PAMELA | 49.061 | 1997 | JAPAN | OSHIMA | CHINESE | region $8 | SS/DD: 01/2022 |
+| Bulk Carriers | SIDER MOON | 26.355 | 2015 | JAPAN | YAMANISHI | KOPUZLAR | UNDISCLOSED | BWTS FITTED, SS: 06/2025 - DD: 09/2023 |
+| Bulk Carriers | PALOMA | 28.338 | 2010 | JAPAN | SHIMANAMI | UNDISCLOSED | $13.5 | BWTS FITTED, SS: 05/2025 - DD: 08/2023 |
+| Bulk Carriers | BF TIMARU | 11.142 | 2006 | S. KOREA | DAEHAN | CHINESE | $6.5 | SS/DD: 11/2021 |
+| Bulk Carriers | BF CALOOSA | 11.145 | 2007 | S. KOREA | DAEHAN | CHINESE | $6.5 | SS/DD: 12/2021 |
 
 ### Tanker Secondhand Prices ($ mills)
 
-| Vessel Type | Tenor | Price ($M) |
-|---|---|---|
-| VLCC | Resale | $96.7M |
-| VLCC | 5 Year | $70.0M |
-| VLCC | 10 Year | $48.0M |
-| VLCC | 15 Year | $34.3M |
-| Suezmax | Resale | $66.9M |
-| Suezmax | 5 Year | $48.2M |
-| Suezmax | 10 Year | $32.3M |
-| Suezmax | 15 Year | $22.0M |
-| Aframax | Resale | $55.0M |
-| Aframax | 5 Year | $39.9M |
-| Aframax | 10 Year | $25.9M |
-| Aframax | 15 Year | $15.9M |
-| MR2 | Resale | $37.8M |
-| MR2 | 5 Year | $27.9M |
-| MR2 | 10 Year | $19.0M |
-| MR2 | 15 Year | $12.1M |
+| Vessel Type | Tenor | Price ($M) | Sep/20 Price ($M) | 12m Change (%) | 12m Diff ($M) | 3Y Average Prices ($M) |
+|---|---|---|---|---|---|---|
+| VLCC 320k | Resale | $96.7M | $90.3M | 7.1% | 6.5 | 2021: 93.4 / 2020: 95.5 / 2019: 96.1 |
+| VLCC 320k | 5 Year | $70.0M | $66.8M | 4.9% | 3.3 | 2021: 68.8 / 2020: 70.5 / 2019: 70.5 |
+| VLCC 300k | 10 Year | $48.0M | $45.0M | 6.7% | 3.0 | 2021: 47.4 / 2020: 47.9 / 2019: 47.7 |
+| VLCC 300k | 15 Year | $34.3M | $31.1M | 10.2% | 3.2 | 2021: 33.8 / 2020: 33.5 / 2019: 32.9 |
+| Suezmax 160k | Resale | $66.9M | $60.8M | 10.1% | 6.2 | 2021: 62.9 / 2020: 64.9 / 2019: 67.6 |
+| Suezmax 160k | 5 Year | $48.2M | $45.8M | 5.4% | 2.5 | 2021: 46.3 / 2020: 48.7 / 2019: 48.7 |
+| Suezmax 150k | 10 Year | $32.3M | $31.0M | 4.2% | 1.3 | 2021: 31.2 / 2020: 33.7 / 2019: 34.2 |
+| Suezmax 150k | 15 Year | $22.0M | $22.0M | 0.0% | - | 2021: 22.0 / 2020: 23.2 / 2019: 19.4 |
+| Aframax 110k | Resale | $55.0M | $47.9M | 14.9% | 7.1 | 2021: 50.8 / 2020: 51.0 / 2019: 52.0 |
+| Aframax 110k | 5 Year | $39.9M | $35.0M | 14.0% | 4.9 | 2021: 37.5 / 2020: 37.7 / 2019: 37.7 |
+| Aframax 105k | 10 Year | $25.9M | $24.0M | 7.9% | 1.9 | 2021: 24.2 / 2020: 26.0 / 2019: 24.8 |
+| Aframax 105k | 15 Year | $15.9M | $15.0M | 6.0% | 0.9 | 2021: 15.2 / 2020: 15.9 / 2019: 14.8 |
+| MR2 52k | Resale | $37.8M | $36.0M | 5.0% | 1.8 | 2021: 36.8 / 2020: 37.5 / 2019: 38.6 |
+| MR2 51k | 5 Year | $27.9M | $26.2M | 6.4% | 1.7 | 2021: 27.6 / 2020: 27.9 / 2019: 27.9 |
+| MR2 47k | 10 Year | $19.0M | $17.3M | 10.1% | 1.8 | 2021: 18.8 / 2020: 18.2 / 2019: 18.3 |
+| MR2 45k | 15 Year | $12.1M | $11.3M | 7.6% | 0.9 | 2021: 12.2 / 2020: 11.7 / 2019: 10.3 |
 
 ### Tanker Sales
 
-| Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
-|---|---|---|---|---|---|---|---|---|---|
-| Tankers | - | - | - | - | - | - | - | - | No tanker sales reported |
+| Section | Name | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
+|---|---|---|---|---|---|---|---|---|
+| Tankers | GREEN STARS | 50.000 | 2022 | S. KOREA | HMD | HAFNIA | region $35 | 5YEAR TC ATTACHED TO CLEARLAKE |
+| Tankers | YELLOW STARS | 49.999 | 2021 | S. KOREA | HMD | HAFNIA | region $35 | 5YEAR TC ATTACHED TO CLEARLAKE |
+| Tankers | MARVIN INDEPENDENCE | 49.988 | 2018 | S. KOREA | HMD | GREEK | $17.1 | AUCTION SALE, SS: 11/2024 - DD: 01/2023 |
+| Tankers | OCEAN SUNRISE | 50.353 | 2004 | S. KOREA | SHINA | UNDISCLOSED | high $6 | JUDICIAL SALE, BWTS FITTED, SS: 11/2024 - DD: 11/2022 |
+| Tankers | AMELIA PACIFIC | 45.811 | 2006 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | low $8 | SS/DD: 11/2021 |
 
----
+### Other Reported Sales (Gas / Containers)
+
+| Section | Name | Size | Size Unit | Year | Country | Yard | Buyers | Price ($M) | Comments |
+|---|---|---|---|---|---|---|---|---|---|
+| Gas | GAS IMPERIALE | 3.444 | CBM | 2008 | JAPAN | MIURA SAIKI | BLUE ENERGY MARINE | UNDISCLOSED | SS/DD: 06/2023 |
 
 ## Demolition Market
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $585.0 |
-| Tankers | India | $595.0 |
-| Bulkers | Bangladesh | $600.0 |
-| Tankers | Bangladesh | $605.0 |
-| Bulkers | Pakistan | $202.0 |
-| Tankers | Pakistan | $590.0 |
-
-### Reported Demolition Sales
-
-| Name | Type | Year | DWT | LDT | Country | Price ($/LDT) | Buyers | Comments |
-|---|---|---|---|---|---|---|---|---|
-| - | - | - | - | - | - | - | - | No demolition sales reported |
-
----
-
-## Legal Disclaimer
-
-> *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+| Segment | Country | Price ($/LDT) | Week 34 ($/LDT) | Change |
+|---|---|---|---|---|
+| Bulkers | India | $585 | $585 | - |
+| Bulkers | Bangladesh | $600 | $600 | - |
+| Bulkers | Pakistan | $585 | $590 | (5.0) |
+| Bulkers | Turkey | $290 | $290 | - |
+| Tankers | India | $595 | $595 | - |
+| Tankers | Bangladesh | $605 | $610 | (5.0) |
+| Tankers | Pakistan | $600 | $605 | (5.0) |
+| Tankers | Turkey | $300 | $300 | - |
