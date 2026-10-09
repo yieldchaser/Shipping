@@ -529,7 +529,16 @@ def extract_rate_cards(doc: pymupdf.Document) -> List[Dict[str, Any]]:
                     continue
 
                 # Section affinity:
-                if sect == "Dry 1Y TC" and "1 Year T/C Dry Bulk" not in raw_page_txt:
+                if sect == "Dry 1Y TC" and not (
+                    "1 Year T/C Dry Bulk" in raw_page_txt
+                    # The Dry Bulk 1-Year T/C block spans two pages in the 2024/2025
+                    # Fearnpulse layout: its heading reads "1 Year T/C" (with the
+                    # "(USD/Day, Weekly Change)" sub-header) on the FIRST page, and
+                    # only the continuation page carries the literal
+                    # "1 Year T/C Dry Bulk". Gating on that literal dropped the whole
+                    # first page (Newcastlemax/Kamsarmax/Ultramax) for every doc.
+                    or ("Weekly Change" in raw_page_txt and "1 Year T/C" in raw_page_txt)
+                ):
                     continue
                 if sect == "Dry Spot" and "1 Year T/C Dry Bulk" in raw_page_txt:
                     continue
@@ -542,6 +551,7 @@ def extract_rate_cards(doc: pymupdf.Document) -> List[Dict[str, Any]]:
                     val = None
                     chg = None
                     size = default_sz
+                    dry_size = None
 
                     for forward_ln in lines[i+1:min(len(lines), i+6)]:
                         # Skip if forward line is a year like 2025
@@ -550,7 +560,20 @@ def extract_rate_cards(doc: pymupdf.Document) -> List[Dict[str, Any]]:
                         # Skip if forward line is a chart axis tick like '24, '25
                         if re.search(r"'(?:21|22|23|24|25|26)", forward_ln):
                             continue
-
+                        if sect == "Dry 1Y TC":
+                            fl = forward_ln.strip()
+                            # Footnote/date lines (e.g. '7/3/24, 10:29 PM') must not
+                            # supply a single-digit 'value'.
+                            if re.search(r"[0-9]{1,2}/[0-9]{1,2}/[0-9]{2,4}", fl) or 'PM' in fl or 'AM' in fl:
+                                continue
+                            # A bare vessel-size token (208' / 180') is the SIZE, never the
+                            # value; take only the first one (a later row's size must not
+                            # overwrite it - measured fearnleys_2024_W27: Ultramax size read
+                            # 180' from the next row, Capesize value read 180 from its size).
+                            if re.match(r"^[0-9]{2,3}'$", fl):
+                                if dry_size is None:
+                                    dry_size = fl
+                                continue
                         if re.search(r"[-+]?\$?[\d,]+(?:\.\d+)?%?", forward_ln):
                             m = re.search(r"[-+]?\$?[\d,]+(?:\.\d+)?", forward_ln)
                             if m:
@@ -560,13 +583,21 @@ def extract_rate_cards(doc: pymupdf.Document) -> List[Dict[str, Any]]:
                                         num_val = float(num_str)
                                         if val is None:
                                             val = num_val
-                                        elif chg is None and ("+" in forward_ln or "-" in forward_ln or forward_ln.strip() == "$0" or forward_ln.strip() == "0"):
+                                        elif chg is None and ("+" in forward_ln or "-" in forward_ln or forward_ln.strip() in ("$0", "0") or (sect == "Dry 1Y TC" and "$" in forward_ln)):
                                             chg = num_val
                                     except ValueError:
                                         pass
                         if ("'" in forward_ln or "Modern" in forward_ln) and len(forward_ln) < 15:
-                            size = forward_ln
-
+                            if sect == "Dry 1Y TC":
+                                if dry_size is None:
+                                    dry_size = forward_ln
+                            else:
+                                size = forward_ln
+                    if sect == "Dry 1Y TC":
+                        size = dry_size if dry_size is not None else default_sz
+                        # a genuine 1Y TC rate is a $/day figure in the thousands
+                        if val is not None and val < 1000:
+                            val = None
                     if val is not None:
                         if not any(r["label"] == route and r["page"] == pno + 1 for r in extracted):
                             extracted.append({
