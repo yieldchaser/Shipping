@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 22:11:57Z",
+  "updated_at": "2026-10-09 22:52:42Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -3563,7 +3563,7 @@
     {
       "file": "signal_reports_metadata.csv",
       "target_metric": "The Signal Group weekly monitors, market reviews, commodity radars, and newsletters metadata (2019\u20132026)",
-      "rows": 446,
+      "rows": 449,
       "columns": [
         "issue_date",
         "year",
@@ -3583,7 +3583,7 @@
     {
       "file": "signal_vessel_counts_series.csv",
       "target_metric": "Signal Ocean weekly commercial vessel counts and deployment monitors",
-      "rows": 106,
+      "rows": 120,
       "columns": [
         "issue_date",
         "year",
@@ -4092,13 +4092,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 631385,
+  "total_master_stacked_rows": 631402,
   "total_master_series_csvs": 177,
-  "total_stacked_rows": 631385,
+  "total_stacked_rows": 631402,
   "total_series_csvs": 177,
   "total_master_workbooks": 1,
   "total_series_count": 177,
-  "total_rows_extracted": 631690,
+  "total_rows_extracted": 631707,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4248,8 +4248,8 @@
     "seabrokers_renewables_and_ets_series.csv": 16,
     "seabrokers_rigs_market_series.csv": 4467,
     "seabrokers_snp_auctions_series.csv": 251,
-    "signal_reports_metadata.csv": 446,
-    "signal_vessel_counts_series.csv": 106,
+    "signal_reports_metadata.csv": 449,
+    "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
     "ssy_capesize_index_series.csv": 8729,
     "ssy_capesize_index_time_series.csv": 517,

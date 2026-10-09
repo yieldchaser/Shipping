@@ -105,3 +105,17 @@ issue_date,year,week,sector,vessel_class,metric,region,count,regions_complete,so
 2026-09-22,2026,39,Dry Bulk,Supramax,Regional Ballaster Count,Indian Ocean/South Africa,143,True,corpus/07-signal/html/weekly-dry-market-monitor-week-38-2026.html
 2026-09-22,2026,39,Dry Bulk,Supramax,Regional Ballaster Count,North Atlantic,116,True,corpus/07-signal/html/weekly-dry-market-monitor-week-38-2026.html
 2026-09-22,2026,39,Dry Bulk,Supramax,Regional Ballaster Count,South Atlantic,64,True,corpus/07-signal/html/weekly-dry-market-monitor-week-38-2026.html
+2026-10-07,2026,41,Dry Bulk,Capesize,Ballaster Count,Global,620,False,corpus/07-signal/html/weekly-dry-market-monitor-week-40-2026.html
+2026-10-07,2026,41,Dry Bulk,Handysize,Ballaster Count,Global,661,False,corpus/07-signal/html/weekly-dry-market-monitor-week-40-2026.html
+2026-10-07,2026,41,Dry Bulk,Panamax,Ballaster Count,Global,780,True,corpus/07-signal/html/weekly-dry-market-monitor-week-40-2026.html
+2026-10-07,2026,41,Dry Bulk,Panamax,Regional Ballaster Count,Australasia,213,True,corpus/07-signal/html/weekly-dry-market-monitor-week-40-2026.html
+2026-10-07,2026,41,Dry Bulk,Panamax,Regional Ballaster Count,FEAST/NOPAC,191,True,corpus/07-signal/html/weekly-dry-market-monitor-week-40-2026.html
+2026-10-07,2026,41,Dry Bulk,Panamax,Regional Ballaster Count,Indian Ocean/South Africa,182,True,corpus/07-signal/html/weekly-dry-market-monitor-week-40-2026.html
+2026-10-07,2026,41,Dry Bulk,Panamax,Regional Ballaster Count,North Atlantic,130,True,corpus/07-signal/html/weekly-dry-market-monitor-week-40-2026.html
+2026-10-07,2026,41,Dry Bulk,Panamax,Regional Ballaster Count,South Atlantic,64,True,corpus/07-signal/html/weekly-dry-market-monitor-week-40-2026.html
+2026-10-07,2026,41,Dry Bulk,Supramax,Ballaster Count,Global,681,True,corpus/07-signal/html/weekly-dry-market-monitor-week-40-2026.html
+2026-10-07,2026,41,Dry Bulk,Supramax,Regional Ballaster Count,Australasia,195,True,corpus/07-signal/html/weekly-dry-market-monitor-week-40-2026.html
+2026-10-07,2026,41,Dry Bulk,Supramax,Regional Ballaster Count,FEAST/NOPAC,190,True,corpus/07-signal/html/weekly-dry-market-monitor-week-40-2026.html
+2026-10-07,2026,41,Dry Bulk,Supramax,Regional Ballaster Count,Indian Ocean/South Africa,127,True,corpus/07-signal/html/weekly-dry-market-monitor-week-40-2026.html
+2026-10-07,2026,41,Dry Bulk,Supramax,Regional Ballaster Count,North Atlantic,103,True,corpus/07-signal/html/weekly-dry-market-monitor-week-40-2026.html
+2026-10-07,2026,41,Dry Bulk,Supramax,Regional Ballaster Count,South Atlantic,66,True,corpus/07-signal/html/weekly-dry-market-monitor-week-40-2026.html
