@@ -231,6 +231,41 @@ def extract_bulk_chart_values(pg):
 # ---------------------------------------------------------------------------
 
 
+# --- CORRECTED demolition read (2026-10-09) ---------------------------------
+# The old path called extract_panel_value_from_drawings() with a HARDCODED axis
+# band (y 135..225 -> value 700..200). The page prints its OWN y-axis ticks
+# (700..200 in 2024, 250..550 in 2026), so every value came out ~41.6% too low:
+# measured 0/278 rows agreed within 5% of the same document's own printed price
+# (e.g. 2024-01-08 shipped 331.5 where the page prints 530). The publisher
+# prints the demolition price as TEXT on the same page, and this source's own
+# text parser already reads it exactly, so reuse it (per-source; no generic
+# runner). See docs/xclusiv_demolition_charts_verdict.md
+_TABLES = None
+
+
+def _load_tables_module():
+    import importlib.util
+    spec = importlib.util.spec_from_file_location(
+        "_xclusiv_tables", Path(__file__).resolve().parent / "run_xclusiv_tables.py"
+    )
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+def extract_india_demolition_values(doc, issue_date, report_week, source_file):
+    """Printed India demolition prices (bulkers, tankers) for THIS document."""
+    global _TABLES
+    if _TABLES is None:
+        _TABLES = _load_tables_module()
+    recs = _TABLES.extract_indicative_demolition(doc, issue_date, report_week, source_file)
+    out = {}
+    for r in recs:
+        if r.get("country") == "India":
+            out[r.get("segment")] = r.get("price_usd_per_ldt")
+    return out.get("Bulkers"), out.get("Tankers")
+
+
 def run_xclusiv_charts_pipeline():
     pdfs = sorted(glob.glob(str(XCLUSIV_DIR / "*/*.pdf")))
     _dup = _byte_duplicate_stems(XCLUSIV_DIR)
@@ -283,10 +318,10 @@ def run_xclusiv_charts_pipeline():
             demo_page = doc[target_demo_pno]
             t = demo_page.get_text().upper()
             if "DEMOLITION" in t:
-                drawings_demo = demo_page.get_drawings()
-                if len(drawings_demo) > 25:
-                    dry_val = extract_panel_value_from_drawings(drawings_demo, 135.0, 225.0, 700.0, 200.0)
-                    tank_val = extract_panel_value_from_drawings(drawings_demo, 375.0, 465.0, 700.0, 200.0)
+                dry_val, tank_val = extract_india_demolition_values(
+                    doc, issue_date, report_week, pdf_path.name
+                )
+                if dry_val is not None or tank_val is not None:
 
                     if dry_val is not None:
                         demo_rows.append({
