@@ -1,3 +1,16 @@
+**THIS RUN (2026-10-09 21:5x, source-by-source, 30m job) - FOUND + FIXED a REAL 1000x defect: best_oasis dealt LDT read the publisher's EU period-thousands (`1.995`) as a decimal. 1 cell, 2 mirror files, page- AND cross-publisher-confirmed.**
+
+Branch `auto/extract-fixes-2026-10-09-deepreview` (NOT main). Liveness at start: NO `run_*` of ours (tasklist python.exe = Hermes/gateway/litellm + code_review_graph only); `git status corpus` = **0 changes** -> no new arrivals; newest collected broker content still **W40** (lion/fearnleys 2026-10-02) - **W41 not arrived**. Register gate **ALL PASSED** (180 CSVs / **639,756** == JSON == MD, 0 mismatches) before and after (row counts unmoved).
+
+- **DEFECT (measured):** `run_best_oasis_demolition.py` parses ldt with `re.sub(r"[^\d.]","",ldt_raw)` then `float()` - it strips commas (ISO `8,015` -> 8015 OK) but KEEPS a dot as a decimal. Best Oasis mixes separators in the SAME LDT column, so `EL YOUSSEF` (2024-03-01) shipped `ldt=1.995` = **1,995 LDT** read as 1.995 (1000x, plausible).
+- **GROUND TRUTH (no vision):** (1) best_oasis 2024-03-01 page 7 prints `EL YOUSSEF ... GERMANY / 1.995` beside `8,015`/`23,038`/`1,010` (tonnes; OSCAR 1 in the same table uses a COMMA); (2) **intermodal 2024 W09** independently lists the same vessel `dwt 4106 / ldt 1995 / 1975`. Two publishers agree: 1995.
+- **BLAST RADIUS (measured corpus-wide):** a sweep of all 174 series CSVs for `^<int>\.<3 digits>$` inside `<int>.0`-formatted (integer-as-float) columns found EXACTLY this one value, in the two byte-identical mirrors. After the fix: **0** corpus-wide (class closed).
+- **FIX:** code = shape-based parse in the runner (`^\d{1,3}(?:\.\d{3})+$` -> strip dots; `197.74`/`1000.0` untouched); data = `scripts/extract/publishers/fix_best_oasis_ldt.py` (per-source, idempotent) rewrote the cell to the column's form `1995.0`.
+- **CONTROL:** `git diff --numstat` = **1/1** per file, the only changed field is `ldt`; rows **897 -> 897**; CRLF + no BOM preserved; mirrors stay byte-identical (sha256 `d1d76c4a26...`); 2nd run = *"idempotent: nothing stale, no write"*. Not app-displayed (index.html 0 refs). Evidence: **`docs/best_oasis_ldt_convention_verdict.md`**.
+- **NEXT:** no source to EXTRACT (corpus complete; 0 arrivals). W41 due ~2026-10-09..13 - re-check newest content by FILENAME. Open items remain the USER's: (a) allied 42-row render pass; (b) hellenic bare-name `source_file`; (c) inventory/DB rebuild (UPSTREAM store pipeline); (d) digest-tier stale `raw_pdf_path` (needs HSN/network).
+
+---
+
 **THIS RUN (2026-10-09 19:1x, source-by-source, 30m job) - FOUND + FIXED two lying-instrument bugs in our own durable freshness tool `scripts/extract/audit_series_freshness.py` (135->174 CSVs counted, 509,867->632,134 rows). NO source to extract; register gate GREEN; NO W41.**
 
 Branch `auto/extract-fixes-2026-10-09-deepreview` (NOT main). Liveness at start: NO `run_*` extraction of ours (`tasklist` python.exe = none); `git status corpus` = **0 changes**; newest collected broker content = **W40** (lion 2026-10-02), **W41 not arrived** (checked by FILENAME per source, 0 files dated after 2026-10-02 in `01-brokers`). Register gate `verify_registers.py` = **ALL PASSED** (180 CSVs / **639,756** == JSON == MD) before and after; the fix touches NO data file.

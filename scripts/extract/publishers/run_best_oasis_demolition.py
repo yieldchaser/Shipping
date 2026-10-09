@@ -144,6 +144,17 @@ def parse_vessels_sold_table(table_data: List[List[Any]], issue_date: str, sourc
         ldt_clean = None
         if ldt_raw:
             c_ldt = re.sub(r"[^\d.]", "", ldt_raw)
+            # The publisher MIXES separators in the same LDT column: most rows
+            # print ISO thousands ("8,015", comma already stripped above), but
+            # some print EU period-thousands ("1.995" = 1,995 LDT). LDT is integer
+            # tonnes, so a lone-dot all-in-threes token ("1.995", "23.038",
+            # "12.345.678") is a thousands separator, never a decimal; a real
+            # fraction has 1-2 trailing digits ("197.74"). Page-verified on
+            # 2024-03-01 EL YOUSSEF ("1.995" beside "8,015"/"23,038") and
+            # independently by intermodal 2024 W09 (same vessel, ldt 1995).
+            # See docs/best_oasis_ldt_convention_verdict.md.
+            if re.match(r"^\d{1,3}(?:\.\d{3})+$", c_ldt):
+                c_ldt = c_ldt.replace(".", "")
             try:
                 ldt_clean = float(c_ldt) if c_ldt else None
             except ValueError:
