@@ -4523,3 +4523,84 @@ over the 27 md sources drops 10 -> 9 (hellenic no longer falsely flagged; the re
 `scratch/deepreview/` holds `fearnleys_measure2.py` (+ `fearnleys_changed2.json`), the
 pre-fix copies (`run_fearnleys_normalized.py.orig`, `audit_series_freshness.py.orig`),
 `golden_after.txt`, `freshness_after.txt`. `scratch/` is gitignored.
+
+
+## 2026-10-09 08:00 UTC (13:30 IST) - DEEP REVIEW (3-hourly cron d77cc9df53c4)
+
+**Headline: one systematic extraction defect FOUND and FIXED - Fearnleys' Dry Bulk
+1-Year T/C table lost its ENTIRE first page on the 2024/2025 "Fearnpulse" layout
+(4 of 7 vessel classes absent, incl. Newcastlemax for 96/96 docs).** Delivered CSV
+NOT regenerated (already-extracted data = human decision, see bottom).
+
+### What I measured first
+- `verify_extraction.py --json`: exit 0, `actions: []`. golden **15/15**, checkpoint
+  **7,816 unique**, db 189,481 tables / 6,726,703 cells, `mean_text_verified` 0.863,
+  74 not-a-pdf quarantines. Nothing wrong at the pipeline level.
+- Liveness: NO `run_batch` / `batch_worker`. The batch is COMPLETE (880/882, state
+  file 24,526 min old but 0 remaining). Nothing running to disturb.
+- Opened 3 fresh doc outputs (shipbrokers/xclusiv_2026_08_03, hellenic clarksons
+  SNP 2026-07-31, poten "Tanker Midterms"). Their "prose-shaped" grids are the
+  KNOWN class (log Finding 6: 2.0% of grids are prose banners) - not a new defect.
+- `inventory_drift` (385 PDFs on disk absent from the queue) is documented in the
+  runbook as informational-only (bespoke runners read the corpus directly). No action.
+
+### Defect - Fearnleys Dry Bulk 1Y TC first page dropped - FIXED (commit 8872218c4)
+The Dry Bulk 1-Year T/C block spans two pages in the 2024/2025 layout. Page 1's
+heading is `1 Year T/C` / `(USD/Day, Weekly Change)`; only the CONTINUATION page
+carries the literal `1 Year T/C Dry Bulk`. `extract_rate_cards()` gated the section
+on that literal, so it skipped page 1 entirely and emitted only the continuation
+rows. Ground truth, rendered `fearnleys_2024_W27` pp.7-8 (idx 7-8):
+
+```
+Newcastlemax $26,600  208'  +$550      <- MISSING before the fix
+Kamsarmax    $17,500   82'  -$500      <- MISSING
+Ultramax     $17,500   64'  +$500      <- MISSING
+Capesize     $22,600  180'  +$550      <- (value printed on p8; label on p7)
+Panamax      $16,400   75'  -$300
+Supramax     $15,500   58'  +$500
+Handysize    $13,000   38'  -$1,000
+```
+**Blast radius measured over ALL 263 fearnleys docs (dedup), not a sample**:
++404 new rows, 6 value + 8 size + 158 change-field corrections, 5 dropped rows -
+**every change inside `Dry 1Y TC`, none in any other section**. The 5 dropped rows
+were the bogus "value == size" rows (2022_W47 Panamax 200 == 75' size, 2022_W48 19,
+etc.) - no real row lost. Verified byte-exact on `fearnleys_2025_W31` pp.8-9 (all 7
+labels) and `fearnleys_2023_W12` p3 (era-A, unchanged values + now-correct unsigned
+changes: Newcastlemax 25750/208'/1250, Capesize 20750/180'/750). Golden gate
+unchanged (Star Asia 15/15). `tests/test_fearnleys_*.py` + `test_fearnpulse_dry_routes.py`:
+**30 passed**.
+
+Three secondary bugs the fix also closed (all scoped to Dry 1Y TC): a bare
+vessel-size token was read as a VALUE (Capesize -> 180) and a later row's size
+overwrote an earlier one (Ultramax size -> 180'); a footnote/date line
+("7/3/24, 10:29 PM") supplied a bogus single-digit value; and unsigned positive
+changes ("$550", no "+") were dropped to 0 (this affected era-A too - Newcastlemax
++$1,250 read as 0).
+
+### Deliberately NOT changed, and why
+- **Did NOT regenerate `data/extracted/series/fearnleys_rates_series.csv`.** It is
+  stale (written 2026-10-06) and still carries the pre-fix values; the code fix
+  applies to documents extracted from now on. Changing already-extracted data is a
+  human decision. Exact command if approved:
+  `python3 scripts/extract/publishers/run_fearnleys_normalized.py`
+  (writes the CSV; it MERGES on pkey `(issue_date, chapter, section, label)`, so
+  expect ~404 Dry 1Y TC rows to gain the missing first-page classes plus the
+  corrections above; no row-count loss).
+- **Era-2022 first-page rows still unrecovered - SEPARATE root cause.** On the 2022
+  layout the same two-page split exists, but `extract_rate_cards`'s chapter detector
+  assigns the 1Y TC block's page (e.g. `fearnleys_2022_W47` p3) to **"01 Tankers"**
+  one page early, so chapter-affinity blocks it before the section gate is even
+  reached. Both the old and new code emit ~0 Dry 1Y TC rows for 2022 docs, so this
+  is not a regression from this fix. Fixing it means touching the shared per-page
+  chapter inference - not attempted blindly this pass.
+- **Era-B dangling-label row (Capesize when the label is the last thing on page 1
+  and its numbers open page 2, e.g. `fearnleys_2024_W27`)** is not recovered: it
+  needs cross-page carry. The delivered CSV already holds that Capesize row, so
+  nothing is lost; only its value stays uncorrected.
+- Did not touch `index.html`, other pipelines, `tests/`, git history, the DB or the
+  corpus; did not push. `scripts/analysis/golden_matrix.py` rewrites
+  `scripts/analysis/golden_matrix.json` (outside my allowed paths) - restored it.
+
+### Scratch
+`scratch/deepreview/` held the candidate runner + measurement scripts
+(`blast.py`, `lost.py`) and the pre-fix copy. `scratch/` is gitignored.
