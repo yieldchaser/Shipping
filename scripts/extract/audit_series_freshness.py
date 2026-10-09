@@ -4,7 +4,7 @@ from collections import defaultdict
 SER = 'data/extracted/series'
 MD  = 'data/extracted/md'
 OUT = {}
-DATE_COLS = ('issue_date','date','report_date','reference_date','as_of','snapshot_date')
+DATE_COLS = ('issue_date','published_date','date','report_date','reference_date','as_of','snapshot_date')
 
 def max_date_in_csv(path):
     best=None; col=None; n=0
@@ -12,8 +12,10 @@ def max_date_in_csv(path):
         with open(path, newline='', encoding='utf-8', errors='replace') as f:
             r=csv.DictReader(f)
             if not r.fieldnames: return None,None,0
-            dcols=[c for c in r.fieldnames if c and c.lower() in DATE_COLS]
-            if not dcols: return None,None,0
+            # strip a UTF-8 BOM before matching: hellenic_iron_ore_commentary
+            # carried a BOM-prefixed 'issue_date' and was read as having NO date
+            # column (0 rows counted). Count every row regardless of date column.
+            dcols=[c for c in r.fieldnames if c and c.lstrip('\ufeff').lower() in DATE_COLS]
             for row in r:
                 n+=1
                 for c in dcols:
@@ -42,17 +44,31 @@ def newest_md_date(mdsrc):
             if (best is None or d>best): best=d; bestf=b
     return best,bestf
 
-# map series csv -> source by prefix
+# map series csv -> source. split('_')[0] mis-keyed multi-word publishers
+# (advanced_shipping -> 'advanced', star_asia -> 'star', bancosta -> 'bancosta'),
+# so the report printed 0 CSVs for 8 md dirs and dropped 39 series files from the
+# totals. Resolve against the REAL md sources: longest whole-token prefix, with an
+# alias table for publisher name variants, else keep the file's own bucket so no
+# series is invisible.
+md_dirs=[d for d in os.listdir(MD) if os.path.isdir(os.path.join(MD,d))]
+SERIES_ALIAS={'bancosta':'banchero_costa','athenian':'hellenic','gms':'hellenic',
+              'best_oasis':'hellenic'}
+def resolve_src(stem):
+    best=None
+    for d in md_dirs:
+        if stem==d or stem.startswith(d+'_'):
+            if best is None or len(d)>len(best): best=d
+    if best: return best
+    for k,v in SERIES_ALIAS.items():
+        if stem==k or stem.startswith(k+'_'): return v
+    return stem.split('_')[0]
 series_by_src=defaultdict(list)
 for p in sorted(glob.glob(os.path.join(SER,'*_series.csv'))):
     b=os.path.basename(p)
-    src=b.split('_')[0] if not b.startswith('intermodal_') else 'intermodal'
-    series_by_src[src].append(p)
-
-md_dirs=[d for d in os.listdir(MD) if os.path.isdir(os.path.join(MD,d))]
+    series_by_src[resolve_src(b[:-len('_series.csv')])].append(p)
 
 report=[]
-for src in sorted(md_dirs):
+for src in sorted(set(md_dirs) | set(series_by_src)):
     mdd, mdf = newest_md_date(src)
     csvs = series_by_src.get(src, [])
     smax=None; scol=None; smaxfile=None; rows=0
