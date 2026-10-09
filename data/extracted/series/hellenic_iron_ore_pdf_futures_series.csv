@@ -2236,3 +2236,4 @@ date,year,exchange,contract,price,unit,change,change_pct,settlement,source_file
 2026-10-05,2026,SGX,SGX Iron Ore Most-traded,91.35,USD/dmt,-1.17,-1.26%,daily,2026-10-05_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261005_en.pdf
 2026-10-06,2026,SGX,SGX Iron Ore Most-traded,91.35,USD/dmt,0.0,0.00%,daily,2026-10-06_mmi-daily-iron-ore-index-report-october-6-2026_io20261006-en_647632f6c6ef.pdf
 2026-10-08,2026,DCE,DCE Iron Ore Most-traded I2701,682.5,yuan/mt,-20.0,-2.85%,daily,2026-10-08_mmi-daily-iron-ore-index-report-october-8-2026_io20261008-en_3d6b08a15284.pdf
+2026-10-09,2026,DCE,DCE Iron Ore Most-traded I2701,682.5,yuan/mt,0.0,0.00%,daily,2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf
