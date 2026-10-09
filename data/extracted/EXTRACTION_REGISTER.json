@@ -2073,7 +2073,7 @@
     {
       "file": "fearnleys_rates_series.csv",
       "target_metric": "Tanker spot, dry bulk, gas, & 1Y T/C rates ($/day, WS)",
-      "rows": 17076,
+      "rows": 17083,
       "columns": [
         "issue_date",
         "report_week",
@@ -4141,7 +4141,7 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 639749,
+  "total_master_stacked_rows": 639756,
   "total_master_series_csvs": 180,
   "total_stacked_rows": 639749,
   "total_series_csvs": 180,

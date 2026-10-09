@@ -206,9 +206,9 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2021-07-28,30,2,01 Tankers,Period & Availability,Fixed in all areas last week,53.0,-,0.0,corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf
 2021-07-28,30,3,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,54070.0,Capesize,1520.0,corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf
 2021-07-28,30,3,02 Dry Bulk,Capesize Spot,Pacific RV,36819.0,Capesize,2798.0,corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf
-2021-07-28,30,3,02 Dry Bulk,Dry 1Y TC,Capesize,180.0,180',0.0,corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf
-2021-07-28,30,3,02 Dry Bulk,Dry 1Y TC,Panamax,30615.0,75',-4210.0,corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf
-2021-07-28,30,3,02 Dry Bulk,Dry 1Y TC,Supramax,33687.0,58',0.0,corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf
+2021-07-28,30,3,02 Dry Bulk,Dry 1Y TC,Capesize,27500.0,180',0.0,corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf
+2021-07-28,30,3,02 Dry Bulk,Dry 1Y TC,Panamax,24250.0,75',-500.0,corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf
+2021-07-28,30,3,02 Dry Bulk,Dry 1Y TC,Supramax,22000.0,58',0.0,corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf
 2021-07-28,30,3,02 Dry Bulk,Dry 1Y TC,Newcastlemax,34000.0,208',0.0,corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf
 2021-07-28,30,3,02 Dry Bulk,Dry 1Y TC,Kamsarmax,26250.0,82',-500.0,corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf
 2021-07-28,30,3,02 Dry Bulk,Dry 1Y TC,Ultramax,25250.0,64',0.0,corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf
@@ -4040,12 +4040,12 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2022-10-12,41,3,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,180.0,Capesize,38406.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
 2022-10-12,41,3,02 Dry Bulk,Capesize Spot,Australia/China,9.3,Capesize,-0.2,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
 2022-10-12,41,3,02 Dry Bulk,Capesize Spot,Pacific RV,9.3,Capesize,-0.2,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
-2022-10-12,41,4,02 Dry Bulk,Dry 1Y TC,Newcastlemax,208.0,82',-1250.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
-2022-10-12,41,4,02 Dry Bulk,Dry 1Y TC,Kamsarmax,82.0,64',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
-2022-10-12,41,4,02 Dry Bulk,Dry 1Y TC,Ultramax,64.0,180',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
-2022-10-12,41,4,02 Dry Bulk,Dry 1Y TC,Capesize,180.0,75',-1500.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
-2022-10-12,41,4,02 Dry Bulk,Dry 1Y TC,Panamax,75.0,58',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
-2022-10-12,41,4,02 Dry Bulk,Dry 1Y TC,Supramax,58.0,58',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
+2022-10-12,41,4,02 Dry Bulk,Dry 1Y TC,Newcastlemax,18250.0,208',-1250.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
+2022-10-12,41,4,02 Dry Bulk,Dry 1Y TC,Kamsarmax,18000.0,82',500.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
+2022-10-12,41,4,02 Dry Bulk,Dry 1Y TC,Ultramax,17500.0,64',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
+2022-10-12,41,4,02 Dry Bulk,Dry 1Y TC,Capesize,14250.0,180',-1500.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
+2022-10-12,41,4,02 Dry Bulk,Dry 1Y TC,Panamax,16000.0,75',500.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
+2022-10-12,41,4,02 Dry Bulk,Dry 1Y TC,Supramax,14500.0,58',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
 2022-10-12,41,4,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1873.0,Index,1.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
 2022-10-12,41,3,02 Dry Bulk,Dry Spot,TCE Cont/Far East,180.0,180',-157.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
 2022-10-12,41,3,02 Dry Bulk,Dry Spot,Australia/China,9.3,Capesize,-0.2,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W41_Fearnleys-Weekly-Report.pdf
@@ -4469,12 +4469,12 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2022-12-07,49,2,01 Tankers,Fleet Availability,Available in MEG next 30 days,145.0,VLCC,1.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
 2022-12-07,49,3,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,28250.0,Capesize,0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
 2022-12-07,49,3,02 Dry Bulk,Capesize Spot,Pacific RV,13891.0,Capesize,2482.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
-2022-12-07,49,3,02 Dry Bulk,Dry 1Y TC,Ultramax,17000.0,64',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
-2022-12-07,49,3,02 Dry Bulk,Dry 1Y TC,Supramax,180.0,58',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
-2022-12-07,49,3,02 Dry Bulk,Dry 1Y TC,Capesize,180.0,180',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
-2022-12-07,49,3,02 Dry Bulk,Dry 1Y TC,Panamax,16245.0,75',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
-2022-12-07,49,3,02 Dry Bulk,Dry 1Y TC,Newcastlemax,17000.0,208',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
-2022-12-07,49,3,02 Dry Bulk,Dry 1Y TC,Kamsarmax,16000.0,82',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
+2022-12-07,49,3,02 Dry Bulk,Dry 1Y TC,Ultramax,13000.0,64',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
+2022-12-07,49,3,02 Dry Bulk,Dry 1Y TC,Supramax,11000.0,58',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
+2022-12-07,49,3,02 Dry Bulk,Dry 1Y TC,Capesize,13000.0,180',500.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
+2022-12-07,49,3,02 Dry Bulk,Dry 1Y TC,Panamax,14500.0,75',0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
+2022-12-07,49,3,02 Dry Bulk,Dry 1Y TC,Newcastlemax,17000.0,208',750.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
+2022-12-07,49,3,02 Dry Bulk,Dry 1Y TC,Kamsarmax,16000.0,82',500.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
 2022-12-07,49,3,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1373.0,Index,0.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
 2022-12-07,49,3,02 Dry Bulk,Panamax Spot,Transatlantic RV,16245.0,Panamax,635.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
 2022-12-07,49,3,02 Dry Bulk,Panamax Spot,TCE Far East/Cont,9266.0,Panamax,447.0,corpus/01-brokers/fearnleys/2022/fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022.pdf
@@ -5007,10 +5007,10 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2023-02-01,6,2,01 Tankers,Fleet Availability,Available in MEG next 30 days,142.0,VLCC,-5.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023.pdf
 2023-02-01,6,3,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,19013.0,Capesize,444.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023.pdf
 2023-02-01,6,3,02 Dry Bulk,Capesize Spot,Pacific RV,2736.0,Capesize,127.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023.pdf
-2023-02-01,6,3,02 Dry Bulk,Dry 1Y TC,Supramax,12000.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023.pdf
-2023-02-01,6,3,02 Dry Bulk,Dry 1Y TC,Ultramax,180.0,64',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023.pdf
-2023-02-01,6,3,02 Dry Bulk,Dry 1Y TC,Capesize,180.0,180',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023.pdf
-2023-02-01,6,3,02 Dry Bulk,Dry 1Y TC,Panamax,5140.0,75',-300.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023.pdf
+2023-02-01,6,3,02 Dry Bulk,Dry 1Y TC,Supramax,12500.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023.pdf
+2023-02-01,6,3,02 Dry Bulk,Dry 1Y TC,Ultramax,14250.0,64',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023.pdf
+2023-02-01,6,3,02 Dry Bulk,Dry 1Y TC,Capesize,16000.0,180',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023.pdf
+2023-02-01,6,3,02 Dry Bulk,Dry 1Y TC,Panamax,15500.0,75',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023.pdf
 2023-02-01,6,3,02 Dry Bulk,Dry 1Y TC,Newcastlemax,19500.0,208',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023.pdf
 2023-02-01,6,3,02 Dry Bulk,Dry 1Y TC,Kamsarmax,16500.0,82',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023.pdf
 2023-02-01,6,3,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),603.0,Index,0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023.pdf
@@ -5364,10 +5364,10 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2023-03-15,12,2,01 Tankers,Fleet Availability,Available in MEG next 30 days,148.0,VLCC,-3.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf
 2023-03-15,12,3,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,27444.0,Capesize,-1181.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf
 2023-03-15,12,3,02 Dry Bulk,Capesize Spot,Pacific RV,16509.0,Capesize,-1296.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf
-2023-03-15,12,3,02 Dry Bulk,Dry 1Y TC,Capesize,180.0,180',-1181.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf
-2023-03-15,12,3,02 Dry Bulk,Dry 1Y TC,Panamax,12445.0,75',-415.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf
-2023-03-15,12,3,02 Dry Bulk,Dry 1Y TC,Supramax,15329.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf
-2023-03-15,12,3,02 Dry Bulk,Dry 1Y TC,Newcastlemax,25750.0,208',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf
+2023-03-15,12,3,02 Dry Bulk,Dry 1Y TC,Capesize,20750.0,180',750.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf
+2023-03-15,12,3,02 Dry Bulk,Dry 1Y TC,Panamax,17000.0,75',-500.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf
+2023-03-15,12,3,02 Dry Bulk,Dry 1Y TC,Supramax,14500.0,58',-1000.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf
+2023-03-15,12,3,02 Dry Bulk,Dry 1Y TC,Newcastlemax,25750.0,208',1250.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf
 2023-03-15,12,3,02 Dry Bulk,Dry 1Y TC,Kamsarmax,18500.0,82',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf
 2023-03-15,12,3,02 Dry Bulk,Dry 1Y TC,Ultramax,15750.0,64',-2250.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf
 2023-03-15,12,3,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1456.0,Index,0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.pdf
@@ -5544,12 +5544,12 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2023-04-12,16,2,01 Tankers,Fleet Availability,Available in MEG next 30 days,139.0,VLCC,19.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
 2023-04-12,16,3,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,32825.0,Capesize,-575.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
 2023-04-12,16,3,02 Dry Bulk,Capesize Spot,Pacific RV,10659.0,Capesize,-296.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
-2023-04-12,16,3,02 Dry Bulk,Dry 1Y TC,Capesize,180.0,180',-575.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
-2023-04-12,16,3,02 Dry Bulk,Dry 1Y TC,Panamax,13585.0,75',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
-2023-04-12,16,3,02 Dry Bulk,Dry 1Y TC,Supramax,15079.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
+2023-04-12,16,3,02 Dry Bulk,Dry 1Y TC,Capesize,21500.0,180',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
+2023-04-12,16,3,02 Dry Bulk,Dry 1Y TC,Panamax,17000.0,75',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
+2023-04-12,16,3,02 Dry Bulk,Dry 1Y TC,Supramax,16000.0,58',1250.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
 2023-04-12,16,3,02 Dry Bulk,Dry 1Y TC,Newcastlemax,26500.0,208',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
 2023-04-12,16,3,02 Dry Bulk,Dry 1Y TC,Kamsarmax,18500.0,82',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
-2023-04-12,16,3,02 Dry Bulk,Dry 1Y TC,Ultramax,17500.0,64',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
+2023-04-12,16,3,02 Dry Bulk,Dry 1Y TC,Ultramax,17500.0,64',500.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
 2023-04-12,16,3,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1372.0,Index,0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
 2023-04-12,16,3,02 Dry Bulk,Panamax Spot,Transatlantic RV,13585.0,Panamax,75.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
 2023-04-12,16,3,02 Dry Bulk,Panamax Spot,TCE Far East/Cont,8313.0,Panamax,-87.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023.pdf
@@ -5668,9 +5668,9 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2023-04-26,18,2,01 Tankers,Fleet Availability,Available in MEG next 30 days,162.0,VLCC,15.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W18_Fearnleys-Weekly-Report-Week-17-April-26-2023.pdf
 2023-04-26,18,3,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38869.0,Capesize,6.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W18_Fearnleys-Weekly-Report-Week-17-April-26-2023.pdf
 2023-04-26,18,3,02 Dry Bulk,Capesize Spot,Pacific RV,16864.0,Capesize,-368.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W18_Fearnleys-Weekly-Report-Week-17-April-26-2023.pdf
-2023-04-26,18,3,02 Dry Bulk,Dry 1Y TC,Capesize,180.0,180',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W18_Fearnleys-Weekly-Report-Week-17-April-26-2023.pdf
-2023-04-26,18,3,02 Dry Bulk,Dry 1Y TC,Panamax,12270.0,75',-165.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W18_Fearnleys-Weekly-Report-Week-17-April-26-2023.pdf
-2023-04-26,18,3,02 Dry Bulk,Dry 1Y TC,Supramax,14679.0,58',-1118.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W18_Fearnleys-Weekly-Report-Week-17-April-26-2023.pdf
+2023-04-26,18,3,02 Dry Bulk,Dry 1Y TC,Capesize,21500.0,180',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W18_Fearnleys-Weekly-Report-Week-17-April-26-2023.pdf
+2023-04-26,18,3,02 Dry Bulk,Dry 1Y TC,Panamax,16000.0,75',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W18_Fearnleys-Weekly-Report-Week-17-April-26-2023.pdf
+2023-04-26,18,3,02 Dry Bulk,Dry 1Y TC,Supramax,16000.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W18_Fearnleys-Weekly-Report-Week-17-April-26-2023.pdf
 2023-04-26,18,3,02 Dry Bulk,Dry 1Y TC,Newcastlemax,26500.0,208',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W18_Fearnleys-Weekly-Report-Week-17-April-26-2023.pdf
 2023-04-26,18,3,02 Dry Bulk,Dry 1Y TC,Kamsarmax,17500.0,82',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W18_Fearnleys-Weekly-Report-Week-17-April-26-2023.pdf
 2023-04-26,18,3,02 Dry Bulk,Dry 1Y TC,Ultramax,17500.0,64',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W18_Fearnleys-Weekly-Report-Week-17-April-26-2023.pdf
@@ -6285,11 +6285,11 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2023-07-12,28,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W28_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf
 2023-07-12,28,7,02 Dry Bulk,Capesize Spot,Australia/China,8.11,Capesize,0.01,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W28_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf
 2023-07-12,28,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W28_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf
-2023-07-12,28,9,02 Dry Bulk,Dry 1Y TC,Supramax,10500.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W28_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf
+2023-07-12,28,9,02 Dry Bulk,Dry 1Y TC,Supramax,10500.0,58',500.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W28_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf
 2023-07-12,28,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,19500.0,208',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W28_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf
 2023-07-12,28,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,82.0,82',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W28_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf
 2023-07-12,28,8,02 Dry Bulk,Dry 1Y TC,Ultramax,64.0,64',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W28_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf
-2023-07-12,28,9,02 Dry Bulk,Dry 1Y TC,Capesize,15000.0,75',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W28_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf
+2023-07-12,28,9,02 Dry Bulk,Dry 1Y TC,Capesize,15000.0,180',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W28_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf
 2023-07-12,28,9,02 Dry Bulk,Dry 1Y TC,Panamax,75.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W28_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf
 2023-07-12,28,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1088.0,Index,56.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W28_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf
 2023-07-12,28,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,10525.0,Capesize,-42.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W28_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf
@@ -6576,8 +6576,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2023-08-16,33,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,14000.0,82',500.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W33_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-08-16,33,8,02 Dry Bulk,Dry 1Y TC,Ultramax,13750.0,64',1250.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W33_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-08-16,33,8,02 Dry Bulk,Dry 1Y TC,Capesize,14700.0,180',200.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W33_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2023-08-16,33,9,02 Dry Bulk,Dry 1Y TC,Panamax,12500.0,75',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W33_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2023-08-16,33,9,02 Dry Bulk,Dry 1Y TC,Supramax,11750.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W33_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2023-08-16,33,9,02 Dry Bulk,Dry 1Y TC,Panamax,12500.0,75',500.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W33_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2023-08-16,33,9,02 Dry Bulk,Dry 1Y TC,Supramax,11750.0,58',1250.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W33_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-08-16,33,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1233.0,Index,67.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W33_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-08-16,33,7,02 Dry Bulk,Dry Spot,Australia/China,8.1,Capesize,0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W33_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-08-16,33,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,10788.0,Capesize,0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W33_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
@@ -6893,7 +6893,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2023-09-13,37,8,02 Dry Bulk,Dry 1Y TC,Ultramax,13750.0,64',250.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-09-13,37,8,02 Dry Bulk,Dry 1Y TC,Capesize,14450.0,180',600.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-09-13,37,9,02 Dry Bulk,Dry 1Y TC,Panamax,12350.0,75',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2023-09-13,37,9,02 Dry Bulk,Dry 1Y TC,Supramax,11750.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2023-09-13,37,9,02 Dry Bulk,Dry 1Y TC,Supramax,11750.0,58',750.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-09-13,37,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1290.0,Index,55.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-09-13,37,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,20879.0,Capesize,0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-09-13,37,7,02 Dry Bulk,Dry Spot,Australia/China,8.36,Capesize,0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
@@ -6970,8 +6970,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2023-09-20,38,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,14100.0,82',300.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W38_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-09-20,38,8,02 Dry Bulk,Dry 1Y TC,Ultramax,14250.0,64',500.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W38_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-09-20,38,8,02 Dry Bulk,Dry 1Y TC,Capesize,180.0,180',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W38_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2023-09-20,38,9,02 Dry Bulk,Dry 1Y TC,Panamax,12400.0,75',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W38_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2023-09-20,38,9,02 Dry Bulk,Dry 1Y TC,Supramax,12500.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W38_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2023-09-20,38,9,02 Dry Bulk,Dry 1Y TC,Panamax,12400.0,75',50.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W38_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2023-09-20,38,9,02 Dry Bulk,Dry 1Y TC,Supramax,12500.0,58',750.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W38_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-09-20,38,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1584.0,Index,58.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W38_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-09-20,38,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,24500.0,Capesize,0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W38_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-09-20,38,7,02 Dry Bulk,Dry Spot,Australia/China,9.47,Capesize,-0.17,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W38_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
@@ -7051,7 +7051,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2023-10-04,40,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13900.0,82',-100.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W40_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2023-10-04,40,8,02 Dry Bulk,Dry 1Y TC,Ultramax,14000.0,64',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W40_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2023-10-04,40,8,02 Dry Bulk,Dry 1Y TC,Capesize,15700.0,180',200.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W40_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
-2023-10-04,40,9,02 Dry Bulk,Dry 1Y TC,Panamax,12800.0,75',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W40_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
+2023-10-04,40,9,02 Dry Bulk,Dry 1Y TC,Panamax,12800.0,75',400.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W40_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2023-10-04,40,9,02 Dry Bulk,Dry 1Y TC,Supramax,12000.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W40_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2023-10-04,40,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1701.0,Index,-15.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W40_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2023-10-04,40,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,24792.0,Capesize,-283.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W40_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
@@ -7140,12 +7140,12 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2023-10-18,42,6,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
 2023-10-18,42,7,02 Dry Bulk,Capesize Spot,Australia/China,11.22,Capesize,0.19,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
 2023-10-18,42,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
-2023-10-18,42,9,02 Dry Bulk,Dry 1Y TC,Supramax,12000.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
+2023-10-18,42,9,02 Dry Bulk,Dry 1Y TC,Supramax,12000.0,58',500.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
 2023-10-18,42,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,20500.0,208',900.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
 2023-10-18,42,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13800.0,82',200.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
 2023-10-18,42,8,02 Dry Bulk,Dry 1Y TC,Ultramax,13750.0,64',250.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
-2023-10-18,42,9,02 Dry Bulk,Dry 1Y TC,Capesize,16500.0,180',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
-2023-10-18,42,9,02 Dry Bulk,Dry 1Y TC,Panamax,12650.0,75',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
+2023-10-18,42,9,02 Dry Bulk,Dry 1Y TC,Capesize,16500.0,180',900.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
+2023-10-18,42,9,02 Dry Bulk,Dry 1Y TC,Panamax,12650.0,75',200.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
 2023-10-18,42,9,02 Dry Bulk,Dry 1Y TC,Handysize,11000.0,38',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
 2023-10-18,42,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2105.0,Index,47.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
 2023-10-18,42,7,02 Dry Bulk,Dry Spot,Australia/China,11.22,Capesize,0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W42_Fearnleys-Weekly-Report.pdf
@@ -7308,7 +7308,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2023-11-01,44,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,17500.0,208',-1500.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W44_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2023-11-01,44,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13245.0,82',-155.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W44_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2023-11-01,44,8,02 Dry Bulk,Dry 1Y TC,Ultramax,12750.0,64',-750.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W44_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
-2023-11-01,44,9,02 Dry Bulk,Dry 1Y TC,Capesize,13500.0,75',-1500.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W44_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2023-11-01,44,9,02 Dry Bulk,Dry 1Y TC,Capesize,13500.0,180',-1500.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W44_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2023-11-01,44,9,02 Dry Bulk,Dry 1Y TC,Panamax,75.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W44_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2023-11-01,44,9,02 Dry Bulk,Dry 1Y TC,Handysize,10250.0,38',-250.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W44_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2023-11-01,44,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1401.0,Index,-58.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W44_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
@@ -7474,13 +7474,13 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2023-11-15,46,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-11-15,46,7,02 Dry Bulk,Capesize Spot,Australia/China,10.37,Capesize,0.42,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-11-15,46,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2023-11-15,46,9,02 Dry Bulk,Dry 1Y TC,Supramax,11250.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2023-11-15,46,9,02 Dry Bulk,Dry 1Y TC,Supramax,11250.0,58',500.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-11-15,46,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,18900.0,208',700.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-11-15,46,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13350.0,82',-115.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-11-15,46,8,02 Dry Bulk,Dry 1Y TC,Ultramax,12750.0,64',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2023-11-15,46,9,02 Dry Bulk,Dry 1Y TC,Capesize,14900.0,180',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2023-11-15,46,9,02 Dry Bulk,Dry 1Y TC,Capesize,14900.0,180',700.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-11-15,46,9,02 Dry Bulk,Dry 1Y TC,Panamax,12300.0,75',-50.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2023-11-15,46,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2023-11-15,46,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',1750.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-11-15,46,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1688.0,Index,26.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-11-15,46,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,19613.0,Capesize,0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2023-11-15,46,7,02 Dry Bulk,Dry Spot,Australia/China,10.37,Capesize,0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
@@ -7557,12 +7557,12 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2023-11-22,47,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-11-22,47,7,02 Dry Bulk,Capesize Spot,Australia/China,9.16,Capesize,-0.51,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-11-22,47,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2023-11-22,47,9,02 Dry Bulk,Dry 1Y TC,Supramax,12000.0,58',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2023-11-22,47,9,02 Dry Bulk,Dry 1Y TC,Supramax,12000.0,58',750.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-11-22,47,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,19500.0,208',600.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2023-11-22,47,9,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13650.0,82',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2023-11-22,47,9,02 Dry Bulk,Dry 1Y TC,Ultramax,14000.0,64',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2023-11-22,47,9,02 Dry Bulk,Dry 1Y TC,Capesize,15500.0,180',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2023-11-22,47,9,02 Dry Bulk,Dry 1Y TC,Panamax,12700.0,75',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2023-11-22,47,9,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13650.0,82',300.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2023-11-22,47,9,02 Dry Bulk,Dry 1Y TC,Ultramax,14000.0,64',1250.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2023-11-22,47,9,02 Dry Bulk,Dry 1Y TC,Capesize,15500.0,180',600.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2023-11-22,47,9,02 Dry Bulk,Dry 1Y TC,Panamax,12700.0,75',400.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-11-22,47,9,02 Dry Bulk,Dry 1Y TC,Handysize,11000.0,38',-1000.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-11-22,47,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1755.0,Index,-41.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-11-22,47,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,20292.0,Capesize,0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
@@ -7703,8 +7703,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2023-12-13,50,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,22100.0,208',500.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W50_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-12-13,50,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,82.0,82',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W50_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-12-13,50,9,02 Dry Bulk,Dry 1Y TC,Ultramax,14500.0,64',-1000.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W50_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2023-12-13,50,9,02 Dry Bulk,Dry 1Y TC,Capesize,18100.0,180',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W50_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2023-12-13,50,9,02 Dry Bulk,Dry 1Y TC,Panamax,14500.0,75',0.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W50_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2023-12-13,50,9,02 Dry Bulk,Dry 1Y TC,Capesize,18100.0,180',500.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W50_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2023-12-13,50,9,02 Dry Bulk,Dry 1Y TC,Panamax,14500.0,75',300.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W50_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-12-13,50,9,02 Dry Bulk,Dry 1Y TC,Handysize,11000.0,38',-1000.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W50_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-12-13,50,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2438.0,Index,-113.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W50_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2023-12-13,50,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,26954.0,Capesize,-179.0,corpus/01-brokers/fearnleys/2023/fearnleys_2023_W50_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
@@ -8029,7 +8029,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-01-17,3,6,02 Dry Bulk,Capesize Spot,Pacific RV,10000.0,Capesize,-7.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W03_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-01-17,3,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W03_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-01-17,3,7,02 Dry Bulk,Capesize Spot,Australia/China,7.8,Capesize,-0.02,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W03_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2024-01-17,3,9,02 Dry Bulk,Dry 1Y TC,Supramax,13500.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W03_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2024-01-17,3,9,02 Dry Bulk,Dry 1Y TC,Supramax,13500.0,58',750.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W03_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-01-17,3,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,22370.0,208',-30.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W03_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-01-17,3,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13550.0,82',-1050.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W03_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-01-17,3,8,02 Dry Bulk,Dry 1Y TC,Ultramax,15000.0,64',1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W03_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
@@ -8112,12 +8112,12 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-01-24,4,6,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-01-24,4,7,02 Dry Bulk,Capesize Spot,Australia/China,8.15,Capesize,0.36,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-01-24,4,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
-2024-01-24,4,9,02 Dry Bulk,Dry 1Y TC,Supramax,14500.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
+2024-01-24,4,9,02 Dry Bulk,Dry 1Y TC,Supramax,14500.0,58',1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-01-24,4,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,23300.0,208',930.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-01-24,4,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,14850.0,82',300.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-01-24,4,8,02 Dry Bulk,Dry 1Y TC,Ultramax,16000.0,64',1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
-2024-01-24,4,9,02 Dry Bulk,Dry 1Y TC,Capesize,19300.0,180',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
-2024-01-24,4,9,02 Dry Bulk,Dry 1Y TC,Panamax,13500.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
+2024-01-24,4,9,02 Dry Bulk,Dry 1Y TC,Capesize,19300.0,180',930.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
+2024-01-24,4,9,02 Dry Bulk,Dry 1Y TC,Panamax,13500.0,75',300.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-01-24,4,9,02 Dry Bulk,Dry 1Y TC,Handysize,12500.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-01-24,4,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1507.0,Index,34.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-01-24,4,7,02 Dry Bulk,Dry Spot,Australia/China,8.15,Capesize,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
@@ -8199,10 +8199,10 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-01-31,5,9,02 Dry Bulk,Dry 1Y TC,Supramax,14500.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4.pdf
 2024-01-31,5,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,24000.0,208',700.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4.pdf
 2024-01-31,5,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,16000.0,82',1150.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4.pdf
-2024-01-31,5,9,02 Dry Bulk,Dry 1Y TC,Ultramax,16500.0,64',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4.pdf
-2024-01-31,5,9,02 Dry Bulk,Dry 1Y TC,Capesize,20000.0,180',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4.pdf
-2024-01-31,5,9,02 Dry Bulk,Dry 1Y TC,Panamax,14500.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4.pdf
-2024-01-31,5,9,02 Dry Bulk,Dry 1Y TC,Handysize,13500.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4.pdf
+2024-01-31,5,9,02 Dry Bulk,Dry 1Y TC,Ultramax,16500.0,64',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4.pdf
+2024-01-31,5,9,02 Dry Bulk,Dry 1Y TC,Capesize,20000.0,180',700.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4.pdf
+2024-01-31,5,9,02 Dry Bulk,Dry 1Y TC,Panamax,14500.0,75',1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4.pdf
+2024-01-31,5,9,02 Dry Bulk,Dry 1Y TC,Handysize,13500.0,38',1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4.pdf
 2024-01-31,5,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1397.0,Index,-63.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4.pdf
 2024-01-31,5,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,25413.0,Capesize,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4.pdf
 2024-01-31,5,7,02 Dry Bulk,Dry Spot,Australia/China,7.96,Capesize,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4.pdf
@@ -8285,7 +8285,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-02-07,6,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,16800.0,82',800.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W06_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2024-02-07,6,8,02 Dry Bulk,Dry 1Y TC,Ultramax,16500.0,64',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W06_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2024-02-07,6,8,02 Dry Bulk,Dry 1Y TC,Capesize,23280.0,180',3280.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W06_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2024-02-07,6,9,02 Dry Bulk,Dry 1Y TC,Panamax,15500.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W06_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2024-02-07,6,9,02 Dry Bulk,Dry 1Y TC,Panamax,15500.0,75',1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W06_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2024-02-07,6,9,02 Dry Bulk,Dry 1Y TC,Supramax,14500.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W06_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2024-02-07,6,9,02 Dry Bulk,Dry 1Y TC,Handysize,13500.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W06_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2024-02-07,6,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1487.0,Index,-29.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W06_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
@@ -8370,7 +8370,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-02-14,7,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,17000.0,82',200.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W07_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2024-02-14,7,8,02 Dry Bulk,Dry 1Y TC,Ultramax,64.0,64',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W07_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2024-02-14,7,9,02 Dry Bulk,Dry 1Y TC,Capesize,22850.0,180',-430.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W07_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
-2024-02-14,7,9,02 Dry Bulk,Dry 1Y TC,Panamax,15750.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W07_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
+2024-02-14,7,9,02 Dry Bulk,Dry 1Y TC,Panamax,15750.0,75',250.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W07_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2024-02-14,7,9,02 Dry Bulk,Dry 1Y TC,Handysize,13500.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W07_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2024-02-14,7,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1585.0,Index,13.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W07_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2024-02-14,7,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,26142.0,Capesize,-83.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W07_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
@@ -8451,8 +8451,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-02-21,8,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,18000.0,82',1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-02-21,8,8,02 Dry Bulk,Dry 1Y TC,Ultramax,16750.0,64',250.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-02-21,8,8,02 Dry Bulk,Dry 1Y TC,Capesize,180.0,180',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2024-02-21,8,9,02 Dry Bulk,Dry 1Y TC,Panamax,16550.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2024-02-21,8,9,02 Dry Bulk,Dry 1Y TC,Supramax,14750.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2024-02-21,8,9,02 Dry Bulk,Dry 1Y TC,Panamax,16550.0,75',800.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2024-02-21,8,9,02 Dry Bulk,Dry 1Y TC,Supramax,14750.0,58',250.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-02-21,8,9,02 Dry Bulk,Dry 1Y TC,Handysize,13500.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-02-21,8,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1632.0,Index,3.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-02-21,8,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,25996.0,Capesize,-154.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
@@ -8531,12 +8531,12 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-02-28,9,6,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-02-28,9,7,02 Dry Bulk,Capesize Spot,Australia/China,12.16,Capesize,1.07,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-02-28,9,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
-2024-02-28,9,9,02 Dry Bulk,Dry 1Y TC,Supramax,16000.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
+2024-02-28,9,9,02 Dry Bulk,Dry 1Y TC,Supramax,16000.0,58',1250.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-02-28,9,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,30500.0,208',3600.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-02-28,9,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,18050.0,82',50.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-02-28,9,8,02 Dry Bulk,Dry 1Y TC,Ultramax,17000.0,64',250.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
-2024-02-28,9,9,02 Dry Bulk,Dry 1Y TC,Capesize,26500.0,180',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
-2024-02-28,9,9,02 Dry Bulk,Dry 1Y TC,Panamax,16850.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
+2024-02-28,9,9,02 Dry Bulk,Dry 1Y TC,Capesize,26500.0,180',3600.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
+2024-02-28,9,9,02 Dry Bulk,Dry 1Y TC,Panamax,16850.0,75',300.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-02-28,9,9,02 Dry Bulk,Dry 1Y TC,Handysize,12500.0,38',-1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-02-28,9,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2041.0,Index,142.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2024-02-28,9,7,02 Dry Bulk,Dry Spot,Australia/China,12.16,Capesize,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
@@ -8613,8 +8613,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-03-13,11,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2024-03-13,11,7,02 Dry Bulk,Capesize Spot,Australia/China,12.95,Capesize,-0.18,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2024-03-13,11,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2024-03-13,11,8,02 Dry Bulk,Dry 1Y TC,Panamax,14805.0,75',1515.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2024-03-13,11,8,02 Dry Bulk,Dry 1Y TC,Supramax,12534.0,58',279.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2024-03-13,11,9,02 Dry Bulk,Dry 1Y TC,Panamax,18500.0,75',1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2024-03-13,11,9,02 Dry Bulk,Dry 1Y TC,Supramax,15500.0,58',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2024-03-13,11,9,02 Dry Bulk,Dry 1Y TC,Newcastlemax,32880.0,208',1940.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2024-03-13,11,9,02 Dry Bulk,Dry 1Y TC,Kamsarmax,20000.0,82',1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2024-03-13,11,9,02 Dry Bulk,Dry 1Y TC,Ultramax,17500.0,64',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
@@ -8695,8 +8695,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-03-20,12,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1-1.pdf
 2024-03-20,12,7,02 Dry Bulk,Capesize Spot,Australia/China,11.97,Capesize,-1.1,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1-1.pdf
 2024-03-20,12,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1-1.pdf
-2024-03-20,12,8,02 Dry Bulk,Dry 1Y TC,Panamax,19710.0,75',325.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1-1.pdf
-2024-03-20,12,8,02 Dry Bulk,Dry 1Y TC,Supramax,14036.0,58',202.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1-1.pdf
+2024-03-20,12,9,02 Dry Bulk,Dry 1Y TC,Panamax,18500.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1-1.pdf
+2024-03-20,12,9,02 Dry Bulk,Dry 1Y TC,Supramax,15000.0,58',-500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1-1.pdf
 2024-03-20,12,9,02 Dry Bulk,Dry 1Y TC,Newcastlemax,29450.0,208',-3430.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1-1.pdf
 2024-03-20,12,9,02 Dry Bulk,Dry 1Y TC,Kamsarmax,20000.0,82',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1-1.pdf
 2024-03-20,12,9,02 Dry Bulk,Dry 1Y TC,Ultramax,17500.0,64',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1-1.pdf
@@ -8868,7 +8868,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-04-24,17,8,02 Dry Bulk,Dry 1Y TC,Ultramax,18250.0,64',750.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W17_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-04-24,17,8,02 Dry Bulk,Dry 1Y TC,Capesize,180.0,180',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W17_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-04-24,17,9,02 Dry Bulk,Dry 1Y TC,Panamax,16500.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W17_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2024-04-24,17,9,02 Dry Bulk,Dry 1Y TC,Supramax,15750.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W17_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2024-04-24,17,9,02 Dry Bulk,Dry 1Y TC,Supramax,15750.0,58',750.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W17_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-04-24,17,9,02 Dry Bulk,Dry 1Y TC,Handysize,14000.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W17_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-04-24,17,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1774.0,Index,-30.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W17_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2024-04-24,17,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,26583.0,Capesize,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W17_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
@@ -9201,7 +9201,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-05-29,22,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W22_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-6.pdf
 2024-05-29,22,7,02 Dry Bulk,Capesize Spot,Australia/China,10.1,Capesize,0.12,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W22_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-6.pdf
 2024-05-29,22,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W22_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-6.pdf
-2024-05-29,22,9,02 Dry Bulk,Dry 1Y TC,Supramax,16000.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W22_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-6.pdf
+2024-05-29,22,9,02 Dry Bulk,Dry 1Y TC,Supramax,16000.0,58',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W22_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-6.pdf
 2024-05-29,22,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,26700.0,208',-600.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W22_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-6.pdf
 2024-05-29,22,9,02 Dry Bulk,Dry 1Y TC,Kamsarmax,18200.0,82',-500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W22_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-6.pdf
 2024-05-29,22,9,02 Dry Bulk,Dry 1Y TC,Ultramax,17000.0,64',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W22_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-6.pdf
@@ -9370,12 +9370,12 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-06-12,24,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,0.0,Capesize,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
 2024-06-12,24,7,02 Dry Bulk,Capesize Spot,Australia/China,0.0,Capesize,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
 2024-06-12,24,7,02 Dry Bulk,Capesize Spot,Pacific RV,0.0,Capesize,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
-2024-06-12,24,9,02 Dry Bulk,Dry 1Y TC,Supramax,14750.0,38',-250.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
+2024-06-12,24,9,02 Dry Bulk,Dry 1Y TC,Supramax,14750.0,58',-250.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
 2024-06-12,24,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,26950.0,208',150.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
 2024-06-12,24,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,18300.0,82',100.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
 2024-06-12,24,8,02 Dry Bulk,Dry 1Y TC,Ultramax,17000.0,64',-500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
-2024-06-12,24,9,02 Dry Bulk,Dry 1Y TC,Capesize,22950.0,180',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
-2024-06-12,24,9,02 Dry Bulk,Dry 1Y TC,Panamax,17000.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
+2024-06-12,24,9,02 Dry Bulk,Dry 1Y TC,Capesize,22950.0,180',150.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
+2024-06-12,24,9,02 Dry Bulk,Dry 1Y TC,Panamax,17000.0,75',100.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
 2024-06-12,24,9,02 Dry Bulk,Dry 1Y TC,Handysize,38.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
 2024-06-12,24,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),0.0,Index,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
 2024-06-12,24,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,0.0,Capesize,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse.pdf
@@ -9435,11 +9435,11 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-06-19,25,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-06-19,25,7,02 Dry Bulk,Capesize Spot,Australia/China,10.63,Capesize,-0.11,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-06-19,25,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
-2024-06-19,25,9,02 Dry Bulk,Dry 1Y TC,Supramax,15000.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
+2024-06-19,25,9,02 Dry Bulk,Dry 1Y TC,Supramax,15000.0,58',250.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-06-19,25,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,27450.0,208',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-06-19,25,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,18000.0,82',-300.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-06-19,25,8,02 Dry Bulk,Dry 1Y TC,Ultramax,17500.0,64',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
-2024-06-19,25,9,02 Dry Bulk,Dry 1Y TC,Capesize,23450.0,180',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
+2024-06-19,25,9,02 Dry Bulk,Dry 1Y TC,Capesize,23450.0,180',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-06-19,25,9,02 Dry Bulk,Dry 1Y TC,Panamax,16700.0,75',-300.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-06-19,25,9,02 Dry Bulk,Dry 1Y TC,Handysize,13000.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-06-19,25,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1943.0,Index,-18.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
@@ -9525,7 +9525,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-06-26,26,9,02 Dry Bulk,Dry 1Y TC,Ultramax,17000.0,64',-500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-2.pdf
 2024-06-26,26,9,02 Dry Bulk,Dry 1Y TC,Capesize,22050.0,180',-1400.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-2.pdf
 2024-06-26,26,9,02 Dry Bulk,Dry 1Y TC,Panamax,16700.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-2.pdf
-2024-06-26,26,9,02 Dry Bulk,Dry 1Y TC,Handysize,14000.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-2.pdf
+2024-06-26,26,9,02 Dry Bulk,Dry 1Y TC,Handysize,14000.0,38',1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-2.pdf
 2024-06-26,26,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1964.0,Index,38.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-2.pdf
 2024-06-26,26,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,21921.0,Capesize,-54.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-2.pdf
 2024-06-26,26,7,02 Dry Bulk,Dry Spot,Australia/China,10.6,Capesize,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-2.pdf
@@ -9608,7 +9608,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-07-03,27,8,02 Dry Bulk,Dry 1Y TC,Ultramax,17500.0,64',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5.pdf
 2024-07-03,27,8,02 Dry Bulk,Dry 1Y TC,Capesize,180.0,180',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5.pdf
 2024-07-03,27,9,02 Dry Bulk,Dry 1Y TC,Panamax,16400.0,75',-300.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5.pdf
-2024-07-03,27,9,02 Dry Bulk,Dry 1Y TC,Supramax,15500.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5.pdf
+2024-07-03,27,9,02 Dry Bulk,Dry 1Y TC,Supramax,15500.0,58',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5.pdf
 2024-07-03,27,9,02 Dry Bulk,Dry 1Y TC,Handysize,13000.0,38',-1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5.pdf
 2024-07-03,27,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2064.0,Index,-115.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5.pdf
 2024-07-03,27,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,21367.0,Capesize,-133.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5.pdf
@@ -9692,8 +9692,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-07-10,28,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,17750.0,82',250.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-07-10,28,8,02 Dry Bulk,Dry 1Y TC,Ultramax,17500.0,64',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-07-10,28,8,02 Dry Bulk,Dry 1Y TC,Capesize,180.0,180',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
-2024-07-10,28,9,02 Dry Bulk,Dry 1Y TC,Panamax,16500.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
-2024-07-10,28,9,02 Dry Bulk,Dry 1Y TC,Supramax,16000.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
+2024-07-10,28,9,02 Dry Bulk,Dry 1Y TC,Panamax,16500.0,75',100.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
+2024-07-10,28,9,02 Dry Bulk,Dry 1Y TC,Supramax,16000.0,58',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-07-10,28,9,02 Dry Bulk,Dry 1Y TC,Handysize,12500.0,38',-500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-07-10,28,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1939.0,Index,45.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-07-10,28,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,21475.0,Capesize,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
@@ -9827,7 +9827,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-07-24,30,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,18250.0,82',250.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W30_Fearnleys-Weekly-Report-_-Fearnpulse30.pdf
 2024-07-24,30,8,02 Dry Bulk,Dry 1Y TC,Ultramax,17500.0,64',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W30_Fearnleys-Weekly-Report-_-Fearnpulse30.pdf
 2024-07-24,30,9,02 Dry Bulk,Dry 1Y TC,Capesize,24200.0,180',-100.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W30_Fearnleys-Weekly-Report-_-Fearnpulse30.pdf
-2024-07-24,30,9,02 Dry Bulk,Dry 1Y TC,Panamax,17000.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W30_Fearnleys-Weekly-Report-_-Fearnpulse30.pdf
+2024-07-24,30,9,02 Dry Bulk,Dry 1Y TC,Panamax,17000.0,75',50.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W30_Fearnleys-Weekly-Report-_-Fearnpulse30.pdf
 2024-07-24,30,9,02 Dry Bulk,Dry 1Y TC,Handysize,12500.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W30_Fearnleys-Weekly-Report-_-Fearnpulse30.pdf
 2024-07-24,30,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1864.0,Index,-5.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W30_Fearnleys-Weekly-Report-_-Fearnpulse30.pdf
 2024-07-24,30,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,21063.0,Capesize,-162.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W30_Fearnleys-Weekly-Report-_-Fearnpulse30.pdf
@@ -9995,9 +9995,9 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-08-07,32,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,27250.0,208',550.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed.pdf
 2024-08-07,32,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,17300.0,82',-700.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed.pdf
 2024-08-07,32,8,02 Dry Bulk,Dry 1Y TC,Ultramax,17000.0,64',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed.pdf
-2024-08-07,32,9,02 Dry Bulk,Dry 1Y TC,Capesize,23250.0,180',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed.pdf
+2024-08-07,32,9,02 Dry Bulk,Dry 1Y TC,Capesize,23250.0,180',550.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed.pdf
 2024-08-07,32,9,02 Dry Bulk,Dry 1Y TC,Panamax,16150.0,75',-550.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed.pdf
-2024-08-07,32,9,02 Dry Bulk,Dry 1Y TC,Handysize,13500.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed.pdf
+2024-08-07,32,9,02 Dry Bulk,Dry 1Y TC,Handysize,13500.0,38',1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed.pdf
 2024-08-07,32,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1698.0,Index,13.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed.pdf
 2024-08-07,32,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,20250.0,Capesize,-92.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed.pdf
 2024-08-07,32,7,02 Dry Bulk,Dry Spot,Australia/China,9.88,Capesize,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed.pdf
@@ -10160,7 +10160,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-08-21,34,6,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W34_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
 2024-08-21,34,7,02 Dry Bulk,Capesize Spot,Australia/China,11.19,Capesize,0.28,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W34_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
 2024-08-21,34,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W34_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
-2024-08-21,34,9,02 Dry Bulk,Dry 1Y TC,Supramax,16000.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W34_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
+2024-08-21,34,9,02 Dry Bulk,Dry 1Y TC,Supramax,16000.0,58',1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W34_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
 2024-08-21,34,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,27150.0,208',-250.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W34_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
 2024-08-21,34,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,17150.0,82',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W34_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
 2024-08-21,34,8,02 Dry Bulk,Dry 1Y TC,Ultramax,17500.0,64',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W34_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
@@ -10248,8 +10248,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-09-04,36,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,16350.0,82',100.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W36_Fearnleys-Weekly-Report_-Fearnpulse.pdf
 2024-09-04,36,8,02 Dry Bulk,Dry 1Y TC,Ultramax,16500.0,64',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W36_Fearnleys-Weekly-Report_-Fearnpulse.pdf
 2024-09-04,36,8,02 Dry Bulk,Dry 1Y TC,Capesize,180.0,180',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W36_Fearnleys-Weekly-Report_-Fearnpulse.pdf
-2024-09-04,36,9,02 Dry Bulk,Dry 1Y TC,Panamax,15300.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W36_Fearnleys-Weekly-Report_-Fearnpulse.pdf
-2024-09-04,36,9,02 Dry Bulk,Dry 1Y TC,Supramax,15500.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W36_Fearnleys-Weekly-Report_-Fearnpulse.pdf
+2024-09-04,36,9,02 Dry Bulk,Dry 1Y TC,Panamax,15300.0,75',50.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W36_Fearnleys-Weekly-Report_-Fearnpulse.pdf
+2024-09-04,36,9,02 Dry Bulk,Dry 1Y TC,Supramax,15500.0,58',1500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W36_Fearnleys-Weekly-Report_-Fearnpulse.pdf
 2024-09-04,36,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W36_Fearnleys-Weekly-Report_-Fearnpulse.pdf
 2024-09-04,36,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1902.0,Index,-45.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W36_Fearnleys-Weekly-Report_-Fearnpulse.pdf
 2024-09-04,36,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,19179.0,Capesize,-259.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W36_Fearnleys-Weekly-Report_-Fearnpulse.pdf
@@ -10333,7 +10333,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-09-11,37,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,16500.0,82',150.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W37_Fearnleys-Weekly-Report-_-Fearnpulse24_compressed.pdf
 2024-09-11,37,8,02 Dry Bulk,Dry 1Y TC,Ultramax,16000.0,64',-500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W37_Fearnleys-Weekly-Report-_-Fearnpulse24_compressed.pdf
 2024-09-11,37,8,02 Dry Bulk,Dry 1Y TC,Capesize,23400.0,180',-255.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W37_Fearnleys-Weekly-Report-_-Fearnpulse24_compressed.pdf
-2024-09-11,37,9,02 Dry Bulk,Dry 1Y TC,Panamax,15400.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W37_Fearnleys-Weekly-Report-_-Fearnpulse24_compressed.pdf
+2024-09-11,37,9,02 Dry Bulk,Dry 1Y TC,Panamax,15400.0,75',100.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W37_Fearnleys-Weekly-Report-_-Fearnpulse24_compressed.pdf
 2024-09-11,37,9,02 Dry Bulk,Dry 1Y TC,Supramax,14500.0,58',-1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W37_Fearnleys-Weekly-Report-_-Fearnpulse24_compressed.pdf
 2024-09-11,37,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W37_Fearnleys-Weekly-Report-_-Fearnpulse24_compressed.pdf
 2024-09-11,37,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1963.0,Index,22.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W37_Fearnleys-Weekly-Report-_-Fearnpulse24_compressed.pdf
@@ -10417,7 +10417,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-09-18,38,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,16750.0,82',250.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W38_Fearnleys-Weekly-Report-_-Fearnpulse3_compressed.pdf
 2024-09-18,38,8,02 Dry Bulk,Dry 1Y TC,Ultramax,16500.0,64',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W38_Fearnleys-Weekly-Report-_-Fearnpulse3_compressed.pdf
 2024-09-18,38,8,02 Dry Bulk,Dry 1Y TC,Capesize,23250.0,180',-150.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W38_Fearnleys-Weekly-Report-_-Fearnpulse3_compressed.pdf
-2024-09-18,38,9,02 Dry Bulk,Dry 1Y TC,Panamax,15550.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W38_Fearnleys-Weekly-Report-_-Fearnpulse3_compressed.pdf
+2024-09-18,38,9,02 Dry Bulk,Dry 1Y TC,Panamax,15550.0,75',150.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W38_Fearnleys-Weekly-Report-_-Fearnpulse3_compressed.pdf
 2024-09-18,38,9,02 Dry Bulk,Dry 1Y TC,Supramax,14500.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W38_Fearnleys-Weekly-Report-_-Fearnpulse3_compressed.pdf
 2024-09-18,38,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W38_Fearnleys-Weekly-Report-_-Fearnpulse3_compressed.pdf
 2024-09-18,38,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1890.0,Index,-11.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W38_Fearnleys-Weekly-Report-_-Fearnpulse3_compressed.pdf
@@ -10496,13 +10496,13 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-09-25,39,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
 2024-09-25,39,7,02 Dry Bulk,Capesize Spot,Australia/China,11.59,Capesize,-0.09,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
 2024-09-25,39,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
-2024-09-25,39,9,02 Dry Bulk,Dry 1Y TC,Supramax,15000.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
+2024-09-25,39,9,02 Dry Bulk,Dry 1Y TC,Supramax,15000.0,58',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
 2024-09-25,39,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,27750.0,208',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
 2024-09-25,39,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,82.0,82',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
-2024-09-25,39,9,02 Dry Bulk,Dry 1Y TC,Ultramax,16750.0,64',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
-2024-09-25,39,9,02 Dry Bulk,Dry 1Y TC,Capesize,23750.0,180',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
+2024-09-25,39,9,02 Dry Bulk,Dry 1Y TC,Ultramax,16750.0,64',250.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
+2024-09-25,39,9,02 Dry Bulk,Dry 1Y TC,Capesize,23750.0,180',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
 2024-09-25,39,9,02 Dry Bulk,Dry 1Y TC,Panamax,15550.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
-2024-09-25,39,9,02 Dry Bulk,Dry 1Y TC,Handysize,12500.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
+2024-09-25,39,9,02 Dry Bulk,Dry 1Y TC,Handysize,12500.0,38',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
 2024-09-25,39,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2016.0,Index,2.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
 2024-09-25,39,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,19179.0,Capesize,-259.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
 2024-09-25,39,7,02 Dry Bulk,Dry Spot,Australia/China,11.59,Capesize,-0.09,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf
@@ -10672,7 +10672,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-10-23,43,8,02 Dry Bulk,Dry 1Y TC,Capesize,19330.0,180',-2420.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W43_Fearnleys-Weekly-Report-_-Fearnpulse13_compressed.pdf
 2024-10-23,43,8,02 Dry Bulk,Dry 1Y TC,Panamax,11650.0,75',-150.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W43_Fearnleys-Weekly-Report-_-Fearnpulse13_compressed.pdf
 2024-10-23,43,9,02 Dry Bulk,Dry 1Y TC,Supramax,15000.0,58',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W43_Fearnleys-Weekly-Report-_-Fearnpulse13_compressed.pdf
-2024-10-23,43,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W43_Fearnleys-Weekly-Report-_-Fearnpulse13_compressed.pdf
+2024-10-23,43,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',1000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W43_Fearnleys-Weekly-Report-_-Fearnpulse13_compressed.pdf
 2024-10-23,43,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1445.0,Index,-35.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W43_Fearnleys-Weekly-Report-_-Fearnpulse13_compressed.pdf
 2024-10-23,43,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,19179.0,Capesize,-259.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W43_Fearnleys-Weekly-Report-_-Fearnpulse13_compressed.pdf
 2024-10-23,43,6,02 Dry Bulk,Dry Spot,Australia/China,8.71,Capesize,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W43_Fearnleys-Weekly-Report-_-Fearnpulse13_compressed.pdf
@@ -10755,7 +10755,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-10-30,44,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13000.0,82',100.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W44_Fearnleys-Weekly-Report-_-Fearnpulse31_compressed.pdf
 2024-10-30,44,8,02 Dry Bulk,Dry 1Y TC,Ultramax,64.0,64',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W44_Fearnleys-Weekly-Report-_-Fearnpulse31_compressed.pdf
 2024-10-30,44,9,02 Dry Bulk,Dry 1Y TC,Capesize,18370.0,180',-960.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W44_Fearnleys-Weekly-Report-_-Fearnpulse31_compressed.pdf
-2024-10-30,44,9,02 Dry Bulk,Dry 1Y TC,Panamax,11800.0,75',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W44_Fearnleys-Weekly-Report-_-Fearnpulse31_compressed.pdf
+2024-10-30,44,9,02 Dry Bulk,Dry 1Y TC,Panamax,11800.0,75',150.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W44_Fearnleys-Weekly-Report-_-Fearnpulse31_compressed.pdf
 2024-10-30,44,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W44_Fearnleys-Weekly-Report-_-Fearnpulse31_compressed.pdf
 2024-10-30,44,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1395.0,Index,-7.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W44_Fearnleys-Weekly-Report-_-Fearnpulse31_compressed.pdf
 2024-10-30,44,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,19179.0,Capesize,-259.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W44_Fearnleys-Weekly-Report-_-Fearnpulse31_compressed.pdf
@@ -10838,7 +10838,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-11-06,45,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,23970.0,208',1600.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W45_Fearnleys-Weekly-Report-_-Fearnpulsesdsdf_compressed-1.pdf
 2024-11-06,45,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,82.0,82',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W45_Fearnleys-Weekly-Report-_-Fearnpulsesdsdf_compressed-1.pdf
 2024-11-06,45,9,02 Dry Bulk,Dry 1Y TC,Ultramax,15500.0,64',-500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W45_Fearnleys-Weekly-Report-_-Fearnpulsesdsdf_compressed-1.pdf
-2024-11-06,45,9,02 Dry Bulk,Dry 1Y TC,Capesize,19970.0,180',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W45_Fearnleys-Weekly-Report-_-Fearnpulsesdsdf_compressed-1.pdf
+2024-11-06,45,9,02 Dry Bulk,Dry 1Y TC,Capesize,19970.0,180',1600.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W45_Fearnleys-Weekly-Report-_-Fearnpulsesdsdf_compressed-1.pdf
 2024-11-06,45,9,02 Dry Bulk,Dry 1Y TC,Panamax,11300.0,75',-500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W45_Fearnleys-Weekly-Report-_-Fearnpulsesdsdf_compressed-1.pdf
 2024-11-06,45,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W45_Fearnleys-Weekly-Report-_-Fearnpulsesdsdf_compressed-1.pdf
 2024-11-06,45,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1427.0,Index,22.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W45_Fearnleys-Weekly-Report-_-Fearnpulsesdsdf_compressed-1.pdf
@@ -10924,7 +10924,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-11-20,47,9,02 Dry Bulk,Dry 1Y TC,Ultramax,13500.0,64',-750.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W47_Fearnleys-Weekly-Report-_-Fearnpulse20_compressed.pdf
 2024-11-20,47,9,02 Dry Bulk,Dry 1Y TC,Capesize,19500.0,180',-2050.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W47_Fearnleys-Weekly-Report-_-Fearnpulse20_compressed.pdf
 2024-11-20,47,9,02 Dry Bulk,Dry 1Y TC,Panamax,9800.0,75',-2000.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W47_Fearnleys-Weekly-Report-_-Fearnpulse20_compressed.pdf
-2024-11-20,47,9,02 Dry Bulk,Dry 1Y TC,Handysize,11500.0,38',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W47_Fearnleys-Weekly-Report-_-Fearnpulse20_compressed.pdf
+2024-11-20,47,9,02 Dry Bulk,Dry 1Y TC,Handysize,11500.0,38',500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W47_Fearnleys-Weekly-Report-_-Fearnpulse20_compressed.pdf
 2024-11-20,47,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1616.0,Index,-11.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W47_Fearnleys-Weekly-Report-_-Fearnpulse20_compressed.pdf
 2024-11-20,47,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,19179.0,Capesize,-259.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W47_Fearnleys-Weekly-Report-_-Fearnpulse20_compressed.pdf
 2024-11-20,47,7,02 Dry Bulk,Dry Spot,Australia/China,10.4,Capesize,0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W47_Fearnleys-Weekly-Report-_-Fearnpulse20_compressed.pdf
@@ -11101,7 +11101,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2024-12-18,51,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,21115.0,208',115.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W51_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-12-18,51,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,11550.0,82',-150.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W51_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-12-18,51,8,02 Dry Bulk,Dry 1Y TC,Ultramax,12500.0,64',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W51_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
-2024-12-18,51,9,02 Dry Bulk,Dry 1Y TC,Capesize,17115.0,180',0.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W51_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
+2024-12-18,51,9,02 Dry Bulk,Dry 1Y TC,Capesize,17115.0,180',115.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W51_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-12-18,51,9,02 Dry Bulk,Dry 1Y TC,Panamax,10200.0,75',-200.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W51_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-12-18,51,9,02 Dry Bulk,Dry 1Y TC,Handysize,10500.0,38',-500.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W51_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
 2024-12-18,51,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1028.0,Index,-25.0,corpus/01-brokers/fearnleys/2024/fearnleys_2024_W51_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1.pdf
@@ -11422,8 +11422,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-01-29,5,8,02 Dry Bulk,Dry 1Y TC,Ultramax,12500.0,64',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-01-29,5,8,02 Dry Bulk,Dry 1Y TC,Capesize,15035.0,180',-205.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-01-29,5,9,02 Dry Bulk,Dry 1Y TC,Panamax,9750.0,75',-250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2025-01-29,5,9,02 Dry Bulk,Dry 1Y TC,Supramax,11000.0,58',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2025-01-29,5,9,02 Dry Bulk,Dry 1Y TC,Handysize,10000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2025-01-29,5,9,02 Dry Bulk,Dry 1Y TC,Supramax,11000.0,58',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2025-01-29,5,9,02 Dry Bulk,Dry 1Y TC,Handysize,10000.0,38',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-01-29,5,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),726.0,Index,-20.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-01-29,5,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,19179.0,Capesize,-259.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-01-29,5,6,02 Dry Bulk,Dry Spot,Australia/China,29.0,Capesize,0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
@@ -11506,8 +11506,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-02-05,6,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,21100.0,208',2065.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W06_Fearnleys-Weekly-Report-_-Fearnpulse14_compressed.pdf
 2025-02-05,6,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,14000.0,82',2750.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W06_Fearnleys-Weekly-Report-_-Fearnpulse14_compressed.pdf
 2025-02-05,6,8,02 Dry Bulk,Dry 1Y TC,Ultramax,12500.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W06_Fearnleys-Weekly-Report-_-Fearnpulse14_compressed.pdf
-2025-02-05,6,9,02 Dry Bulk,Dry 1Y TC,Capesize,17100.0,180',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W06_Fearnleys-Weekly-Report-_-Fearnpulse14_compressed.pdf
-2025-02-05,6,9,02 Dry Bulk,Dry 1Y TC,Panamax,12500.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W06_Fearnleys-Weekly-Report-_-Fearnpulse14_compressed.pdf
+2025-02-05,6,9,02 Dry Bulk,Dry 1Y TC,Capesize,17100.0,180',2065.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W06_Fearnleys-Weekly-Report-_-Fearnpulse14_compressed.pdf
+2025-02-05,6,9,02 Dry Bulk,Dry 1Y TC,Panamax,12500.0,75',2750.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W06_Fearnleys-Weekly-Report-_-Fearnpulse14_compressed.pdf
 2025-02-05,6,9,02 Dry Bulk,Dry 1Y TC,Handysize,10000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W06_Fearnleys-Weekly-Report-_-Fearnpulse14_compressed.pdf
 2025-02-05,6,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),771.0,Index,18.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W06_Fearnleys-Weekly-Report-_-Fearnpulse14_compressed.pdf
 2025-02-05,6,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,19179.0,Capesize,-259.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W06_Fearnleys-Weekly-Report-_-Fearnpulse14_compressed.pdf
@@ -11588,11 +11588,11 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-02-12,7,6,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W07_Fearnleys-Weekly-Report-_-Fearnpulse-.pdf
 2025-02-12,7,7,02 Dry Bulk,Capesize Spot,Australia/China,6.0,Capesize,-0.36,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W07_Fearnleys-Weekly-Report-_-Fearnpulse-.pdf
 2025-02-12,7,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W07_Fearnleys-Weekly-Report-_-Fearnpulse-.pdf
-2025-02-12,7,9,02 Dry Bulk,Dry 1Y TC,Supramax,12000.0,58',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W07_Fearnleys-Weekly-Report-_-Fearnpulse-.pdf
+2025-02-12,7,9,02 Dry Bulk,Dry 1Y TC,Supramax,12000.0,58',1000.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W07_Fearnleys-Weekly-Report-_-Fearnpulse-.pdf
 2025-02-12,7,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,21215.0,208',115.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W07_Fearnleys-Weekly-Report-_-Fearnpulse-.pdf
 2025-02-12,7,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13000.0,82',-1000.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W07_Fearnleys-Weekly-Report-_-Fearnpulse-.pdf
 2025-02-12,7,8,02 Dry Bulk,Dry 1Y TC,Ultramax,12750.0,64',250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W07_Fearnleys-Weekly-Report-_-Fearnpulse-.pdf
-2025-02-12,7,9,02 Dry Bulk,Dry 1Y TC,Capesize,17215.0,180',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W07_Fearnleys-Weekly-Report-_-Fearnpulse-.pdf
+2025-02-12,7,9,02 Dry Bulk,Dry 1Y TC,Capesize,17215.0,180',115.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W07_Fearnleys-Weekly-Report-_-Fearnpulse-.pdf
 2025-02-12,7,9,02 Dry Bulk,Dry 1Y TC,Panamax,11500.0,75',-1000.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W07_Fearnleys-Weekly-Report-_-Fearnpulse-.pdf
 2025-02-12,7,9,02 Dry Bulk,Dry 1Y TC,Handysize,10000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W07_Fearnleys-Weekly-Report-_-Fearnpulse-.pdf
 2025-02-12,7,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),776.0,Index,-25.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W07_Fearnleys-Weekly-Report-_-Fearnpulse-.pdf
@@ -11678,9 +11678,9 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-02-19,8,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13500.0,82',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-02-19,8,8,02 Dry Bulk,Dry 1Y TC,Ultramax,14000.0,64',1250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-02-19,8,8,02 Dry Bulk,Dry 1Y TC,Capesize,18355.0,180',1140.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
-2025-02-19,8,9,02 Dry Bulk,Dry 1Y TC,Panamax,12150.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
+2025-02-19,8,9,02 Dry Bulk,Dry 1Y TC,Panamax,12150.0,75',650.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-02-19,8,9,02 Dry Bulk,Dry 1Y TC,Supramax,12000.0,58',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
-2025-02-19,8,9,02 Dry Bulk,Dry 1Y TC,Handysize,11000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
+2025-02-19,8,9,02 Dry Bulk,Dry 1Y TC,Handysize,11000.0,38',1000.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-02-19,8,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),904.0,Index,63.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-02-19,8,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,19179.0,Capesize,-259.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-02-19,8,6,02 Dry Bulk,Dry Spot,Australia/China,19.0,Capesize,0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
@@ -11763,7 +11763,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-02-26,9,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,24910.0,208',2555.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-02-26,9,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13250.0,82',-250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-02-26,9,8,02 Dry Bulk,Dry 1Y TC,Ultramax,14000.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2025-02-26,9,9,02 Dry Bulk,Dry 1Y TC,Capesize,20910.0,180',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2025-02-26,9,9,02 Dry Bulk,Dry 1Y TC,Capesize,20910.0,180',2555.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-02-26,9,9,02 Dry Bulk,Dry 1Y TC,Panamax,11950.0,75',-200.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-02-26,9,9,02 Dry Bulk,Dry 1Y TC,Handysize,11000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-02-26,9,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1112.0,Index,73.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
@@ -11859,7 +11859,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-03-12,11,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-03-12,11,7,02 Dry Bulk,Capesize Spot,Australia/China,11.1,Capesize,1.04,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-03-12,11,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2025-03-12,11,8,02 Dry Bulk,Dry 1Y TC,Supramax,15209.0,58',-99.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2025-03-12,11,9,02 Dry Bulk,Dry 1Y TC,Supramax,12000.0,58',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-03-12,11,9,02 Dry Bulk,Dry 1Y TC,Newcastlemax,26406.0,208',1131.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-03-12,11,9,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13500.0,82',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-03-12,11,9,02 Dry Bulk,Dry 1Y TC,Ultramax,13500.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
@@ -11946,7 +11946,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-03-19,12,9,02 Dry Bulk,Dry 1Y TC,Supramax,12000.0,58',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-03-19,12,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,25190.0,208',-1216.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-03-19,12,9,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13250.0,82',-250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2025-03-19,12,9,02 Dry Bulk,Dry 1Y TC,Ultramax,14000.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2025-03-19,12,9,02 Dry Bulk,Dry 1Y TC,Ultramax,14000.0,64',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-03-19,12,9,02 Dry Bulk,Dry 1Y TC,Capesize,21190.0,180',-1216.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-03-19,12,9,02 Dry Bulk,Dry 1Y TC,Panamax,12000.0,75',-250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-03-19,12,9,02 Dry Bulk,Dry 1Y TC,Handysize,11000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
@@ -12033,9 +12033,9 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-03-26,13,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,26620.0,208',1430.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W13_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2025-03-26,13,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13750.0,82',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W13_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2025-03-26,13,8,02 Dry Bulk,Dry 1Y TC,Ultramax,13800.0,64',-200.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W13_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
-2025-03-26,13,9,02 Dry Bulk,Dry 1Y TC,Capesize,22620.0,180',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W13_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
-2025-03-26,13,9,02 Dry Bulk,Dry 1Y TC,Panamax,12250.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W13_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
-2025-03-26,13,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W13_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
+2025-03-26,13,9,02 Dry Bulk,Dry 1Y TC,Capesize,22620.0,180',1430.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W13_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
+2025-03-26,13,9,02 Dry Bulk,Dry 1Y TC,Panamax,12250.0,75',250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W13_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
+2025-03-26,13,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',1000.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W13_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2025-03-26,13,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1634.0,Index,-8.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W13_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2025-03-26,13,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,19179.0,Capesize,-259.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W13_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2025-03-26,13,7,02 Dry Bulk,Dry Spot,Australia/China,8.69,Capesize,-0.34,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W13_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
@@ -12116,7 +12116,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-04-02,14,9,02 Dry Bulk,Dry 1Y TC,Supramax,12000.0,58',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W14_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-04-02,14,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,25800.0,208',-820.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W14_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-04-02,14,9,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13750.0,82',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W14_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
-2025-04-02,14,9,02 Dry Bulk,Dry 1Y TC,Ultramax,14000.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W14_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
+2025-04-02,14,9,02 Dry Bulk,Dry 1Y TC,Ultramax,14000.0,64',200.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W14_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-04-02,14,9,02 Dry Bulk,Dry 1Y TC,Capesize,21800.0,180',-820.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W14_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-04-02,14,9,02 Dry Bulk,Dry 1Y TC,Panamax,12250.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W14_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-04-02,14,9,02 Dry Bulk,Dry 1Y TC,Handysize,11500.0,38',-500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W14_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
@@ -12408,10 +12408,10 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-05-14,20,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W20_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-05-14,20,7,02 Dry Bulk,Capesize Spot,Australia/China,7.3,Capesize,-0.12,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W20_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-05-14,20,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W20_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2025-05-14,20,9,02 Dry Bulk,Dry 1Y TC,Supramax,11500.0,58',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W20_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2025-05-14,20,9,02 Dry Bulk,Dry 1Y TC,Supramax,11500.0,58',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W20_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-05-14,20,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,22800.0,208',-500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W20_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-05-14,20,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,82.0,82',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W20_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2025-05-14,20,9,02 Dry Bulk,Dry 1Y TC,Ultramax,13000.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W20_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2025-05-14,20,9,02 Dry Bulk,Dry 1Y TC,Ultramax,13000.0,64',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W20_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-05-14,20,9,02 Dry Bulk,Dry 1Y TC,Capesize,18800.0,180',-500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W20_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-05-14,20,9,02 Dry Bulk,Dry 1Y TC,Panamax,10900.0,75',-350.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W20_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-05-14,20,9,02 Dry Bulk,Dry 1Y TC,Handysize,10000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W20_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
@@ -12685,7 +12685,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-06-04,23,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,11200.0,82',200.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W23_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-06-04,23,8,02 Dry Bulk,Dry 1Y TC,Ultramax,13000.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W23_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-06-04,23,8,02 Dry Bulk,Dry 1Y TC,Capesize,18450.0,180',1550.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W23_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
-2025-06-04,23,9,02 Dry Bulk,Dry 1Y TC,Panamax,10950.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W23_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
+2025-06-04,23,9,02 Dry Bulk,Dry 1Y TC,Panamax,10950.0,75',200.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W23_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-06-04,23,9,02 Dry Bulk,Dry 1Y TC,Supramax,11500.0,58',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W23_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-06-04,23,9,02 Dry Bulk,Dry 1Y TC,Handysize,10500.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W23_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-06-04,23,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1489.0,Index,59.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W23_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
@@ -12776,8 +12776,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-06-11,24,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,23500.0,208',1050.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W24_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-06-11,24,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,82.0,82',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W24_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-06-11,24,9,02 Dry Bulk,Dry 1Y TC,Ultramax,13000.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W24_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2025-06-11,24,9,02 Dry Bulk,Dry 1Y TC,Capesize,19000.0,180',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W24_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2025-06-11,24,9,02 Dry Bulk,Dry 1Y TC,Panamax,11000.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W24_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2025-06-11,24,9,02 Dry Bulk,Dry 1Y TC,Capesize,19000.0,180',550.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W24_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2025-06-11,24,9,02 Dry Bulk,Dry 1Y TC,Panamax,11000.0,75',50.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W24_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-06-11,24,9,02 Dry Bulk,Dry 1Y TC,Handysize,10500.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W24_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-06-11,24,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1738.0,Index,58.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W24_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-06-11,24,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,38125.0,Capesize,-0.23,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W24_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
@@ -12863,13 +12863,13 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-06-18,25,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,38125.0,Capesize,312.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-06-18,25,7,02 Dry Bulk,Capesize Spot,Australia/China,9.52,Capesize,-0.9,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-06-18,25,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2025-06-18,25,9,02 Dry Bulk,Dry 1Y TC,Supramax,12500.0,58',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2025-06-18,25,9,02 Dry Bulk,Dry 1Y TC,Supramax,12500.0,58',1500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-06-18,25,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,23750.0,208',250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-06-18,25,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,12750.0,82',250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-06-18,25,8,02 Dry Bulk,Dry 1Y TC,Ultramax,64.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2025-06-18,25,9,02 Dry Bulk,Dry 1Y TC,Capesize,19500.0,180',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2025-06-18,25,9,02 Dry Bulk,Dry 1Y TC,Panamax,11250.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2025-06-18,25,9,02 Dry Bulk,Dry 1Y TC,Handysize,11000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2025-06-18,25,9,02 Dry Bulk,Dry 1Y TC,Capesize,19500.0,180',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2025-06-18,25,9,02 Dry Bulk,Dry 1Y TC,Panamax,11250.0,75',250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2025-06-18,25,9,02 Dry Bulk,Dry 1Y TC,Handysize,11000.0,38',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-06-18,25,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1874.0,Index,-78.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-06-18,25,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,38125.0,Capesize,-0.9,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-06-18,25,7,02 Dry Bulk,Dry Spot,Australia/China,9.52,Capesize,-0.9,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
@@ -12954,10 +12954,10 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-06-25,26,7,02 Dry Bulk,Capesize Spot,Pacific RV,16464.0,Capesize,1496.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2025-06-25,26,9,02 Dry Bulk,Dry 1Y TC,Supramax,12000.0,58',-500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2025-06-25,26,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,21550.0,208',-2200.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
-2025-06-25,26,9,02 Dry Bulk,Dry 1Y TC,Kamsarmax,12950.0,82',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
+2025-06-25,26,9,02 Dry Bulk,Dry 1Y TC,Kamsarmax,12950.0,82',200.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2025-06-25,26,9,02 Dry Bulk,Dry 1Y TC,Ultramax,13000.0,64',-500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2025-06-25,26,9,02 Dry Bulk,Dry 1Y TC,Capesize,17550.0,180',-1950.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
-2025-06-25,26,9,02 Dry Bulk,Dry 1Y TC,Panamax,11400.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
+2025-06-25,26,9,02 Dry Bulk,Dry 1Y TC,Panamax,11400.0,75',150.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2025-06-25,26,9,02 Dry Bulk,Dry 1Y TC,Handysize,11000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2025-06-25,26,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1665.0,Index,-16.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
 2025-06-25,26,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,38125.0,Capesize,-0.51,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf
@@ -13047,8 +13047,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-07-02,27,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,13050.0,82',100.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-07-02,27,8,02 Dry Bulk,Dry 1Y TC,Ultramax,13500.0,64',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-07-02,27,8,02 Dry Bulk,Dry 1Y TC,Capesize,18250.0,180',700.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
-2025-07-02,27,9,02 Dry Bulk,Dry 1Y TC,Panamax,11500.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
-2025-07-02,27,9,02 Dry Bulk,Dry 1Y TC,Supramax,12500.0,58',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
+2025-07-02,27,9,02 Dry Bulk,Dry 1Y TC,Panamax,11500.0,75',100.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
+2025-07-02,27,9,02 Dry Bulk,Dry 1Y TC,Supramax,12500.0,58',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-07-02,27,9,02 Dry Bulk,Dry 1Y TC,Handysize,11000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-07-02,27,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1443.0,Index,-15.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-07-02,27,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,20308.0,Capesize,-84.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
@@ -13136,8 +13136,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-07-09,28,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,22750.0,208',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-07-09,28,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,14500.0,82',1450.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-07-09,28,8,02 Dry Bulk,Dry 1Y TC,Ultramax,13500.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2025-07-09,28,9,02 Dry Bulk,Dry 1Y TC,Capesize,18750.0,180',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
-2025-07-09,28,9,02 Dry Bulk,Dry 1Y TC,Panamax,13000.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2025-07-09,28,9,02 Dry Bulk,Dry 1Y TC,Capesize,18750.0,180',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
+2025-07-09,28,9,02 Dry Bulk,Dry 1Y TC,Panamax,13000.0,75',1500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-07-09,28,9,02 Dry Bulk,Dry 1Y TC,Handysize,11000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-07-09,28,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1423.0,Index,-8.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
 2025-07-09,28,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,21191.0,Capesize,0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf
@@ -13506,7 +13506,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-08-20,34,8,02 Dry Bulk,Dry 1Y TC,Ultramax,14500.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W34_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2025-08-20,34,8,02 Dry Bulk,Dry 1Y TC,Capesize,21400.0,180',-1500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W34_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2025-08-20,34,8,02 Dry Bulk,Dry 1Y TC,Panamax,13250.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W34_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
-2025-08-20,34,9,02 Dry Bulk,Dry 1Y TC,Supramax,13500.0,58',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W34_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2025-08-20,34,9,02 Dry Bulk,Dry 1Y TC,Supramax,13500.0,58',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W34_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2025-08-20,34,9,02 Dry Bulk,Dry 1Y TC,Handysize,11000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W34_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2025-08-20,34,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1927.0,Index,-37.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W34_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2025-08-20,34,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,22971.0,Capesize,-21.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W34_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
@@ -13597,7 +13597,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-09-10,37,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,16000.0,82',750.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-09-10,37,8,02 Dry Bulk,Dry 1Y TC,Ultramax,16000.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-09-10,37,8,02 Dry Bulk,Dry 1Y TC,Capesize,22430.0,180',180.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
-2025-09-10,37,9,02 Dry Bulk,Dry 1Y TC,Panamax,14500.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
+2025-09-10,37,9,02 Dry Bulk,Dry 1Y TC,Panamax,14500.0,75',800.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-09-10,37,9,02 Dry Bulk,Dry 1Y TC,Supramax,14500.0,58',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-09-10,37,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-09-10,37,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2112.0,Index,33.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
@@ -13781,8 +13781,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-09-24,39,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,27200.0,208',700.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W39_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-09-24,39,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,15900.0,82',250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W39_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-09-24,39,8,02 Dry Bulk,Dry 1Y TC,Ultramax,16000.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W39_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2025-09-24,39,9,02 Dry Bulk,Dry 1Y TC,Capesize,23200.0,180',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W39_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
-2025-09-24,39,9,02 Dry Bulk,Dry 1Y TC,Panamax,14450.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W39_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2025-09-24,39,9,02 Dry Bulk,Dry 1Y TC,Capesize,23200.0,180',700.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W39_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
+2025-09-24,39,9,02 Dry Bulk,Dry 1Y TC,Panamax,14450.0,75',300.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W39_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-09-24,39,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W39_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-09-24,39,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2240.0,Index,40.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W39_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
 2025-09-24,39,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,25767.0,Capesize,0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W39_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf
@@ -14075,7 +14075,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-11-05,45,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,15750.0,82',350.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W45_Fearnleys-Weekly-Report-_-Fearnpulse123_compressed.pdf
 2025-11-05,45,8,02 Dry Bulk,Dry 1Y TC,Ultramax,15500.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W45_Fearnleys-Weekly-Report-_-Fearnpulse123_compressed.pdf
 2025-11-05,45,9,02 Dry Bulk,Dry 1Y TC,Capesize,22200.0,180',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W45_Fearnleys-Weekly-Report-_-Fearnpulse123_compressed.pdf
-2025-11-05,45,9,02 Dry Bulk,Dry 1Y TC,Panamax,14400.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W45_Fearnleys-Weekly-Report-_-Fearnpulse123_compressed.pdf
+2025-11-05,45,9,02 Dry Bulk,Dry 1Y TC,Panamax,14400.0,75',250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W45_Fearnleys-Weekly-Report-_-Fearnpulse123_compressed.pdf
 2025-11-05,45,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W45_Fearnleys-Weekly-Report-_-Fearnpulse123_compressed.pdf
 2025-11-05,45,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2003.0,Index,45.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W45_Fearnleys-Weekly-Report-_-Fearnpulse123_compressed.pdf
 2025-11-05,45,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,46417.0,Capesize,0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W45_Fearnleys-Weekly-Report-_-Fearnpulse123_compressed.pdf
@@ -14166,8 +14166,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-11-12,46,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,15800.0,82',50.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-11-12,46,8,02 Dry Bulk,Dry 1Y TC,Ultramax,16000.0,64',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-11-12,46,8,02 Dry Bulk,Dry 1Y TC,Capesize,22660.0,180',460.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
-2025-11-12,46,9,02 Dry Bulk,Dry 1Y TC,Panamax,14500.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
-2025-11-12,46,9,02 Dry Bulk,Dry 1Y TC,Supramax,14500.0,58',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
+2025-11-12,46,9,02 Dry Bulk,Dry 1Y TC,Panamax,14500.0,75',100.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
+2025-11-12,46,9,02 Dry Bulk,Dry 1Y TC,Supramax,14500.0,58',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-11-12,46,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-11-12,46,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2030.0,Index,-42.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
 2025-11-12,46,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,23715.0,Capesize,0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf
@@ -14258,7 +14258,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-11-19,47,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,16050.0,82',250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W47_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
 2025-11-19,47,8,02 Dry Bulk,Dry 1Y TC,Ultramax,16000.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W47_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
 2025-11-19,47,8,02 Dry Bulk,Dry 1Y TC,Capesize,23415.0,180',755.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W47_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
-2025-11-19,47,9,02 Dry Bulk,Dry 1Y TC,Panamax,14750.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W47_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
+2025-11-19,47,9,02 Dry Bulk,Dry 1Y TC,Panamax,14750.0,75',250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W47_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
 2025-11-19,47,9,02 Dry Bulk,Dry 1Y TC,Supramax,14500.0,58',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W47_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
 2025-11-19,47,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W47_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
 2025-11-19,47,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2260.0,Index,44.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W47_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed.pdf
@@ -14349,8 +14349,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-11-26,48,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,27640.0,208',225.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W48_Fearnleys-Weekly-Report-_-Fearnpulse23_compressed.pdf
 2025-11-26,48,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,16200.0,82',150.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W48_Fearnleys-Weekly-Report-_-Fearnpulse23_compressed.pdf
 2025-11-26,48,8,02 Dry Bulk,Dry 1Y TC,Ultramax,16000.0,64',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W48_Fearnleys-Weekly-Report-_-Fearnpulse23_compressed.pdf
-2025-11-26,48,9,02 Dry Bulk,Dry 1Y TC,Capesize,23640.0,180',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W48_Fearnleys-Weekly-Report-_-Fearnpulse23_compressed.pdf
-2025-11-26,48,9,02 Dry Bulk,Dry 1Y TC,Panamax,15000.0,75',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W48_Fearnleys-Weekly-Report-_-Fearnpulse23_compressed.pdf
+2025-11-26,48,9,02 Dry Bulk,Dry 1Y TC,Capesize,23640.0,180',225.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W48_Fearnleys-Weekly-Report-_-Fearnpulse23_compressed.pdf
+2025-11-26,48,9,02 Dry Bulk,Dry 1Y TC,Panamax,15000.0,75',250.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W48_Fearnleys-Weekly-Report-_-Fearnpulse23_compressed.pdf
 2025-11-26,48,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W48_Fearnleys-Weekly-Report-_-Fearnpulse23_compressed.pdf
 2025-11-26,48,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2401.0,Index,92.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W48_Fearnleys-Weekly-Report-_-Fearnpulse23_compressed.pdf
 2025-11-26,48,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,25190.0,Capesize,0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W48_Fearnleys-Weekly-Report-_-Fearnpulse23_compressed.pdf
@@ -14535,7 +14535,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2025-12-10,50,8,02 Dry Bulk,Dry 1Y TC,Capesize,23500.0,180',-1110.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W50_Fearnleys-Weekly-Report-_-Fearnpulse124_compressed.pdf
 2025-12-10,50,9,02 Dry Bulk,Dry 1Y TC,Panamax,13500.0,75',-2000.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W50_Fearnleys-Weekly-Report-_-Fearnpulse124_compressed.pdf
 2025-12-10,50,9,02 Dry Bulk,Dry 1Y TC,Supramax,13750.0,58',-750.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W50_Fearnleys-Weekly-Report-_-Fearnpulse124_compressed.pdf
-2025-12-10,50,9,02 Dry Bulk,Dry 1Y TC,Handysize,12500.0,38',0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W50_Fearnleys-Weekly-Report-_-Fearnpulse124_compressed.pdf
+2025-12-10,50,9,02 Dry Bulk,Dry 1Y TC,Handysize,12500.0,38',500.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W50_Fearnleys-Weekly-Report-_-Fearnpulse124_compressed.pdf
 2025-12-10,50,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2430.0,Index,-127.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W50_Fearnleys-Weekly-Report-_-Fearnpulse124_compressed.pdf
 2025-12-10,50,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,22860.0,Capesize,-78.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W50_Fearnleys-Weekly-Report-_-Fearnpulse124_compressed.pdf
 2025-12-10,50,6,02 Dry Bulk,Dry Spot,Australia/China,10.0,Capesize,0.0,corpus/01-brokers/fearnleys/2025/fearnleys_2025_W50_Fearnleys-Weekly-Report-_-Fearnpulse124_compressed.pdf
@@ -14713,13 +14713,13 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-01-07,2,6,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,51778.0,Capesize,-1083.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
 2026-01-07,2,7,02 Dry Bulk,Capesize Spot,Australia/China,7.99,Capesize,-0.14,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
 2026-01-07,2,7,02 Dry Bulk,Capesize Spot,Pacific RV,19982.0,Capesize,-600.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
-2026-01-07,2,9,02 Dry Bulk,Dry 1Y TC,Supramax,13250.0,58',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
+2026-01-07,2,9,02 Dry Bulk,Dry 1Y TC,Supramax,13250.0,58',250.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
 2026-01-07,2,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,31327.0,208',3827.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
 2026-01-07,2,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,14750.0,82',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
 2026-01-07,2,8,02 Dry Bulk,Dry 1Y TC,Ultramax,14850.0,64',350.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
-2026-01-07,2,9,02 Dry Bulk,Dry 1Y TC,Capesize,27327.0,180',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
+2026-01-07,2,9,02 Dry Bulk,Dry 1Y TC,Capesize,27327.0,180',3827.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
 2026-01-07,2,9,02 Dry Bulk,Dry 1Y TC,Panamax,13250.0,75',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
-2026-01-07,2,9,02 Dry Bulk,Dry 1Y TC,Handysize,11750.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
+2026-01-07,2,9,02 Dry Bulk,Dry 1Y TC,Handysize,11750.0,38',250.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
 2026-01-07,2,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1776.0,Index,-54.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
 2026-01-07,2,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,17641.0,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
 2026-01-07,2,7,02 Dry Bulk,Dry Spot,Australia/China,7.99,Capesize,-0.14,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed.pdf
@@ -14821,12 +14821,12 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-01-28,5,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,54417.0,Capesize,556.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
 2026-01-28,5,7,02 Dry Bulk,Capesize Spot,Australia/China,9.02,Capesize,-0.16,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
 2026-01-28,5,7,02 Dry Bulk,Capesize Spot,Pacific RV,24264.0,Capesize,-559.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
-2026-01-28,5,9,02 Dry Bulk,Dry 1Y TC,Supramax,14000.0,58',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
+2026-01-28,5,9,02 Dry Bulk,Dry 1Y TC,Supramax,14000.0,58',300.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
 2026-01-28,5,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,39443.0,208',9436.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
 2026-01-28,5,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,16500.0,82',1500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
 2026-01-28,5,8,02 Dry Bulk,Dry 1Y TC,Ultramax,16000.0,64',300.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
-2026-01-28,5,9,02 Dry Bulk,Dry 1Y TC,Capesize,31809.0,180',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
-2026-01-28,5,9,02 Dry Bulk,Dry 1Y TC,Panamax,15000.0,75',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
+2026-01-28,5,9,02 Dry Bulk,Dry 1Y TC,Capesize,31809.0,180',5305.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
+2026-01-28,5,9,02 Dry Bulk,Dry 1Y TC,Panamax,15000.0,75',1450.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
 2026-01-28,5,9,02 Dry Bulk,Dry 1Y TC,Handysize,12600.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
 2026-01-28,5,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2016.0,Index,17.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
 2026-01-28,5,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,54417.0,Capesize,-0.16,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf
@@ -15005,12 +15005,12 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-02-11,7,6,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,54056.0,Capesize,2195.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
 2026-02-11,7,7,02 Dry Bulk,Capesize Spot,Australia/China,8.42,Capesize,0.48,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
 2026-02-11,7,7,02 Dry Bulk,Capesize Spot,Pacific RV,20850.0,Capesize,1895.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
-2026-02-11,7,9,02 Dry Bulk,Dry 1Y TC,Supramax,15000.0,58',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
+2026-02-11,7,9,02 Dry Bulk,Dry 1Y TC,Supramax,15000.0,58',1000.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
 2026-02-11,7,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,39230.0,208',1126.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
 2026-02-11,7,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,16500.0,82',150.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
 2026-02-11,7,8,02 Dry Bulk,Dry 1Y TC,Ultramax,16500.0,64',500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
-2026-02-11,7,9,02 Dry Bulk,Dry 1Y TC,Capesize,28135.0,180',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
-2026-02-11,7,9,02 Dry Bulk,Dry 1Y TC,Panamax,15000.0,75',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
+2026-02-11,7,9,02 Dry Bulk,Dry 1Y TC,Capesize,28135.0,180',869.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
+2026-02-11,7,9,02 Dry Bulk,Dry 1Y TC,Panamax,15000.0,75',200.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
 2026-02-11,7,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
 2026-02-11,7,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),1958.0,Index,76.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
 2026-02-11,7,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,22294.0,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf
@@ -15100,8 +15100,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-02-18,8,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,40017.0,208',787.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W08_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2026-02-18,8,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,16750.0,82',250.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W08_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2026-02-18,8,9,02 Dry Bulk,Dry 1Y TC,Ultramax,16250.0,64',-250.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W08_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
-2026-02-18,8,9,02 Dry Bulk,Dry 1Y TC,Capesize,28769.0,180',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W08_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
-2026-02-18,8,9,02 Dry Bulk,Dry 1Y TC,Panamax,15250.0,75',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W08_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-02-18,8,9,02 Dry Bulk,Dry 1Y TC,Capesize,28769.0,180',634.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W08_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-02-18,8,9,02 Dry Bulk,Dry 1Y TC,Panamax,15250.0,75',250.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W08_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2026-02-18,8,9,02 Dry Bulk,Dry 1Y TC,Handysize,12000.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W08_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2026-02-18,8,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2063.0,Index,-32.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W08_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2026-02-18,8,7,02 Dry Bulk,Dry Spot,Australia/China,9.45,Capesize,-0.04,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W08_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
@@ -15188,13 +15188,13 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-02-25,9,6,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,51750.0,Capesize,-594.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
 2026-02-25,9,7,02 Dry Bulk,Capesize Spot,Australia/China,9.9,Capesize,-0.27,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
 2026-02-25,9,7,02 Dry Bulk,Capesize Spot,Pacific RV,27545.0,Capesize,-1046.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
-2026-02-25,9,9,02 Dry Bulk,Dry 1Y TC,Supramax,15500.0,58',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
+2026-02-25,9,9,02 Dry Bulk,Dry 1Y TC,Supramax,15500.0,58',500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
 2026-02-25,9,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,41084.0,208',1067.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
 2026-02-25,9,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,17300.0,82',550.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
 2026-02-25,9,8,02 Dry Bulk,Dry 1Y TC,Ultramax,17200.0,64',950.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
-2026-02-25,9,9,02 Dry Bulk,Dry 1Y TC,Capesize,29620.0,180',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
-2026-02-25,9,9,02 Dry Bulk,Dry 1Y TC,Panamax,16000.0,75',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
-2026-02-25,9,9,02 Dry Bulk,Dry 1Y TC,Handysize,13500.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
+2026-02-25,9,9,02 Dry Bulk,Dry 1Y TC,Capesize,29620.0,180',851.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
+2026-02-25,9,9,02 Dry Bulk,Dry 1Y TC,Panamax,16000.0,75',750.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
+2026-02-25,9,9,02 Dry Bulk,Dry 1Y TC,Handysize,13500.0,38',1500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
 2026-02-25,9,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2121.0,Index,-8.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
 2026-02-25,9,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,22421.0,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
 2026-02-25,9,7,02 Dry Bulk,Dry Spot,Australia/China,9.9,Capesize,-0.27,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf
@@ -15285,8 +15285,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-03-04,10,8,02 Dry Bulk,Dry 1Y TC,Ultramax,17500.0,64',300.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W10_Fearnleys-Weekly-Report-_-Fearnpulsehfhfhf_compressed.pdf
 2026-03-04,10,8,02 Dry Bulk,Dry 1Y TC,Capesize,29647.0,180',27.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W10_Fearnleys-Weekly-Report-_-Fearnpulsehfhfhf_compressed.pdf
 2026-03-04,10,8,02 Dry Bulk,Dry 1Y TC,Panamax,16600.0,75',600.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W10_Fearnleys-Weekly-Report-_-Fearnpulsehfhfhf_compressed.pdf
-2026-03-04,10,9,02 Dry Bulk,Dry 1Y TC,Supramax,16000.0,58',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W10_Fearnleys-Weekly-Report-_-Fearnpulsehfhfhf_compressed.pdf
-2026-03-04,10,9,02 Dry Bulk,Dry 1Y TC,Handysize,14750.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W10_Fearnleys-Weekly-Report-_-Fearnpulsehfhfhf_compressed.pdf
+2026-03-04,10,9,02 Dry Bulk,Dry 1Y TC,Supramax,16000.0,58',500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W10_Fearnleys-Weekly-Report-_-Fearnpulsehfhfhf_compressed.pdf
+2026-03-04,10,9,02 Dry Bulk,Dry 1Y TC,Handysize,14750.0,38',1250.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W10_Fearnleys-Weekly-Report-_-Fearnpulsehfhfhf_compressed.pdf
 2026-03-04,10,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2233.0,Index,-9.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W10_Fearnleys-Weekly-Report-_-Fearnpulsehfhfhf_compressed.pdf
 2026-03-04,10,6,02 Dry Bulk,Dry Spot,Australia/China,11.32,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W10_Fearnleys-Weekly-Report-_-Fearnpulsehfhfhf_compressed.pdf
 2026-03-04,10,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,23561.0,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W10_Fearnleys-Weekly-Report-_-Fearnpulsehfhfhf_compressed.pdf
@@ -15590,12 +15590,12 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-04-15,16,6,02 Dry Bulk,Capesize Spot,Australia/China,3.0,Capesize,-29.75,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
 2026-04-15,16,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,61583.0,Capesize,3222.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
 2026-04-15,16,7,02 Dry Bulk,Capesize Spot,Pacific RV,37582.0,Capesize,2109.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
-2026-04-15,16,9,02 Dry Bulk,Dry 1Y TC,Supramax,16500.0,58',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
+2026-04-15,16,9,02 Dry Bulk,Dry 1Y TC,Supramax,16500.0,58',1000.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
 2026-04-15,16,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,40420.0,208',3031.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
 2026-04-15,16,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,20000.0,82',500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
-2026-04-15,16,9,02 Dry Bulk,Dry 1Y TC,Ultramax,18000.0,64',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
-2026-04-15,16,9,02 Dry Bulk,Dry 1Y TC,Capesize,29095.0,180',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
-2026-04-15,16,9,02 Dry Bulk,Dry 1Y TC,Panamax,17800.0,75',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
+2026-04-15,16,9,02 Dry Bulk,Dry 1Y TC,Ultramax,18000.0,64',1250.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
+2026-04-15,16,9,02 Dry Bulk,Dry 1Y TC,Capesize,29095.0,180',2462.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
+2026-04-15,16,9,02 Dry Bulk,Dry 1Y TC,Panamax,17800.0,75',300.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
 2026-04-15,16,9,02 Dry Bulk,Dry 1Y TC,Handysize,13250.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
 2026-04-15,16,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2484.0,Index,130.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
 2026-04-15,16,7,02 Dry Bulk,Dry Spot,Australia/China,13.53,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf
@@ -15694,8 +15694,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-04-29,18,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,82.0,82',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W18_Fearnleys-Weekly-Report-_-Fearnpulsefnffjf_compressed.pdf
 2026-04-29,18,9,02 Dry Bulk,Dry 1Y TC,Ultramax,18000.0,64',-500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W18_Fearnleys-Weekly-Report-_-Fearnpulsefnffjf_compressed.pdf
 2026-04-29,18,9,02 Dry Bulk,Dry 1Y TC,Capesize,28115.0,180',-642.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W18_Fearnleys-Weekly-Report-_-Fearnpulsefnffjf_compressed.pdf
-2026-04-29,18,9,02 Dry Bulk,Dry 1Y TC,Panamax,17700.0,75',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W18_Fearnleys-Weekly-Report-_-Fearnpulsefnffjf_compressed.pdf
-2026-04-29,18,9,02 Dry Bulk,Dry 1Y TC,Handysize,13600.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W18_Fearnleys-Weekly-Report-_-Fearnpulsefnffjf_compressed.pdf
+2026-04-29,18,9,02 Dry Bulk,Dry 1Y TC,Panamax,17700.0,75',200.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W18_Fearnleys-Weekly-Report-_-Fearnpulsefnffjf_compressed.pdf
+2026-04-29,18,9,02 Dry Bulk,Dry 1Y TC,Handysize,13600.0,38',550.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W18_Fearnleys-Weekly-Report-_-Fearnpulsefnffjf_compressed.pdf
 2026-04-29,18,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),2670.0,Index,-7.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W18_Fearnleys-Weekly-Report-_-Fearnpulsefnffjf_compressed.pdf
 2026-04-29,18,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,67028.0,Capesize,-528.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W18_Fearnleys-Weekly-Report-_-Fearnpulsefnffjf_compressed.pdf
 2026-04-29,18,7,02 Dry Bulk,Dry Spot,Australia/China,13.24,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W18_Fearnleys-Weekly-Report-_-Fearnpulsefnffjf_compressed.pdf
@@ -15791,8 +15791,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-05-13,20,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,42833.0,208',1420.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W20_Fearnleys-Weekly-Report-_-Fearnpulselkjbnadv_compressed.pdf
 2026-05-13,20,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,21200.0,82',450.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W20_Fearnleys-Weekly-Report-_-Fearnpulselkjbnadv_compressed.pdf
 2026-05-13,20,8,02 Dry Bulk,Dry 1Y TC,Ultramax,19000.0,64',500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W20_Fearnleys-Weekly-Report-_-Fearnpulselkjbnadv_compressed.pdf
-2026-05-13,20,9,02 Dry Bulk,Dry 1Y TC,Capesize,31040.0,180',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W20_Fearnleys-Weekly-Report-_-Fearnpulselkjbnadv_compressed.pdf
-2026-05-13,20,9,02 Dry Bulk,Dry 1Y TC,Panamax,19500.0,75',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W20_Fearnleys-Weekly-Report-_-Fearnpulselkjbnadv_compressed.pdf
+2026-05-13,20,9,02 Dry Bulk,Dry 1Y TC,Capesize,31040.0,180',1145.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W20_Fearnleys-Weekly-Report-_-Fearnpulselkjbnadv_compressed.pdf
+2026-05-13,20,9,02 Dry Bulk,Dry 1Y TC,Panamax,19500.0,75',250.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W20_Fearnleys-Weekly-Report-_-Fearnpulselkjbnadv_compressed.pdf
 2026-05-13,20,9,02 Dry Bulk,Dry 1Y TC,Supramax,17000.0,58',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W20_Fearnleys-Weekly-Report-_-Fearnpulselkjbnadv_compressed.pdf
 2026-05-13,20,9,02 Dry Bulk,Dry 1Y TC,Handysize,13500.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W20_Fearnleys-Weekly-Report-_-Fearnpulselkjbnadv_compressed.pdf
 2026-05-13,20,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),3189.0,Index,126.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W20_Fearnleys-Weekly-Report-_-Fearnpulselkjbnadv_compressed.pdf
@@ -15977,7 +15977,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-06-03,23,6,02 Dry Bulk,Capesize Spot,Australia/China,15.85,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W23_Fearnleys-Weekly-Report-_-Fearnpulsesadvlknqwebvg_compressed.pdf
 2026-06-03,23,6,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,76722.0,Capesize,-250.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W23_Fearnleys-Weekly-Report-_-Fearnpulsesadvlknqwebvg_compressed.pdf
 2026-06-03,23,7,02 Dry Bulk,Capesize Spot,Pacific RV,46420.0,Capesize,-4344.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W23_Fearnleys-Weekly-Report-_-Fearnpulsesadvlknqwebvg_compressed.pdf
-2026-06-03,23,9,02 Dry Bulk,Dry 1Y TC,Supramax,17600.0,58',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W23_Fearnleys-Weekly-Report-_-Fearnpulsesadvlknqwebvg_compressed.pdf
+2026-06-03,23,9,02 Dry Bulk,Dry 1Y TC,Supramax,17600.0,58',1350.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W23_Fearnleys-Weekly-Report-_-Fearnpulsesadvlknqwebvg_compressed.pdf
 2026-06-03,23,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,41395.0,208',25.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W23_Fearnleys-Weekly-Report-_-Fearnpulsesadvlknqwebvg_compressed.pdf
 2026-06-03,23,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,20500.0,82',-1500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W23_Fearnleys-Weekly-Report-_-Fearnpulsesadvlknqwebvg_compressed.pdf
 2026-06-03,23,8,02 Dry Bulk,Dry 1Y TC,Ultramax,18500.0,64',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W23_Fearnleys-Weekly-Report-_-Fearnpulsesadvlknqwebvg_compressed.pdf
@@ -16067,10 +16067,10 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-06-10,24,5,02 Dry Bulk,Capesize Spot,Australia/China,12.0,Capesize,12.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W24_Fearnleys-Weekly-Report-_-Fearnpulseljbihv_compressed.pdf
 2026-06-10,24,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,70389.0,Capesize,-1194.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W24_Fearnleys-Weekly-Report-_-Fearnpulseljbihv_compressed.pdf
 2026-06-10,24,7,02 Dry Bulk,Capesize Spot,Pacific RV,31415.0,Capesize,-1396.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W24_Fearnleys-Weekly-Report-_-Fearnpulseljbihv_compressed.pdf
-2026-06-10,24,9,02 Dry Bulk,Dry 1Y TC,Supramax,18000.0,58',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W24_Fearnleys-Weekly-Report-_-Fearnpulseljbihv_compressed.pdf
+2026-06-10,24,9,02 Dry Bulk,Dry 1Y TC,Supramax,18000.0,58',400.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W24_Fearnleys-Weekly-Report-_-Fearnpulseljbihv_compressed.pdf
 2026-06-10,24,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,40080.0,208',-1315.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W24_Fearnleys-Weekly-Report-_-Fearnpulseljbihv_compressed.pdf
 2026-06-10,24,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,20250.0,82',-250.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W24_Fearnleys-Weekly-Report-_-Fearnpulseljbihv_compressed.pdf
-2026-06-10,24,9,02 Dry Bulk,Dry 1Y TC,Ultramax,19500.0,64',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W24_Fearnleys-Weekly-Report-_-Fearnpulseljbihv_compressed.pdf
+2026-06-10,24,9,02 Dry Bulk,Dry 1Y TC,Ultramax,19500.0,64',1000.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W24_Fearnleys-Weekly-Report-_-Fearnpulseljbihv_compressed.pdf
 2026-06-10,24,9,02 Dry Bulk,Dry 1Y TC,Capesize,28820.0,180',-1060.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W24_Fearnleys-Weekly-Report-_-Fearnpulseljbihv_compressed.pdf
 2026-06-10,24,9,02 Dry Bulk,Dry 1Y TC,Panamax,18750.0,75',-250.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W24_Fearnleys-Weekly-Report-_-Fearnpulseljbihv_compressed.pdf
 2026-06-10,24,9,02 Dry Bulk,Dry 1Y TC,Handysize,13500.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W24_Fearnleys-Weekly-Report-_-Fearnpulseljbihv_compressed.pdf
@@ -16385,9 +16385,9 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-08-05,32,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,45661.0,208',2683.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W32_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2026-08-05,32,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,20500.0,82',1000.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W32_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2026-08-05,32,8,02 Dry Bulk,Dry 1Y TC,Ultramax,18500.0,64',500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W32_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
-2026-08-05,32,9,02 Dry Bulk,Dry 1Y TC,Capesize,33321.0,180',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W32_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
-2026-08-05,32,9,02 Dry Bulk,Dry 1Y TC,Panamax,18000.0,75',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W32_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
-2026-08-05,32,9,02 Dry Bulk,Dry 1Y TC,Supramax,17000.0,58',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W32_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-08-05,32,9,02 Dry Bulk,Dry 1Y TC,Capesize,33321.0,180',2164.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W32_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-08-05,32,9,02 Dry Bulk,Dry 1Y TC,Panamax,18000.0,75',1000.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W32_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
+2026-08-05,32,9,02 Dry Bulk,Dry 1Y TC,Supramax,17000.0,58',500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W32_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2026-08-05,32,9,02 Dry Bulk,Dry 1Y TC,Handysize,14500.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W32_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2026-08-05,32,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),3063.0,Index,127.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W32_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
 2026-08-05,32,7,02 Dry Bulk,Dry Spot,Australia/China,16.3,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W32_Fearnleys-Weekly-Report-_-Fearnpulse.pdf
@@ -16561,7 +16561,7 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-08-19,34,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,74461.0,Capesize,-72.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W34_Fearnleys-Weekly-Report-_-Fearnpulse-2.pdf
 2026-08-19,34,7,02 Dry Bulk,Capesize Spot,Australia/China,13.29,Capesize,-0.19,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W34_Fearnleys-Weekly-Report-_-Fearnpulse-2.pdf
 2026-08-19,34,7,02 Dry Bulk,Capesize Spot,Pacific RV,37286.0,Capesize,-1219.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W34_Fearnleys-Weekly-Report-_-Fearnpulse-2.pdf
-2026-08-19,34,8,02 Dry Bulk,Dry 1Y TC,Supramax,22908.0,58',-130.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W34_Fearnleys-Weekly-Report-_-Fearnpulse-2.pdf
+2026-08-19,34,9,02 Dry Bulk,Dry 1Y TC,Supramax,17000.0,58',-200.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W34_Fearnleys-Weekly-Report-_-Fearnpulse-2.pdf
 2026-08-19,34,9,02 Dry Bulk,Dry 1Y TC,Newcastlemax,46023.0,208',1175.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W34_Fearnleys-Weekly-Report-_-Fearnpulse-2.pdf
 2026-08-19,34,9,02 Dry Bulk,Dry 1Y TC,Kamsarmax,19500.0,82',-1500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W34_Fearnleys-Weekly-Report-_-Fearnpulse-2.pdf
 2026-08-19,34,9,02 Dry Bulk,Dry 1Y TC,Ultramax,19500.0,64',800.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W34_Fearnleys-Weekly-Report-_-Fearnpulse-2.pdf
@@ -16657,8 +16657,8 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-08-26,35,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,49635.0,208',3612.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W35_Fearnleys-Weekly-Report-_-Fearnpulse-3.pdf
 2026-08-26,35,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,21750.0,82',2250.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W35_Fearnleys-Weekly-Report-_-Fearnpulse-3.pdf
 2026-08-26,35,9,02 Dry Bulk,Dry 1Y TC,Ultramax,19500.0,64',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W35_Fearnleys-Weekly-Report-_-Fearnpulse-3.pdf
-2026-08-26,35,9,02 Dry Bulk,Dry 1Y TC,Capesize,36526.0,180',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W35_Fearnleys-Weekly-Report-_-Fearnpulse-3.pdf
-2026-08-26,35,9,02 Dry Bulk,Dry 1Y TC,Panamax,18500.0,75',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W35_Fearnleys-Weekly-Report-_-Fearnpulse-3.pdf
+2026-08-26,35,9,02 Dry Bulk,Dry 1Y TC,Capesize,36526.0,180',2913.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W35_Fearnleys-Weekly-Report-_-Fearnpulse-3.pdf
+2026-08-26,35,9,02 Dry Bulk,Dry 1Y TC,Panamax,18500.0,75',1500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W35_Fearnleys-Weekly-Report-_-Fearnpulse-3.pdf
 2026-08-26,35,9,02 Dry Bulk,Dry 1Y TC,Handysize,14500.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W35_Fearnleys-Weekly-Report-_-Fearnpulse-3.pdf
 2026-08-26,35,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),3056.0,Index,130.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W35_Fearnleys-Weekly-Report-_-Fearnpulse-3.pdf
 2026-08-26,35,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,79333.0,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W35_Fearnleys-Weekly-Report-_-Fearnpulse-3.pdf
@@ -16744,12 +16744,12 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-09-02,36,5,02 Dry Bulk,Capesize Spot,Australia/China,3.0,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
 2026-09-02,36,7,02 Dry Bulk,Capesize Spot,TCE Cont/Far East,89167.0,Capesize,7000.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
 2026-09-02,36,7,02 Dry Bulk,Capesize Spot,Pacific RV,51036.0,Capesize,4359.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
-2026-09-02,36,9,02 Dry Bulk,Dry 1Y TC,Supramax,17750.0,58',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
+2026-09-02,36,9,02 Dry Bulk,Dry 1Y TC,Supramax,17750.0,58',750.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
 2026-09-02,36,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,51935.0,208',2300.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
 2026-09-02,36,8,02 Dry Bulk,Dry 1Y TC,Kamsarmax,82.0,82',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
-2026-09-02,36,9,02 Dry Bulk,Dry 1Y TC,Ultramax,20250.0,64',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
-2026-09-02,36,9,02 Dry Bulk,Dry 1Y TC,Capesize,38380.0,180',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
-2026-09-02,36,9,02 Dry Bulk,Dry 1Y TC,Panamax,20000.0,75',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
+2026-09-02,36,9,02 Dry Bulk,Dry 1Y TC,Ultramax,20250.0,64',750.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
+2026-09-02,36,9,02 Dry Bulk,Dry 1Y TC,Capesize,38380.0,180',1854.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
+2026-09-02,36,9,02 Dry Bulk,Dry 1Y TC,Panamax,20000.0,75',1500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
 2026-09-02,36,9,02 Dry Bulk,Dry 1Y TC,Handysize,14500.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
 2026-09-02,36,9,02 Dry Bulk,Dry Indices,Baltic Dry Index (BDI),3331.0,Index,174.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
 2026-09-02,36,7,02 Dry Bulk,Dry Spot,Australia/China,16.5,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_.pdf
@@ -16969,11 +16969,12 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-09-23,39,4,01 Tankers,Period & Availability,1 Year T/C - ECO / SCRUBBER,170000.0,Modern,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
 2026-09-23,39,4,01 Tankers,Period & Availability,Fixed in all areas last week,43.0,-,-22.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
 2026-09-23,39,4,01 Tankers,Period & Availability,Available in MEG next 30 days,85.0,-,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
-2026-09-23,39,9,02 Dry Bulk,Dry 1Y TC,Ultramax,21000.0,64',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
-2026-09-23,39,9,02 Dry Bulk,Dry 1Y TC,Capesize,37129.0,180',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
-2026-09-23,39,9,02 Dry Bulk,Dry 1Y TC,Panamax,20750.0,75',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
-2026-09-23,39,9,02 Dry Bulk,Dry 1Y TC,Supramax,18500.0,58',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
-2026-09-23,39,9,02 Dry Bulk,Dry 1Y TC,Handysize,16000.0,38',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
+2026-09-23,39,9,02 Dry Bulk,Dry 1Y TC,Ultramax,21000.0,64',1000.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
+2026-09-23,39,9,02 Dry Bulk,Dry 1Y TC,Capesize,37129.0,180',545.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
+2026-09-23,39,9,02 Dry Bulk,Dry 1Y TC,Panamax,20750.0,75',500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
+2026-09-23,39,9,02 Dry Bulk,Dry 1Y TC,Supramax,18500.0,58',500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
+2026-09-23,39,9,02 Dry Bulk,Dry 1Y TC,Handysize,16000.0,38',500.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
+2026-09-23,39,8,02 Dry Bulk,Dry 1Y TC,Newcastlemax,50383.0,208',676.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
 2026-09-23,39,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,89417.0,Capesize,-0.46,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
 2026-09-23,39,7,02 Dry Bulk,Dry Spot,Australia/China,16.27,Capesize,-0.46,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
 2026-09-23,39,7,02 Dry Bulk,Dry Spot,Pacific RV,49577.0,Capesize,-1428.0,corpus/01-brokers/fearnleys/2026/fearnleys_2026_W39_Fearnleys-Weekly-Report-Fearnpuls.pdf
@@ -17030,6 +17031,12 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-10-01,40,4,01 Tankers,Dirty Spot,UK/Cont,415.0,80',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
 2026-10-01,40,4,01 Tankers,Dirty Spot,Caribs/USG,645.0,70',1.0,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
 2026-10-01,40,4,01 Tankers,Period & Availability,1 Year T/C - ECO / SCRUBBER,185000.0,Modern,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
+2026-10-01,40,9,02 Dry Bulk,Dry 1Y TC,Newcastlemax,47345.0,208',-3038.0,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
+2026-10-01,40,9,02 Dry Bulk,Dry 1Y TC,Kamsarmax,23000.0,82',-250.0,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
+2026-10-01,40,9,02 Dry Bulk,Dry 1Y TC,Ultramax,20000.0,64',-1000.0,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
+2026-10-01,40,9,02 Dry Bulk,Dry 1Y TC,Capesize,34678.0,180',-2451.0,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
+2026-10-01,40,9,02 Dry Bulk,Dry 1Y TC,Panamax,20500.0,75',-250.0,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
+2026-10-01,40,9,02 Dry Bulk,Dry 1Y TC,Supramax,18000.0,58',-500.0,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
 2026-10-01,40,8,02 Dry Bulk,Dry Spot,TCE Cont/Far East,30761.0,Capesize,-76.0,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
 2026-10-01,40,7,02 Dry Bulk,Dry Spot,Australia/China,13.45,Capesize,-0.27,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
 2026-10-01,40,7,02 Dry Bulk,Dry Spot,Pacific RV,34364.0,Capesize,-1306.0,corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf
