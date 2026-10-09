@@ -1,0 +1,62 @@
+{
+  "node_id": "baltic_container_2026-10-09_2026_10_09_w41_container_report_week_41_container__root",
+  "doc_id": "baltic_container_2026-10-09_2026_10_09_w41_container_report_week_41_container",
+  "parent_id": null,
+  "title": "Container Report - Week 41",
+  "section_path": [
+    "Container Report - Week 41"
+  ],
+  "section_path_text": "Container Report - Week 41",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Container\nContainer freight markets were largely stable this week, with the FBX index ending at 3,344 points on 9 October, little change from 3,348 points at the start of the week. Despite limited movement in the headline index, several individual routes experienced notable volatility. Transpacific eastbound markets remained at elevated levels.",
+  "keywords": [
+    "container",
+    "china",
+    "pacific",
+    "europe",
+    "asia",
+    "china/east",
+    "feu",
+    "coast",
+    "remained",
+    "unchanged",
+    "before",
+    "down"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 331,
+  "source_path": "reports/baltic/container/2026/2026-10-09_W41_container-report-week-41_container.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_container_2026-10-09_2026_10_09_w41_container_report_week_41_container__s01_container",
+      "doc_id": "baltic_container_2026-10-09_2026_10_09_w41_container_report_week_41_container",
+      "parent_id": "baltic_container_2026-10-09_2026_10_09_w41_container_report_week_41_container__root",
+      "title": "Container",
+      "section_path": [
+        "Container"
+      ],
+      "section_path_text": "Container",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Container freight markets were largely stable this week, with the FBX index ending at 3,344 points on 9 October, little change from 3,348 points at the start of the week. Despite limited movement in the headline index, several individual routes experienced notable volatility.",
+      "keywords": [
+        "container",
+        "china",
+        "pacific",
+        "europe",
+        "asia",
+        "china/east",
+        "feu",
+        "coast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 329,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "node_id": "baltic_dry_2026-10-09_2026_10_09_w41_bulk_report_week_41_dry__root",
+  "doc_id": "baltic_dry_2026-10-09_2026_10_09_w41_bulk_report_week_41_dry",
+  "parent_id": null,
+  "title": "Bulk report - Week 41",
+  "section_path": [
+    "Bulk report - Week 41"
+  ],
+  "section_path_text": "Bulk report - Week 41",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Capesize\nThe market remained under pressure through the week, with persistent Atlantic weakness outweighing a gradual recovery in the Pacific. The 5TC continued to edge lower, falling from $43,833 on Monday to $39,363 by Friday. The Pacific showed greater resilience as fixing activity gathered pace, with close to 20 vessels reported on Wednesday alone.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "europe",
+    "india"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1175,
+  "source_path": "reports/baltic/dry/2026/2026-10-09_W41_bulk-report-week-41_dry.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_dry_2026-10-09_2026_10_09_w41_bulk_report_week_41_dry__s01_capesize",
+      "doc_id": "baltic_dry_2026-10-09_2026_10_09_w41_bulk_report_week_41_dry",
+      "parent_id": "baltic_dry_2026-10-09_2026_10_09_w41_bulk_report_week_41_dry__root",
+      "title": "Capesize",
+      "section_path": [
+        "Capesize"
+      ],
+      "section_path_text": "Capesize",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The market remained under pressure through the week, with persistent Atlantic weakness outweighing a gradual recovery in the Pacific. The 5TC continued to edge lower, falling from $43,833 on Monday to $39,363 by Friday.",
+      "keywords": [
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "activity",
+        "remained",
+        "continued"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 234,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-10-09_2026_10_09_w41_bulk_report_week_41_dry__s02_panamax_kamsarmax",
+      "doc_id": "baltic_dry_2026-10-09_2026_10_09_w41_bulk_report_week_41_dry",
+      "parent_id": "baltic_dry_2026-10-09_2026_10_09_w41_bulk_report_week_41_dry__root",
+      "title": "Panamax-Kamsarmax",
+      "section_path": [
+        "Panamax-Kamsarmax"
+      ],
+      "section_path_text": "Panamax-Kamsarmax",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Market conditions improved steadily over the week following a quiet and cautious start. The P5TC edged lower early on before recovering those losses and ending the week higher overall.",
+      "keywords": [
+        "australia",
+        "atlantic",
+        "pacific",
+        "europe",
+        "japan",
+        "dwt",
+        "coast",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 355,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-10-09_2026_10_09_w41_bulk_report_week_41_dry__s03_ultramax_supramax",
+      "doc_id": "baltic_dry_2026-10-09_2026_10_09_w41_bulk_report_week_41_dry",
+      "parent_id": "baltic_dry_2026-10-09_2026_10_09_w41_bulk_report_week_41_dry__root",
+      "title": "Ultramax/Supramax",
+      "section_path": [
+        "Ultramax/Supramax"
+      ],
+      "section_path_text": "Ultramax/Supramax",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Activity in the Atlantic slowed, but rates only softened slightly, from the Continent scrap numbers were still very strong with a 63,000-dwt fixed delivery Tyne for scrap to the East Mediterranean at $38,000. In the US Gulf fronthaul rates dipped below transatlantic levels during the week, but the highlight earlier in the week was a 64,000-dwt fixed for coal to India at $38,000 basis a minimum guaranteed duration of 60 days.",
+      "keywords": [
+        "china",
+        "atlantic",
+        "pacific",
+        "europe",
+        "india",
+        "us_gulf",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 337,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-10-09_2026_10_09_w41_bulk_report_week_41_dry__s04_handysize",
+      "doc_id": "baltic_dry_2026-10-09_2026_10_09_w41_bulk_report_week_41_dry",
+      "parent_id": "baltic_dry_2026-10-09_2026_10_09_w41_bulk_report_week_41_dry__root",
+      "title": "Handysize",
+      "section_path": [
+        "Handysize"
+      ],
+      "section_path_text": "Handysize",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Handysize market ended the week on a mixed but broadly steady footing, with regional trends continuing to shape sentiment. The Continent and Mediterranean remained broadly balanced, with rates generally holding near last-done levels despite pockets of fresh demand.",
+      "keywords": [
+        "handysize",
+        "atlantic",
+        "pacific",
+        "europe",
+        "us_gulf",
+        "vessel",
+        "was",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 227,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
