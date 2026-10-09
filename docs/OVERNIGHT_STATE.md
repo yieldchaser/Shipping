@@ -2938,3 +2938,16 @@ non-daemon threads AFTER writing its files - judge completion by the file mtimes
 **STILL OPEN (pick one): 4.3 `intermodal_macro_series.csv`** (1,290 of 3,739 rows with a
 non-reproducible stated change, blank on 2,075 - VERIFY against the page before fixing), and the
 residual ism agreement tail (1,178 rows, outlier reports drawn on a different axis).
+
+---
+
+**THIS RUN (2026-10-09 18:0x, source-by-source, 30m job) - NOTHING TO EXTRACT (independently re-measured); register gate GREEN; NO W41. NEW: a LIVE PARALLEL agent is working on this SAME working tree (fearnleys derived caches) - deliberately NOT touched.**
+
+Branch `auto/extract-fixes-2026-10-09-deepreview` (NOT main). Liveness at start: NO `run_*` extraction of ours (`tasklist`/CIM python.exe = 2 Hermes gateways, 2 litellm proxies, code_review_graph only); `git status corpus` = **0 changes**. Newest collected broker content = **W40**: lion `...W40...02-October-2026` (2026-10-02), fearnleys W40 `issue_date 2026-10-01`. **W41 has NOT arrived** (checked by FILENAME per source).
+
+- **Register gate re-run: `verify_registers.py` ALL PASSED** - 180 CSVs / **639,756** logical rows == JSON `total_master_stacked_rows` == MD Section 2; 0 mismatches; 0 control chars; no emoji. (Matches the post-fearnleys-Dry-1Y-TC value from the 15:1x run - unmoved.)
+- **Coverage re-enumerated by content:** all 18 publishers `CLOSED` (`docs/EXTRACTION_REGISTER.md`); corpus tiers present (01-brokers all 15 subdirs md-covered; poten 1,087 md; drewry; hellenic dedup; **09-ppa is a CSV tier BY DESIGN**, `data/extracted/ppa/*`). No unextracted recurring publication.
+- **fearnleys W40 is CURRENT, not a gap (measured):** md `data/extracted/md/fearnleys/2026/fearnleys_2026_W40_...md` exists with `issue_date 2026-10-01 / report_week 40 / source_file fearnleys_01_10_2026_...week_40...pdf`, AND the series max is **2026-10-01** = that same issue date -> W40 is stacked. The freshness sweep's "MD NEWER" for the ~10 sources is the publication-date-vs-period convention (re-confirmed, no new gap).
+- **LIVE PARALLEL AGENT ON THIS TREE (do not disturb):** `git reflog` shows a checkout `auto/extract-fixes-2026-10-09 -> ...-deepreview` and HEAD `6e1a3e89b fix(fearnleys): stop the disclaimer guard dropping every single-page report`. That agent's **in-flight regeneration left 9 `data/derived/fearnleys_*.json` modified at 17:25-17:29** (comments reordered/relabelled per-desk: `Chartering Weekly Comment -> Panamax Weekly Comment`; `meta.source` rewritten to a backslash form `data\derived\...`; facets tie-order swaps). Its process had exited by 18:07 (no writer PID). **NOT edited, NOT committed** - confined to its own output; avoided a shared-file index race.
+- **ACTION (this run): none in my lane.** Nothing to extract (corpus complete, 0 arrivals), nothing to fix that is not either USER-gated (allied render pass; hellenic bare-name `source_file`) or owned by the live parallel agent (fearnleys). Did not touch OVERNIGHT_STATE.md caches or commit while the agent is active.
+- **NEXT:** watch for **W41** (due ~2026-10-09..13) by FILENAME, not `git status corpus`. Re-check that the parallel agent's fearnleys regeneration landed cleanly once it commits.
