@@ -349,6 +349,32 @@ def get_table_y_end(page: pymupdf.Page, y_start: float, next_hdr_y: Optional[flo
     return y_end
 
 
+def _header_column_bounds(line_words, page_width):
+    """Derive per-table x column boundaries from the table's OWN header line.
+
+    The S&P sales table is 7 columns (VESSEL DWT BLT DETAILS SS/DD PRICE BUYER),
+    but the demolition table is 6 (VESSEL DWT BLT DETAILS PRICE DELIVERY) with
+    different x positions. A fixed x-cut calibrated on the sales layout drops the
+    demolition price (it sits left of the sales PRICE cut) and puts the
+    destination country into the PRICE column. Deriving the cuts from the header
+    tokens actually printed on the page keeps both layouts correct.
+    """
+    toks = []
+    for w in sorted(line_words, key=lambda z: z[0]):
+        t = w[4].strip().upper()
+        if t in ("VESSEL", "DWT", "BLT", "BUILT", "DETAILS", "SS/DD", "SS", "DD",
+                 "PRICE", "BUYER", "BUYERS", "DELIVERY"):
+            toks.append((t, w[0], w[2]))
+    if len(toks) < 4 or "PRICE" not in [t[0] for t in toks]:
+        return None
+    names = [t[0] for t in toks]
+    bounds = [0.0]
+    for i in range(len(toks) - 1):
+        bounds.append((toks[i][2] + toks[i + 1][1]) / 2.0)
+    bounds.append(page_width)
+    return bounds, names
+
+
 def extract_all_transactions(doc: pymupdf.Document, pdf_path: Path, issue_date: str) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
     """Extract both S&P sales records and Demolition records."""
     sales_extracted = []
@@ -384,6 +410,12 @@ def extract_all_transactions(doc: pymupdf.Document, pdf_path: Path, issue_date: 
             line_words = [lw for lw in words if abs(lw[1] - vh[1]) < 6]
             line_str = " ".join(lw[4].upper() for lw in line_words)
             is_demo = ("DELIVERY" in line_str or "RECYCLING" in line_str or "DEMOLITION" in line_str)
+            row_bounds = bounds
+            col_names = None
+            if is_demo:
+                hb = _header_column_bounds(line_words, page.rect.width)
+                if hb:
+                    row_bounds, col_names = hb
 
             y_start = vh[3] + 4
             next_vh = v_hdrs[i + 1][1] - 5 if i + 1 < len(v_hdrs) else None
@@ -431,24 +463,39 @@ def extract_all_transactions(doc: pymupdf.Document, pdf_path: Path, issue_date: 
                 min_y = min(x[1] for x in c) - 8
                 max_y = max(x[3] for x in c) + 16
                 rw = [w for w in words if min_y <= (w[1] + w[3]) / 2 <= max_y]
-                row_cols = [""] * 7
+                row_cols = [""] * (len(row_bounds) - 1)
                 for w in sorted(rw, key=lambda x: (x[1], x[0])):
                     cx = (w[0] + w[2]) / 2
-                    for ci in range(7):
-                        if bounds[ci] <= cx < bounds[ci + 1]:
+                    for ci in range(len(row_bounds) - 1):
+                        if row_bounds[ci] <= cx < row_bounds[ci + 1]:
                             row_cols[ci] = (row_cols[ci] + " " + w[4]).strip()
                             break
 
-                raw_built = clean_text(row_cols[2])
-                m_yr = re.match(r"^(\d{4})\s*(.*)$", raw_built)
-                built_yr = m_yr.group(1) if m_yr else ""
-                yard = m_yr.group(2) if m_yr else raw_built
-
-                dwt_clean = _norm_tonnage(clean_text(row_cols[1]))
-                price_clean = clean_text(row_cols[5])
-                details_clean = clean_text(row_cols[3])
-                buyer_or_deliv = clean_text(row_cols[6])
-                ss_dd_clean = clean_text(row_cols[4])
+                if col_names:
+                    def _col(*nms):
+                        for nm in nms:
+                            if nm in col_names:
+                                return clean_text(row_cols[col_names.index(nm)])
+                        return ""
+                    raw_built = _col("BLT", "BUILT")
+                    m_yr = re.match(r"^(\d{4})\s*(.*)$", raw_built)
+                    built_yr = m_yr.group(1) if m_yr else ""
+                    yard = m_yr.group(2) if m_yr else raw_built
+                    dwt_clean = _norm_tonnage(_col("DWT"))
+                    price_clean = _col("PRICE")
+                    details_clean = _col("DETAILS")
+                    buyer_or_deliv = _col("DELIVERY", "BUYER", "BUYERS")
+                    ss_dd_clean = _col("SS/DD")
+                else:
+                    raw_built = clean_text(row_cols[2])
+                    m_yr = re.match(r"^(\d{4})\s*(.*)$", raw_built)
+                    built_yr = m_yr.group(1) if m_yr else ""
+                    yard = m_yr.group(2) if m_yr else raw_built
+                    dwt_clean = _norm_tonnage(clean_text(row_cols[1]))
+                    price_clean = clean_text(row_cols[5])
+                    details_clean = clean_text(row_cols[3])
+                    buyer_or_deliv = clean_text(row_cols[6])
+                    ss_dd_clean = clean_text(row_cols[4])
 
                 # Reject phantom rows with no ship data
                 has_dwt = bool(re.search(r"\d", dwt_clean))
