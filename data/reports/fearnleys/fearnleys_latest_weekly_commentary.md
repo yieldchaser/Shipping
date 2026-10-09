@@ -3,14 +3,14 @@ title: "Fearnleys Weekly Broker Commentary - Week 41, 2026"
 source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 41
-date_range: "2026-10-07 to 2026-10-07"
-comments_count: 8
+date_range: "2026-10-07 to 2026-10-09"
+comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-08 22:16:22"
+generated_at: "2026-10-09 14:29:40"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 41, 2026
-*Coverage Period: 2026-10-07 to 2026-10-07 | Total Notes: 8*
+*Coverage Period: 2026-10-07 to 2026-10-09 | Total Notes: 9*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 41 (2026).
@@ -68,6 +68,13 @@ We entered Week 41 and Q4 with subdued spot activity across both basins, as the 
 ---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
+### SnP Weekly Comment
+**Date:** 2026-10-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+With available VLCC sales candidates largely drying up, buyers this week have turned their focus to the Suezmax sector with dramatic effect. Guidance on available units is being constantly updated upwards as buyers scramble for available tonnage, with particular premiums being paid for prompt deliveries. For 2010 built units, levels paid this week are just shy of USD 100M, and already owners of older tonnage are asking north of this figure to those who have missed out thus far. MR tankers are also seeing a sharp jump in earnings this week, as much as USD 10+k/day on the 1 yr TC rate for non eco tonnage, which is now being offered at xs USD 50k/day. Subsequently, values there are also firming rapidly on available market candidates. In short, the tanker market is still a runaway train with no signs of slowing anytime soon.   Dry bulk continues to quietly deliver strong, consistent earnings. Owners are not pressed to sell by any means, but given where values are, now would be a suitable time to listen to offers on tonnage deemed surplus to requirement. Usually, this time of the year represents a peak in earnings as we turn into Q4, but it would not be surprising in the current conditions to see some resilience. In the modern Kamarmax sector, scrubber fitted WORLD DIANA (82k dwt Oshima 2020) was sold for USD 41M.
+
+---
+
 ### Chartering Weekly Comment
 **Date:** 2026-10-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
