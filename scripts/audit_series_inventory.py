@@ -1,17 +1,24 @@
 """Audit the entire series inventory in data/extracted/series/ and compare with docs/EXTRACTION_REGISTER.md."""
-import os
 import re
+import csv
 from pathlib import Path
 
 SERIES_DIR = Path("data/extracted/series")
 REGISTER_PATH = Path("docs/EXTRACTION_REGISTER.md")
 
 def count_rows(file_path):
-    count = 0
-    with open(file_path, "r", encoding="utf-8", errors="replace") as f:
-        for _ in f:
-            count += 1
-    return max(0, count - 1)  # subtract header
+    """Count LOGICAL CSV data rows (header excluded).
+
+    Counting physical lines (for _ in f) inflates any file whose quoted
+    fields contain embedded newlines (commentary/prose columns) - measured
+    +21,378 phantom rows across 10 of the 180 series, which made this audit
+    report 10 series as "outdated in register" when every register count was
+    exact. Use csv.reader, as scripts/sync_extraction_register.py does.
+    """
+    with open(file_path, "r", encoding="utf-8", newline="", errors="replace") as f:
+        reader = csv.reader(f)
+        next(reader, None)  # header
+        return sum(1 for _ in reader)
 
 def main():
     if not SERIES_DIR.exists():
