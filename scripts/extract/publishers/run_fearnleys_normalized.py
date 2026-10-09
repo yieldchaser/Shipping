@@ -503,7 +503,12 @@ def extract_rate_cards(doc: pymupdf.Document) -> List[Dict[str, Any]]:
     for pno in range(len(doc)):
         # Skip disclaimer or trailing chart page
         raw_page_txt = doc[pno].get_text("text")
-        if ("Disclaimer" in raw_page_txt and pno >= len(doc) - 2) or "USD per MT" in raw_page_txt:
+        # The disclaimer/trailing-page guard must not fire on a SINGLE-page report:
+        # for len(doc)==1, `pno >= len(doc) - 2` is `0 >= -1` = True, so every
+        # 1-page "Printer version" Fearnleys report (23/26 of 2021, 35/49 of 2022)
+        # was skipped ENTIRELY and yielded zero rate cards (measured 2026-10-09 on
+        # 2022 W01: 0 cards; the page plainly carries all six 1Y TC rows).
+        if ("Disclaimer" in raw_page_txt and len(doc) > 2 and pno >= len(doc) - 2) or "USD per MT" in raw_page_txt:
             continue
 
         p_chapter = page_chapters.get(pno, "01 Tankers")
@@ -545,6 +550,14 @@ def extract_rate_cards(doc: pymupdf.Document) -> List[Dict[str, Any]]:
                 if sect == "Period & Availability" and "1 Year T/C" not in raw_page_txt and "Fixed in all areas" not in raw_page_txt:
                     continue
                 if sect == "Dry 1Y TC" and (tc_head_idx is None or i <= tc_head_idx):
+                    continue
+                # A Dry-Spot SECTION HEADING is a bare vessel name too ("Panamax
+                # (USD/Day, USD/Tonne)", "Supramax (USD/Day)") and sits before the
+                # 1Y TC block, so it matched as a 1Y TC row and bound the NEXT
+                # numbers (measured 2022 W01: Panamax -> 27,225 = the Transatlantic
+                # RV spot rate; Supramax -> 27,295 = Atlantic RV). Real 1Y TC rows
+                # never carry a "USD/Day"/"USD/Tonne" unit tag.
+                if sect == "Dry 1Y TC" and ("USD/Day" in ln or "USD/Tonne" in ln):
                     continue
 
                 if route.lower() in ln.lower():

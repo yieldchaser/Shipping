@@ -4604,3 +4604,49 @@ changes ("$550", no "+") were dropped to 0 (this affected era-A too - Newcastlem
 ### Scratch
 `scratch/deepreview/` held the candidate runner + measurement scripts
 (`blast.py`, `lost.py`) and the pre-fix copy. `scratch/` is gitignored.
+
+## 2026-10-09 12:00 UTC (17:30 IST) - DEEP REVIEW (3-hourly cron d77cc9df53c4)
+
+**Headline: one systematic extraction defect FOUND and FIXED - `run_fearnleys_normalized.extract_rate_cards()` skipped EVERY single-page Fearnleys report entirely (23/26 of 2021, 35/49 of 2022), yielding zero rate cards for 58 documents (~1,824 rows under the current narrower code).**
+
+### What I measured first
+- `verify_extraction.py --json`: exit 0, `actions: []`. golden 15/15, checkpoint 7,816 unique, db 189,481 tables / 6,726,703 cells, mean_text_verified 0.863, 74 not-a-pdf quarantines. State file 24,810 min old but 0 remaining -> batch COMPLETE, nothing running.
+- Liveness: NO `run_batch`/`batch_worker`. Nothing to disturb.
+- Opened fresh doc outputs: `xclusiv_2026_08_03` (38 tables, prose-banner class, known), `advanced_shipping_2021_W40` (prose-fused camelot grids, known), hellenic iron-ore HTML (1,183 docs with 0 tables) -> these are the HTML pass into the `extract_all` tree; the source is served by the bespoke `run_hellenic_iron_ore.py` (`hellenic_iron_ore_daily_series.csv`, 5.2 MB) which the app reads, so NOT a defect.
+- 327 checkpoint lines keyed by `path` (not `doc`) are the failure records (74 not-a-pdf + timeouts) - expected, not torn lines.
+
+### Defect - 1-page Fearnleys reports dropped wholesale - FIXED
+`extract_rate_cards()` (line ~506):
+```python
+if ("Disclaimer" in raw_page_txt and pno >= len(doc) - 2) or "USD per MT" in raw_page_txt:
+    continue
+```
+For a single-page document `pno >= len(doc) - 2` is `0 >= -1` = True, so the page was skipped whenever it contained the word "Disclaimer" - i.e. every 1-page "Printer version" report. Ground truth, `fearnleys_2022_W01` p1 (text read directly off the PDF):
+```
+Newcastlemax (208 000 dwt) $26,500 -$500
+Capesize (180 000 dwt) $21,250 -$250
+Kamsarmax (82 000 dwt) $22,500 $1,000
+Panamax (75 000 dwt) $21,000 $1,000
+Ultramax (64 000 dwt) $25,000 $0
+Supramax (58 000 dwt) $22,500 $0
+```
+Before the fix: 0 cards. After: all six rows above, exact. Blast radius measured over 2021+2022 (58 single-page docs): **1,824 rate cards recovered**. 2023-2026 have no 1-page docs, so unaffected.
+
+### A second bug the fix exposed - FIXED in the same change
+Once the page was parsed, the Dry-Spot *section headings* - which are bare vessel names too - matched as Dry 1Y TC rows and bound the next numbers: `Panamax (USD/Day, USD/Tonne)` -> 27,225 (the Transatlantic RV spot rate), `Supramax (USD/Day)` -> 27,295 (Atlantic RV). Added `if sect == "Dry 1Y TC" and ("USD/Day" in ln or "USD/Tonne" in ln): continue`. Verified 2024/2025/2026 W-docs byte-identical before/after; W01 now exact on all six classes.
+
+### Why this is a REGEN LANDMINE (flag)
+The delivered `fearnleys_rates_series.csv` still carries 2021/2022 rows for these weeks, so it looks fine. But `upsert_rows_to_csv` never deletes, so those rows survive only as stale accumulation while the current code emits 0 for 1-page docs. A from-scratch rebuild would have silently dropped 58 documents' worth of 2021/2022 rate data. The fix removes that trap. (The delivered 2022-01-05 rows also carry 65 keys vs the current code's 32 - sections the current code no longer produces at all, e.g. `Capesize Spot`, `Panamax Spot`, `Dry Indices`, tanker `1 Year T/C Crude`, `Newbuilding Prices`, `Secondhand Prices`, `Fleet Availability`. That is a larger, separate divergence - see below.)
+
+### Deliberately NOT changed, and why
+- **Did NOT regenerate `fearnleys_rates_series.csv`.** It is already uncommitted-modified (another job regen'd it today). Changing delivered data is a human decision; the code fix applies to documents extracted from now on.
+- **Unsigned positive changes -> 0.0 for non-Dry sections.** W01 LPG `LGC +$100,000` and `MGC +$35,000` read as change 0.0 (the code only accepts unsigned `$`-changes for `Dry 1Y TC`). Pre-existing, affects multi-page docs equally, NOT introduced here.
+- **The current code emits far fewer sections than the delivered CSV** (flag above). Reconciling that is a strategy decision, not a bug fix.
+- Did not touch `index.html`, other pipelines, `tests/`, the DB, git history, or `main`; did not push.
+
+### Gates
+- `golden_matrix.py`: star_asia pymupdf/plumber-text 15/15, ssy_atlantic 14/14, breakwave 6/6 - no regression (`golden_matrix.json` restored from backup afterwards; it is outside my write scope).
+- `tests/test_fearnleys_{desk,labels_and_ranges,pipeline,wave3}.py` + `test_fearnpulse_dry_routes.py`: **30 passed**.
+
+### Branch / commit
+`auto/extract-fixes-2026-10-09-deepreview`, single file `scripts/extract/publishers/run_fearnleys_normalized.py`.
