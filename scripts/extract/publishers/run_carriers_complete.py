@@ -128,6 +128,30 @@ def parse_numeric(val: Any) -> Optional[float]:
     return None
 
 
+def parse_count(val: Any) -> Optional[float]:
+    """Parse an INTEGER-count column (DWT / LDT) from the publisher token.
+
+    DWT and LDT are always integers, but the publisher is not consistent about
+    the thousands separator: most rows print the ISO form ('206,204') while some
+    rows -- and, for the 2023 W51 / 2024 W01 files, an ENTIRE column -- print
+    the European period-thousands form ('206.204').  parse_numeric() strips only
+    the comma, so it read '206.204' as 206.204: a silent 1000x error in the
+    plausible direction (both are well-formed floats).  Verified on the rendered
+    pages: carriers 2023 W51 prints 'BEKS BROWN ... 206.204' (=206,204 DWT).
+    Derive the convention from the token SHAPE, per source.
+    """
+    if val is None:
+        return None
+    s = str(val).replace("$", "").strip()
+    m = re.search(r"(?<![0-9])([0-9]{1,3}(?:\.[0-9]{3})+)(?![0-9])", s)
+    if m:
+        return float(m.group(1).replace(".", ""))
+    m = re.search(r"(?<![0-9])([0-9]{1,3}(?:,[0-9]{3})+)(?![0-9])", s)
+    if m:
+        return float(m.group(1).replace(",", ""))
+    return parse_numeric(s)
+
+
 def extract_metadata(pdf_path: Path) -> Tuple[Optional[str], Optional[int]]:
     """Extract ISO issue_date and report_week."""
     fn = pdf_path.stem
@@ -327,7 +351,7 @@ def extract_sp_section_rows(
 
     results: List[Dict[str, Any]] = []
     for v in vessels:
-        dwt_num = parse_numeric(v["dwt_raw"])
+        dwt_num = parse_count(v["dwt_raw"])
         built_num = int(v["built_raw"]) if v["built_raw"].isdigit() else None
 
         yard_str = clean_text(" ".join(w[2] for w in sorted(v["yard_words"], key=lambda x: (round(x[0], 1), x[1]))))
@@ -441,8 +465,8 @@ def extract_demolition_rows(
 
     rows: List[Dict[str, Any]] = []
     for c in candidates:
-        dwt_num = parse_numeric(c["dwt_raw"])
-        ldt_num = parse_numeric(c["ldt_raw"])
+        dwt_num = parse_count(c["dwt_raw"])
+        ldt_num = parse_count(c["ldt_raw"])
         built_num = int(c["built_raw"]) if c["built_raw"].isdigit() else None
         p_ldt = parse_numeric(c["price_raw"])
 

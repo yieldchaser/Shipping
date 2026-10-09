@@ -1,3 +1,17 @@
+**THIS RUN (2026-10-09 12:2x, source-by-source, 30m job) - FOUND + FIXED a REAL 1000x numeric defect: the carriers DWT/LDT columns read the publisher's European period-thousands (`206.204`) as a decimal (`206.204` DWT). 30 cells corrected, page-verified.**
+
+Branch `auto/extract-fixes-2026-10-08` (NOT main). Liveness at start: NO `run_*` extraction of ours (`tasklist` python.exe = 5 low-memory Hermes/gateway procs); `git status corpus` = **0 changes**; newest collected broker content = **2026-10-02** (W40) - **W41 not arrived**. Register gate re-run before + after: **639,749** == JSON == MD.
+
+- **DEFECT (page-verified):** DWT/LDT are integers, but the publisher mixes separators. Most rows print ISO (`206,204`); some rows - and for 2023 W51 / 2024 W01 an ENTIRE DWT column - print EU period-thousands (`206.204`). The runner's `parse_numeric()` strips only the comma, so `206.204` became **206.204** (well-formed float, plausible, 1000x wrong). Ground truth = the rendered page of the SAME doc: `carriers_2023_W51_...page1` prints `BEKS BROWN / BC / 206.204` (a real ~206k-DWT Newcastlemax).
+- **BLAST RADIUS (measured):** every non-integer dwt/ldt cell in the carriers series is this misread. sales.dwt **22**, demolition.dwt **5** + demolition.ldt **4**; no other carriers series affected.
+- **FIX (per-source, in `run_carriers_complete.py`):** added `parse_count()` (shape-based: `\d{1,3}(\.\d{3})+` -> strip periods; `\d{1,3}(,\d{3})+` -> strip commas; else `parse_numeric`) and applied it ONLY to the DWT (sales l.355, demo l.469) and LDT (demo l.470) fields. Regenerated the whole tier into `scratch/` (136 PDFs, 2m27s, same dup skips) and diffed BEFORE touching the tree.
+- **VERIFY:** row counts IDENTICAL (sales 3061, demo 174, nb 299, bspa 731, bda 366, indices 1834, weighted 655, tc 3144, tkr 786); **7 of 9 series byte-identical**; only sales (**21** rows) + demolition (**9** rows) changed, and ONLY in dwt/ldt. **Same-document control 30/30** - every corrected cell's raw period-thousands token is verbatim in its own PDF text layer. Register gate ALL PASSED (639,749, values only). Not app-displayed (`index.html` 0 carriers refs).
+- **NAMED, NOT fixed:** `NAVIOS HELIOS` 2025 W41 stays `77.75` (page prints only 2 fraction digits; the publisher's token is truncated, 77,750 is NOT derivable from `77.75`). Demolition 2025 W06 `972.0` is a legit small integer, untouched.
+- **NAMED (separate per-source pass):** `star_asia_deals_series.csv :: ldt` carries the SAME signature (12 rows; page 14 of `star_asia_2024_W42` prints `HAI BO / BARGE / 8.678`). Left to its own pass per the ONE-SOURCE rule.
+- **NEXT:** no source to extract (corpus complete; 0 arrivals). W41 due ~2026-10-09..13 - re-check newest content by FILENAME. Open items remain the USER's: (a) allied 42-row render pass (needs vision; unavailable in cron); (b) hellenic bare-name `source_file`; (c) inventory/DB rebuild (UPSTREAM store pipeline); (d) digest-tier stale `raw_pdf_path`. Evidence: **`docs/carriers_dwt_convention_verdict.md`**.
+
+---
+
 **THIS RUN (2026-10-09 11:5x, source-by-source, 30m job) - INDEPENDENT FRESHNESS-BY-CONTENT + REGISTER-GATE re-run: everything current, nothing to extract, nothing to fix. No W41 arrival.**
 
 Branch `auto/extract-fixes-2026-10-08` (NOT main). Liveness at start: NO `run_*` extraction of ours (`tasklist` python.exe = 5 low-memory Hermes/gateway procs; fleet_sync last logged 10:14). `git status corpus` = **0 changes**; newest collected broker content = **2026-10-02** (week 40) - **W41 (due ~2026-10-09..13) has NOT arrived**.
