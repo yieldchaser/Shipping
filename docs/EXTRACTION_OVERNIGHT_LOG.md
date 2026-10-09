@@ -4650,3 +4650,40 @@ The delivered `fearnleys_rates_series.csv` still carries 2021/2022 rows for thes
 
 ### Branch / commit
 `auto/extract-fixes-2026-10-09-deepreview`, single file `scripts/extract/publishers/run_fearnleys_normalized.py`.
+
+## 2026-10-09 16:55 UTC (22:25 IST) - DEEP REVIEW (3-hourly cron d77cc9df53c4)
+
+**Headline: one systematic extraction defect FOUND and FIXED - `run_clarksons.extract_all_transactions()` read the demolition table with the S&P-sales column layout, putting the destination COUNTRY into the PRICE column and dropping the real demolition price on 58 of 122 rows.**
+
+### What I measured first
+- `verify_extraction.py --json`: exit 0, `actions: []`. golden 15/15, checkpoint 7,816 unique, db 189,481 tables / 6,726,703 cells, `mean_text_verified` 0.863, 74 not-a-pdf quarantines. State file 25,116 min old but 0 remaining -> batch COMPLETE, nothing running.
+- Liveness: NO `run_batch`/`batch_worker` (only code_review_graph, two hermes gateways and two litellm). Nothing to disturb.
+- Opened 3 fresh doc outputs (`drewry_ais_pdfs/Drewry_AIS_Crude_Suezmax_Week35_2026` tables/text; the checkpoint tail is all `drewry_ais_pdfs`). Drewry's Power BI "tables" are axis/annotation scaffolding around an embedded chart image - the known class (log 2026-10-02), and Drewry is served by its own runner. Not a defect.
+- Broad CSV health scan of all 183 delivered series CSVs (empty-column ratio, exact dup rows, numeric-column contamination): the flagged empty columns are all structural (`drewry_ais_lpg_fr` has no utilisation figure in the source - already checked 2026-10-03; bancosta empty cols are partitioned by `record_type`; `ism *value_report` holds the source chart FILENAME by design). No dup-row epidemics beyond the known small residue (xclusiv_sales 5, star_asia_deals 2, etc.).
+
+### Defect - Clarksons demolition PRICE column shift - FIXED
+`extract_all_transactions()` used ONE hardcoded x-cut (`bounds = [30,118,168,275,375,430,520,585]`) for both tables. The S&P sales table is 7 columns; the demolition table is 6 columns at different x. The sales PRICE column sits at x~444-475, the demolition PRICE sits at x~352-408 (LEFT of the sales cut) and its DELIVERY column lands in the sales PRICE band.
+
+Ground truth, rendered `bulletin-108` (2021-07-09) page 2 header + row:
+```
+VESSEL  DWT     BLT        DETAILS    PRICE            DELIVERY
+KARUNIA 69,235  1993 JAPAN 9,543 LDT  USD 585.5 / LDT  BANGLADESH
+```
+Delivered row before the fix: `PRICE='BANGLADESH'`, `DELIVERY=''`, `COMMENTS='9,543 LDT USD'` - **the price `USD 585.5 / LDT` dropped entirely.** Confirmed on a second doc by eyes: `ANGEL 18` page text `USD 875 / LDT` / `INDIA`.
+
+Fix: for the demolition path only, derive the column cuts from the header tokens printed on the page (`_header_column_bounds`) and read PRICE/DELIVERY/DETAILS/DWT/BLT by NAME. The working S&P sales path is untouched.
+
+### Blast radius measured by A/B over ALL 196 Clarksons docs (old module vs new)
+- demolition rows **122 -> 122** (none lost/gained)
+- **price digit recovered on 58 rows** (`BANGLADESH` -> `USD 585.5 / LDT`, `PAKISTAN` -> `USD 570 / LDT`, ...)
+- **DELIVERY newly populated on 84 rows**
+- S&P **sales output byte-identical on all 196 docs** (sha256 of the 8 sales fields: 0 docs changed)
+- `golden_matrix.py`: star_asia 15/15, ssy_atlantic 14/14, breakwave 6/6 - no regression (`golden_matrix.json` restored from backup; outside my write scope).
+
+### Deliberately NOT changed, and why
+- **Did NOT regenerate `data/extracted/series/clarksons_demolition_series.csv`.** It still carries the pre-fix rows (PRICE=country on 64/120 rows). Changing already-extracted data is a human decision. Exact command if approved: `python3 scripts/extract/publishers/run_clarksons.py` (it rewrites both `clarksons_sales_series.csv` - byte-identical - and `clarksons_demolition_series.csv`; expect PRICE to gain the printed `USD xxx / LDT` on ~58 rows and DELIVERY to fill on ~84).
+- **Noted for a human, worth-zero-today: nothing downstream reads `clarksons_demolition_series.csv`.** It is not referenced by `index.html`, `data/views/**`, `data/derived/**` or `build_series_sql.py`; the app-displayed scrappage series is `data/derived/scrappage_prices.csv` (produced by `scripts/extract_demolition_pdfs.py`, healthy: 382 rows, current to 2026-09-19). The fix is a correctness fix for a delivered KB artefact, not a display fix. The demolition table also genuinely ends at 2024-02-23 in the source (no later bulletin carries a DEMOLITION section - verified across all 196 docs), so the series is not stale.
+- Did not touch `index.html`, other pipelines, `tests/`, the DB, the corpus, git history, or `main`; did not push.
+
+### Branch / commit
+`auto/extract-fixes-2026-10-09-deepreview`, single file `scripts/extract/publishers/run_clarksons.py` -> commit `1932c5fb8`.
