@@ -147,6 +147,90 @@ def extract_panel_value_from_drawings(drawings: List[Dict[str, Any]], y_min: flo
     return round(val, 1)
 
 
+
+
+# --- CORRECTED bulk-carrier chart extraction (2026-10-09) --------------------
+# The previous selection `c[0]<0.35 and c[1]<0.6 and c[2]>0.4` accepted the
+# NAVY horizontal "Average" reference line (0.106,0.255,0.443) and rejected the
+# light-blue DATA curve (0.612,0.729,0.835), so the emitted value was a constant
+# reference-line y (1000x-class/bogus). Measured: 208/208 rows did not reproduce
+# the same document's own stated weekly rate. See docs/xclusiv_bulk_charts_verdict.md
+BC_DATA_COLOR = (0.612, 0.729, 0.835)
+
+
+def _bc_close(c, t, tol=0.035):
+    return bool(c) and all(abs(a - b) < tol for a, b in zip(c, t))
+
+
+def _bc_charts(pg):
+    ts = []
+    for w in pg.get_text("words"):
+        if w[0] >= 305:
+            continue
+        t = w[4].replace(",", "")
+        if re.fullmatch(r"\d{3,6}", t):
+            ts.append((w[1], int(t)))
+    ts = sorted(set(ts))
+    if len(ts) < 4:
+        return []
+    out, cur = [], [ts[0]]
+    for q in ts[1:]:
+        if q[0] - cur[-1][0] > 40:
+            out.append(cur); cur = [q]
+        else:
+            cur.append(q)
+    out.append(cur)
+    return out
+
+
+def _bc_fit(ch):
+    ys = [q[0] for q in ch]; vs = [q[1] for q in ch]; n = len(ch)
+    sy = sum(ys); sv = sum(vs)
+    syy = sum(y * y for y in ys); syv = sum(y * v for y, v in ch)
+    a = (n * syv - sy * sv) / (n * syy - sy * sy)
+    return a, (sv - a * sy) / n
+
+
+def _bc_curve(pg, ch):
+    ytop = min(q[0] for q in ch); ybot = max(q[0] for q in ch)
+    best = None
+    for d in pg.get_drawings():
+        r = d.get("rect")
+        if not r or r.y1 - r.y0 < 20:
+            continue
+        if not _bc_close(d.get("color"), BC_DATA_COLOR):
+            continue
+        if not (r.y0 >= ytop - 15 and r.y1 <= ybot + 35):
+            continue
+        nl = sum(1 for it in d["items"] if it[0] == "l")
+        if nl < 50:
+            continue
+        pts = [it[1] for it in d["items"] if it[0] == "l"]
+        if best is None or nl > best[0]:
+            best = (nl, pts)
+    return best
+
+
+def extract_bulk_chart_values(pg):
+    """Return {vessel_class: value} for the four stacked dry charts, or None."""
+    classes = ["Capesize 5TC", "Kamsarmax 5TC", "Ultramax 11TC", "Handysize 7TC"]
+    chs = _bc_charts(pg)
+    if len(chs) != 4:
+        return None
+    out = {}
+    for cls, ch in zip(classes, chs):
+        a, b = _bc_fit(ch); c = _bc_curve(pg, ch)
+        if not c:
+            out[cls] = None; continue
+        pts = c[1]
+        mx = max(q.x for q in pts)
+        latest = [q for q in pts if q.x >= mx - 1.5]
+        y = sum(q.y for q in latest) / len(latest)
+        out[cls] = round(a * y + b, 1)
+    return out
+# ---------------------------------------------------------------------------
+
+
 def run_xclusiv_charts_pipeline():
     pdfs = sorted(glob.glob(str(XCLUSIV_DIR / "*/*.pdf")))
     _dup = _byte_duplicate_stems(XCLUSIV_DIR)
@@ -178,19 +262,20 @@ def run_xclusiv_charts_pipeline():
         # 1. Page 2 Bulk Carrier Charts
         if len(doc) >= 2:
             page2 = doc[1]
-            drawings_p2 = page2.get_drawings()
-            if len(drawings_p2) > 40:
-                for panel_name, y_min, y_max, val_top, val_bot in PANELS_BC:
-                    val = extract_panel_value_from_drawings(drawings_p2, y_min, y_max, val_top, val_bot)
-                    if val is not None:
-                        bc_rows.append({
-                            "issue_date": issue_date,
-                            "report_week": report_week,
-                            "vessel_class": panel_name,
-                            "rate_usd_per_day": val,
-                            "chart_page": 2,
-                            "source_file": pdf_path.name
-                        })
+            if len(page2.get_drawings()) > 40:
+                _bcv = extract_bulk_chart_values(page2)
+                if _bcv:
+                    for panel_name in ["Capesize 5TC", "Kamsarmax 5TC", "Ultramax 11TC", "Handysize 7TC"]:
+                        val = _bcv.get(panel_name)
+                        if val is not None:
+                            bc_rows.append({
+                                "issue_date": issue_date,
+                                "report_week": report_week,
+                                "vessel_class": panel_name,
+                                "rate_usd_per_day": val,
+                                "chart_page": 2,
+                                "source_file": pdf_path.name
+                            })
 
         # 2. Demolition Price Charts (Targeted Page: 7 for >=9pp, 5 for <=7pp)
         target_demo_pno = 6 if len(doc) >= 8 else (4 if len(doc) >= 5 else None)
