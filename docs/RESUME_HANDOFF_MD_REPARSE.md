@@ -17,6 +17,14 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 3. **`scripts/parse_engine_html/`** — VesselsValue HTML deals + VV Mini Matrix image OCR (in progress). Output to `.reparse_staging/vessel_valuations/`.
 4. **SHELVED — see HARD RULE.** `scripts/md_cleanup/chart_tables.py` — removes LLM-guessed chart tables (values not printed in source text layer), replaces with `> Figure: … not transcribed` note. Guarded mode default; ISM (vector-engine charts) and any "Vector" section excluded. Dry-run results in `.reparse_staging/chart_cleanup/guard_published/` (8,890 tables). Was about to APPLY in place — check `git diff --stat data/extracted/md` before committing.
 
+## STATUS 2026-10-11 — VV COMPLETE ON MAIN (ebd75cf192 MDs, c3347028e9 series)
+VV 256/256 on engine: 33 untabulatable deal sentences printed verbatim ("Other reported deals (as printed, not
+tabulated)"); vv_2026-10-06 re-parsed. Series regenerated, owner chose "accurate only": sales 2,067 rows/254 issues;
+matrix 12,373 rows/160 OCR-validated issues (87 unvalidated legacy issues dropped). NOTE: matrix OCR fails on all
+2026-03 onward images (small images) -> matrix series ends 2026-03-03; future improvement = better OCR for small images.
+Full tests/ run: 33 non-VV failures (test_ui_tabs, test_wave1_pipeline_truth) — pre-existing? not investigated.
+NEXT: metadata normalisation + dupes → self-hosted runner (owner OK to download). Keys rotation at end (owner).
+
 ## STATUS 2026-10-10 (evening) — Carriers row-level LIVE ON MAIN (9bec4563cd, merged e61619d05a)
 scripts/md_cleanup/carriers_rows_fix.py: 121 files (extended 114, filled 146, demolition_realign 142, shift_realign 193,
 row_added 46, en_bloc 2, label_fix 33 SUPRA 63K->TESS 58K). 2024 W06/2025 W25 price/buyer columns swapped back (PDF
