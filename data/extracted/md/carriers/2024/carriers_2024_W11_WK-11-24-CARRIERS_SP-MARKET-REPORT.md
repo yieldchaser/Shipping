@@ -23,6 +23,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W11_WK-11-24-CARRIERS_SP-
 | YING HAO 02 | BC | 75700 | 2012 | Guangzhou Huangpu | 16.50 | UNDISCLOSED |  |
 | PARASKEVI 2 | BC | 74979 | 2011 | Sasebo Heavy Industries | 20.30 | UNDISCLOSED |  |
 | VITAHORIZON | BC | 74483 | 2007 | Hudong-Zhonghua | 12.50 | UNDISCLOSED |  |
+| S'HAIL AL DUKHAN | BC | 74143 | 2005 | Namura Shipbuilding - Imari | - | VIETNAMESE |  |
 | STAR PYXIS | BC | 56615 | 2013 | Jiangsu Hantong Ship HI | 17.50 | GREEK |  |
 | GANT MUSE | BC | 56024 | 2004 | Mitsui Tamano | XS 11.00 | UNDISCLOSED |  |
 | AULAC VANGUARD | BC | 55848 | 2012 | IHI Marine United - Yokohama | 18.90 | UNDISCLOSED |  |
@@ -41,8 +42,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W11_WK-11-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUVARNA TANKER | 32,902 | 8542 |  | 1998 | HHI 540 |  |  |  |
-| MERATUS CV | 22,219 | 7284 |  | 1991 | Shin 505 Kurushima |  |  |  |
+| SUVARNA SWARAJYA | TANKER | 32902 | 8542 | 1998 | HHI | 540 | BANGLADESH |  |
+| MERATUS MEDAN 2 | CV | 22219 | 7284 | 1991 | Shin Kurushima | 505 | UNDISCLOSED |  |
 
 ## Newbuilding Market
 
@@ -96,7 +97,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W11_WK-11-24-CARRIERS_SP-
 | CAPE 180K | 34873 | -907 | 35780 |
 | TESS 82K | 15961 | -1079 | 17040 |
 | LME 74K | 14625 | -1079 | 15704 |
-| SUPRA 63K | 14098.0 | -374.0 | 14472.0 |
+| TESS 58K | 14098.0 | -374.0 | 14472.0 |
 | HANDY 38K | 13329 | -430 | 13759 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

@@ -30,12 +30,12 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W09_WK-9-24-CARRIERS_SP-M
 | PACIFIC INTEGRITY | BC | 56100 | 2013 | Mitsui Eng. & SB. Co. Ltd. - Tamano | 20.50 | UNDISCLOSED |  |
 | INTERLINK AMENITY | BC | 39989 | 2018 | Huatai Heavy Industry (Nantong) Co Ltd | 25.25 | PRECIOUS SHIPPING | including balance of tc till max 7/2024 at @109% of BHSI38 |
 | ECO SEAS | TANKER | 299998 | 2016 | Daewoo Shipbuilding & Marine Engineering Co Ltd | 98.00 | UNDISCLOSED |  |
-| SAINT ALBANS BAY | TANKER | 49900 | 2015 | SPP SHIPBUILDING |  |  |  |
-| LAFAYETTE BAY | TANKER | 49900 | 2015 | SPP SHIPBUILDING |  |  |  |
-| JENNINGS BAY | TANKER | 49900 | 2015 | SPP SHIPBUILDING |  |  |  |
+| SAINT ALBANS BAY | TANKER | 49900 | 2015 | SPP SHIPBUILDING | 238.00 enbloc | INTERLINK SEAWAYS |  |
+| LAFAYETTE BAY | TANKER | 49900 | 2015 | SPP SHIPBUILDING | 238.00 enbloc | INTERLINK SEAWAYS |  |
+| JENNINGS BAY | TANKER | 49900 | 2015 | SPP SHIPBUILDING | 238.00 enbloc | INTERLINK SEAWAYS |  |
 | HARRISON BAY | TANKER | 49900 | 2015 | SPP SHIPBUILDING | 238.00 enbloc | INTERLINK SEAWAYS |  |
-| EXCELSIOR BAY | TANKER | 49900 | 2014 | SPP SHIPBUILDING |  |  |  |
-| CRYSTAL BAY | TANKER | 49900 | 2014 | SPP SHIPBUILDING |  |  |  |
+| EXCELSIOR BAY | TANKER | 49900 | 2014 | SPP SHIPBUILDING | 238.00 enbloc | INTERLINK SEAWAYS |  |
+| CRYSTAL BAY | TANKER | 49900 | 2014 | SPP SHIPBUILDING | 238.00 enbloc | INTERLINK SEAWAYS |  |
 | SHOGUN | TANKER | 44485 | 2002 | Hyundai Mipo Dockyard Co Ltd | 13.80 | UNDISCLOSED |  |
 | ALS CLIVIA | CV | 51570 | 2010 | Hyundai Samho Heavy Industries Co Ltd | 20.50 | ITALIAN | 4,400 TEU |
 
@@ -43,16 +43,16 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W09_WK-9-24-CARRIERS_SP-M
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ZEUS ONE BC | 177,643 | 21364 |  | 2002 | Mitsui 495 |  |  |  |
-| XIAN XIANG BC | 22,154 | 5119 |  | 1992 | Saiki Flensburger |  |  |  |
-| 01 CV | 39,626 | 11486 |  | 1996 | Schiffbau-Ges. 540 mbH & Co. KG |  |  |  |
+| ZEUS ONE | BC | 177643 | 21364 | 2002 | Mitsui | 495 | BANGLADESH |  |
+| XIAN XIANG RUI | BC | 22154 | 5119 | 1992 | Saiki | - | as is Zhoushan |  |
+| HONG YUAN 01 | CV | 39626 | 11486 | 1996 | Flensburger Schiffbau-Ges. mbH & Co. KG | 540 | BANGLADESH |  |
 
 ## Newbuilding Market
 
 | Type | Units | Size | Yard | Delivery | Price ($M) | Owners | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLAC | 2 | 91,000 cbm | HYUNDAI HEAVY INDUSTRIES | 12/2026 | 121 EACH | EVALEND SHIPPING |  |
-| TANKERS | 4 | 18,500 DWT | FUJIAN SOUTHEST 7/2025-5/2026 SHIPBUILDING |  | 32.3 EACH | SEACON SHIPPING |  |
+| TANKERS | 4 | 18,500 DWT | FUJIAN SOUTHEST SHIPBUILDING | 7/2025-5/2026 | 32.3 EACH | SEACON SHIPPING |  |
 
 ## BSPA Secondhand Market Assessments (5 Years Old)
 
@@ -99,7 +99,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W09_WK-9-24-CARRIERS_SP-M
 | CAPE 180K | 26233 | 5855 | 20378 |
 | TESS 82K | 14201 | -931 | 15132 |
 | LME 74K | 12856 | -940 | 13796 |
-| SUPRA 63K | 13175.0 | 1190.0 | 11985.0 |
+| TESS 58K | 13175.0 | 1190.0 | 11985.0 |
 | HANDY 38K | 11509 | 1123 | 10386 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

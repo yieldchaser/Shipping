@@ -31,6 +31,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W37_WK-37-24-CARRIERS_SP-
 | THOMAS SELMER | BC | 34963 | 2011 | Samjin Shipbuilding Industries | 13.00 | UNDISCLOSED |  |
 | ZHE HAI 161 | BC | 33478 | 2007 | Zhoushan Wuzhou | 6.00 | UNDISCLOSED |  |
 | ELEGANT EMILIE | BC | 33248 | 2008 | Shin Kochi | 12.50 | UNDISCLOSED |  |
+| TRANSFORMER OL | BC | 28375 | 2009 | Shimanami Shipyard Co Ltd | 9.00 | VIETNAMESE |  |
 | GLOBE EXPLORER | BC | 28316 | 2015 | I-S Shipyard Co Ltd | 14.20 | UNDISCLOSED |  |
 | TENACITY | TANKER | 50143 | 2014 | Guangzhou Shipyard Intl Co | 40.00 | AERIO SHIPMGMT |  |
 | STI TEXAS CITY | TANKER | 49990 | 2014 | SPP SHIPBUILDING - SAC | 42.50 | UNDISCLOSED |  |
@@ -43,7 +44,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W37_WK-37-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| UNIPROFIT GC | 8,394 | 3032 |  | 1995 | ShinA 470 Shipbuilding |  |  |  |
+| UNIPROFIT | GC | 8394 | 3032 | 1995 | ShinA Shipbuilding | 470 | BANGLADESH |  |
 
 ## Newbuilding Market
 

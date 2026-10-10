@@ -42,8 +42,8 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W30_WK-30-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| GHASHA LNG | 71,593 | 33407 |  | 1995 | Mitsui 615 |  | AS | IS CHINA |
-| AL KHAZNAH LNG | 71,453 | 33457 |  | 1994 | Mitsui 620 |  | AS | IS SPORE |
+| GHASHA | LNG | 71593 | 33407 | 1995 | Mitsui | 615 | UNDISCLOSED | AS IS CHINA |
+| AL KHAZNAH | LNG | 71453 | 33457 | 1994 | Mitsui | 620 | UNDISCLOSED | AS IS SPORE |
 
 ## Newbuilding Market
 

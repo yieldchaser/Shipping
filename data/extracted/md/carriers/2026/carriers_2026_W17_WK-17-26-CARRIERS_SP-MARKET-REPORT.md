@@ -20,8 +20,8 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W17_WK-17-26-CARRIERS_SP-
 | OCEAN FAIRY | BC | 87328 | 2010 | Hudong-Zhonghua | 16.50 | UNDISCLOSED |  |
 | DONOUSA | BC | 76417 | 2004 | Tsuneishi Corp - Tadotsu | 9.30 | CHINESE |  |
 | PABUR | BC | 76167 | 2012 | Taizhou Kouan Shipbuilding | 16.50 | UNDISCLOSED |  |
-| NEW DAYANG NDY1315 | BC | 64100 | 2027 | New Dayang Shipbuilding | 73.00 EN BLOC | NIOVIS |  |
-| NEW DAYANG NDY1316 | BC | 64100 | 2027 | New Dayang Shipbuilding | 73.00 EN BLOC | SHIPPING |  |
+| NEW DAYANG NDY1315 | BC | 64100 | 2027 | New Dayang Shipbuilding | 73.00 EN BLOC | NIOVIS SHIPPING |  |
+| NEW DAYANG NDY1316 | BC | 64100 | 2027 | New Dayang Shipbuilding | 73.00 EN BLOC | NIOVIS SHIPPING |  |
 | AMIS POWER | BC | 64012 | 2018 | Tsuneishi Heavy Inds Cebu | 32.50 | UNDISCLOSED |  |
 | AMSTEL TIGER | BC | 60454 | 2016 | Oshima Shipbuilding Co Ltd | 28.00 | UNDISCLOSED |  |
 | ASTRA PERSEUS | BC | 58518 | 2012 | DSME Shandong Co Ltd | 16.80 | UNDISCLOSED |  |

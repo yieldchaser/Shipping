@@ -48,8 +48,8 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W49_WK-49-23-CARRIERS_SP-
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | G HARMONY | BC | 35014 | 11248 | 2005 | Kouan Shipbuilding | 510 | SUBCONT |  |
-| MSC RITA | CV | 104849 | 30712 | 2005 | Hanjin HHI | 407 | UAE | AS IS KHALIFA TOW REQ. AS IS |
-| ZE HONG | CV | 41624 | 11618 | 1995 | Thyssen Nordseewerke | 520 |  | ZHOUSHAN 285MT BUNKERS |
+| MSC RITA | CV | 104849 | 30712 | 2005 | Hanjin HHI | 407 | UAE | AS IS KHALIFA TOW REQ. |
+| ZE HONG | CV | 41624 | 11618 | 1995 | Thyssen Nordseewerke | 520 |  | AS IS ZHOUSHAN 285MT BUNKERS |
 
 ## Newbuilding Market
 
@@ -105,7 +105,7 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W49_WK-49-23-CARRIERS_SP-
 | CAPE 180K | 54584 | 22913 | 31671 |
 | TESS 82K | 21966 | 3107 | 18859 |
 | LME 74K | 20630 | 3107 | 17523 |
-| SUPRA 63K | 16788.0 | 2579.0 | 14209.0 |
+| TESS 58K | 16788.0 | 2579.0 | 14209.0 |
 | HANDY 38K | 14393 | 2152 | 12241 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

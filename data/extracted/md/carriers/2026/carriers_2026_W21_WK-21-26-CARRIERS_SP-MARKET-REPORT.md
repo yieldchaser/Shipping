@@ -19,7 +19,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W21_WK-21-26-CARRIERS_SP-
 | FPMC B 104 | BC | 104989 | 2011 | STX Dalian Shipbuilding Co | - | GREEK |  |
 | NEFELI C | BC | 93076 | 2013 | COSCO Dalian Shipyard Co | 16.00 | CHINESE |  |
 | XENIA | BC | 87144 | 2006 | IHI Marine United - Yokohama | 13.00 | UNDISCLOSED | SS DUE |
-| PEDHOULAS | BC | 83684 | 2008 | Sanoyas Hishino Meisho Corp | 14.70 | UNDISCLOSED | SCRUBBER FITTED |
+| PEDHOULAS COMMANDER | BC | 83684 | 2008 | Sanoyas Hishino Meisho Corp | 14.70 | UNDISCLOSED | SCRUBBER FITTED |
 | PANAGIA FORCE | BC | 81791 | 2007 | Mitsui Tamano | 13.50 | UNDISCLOSED |  |
 | THE PATRON | BC | 79444 | 2010 | JINHAI HEAVY INDUSTRY | 13.20 | UNDISCLOSED |  |
 | PRABHU YUVIKA | BC | 76310 | 2004 | Sumitomo Heavy Marine | 9.80 | UNDISCLOSED |  |
@@ -29,17 +29,18 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W21_WK-21-26-CARRIERS_SP-
 | QIAN DAO HU | BC | 63398 | 2017 | Sainty Shipbuilding Yangzhou | 49.66 EN BLOC | UNDISCLOSED |  |
 | MO GAN SHAN | BC | 63326 | 2014 | Sainty Shipbuilding Yangzhou | 49.66 EN BLOC | UNDISCLOSED |  |
 | BELTIGER | BC | 63025 | 2017 | New Times Shipbuilding Co | 26.80 | UNDISCLOSED |  |
+| DESERT VICTORY | BC | 57434 | 2011 | Hyundai Mipo Dockyard Co | 15.40 | VIETNAMESE |  |
 | JADE | BC | 55090 | 2010 | Nantong COSCO KHI Ship Eng | 15.00 | TURKISH |  |
 | WEST BAY | BC | 52532 | 2004 | Tsuneishi Heavy Inds Cebu | 9.80 | UNDISCLOSED |  |
 | CHRISTINA SELMER | BC | 34983 | 2011 | Samjin Shipbuilding | 11.20 | GREEK |  |
 | AC SPLENDOR | BC | 32740 | 2005 | Kanda Kawajiri | 8.60 | UNDISCLOSED |  |
 | DESPINA K | BC | 32648 | 2010 | JIANGSU ZHENJIANG | 9.20 | UNDISCLOSED |  |
 | ASAHI OCEAN | BC | 32085 | 2013 | Hakodate Dock - Hakodate | 15.25 | HAI PHUONG |  |
-| AFRICAN JOSEPH R | BC | 18922 | 2006 | Yamanishi Corp | 6.00 | UNDISCLOSED SS/DD | PASSED |
+| AFRICAN JOSEPH R | BC | 18922 | 2006 | Yamanishi Corp | 6.00 | UNDISCLOSED | SS/DD PASSED |
 | ABIE | TANKER | 302986 | 2002 | Samsung Heavy Inds - Geoje | 41.00 | UNDISCLOSED |  |
 | STI CONDOTTI | TANKER | 109999 | 2014 | Hyundai Samho HI | 70.00 | UNDISCLOSED |  |
 | SUNNY VICTORY | TANKER | 46803 | 2005 | Hyundai Mipo Dockyard Co | 16.00 | UNDISCLOSED |  |
-| EASTERLY BEECH | TANKER | 19998 | 2007 | Usuki Shipyard Co Ltd | 16.00 | UNDISCLOSED | J19 |
+| EASTERLY BEECH GALAXY | TANKER | 19998 | 2007 | Usuki Shipyard Co Ltd | 16.00 | UNDISCLOSED | J19 |
 | NOBLER | TANKER | 19949 | 2002 | Usuki Shipyard Co Ltd | 10.00 | UNDISCLOSED |  |
 | AS SICILIA | CV | 25927 | 2008 | Taizhou Kouan Shipbuilding | 18.50 | UNDISCLOSED | 1,794 TEU |
 

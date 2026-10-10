@@ -19,9 +19,10 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W03_WK-03-25-CARRIERS_SP-
 | SALT LAKE CITY | BC | 171810 | 2005 | Daewoo Shipbuilding & Marine | 16.20 | CHINESE |  |
 | SUNSHINE BLISS | BC | 76441 | 2010 | Oshima Shipbuilding Co Ltd | 13.25 | UNDISCLOSED |  |
 | K. FAITH | BC | 75845 | 2002 | Sanoyas Hishino Meisho Corp | 6.30 | CHINESE |  |
+| MYTHOS | BC | 74195 | 2004 | Namura Shipbuilding - Imari | 8.50 | VIETNAMESE |  |
 | GLBS MAGIC | BC | 64195 | 2024 | Nantong COSCO KHI Ship Eng | 25.00 | JAPANESE |  |
-| GIORGOS | BC | 61398 | 2013 | Iwagi Zosen Co Ltd | 21.70 | UNDISCLOSED |  |
-| PROTECTOR ST. | BC | 56873 | 2010 | Xiamen Shipbuilding Industry | 11.00 | UNDISCLOSED |  |
+| GIORGOS DRACOPOULOS | BC | 61398 | 2013 | Iwagi Zosen Co Ltd | 21.70 | UNDISCLOSED |  |
+| PROTECTOR ST. RAPHAEL | BC | 56873 | 2010 | Xiamen Shipbuilding Industry | 11.00 | UNDISCLOSED |  |
 | JAG RISHI | BC | 56719 | 2011 | COSCO Zhoushan Shipyard Co Ltd | 11.90 | CHINESE |  |
 | JASMINE | BC | 56124 | 2012 | Mitsui Tamano | 17.50 | INDONESIAN |  |
 | LORENTZOS | BC | 53688 | 2005 | New Century Shipbuilding Co | 9.00 | UNDISCLOSED |  |
@@ -45,8 +46,8 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W03_WK-03-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| GOLDEN ORIENT BC | 73,326 | 10644 |  | 1998 | Halla 418 Engineering |  | AS | IS HONG KONG |
-| RONG YUAN BC | 70,257 | 9165 |  | 1997 | Sanoyas 460 |  |  |  |
+| GOLDEN ORIENT | BC | 73326 | 10644 | 1998 | Halla Engineering | 418 | UNDISCLOSED | AS IS HONG KONG |
+| RONG YUAN | BC | 70257 | 9165 | 1997 | Sanoyas | 460 | BANGLADESH |  |
 
 ## Newbuilding Market
 

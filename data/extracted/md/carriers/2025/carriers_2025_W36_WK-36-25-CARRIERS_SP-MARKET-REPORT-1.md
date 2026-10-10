@@ -16,10 +16,10 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W36_WK-36-25-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| KARADENIZ POWERSHIP | BC | 207945 | 2010 | Universal Shbldg - Tsu | 33.00 | WINNING SHIPPING |  |
-| MINERAL UTAMARO | BC | 207469 | 2016 | Imabari Shbldg - Saijo |  |  |  |
-| MINERAL EDO | BC | 207219 | 2015 | Imabari Shbldg - Saijo | 168.00 EN BLOC | WINNING |  |
-| MINERAL HOKUSAI | BC | 207219 | 2015 | Imabari Shbldg - Saijo | 168.00 EN BLOC | SHIPPING |  |
+| KARADENIZ POWERSHIP RAUF OSMAN BEY | BC | 207945 | 2010 | Universal Shbldg - Tsu | 33.00 | WINNING SHIPPING |  |
+| MINERAL UTAMARO | BC | 207469 | 2016 | Imabari Shbldg - Saijo | 168.00 EN BLOC | WINNING SHIPPING |  |
+| MINERAL EDO | BC | 207219 | 2015 | Imabari Shbldg - Saijo | 168.00 EN BLOC | WINNING SHIPPING |  |
+| MINERAL HOKUSAI | BC | 207219 | 2015 | Imabari Shbldg - Saijo | 168.00 EN BLOC | WINNING SHIPPING |  |
 | NBA RUBENS | BC | 107290 | 2011 | Oshima Shipbuilding Co Ltd | 15.00 | GREEK |  |
 | KAYA OLDENDORFF | BC | 82155 | 2024 | Jiangsu New Hantong Ship | Mid 34s | UNDISCLOSED |  |
 | ULTRA JAGUAR | BC | 81922 | 2016 | Tsuneishi Zhoushan Shbldg | 24.00 | GREAT EASTERN |  |
@@ -34,13 +34,13 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W36_WK-36-25-CARRIERS_SP-
 | MARINOR | BC | 56784 | 2009 | Jiangsu Hantong Ship HI | 10.80 | UNDISCLOSED |  |
 | FRATZIS STAR | BC | 53533 | 2005 | Zhejiang Shbldg - Ningbo | 8.50 | CHINESE |  |
 | LILAC HARMONY | BC | 38581 | 2020 | Tsuneishi Heavy Inds Cebu | 25.00 | NOVA MARINE |  |
-| MYKONOS | BC | 30912 | 2013 | Tsuji Heavy Industries Jiangsu | 11.00 | DRAMAR |  |
-| MADRID | BC | 30900 | 2013 | Tsuji Heavy Industries Jiangsu | 11.00 | SHIPPING |  |
+| MYKONOS | BC | 30912 | 2013 | Tsuji Heavy Industries Jiangsu | 11.00 | DRAMAR SHIPPING |  |
+| MADRID | BC | 30900 | 2013 | Tsuji Heavy Industries Jiangsu | 11.00 | DRAMAR SHIPPING |  |
 | ASPELIA | BC | 28725 | 2008 | Imabari Shbldg - Imabari | 8.20 | UNDISCLOSED |  |
 | KRITI VIGOR | TANKER | 159156 | 2005 | Hyundai Heavy Inds - Ulsan | 29.00 | UNDISCLOSED |  |
 | SAMURAI | TANKER | 149993 | 2009 | Universal Shbldg - Tsu | 39.00 | INDIAN |  |
-| ZHOUSHAN CHANGHONG | TANKER | 115000 | 2027 | ZHOUSHAN CHANGHONG INT | 66.50 | NAVIOS |  |
-| ZHOUSHAN CHANGHONG | TANKER | 115000 | 2027 | ZHOUSHAN CHANGHONG INT | 66.50 |  |  |
+| ZHOUSHAN CHANGHONG CHB3026 | TANKER | 115000 | 2027 | ZHOUSHAN CHANGHONG INT | 66.50 | NAVIOS |  |
+| ZHOUSHAN CHANGHONG CHB3027 | TANKER | 115000 | 2027 | ZHOUSHAN CHANGHONG INT | 66.50 | NAVIOS |  |
 | BLUE PRINCE | TANKER | 109010 | 2009 | Hudong-Zhonghua | 32.70 | UNDISCLOSED |  |
 | HAFNIA NORDICA | TANKER | 53520 | 2010 | Shin Kurushima Onishi | 22.00 | UNDISCLOSED |  |
 | SEAWAYS ROSE | TANKER | 49999 | 2008 | Hyundai Mipo Dockyard Co Ltd | - | UNDISCLOSED |  |
@@ -52,7 +52,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W36_WK-36-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MANASSA MPP | 9,357 | 2725 |  | 1984 | Kok 240 Tersanecilik |  |  |  |
+| MANASSA MOON M | MPP | 9357 | 2725 | 1984 | Kok Tersanecilik | 240 | TURKEY |  |
 
 ## Newbuilding Market
 

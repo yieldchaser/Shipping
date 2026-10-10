@@ -45,7 +45,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W16_WK-1617-24-CARRIERS_S
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BORDER CV | 14,069 | 5723 |  | 1993 | Szczecinska 454 SA |  |  | AFRICA |
+| BORDER | CV | 14069 | 5723 | 1993 | Stocznia Szczecinska SA | 454 |  | AS IS SOUTH AFRICA |
 
 ## Newbuilding Market
 
@@ -99,7 +99,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W16_WK-1617-24-CARRIERS_S
 | CAPE 180K | 22410 | 1440 | 20970 |
 | TESS 82K | 17348 | 1725 | 15623 |
 | LME 74K | 16012 | 1725 | 14287 |
-| SUPRA 63K | 15515.0 | 1438.0 | 14077.0 |
+| TESS 58K | 15515.0 | 1438.0 | 14077.0 |
 | HANDY 38K | 13392 | 418 | 12974 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

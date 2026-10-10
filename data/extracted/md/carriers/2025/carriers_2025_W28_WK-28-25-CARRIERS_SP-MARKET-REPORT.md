@@ -29,6 +29,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W28_WK-28-25-CARRIERS_SP-
 | JIN GANG | BC | 56928 | 2009 | Chengxi Shipyard Jiangyin | 10.80 | CHINESE |  |
 | MINDANAO | BC | 55696 | 2010 | Mitsui Tamano | 15.50 | UNDISCLOSED |  |
 | GUO DIAN 36 | BC | 51215 | 2002 | New Century Shipbuilding Co | 5.90 | UNDISCLOSED | AUCTION SALE |
+| SEA DOLPHIN C | BC | 33802 | 2011 | 21st Century Shipbuilding Co | 11.70 | VIETNAMESE |  |
 | RIJN CONFIDENCE | BC | 33328 | 2013 | Shin Kurushima Onishi | 14.30 | UNDISCLOSED | OHBC |
 | AFRICAN SWAN | BC | 32776 | 2005 | Kanda Kawajiri | 6.65 | UNDISCLOSED |  |
 | CITY OF TOKYO | TANKER | 303994 | 2004 | Universal Shbldg - Ariake | 41.50 | UNDISCLOSED |  |
@@ -43,8 +44,8 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W28_WK-28-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HYUNDAI LNG | 77,951 | 34040 |  | 2000 | Hyundai HI 580 |  | AS IS | INDONESIA |
-| HARBOUR WELL BC | 72,497 | 10161 |  | 1998 | Imabari |  |  |  |
+| HYUNDAI COSMOPIA | LNG | 77951 | 34040 | 2000 | Hyundai HI | 580 | UNDISCLOSED | AS IS INDONESIA |
+| HARBOUR WELL | BC | 72497 | 10161 | 1998 | Imabari | - | BANGLADESH |  |
 
 ## Newbuilding Market
 

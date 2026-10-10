@@ -34,8 +34,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W42_WK-42-24-CARRIERS_SP-
 | BUTTERFLY | TANKER | 46048 | 2004 | STX Shipbuilding - Jinhae | 18.40 | CHINESE |  |
 | ARSOS M | TANKER | 45737 | 2004 | Minaminippon Shbldg | 16.00 | IRAQI |  |
 | LECANGS DOLPHIN | CV | 24286 | 2023 | Huanghai Shipbuilding Co Ltd | 32.10 | MINERVA | 1,781 TEU |
-| CONTSHIP BEE | CV | 13690 | 2006 | Qingshan Shipyard |  |  | 1,118 TEU |
-| CONTSHIP QUO | CV | 12001 | 2007 | Zhejiang Ouhua Shipbuilding |  |  | 990 TEU |
+| CONTSHIP BEE | CV | 13690 | 2006 | Qingshan Shipyard | 37.50 EN BLOC | TURKISH | 1,118 TEU |
+| CONTSHIP QUO | CV | 12001 | 2007 | Zhejiang Ouhua Shipbuilding | 37.50 EN BLOC | TURKISH | 990 TEU |
 | CONTSHIP PEP | CV | 11834 | 2006 | Yangfan Group Co Ltd | 37.50 EN BLOC | TURKISH | 957 TEU |
 | CONTSHIP ANA | CV | 11807 | 2005 | Yangfan Group Co Ltd | 37.50 EN BLOC | TURKISH | 957 TEU |
 | CONTSHIP MAX | CV | 11807 | 2006 | Yangfan Group Co Ltd | 37.50 EN BLOC | TURKISH | 957 TEU |
@@ -44,7 +44,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W42_WK-42-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ATLAS WIND GC | 5,196 | 2486 |  | 1997 | Jiangxi 445 Jiangzhou |  | AS | IS PORT KLANG |
+| ATLAS WIND | GC | 5196 | 2486 | 1997 | Jiangxi Jiangzhou | 445 | UNDISCLOSED | AS IS PORT KLANG |
 
 ## Newbuilding Market
 

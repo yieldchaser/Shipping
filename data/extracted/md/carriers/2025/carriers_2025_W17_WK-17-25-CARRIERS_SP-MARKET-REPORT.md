@@ -19,12 +19,14 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W17_WK-17-25-CARRIERS_SP-
 | IVESTOS 6 | BC | 76596 | 2006 | Imabari Shbldg - Marugame | 9.00 | UNDISCLOSED |  |
 | SPAR CAPELLA | BC | 58000 | 2011 | Yangzhou Dayang Shipbuilding | 11.40 | CHINESE |  |
 | BAKER RIVER | BC | 56006 | 2005 | Mitsui Tamano | 10.00 | UNDISCLOSED |  |
+| IMKE SELMER | BC | 55869 | 2011 | IHI Marine United - Kure | 15.00 | VIETNAMESE |  |
 | AVIGATOR | BC | 53806 | 2002 | New Century Shipbuilding Co | 6.20 | CHINESE |  |
 | MICHALAKIS | BC | 45769 | 1998 | Tsuneishi Shbldg | - | CHINESE |  |
-| JIANGSU DAJIN | BC | 40400 | 2025 | JIANGSU DAJIN HEAVY IN | 29.50 | CHINESE |  |
+| JIANGSU DAJIN DJHC6115 | BC | 40400 | 2025 | JIANGSU DAJIN HEAVY IN | 29.50 | CHINESE |  |
 | IVS SUNBIRD | BC | 33399 | 2015 | Shin Kochi | 17.00 | UNDISCLOSED |  |
 | IVS KNOT | BC | 33143 | 2010 | Kanda Kawajiri | 11.25 | UNDISCLOSED |  |
 | MAGIQUE MARLINE | BC | 32216 | 2009 | Kanda Kawajiri | 11.50 | UNDISCLOSED |  |
+| MAJESTIC MARINA | BC | 32115 | 2009 | Hakodate Dock - Hakodate | 10.50 | VIETNAMESE |  |
 | LANDBRIDGE WISDOM | TANKER | 307894 | 2020 | Dalian Shipbuilding Ind - No 2 | 206.00 EN BLOC | OMAN SHIPPING |  |
 | LANDBRIDGE GLORY | TANKER | 307852 | 2019 | Dalian Shipbuilding Ind - No 2 | 206.00 EN BLOC | OMAN SHIPPING |  |
 | GULF ELAN | TANKER | 46894 | 2007 | Hyundai Mipo Dockyard Co Ltd | 16.50 | UNDISCLOSED |  |
@@ -36,8 +38,8 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W17_WK-17-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CHARLENE BC | 28,249 | 6088 |  | 1996 | KK Kanasashi 465 |  |  |  |
-| GOLD EAGLE GEN | CARGO 6,914 | 2396 |  | 1997 | Nishi Shipblng 354 |  | AS | IS VIETNAM |
+| CHARLENE | BC | 28249 | 6088 | 1996 | KK Kanasashi | 465 | BANGLADESH |  |
+| GOLD EAGLE | GEN CARGO | 6914 | 2396 | 1997 | Nishi Shipblng | 354 | UNDISCLOSED | AS IS VIETNAM |
 
 ## Newbuilding Market
 

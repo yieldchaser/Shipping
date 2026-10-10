@@ -16,34 +16,34 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W35_WK-35-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| NAVIOS POLLUX | BC | 180727 | 2009 | STX OFFSHORE & SHBLDG | 30,750,000 UNDISCLOSED |  |  |
-| KIYO | BC | 92353 | 2012 | Namura Shipbuilding - Imari | 19,300,000 UNDISCLOSED |  |  |
-| HARVEST | BC | 58779 | 2008 | Tsuneishi Zhoushan Shbldg | 13,800,000 UNDISCLOSED |  |  |
+| NAVIOS POLLUX | BC | 180727 | 2009 | STX OFFSHORE & SHBLDG | 30,750,000 | UNDISCLOSED |  |
+| KIYO | BC | 92353 | 2012 | Namura Shipbuilding - Imari | 19,300,000 | UNDISCLOSED |  |
+| HARVEST | BC | 58779 | 2008 | Tsuneishi Zhoushan Shbldg | 13,800,000 | UNDISCLOSED |  |
 | KANCHANA NAREE | BC | 56920 | 2011 | Taizhou Sanfu Ship | 14,600,000 | CHINESE |  |
 | FLC HAPPINESS | BC | 56799 | 2009 | Taizhou Kouan Shipbuilding | 12,900,000 | CHINESE |  |
-| MARIANNA | BC | 55753 | 2010 | IHI Marine United - | 17,000,000 UNDISCLOSED |  |  |
-| DEVBULK SINEM | BC | 38009 | 2013 | Pha Rung | 14,800,000 UNDISCLOSED |  |  |
-| CHINA SPIRIT | BC | 35097 | 2013 | Nanjing Dongze Shipyard Co | 13,000,000 UNDISCLOSED |  |  |
+| MARIANNA | BC | 55753 | 2010 | IHI Marine United - | 17,000,000 | UNDISCLOSED |  |
+| DEVBULK SINEM | BC | 38009 | 2013 | Pha Rung | 14,800,000 | UNDISCLOSED |  |
+| CHINA SPIRIT | BC | 35097 | 2013 | Nanjing Dongze Shipyard Co | 13,000,000 | UNDISCLOSED |  |
 | PRINCESS NATALIE | TANKER | 320261 | 2011 | Daewoo Shipbuilding | 97,000,000 | SINGAPORE |  |
 | CAPE BENAT | TANKER | 156642 | 2010 | Jiangsu Rongsheng | 62,500,000 | UAE |  |
 | SUEZ ICE SUPREME | TANKER | 146356 | 2007 | Universal Shbldg - Tsu | 57,000,000 | UAE | ICE CLASS |
 | MINERVA XANTHE | TANKER | 50922 | 2006 | STX Shipbuilding - Jinhae | 16,000,000 | CHINESE |  |
-| LUCTOR | TANKER | 50383 | 2011 | Onomichi Dockyard Co Ltd | 26,000,000 UNDISCLOSED |  | INCL BBB |
-| TURMOIL | TANKER | 49997 | 2011 | Onomichi Dockyard Co Ltd | 26,000,000 UNDISCLOSED |  | INCL BBB |
+| LUCTOR | TANKER | 50383 | 2011 | Onomichi Dockyard Co Ltd | 26,000,000 | UNDISCLOSED | INCL BBB |
+| TURMOIL | TANKER | 49997 | 2011 | Onomichi Dockyard Co Ltd | 26,000,000 | UNDISCLOSED | INCL BBB |
 | XING TONG 799 | TANKER | 49962 | 2011 | Onomichi Dockyard Co Ltd | 27,200,000 | INDONESIAN |  |
-| PM REGENT | TANKER | 49874 | 2018 | JAPAN MARINE UTD - MAI | 45,500,000 UNDISCLOSED |  |  |
-| RUI FU SHENG | TANKER | 46846 | 2007 | Sungdong Shipbuilding & Eng | 19,000,000 UNDISCLOSED |  |  |
-| TANGGUH BATUR | LNG | 84980 | 2008 | Daewoo Shipbuilding | 30,000,000 UNDISCLOSED |  |  |
+| PM REGENT | TANKER | 49874 | 2018 | JAPAN MARINE UTD - MAI | 45,500,000 | UNDISCLOSED |  |
+| RUI FU SHENG | TANKER | 46846 | 2007 | Sungdong Shipbuilding & Eng | 19,000,000 | UNDISCLOSED |  |
+| TANGGUH BATUR | LNG | 84980 | 2008 | Daewoo Shipbuilding | 30,000,000 | UNDISCLOSED |  |
 | ARCTIC VOYAGER | LNG | 75485 | 2006 | Kawasaki Shipbuilding | 28,000,000 | TURKISH |  |
-| BW BIRCH | LPG | 58123 | 2007 | Hyundai Heavy Inds - Ulsan | 64,000,000 UNDISCLOSED |  |  |
+| BW BIRCH | LPG | 58123 | 2007 | Hyundai Heavy Inds - Ulsan | 64,000,000 | UNDISCLOSED |  |
 | WES SINA | CV | 12829 | 2007 | Dae Sun Shipbuilding & Eng | 12,500,000 | CHINESE | 1,049 TEU |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CRIMSON | BC | 49997 | 9759 | 2001 | Shin Kurushima | 496 |  |  |
-| BR GLORY | BC | 22273 | 4921 | 1990 | Saiki HI | 540 |  |  |
+| CRIMSON SATURN | BC | 49997 | 9759 | 2001 | Shin Kurushima | 496 | BANGLADESH |  |
+| BR GLORY | BC | 22273 | 4921 | 1990 | Saiki HI | 540 | PAKISTAN |  |
 
 ## Newbuilding Market
 

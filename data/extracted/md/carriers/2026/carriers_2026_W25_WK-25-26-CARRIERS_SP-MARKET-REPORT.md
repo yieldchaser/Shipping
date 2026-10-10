@@ -35,8 +35,8 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W25_WK-25-26-CARRIERS_SP-
 | KUMANO | BC | 30438 | 2006 | Shin Kochi | 13.00 | CHINESE | Heavy Lifter |
 | YAMATOGAWA | TANKER | 302488 | 2006 | Kawasaki Shipbuilding - | 61.00 | UNDISCLOSED |  |
 | COSMO SAIL | TANKER | 159233 | 2007 | Hyundai Samho HI | 49.50 | UNDISCLOSED |  |
-| SHANHAIGUAN P110K- | TANKER | 114800 | 2026 | Dalian Shipbuilding Ind - No 1 | 90.00 | TURKISH |  |
-| SERIANA | TANKER | 109991 | 2015 | Sumitomo Heavy Marine | 72.00 GREAT | EASTERN |  |
+| SHANHAIGUAN P110K- 70 | TANKER | 114800 | 2026 | Dalian Shipbuilding Ind - No 1 | 90.00 | TURKISH |  |
+| SERIANA | TANKER | 109991 | 2015 | Sumitomo Heavy Marine | 72.00 | GREAT EASTERN |  |
 | NAVE ARIADNE | TANKER | 74875 | 2007 | STX Shipbuilding - Jinhae | 22.00 | UNDISCLOSED |  |
 | CAPE TEMPEST | TANKER | 73720 | 2008 | New Times Shipbuilding | 44.00 EN BLOC | UNDISCLOSED |  |
 | CAPE TAURA | TANKER | 73634 | 2007 | New Times Shipbuilding | 44.00 EN BLOC | UNDISCLOSED |  |
@@ -49,7 +49,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W25_WK-25-26-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ANDHIKA | BC | 73726 | 9369 | 1997 | Sumitomo HI | 451 |  | AS IS SAMBU |
+| ANDHIKA PARAMESTI | BC | 73726 | 9369 | 1997 | Sumitomo HI | 451 | UNDISCLOSED | AS IS SAMBU |
 
 ## Newbuilding Market
 

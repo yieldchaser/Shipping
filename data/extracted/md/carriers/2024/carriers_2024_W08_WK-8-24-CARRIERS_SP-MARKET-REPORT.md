@@ -52,8 +52,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W08_WK-8-24-CARRIERS_SP-M
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BONTRUP GC | 42,497 | 13200 |  | 1986 | Samsung HI 520 |  | RECYCLING | GREEN |
-| SINAR LPG | 3,821 | 2163 |  | 1995 | Miyoshi 540 |  |  |  |
+| BONTRUP EMIRATES | GC | 42497 | 13200 | 1986 | Samsung HI | 520 | INDIA | GREEN RECYCLING |
+| SINAR TARAKAN | LPG | 3821 | 2163 | 1995 | Miyoshi | 540 | BANGLADESH |  |
 
 ## Newbuilding Market
 
@@ -108,7 +108,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W08_WK-8-24-CARRIERS_SP-M
 | CAPE 180K | 20378 | 37 | 20341 |
 | TESS 82K | 15132 | 1397 | 13735 |
 | LME 74K | 13796 | 1397 | 12399 |
-| SUPRA 63K | 11985.0 | 452.0 | 11533.0 |
+| TESS 58K | 11985.0 | 452.0 | 11533.0 |
 | HANDY 38K | 10386 | 150 | 10236 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

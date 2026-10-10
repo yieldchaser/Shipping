@@ -17,7 +17,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W47_WK-47-24-CARRIERS_SP-
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VERDURE WAVE | BC | 88269 | 2005 | Imabari Shbldg - Marugame | 11.80 | CHINESE |  |
-| CL SINGAPORE | BC | 81323 | 2016 | Jiangsu Jinling Ships Co Ltd |  |  |  |
+| CL SINGAPORE | BC | 81323 | 2016 | Jiangsu Jinling Ships Co Ltd | 67.50 EN BLOC | TAIWANESE |  |
 | CL TIANJING | BC | 81315 | 2016 | Jiangsu Jinling Ships Co Ltd | 67.50 EN BLOC | TAIWANESE |  |
 | CL RIZHAO | BC | 81296 | 2015 | Jiangsu Jinling Ships Co Ltd | 67.50 EN BLOC | TAIWANESE |  |
 | TOMINI NOBILITY | BC | 81093 | 2020 | Taizhou Kouan Shipbuilding Co | 28.50 | GREEK |  |
@@ -40,11 +40,11 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W47_WK-47-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SK SUMMIT LNG | 76,064 | 29970 |  | 1999 | DAEWOO 469.50 |  | AS | IS SPORE |
-| SK SUPREME LNG | 75,519 | 29017 |  | 2000 | SAMSUNG HI 469.50 |  | AS | IS SPORE |
-| SK SPLENDOR LNG | 75,154 | 29182 |  | 2000 | SAMSUNG HI 469.50 |  | AS | IS SPORE |
-| SK STELLAR LNG | 75,135 | 29135 |  | 2000 | SAMSUNG HI 469.50 |  | AS | IS SPORE |
-| MSC RAFAELA CV | 51,210 | 16024 |  | 1996 | Fincantieri- 510 Cant. Nav |  | RECYCLING | GREEN |
+| SK SUMMIT | LNG | 76064 | 29970 | 1999 | DAEWOO | 469.50 | INDIA | AS IS SPORE |
+| SK SUPREME | LNG | 75519 | 29017 | 2000 | SAMSUNG HI | 469.50 | INDIA | AS IS SPORE |
+| SK SPLENDOR | LNG | 75154 | 29182 | 2000 | SAMSUNG HI | 469.50 | INDIA | AS IS SPORE |
+| SK STELLAR | LNG | 75135 | 29135 | 2000 | SAMSUNG HI | 469.50 | INDIA | AS IS SPORE |
+| MSC RAFAELA | CV | 51210 | 16024 | 1996 | Fincantieri- Cant. Nav | 510 | India | GREEN RECYCLING |
 
 ## Newbuilding Market
 

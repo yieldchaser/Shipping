@@ -50,8 +50,8 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W51_WK-51-23-CARRIERS_SP-
 
 | Type | Units | Size | Yard | Delivery | Price ($M) | Owners | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| TANKER | 2 | 115,000 DWT | DSIC end2006/early2027 (Shanhaiguan) |  | 63.5 EACH | ARCADIA SHIPPING | plus 2 option conversional propulsion, scrubber fitted |
-| TANKER | 4 | 115,000 DWT | ZHOUSHAN 2H2026/1H2027 CHANGHONG |  | - | KUROW SHIPPING, TURKEY | conversional propulsion, scrubber fitted |
+| TANKER | 2 | 115,000 DWT | DSIC (Shanhaiguan) | end2006/early2027 | 63.5 EACH | ARCADIA SHIPPING | plus 2 option conversional propulsion, scrubber fitted |
+| TANKER | 4 | 115,000 DWT | ZHOUSHAN CHANGHONG | 2H2026/1H2027 | - | KUROW SHIPPING, TURKEY | conversional propulsion, scrubber fitted |
 
 ## BSPA Secondhand Market Assessments (5 Years Old)
 
@@ -98,7 +98,7 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W51_WK-51-23-CARRIERS_SP-
 | CAPE 180K | 32639 | 10192 | 22447 |
 | TESS 82K | 17155 | -80 | 17235 |
 | LME 74K | 15819 | -80 | 15899 |
-| SUPRA 63K | 17778.0 | 4389.0 | 13389.0 |
+| TESS 58K | 17778.0 | 4389.0 | 13389.0 |
 | HANDY 38K | 15608 | 4720 | 10888 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

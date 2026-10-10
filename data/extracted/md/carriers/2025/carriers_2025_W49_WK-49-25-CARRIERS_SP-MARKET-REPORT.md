@@ -37,8 +37,8 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W49_WK-49-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PATCHARAWADEE | LPG | 3700 |  | 1980 | Kishigami Zosen | 405 |  |  |
-| MORALITY TANKER | 43,474 | 9824 |  | 2003 | STX Shipbuilding | 416 |  |  |
+| PATCHARAWADEE 14 | LPG | 3700 | 2561 | 1980 | Kishigami Zosen | 405 | BANGLADESH |  |
+| MORALITY | TANKER | 43474 | 9824 | 2003 | STX Shipbuilding | 416 | INDIA |  |
 
 ## Newbuilding Market
 

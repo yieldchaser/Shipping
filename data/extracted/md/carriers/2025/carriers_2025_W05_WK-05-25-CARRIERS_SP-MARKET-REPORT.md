@@ -26,6 +26,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W05_WK-05-25-CARRIERS_SP-
 | DL ADONIS | BC | 79329 | 2010 | COSCO Dalian Shipyard Co Ltd | 12.00 | UNDISCLOSED |  |
 | ORION | BC | 56071 | 2007 | Mitsui Tamano | 10.50 | CHINESE |  |
 | ISA | BC | 34939 | 1999 | Mitsui Chiba Ichihara | 4.40 | UNDISCLOSED |  |
+| ES KURE | BC | 33126 | 2012 | Kanda Kawajiri | 12.90 | VIETNAMESE |  |
 | GOLD PEARL | TANKER | 318669 | 2005 | Hyundai Heavy Inds - Ulsan | 29.50 | UNDISCLOSED |  |
 | WAFRAH | TANKER | 317788 | 2007 | Hyundai Samho HI | 40.00 | UNDISCLOSED |  |
 | CAP VICTOR | TANKER | 158853 | 2007 | Samsung Heavy Inds - Geoje | 32.00 | UNDISCLOSED |  |
@@ -43,7 +44,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W05_WK-05-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TASOS BC | 75,100 | 10738 |  | 2000 | Hitachi 476 |  |  |  |
+| TASOS | BC | 75100 | 10738 | 2000 | Hitachi | 476 | BANGLADESH |  |
 
 ## Newbuilding Market
 

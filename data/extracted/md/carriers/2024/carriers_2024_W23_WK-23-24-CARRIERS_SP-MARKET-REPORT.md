@@ -25,6 +25,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W23_WK-23-24-CARRIERS_SP-
 | SUNSHINE | BC | 37317 | 2009 | Saiki Heavy Industries Co Ltd | 15.00 | UAE |  |
 | NEW JOURNEY | BC | 36371 | 2015 | Shikoku Dockyard | 20.00 | UNDISCLOSED |  |
 | DINO | BC | 33371 | 2009 | Shin Kochi | 13.50 | TURKISH |  |
+| TRAWIND WHALE | BC | 31785 | 2011 | Guangzhou Huangpu | 10.50 | VIETNAMESE |  |
 | AKTEA R | BC | 28372 | 2010 | Imabari Shbldg - Marugame | 10.50 | CHINESE |  |
 | ALHENA | TANKER | 52420 | 2012 | Guangzhou Shipyard Intl Co | 32.30 | GREEK |  |
 | ADAMAS I | TANKER | 50122 | 2009 | SPP Plant & Shipbuilding Co | 27.50 | BESIKTAS |  |
@@ -37,7 +38,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W23_WK-23-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ANDHIKA BC | 71,290 | 10308 |  | 1996 | NAMURA 515 |  | AS | IS SPORE |
+| ANDHIKA NARESWARI | BC | 71290 | 10308 | 1996 | NAMURA | 515 | UNDISCLOSED | AS IS SPORE |
 
 ## Newbuilding Market
 
@@ -91,7 +92,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W23_WK-23-24-CARRIERS_SP-
 | CAPE 180K | 23357 | 549 | 22808 |
 | TESS 82K | 15130 | -336 | 15466 |
 | LME 74K | 13794 | -336 | 14130 |
-| SUPRA 63K | 13994.0 | -156.0 | 14150.0 |
+| TESS 58K | 13994.0 | -156.0 | 14150.0 |
 | HANDY 38K | 13005 | 87 | 12918 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

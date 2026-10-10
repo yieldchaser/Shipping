@@ -18,7 +18,7 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W46_WK-46-23-CARRIERS_SP-
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | AGIS | BC | 181500 | 2023 | Namura, Japan | 68.00 | UNDISCLOSED |  |
 | CHOW | BC | 181146 | 2016 | SWS | 43.10 | GENCO | SS 9/2026 |
-| AP LOVRIJENAC | BC | 82000 |  | ex Jiangsu New Hantong | 37.00 | NNC |  |
+| AP LOVRIJENAC (Hull Ht82-278) | BC | 82000 | 1/2004 | ex Jiangsu New Hantong | 37.00 | NNC |  |
 | PEACE PEARL | BC | 76431 | 2013 | Zhejiang Zhenghe | 15.60 | GREEK | SS/DD 7/2028 |
 | THOR | BC | 76838 | 2005 | Oshima, Japan | 11.80 | INDIAN | SS 1/2025 |
 | TAURUS | BC | 76616 | 2004 | Imabari, Japan | UNDISCLOSED | TURKISH | SS 11/2024 |
@@ -56,8 +56,8 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W46_WK-46-23-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| WU YANG GODDESS | BC | 45700 | 7481 | 1995 | Hashihama Shipbuilding Hyundai Heavy | 480 | UNDISCLOSED | (500 tons bunkers included) HKC green recycling |
-| BONTRUP MALDIVES | CV | 9303 | 10820 | 1984 | Industries | 547 | INDIA | (350 tons bunkers included) |
+| WU YANG GODDESS | BC | 45700 | 7481 | 1995 | Hashihama Shipbuilding | 480 | UNDISCLOSED | AS IS CHINA (500 tons bunkers included) |
+| BONTRUP MALDIVES | CV | 9303 | 10820 | 1984 | Hyundai Heavy Industries | 547 | INDIA | HKC green recycling (350 tons bunkers included) |
 
 ## Newbuilding Market
 
@@ -113,7 +113,7 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W46_WK-46-23-CARRIERS_SP-
 | CAPE 180K | 21619 | 2385 | 19234 |
 | TESS 82K | 13934 | 905 | 13029 |
 | LME 74K | 12598 | 905 | 11693 |
-| SUPRA 63K | 12396.0 | 316.0 | 12080.0 |
+| TESS 58K | 12396.0 | 316.0 | 12080.0 |
 | HANDY 38K | 10581 | -703 | 11284 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

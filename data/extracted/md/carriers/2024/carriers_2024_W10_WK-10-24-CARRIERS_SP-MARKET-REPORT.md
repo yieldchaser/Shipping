@@ -55,8 +55,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W10_WK-10-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ISL STAR BC | 74,461 | 10116 |  | 1999 | SASEBO 528 |  |  |  |
-| QATAR ANA BC | 43,655 | 8015 |  | 1989 | TSUNEISHI 509 |  |  |  |
+| ISL STAR | BC | 74461 | 10116 | 1999 | SASEBO | 528 | BANGLADESH |  |
+| QATAR ANA | BC | 43655 | 8015 | 1989 | TSUNEISHI | 509 | PAKISTAN |  |
 
 ## Newbuilding Market
 
@@ -109,7 +109,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W10_WK-10-24-CARRIERS_SP-
 | CAPE 180K | 34873 | 8640 | 26233 |
 | TESS 82K | 15961 | 1760 | 14201 |
 | LME 74K | 14625 | 1769 | 12856 |
-| SUPRA 63K | 14098.0 | 923.0 | 13175.0 |
+| TESS 58K | 14098.0 | 923.0 | 13175.0 |
 | HANDY 38K | 13329 | 1820 | 11509 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

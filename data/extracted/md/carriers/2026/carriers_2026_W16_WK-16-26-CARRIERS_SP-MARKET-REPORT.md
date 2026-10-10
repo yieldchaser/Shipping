@@ -19,15 +19,15 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W16_WK-16-26-CARRIERS_SP-
 | RTM CARTIER | BC | 205507 | 2012 | HHIC-Phil Inc | 45.00 | CHINESE |  |
 | RTM ZHENG HE | BC | 205431 | 2012 | HHIC-Phil Inc | 45.00 | CHINESE |  |
 | LOWLANDS SPIRIT | BC | 182820 | 2019 | Imabari Shbldg - Saijo | 65.00 | GENCO |  |
-| ALEXANDROS PETRAKIS | BC | 76596 | 2008 | Shin Kasado Dockyard Co Ltd | - | UNDISCLOSED SS | DUE 6/2026 |
+| ALEXANDROS PETRAKIS | BC | 76596 | 2008 | Shin Kasado Dockyard Co Ltd | - | UNDISCLOSED | SS DUE 6/2026 |
 | AMORE | BC | 61453 | 2012 | Shin Kasado Dockyard Co Ltd | 20.40 | CHINESE |  |
 | FJ STAR | BC | 61225 | 2016 | Shin Kurushima Toyohashi | 26.00 | UNDISCLOSED |  |
 | SUNNY ROYAL | BC | 58772 | 2011 | Kawasaki HI - Kobe | 18.45 | GREEK |  |
 | SERENE AMELIA | BC | 57238 | 2010 | STX OFFSHORE & SHBLDG | 14.00 | UNDISCLOSED |  |
 | HONOUR | BC | 57050 | 2010 | COSCO Zhoushan Shipyard | 13.30 | CHINESE |  |
 | PHOENIX K | BC | 54881 | 2007 | Oshima Shipbuilding Co Ltd | 14.00 | CHINESE |  |
-| DORYSIA | BC | 36863 | 2010 | Hyundai Mipo Dockyard Co | 26.20 |  |  |
-| STRADION | BC | 36863 | 2011 | Hyundai Mipo Dockyard Co |  |  |  |
+| DORYSIA | BC | 36863 | 2010 | Hyundai Mipo Dockyard Co | 26.20 EN BLOC | VIETNAMESE |  |
+| STRADION | BC | 36863 | 2011 | Hyundai Mipo Dockyard Co | 26.20 EN BLOC | VIETNAMESE |  |
 | KS GRACE | BC | 36320 | 2014 | Shikoku Dockyard | 16.95 | UNDISCLOSED |  |
 | AEOLOS | BC | 31640 | 2001 | Saiki Heavy Industries Co Ltd | 6.10 | UNDISCLOSED |  |
 | KASAGISAN | TANKER | 302478 | 2006 | Mitsui Chiba Ichihara | 60.00 | CHINESE |  |
@@ -36,7 +36,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W16_WK-16-26-CARRIERS_SP-
 | CAPE TAMPA | TANKER | 73719 | 2009 | New Times Shipbuilding Co | 22.00 | UNDISCLOSED |  |
 | OPTIMAL ACE | TANKER | 49999 | 2006 | STX Shipbuilding - Jinhae | 16.50 | UNDISCLOSED |  |
 | PRO ONYX | TANKER | 49999 | 2019 | Hyundai Mipo Dockyard Co | 39.00 | UNDISCLOSED |  |
-| ARDMORE ENGINEER | TANKER | 49420 | 2014 | STX OFFSHORE & SHBLDG | 35.50 GREAT | EASTERN |  |
+| ARDMORE ENGINEER | TANKER | 49420 | 2014 | STX OFFSHORE & SHBLDG | 35.50 | GREAT EASTERN |  |
 | EASTERLY CANYON | TANKER | 36677 | 2009 | Hyundai Mipo Dockyard Co | 19.00 | GREEK |  |
 | GINGA SAKER | TANKER | 20491 | 2003 | Shin Kurushima Akitsu | 10.80 | CHINESE | ST.STEEL |
 | CHEM STREAM | TANKER | 19998 | 2010 | SHITANOE SHIPBUILDING | 20.80 | UNDISCLOSED | ST.STEEL |
@@ -48,9 +48,9 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W16_WK-16-26-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| GODSPEED 6666 WOODCHIP |  | 49642 | 10348 | 1996 | Koyo Dockyard | 439 | AS | IS VIETNAM |
-| HAO HUNG 66 WOODCHIP |  | 34021 | 7807 | 196 | Imabari | 439 | AS | IS VIETNAM |
-| HAO HUNG 01 WOODCHIP |  | 21989 | 4997 | 1988 | Tsuneishi | 439 | AS | IS VIETNAM |
+| GODSPEED 6666 | WOODCHIP | 49642 | 10348 | 1996 | Koyo Dockyard | 439 | UNDISCLOSED | AS IS VIETNAM |
+| HAO HUNG 66 | WOODCHIP | 34021 | 7807 | 196 | Imabari | 439 | UNDISCLOSED | AS IS VIETNAM |
+| HAO HUNG 01 | WOODCHIP | 21989 | 4997 | 1988 | Tsuneishi | 439 | UNDISCLOSED | AS IS VIETNAM |
 
 ## Newbuilding Market
 

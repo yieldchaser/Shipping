@@ -20,7 +20,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W50_WK-50-25-CARRIERS_SP-
 | CAPE MERLIN | BC | 206312 | 2005 | Imabari Shbldg - Saijo | 23.50 | CHINESE |  |
 | MONTECRISTO | BC | 180093 | 2005 | Imabari Shbldg - Saijo | 20.50 | CHINESE |  |
 | DENSA SHARK | BC | 179227 | 2012 | Hyundai Heavy Inds - Gunsan | 32.50 | CHINESE |  |
-| ANTONIS | BC | 177855 | 2007 | Shanghai Waigaoqiao Shbldg | LOW 20’s | NAVITAS |  |
+| ANTONIS ANGELICOUSSIS | BC | 177855 | 2007 | Shanghai Waigaoqiao Shbldg | LOW 20’s | NAVITAS |  |
 | DREAM POWER | BC | 107392 | 2011 | Oshima Shipbuilding Co Ltd | 17.25 | UNDISCLOSED | SS DUE 4/2026 |
 | MIAO XIANG | BC | 81983 | 2013 | Jiangsu Eastern HI | 16.00 | UNDISCLOSED |  |
 | THERESA HAINAN | BC | 81635 | 2013 | Sainty Shipbuilding Yangzhou | 16.80 | UNDISCLOSED |  |

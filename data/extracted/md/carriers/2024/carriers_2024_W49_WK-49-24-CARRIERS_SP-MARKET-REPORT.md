@@ -20,6 +20,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W49_WK-49-24-CARRIERS_SP-
 | OTSL ARTEMIS | BC | 177736 | 2008 | Shanghai Jiangnan Changxing | 49.00 EN BLOC | GREEK |  |
 | OTSL ATHENA | BC | 174109 | 2007 | Shanghai Waigaoqiao Shbldg | 49.00 EN BLOC | GREEK |  |
 | HELLENIC C | BC | 81805 | 2014 | Jiangsu Eastern HI | 20.00 | UNDISCLOSED |  |
+| ATLANTIC HORIZON | BC | 75709 | 2006 | Sanoyas Hishino Meisho Corp | 12.30 | VIETNAMESE |  |
 | MH OSLO | BC | 63050 | 2023 | New Dayang Shipbuilding | 32.50 | UNDISCLOSED |  |
 | LISTA | BC | 55868 | 2011 | IHI Marine United - Yokohama | 16.80 | VOSCO |  |
 | BRIGHT KOWA | BC | 51156 | 2012 | Imabari Shbldg - Imabari | 16.00 | UNDISCLOSED |  |
@@ -38,8 +39,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W49_WK-49-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LADY CEDROS BC | 151,249 | 17823 |  | 1998 | Nippon Kokan 467 |  |  |  |
-| JIMEI SHUNHAO BC | 91,443 | 14894 |  | 1995 | Mitsubishi HI 460 |  |  | AS IS UAE |
+| LADY CEDROS | BC | 151249 | 17823 | 1998 | Nippon Kokan | 467 | UNDISCLOSED |  |
+| JIMEI SHUNHAO | BC | 91443 | 14894 | 1995 | Mitsubishi HI | 460 | UNDISCLOSED | AS IS UAE |
 
 ## Newbuilding Market
 
@@ -47,7 +48,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W49_WK-49-24-CARRIERS_SP-
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BC | 4 | 64,000 DWT | Imabari | 2028/29 | 46.5 EACH | PACIFIC BASIN | DUAL FUEL |
 | BC | 3 | 45,000 DWT | Yangzijiang | 2027 | 200 TOTAL | NAVIBULGAR |  |
-| BC | 3 | 33,000 DWT | Yangzijiang | 2026 |  | NAVIBULGAR |  |
+| BC | 3 | 33,000 DWT | Yangzijiang | 2026 | 200 TOTAL | NAVIBULGAR |  |
 | CV | 4 | 7,900 TEU | HJ Shipbuilding | 2026/27 | 108.5 EACH | TMS | METHANOL READY |
 
 ## BSPA Secondhand Market Assessments (5 Years Old)

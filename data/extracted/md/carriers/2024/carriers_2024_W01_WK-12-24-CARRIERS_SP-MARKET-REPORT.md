@@ -26,15 +26,16 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W01_WK-12-24-CARRIERS_SP-
 | SUPER LUNA | BC | 81517 | 2016 | Jinhai Heavy Industry | 22.60 | MODION MARITIME | BWTS FITTED |
 | TOMINI BRAVERY | BC | 81027 | 2015 | Jiangsu Jinling Ships Co Ltd | 24.50 | GREEK | TC ATTACHED 13.000$ LESS 5% 3-5/2024 |
 | XING HE HAI | BC | 61473 | 2016 | Dalian Cosco Khi Ship | 26.00 EACH | CHINESE |  |
-| XING HAO HAI | BC | 61452 | 2016 | Dalian Cosco Khi Ship |  |  |  |
+| XING HAO HAI | BC | 61452 | 2016 | Dalian Cosco Khi Ship | 26.00 EACH | CHINESE |  |
 | IKAN PARANG | BC | 56618 | 2011 | Taizhou Kouan Shipbuilding Co | 11.00 | UNDISCLOSED | BWTS |
 | RICHMOND PEARL | BC | 53100 | 2009 | Yangzhou Dayang Shipbuilding | 10.00 | UNDISCLOSED |  |
 | BARONESS | BC | 34264 | 2011 | Zhejiang Jingang Shipbuilding | - | UNDISCLOSED |  |
 | SEASTAR TRADITION | BC | 30465 | 2009 | Tsuji Heavy Industries Jiangsu | - | UNDISCLOSED |  |
-| VENUS GLORY | GAS | 54.474 | 2008 | Daewoo Shipbuilding & Marine | 66.00 | UNDISCLOSED |  |
+| VANTAGE SWORD | BC | 28.310 | 2009 | Shimanami Shipyard Co Ltd | 9.00 | VIETNAMESE |  |
+| VENUS GLORY | GAS TANKER | 54.474 | 2008 | Daewoo Shipbuilding & Marine | 66.00 | UNDISCLOSED |  |
 | BELLA CIAO | TANKER | 156586 | 2020 | New Times Shipbuilding Co Ltd | 86.00 | PERTAMINA | SCRUBBER FITTED TIER III |
-| CHEMTRANS MOON | TANKER | 72365 | 2004 | Hudong-Zhonghua Shipbuilding | 17.00 |  | EPOXY |
-| CHEMTRANS SEA | TANKER | 72365 | 2004 | Hudong-Zhonghua Shipbuilding | EACH | UNDISCLOSED | BWTS FITTED |
+| CHEMTRANS MOON | TANKER | 72365 | 2004 | Hudong-Zhonghua Shipbuilding | 17.00 EACH | UNDISCLOSED | EPOXY BWTS FITTED |
+| CHEMTRANS SEA | TANKER | 72365 | 2004 | Hudong-Zhonghua Shipbuilding | 17.00 EACH | UNDISCLOSED | EPOXY BWTS FITTED |
 
 ## Demolition Market
 
@@ -46,7 +47,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W01_WK-12-24-CARRIERS_SP-
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BC | 2 | 63,500 DWT | NEW DAYANG | 2026 | 32.8 EACH | TRANSOCEAN |  |
 | TANKER | 1 | 50,000 DWT | COSCO DALIAN | 2026 | - | CHINA SHIPPING ENERGY TRANSP. |  |
-| AMMONIA | 2 | 93,000 CBM | SAMSUNG HI | 2027 | 119.2 EACH | TMS |  |
+| AMMONIA CARRIER | 2 | 93,000 CBM | SAMSUNG HI | 2027 | 119.2 EACH | TMS |  |
 
 ## BSPA Secondhand Market Assessments (5 Years Old)
 
@@ -93,7 +94,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W01_WK-12-24-CARRIERS_SP-
 | CAPE 180K | 29851 | 955 | 28896 |
 | TESS 82K | 14449 | -2402 | 16851 |
 | LME 74K | 13113 | -2402 | 15515 |
-| SUPRA 63K | 13138.0 | -1254.0 | 14392.0 |
+| TESS 58K | 13138.0 | -1254.0 | 14392.0 |
 | HANDY 38K | 12247 | -2290 | 14537 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

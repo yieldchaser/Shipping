@@ -17,23 +17,23 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W29_WK-29-26-CARRIERS_SP-
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | AASHNA | BC | 179523 | 2012 | HHIC-Phil Inc | 37,500,000 | CHINESE |  |
-| INDUS PROSPERITY | BC | 92988 | 2011 | Taizhou Sanfu Ship Engineering | 13,250,000 UNDISCLOSED | SS/DD | DUE |
-| OCEAN RHEA | BC | 92648 | 2011 | Jiangsu Jinling Ships Co Ltd | 15,250,000 UNDISCLOSED |  |  |
+| INDUS PROSPERITY | BC | 92988 | 2011 | Taizhou Sanfu Ship Engineering | 13,250,000 | UNDISCLOSED | SS/DD DUE |
+| OCEAN RHEA | BC | 92648 | 2011 | Jiangsu Jinling Ships Co Ltd | 15,250,000 | UNDISCLOSED |  |
 | BRITTA OLDENDORFF | BC | 62623 | 2020 | Oshima Shipbuilding Co Ltd | 37,000,000 | MEGHNA |  |
 | BENJAMIN OLDENDORFF | BC | 62623 | 2020 | Oshima Shipbuilding Co Ltd | 37,000,000 | MEGHNA |  |
 | BLUE AKIHABARA | BC | 61630 | 2014 | Nantong COSCO KHI Ship Eng | 25,500,000 | GREEK |  |
 | INCE BEYLERBEYI | BC | 61429 | 2012 | Iwagi Zosen Co Ltd | 22,500,000 | MIDDLE EASTERN |  |
 | IVS CRIMSON CREEK | BC | 57945 | 2014 | Shin Kurushima Toyohashi | 23,300,000 | GREEK |  |
-| HPC ATLANTIC | BC | 56064 | 2013 | MINAMINIPPON SHBLDG - | 19,500,000 UNDISCLOSED |  |  |
+| HPC ATLANTIC | BC | 56064 | 2013 | MINAMINIPPON SHBLDG - | 19,500,000 | UNDISCLOSED |  |
 | OCEAN HIRYU | BC | 52982 | 2003 | Oshima Shipbuilding Co Ltd | 7,900,000 | CHINESE |  |
 | THOR INFINITY | BC | 52383 | 2002 | Tsuneishi Heavy Inds Cebu | 7,800,000 | CHINESE |  |
-| BLUE UNION ALPHA | BC | 28386 | 2011 | Imabari Shbldg - Imabari | 9,650,000 UNDISCLOSED |  |  |
+| BLUE UNION ALPHA | BC | 28386 | 2011 | Imabari Shbldg - Imabari | 9,650,000 | UNDISCLOSED |  |
 | GH HOLIDAY | TANKER | 157543 | 2016 | New Times Shipbuilding Co | 81,000,000 | MIDDLE EASTERN |  |
 | MINERVA RITA | TANKER | 50922 | 2005 | STX Shipbuilding - Jinhae | 16,200,000 | CHINESE |  |
-| FG ROTTERDAM | TANKER | 19995 | 2012 | Usuki Shipyard Co Ltd | 22,700,000 UNDISCLOSED |  |  |
-| DING HENG 39 | TANKER | 19994 | 2008 | Fukuoka Shipbuilding - Fukuoka | 18,300,000 UNDISCLOSED | SS/DD | ST. STEEL DUE |
-| CNC DREAM | TANKER | 19773 | 2004 | Fukuoka Shipbuilding - Fukuoka | 11,500,000 UNDISCLOSED |  | ST. STEEL |
-| APOLLO TRADER | CV | 13732 | 2003 | Jiangdong Shipyard | 11,000,000 UNDISCLOSED |  | 1,118 TEU |
+| FG ROTTERDAM | TANKER | 19995 | 2012 | Usuki Shipyard Co Ltd | 22,700,000 | UNDISCLOSED |  |
+| DING HENG 39 | TANKER | 19994 | 2008 | Fukuoka Shipbuilding - Fukuoka | 18,300,000 | UNDISCLOSED | ST. STEEL SS/DD DUE |
+| CNC DREAM | TANKER | 19773 | 2004 | Fukuoka Shipbuilding - Fukuoka | 11,500,000 | UNDISCLOSED | ST. STEEL |
+| APOLLO TRADER | CV | 13732 | 2003 | Jiangdong Shipyard | 11,000,000 | UNDISCLOSED | 1,118 TEU |
 
 ## Demolition Market
 

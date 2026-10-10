@@ -34,7 +34,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W20_WK-20-26-CARRIERS_SP-
 | MARGATE | BC | 40547 | 2024 | Jiangmen Nanyang Ship Eng | 30.50 | NORDEN |  |
 | CLACTON | BC | 40547 | 2024 | Jiangmen Nanyang Ship Eng | 30.50 | NORDEN |  |
 | KEN ORCHID | BC | 28225 | 2011 | I-S Shipyard Co Ltd | 9.75 | UNDISCLOSED | SS/DD DUE 7/2026 |
-| HENGLI DALIAN | TANKER | 306000 | 2026 | Hengli Shipbuilding Dalian | 163.00 | TRAFIGURA DELY | EX-YARD |
+| HENGLI DALIAN | TANKER | 306000 | 2026 | Hengli Shipbuilding Dalian | 163.00 | TRAFIGURA | DELY EX-YARD |
 | OLYMPIC STAR | TANKER | 158000 | 2027 | Daehan Shipbuilding | 95.00 | TEEKAY |  |
 | DAEHAN 5118 | TANKER | 156881 | 2027 | Daehan Shipbuilding | 95.00 | TEEKAY |  |
 | GLADIATOR | TANKER | 149944 | 2008 | Universal Shbldg - Tsu | 65.00 | UNDISCLOSED |  |

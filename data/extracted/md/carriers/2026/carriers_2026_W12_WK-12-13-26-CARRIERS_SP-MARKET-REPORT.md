@@ -17,7 +17,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W12_WK-12-13-26-CARRIERS_
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | FRONTIER GARLAND | BC | 181480 | 2011 | Imabari Shbldg - Saijo | 36.60 | GREEK |  |
-| TALIMEN | BC | 81056 | 2016 | Jiangsu Jinling Ships Co Ltd | 26.00 | UNDISCLOSED SS | DUE 6/2026 |
+| TALIMEN | BC | 81056 | 2016 | Jiangsu Jinling Ships Co Ltd | 26.00 | UNDISCLOSED | SS DUE 6/2026 |
 | JIN RUI | BC | 63800 | 2014 | Jiangsu Hantong Ship HI | 24.00 | HUAYA MARITIME |  |
 | PLATON | BC | 58502 | 2011 | SPP Shipbuilding - Tongyeong | 15.40 | CHINESE |  |
 | XO COPENHAGEN | BC | 58107 | 2010 | Tsuneishi Zhoushan Shbldg | 16.30 | CHINESE |  |
@@ -30,7 +30,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W12_WK-12-13-26-CARRIERS_
 | TALUREX | TANKER | 115984 | 2011 | Samsung Heavy Inds - Geoje | - | UNDISCLOSED |  |
 | SOLVANTE | TANKER | 110295 | 2009 | Mitsui Chiba Ichihara | - | UNDISCLOSED |  |
 | PM MONARCH | TANKER | 76543 | 2007 | Dalian Shipbuilding Ind - No 1 | 20.00 | UNDISCLOSED |  |
-| HIGH SEAS | TANKER | 49999 | 2012 | Hyundai Mipo Dockyard Co | 27.60 SPRING | MARINE |  |
+| HIGH SEAS | TANKER | 49999 | 2012 | Hyundai Mipo Dockyard Co | 27.60 | SPRING MARINE |  |
 | ACADIAN | TANKER | 37515 | 2005 | Hyundai Mipo Dockyard Co | 10.00 | UNDISCLOSED |  |
 | LYCASTE PEACE | LPG | 49999 | 2003 | Mitsubishi Nagasaki | 48.00 | GREEK |  |
 | MONACO | CV | 39418 | 2006 | Hyundai Mipo Dockyard | 25.20 | UNDISCLOSED | 2,800 TEU |
@@ -41,7 +41,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W12_WK-12-13-26-CARRIERS_
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| OCEAN | BC | 43769 | 8783 | 1995 | Daewoo HI | 470 |  |  |
+| OCEAN ROSEMARY | BC | 43769 | 8783 | 1995 | Daewoo HI | 470 | BANGLADESH |  |
 
 ## Newbuilding Market
 

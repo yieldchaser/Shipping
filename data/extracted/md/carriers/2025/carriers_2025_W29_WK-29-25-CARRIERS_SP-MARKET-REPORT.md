@@ -35,8 +35,8 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W29_WK-29-25-CARRIERS_SP-
 | NORDIC THUNDER | TANKER | 157374 | 2017 | Hyundai Samho HI | 64.30 | TEEKAY |  |
 | IJEMO | TANKER | 151736 | 2003 | Hyundai Heavy Inds - Ulsan | 40.00 EN BLOC | UNDISCLOSED |  |
 | ADEBOMI | TANKER | 150611 | 2004 | Universal Shbldg - Tsu | 40.00 EN BLOC | UNDISCLOSED |  |
-| LAMU | TANKER | 113633 | 2025 | COSCO Shipping HI Yangzhou | 72.00 | KAZMORTRANSF |  |
-| DUNE | TANKER | 113000 | 2025 | COSCO Shipping HI Yangzhou | EACH | LOT |  |
+| LAMU | TANKER | 113633 | 2025 | COSCO Shipping HI Yangzhou | 72.00 EACH | KAZMORTRANSF LOT |  |
+| DUNE | TANKER | 113000 | 2025 | COSCO Shipping HI Yangzhou | 72.00 EACH | KAZMORTRANSF LOT |  |
 | ORIENTAL DIAMOND | TANKER | 50781 | 2008 | SPP Plant & Shipbuilding Co | 15.50 | UAE |  |
 | ORIENTAL GOLD | TANKER | 50591 | 2008 | SPP Plant & Shipbuilding Co | 15.50 | UAE |  |
 | GRAND ACE1 | TANKER | 45990 | 2006 | STX Shipbuilding - Jinhae | 11.00 | UNDISCLOSED |  |
@@ -45,13 +45,13 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W29_WK-29-25-CARRIERS_SP-
 | PUERTO AYSEN | TANKER | 12834 | 2010 | STX OFFSHORE & SHBLDG | 11.20 | UNDISCLOSED |  |
 | KAWA NINGBO | CV | 30240 | 2002 | Naikai Zosen Corp - Setoda | 20.50 | UNDISCLOSED | 2,500 TEU |
 | SHECAN | CV | 12559 | 2008 | Nanjing Wujiazui Shipbuilding | 9.25 | MIDDLE EASTERN | 908 TEU |
-| FORMOSA CONTAINER | CV | 11975 | 2007 | Nantong Yahua Shipbuilding | 7.50 | UNDISCLOSED | 920 TEU |
+| FORMOSA CONTAINER NO. 4 | CV | 11975 | 2007 | Nantong Yahua Shipbuilding | 7.50 | UNDISCLOSED | 920 TEU |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| GREEN REEFER | 6,120 | 2976 |  | 1990 | Kleven 440 Mekaniske |  |  |  |
+| GREEN EGERSUND | REEFER | 6120 | 2976 | 1990 | Kleven Mekaniske | 440 | INDIA |  |
 
 ## Newbuilding Market
 

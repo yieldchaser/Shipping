@@ -14,41 +14,45 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W25_WK-25-25-CARRIERS_SP-
 
 ## Second-hand Market Reported Sold
 
+> Note: in this issue the PDF prints the buyers under the PRICE heading and the prices under BUYERS; the two columns are swapped back here.
+
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| MINERAL HIROSHIGE | BC | 208572 | 2019 | IMABARI SHBLDG - HIROS | CHINESE | 65.00 | FWD DELY |
-| BULK GINZA | BC | 182868 | 2020 | Imabari Shbldg - Saijo | UNDISCLOSED | 64.00 | FWD DELY |
-| PARTAGAS | BC | 173880 | 2004 | Shanghai Waigaoqiao Shbldg | CHINESE | 13.25 | FWD DELY |
-| SANTA GRACIELA | BC | 82149 | 2013 | TSUNEISHI SHBLDG - FKY | SINGAPORE | 18.50 |  |
-| EXPLORER ASIA | BC | 81093 | 2016 | Jiangsu New Hantong Ship | UNDISCLOSED | 40.00 EN BLOC |  |
-| EXPLORER OCEANIA | BC | 81073 | 2015 | Jiangsu New Hantong Ship |  |  |  |
-| SELINA | BC | 75700 | 2010 | Jiangnan Shipyard Group Co | UNDISCLOSED | 11.90 |  |
-| MARIGOULA | BC | 58063 | 2013 | Yangzhou Dayang Shipbuilding | UNDISCLOSED | 13.50 |  |
-| PYTHIAS | BC | 58018 | 2010 | Yangzhou Dayang Shipbuilding | UNDISCLOSED | 11.20 |  |
-| STAR RUNNER | BC | 57809 | 2011 | Yangzhou Dayang Shipbuilding | UNDISCLOSED | 12.80 |  |
-| YASA PEMBE | BC | 55912 | 2007 | Mitsui Tamano | UNDISCLOSED | 12.25 |  |
-| ARIES SAKURA | BC | 39870 | 2020 | Shin Kurushima Toyohashi | GREEK | 25.00 |  |
-| PAPALEMOS | TANKER | 319191 | 2018 | Hyundai Heavy Inds - Ulsan | DHT | 107.00 |  |
-| C. SPIRIT | TANKER | 313998 | 2013 | Hyundai Heavy Inds - Gunsan | YASA | 67.50 |  |
-| ALTER EGO | TANKER | 299235 | 2006 | Nantong COSCO KHI Ship Eng | UAE | 43.50 |  |
-| NORDIC THUNDER | TANKER | 157374 | 2017 | Hyundai Samho HI | DELTA TANKERS | 66.00 |  |
-| CASPER | TANKER | 108870 | 2010 | Hudong-Zhonghua Shipbuilding | UNDISCLOSED | 34.00 |  |
-| LIMERICK SPIRIT | TANKER | 105583 | 2007 | Hyundai Heavy Inds - Ulsan | SEA TRADE | 27.80 |  |
-| BANI YAS | TANKER | 74913 | 2010 | STX OFFSHORE & SHBLDG | UNDISCLOSED | 22.00 |  |
-| YAMILAH-III | TANKER | 74866 | 2011 | STX OFFSHORE & SHBLDG | UNDISCLOSED | 22.00 |  |
-| NORD OCEANIA | TANKER | 49996 | 2018 | Onomichi Dockyard Co Ltd | UNDISCLOSED | 36.50 |  |
-| BIT WIND | TANKER | 13823 | 2022 | Jiangsu Newyangzi | SWEDISH | - | ICE CLASS |
-| BIT WAVE | TANKER | 13822 | 2022 | Jiangsu Newyangzi | SWEDISH | - | ICE CLASS |
-| SINAR MINAHASA | TANKER | 12693 | 2007 | Higaki | UNDISCLOSED | 13.50 | ST.STEEL |
-| DELPHINUS C | CV | 65950 | 2007 | Hyundai Heavy Inds - Ulsan | UNDISCLOSED | 30.50 | 4,888 TEU |
-| CONTSHIP KEY | CV | 13760 | 2006 | Jiangsu Eastern HI | MSC | 10.00 | 1,118 TEU |
+| MINERAL HIROSHIGE | BC | 208572 | 2019 | IMABARI SHBLDG - HIROS | 65.00 | CHINESE | FWD DELY |
+| BULK GINZA | BC | 182868 | 2020 | Imabari Shbldg - Saijo | 64.00 | UNDISCLOSED | FWD DELY |
+| PARTAGAS | BC | 173880 | 2004 | Shanghai Waigaoqiao Shbldg | 13.25 | CHINESE | FWD DELY |
+| BABY CASSIOPEIA | BC | 110842 | 2012 | Mitsui Chiba Ichihara | 19.00 | VIETNAMESE |  |
+| SANTA GRACIELA | BC | 82149 | 2013 | TSUNEISHI SHBLDG - FKY | 18.50 | SINGAPORE |  |
+| EXPLORER ASIA | BC | 81093 | 2016 | Jiangsu New Hantong Ship | 40.00 EN BLOC | UNDISCLOSED |  |
+| EXPLORER OCEANIA | BC | 81073 | 2015 | Jiangsu New Hantong Ship | 40.00 EN BLOC | UNDISCLOSED |  |
+| SELINA | BC | 75700 | 2010 | Jiangnan Shipyard Group Co | 11.90 | UNDISCLOSED |  |
+| MARIGOULA | BC | 58063 | 2013 | Yangzhou Dayang Shipbuilding | 13.50 | UNDISCLOSED |  |
+| PYTHIAS | BC | 58018 | 2010 | Yangzhou Dayang Shipbuilding | 11.20 | UNDISCLOSED |  |
+| STAR RUNNER | BC | 57809 | 2011 | Yangzhou Dayang Shipbuilding | 12.80 | UNDISCLOSED |  |
+| YASA PEMBE | BC | 55912 | 2007 | Mitsui Tamano | 12.25 | UNDISCLOSED |  |
+| ARIES SAKURA | BC | 39870 | 2020 | Shin Kurushima Toyohashi | 25.00 | GREEK |  |
+| PAPALEMOS | TANKER | 319191 | 2018 | Hyundai Heavy Inds - Ulsan | 107.00 | DHT |  |
+| C. SPIRIT | TANKER | 313998 | 2013 | Hyundai Heavy Inds - Gunsan | 67.50 | YASA |  |
+| ALTER EGO | TANKER | 299235 | 2006 | Nantong COSCO KHI Ship Eng | 43.50 | UAE |  |
+| NORDIC THUNDER | TANKER | 157374 | 2017 | Hyundai Samho HI | 66.00 | DELTA TANKERS |  |
+| YASA GOLDEN MARMARA | TANKER | 110769 | 2008 | Mitsui Chiba Ichihara | 31.00 | VIETNAMESE |  |
+| CASPER | TANKER | 108870 | 2010 | Hudong-Zhonghua Shipbuilding | 34.00 | UNDISCLOSED |  |
+| LIMERICK SPIRIT | TANKER | 105583 | 2007 | Hyundai Heavy Inds - Ulsan | 27.80 | SEA TRADE |  |
+| BANI YAS | TANKER | 74913 | 2010 | STX OFFSHORE & SHBLDG | 22.00 | UNDISCLOSED |  |
+| YAMILAH-III | TANKER | 74866 | 2011 | STX OFFSHORE & SHBLDG | 22.00 | UNDISCLOSED |  |
+| NORD OCEANIA | TANKER | 49996 | 2018 | Onomichi Dockyard Co Ltd | 36.50 | UNDISCLOSED |  |
+| BIT WIND | TANKER | 13823 | 2022 | Jiangsu Newyangzi | - | SWEDISH | ICE CLASS |
+| BIT WAVE | TANKER | 13822 | 2022 | Jiangsu Newyangzi | - | SWEDISH | ICE CLASS |
+| SINAR MINAHASA | TANKER | 12693 | 2007 | Higaki | 13.50 | UNDISCLOSED | ST.STEEL |
+| DELPHINUS C | CV | 65950 | 2007 | Hyundai Heavy Inds - Ulsan | 30.50 | UNDISCLOSED | 4,888 TEU |
+| CONTSHIP KEY | CV | 13760 | 2006 | Jiangsu Eastern HI | 10.00 | MSC | 1,118 TEU |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MAHARSHI TANKER | 93,322 | 18264 |  | 2002 | Cochin 395 Shipyard |  | AS | IS COLOMBO |
-| FP FUTURE BC | 49,957 | 9798 |  | 2002 | Shin 457 KurushimaF |  |  |  |
+| MAHARSHI PARSHURAM | TANKER | 93322 | 18264 | 2002 | Cochin Shipyard | 395 | UNDISCLOSED | AS IS COLOMBO |
+| FP FUTURE | BC | 49957 | 9798 | 2002 | Shin KurushimaF | 457 | INDIA |  |
 
 ## Newbuilding Market
 

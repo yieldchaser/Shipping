@@ -18,8 +18,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W07_WK-7-24-CARRIERS_SP-M
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | SOLAR PRIDE | BC | 209471 | 2020 | Shanghai Waigaoqiao Shbldg | 65.00 | UNDISCLOSED |  |
 | SOLAR QUANTUM | BC | 209471 | 2020 | Shanghai Waigaoqiao Shbldg | 65.00 | UNDISCLOSED |  |
-| SOLAR NOVA | BC | 208892 | 2021 | New Times Shipbuilding Co Ltd | 66.00 | CHINA |  |
-| SOLAR OAK | BC | 208892 | 2021 | New Times Shipbuilding Co Ltd | 66.00 | MERCHANTS |  |
+| SOLAR NOVA | BC | 208892 | 2021 | New Times Shipbuilding Co Ltd | 66.00 | CHINA MERCHANTS |  |
+| SOLAR OAK | BC | 208892 | 2021 | New Times Shipbuilding Co Ltd | 66.00 | CHINA MERCHANTS |  |
 | KINOKAWA MARU | BC | 181392 | 2013 | Imabari Shbldg - Saijo | 34.00 | SEANERGY | SS 12/2025 |
 | XIN HANG | BC | 178043 | 2010 | Shanghai Jiangnan Changxing | 26.50 | UNDISCLOSED |  |
 | FPMC B 102 | BC | 104990 | 2011 | STX Dalian Shipbuilding Co Ltd | 16.50 | UNDISCLOSED | SS 10/2025 |
@@ -34,8 +34,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W07_WK-7-24-CARRIERS_SP-M
 | NORDIC MERCHANTS | BC | 37205 | 2014 | Yangzhou Guoyu Shipbuilding | 15.00 | UNDISCLOSED |  |
 | NORDIC BC MUNICH | BC | 34827 | 2012 | Jiangdong Shipyard | 14.20 | UNDISCLOSED |  |
 | TRF HORTEN | TANKER | 297638 | 2018 | HHIC-Phil Inc | 102.00 | CHINESE |  |
-| SKS DARENT | TANKER | 119456 | 2011 | Hyundai Samho HI | 53.00 | UNION |  |
-| SKS DRIVA | TANKER | 119456 | 2010 | Hyundai Samho HI | 51.00 | MARITIME |  |
+| SKS DARENT | TANKER | 119456 | 2011 | Hyundai Samho HI | 53.00 | UNION MARITIME |  |
+| SKS DRIVA | TANKER | 119456 | 2010 | Hyundai Samho HI | 51.00 | UNION MARITIME |  |
 | AFRA ROSSI | TANKER | 115829 | 2010 | HHIC-Phil Inc | 45.50 | CHINESE | DD PASSED 12/2023 |
 | HANSA OSLO | TANKER | 51215 | 2007 | STX Shipbuilding - Jinhae | 22.50 | CHINESE |  |
 | FOS POWER | TANKER | 47371 | 2007 | Onomichi Dockyard Co Ltd | 22.00 | MIDDLE EASTERN |  |
@@ -54,9 +54,9 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W07_WK-7-24-CARRIERS_SP-M
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BRADLEY TANKER | 106,474 | 16368 |  | 1999 | Nippon Kokan 450 |  | AS | IS SPORE |
-| BROTHER BC | 70,042 | 9505 |  | 1998 | Sanoyas 530 |  |  |  |
-| EZ FORTUNA BC | 24,450 | 7371 |  | 1995 | Oshima 522 |  |  |  |
+| BRADLEY | TANKER | 106474 | 16368 | 1999 | Nippon Kokan | 450 | UNDISCLOSED | AS IS SPORE |
+| BROTHER GLORY | BC | 70042 | 9505 | 1998 | Sanoyas | 530 | BANGLADESH |  |
+| EZ FORTUNA | BC | 24450 | 7371 | 1995 | Oshima | 522 | BANGLADESH |  |
 
 ## Newbuilding Market
 
@@ -98,7 +98,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W07_WK-7-24-CARRIERS_SP-M
 | CAPE 180K | 20341 | 2575 | 17766 |
 | TESS 82K | 13735 | 967 | 12768 |
 | LME 74K | 12399 | 967 | 11432 |
-| SUPRA 63K | 11533.0 | 122.0 | 11411.0 |
+| TESS 58K | 11533.0 | 122.0 | 11411.0 |
 | HANDY 38K | 10236 | -242 | 10478 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

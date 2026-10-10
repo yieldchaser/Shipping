@@ -16,7 +16,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W05_WK-5-24-CARRIERS_SP-M
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| CHARLOTTE | BC | 93296 | 2010 | Yangfan Group Co Ltd | 15.45 | GREEK | SS 01/2025 |
+| CHARLOTTE OLDENDORFF | BC | 93296 | 2010 | Yangfan Group Co Ltd | 15.45 | GREEK | SS 01/2025 |
 | CHRISTINE OLDENDORFF | BC | 93077 | 2010 | Taizhou Kouan | 15.45 | GREEK | SS 02/2025 |
 | ARTEMIS | BC | 76942 | 2006 | Namura Shipbuilding - Imari | 13.00 | UNDISCLOSED | SS/DD 11/2025 |
 | NAVIOS ORBITER | BC | 76602 | 2004 | Imabari Shbldg - Marugame | 9.20 | UNDISCLOSED | SS 02/2024 |
@@ -50,9 +50,9 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W05_WK-5-24-CARRIERS_SP-M
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| XIN XIANG AN BC | 22,120 | 5364 |  | 1992 | Saiki HI 490 |  |  |  |
-| RONG DA MPP | 22,271 | 9346 |  | 1998 | '3 Maj' 535 |  | INC | BUNKERS |
-| MSC JEMIMA CV | 42,288 | 12677 |  | 1994 | Astilleros 525 Espanole |  | HKC RECYCLINIG | GREEN |
+| XIN XIANG AN | BC | 22120 | 5364 | 1992 | Saiki HI | 490 | BANGLADESH |  |
+| RONG DA CHANG SHA | MPP | 22271 | 9346 | 1998 | '3 Maj' | 535 | BANGLADESH | INC BUNKERS |
+| MSC JEMIMA | CV | 42288 | 12677 | 1994 | Astilleros Espanole | 525 | INDIA | HKC GREEN RECYCLINIG |
 
 ## Newbuilding Market
 
@@ -60,8 +60,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W05_WK-5-24-CARRIERS_SP-M
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLAC | 3 | 98,000 CBM | Hyundai H.I. | 1H 2028 | 122.00 EACH | NYK |  |
 | VLAC | 2 | 93,000 CBM | Hanhwa Ocean | 08/2027 | 123.40 EACH | ALPHA GAS |  |
-| AMMONIA | 3 | 40,000 CBM | Japan Marine United | 2H 2026 | - | JAPANISE |  |
-| AMMONIA | 1 | 40,000 CBM | Nihon Shipyard | 11/2026 | - | NYK | AMMONIA DUAL FUELLED |
+| AMMONIA CARRIER | 3 | 40,000 CBM | Japan Marine United | 2H 2026 | - | JAPANISE |  |
+| AMMONIA CARRIER | 1 | 40,000 CBM | Nihon Shipyard | 11/2026 | - | NYK | AMMONIA DUAL FUELLED |
 | BC | 4 | 82,000 DWT | Chengxi | 2H 2027 | - | FOREMOST NY | METHANOL DUAL FUELLED |
 | BC | 2 | 82,400 DWT | Thuneishi Zhoushan | 2026 | 40.00 EACH | WISDOM MARINE |  |
 | BC | 2 | 64,000 DWT | New Dayang | 2H 2026 | 34.00 EACH | KASUGA KAIUN |  |

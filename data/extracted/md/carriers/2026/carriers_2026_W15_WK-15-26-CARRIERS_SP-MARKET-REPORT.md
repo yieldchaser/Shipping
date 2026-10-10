@@ -47,8 +47,8 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W15_WK-15-26-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BOW FAITH | TANKER | 37479 | 11060 | 1997 | Kvaerner Floro | 945 | INDIA | ST. STEEL & BUNKERS |
-| ANDHIKA | LNG | 73220 | 10026 | 1998 | Sumitomo HI | 461 | AS | IS INDONESIA |
+| BOW FAITH | TANKER | 37479 | 11060 | 1997 | Kvaerner Floro | 945 | INDIA | INCL 2,300 T OF ST. STEEL & BUNKERS |
+| ANDHIKA KANISHKA | LNG | 73220 | 10026 | 1998 | Sumitomo HI | 461 | UNDISCLOSED | AS IS INDONESIA |
 
 ## Newbuilding Market
 

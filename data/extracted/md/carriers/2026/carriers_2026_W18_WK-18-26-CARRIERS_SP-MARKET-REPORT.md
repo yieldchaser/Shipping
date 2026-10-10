@@ -18,8 +18,8 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W18_WK-18-26-CARRIERS_SP-
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BULK JOYANCE | BC | 175636 | 2012 | JINHAI HEAVY INDUSTRY | 33.00 | UNDISCLOSED |  |
 | LESTARI MANJUNG | BC | 93200 | 2011 | Jiangsu Newyangzi | 14.00 | UNDISCLOSED |  |
-| SEACON NOLA | BC | 85611 | 2023 | Huangpu Wenchong Longxue | 72.70 EN BLOC | ASYAD |  |
-| SEACON HAMBURG | BC | 85505 | 2023 | Huangpu Wenchong Longxue | 72.70 EN BLOC | SHIPPING |  |
+| SEACON NOLA | BC | 85611 | 2023 | Huangpu Wenchong Longxue | 72.70 EN BLOC | ASYAD SHIPPING |  |
+| SEACON HAMBURG | BC | 85505 | 2023 | Huangpu Wenchong Longxue | 72.70 EN BLOC | ASYAD SHIPPING |  |
 | SIROCCO | BC | 82000 | 2014 | Sainty Shipbuilding Yangzhou | 20.00 | UNDISCLOSED |  |
 | ELWAY | BC | 81911 | 2012 | Jiangsu Eastern HI | 16.20 | BLUE SEAS |  |
 | ECUADOR L | BC | 57937 | 2011 | Tsuneishi Heavy Inds Cebu | 16.70 | UNDISCLOSED |  |
@@ -35,7 +35,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W18_WK-18-26-CARRIERS_SP-
 | ARION | TANKER | 51589 | 2010 | Hyundai Mipo Dockyard Co | 25.00 | GREEK |  |
 | CERS | TANKER | 51371 | 2006 | ShinA Shipbuilding Co Ltd | 14.50 | UNDISCLOSED | SS DUE |
 | DAI PHU | TANKER | 50530 | 2006 | SPP Shipbuilding - Tongyeong | 13.20 | UNDISCLOSED |  |
-| UOG KYMA | TANKER | 44995 | 2011 | Onomichi Dockyard Co Ltd | 25.50 VELOS | TANKERS |  |
+| UOG KYMA | TANKER | 44995 | 2011 | Onomichi Dockyard Co Ltd | 25.50 | VELOS TANKERS |  |
 | WONDER MIMOSA | TANKER | 37620 | 2006 | Hyundai Mipo Dockyard Co | 12.00 | GREEK | SS DUE |
 | CHEMSTAR RIVER | TANKER | 22407 | 2017 | Shin Kurushima Akitsu | 33.00 | UNDISCLOSED |  |
 | CHEM STREAM | TANKER | 19998 | 2010 | SHITANOE SHIPBUILDING | 20.80 | UNDISCLOSED |  |

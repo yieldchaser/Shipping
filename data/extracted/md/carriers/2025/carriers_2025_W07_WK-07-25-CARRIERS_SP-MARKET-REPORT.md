@@ -25,6 +25,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W07_WK-07-25-CARRIERS_SP-
 | ENABLE | BC | 48910 | 2001 | Nantong COSCO KHI Ship Eng | - | FAR EASTERN |  |
 | MAZURY | BC | 38981 | 2005 | Tianjin Xingang Shipyard | 6.00 | FAR EASTERN | SS DUE 4/2025 |
 | NORD NANAMI | BC | 38204 | 2012 | Imabari Shbldg - Imabari | 13.50 | UNDISCLOSED |  |
+| LIBERTY C | BC | 32618 | 2012 | JIANGSU ZHENJIANG | 9.20 | VIETNAMESE |  |
 | GREAT LADY | TANKER | 308930 | 2005 | Samsung Heavy Inds - Geoje | 41.00 | CHINESE |  |
 | LOGGAM | TANKER | 299996 | 2003 | Samsung Heavy Inds - Geoje | 31.00 | CHINESE |  |
 | SHENLONG SPIRIT | TANKER | 159021 | 2009 | Bohai Shipbuilding Heavy Ind | 35.00 | DYNACOM |  |
@@ -45,8 +46,8 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W07_WK-07-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BEST UNITY BC | 69,034 | 9827 |  | 1997 | Imabari 443 |  |  |  |
-| RUN FU 7 BC | 38,852 | 7176 |  | 1990 | Ishikawajima- 445 Harima |  |  |  |
+| BEST UNITY | BC | 69034 | 9827 | 1997 | Imabari | 443 | BANGLADESH |  |
+| RUN FU 7 | BC | 38852 | 7176 | 1990 | Ishikawajima- Harima | 445 | BANGLADESH |  |
 
 ## Newbuilding Market
 

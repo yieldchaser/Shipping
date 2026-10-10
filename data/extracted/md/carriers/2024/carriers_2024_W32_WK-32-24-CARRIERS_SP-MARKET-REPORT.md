@@ -37,7 +37,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W32_WK-32-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MSC CV | 31,205 | 8800 |  | 1987 | HOWALDTSWERKE | 535 |  |  |
+| MSC ANNAMARIA | CV | 31205 | 8800 | 1987 | HOWALDTSWERKE | 535 | ALANG |  |
 
 ## Newbuilding Market
 
@@ -91,7 +91,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W32_WK-32-24-CARRIERS_SP-
 | CAPE 180K | 19499 | -1901 | 21411 |
 | TESS 82K | 15273 | -859 | 16132 |
 | LME 74K | 13937 | -859 | 14796 |
-| SUPRA 63K | 14635.0 | -581.0 | 15216.0 |
+| TESS 58K | 14635.0 | -581.0 | 15216.0 |
 | HANDY 38K | 13649 | -21 | 13670 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

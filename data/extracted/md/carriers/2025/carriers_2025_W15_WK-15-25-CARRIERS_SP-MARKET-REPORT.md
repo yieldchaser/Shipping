@@ -44,7 +44,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W15_WK-15-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FIRSTEC BC | 34,074 | 7952 |  | 1997 | Imabari 425 |  | AS | IS HONG KONG |
+| FIRSTEC | BC | 34074 | 7952 | 1997 | Imabari | 425 | UNDISCLOSED | AS IS HONG KONG |
 
 ## Newbuilding Market
 

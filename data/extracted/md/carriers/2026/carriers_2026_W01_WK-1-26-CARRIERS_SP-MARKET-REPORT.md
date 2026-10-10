@@ -18,9 +18,9 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W01_WK-1-26-CARRIERS_SP-M
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | SEACON SHANGHAI | BC | 80811 | 2019 | Huangpu Wenchong Longxue | 26.70 | DEXTER NAVIGATION |  |
 | DHT EUROPE | TANKER | 317713 | 2007 | Hyundai Samho HI | 101.60 EN BLOC | UNDISCLOSED |  |
-| DHT CHINA | TANKER | 317794 | 2007 | Hyundai Samho HI | 101.60 EN BLOC | UNDISCLOSED | INCL T/C TO |
-| NAVIGARE GENEROSA | VLGC | 54564 | 2015 | Hyundai Heavy Inds - Gunsan | 80.00 | GESCO | EXXON @ USD 1.1 MIL PER MONTH UNTIL |
-| JAG VISHNU | VLGC | 49996 | 2002 | Kawasaki Shipbuilding - | 42.00 | UNDISCLOSED | 02/2027 |
+| DHT CHINA | TANKER | 317794 | 2007 | Hyundai Samho HI | 101.60 EN BLOC | UNDISCLOSED |  |
+| NAVIGARE GENEROSA | VLGC | 54564 | 2015 | Hyundai Heavy Inds - Gunsan | 80.00 | GESCO | INCL T/C TO EXXON @ USD 1.1 MIL PER MONTH UNTIL 02/2027 |
+| JAG VISHNU | VLGC | 49996 | 2002 | Kawasaki Shipbuilding - | 42.00 | UNDISCLOSED |  |
 
 ## Demolition Market
 

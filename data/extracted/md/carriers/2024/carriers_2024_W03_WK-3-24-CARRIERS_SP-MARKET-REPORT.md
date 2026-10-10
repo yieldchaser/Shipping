@@ -56,16 +56,16 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W03_WK-3-24-CARRIERS_SP-M
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TRANSPORT | BC 34,066 | 9148 |  | 1979 | Dry Docks - St Catharines On Stocznia |  | HKC | GREEN |
-| MSC UMA | CV 29,240 | 10455 |  | 1998 | Gdynia Sa - Gdynia Jinling | 525 | INDIA | RECYCLE |
-| ROMULO | CV | 5250 |  | 1997 | Shipyard - Nanjing Js | 485 |  | TOWED |
+| ALGOMA TRANSPORT | BC | 34066 | 9148 | 1979 | Port Weller Dry Docks - St Catharines On | - | CANADA |  |
+| MSC UMA | CV | 29240 | 10455 | 1998 | Stocznia Gdynia Sa - Gdynia | 525 | INDIA | HKC GREEN RECYCLE |
+| GENERAL ROMULO | CV | 5250 | 2553 | 1997 | Jinling Shipyard - Nanjing Js | 485 | BANGLADESH | TOWED |
 
 ## Newbuilding Market
 
 | Type | Units | Size | Yard | Delivery | Price ($M) | Owners | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | TANKER | 2 | 112,000 DWT | NEW TIMES | 1H2027 | 74.0 EACH | MINERVA MARINE | with LNG dual fuel |
-| TANKER | 15 | 50,000 DWT | HYUNDAI JAN MIPO | - SEPT 2026 | 47.75 | PETRAMINA INTERNATIONAL | HMD standard ‘Generation 7’ IMO 2/3 design |
+| TANKER | 15 | 50,000 DWT | HYUNDAI MIPO | JAN - SEPT 2026 | 47.75 | PETRAMINA INTERNATIONAL | HMD standard ‘Generation 7’ IMO 2/3 design |
 | CV | 4 | 4,382 TEU | HUNANGPU WENCHONG | 2027 | 56.5 EACH | REGIONAL CONTAINER LINES |  |
 
 ## BSPA Secondhand Market Assessments (5 Years Old)
@@ -113,7 +113,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W03_WK-3-24-CARRIERS_SP-M
 | CAPE 180K | 15589 | -14262 | 29851 |
 | TESS 82K | 12709 | -1740 | 14449 |
 | LME 74K | 11373 | -1740 | 13113 |
-| SUPRA 63K | 11855.0 | -1283.0 | 13138.0 |
+| TESS 58K | 11855.0 | -1283.0 | 13138.0 |
 | HANDY 38K | 10898 | -1349 | 12247 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

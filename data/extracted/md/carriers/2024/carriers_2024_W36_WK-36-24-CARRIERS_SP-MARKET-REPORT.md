@@ -37,13 +37,13 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W36_WK-36-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PRADA TANKER | 112,201 | 18860 |  | 2001 | Hyundai HI 480 |  | AS | IS OMAN |
+| PRADA | TANKER | 112201 | 18860 | 2001 | Hyundai HI | 480 | UNDISCLOSED | AS IS OMAN |
 
 ## Newbuilding Market
 
 | Type | Units | Size | Yard | Delivery | Price ($M) | Owners | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| BC | 2 | 210,000 DWT | KAOHSIUNG | 2026 | HIGH 70’S | CMT | PLUS 2 OPTION |
+| BC | 2 | 210,000 DWT | KAOHSIUNG | 2026 | HIGH 70’S EACH | CMT | PLUS 2 OPTION |
 | LPG | 2 | 50,500 CBM | JIANGNAN | 2027 | 80 EACH | ASIA PACIFIC |  |
 
 ## BSPA Secondhand Market Assessments (5 Years Old)

@@ -22,10 +22,10 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W29_WK-29-24-CARRIERS_SP-
 | REGO | BC | 58729 | 2009 | Tsuneishi Zhoushan Shbldg | 16.00 | UNDISCLOSED |  |
 | NORDIC STAVANGER | BC | 56172 | 2011 | Mitsui Tamano | 18.00 | UNDISCLOSED |  |
 | SPAR LYRA | BC | 53565 | 2005 | Chengxi Shipyard | LOW 10’s | UNDISCLOSED |  |
-| WESTERN DURBAN | BC | 39266 | 2015 | Jiangmen Nanyang Ship Eng |  |  |  |
-| WESTERN LIMA | BC | 39000 | 2015 | Jiangmen Nanyang Ship Eng | 78.00 EN BLOC | PRECIOUS |  |
-| WESTERN MIAMI | BC | 39000 | 2015 | Jiangmen Nanyang Ship Eng | 78.00 EN BLOC | SHIPPING |  |
-| WESTERN PARIS | BC | 38800 | 2015 | Jiangsu Hantong Ship HI | 78.00 EN BLOC | SHIPPING |  |
+| WESTERN DURBAN | BC | 39266 | 2015 | Jiangmen Nanyang Ship Eng | 78.00 EN BLOC | PRECIOUS SHIPPING |  |
+| WESTERN LIMA | BC | 39000 | 2015 | Jiangmen Nanyang Ship Eng | 78.00 EN BLOC | PRECIOUS SHIPPING |  |
+| WESTERN MIAMI | BC | 39000 | 2015 | Jiangmen Nanyang Ship Eng | 78.00 EN BLOC | PRECIOUS SHIPPING |  |
+| WESTERN PARIS | BC | 38800 | 2015 | Jiangsu Hantong Ship HI | 78.00 EN BLOC | PRECIOUS SHIPPING |  |
 | DARYA GANGA | BC | 36845 | 2012 | Hyundai Mipo Dockyard Co Ltd | LOW 16’s | UNDISCLOSED |  |
 | MARE NOSTRUM | TANKER | 110295 | 2009 | Mitsui Chiba Ichihara | 44.00 | NORVIC |  |
 | HAFNIA PEGASUS | TANKER | 49999 | 2010 | Guangzhou Shipyard Intl Co | 28.50 | UNDISCLOSED |  |
@@ -89,7 +89,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W29_WK-29-24-CARRIERS_SP-
 | CAPE 180K | 27058 | -113 | 27171 |
 | TESS 82K | 15320 | 1541 | 13779 |
 | LME 74K | 12398 | -955 | 12443 |
-| SUPRA 63K | 15045.0 | 376.0 | 14669.0 |
+| TESS 58K | 15045.0 | 376.0 | 14669.0 |
 | HANDY 38K | 13360 | 61 | 13299 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

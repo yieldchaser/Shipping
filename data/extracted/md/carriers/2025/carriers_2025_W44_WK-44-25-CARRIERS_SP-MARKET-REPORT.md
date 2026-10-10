@@ -37,6 +37,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W44_WK-44-25-CARRIERS_SP-
 | NAVE QUASAR | TANKER | 297376 | 2010 | Dalian Shipbuilding Ind - No 2 | 52.50 | UNDISCLOSED |  |
 | EUROLEADER | TANKER | 159062 | 2005 | Hyundai Heavy Inds - Ulsan | 28.50 | UNDISCLOSED |  |
 | RYVINGEN SUN | TANKER | 74032 | 2007 | New Century Shipbuilding Co | 14.50 | UNDISCLOSED |  |
+| YOSEMITE TRADER | TANKER | 47980 | 2011 | Iwagi Zosen Co Ltd | 21.50 | VIETNAMESE |  |
 | FURE WEST | TANKER | 17349 | 2006 | Shanghai Edward Shipbuilding | 11.30 | CHINESE |  |
 | PANAY | CV | 24774 | 2023 | Huangpu Wenchong | 35.50 | CMA CGM | 1,930 TEU |
 | WARNOW WHALE | CV | 18318 | 2007 | Zhejiang Ouhua Shipbuilding | 13.00 | UNDISCLOSED | 1,296 TEU |
@@ -45,7 +46,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W44_WK-44-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MONICA P BC | 45,667 | 7779 |  | 1997 | Mitsui Eng 380 |  | AS | IS BELAWAN |
+| MONICA P | BC | 45667 | 7779 | 1997 | Mitsui Eng | 380 | UNDISCLOSED | AS IS BELAWAN |
 
 ## Newbuilding Market
 

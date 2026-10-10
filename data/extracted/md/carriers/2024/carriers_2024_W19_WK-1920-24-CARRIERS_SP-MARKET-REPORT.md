@@ -56,8 +56,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W19_WK-1920-24-CARRIERS_S
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PINE EXPRESS BC | 42,968 | 8543 |  | 1990 | Hashihama 555 |  |  |  |
-| SPAN ASIA 32 GC | 7,787 | 2801 |  | 1982 | JJ SIETAS 530 |  |  |  |
+| PINE EXPRESS | BC | 42968 | 8543 | 1990 | Hashihama | 555 | BANGLADESH |  |
+| SPAN ASIA 32 | GC | 7787 | 2801 | 1982 | JJ SIETAS | 530 | BANGLADESH |  |
 
 ## Newbuilding Market
 
@@ -111,7 +111,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W19_WK-1920-24-CARRIERS_S
 | CAPE 180K | 25773 | -1091 | 26864 |
 | TESS 82K | 18157 | 612 | 17545 |
 | LME 74K | 16821 | 612 | 16209 |
-| SUPRA 63K | 16333.0 | 259.0 | 16074.0 |
+| TESS 58K | 16333.0 | 259.0 | 16074.0 |
 | HANDY 38K | 12609 | -381 | 12990 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

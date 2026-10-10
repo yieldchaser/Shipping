@@ -16,36 +16,36 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W31_WK-31-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ASANAGI | BC | 182162 | 2022 | Tadotsu Shipyard Co Ltd | 50,000,000 UNDISCLOSED |  | FWD DELY |
-| ANGLO MARIE LOUISE | BC | 114674 | 2011 | New Times Shipbuilding Co | 20,000,000 UNDISCLOSED |  |  |
-| ANGLO JESSICA | BC | 114664 | 2010 | New Times Shipbuilding Co | 20,000,000 UNDISCLOSED |  |  |
-| ANGLO ALEXANDRIA | BC | 114248 | 2011 | New Times Shipbuilding Co | 20,000,000 UNDISCLOSED |  |  |
-| NORD ANTARES | BC | 82258 | 2022 | Jiangsu Yangzi-Mitsui SB | 37,500,000 NOVA | MARINE |  |
-| NORD ANDROMEDA | BC | 82251 | 2022 | Jiangsu Yangzi-Mitsui SB | 37,500,000 NOVA | MARINE |  |
+| ASANAGI | BC | 182162 | 2022 | Tadotsu Shipyard Co Ltd | 50,000,000 | UNDISCLOSED | FWD DELY |
+| ANGLO MARIE LOUISE | BC | 114674 | 2011 | New Times Shipbuilding Co | 20,000,000 | UNDISCLOSED |  |
+| ANGLO JESSICA | BC | 114664 | 2010 | New Times Shipbuilding Co | 20,000,000 | UNDISCLOSED |  |
+| ANGLO ALEXANDRIA | BC | 114248 | 2011 | New Times Shipbuilding Co | 20,000,000 | UNDISCLOSED |  |
+| NORD ANTARES | BC | 82258 | 2022 | Jiangsu Yangzi-Mitsui SB | 37,500,000 | NOVA MARINE |  |
+| NORD ANDROMEDA | BC | 82251 | 2022 | Jiangsu Yangzi-Mitsui SB | 37,500,000 | NOVA MARINE |  |
 | VELOS JASPER | BC | 82167 | 2012 | TSUNEISHI SHBLDG - TDT | 23,500,000 | CHINESE |  |
-| ARTVIN | BC | 81827 | 2011 | Hyundai Mipo Dockyard Co | 19,450,000 UNDISCLOSED |  |  |
-| ORDU | BC | 81660 | 2012 | Hyundai Mipo Dockyard Co | 19,450,000 UNDISCLOSED |  |  |
-| G. B. CORRADO | BC | 77061 | 2008 | Oshima Shipbuilding Co Ltd | 15,000,000 UNDISCLOSED |  |  |
-| AGIOS NEKTARIOS I | BC | 56722 | 2010 | Jiangsu Hantong Ship HI | 13,300,000 UNDISCLOSED |  |  |
-| EBURY TRADER | BC | 56603 | 2011 | China Shipping Ind Jiangsu | 13,000,000 UNDISCLOSED | SS | DUE 9/2026 |
-| LILA FROSTBURG | BC | 56425 | 2013 | Jiangsu Hantong Ship HI | 16,800,000 UNDISCLOSED | DD | PASSED |
-| VIVA ECLIPSE | BC | 54279 | 2009 | Jiangsu Eastern HI | 11,750,000 UNDISCLOSED |  |  |
-| NIKOS N | BC | 53815 | 2011 | Chengxi Shipyard Jiangyin | 15,200,000 UNDISCLOSED |  |  |
-| BLUE DIAMOND | BC | 53521 | 2008 | Ha Long Shbldg Co - Ha Long | 11,000,000 UNDISCLOSED |  |  |
+| ARTVIN | BC | 81827 | 2011 | Hyundai Mipo Dockyard Co | 19,450,000 | UNDISCLOSED |  |
+| ORDU | BC | 81660 | 2012 | Hyundai Mipo Dockyard Co | 19,450,000 | UNDISCLOSED |  |
+| G. B. CORRADO | BC | 77061 | 2008 | Oshima Shipbuilding Co Ltd | 15,000,000 | UNDISCLOSED |  |
+| AGIOS NEKTARIOS I | BC | 56722 | 2010 | Jiangsu Hantong Ship HI | 13,300,000 | UNDISCLOSED |  |
+| EBURY TRADER | BC | 56603 | 2011 | China Shipping Ind Jiangsu | 13,000,000 | UNDISCLOSED | SS DUE 9/2026 |
+| LILA FROSTBURG | BC | 56425 | 2013 | Jiangsu Hantong Ship HI | 16,800,000 | UNDISCLOSED | DD PASSED |
+| VIVA ECLIPSE | BC | 54279 | 2009 | Jiangsu Eastern HI | 11,750,000 | UNDISCLOSED |  |
+| NIKOS N | BC | 53815 | 2011 | Chengxi Shipyard Jiangyin | 15,200,000 | UNDISCLOSED |  |
+| BLUE DIAMOND | BC | 53521 | 2008 | Ha Long Shbldg Co - Ha Long | 11,000,000 | UNDISCLOSED |  |
 | LIANSON HERMES | BC | 53507 | 2009 | Zhejiang Shbldg - Ningbo | 13,000,000 | INDIAN |  |
-| SAKURA DREAM | BC | 38213 | 2013 | Imabari Shbldg - Imabari | 18,500,000 UNDISCLOSED |  |  |
-| NEW JOURNEY | BC | 36371 | 2015 | Shikoku Dockyard | 19,800,000 UNDISCLOSED |  |  |
-| SEAMEC GALLANT | BC | 32289 | 2011 | Jiangmen Nanyang Ship Eng | 12,000,000 UNDISCLOSED |  | SS DUE 10/2026 |
-| ANCHOR 18 | TANKER | 19971 | 2009 | Qingshan Shipyard 16,400,000.00 |  | CHINESE |  |
-| METHANE MICKIE | LNG | 86170 | 2010 | Samsung Heavy Inds - Geoje 79,000,000.00 |  | USA |  |
+| SAKURA DREAM | BC | 38213 | 2013 | Imabari Shbldg - Imabari | 18,500,000 | UNDISCLOSED |  |
+| NEW JOURNEY | BC | 36371 | 2015 | Shikoku Dockyard | 19,800,000 | UNDISCLOSED |  |
+| SEAMEC GALLANT | BC | 32289 | 2011 | Jiangmen Nanyang Ship Eng | 12,000,000 | UNDISCLOSED | SS DUE 10/2026 |
+| ANCHOR 18 | TANKER | 19971 | 2009 | Qingshan Shipyard | 16,400,000.00 | CHINESE |  |
+| METHANE MICKIE HARPER | LNG | 86170 | 2010 | Samsung Heavy Inds - Geoje | 79,000,000.00 | USA |  |
 | MONTPELLIER | CV | 39418 | 2006 | Hyundai Mipo Dockyard | 27,000,000 | SINGAPORE | 2,824 TEU |
-| A ONTAKE | CV | 11817 | 2023 | Kyokuyo Shipyard Corp | HIGH UNDISCLOSED 26,000,000 |  | 1,096 TEU |
+| A ONTAKE | CV | 11817 | 2023 | Kyokuyo Shipyard Corp | HIGH 26,000,000 | UNDISCLOSED | 1,096 TEU |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DOUBLE IN | LPG | 56864 | 18859 | 1992 | Nippon Kokan | 445 |  |  |
+| DOUBLE IN | LPG | 56864 | 18859 | 1992 | Nippon Kokan | 445 | UNDISCLOSED |  |
 
 ## Newbuilding Market
 

@@ -36,8 +36,8 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W13_WK-13-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| XIE HAI CHONG BC | 71,252 | 10183 |  | 1994 | Namura 400 Shipbuilding |  | AS | IS CHINA |
-| DUKHAN LNG | 72,533 | 32467 |  | 2004 | Mitsui 610 |  |  |  |
+| XIE HAI CHONG HE | BC | 71252 | 10183 | 1994 | Namura Shipbuilding | 400 | UNDISCLOSED | AS IS CHINA |
+| DUKHAN | LNG | 72533 | 32467 | 2004 | Mitsui | 610 | UNDISCLOSED |  |
 
 ## Newbuilding Market
 

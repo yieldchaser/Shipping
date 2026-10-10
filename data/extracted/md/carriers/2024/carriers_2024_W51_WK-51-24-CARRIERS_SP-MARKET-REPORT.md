@@ -22,6 +22,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W51_WK-51-24-CARRIERS_SP-
 | JPS BARCELONA | BC | 55783 | 2010 | Hyundai Vinashin, Vietnam | 12.75 | UNDISCLOSED |  |
 | GLOBAL SAIKAI | BC | 51828 | 2007 | Oshima Shipbuilding Co Ltd | 12.20 | UNDISCLOSED | OHBS |
 | OAK HARBOUR | BC | 33745 | 2005 | Oshima Shipbuilding Co Ltd | 8.90 | UNDISCLOSED | SS/DD due 2/2025 |
+| AKDENIZ-M | BC | 32178 | 2002 | The Hakodate Dock Co | 6.40 | VIETNAMESE |  |
 | DHT SCANDINAVIA | TANKER | 317826 | 2006 | Hyundai Samho HI | 43.30 | CHINESE | SS 11/2026 |
 | TORM REPUBLICAN | TANKER | 46920 | 2006 | Hyundai Mipo | 18.00 | UNDISCLOSED | SS/DD 3/2026 |
 | NORTHERN JAGUAR | CV | 108730 | 2009 | Daewo Shipbuilding | 52.50 | EUROPEAN | 8,814 TEU |
@@ -36,7 +37,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W51_WK-51-24-CARRIERS_SP-
 
 | Type | Units | Size | Yard | Delivery | Price ($M) | Owners | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| TANKER | 4 | 163,000 DWT | CSSS QINGDAO 2H2027/2028 BEIHAI |  | - | DYNACOM | LOI |
+| TANKER | 4 | 163,000 DWT | CSSS QINGDAO BEIHAI | 2H2027/2028 | - | DYNACOM | LOI |
 | BC | 2 | 82,000 | NANTONG XIANGYU | 1Q2027 | 37,3 EACH | DOUN KISSEN |  |
 | BC | 2 | 63,500 | NANTONG XIANGYU | 2027 | 35,3 EACH | DOUN KISSEN |  |
 | ULCV | 10 | 24,000 TEU | HENGLI HI,CHINA | 2028/2029 | 230 EACH | MSC | with LNG DF propulsion |

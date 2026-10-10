@@ -24,7 +24,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W14_WK-14-25-CARRIERS_SP-
 | GOLDEN KEEN | BC | 81586 | 2012 | Hyundai Mipo Dockyard Co Ltd | 17.50 | CHINESE |  |
 | SEA CHARM | BC | 75932 | 2003 | Tsuneishi Shbldg - Fkym - earl | 7.70 | CHINESE |  |
 | MAGIC CALLISTO | BC | 74930 | 2012 | Sasebo Heavy Industries | 14.50 | UNDISCLOSED |  |
-| NANTONG XIANGYU | BC | 63550 | 2025 | Nantong Xiangyu Shipbuilding | 35.00 | UNDISCLOSED | DELIVERY 09/2025 |
+| NANTONG XIANGYU XY134 | BC | 63550 | 2025 | Nantong Xiangyu Shipbuilding | 35.00 | UNDISCLOSED | DELIVERY 09/2025 |
 | VOLISSOS | BC | 57022 | 2010 | Qingshan Shipyard | 10.70 | CHINESE |  |
 | SFL YUKON | BC | 56836 | 2010 | Xiamen Shipbuilding Industry | 10.50 | UNDISCLOSED |  |
 | TELERI M | BC | 55851 | 2013 | JAPAN MARINE UTD - KUR | 16.80 | UNDISCLOSED |  |
@@ -49,7 +49,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W14_WK-14-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FUTONG BC | 43,294 | 8858 |  | 1995 | Sanoyas 420 |  | AS | IS CHINA |
+| FUTONG EXPRESS | BC | 43294 | 8858 | 1995 | Sanoyas | 420 | UNDISCLOSED | AS IS CHINA |
 
 ## Newbuilding Market
 

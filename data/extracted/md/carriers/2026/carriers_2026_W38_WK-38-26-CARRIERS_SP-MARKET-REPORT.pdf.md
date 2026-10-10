@@ -16,36 +16,36 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W38_WK-38-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| HOUHENG 6 | BC | 261838 | 2017 | ZHOUSHAN CHANGHONG INT | 70,000,000 UNDISCLOSED |  |  |
-| HOUHENG 5 | BC | 261761 | 2017 | Guangzhou Shipyard Intl Co | 70,000,000 UNDISCLOSED |  |  |
-| HIGHLAND | BC | 174092 | 2006 | Shanghai Waigaoqiao Shbldg | 25,000,000 UNDISCLOSED |  |  |
-| HC WISDOM | BC | 95711 | 2013 | Imabari Shbldg - Marugame | 24,500,000 UNDISCLOSED |  |  |
-| CK VENTURE | BC | 82269 | 2012 | Dalian Shipbuilding Ind - No 2 | 19,000,000 UNDISCLOSED |  |  |
+| HOUHENG 6 | BC | 261838 | 2017 | ZHOUSHAN CHANGHONG INT | 70,000,000 | UNDISCLOSED |  |
+| HOUHENG 5 | BC | 261761 | 2017 | Guangzhou Shipyard Intl Co | 70,000,000 | UNDISCLOSED |  |
+| HIGHLAND | BC | 174092 | 2006 | Shanghai Waigaoqiao Shbldg | 25,000,000 | UNDISCLOSED |  |
+| HC WISDOM | BC | 95711 | 2013 | Imabari Shbldg - Marugame | 24,500,000 | UNDISCLOSED |  |
+| CK VENTURE | BC | 82269 | 2012 | Dalian Shipbuilding Ind - No 2 | 19,000,000 | UNDISCLOSED |  |
 | BORA | BC | 81682 | 2014 | Sainty Shipbuilding Yangzhou | 22,000,000 | GREEK |  |
-| KING LOONG | BC | 77430 | 2006 | Oshima Shipbuilding Co Ltd | 13,000,000 UNDISCLOSED |  |  |
+| KING LOONG | BC | 77430 | 2006 | Oshima Shipbuilding Co Ltd | 13,000,000 | UNDISCLOSED |  |
 | OCEAN TIANBAO | BC | 63455 | 2016 | China Shipping Ind Jiangsu | 27,500,000 | TURKISH |  |
-| IPSEA COLOSSUS | BC | 58818 | 2011 | Kawasaki HI - Kobe - curr | 21,000,000 UNDISCLOSED |  |  |
-| DESERT SPRING | BC | 57437 | 2012 | Hyundai Mipo Dockyard | 17,900,000 UNDISCLOSED |  |  |
-| VELA | BC | 53565 | 2007 | Nam Trieu | 10,000,000 UNDISCLOSED |  |  |
-| WOOYANG CLES | BC | 39202 | 2014 | Yangfan Group Co Ltd | 18,500,000 UNDISCLOSED |  |  |
-| IVS KESTREL | BC | 32768 | 2014 | Kanda Kawajiri | 17,000,000 UNDISCLOSED |  |  |
+| IPSEA COLOSSUS | BC | 58818 | 2011 | Kawasaki HI - Kobe - curr | 21,000,000 | UNDISCLOSED |  |
+| DESERT SPRING | BC | 57437 | 2012 | Hyundai Mipo Dockyard | 17,900,000 | UNDISCLOSED |  |
+| VELA | BC | 53565 | 2007 | Nam Trieu | 10,000,000 | UNDISCLOSED |  |
+| WOOYANG CLES | BC | 39202 | 2014 | Yangfan Group Co Ltd | 18,500,000 | UNDISCLOSED |  |
+| IVS KESTREL | BC | 32768 | 2014 | Kanda Kawajiri | 17,000,000 | UNDISCLOSED |  |
 | KALLISTA | TANKER | 317441 | 2010 | Hyundai Heavy Inds - Ulsan | 132,000,000 | CHINESE |  |
-| SEA LEOPARD | TANKER | 314000 | 2011 | Daewoo Shipbuilding | 135,000,000 UNDISCLOSED |  |  |
-| ASHOKA | TANKER | 302550 | 2010 | Universal Shbldg - Ariake | 130,000,000 UNDISCLOSED |  |  |
-| OLYMPIC FUTURE | TANKER | 155039 | 2004 | Namura Shipbuilding - Imari | 50,000,000 UNDISCLOSED |  |  |
-| OLYMPIC FLAG | TANKER | 154966 | 2004 | Namura Shipbuilding - Imari | 50,000,000 UNDISCLOSED |  |  |
-| GRAFF | TANKER | 150678 | 2001 | NKK Corp - Tsu | 45,000,000 UNDISCLOSED |  |  |
-| VIENNA WOOD | TANKER | 105304 | 2010 | Sumitomo Heavy Marine | 49,400,000 UNDISCLOSED |  |  |
-| KATHERINE LADY | TANKER | 49999 | 2022 | Hyundai Mipo Dockyard | 53,000,000 UNDISCLOSED |  |  |
-| ARDMORE ENDEAVOUR | TANKER | 49859 | 2013 | STX OFFSHORE & SHBLDG | 36,000,000 UNDISCLOSED |  |  |
+| SEA LEOPARD | TANKER | 314000 | 2011 | Daewoo Shipbuilding | 135,000,000 | UNDISCLOSED |  |
+| ASHOKA | TANKER | 302550 | 2010 | Universal Shbldg - Ariake | 130,000,000 | UNDISCLOSED |  |
+| OLYMPIC FUTURE | TANKER | 155039 | 2004 | Namura Shipbuilding - Imari | 50,000,000 | UNDISCLOSED |  |
+| OLYMPIC FLAG | TANKER | 154966 | 2004 | Namura Shipbuilding - Imari | 50,000,000 | UNDISCLOSED |  |
+| GRAFF | TANKER | 150678 | 2001 | NKK Corp - Tsu | 45,000,000 | UNDISCLOSED |  |
+| VIENNA WOOD | TANKER | 105304 | 2010 | Sumitomo Heavy Marine | 49,400,000 | UNDISCLOSED |  |
+| KATHERINE LADY | TANKER | 49999 | 2022 | Hyundai Mipo Dockyard | 53,000,000 | UNDISCLOSED |  |
+| ARDMORE ENDEAVOUR | TANKER | 49859 | 2013 | STX OFFSHORE & SHBLDG | 36,000,000 | UNDISCLOSED |  |
 | EF EMMA | CV | 24095 | 2008 | Aker Warnemuende | 22,000,000 | MSC | 1,698 TEU |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUN GOLD | BC | 45585 | 7596 | 1996 | Hashihama Shipbuilding | 485 |  |  |
-| MAESTRO 1 | BC | 23994 | 5142 | 1998 | Kanda Zosensho | 507 |  |  |
+| SUN GOLD | BC | 45585 | 7596 | 1996 | Hashihama Shipbuilding | 485 | BANGLADESH |  |
+| MAESTRO 1 | BC | 23994 | 5142 | 1998 | Kanda Zosensho | 507 | PAKISTAN |  |
 
 ## Newbuilding Market
 

@@ -28,6 +28,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W50_WK-50-24-CARRIERS_SP-
 | MAPLE BREEZE | BC | 31807 | 2010 | Guangzhou Huangpu | 11.00 | UNDISCLOSED |  |
 | TEAM SAMBA | BC | 31700 | 2005 | Saiki Heavy Industries Co Ltd | 9.30 | CHINESE |  |
 | EVAGORAS | TANKER | 165209 | 2003 | Hyundai Samho HI | 25.00 | UNDISCLOSED |  |
+| WINTER | TANKER | 13052 | 2009 | 21st Century Shipbuilding Co | 13.90 | VIETNAMESE |  |
 | GAS SHURIKEN | LPG | 5025 | 2008 | Kanrei Naruto | 10.80 | UAE |  |
 | SPARKLE | CV | 33541 | 2009 | Naikai Zosen Corp - Innoshima | 23.00 | MSC |  |
 | APOLLO STELLA | GC | 12300 | 2012 | Sasaki Shbldg - Osakikamijima | 7.20 | UNDISCLOSED |  |
@@ -36,8 +37,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W50_WK-50-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MEDELIN TANKER | 13,940 | 3852 |  | 1992 | SHIN 655 KURUSHIMA |  | AS INCL | IS BELAWAN ST. STEEL |
-| MSC AUGUSTA CV | 31,250 | 8800 |  | 1986 | Howaldtswerke 501 |  | INCL | BUNKERS |
+| MEDELIN MASTER | TANKER | 13940 | 3852 | 1992 | SHIN KURUSHIMA | 655 | UNDISCLOSED | AS IS BELAWAN INCL ST. STEEL |
+| MSC AUGUSTA | CV | 31250 | 8800 | 1986 | Howaldtswerke | 501 | INDIA | INCL BUNKERS |
 
 ## Newbuilding Market
 

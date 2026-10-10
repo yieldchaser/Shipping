@@ -19,6 +19,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W01_WK-0102-25-CARRIERS_S
 | PANORAMIX | BC | 203512 | 2007 | China Shipbuilding - Kaohsiung | 28.00 | CHINESE |  |
 | GLORY PROSPERITY | BC | 82535 | 2007 | Tsuneishi Holdings - Fukuyama | 11.00 | CHINESE |  |
 | PAN CLOVER | BC | 81177 | 2012 | New Century Shipbuilding Co | 16.30 | TURKISH |  |
+| PRABHU YUVIKA | BC | 76310 | 2004 | Sumitomo Heavy Marine | - | VIETNAMESE |  |
 | ARGOLIS | BC | 76263 | 2005 | Tsuneishi Corp - Tadotsu | 8.00 | CHINESE | SS/DD DUE 04/2025 |
 | ALPHA MELODY | BC | 74475 | 2002 | Daewoo Shipbuilding & Marine | 6.60 | UNDISCLOSED |  |
 | GOLDEN ORIENT | BC | 73326 | 1998 | Halla Eng & HI - Samho | 4.00 | UNDISCLOSED |  |
@@ -33,6 +34,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W01_WK-0102-25-CARRIERS_S
 | SUVRETTA | TANKER | 109250 | 2008 | STX Shipbuilding - Jinhae | 31.00 | CHINESE |  |
 | TORM HELVIG | TANKER | 46081 | 2005 | STX Shipbuilding - Jinhae | 18.00 | UNDISCLOSED |  |
 | SANJIN 3025 | TANKER | 13774 | 2020 | Samjin Shipbuilding Industries | 16.90 | SINGAPORE |  |
+| EASTERN PETUNIA | TANKER | 13499 | 2018 | Zhejiang Shenzhou | - | VIETNAMESE |  |
 | DH GLORY | TANKER | 13121 | 2020 | NANTONG TONGBAO SHIPBU | 25.30 | UNDISCLOSED | AUCTION SALE |
 | CUL QINGDAO | CV | 35220 | 2023 | Jiangsu Newyangzi | 43.00 | EUROPEAN | 2,433 TEU |
 
@@ -40,8 +42,8 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W01_WK-0102-25-CARRIERS_S
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ITAUGUA TANKER | 300,361 | 48100 |  | 1997 | Mitsubishi HI 447 |  |  |  |
-| ARK PROGRESS TANKER | 7,355 | 2635 |  | 1995 | Murakami 480 |  |  |  |
+| ITAUGUA | TANKER | 300361 | 48100 | 1997 | Mitsubishi HI | 447 | INDIA |  |
+| ARK PROGRESS | TANKER | 7355 | 2635 | 1995 | Murakami | 480 | BANGLADESH |  |
 
 ## Newbuilding Market
 

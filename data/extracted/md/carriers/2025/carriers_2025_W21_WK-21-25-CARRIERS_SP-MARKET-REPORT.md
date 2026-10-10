@@ -20,13 +20,14 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W21_WK-21-25-CARRIERS_SP-
 | BRILLIANT JUPITER | BC | 119480 | 2010 | Sanoyas Hishino Meisho Corp | 16.00 | UNDISCLOSED |  |
 | KEY ACTION | BC | 82168 | 2010 | Tsuneishi Zhoushan Shbldg | 15.10 | CHINESE | SS/DD DUE |
 | MEDI KAZAHAYA | BC | 81774 | 2017 | Tsuneishi Heavy Inds Cebu | 27.75 | BLUMENTHAL |  |
-| CL TIFFANY | BC | 81687 | 2013 | Yangfan Group Co Ltd |  |  |  |
+| CL TIFFANY | BC | 81687 | 2013 | Yangfan Group Co Ltd | 45.00 EN BLOC | UNDISCLOSED |  |
 | CL GRACE | BC | 81563 | 2012 | Yangfan Group Co Ltd | 45.00 EN BLOC | UNDISCLOSED |  |
 | CL MONA | BC | 81504 | 2013 | Yangfan Group Co Ltd | 45.00 EN BLOC | UNDISCLOSED |  |
 | JAWOR | BC | 79649 | 2010 | New Century Shipbuilding Co | HIGH 11.00 | UNDISCLOSED |  |
 | NORD MISSISSIPPI | BC | 60456 | 2015 | Mitsui Chiba Ichihara | 22.00 | GREEK |  |
 | SOLDOY | BC | 56830 | 2011 | Yangfan Group Co Ltd | 12.50 | UNDISCLOSED |  |
 | NZ HANGZHOU | BC | 56709 | 2012 | Qingshan Shipyard | 12.00 | HAITONG |  |
+| IVY ALLIANCE | BC | 55886 | 2011 | IHI Marine United - Yokohama | 15.60 | VIETNAMESE |  |
 | MAPLE TULIP | BC | 33158 | 2011 | Kanda Kawajiri | 11.80 | UNDISCLOSED |  |
 | SIENA | BC | 32744 | 2002 | Kanda Kawajiri | 5.80 | UNDISCLOSED |  |
 | RED CEDAR | BC | 30538 | 2001 | Xiamen Shipyard | 9.50 | UNDISCLOSED |  |
@@ -42,10 +43,10 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W21_WK-21-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HYUNDAI LNG | 77,583 | 33509 |  | 1999 | Hyundai HI 567 |  | AS | IS BATAM |
-| HYUNDAI LNG | 77,565 | 33529 |  | 1999 | Hyundai HI 567 |  | AS | IS KOREA |
-| HL RAS LAFFAN LNG | 75,079 | 23761 |  | 2000 | Hanjin HI 490 |  | AS | IS KOREA |
-| HL SUR LNG | 75,159 | 23761 |  | 2000 | Hanjin HI 490 |  | AS | IS KOREA |
+| HYUNDAI TECHNOPIA | LNG | 77583 | 33509 | 1999 | Hyundai HI | 567 | UNDISCLOSED | AS IS BATAM |
+| HYUNDAI AQUAPIA | LNG | 77565 | 33529 | 1999 | Hyundai HI | 567 | UNDISCLOSED | AS IS KOREA |
+| HL RAS LAFFAN | LNG | 75079 | 23761 | 2000 | Hanjin HI | 490 | UNDISCLOSED | AS IS KOREA |
+| HL SUR | LNG | 75159 | 23761 | 2000 | Hanjin HI | 490 | UNDISCLOSED | AS IS KOREA |
 
 ## Newbuilding Market
 

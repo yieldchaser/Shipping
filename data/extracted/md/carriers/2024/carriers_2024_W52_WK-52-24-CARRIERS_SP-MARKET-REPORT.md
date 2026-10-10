@@ -28,21 +28,21 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W52_WK-52-24-CARRIERS_SP-
 | CRUDE CENTURION | TANKER | 112863 | 2010 | New Times Shipyard | 33.50 | UNDISCLOSED | SS 05/2025 |
 | KYRA | TANKER | 47931 | 2006 | Iwagi Zosen | 17.20 | UNDISCLOSED |  |
 | VALLE DI GRANADA | TANKER | 40218 | 2005 | Hyundai Mipo | 13.35 | UNDISCLOSED | SS DUE 1/2025 |
-| MONAX | TANKER | 20762 | 2005 | Usuki Shipyard | 31.30 | TUFTON |  |
-| MARMOTAS | TANKER | 19953 | 2005 | Usuki Shipyard |  |  |  |
+| MONAX | TANKER | 20762 | 2005 | Usuki Shipyard | 31.30 (en bloc) | TUFTON |  |
+| MARMOTAS | TANKER | 19953 | 2005 | Usuki Shipyard | 31.30 (en bloc) | TUFTON |  |
 | SOFIA I | CV | 63059 | 2010 | Shanghai Jiangnan | 40.00 | EUROPEAN | 5,100 TEU incl TC till 5/2025 at 26,850 pd |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEW SMILE TANKER | 6,902 | 1969 |  | 1995 | Jurong 510 Shipyard |  |  |  |
+| NEW SMILE | TANKER | 6902 | 1969 | 1995 | Jurong Shipyard | 510 | BANGLADESH |  |
 
 ## Newbuilding Market
 
 | Type | Units | Size | Yard | Delivery | Price ($M) | Owners | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| LNG | 2+2 | 20,000 CBM | CSSC HUANGPU WENCHONG | onwards | 84.5 EACH | SINGFAR GROUP |  |
+| LNG | 2+2 | 20,000 CBM | CSSC HUANGPU WENCHONG | 8/2027 onwards | 84.5 EACH | SINGFAR GROUP |  |
 
 ## BSPA Secondhand Market Assessments (5 Years Old)
 

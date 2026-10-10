@@ -44,9 +44,9 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W12_WK-12-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| JAHAN TANKER | 43,648 | 8032 |  | 1994 | Tsuneishi |  |  |  |
-| MSC CV | 43,605 | 13305 |  | 1993 | Samsung HI 530 |  | RECYCLING | GREEN |
-| BOS LINA CV | 11,635 | 3287 |  | 1991 | Honda Zosen 505 |  |  |  |
+| JAHAN BROTEHRS | TANKER | 43648 | 8032 | 1994 | Tsuneishi | - | BANGLADESH |  |
+| MSC ROSSELLA | CV | 43605 | 13305 | 1993 | Samsung HI | 530 | INDIA | GREEN RECYCLING |
+| BOS LINA | CV | 11635 | 3287 | 1991 | Honda Zosen | 505 | INDIA |  |
 
 ## Newbuilding Market
 
@@ -100,7 +100,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W12_WK-12-24-CARRIERS_SP-
 | CAPE 180K | 33911 | -962 | 34873 |
 | TESS 82K | 20685 | 4724 | 15961 |
 | LME 74K | 19349 | 4724 | 14625 |
-| SUPRA 63K | 14717.0 | 619.0 | 14098.0 |
+| TESS 58K | 14717.0 | 619.0 | 14098.0 |
 | HANDY 38K | 14101 | 772 | 13329 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

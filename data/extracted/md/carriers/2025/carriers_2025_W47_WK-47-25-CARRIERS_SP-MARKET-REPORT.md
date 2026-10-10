@@ -20,6 +20,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W47_WK-47-25-CARRIERS_SP-
 | XIN TANG SHAN HAI 1 | BC | 81870 | 2013 | COSCO Dalian Shipyard Co Ltd | 15.36 | UNDISCLOSED | AUCTION SALE |
 | HAKO | BC | 63104 | 2014 | Yangzhou Dayang Shipbuilding | 21.75 | GERMAN |  |
 | GREAT VOYAGE | BC | 61088 | 2021 | DALIAN COSCO KHI SHIP | 30.85 | NIOVIS SHIPPING | AUCTION SALE |
+| SUPER SAKA | BC | 55596 | 2011 | Mitsui Tamano | 17.00 | VIETNAMESE |  |
 | VEGA STETIND | BC | 55496 | 2008 | Oshima Shipbuilding Co Ltd | 11.00 | CHINESE |  |
 | FEDERAL YELLOWSTONE | BC | 37153 | 2013 | Yangfan Group Co Ltd | 14.50 | UNDISCLOSED |  |
 | OCEANIC FORTUNE | TANKER | 320054 | 2010 | Hyundai Heavy Inds - Ulsan | 57.00 | CHINESE |  |

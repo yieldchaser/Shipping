@@ -23,6 +23,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W48_WK-48-24-CARRIERS_SP-
 | PISCES FIRST | BC | 93238 | 2010 | Jiangsu Newyangzi | HIGH 12'S | CHINESE |  |
 | AM CONTRECOEUR | BC | 82177 | 2011 | Tsuneishi Zhoushan Shbldg | 17.50 | UNDISCLOSED |  |
 | GREAT CENTURY | BC | 61441 | 2017 | DALIAN COSCO KHI SHIP | 24.52 | CHINESE | VIA AUCTION |
+| ELIKON | BC | 57300 | 2013 | STX Dalian Shipbuilding Co Ltd | 17.20 | VIETNAMESE |  |
+| MYSTRAS | BC | 57300 | 2013 | STX Dalian Shipbuilding Co Ltd | 17.20 | VIETNAMESE |  |
 | GUANG FA 29 | BC | 57280 | 2012 | STX OFFSHORE & SHBLDG | 15.50 | UNDISCLOSED |  |
 | ND ARMONIA | BC | 56121 | 2011 | Mitsui Chiba Ichihara | 17.95 | CHINESE |  |
 | AURORA SB | BC | 56119 | 2009 | Mitsui Chiba Ichihara | 15.00 | UNDISCLOSED |  |
@@ -34,8 +36,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W48_WK-48-24-CARRIERS_SP-
 | TRICIA II | TANKER | 281050 | 2000 | Mitsubishi Nagasaki | 20.90 | CHINESE |  |
 | UMNENGA II | TANKER | 162293 | 2006 | Daewoo Shipbuilding & Marine | 36.00 | NIGERIAN |  |
 | SOFIA II | TANKER | 105400 | 2008 | Sumitomo Heavy Marine Yokosuka | 32.20 | UNDISCLOSED |  |
-| ZHOUSHAN CHANGHONG | TANKER | 50000 | 2025 | ZHOUSHAN CHANGHONG INT | - | LAVINIA |  |
-| ZHOUSHAN CHANGHONG | TANKER | 50000 | 2026 | ZHOUSHAN CHANGHONG INT | - | LAVINIA |  |
+| ZHOUSHAN CHANGHONG CHB5003 | TANKER | 50000 | 2025 | ZHOUSHAN CHANGHONG INT | - | LAVINIA |  |
+| ZHOUSHAN CHANGHONG CHB5004 | TANKER | 50000 | 2026 | ZHOUSHAN CHANGHONG INT | - | LAVINIA |  |
 | BW CEDAR | VLGC | 58063 | 2007 | Hyundai Heavy Industries Co | - | UNDISCLOSED |  |
 | BF TIGER | CV | 39266 | 2006 | Hyundai Mipo Dockyard Co Ltd | 20.00 | MSC | 2824 TEU |
 

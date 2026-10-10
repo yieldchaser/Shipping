@@ -43,7 +43,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W43_WK-43-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| JIN HAI YU BC | 43,769 | 8764 |  | 1996 | Daewoo HI |  |  |  |
+| JIN HAI YU | BC | 43769 | 8764 | 1996 | Daewoo HI | - | CHINA |  |
 
 ## Newbuilding Market
 

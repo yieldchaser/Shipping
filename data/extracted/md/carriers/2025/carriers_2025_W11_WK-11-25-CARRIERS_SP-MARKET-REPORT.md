@@ -22,7 +22,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W11_WK-11-25-CARRIERS_SP-
 | MARAN SAILOR | BC | 171680 | 2006 | Daewoo Shipbuilding & Marine | 18.00 | LILA GLOBAL |  |
 | JULIA | BC | 88174 | 2005 | Imabari Shbldg - Marugame | 9.00 | UNDISCLOSED | Coal Carrier |
 | ENERGY HOPE | BC | 82122 | 2012 | TSUNEISHI SHBLDG - FKY | 17.00 | BRAVE MARITIME |  |
-| AM BUCHANAN | BC | 81795 | 2013 | New Times Shipbuilding Co Ltd |  |  |  |
+| AM BUCHANAN | BC | 81795 | 2013 | New Times Shipbuilding Co Ltd | 60.00 EN BLOC | UNDISCLOSED |  |
 | AM KRAKOW | BC | 81752 | 2013 | New Times Shipbuilding Co Ltd | 60.00 EN BLOC | UNDISCLOSED |  |
 | AM ZENICA | BC | 76089 | 2014 | Hudong-Zhonghua | 60.00 EN BLOC | UNDISCLOSED |  |
 | AM ANNABA | BC | 76079 | 2013 | Hudong-Zhonghua | 60.00 EN BLOC | UNDISCLOSED |  |
@@ -42,7 +42,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W11_WK-11-25-CARRIERS_SP-
 | PENTATHLON | TANKER | 158475 | 2009 | Samsung Heavy Inds - Geoje | 40.50 | GREEK |  |
 | SOUTHPORT | TANKER | 115462 | 2008 | STX Shipbuilding - Jinhae | 35.00 | CHINESE |  |
 | RAFFLES HARMONY | TANKER | 105405 | 2013 | Hyundai Heavy Inds - Ulsan | 41.90 | CHINESE |  |
-| CENTENNIAL | TANKER | 47165 | 2008 | Onomichi Dockyard Co Ltd | 16.50 | UNDISCLOSED |  |
+| CENTENNIAL MATSUYAMA | TANKER | 47165 | 2008 | Onomichi Dockyard Co Ltd | 16.50 | UNDISCLOSED |  |
 | ECO FLEET | TANKER | 39208 | 2015 | Hyundai-Vinashin Shipyard Co | 29.00 | MONTANARI |  |
 | YASH | TANKER | 37320 | 2002 | STX Shipbuilding - Jinhae | 8.20 | UNDISCLOSED |  |
 | TTC VISHAKA | TANKER | 18041 | 2012 | ZHEJIANG HANGCHANG SHB | 13.10 | UNDISCLOSED |  |
@@ -53,8 +53,8 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W11_WK-11-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| RUN FU 6 BC | 28,294 | 6297 |  | 1995 | Nippon Kokan 435 |  |  |  |
-| TRADER III LNG | 75,849 | 29101 |  | 2002 | Mitsubishi HI 496 |  |  |  |
+| RUN FU 6 | BC | 28294 | 6297 | 1995 | Nippon Kokan | 435 | UNDISCLOSED |  |
+| TRADER III | LNG | 75849 | 29101 | 2002 | Mitsubishi HI | 496 | BANGLADESH |  |
 
 ## Newbuilding Market
 

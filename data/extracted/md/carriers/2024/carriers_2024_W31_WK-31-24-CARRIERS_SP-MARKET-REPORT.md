@@ -24,6 +24,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W31_WK-31-24-CARRIERS_SP-
 | SWANSEA | BC | 63310 | 2015 | Yangzhou Dayang Shipbuilding | 25.50 | CASTOR MARITIME |  |
 | XING XI HAI | BC | 60498 | 2017 | Mitsui Chiba Ichihara | 32.50 | GREEK |  |
 | SOCRATIS | BC | 58609 | 2010 | SPP Plant & Shipbuilding Co | - | UNDISCLOSED |  |
+| OLYMPUS | BC | 57374 | 2013 | STX Dalian Shipbuilding Co Ltd | 17.00 | VIETNAMESE |  |
+| H JUNO | BC | 57353 | 2011 | STX Dalian Shipbuilding Co Ltd | 14.00 | VIETNAMESE |  |
 | HEILAN CRUISER | BC | 56922 | 2012 | Shanghai Shipyard Co Ltd | 14.20 | CHINESE |  |
 | MARINOR | BC | 56784 | 2009 | Jiangsu Hantong Ship HI | 13.00 | GREEK |  |
 | IONIC STORM | BC | 56032 | 2005 | Mitsui Chiba Ichihara | 13.30 | GREEK |  |
@@ -49,13 +51,13 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W31_WK-31-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DIAA GC | 5,788 | 1536 |  | 1977 | IMAMURA 330 |  |  |  |
+| DIAA | GC | 5788 | 1536 | 1977 | IMAMURA | 330 | TURKEY |  |
 
 ## Newbuilding Market
 
 | Type | Units | Size | Yard | Delivery | Price ($M) | Owners | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| TANKER | 10 | 115,000 DWT | DALIAN SHIPBUILDING | 2028/29 | LOW 70’S | CIDO SHIPPING |  |
+| TANKER | 10 | 115,000 DWT | DALIAN SHIPBUILDING | 2028/29 | LOW 70’S EACH | CIDO SHIPPING |  |
 
 ## BSPA Secondhand Market Assessments (5 Years Old)
 
@@ -102,7 +104,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W31_WK-31-24-CARRIERS_SP-
 | CAPE 180K | 21411 | -3110 | 24521 |
 | TESS 82K | 16132 | 727 | 15405 |
 | LME 74K | 14796 | 727 | 14069 |
-| SUPRA 63K | 15216.0 | 100.0 | 15116.0 |
+| TESS 58K | 15216.0 | 100.0 | 15116.0 |
 | HANDY 38K | 13670 | 58 | 13612 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

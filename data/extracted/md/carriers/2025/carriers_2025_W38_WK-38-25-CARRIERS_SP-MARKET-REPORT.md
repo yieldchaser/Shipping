@@ -64,7 +64,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W38_WK-38-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ASIAN BC | 42,529 | 8016 |  | 1995 | Namura 425 Shipbuilding |  |  |  |
+| ASIAN ENTERPRISE | BC | 42529 | 8016 | 1995 | Namura Shipbuilding | 425 | BANGLADESH |  |
 
 ## Newbuilding Market
 

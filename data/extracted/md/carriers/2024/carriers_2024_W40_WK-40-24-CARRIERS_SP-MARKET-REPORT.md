@@ -23,7 +23,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W40_WK-40-24-CARRIERS_SP-
 | TOMINI NOBILITY | BC | 81093 | 2020 | Taizhou Kouan Shipbuilding Co | 30.00 | UNDISCLOSED |  |
 | LOWLANDS AMSTEL | BC | 61177 | 2015 | Iwagi Zosen Co Ltd | 26.40 | FAR EASTERN |  |
 | LOUISIANA MAMA | BC | 58097 | 2012 | Tsuneishi Zhoushan Shbldg | 19.00 | UNDISCLOSED |  |
-| ZEN-NOH GRAIN | BC | 54958 | 2010 | Oshima Shipbuilding Co Ltd | 15.00 | UNDISCLOSED |  |
+| KIBALI | BC | 57260 | 2011 | STX OFFSHORE & SHBLDG | 16.70 | VIETNAMESE |  |
+| ZEN-NOH GRAIN PEGASUS | BC | 54958 | 2010 | Oshima Shipbuilding Co Ltd | 15.00 | UNDISCLOSED |  |
 | A WISDOM | BC | 53503 | 2007 | Iwagi Zosen Co Ltd | 13.00 | GREEK |  |
 | ULTRA TRONADOR | BC | 32874 | 2000 | Kanda Kawajiri | 5.00 | UNDISCLOSED |  |
 | LAMBADA | TANKER | 104866 | 2006 | Samsung Heavy Inds - Geoje | 30.00 | UNDISCLOSED |  |
@@ -35,14 +36,14 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W40_WK-40-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MY MERAY BC | 39,110 | 6978 |  | 1992 | Ishikawajima 480 |  |  |  |
-| ANDULUS 1 BC | 28,399 | 6046 |  | 1995 | Imabari 468 |  |  |  |
+| MY MERAY | BC | 39110 | 6978 | 1992 | Ishikawajima | 480 | INDIA |  |
+| ANDULUS 1 | BC | 28399 | 6046 | 1995 | Imabari | 468 | INDIA |  |
 
 ## Newbuilding Market
 
 | Type | Units | Size | Yard | Delivery | Price ($M) | Owners | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| CARRIER | 2 | 63,000 DWT | JIANGSU HANTONG | 2026 | 33/34 | TA-HO MARITIME |  |
+| CEMENT CARRIER | 2 | 63,000 DWT | JIANGSU HANTONG | 2026 | 33/34 | TA-HO MARITIME |  |
 | VLCC | 2 | 306,000 DWT | HENGLI HI | 2026 | 127 EACH | EVALEND | RESALES |
 | CV | 10 | 1,100 TEU | HYUNDAI MIPO | 2027 | 50.4 EACH | CLDN |  |
 

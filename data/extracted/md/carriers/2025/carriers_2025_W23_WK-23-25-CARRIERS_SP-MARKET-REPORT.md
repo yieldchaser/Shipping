@@ -16,7 +16,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W23_WK-23-25-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ASL VENUS | BC | 82153 | 2011 | Tsuneishi Zhoushan Shbldg | 14.40 | GREEK SEPT/DEC | DELY |
+| ASL VENUS | BC | 82153 | 2011 | Tsuneishi Zhoushan Shbldg | 14.40 | GREEK | SEPT/DEC DELY |
 | AOM SOPHIE II | BC | 81816 | 2020 | Sanoyas Shipbuilding Corp | 31.50 | NG MOUNDREAS |  |
 | SDTR DORA | BC | 81780 | 2019 | Jiangsu Jinling Ships Co Ltd | 24.80 | GREEK |  |
 | SAGAR SHAKTI | BC | 58097 | 2012 | Tsuneishi Zhoushan Shbldg | 13.80 | CHINESE |  |
@@ -35,7 +35,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W23_WK-23-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BERGE FUJI VLOO | 268,025 | 40658 |  | 1996 | Hitachi Zosen 440 |  |  |  |
+| BERGE FUJI | VLOO | 268025 | 40658 | 1996 | Hitachi Zosen | 440 | SUBCONT |  |
 
 ## Newbuilding Market
 

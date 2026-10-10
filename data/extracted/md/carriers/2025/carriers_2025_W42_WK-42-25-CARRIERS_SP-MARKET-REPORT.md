@@ -29,6 +29,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W42_WK-42-25-CARRIERS_SP-
 | DOGAN | BC | 38691 | 2013 | SPP Shipbuilding - Tongyeong | 14.80 | UNDISCLOSED |  |
 | LA BAMBA | BC | 37155 | 2012 | Saiki Heavy Industries Co Ltd | 15.50 | UNDISCLOSED |  |
 | OCEAN TACT | BC | 36197 | 2019 | Shikoku Dockyard | 24.00 | UNDISCLOSED |  |
+| DANSHIP BULKER | BC | 28291 | 2009 | I-S Shipyard Co Ltd | 8.80 | VIETNAMESE |  |
 | SINGAPORE LOYALTY | TANKER | 307284 | 2007 | Dalian Shipbuilding Ind - No 2 | 47.00 | UNDISCLOSED |  |
 | SAIQ | TANKER | 299999 | 2011 | Universal Shbldg - Ariake | 57.00 | UNDISCLOSED |  |
 | NAVE CONSTELLATION | TANKER | 296988 | 2010 | Dalian Shipbuilding Ind - No 2 | 52.50 | UNDISCLOSED |  |
@@ -44,8 +45,8 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W42_WK-42-25-CARRIERS_SP-
 | PETITE SOEUR | TANKER | 50420 | 2011 | Guangzhou Shipyard Intl Co Ltd | 19.00 | INDIAN |  |
 | PTI HUDSON | TANKER | 49999 | 2016 | SPP SHIPBUILDING - SAC | 33.00 | UNDISCLOSED |  |
 | PTI NILE | TANKER | 49999 | 2016 | SPP SHIPBUILDING - SAC | 33.00 | UNDISCLOSED |  |
-| STAVANGER POSEIDON | TANKER | 49999 | 2020 | Hyundai Vietnam SB | 44.15 | PAKISTAN NATIONAL SHIP. |  |
-| SAN SEBASTIAN | TANKER | 37258 | 2007 | Hyundai Mipo Dockyard Co Ltd | 13.50 | CORP. UNDISCLOSED |  |
+| STAVANGER POSEIDON | TANKER | 49999 | 2020 | Hyundai Vietnam SB | 44.15 | PAKISTAN NATIONAL SHIP. CORP. |  |
+| SAN SEBASTIAN | TANKER | 37258 | 2007 | Hyundai Mipo Dockyard Co Ltd | 13.50 | UNDISCLOSED |  |
 | MASIRAH | TANKER | 12885 | 2007 | Samho Shipbuilding Co Ltd | 8.70 | UNDISCLOSED |  |
 | ENERGY FRONTIER | LNG | 80686 | 2003 | Kawasaki Shipbuilding | 25.00 | INDONESIAN |  |
 | OKEE CUNO | CV | 23710 | 2008 | Guangzhou Wenchong | 21.00 | UNDISCLOSED |  |
@@ -54,7 +55,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W42_WK-42-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AL SAMA BC | 73,762 | 9484 |  | 1997 | SUMITOMO 435 |  |  |  |
+| AL SAMA | BC | 73762 | 9484 | 1997 | SUMITOMO | 435 | PAKISTAN |  |
 
 ## Newbuilding Market
 

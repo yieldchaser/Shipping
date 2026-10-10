@@ -48,7 +48,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W44_WK-4445-24-CARRIERS_S
 | JAG PADMA | TANKER | 47999 | 2005 | Iwagi Zosen Co Ltd | - | UNDISCLOSED |  |
 | NINA | TANKER | 40401 | 2010 | Constanta | 24.00 | ANCORA |  |
 | GOLDEN OAK | TANKER | 13168 | 2008 | Jinse Shipbuilding Co Ltd | 10.50 | UNDISCLOSED |  |
-| NAVIGATOR PEGASUS | GAS | 23640 | 2009 | Jiangnan Shipyard Group Co | 32.00 | UNDISCLOSED |  |
+| NAVIGATOR PEGASUS | GAS TANKER | 23640 | 2009 | Jiangnan Shipyard Group Co | 32.00 | UNDISCLOSED |  |
 | HANSA HARBURG | CV | 23350 | 2008 | Guangzhou Wenchong | - | MSC | 1740 TEU |
 | ASIAN MOON | CV | 13670 | 2006 | Jiangdong Shipyard | 8.50 | GREEK | 1,118 TEU |
 
@@ -56,7 +56,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W44_WK-4445-24-CARRIERS_S
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VENIA BC | 171,448 | 23118 |  | 2001 | Hyundai HI |  |  |  |
+| VENIA | BC | 171448 | 23118 | 2001 | Hyundai HI | - | PAKSITAN |  |
 
 ## Newbuilding Market
 

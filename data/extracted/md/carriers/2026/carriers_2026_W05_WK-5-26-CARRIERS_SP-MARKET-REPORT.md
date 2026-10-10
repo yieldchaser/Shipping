@@ -47,8 +47,9 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W05_WK-5-26-CARRIERS_SP-M
 | LYSIAS | TANKER | 49999 | 2008 | STX Shipbuilding - Jinhae | 16.50 | UNDISCLOSED |  |
 | SEAWAYS GRACE | TANKER | 49999 | 2008 | Hyundai Mipo Dockyard Co Ltd | 16.00 | UNDISCLOSED |  |
 | SEAWAYS MADELEINE | TANKER | 49999 | 2008 | Hyundai Mipo Dockyard Co Ltd | 16.00 | UNDISCLOSED |  |
-| LIANYUNGANG WUZHOU | TANKER | 49900 | 2026 | Lianyungang Wuzhou Shbldg | 45.00 | ASYAD SHIPPING |  |
+| LIANYUNGANG WUZHOU WZ465 | TANKER | 49900 | 2026 | Lianyungang Wuzhou Shbldg | 45.00 | ASYAD SHIPPING |  |
 | H CYGNUS | CV | 24480 | 2022 | JIANGSU YANGZI XINFU S | 34.00 | MINERVA MARINE | 1,781 TEU |
+| NOBILITY | CV | 12754 | 2012 | Dae Sun Shipbuilding & Eng | 16.00 | VIETNAMESE | 1,012 TEU |
 
 ## Demolition Market
 

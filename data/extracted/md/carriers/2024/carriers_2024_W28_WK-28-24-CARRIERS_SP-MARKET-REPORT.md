@@ -22,6 +22,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W28_WK-28-24-CARRIERS_SP-
 | NAVIOS TAURUS | BC | 76596 | 2005 | Imabari Shbldg - Marugame | 12.00 | UNDISCLOSED |  |
 | ELEFSIS | BC | 72873 | 1997 | China Shipbuilding - Keelung | 6.60 | UNDISCLOSED |  |
 | PEACEFUL SEAS | BC | 63331 | 2014 | Yangzhou Dayang Shipbuilding | 24.00 | UNDISCLOSED | SS/DD PASSED |
+| ORACLE | BC | 58018 | 2009 | Yangzhou Dayang Shipbuilding | 12.50 | VIETNAMESE |  |
 | UM ELHANAYA | BC | 56726 | 2010 | Qingshan Shipyard | 12.00 | UNDISCLOSED |  |
 | SOLAR | BC | 46786 | 2000 | Kanasashi HI - Toyohashi | 7.40 | UNDISCLOSED |  |
 | MAESTRO EMERALD | BC | 39830 | 2020 | Saiki Heavy Industries Co Ltd | 30.00 | DEVAL DENIZCILIK |  |
@@ -103,7 +104,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W28_WK-28-24-CARRIERS_SP-
 | CAPE 180K | 27171 | -4267 | 31438 |
 | TESS 82K | 13779 | -1176 | 14955 |
 | LME 74K | 12443 | -1176 | 13619 |
-| SUPRA 63K | 14669.0 | -395.0 | 15064.0 |
+| TESS 58K | 14669.0 | -395.0 | 15064.0 |
 | HANDY 38K | 13299 | -419 | 13718 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

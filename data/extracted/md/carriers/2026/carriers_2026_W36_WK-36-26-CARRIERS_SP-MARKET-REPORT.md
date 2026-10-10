@@ -16,31 +16,32 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W36_WK-36-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ERATO | BC | 180120 | 2010 | Imabari Shbldg - Saijo | 38,000,000 UNDISCLOSED |  |  |
-| NBA PEACE | BC | 174766 | 2004 | Shanghai Waigaoqiao Shbldg | 19,000,000 UNDISCLOSED |  |  |
+| ERATO | BC | 180120 | 2010 | Imabari Shbldg - Saijo | 38,000,000 | UNDISCLOSED |  |
+| NBA PEACE | BC | 174766 | 2004 | Shanghai Waigaoqiao Shbldg | 19,000,000 | UNDISCLOSED |  |
 | KM MT. JADE | BC | 81487 | 2008 | Universal Shbldg - Maizuru | 16,000,000 | CHINESE |  |
-| IVS DUNES | BC | 62661 | 2020 | Oshima Shipbuilding Co Ltd | 36,800,000 | CHINESE INCL Q1/Q2 | T/C UNTIL 2027 |
-| STENIA COLOSSUS | BC | 58731 | 2011 | Kawasaki HI - Sakaide - curr | 21,000,000 UNDISCLOSED |  |  |
-| CBW LIAN YUN GANG | BC | 56869 | 2011 | Xiamen Shipbuilding Industry | 10,500,000 UNDISCLOSED |  |  |
+| IVS DUNES | BC | 62661 | 2020 | Oshima Shipbuilding Co Ltd | 36,800,000 | CHINESE | INCL T/C UNTIL Q1/Q2 2027 |
+| STENIA COLOSSUS | BC | 58731 | 2011 | Kawasaki HI - Sakaide - curr | 21,000,000 | UNDISCLOSED |  |
+| CBW LIAN YUN GANG | BC | 56869 | 2011 | Xiamen Shipbuilding Industry | 10,500,000 | UNDISCLOSED |  |
 | COLUMBIA RIVER | BC | 55922 | 2006 | Mitsui Tamano | 13,000,000 | CHINESE |  |
 | OBE LOTUS | BC | 55884 | 2014 | Mitsui Chiba Ichihara | 23,200,000 | GREEK |  |
-| IVS TEMBE | BC | 37735 | 2016 | Kanda Kawajiri | 17,400,000 UNDISCLOSED |  |  |
-| ANGELIC ANNA | BC | 37187 | 2012 | Saiki Heavy Industries Co Ltd | 15,000,000 UNDISCLOSED |  |  |
-| BIANCA | BC | 33773 | 2013 | Samjin Shipbuilding | 13,500,000 UNDISCLOSED |  |  |
-| MINERVA NOUNOU | TANKER | 114850 | 2006 | Daewoo Shipbuilding | 40,500,000 | CHINESE SS/DD | DUE |
-| SAI | TANKER | 105200 | 2004 | Samsung Heavy Inds - Geoje | 27,300,000 UNDISCLOSED |  |  |
-| VOULA | TANKER | 73774 | 2009 | New Times Shipbuilding Co | 22,000,000 UNDISCLOSED |  |  |
-| CABO SAN VICENTE | TANKER | 63605 | 2008 | STX Shipbuilding Co Ltd - Changwon (Jinhae Shipyard) | 2,000,000 CHARTWORLD |  |  |
+| IVS TEMBE | BC | 37735 | 2016 | Kanda Kawajiri | 17,400,000 | UNDISCLOSED |  |
+| ANGELIC ANNA | BC | 37187 | 2012 | Saiki Heavy Industries Co Ltd | 15,000,000 | UNDISCLOSED |  |
+| BIANCA | BC | 33773 | 2013 | Samjin Shipbuilding | 13,500,000 | UNDISCLOSED |  |
+| MINERVA NOUNOU | TANKER | 114850 | 2006 | Daewoo Shipbuilding | 40,500,000 | CHINESE | SS/DD DUE |
+| SAI | TANKER | 105200 | 2004 | Samsung Heavy Inds - Geoje | 27,300,000 | UNDISCLOSED |  |
+| VOULA | TANKER | 73774 | 2009 | New Times Shipbuilding Co | 22,000,000 | UNDISCLOSED |  |
+| CABO SAN VICENTE | TANKER | 63605 | 2008 | STX Shipbuilding Co Ltd - Changwon (Jinhae Shipyard) | 2,000,000 | CHARTWORLD |  |
 | LVM AARON | TANKER | 50927 | 2014 | Dae Sun Shipbuilding & Eng | 35,500,000 | BESIKTAS |  |
-| GRAN COUVA | TANKER | 47128 | 2008 | Hyundai Mipo Dockyard Co | 19,200,000 UNDISCLOSED |  |  |
+| GRAN COUVA | TANKER | 47128 | 2008 | Hyundai Mipo Dockyard Co | 19,200,000 | UNDISCLOSED |  |
 | LADY OF DORIA | TANKER | 46846 | 2006 | Naikai Zosen Corp - Setoda | 14,800,000 | FAR EAST |  |
-| VULCANELLO M | TANKER | 11288 | 2006 | STX Shipbuilding - Busan | 7,500,000 UNDISCLOSED | SS/DD | PASSED |
+| KTS BROWN | TANKER | 13071 | 2008 | 21st Century Shipbuilding Co | 10,000,000 | VIETNAMESE |  |
+| VULCANELLO M | TANKER | 11288 | 2006 | STX Shipbuilding - Busan | 7,500,000 | UNDISCLOSED | SS/DD PASSED |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MANDARIN | BC | 55770 | 10787 | 1996 | Dalian | 512 | INDIA |  |
+| MANDARIN ARROW | BC | 55770 | 10787 | 1996 | Dalian | 512 | INDIA |  |
 
 ## Newbuilding Market
 

@@ -17,8 +17,8 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W22_WK-22-4-26-CARRIERS_S
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | KERKIS | BC | 176862 | 2007 | Namura Shipbuilding - Imari | 25.50 | CHINESE |  |
-| OCEAN ARTEMIS | BC | 93103 | 2011 | Jiangsu Jinling Ships Co Ltd | 15.00 | UNDISCLOSED SS/DD | PASSED |
-| NEW HARMONY 8 | BC | 82790 | 2006 | Tsuneishi Corp - Tadotsu | 12.90 | UNDISCLOSED SS | DUE 8/2026 |
+| OCEAN ARTEMIS | BC | 93103 | 2011 | Jiangsu Jinling Ships Co Ltd | 15.00 | UNDISCLOSED | SS/DD PASSED |
+| NEW HARMONY 8 | BC | 82790 | 2006 | Tsuneishi Corp - Tadotsu | 12.90 | UNDISCLOSED | SS DUE 8/2026 |
 | VULCANIA | BC | 82036 | 2015 | Jiangsu Newyangzi | 26.00 | GREEK |  |
 | PROTEAS | BC | 76454 | 2005 | Tsuneishi Corp - Tadotsu | 12.00 | CHINESE |  |
 | AFRICAN TERN | BC | 58342 | 2013 | DALIAN COSCO KHI SHIP | 19.00 | UNDISCLOSED |  |
@@ -34,8 +34,8 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W22_WK-22-4-26-CARRIERS_S
 | SAFI FORTUNE | BC | 28467 | 2009 | Imabari Shbldg - Imabari | 9.90 | TURKISH |  |
 | BEETLE | BC | 28198 | 2012 | Imabari Shbldg - Imabari | 12.60 | UNDISCLOSED |  |
 | SUCCESS FORTUNE XL | TANKER | 298555 | 2003 | Daewoo Shipbuilding & Marine | - | UNDISCLOSED |  |
-| BRUGGE | TANKER | 157138 | 2023 | Hyundai Samho HI | 110.00 |  |  |
-| BREST | TANKER | 157071 | 2023 | Hyundai Samho HI | each | UNDISCLOSED |  |
+| BRUGGE | TANKER | 157138 | 2023 | Hyundai Samho HI | 110.00 each | UNDISCLOSED |  |
+| BREST | TANKER | 157071 | 2023 | Hyundai Samho HI | 110.00 each | UNDISCLOSED |  |
 | SEAMUSIC | TANKER | 112922 | 2009 | New Times Shipbuilding Co | 53.10 | UNDISCLOSED |  |
 | SAMOS | TANKER | 104649 | 2010 | Sumitomo Heavy Marine | 44.50 | UNDISCLOSED | FWD DELY |
 | SANDPIPER PACIFIC | TANKER | 51833 | 2013 | Sungdong Shipbuilding & Eng | 32.00 | UNDISCLOSED |  |

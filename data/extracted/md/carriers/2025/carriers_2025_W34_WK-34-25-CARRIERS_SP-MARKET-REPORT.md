@@ -42,7 +42,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W34_WK-34-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SALOME I TANKER | 30,553 | 6939 |  | 1996 | Shin 440 Kurushima |  | AS | IS SPORE |
+| SALOME I | TANKER | 30553 | 6939 | 1996 | Shin Kurushima | 440 | UNDISCLOSED | AS IS SPORE |
 
 ## Newbuilding Market
 

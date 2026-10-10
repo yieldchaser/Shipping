@@ -30,12 +30,13 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W22_WK-22-25-CARRIERS_SP-
 | UBC TOKYO | BC | 37865 | 2005 | Saiki Heavy Industries Co Ltd | 8.10 | UNDISCLOSED | OPEN HATCH |
 | ID PIONEER | BC | 35534 | 2012 | Taizhou Maple Leaf Shbldg | 10.10 | CHINESE |  |
 | VEGA DABLAM | BC | 35112 | 2011 | Zhejiang Yueqing Changhong | 8.50 | UNDISCLOSED |  |
+| ARKI | BC | 30270 | 2011 | Shikoku Dockyard | 10.00 | VIETNAMESE |  |
 | PS CAPRI | TANKER | 50895 | 2011 | STX OFFSHORE & SHBLDG | 18.10 | GREEK |  |
 | CLEAROCEAN MARIA | TANKER | 49999 | 2014 | SPP SHIPBUILDING - GOS | 30.00 | UNDISCLOSED |  |
 | CLEAROCEAN MARY | TANKER | 49999 | 2014 | SPP SHIPBUILDING - GOS | 30.00 | UNDISCLOSED |  |
 | STI REGINA | TANKER | 49990 | 2014 | SPP SHIPBUILDING - SAC | 31.00 | GREAT EASTERN |  |
-| NORD JOY | TANKER | 49874 | 2018 | JAPAN MARINE UTD - MAI |  | PARAGON |  |
-| NORD JEWEL | TANKER | 49857 | 2018 | JAPAN MARINE UTD - MAI | 37.00 EACH | MOBILITY |  |
+| NORD JOY | TANKER | 49874 | 2018 | JAPAN MARINE UTD - MAI | 37.00 EACH | PARAGON MOBILITY |  |
+| NORD JEWEL | TANKER | 49857 | 2018 | JAPAN MARINE UTD - MAI | 37.00 EACH | PARAGON MOBILITY |  |
 | CL FUGOU | TANKER | 49709 | 2017 | Sungdong Shipbuilding & Eng | 30.80 | UNDISCLOSED |  |
 | CL HUAIYANG | TANKER | 49688 | 2017 | Sungdong Shipbuilding & Eng | 30.80 | UNDISCLOSED |  |
 | DING HENG 2 | TANKER | 4199 | 2007 | Zhoushan Dingheng Shipbuilding | 4.00 | MIDDLE EASTERN | ZINC COATED |
@@ -48,7 +49,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W22_WK-22-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ABRAHAM M BC | 34,167 | 5600 |  | 1996 | Jiangnan 439 |  |  |  |
+| ABRAHAM M | BC | 34167 | 5600 | 1996 | Jiangnan | 439 | BANGLADESH |  |
 
 ## Newbuilding Market
 

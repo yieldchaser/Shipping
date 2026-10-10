@@ -39,7 +39,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W39_WK-39-24-CARRIERS_SP-
 | SONGA PEACE | TANKER | 19992 | 2009 | Usuki Shipyard Co Ltd | 23.80 | HEUNG-A SHIPPING |  |
 | HORIN TRADER | TANKER | 19855 | 2015 | Usuki Shipyard Co Ltd | 32.00 | KOREAN |  |
 | MANIFESTO | VLGC | 54901 | 2013 | Hyundai Heavy Inds - Ulsan | 71.50 | SIAM GAS |  |
-| BASHUNDHARA LPG | VLGC | 49999 | 2005 | Mitsubishi Nagasaki | 60.00 | MIDDLE EASTERN |  |
+| BASHUNDHARA LPG WARRIOR | VLGC | 49999 | 2005 | Mitsubishi Nagasaki | 60.00 | MIDDLE EASTERN |  |
 | SPIRIT OF HONG KONG | CV | 51693 | 2010 | Hyundai Samho HI | 30.00 | UNDISCLOSED | 4,255 TEU |
 | MANILA VOYAGER | CV | 28352 | 1997 | Daewoo Heavy Industries Ltd | 8.00 | CHINESE | 2,113 TEU DD DUE |
 
@@ -47,7 +47,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W39_WK-39-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| OMAR TRADER MPP | 6,358 | 1800 |  | 1990 | DEL 310 ATLANTICO |  |  |  |
+| OMAR TRADER | MPP | 6358 | 1800 | 1990 | ASTILLEROS DEL ATLANTICO | 310 | TURKEY |  |
 
 ## Newbuilding Market
 

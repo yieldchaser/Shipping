@@ -16,8 +16,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W43_WK-43-24-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| K. DAPHNE | BC | 180786 | 2009 | STX OFFSHORE & SHBLDG | 53.00 EN BLOC | JIANGSU | SS DUE |
-| LAVENDER | BC | 179873 | 2010 | Daewoo Shipbuilding & Marine | 53.00 EN BLOC | STEAMSHIP | SS DUE 08/2025 |
+| K. DAPHNE | BC | 180786 | 2009 | STX OFFSHORE & SHBLDG | 53.00 EN BLOC | JIANGSU STEAMSHIP | SS DUE |
+| LAVENDER | BC | 179873 | 2010 | Daewoo Shipbuilding & Marine | 53.00 EN BLOC | JIANGSU STEAMSHIP | SS DUE 08/2025 |
 | SPRING BRIGHT | BC | 174757 | 2010 | Namura Shipbuilding - Imari | 29.00 | UNDISCLOSED |  |
 | NOVA OPTIMUS | BC | 81805 | 2012 | Jiangsu Eastern HI | LOW 16’S | CHINESE |  |
 | TOMINI NOBILITY | BC | 81093 | 2020 | Taizhou Kouan Shipbuilding Co | 30.00 | UNDISCLOSED |  |
@@ -36,14 +36,15 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W43_WK-43-24-CARRIERS_SP-
 | JAL SIDDHI | TANKER | 19805 | 2006 | Kitanihon | 20.10 | CHINESE |  |
 | MANIFESTO | VLGC | 54901 | 2013 | Hyundai Heavy Inds - Ulsan | 71.50 | THAI |  |
 | CLIPPER STAR | MLGC | 44807 | 2003 | Kawasaki Shipbuilding - Sak'de | 32.00 | UNDISCLOSED |  |
+| PNX CONQUEROR | LPG | 5202 | 2010 | Nakatani | 11.80 | VIETNAMESE |  |
 | CAPE FARO | CV | 20316 | 2006 | Peene-Werft GmbH | 14.50 | CHINA UNITED LINES | 1,440 TEU |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NING HUA BC | 62,858 | 9713 |  | 1996 | Hashihama 433 |  | AS | IS S. CHINA |
-| PRINCESS BC | 70,189 | 9214 |  | 1996 | Sumitomo 435 |  | AS | IS S. CHINA |
+| NING HUA | BC | 62858 | 9713 | 1996 | Hashihama | 433 | UNDISCLOSED | AS IS S. CHINA |
+| PRINCESS LOTUS | BC | 70189 | 9214 | 1996 | Sumitomo | 435 | UNDISCLOSED | AS IS S. CHINA |
 
 ## Newbuilding Market
 

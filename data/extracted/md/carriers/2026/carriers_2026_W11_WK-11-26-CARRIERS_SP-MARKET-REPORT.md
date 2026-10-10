@@ -44,8 +44,8 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W11_WK-11-26-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| JIN JIANG | BC | 172549 | 21238 | 2000 | Nippon Kokan | 433 | INCL. | AS IS CHINA BUNKERS |
-| ENERGIA | BC | 105752 | 19585 | 2001 | Imabari Shipbuilding | 418 | INCL. | AS IS JAPAN BUNKERS |
+| JIN JIANG | BC | 172549 | 21238 | 2000 | Nippon Kokan | 433 | UNDISCLOSED | AS IS CHINA INCL. BUNKERS |
+| ENERGIA CENTAURUS | BC | 105752 | 19585 | 2001 | Imabari Shipbuilding | 418 | UNDISCLOSED | AS IS JAPAN INCL. BUNKERS |
 
 ## Newbuilding Market
 

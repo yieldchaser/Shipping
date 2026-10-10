@@ -41,7 +41,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W26_WK-26-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CONTRACT II TANKER | 46,267 | 9456 |  | 1996 | Uljanik |  |  |  |
+| CONTRACT II | TANKER | 46267 | 9456 | 1996 | Uljanik | - | INDIA |  |
 
 ## Newbuilding Market
 

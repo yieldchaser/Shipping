@@ -31,11 +31,11 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W13_WK-13-24-CARRIERS_SP-
 | NECTAR | TANKER | 307284 | 2008 | Dalian Shipbuilding Ind - No 2 | 49.70 | ASIAN |  |
 | NEWTON | TANKER | 307284 | 2009 | Dalian Shipbuilding Ind - No 2 | 53.50 | ASIAN |  |
 | NOBLE | TANKER | 307284 | 2008 | Dalian Shipbuilding Ind - No 2 | 51.70 | ASIAN |  |
-| NEW TIMES 0311541 | TANKER | 115000 | 2024 | New Times Shipbuilding Co Ltd |  |  |  |
-| NEW TIMES 0311542 | TANKER | 115000 | 2024 | New Times Shipbuilding Co Ltd | 76.60 | SFL GROUP |  |
-| NEW TIMES 0311543 | TANKER | 115000 | 2025 | New Times Shipbuilding Co Ltd | EACH |  |  |
-| STI LARVOTTO | TANKER | 49990 | 2013 | Hyundai Mipo Dockyard Co Ltd | 36.60 | GULF ENERGY |  |
-| STI LE ROCHER | TANKER | 49990 | 2013 | Hyundai Mipo Dockyard Co Ltd | EACH | MARITIME |  |
+| NEW TIMES 0311541 | TANKER | 115000 | 2024 | New Times Shipbuilding Co Ltd | 76.60 EACH | SFL GROUP |  |
+| NEW TIMES 0311542 | TANKER | 115000 | 2024 | New Times Shipbuilding Co Ltd | 76.60 EACH | SFL GROUP |  |
+| NEW TIMES 0311543 | TANKER | 115000 | 2025 | New Times Shipbuilding Co Ltd | 76.60 EACH | SFL GROUP |  |
+| STI LARVOTTO | TANKER | 49990 | 2013 | Hyundai Mipo Dockyard Co Ltd | 36.60 EACH | GULF ENERGY MARITIME |  |
+| STI LE ROCHER | TANKER | 49990 | 2013 | Hyundai Mipo Dockyard Co Ltd | 36.60 EACH | GULF ENERGY MARITIME |  |
 | MTM ST JEAN | TANKER | 34528 | 2003 | Shin Kurushima Onishi | 18.00 | CHINESE | ST.STEEL |
 | VESTHOLMEN | TANKER | 17525 | 2009 | Samho Shipbuilding Co Ltd | 15.00 | UNDISCLOSED | MARINE LINE |
 | LYON II | CV | 77946 | 2001 | Hanjin HI & Const - Busan | 40.00 EN BLOC | MSC | 6,627 TEU |
@@ -45,8 +45,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W13_WK-13-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DENAK BC | 72,172 | 9519 |  | 1996 | HITACHI 539 |  |  |  |
-| XIN RUN 66 TANKER | 4,918 | 2908 |  | 2004 | Zhoushan 530 Wuzhou |  |  |  |
+| DENAK VOYAGER | BC | 72172 | 9519 | 1996 | HITACHI | 539 | BANGLADESH |  |
+| XIN RUN 66 | TANKER | 4918 | 2908 | 2004 | Zhoushan Wuzhou | 530 | BANGLADESH |  |
 
 ## Newbuilding Market
 
@@ -100,7 +100,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W13_WK-13-24-CARRIERS_SP-
 | CAPE 180K | 27325 | -6586 | 33911 |
 | TESS 82K | 19082 | -1603 | 20685 |
 | LME 74K | 17746 | -1603 | 19349 |
-| SUPRA 63K | 15248.0 | 531.0 | 14717.0 |
+| TESS 58K | 15248.0 | 531.0 | 14717.0 |
 | HANDY 38K | 14249 | 148 | 14101 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

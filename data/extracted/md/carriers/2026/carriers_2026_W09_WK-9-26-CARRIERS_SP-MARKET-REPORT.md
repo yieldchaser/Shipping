@@ -21,7 +21,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W09_WK-9-26-CARRIERS_SP-M
 | TRINITY I | BC | 93280 | 2010 | Jiangsu Newyangzi | 11.50 | CHINESE |  |
 | WELFINE | BC | 93146 | 2011 | Jiangsu Newyangzi | 11.80 | UNDISCLOSED | DD DUE |
 | ASL MOON | BC | 81702 | 2008 | Mitsui Tamano | 13.60 | CHINESE |  |
-| THREE SASKIAS | BC | 81094 | 2014 | JAPAN MARINE UTD - TSU | 26.70 GREAT | EASTERN |  |
+| THREE SASKIAS | BC | 81094 | 2014 | JAPAN MARINE UTD - TSU | 26.70 | GREAT EASTERN |  |
 | GIEWONT | BC | 79649 | 2010 | New Century Shipbuilding Co | 11.80 | UNDISCLOSED |  |
 | EXPLORER AMERICA | BC | 61684 | 2011 | Oshima Shipbuilding Co Ltd | 18.20 | CHINESE |  |
 | NORD CHESAPEAKE | BC | 60364 | 2016 | Sanoyas Shipbuilding Corp | 25.50 | UNDISCLOSED |  |
@@ -55,7 +55,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W09_WK-9-26-CARRIERS_SP-M
 | HAFNIA LEO | TANKER | 49999 | 2013 | Guangzhou Shipyard Intl Co | 23.00 | UNDISCLOSED |  |
 | FALCON MAJESTIC | TANKER | 47097 | 2008 | Hyundai Mipo Dockyard Co Ltd | 17.75 | UNDISCLOSED |  |
 | MARINER A | TANKER | 40099 | 2005 | ShinA Shipbuilding Co Ltd | 12.00 | NIGERIAN |  |
-| CORAL SHASTA | LPG | 10770 | 2003 | Hudong-Zhonghua | 10.50 SANMAR | GROUP |  |
+| CORAL SHASTA | LPG | 10770 | 2003 | Hudong-Zhonghua | 10.50 | SANMAR GROUP |  |
 | SAEHAN SELINA | LPG | 3805 | 2012 | SHITANOE SHIPBUILDING | 8.90 | UNDISCLOSED |  |
 | HANSA FRESENBURG | CV | 23432 | 2013 | Guangzhou Wenchong | 25.00 | GFS | 1,740 TEU |
 

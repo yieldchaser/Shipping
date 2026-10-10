@@ -26,18 +26,20 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W30_WK-30-24-CARRIERS_SP-
 | ALIYAH PERTIWI | BC | 73461 | 2001 | Tsuneishi Shbldg - Fkym - earl | 8.00 | UNDISCLOSED |  |
 | TAI SHINE | BC | 61473 | 2012 | Shin Kasado Dockyard Co Ltd | 21.50 | UNDISCLOSED |  |
 | ROYAL SAMURAI | BC | 58091 | 2010 | Tsuneishi Heavy Inds Cebu | 17.75 | WESTERN OVERSEAS |  |
+| CEBIHAN | BC | 57318 | 2009 | STX OFFSHORE & SHBLDG | 15.25 | VIETNAMESE |  |
 | SEACON YANTAI | BC | 56944 | 2010 | COSCO Zhoushan Shipyard Co | 13.80 | PT PRIMATAMA ENERGI MANDIRI |  |
 | LAGO DI CANCANO | BC | 37666 | 2014 | Qingshan Shipyard | 19.00 | UNDISCLOSED |  |
 | LAGO DI COMO | BC | 37653 | 2014 | Qingshan Shipyard | 19.00 | UNDISCLOSED |  |
 | CORELEADER OL | BC | 37118 | 2012 | Saiki Heavy Industries Co Ltd | 17.10 | UNDISCLOSED |  |
 | CHAMCHURI NAREE | BC | 33733 | 2005 | Shin Kochi | 10.50 | UNDISCLOSED |  |
-| PACIFIC JEWELS | TANKER | 115177 | 2016 | Daehan Shipbuilding - Haenam |  |  |  |
-| PACIFIC TREASURES | TANKER | 115063 | 2016 | Daehan Shipbuilding - Haenam |  |  |  |
+| PACIFIC JEWELS | TANKER | 115177 | 2016 | Daehan Shipbuilding - Haenam | HIGH 60'S EACH | VIETNAMESE |  |
+| PACIFIC TREASURES | TANKER | 115063 | 2016 | Daehan Shipbuilding - Haenam | HIGH 60'S EACH | VIETNAMESE |  |
 | GREEN SEA | TANKER | 50927 | 2014 | Dae Sun Shipbuilding & Eng | 38.75 | UNDISCLOSED |  |
+| ZEZE START | TANKER | 49999 | 2009 | Hyundai Mipo Dockyard Co Ltd | 27.00 | VIETNAMESE |  |
 | NAVE EQUATOR | TANKER | 49999 | 2009 | SPP Shipbuilding - Tongyeong | 26.00 | INDONESIAN |  |
-| BERYL | TANKER | 49990 | 2015 | SPP SHIPBUILDING - SAC |  |  |  |
-| QUARTZ | TANKER | 49990 | 2015 | SPP SHIPBUILDING - SAC |  |  |  |
-| SILVER MONIKA | TANKER | 49746 | 2014 | Hyundai Mipo Dockyard Co Ltd |  |  |  |
+| BERYL | TANKER | 49990 | 2015 | SPP SHIPBUILDING - SAC | 340.00 EN BLOC | TORM |  |
+| QUARTZ | TANKER | 49990 | 2015 | SPP SHIPBUILDING - SAC | 340.00 EN BLOC | TORM |  |
+| SILVER MONIKA | TANKER | 49746 | 2014 | Hyundai Mipo Dockyard Co Ltd | 340.00 EN BLOC | TORM |  |
 | SILVER EMILY | TANKER | 49746 | 2014 | Hyundai Mipo Dockyard Co Ltd | 340.00 EN BLOC | TORM |  |
 | SILVER CARLA | TANKER | 49746 | 2014 | Hyundai Mipo Dockyard Co Ltd | 340.00 EN BLOC | TORM |  |
 | SILVER AMANDA | TANKER | 49746 | 2014 | Hyundai Mipo Dockyard Co Ltd | 340.00 EN BLOC | TORM |  |
@@ -52,7 +54,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W30_WK-30-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SHUN DA FA BC | 43,246 | 7985 |  | 1994 | HHI 440 |  | AS | IS ZHEJIANG |
+| SHUN DA FA ZHAN | BC | 43246 | 7985 | 1994 | HHI | 440 | UNDISCLOSED | AS IS ZHEJIANG |
 
 ## Newbuilding Market
 
@@ -106,7 +108,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W30_WK-30-24-CARRIERS_SP-
 | CAPE 180K | 24521 | -2537 | 27058 |
 | TESS 82K | 15405 | 85 | 15320 |
 | LME 74K | 14069 | 1671 | 12398 |
-| SUPRA 63K | 15116.0 | 71.0 | 15045.0 |
+| TESS 58K | 15116.0 | 71.0 | 15045.0 |
 | HANDY 38K | 13612 | 252 | 13360 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

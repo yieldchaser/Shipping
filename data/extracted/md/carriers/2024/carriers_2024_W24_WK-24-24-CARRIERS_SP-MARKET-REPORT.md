@@ -17,9 +17,9 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W24_WK-24-24-CARRIERS_SP-
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | NYMPHE | BC | 180018 | 2009 | Daewoo Shipbuilding & Marine | 29.30 | HAYFIN | SCRUBBER FITTED |
-| THISSEAS | BC | 75200 | 2012 | Penglai Zhongbai Jinglu Ind |  |  |  |
-| ICARUS | BC | 75200 | 2012 | Penglai Zhongbai Jinglu Ind | 52.50 EN BLOC | BRIGHT |  |
-| ATLAS | BC | 75124 | 2012 | Penglai Zhongbai Jinglu Ind | 52.50 EN BLOC | NAVIGATION |  |
+| THISSEAS | BC | 75200 | 2012 | Penglai Zhongbai Jinglu Ind | 52.50 EN BLOC | BRIGHT NAVIGATION |  |
+| ICARUS | BC | 75200 | 2012 | Penglai Zhongbai Jinglu Ind | 52.50 EN BLOC | BRIGHT NAVIGATION |  |
+| ATLAS | BC | 75124 | 2012 | Penglai Zhongbai Jinglu Ind | 52.50 EN BLOC | BRIGHT NAVIGATION |  |
 | MOON GLOBE | BC | 74432 | 2005 | Hudong-Zhonghua | 11.50 | UNDISCLOSED |  |
 | CAPTAIN ANDREADIS | BC | 58760 | 2008 | Tsuneishi Zhoushan Shbldg | 16.30 | INDONESIAN |  |
 | GUO TAI PING AN | BC | 56643 | 2011 | Qingshan Shipyard | 14.00 | UNDISCLOSED |  |
@@ -34,7 +34,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W24_WK-24-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| GNS HOPE BC | 68,591 | 9812 |  | 1994 | Sasebo 500 |  |  |  |
+| GNS HOPE | BC | 68591 | 9812 | 1994 | Sasebo | 500 | BANGLADESH |  |
 
 ## Newbuilding Market
 
@@ -88,7 +88,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W24_WK-24-24-CARRIERS_SP-
 | CAPE 180K | 24759 | 1402 | 23357 |
 | TESS 82K | 15919 | 789 | 15130 |
 | LME 74K | 14583 | 789 | 13794 |
-| SUPRA 63K | 13826.0 | -168.0 | 13994.0 |
+| TESS 58K | 13826.0 | -168.0 | 13994.0 |
 | HANDY 38K | 12858 | -147 | 13005 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

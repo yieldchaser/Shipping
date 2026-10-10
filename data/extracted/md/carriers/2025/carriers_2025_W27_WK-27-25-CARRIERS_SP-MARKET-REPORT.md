@@ -21,6 +21,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W27_WK-27-25-CARRIERS_SP-
 | MOUNT K2 | BC | 176820 | 2011 | Mitsui Chiba Ichihara | 26.50 | CHINESE |  |
 | GOLDEN ZHOUSHAN | BC | 175834 | 2011 | JINHAI HEAVY INDUSTRY | 22.00 | UNDISCLOSED |  |
 | SDTR DORA | BC | 81780 | 2019 | Jiangsu Jinling Ships Co Ltd | 24.50 | GREEK |  |
+| IVESTOS II | BC | 76284 | 2004 | Tsuneishi Corp - Fukuyama | 8.40 | VIETNAMESE |  |
 | UTOPIA | BC | 64499 | 2020 | Oshima Shipbuilding Co Ltd | 34.00 | UNDISCLOSED | INCL 3 YR TC at USD 14 k pd |
 | MONA LISA | BC | 63453 | 2019 | Imabari Shbldg - Imabari | 28.50 | GREEK |  |
 | IVS SWINLEY FOREST | BC | 60492 | 2017 | Sanoyas Shipbuilding Corp | 23.20 | GREEK |  |
@@ -43,7 +44,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W27_WK-27-25-CARRIERS_SP-
 | PRELUDE | TANKER | 39988 | 2007 | Saiki Heavy Industries Co Ltd | 14.00 | INDIAN |  |
 | GWEN | TANKER | 19702 | 2008 | Fukuoka Shipbuilding | 16.60 | GMS |  |
 | SANTA RITA | TANKER | 2500 | 2008 | San Giorgio del Porto | 4.00 | UNDISCLOSED | BUNKER TNKR |
-| METHANE ALISON | LPG | 79058 | 2007 | Samsung Heavy Inds - Geoje | MID 20.00 | EXCELERATE ENERGY | FOR CONVERSION |
+| METHANE ALISON VICTORIA | LPG | 79058 | 2007 | Samsung Heavy Inds - Geoje | MID 20.00 | EXCELERATE ENERGY | FOR CONVERSION |
 | RUN QING PING AN | CV | 37087 | 2024 | Taizhou Kouan Shipbuilding Co | 51.50 | UNDISCLOSED | 2,504 TEU |
 | SHIRIN M | CV | 34191 | 2007 | Jiangsu Yangzijiang Shbldg Co | 22.50 | ERASMUS | 2,546 TEU |
 | NORDERNEY | CV | 24732 | 2023 | Huangpu Wenchong | 35.00 | GREEK | 1,930 TEU |
@@ -52,7 +53,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W27_WK-27-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DK03 BC | 46,637 | 7770 |  | 1994 | Mitsui Eng. 390 |  |  |  |
+| DK03 | BC | 46637 | 7770 | 1994 | Mitsui Eng. | 390 | BANGLADESH |  |
 
 ## Newbuilding Market
 

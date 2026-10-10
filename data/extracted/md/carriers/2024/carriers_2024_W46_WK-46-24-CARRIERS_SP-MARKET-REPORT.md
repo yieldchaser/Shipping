@@ -26,6 +26,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W46_WK-46-24-CARRIERS_SP-
 | CL TIANJING | BC | 81315 | 2016 | Jiangsu Jinling Ships Co Ltd | - | UNDISCLOSED | AUCTION SALE |
 | CL RIZHAO | BC | 81296 | 2015 | Jiangsu Jinling Ships Co Ltd | - | UNDISCLOSED | AUCTION SALE |
 | NAVIOS SAGITTARIUS | BC | 75756 | 2006 | Sanoyas Hishino Meisho Corp | 10.00 | INDONESIAN |  |
+| ASIA GRAECA | BC | 73902 | 2004 | Namura Shipbuilding - Imari | 11.10 | VIETNAMESE |  |
 | HONG BO 6 | BC | 56880 | 2011 | Yangfan Group Co Ltd | 14.00 | UNDISCLOSED |  |
 | ARCTIC OCEAN | BC | 36009 | 2010 | Samjin Shipbuilding Industries | 11.60 | MIDDLE EASTERN |  |
 | YANGTZE GRACE | BC | 32503 | 2012 | Jiangmen Nanyang Ship Eng Co | 13.50 | FAR EASTERN |  |
@@ -42,14 +43,14 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W46_WK-46-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FATMA SARI BC | 43,188 | 8012 |  | 1998 | HYUNDAI HI 488 |  |  |  |
-| GREEN BODO REEFER | 6,129 | 2957 |  | 1990 | Hollming Oy 477 |  |  |  |
+| FATMA SARI | BC | 43188 | 8012 | 1998 | HYUNDAI HI | 488 | BANGLADESH |  |
+| GREEN BODO | REEFER | 6129 | 2957 | 1990 | Hollming Oy | 477 | INDIA |  |
 
 ## Newbuilding Market
 
 | Type | Units | Size | Yard | Delivery | Price ($M) | Owners | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| VSL | 4 | 18,000 CBM | HYUNDAI MIPO | 2028 | 92.6 EACH | EPS |  |
+| LNG/BUNKER VSL | 4 | 18,000 CBM | HYUNDAI MIPO | 2028 | 92.6 EACH | EPS |  |
 | CV | 2 | 9,000 TEU | HYUNDAI SAMHO | 2027 | 114.7 EACH | KMTC |  |
 
 ## BSPA Secondhand Market Assessments (5 Years Old)

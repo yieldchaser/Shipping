@@ -53,7 +53,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W45_WK-45-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ZENITH TANKER | 105,161 | 17103 |  | 1995 | SAMSUNG HI 359 |  |  |  |
+| ZENITH | TANKER | 105161 | 17103 | 1995 | SAMSUNG HI | 359 | INDIA |  |
 
 ## Newbuilding Market
 

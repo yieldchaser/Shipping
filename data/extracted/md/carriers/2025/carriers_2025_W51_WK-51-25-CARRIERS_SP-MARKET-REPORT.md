@@ -21,6 +21,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W51_WK-51-25-CARRIERS_SP-
 | HL SAMARINDA | BC | 114536 | 2011 | New Century Shipbuilding Co | 17.80 | KOREAN |  |
 | OCEAN VENUS | BC | 93114 | 2010 | Jiangsu Jinling Ships Co Ltd | 11.00 | UNDISCLOSED | SS/DD DUE |
 | THE GIVER | BC | 75726 | 2006 | Sanoyas Hishino Meisho Corp | 11.20 | CHINESE |  |
+| ELEEN EVA | BC | 58215 | 2012 | Shin Kurushima Onishi | 17.50 | VIETNAMESE | SS/DD PASSED |
 | SEPETIBA BAY | BC | 35036 | 2012 | Samjin Shipbuilding Industries | LOW 11 | UNDISCLOSED |  |
 | BC VANESSA | BC | 31755 | 2010 | Saiki Heavy Industries Co Ltd | 12.50 | TURKISH |  |
 | SFL OTTAWA | TANKER | 159500 | 2015 | Bohai Shipbuilding Heavy Ind | 57.00 | UNDISCLOSED |  |
@@ -37,7 +38,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W51_WK-51-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CHANG MING | BC 991761 | 19529 |  | 1993 | Mitsui | 380 | AS | IS CHINA |
+| CHANG MING YANG | BC | 991761 | 19529 | 1993 | Mitsui | 380 | UNDISCLOSED | AS IS CHINA |
 
 ## Newbuilding Market
 

@@ -41,7 +41,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W06_WK-6-26-CARRIERS_SP-M
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ISA GOLDEN | BC 29,255 | 6200 |  | 1995 | Nippon Kokan | 425 |  |  |
+| ISA GOLDEN | BC | 29255 | 6200 | 1995 | Nippon Kokan | 425 | BANGLADESH |  |
 
 ## Newbuilding Market
 

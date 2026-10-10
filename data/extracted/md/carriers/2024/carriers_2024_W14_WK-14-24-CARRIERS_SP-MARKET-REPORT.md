@@ -17,6 +17,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W14_WK-14-24-CARRIERS_SP-
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | NORD SEAL | BC | 57631 | 2016 | TSUNEISHI SHBLDG - FKY | 27.75 | UNDISCLOSED |  |
+| SEABOSS | BC | 55426 | 2004 | Nantong COSCO KHI Ship Eng | 11.70 | VIETNAMESE |  |
 | SIDER HARMONY | BC | 38593 | 2019 | Tsuneishi Heavy Inds Cebu | 28.50 | MIDDLE EASTERN | SS/DD PASSED |
 | SUNSET | BC | 37334 | 2009 | Saiki Heavy Industries Co Ltd | 15.00 | UNDISCLOSED |  |
 | SUNRISE | BC | 37268 | 2009 | Saiki Heavy Industries Co Ltd | 15.00 | UNDISCLOSED |  |
@@ -39,8 +40,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W14_WK-14-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| JAL GAMINI TANKER | 157,411 | 22572 |  | 2000 | Daewoo HI 541 |  |  |  |
-| TORO BIANCO BC | 70,159 | 9269 |  | 1995 | Sumitomo 532 |  |  |  |
+| JAL GAMINI | TANKER | 157411 | 22572 | 2000 | Daewoo HI | 541 | UNDISCLOSED |  |
+| TORO BIANCO | BC | 70159 | 9269 | 1995 | Sumitomo | 532 | PAKISTAN |  |
 
 ## Newbuilding Market
 
@@ -93,7 +94,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W14_WK-14-24-CARRIERS_SP-
 | CAPE 180K | 19852 | -7473 | 27325 |
 | TESS 82K | 16341 | -2741 | 19082 |
 | LME 74K | 15005 | -2741 | 17746 |
-| SUPRA 63K | 14335.0 | -913.0 | 15248.0 |
+| TESS 58K | 14335.0 | -913.0 | 15248.0 |
 | HANDY 38K | 13737 | -512 | 14249 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

@@ -19,6 +19,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W20_WK-20-25-CARRIERS_SP-
 | LUISE OLDENDORFF | BC | 207562 | 2015 | Hyundai Heavy Inds - Gunsan | 51.00 | HMM | DELY AUGUST |
 | THALASSINI AGATHA | BC | 182307 | 2011 | Universal Shbldg - Tsu | 28.70 | UNDISCLOSED |  |
 | TRADERSHIP | BC | 176925 | 2006 | Namura Shipbuilding - Imari | 18.50 | UNDISCLOSED |  |
+| MEDI NAGOYA | BC | 81671 | 2018 | Tsuneishi Heavy Inds Cebu | 27.50 | VIETNAMESE |  |
 | THUNDERBIRD | BC | 79508 | 2011 | Jiangsu Eastern Heavy Industry | 19.00 EN BLOC | UNDISCLOSED |  |
 | BONNEVILLE | BC | 79403 | 2010 | Jiangsu Eastern Heavy Industry | 19.00 EN BLOC | UNDISCLOSED |  |
 | IVESTOS 5 | BC | 76728 | 2005 | Sasebo Heavy Industries | 9.00 | CHINESE |  |
@@ -46,8 +47,8 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W20_WK-20-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VISTAR BC | 73,317 | 10683 |  | 1997 | Halla 441 Engineering |  |  |  |
-| ASMAA BC | 46,428 | 7616 |  | 1994 | Shin 438 Kurushima |  |  |  |
+| VISTAR | BC | 73317 | 10683 | 1997 | Halla Engineering | 441 | BANGLADESH |  |
+| ASMAA | BC | 46428 | 7616 | 1994 | Shin Kurushima | 438 | INDIA |  |
 
 ## Newbuilding Market
 

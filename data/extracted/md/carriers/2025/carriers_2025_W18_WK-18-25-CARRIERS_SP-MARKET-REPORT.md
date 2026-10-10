@@ -25,16 +25,17 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W18_WK-18-25-CARRIERS_SP-
 | WESTERN MIAMI | BC | 39000 | 2015 | Jiangmen Nanyang | 14.50 | UNDISCLOSED |  |
 | UNITY STAR | BC | 37614 | 2015 | Oshima Shipbuilding | 18.00 | UNDISCLOSED |  |
 | ANSAC MOON BEAR | BC | 33426 | 2017 | Shin Kurushima | 18.65 | TURKISH |  |
+| STAMFORD PIONEER | BC | 32211 | 2012 | Taizhou Maple Leaf | 8.50 | VIETNAMESE |  |
 | RESOURCE | BC | 31776 | 2010 | Guangzhou Huangpu | 8.80 | UNDISCLOSED | SS/DD due 5/2025 |
 | CS VANGUARD | BC | 26479 | 2007 | Sungdong | 6.50 | CHINESE |  |
 | LAYLA | TANKER | 317821 | 2007 | Hyunday Samho | 46.75 | CHINESE | Wartsila m/e; SS due 8/2027 |
-| IRIS | TANKER | 314000 | 2012 | Hyundai Heavy Industries |  |  |  |
+| IRIS | TANKER | 314000 | 2012 | Hyundai Heavy Industries | rgn 59.00 each | UAE |  |
 | HAKONE | TANKER | 302624 | 2012 | Universal Shipbuilding | rgn 59.00 each | UAE |  |
-| HAKATA | TANKER | 302550 | 2012 | Universal Shipbuilding |  |  |  |
+| HAKATA | TANKER | 302550 | 2012 | Universal Shipbuilding | rgn 59.00 each | UAE |  |
 | PACIFIC LOYALTY | TANKER | 307284 | 2006 | Dalian Shipbuilding | 42.00 | CHINESE |  |
 | MARE NOSTRUM | TANKER | 110295 | 2009 | Mitsui Eng. | 34.50 | UNDISCLOSED |  |
 | ELAN VITAL | TANKER | 71522 | 2003 | STX Korea | 13.00 | UAE |  |
-| CELSIUS PHILADELFIA | TANKER | 50303 | 2021 | Jiangsu Newyangzi |  |  |  |
+| CELSIUS PHILADELFIA | TANKER | 50303 | 2021 | Jiangsu Newyangzi | 35.50 each | GREEK |  |
 | CELSIUS PORTSMOUTH | TANKER | 50299 | 2021 | Jiangsu Newyangzi | 35.50 each | GREEK |  |
 | ZAGARA | TANKER | 37320 | 2002 | STX Korea | 8.00 | UNDISCLOSED |  |
 | MINDORO | CV | 24435 | 2022 | Huanghai Shipbuilding | 31.50 | GREEKS | 1,781 TEU incl tc |
@@ -43,15 +44,15 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W18_WK-18-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PETER S BC | 71,550 | 10176 |  | 1995 | Hitachi Zoshen 468 Corp. |  | as is | Khorfakkan |
+| PETER S | BC | 71550 | 10176 | 1995 | Hitachi Zoshen Corp. | 468 |  | as is Khorfakkan |
 
 ## Newbuilding Market
 
 | Type | Units | Size | Yard | Delivery | Price ($M) | Owners | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BC | 2 | 209,000 DWT | QINDAO BEIHAI | 2H2027 | - | COSCO | conventional fueling / option plus 10 |
-| BC | 8 | 64,000 DWT | OSHIMA 2H2028/1H SHIPBUILDING | 2029 | 41 EACH | JHONLIN MARITIME LINES, |  |
-| TANKER | 2 | 159,000 DWT | NEW TIMES | 2028 | 80 EACH | INDONESIA DYNACOM |  |
+| BC | 8 | 64,000 DWT | OSHIMA SHIPBUILDING | 2H2028/1H 2029 | 41 EACH | JHONLIN MARITIME LINES, INDONESIA |  |
+| TANKER | 2 | 159,000 DWT | NEW TIMES | 2028 | 80 EACH | DYNACOM |  |
 | CV | 6 | 16,000 TEU | SWS | 2028 | 126-127 EACH | SEASPAN, CANADA |  |
 
 ## BSPA Secondhand Market Assessments (5 Years Old)

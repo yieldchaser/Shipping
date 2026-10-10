@@ -17,26 +17,26 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W32_WK-32-26-CARRIERS_SP-
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ORANGE TIGER | BC | 181395 | 2011 | Imabari Shbldg - Saijo | 36,500,000 | GREEK |  |
-| CAPE CONDOR | BC | 180253 | 2010 | Koyo Dockyard Co Ltd | 39,000,000 UNDISCLOSED |  |  |
+| CAPE CONDOR | BC | 180253 | 2010 | Koyo Dockyard Co Ltd | 39,000,000 | UNDISCLOSED |  |
 | AQUAVITA AIM | BC | 82192 | 2019 | Oshima Shipbuilding Co Ltd | 38,200,000 | EUROPEAN |  |
 | MEDI POSITANO | BC | 81661 | 2015 | TSUNEISHI SHBLDG - FKY | 31,000,000 | GREEK |  |
-| ROYAL HOPE | BC | 81011 | 2015 | JAPAN MARINE UTD - TSU | 31,200,000 UNDISCLOSED |  |  |
+| ROYAL HOPE | BC | 81011 | 2015 | JAPAN MARINE UTD - TSU | 31,200,000 | UNDISCLOSED |  |
 | FRANCESCO CORRADO | BC | 77061 | 2008 | Oshima Shipbuilding Co Ltd | 15,000,000 | KOREAN |  |
-| GLORY BRIDGE | BC | 50077 | 2001 | Mitsui Chiba Ichihara | 7,500,000 UNDISCLOSED |  |  |
+| GLORY BRIDGE | BC | 50077 | 2001 | Mitsui Chiba Ichihara | 7,500,000 | UNDISCLOSED |  |
 | RONG FU | BC | 28419 | 1999 | Imabari Shbldg - Imabari | 4,800,000 | CHINESE |  |
 | CELESTE NOVA | TANKER | 318510 | 2013 | Shanghai Waigaoqiao Shbldg | 120,000,000 | ADNOC |  |
 | FRONT HUMBER | TANKER | 298767 | 2017 | Hyundai Samho HI | 135,000,000 | ADNOC |  |
 | FRONT VEFSNA | TANKER | 297638 | 2017 | HHIC-Phil Inc | 135,000,000 | ADNOC |  |
-| DHAN LAXMI | TANKER | 50353 | 2004 | ShinA Shipbuilding Co Ltd | 11,850,000 UNDISCLOSED |  |  |
-| DING HENG 36 | TANKER | 19098 | 2012 | Zhejiang Taitong Shipyard Co | 22,700,000 UNDISCLOSED |  |  |
-| BELLA NEVADA | LPG | 26447 | 2009 | Hyundai Heavy Inds - Ulsan | 35,000,000 UNDISCLOSED |  |  |
-| NORDPUMA | CV | 23629 | 2015 | Zhejiang Ouhua Shipbuilding | 31,000,000 UNDISCLOSED |  | 1,756 TEU |
+| DHAN LAXMI | TANKER | 50353 | 2004 | ShinA Shipbuilding Co Ltd | 11,850,000 | UNDISCLOSED |  |
+| DING HENG 36 | TANKER | 19098 | 2012 | Zhejiang Taitong Shipyard Co | 22,700,000 | UNDISCLOSED |  |
+| BELLA NEVADA | LPG | 26447 | 2009 | Hyundai Heavy Inds - Ulsan | 35,000,000 | UNDISCLOSED |  |
+| NORDPUMA | CV | 23629 | 2015 | Zhejiang Ouhua Shipbuilding | 31,000,000 | UNDISCLOSED | 1,756 TEU |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ULUC KA | TANKER | 37272 | 8700 | 2001 | Hyundai Mipo |  |  |  |
+| ULUC KA | TANKER | 37272 | 8700 | 2001 | Hyundai Mipo | - | TURKEY |  |
 
 ## Newbuilding Market
 

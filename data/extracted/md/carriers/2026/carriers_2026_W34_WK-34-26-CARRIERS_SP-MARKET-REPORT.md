@@ -16,25 +16,25 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W34_WK-34-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RTM TASMAN | BC | 205432 | 2013 | HHIC-Phil Inc | - UNDISCLOSED |  |  |
+| RTM TASMAN | BC | 205432 | 2013 | HHIC-Phil Inc | - | UNDISCLOSED |  |
 | MOUNT DAMPIER | BC | 181469 | 2011 | Imabari Shbldg - Saijo | 38,500,000 | EUROPEAN |  |
-| IVESTOS 9 | BC | 75131 | 2008 | Hudong-Zhonghua | 11,750,000 UNDISCLOSED |  |  |
+| IVESTOS 9 | BC | 75131 | 2008 | Hudong-Zhonghua | 11,750,000 | UNDISCLOSED |  |
 | AMARYLLIS | BC | 63500 | 2013 | Yangzhou Dayang | 24,300,000 | CHINESE |  |
-| AFRICAN WAGTAIL | BC | 58340 | 2013 | DALIAN COSCO KHI SHIP | 20,000,000 UNDISCLOSED |  |  |
+| AFRICAN WAGTAIL | BC | 58340 | 2013 | DALIAN COSCO KHI SHIP | 20,000,000 | UNDISCLOSED |  |
 | SPAR SCORPIO | BC | 53565 | 2006 | Chengxi Shipyard | 11,500,000 | CHINESE |  |
-| ARKLOW SPIRIT | BC | 34905 | 2013 | Dae Sun Shipbuilding & Eng | 16,600,000 UNDISCLOSED |  |  |
-| HIPPOLYTA | TANKER | 320013 | 2011 | Bohai Shipbuilding Heavy Ind | - UNDISCLOSED |  |  |
-| HELLSTUGUTINDEN | TANKER | 299095 | 2003 | Universal Shbldg - Ariake | 57,000,000 UNDISCLOSED |  | SS/DD OVERDUE |
-| SEASENATOR | TANKER | 105715 | 2007 | Namura Shipbuilding - Imari | High UNDISCLOSED 30,000,000 |  |  |
-| CHAMPION CONCEPT | TANKER | 47171 | 2005 | Uljanik Brodogradiliste dd | 13,000,000 UNDISCLOSED |  |  |
-| WINFORT | TANKER | 47171 | 2005 | Uljanik Brodogradiliste dd | 13,000,000 UNDISCLOSED |  |  |
-| VICTORIA LYRA | LPG | 58677 | 2008 | Hyundai Heavy Inds - Ulsan | 68,000,000 UNDISCLOSED |  |  |
+| ARKLOW SPIRIT | BC | 34905 | 2013 | Dae Sun Shipbuilding & Eng | 16,600,000 | UNDISCLOSED |  |
+| HIPPOLYTA | TANKER | 320013 | 2011 | Bohai Shipbuilding Heavy Ind | - | UNDISCLOSED |  |
+| HELLSTUGUTINDEN | TANKER | 299095 | 2003 | Universal Shbldg - Ariake | 57,000,000 | UNDISCLOSED | SS/DD OVERDUE |
+| SEASENATOR | TANKER | 105715 | 2007 | Namura Shipbuilding - Imari | High 30,000,000 | UNDISCLOSED |  |
+| CHAMPION CONCEPT | TANKER | 47171 | 2005 | Uljanik Brodogradiliste dd | 13,000,000 | UNDISCLOSED |  |
+| WINFORT | TANKER | 47171 | 2005 | Uljanik Brodogradiliste dd | 13,000,000 | UNDISCLOSED |  |
+| VICTORIA LYRA | LPG | 58677 | 2008 | Hyundai Heavy Inds - Ulsan | 68,000,000 | UNDISCLOSED |  |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MARIA | BC | 27369 | 6140 | 1997 | Hanjin HI | 532 |  |  |
+| MARIA | BC | 27369 | 6140 | 1997 | Hanjin HI | 532 | PAKISTAN |  |
 
 ## Newbuilding Market
 

@@ -22,13 +22,13 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W38_WK-38-24-CARRIERS_SP-
 | QUEEN SAPPHIRE | BC | 61388 | 2011 | Iwagi Zosen Co Ltd | 21.00 | CHINESE |  |
 | ETERNAL HAKATA | BC | 61353 | 2014 | Imabari Shbldg - Imabari | 25.00 | SEASTAR |  |
 | SAGARJEET | BC | 58079 | 2009 | Tsuneishi Zhoushan Shbldg | LOW 16'S | INDONESIAN |  |
-| MANDARIN PHOENIX | BC | 57000 | 2010 | Jiangsu Hantong Ship HI |  | UNDISCLOSED |  |
-| MANDARIN EAGLE | BC | 56876 | 2008 | Jiangsu Hantong Ship HI |  | UNDISCLOSED |  |
-| MANDARIN CHINA | BC | 56778 | 2011 | Jiangsu Hantong Ship HI |  | UNDISCLOSED |  |
+| MANDARIN PHOENIX | BC | 57000 | 2010 | Jiangsu Hantong Ship HI | 80 ENBLOC | UNDISCLOSED |  |
+| MANDARIN EAGLE | BC | 56876 | 2008 | Jiangsu Hantong Ship HI | 80 ENBLOC | UNDISCLOSED |  |
+| MANDARIN CHINA | BC | 56778 | 2011 | Jiangsu Hantong Ship HI | 80 ENBLOC | UNDISCLOSED |  |
 | MANDARIN RIVER | BC | 56774 | 2011 | Jiangsu Hantong Ship HI | 80 ENBLOC | UNDISCLOSED |  |
-| MANDARIN HANTONG | BC | 56741 | 2011 | Jiangsu Hantong Ship HI |  | UNDISCLOSED |  |
-| MANDARIN SINGAPORE | BC | 56724 | 2011 | Jiangsu Hantong Ship HI |  | UNDISCLOSED |  |
-| MANDARIN NOBLE | BC | 56693 | 2012 | Jiangsu Hantong Ship HI |  | UNDISCLOSED |  |
+| MANDARIN HANTONG | BC | 56741 | 2011 | Jiangsu Hantong Ship HI | 80 ENBLOC | UNDISCLOSED |  |
+| MANDARIN SINGAPORE | BC | 56724 | 2011 | Jiangsu Hantong Ship HI | 80 ENBLOC | UNDISCLOSED |  |
+| MANDARIN NOBLE | BC | 56693 | 2012 | Jiangsu Hantong Ship HI | 80 ENBLOC | UNDISCLOSED |  |
 | IMPERIAL EAGLE | BC | 55989 | 2010 | IHI Marine United - Yokohama | 18.00 | UNDISCLOSED |  |
 | PRABHU MIHIKAA | BC | 55557 | 2005 | Oshima Shipbuilding Co Ltd | 11.85 | UNDISCLOSED |  |
 | HB GOLDEN EAGLE | BC | 37720 | 2020 | Shimanami Shipyard Co Ltd | 28.50 | UNDISCLOSED |  |
@@ -46,9 +46,9 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W38_WK-38-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AQUILA TANKER | 35,841 | 8481 |  | 1999 | Daedong 525 |  |  |  |
-| SERENITY 1 BC | 28,458 | 6352 |  | 1994 | Kanda 495 Zosensho |  |  |  |
-| CORAL ENERGY LNG | 72,629 | 30194 |  | 1979 | General 555 Dynamics Corp |  | AS | IS LABUAN |
+| AQUILA | TANKER | 35841 | 8481 | 1999 | Daedong | 525 | INDIA |  |
+| SERENITY 1 | BC | 28458 | 6352 | 1994 | Kanda Zosensho | 495 | BANGLADESH |  |
+| CORAL ENERGY | LNG | 72629 | 30194 | 1979 | General Dynamics Corp | 555 | UNDISCLOSED | AS IS LABUAN |
 
 ## Newbuilding Market
 

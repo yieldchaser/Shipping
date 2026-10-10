@@ -46,8 +46,8 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W24_WK-24-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| OCEAN STAR BC | 26,444 | 6064 |  | 1995 | Imabari 435 |  |  |  |
-| RUN FU 2 BC | 27,375 | 5841 |  | 1995 | Hanjin HI 436 |  |  |  |
+| OCEAN STAR | BC | 26444 | 6064 | 1995 | Imabari | 435 | INDIA |  |
+| RUN FU 2 | BC | 27375 | 5841 | 1995 | Hanjin HI | 436 | INDIA |  |
 
 ## Newbuilding Market
 

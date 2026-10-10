@@ -35,16 +35,16 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W48_WK-48-23-CARRIERS_SP-
 | SHANDONG WEIHE | TANKER | 45898 | 2004 | Shin Kurushima Onishi | 14.00 | GSE AUCTION | SS 20/2024 |
 | BDP SPIRIT | TANKER | 15203 | 2009 | TVK Gemi Yapim | 12.00 | UNDISCLOSED | SS 3/2024 |
 | TARRANT | TANKER | 13211 | 2008 | Jinse Shipbuilding Co Ltd | 9.50 | UNDISCLOSED | SS/DD passed |
-| SEAPEAK NAPA | GAS | 10790 | 2003 | Hudong-Zhonghua Shipbuilding | 9.80 | UNDISCLOSED | SS/DD 10/2023 |
+| SEAPEAK NAPA | GAS TANKER | 10790 | 2003 | Hudong-Zhonghua Shipbuilding | 9.80 | UNDISCLOSED | SS/DD 10/2023 |
 | LOI HOPE | TANKER | 8941 | 2008 | Kwangsung Shipbuilding Co Ltd | 8.60 | UNDISCLOSED | SS/DD passed |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DEVA | BC | 74667 | 12660 | 2000 | Shipbuilding Group - Shanghai Namura | 480 | INDIA | INDIA |
-| DIAMOND WAY | BC | 42529 | 9016 | 1995 | Shipbuilding Co Ltd - Imari SG Imabari |  | INDIA |  |
-| NEPTUNE STAR | BC | 25388 | 5471 | 1996 | Shipbuilding Co Ltd - Imabari EH | 512 | INDIA |  |
+| DEVA | BC | 74667 | 12660 | 2000 | Hudong Shipbuilding Group - Shanghai | 480 | INDIA | AS IS ALANG INDIA |
+| DIAMOND WAY | BC | 42529 | 9016 | 1995 | Namura Shipbuilding Co Ltd - Imari SG | UNDISCLOSED | INDIA |  |
+| NEPTUNE STAR | BC | 25388 | 5471 | 1996 | Imabari Shipbuilding Co Ltd - Imabari EH | 512 | INDIA |  |
 | SILVER WIND | CV | 2589 | 1011 | 1986 | K.K. Yoshida Zosen Kogyo - Arida | 510 | BANGLADESH |  |
 
 ## Newbuilding Market
@@ -52,7 +52,7 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W48_WK-48-23-CARRIERS_SP-
 | Type | Units | Size | Yard | Delivery | Price ($M) | Owners | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BC | 2 | 63,500 DWT | XIANGYU | SH2025 | 32.7 EACH | JME |  |
-| LNG | 1 | 174,000 DWT | SMASUNG | 2027 | 260 | MITSUI | OSK |
+| LNG | 1 | 174,000 DWT | SMASUNG | 2027 | 260 | MITSUI OSK |  |
 | PCTC | 4 | 7,800 CEU | CMHI | 3Q2026 | 87 EACH | CMES | methanol dual fuel |
 
 ## BSPA Secondhand Market Assessments (5 Years Old)
@@ -100,7 +100,7 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W48_WK-48-23-CARRIERS_SP-
 | CAPE 180K | 31671 | 9224 | 22447 |
 | TESS 82K | 18859 | 1624 | 17235 |
 | LME 74K | 17523 | 1624 | 15899 |
-| SUPRA 63K | 14209.0 | 820.0 | 13389.0 |
+| TESS 58K | 14209.0 | 820.0 | 13389.0 |
 | HANDY 38K | 12241 | 1353 | 10888 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

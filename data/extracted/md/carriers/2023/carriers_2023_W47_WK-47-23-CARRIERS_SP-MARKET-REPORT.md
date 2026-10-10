@@ -65,7 +65,7 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W47_WK-47-23-CARRIERS_SP-
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CATHERINE BRIGHT | BC | 77828 | 10962 | 1998 | Sasebo Heavy Industries | 535 | INDIA |  |
 | DAYTONA DYNAMIC | BC | 27877 | 6058 | 1990 | Kanasashi Zosen | 510 | INDIA |  |
-| XIN FENG GUANG | CV | 33522 | 8895 | 1994 | Halla Eng & HI | 485 | UNDISCLOSED | AS IS ZHOUSHAN |
+| XIN FENG GUANG ZHOU | CV | 33522 | 8895 | 1994 | Halla Eng & HI | 485 | UNDISCLOSED | AS IS ZHOUSHAN |
 
 ## Newbuilding Market
 
@@ -120,7 +120,7 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W47_WK-47-23-CARRIERS_SP-
 | CAPE 180K | 22447 | 828 | 21619 |
 | TESS 82K | 17235 | 3301 | 13934 |
 | LME 74K | 15899 | 3301 | 12598 |
-| SUPRA 63K | 13389.0 | 993.0 | 12396.0 |
+| TESS 58K | 13389.0 | 993.0 | 12396.0 |
 | HANDY 38K | 10888 | 307 | 10581 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

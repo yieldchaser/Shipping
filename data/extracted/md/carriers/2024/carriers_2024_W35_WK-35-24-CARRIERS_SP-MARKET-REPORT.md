@@ -20,15 +20,15 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W35_WK-35-24-CARRIERS_SP-
 | ELSA S | BC | 80868 | 2015 | JAPAN MARINE UTD | 30.50 | UNDISCLOSED |  |
 | SANIA | BC | 57011 | 2010 | Qingshan Shipyard | 12.50 | CHINESE |  |
 | EFFICIENCY OL | BC | 37000 | 2010 | Saiki Heavy Industries Co Ltd | 15.00 | UNDISCLOSED |  |
-| MILTIADIS JUNIOR | TANKER | 320926 | 2014 | Shanghai Waigaoqiao Shbldg |  |  |  |
-| AMYNTAS | TANKER | 320785 | 2019 | Samsung Heavy Inds - Geoje |  |  |  |
-| APOLLONAS | TANKER | 299999 | 2016 | Daewoo Shipbuilding & Marine |  |  |  |
-| ATROMITOS | TANKER | 299999 | 2016 | Daewoo Shipbuilding & Marine |  |  |  |
-| AMORE MIO | TANKER | 299847 | 2022 | Hyundai Samho HI | 1 BILLION EN | BAHRI |  |
-| ALTEREGO | TANKER | 299847 | 2022 | Hyundai Samho HI | BLOC |  |  |
-| AMPHION | TANKER | 298998 | 2019 | Samsung Heavy Inds |  |  |  |
-| ANDRONIKOS | TANKER | 298998 | 2019 | Samsung Heavy Inds |  |  |  |
-| AGITOS | TANKER | 298998 | 2019 | Samsung Heavy Inds |  |  |  |
+| MILTIADIS JUNIOR | TANKER | 320926 | 2014 | Shanghai Waigaoqiao Shbldg | 1 BILLION EN BLOC | BAHRI |  |
+| AMYNTAS | TANKER | 320785 | 2019 | Samsung Heavy Inds - Geoje | 1 BILLION EN BLOC | BAHRI |  |
+| APOLLONAS | TANKER | 299999 | 2016 | Daewoo Shipbuilding & Marine | 1 BILLION EN BLOC | BAHRI |  |
+| ATROMITOS | TANKER | 299999 | 2016 | Daewoo Shipbuilding & Marine | 1 BILLION EN BLOC | BAHRI |  |
+| AMORE MIO | TANKER | 299847 | 2022 | Hyundai Samho HI | 1 BILLION EN BLOC | BAHRI |  |
+| ALTEREGO | TANKER | 299847 | 2022 | Hyundai Samho HI | 1 BILLION EN BLOC | BAHRI |  |
+| AMPHION | TANKER | 298998 | 2019 | Samsung Heavy Inds | 1 BILLION EN BLOC | BAHRI |  |
+| ANDRONIKOS | TANKER | 298998 | 2019 | Samsung Heavy Inds | 1 BILLION EN BLOC | BAHRI |  |
+| AGITOS | TANKER | 298998 | 2019 | Samsung Heavy Inds | 1 BILLION EN BLOC | BAHRI |  |
 | OSGOOD | TANKER | 108936 | 2008 | Shanghai Waigaoqiao Shbldg | 40.00 | MIDDLE EASTERN |  |
 | CRIMSON PEARL | TANKER | 51492 | 2017 | MINAMINIPPON SHBLDG | 31.00 | DAMICO |  |
 | ELEGANT GRACE | TANKER | 50698 | 2009 | SPP Shipbuilding - Tongyeong | 28.00 | UNDISCLOSED |  |
@@ -38,7 +38,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W35_WK-35-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SOLA GRATIA CEMENT | 4,582 | 2052 |  | 1985 | Honda Zosen 468 |  |  |  |
+| SOLA GRATIA | CEMENT CARRIER | 4582 | 2052 | 1985 | Honda Zosen | 468 | BANGLADESH |  |
 
 ## Newbuilding Market
 
@@ -92,7 +92,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W35_WK-35-24-CARRIERS_SP-
 | CAPE 180K | 22846 | 1336 | 21510 |
 | TESS 82K | 12432 | -2841 | 15273 |
 | LME 74K | 11096 | -2841 | 13937 |
-| SUPRA 63K | 14483.0 | 152.0 | 14635.0 |
+| TESS 58K | 14483.0 | 152.0 | 14635.0 |
 | HANDY 38K | 13470 | -179 | 13649 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

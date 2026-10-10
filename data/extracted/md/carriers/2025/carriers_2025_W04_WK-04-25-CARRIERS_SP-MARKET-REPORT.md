@@ -17,6 +17,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W04_WK-04-25-CARRIERS_SP-
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | GLOBAL ENTERPRISE | BC | 176768 | 2010 | Namura Shipbuilding - Imari | 29.00 | KOREAN |  |
+| NAVIOS ASTERIKS | BC | 76801 | 2005 | Sasebo Heavy Industries | 8.00 | VIETNAMESE |  |
 | ANAIS | BC | 76015 | 2002 | Tsuneishi Shbldg - Fkym - earl | 5.60 | CHINESE |  |
 | FAME | BC | 75912 | 2004 | Tsuneishi Corp - Fukuyama | 8.00 | UNDISCLOSED |  |
 | CAMELLIA | BC | 75321 | 2013 | Guangzhou Huangpu Shipbuilding | 15.80 | UNDISCLOSED |  |
@@ -24,6 +25,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W04_WK-04-25-CARRIERS_SP-
 | NORD MAGELLAN | BC | 63547 | 2020 | Iwagi Zosen Co Ltd | 29.20 | MEGHNA |  |
 | CMB RUBENS | BC | 63514 | 2018 | Shin Kasado Dockyard Co Ltd | 27.60 | MEGHNA |  |
 | PAPAYIANNIS III | BC | 58429 | 2010 | SPP Plant & Shipbuilding Co | 11.70 | UNDISCLOSED |  |
+| WOODGATE | BC | 28219 | 2011 | I-S Shipyard Co Ltd | 10.50 | VIETNAMESE |  |
 | NORDIC APOLLO | TANKER | 159988 | 2003 | Samsung Heavy Inds - Geoje | 22.50 | UK |  |
 | CRUDE CENTURION | TANKER | 112863 | 2010 | New Times Shipbuilding Co Ltd | HIGH 33’s | CHINESE |  |
 | SEA FALCON | TANKER | 110295 | 2007 | Mitsui Chiba Ichihara | 30.50 | CHINESE |  |
@@ -37,16 +39,16 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W04_WK-04-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| OCEAN PEACE BC | 73,144 | 10848 |  | 1994 | HYUNDAI HI 455 |  |  |  |
-| WELLGEM BC | 69,925 | 9478 |  | 1997 | SANOYAS 420 |  | AS | IS CHINA |
-| LEENA BC | 22,050 | 5040 |  | 1994 | SAIKI HI 441 |  |  |  |
+| OCEAN PEACE | BC | 73144 | 10848 | 1994 | HYUNDAI HI | 455 | BANGLADESH |  |
+| WELLGEM | BC | 69925 | 9478 | 1997 | SANOYAS | 420 | UNDISCLOSED | AS IS CHINA |
+| LEENA | BC | 22050 | 5040 | 1994 | SAIKI HI | 441 | INDIA |  |
 
 ## Newbuilding Market
 
 | Type | Units | Size | Yard | Delivery | Price ($M) | Owners | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | 1 | 180,000 CBM | SAMSUNG HI | 2027 | 261 EACH | CELSIUS TANKERS | PLUS 2 OPTION |
-| TANKER | 2 | 158,000 DWT | DH SHIPBUILDING | 2027 | HIGH 80’S | SUN ENTERPRISES |  |
+| TANKER | 2 | 158,000 DWT | DH SHIPBUILDING | 2027 | HIGH 80’S EACH | SUN ENTERPRISES |  |
 
 ## BSPA Secondhand Market Assessments (5 Years Old)
 

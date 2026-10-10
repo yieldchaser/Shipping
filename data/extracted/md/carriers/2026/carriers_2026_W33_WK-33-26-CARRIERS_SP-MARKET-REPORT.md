@@ -16,28 +16,28 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W33_WK-33-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| JIAN FA | BC | 175085 | 2004 | Shanghai Waigaoqiao Shbldg | 18,500,000 UNDISCLOSED | Scrubber | fitted |
-| BBG WUZHOU | BC | 81895 | 2016 | Tsuneishi Zhoushan Shbldg | 29,000,000 UNDISCLOSED |  |  |
-| PRESINGE | BC | 81886 | 2015 | Tsuneishi Zhoushan Shbldg | 31,000,000 UNDISCLOSED |  |  |
+| JIAN FA | BC | 175085 | 2004 | Shanghai Waigaoqiao Shbldg | 18,500,000 | UNDISCLOSED | Scrubber fitted |
+| BBG WUZHOU | BC | 81895 | 2016 | Tsuneishi Zhoushan Shbldg | 29,000,000 | UNDISCLOSED |  |
+| PRESINGE | BC | 81886 | 2015 | Tsuneishi Zhoushan Shbldg | 31,000,000 | UNDISCLOSED |  |
 | KARTINI SAMUDRA | BC | 73592 | 2004 | Daewoo Shipbuilding | 7,800,000 | CHINESE |  |
 | GRAMOS | BC | 61171 | 2019 | Nantong COSCO KHI Ship | 34,500,000 | GREEK |  |
-| GLOBAL ORIOLE | BC | 58716 | 2012 | Nantong COSCO KHI Ship | 19,00,000 UNDISCLOSED |  |  |
-| LILA MUNDRA | BC | 57269 | 2009 | STX Dalian Shipbuilding Co | 12,500,000 UNDISCLOSED |  |  |
+| GLOBAL ORIOLE | BC | 58716 | 2012 | Nantong COSCO KHI Ship | 19,00,000 | UNDISCLOSED |  |
+| LILA MUNDRA | BC | 57269 | 2009 | STX Dalian Shipbuilding Co | 12,500,000 | UNDISCLOSED |  |
 | SONANGOL NAMIBE | TANKER | 158425 | 2007 | Daewoo Shipbuilding & | 49,700,000 | BEST OASIS |  |
 | BRISTOL | TANKER | 157077 | 2024 | Hyundai Samho HI | 123,000,000 | NAFTOMAR |  |
-| ON PROMISE | TANKER | 50100 | 2026 | HD Hyundai Mipo Co Ltd | 59,000,000 UNDISCLOSED | Dely | ex yard |
-| ON PROSPER | TANKER | 50100 | 2026 | HD Hyundai Mipo Co Ltd | 59,000,000 UNDISCLOSED | Dely | ex yard |
-| ATLANTIC EAGLE | TANKER | 47128 | 2007 | Hyundai Mipo Dockyard Co | 18,000,000 UNDISCLOSED |  |  |
-| MUMBAI | TANKER | 46818 | 2003 | Hyundai Mipo Dockyard Co | 10,350,000 UNDISCLOSED |  |  |
-| MAERSK KATE | TANKER | 39756 | 2010 | Guangzhou Shipyard Intl Co L | 21,900,000 UNDISCLOSED |  |  |
-| DAMSGAARD | TANKER | 19998 | 2016 | Fukuoka Shipbuilding | 33,000,000 UNDISCLOSED |  | ST.STEEL |
-| AS SICILIA | CV | 25927 | 2008 | Taizhou Kouan Shipbuilding | 18,500,000 UNDISCLOSED |  | 1,794 TEU |
+| ON PROMISE | TANKER | 50100 | 2026 | HD Hyundai Mipo Co Ltd | 59,000,000 | UNDISCLOSED | Dely ex yard |
+| ON PROSPER | TANKER | 50100 | 2026 | HD Hyundai Mipo Co Ltd | 59,000,000 | UNDISCLOSED | Dely ex yard |
+| ATLANTIC EAGLE | TANKER | 47128 | 2007 | Hyundai Mipo Dockyard Co | 18,000,000 | UNDISCLOSED |  |
+| MUMBAI | TANKER | 46818 | 2003 | Hyundai Mipo Dockyard Co | 10,350,000 | UNDISCLOSED |  |
+| MAERSK KATE | TANKER | 39756 | 2010 | Guangzhou Shipyard Intl Co L | 21,900,000 | UNDISCLOSED |  |
+| DAMSGAARD | TANKER | 19998 | 2016 | Fukuoka Shipbuilding | 33,000,000 | UNDISCLOSED | ST.STEEL |
+| AS SICILIA | CV | 25927 | 2008 | Taizhou Kouan Shipbuilding | 18,500,000 | UNDISCLOSED | 1,794 TEU |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ISA STAR | MPP | 8275 | 3412 | 2000 | Stocznia Gdanska | 475 |  |  |
+| ISA STAR | MPP | 8275 | 3412 | 2000 | Stocznia Gdanska | 475 | BANGLADESH |  |
 
 ## Newbuilding Market
 

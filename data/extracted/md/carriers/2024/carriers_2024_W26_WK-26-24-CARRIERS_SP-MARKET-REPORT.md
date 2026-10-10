@@ -28,6 +28,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W26_WK-26-24-CARRIERS_SP-
 | BEATE OLDENDORFF | BC | 62623 | 2020 | Oshima Shipbuilding Co Ltd | 38.30 | EUROPEAN |  |
 | GENCO WARRIOR | BC | 55435 | 2005 | Nantong COSCO KHI Ship Eng | 12.00 | CHINESE |  |
 | TAI HUNTER | BC | 55418 | 2007 | Oshima Shipbuilding Co Ltd | 14.80 | CHINESE |  |
+| GOLD DUST | BC | 28420 | 2012 | Imabari Shbldg - Imabari | 12.00 | VIETNAMESE |  |
 | STELLAR ALAZANI | BC | 28180 | 2014 | I-S Shipyard Co Ltd | 13.00 | UNDISCLOSED |  |
 | C. PROSPERITY | TANKER | 313525 | 2009 | Hyundai Heavy Inds - Ulsan | 53.00 | NEW SHIPPING | SS/DD DUE |
 | FRONT THOR | TANKER | 156719 | 2010 | Jiangsu Rongsheng | 48.00 | FAR EASTERN |  |
@@ -46,7 +47,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W26_WK-26-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MOSHTARAKA 2 BC | 94,274 | 14398 |  | 1995 | Mitsubishi HI 540 |  | FAKKAN 450T | / INCL BUNKERS |
+| MOSHTARAKA 2 | BC | 94274 | 14398 | 1995 | Mitsubishi HI | 540 | UNDISCLOSED | AS IS KHOR FAKKAN / INCL 450T BUNKERS |
 
 ## Newbuilding Market
 
@@ -100,7 +101,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W26_WK-26-24-CARRIERS_SP-
 | CAPE 180K | 25650 | 1287 | 24363 |
 | TESS 82K | 16131 | -1506 | 17637 |
 | LME 74K | 14795 | -1506 | 16301 |
-| SUPRA 63K | 15451.0 | 641.0 | 14810.0 |
+| TESS 58K | 15451.0 | 641.0 | 14810.0 |
 | HANDY 38K | 13634 | 741 | 12893 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

@@ -26,7 +26,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W04_WK-4-26-CARRIERS_SP-M
 | INDIGO SPICA | BC | 58052 | 2014 | Shin Kurushima Toyohashi | 20.50 | UNDISCLOSED |  |
 | SOUTH SPIRIT | BC | 29482 | 1998 | Shin Kurushima Onishi | 4.50 | LEBANESE |  |
 | SPHERICAL | TANKER | 313166 | 2022 | Imabari Shbldg - Saijo | 130.00 | TRAFIGURA |  |
-| CSSC LIAO NING | TANKER | 307880 | 2020 | Dalian Shipbuilding Ind - No 2 | 112.00 | GREEK KOCH | INCL T/C TO @ $41K PD TILL MAY |
+| CSSC LIAO NING | TANKER | 307880 | 2020 | Dalian Shipbuilding Ind - No 2 | 112.00 | GREEK | INCL T/C TO KOCH @ $41K PD TILL MAY |
 | DILONG SPIRIT | TANKER | 159021 | 2009 | Bohai Shipbuilding Heavy Ind | 40.00 | GREEK |  |
 | ARCTIC STAR | TANKER | 156790 | 2026 | Daehan Shipbuilding - Haenam | 99.30 | OKEANIS ECO TANKERS | DELY MAY |
 | TROMSO STAR | TANKER | 156790 | 2026 | Daehan Shipbuilding - Haenam | 99.30 | OKEANIS ECO TANKERS | DELY JUNE |
@@ -40,6 +40,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W04_WK-4-26-CARRIERS_SP-M
 | OCEAN SPIRIT | TANKER | 49995 | 2012 | SPP Shipbuilding - Tongyeong | 27.20 | UNDISCLOSED |  |
 | SKY DWELLER | TANKER | 46319 | 2004 | Hanjin HI & Const - Busan | 10.90 | UNDISCLOSED |  |
 | MAERSK KARA | TANKER | 38396 | 2008 | Guangzhou Shipyard Intl | 12.00 | UNDISCLOSED |  |
+| NORDIC MASA | TANKER | 20819 | 2009 | Shin Kurushima Akitsu | 18.00 | VIETNAMESE | ST.STEEL |
 | IBRA LNG | LNG | 81057 | 2006 | Samsung Heavy Inds - Geoje | 110.00 EN BLOC | UNDISCLOSED |  |
 | SALALAH LNG | LNG | 81034 | 2005 | Samsung Heavy Inds - Geoje | 110.00 EN BLOC | UNDISCLOSED |  |
 | IBRI LNG | LNG | 77282 | 2006 | Mitsubishi Nagasaki | 110.00 EN BLOC | UNDISCLOSED |  |
@@ -51,8 +52,8 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W04_WK-4-26-CARRIERS_SP-M
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LUMOSO PERMAI | BC | 45216 | 7628 | 1994 | KK Kanasashi | 375 | AS | IS MALAYSIA |
-| QUARTZ | TANKER | 46116 | 9453 | 1996 | Brodosplit | 435 | INCL | AS IS SPORE BUNKERS |
+| LUMOSO PERMAI | BC | 45216 | 7628 | 1994 | KK Kanasashi | 375 | UNDISCLOSED | AS IS MALAYSIA |
+| QUARTZ | TANKER | 46116 | 9453 | 1996 | Brodosplit | 435 | UNDISCLOSED | AS IS SPORE INCL BUNKERS |
 
 ## Newbuilding Market
 

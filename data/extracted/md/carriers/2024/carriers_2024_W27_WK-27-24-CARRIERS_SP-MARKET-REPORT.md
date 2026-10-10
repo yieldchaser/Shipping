@@ -44,7 +44,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W27_WK-27-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| APJ MAHAKALI BC | 70,296 | 9126 |  | 1996 | Sanoyas 525 |  | AS | IS COLOMBO |
+| APJ MAHAKALI | BC | 70296 | 9126 | 1996 | Sanoyas | 525 | UNDISCLOSED | AS IS COLOMBO |
 
 ## Newbuilding Market
 
@@ -98,7 +98,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W27_WK-27-24-CARRIERS_SP-
 | CAPE 180K | 31438 | 5788 | 25650 |
 | TESS 82K | 14955 | -1176 | 16131 |
 | LME 74K | 13619 | -1176 | 14795 |
-| SUPRA 63K | 15064.0 | -387.0 | 15451.0 |
+| TESS 58K | 15064.0 | -387.0 | 15451.0 |
 | HANDY 38K | 13718 | 84 | 13634 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

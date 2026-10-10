@@ -60,7 +60,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W21_WK-2122-24-CARRIERS_S
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| UNITED ID BC | 38,855 | 7173 |  | 1991 | Ishikawajima 529 |  |  |  |
+| UNITED ID | BC | 38855 | 7173 | 1991 | Ishikawajima | 529 | PAKISTAN |  |
 
 ## Newbuilding Market
 
@@ -114,7 +114,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W21_WK-2122-24-CARRIERS_S
 | CAPE 180K | 22808 | 348 | 22460 |
 | TESS 82K | 15466 | -834 | 16300 |
 | LME 74K | 14130 | -834 | 14964 |
-| SUPRA 63K | 14150.0 | -1158.0 | 15308.0 |
+| TESS 58K | 14150.0 | -1158.0 | 15308.0 |
 | HANDY 38K |  | 484 | 12434 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

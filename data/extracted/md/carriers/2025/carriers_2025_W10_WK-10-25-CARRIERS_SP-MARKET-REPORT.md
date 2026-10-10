@@ -55,8 +55,8 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W10_WK-10-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SEA WISE BC | 24,842 | 5588 |  | 1995 | Naikai Zosen 420 |  |  |  |
-| KRITI II RORO/PASS | 5,339 | 12920 |  | 1979 | Koyo Dockyard 279 |  |  |  |
+| SEA WISE | BC | 24842 | 5588 | 1995 | Naikai Zosen | 420 | BANGLADESH |  |
+| KRITI II | RORO/PASS | 5339 | 12920 | 1979 | Koyo Dockyard | 279 | TURKEY |  |
 
 ## Newbuilding Market
 

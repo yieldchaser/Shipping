@@ -37,7 +37,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W16_WK-16-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SEA DOVE BC | 36,639 | 7793 |  | 1987 | Oshima 450 |  |  |  |
+| SEA DOVE | BC | 36639 | 7793 | 1987 | Oshima | 450 | INDIA |  |
 
 ## Newbuilding Market
 

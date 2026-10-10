@@ -38,16 +38,16 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W41_WK-41-24-CARRIERS_SP-
 | MAERSK BARRY | TANKER | 29040 | 2006 | Guangzhou Shipyard Intl Co | - | FAR EASTERN |  |
 | LILA FRONTIER | TANKER | 19806 | 2004 | Kitanihon | 16.10 | KOREAN |  |
 | LARISA | TANKER | 8924 | 2003 | Shin Kurushima Imabari | 7.50 | INDONESIAN |  |
-| GENOA EXPRESS | CV | 52038 | 2014 | HHIC-Phil Inc |  |  |  |
-| DETROIT EXPRESS | CV | 52033 | 2014 | HHIC-Phil Inc | 180.00 EN BLOC | MPC |  |
-| BARCELONA EXPRESS | CV | 51950 | 2014 | HHIC-Phil Inc | 180.00 EN BLOC | CONTAINERS |  |
-| LIVORNO EXPRESS | CV | 51916 | 2014 | HHIC-Phil Inc | 180.00 EN BLOC | CONTAINERS |  |
+| GENOA EXPRESS | CV | 52038 | 2014 | HHIC-Phil Inc | 180.00 EN BLOC | MPC CONTAINERS |  |
+| DETROIT EXPRESS | CV | 52033 | 2014 | HHIC-Phil Inc | 180.00 EN BLOC | MPC CONTAINERS |  |
+| BARCELONA EXPRESS | CV | 51950 | 2014 | HHIC-Phil Inc | 180.00 EN BLOC | MPC CONTAINERS |  |
+| LIVORNO EXPRESS | CV | 51916 | 2014 | HHIC-Phil Inc | 180.00 EN BLOC | MPC CONTAINERS |  |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MSC ADELE CV | 30,950 | 8800 |  | 1986 | Howaldtswerke 501 |  |  |  |
+| MSC ADELE | CV | 30950 | 8800 | 1986 | Howaldtswerke | 501 | INDIA |  |
 
 ## Newbuilding Market
 

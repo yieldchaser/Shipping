@@ -45,7 +45,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W25_WK-25-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SERANO II TANKER | 106,552 | 16290 |  | 1999 | Nippon Kokan |  |  |  |
+| SERANO II | TANKER | 106552 | 16290 | 1999 | Nippon Kokan | - | BANGLADESH |  |
 
 ## Newbuilding Market
 
@@ -98,7 +98,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W25_WK-25-24-CARRIERS_SP-
 | CAPE 180K | 24363 | -396 | 24759 |
 | TESS 82K | 17637 | 1718 | 15919 |
 | LME 74K | 16301 | 1718 | 14583 |
-| SUPRA 63K | 14810.0 | 984.0 | 13826.0 |
+| TESS 58K | 14810.0 | 984.0 | 13826.0 |
 | HANDY 38K | 12893 | 35 | 12858 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

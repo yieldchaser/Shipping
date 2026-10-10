@@ -20,23 +20,23 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W04_WK-4-24-CARRIERS_SP-M
 | KERVEROS | BC | 76602 | 2003 | Imabari Shbldg - Marugame | 9.30 | UNDISCLOSED | SS 07/2025 |
 | ALPHA AFOVOS | BC | 74428 | 2001 | Daewoo Shipbuilding & Marine | 7.00 | UNDISCLOSED | SS 03/2026 |
 | LAN HAI SHENG HUI | BC | 56616 | 2011 | China Shipping Ind Jiangsu | 12.50 Each | UNDISCLOSED | SS 12/2026 |
-| HAI YANG ZHI HUA | BC | 56603 | 2011 | China Shipping Ind Jiangsu |  |  | SS 09/2026 |
+| HAI YANG ZHI HUA | BC | 56603 | 2011 | China Shipping Ind Jiangsu | 12.50 Each | UNDISCLOSED | SS 09/2026 |
 | ISABELLA M | BC | 56056 | 2006 | Mitsui Tamano | 12.00 | CHINESE | SS 07/2026 |
 | AMARNATH | BC | 53169 | 2004 | Iwagi Zosen Co Ltd | 7.75 | UNDISCLOSED | SS 03/2024 |
 | UNI WEALTH | BC | 29256 | 2009 | Yangzhou Nakanishi Shbldg | 8.50 | UNDISCLOSED |  |
 | ANTHIA | BC | 28740 | 2002 | Shina Shipbuilding Co Ltd | 6.50 | UNDISCLOSED |  |
 | ELIZABETH I.A. | TANKER | 306229 | 2004 | Daewoo Shipbuilding & Marine | 34.00 | CHINESE | SS 03/2024 |
-| MORVIKEN | TANKER | 157610 | 2018 | Samsung Heavy Inds - Geoje |  |  | SS 07/2023 |
-| BREIVIKEN | TANKER | 112504 | 2018 | Samsung Heavy Inds - Geoje |  |  | ICE 1A |
+| MORVIKEN | TANKER | 157610 | 2018 | Samsung Heavy Inds - Geoje | 357.00 ENBLOC | TEN | SS 07/2023 |
+| BREIVIKEN | TANKER | 112504 | 2018 | Samsung Heavy Inds - Geoje | 357.00 ENBLOC | TEN | ICE 1A |
 | EIKEVIKEN | TANKER | 112459 | 2019 | Samsung Heavy Inds - Geoje | 357.00 ENBLOC | TEN | ICE 1A |
-| ASKVIKEN | TANKER | 109999 | 2023 | Guangzhou Shipyard Intl Co Ltd |  |  | DUAL FUEL |
-| ANGLEVIKEN | TANKER | 109999 | 2023 | Guangzhou Shipyard Intl Co Ltd |  |  | DUAL FUEL |
+| ASKVIKEN | TANKER | 109999 | 2023 | Guangzhou Shipyard Intl Co Ltd | 357.00 ENBLOC | TEN | DUAL FUEL |
+| ANGLEVIKEN | TANKER | 109999 | 2023 | Guangzhou Shipyard Intl Co Ltd | 357.00 ENBLOC | TEN | DUAL FUEL |
 | FAIR SEAS | TANKER | 115406 | 2008 | StX Shipbuilding - Jinhae | 43.50 | CHINESE | SS 07/2028 |
 | WONDER SIRIUS | TANKER | 115340 | 2005 | Samsung Heavy Inds - Geoje | 33.80 | UNDISCLOSED | EPOXY |
 | MARE ORIENS | TANKER | 110295 | 2008 | Mitsui Chiba Ichihara | 42.00 | CHINESE | EPOXY |
 | PATARIS | TANKER | 73774 | 2009 | New Times Shipbuilding Co Ltd | 26.00 | TRAFIGURA | EPOXY |
 | BROOK TROUT | TANKER | 73672 | 2007 | Stx Shipbuilding - Jinhae | 26.00 Each | EMARAT DUBAI | SS 08/2027 |
-| LAKE TROUT | TANKER | 73580 | 2007 | Stx Shipbuilding - Jinhae |  |  | SS 07/2027 |
+| LAKE TROUT | TANKER | 73580 | 2007 | Stx Shipbuilding - Jinhae | 26.00 Each | EMARAT DUBAI | SS 07/2027 |
 | LADY MALOU | TANKER | 51486 | 2013 | Hyundai Mipo Dockyard Co Ltd | 36.00 | UNDISCLOSED | SS 01/2028 |
 | STI TRIBECA | TANKER | 49990 | 2015 | Spp Shipbuilding - Sac | 39.10 | KSS LINE KOREA | SS 01/2025 |
 | OWL 2 | TANKER | 13020 | 2008 | 21st Century Shipbuilding Co | 9.30 | TURKISH | COATED SS 12/2023 |
@@ -45,10 +45,10 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W04_WK-4-24-CARRIERS_SP-M
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MSC EAGLE F MPP | 17,451 | 6878 |  | 2005 | Jingjiang 505 |  |  |  |
-| MTT CV | 10,354 | 3826 |  | 1996 | Hanjin HI |  |  |  |
-| GREEN REEFER | 6,120 | 2979 |  | 1991 | Kvaerner Kleven Leirvik |  | HKC RECYCLING | GREEN |
-| MOBY RORO | 5,479 | 2541 |  | 1974 | Rickmers Rhederei |  |  |  |
+| MSC EAGLE F | MPP | 17451 | 6878 | 2005 | Jingjiang | 505 | INDIA |  |
+| MTT SINGAPORE | CV | 10354 | 3826 | 1996 | Hanjin HI | - | MALAYSIA |  |
+| GREEN FREEZER | REEFER | 6120 | 2979 | 1991 | Kvaerner Kleven Leirvik | - | INDIA | HKC GREEN RECYCLING |
+| MOBY VINCENT | RORO | 5479 | 2541 | 1974 | Rickmers Rhederei | - | LIVORNO |  |
 
 ## Newbuilding Market
 
@@ -107,7 +107,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W04_WK-4-24-CARRIERS_SP-M
 | CAPE 180K | 18842 | 3253 | 15589 |
 | TESS 82K | 14186 | 1477 | 12709 |
 | LME 74K | 12850 | 1477 | 11373 |
-| SUPRA 63K | 11301.0 | -554.0 | 11855.0 |
+| TESS 58K | 11301.0 | -554.0 | 11855.0 |
 | HANDY 38K | 10700 | -198 | 10898 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

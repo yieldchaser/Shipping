@@ -38,7 +38,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W35_WK-35-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TRADER II LNG TANKER | arnd | 28241 |  | 2002 | 480 |  | AS | IS SPORE |
+| TRADER II | LNG TANKER | arnd 75,000 | 28241 | 2002 |  | 480 | UNDISCLOSED | AS IS SPORE |
 
 ## Newbuilding Market
 

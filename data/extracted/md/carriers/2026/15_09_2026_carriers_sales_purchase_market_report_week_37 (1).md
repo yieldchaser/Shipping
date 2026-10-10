@@ -16,26 +16,26 @@ source: `corpus/01-brokers/carriers/2026/15_09_2026_carriers_sales_purchase_mark
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| OSAKA STAR | BC | 84947 | 2016 | Sasebo Heavy Industries | 34,000,000 UNDISCLOSED |  |  |
-| BW JAPAN | BC | 81609 | 2019 | Tsuneishi Heavy Inds Cebu | 38,250,000 GREAT | EASTERN |  |
-| DAEBO GLADSTONE | BC | 81399 | 2013 | Hyundai Samho HI | 21,000,000 UNDISCLOSED |  |  |
-| SEA ORION | BC | 76602 | 2005 | Imabari Shbldg - Marugame | 11,500,000 UNDISCLOSED |  |  |
-| MELIA | BC | 76225 | 2005 | Tsuneishi Corp - Tadotsu | 11,500,000 UNDISCLOSED |  |  |
+| OSAKA STAR | BC | 84947 | 2016 | Sasebo Heavy Industries | 34,000,000 | UNDISCLOSED |  |
+| BW JAPAN | BC | 81609 | 2019 | Tsuneishi Heavy Inds Cebu | 38,250,000 | GREAT EASTERN |  |
+| DAEBO GLADSTONE | BC | 81399 | 2013 | Hyundai Samho HI | 21,000,000 | UNDISCLOSED |  |
+| SEA ORION | BC | 76602 | 2005 | Imabari Shbldg - Marugame | 11,500,000 | UNDISCLOSED |  |
+| MELIA | BC | 76225 | 2005 | Tsuneishi Corp - Tadotsu | 11,500,000 | UNDISCLOSED |  |
 | AE JUPITER | BC | 74475 | 2007 | Hudong-Zhonghua | 11,500,000 | CHINESE |  |
-| DOLPHIN 76 | BC | 74133 | 2002 | Namura Shipbuilding - Imari | 7,800,000 UNDISCLOSED |  |  |
-| OCEAN GLORY | BC | 48437 | 2001 | Sanoyas Hishino Meisho Corp | 5,800,000 UNDISCLOSED |  |  |
-| BOSTON HARMONY | BC | 38561 | 2015 | Shin Kurushima Toyohashi | 23,000,000 UNDISCLOSED |  |  |
+| DOLPHIN 76 | BC | 74133 | 2002 | Namura Shipbuilding - Imari | 7,800,000 | UNDISCLOSED |  |
+| OCEAN GLORY | BC | 48437 | 2001 | Sanoyas Hishino Meisho Corp | 5,800,000 | UNDISCLOSED |  |
+| BOSTON HARMONY | BC | 38561 | 2015 | Shin Kurushima Toyohashi | 23,000,000 | UNDISCLOSED |  |
 | CRIMSON WYOMING | BC | 33117 | 2015 | Kanda Kawajiri | 18,000,000 | GREEK |  |
 | NISSOS HERACLEA | TANKER | 313525 | 2009 | Hyundai Heavy Inds - Ulsan | 112,000,000 | MIDDLE EASTERN |  |
-| PINIOS | TANKER | 299999 | 2026 | Hengli Shipbuilding Dalian | 200,000,000 UNDISCLOSED |  |  |
-| NEWNEW PANDA 1 | CV | 53697 | 2007 | Hyundai Mipo | 43,000,000 UNDISCLOSED |  | 4,363 TEU |
+| PINIOS | TANKER | 299999 | 2026 | Hengli Shipbuilding Dalian | 200,000,000 | UNDISCLOSED |  |
+| NEWNEW PANDA 1 | CV | 53697 | 2007 | Hyundai Mipo | 43,000,000 | UNDISCLOSED | 4,363 TEU |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| UNIORDER | BC | 47240 | 7078 | 1997 | Oshima | 450 | AS | IS INDONESIA |
-| V. L. 15 | TANKER | 2816 | 1427 | 1994 | Murakami Hide | 515 |  |  |
+| UNIORDER | BC | 47240 | 7078 | 1997 | Oshima | 450 | UNDISCLOSED | AS IS INDONESIA |
+| V. L. 15 | TANKER | 2816 | 1427 | 1994 | Murakami Hide | 515 | BANGLADESH |  |
 
 ## Newbuilding Market
 

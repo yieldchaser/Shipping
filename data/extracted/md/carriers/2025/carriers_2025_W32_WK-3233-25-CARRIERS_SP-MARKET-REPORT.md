@@ -16,9 +16,9 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W32_WK-3233-25-CARRIERS_S
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| MINERAL UTAMARO | BC | 207469 | 2016 | Imabari Shbldg - Saijo |  |  |  |
-| MINERAL EDO | BC | 207219 | 2015 | Imabari Shbldg - Saijo | 165.00 EN BLOC | ASYAD |  |
-| MINERAL HOKUSAI | BC | 207219 | 2015 | Imabari Shbldg - Saijo | 165.00 EN BLOC | SHIPPING |  |
+| MINERAL UTAMARO | BC | 207469 | 2016 | Imabari Shbldg - Saijo | 165.00 EN BLOC | ASYAD SHIPPING |  |
+| MINERAL EDO | BC | 207219 | 2015 | Imabari Shbldg - Saijo | 165.00 EN BLOC | ASYAD SHIPPING |  |
+| MINERAL HOKUSAI | BC | 207219 | 2015 | Imabari Shbldg - Saijo | 165.00 EN BLOC | ASYAD SHIPPING |  |
 | CAPE AQUA | BC | 178055 | 2009 | Shanghai Waigaoqiao Shbldg | 24.00 | UNDISCLOSED |  |
 | KM NAGOYA | BC | 95349 | 2012 | Imabari Shbldg - Marugame | 17.50 | UNDISCLOSED |  |
 | RED MARLIN | BC | 85015 | 2017 | Sasebo Heavy Industries | 26.00 | DANISH |  |
@@ -57,7 +57,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W32_WK-3233-25-CARRIERS_S
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| YA HUSSEIN BC | 24,290 | 5413 |  | 1996 | Hakodate Dock |  |  |  |
+| YA HUSSEIN | BC | 24290 | 5413 | 1996 | Hakodate Dock | - | INDIA |  |
 
 ## Newbuilding Market
 

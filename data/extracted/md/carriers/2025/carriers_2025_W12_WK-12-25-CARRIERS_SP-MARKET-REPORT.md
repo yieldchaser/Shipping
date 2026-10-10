@@ -48,14 +48,14 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W12_WK-12-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| EM UNITY TANKER | 106,131 | 15672 |  | 1999 | Namura |  |  |  |
-| VERTEX TANKER | 1,999 | 1087 |  | 1981 | Kogushi Zosen 735 |  |  | St.Steel |
+| EM UNITY | TANKER | 106131 | 15672 | 1999 | Namura | - | Bangladesh |  |
+| VERTEX | TANKER | 1999 | 1087 | 1981 | Kogushi Zosen | 735 | India | St.Steel |
 
 ## Newbuilding Market
 
 | Type | Units | Size | Yard | Delivery | Price ($M) | Owners | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| BC | 2 | 39,000 DWT | NAIKAI ZOSEN | TBA | 70.75 EN | WISDOM MARINE |  |
+| BC | 2 | 39,000 DWT | NAIKAI ZOSEN | TBA | 70.75 EN BLOC | WISDOM MARINE |  |
 
 ## BSPA Secondhand Market Assessments (5 Years Old)
 

@@ -38,8 +38,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W18_WK-18-24-CARRIERS_SP-
 | SEAWAYS NIAGARA | TANKER | 51257 | 2008 | STX Shipbuilding - Jinhae | 25.00 | MIDDLE EASTERN |  |
 | SEAWAYS NANTUCKET | TANKER | 51225 | 2008 | STX Shipbuilding - Jinhae | 25.00 | MIDDLE EASTERN |  |
 | DAI MINH | TANKER | 47148 | 2004 | Onomichi Dockyard Co Ltd | 15.00 | UNDISCLOSED |  |
-| GOLD TRADER III | TANKER | 33338 | 2023 | Nantong Xiangyu Shipbuilding | 114.00 EN BLOC | SFL | INCL 8 YR TC |
-| GOLD TRADER II | TANKER | 33324 | 2022 | Nantong Xiangyu Shipbuilding | 114.00 EN BLOC | CORPORATION | STOLT NIELSEN |
+| GOLD TRADER III | TANKER | 33338 | 2023 | Nantong Xiangyu Shipbuilding | 114.00 EN BLOC | SFL CORPORATION | INCL 8 YR TC STOLT NIELSEN |
+| GOLD TRADER II | TANKER | 33324 | 2022 | Nantong Xiangyu Shipbuilding | 114.00 EN BLOC | SFL CORPORATION | INCL 8 YR TC STOLT NIELSEN |
 | TRF KOBE | TANKER | 19997 | 2016 | Kitanihon | 32.00 | UNDISCLOSED |  |
 | TRF KRISTIANSAND | TANKER | 19996 | 2016 | Kitanihon | 32.00 | UNDISCLOSED |  |
 | IVORY RAY | TANKER | 19991 | 2011 | Fukuoka Shipbuilding | 24.90 | UNDISCLOSED |  |
@@ -48,8 +48,8 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W18_WK-18-24-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| GUO DIAN 6 BC | 69,235 | 9637 |  | 1993 | IMABARI 468 |  | AS | IS CHINA |
-| ONE VICTORY BC | 45,496 | 7685 |  | 1996 | TSUNEISHI 494 |  |  |  |
+| GUO DIAN 6 | BC | 69235 | 9637 | 1993 | IMABARI | 468 | UNDISCLOSED | AS IS CHINA |
+| ONE VICTORY | BC | 45496 | 7685 | 1996 | TSUNEISHI | 494 | BANGLADESH |  |
 
 ## Newbuilding Market
 
@@ -102,7 +102,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W18_WK-18-24-CARRIERS_SP-
 | CAPE 180K | 17253 | -5157 | 22410 |
 | TESS 82K | 16719 | -629 | 17348 |
 | LME 74K | 15383 | -629 | 16012 |
-| SUPRA 63K | 16414.0 | 899.0 | 15515.0 |
+| TESS 58K | 16414.0 | 899.0 | 15515.0 |
 | HANDY 38K | 13498 | 106 | 13392 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

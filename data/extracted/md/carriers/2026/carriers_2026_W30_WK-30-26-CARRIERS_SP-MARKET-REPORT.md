@@ -16,32 +16,32 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W30_WK-30-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ATTIKOS | BC | 178929 | 2012 | Sungdong Shipbuilding & Eng | 37,000,000 UNDISCLOSED |  |  |
-| PONT-ROUGE | BC | 82395 | 2025 | JAPAN MARINE UTD - KUR | 36,000,000 UNDISCLOSED |  | FWD DELY |
-| MONT FORT | BC | 82113 | 2012 | TSUNEISHI SHBLDG - TDT | 22,000,000 UNDISCLOSED |  |  |
+| ATTIKOS | BC | 178929 | 2012 | Sungdong Shipbuilding & Eng | 37,000,000 | UNDISCLOSED |  |
+| PONT-ROUGE | BC | 82395 | 2025 | JAPAN MARINE UTD - KUR | 36,000,000 | UNDISCLOSED | FWD DELY |
+| MONT FORT | BC | 82113 | 2012 | TSUNEISHI SHBLDG - TDT | 22,000,000 | UNDISCLOSED |  |
 | YARRA | BC | 78184 | 2015 | Sasebo Heavy Industries | 28,500,000 | CHINESE |  |
-| IVESTOS 8 | BC | 75239 | 2008 | Hudong-Zhonghua | 11,700,000 UNDISCLOSED |  |  |
+| IVESTOS 8 | BC | 75239 | 2008 | Hudong-Zhonghua | 11,700,000 | UNDISCLOSED |  |
 | SEACON TOKYO | BC | 66628 | 2023 | Tsuneishi Zhoushan Shbldg | 41,600,000 | UAE |  |
-| CMB JORDAENS | BC | 63447 | 2019 | Tadotsu Shipyard Co Ltd | 35,200,000 UNDISCLOSED |  |  |
-| AMIS WISDOM VI | BC | 61456 | 2011 | Shin Kasado Dockyard Co Ltd | 22,300,000 UNDISCLOSED | SS/DD | PASSED |
-| UNITED HALO | BC | 55848 | 2012 | IHI Marine United - Kure | 19,000,000 UNDISCLOSED |  |  |
-| VENUS HALO | BC | 55848 | 2012 | IHI Marine United - Kure | 19,000,000 UNDISCLOSED |  |  |
-| CAPT EUGENE | BC | 55499 | 2010 | Mitsui Chiba Ichihara | 16,600,000 UNDISCLOSED |  |  |
-| AFRICAN HARRIER | BC | 37707 | 2014 | Imabari Shbldg - Imabari | 20,100,000 UNDISCLOSED |  |  |
-| IKAN LANDUK | BC | 37115 | 2013 | Onomichi Dockyard Co Ltd | HIGH 16’S UNDISCLOSED |  |  |
-| VELOS EMERALD | TANKER | 115042 | 2008 | Sasebo Heavy Industries | 50,000,000 UNDISCLOSED |  |  |
+| CMB JORDAENS | BC | 63447 | 2019 | Tadotsu Shipyard Co Ltd | 35,200,000 | UNDISCLOSED |  |
+| AMIS WISDOM VI | BC | 61456 | 2011 | Shin Kasado Dockyard Co Ltd | 22,300,000 | UNDISCLOSED | SS/DD PASSED |
+| UNITED HALO | BC | 55848 | 2012 | IHI Marine United - Kure | 19,000,000 | UNDISCLOSED |  |
+| VENUS HALO | BC | 55848 | 2012 | IHI Marine United - Kure | 19,000,000 | UNDISCLOSED |  |
+| CAPT EUGENE | BC | 55499 | 2010 | Mitsui Chiba Ichihara | 16,600,000 | UNDISCLOSED |  |
+| AFRICAN HARRIER | BC | 37707 | 2014 | Imabari Shbldg - Imabari | 20,100,000 | UNDISCLOSED |  |
+| IKAN LANDUK | BC | 37115 | 2013 | Onomichi Dockyard Co Ltd | HIGH 16’S | UNDISCLOSED |  |
+| VELOS EMERALD | TANKER | 115042 | 2008 | Sasebo Heavy Industries | 50,000,000 | UNDISCLOSED |  |
 | ELLIE LADY | TANKER | 109999 | 2009 | Sungdong Shipbuilding & Eng | 47,500,000 | TRAFIGURA |  |
-| EVA HONGKONG | TANKER | 19861 | 2017 | Usuki Shipyard Co Ltd | 30,000,000 UNDISCLOSED |  | ST. STEEL |
-| MH PEGASUS | CV | 86451 | 2023 | Shanghai Waigaoqiao Shbldg |  |  | 7,092 TEU |
-| EA CENTAURUS | CV | 86362 | 2023 | Shanghai Waigaoqiao Shbldg | 85,000,000 | MPC INCL | 3 YEAR TC |
-| MH PERSEUS | CV | 86353 | 2023 | Shanghai Waigaoqiao Shbldg | EACH |  | TO COSCO |
+| EVA HONGKONG | TANKER | 19861 | 2017 | Usuki Shipyard Co Ltd | 30,000,000 | UNDISCLOSED | ST. STEEL |
+| MH PEGASUS | CV | 86451 | 2023 | Shanghai Waigaoqiao Shbldg | 85,000,000 EACH | MPC | 7,092 TEU INCL 3 YEAR TC TO COSCO |
+| EA CENTAURUS | CV | 86362 | 2023 | Shanghai Waigaoqiao Shbldg | 85,000,000 EACH | MPC | 7,092 TEU INCL 3 YEAR TC TO COSCO |
+| MH PERSEUS | CV | 86353 | 2023 | Shanghai Waigaoqiao Shbldg | 85,000,000 EACH | MPC | 7,092 TEU INCL 3 YEAR TC TO COSCO |
 
 ## Demolition Market
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FOREVER | TANKER | 107169 | 16708 | 1997 | Koyo Dockyard | 522 |  |  |
-| HAI HENG | TANKER | 13300 | 4005 | 1999 | Lindenau Schiffswerft | 495 |  |  |
+| FOREVER | TANKER | 107169 | 16708 | 1997 | Koyo Dockyard | 522 | BANGLADESH |  |
+| HAI HENG | TANKER | 13300 | 4005 | 1999 | Lindenau Schiffswerft | 495 | BANGLADESH |  |
 
 ## Newbuilding Market
 

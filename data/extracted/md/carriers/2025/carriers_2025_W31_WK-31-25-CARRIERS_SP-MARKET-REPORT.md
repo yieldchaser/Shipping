@@ -23,17 +23,19 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W31_WK-31-25-CARRIERS_SP-
 | SHANDONG FU ZE | BC | 81781 | 2017 | Jiangsu Jinling Ships Co Ltd | 24.96 | UNDISCLOSED | AUCTION SALE |
 | AQUAVITA TRADER | BC | 81112 | 2016 | Jiangsu New Hantong Ship | 22.00 | UNDISCLOSED |  |
 | GORGOYPIKOOS | BC | 76498 | 2005 | Tsuneishi Corp - Tadotsu | 9.00 | CHINESE | SS/DD PASSED |
-| BELINDA | BC | 63339 | 2016 | Jiangsu Hantong Ship HI |  |  |  |
+| BELINDA | BC | 63339 | 2016 | Jiangsu Hantong Ship HI | 84.00 EN BLOC | SINGAPOREAN |  |
 | BELATLANTIC | BC | 63318 | 2016 | Jiangsu Hantong Ship HI | 84.00 EN BLOC | SINGAPOREAN |  |
 | BELSOUTH | BC | 63297 | 2015 | Jiangsu Hantong Ship HI | 84.00 EN BLOC | SINGAPOREAN |  |
 | BELMONT | BC | 63263 | 2016 | Jiangsu Hantong Ship HI | 84.00 EN BLOC | SINGAPOREAN |  |
 | IVS ATSUGI | BC | 62661 | 2020 | Oshima Shipbuilding Co Ltd | 29.20 | EASTMED |  |
 | DL PANSY | BC | 57835 | 2013 | Samjin Shipbuilding Industries | 14.20 | GREEK |  |
+| STAR GOAL | BC | 55989 | 2010 | IHI Marine United - Yokohama | 15.50 | VIETNAMESE |  |
+| IVY BLUE | BC | 55885 | 2011 | IHI Marine United - Kure | 15.50 | VIETNAMESE |  |
 | EVANGELIA L | BC | 38167 | 2015 | Naikai Zosen Corp - Innoshima | 20.00 | MANTA DENIZCILIK |  |
 | HH DIAMOND | BC | 20501 | 1998 | Flensburger KG | 4.60 | TURKISH | OPEN HATCH |
 | AQUA PEARL | TANKER | 105712 | 2005 | Sumitomo Heavy Marine | 24.80 | UNDISCLOSED |  |
 | SEAWAYS MIA | TANKER | 49999 | 2008 | Hyundai Mipo Dockyard Co Ltd | 16.50 | UNDISCLOSED |  |
-| AS FLORETTA | CONTAINER | 18464 | 2007 | Zhejiang Ouhua Shipbuilding |  |  | 1,284 TEU |
+| AS FLORETTA | CONTAINER | 18464 | 2007 | Zhejiang Ouhua Shipbuilding | 33.00 EN BLOC | UNDISCLOSED | 1,284 TEU |
 | AS FELICIA | CONTAINER | 18291 | 2006 | Zhejiang Ouhua Shipbuilding | 33.00 EN BLOC | UNDISCLOSED | 1,284 TEU |
 | AS FIORELLA | CONTAINER | 18270 | 2007 | Zhejiang Ouhua Shipbuilding | 33.00 EN BLOC | UNDISCLOSED | 1,284 TEU |
 

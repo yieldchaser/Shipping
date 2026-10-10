@@ -40,9 +40,9 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W06_WK-06-25-CARRIERS_SP-
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| EAST PIONEER BC | 72,940 | 10890 |  | 1997 | Daedong 455 |  |  |  |
-| ATHINA 3 TANKER | 39,977 | 9969 |  | 1998 | Hyundai HI 478 |  |  |  |
-| AREL 2 TWEENDECK | 3,170 | 972 |  | 1983 | Scheepswerf 280 Bodewes |  |  |  |
+| EAST PIONEER | BC | 72940 | 10890 | 1997 | Daedong | 455 | BANGLADESH |  |
+| ATHINA 3 | TANKER | 39977 | 9969 | 1998 | Hyundai HI | 478 | INDIA |  |
+| AREL 2 | TWEENDECK | 3170 | 972 | 1983 | Scheepswerf Bodewes | 280 | TURKEY |  |
 
 ## Newbuilding Market
 

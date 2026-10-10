@@ -17,7 +17,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W33_WK-3334-24-CARRIERS_S
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ROSCO POPLAR | BC | 82331 | 2008 | Oshima Shipbuilding Co Ltd | 17.60 | UNDISCLOSED |  |
-| BEAUTY LOTUS | BC | 63685 | 2015 | China Shipping Ind Jiangsu |  | UNDISCLOSED |  |
+| BEAUTY LOTUS | BC | 63685 | 2015 | China Shipping Ind Jiangsu | 97.00 EN BLOC | UNDISCLOSED |  |
 | BEAUTY LILY | BC | 63654 | 2015 | China Shipping Ind Jiangsu | 97.00 EN BLOC | UNDISCLOSED |  |
 | BEAUTY JASMINE | BC | 63638 | 2015 | China Shipping Ind Jiangsu | 97.00 EN BLOC | UNDISCLOSED |  |
 | BEAUTY PEONY | BC | 63587 | 2015 | China Shipping Ind Jiangsu | 97.00 EN BLOC | UNDISCLOSED |  |
@@ -27,18 +27,18 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W33_WK-3334-24-CARRIERS_S
 | CS CAPRICE | BC | 30465 | 2010 | Tsuji Heavy Industries Jiangsu | 11.00 | UNDISCLOSED |  |
 | GALL | TANKER | 28310 | 2018 | Wuhu Shipyard Co Ltd | 26.00 | TURKISH |  |
 | SAMBONG HERA | TANKER | 11416 | 2018 | STX OFFSHORE & SHBLDG | 13.80 | UNDISCLOSED |  |
-| AVANCE POLARIS | VLGC | 58312 | 2022 | Daewoo Shipbuilding & Marine |  |  |  |
-| AVANCE AVIOR | VLGC | 58247 | 2023 | Hanwha Ocean Co Ltd |  |  |  |
-| AVANCE CAPELLA | VLGC | 58243 | 2022 | Daewoo Shipbuilding & Marine |  |  |  |
-| AVANCE RIGEL | VLGC | 58207 | 2023 | Daewoo Shipbuilding & Marine | 1.05 BILLION OF |  |  |
-| MISTRAL | VLGC | 53854 | 2015 | Shanghai Jiangnan Changxing | WHICH 585 |  |  |
-| BREEZE | VLGC | 53781 | 2015 | Shanghai Jiangnan Changxing | MILLION IN CASH, 333 | BW LPG |  |
-| MONSOON | VLGC | 53752 | 2015 | Shanghai Jiangnan Changxing | MILLION IN |  |  |
-| PASSAT | VLGC | 53701 | 2015 | Shanghai Jiangnan Changxing | SHARES AND 132 MILLION IN |  |  |
-| CHINOOK | VLGC | 53660 | 2015 | Shanghai Jiangnan Changxing | DEBT NOVATION |  |  |
-| AVANCE LEVANT | VLGC | 53658 | 2015 | Shanghai Jiangnan Changxing |  |  |  |
-| SIROCCO | VLGC | 53558 | 2015 | Shanghai Jiangnan Changxing |  |  |  |
-| PAMPERO | VLGC | 53503 | 2015 | Shanghai Jiangnan Changxing |  |  |  |
+| AVANCE POLARIS | VLGC | 58312 | 2022 | Daewoo Shipbuilding & Marine | 1.05 BILLION OF WHICH 585 MILLION IN CASH, 333 MILLION IN SHARES AND 132 MILLION IN DEBT NOVATION | BW LPG |  |
+| AVANCE AVIOR | VLGC | 58247 | 2023 | Hanwha Ocean Co Ltd | 1.05 BILLION OF WHICH 585 MILLION IN CASH, 333 MILLION IN SHARES AND 132 MILLION IN DEBT NOVATION | BW LPG |  |
+| AVANCE CAPELLA | VLGC | 58243 | 2022 | Daewoo Shipbuilding & Marine | 1.05 BILLION OF WHICH 585 MILLION IN CASH, 333 MILLION IN SHARES AND 132 MILLION IN DEBT NOVATION | BW LPG |  |
+| AVANCE RIGEL | VLGC | 58207 | 2023 | Daewoo Shipbuilding & Marine | 1.05 BILLION OF WHICH 585 MILLION IN CASH, 333 MILLION IN SHARES AND 132 MILLION IN DEBT NOVATION | BW LPG |  |
+| MISTRAL | VLGC | 53854 | 2015 | Shanghai Jiangnan Changxing | 1.05 BILLION OF WHICH 585 MILLION IN CASH, 333 MILLION IN SHARES AND 132 MILLION IN DEBT NOVATION | BW LPG |  |
+| BREEZE | VLGC | 53781 | 2015 | Shanghai Jiangnan Changxing | 1.05 BILLION OF WHICH 585 MILLION IN CASH, 333 MILLION IN SHARES AND 132 MILLION IN DEBT NOVATION | BW LPG |  |
+| MONSOON | VLGC | 53752 | 2015 | Shanghai Jiangnan Changxing | 1.05 BILLION OF WHICH 585 MILLION IN CASH, 333 MILLION IN SHARES AND 132 MILLION IN DEBT NOVATION | BW LPG |  |
+| PASSAT | VLGC | 53701 | 2015 | Shanghai Jiangnan Changxing | 1.05 BILLION OF WHICH 585 MILLION IN CASH, 333 MILLION IN SHARES AND 132 MILLION IN DEBT NOVATION | BW LPG |  |
+| CHINOOK | VLGC | 53660 | 2015 | Shanghai Jiangnan Changxing | 1.05 BILLION OF WHICH 585 MILLION IN CASH, 333 MILLION IN SHARES AND 132 MILLION IN DEBT NOVATION | BW LPG |  |
+| AVANCE LEVANT | VLGC | 53658 | 2015 | Shanghai Jiangnan Changxing | 1.05 BILLION OF WHICH 585 MILLION IN CASH, 333 MILLION IN SHARES AND 132 MILLION IN DEBT NOVATION | BW LPG |  |
+| SIROCCO | VLGC | 53558 | 2015 | Shanghai Jiangnan Changxing | 1.05 BILLION OF WHICH 585 MILLION IN CASH, 333 MILLION IN SHARES AND 132 MILLION IN DEBT NOVATION | BW LPG |  |
+| PAMPERO | VLGC | 53503 | 2015 | Shanghai Jiangnan Changxing | 1.05 BILLION OF WHICH 585 MILLION IN CASH, 333 MILLION IN SHARES AND 132 MILLION IN DEBT NOVATION | BW LPG |  |
 | KMARIN AZUR | CV | 66347 | 2013 | Hyundai Samho HI | 53.00 | UNDISCLOSED | 4622 TEU |
 | KMARIN ATLANTICA | CV | 66347 | 2013 | Hyundai Samho HI | 53.00 | UNDISCLOSED | 4622 TEU |
 | AS PAOLA | CV | 33868 | 2005 | Aker MTW Werft GmbH | 20.50 | HMM | 2478 TEU |
@@ -49,7 +49,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W33_WK-3334-24-CARRIERS_S
 
 | Name | Type | DWT | LDT | Built | Yard | Price ($/LDT) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NAHIDE-M BC | 27,917 | 6984 |  | 1995 | Nakai Zosen 510 |  |  |  |
+| NAHIDE-M | BC | 27917 | 6984 | 1995 | Nakai Zosen | 510 | BANGLADESH |  |
 
 ## Newbuilding Market
 
@@ -103,7 +103,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W33_WK-3334-24-CARRIERS_S
 | CAPE 180K | 21510 | 1502 | 20008 |
 | TESS 82K | 15273 | 1016 | 14257 |
 | LME 74K | 13937 | 1016 | 12921 |
-| SUPRA 63K | 14635.0 | 396.0 | 14239.0 |
+| TESS 58K | 14635.0 | 396.0 | 14239.0 |
 | HANDY 38K | 13649 | 46 | 13603 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
