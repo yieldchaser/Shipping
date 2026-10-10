@@ -14,6 +14,7 @@ MATRIX_HEADING = "VV Mini Matrix \u2013 Weekly Change (%)"
 DEAL_HEADERS = ("Vessel", "Class", "Size", "Built", "Yard", "Buyer", "Price ($M)", "VV Value ($M)",
                 "Premium (%)", "Comments")
 
+OTHER_DEALS_LABEL = "**Other reported deals (as printed, not tabulated):**"
 NO_MATRIX_IMAGE = "No matrix image"
 MATRIX_UNREADABLE = "Matrix image not machine-readable"
 LOW_RES_PX = 1000                 # matrix images narrower than this (2026 archive: 600 px) cannot be read
@@ -146,17 +147,17 @@ def render_markdown(ctx: IssueContext) -> str:
             out += ["*No sector commentary in the source.*", ""]
         if s.deals:
             out += md_table(list(DEAL_HEADERS), [deal_row(d) for d in s.deals]) + [""]
+        if s.unparsed:
+            out += [OTHER_DEALS_LABEL, ""] + [f"- {line}" for line, _why in s.unparsed] + [""]
         for n in s.notes:
             out += [f"*{n}*", ""]
         if not s.deals and not s.notes and not s.unparsed:
             out += ["*No deals listed.*", ""]
-    unparsed = [(s.name, line, why) for s in a.sectors for line, why in s.unparsed]
+    n_other = sum(len(s.unparsed) for s in a.sectors)
     out += ["## Unparsed deal lines", ""]
-    if unparsed:
-        out += [f"{len(unparsed)} deal line(s) could not be parsed cleanly; verbatim:", ""]
-        for sec, line, why in unparsed:
-            out += [f"- ({sec}) {line}", f"  - reason: {why}"]
-        out += [""]
+    if n_other:
+        out += [f"{n_other} deal sentence(s) could not be read into the deal tables; each is printed verbatim under "
+                "its sector as \"Other reported deals\" and is not part of any table or series.", ""]
     else:
         out += ["None (0).", ""]
     ok_matrix = ctx.matrix is not None and ctx.matrix.status == "ok"

@@ -105,6 +105,9 @@ def test_promote_is_dry_run_by_default_and_only_passing_issues_are_written(tmp_p
     _stage(tmp_path, "2024-01-09", matrix=_matrix("ok", "2024-01-09"))
     _stage(tmp_path, "2024-01-16", matrix=_matrix("failed", None))
     _stage(tmp_path, "2024-01-23", matrix=_matrix("ok", "2024-01-23"), unparsed=("Cape X sold",))
+    blocked_md = _stage(tmp_path, "2024-01-30", matrix=_matrix("ok", "2024-01-30"))
+    blocked_md.write_text(blocked_md.read_text(encoding="utf-8").replace(f"parser: {PARSER_NAME}", "parser: other"),
+                          encoding="utf-8")
     live = tmp_path / "live"
     (live / "2024").mkdir(parents=True)
     keep = live / "2024" / "vv_2024-01-23.md"
@@ -112,17 +115,38 @@ def test_promote_is_dry_run_by_default_and_only_passing_issues_are_written(tmp_p
     staging = tmp_path / "staging"
 
     p = plan(staging, live, tmp_path)
-    assert [i["issue_date"] for i in p["promote"]] == ["2024-01-09", "2024-01-16"]
-    assert list(p["blocked"]) == ["2024-01-23"] and "unparsed" in p["blocked"]["2024-01-23"][0]
+    assert [i["issue_date"] for i in p["promote"]] == ["2024-01-09", "2024-01-16", "2024-01-23"]
+    assert list(p["blocked"]) == ["2024-01-30"]
 
     dry = main_cli(staging, live, False, tmp_path)
     assert dry["mode"] == "dry-run" and dry["written"] == 0 and not (live / "2024" / "vv_2024-01-09.md").exists()
 
     done = main_cli(staging, live, True, tmp_path)
-    assert done["written"] == 2 and done["blocked"] == 1
+    assert done["written"] == 3 and done["blocked"] == 1
     assert (live / "2024" / "vv_2024-01-09.md").exists() and (live / "2024" / "vv_2024-01-09.tables.json").exists()
     assert (live / "2024" / "vv_2024-01-16.md").exists()
-    assert keep.read_text(encoding="utf-8") == "OLD"          # a blocked issue is never touched
+    assert "Cape X sold" in keep.read_text(encoding="utf-8")   # unparsed lines do not block; listed verbatim
+    assert not (live / "2024" / "vv_2024-01-30.md").exists()   # a blocked issue is never written
+
+
+def test_unparsed_lines_are_listed_verbatim_after_the_sector_table_and_not_tabulated(tmp_path):
+    line = "Aframax Anavatos 2 (115,00 DWT, Jan 2009, Hanjin HI) sold for USD 41.50 mil, VV Value USD 42.78 mil"
+    ctx = _ctx(tmp_path, "2024-03-05", _matrix("ok", "2024-03-05"), unparsed=(line, "VLCC 24x sold en bloc"))
+    md = render_markdown(ctx)
+    sector = md.split("## Bulkers", 1)[1].split("## Unparsed deal lines", 1)[0]
+    assert (f"**Other reported deals (as printed, not tabulated):**\n\n- {line}\n- VLCC 24x sold en bloc\n"
+            in sector)
+    assert "| Vessel |" not in md
+    payload = tables_payload(ctx)
+    assert [u["line"] for u in payload["sectors"][0]["unparsed"]] == [line, "VLCC 24x sold en bloc"]
+    assert "Other reported deals" not in render_markdown(_ctx(tmp_path, "2024-03-12", _matrix("ok", "2024-03-12")))
+
+
+def test_promote_blocks_unparsed_line_missing_from_md(tmp_path, monkeypatch):
+    monkeypatch.chdir(tmp_path)
+    md = _stage(tmp_path, "2024-03-19", matrix=_matrix("ok", "2024-03-19"), unparsed=("Cape X sold",))
+    md.write_text(md.read_text(encoding="utf-8").replace("- Cape X sold\n", ""), encoding="utf-8")
+    assert "Other reported deals" in " ".join(plan(tmp_path / "staging", tmp_path / "live", tmp_path)["blocked"]["2024-03-19"])
 
 
 def test_promote_blocks_changed_source_wrong_matrix_date_and_foreign_parser(tmp_path, monkeypatch):
@@ -305,3 +329,20 @@ def test_reconcile_blanking_keeps_the_raw_reads_in_the_sidecar(tmp_path):
     reconcile_benchmarks(ctxs)
     cell = _handy0(ctxs[2])
     assert cell.ref_text == "" and cell.raw_ref == ["39k", "39k"]
+
+
+def test_promote_skips_issues_already_live_with_identical_content(tmp_path, monkeypatch):
+    monkeypatch.chdir(tmp_path)
+    md = _stage(tmp_path, "2024-04-02", matrix=_matrix("ok", "2024-04-02"))
+    live = tmp_path / "live"
+    (live / "2024").mkdir(parents=True)
+    side = md.with_suffix(".tables.json")
+    (live / "2024" / md.name).write_text(md.read_text(encoding="utf-8").replace("parsed_at: ", "parsed_at: 1999 "),
+                                         encoding="utf-8")
+    d = json.loads(side.read_text(encoding="utf-8"))
+    d["parsed_at"] = "1999"
+    (live / "2024" / side.name).write_text(json.dumps(d), encoding="utf-8")
+    p = plan(tmp_path / "staging", live, tmp_path)
+    assert p["promote"] == [] and p["unchanged"] == ["2024-04-02"]
+    (live / "2024" / md.name).write_text("OLD", encoding="utf-8")
+    assert [i["issue_date"] for i in plan(tmp_path / "staging", live, tmp_path)["promote"]] == ["2024-04-02"]

@@ -12,7 +12,7 @@ from pathlib import Path
 
 from scripts.parse_engine_html import PARSER_NAME
 from scripts.parse_engine_html.pipeline import DEFAULT_OUT, LIVE_MD, sha256_file
-from scripts.parse_engine_html.render import MATRIX_UNREADABLE
+from scripts.parse_engine_html.render import MATRIX_UNREADABLE, OTHER_DEALS_LABEL
 
 _ABS_PATH_RE = re.compile(r"^(?:[A-Za-z]:[\\/]|[\\/])")
 
@@ -55,8 +55,13 @@ def check_issue(md: Path, repo_root: Path = Path(".")) -> list[str]:
     if any(_is_absolute(x) for x in paths):
         problems.append("absolute or drive-letter path in front matter / sidecar (must be repo-relative)")
     n_unparsed = sum(len(s["unparsed"]) for s in payload["sectors"])
-    if n_unparsed:
-        problems.append(f"{n_unparsed} unparsed deal line(s)")
+    body = text.split("## Unparsed deal lines", 1)[0]
+    for s in payload["sectors"]:         # unparsed sentences do not block, but each must be in the MD verbatim
+        for u in s["unparsed"]:
+            if f"- {u['line']}\n" not in body:
+                problems.append(f"unparsed deal line missing from the sector's 'Other reported deals': {u['line'][:60]}")
+    if n_unparsed and OTHER_DEALS_LABEL not in body:
+        problems.append("unparsed deal lines present but the 'Other reported deals' list is missing")
     if fm.get("deals_unparsed") not in (None, "", str(n_unparsed)):
         problems.append("front matter deals_unparsed disagrees with the sidecar")
     src = repo_root / payload.get("source_file", "")
@@ -80,8 +85,25 @@ def check_issue(md: Path, repo_root: Path = Path(".")) -> list[str]:
     return problems
 
 
+_PARSED_AT_RE = re.compile(r"^parsed_at:.*$", re.M)
+
+
+def _same_content(staged: Path, dest: Path) -> bool:
+    """True if the live MD and sidecar equal the staged ones apart from the parse timestamp."""
+    side, dside = staged.with_suffix(".tables.json"), dest.with_suffix(".tables.json")
+    if not (dest.exists() and dside.exists()):
+        return False
+    def md_norm(path: Path) -> str:
+        return _PARSED_AT_RE.sub("", path.read_text(encoding="utf-8"))
+    def js_norm(path: Path) -> dict:
+        d = json.loads(path.read_text(encoding="utf-8"))
+        d.pop("parsed_at", None)
+        return d
+    return md_norm(staged) == md_norm(dest) and js_norm(side) == js_norm(dside)
+
+
 def plan(staging: Path = DEFAULT_OUT, live: Path = LIVE_MD, repo_root: Path = Path(".")) -> dict:
-    promote, blocked = [], {}
+    promote, blocked, unchanged = [], {}, []
     for md in sorted(staging.glob("*/vv_*.md")):
         problems = check_issue(md, repo_root)
         dest = live / md.parent.name / md.name
@@ -90,11 +112,12 @@ def plan(staging: Path = DEFAULT_OUT, live: Path = LIVE_MD, repo_root: Path = Pa
             problems.append("live MD has matrix numbers but the staged matrix failed: not replaced")
         if problems:
             blocked[md.stem.removeprefix("vv_")] = problems
+        elif _same_content(md, dest):
+            unchanged.append(md.stem.removeprefix("vv_"))      # already live with identical content: not rewritten
         else:
-            dest = live / md.parent.name / md.name
             promote.append({"issue_date": md.stem.removeprefix("vv_"), "staged": md.as_posix(),
                             "live": dest.as_posix(), "replaces_existing": dest.exists()})
-    return {"promote": promote, "blocked": blocked}
+    return {"promote": promote, "blocked": blocked, "unchanged": unchanged}
 
 
 def apply(p: dict) -> int:
@@ -113,4 +136,4 @@ def main_cli(staging: Path, live: Path, do_apply: bool, repo_root: Path = Path("
     written = apply(p) if do_apply else 0
     return {"mode": "apply" if do_apply else "dry-run", "would_promote": len(p["promote"]),
             "replacing_existing": sum(1 for i in p["promote"] if i["replaces_existing"]),
-            "blocked": len(p["blocked"]), "written": written, "blocked_detail": p["blocked"]}
+            "unchanged_skipped": len(p["unchanged"]), "blocked": len(p["blocked"]), "written": written, "blocked_detail": p["blocked"]}
