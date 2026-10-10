@@ -4038,3 +4038,22 @@ issue_date,report_week,sector,route,description,quantity_mt,tce_usd_per_day,tren
 2026-10-02,40,Dirty,TD27,Guyana / UKC,130000,478367.0,↑ Firmer,affinity_03_10_2026_affinity_tanker_weekly_2_october_2026.pdf
 2026-10-02,40,Dirty,TD3C,ME Gulf / China,270000,1286655.0,↑ Firmer,affinity_03_10_2026_affinity_tanker_weekly_2_october_2026.pdf
 2026-10-02,40,Dirty,TD7,UKC / UKC,80000,305166.0,↓ Softer,affinity_03_10_2026_affinity_tanker_weekly_2_october_2026.pdf
+2026-10-09,41,Dirty,TD3C,ME Gulf / China,270000,1412243.0,↑ Firmer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Dirty,TD7,UKC / UKC,80000,525034.0,↑ Firmer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Dirty,TD15,WAF / China,260000,762720.0,↑ Firmer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Dirty,TD19,Med / Med,80000,368066.0,↑ Firmer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Dirty,TD20,WAF / Cont,130000,570375.0,↑ Firmer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Dirty,TD22,USG / China,270000,634974.0,↑ Firmer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Dirty,TD25,USG / Cont,70000,308695.0,↑ Firmer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Dirty,TD26,EC Mex / USG,70000,399604.0,↑ Firmer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Dirty,TD27,Guyana / UKC,130000,571207.0,↑ Firmer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Clean,TC1,ME Gulf / Japan,75000,270681.0,↑ Firmer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Clean,TC2,Cont / USAC,37000,12700.0,↓ Softer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Clean,TC5,ME Gulf / Japan,55000,193738.0,↓ Softer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Clean,TC6,Algeria / EU Med,30000,61356.0,↑ Firmer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Clean,TC7,Sing. / ECA,30000,68233.0,↓ Softer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Clean,TC8,ME Gulf / UKC,65000,184976.0,↑ Firmer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Clean,TC14,USG / UKC,38000,31560.0,↓ Softer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Clean,TC17,ME Gulf / EAFR,35000,113399.0,↓ Softer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Clean,TC20,ME Gulf / UKC,90000,283128.0,↑ Firmer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf
+2026-10-09,41,Clean,TC21,USG / Caribs,38000,27619.0,↓ Softer,affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.pdf

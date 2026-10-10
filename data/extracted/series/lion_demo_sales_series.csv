@@ -104,3 +104,7 @@ issue_date,report_week,section,sub_section,tag,vessel,dwt,ldt,built_year,yard,co
 2026-09-18,38,DEMOLITION,TANKERS,M/T,V. L. 15,2816.0,1427.0,1994.0,Murakami Hide,Japan,515.0,$ 515 per lt,Bangladesh,Demo for $ 515 per lt to BANGLADESH,corpus/01-brokers/lion/2026/lion_2026_W38_Lion-Weekly-Report-18-September-2026-W38.pdf
 2026-09-25,39,DEMOLITION,TANKERS,M/T,JAMES II,149995.0,22560.0,2002.0,Sasebo,Japan,507.0,$ 507 per lt,India,sanctioned vessel.,corpus/01-brokers/lion/2026/lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39.pdf
 2026-09-25,39,DEMOLITION,BULKERS,M/V,MAESTRO 1,23994.0,5035.0,1998.0,Kanda,Japan,507.0,$ 507 per lt,Pakistan,Demo for $ 507 per lt to PAKISTAN,corpus/01-brokers/lion/2026/lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39.pdf
+2026-10-09,41,DEMOLITION,,LPG,Tanker:,,,,,,,,,,corpus/01-brokers/lion/2026/lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41.pdf
+2026-10-09,41,DEMOLITION,,M/T,SC DISCOVERY XLVI,4970,2428,1996,Watanabe,Japan,528.0,$ 528 per lt,Bangladesh,Demo for $ 528 per lt to BANGLADESH. LNG Tanker:,corpus/01-brokers/lion/2026/lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41.pdf
+2026-10-09,41,DEMOLITION,,M/T,LNG KANO,83961,38616,2007,DSME,Korea,530.0,$ 530 per lt,India,Demo for $ 530 per lt to INDIA.,corpus/01-brokers/lion/2026/lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41.pdf
+2026-10-09,41,DEMOLITION,ROPAX,M/V,HAKUOU,5801,,1996,IHI,Japan,577.0,$ 577 per lt,Bangladesh,Demo for $ 577 per lt to BANGLADESH.,corpus/01-brokers/lion/2026/lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41.pdf

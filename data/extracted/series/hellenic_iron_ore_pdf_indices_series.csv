@@ -11640,3 +11640,14 @@ date,year,index_name,market_type,fe_content,value,unit,change,change_pct,source_
 2026-10-06,2026,MMi 65% Seaborne Index,seaborne,65.0,110.0,USD/dmt,-0.8,-0.72%,2026-10-06_mmi-daily-iron-ore-index-report-october-6-2026_io20261006-en_647632f6c6ef.pdf
 2026-10-07,2026,MMi 61% Seaborne Index,seaborne,61.0,91.25,USD/dmt,-0.4,-0.44%,2026-10-07_mmi-daily-iron-ore-index-report-october-7-2026_io20261007-en_eb7ed742c1da.pdf
 2026-10-07,2026,MMi 65% Seaborne Index,seaborne,65.0,109.7,USD/dmt,-0.3,-0.27%,2026-10-07_mmi-daily-iron-ore-index-report-october-7-2026_io20261007-en_eb7ed742c1da.pdf
+2026-10-08,2026,MMi 58% Port Spot,port_spot,58.0,627.0,yuan/wmt,-11.0,-1.72%,2026-10-08_mmi-daily-iron-ore-index-report-october-8-2026_io20261008-en_3d6b08a15284.pdf
+2026-10-08,2026,MMi 61% Port Spot,port_spot,61.0,664.0,yuan/wmt,-10.0,-1.48%,2026-10-08_mmi-daily-iron-ore-index-report-october-8-2026_io20261008-en_3d6b08a15284.pdf
+2026-10-08,2026,MMi 61% Seaborne Index,seaborne,61.0,90.35,USD/dmt,-0.9,-0.99%,2026-10-08_mmi-daily-iron-ore-index-report-october-8-2026_io20261008-en_3d6b08a15284.pdf
+2026-10-08,2026,MMi 65% Port Spot,port_spot,65.0,828.0,yuan/wmt,-10.0,-1.19%,2026-10-08_mmi-daily-iron-ore-index-report-october-8-2026_io20261008-en_3d6b08a15284.pdf
+2026-10-08,2026,MMi 65% Seaborne Index,seaborne,65.0,109.45,USD/dmt,-0.25,-0.23%,2026-10-08_mmi-daily-iron-ore-index-report-october-8-2026_io20261008-en_3d6b08a15284.pdf
+2026-10-09,2026,MMi 58% Port Spot,port_spot,58.0,627.0,yuan/wmt,0.0,0.00%,2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf
+2026-10-09,2026,MMi 61% Port Spot,port_spot,61.0,664.0,yuan/wmt,0.0,0.00%,2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf
+2026-10-09,2026,MMi 61% Seaborne Index,seaborne,61.0,89.2,USD/dmt,-1.15,-1.27%,2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf
+2026-10-09,2026,MMi 65% Port Spot,port_spot,65.0,828.0,yuan/wmt,0.0,0.00%,2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf
+2026-10-09,2026,MMi 65% Seaborne Index,seaborne,65.0,109.4,USD/dmt,-0.05,-0.05%,2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf
+2026-10-09,2026,SMM Domestic Ore Composite Index,domestic_composite,66.0,821.58,yuan/mt,-3.22,-0.39%,2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf

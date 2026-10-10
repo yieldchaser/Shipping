@@ -1,0 +1,118 @@
+{
+  "node_id": "hellenic_iron_ore_2026-10-09_2026_10_09_mmi_daily_iron_ore_index_report_october_9_2026__root",
+  "doc_id": "hellenic_iron_ore_2026-10-09_2026_10_09_mmi_daily_iron_ore_index_report_october_9_2026",
+  "parent_id": null,
+  "title": "MMI Daily Iron Ore Index Report October 9 2026",
+  "section_path": [
+    "MMI Daily Iron Ore Index Report October 9 2026"
+  ],
+  "section_path_text": "MMI Daily Iron Ore Index Report October 9 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAfter reopening, the market is showing stable composite prices alongside divergent brand performance.DCE most-traded closed at 682.5 yuan/mt, while the 61%, 58% and 65% port indices held at 664, 627 and 828 yuan/wmt. Spot prices did not stabilise uniformly: Mac Fines and BRBF declined, while Carajas Fines and PB Lump recovered. The seaborne 61% index fell further to USD 89.20/dmt while the 65% edged down to 109.40, widening their spread to USD 20.20 and highlighting short-term differences between grades.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "india",
+    "iron_ore",
+    "coal",
+    "steel",
+    "fines",
+    "ore",
+    "smm",
+    "daily"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 4248,
+  "source_path": "reports/hellenic/iron_ore/2026/2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-9-2026",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2026-10-09_2026_10_09_mmi_daily_iron_ore_index_report_october_9_2026__s01_main",
+      "doc_id": "hellenic_iron_ore_2026-10-09_2026_10_09_mmi_daily_iron_ore_index_report_october_9_2026",
+      "parent_id": "hellenic_iron_ore_2026-10-09_2026_10_09_mmi_daily_iron_ore_index_report_october_9_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "After reopening, the market is showing stable composite prices alongside divergent brand performance.DCE most-traded closed at 682.5 yuan/mt, while the 61%, 58% and 65% port indices held at 664, 627 and 828 yuan/wmt. Spot prices did not stabilise uniformly: Mac Fines and BRBF declined, while Carajas Fines and PB Lump recovered.",
+      "keywords": [
+        "china",
+        "steel",
+        "prices",
+        "brands",
+        "composite",
+        "costs",
+        "could",
+        "declined"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 319,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-10-09_2026_10_09_mmi_daily_iron_ore_index_report_october_9_2026__s02_linked_asset_2026_10_09_mmi_daily_iron_ore_index_report_october_9_2026_9102026chinese23_96b4662dcde9_jpg",
+      "doc_id": "hellenic_iron_ore_2026-10-09_2026_10_09_mmi_daily_iron_ore_index_report_october_9_2026",
+      "parent_id": "hellenic_iron_ore_2026-10-09_2026_10_09_mmi_daily_iron_ore_index_report_october_9_2026__root",
+      "title": "Linked asset: 2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_9102026chinese23_96b4662dcde9.jpg",
+      "section_path": [
+        "Linked asset: 2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_9102026chinese23_96b4662dcde9.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_9102026chinese23_96b4662dcde9.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/2026/assets/2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_9102026chinese23_96b4662dcde9.jpg\n\nLinked image asset: 2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_9102026chinese23_96b4662dcde9.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n| 4: SMM Iron Ore Price Index Indices as of Oct 9\nMMi 61% Port Spot Daily MMi 58% Port Spot Daily MMi 65% Port Spot Daily\n664 yuan/wmt 627 yuan/wmt 828 yuan/wmt\n-0O 0.00% -0O 0.00% -0O 0.00%\nMTD avg 664 MTD avg 627 MTD avg 828\nMMi 61% Seaborne Index Daily MMi 65% Seaborne Index Daily SMM Domestic Ore Composite Index\nDaily\n89.20 USD/dmt 1 09.40 USD/dmt 82 1 5 8 ses\nbh Aid | = af? -0.059\n1.15 -1.27% 0.05 -0.05% ¥ -3.22 -0.39%\nMTD avg 91.40 MTD avg 110.32 MTD avg 823.19\nAs of Oct9 - vs Oct 8\nwww.mmiprices.com jarek@mmiprices.com",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "avg",
+        "daily",
+        "mtd",
+        "mmi",
+        "port",
+        "yuan/wmt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 368,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-10-09_2026_10_09_mmi_daily_iron_ore_index_report_october_9_2026__s03_linked_asset_2026_10_09_mmi_daily_iron_ore_index_report_october_9_2026_io20261009_en_03d1fe1a4f11_pdf",
+      "doc_id": "hellenic_iron_ore_2026-10-09_2026_10_09_mmi_daily_iron_ore_index_report_october_9_2026",
+      "parent_id": "hellenic_iron_ore_2026-10-09_2026_10_09_mmi_daily_iron_ore_index_report_october_9_2026__root",
+      "title": "Linked asset: 2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf",
+      "section_path": [
+        "Linked asset: 2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf\n\nSMM IRON ORE D A I LY\n\nImported & Domestic Ore · Prices · Supply-Demand · Inventory · Commentary 2026-10-09 Friday ·\n\nSource SMM / SGX\n\nSGX: latest price · DCE: close\n\n### Futures Contracts\n\nDCE Iron Ore Most-traded I2701 SGX Iron Ore Current-month Contract Latest price Daily\n\n# 682.5\n\nyuan/mt\n\n# 90.50USD/dmt\n\nFEFV26 · 2026-10 · SGX · delayed - 0.0 0.00% MTD avg 682.5 As of preparation: 2026-10-09 18:05:16 (UTC+8) Quote time: 10-09 17:44:04 (UTC+8) As of Oct 9 · vs Oct 8\n\nIndices as of Oct 9\n\n### SMM Iron Ore Price Index\n\nMMi 61% Port Spot Daily MMi 58% Port Spot Daily MMi 65% Port Spot Daily\n\n## 664 yuan/wmt 627 yuan/wmt\n\n828 yuan/wmt - 0 0.00% - 0 0.00% - 0 0.00% MTD avg 664 MTD avg 627 MTD avg 828 MMi 61% Seaborne Index Daily MMi 65% Seaborne Index Daily SMM Domestic Ore Composite Index Daily\n\n## 89.20 USD/dmt 109.40 USD/dmt 821.58 yuan/mt\n\n▼ -1.15-1.27% ▼ -0.05-0.05% ▼ -3.22-0.39% MTD avg 91.40 MTD avg 110.32 MTD avg 823.19 As of Oct 9 · vs Oct 8\n\n### Key View\n\n#### After reopening, the market is showing stable composite prices alongside diverge",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "europe",
+        "india",
+        "iron_ore",
+        "coal",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3468,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

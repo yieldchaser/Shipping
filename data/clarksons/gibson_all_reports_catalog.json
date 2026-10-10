@@ -1,9 +1,16 @@
 {
-  "harvested_at": "2026-10-08T14:44:34.945958+00:00",
-  "total_reports": 552,
-  "online_reports_count": 157,
+  "harvested_at": "2026-10-09T21:50:32.468897+00:00",
+  "total_reports": 553,
+  "online_reports_count": 158,
   "report_downloads_count": 395,
   "online_reports": [
+    {
+      "id": 20447,
+      "date": "2026-10-09T16:10:26",
+      "title": "Damage Control",
+      "slug": "damage-control",
+      "link": "https://www.gibsons.co.uk/report/damage-control/"
+    },
     {
       "id": 20349,
       "date": "2026-10-02T15:54:11",
