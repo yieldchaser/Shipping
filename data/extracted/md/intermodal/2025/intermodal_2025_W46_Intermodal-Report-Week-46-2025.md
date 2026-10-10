@@ -139,14 +139,14 @@ Handysize activity stayed steady overall, though trends varied by region. The At
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | STENA SUNSHINE | 159,039 | 2013 | SAMSUNG, S. Korea | MAN B\&W | Sep-27 | DH | $ 58.0m | Greek | Scrubber fitted, Eco |
-| MR2 | STENA IMPRIMIS | 49,718 | 2017 | GSI, China | MAN B\&W | Oct-27 | DH | $ 70.0m | undisclosed | Scrubber fitted, Eco |
-| MR2 | STENA IMPERIO | 49,683 | 2018 | GSI, China | MAN B\&W | Oct-27 | DH |  |  |  |
+| MR2 | STENA IMPRIMIS | 49,718 | 2017 | GSI, China | MAN B\&W | Oct-27 | DH | $ 70.0m (en bloc) | undisclosed | Scrubber fitted, Eco |
+| MR2 | STENA IMPERIO | 49,683 | 2018 | GSI, China | MAN B\&W | Oct-27 | DH | $ 70.0m (en bloc) | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | BULK SANTOS | 208,445 | 2020 | NEW TIMES, China | MAN B\&W | Jun-30 |  | $ 145.5m | undisclosed | Scrubber fitted, Eco |
-| NEWCASTLEMAX | BULK SYDNEY | 207,992 | 2020 | NEW TIMES, China | MAN B\&W | Mar-30 |  |  |  | Scrubber fitted, Eco |
+| NEWCASTLEMAX | BULK SANTOS | 208,445 | 2020 | NEW TIMES, China | MAN B\&W | Jun-30 |  | $ 145.5m (en bloc) | undisclosed | Scrubber fitted, Eco |
+| NEWCASTLEMAX | BULK SYDNEY | 207,992 | 2020 | NEW TIMES, China | MAN B\&W | Mar-30 |  | $ 145.5m (en bloc) | undisclosed | Scrubber fitted, Eco |
 | KMAX | CHANG XIN 66 | 79,998 | 2012 | FUJIAN CROWN, China | Wartsila | Jun-27 |  | $ 14.0m | undisclosed |  |
 | PMAX | GNS HARMONY | 77,509 | 2001 | SASEBO, Japan | B\&W | Apr-26 |  | $ 6,75m | undisclosed |  |
 | PMAX | IONIAN PRINCESS | 76,596 | 2007 | IMABARI, Japan | MAN B\&W | Jan-26 |  | $ 10.3m | undisclosed |  |
@@ -166,20 +166,20 @@ Last week the newbuilding market saw a flurry of activity, with 13 NB orders acc
 In the tanker NB market, Greek owner Akrotiri Tankers contracted a pair of 73.5k dwt vessels at New Times Shipbuilding. A JV including Maersk Tankers and Yangzijiang Maritime, ordered 4 MR units at an undisclosed Chinese yard, scheduled for 2027-2028. Containeships recorded 3 orders. Hai An Transport secured a 2 plus 2 order of 7.1k dwt teu units at Dalian Shipbuilding, valued at \$85m each. Similarly, Asiatic Lloyd ordered 2 box-hips of this size at the same yard. MPC Container Ships commissioned Jiangsu Hantong for 4 plus 2 vessels for 4.5k teu vessels, at \$58m each. LNGs saw an order with, Bonny Gas Transport contracting 3 units of 174k cbm units at Hudong-Zhonghua, with delivery in 2029. n other segments, MSC confirmed two cruise ships at Chantiers de l'Atlantique, for 2030-2031, at \$2bn each. Finally, Orange Marine contracted 2 cable layer units at Colombo Dockyard for 2028-2029.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 14-Nov-25 | 7-Nov-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2022 | Year3 |
+| Sector | Vessel | Size | 14-Nov-25 | 7-Nov-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 76.5 | 76.5 | 0.0% | 79.0 | 76.5 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 73.0 | 73.0 | 0.0% | 75.0 | 73.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-|  | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-|  | Handysize | 38k | 29.5 | 29.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 126.5 | 126.0 | 0.4% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-|  | Suezmax | 160k | 85.5 | 85.5 | 0.0% | 90.0 | 85.5 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-|  | Aframax | 115k | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-|  | MR | 50k | 48.5 | 48.5 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 260.0 | 248.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-|  | MGC LPG 55k cbm |  | 84.0 | 84.0 | 0.0% | 90.5 | 84.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 59.5 | 59.5 | 0.0% | 62.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 76.5 | 76.5 | 0.0% | 79.0 | 76.5 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 73.0 | 73.0 | 0.0% | 75.0 | 73.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 29.5 | 29.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 126.5 | 126.0 | 0.4% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 85.5 | 85.5 | 0.0% | 90.0 | 85.5 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 48.5 | 48.5 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 260.0 | 248.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 84.0 | 84.0 | 0.0% | 90.5 | 84.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 59.5 | 59.5 | 0.0% | 62.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

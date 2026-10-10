@@ -265,8 +265,8 @@ In the Ultramax sector we had the sale of the "SUNLEAF GRACE" (61,683dwt-blt '11
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | ADVANTAGE ARROW | 115,804 | 2009 | SAMSUNG, S. Korea | MAN-B\&amp;W | Feb-25 | DH | $ 52.0m | Norwegian | BWTS &amp; scrubber fitted, basis TC attached to Shell at $ 17,800/d for 16 months with 50/50 profit sharing |
-| AFRA | ADVANTAGE AVENUE | 115,785 | 2010 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jun-25 | DH |  |  | BWTS fitted, basis TC attached to Shell at $ 15,500/d for 16 months with 50/50 profit sharing |
+| AFRA | ADVANTAGE ARROW | 115,804 | 2009 | SAMSUNG, S. Korea | MAN-B\&amp;W | Feb-25 | DH | $ 52.0m (en bloc) | Norwegian | BWTS &amp; scrubber fitted, basis TC attached to Shell at $ 17,800/d for 16 months with 50/50 profit sharing |
+| AFRA | ADVANTAGE AVENUE | 115,785 | 2010 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jun-25 | DH | $ 52.0m (en bloc) | Norwegian | BWTS fitted, basis TC attached to Shell at $ 15,500/d for 16 months with 50/50 profit sharing |
 | AFRA | ATALANDI | 105,306 | 2004 | DAEWOO, S. Korea | B\&amp;W | Nov-24 | DH | $ 13.6m | undisclosed | BWTS fitted, old sale |
 | LR1 | TAI HU | 73,980 | 2007 | NEW TIMES, China | MAN-B\&amp;W | Aug-22 | DH | $ 10.4m | Chinese | Judicial sale, CPP |
 | MR2 | STAR EAGLE | 51,202 | 2007 | STX, S. Korea | MAN-B\&amp;W | Oct-22 | DH | $ 11.75m | undisclosed |  |
@@ -298,7 +298,7 @@ In the Ultramax sector we had the sale of the "SUNLEAF GRACE" (61,683dwt-blt '11
 | PMAX | CARTAGENA TRADER | 3,534 | 2008 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Mar-23 |  | undisclosed | Frech (CMA CGM) |
 | FEEDER | ASTURIANO II | 1,304 | 2012 | AVIC WEIHAI, China | MAN-B\&amp;W | Mar-22 | 2 X 40t CRANES | undisclosed | UAE based (Safeen Feeders) |
 | FEEDER | AS FEDERICA | 1,284 | 2007 | OUHUA, China | MAN | May-22 | 2 X 45t CRANES | $ 23.0m | Frech (CMA CGM) |
-| FEEDER | AS FAUSTINA | 1,284 | 2007 | OUHUA, China | MAN | Sep-22 | 2 X 45t CRANES | $ 23.0m |  |
+| FEEDER | AS FAUSTINA | 1,284 | 2007 | OUHUA, China | MAN | Sep-22 | 2 X 45t CRANES | $ 23.0m | Frech (CMA CGM) |
 ## Secondhand Sales
 
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -312,27 +312,23 @@ In the Ultramax sector we had the sale of the "SUNLEAF GRACE" (61,683dwt-blt '11
 ---
 
 # Intermodal Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 29/10/2021 | 22/10/2021 | ±% | 2020 | 2019 | 2018 |  |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
-| Capesize | **180k** | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
-| Ultramax | **63k** | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
-| Handysize | **38k** | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 108.0 | 108.0 | 0.0% | 88 | 92 | 88 |
-| Suezmax | **160k** | 74.5 | 74.5 | 0.0% | 58 | 60 | 58 |
-| Aframax | **115k** | 59.0 | 59.0 | 0.0% | 48 | 49 | 47 |
-| MR | 50k | 40.5 | 40.5 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 203.0 | 203.0 | 0.0% | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 81.0 | 81.0 | 0.0% | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 71.0 | 71.0 | 0.0% | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 48.5 | 48.5 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 29/10/2021 | 22/10/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 108.0 | 108.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 74.5 | 74.5 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 59.0 | 59.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 40.5 | 40.5 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 203.0 | 203.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 81.0 | 81.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 71.0 | 71.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 48.5 | 48.5 | 0.0% | 42 | 44 | 43 |
 
 The newbuilding market activity was in line with the course that we have been witnessing since the start of the year. Crude carrier units were missing for another week while LNG and container deals were present as always despite the increasing newbuilding prices. In addition, two deals consisting of four handymax and five Kamsarmax bulker units were materialized last week. More specifically, German owner Oldendorff inked a deal for the construction of five firm plus seven optional 82,000dwt units at Jiangsu Hantong yard, while Navibulgar ordered four 45,000dwt vessels at Yangzijiang for a price of \$33.0 million each. As far as the Gas sector is concerned, Samsung secured a deal from Global Meridian Holdings for the construction of four 174,000cbm LNG units at a price of \$206.5 million each, while Japanese owner K Line declared an option for one more 79,960cbm unit at Hudong Zhonghua against a 12-yrs T/C to Petronas. Lastly, South Korean owner Namsung Shipping ordered two 2,500teu boxships at Hyundai Mipo yard for a price of \$41.0 million each.
 

@@ -214,10 +214,10 @@ In the Ultramax and Supramax segments, location proved decisive. The Atlantic en
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | FAIRWAY | 160,250 | 2013 | HHIC, Philippines | MAN B\&W | Jan-28 | DH | $ 56.5m | Greek | Scrubber fitted |
 | SUEZ | EMERALDWAY | 158,363 | 2022 | SWS, China | MAN B\&W | Mar-27 | DH | $ 88.0m each | Greek | Scrubber fitted |
-| SUEZ | SUNRISEWAY | 158,307 | 2022 | SWS, China | MAN B\&W | Jul-27 | DH |  |  |  |
+| SUEZ | SUNRISEWAY | 158,307 | 2022 | SWS, China | MAN B\&W | Jul-27 | DH | $ 88.0m each | Greek | Scrubber fitted |
 | SUEZ | NORDIC POLLUX | 150,103 | 2003 | UNIVERSAL, Japan | Sulzer | Aug-27 | DH | $ 25.0m | undisclosed | CAP1 |
 | LR1 | CAPE TEES | 73,731 | 2009 | NEW TIMES, China | MAN B\&W | May-29 | DH | $ 42.0m enbloc | European |  |
-| LR1 | CAPE TALLIN | 73,662 | 2008 | NEW TIMES, China | MAN B\&W | Dec-28 | DH |  |  |  |
+| LR1 | CAPE TALLIN | 73,662 | 2008 | NEW TIMES, China | MAN B\&W | Dec-28 | DH | $ 42.0m enbloc | European |  |
 | MR2 | CABO NEGRO II | 47,236 | 2006 | SHIN KURUSHIMA, Japan | Mitsubishi | May-26 | DH | low $ 14.0m | undisclosed | Scrubber fitted, Zinc coated |
 
 ## Bulk Carriers

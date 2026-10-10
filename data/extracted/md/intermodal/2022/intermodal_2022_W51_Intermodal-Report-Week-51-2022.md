@@ -295,24 +295,21 @@ In the Supramax sector we had the sale of the "ANITA N" (56,868dwt-bl't '10, Chi
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 23-Dec-22 | 16-Dec-22 | ±% | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 51 | 54 |
-| Capesize | 180k | 61.0 | 61.0 | 0.0% | 49 | 52 |
-| Kamsarmax | 82k | 34.5 | 34.5 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 31.5 | 31.5 | 0.0% | 26 | 28 |
-| Handysize | 38k | 28.5 | 28.0 | 1.8% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 |
-| Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 |
-| Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 |
-| MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 89.5 | 89.0 | 0.6% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 77.0 | 76.5 | 0.7% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 52.5 | 52.0 | 1.0% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 23-Dec-22 | 16-Dec-22 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 61.0 | 61.0 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.5 | 34.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 31.5 | 31.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 28.5 | 28.0 | 1.8% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 89.5 | 89.0 | 0.6% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 77.0 | 76.5 | 0.7% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.5 | 52.0 | 1.0% | 42 | 44 | 43 |
 
 Activity in the new building market was healthy last week with a couple of orders being materializing just before the close of the 2022 contracting book. Japanese owners Hisafuku Kisen and Kasuga Shipping each ordered one 40,000dwt bulk carrier at Hakodate Shipyard for a price in the region of \$32.3m each. Omani Group Asyad Shipping concluded a deal for the construction of two firm plus two optional LNG 174,000cbm units at Hyundai Samho, for a price of \$254.5m each and with delivery taking place in 2026. Lastly, Japanese owner Toyofuji Shipping, inked a deal with Mitsubishi HI for two 3,000ceu LNG fuelled PCTC vessels for an undisclosed price.
 

@@ -299,17 +299,17 @@ In the Handysize sector we had the sale of the “MAESTRO DIAMOND” (36,920dwt-
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | NORTHERN MAGNUM | 6,732 | 2003 | DAEWOO, S. Korea | B\&amp;W | Nov-23 |  | undisclosed | Swiss based (MSC) |  |
 | PMAX | NORTHERN PRIORITY | 4,616 | 2009 | DAEWOO, S. Korea | MAN-B\&amp;W | Oct-24 |  | $ 28.0m | Italian (Ignazio Messina) |  |
-| PMAX | NORTHERN PROMOTION | 4,616 | 2010 | DAEWOO, S. Korea | MAN-B\&amp;W | Jan-25 |  | $ 28.0m |  |  |
+| PMAX | NORTHERN PROMOTION | 4,616 | 2010 | DAEWOO, S. Korea | MAN-B\&amp;W | Jan-25 |  | $ 28.0m | Italian (Ignazio Messina) |  |
 | FEEDER | STONEWELL BRILLIANCE | 1,684 | 1994 | SCHICHAU SEEBEECKWERFT, Germany | B\&amp;W | Dec-24 |  | $ 3.5m | Turkish |  |
 | FEEDER | INGRID | 698 | 2008 | FUJIAN, China | MaK | May-23 |  | $ 5.8m | Turkish | Ice 1A |
 ## Secondhand Sales
 
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | ECO TEXIANA | 4,743 | 2020 | MURAKAMI HIDE, Japan | MAN-B\&amp;W | Feb-25 | 4,929 | $ 19.8m |  |
+| LPG | ECO TEXIANA | 4,743 | 2020 | MURAKAMI HIDE, Japan | MAN-B\&amp;W | Feb-25 | 4,929 | $ 19.8m | Greek (Toro Corp) |
 | LPG | ECO CZAR | 5,158 | 2015 | KITANIHON, Japan | MAN-B\&amp;W | Aug-25 | 4,900 | $ 17.1m | Greek (Toro Corp) |
-| LPG | ECO NEMESIS | 5,155 | 2015 | KITANIHON, Japan | MAN-B\&amp;W | Sep-25 | 4,900 | $ 17.1m |  |
-| LPG | ECO ENIGMA | 4,753 | 2015 | MURAKAMI HIDE, Japan | MAN-B\&amp;W | Apr-25 | 4,923 | $ 16.7m |  |
+| LPG | ECO NEMESIS | 5,155 | 2015 | KITANIHON, Japan | MAN-B\&amp;W | Sep-25 | 4,900 | $ 17.1m | Greek (Toro Corp) |
+| LPG | ECO ENIGMA | 4,753 | 2015 | MURAKAMI HIDE, Japan | MAN-B\&amp;W | Apr-25 | 4,923 | $ 16.7m | Greek (Toro Corp) |
 
 © Intermodal Research 09/05/2023 5
 

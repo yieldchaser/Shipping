@@ -233,20 +233,20 @@ Newbuilding activity remained robust with 16 orders, largely concentrated in tan
 In dry bulk, Shanghai Leading ordered two 82k dwt kamsarmax bulkers at Wuhu Shipyard, with delivery scheduled for 2028, at \$42m each. In the tanker segment, Dynacom placed an order for 12 VLCCs at Hudong-Zhonghua for delivery in 2028, priced at \$120m per unit. Bruton exercised option for a pair of 302k dwt VLCCs at New Times for 2029 delivery, at \$118m each. Advantage Tankers contracted two 157k dwt tankers at DH Shipbuilding, valued at \$88.5m apiece. Atlas Maritime signed a 2+2 order for 157k dwt units at the same yard for \$86m per vessel. Venergy Maritime ordered a 2+2 series of 50k dwt product tankers at K Shipbuilding. In containerships, Zhonggu Logistics inked a 4+2 order for 6k teu vessels at Hengli Shipbuilding, with delivery set for 2028. Evergreen on two large orders ordered seven 5.9k teu ships at Yangzijiang Shipbuilding and additionally contracted 16 units of 3.1k teu at Huangpu Wenchong. Both orders are due for 2029. In the gas carriers, Minsheng Leasing placed an order for 4 LNG carriers of 175k cbm at Jiangnan Shipyard for delivery across 2028–2029. MISC was linked to a 3+3 order for 174k cbm LNG carriers at Hudong-Zhonghua. Sonangol placed a 1+2 order for LNG same size units at HD KSOE, priced at \$250.5m per vessel. TMS Cardiff Gas was associated with a 4+2 order for 174k cbm LNG carriers at Hudong-Zhonghua. Elsewhere, Wealth Holdings ordered a 4+4 series of 17.4k dwt MPP vessels at Jiangsu Haitong Offshore, Stena Ro-Ro contracted 2+4 ro-ro/containerships at CMI Weihai and Royal Caribbean agreed with Chantiers de l'Atlantique for 2+4 cruise ships.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 30-Jan-26 | 23-Jan-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2025 | 2024 | 2023 |
+| Sector | Vessel | Size | 30-Jan-26 | 23-Jan-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2025 | Average 2024 | Average 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 78.0 | 78.0 | 0.0% | 78.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 36.5 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 34.8 |
-|  | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 33.5 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
-|  | Handysize | 38k | 29.5 | 29.5 | 0.0% | 29.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 128.5 | 128.5 | 0.0% | 128.5 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
-|  | Suezmax | 160k | 86.5 | 86.5 | 0.0% | 86.5 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
-|  | Aframax | 115k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 77.5 | 46.0 | 76.0 | 76.0 | 68.7 |
-|  | MR | 50k | 49.5 | 49.5 | 0.0% | 49.5 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
-| **Gas** | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 248.0 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
-|  | MGC LPG 55k cbm |  | 84.0 | 84.0 | 0.0% | 84.0 | 84.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 78.0 | 78.0 | 0.0% | 78.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 36.5 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 34.8 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 33.5 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
+| Bulkers | Handysize | 38k | 29.5 | 29.5 | 0.0% | 29.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 128.5 | 128.5 | 0.0% | 128.5 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
+| Tankers | Suezmax | 160k | 86.5 | 86.5 | 0.0% | 86.5 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 77.5 | 46.0 | 76.0 | 76.0 | 68.7 |
+| Tankers | MR | 50k | 49.5 | 49.5 | 0.0% | 49.5 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 248.0 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
+| Gas | MGC LPG 55k cbm |  | 84.0 | 84.0 | 0.0% | 84.0 | 84.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

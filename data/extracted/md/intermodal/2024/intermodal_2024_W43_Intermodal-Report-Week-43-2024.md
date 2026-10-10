@@ -318,6 +318,6 @@ The Pakistani market remains lethargic with recycling buyers showing little appe
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NING HUA | 69,607 | 9,713 | 1993 | HASHIHAMA, Japan | BC | $ 433.0m | undisclosed | as is Taishan, China |
+| NING HUA | 69,607 | 9,713 | 1993 | HASHIHAMA, Japan | BC | $ 433/Ldt | undisclosed | as is Taishan, China |
 | MSC ALEXA | 50,855 | 10,655 | 1996 | FINCANTIERI ANCONA, Italy | CONTAINER | undisclosed | Indian |  |
-| TAHA | 29,319 | 8,603 | 1985 | SUMITOMO, Japan | GENERAL CARGO | $ 480.0m | Indian |  |
+| TAHA | 29,319 | 8,603 | 1985 | SUMITOMO, Japan | GENERAL CARGO | $ 480/Ldt | Indian |  |

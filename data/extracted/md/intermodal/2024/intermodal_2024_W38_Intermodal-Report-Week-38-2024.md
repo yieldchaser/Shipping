@@ -203,7 +203,7 @@ Supramax 10TC averaged \$ 14,058/day up +1.14% w-o-w, while the Handysize 7TC av
 | CAPE | CHINA PEACE | 174,413 | 2005 | SWS, China | MAN-B\&W | Jun-25 |  | $ 20.0m | Chinese |
 | KMAX | MARTHA | 81,811 | 2014 | TSUNEISHI, Japan | MAN-B\&W | Sep-29 |  | excess $ 26.0m | Greek |
 | KMAX | AM HAMBURG | 81,792 | 2013 | NEW TIMES, China | MAN-B\&W | Jan-28 |  | $ 18.0m each | Chinese (EGPN) |
-| KMAX | AM QUEBEC | 81,792 | 2013 | NEW TIMES, China | MAN-B\&W | Feb-28 |  |  |  |
+| KMAX | AM QUEBEC | 81,792 | 2013 | NEW TIMES, China | MAN-B\&W | Feb-28 |  | $ 18.0m each | Chinese (EGPN) |
 | SUPRA | ZORINA | 57,000 | 2011 | ZHEJIANG ZHENGHE, China | MAN-B\&W | Dec-26 | 4 X 30t CRANES | $ 13.8m | undisclosed |
 | SUPRA | VISAYAS | 56,136 | 2010 | MITSUI, Japan | MAN-B\&W | Jan-25 | 4 X 30t CRANES | high $ 16.0m | Chinese |
 | HANDY | AFRICAN EAGLE | 27,102 | 2003 | NEW TIMES, China | B\&W | Apr-27 | 4 X 30t CRANES | $ 6.0m | Far Eastern |
@@ -215,23 +215,20 @@ Supramax 10TC averaged \$ 14,058/day up +1.14% w-o-w, while the Handysize 7TC av
 Last week, newbuilding market activity was predominantly driven by Chinese interests in both the dry bulk and tanker sectors. In the tanker sector, it was reported that Hengli Group placed an order for four VLCC units at Hengli Hi Dalian Shipyard, each priced at \$120.0 million. Additionally, Chinese owner SC Shipping exercised an option to construct ten 25,900 dwt vessels, with half to be built at Wuchang SB Group and the remainder at CMJL Yangzhou shipyard, each costing \$44.3 million. Meanwhile, South Korean owner HMM secured an agreement for two firm and two optional 50,000 dwt vessels at Hyundai Mipo, with each unit priced at \$52.0 million. In the Bulk Carrier sector, Shandong Shipping ordered two 325,000 dwt methanol-fueled units at Qingdao Beihai at a price of \$130.0 million each. Lastly, Hong Kong-based owner TS Lines placed an order for two 4,300 TEU container ships at CSSC Huangpu shipyard in China, at a cost of \$60.0 million each. No new contracts were reported in the gas carrier segment last week.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 20-Sep-24 | 13-Sep-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 20-Sep-24 | 13-Sep-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
-| **Bulkers** | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
-| **Bulkers** | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-| **Bulkers** | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-| **Bulkers** | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
-| **Tankers** | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
-| **Tankers** | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
-| **Tankers** | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
-| **Gas** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 261.5 | 261.5 | 0.0% | 263.0 | 261.5 | 265.0 | 180.0 | 259 | 232 | 195 |
-| **Gas** | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-| **Gas** | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 261.5 | 261.5 | 0.0% | 263.0 | 261.5 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -278,6 +275,6 @@ In Bangladesh, recycling prices declined and steel prices remained under pressur
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MSC GABRIELLA | 31,290 | 8,911 | 1985 | HDW AG - Kiel - GEU, Germany | CONTAINER | $ 499.0m | Indian | 320 Ts ROB on arrival |
-| MSC AGATA II | 22,450 | 7,364 | 1994 | SZCZECINSKA, Poland | CONTAINER | $ 505.0m | Indian | 200 Ts ROB on arrival |
-| OMAR TRADER | 6,358 | 1,800 | 1980 | ATLANTICO SANTADER, Spain | GENERAL CARGO | $ 310.0m | Turkish |  |
+| MSC GABRIELLA | 31,290 | 8,911 | 1985 | HDW AG - Kiel - GEU, Germany | CONTAINER | $ 499/Ldt | Indian | 320 Ts ROB on arrival |
+| MSC AGATA II | 22,450 | 7,364 | 1994 | SZCZECINSKA, Poland | CONTAINER | $ 505/Ldt | Indian | 200 Ts ROB on arrival |
+| OMAR TRADER | 6,358 | 1,800 | 1980 | ATLANTICO SANTADER, Spain | GENERAL CARGO | $ 310/Ldt | Turkish |  |

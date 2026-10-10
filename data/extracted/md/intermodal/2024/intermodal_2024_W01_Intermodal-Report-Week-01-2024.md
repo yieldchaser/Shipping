@@ -201,8 +201,8 @@ Supramax 10TC averaged \$ 13,827/day while the Handysize 7TC averaged \$ 13,338/
 | POST PMAX | GH HARMONY | 92,500 | 2010 | YANGFAN, China | MAN-B\&W | Feb-25 |  | $ 13.0m | undisclosed | BWTS fitted |
 | POST PMAX | THE EVOLUTION | 88,270 | 2010 | IMABARI, Japan | MAN-B\&W | Apr-28 |  | $ 17.2m | undisclosed | BWTS fitted |
 | KMAX | TOMINI BRAVERY | 81,027 | 2015 | JINLING, China | MAN-B\&W | Feb-25 |  | $ 24.5m | Greek | BWTS fitted |
-| UMAX | XING HE HAI | 61,473 | 2016 | COSCO DALIAN, China | MAN-B\&W | Mar-26 | 4 X 30t CRANES | $ 52.5m | Chinese | Eco, Domestic sale |
-| UMAX | XING HAO HAI | 61,452 | 2016 | COSCO DALIAN, China | MAN-B\&W | Mar-26 | 4 X 30t CRANES |  |  |  |
+| UMAX | XING HE HAI | 61,473 | 2016 | COSCO DALIAN, China | MAN-B\&W | Mar-26 | 4 X 30t CRANES | $ 52.5m (en bloc) | Chinese | Eco, Domestic sale |
+| UMAX | XING HAO HAI | 61,452 | 2016 | COSCO DALIAN, China | MAN-B\&W | Mar-26 | 4 X 30t CRANES | $ 52.5m (en bloc) | Chinese | Eco, Domestic sale |
 | SUPRA | SW PROSPEROUS | 57,480 | 2012 | STX, S. Korea | MAN-B\&W | Aug-27 | 4 X 36t CRANES | region $ 16.5m | UAE based | BWTS fitted |
 | SUPRA | IKAN PARANG | 56,618 | 2011 | TAIZHOU KOUAN, China | Mitsubishi | Dec-25 | 4 X 30t CRANES | $ 11.9m | Far Eastern | BWTS fitted |
 | SUPRA | ELGIZNUR CEBI | 57,305 | 2009 | STX, S. Korea | MAN-B\&W | Mar-24 | 4 X 35t CRANES | $ 13.2m | undisclosed | BWTS fitted |
@@ -216,21 +216,21 @@ Supramax 10TC averaged \$ 13,827/day while the Handysize 7TC averaged \$ 13,338/
 The year 2024 commenced with an abundance of new construction projects emerging in both traditional and non-traditional sectors. Notably, buyers from Asia have dominated the recent contracts, securing 7 out of 10 orders, primarily involving Chinese and Taiwanese clients. In the container sector, Evergreen has notably commenced the year with significant newbuilding activities, placing orders for 16 vessels, each with a capacity of 16,000 TEU. Concurrently, COSCO Shipping has been active in both the dry bulk and tanker sectors, ordering 2 dry bulk carriers with a capacity of 325,000 DWT and an MR2 tanker in the past week. Intriguingly, methanol fuel has dominated the newbuilding orders list for 2024, and it will be interesting to observe the evolution of the alternative fuels mix throughout the year.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 5-Jan-24 | 29-Dec-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 5-Jan-24 | 29-Dec-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers | Newcastlemax | 205k | 70.5 | 70.0 | 0.7% | 70.5 | 64.0 | 70.5 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | **180k** | 67.5 | 67.0 | 0.7% | 67.5 | 61.0 | 67.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | **82k** | 35.5 | 35.5 | 0.0% | 35.5 | 34.0 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| Tankers | VLCC | **300k** | 128.0 | 127.0 | 0.8% | 128.0 | 120.0 | 128.0 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | **160k** | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | **115k** | 73.0 | 72.0 | 1.4% | 73.0 | 64.0 | 73.0 | 46.0 | 69 | 62 | 53 |
-|  | MR | **50k** | 48.0 | 47.5 | 1.1% | 48.0 | 44.0 | 48.0 | 34.0 | 46 | 43 | 38 |
+| Bulkers | Capesize | 180k | 67.5 | 67.0 | 0.7% | 67.5 | 61.0 | 67.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 35.5 | 35.5 | 0.0% | 35.5 | 34.0 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 128.0 | 127.0 | 0.8% | 128.0 | 120.0 | 128.0 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 73.0 | 72.0 | 1.4% | 73.0 | 64.0 | 73.0 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 48.0 | 47.5 | 1.1% | 48.0 | 44.0 | 48.0 | 34.0 | 46 | 43 | 38 |
 | Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 92 | 86 | 76 |
-|  | MGC LPG 55k cbm |  | 91.5 | 91.5 | 0.0% | 18.4 | 77.5 | 92.5 | 43.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 56 | 51 | 45 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 92 | 86 | 76 |
+| Gas | MGC LPG 55k cbm |  | 91.5 | 91.5 | 0.0% | 18.4 | 77.5 | 92.5 | 43.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

@@ -185,20 +185,20 @@ In the gas carrier segment, Dynagas ordered 4 units of 200k cbm each at Samsung 
 Elsewhere, Dynacom booked 6 VLACs of 93k cbm each at Hengli Heavy Industries, for delivery in 2028. Wealth Holdings also placed an order for 2+4 MPP/Hvy Lift vessels of 25k dwt each at Guangji XinNeng, due for delivery in 2029.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 11-Sep-26 | 4-Sep-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2025 | 2024 | 2023 |
+| Sector | Vessel | Size | 11-Sep-26 | 4-Sep-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2025 | Average 2024 | Average 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 79.0 | 79.0 | 0.0% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 76.0 | 76.0 | 0.0% | 76.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | **82k** | 38.5 | 38.5 | 0.0% | 38.5 | 36.5 | 38.5 | 27.75 | 37.1 | 34.85 | 34.8 |
-|  | Ultramax | 63k | 35.5 | 35.5 | 0.0% | 35.5 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
-|  | Handysize | 38k | 31.0 | 31.0 | 0.0% | 31.0 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 131.0 | 131.0 | 0.0% | 131.0 | 128.0 | 131.0 | 84.5 | 129.0 | 124.0 | 124.0 |
-|  | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
-|  | Aframax | 115k | 78.5 | 78.5 | 0.0% | 78.5 | 75.0 | 78.5 | 46.0 | 76.0 | 76.0 | 68.7 |
-|  | MR | 50k | 52.0 | 52.0 | 0.0% | 52.0 | 49.0 | 52.0 | 34.0 | 50.5 | 50.5 | 45.8 |
-| **Gas** | LNG 174k cbm |  | 247.5 | 248.0 | -0.2% | 248.5 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
-|  | MGC LPG 55k cbm |  | 84.5 | 84.5 | 0.0% | 84.5 | 83.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 79.0 | 79.0 | 0.0% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 76.0 | 76.0 | 0.0% | 76.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 38.5 | 38.5 | 0.0% | 38.5 | 36.5 | 38.5 | 27.75 | 37.1 | 34.85 | 34.8 |
+| Bulkers | Ultramax | 63k | 35.5 | 35.5 | 0.0% | 35.5 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 31.0 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 131.0 | 131.0 | 0.0% | 131.0 | 128.0 | 131.0 | 84.5 | 129.0 | 124.0 | 124.0 |
+| Tankers | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
+| Tankers | Aframax | 115k | 78.5 | 78.5 | 0.0% | 78.5 | 75.0 | 78.5 | 46.0 | 76.0 | 76.0 | 68.7 |
+| Tankers | MR | 50k | 52.0 | 52.0 | 0.0% | 52.0 | 49.0 | 52.0 | 34.0 | 50.5 | 50.5 | 45.8 |
+| Gas | LNG 174k cbm |  | 247.5 | 248.0 | -0.2% | 248.5 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
+| Gas | MGC LPG 55k cbm |  | 84.5 | 84.5 | 0.0% | 84.5 | 83.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

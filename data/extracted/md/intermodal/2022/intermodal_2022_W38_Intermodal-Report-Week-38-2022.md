@@ -273,14 +273,14 @@ In the Ultramax sector we had the sale of the "ULTRA DYNAMIC" (61,412dwt-blt '11
 | SUEZ | NORDIC RIO | 151,174 | 2004 | SAMSUNG, S. Korea | MAN-B\&amp;W | Apr-24 | DH | rgn $ 27.0m | European | BWTS fitted, CAP 1, dely November |
 | AFRA | CONCORD EXPRESS | 111,920 | 2003 | HYUNDAI, S. Korea | MAN-B\&amp;W | May-23 | DH | $ 23.0m | Chinese |  |
 | LR1 | AMBER | 73,981 | 2008 | NEW TIMES, China | MAN-B\&amp;W | Aug-23 | DH | $ 18.4m | undisclosed |  |
-| LR1 | AZURITE | 73,948 | 2008 | NEW TIMES, China | MAN-B\&amp;W | Sep-23 | DH | $ 18.4m |  |  |
+| LR1 | AZURITE | 73,948 | 2008 | NEW TIMES, China | MAN-B\&amp;W | Sep-23 | DH | $ 18.4m | undisclosed |  |
 | MR2 | BLACK SWAN | 47,999 | 2007 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Jan-27 | DH | xs $ 19.0m | undisclosed | BWTS fitted |
-| MR2 | RIDGEBURY BIRCH | 53,712 | 2006 | SHIN KURUSHIMA, Japan | Mitsubishi | Feb-26 | DH | $ 35.0m | undisclosed | epoxy coated |
-| MR2 | RIDGEBURY ACACIA | 53,688 | 2006 | SHIN KURUSHIMA, Japan | Mitsubishi | Nov-25 | DH |  |  |  |
+| MR2 | RIDGEBURY BIRCH | 53,712 | 2006 | SHIN KURUSHIMA, Japan | Mitsubishi | Feb-26 | DH | $ 35.0m (en bloc) | undisclosed | epoxy coated |
+| MR2 | RIDGEBURY ACACIA | 53,688 | 2006 | SHIN KURUSHIMA, Japan | Mitsubishi | Nov-25 | DH | $ 35.0m (en bloc) | undisclosed | epoxy coated |
 | MR2 | SURFER ROSA | 46,719 | 2004 | HYUNDAI, S. Korea | B\&amp;W | Feb-24 | DH | $ 16.0m | Greek | Ice 1C |
 | J19 | BATTERSEA PARK | 19,949 | 2002 | USUKI, Japan | MAN-B\&amp;W | May-27 | DH | $ 10.5m | undisclosed | BWTS fitted, StSt |
-| SMALL | UNITED TRADER | 6,841 | 2012 | SHANTOU, China | Daihatsu |  | DH | $ 3.4m | Nigerian | laid up in Nigeria since 2017 |
-| SMALL | UNITED VENTURE | 6,365 | 2012 | ZHEJIANG, China | MaK |  | DH |  |  |  |
+| SMALL | UNITED TRADER | 6,841 | 2012 | SHANTOU, China | Daihatsu |  | DH | $ 3.4m (en bloc) | Nigerian | laid up in Nigeria since 2017 |
+| SMALL | UNITED VENTURE | 6,365 | 2012 | ZHEJIANG, China | MaK |  | DH | $ 3.4m (en bloc) | Nigerian | laid up in Nigeria since 2017 |
 | SMALL | LOCH LOMOND | 19,098 | 2010 | ZHEJIANG, China | MAN-B\&amp;W | Apr-25 | DH | $ 11.3m | Chinese | BWTS fitted, online auction |
 | SMALL | RUBINO | 11,161 | 2008 | ADMARIN GEMI, Turkey | MAN-B\&amp;W | Nov-23 | DH | $ 8.5m | Danish (Alba Tankers) | Ice 1A |
 
@@ -312,24 +312,21 @@ In the Ultramax sector we had the sale of the "ULTRA DYNAMIC" (61,412dwt-blt '11
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 23/09/2022 | 16/09/2022 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 68.5 | 69.0 | -0.7% | 51 | 54 | 51 |
-| **Capesize** | **180k** | 64.0 | 64.5 | -0.8% | 49 | 52 | 49 |
-| **Kamsarmax** | **82k** | 36.5 | 37.0 | -1.4% | 28 | 30 | 29 |
-| **Ultramax** | **63k** | 34.0 | 34.5 | -1.4% | 26 | 28 | 27 |
-| **Handysize** | **38k** | 30.5 | 31.0 | -1.6% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| **Suezmax** | **160k** | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| **Aframax** | **115k** | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
-| **MR** | **50k** | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 243.0 | 242.0 | **0.4%** | 187 | 186 | 181 |  |
-| **LGC LPG 80k cbm** | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |  |
-| **MGC LPG 55k cbm** | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |  |
-| **SGC LPG 25k cbm** | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 23/09/2022 | 16/09/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 68.5 | 69.0 | -0.7% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 64.0 | 64.5 | -0.8% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 37.0 | -1.4% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.5 | -1.4% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.5 | 31.0 | -1.6% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 243.0 | 242.0 | 0.4% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 The newbuilding ordering activity continues to witness a steady number of materialized deals through September. In the tanker realm, Mitsui &amp; Co sealed a deal with Hyundai Vietnam for three 50,000dwt vessels at \$42.7m. Additionally, Swedish Furetank declared two options for two 17,999dwt LNG-fuelled vessels at CMJL Yangzhou. On the dry front, Jaldhi Overseas inked a deal with Yamic for the construction of four 66,000dwt vessels, which will meet EEDI phase 3 standards. Last but not least, in the gas sector, we continue to witness the owners' insatiable hunger for LNG carriers with Chinese CMES declaring an option for two 175,000cbm units at DSIC, while placing a fresh order for two firm plus two optional 175,000cbm dual-fuelled vessels. The owner will pay the competitive price of \$200.0m for the vessels which will be delivered in 2026.
 
@@ -372,7 +369,7 @@ The newbuilding ordering activity continues to witness a steady number of materi
 | 2 | Tanker | 17,999 dwt | CMJL Yangzhou, China | 2024-2025 | Swedish (Furetank Rederi) | undisclosed | option declared, LNG fuelled |
 | 4 | Bulker | 66,000 dwt | Yamic, China | 2024 | Singapore based (Jaldhi Overseas) | undisclosed | EEDI phase 3 |
 | 2 | LNG | 175,000 cbm | DSIC, China | 2026 | Chinese (CMES) | $ 200.0m | option declared, dual fuelled |
-| 2+2 | LNG | 175,000 cbm |  | 2026 |  | $ 200.0m | dual fuelled, LOI stage |
+| 2+2 | LNG | 175,000 cbm | DSIC, China | 2026 | Chinese (CMES) | $ 200.0m | dual fuelled, LOI stage |
 
 © Intermodal Research 27/09/2022 6
 

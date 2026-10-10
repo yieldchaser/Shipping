@@ -217,8 +217,8 @@ Supramax 10TC averaged \$ 11,589/day up +0.6% w-o-w, while the Handysize 7TC ave
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | QING MAY | 206,117 | 2012 | SWS, China | MAN-B\&W | Aug-24 |  | $ 73.0m | Chinese (Winning) | BWTS, Scrubber fitted |
-| NEWCASTLEMAX | LAN MAY | 206,007 | 2011 | SWS, China | MAN-B\&W | Jul-24 |  |  |  |  |
+| NEWCASTLEMAX | QING MAY | 206,117 | 2012 | SWS, China | MAN-B\&W | Aug-24 |  | $ 73.0m (en bloc) | Chinese (Winning) | BWTS, Scrubber fitted |
+| NEWCASTLEMAX | LAN MAY | 206,007 | 2011 | SWS, China | MAN-B\&W | Jul-24 |  | $ 73.0m (en bloc) | Chinese (Winning) | BWTS, Scrubber fitted |
 | CAPE | NEW DELIGHT | 181,279 | 2012 | IMABARI, Japan | MAN-B\&W | Jul-27 |  | $ 30.95m | Chinese (Jinhui) | BWTS fitted |
 | CAPE | GUO MAY | 176,536 | 2011 | SWS, China | MAN-B\&W | Feb-26 |  | region $ 26.5m | Greek | BWTS fitted |
 | CAPE | YUE MAY | 176,552 | 2011 | SWS, China | MAN-B\&W | Jul-26 |  | region $ 26.5m | European | BWTS fitted |
@@ -237,20 +237,20 @@ Supramax 10TC averaged \$ 11,589/day up +0.6% w-o-w, while the Handysize 7TC ave
 The newbuilding market continues to demonstrate strong activity. However, the Container sector was the exception last week, having shown a lack of interest according to the latest list. Nevertheless, contracts have been initiated in other sectors. In the area of crude tankers, there was interest in the Suezamax sector with UK based Hayfin Capital exercising an option for the construction of two 158,000dwt vessels at Hyundai Hi at a price of \$86.2m each. Additionally, Hayfin Capital has been active in the dry bulk sector, ordering two 100,000dwt vessels from Oshima Shipbuilding, while Greek shipping firm W Marine has signed a contract for the construction of two 82,000dwt Kamsarmax vessels at Chengxi.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 2-Feb-24 | 26-Jan-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 2-Feb-24 | 26-Jan-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 70.5 | 70.5 | 0.0% | 70.5 | 70.0 | 70.5 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | 180k | 67.5 | 67.5 | 0.0% | 67.5 | 67.5 | 67.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | 82k | 35.5 | 35.5 | 0.0% | 35.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | 300k | 128.0 | 128.0 | 0.0% | 128.0 | 128.0 | 128.0 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 85.0 | 85.0 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | 115k | 73.0 | 73.0 | 0.0% | 73.0 | 73.0 | 73.0 | 46.0 | 69 | 62 | 53 |
-|  | MR | 50k | 48.0 | 48.0 | 0.0% | 48.0 | 48.0 | 48.0 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 265.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 91.5 | 92.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 58.5 | 58.5 | 0.0% | 58.5 | 58.0 | 58.5 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 70.5 | 70.5 | 0.0% | 70.5 | 70.0 | 70.5 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 67.5 | 67.5 | 0.0% | 67.5 | 67.5 | 67.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 35.5 | 35.5 | 0.0% | 35.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 128.0 | 128.0 | 0.0% | 128.0 | 128.0 | 128.0 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 85.0 | 85.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 73.0 | 73.0 | 0.0% | 73.0 | 73.0 | 73.0 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 48.0 | 48.0 | 0.0% | 48.0 | 48.0 | 48.0 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 265.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 91.5 | 92.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 58.5 | 58.5 | 0.0% | 58.5 | 58.0 | 58.5 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

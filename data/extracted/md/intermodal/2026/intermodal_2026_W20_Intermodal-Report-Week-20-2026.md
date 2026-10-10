@@ -224,9 +224,9 @@ The Handysize market was mixed but generally firmer. Asia provided most of the s
 | SUPRA | SETY | 55,753 | 2010 | IHI, Japan | Wartsila | Apr-30 | 4 X 35t CRANES | $ 16.5m | Chinese |  |
 | SUPRA | WEST BAY | 52,532 | 2004 | TSUNEISHI CEBU, Philippines | B\&W | Feb-29 | 4 X 30t CRANES | $ 9.8m | Chinese | Scrubber fitted |
 | HANDY | EASTBOURNE | 40,547 | 2024 | JNS, China | MAN B\&W | Apr-29 | 4 X 30,5t CRANES | region $ 120,0m enbloc | Norden | Eco |
-| HANDY | PORTSMOUTH | 40,547 | 2024 | JNS, China | MAN B\&W | Apr-29 | 4 X 30,5t CRANES |  |  |  |
-| HANDY | MARGATE | 40,547 | 2024 | JNS, China | MAN B\&W | May-29 | 4 X 30,5t CRANES |  |  |  |
-| HANDY | CLACTON | 40,547 | 2024 | JNS, China | MAN B\&W | Jun-29 | 4 X 30,5t CRANES |  |  |  |
+| HANDY | PORTSMOUTH | 40,547 | 2024 | JNS, China | MAN B\&W | Apr-29 | 4 X 30,5t CRANES | region $ 120,0m enbloc | Norden | Eco |
+| HANDY | MARGATE | 40,547 | 2024 | JNS, China | MAN B\&W | May-29 | 4 X 30,5t CRANES | region $ 120,0m enbloc | Norden | Eco |
+| HANDY | CLACTON | 40,547 | 2024 | JNS, China | MAN B\&W | Jun-29 | 4 X 30,5t CRANES | region $ 120,0m enbloc | Norden | Eco |
 
 ---
 
@@ -241,20 +241,20 @@ In the tanker segment, Ibaizabal Tankers placed an order for two 158k dwt crude 
 On the containership side, Shanghai ChangShun contracted Yangzhou Guoyu Shipbuilding for a series of 6+4 units of 6.15k teu vessels, scheduled for delivery in 2027–2028, at around \$70m. In addition, Erasmus Shipinvest placed an order for a 4+2 **Indicative Newbuilding Prices (\$ Million)**
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Vessel Class | Size | 15-May-26 | 8-May-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2025 | 2024 | 2023 |
+| Sector | Vessel | Size | 15-May-26 | 8-May-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2025 | Average 2024 | Average 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 78.5 | 78.5 | 0.0% | 78.5 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 75.5 | 75.5 | 0.0% | 75.5 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | 82k | 37.5 | 37.0 | 1.4% | 37.5 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 34.8 |
-|  | Ultramax | 63k | 34.5 | 34.0 | 1.5% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
-|  | Handysize | 38k | 30.5 | 30.0 | 1.7% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
-|  | Suezmax | 160k | 89.0 | 89.0 | 0.0% | 89.0 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
-|  | Aframax | 115k | 77.0 | 77.0 | 0.0% | 77.0 | 75.0 | 77.5 | 46.0 | 76.0 | 76.0 | 68.7 |
-|  | MR | 50k | 50.5 | 50.5 | 0.0% | 50.5 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
-| **Gas** | LNG 174k cbm |  | 248.5 | 248.5 | 0.0% | 248.5 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
-|  | MGC LPG 55k cbm |  | 83.0 | 83.0 | 0.0% | **84.0** | 83.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 78.5 | 78.5 | 0.0% | 78.5 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 75.5 | 75.5 | 0.0% | 75.5 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.0 | 1.4% | 37.5 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 34.8 |
+| Bulkers | Ultramax | 63k | 34.5 | 34.0 | 1.5% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
+| Bulkers | Handysize | 38k | 30.5 | 30.0 | 1.7% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
+| Tankers | Suezmax | 160k | 89.0 | 89.0 | 0.0% | 89.0 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
+| Tankers | Aframax | 115k | 77.0 | 77.0 | 0.0% | 77.0 | 75.0 | 77.5 | 46.0 | 76.0 | 76.0 | 68.7 |
+| Tankers | MR | 50k | 50.5 | 50.5 | 0.0% | 50.5 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
+| Gas | LNG 174k cbm |  | 248.5 | 248.5 | 0.0% | 248.5 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
+| Gas | MGC LPG 55k cbm |  | 83.0 | 83.0 | 0.0% | 84.0 | 83.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

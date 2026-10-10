@@ -213,10 +213,10 @@ Secondhand Sales
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | HERUN ZHEJIANG | 181,056 | 2017 | SHANGHAI WAIGAOQIAO, China | MAN B\&W | Jul-27 |  | $ 48.0m | Chinese (Undisclosed) |
-| UMAX | BELINDA | 63,339 | 2016 | Jiangsu Hantong, China | MAN B\&W | Jan-26 | 4 X 36t CRANES | $ 84.0m | Singapore based |
-| UMAX | BELATLANTIC | 63,318 | 2016 | Jiangsu Hantong, China | MAN B\&W | May-26 | 4 X 36t CRANES |  |  |
-| UMAX | BELSOUTH | 63,297 | 2015 | Jiangsu Hantong, China | MAN B\&W | Mar-28 | 4 X 36t CRANES |  |  |
-| UMAX | BELMONT | 63,263 | 2016 | Jiangsu Hantong, China | MAN B\&W | Feb-26 | 4 X 36t CRANES |  |  |
+| UMAX | BELINDA | 63,339 | 2016 | Jiangsu Hantong, China | MAN B\&W | Jan-26 | 4 X 36t CRANES | $ 84.0m (en bloc) | Singapore based |
+| UMAX | BELATLANTIC | 63,318 | 2016 | Jiangsu Hantong, China | MAN B\&W | May-26 | 4 X 36t CRANES | $ 84.0m (en bloc) | Singapore based |
+| UMAX | BELSOUTH | 63,297 | 2015 | Jiangsu Hantong, China | MAN B\&W | Mar-28 | 4 X 36t CRANES | $ 84.0m (en bloc) | Singapore based |
+| UMAX | BELMONT | 63,263 | 2016 | Jiangsu Hantong, China | MAN B\&W | Feb-26 | 4 X 36t CRANES | $ 84.0m (en bloc) | Singapore based |
 | SUPRA | CHEVAL BLANC | 56,732 | 2009 | Jiangsu Hantong, China | MAN B\&W | Sep-29 | 4 X 35t CRANES |  |  |
 | SUPRA | IVY BLUE | 55,885 | 2011 | IHI, Japan | Wartsila | Jan-26 | 4 X 30t CRANES | $ 15.6m | Vietnamese |
 
@@ -227,23 +227,20 @@ Secondhand Sales
 The newbuilding activity recorded over the past week reflects a strong and diversified interest in vessel orders, spanning the tanker, bulk carrier, and container segments. Notably, the container sector is experiencing a surge in ordering activity, entirely concentrated in the feeder segment, which has fully captured investor appetite. A total of 22 feeder container vessels were ordered last week, following 10 units the week prior, highlighting the growing confidence among owners in the solid fundamentals of this specific market niche. In the tanker segment, the VLCC market dominated crude carrier activity, with Trafigura and Tsakos Energy Navigation each placing orders for two units. Additionally, COSCO Shipping contracted four asphalt/bitumen carriers. In the dry bulk segment, COSCO signed an agreement for six methanol and ammonia-ready Newcastlemax vessels, while Wah Kwong Shipping concluded an order for four Ultra-max bulkers. Lastly, Polsteam reached an agreement with Wuhu Shipyard for four firm plus two optional Handysize vessels, each with a capacity of 45,000 dwt.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 1-Aug-25 | 25-Jul-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2023 | 2022 |
+| Sector | Vessel | Size | 1-Aug-25 | 25-Jul-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 77.0 | 77.0 | 0.0% | 79.0 | 77.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-| **Bulkers** | Capesize | 180k | 73.5 | 73.5 | 0.0% | 75.0 | 73.5 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-| **Bulkers** | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-| **Bulkers** | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-| **Bulkers** | Handysize | 38k | 29.5 | 29.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | 300k | 126.0 | 126.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-| **Tankers** | Suezmax | 160k | 86.0 | 86.0 | 0.0% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-| **Tankers** | Aframax | 115k | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-| **Tankers** | MR | 50k | 49.0 | 49.0 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 250.0 | 251.0 | -0.4% | 260.0 | 250.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-| **Gas** | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-| **Gas** | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 77.0 | 77.0 | 0.0% | 79.0 | 77.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 73.5 | 73.5 | 0.0% | 75.0 | 73.5 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 29.5 | 29.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 126.0 | 126.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 86.0 | 86.0 | 0.0% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 49.0 | 49.0 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 250.0 | 251.0 | -0.4% | 260.0 | 250.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

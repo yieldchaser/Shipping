@@ -284,12 +284,12 @@ In the Supramax sector we had the sale of the "PAN CROCUS" (57,269dwt-blt '09, C
 | LR2 | ALMI SPIRIT | 105,547 | 2007 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Aug-22 | DH | rgn $ 20.0m | undisclosed |  |
 | LR2 | WONDER ARCTURUS | 106,149 | 2002 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Aug-22 | DH | $ 13.15m | Middle Eastern |  |
 | LR2 | TORM GUDRUN | 101,155 | 2000 | HYUNDAI ULSAN, S. Korea | B&amp;W | May-25 | DH | excess $ 10.0m | undisclosed | coated |
-| MR2 | GWN 3 | 50,192 | 2021 | SAMSUNG, S. Korea | MAN-B&amp;W | Jan-26 | DH | excess $ 78.0m | UK based (Union Maritime) | scrubber fitted |
-| MR2 | GWN 2 | 50,192 | 2020 | SAMSUNG, S. Korea | MAN-B&amp;W | Sep-25 | DH |  |  |  |
+| MR2 | GWN 3 | 50,192 | 2021 | SAMSUNG, S. Korea | MAN-B&amp;W | Jan-26 | DH | excess $ 78.0m (en bloc) | UK based (Union Maritime) | scrubber fitted |
+| MR2 | GWN 2 | 50,192 | 2020 | SAMSUNG, S. Korea | MAN-B&amp;W | Sep-25 | DH | excess $ 78.0m (en bloc) | UK based (Union Maritime) | scrubber fitted |
 | MR2 | ST PAULI | 49,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jul-22 | DH | excess $ 33.0m | undisclosed |  |
 | MR2 | TUCHKOV BRIDGE | 47,199 | 2004 | ADMIRALTEYSKIY, Russia | B&amp;W | Apr-24 | DH | undisclosed | Singapore based (VR Marine) | distressed sale |
 | MR2 | ELBRUS | 46,655 | 2004 | HYUNDAI MIPO, S. Korea | B&amp;W | May-24 | DH | $ 6.95m | Middle Eastern | distressed sale |
-| MR2 | PAMIR | 46,654 | 2004 | HYUNDAI MIPO, S. Korea | B&amp;W | Apr-24 | DH | $ 6.95m |  |  |
+| MR2 | PAMIR | 46,654 | 2004 | HYUNDAI MIPO, S. Korea | B&amp;W | Apr-24 | DH | $ 6.95m | Middle Eastern | distressed sale |
 | SMALL | GAO CHENG 5 | 9,039 | 2011 | ZHEJIANG TAITONG, China | Yanmar |  | DH | $ 3.9m | Chinese |  |
 
 © Intermodal Research 17/05/2022 4
@@ -303,8 +303,8 @@ In the Supramax sector we had the sale of the "PAN CROCUS" (57,269dwt-blt '09, C
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | MINERAL YARDEN | 181,218 | 2016 | IMABARI, Japan | MAN-B\&amp;W | May-26 |  | rgn $ 51.5m | German (Valhal) | incl 5 yrs TC attached at $26,000 p/d |
-| KMAX | BTG OLYMPOS | 81,086 | 2015 | JMU, Japan | MAN-B\&amp;W | Oct-25 |  | excess $ 71.0m | Greek (TMS) | BWTS fitted |
-| KMAX | BTG KAILASH | 81,084 | 2015 | JMU, Japan | MAN-B\&amp;W | Feb-25 |  |  |  |  |
+| KMAX | BTG OLYMPOS | 81,086 | 2015 | JMU, Japan | MAN-B\&amp;W | Oct-25 |  | excess $ 71.0m (en bloc) | Greek (TMS) | BWTS fitted |
+| KMAX | BTG KAILASH | 81,084 | 2015 | JMU, Japan | MAN-B\&amp;W | Feb-25 |  | excess $ 71.0m (en bloc) | Greek (TMS) | BWTS fitted |
 | PMAX | PALAIS | 75,434 | 2014 | JIANGSU RONGSHENG, China | Wartsila | Jan-24 |  | $ 22.0m | Chinese | Tier II &amp; BWTS fitted |
 | PMAX | ROSCO OLIVE | 74,951 | 2010 | SASEBO, Japan | MAN-B\&amp;W | Sep-25 |  | rgn $24.0m | European |  |
 | PMAX | CHAILEASE BLOSSOM | 77,684 | 2004 | CSBC, Taiwan | B\&amp;W | Aug-22 |  | mid $ 13.0m | Chinese |  |
@@ -324,10 +324,10 @@ In the Supramax sector we had the sale of the "PAN CROCUS" (57,269dwt-blt '09, C
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LNG | SCF MITRE | 93,585 | 2015 | STX OFFSHORE, JINHAE | MAN | Apr-25 | 167,158 |  |  |  |
-| LNG | SCF MELAMPUS | 93,508 | 2015 | STX OFFSHORE, JINHAE | MAN | Jan-25 | 167,062 | over $ 700.0m | Singapore based (Eastern Pacific) | bank involved in the sale, also incl TC to Shell for 7-10 yrs |
-| LNG | SCF BARENTS | 93,025 | 2020 | HYUNDAI SAMHO, S. Korea | Wartsila | Sep-25 | 170,479 |  |  |  |
-| LNG | SCF TIMMERMAN | 92,969 | 2021 | HYUNDAI SAMHO, S. Korea | Wartsila | Jan-26 | 170,551 |  |  |  |
+| LNG | SCF MITRE | 93,585 | 2015 | STX OFFSHORE, JINHAE | MAN | Apr-25 | 167,158 | over $ 700.0m (en bloc) | Singapore based (Eastern Pacific) |  |
+| LNG | SCF MELAMPUS | 93,508 | 2015 | STX OFFSHORE, JINHAE | MAN | Jan-25 | 167,062 | over $ 700.0m (en bloc) | Singapore based (Eastern Pacific) | bank involved in the sale, also incl TC to Shell for 7-10 yrs |
+| LNG | SCF BARENTS | 93,025 | 2020 | HYUNDAI SAMHO, S. Korea | Wartsila | Sep-25 | 170,479 | over $ 700.0m (en bloc) | Singapore based (Eastern Pacific) |  |
+| LNG | SCF TIMMERMAN | 92,969 | 2021 | HYUNDAI SAMHO, S. Korea | Wartsila | Jan-26 | 170,551 | over $ 700.0m (en bloc) | Singapore based (Eastern Pacific) |  |
 
 © Intermodal Research 17/05/2022 5
 

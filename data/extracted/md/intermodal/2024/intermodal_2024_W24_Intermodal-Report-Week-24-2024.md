@@ -248,8 +248,8 @@ Panamax 5TC averaged \$ 16,758/day, up +8.9% w-o-w. The transatlantic earnings i
 | NEWCASTLEMAX | HERMANN OLDENDORFF | 209,243 | 2016 | TAIZHOU CATIC, China | MAN-B\&W | May-24 |  | $ 55.0m | South Korean (HMM) | Scrubber fitted, Eco |
 | NEWCASTLEMAX | CLASSIC ARO | 206,331 | 2008 | IMABARI, Japan | MAN-B\&W | Sep-25 |  | $ 26.5m | Chinese | TC attached at usd 20,000 less usd 1,104 comm daily until 16th July 2025 – 16th Jan 2026, Scrubber fitted, Eco |
 | PMAX | CORAL JASPER | 78,087 | 2012 | SHIN KURUSHIMA, Japan | MAN-B\&W | May-27 |  | $ 22.8m | Greek |  |
-| UMAX | AUGUST OLDENDORFF | 61,090 | 2015 | JMU, Japan | Wartsila | Jan-25 | 4 X 30t CRANES | $ 61.0m | Far Eastern | Scrubber fitted, Eco |
-| UMAX | ALWINE OLDENDORFF | 61,090 | 2014 | JMU, Japan | Wartsila | Dec-24 | 4 X 30t CRANES |  |  | Scrubber fitted, Eco |
+| UMAX | AUGUST OLDENDORFF | 61,090 | 2015 | JMU, Japan | Wartsila | Jan-25 | 4 X 30t CRANES | $ 61.0m (en bloc) | Far Eastern | Scrubber fitted, Eco |
+| UMAX | ALWINE OLDENDORFF | 61,090 | 2014 | JMU, Japan | Wartsila | Dec-24 | 4 X 30t CRANES | $ 61.0m (en bloc) | Far Eastern | Scrubber fitted, Eco |
 | SUPRA | AULAC VANGUARD | 55,848 | 2012 | IHI, Japan | Wartsila | Jun-25 | 4 X 30t CRANES | $ 18.8m | Greek |  |
 | HANDY | WESTERN PANAMA | 39,000 | 2015 | JIANGMEN NANYANG, China | MAN-B\&W | Jan-25 | 4 X 30t CRANES | $ 18.6m | Thai (Precious) | Eco |
 | HANDY | GOLD DUST | 28,420 | 2012 | IMABARI, Japan | MAN-B\&W | May-25 | 4x30.7, 4x30.5 | $ 12.0m | Vietnamese |  |
@@ -261,20 +261,20 @@ Panamax 5TC averaged \$ 16,758/day, up +8.9% w-o-w. The transatlantic earnings i
 The previous week saw 26 vessels being contracted in all vessel types. On orders that stood out, China Merchants Energy ordered a total of 14 Capes, 8 at New Times and 6 from Beihai, all of which being equipped with scrubbers. The vessels from Beihai will cost \$ 78.0m, \$2m more than the others at New Times, as they will be equipped with shaft generators. All vessels will be delivered from 2027 and onwards. On Tankers, Chandris contracted Hanwha Ocean to build a 320k dwt vessel for 2026 delivery and a price around \$130m. Eastern Pacific had another huge order for 6x 5,500 ceu PCTC LNG dual-fuel vessels, 4 at Fujian Mawei and 2 from Jinling. The price remained undisclosed and delivery is scheduled for 2027.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 14-Jun-24 | 7-Jun-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 14-Jun-24 | 7-Jun-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 79.0 | 78.5 | 0.6% | 79.0 | 70.0 | 79.0 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | **180k** | 76.0 | 75.0 | 1.3% | 76.0 | 67.5 | 76.0 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | **82k** | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | **63k** | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | **38k** | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | **300k** | 130.0 | 130.0 | 0.0% | 130.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | **160k** | 89.5 | 89.0 | 0.6% | 89.5 | 85.0 | 89.5 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | **115k** | 77.0 | 76.0 | 1.3% | 77.0 | 73.0 | 77.0 | 46.0 | 69 | 62 | 53 |
-|  | MR | **50k** | 51.0 | 51.0 | 0.0% | 51.0 | 48.0 | 51.0 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 79.0 | 78.5 | 0.6% | 79.0 | 70.0 | 79.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 76.0 | 75.0 | 1.3% | 76.0 | 67.5 | 76.0 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 89.5 | 89.0 | 0.6% | 89.5 | 85.0 | 89.5 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 77.0 | 76.0 | 1.3% | 77.0 | 73.0 | 77.0 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.0 | 51.0 | 0.0% | 51.0 | 48.0 | 51.0 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -319,5 +319,5 @@ Strong asset values, strong earnings and an optimistic short-term outlook for th
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| MSC TIA II |  | 10,421 | 1999 | GDYNIA STOCZNIA, Poland | CONTAINER | $ 570.0m | Indian |
-| WAN TONG |  | 5,111 | 1990 | KANASASHI, Japan | REEFER | $ 425.0m | undisclosed |
+| MSC TIA II |  | 10,421 | 1999 | GDYNIA STOCZNIA, Poland | CONTAINER | $ 570/Ldt | Indian |
+| WAN TONG |  | 5,111 | 1990 | KANASASHI, Japan | REEFER | $ 425/Ldt | undisclosed |

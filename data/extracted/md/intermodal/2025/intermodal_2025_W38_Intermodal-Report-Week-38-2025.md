@@ -217,8 +217,8 @@ Handysize carriers recorded relatively stable conditions overall. The Continent 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | WAKAYAMA MARU | 181,501 | 2013 | KOYO MIHARA, Japan | MAN B\&W | Jul-28 |  | region $ 37.0m | undisclosed |  |
 | UMAX | ELIZABETH M II | 63,683 | 2020 | NANTONG XIANGYU, China | MAN B\&W | Aug-30 | 4 X 35t CRANES | $ 30.5m | Greek | Eco |
-| UMAX | CMB VAN DIJCK | 63,667 | 2020 | SHIN KASADO, Japan | MAN B\&W | Sep-25 | 4 X 30,7t CRANES | $ 65.0m | Korean (HMM) |  |
-| UMAX | CMB MATSYS | 63,620 | 2021 | SHIN KASADO, Japan | MAN B\&W | Oct-26 | 4 X 30,7t CRANES |  |  |  |
+| UMAX | CMB VAN DIJCK | 63,667 | 2020 | SHIN KASADO, Japan | MAN B\&W | Sep-25 | 4 X 30,7t CRANES | $ 65.0m (en bloc) | Korean (HMM) |  |
+| UMAX | CMB MATSYS | 63,620 | 2021 | SHIN KASADO, Japan | MAN B\&W | Oct-26 | 4 X 30,7t CRANES | $ 65.0m (en bloc) | Korean (HMM) |  |
 | UMAX | AFRICAN CHEETAH | 66,684 | 2014 | MITSUI, Japan | MAN B\&W | Mar-29 | 4 X 30t CRANES | around $ 24.5m | Bangladeshi |  |
 | UMAX | ULTRA COLONSAY | 61,470 | 2011 | SHIN KASADO, Japan | MAN B\&W | Oct-26 | 4 X 30,5t CRANES | region $ 18.0m | Far Eastern |  |
 | SUPRA | QUEEN FLOWER | 50,477 | 2013 | OSHIMA, Japan | MAN B\&W | Apr-26 | 4 X 30t CRANES | high $ 16's | Turkish | OHBS |

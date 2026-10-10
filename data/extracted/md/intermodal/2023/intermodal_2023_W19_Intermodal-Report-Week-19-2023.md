@@ -259,10 +259,10 @@ In the Panamax sector we had the sale of the "HONG CHENG" (75,081dwt-bl't '11, C
 | AFRA | SOUTHERN GLORY | 108,411 | 2019 | TSUNEISHI, Japan | MAN-B\&amp;W | Jun-27 | DH | $ 67.8m | Singapore based (Eastern Pacific) | BWTS &amp; Scrubber fitted |
 | AFRA | AFRAMAX RIVIERA | 107,113 | 2005 | KOYO MIHARA, Japan | Sulzer | Mar-25 | DH | $ 35.0m | UAE based |  |
 | MR1 | JENNY I | 40,128 | 2003 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | May-23 | DH | $ 17.0m | European |  |
-| SMALL | SUPER INFINITY | 15,004 | 2009 | STX RO, Romania | MAN | Aug-24 | DH |  |  | Ice 1A |
+| SMALL | SUPER INFINITY | 15,004 | 2009 | STX RO, Romania | MAN | Aug-24 | DH | region $ 9.0m each | undisclosed | Ice 1A |
 | SMALL | SUPER HERO | 14,984 | 2009 | STX RO, Romania | MAN | Jul-24 | DH | region $ 9.0m each | undisclosed | Ice 1A |
-| SMALL | SUPER EASTERN | 12,825 | 2009 | STX, S. Korea | MAN-B\&amp;W | Sep-24 | DH |  |  | BWTS fitted |
-| SMALL | SUPER FORTE | 12,814 | 2010 | STX, S. Korea | MAN-B\&amp;W | Jan-25 | DH |  |  | BWTS fitted |
+| SMALL | SUPER EASTERN | 12,825 | 2009 | STX, S. Korea | MAN-B\&amp;W | Sep-24 | DH | region $ 9.0m each | undisclosed | BWTS fitted |
+| SMALL | SUPER FORTE | 12,814 | 2010 | STX, S. Korea | MAN-B\&amp;W | Jan-25 | DH | region $ 9.0m each | undisclosed | BWTS fitted |
 ## Bulk Carriers
 
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
@@ -285,24 +285,21 @@ In the Panamax sector we had the sale of the "HONG CHENG" (75,081dwt-bl't '11, C
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 12-May-23 | 5-May-23 | ±% | 2022 | 2021 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 64.5 | 64.5 | 0.0% | 66 | 59 |
-| Capesize | 180k | 61.5 | 61.5 | 0.0% | 63 | 56 |
-| Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 36 | 33 |
-| Ultramax | 63k | 33.0 | 33.0 | 0.0% | 34 | 30 |
-| Handysize | 38k | 30.0 | 30.0 | 0.0% | 30 | 27 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 123.0 | 121.5 | 1.2% | 118 | 98 |
-| Suezmax | 160k | 81.0 | 80.0 | 1.3% | 79 | 66 |
-| Aframax | 115k | 68.0 | 67.5 | 0.7% | 62 | 53 |
-| MR | 50k | 44.5 | 44.5 | 0.0% | 43 | 38 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 258.0 | 257.0 | 0.4% | 232 | 195 | 187 |
-| LGC LPG 80k cbm | 92.0 | 92.0 | 0.0% | 86 | 76 | 73 |
-| MGC LPG 55k cbm | 82.5 | 82.0 | 0.6% | 74 | 67 | 63 |
-| SGC LPG 25k cbm | 55.0 | 55.0 | 0.0% | 51 | 45 | 42 |
+| Sector | Vessel | Size | 12-May-23 | 5-May-23 | ±% | 2022 | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.5 | 64.5 | 0.0% | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 61.5 | 61.5 | 0.0% | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 123.0 | 121.5 | 1.2% | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 81.0 | 80.0 | 1.3% | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 68.0 | 67.5 | 0.7% | 62 | 53 | 48 |
+| Tankers | MR | 50k | 44.5 | 44.5 | 0.0% | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 258.0 | 257.0 | 0.4% | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 82.5 | 82.0 | 0.6% | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 55.0 | 55.0 | 0.0% | 51 | 45 | 42 |
 
 The previous week was another firm one for the shipbuilding industry, with 15 vessels being ordered. The overwhelming majority were bulkers (9) and in particular Kamsarmax size. It is also worth noting that there was only one tanker order, for two ships. German owner Oldendorff Carriers ordered 3 firm and 6 optional 82,200 dwt bulk carriers from Jiangsu New Hantong for delivery in 2025. The trio will be EEDI phase 3 compliant and cost the owner \$33.0m each. In a similar deal, Fortune Ocean Shipping ordered four firm 82,000 dwt vessels from Dalian Shipbuilding in China at a cost of \$32.5m each. In the only tanker order, Greek owner Steelships ordered two 50,000 dwt tankers from K Shipbuilding in Korea. The two will be fitted with scrubbers and will also be available for LNG propulsion. Finally, Danaos ordered two 5,900 TEU boxships from Qingdao Yangfan for delivery in 2025 at a cost of \$63.0m each.
 

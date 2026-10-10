@@ -243,26 +243,26 @@ In the Handysize sector we had the sale of the "FW ADVENTURER" (34,487dwt-blt '1
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | C. GUARDIAN | 300,300 | 2019 | DAEWOO, S. Korea | MAN-B\&amp;W | Oct-24 | DH | $ 99.0m | S. Korean (HMM) | BWTS, Scrubber fitted, on subs |
-| SUEZ | ZEYNEP | 158,060 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Aug-25 | DH |  |  |  |
-| SUEZ | AYSE C | 158,060 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Aug-25 | DH | $ 222.5m | Bermuda based (SFL Corporation) | Scrubber fitted, Eco, TC attached for 6 years to Koch Industries |
-| SUEZ | ATINA | 159,500 | 2015 | BOHAI, China | MAN-B\&amp;W | Jan-25 | DH |  |  |  |
-| SUEZ | ISTANBUL | 159,500 | 2015 | BOHAI, China | MAN-B\&amp;W | Mar-25 | DH |  |  |  |
+| SUEZ | ZEYNEP | 158,060 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Aug-25 | DH | $ 222.5m (en bloc) | Bermuda based (SFL Corporation) | Scrubber fitted, Eco, TC attached for 6 years to Koch Industries |
+| SUEZ | AYSE C | 158,060 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Aug-25 | DH | $ 222.5m (en bloc) | Bermuda based (SFL Corporation) | Scrubber fitted, Eco, TC attached for 6 years to Koch Industries |
+| SUEZ | ATINA | 159,500 | 2015 | BOHAI, China | MAN-B\&amp;W | Jan-25 | DH | $ 222.5m (en bloc) | Bermuda based (SFL Corporation) | Scrubber fitted, Eco, TC attached for 6 years to Koch Industries |
+| SUEZ | ISTANBUL | 159,500 | 2015 | BOHAI, China | MAN-B\&amp;W | Mar-25 | DH | $ 222.5m (en bloc) | Bermuda based (SFL Corporation) | Scrubber fitted, Eco, TC attached for 6 years to Koch Industries |
 | SUEZ | RIDGEBURY LESSLEY B | 158,319 | 2013 | SAMSUNG, S. Korea | MAN-B\&amp;W | Sep-23 | DH | $ 45.0m | Greek (Thenamaris) | BWTS, Scrubber fitted |
 | SUEZ | RIDGEBURY MARY SELENA | 146,427 | 2006 | UNIVERSAL, Japan | MAN-B\&amp;W | Sep-26 | DH | $ 31.0m | Greek | BWTS, Scrubber fitted |
 | SUEZ | AKSTA | 159,437 | 2003 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Apr-23 | DH | $ 18.5m | undisclosed | epoxy coated |
 | AFRA | IMPERIA | 114,849 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W |  | DH | $ 31.5m | undisclosed | BWTS fitted, Ice 1A, basis delivery Septmeber - October 2022 |
 | AFRA | OBERON | 106,004 | 2006 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Nov-22 | DH | excess $ 25.0m | Middle Eastern | BWTS fitted |
-| MR2 | GULF MISHREF | 46,089 | 2010 | SLS, S. Korea | MAN-B\&amp;W | Jul-25 | DH |  |  |  |
-| MR2 | GULF HUWAYLAT | 45,967 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | May-23 | DH |  |  |  |
+| MR2 | GULF MISHREF | 46,089 | 2010 | SLS, S. Korea | MAN-B\&amp;W | Jul-25 | DH | undisclosed | Chinese (Jiangsu Financial Leasing) | refinancing agreement |
+| MR2 | GULF HUWAYLAT | 45,967 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | May-23 | DH | undisclosed | Chinese (Jiangsu Financial Leasing) | refinancing agreement |
 | MR2 | GULF DEFFI | 45,951 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-24 | DH | undisclosed | Chinese (Jiangsu Financial Leasing) | refinancing agreement |
-| MR2 | GULF FANATIR | 45,920 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | May-23 | DH |  |  |  |
-| MR2 | GULF JALMUDA | 45,907 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Mar-24 | DH |  |  |  |
-| MR2 | DEE4 DOGWOOD | 47,399 | 2008 | ONOMICHI, Japan | MAN-B\&amp;W | Dec-23 | DH | $ 44.0m | undisclosed | BWTS fitted |
-| MR2 | DEE4 CEDAR | 45,994 | 2010 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Aug-25 | DH |  |  |  |
+| MR2 | GULF FANATIR | 45,920 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | May-23 | DH | undisclosed | Chinese (Jiangsu Financial Leasing) | refinancing agreement |
+| MR2 | GULF JALMUDA | 45,907 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Mar-24 | DH | undisclosed | Chinese (Jiangsu Financial Leasing) | refinancing agreement |
+| MR2 | DEE4 DOGWOOD | 47,399 | 2008 | ONOMICHI, Japan | MAN-B\&amp;W | Dec-23 | DH | $ 44.0m (en bloc) | undisclosed | BWTS fitted |
+| MR2 | DEE4 CEDAR | 45,994 | 2010 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Aug-25 | DH | $ 44.0m (en bloc) | undisclosed | BWTS fitted |
 | MR2 | RIDGEBURY SATURN | 49,999 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Aug-22 | DH | rgn $ 18.0m | Greek |  |
 | MR2 | CROWN II | 46,159 | 2003 | STX, S. Korea | MAN-B\&amp;W | Mar-23 | DH | undisclosed | undisclosed |  |
 | SMALL | FURANO GALAXY | 25,357 | 2020 | KITANIHON, Japan | MAN-B\&amp;W | Aug-25 | DH | undisclosed | Japanese (SBI Leasing Services) | StSt, incl. BB charters |
-| SMALL | NISEKO GALAXY | 25,289 | 2020 | KITANIHON, Japan | MAN-B\&amp;W | Sep-25 | DH |  |  |  |
+| SMALL | NISEKO GALAXY | 25,289 | 2020 | KITANIHON, Japan | MAN-B\&amp;W | Sep-25 | DH | undisclosed | Japanese (SBI Leasing Services) | StSt, incl. BB charters |
 | SMALL | GENNARO IEVOLI | 27,912 | 2002 | ORLANDO FRATELLI, Italy | Wartsila | Mar-27 | DH | excess 13.5m | undisclosed | StSt, BWTS fitted |
 
 © Intermodal Research 23/08/2022 4
@@ -275,16 +275,16 @@ In the Handysize sector we had the sale of the "FW ADVENTURER" (34,487dwt-blt '1
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | NEW ORLEANS | 180,960 | 2015 | SWS, China | MAN-B\&amp;W | Nov-25 |  | $ 33.2m | Japanese | 8 years BB charter back with purchase option beginning at the end of the third year |
-| CAPE | SANTA BARBARA | 179,492 | 2015 | QINGDAO BEIHAI, China | MAN-B\&amp;W | Jan-25 |  | $ 33.2m |  |  |
-| UMAX | STH LONDON | 60,508 | 2015 | MITSUI, Japan | MAN-B\&amp;W | Aug-25 | 4 X 30t CRANES |  |  |  |
-| UMAX | STH CHIBA | 60,456 | 2017 | MITSUI, Japan | MAN-B\&amp;W | Jan-27 | 4 X 30t CRANES |  |  |  |
-| UMAX | STH ATHENS | 60,446 | 2015 | MITSUI, Japan | MAN-B\&amp;W | Oct-25 | 4 X 30t CRANES |  |  |  |
-| UMAX | STH OSLO | 60,404 | 2018 | MITSUI, Japan | MAN-B\&amp;W | Aug-23 | 4 X 30t CRANES |  |  |  |
-| UMAX | STH MONTREAL | 60,362 | 2018 | MITSUI, Japan | MAN-B\&amp;W | Nov-23 | 4 X 30t CRANES | $ 330.0m | Greek (Diana Shipping) | cash and shares deal (USD 220m will be paid in cash and USD 110m in shares) |
-| UMAX | STH NEW YORK | 60,309 | 2015 | JMU, Japan | Wartsila | Oct-25 | 4 X 30t CRANES |  |  |  |
-| UMAX | STI CYPRRUS | 60,309 | 2016 | JMU, Japan | Wartsila | Jan-26 | 4 X 30t CRANES |  |  |  |
-| UMAX | STH TOKYO | 60,309 | 2016 | JMU, Japan | Wartsila | Feb-26 | 4 X 30t CRANES |  |  |  |
-| UMAX | STH KURE | 60,309 | 2016 | JMU, Japan | Wartsila | Apr-26 | 4 X 30t CRANES |  |  |  |
+| CAPE | SANTA BARBARA | 179,492 | 2015 | QINGDAO BEIHAI, China | MAN-B\&amp;W | Jan-25 |  | $ 33.2m | Japanese | 8 years BB charter back with purchase option beginning at the end of the third year |
+| UMAX | STH LONDON | 60,508 | 2015 | MITSUI, Japan | MAN-B\&amp;W | Aug-25 | 4 X 30t CRANES | $ 330.0m (en bloc) | Greek (Diana Shipping) | cash and shares deal (USD 220m will be paid in cash and USD 110m in shares) |
+| UMAX | STH CHIBA | 60,456 | 2017 | MITSUI, Japan | MAN-B\&amp;W | Jan-27 | 4 X 30t CRANES | $ 330.0m (en bloc) | Greek (Diana Shipping) | cash and shares deal (USD 220m will be paid in cash and USD 110m in shares) |
+| UMAX | STH ATHENS | 60,446 | 2015 | MITSUI, Japan | MAN-B\&amp;W | Oct-25 | 4 X 30t CRANES | $ 330.0m (en bloc) | Greek (Diana Shipping) | cash and shares deal (USD 220m will be paid in cash and USD 110m in shares) |
+| UMAX | STH OSLO | 60,404 | 2018 | MITSUI, Japan | MAN-B\&amp;W | Aug-23 | 4 X 30t CRANES | $ 330.0m (en bloc) | Greek (Diana Shipping) | cash and shares deal (USD 220m will be paid in cash and USD 110m in shares) |
+| UMAX | STH MONTREAL | 60,362 | 2018 | MITSUI, Japan | MAN-B\&amp;W | Nov-23 | 4 X 30t CRANES | $ 330.0m (en bloc) | Greek (Diana Shipping) | cash and shares deal (USD 220m will be paid in cash and USD 110m in shares) |
+| UMAX | STH NEW YORK | 60,309 | 2015 | JMU, Japan | Wartsila | Oct-25 | 4 X 30t CRANES | $ 330.0m (en bloc) | Greek (Diana Shipping) | cash and shares deal (USD 220m will be paid in cash and USD 110m in shares) |
+| UMAX | STI CYPRRUS | 60,309 | 2016 | JMU, Japan | Wartsila | Jan-26 | 4 X 30t CRANES | $ 330.0m (en bloc) | Greek (Diana Shipping) | cash and shares deal (USD 220m will be paid in cash and USD 110m in shares) |
+| UMAX | STH TOKYO | 60,309 | 2016 | JMU, Japan | Wartsila | Feb-26 | 4 X 30t CRANES | $ 330.0m (en bloc) | Greek (Diana Shipping) | cash and shares deal (USD 220m will be paid in cash and USD 110m in shares) |
+| UMAX | STH KURE | 60,309 | 2016 | JMU, Japan | Wartsila | Apr-26 | 4 X 30t CRANES | $ 330.0m (en bloc) | Greek (Diana Shipping) | cash and shares deal (USD 220m will be paid in cash and USD 110m in shares) |
 | SUPRA | ZHONG LIANG DONG NAN | 52,551 | 2001 | SHIN KURUSHIMA, Japan | Mitsubishi | Feb-23 | 4x30.5, 4x30.0 | $ 11.6m | Chinese | auction sale, Chinese flag |
 | HANDY | FW ADVENTURER | 34,487 | 2019 | HAKODATE, Japan | MAN-B\&amp;W | Jan-24 | 4 X 30t CRANES | $ 28.3m | undisclosed | BWTS fitted |
 | HANDY | DEM FIVE | 31,842 | 2002 | HAKODATE, Japan | Mitsubishi | Sep-22 | 4 X 30t CRANES | rgn $ 11.0m | Middle Eastern |  |
@@ -299,24 +299,21 @@ In the Handysize sector we had the sale of the "FW ADVENTURER" (34,487dwt-blt '1
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 19/08/2022 | 12/08/2022 | ±% | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 69.0 | 69.0 | 0.0% | 51 | 54 |
-| Capesize | 180k | 64.5 | 64.5 | 0.0% | 49 | 52 |
-| Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 35.0 | 35.0 | 0.0% | 26 | 28 |
-| Handysize | 38k | 31.0 | 31.0 | 0.0% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 120.0 | 119.0 | 0.8% | 88 | 92 |
-| Suezmax | 160k | 80.0 | 79.5 | 0.6% | 58 | 60 |
-| Aframax | 115k | 61.5 | 61.5 | 0.0% | 48 | 49 |
-| MR | 50k | 43.5 | 43.5 | 0.0% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 239.0 | 238.0 | 0.4% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 87.0 | 87.0 | 0.0% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 19/08/2022 | 12/08/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 69.0 | 69.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 64.5 | 64.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 119.0 | 0.8% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 79.5 | 0.6% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 61.5 | 61.5 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 43.5 | 43.5 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 239.0 | 238.0 | 0.4% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 87.0 | 87.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 Newbuilding activity momentum remained unchanged, with owners interest continued to focus mainly on the container and LNG sectors. More specifically, 6 orders have been placed, which will add a total of 16 vessels to the current orderbook, a fair number of units though, albeit at the peak of the summer recess. On the wet front, FureBear sealed a deal with CMJL for 2x17,999dwt LNG dual-fuel tankers at an undisclosed price and delivery between 2024-2025. Meanwhile, SC Shipping ordered 2x11,300dwt stainless steel tankers for an undisclosed price. The vessels will meet EEDI phase 3 and NOx-Tier III standards. In the gas sector, the order from the joint venture of NYK, K-line, MISC, and CLNG at Hyundai Hi gathered momentum, as it secured 7 berths of the Qatargas project. The 7x174,000cbm vessels will cost \$214.9m each and will be delivered between 2025-2026. Additionally, Japanese MOL exercised an option for the construction of 1x174,000cbm vessel at DSME, lifting its order tally to the yard to a total of 9 vessels. Conclusively, on the container front, Trawind Shipping inked a deal for 2x4,600teu vessels in the region of \$40.0m, while Wan Hai Lines sealed a deal with CSBC for the construction of 2x3,000teu units.
 

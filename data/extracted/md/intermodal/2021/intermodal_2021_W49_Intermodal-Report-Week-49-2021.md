@@ -272,20 +272,20 @@ In the Handysize sector we had the sale of the "WUHU" (39,182dwt-blt '14, China)
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR2 | STI GALLANTRY | 109,999 | 2016 | GSI, China | MAN-B\&amp;W | Jun-26 | DH | $ 70.0m | Norwegian (Ocean Yield) | BWTS &amp; scrubber fitted, basis 10-yrs BBC back to sellers with purchase obligation at the end |
-| LR2 | STI GUARD | 109,855 | 2016 | GSI, China | MAN-B\&amp;W | Aug-26 | DH |  |  |  |
+| LR2 | STI GALLANTRY | 109,999 | 2016 | GSI, China | MAN-B\&amp;W | Jun-26 | DH | $ 70.0m (en bloc) | Norwegian (Ocean Yield) | BWTS &amp; scrubber fitted, basis 10-yrs BBC back to sellers with purchase obligation at the end |
+| LR2 | STI GUARD | 109,855 | 2016 | GSI, China | MAN-B\&amp;W | Aug-26 | DH | $ 70.0m (en bloc) | Norwegian (Ocean Yield) | BWTS &amp; scrubber fitted, basis 10-yrs BBC back to sellers with purchase obligation at the end |
 | AFRA | SILVER | 107,507 | 2010 | TSUNEISHI, Japan | MAN-B\&amp;W | Jul-25 | DH | xs $ 26.0m | Greek (Seaworld) | BWTS fitted, on subs |
-| AFRA | GOLD | 107,488 | 2010 | TSUNEISHI, Japan | MAN-B\&amp;W | Sep-25 | DH | xs $ 26.0m |  |  |
+| AFRA | GOLD | 107,488 | 2010 | TSUNEISHI, Japan | MAN-B\&amp;W | Sep-25 | DH | xs $ 26.0m | Greek (Seaworld) | BWTS fitted, on subs |
 | AFRA | AGNETA PALLAS | 115,341 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | Apr-26 | DH | $ 18.15m | Greek | incl TC attached to AET at US$ 15,000/day for around another 3 months, BWTS fitted |
-| MR2 | MARLIN AMMOLITE | 49,999 | 2016 | GSI, China | MAN-B\&amp;W | Jan-26 | DH |  |  |  |
-| MR2 | MARLIN AQUAMARINE | 49,999 | 2016 | GSI, China | MAN-B\&amp;W | Jun-26 | DH |  |  |  |
-| MR2 | MARLIN AVENTURINE | 49,999 | 2016 | GSI, China | MAN-B\&amp;W | Feb-26 | DH | $ 140.0m | Chinese (CDB) | basis BBB to Trafigura |
-| MR2 | MARLIN AZURITE | 49,999 | 2016 | GSI, China | MAN-B\&amp;W | Apr-26 | DH |  |  |  |
-| MR2 | MARLIN AMETRINE | 49,999 | 2015 | GSI, China | MAN-B\&amp;W | Oct-25 | DH |  |  |  |
+| MR2 | MARLIN AMMOLITE | 49,999 | 2016 | GSI, China | MAN-B\&amp;W | Jan-26 | DH | $ 140.0m (en bloc) | Chinese (CDB) | basis BBB to Trafigura |
+| MR2 | MARLIN AQUAMARINE | 49,999 | 2016 | GSI, China | MAN-B\&amp;W | Jun-26 | DH | $ 140.0m (en bloc) | Chinese (CDB) | basis BBB to Trafigura |
+| MR2 | MARLIN AVENTURINE | 49,999 | 2016 | GSI, China | MAN-B\&amp;W | Feb-26 | DH | $ 140.0m (en bloc) | Chinese (CDB) | basis BBB to Trafigura |
+| MR2 | MARLIN AZURITE | 49,999 | 2016 | GSI, China | MAN-B\&amp;W | Apr-26 | DH | $ 140.0m (en bloc) | Chinese (CDB) | basis BBB to Trafigura |
+| MR2 | MARLIN AMETRINE | 49,999 | 2015 | GSI, China | MAN-B\&amp;W | Oct-25 | DH | $ 140.0m (en bloc) | Chinese (CDB) | basis BBB to Trafigura |
 | MR2 | CELSIUS PALERMO | 53,540 | 2010 | SHIN KURUSHIMA, Japan | Mitsubishi | Feb-25 | DH | $ 16.75m | Greek (Chemnav) | BWTS fitted |
 | MR2 | HIGH VALOR | 46,994 | 2005 | STX, S. Korea | MAN-B\&amp;W | Feb-25 | DH | $ 10.3m | undisclosed | BWTS fitted |
-| MR1 | CHEMBULK VIRGIN GORDA | 34,614 | 2004 | KITANIHON, Japan | Mitsubishi | Dec-24 | DH | $ 18.0m | German (Hansa Tankers) | St-St |
-| MR1 | CHEMBULK BARCELONA | 33,573 | 2004 | SHIN KURUSHIMA, Japan | Mitsubishi | Jan-24 | DH |  |  |  |
+| MR1 | CHEMBULK VIRGIN GORDA | 34,614 | 2004 | KITANIHON, Japan | Mitsubishi | Dec-24 | DH | $ 18.0m (en bloc) | German (Hansa Tankers) | St-St |
+| MR1 | CHEMBULK BARCELONA | 33,573 | 2004 | SHIN KURUSHIMA, Japan | Mitsubishi | Jan-24 | DH | $ 18.0m (en bloc) | German (Hansa Tankers) | St-St |
 | MR1 | FORMOSA TEN | 36,233 | 1998 | SESEBO, Japan | B\&amp;W | Mar-23 | DH | $ 3.8m | undisclosed | zinc silicate coating |
 | SMALL | GAO CHENG 1 | 9,087 | 2009 | ZHEJIANG TAITONG, China | Yanmar | Sep-24 | DH | around $ 3.5m | Chinese | auction sale |
 
@@ -298,13 +298,13 @@ In the Handysize sector we had the sale of the "WUHU" (39,182dwt-blt '14, China)
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| UMAX | NORD ADAGIO | 61,000 | 2022 | NACKS, China | MAN-B\&amp;W |  | 4 X 30.5t CRANES | xs $ 33.0m |  | Delivery Q1-2022 |
-| UMAX | NORD ARPEGGIO | 61,000 | 2022 | NACKS, China | MAN-B\&amp;W |  | 4 X 30.5t CRANES | xs $ 33.0m | Singapore based |  |
-| UMAX | NORD COLUMBIA | 60,396 | 2018 | OSHIMA, Japan | MAN-B\&amp;W | Feb-23 | 4 X 30t CRANES | xs $ 32.0m |  | s cubber fitted |
+| UMAX | NORD ADAGIO | 61,000 | 2022 | NACKS, China | MAN-B\&amp;W |  | 4 X 30.5t CRANES | xs $ 33.0m | Singapore based | Delivery Q1-2022 |
+| UMAX | NORD ARPEGGIO | 61,000 | 2022 | NACKS, China | MAN-B\&amp;W |  | 4 X 30.5t CRANES | xs $ 33.0m | Singapore based | Delivery Q1-2022 |
+| UMAX | NORD COLUMBIA | 60,396 | 2018 | OSHIMA, Japan | MAN-B\&amp;W | Feb-23 | 4 X 30t CRANES | xs $ 32.0m | Singapore based | s cubber fitted |
 | SUPRA | SHANDONG HAI DA | 56,734 | 2013 | JINLING, China | MAN-B\&amp;W | Mar-23 | 4 X 30t CRANES | $ 18.05m | Chinese | online commercial auction, Tier II, BWTS fitted |
 | SUPRA | SILVIA GLORY | 56,797 | 2012 | YANGFAN, China | MAN-B\&amp;W | Apr-22 | 4 X 36t CRANES | undisclosed | Chinese | import buyers, basis prompt delivery, BWTS fitted |
-| SUPRA | PACIFIC CROWN | 56,469 | 2012 | Jiangsu New Hantong, China | MAN-B\&amp;W | May-22 | 4 X 36t CRANES | $ 34.75m | Chinese | Tier II |
-| SUPRA | PACIFIC BLESS | 56,361 | 2012 | Jiangsu New Hantong, China | MAN-B\&amp;W | Sep-22 | 4 X 36t CRANES |  |  |  |
+| SUPRA | PACIFIC CROWN | 56,469 | 2012 | Jiangsu New Hantong, China | MAN-B\&amp;W | May-22 | 4 X 36t CRANES | $ 34.75m (en bloc) | Chinese | Tier II |
+| SUPRA | PACIFIC BLESS | 56,361 | 2012 | Jiangsu New Hantong, China | MAN-B\&amp;W | Sep-22 | 4 X 36t CRANES | $ 34.75m (en bloc) | Chinese | Tier II |
 | SUPRA | LAN HAI HE XIE | 56,620 | 2011 | CHINA SHIPPING IND JIANGSU, China | MAN-B\&amp;W | Feb-22 | 4 X 30t CRANES | $ 18.51m | undisclosed | Chinese flag |
 | SUPRA | UNION ERWIN | 55,733 | 2011 | IHI, Japan | Wartsila | Apr-26 | 4 X 35t CRANES | rgn $ 21.0m | Norwegian | incl. TC back |
 | SUPRA | FERONIA | 56,058 | 2007 | MITSUI TAMANO, Japan | MAN-B\&amp;W | Aug-25 | 4 X 30t CRANES | low $ 16.0m | undisclosed | BWTS fitted |
@@ -322,7 +322,7 @@ In the Handysize sector we had the sale of the "WUHU" (39,182dwt-blt '14, China)
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | COSCO KAWASAKI | 4,530 | 2010 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jul-25 |  | $ 65.0m | undisclosed |  |
 | PMAX | IRENES WAVE | 6,039 | 2008 | CSBC CORP, Taiwan | Wartsila | Jan-23 |  | undisclosed | undisclosed |  |
-| FEEDER | IRENES ROSE | 2,553 | 2007 | NAIKAI ZOSEN, Japan | MAN-B\&amp;W | Jan-22 |  |  |  |  |
+| FEEDER | IRENES ROSE | 2,553 | 2007 | NAIKAI ZOSEN, Japan | MAN-B\&amp;W | Jan-22 |  | undisclosed | undisclosed |  |
 | FEEDER | ATLANTIC SOLLI | 2,015 | 2008 | ZHEJIANG NINGBO, China | MAN-B\&amp;W | Mar-23 | 3 X 45t CRANES | $ 26.0m | undisclosed |  |
 | FEEDER | VEGA HERCULES | 957 | 2006 | YANGFAN, China | MAN | Apr-26 | 2 X 45t CRANES |  | undisclosed | Greek (Contships) |
 | FEEDER | VEGA JUNO | 957 | 2008 | YANGFAN, China | MAN | Sep-23 | 2 X 45t CRANES |  |  |  |
@@ -333,27 +333,23 @@ In the Handysize sector we had the sale of the "WUHU" (39,182dwt-blt '14, China)
 ---
 
 # Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 10/12/2021 | 03/12/2021 | ±% | 2020 | 2019 | 2018 |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 |
-| Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 |
-| Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 |
-| Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 109.5 | 109.5 | 0.0% | 88 | 92 |
-| Suezmax | 160k | 76.0 | 76.0 | 0.0% | 58 | 60 |
-| Aframax | 115k | 59.0 | 59.0 | 0.0% | 48 | 49 |
-| MR | 50k | 41.0 | 41.0 | 0.0% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 207.0 | 206.0 | 0.5% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 81.5 | 81.5 | 0.0% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 71.5 | 71.5 | 0.0% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 49.0 | 49.0 | 0.0% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 10/12/2021 | 03/12/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 109.5 | 109.5 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 76.0 | 76.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 59.0 | 59.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 207.0 | 206.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 81.5 | 81.5 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 42 | 44 | 43 |
 
 The momentum in the newbuilding market remains strong with more gas carrier and container orders surfacing last week. A total of six LNG units were ordered equally separated between Samsung and Hudong Zhonghua ship-yards. One 180,000cbm and two 174,000cbm were ordered at Samsung by Celsius Shipping and JP Morgan respectively while COSCO Shipping inked a deal for the construction of three 174,000cbm vessels through its subsidiary United Liquefied Gas Shipping at Hudong Zhonghua. In addition, Jiangnan yard secured a deal for two firm plus two optional 93,000cbm ammonia carriers from French owner JS &amp; Co. Container contracting activity was also strong; Greek owner Costamare ordered two 13,000teu boxships while exercised options for another two 13,000teu and four 15,000teu units. All vessels will be constructed at Yangzijiang yard with the price remaining undisclosed, while it is rumoured that all ships are linked with a long-term T/C to a leading liner company.
 
@@ -401,7 +397,7 @@ The momentum in the newbuilding market remains strong with more gas carrier and 
 | 3 | LNG | 174,000 cbm | Hudong Zhonghua, China | 2024-2025 | Chinese (CSET) | $ 185.0m |  |
 | 2+2 | Ammonia Carrier | 93,000 cbm | Jiangnan, China | undisclosed | French (JS &amp; Co) | undisclosed | ammonia powered |
 | 4 | Container | 13,000 teu | Yangzijiang, China | 2023-2024 | Greek (Costamare) | undisclosed | two 13,000teu are new contracts with the rest six being options that have been declared, against long-term T/C to a leading liner company |
-| 4 | Container | 15,000 teu |  | 2023-2024 |  | undisclosed |  |
+| 4 | Container | 15,000 teu | Yangzijiang, China | 2023-2024 | Greek (Costamare) | undisclosed | two 13,000teu are new contracts with the rest six being options that have been declared, against long-term T/C to a leading liner company |
 
 © Intermodal Research 14/12/2021 7
 

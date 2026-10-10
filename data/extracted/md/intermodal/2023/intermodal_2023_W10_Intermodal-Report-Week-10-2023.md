@@ -269,11 +269,11 @@ In the Handysize sector we had the sale of the "SCHELDE CONFIDENCE" (38,225dwt-b
 | MR2 | NEUTRON RAY | 50,386 | 2005 | SHINA, S. Korea | B\&amp;W | Mar-25 | DH | $ 18.1m | undisclosed | BWTS fitted |
 | MR2 | RICH BREEZE | 47,409 | 2009 | ONOMICHI, Japan | MAN-B\&amp;W | Apr-24 | DH | low $ 23.0m | undisclosed | BWTS fitted |
 | MR2 | MAERSK MICHIGAN | 47,047 | 2003 | ONOMICHI, Japan | B\&amp;W | Jul-23 | DH | $ 14.7m | UAE based | BWTS fitted |
-| MR2 | MTM MANILA | 46,839 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Mar-23 | DH | $ 14.8m |  | BWTS fitted |
+| MR2 | MTM MANILA | 46,839 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Mar-23 | DH | $ 14.8m | Chinese | BWTS fitted |
 | MR2 | MTM MUMBAI | 46,818 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Jun-23 | DH | $ 14.8m | Chinese | BWTS fitted |
-| MR2 | MTM YANGON | 46,818 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Apr-23 | DH | $ 14.8m |  | BWTS fitted |
+| MR2 | MTM YANGON | 46,818 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Apr-23 | DH | $ 14.8m | Chinese | BWTS fitted |
 | MR2 | NCC DAMMAM | 45,965 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Apr-23 | DH | $ 20.1m | undisclosed |  |
-| MR2 | NCC HAIEL | 45,953 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jun-23 | DH | $ 20.1m |  |  |
+| MR2 | NCC HAIEL | 45,953 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jun-23 | DH | $ 20.1m | undisclosed |  |
 | MR1 | ATRIA | 37,583 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jul-26 | DH | $ 23.0m | undisclosed | BWTS fitted |
 | SMALL | PENINSULA IX | 17,906 | 2019 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-24 | DH | $ 26.0m | undisclosed |  |
 
@@ -306,24 +306,21 @@ In the Handysize sector we had the sale of the "SCHELDE CONFIDENCE" (38,225dwt-b
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 10-Mar-23 | 3-Mar-23 | ±% | 2022 | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 64.0 | 64.0 | 0.0% | 66 | 59 | 51 |
-| Capesize | **180k** | 61.0 | 61.0 | 0.0% | 63 | 56 | 49 |
-| Kamsarmax | **82k** | 34.0 | 34.0 | 0.0% | 36 | 33 | 28 |
-| Ultramax | **63k** | 31.5 | 31.5 | 0.0% | 34 | 30 | 26 |
-| Handysize | **38k** | 29.5 | 29.0 | 1.7% | 30 | 27 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 120.0 | 120.0 | 0.0% | 118 | 98 | 88 |
-| Suezmax | **160k** | 80.0 | 80.0 | 0.0% | 79 | 66 | 58 |
-| Aframax | **115k** | 66.0 | 66.0 | 0.0% | 62 | 53 | 48 |
-| MR | **50k** | 45.0 | 45.0 | 0.0% | 43 | 38 | 35 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 252.0 | 251.0 | 0.4% | 232 | 195 | 187 |  |
-| LGC LPG 80k cbm | 92.0 | 92.0 | 0.0% | 86 | 76 | 73 |  |
-| MGC LPG 55k cbm | 79.5 | 79.5 | 0.0% | 74 | 67 | 63 |  |
-| SGC LPG 25k cbm | 53.5 | 53.5 | 0.0% | 51 | 45 | 42 |  |
+| Sector | Vessel | Size | 10-Mar-23 | 3-Mar-23 | ±% | 2022 | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 61.0 | 61.0 | 0.0% | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.0 | 34.0 | 0.0% | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 31.5 | 31.5 | 0.0% | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 29.5 | 29.0 | 1.7% | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 66.0 | 66.0 | 0.0% | 62 | 53 | 48 |
+| Tankers | MR | 50k | 45.0 | 45.0 | 0.0% | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 252.0 | 251.0 | 0.4% | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 79.5 | 79.5 | 0.0% | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 53.5 | 53.5 | 0.0% | 51 | 45 | 42 |
 
 The newbuilding market was in full swing last week with a total of 22 vessels being ordered, 7 of which were tankers and 10 were bulk carriers. The strong market for both wet and dry cargo in recent weeks combined with fleet renewal efforts could be the reason for the increased orders. Indicatively, Greek owner Performance Shipping ordered a 114,000 dwt tanker which is LNG ready and SOx scrubber equipped from for \$62.6m and to be delivered in 2025. Another Greek company, Byzantine Maritime, ordered three 41,000dwt bulk carriers for \$30m each, due for delivery in 2024 and 2025. In the LPG sector, Exmar ordered two 45,000 dwt ammonia ready LPG carriers for \$73.4m, due for delivery in 2025. In the PCTC sector, Guangzhou Ocean Car Carrier ordered three 7,000 ceu PCTCs for delivery in 2026 at a cost of \$90m each.
 

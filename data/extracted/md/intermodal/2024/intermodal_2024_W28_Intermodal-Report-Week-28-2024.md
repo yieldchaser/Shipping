@@ -210,14 +210,14 @@ Supramax 10TC averaged \$ 14,868/day up +0.37% w-o-w, while the Handysize 7TC av
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR | BERYL | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Feb-25 | DH | $ 340.0m | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
-| MR | QUARTZ | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Nov-25 | DH |  |  |  |
-| MR | SILVER HAGUE | 49,680 | 2015 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Aug-24 | DH |  |  |  |
-| MR | SILVER ROTTERDAM | 49,680 | 2015 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Aug-24 | DH |  |  |  |
-| MR | SILVER MONIKA | 49,746 | 2014 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Sep-24 | DH |  |  |  |
-| MR | SILVER EMILY | 49,746 | 2014 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Sep-24 | DH |  |  |  |
-| MR | SILVER AMANDA | 49,746 | 2014 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Jan-25 | DH |  |  |  |
-| MR | SILVER CARLA | 49,680 | 2014 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Jan-25 | DH |  |  |  |
+| MR | BERYL | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Feb-25 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
+| MR | QUARTZ | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Nov-25 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
+| MR | SILVER HAGUE | 49,680 | 2015 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Aug-24 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
+| MR | SILVER ROTTERDAM | 49,680 | 2015 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Aug-24 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
+| MR | SILVER MONIKA | 49,746 | 2014 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Sep-24 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
+| MR | SILVER EMILY | 49,746 | 2014 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Sep-24 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
+| MR | SILVER AMANDA | 49,746 | 2014 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Jan-25 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
+| MR | SILVER CARLA | 49,680 | 2014 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Jan-25 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
 | HANDY | SHAN GANG RONG HE | 38,615 | 2001 | DAMEN GALATI, Romania | B\&W | Feb-25 | DH | $ 7.1m | Chinese |  |
 
 ## Bulk Carriers
@@ -226,10 +226,10 @@ Supramax 10TC averaged \$ 14,868/day up +0.37% w-o-w, while the Handysize 7TC av
 | POST PMAX | CLAAS OLDENDORFF | 95,750 | 2013 | IMABARI, Japan | MAN-B\&W | Jun-25 |  | $ 27.0m | Indian | Eco, Scrubber fitted |
 | PMAX | THE HOLY | 76,623 | 2001 | IMABARI, Japan | MAN-B\&W | Oct-26 |  | $ 9.2m | undisclosed |  |
 | SUPRA | SEACON YANTAI | 56,944 | 2010 | COSCO ZHOUSHAN, China | MAN-B\&W | Aug-25 | 4 X 30t CRANES | $ 13.8m | Indonesian (PT Primatama Energi Mandiri) |  |
-| HANDY | WESTERN DURBAN | 39,266 | 2015 | JIANGMEN NANYANG, China | MAN-B\&W | Jun-25 | 4 X 30t CRANES | $ 78.0m | Thai (Precious Shipping) | Eco |
-| HANDY | WESTERN LIMA | 39,000 | 2015 | JIANGMEN NANYANG, China | MAN-B\&W | Apr-25 | 4 X 30t CRANES |  |  |  |
-| HANDY | WESTERN MIAMI | 39,000 | 2015 | JIANGMEN NANYANG, China | MAN-B\&W | Jul-25 | 4 X 30t CRANES |  |  |  |
-| HANDY | WESTERN PARIS | 38,800 | 2015 | JIANGSU HANTONG, China | MAN-B\&W | Nov-25 | 4 X 30t CRANES |  |  |  |
+| HANDY | WESTERN DURBAN | 39,266 | 2015 | JIANGMEN NANYANG, China | MAN-B\&W | Jun-25 | 4 X 30t CRANES | $ 78.0m (en bloc) | Thai (Precious Shipping) | Eco |
+| HANDY | WESTERN LIMA | 39,000 | 2015 | JIANGMEN NANYANG, China | MAN-B\&W | Apr-25 | 4 X 30t CRANES | $ 78.0m (en bloc) | Thai (Precious Shipping) | Eco |
+| HANDY | WESTERN MIAMI | 39,000 | 2015 | JIANGMEN NANYANG, China | MAN-B\&W | Jul-25 | 4 X 30t CRANES | $ 78.0m (en bloc) | Thai (Precious Shipping) | Eco |
+| HANDY | WESTERN PARIS | 38,800 | 2015 | JIANGSU HANTONG, China | MAN-B\&W | Nov-25 | 4 X 30t CRANES | $ 78.0m (en bloc) | Thai (Precious Shipping) | Eco |
 
 ## Secondhand Sales
 
@@ -244,20 +244,20 @@ Supramax 10TC averaged \$ 14,868/day up +0.37% w-o-w, while the Handysize 7TC av
 This week saw a diverse range of newbuilding orders, with a total of 35 vessels firm in various categories. Tankers maintained a strong presence with three new orders. Brave Maritime led the way with two 52,000 dwt tankers from Hyundai HI, South Korea, priced at \$54.1 million each and scheduled for delivery in 2027. The bulker market saw significant activity, particularly from Japanese buyers. Orix Corp placed orders for two 82,000 dwt bulkers from Tsuneishi Zhoushan, China, and an additional unit of the same size from Oshima, Japan. Sea Traders of Greece secured six 63,500 dwt bulkers from Sainty Shipbuilding, China for \$32m each, to be delivered between 2026 and 2027. NASCO ordered two 63,500 dwt bulkers from CMHI Jinling, China, for delivery in 2027. The gas carrier sector saw a significant order from a joint venture between BGN and Pertamina, which ordered two 88,000 cbm VLGCs from Hyundai HI, South Korea, for \$124 million each, for delivery in 2027. The vessels will be chartered to BGN. Finally, in the container ship category, CMA CGM placed a major order for twelve 15,500 teu dual-fuel LNG carriers from KSOE, South Korea, for a total of \$222 million, with delivery scheduled for 2028. Overall, the market remains dynamic, with varying interest in different vessel types, highlighting the continued robust demand in the newbuilding sector
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 12-Jul-24 | 5-Jul-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 12-Jul-24 | 5-Jul-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 34.5 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | 160k | 90.0 | 89.5 | 0.6% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
-|  | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 263.5 | 264.0 | -0.2% | 265.0 | 263.5 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 34.5 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 90.0 | 89.5 | 0.6% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 263.5 | 264.0 | -0.2% | 265.0 | 263.5 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

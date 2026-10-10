@@ -183,8 +183,8 @@ Supramax 10TC averaged \$ 14,082/day down -5.95% w-o-w, while the Handysize 7TC 
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | BUXCLIFF | 6,712 | 2001 | DAEWOO, S. Korea | B\&W | Jun-26 |  | $ 45.0m | Swiss Based (MSC Shipping) | BWTS fitted |
-| POST PMAX | BUXCOAST | 6,712 | 2001 | DAEWOO, S. Korea | B\&W | Aug-26 |  |  |  | BWTS fitted |
+| POST PMAX | BUXCLIFF | 6,712 | 2001 | DAEWOO, S. Korea | B\&W | Jun-26 |  | $ 45.0m (en bloc) | Swiss Based (MSC Shipping) | BWTS fitted |
+| POST PMAX | BUXCOAST | 6,712 | 2001 | DAEWOO, S. Korea | B\&W | Aug-26 |  | $ 45.0m (en bloc) | Swiss Based (MSC Shipping) | BWTS fitted |
 
 ---
 

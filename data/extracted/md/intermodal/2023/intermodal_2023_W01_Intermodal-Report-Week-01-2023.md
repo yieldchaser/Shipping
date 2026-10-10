@@ -294,7 +294,7 @@ In the Supramax sector we had the sale of the "SEA KSANTI" (59,941dwt-blt '12, S
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | BW ODIN | 58,551 | 2009 | HYUNDAI, S. Korea | MAN-B&amp;W | Mar-24 | 80,797 | $ 59.0m | Vietnamese (FGAS Petrol) | Scrubber fitted |
-| LPG | BW AUSTRIA | 54,707 | 2009 | DAEWOO, S. Korea | MAN-B&amp;W | Mar-24 | 82,922 | $ 59.0m |  | Scrubber fitted |
+| LPG | BW AUSTRIA | 54,707 | 2009 | DAEWOO, S. Korea | MAN-B&amp;W | Mar-24 | 82,922 | $ 59.0m | Vietnamese (FGAS Petrol) | Scrubber fitted |
 | LPG | TELENDOS | 26,634 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jan-25 | 34,513 | $ 33.0m | undisclosed |  |
 | LPG | GAS PRODIGY | 3,633 | 2003 | ZHEJIANG NINGBO, Indonesia | MAN-B&amp;W | Apr-23 | 4,930 | $ 5.1m | Indonesian |  |
 | LPG | GAS SPIRIT | 3,409 | 2001 | HIGAKI, Japan | Mitsubishi | Dec-25 | 4,030 | $ 5.7m | Ukrainian | BWTS fitted |
@@ -306,24 +306,21 @@ In the Supramax sector we had the sale of the "SEA KSANTI" (59,941dwt-blt '12, S
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 6-Jan-23 | 30-Dec-22 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 64.0 | 64.0 | 0.0% | 51 | 54 | 51 |
-| **Capesize** | **180k** | 61.0 | 61.0 | 0.0% | 49 | 52 | 49 |
-| **Kamsarmax** | **82k** | 34.0 | 34.0 | 0.0% | 28 | 30 | 29 |
-| **Ultramax** | **63k** | 31.5 | 31.5 | 0.0% | 26 | 28 | 27 |
-| **Handysize** | **38k** | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| **Suezmax** | **160k** | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| **Aframax** | **115k** | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
-| **MR** | **50k** | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |  |
-| **LGC LPG 80k cbm** | 90.0 | 86.5 | 4.0% | 73 | 73 | 71 |  |
-| **MGC LPG 55k cbm** | 77.5 | 77.0 | 0.6% | 63 | 65 | 63 |  |
-| **SGC LPG 25k cbm** | 53.0 | 52.5 | 1.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 6-Jan-23 | 30-Dec-22 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 61.0 | 61.0 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.0 | 34.0 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 31.5 | 31.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 90.0 | 86.5 | 4.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 77.5 | 77.0 | 0.6% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 53.0 | 52.5 | 1.0% | 42 | 44 | 43 |
 
 The newbuilding market is entering 2023 strongly with container orders leading the way, despite the fact that the respective freight market follows a falling trajectory. Regulations that come into effect in 2023 potentially still affect the market as well since shipowners are still figuring out how to navigate in the new reality, with slow steaming being the top choice. Last but not least, zero new tanker orders were reported in the first week of the year and in combination with a very small tanker fleet growth in 2023, it is interesting to monitor what comes next in an already tight market. Last week, Celsius Shipping ordered eight 180,000 LNG vessels for \$ 234.0m with delivery in 2026. It is worth noting that the same owner last month placed an order for one 180,000 cbm LNG vessel worth \$250m. Lepta Shipping has ordered four 8,000 TEU boxships to be delivered in 2025, with long-term T/Cs, while the Singaporean Samudera Shipping has placed an order for two 1,900 TEU vessels for \$33m each. Last, Marine Capital and Ocean Agencies both ordered two 63,500 bulkers for a price in the region of \$31.0-32.0m, two new orders that show a significant price drop of over \$2.0m for a vessel of the same type and specifications from New Dayang last month.
 

@@ -287,12 +287,12 @@ In the Handysize sector we had the sale of the "YANGTZE SPIRIT" (35,169dwt-blt '
 | POST PMAX | CELINE OLDENDORFF | 93,018 | 2010 | COSCO DALIAN, China | MAN-B\&amp;W | Jan-25 |  | high $ 19.0m | Indians | BWTS, Scrubber fitted |
 | KMAX | OCEAN SCALLION | 82,215 | 2013 | DALIAN, China | MAN-B\&amp;W | Dec-23 |  | $ 23.5m | Chinese | BWTS fitted |
 | KMAX | THERESA SHANDONG | 82,000 | 2012 | Jiangsu, China | MAN-B\&amp;W | Aug-22 |  | $ 21.0m | Greek |  |
-| UMAX | GOLDEN CECILIE | 60,263 | 2015 | JMU, Japan | Wartsila | Feb-25 | 4 X 30t CRANES | $ 63.0m | Chinese | BWTS fitted |
-| UMAX | GOLDEN CATHRINE | 60,263 | 2015 | JMU, Japan | Wartsila | Jan-25 | 4 X 30t CRANES |  |  |  |
+| UMAX | GOLDEN CECILIE | 60,263 | 2015 | JMU, Japan | Wartsila | Feb-25 | 4 X 30t CRANES | $ 63.0m (en bloc) | Chinese | BWTS fitted |
+| UMAX | GOLDEN CATHRINE | 60,263 | 2015 | JMU, Japan | Wartsila | Jan-25 | 4 X 30t CRANES | $ 63.0m (en bloc) | Chinese | BWTS fitted |
 | SUPRA | NEUTRINO | 58,612 | 2012 | KAWASAKI, Japan | MAN-B\&amp;W | Oct-22 | 4 X 30,5t CRANES | excess $ 24.0m | undisclosed | BWTS fitted |
 | HMAX | SEA ROSE | 45,700 | 1995 | HASHIHAMA, Japan | B\&amp;W | May-25 | 4 X 30t CRANES | low $ 6.0m | Chinese |  |
-| HANDY | VENTURE OCEAN | 38,947 | 2015 | JIANGMEN NANYANG, China | MAN-B\&amp;W | Oct-25 | 4 X 30,5t CRANES | $ 50.0m | undisclosed | BWTS fitted, Eco, OHBS |
-| HANDY | VENTURE TEAM | 38,947 | 2015 | JIANGMEN NANYANG, China | MAN-B\&amp;W | Nov-25 | 4 X 30,5t CRANES |  | undisclosed |  |
+| HANDY | VENTURE OCEAN | 38,947 | 2015 | JIANGMEN NANYANG, China | MAN-B\&amp;W | Oct-25 | 4 X 30,5t CRANES | $ 50.0m (en bloc) | undisclosed | BWTS fitted, Eco, OHBS |
+| HANDY | VENTURE TEAM | 38,947 | 2015 | JIANGMEN NANYANG, China | MAN-B\&amp;W | Nov-25 | 4 X 30,5t CRANES | $ 50.0m (en bloc) | undisclosed | BWTS fitted, Eco, OHBS |
 | HANDY | ELEFTHERIOS T | 32,000 | 2013 | SAMHO, S. Korea | MAN-B\&amp;W | May-23 | 4 X 30t CRANES | region $ 20.0m | Greek | BWTS fitted, incl. T/C at 26K/day up to Sep 2022 + 6mos chopt |
 | HANDY | YANGTZE SPIRIT | 35,169 | 2012 | NANJING DONGZE, China | MAN-B\&amp;W | Jan-27 | 4 X 30t CRANES | excess $ 17.0m | undisclosed | BWTS fitted |
 
@@ -328,24 +328,21 @@ In the Handysize sector we had the sale of the "YANGTZE SPIRIT" (35,169dwt-blt '
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 08/07/2022 | 01/07/2022 | ±% | 2021 | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 69.0 | 69.0 | 0.0% | 59 | 51 | 54 |
-| **Capesize** | **180k** | 64.5 | 64.5 | 0.0% | 56 | 49 | 52 |
-| **Kamsarmax** | **82k** | 37.5 | 37.5 | 0.0% | 33 | 28 | 30 |
-| **Ultramax** | **63k** | 35.5 | 35.5 | 0.0% | 30 | 26 | 28 |
-| **Handysize** | **38k** | 31.0 | 31.0 | 0.0% | 27 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 118.5 | 118.0 | 0.4% | 98 | 88 | 92 |
-| **Suezmax** | **160k** | 79.5 | 79.5 | 0.0% | 66 | 58 | 60 |
-| **Aframax** | **115k** | 61.5 | 61.5 | 0.0% | 53 | 48 | 49 |
-| **MR** | **50k** | 42.5 | 42.5 | 0.0% | 38 | 35 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 233.0 | 232.0 | 0.4% | 195 | 187 | 186 |  |
-| **LGC LPG 80k cbm** | 87.0 | 87.0 | 0.0% | 76 | 73 | 73 |  |
-| **MGC LPG 55k cbm** | 74.5 | 74.5 | 0.0% | 67 | 63 | 65 |  |
-| **SGC LPG 25k cbm** | 52.0 | 52.0 | 0.0% | 45 | 42 | 44 |  |
+| Sector | Vessel | Size | 08/07/2022 | 01/07/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 69.0 | 69.0 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 64.5 | 64.5 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 35.5 | 35.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 118.5 | 118.0 | 0.4% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 79.5 | 79.5 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 61.5 | 61.5 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 42.5 | 42.5 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 233.0 | 232.0 | 0.4% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 87.0 | 87.0 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 74.5 | 74.5 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 45 | 42 | 44 |
 
 The newbuilding market continues to see healthy ordering activity overall last week. On the wet front, no new orders have been reported with the orderbook still at historically low levels. Appetite for LNG carriers is steady, with berths on behalf of Qatar LNG project, monopolizing owners' interest. Last week, Knutsen secured 8 berths at Hyundai HI, paying approx. \$215.0m per unit. During mid-June, Knutsen secured 2 more berths, which paired with this order, lift Knutsen's orderbook for Qatari's project LNGCs to a total of 10 vessels. Two more LNGs have been ordered on behalf of Cardiff Gas last week. The duet marks Cardiff's second LNG contract this year and it has been assigned to Hyundai Samho for construction and delivery within 2026, while owner will pay around \$245.0m/unit. On the dry front, three orders came to light for a total of 7 vessels. Inui Global Logistics placed 2 separate orders for 2 vessels each at Imabari and Oshima, respectively. All vessels will be built according to EEDI phase 3 standards and they are due for delivery within 2025. Conclusively, on the container front, 1 order came to light for 2+2 x 1,800teu containers from Cosmoship. The Greek owner inked a deal with Chinese Yangzijiang for the 2 vessels that will meet EEDI phase 3 standards and will be delivered between 2023 and 2024.
 

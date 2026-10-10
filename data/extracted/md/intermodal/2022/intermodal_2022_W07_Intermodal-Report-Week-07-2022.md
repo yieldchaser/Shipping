@@ -261,9 +261,9 @@ In the Supramax sector we had the sale of the "MANDARIN TRADER" (56,677dwt-blt '
 | SUPRA | WP AMBITION | 55,865 | 2015 | MITSUI CHIBA, Japan | MAN-B\&amp;W | Mar-25 | 4 X 30t CRANES | high $ 25.0m | Turkish |  |
 | SUPRA | WP BRAVE | 58,627 | 2012 | SPP, S. Korea | MAN-B\&amp;W | Jul-22 | 4 X 30t CRANES | $ 18.0m | undisclosed |  |
 | SUPRA | MANDARIN TRADER | 56,677 | 2011 | Jiangsu Hantong, China | MAN-B\&amp;W | Jul-25 | 4 X 36t CRANES | $ 17.2m | Chinese | BWTS fitted |
-| HANDY | WUHU | 39,182 | 2014 | CHENGXI, China | Wartsila | Jan-24 | 4 X 30t CRANES |  |  |  |
+| HANDY | WUHU | 39,182 | 2014 | CHENGXI, China | Wartsila | Jan-24 | 4 X 30t CRANES | $ 22.3m each | Italian (Nova Marine Carriers) | BWTS fitted |
 | HANDY | WUCHANG | 39,128 | 2013 | CHENGXI, China | Wartsila | Oct-23 | 4 X 30t CRANES | $ 22.3m each | Italian (Nova Marine Carriers) | BWTS fitted |
-| HANDY | WUCHOW | 39,090 | 2013 | CHENGXI, China | Wartsila | Dec-23 | 4 X 30t CRANES |  |  |  |
+| HANDY | WUCHOW | 39,090 | 2013 | CHENGXI, China | Wartsila | Dec-23 | 4 X 30t CRANES | $ 22.3m each | Italian (Nova Marine Carriers) | BWTS fitted |
 | HANDY | SUPERNOVA | 36,367 | 2012 | SHIKOKU, Japan | MAN-B\&amp;W | Jun-22 | 4 X 30,5t CRANES | $ 20.5m | Russian | BWTS &amp; scrubber fitter |
 | HANDY | TRAMONTANA | 28,351 | 2010 | SHIMANAMI, Japan | MAN-B\&amp;W | Aug-25 | 4 X 30,7t CRANES | $ 14.5m | Russian | BWTS fitted |
 | HANDY | EKATERINA | 31,764 | 1998 | HAKODATE, Japan | Mitsubishi | Aug-23 | 4 X 30,5t CRANES | $ 8.5m | Turkish |  |
@@ -281,19 +281,19 @@ In the Supramax sector we had the sale of the "MANDARIN TRADER" (56,677dwt-blt '
 | AFRA | ORANGE STARS | 115,756 | 2011 | SAMSUNG, S. Korea | MAN-B\&amp;W | Sep-26 | DH | $ 28.5m | Norwegian | basis BB Back at Usd 10,000 p/d till end-2023/ear 2024 |
 | AFRA | PHOENIX HOPE | 105,585 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Nov-23 | DH | $ 18.25m | Greek (Chemnav) |  |
 | AFRA | MASTERA | 106,208 | 2003 | SUMITOMO, Japan | Wartsila | Jan-23 | DH | undisclosed | Indian (GMS) |  |
-| MR2 | ZHU JIANG | 50,192 | 2009 | SLS, S. Korea | MAN-B\&amp;W | Apr-24 | DH |  |  |  |
+| MR2 | ZHU JIANG | 50,192 | 2009 | SLS, S. Korea | MAN-B\&amp;W | Apr-24 | DH | undisclosed | Greek | Judicial sale |
 | MR2 | OCEAN JUPITER | 50,314 | 2007 | SLS, S. Korea | MAN-B\&amp;W | Dec-22 | DH | undisclosed | Greek | Judicial sale |
-| MR1 | OCEAN WINTER | 41,370 | 2009 | SLS, S. Korea | MAN-B\&amp;W | Nov-24 | DH |  |  |  |
-| MR1 | OCEAN SPRING | 40,960 | 2009 | SLS, S. Korea | MAN-B\&amp;W | Mar-24 | DH |  |  |  |
+| MR1 | OCEAN WINTER | 41,370 | 2009 | SLS, S. Korea | MAN-B\&amp;W | Nov-24 | DH | undisclosed | Greek | Judicial sale |
+| MR1 | OCEAN SPRING | 40,960 | 2009 | SLS, S. Korea | MAN-B\&amp;W | Mar-24 | DH | undisclosed | Greek | Judicial sale |
 ## Bulk Carriers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | NAVIOS UTMOST | 8,208 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Jul-26 |  | $ 110.0m each | undisclosed | delivery 2H-2022 |
-| POST PMAX | NAVIOS UNITE | 8,208 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Apr-26 |  |  |  |  |
+| POST PMAX | NAVIOS UNITE | 8,208 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Apr-26 |  | $ 110.0m each | undisclosed | delivery 2H-2022 |
 | SUB PMAX | WINDSWEPT | 2,797 | 2010 | YANGFAN, China | MAN-B\&amp;W | Mar-25 |  | $ 52.0m | Chinese (Transfar Shipping) |  |
 | SUM | CAPE MAGNUS | 2,742 | 2008 | AKER MTW WERFT, GERMANY | MAN-B\&amp;W | Jan-23 |  | $ 53.0m | Taiwanese (Wan Hai Lines) |  |
-| FEEDER | OKEE ORTOLAN THETA | 1,049 | 2007 | DAE SUN, S. Korea | MAN-B\&amp;W | Apr-22 |  | $ 17.5m |  |  |
+| FEEDER | OKEE ORTOLAN THETA | 1,049 | 2007 | DAE SUN, S. Korea | MAN-B\&amp;W | Apr-22 |  | $ 17.5m | Russian |  |
 | FEEDER | OKEE ORTOLAN ZETA | 1,043 | 2007 | DAE SUN, S. Korea | MAN-B\&amp;W | May-22 |  | $ 15.5m | Russian |  |
 | FEEDER | DIANA K | 642 | 1996 | DAE SUN, S. Korea | B\&amp;W | Mar-24 | 2 X 36t CRANES | low $ 4.0m | undisclosed |  |
 
@@ -304,24 +304,21 @@ In the Supramax sector we had the sale of the "MANDARIN TRADER" (56,677dwt-blt '
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 18/02/2022 | 11/02/2022 | ±% | 2021 | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 64.0 | 63.5 | 0.8% | 59 | 51 | 54 |
-| **Capesize** | **180k** | 61.0 | 60.5 | 0.8% | 56 | 49 | 52 |
-| **Kamsarmax** | **82k** | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
-| **Ultramax** | **63k** | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
-| **Handysize** | **38k** | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 115.0 | 115.0 | 0.0% | 98 | 88 | 92 |
-| **Suezmax** | **160k** | 76.5 | 76.5 | 0.0% | 66 | 58 | 60 |
-| **Aframax** | **115k** | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
-| **MR** | **50k** | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 217.0 | 216.0 | 0.5% | 195 | 187 | 186 |  |
-| **LGC LPG 80k cbm** | 81.5 | 81.5 | 0.0% | 76 | 73 | 73 |  |
-| **MGC LPG 55k cbm** | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |  |
-| **SGC LPG 25k cbm** | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |  |
+| Sector | Vessel | Size | 18/02/2022 | 11/02/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.0 | 63.5 | 0.8% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 61.0 | 60.5 | 0.8% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 115.0 | 115.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 76.5 | 76.5 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 217.0 | 216.0 | 0.5% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 81.5 | 81.5 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |
 
 The newbuilding market has been quiet during the past week, with only three contracts coming to light. Among them, no dry bulk or tanker units were order ordered with LNG and Container sectors continuing to monopolize owners' interest. More specifically, South Korean owner H-Line ordered four 174,000cbm units at Samsung while an agreement for one 174,000cmb vessel was inked between Hyundai Glovis and Hyundai Samho yard at a price of around \$217.0 million. Both orders are linked to long-term T/C agreements with H-Line ExxonMobil and Woodside respectively. On the Container front, an LOI was inked between Bermuda based owner SFL Corporation and Qingdao Beihai yard, for the construction of four conventional fuelled 7,000teu boxships at a price in the region of \$81.0m-\$82.0 million each.
 

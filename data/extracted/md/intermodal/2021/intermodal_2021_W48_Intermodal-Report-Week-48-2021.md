@@ -276,14 +276,14 @@ In the Kamsarmax sector we had the sale of the "KING BARLEY" (82,177dwt-blt '12,
 | J19 | SHAMROCK MERCURY | 19,998 | 2010 | USUKI, Japan | MAN-B\&amp;W | Oct-25 | DH | $ 16.0m | undisclosed | St-St, BWTS fitted, incl. TC Usd 13,000 p/d |
 | J19 | BUNGA LAUREL | 19,992 | 2010 | FUKUOKA, Japan | MAN-B\&amp;W | Apr-25 | DH | $ 15.0m | undisclosed | St-St |
 | J19 | MID OSPREY | 19,969 | 2006 | FUKUOKA, Japan | MAN-B\&amp;W | Oct-21 | DH | $ 12.0m | Norwegian (J. Ludwig Mowinckels Rederi) | St-St, BWTS fitted, old deal |
-| J19 | MID FALCON | 19,959 | 2006 | FUKUOKA, Japan | MAN-B\&amp;W | Aug-21 | DH | $ 12.0m |  |  |
+| J19 | MID FALCON | 19,959 | 2006 | FUKUOKA, Japan | MAN-B\&amp;W | Aug-21 | DH | $ 12.0m | Norwegian (J. Ludwig Mowinckels Rederi) | St-St, BWTS fitted, old deal |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | OOCL ITALY | 5,888 | 2007 | KOYO MIHARA, Japan | MAN-B\&amp;W | Jun-22 |  | undisclosed | undisclosed |
 | FEEDER | A FUJI | 1,774 | 2021 | JIANGSU NEWYANGZI, China | Wartsila | Jan-26 |  | $ 42.75m | Taiwanese (Wan Hai Lines) |
-| FEEDER | BREMEN TRADER | 1,762 | 2021 | COSCO GUANGDONG, China | Wartsila | Apr-26 |  | $ 42.8m |  |
+| FEEDER | BREMEN TRADER | 1,762 | 2021 | COSCO GUANGDONG, China | Wartsila | Apr-26 |  | $ 42.8m | Taiwanese (Wan Hai Lines) |
 
 © Intermodal Research 07/12/2021 5
 
@@ -292,24 +292,21 @@ In the Kamsarmax sector we had the sale of the "KING BARLEY" (82,177dwt-blt '12,
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 03/12/2021 | 26/11/2021 | ±% | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 |
-| Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 |
-| Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 |
-| Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 109.5 | 109.0 | 0.5% | 88 | 92 |
-| Suezmax | 160k | 76.0 | 75.5 | 0.7% | 58 | 60 |
-| Aframax | 115k | 59.0 | 59.0 | 0.0% | 48 | 49 |
-| MR | 50k | 41.0 | 41.0 | 0.0% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 206.0 | 205.0 | 0.5% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 81.5 | 81.5 | 0.0% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 71.5 | 71.5 | 0.0% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 49.0 | 49.0 | 0.0% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 03/12/2021 | 26/11/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 109.5 | 109.0 | 0.5% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 76.0 | 75.5 | 0.7% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 59.0 | 59.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 206.0 | 205.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 81.5 | 81.5 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 42 | 44 | 43 |
 
 As we are heading towards the end of 2021, it is evident that the industry has been anything but quiet, with the number of deals surfacing during the past weeks highlighting that the appetite for container and gas carrier units has not slowed down. At the same time, bulker units continued to attract healthy interest amidst a booming freight market. More specifically, Chinese financial leasing HuaXia inked an agreement with Nantong Xiangyu and Chengxi shipyard. Each yard will build four 63,500dwt, with the option for four more at Chengxi. On the gas carrier front, GasLog ordered four 174,000cbm units at DSME while Kawasaki yard secured an order for two LPG fuelled 86,700cbm VLGC/ammonia carriers from NYK. Lastly, an LOI was inked between OM Maritime and Hyundai Hi for the construction of two firm plus two optional dual-fuelled 8,000teu container units for a price of 119.0 million each while Navios returned to Zhoushan Changhong for the construction of two firm plus two optionally conventionally fuelled 5,300teu boxships at a price of \$62.5 million each.
 
@@ -354,7 +351,7 @@ As we are heading towards the end of 2021, it is evident that the industry has b
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Tanker | 7,630 dwt | Chongqing Chuandong, China | 2023 | Chinese (Guangxi Wuzhou) | undisclosed | St-St chemical tankers, Tier II |
 | 4 | Bulker | 63,500 dwt | Nantong Xiangyu, China | 2024 | Chinese (HuaXia FL) | $ 32.0m | EEDI phase 3 |
-| 4+4 | Bulker | 63,500 dwt | Chengxi, China | 2023-2024 |  | $ 32.0m |  |
+| 4+4 | Bulker | 63,500 dwt | Chengxi, China | 2023-2024 | Chinese (HuaXia FL) | $ 32.0m | EEDI phase 3 |
 | 4 | LNG | 174,000 cbm | DSME, S. Korea | 2024-2025 | Greek (GasLog) | undisclosed |  |
 | 2 | VLGC | 86,700 cbm | Kawasaki, Japan | 2024 | Japanese (NYK) | undisclosed | ammonia carrier, EEDI phase 3, LPG fuelled |
 | 2+2 | Container | 8,000 teu | Hyundai Hi, South Korea | 2024 | Singapore based (OM Maritime) | $ 119.0m | dual fuelled, LOI stage |

@@ -199,16 +199,16 @@ The BDI on Friday, November 3rd, closed at 1462, marking a decrease of 101 point
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | C. SPIRIT | 313,998 | 2013 | HYUNDAI HEAVY INDS - U, S. Korea | Wartsila | Mar-28 | DH | $ 67.0m | Greek (New Shipping) | BWTS &amp; Scubber fitted, TC at US$ 36,625 pd less 2.5% until October 2024-February 2025. |
-| VLCC | C. CHALLENGER | 313,918 | 2013 | DALIAN, China | MAN-B\&amp;W | Feb-28 | DH | $ 65.0m |  | BWTS &amp; Scubber fitted, TC at US$ 31,000 pd less 1.25% until April-July 2024. |
-| VLCC | C. VISION | 314,000 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Jun-24 | DH |  | U.A.E Based | Scrubber fitted |
-| VLCC | C. EMPEROR | 314,000 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Mar-24 | DH | $ 34.5m |  |  |
+| VLCC | C. CHALLENGER | 313,918 | 2013 | DALIAN, China | MAN-B\&amp;W | Feb-28 | DH | $ 65.0m | Greek (New Shipping) | BWTS &amp; Scubber fitted, TC at US$ 31,000 pd less 1.25% until April-July 2024. |
+| VLCC | C. VISION | 314,000 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Jun-24 | DH | $ 34.5m (en bloc) | U.A.E Based | Scrubber fitted |
+| VLCC | C. EMPEROR | 314,000 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Mar-24 | DH | $ 34.5m (en bloc) | U.A.E Based | Scrubber fitted |
 | MR1 | DICTADOR | 34,747 | 2019 | FUJIAN MAWEI, China | WinGD | Nov-24 | DH | $ 29.2m | undisclosed | BWTS fitted |
 | Small | BOW EMMA | 25,594 | 2009 | SHIN KURUSHIMA, Japan | Mitsubishi | Jan-24 | DH | $ 24.0m | Chinese (Taihua) | BWTS fitted |
 | Small | RAYANA | 14,958 | 2009 | STX RO OFFSHORE BRAILA, Romania | MAN | Nov-26 | DH | undisclosed | undisclosed | BWTS due 30/4/2023 |
 | Small | BRO DEVELOPER | 14,737 | 2007 | JINSE, S. Korea | MAN | Dec-26 | DH | $ 10.1m | Singaporean | BWTS fitted |
-| Small | VS SALMA | 8,011 | 2008 | ANADOLU TUZLA, Turkey | Ma K | Jun-27 | DH |  |  |  |
-| Small | ST SARA | 8,019 | 2007 | ANADOLU TUZLA, Turkey | Ma K | Jan-27 | DH | $ 25.4m | Unidsclosed | BWTS fitted |
-| Small | VS SALOME | 7,915 | 2007 | ANADOLU TUZLA, Turkey | Ma K | Aug-27 | DH |  |  |  |
+| Small | VS SALMA | 8,011 | 2008 | ANADOLU TUZLA, Turkey | Ma K | Jun-27 | DH | $ 25.4m (en bloc) | Unidsclosed | BWTS fitted |
+| Small | ST SARA | 8,019 | 2007 | ANADOLU TUZLA, Turkey | Ma K | Jan-27 | DH | $ 25.4m (en bloc) | Unidsclosed | BWTS fitted |
+| Small | VS SALOME | 7,915 | 2007 | ANADOLU TUZLA, Turkey | Ma K | Aug-27 | DH | $ 25.4m (en bloc) | Unidsclosed | BWTS fitted |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -235,21 +235,21 @@ The BDI on Friday, November 3rd, closed at 1462, marking a decrease of 101 point
 The previous week was the one that put an end to the quiet market with a total of 9 orders, representing 21 firm vessels. Bulk carriers took the lion's share with 15 vessels, followed by tankers with four. Greek owners were active, with TMS Dry ordering a quartet of 210,000 dwt bulkers from COSCO Yangzhou. The vessels will be delivered between 2025 and 2027, while the price was not disclosed. Another Greek owner, Dynacom, has ordered two fixed panamax tankers from Yangzijiang in China, due for delivery in 2026 and costing \$53m each. On the smaller tonnage side, owners Leonhardt&amp;Blumberg and Boomsma Shipping each ordered two firm and two optional 8,500 dwt general cargo vessels. All vessels will be built by the Chowgule Group in India and are scheduled for delivery between 2025 and 2026. The vessels will be equipped with wind-assisted propulsion systems and carbon capture technologies.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 3-Nov-23 | 27-Oct-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2022 | 2021 | 2020 |
+| Sector | Vessel | Size | 3-Nov-23 | 27-Oct-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | **205k** | 67.5 | 67.5 | 0.0% | 67.5 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
-|  | Capesize | **180k** | 64.5 | 64.5 | 0.0% | 64.5 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
-|  | Kamsarmax | **82k** | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
-|  | Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
-|  | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
-| **Tankers** | VLCC | **300k** | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
-|  | Suezmax | **160k** | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
-|  | Aframax | **115k** | 71.0 | 71.0 | 0.0% | 71.0 | 64.0 | 71.0 | 46.0 | 62 | 53 | 48 |
-|  | MR | **50k** | 47.0 | 47.0 | 0.0% | 47.0 | 44.0 | 47.0 | 34.0 | 43 | 38 | 35 |
-| **Gas** | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
-|  | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
-|  | MGC LPG 55k cbm |  | 92.5 | 91.0 | 1.6% | 18.4 | 77.5 | 92.5 | 43.0 | 74 | 67 | 63 |
-|  | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
+| Bulkers | Newcastlemax | 205k | 67.5 | 67.5 | 0.0% | 67.5 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 64.5 | 64.5 | 0.0% | 64.5 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 71.0 | 71.0 | 0.0% | 71.0 | 64.0 | 71.0 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 47.0 | 47.0 | 0.0% | 47.0 | 44.0 | 47.0 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 92.5 | 91.0 | 1.6% | 18.4 | 77.5 | 92.5 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

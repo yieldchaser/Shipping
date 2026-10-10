@@ -176,9 +176,9 @@ Handysize trading remained largely stable but subdued. European markets lacked f
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR2 | SEAWAYS GATUN | 47,834 | 2007 | HYUNDAI MIPO, S. Korea | MAN B\&W | Nov-26 | DH | $ 12,5m each | European |
-| MR2 | SEAWAYS HURON | 47,781 | 2007 | HYUNDAI MIPO, S. Korea | MAN B\&W | Jan-27 | DH |  |  |
+| MR2 | SEAWAYS HURON | 47,781 | 2007 | HYUNDAI MIPO, S. Korea | MAN B\&W | Jan-27 | DH | $ 12,5m each | European |
 | SMALL | KOBE PIONEER | 3,499 | 2016 | DAE SUN, S. Korea | Hanshin | Apr-26 | DH | $ 13,7m each | European |
-| SMALL | YOKOHAMA PIONEER | 3,499 | 2016 | DAE SUN, S. Korea | Hanshin | May-26 | DH |  |  |
+| SMALL | YOKOHAMA PIONEER | 3,499 | 2016 | DAE SUN, S. Korea | Hanshin | May-26 | DH | $ 13,7m each | European |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -206,20 +206,20 @@ In the wet newbuilding front, Norwegian owner Bruton contracted two firm plus tw
 Finally in containerships, Transocean ordered a pair of 3.1k teu feeders at New Dayang at \$45m each, while Döhle booked a quartet of 2.9k teu units at CSSC Guangzhou Huangpu Wenchong, with price per unit estimated between \$46m and \$47m.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 24-Oct-25 | 17-Oct-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2023 | 2022 |
+| Sector | Vessel | Size | 24-Oct-25 | 17-Oct-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 76.5 | 76.5 | 0.0% | 79.0 | 76.5 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 73.0 | 73.0 | 0.0% | 75.0 | 73.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-|  | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-|  | Handysize | 38k | 29.5 | 29.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 126.0 | 126.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-|  | Suezmax | 160k | 85.5 | 85.5 | 0.0% | 90.0 | 85.5 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-|  | Aframax | 115k | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-|  | MR | 50k | 48.5 | 48.5 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** | LNG 174k cbm |  | 248.0 | 249.0 | -0.4% | 260.0 | 248.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-|  | MGC LPG 55k cbm |  | 84.5 | 84.5 | 0.0% | 90.5 | 84.5 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 59.5 | 59.5 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 76.5 | 76.5 | 0.0% | 79.0 | 76.5 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 73.0 | 73.0 | 0.0% | 75.0 | 73.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 29.5 | 29.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 126.0 | 126.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 85.5 | 85.5 | 0.0% | 90.0 | 85.5 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 48.5 | 48.5 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 248.0 | 249.0 | -0.4% | 260.0 | 248.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 84.5 | 84.5 | 0.0% | 90.5 | 84.5 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 59.5 | 59.5 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

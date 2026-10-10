@@ -298,24 +298,21 @@ In the Panamax sector we had the sale of the "PALMA BULKER" (75,843dwt-blt '09, 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 28-Apr-23 | 21-Apr-23 | ±% | 2022 | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 64.5 | 64.5 | 0.0% | 66 | 59 | 51 |
-| Capesize | **180k** | 61.5 | 61.5 | 0.0% | 63 | 56 | 49 |
-| Kamsarmax | **82k** | 35.0 | 35.0 | 0.0% | 36 | 33 | 28 |
-| Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 34 | 30 | 26 |
-| Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30 | 27 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 121.0 | 120.5 | 0.4% | 118 | 98 | 88 |
-| Suezmax | **160k** | 79.0 | 76.5 | 3.3% | 79 | 66 | 58 |
-| Aframax | **115k** | 67.0 | 67.0 | 0.0% | 62 | 53 | 48 |
-| MR | **50k** | 44.5 | 44.5 | 0.0% | 43 | 38 | 35 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 256.0 | 255.0 | 0.4% | 232 | 195 | 187 |  |
-| LGC LPG 80k cbm | 92.0 | 92.0 | 0.0% | 86 | 76 | 73 |  |
-| MGC LPG 55k cbm | 81.5 | 81.0 | 0.6% | 74 | 67 | 63 |  |
-| SGC LPG 25k cbm | 54.5 | 54.0 | 0.9% | 51 | 45 | 42 |  |
+| Sector | Vessel | Size | 28-Apr-23 | 21-Apr-23 | ±% | 2022 | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.5 | 64.5 | 0.0% | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 61.5 | 61.5 | 0.0% | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 121.0 | 120.5 | 0.4% | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 79.0 | 76.5 | 3.3% | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 67.0 | 67.0 | 0.0% | 62 | 53 | 48 |
+| Tankers | MR | 50k | 44.5 | 44.5 | 0.0% | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 256.0 | 255.0 | 0.4% | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 81.5 | 81.0 | 0.6% | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 54.5 | 54.0 | 0.9% | 51 | 45 | 42 |
 
 The newbuilding market continued to be very active last week with a total of 30 vessels ordered. Once again, the tanker sector saw the most orders with 22 vessels, while the bulk carrier sector was subdued with only 2 vessels ordered. Aframax/LR2 orders have the lion's share of 2023 newbuilding activity - A total of 3.9 million dwt were ordered between January and April 2023, up by 1.0 million dwt compared to the total volume in 2022. Suezmax orders amounted to 3.14 million dwt (2022 volume 1.71 million dwt), while no VLCCs were ordered. Greek owner Dynacom ordered 10 firm and 4 optional 115,000dwt tankers from Dalian Shipbuilding. The owner is paying \$63m apiece, with all vessels to be scrubber-equipped and expected to be delivered between 2025 and 2026. Another large order was placed by Japanese owner Nissen Kaiun, who ordered 8 firm 50,000 dwt tankers. All will be Tier III and EEDI Phase 3 compliant, costing \$46.3m each and expected to be in the water between 2024 and 2025. In the bulker sector, Union Maritime ordered two 63,000 dwt bulkers for delivery in 2025 at a cost of \$32m each.
 

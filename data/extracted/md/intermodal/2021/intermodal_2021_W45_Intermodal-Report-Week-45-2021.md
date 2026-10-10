@@ -314,27 +314,23 @@ In the Ultramax sector we had the sale of the "IKAN SENYUR" (61,494dwt-blt '10, 
 ---
 
 # Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 12/11/2021 | 05/11/2021 | ±% | 2020 | 2019 | 2018 |  |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
-| Capesize | **180k** | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
-| Ultramax | **63k** | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
-| Handysize | **38k** | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 108.0 | 108.0 | 0.0% | 88 | 92 | 88 |
-| Suezmax | **160k** | 75.0 | 75.0 | 0.0% | 58 | 60 | 58 |
-| Aframax | **115k** | 59.0 | 59.0 | 0.0% | 48 | 49 | 47 |
-| MR | 50k | 41.0 | 41.0 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 203.0 | 203.0 | 0.0% | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 81.0 | 81.0 | 0.0% | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 71.0 | 71.0 | 0.0% | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 48.5 | 48.5 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 12/11/2021 | 05/11/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 108.0 | 108.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 75.0 | 75.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 59.0 | 59.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 203.0 | 203.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 81.0 | 81.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 71.0 | 71.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 48.5 | 48.5 | 0.0% | 42 | 44 | 43 |
 
 A healthy newbuilding activity took place during the past week. Interest was evident across almost all segments, with the exception of the tanker sector which continued to see limited appetite for newbuilding units. On the dry bulk front, three 82,000dwt units were ordered by theg Japanese owner Nisshin Shipping at Jiangsu Hantong at a price of \$34.0m each. Most of the interest was focused on the LNG and Container sectors for another week. More specifically, both Celsius Shipping and Maran Gas have inked deals for the construction of two LNG vessels at Samsung and DSME yards, with the latter owner holding an option for two more units. As far as the Container realm is concerned, Evergreen ordered a pair of two conventionally fuelled/scrubber fitted 24,000teu boxships at Jiangnan Shipyard while Taiwanese owner TS Lines declared an option at Fujian Mawei for the construction of two 2,900teu and four 1,100teu boxships.
 

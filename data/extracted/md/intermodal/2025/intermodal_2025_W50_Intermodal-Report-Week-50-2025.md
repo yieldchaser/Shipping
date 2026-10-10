@@ -204,7 +204,7 @@ The Ultramax and Supramax markets also lacked clear momentum. The Atlantic showe
 | LR2 | TORM MAREN | 109,672 | 2008 | DALIAN, China | Wartsila | Aug-28 | DH | $ 29.0m | undisclosed |  |
 | AFRA | LIANA | 106,138 | 2003 | TSUNEISHI, Japan | B\&W | Nov-28 | DH | $ 20.0m | undisclosed |  |
 | MR2 | SEAWAYS STAR | 49,999 | 2008 | HYUNDAI MIPO, S. Korea | MAN B\&W | Mar-28 | DH | $ 16,0m each | undisclosed |  |
-| MR2 | SEAWAYS OLIVE | 49,999 | 2008 | HYUNDAI MIPO, S. Korea | MAN B\&W | Aug-28 | DH |  |  |  |
+| MR2 | SEAWAYS OLIVE | 49,999 | 2008 | HYUNDAI MIPO, S. Korea | MAN B\&W | Aug-28 | DH | $ 16,0m each | undisclosed |  |
 | J19 | GINGA KITE | 19,997 | 2001 | SHIN KURUSHIMA, Japan | Mitsubishi | Mar-26 | DH | $ 6.8m | Chinese | StSt |
 
 ## Bulk Carriers
@@ -228,20 +228,20 @@ The Ultramax and Supramax markets also lacked clear momentum. The Atlantic showe
 The newbuilding activity surged, led by a wave of Cosco Shipping orders at Chinese yards across multiple sectors, with deliveries largely scheduled for 2028–2030. In total, 16 orders were recorded, covering 83 firm plus 3 optional units. In the dry bulk segment, Cosco Shipping placed an order for 16 bulkers of 210k dwt at Qingdao Beihai and booked 22 units of 87k dwt at Chengxi Shipyard. Greek owner Aegean Bulk secured 4 bulkers of 82k dwt at Hengli Shipbuilding for 2027–2028 delivery, while Jinhu Shipping contracted 1 bulker of 64.5k dwt at Jiangmen Nanyang, priced at \$33.5m and due in 2028. Moreover, German owner Hartmann placed an order for 1 plus 1 cement carriers of 9k dwt at Jiangsu Zhenjiang, with delivery in 2028. In the wet side, Capital Maritime booked 2 tankers of 114k dwt at Hengli Shipbuilding for 2028 delivery, while Cosco Shipping added a pair of 50k dwt tankers at GSI. Separately, Seafuels commissioned 1 chemical tanker of 8.8k dwt at Ada Shipyard in Turkey, priced at \$29.3m. Containership ordering comprised 3 orders in 2 yards by Cosco Shipping: 12 LNG dual-fuel units of 18k teu each at Jiangnan Shipyard. The group further contracted 4 feeders of 1.8k teu and 5 of 1.1k teu at Wuchang SB Group. In the gas carrier segment, Knutsen booked 1 LNG carrier of 174k cbm at Hanwha Ocean, with delivery in 2028. Additionally, Benelux placed an order for 2 VLACs of 93k cbm at HD Hyundai, priced at \$120.4m each and due in 2028. Elsewhere, Cosco Shipping contracted 4 MPP vessels of 40k dwt at Chengxi Shipyard, and 2 RoRo at Wuchang SB. Finally, MSC placed an order for 4 firm plus 2 optional cruise ships at Meyer Werft in Germany, with deliveries spanning 2030–2035, at a value of \$1.96bn apiece.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 12-Dec-25 | 5-Dec-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2023 | 2022 |
+| Sector | Vessel | Size | 12-Dec-25 | 5-Dec-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 78.0 | 77.5 | 0.6% | 79.0 | 76.5 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | **180k** | 74.5 | 74.0 | 0.7% | 75.0 | 73.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | **82k** | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-|  | Ultramax | **63k** | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-|  | Handysize | **38k** | 29.5 | 29.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | **300k** | 128.0 | 127.5 | 0.4% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-|  | Suezmax | **160k** | 86.0 | 86.0 | 0.0% | 90.0 | 85.5 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-|  | Aframax | **115k** | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-|  | MR | **50k** | 49.0 | 48.5 | 1.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 260.0 | 248.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-|  | MGC LPG 55k cbm |  | 84.0 | 84.0 | 0.0% | 90.5 | 84.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 59.5 | 59.5 | 0.0% | 62.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 78.0 | 77.5 | 0.6% | 79.0 | 76.5 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 74.5 | 74.0 | 0.7% | 75.0 | 73.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 29.5 | 29.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 128.0 | 127.5 | 0.4% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 86.0 | 86.0 | 0.0% | 90.0 | 85.5 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 49.0 | 48.5 | 1.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 260.0 | 248.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 84.0 | 84.0 | 0.0% | 90.5 | 84.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 59.5 | 59.5 | 0.0% | 62.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

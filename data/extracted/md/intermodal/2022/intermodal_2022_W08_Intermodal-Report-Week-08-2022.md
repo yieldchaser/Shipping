@@ -314,25 +314,22 @@ In the Supramax sector we had the sale of the "SITC TAISHAN" (58,107dwt-blt '10,
 
 # Intermodal Newbuilding Market
 
-## Indicative Newbuilding Prices (million$)
-| Sector | Size | 25/02/2022 | 18/02/2022 | ±% | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| 205k | 64.0 | 64.0 | 0.0% | 59 | 51 | 54 |
-| Capesize | 180k | 61.0 | 61.0 | 0.0% | 56 | 49 |
-| Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 |
-| Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 |
-| Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 115.0 | 115.0 | 0.0% | 98 | 88 |
-| Suezmax | 160k | 76.5 | 76.5 | 0.0% | 66 | 58 |
-| Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 |
-| MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 218.0 | 217.0 | 0.5% | 195 | 187 | 186 |
-| LGC LPG 80k cbm | 81.5 | 81.5 | 0.0% | 76 | 73 | 73 |
-| MGC LPG 55k cbm | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |
-| SGC LPG 25k cbm | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 25/02/2022 | 18/02/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | 205k |  | 64.0 | 64.0 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 61.0 | 61.0 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 115.0 | 115.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 76.5 | 76.5 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 218.0 | 217.0 | 0.5% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 81.5 | 81.5 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |
 
 Activity in the newbuilding market resumed last week, with the recently rumored contracts consisting mostly of Container units, while after three weeks of muted bulk carrier contracting action, a notable order came to light last week. More specifically, German owner Oldendorff declared an option for the construction of five conventionally fuelled 82,000dwt Kamsarmax units at Jiangsu New Hantong for a price of excess \$30.0 million each. On the Container front, Eastern Pacific exercised an option from its January initial order for another trio of 7,900teu LNG fuelled neo-panamax boxships at Hyundai Samho. Each vessel will cost around \$118.0 million each, a price, increased by two million compared to the one back in January while all vessels are rumored that were ordered against a 8-year T/C to Zim. In addition, two 7,000teu containers were ordered by CU Lines at Shanghai Waigaoqiao, while Danish owner Celsius Shipping concluded a deal for the construction of two methanol fuelled 3,000teu feeder units at Penglai Jinglu.
 

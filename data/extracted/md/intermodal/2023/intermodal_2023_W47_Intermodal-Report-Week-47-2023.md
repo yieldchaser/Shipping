@@ -223,17 +223,17 @@ Supramax 10TC averaged \$ 13,726/day, up +7.88% w-o-w, while the Handysize 7TC a
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | NORTHERN DECENCY | 3,963 | 2003 | HYUNDAI, S. Korea | MAN-B\&W | Apr-28 |  | $12.65m | Chinese |
-| SUB PMAX | AS PETRA | 2,556 | 2004 | HYUNDAI, S. Korea | Sulzer | Apr-24 | 4 X 40t CRANES |  |  |
-| SUB PMAX | AS PAULINA | 2,556 | 2004 | HYUNDAI, S. Korea | Sulzer | May-24 | 4 X 40t CRANES | $ 25.5m | undisclosed |
-| SUB PMAX | AS PAULINE | 2,572 | 2006 | STX, S. Korea | MAN-B\&W | Feb-26 |  |  |  |
+| SUB PMAX | AS PETRA | 2,556 | 2004 | HYUNDAI, S. Korea | Sulzer | Apr-24 | 4 X 40t CRANES | $ 25.5m (en bloc) | undisclosed |
+| SUB PMAX | AS PAULINA | 2,556 | 2004 | HYUNDAI, S. Korea | Sulzer | May-24 | 4 X 40t CRANES | $ 25.5m (en bloc) | undisclosed |
+| SUB PMAX | AS PAULINE | 2,572 | 2006 | STX, S. Korea | MAN-B\&W | Feb-26 |  | $ 25.5m (en bloc) | undisclosed |
 
 ## Secondhand Sales
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | SEAPEAK NAPA | 10,790 | 2003 | HUDONG-ZHONGHUA, China | MAN | Oct-28 | 9,875 | $ 9.8m | undisclosed |  |
-| LPG | SOMBEKE | 29,213 | 2006 | DAEWOO, S. Korea | MAN-B\&W | Oct-26 | 37,678 | $ 69.3m | undisclosed | TC back |
-| LPG | LIBRAMONT | 29,328 | 2006 | DAEWOO, S. Korea | MAN-B\&W | May-26 | 37,686 |  |  |  |
+| LPG | SOMBEKE | 29,213 | 2006 | DAEWOO, S. Korea | MAN-B\&W | Oct-26 | 37,678 | $ 69.3m (en bloc) | undisclosed | TC back |
+| LPG | LIBRAMONT | 29,328 | 2006 | DAEWOO, S. Korea | MAN-B\&W | May-26 | 37,686 | $ 69.3m (en bloc) | undisclosed | TC back |
 
 ---
 
@@ -244,24 +244,21 @@ The newbuilding market had a modest week in terms of contracting, with the major
 The vessels cost \$63m each, are EEDI phase 3 compliant, ice class and are expected to be in the water in 2026. Greek owner Doria LPG ordered two very large ammonia carriers (VLACs) from Hanwha Ocean, with the 93k cbm vessels expected in 2026. Another Greek owner, Benelux Overseas, ordered three 48k cbm LPG carriers from Huangpu Wenchong for delivery in 2026 and 2027.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 24-Nov-23 | 17-Nov-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2022 | 2021 | 2020 |
+| Sector | Vessel | Size | 24-Nov-23 | 17-Nov-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 68.5 | 68.5 | 0.0% | 68.5 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
-| **Bulkers** | Capesize | **180k** | 65.5 | 65.5 | 0.0% | 65.5 | 61.0 | 65.5 | 48.5 | 63 | 56 | 49 |
-| **Bulkers** | Kamsarmax | **82k** | 35.5 | 35.0 | 1.4% | 35.5 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
-| **Bulkers** | Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
-| **Bulkers** | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | **300k** | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
-| **Tankers** | Suezmax | **160k** | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
-| **Tankers** | Aframax | **115k** | 72.0 | 71.5 | 0.7% | 71.5 | 64.0 | 71.5 | 46.0 | 62 | 53 | 48 |
-| **Tankers** | MR | 50k | 47.5 | 47.0 | 1.1% | 47.5 | 44.0 | 47.5 | 34.0 | 43 | 38 | 35 |
-| **Gas** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
-| **Gas** | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
-| **Gas** | MGC LPG 55k cbm |  | 91.5 | 91.5 | 0.0% | 18.4 | 77.5 | 92.5 | 43.0 | 74 | 67 | 63 |
-| **Gas** | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
+| Bulkers | Newcastlemax | 205k | 68.5 | 68.5 | 0.0% | 68.5 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 65.5 | 65.5 | 0.0% | 65.5 | 61.0 | 65.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.5 | 35.0 | 1.4% | 35.5 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 72.0 | 71.5 | 0.7% | 71.5 | 64.0 | 71.5 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 47.5 | 47.0 | 1.1% | 47.5 | 44.0 | 47.5 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 91.5 | 91.5 | 0.0% | 18.4 | 77.5 | 92.5 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

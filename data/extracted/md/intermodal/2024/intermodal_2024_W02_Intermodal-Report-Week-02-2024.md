@@ -206,10 +206,10 @@ Supramax 10TC averaged \$ 12,511/day, down -9.51% w-o-w. while the Handysize 7TC
 | VLCC | NEREIDES | 300,544 | 2004 | IHI MARINE, Japan | Sulzer | May-24 | DH | $ 29.0m | undisclosed |  |
 | AFRA | VOLANS | 99,876 | 2009 | HYUNDAI, S. Korea | MAN-B\&W | Jan-26 | DH | $ 31.5m | undisclosed | BWTS fitted |
 | LR1 | PATARIS | 73,774 | 2009 | NEW TIMES, China | MAN-B\&W | Apr-24 | DH | regio $ 26.0m | UK based (Trafigura) | BWTS fitted |
-| MR1 | DINAH | 37,313 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&W | Nov-28 | DH | $ 41.75m | undisclosed | Ice 1A |
-| MR1 | PLUTO | 37,282 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&W | Oct-28 | DH |  |  |  |
+| MR1 | DINAH | 37,313 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&W | Nov-28 | DH | $ 41.75m (en bloc) | undisclosed | Ice 1A |
+| MR1 | PLUTO | 37,282 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&W | Oct-28 | DH | $ 41.75m (en bloc) | undisclosed | Ice 1A |
 | SMALL | LIV KNUTSEN | 16,585 | 2009 | JIANGNAN, China | MAN | Aug-24 | DH | region high $ 13.0m each | Canadian (Algoma) | incl BB back to the sellers |
-| SMALL | ELI KNUTSEN | 16,544 | 2009 | JIANGNAN, China | MAN | Jun-24 | DH |  |  |  |
+| SMALL | ELI KNUTSEN | 16,544 | 2009 | JIANGNAN, China | MAN | Jun-24 | DH | region high $ 13.0m each | Canadian (Algoma) |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -217,13 +217,13 @@ Supramax 10TC averaged \$ 12,511/day, down -9.51% w-o-w. while the Handysize 7TC
 | NEWCASTLEMAX | MINERAL QINGDAO | 206,298 | 2020 | QINGDAO YANGFAN, China | MAN-B\&W | Jul-25 |  | $ 54.25m | Singaporean (Winning Shipping) | Eco |
 | KMAX | NIAN NU JIAO | 83,601 | 2010 | SANOYAS, Japan | MAN-B\&W | Jul-27 |  | $ 17.8m | undisclosed | BWTS fitted |
 | SUPRA | CRESTED EAGLE | 55,989 | 2009 | IHI, Japan | Wartsila | Jan-24 | 4 X 30t CRANES | region $ 14.5m each | undisclosed | BWTS & Scrubber fitted |
-| SUPRA | STELLAR EAGLE | 55,989 | 2009 | IHI, Japan | Wartsila | Mar-24 | 4 X 30t CRANES |  |  |  |
+| SUPRA | STELLAR EAGLE | 55,989 | 2009 | IHI, Japan | Wartsila | Mar-24 | 4 X 30t CRANES | region $ 14.5m each | undisclosed | BWTS & Scrubber fitted |
 | SUPRA | QUEEN KOBE | 55,444 | 2009 | KAWASAKI, Japan | MAN-B\&W | Jul-24 | 4 X 30t CRANES | high $ 14.0m | Indonesian | BWTS fitted |
 | SUPRA | APJ JAD | 52,461 | 2002 | TSUNEISHI CEBU, Philippines | MAN-B\&W | May-27 | 4 X 30t CRANES | $ 7.2m | undisclosed | BWTS fitted |
 | HMAX | RUI AN | 46,509 | 2001 | MITSUI, Japan | B\&W | May-26 | 4 X 30t CRANES | $ 6.7m | undisclosed |  |
 | HMAX | BEST HONOR | 47,183 | 1998 | OSHIMA, Japan | Sulzer | Jun-27 | 4 X 30t CRANES | $ 5.2m | Turkish |  |
 | HANDY | NOTOS VENTURE | 43,477 | 2017 | QINGSHAN, China | MAN-B\&W | Mar-27 | 4 X 30t CRANES | region $ 23.0m each | undisclosed | eco |
-| HANDY | EURUS VENTURE | 43,457 | 2017 | QINGSHAN, China | MAN-B\&W | Jan-27 | 4 X 30t CRANES |  |  |  |
+| HANDY | EURUS VENTURE | 43,457 | 2017 | QINGSHAN, China | MAN-B\&W | Jan-27 | 4 X 30t CRANES | region $ 23.0m each | undisclosed | eco |
 | HANDY | LOWLANDS HOPPER | 36,309 | 2015 | SHIKOKU, Japan | MAN-B\&W | Oct-24 | 4 X 30,5t CRANES | excess $ 17.0m | undisclosed | BWTS fitted |
 | HANDY | ALAM SURIA | 29,077 | 2012 | SHIKOKU, Japan | MAN-B\&W | Jan-26 | 4 X 30,5t CRANES | high $ 11.0m | undisclosed | BWTS fitted |
 
@@ -234,20 +234,20 @@ Supramax 10TC averaged \$ 12,511/day, down -9.51% w-o-w. while the Handysize 7TC
 The market for newbuildings seems to start picking up with all sectors having firm orders. A total of 42 vessels have been ordered with huge contracts for tankers and LNG carriers. More specifically, Pertamina order 15 MR tankers from Hyundai Mipo in S.Korea. the vessels are equally split between clean petroleum tankers, dirty petroleum tankers and Type 2/3 chemical/product tankers. The contract will cost nearly \$700m and the deliveries are expected in 2026. On Bulkers, Greek owner Safe Bulker ordered a Kamsarmax from Oshima in Japan, costing around \$40.0m and expected on water in 2024. The other big order came from Qatargas, ordering 8 LNG carriers of 271,000cbm capacity. The builder will be Hudong Zhonghua in China and delivery is expected in 2028 in 2029.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 12-Jan-24 | 5-Jan-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 12-Jan-24 | 5-Jan-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | **205k** | 70.5 | 70.5 | 0.0% | 70.5 | 70.0 | 70.5 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | **180k** | 67.5 | 67.5 | 0.0% | 67.5 | 67.5 | 67.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | **82k** | 35.5 | 35.5 | 0.0% | 35.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 33.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | **300k** | 128.0 | 128.0 | 0.0% | 128.0 | 128.0 | 128.0 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | **160k** | 85.0 | 85.0 | 0.0% | 85.0 | 85.0 | 85.0 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | **115k** | 73.0 | 73.0 | 0.0% | 73.0 | 73.0 | 73.0 | 46.0 | 69 | 62 | 53 |
-|  | MR | **50k** | 48.0 | 48.0 | 0.0% | 48.0 | 48.0 | 48.0 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 265.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 92.0 | 91.5 | 0.5% | 92.0 | 91.5 | 92.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 58.5 | 58.0 | 0.9% | 58.5 | 58.0 | 58.5 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 70.5 | 70.5 | 0.0% | 70.5 | 70.0 | 70.5 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 67.5 | 67.5 | 0.0% | 67.5 | 67.5 | 67.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 35.5 | 35.5 | 0.0% | 35.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 128.0 | 128.0 | 0.0% | 128.0 | 128.0 | 128.0 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 85.0 | 85.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 73.0 | 73.0 | 0.0% | 73.0 | 73.0 | 73.0 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 48.0 | 48.0 | 0.0% | 48.0 | 48.0 | 48.0 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 265.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 92.0 | 91.5 | 0.5% | 92.0 | 91.5 | 92.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 58.5 | 58.0 | 0.9% | 58.5 | 58.0 | 58.5 | 40.0 | 56 | 51 | 45 |
 
 ## Indicative Period Charters
 

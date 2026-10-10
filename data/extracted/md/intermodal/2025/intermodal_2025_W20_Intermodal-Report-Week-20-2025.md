@@ -175,20 +175,20 @@ Handysize rates remained largely stagnant across regions. European markets lacke
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | M. STAR | 313,798 | 2008 | KAWASAKI, Japan | MAN B\&W | Dec-28 | DH | high $ 40s | Chinese | scrubber fitted |
-| SUEZ | CASCADE SPIRIT | 156,853 | 2009 | JIANGSU RONGSHENG, China | MAN B\&W | Jun-29 | DH | $ 75.0m | Nigerian |  |
-| SUEZ | ASPEN SPIRIT | 156,813 | 2009 | JIANGSU RONGSHENG, China | MAN B\&W | Oct-29 | DH |  |  |  |
+| SUEZ | CASCADE SPIRIT | 156,853 | 2009 | JIANGSU RONGSHENG, China | MAN B\&W | Jun-29 | DH | $ 75.0m (en bloc) | Nigerian |  |
+| SUEZ | ASPEN SPIRIT | 156,813 | 2009 | JIANGSU RONGSHENG, China | MAN B\&W | Oct-29 | DH | $ 75.0m (en bloc) | Nigerian |  |
 | LR1 | CONQUEST | 73,917 | 2006 | NEW TIMES, China | MAN B\&W | Apr-25 | DH | $ 11.0m | undisclosed |  |
 | LR1 | FEDOR | 70,156 | 2003 | HYUNDAI, S. Korea | B\&W | Jul-27 | DH | mid $ 8's | undisclosed |  |
 | MR2 | SEAWAYS FRONTIER | 49,999 | 2007 | HYUNDAI MIPO, S. Korea | MAN B\&W | Dec-27 | DH | region $ 14.0m each | UAE based (GMS) |  |
-| MR2 | SEAWAYS CITRON | 49,999 | 2007 | HYUNDAI MIPO, S. Korea | MAN B\&W | Nov-27 | DH |  |  |  |
+| MR2 | SEAWAYS CITRON | 49,999 | 2007 | HYUNDAI MIPO, S. Korea | MAN B\&W | Nov-27 | DH | region $ 14.0m each | UAE based (GMS) |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | THALASSINI AGATHA | 182,307 | 2011 | UNIVERSAL, Japan | MAN B\&W | Jan-26 |  | $ 28.8m | undisclosed | scrubber fitted, Eco |
 | KMAX | MEDI NAGOYA | 81,671 | 2018 | TSUNEISHI CEBU, Philippines | MAN B\&W | Apr-28 |  | region $ 27,5m | Vietnamese | scrubber fitted, Eco |
-| KMAX | THUNDERBIRD | 79,508 | 2011 | JIANGSU EASTERN, China | Wartsila | Nov-25 |  | mid high $ 19,0m | undisclosed |  |
-| KMAX | BONNEVILLE | 79,403 | 2010 | JIANGSU EASTERN, China | Wartsila | Nov-25 |  |  |  |  |
+| KMAX | THUNDERBIRD | 79,508 | 2011 | JIANGSU EASTERN, China | Wartsila | Nov-25 |  | mid high $ 19,0m (en bloc) | undisclosed |  |
+| KMAX | BONNEVILLE | 79,403 | 2010 | JIANGSU EASTERN, China | Wartsila | Nov-25 |  | mid high $ 19,0m (en bloc) | undisclosed |  |
 | HANDY | SIENA | 32,744 | 2002 | KANDA, Japan | Mitsubishi | Jul-25 | 4 X 30,5t CRANES | $ 5.8m | undisclosed |  |
 
 ---
@@ -202,20 +202,20 @@ The sole containership newbuilding transaction came from the liner company Arkas
 MPP and Gas segments witnessed activity as well with Chinese groups placing orders at compatriot yards. More specifically, Taizhou Hailian Shipping has ordered at Taizhou Jiangxing two 17.5k dwt MPP units, biofuel compatible and backed by TC with Norden. Delivery is expected in 2027. Finally, COSCO Shipping, an affiliate company of COSCO Group contracted with COSCO Heavy Industry Qidong for the manufacturing of two 88K CBM LPG carriers, slated for delivery in 2027 as well, at \$120m per vessel.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 16-May-25 | 9-May-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2023 | 2022 |
+| Sector | Vessel | Size | 16-May-25 | 9-May-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | **205k** | 77.5 | 77.5 | 0.0% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | **180k** | 74.0 | 74.0 | 0.0% | 75.0 | 74.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | **82k** | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-|  | Ultramax | **63k** | 34.0 | 34.0 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-|  | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | **300k** | 125.0 | 125.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-|  | Suezmax | **160k** | 86.0 | 86.0 | 0.0% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-|  | Aframax | **115k** | 75.5 | 75.5 | 0.0% | 77.5 | 75.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-|  | MR | **50k** | 48.5 | 48.5 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** | LNG 174k cbm |  | 255.0 | 255.0 | 0.0% | 260.0 | 255.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-|  | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 77.5 | 77.5 | 0.0% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 74.0 | 74.0 | 0.0% | 75.0 | 74.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 125.0 | 125.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 86.0 | 86.0 | 0.0% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 75.5 | 75.5 | 0.0% | 77.5 | 75.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 48.5 | 48.5 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 255.0 | 255.0 | 0.0% | 260.0 | 255.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

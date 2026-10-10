@@ -211,8 +211,8 @@ The Handysize market remained generally flat, with little variation in activity 
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | LANDBRIDGE WISDOM | 307,894 | 2020 | DALIAN, China | MAN B\&W | May-25 | DH | $ 206.0m | Oman Shipping | Scrubber fitted, Eco |
-| VLCC | LANDBRIDGE GLORY | 307,852 | 2019 | DALIAN, China | MAN B\&W | Apr-29 | DH |  |  |  |
+| VLCC | LANDBRIDGE WISDOM | 307,894 | 2020 | DALIAN, China | MAN B\&W | May-25 | DH | $ 206.0m (en bloc) | Oman Shipping | Scrubber fitted, Eco |
+| VLCC | LANDBRIDGE GLORY | 307,852 | 2019 | DALIAN, China | MAN B\&W | Apr-29 | DH | $ 206.0m (en bloc) | Oman Shipping | Scrubber fitted, Eco |
 | MR2 | GULF ELAN | 46,894 | 2007 | HYUNDAI MIPO, S. Korea | Wartsila | Jan-27 | DH | $ 16.5m | Chinese |  |
 | MR2 | TAMIAT NAVIGATOR | 46,625 | 2010 | HYUNDAI MIPO, S. Korea | MAN B\&W | Aug-25 | DH | $ 18.0m | Greek |  |
 
@@ -233,23 +233,20 @@ The Handysize market remained generally flat, with little variation in activity 
 It was a robust week for the newbuilding market, with new orders across various sectors. In the dry sector Tsuneishi Zhoushan in China received an order for a 63k dwt bulker from the compatriot Seacon, set for delivery in 2027, at a price of \$38.3m. The tanker segment saw activity via three notable orders. Hanwha Ocean in South Korea secured a contract from Swiss-based Advantage Tankers for two LNG ready 320k dwt tankers, delivery expected in 2027, at \$126.5 million each. New Times in China will construct two 159k dwt tankers, for Dynacom with estimated delivery in 2028 at \$80m each. Another Greek owner, Steelships, placed an order at Chinese K SB Jinhae for a pair of 50k dwt Oil/Chemical tankers, set for delivery in 2027 as well. Moving to containerships which accounted for most of the week's activity, Hengli HI Dalian in China received a major order from Swiss MSC for ten 22k teu containerships, with deliveries between 2028-2029. Moreover, the Taipei headquartered Wan Hai Lines commissioned four 16k teu methanol ready newbuildings in total, two at Hyundai Samho and two at Samsung HI, all for delivery in 2028. The per vessel cost is estimated at \$196.1m for the Hyundai Samho order and between \$187.6m and \$204m for the Samsung HI order. Additionally, the Singaporean company Sea Consortium contracted Hyundai Mipo for the construction of two 2.8k teu boxships, priced at \$56m each, to be delivered in 2027. Finally, Huanghai Shipbuilding will deliver two 1,800 teu containerships to Chinese SITC in 2028, at \$29 m each, following an exercise of option. Two more orders were reported on other sectors: Jiangnan Shipyard will deliver a 20k cbm, LNG bunkering vessel for the Chinese SIPG Energy in 2027 and a cable layer vessel was ordered at Nantong Xiangyu in China by compatriot ZTT, fully electric powered.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 25-Apr-25 | 18-Apr-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2023 | 2022 |
+| Sector | Vessel | Size | 25-Apr-25 | 18-Apr-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 78.0 | 78.0 | 0.0% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-| **Bulkers** | Capesize | 180k | 74.0 | 74.0 | 0.0% | 75.0 | 74.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-| **Bulkers** | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-| **Bulkers** | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-| **Bulkers** | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | 300k | 125.0 | 125.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-| **Tankers** | Suezmax | 160k | 86.5 | 86.5 | 0.0% | 90.0 | 86.5 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-| **Tankers** | Aframax | 115k | 75.5 | 75.5 | 0.0% | 77.5 | 75.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-| **Tankers** | MR | 50k | 49.5 | 49.5 | 0.0% | 51.5 | 49.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 255.0 | 255.0 | 0.0% | 260.0 | 255.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-| **Gas** | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-| **Gas** | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 78.0 | 78.0 | 0.0% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 74.0 | 74.0 | 0.0% | 75.0 | 74.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 125.0 | 125.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 86.5 | 86.5 | 0.0% | 90.0 | 86.5 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 75.5 | 75.5 | 0.0% | 77.5 | 75.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 49.5 | 49.5 | 0.0% | 51.5 | 49.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 255.0 | 255.0 | 0.0% | 260.0 | 255.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

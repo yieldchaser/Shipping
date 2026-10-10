@@ -211,8 +211,8 @@ Supramax 10TC averaged \$ 12,723/day, up +4.39% w-o-w, while the Handysize 7TC a
 | AFRA | P. KIKUMA | 115,915 | 2007 | SAMSUNG, S. Korea | MAN-B\&W | Nov-27 | DH | $ 39.3m | Middle Eastern | Delivery December 2023, BWTS fitted |
 | AFRA | AEGEAN MYTH | 115,838 | 2006 | SAMSUNG, S. Korea | MAN-B\&W | Aug-26 | DH | undisclosed | Chinese | BWTS fitted |
 | MR2 | CHEMTRANS CAROLINA | 53,160 | 2006 | GUANGZHOU, China | Wartsila | Dec-26 | DH | $ 20.1m | undisclosed | BWTS fitted, Ice Class 1A |
-| J19 | GION TRADER | 19,883 | 2015 | USUKI, Japan | MAN-B\&W | Mar-25 | DH | $ 59.4m | Chinese | BWTS fitted |
-| J19 | ALBATROSS TRADER | 19,862 | 2015 | USUKI, Japan | MAN-B\&W | Sep-25 | DH |  |  | BWTS fitted |
+| J19 | GION TRADER | 19,883 | 2015 | USUKI, Japan | MAN-B\&W | Mar-25 | DH | $ 59.4m (en bloc) | Chinese | BWTS fitted |
+| J19 | ALBATROSS TRADER | 19,862 | 2015 | USUKI, Japan | MAN-B\&W | Sep-25 | DH | $ 59.4m (en bloc) | Chinese | BWTS fitted |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -245,21 +245,21 @@ Supramax 10TC averaged \$ 12,723/day, up +4.39% w-o-w, while the Handysize 7TC a
 A total of 28 firm and 2 optional vessels were ordered last week, comprising 14 tankers, 12 containers and 4 gas carriers. In particular, Greeks were active in the market, with Dynacom exercising options on four 115kdwt tankers from DSIC in China. The vessels will be ice-class, scrubber-equipped and will be priced at \$62m each. They are expected to be delivered between 2025 and 2026. Another Greek company, Sea Pioneer, has placed an order for 2 firm and 2 optional MR tankers (50kdwt) for K Shipbuilding in South Korea. Delivery is scheduled for 2025 and the price was not disclosed. In the container sector, giant Ocean Network Express ordered a total of twelve 13,000 TEU vessels for delivery in 2026 and 2027. The ships were split equally between Jiangnan and Yangzijiang. The dozen will be dual-fuelled with methanol. Finally, in the gas sector, Greece's Evalend Shipping ordered two 174k cbm LNG carriers from Hyundai HI in South Korea. The ships cost \$262.7m each and will be ready in 2028.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 17-Nov-23 | 10-Nov-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2022 | 2021 | 2020 |
+| Sector | Vessel | Size | 17-Nov-23 | 10-Nov-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 68.5 | 68.0 | 0.7% | 68.5 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
-|  | Capesize | **180k** | 65.5 | 65.0 | 0.8% | 65.5 | 61.0 | 65.5 | 48.5 | 63 | 56 | 49 |
-|  | Kamsarmax | **82k** | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
-|  | Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
-|  | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
-| **Tankers** | VLCC | **300k** | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
-|  | Suezmax | **160k** | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
-|  | Aframax | **115k** | 71.5 | 71.0 | 0.7% | 71.5 | 64.0 | 71.5 | 46.0 | 62 | 53 | 48 |
-|  | MR | 50k | 47.0 | 47.0 | 0.0% | 47.0 | 44.0 | 47.0 | 34.0 | 43 | 38 | 35 |
-| **Gas** | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
-|  | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
-|  | MGC LPG 55k cbm |  | 91.5 | 91.5 | 0.0% | 18.4 | 77.5 | 92.5 | 43.0 | 74 | 67 | 63 |
-|  | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
+| Bulkers | Newcastlemax | 205k | 68.5 | 68.0 | 0.7% | 68.5 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 65.5 | 65.0 | 0.8% | 65.5 | 61.0 | 65.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 71.5 | 71.0 | 0.7% | 71.5 | 64.0 | 71.5 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 47.0 | 47.0 | 0.0% | 47.0 | 44.0 | 47.0 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 91.5 | 91.5 | 0.0% | 18.4 | 77.5 | 92.5 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

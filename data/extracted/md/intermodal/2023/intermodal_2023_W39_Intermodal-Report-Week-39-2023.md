@@ -203,8 +203,8 @@ Supramax 10TC averaged \$ 14,482/day, up +0.41% w-o-w, while the Handysize 7TC a
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | CRUDEMED | 115,643 | 2018 | DAEHAN, S. Korea | MAN-B\&W | Jul-28 | DH | $ 140.0m | South Korean | BWTS fitted, Fixed 3 yrs to Unipec at USD 40,000/day |
-| AFRA | CRUESUN | 115,643 | 2018 | DAEHAN, S. Korea | MAN-B\&W | Jul-28 | DH |  |  |  |
+| AFRA | CRUDEMED | 115,643 | 2018 | DAEHAN, S. Korea | MAN-B\&W | Jul-28 | DH | $ 140.0m (en bloc) | South Korean | BWTS fitted, Fixed 3 yrs to Unipec at USD 40,000/day |
+| AFRA | CRUESUN | 115,643 | 2018 | DAEHAN, S. Korea | MAN-B\&W | Jul-28 | DH | $ 140.0m (en bloc) | South Korean | BWTS fitted, Fixed 3 yrs to Unipec at USD 40,000/day |
 | MR2 | TRF BERGEN | 49,126 | 2015 | HYUNDAI VINASHIN, Vietnam | MAN-B\&W | May-25 | DH | rgn $37 | Undisclosed | BWTS, Scrubber fitted |
 | MR2 | SANDPIPER PACIFIC | 51,833 | 2013 | SUNGDONG, S. Korea | MAN-B\&W | Jun-23 | DH | $ 34.0m | Undisclosed | BWTS fitted |
 | MR1 | SHANDONG ZIHE | 40,059 | 2004 | SHINA, S. Korea | MAN-B\&W | Mar-24 | DH | $ 14.5m | Undisclosed | BWTS fitted, sold via auction basis delivery UK/Med in December |
@@ -216,9 +216,9 @@ Supramax 10TC averaged \$ 14,482/day, up +0.41% w-o-w, while the Handysize 7TC a
 | PMAX | ORION III | 76,602 | 2005 | Imabari Shldg - Marugame | B\&W | Jan-25 |  | $ 10.1m | Far Eastern | BWTS fitted, carry cargo with DENSITY 2.11(T/M3), poor condition |
 | SUPRA | XING HONG DA 8 | 58,018 | 2012 | YANGZHOU DAYANG, China | MAN-B\&W | Jan-27 | 4 X 35t CRANES | $ 12.9m | Chinese |  |
 | SUPRA | VINAYAK | 58,089 | 2009 | TSUNEISHI ZHOUSHAN, China | MAN-B\&W | Sep-24 | 4 X 30t CRANES | $ 14.8m | undisclosed | BWTS fitted |
-| HANDY | FENGNING | 39,836 | 2015 | CHENGXI, China | Wartsila | Jan-25 | 4 X 36t CRANES |  |  |  |
-| HANDY | FUNING | 39784 | 2015 | CHENGXI, China | Wartsila | Oct-25 | 4 X 36t CRANES | $ 58.5m | JP Morgan | BWTS fitted, Log fitted, Wartsila, eco |
-| HANDY | FOOCHOW | 39,758 | 2015 | CHENGXI, China | Wartsila | Aug-25 | 4 X 36t CRANES |  |  |  |
+| HANDY | FENGNING | 39,836 | 2015 | CHENGXI, China | Wartsila | Jan-25 | 4 X 36t CRANES | $ 58.5m (en bloc) | JP Morgan | BWTS fitted, Log fitted, Wartsila, eco |
+| HANDY | FUNING | 39784 | 2015 | CHENGXI, China | Wartsila | Oct-25 | 4 X 36t CRANES | $ 58.5m (en bloc) | JP Morgan | BWTS fitted, Log fitted, Wartsila, eco |
+| HANDY | FOOCHOW | 39,758 | 2015 | CHENGXI, China | Wartsila | Aug-25 | 4 X 36t CRANES | $ 58.5m (en bloc) | JP Morgan | BWTS fitted, Log fitted, Wartsila, eco |
 | HANDY | 21 LUCKY | 29,756 | 2001 | SHIKOKU, Japan | B\&W | Jul-26 | 4 X 30t CRANES | $ 5.5m | undisclosed | BWTS fitted |
 | Small | SAGITTA | 13,464 | 2008 | Jiangsu Yangzi-Mitsui, China | MAN-B\&W | Feb-28 | 2 X 35t CRANES | $ 8.0m | undisclosed | BWTS fitted |
 
@@ -241,21 +241,21 @@ Supramax 10TC averaged \$ 14,482/day, up +0.41% w-o-w, while the Handysize 7TC a
 New orders continued to be strong last week, with a variety of vessels ordered. In the mainstream categories, orders were placed for 12 bulkers, 10 of which are destined for China's domestic coastal trade, 2 suezmaxes and 8 containerships. In particular, Greek owner Diana Shipping ordered two Kamsarmaxes from Tsuneishi Zhousan for delivery in 2027 and 2028. The duo will run on methanol and cost \$46m. The order is at the LOI stage. In the tanker sector, Greek owner Atlas Marine ordered 2 Suezmaxes from DH Shipbuilding in South Korea. The vessels were option orders and are expected to be delivered in 2025 and 2026 at a cost of \$85m each. The same owner also exercised an option for a 7,000 teu PCTC from Yentai Raffles for \$80m. Finally, French giant CMA-CGM ordered 8 more 9,200 teu methanol-fuelled boxships from SWS at a cost of \$126m.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 29-Sep-23 | 22-Sep-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2022 | 2021 | 2020 |
+| Sector | Vessel | Size | 29-Sep-23 | 22-Sep-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | **Newcastlemax** | **205k** | 67.5 | 67.5 | 0.0% | 67.5 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
-|  | **Capesize** | **180k** | 64.5 | 64.5 | 0.0% | 64.5 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
-|  | **Kamsarmax** | **82k** | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
-|  | **Ultramax** | **63k** | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
-|  | **Handysize** | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
-| **Tankers** | **VLCC** | **300k** | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
-|  | **Suezmax** | **160k** | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
-|  | **Aframax** | **115k** | 71.0 | 71.0 | 0.0% | 71.0 | 64.0 | 71.0 | 46.0 | 62 | 53 | 48 |
-|  | **MR** | **50k** | 47.0 | 47.0 | 0.0% | 47.0 | 44.0 | 47.0 | 34.0 | 43 | 38 | 35 |
-| **Gas** | **LNG 174k cbm** |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
-|  | **LGC LPG 80k cbm** |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
-|  | **MGC LPG 55k cbm** |  | 89.0 | 88.5 | 0.6% | 89.0 | 77.5 | 89.0 | 43.0 | 74 | 67 | 63 |
-|  | **SGC LPG 25k cbm** |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
+| Bulkers | Newcastlemax | 205k | 67.5 | 67.5 | 0.0% | 67.5 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 64.5 | 64.5 | 0.0% | 64.5 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 71.0 | 71.0 | 0.0% | 71.0 | 64.0 | 71.0 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 47.0 | 47.0 | 0.0% | 47.0 | 44.0 | 47.0 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 89.0 | 88.5 | 0.6% | 89.0 | 77.5 | 89.0 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

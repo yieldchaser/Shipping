@@ -194,8 +194,8 @@ This week saw broad declines across major dry bulk segments, with weakening fund
 | NEWCASTLEMAX | MINERAL HIROSHIGE | 208,572 | 2019 | IMABARI, Japan | MAN B\&W | Oct-29 |  | $ 64.0m | Chinese | Eco |
 | CAPE | BULK GINZA | 182,868 | 2020 | IMABARI, Japan | MAN B\&W | Mar-28 |  | $ 64.0m | undisclosed | Eco |
 | KMAX | SANTA GRACIELA | 82,149 | 2013 | TSUNEISHI, Japan | MAN B\&W | Mar-28 |  | region $ 19,0m | Greek |  |
-| KMAX | EXPLORER ASIA | 81,093 | 2016 | JIANGSU HANTONG, China | MAN B\&W | Jan-26 |  | $ 40.0m | Chinese | Eco |
-| KMAX | EXPLORER OCEANIA | 81,073 | 2015 | JIANGSU HANTONG, China | MAN B\&W | Dec-25 |  |  |  |  |
+| KMAX | EXPLORER ASIA | 81,093 | 2016 | JIANGSU HANTONG, China | MAN B\&W | Jan-26 |  | $ 40.0m (en bloc) | Chinese | Eco |
+| KMAX | EXPLORER OCEANIA | 81,073 | 2015 | JIANGSU HANTONG, China | MAN B\&W | Dec-25 |  | $ 40.0m (en bloc) | Chinese | Eco |
 | SUPRA | FLC CELEBRATION | 57,000 | 2011 | QINGSHAN, China | MAN B\&W | Jan-26 | 4 X 30t CRANES | low $ 11,0m | undisclosed |  |
 | HANDY | ARIES SAKURA | 39,870 | 2020 | SHIN KURUSHIMA, Japan | MAN-B\&W | Jun-30 | 4 X 30t CRANES | $ 26.2m | undisclosed | Eco |
 
@@ -206,20 +206,20 @@ This week saw broad declines across major dry bulk segments, with weakening fund
 The week's contracting activity totaled 32 firm plus 8 optional vessels across 8 orders. The largest order was recorded at the VLOC segment, as Shandong Marine placed an order for ten 325k dwt methanol dual-fuel vessels at the compatriot Qingdao Beihai, priced at \$130m per unit with delivery scheduled for 2027-2029. The tanker segment was active with three orders totalling 12 vessels. Greek group Dynacom contracted New Times, China for six 159k dwt scrubber-fitted, LNG-ready tankers at \$78m-\$79m per vessel for 2028 delivery. Additionally, two 158k dwt tankers were ordered by Evalend Shipping at HD Hyundai, South Korea for 2027 delivery at \$89m each. Moreover, Taiwanese interests (Formosa Plastics) placed an order for four 50k dwt MR tankers at Guangzhou Shipyard, China, priced at \$48m per unit for 2028 delivery. Moving to the containership newbuilding front, three orders were reported for eight firm plus eight optional vessels, all in Chinese shipyards. The reefer operator Seatrade commissioned Huanghai Shipbuilding to manufacture two firm plus six optional 2.8k teu high-reefer containerships for \$50m per vessel with delivery commencing in 2027. Moreover, Greek interests (Chios Navigation) signed LOI with Jinling Shipyard for two firm plus two optional 1.8k teu boxships at \$31.5m each, while the Chinese Ningbo Ocean placed an order for four 4.3k teu units at CSSC Guangzhou, priced at \$69.5m per vessel with delivery scheduled for 2028. Finally, the VLAC segment saw an order for two 93k cbm vessels by a Nigerian JV between Sahara Group and the Nigerian state-owned oil company NNPC at HD Hyundai, priced at \$125m each, with delivery estimated in 2028.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 20-Jun-25 | 13-Jun-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2022 | Year3 |
+| Sector | Vessel | Size | 20-Jun-25 | 13-Jun-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 77.0 | 77.0 | 0.0% | 79.0 | 77.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | **180k** | 73.5 | 73.5 | 0.0% | 75.0 | 73.5 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | **82k** | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-|  | Ultramax | **63k** | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-|  | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | **300k** | 126.0 | 125.0 | 0.8% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-|  | Suezmax | **160k** | 86.0 | 86.0 | 0.0% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-|  | Aframax | **115k** | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-|  | MR | **50k** | 48.5 | 48.5 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** | LNG 174k cbm |  | 255.0 | 255.0 | 0.0% | 260.0 | 255.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-|  | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 77.0 | 77.0 | 0.0% | 79.0 | 77.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 73.5 | 73.5 | 0.0% | 75.0 | 73.5 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 126.0 | 125.0 | 0.8% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 86.0 | 86.0 | 0.0% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 48.5 | 48.5 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 255.0 | 255.0 | 0.0% | 260.0 | 255.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Indicative Period Charters
 

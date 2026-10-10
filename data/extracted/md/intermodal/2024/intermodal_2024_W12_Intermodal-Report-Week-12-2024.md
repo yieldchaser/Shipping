@@ -204,11 +204,11 @@ Supramax 10TC averaged \$ 15,004/day up +3.93% w-o-w, while the Handysize 7TC av
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | NEWTON | 307,284 | 2009 | DALIAN, China | Wartsila | Feb-24 | DH |  |  | BWTS pending, installation year 2024 |
-| VLCC | NECTAR | 307,284 | 2008 | DALIAN, China | Wartsila | Jan-28 | DH | $ 154.9m | Asian | BWTS fitted |
-| VLCC | NOBLE | 307,284 | 2008 | DALIAN, China | Wartsila | Sep-28 | DH |  |  | BWTS fitted |
+| VLCC | NEWTON | 307,284 | 2009 | DALIAN, China | Wartsila | Feb-24 | DH | $ 154.9m (en bloc) | Asian | BWTS pending, installation year 2024 |
+| VLCC | NECTAR | 307,284 | 2008 | DALIAN, China | Wartsila | Jan-28 | DH | $ 154.9m (en bloc) | Asian | BWTS fitted |
+| VLCC | NOBLE | 307,284 | 2008 | DALIAN, China | Wartsila | Sep-28 | DH | $ 154.9m (en bloc) | Asian | BWTS fitted |
 | MR | STI LE ROCHER | 49,999 | 2013 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Oct-28 | DH | $36,2m each | U.A.E (Gulf Energy) | BWTS fitted, Eco |
-| MR | STI LARVOTTO | 49,990 | 2013 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Jul-28 | DH |  |  | BWTS fitted, Eco |
+| MR | STI LARVOTTO | 49,990 | 2013 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Jul-28 | DH | $36,2m each | U.A.E (Gulf Energy) | BWTS fitted, Eco |
 | MR | UOG SPARTA | 49,990 | 2009 | SPP, S. Korea | MAN-B\&W | Mar-24 | DH | $ mid 20s | undisclosed | SS/DD Due, BWTS pending, installation year 2024 |
 | MR | HIGH PROSPERITY | 48,711 | 2006 | IWAGI ZOSEN, Japan | MAN-B\&W | Jan-26 | DH | $ 19.3m | Singapore based | BWTS fitted |
 | HANDY | MTM ST JEAN | 34,528 | 2003 | SHIN KURUSHIMA, Japan | Mitsubishi | Jun-28 | DH | $ 18.0m | undisclosed | BWTS fitted, StSt coated |
@@ -218,8 +218,8 @@ Supramax 10TC averaged \$ 15,004/day up +3.93% w-o-w, while the Handysize 7TC av
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NEWCASTLEMAX | ATLANTIC TIGER | 209,338 | 2020 | SWS, China | MAN-B\&W | Apr-25 |  | rgn $ 71.0m each | South Korean (Pan Ocean) | BWTS & Scrubber fitted, Eco |
-| NEWCASTLEMAX | ATLANTIC LION | 209,205 | 2020 | SWS, China | MAN-B\&W | Aug-25 |  |  |  | BWTS & Scrubber fitted, Eco |
-| NEWCASTLEMAX | ATLANTIC DRAGON | 209,170 | 2020 | SWS, China | MAN-B\&W | Mar-25 |  |  |  | BWTS & Scrubber fitted, Eco |
+| NEWCASTLEMAX | ATLANTIC LION | 209,205 | 2020 | SWS, China | MAN-B\&W | Aug-25 |  | rgn $ 71.0m each | South Korean (Pan Ocean) | BWTS & Scrubber fitted, Eco |
+| NEWCASTLEMAX | ATLANTIC DRAGON | 209,170 | 2020 | SWS, China | MAN-B\&W | Mar-25 |  | rgn $ 71.0m each | South Korean (Pan Ocean) | BWTS & Scrubber fitted, Eco |
 | PMAX | STERLING TORA | 79,474 | 2010 | JINHAI, China | MAN-B\&W | Apr-25 |  | $ 14.0m | undisclosed | BWTS fitted |
 | SUPRA | CHANG SHAN HAI | 56,838 | 2010 | COSCO DALIAN, China | MAN-B\&W | Jun-25 | 4 X 30t CRANES | $ 13.8m | Greek | BWTS fitted, bss waiving inspection |
 | SUPRA | DESERT UNITY | 54,043 | 2006 | KOYO MIHARA, Japan | MAN-B\&W | Oct-26 | 4 X 36t CRANES | $ 10.1m | undisclosed | BWTS fitted |

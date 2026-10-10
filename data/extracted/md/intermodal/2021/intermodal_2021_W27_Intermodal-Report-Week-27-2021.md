@@ -269,8 +269,8 @@ In the Handysize sector we had the sale of the "INTERLINK EQUITY" (37,071dwt-blt
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | VLADIMIR VELIKIY | 159,990 | 2002 | SAMHO, S. Korea | B\&amp;W | Jan-22 | DH | low $ 16.0m | undisclosed |  |
-| LR2 | HHIC-PHIL 169 | 114,000 | 2021 | HHIC, Philippines | MAN-B\&amp;W |  | DH | $ 110.0m | U.S.A. based |  |
-| LR2 | HHIC-PHIL 170 | 114,000 | 2021 | HHIC, Philippines | MAN-B\&amp;W |  | DH |  |  |  |
+| LR2 | HHIC-PHIL 169 | 114,000 | 2021 | HHIC, Philippines | MAN-B\&amp;W |  | DH | $ 110.0m (en bloc) | U.S.A. based |  |
+| LR2 | HHIC-PHIL 170 | 114,000 | 2021 | HHIC, Philippines | MAN-B\&amp;W |  | DH | $ 110.0m (en bloc) | U.S.A. based |  |
 | MR | NAVIG8 TANZANITE | 49,478 | 2016 | STX, S. Korea | MAN-B\&amp;W | Nov-21 | DH | $ 30.7m | undisclosed |  |
 | MR | ADARA | 37,583 | 2011 | HYUNDAI, S. Korea | MAN-B\&amp;W | Apr-26 | DH | $ 15.75m | Greek (Leon Shipping and Trading) | BWTS fitted |
 | MR | GOLD OCEAN | 37,320 | 2007 | STX, S. Korea | MAN-B\&amp;W | Jan-22 | DH | $ 8.8m | undisclosed |  |
@@ -283,24 +283,21 @@ In the Handysize sector we had the sale of the "INTERLINK EQUITY" (37,071dwt-blt
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 09/07/2021 | 02/07/2021 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 62.5 | 62.5 | 0.0% | 51 | 54 | 51 |
-| Capesize | **180k** | 58.5 | 58.5 | 0.0% | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 33.5 | 33.0 | **1.5%** | 28 | 30 | 29 |
-| Ultramax | **63k** | 31.5 | 30.5 | **3.3%** | 26 | 28 | 27 |
-| Handysize | **38k** | 26.5 | 26.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 99.5 | 98.5 | **1.0%** | 88 | 92 | 88 |
-| Suezmax | **160k** | 67.0 | 66.0 | **1.5%** | 58 | 60 | 58 |
-| Aframax | **115k** | 53.0 | 52.0 | **1.9%** | 48 | 49 | 47 |
-| MR | 50k | 37.0 | 36.5 | **1.4%** | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm |  | 192.0 | 191.0 | **0.5%** | 187 | 186 | 181 |
-| LGC LPG 80k cbm |  | 75.0 | 75.0 | 0.0% | 73 | 73 | 71 |
-| MGC LPG 55k cbm |  | 67.5 | 67.0 | **0.7%** | 63 | 65 | 63 |
-| SGC LPG 25k cbm |  | 45.0 | 44.5 | **1.1%** | 42 | 44 | 43 |
+| Sector | Vessel | Size | 09/07/2021 | 02/07/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 62.5 | 62.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 58.5 | 58.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 33.5 | 33.0 | 1.5% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 31.5 | 30.5 | 3.3% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 26.5 | 26.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 99.5 | 98.5 | 1.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 67.0 | 66.0 | 1.5% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 53.0 | 52.0 | 1.9% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 37.0 | 36.5 | 1.4% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 192.0 | 191.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 75.0 | 75.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 67.5 | 67.0 | 0.7% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 45.0 | 44.5 | 1.1% | 42 | 44 | 43 |
 
 The newbuilding market has seen a smaller number of contracts surfacing compared to the previous week while given the fact that we are already halfway through the summer season, a slowdown in activity is more or less expected. In the dry bulk sector, Kamsarmax units monopolized buyer's interest; Chellaram Shipping and Safe bulkers ordered one Tier III 82,000dwt vessel each. The first unit will be built at Chengxi shipyard with details for the Greek order remaining undisclosed for the time being. On the Gas carrier front, Russian owner Sovcomflot, inked a deal for two 174,000cbm units at Hyundai Samho, while SK Shipping concluded a deal for the construction of two LPG fuelled VLGC (91,000cbm) vessels at Hyundai Hi for \$88.0 million each. At the same time, it came to light that Lepta Shipping inked a deal for five 3,500teu boxships at Yangzijiang yard for \$40.0 million each with the order including a 15-yrs T/C to Maersk. Lastly, no tanker newbuilding sales emerged last week.
 

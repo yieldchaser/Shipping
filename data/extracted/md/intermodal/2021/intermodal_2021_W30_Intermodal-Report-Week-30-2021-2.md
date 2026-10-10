@@ -265,7 +265,7 @@ In the Panamax sector we had the sale of the "MG SAKURA" (75,397dwt-blt '06, Jap
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | HARK OLDENDORFF | 209,325 | 2016 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W |  |  | $ 45.0m | USA based (JPM) | delivery January 2022 |
 | CAPE | STELLA LUCY | 179,667 | 2015 | QINGDAO BEIHAI, China | MAN-B\&amp;W | Jul-25 |  | $ 38.0m | Greek (Dryships) | incl. index linked TC until November 2021-April 2022 |
-| CAPE | STELLA LAURA | 179,549 | 2015 | QINGDAO BEIHAI, China | MAN-B\&amp;W | Jun-25 |  | $ 36.5m |  | incl. TC attached until February-June 2022 |
+| CAPE | STELLA LAURA | 179,549 | 2015 | QINGDAO BEIHAI, China | MAN-B\&amp;W | Jun-25 |  | $ 36.5m | Greek (Dryships) | incl. TC attached until February-June 2022 |
 | POST PMAX | HARVEST SKY | 95,717 | 2013 | IMABARI, Japan | MAN-B\&amp;W | Nov-23 |  | $ 23.6m | Greek | BWTS fitted, delivery October 2021 |
 | KMAX | TRANS AFRICA | 81,270 | 2017 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Aug-22 |  | $ 31.0m | undisclosed | BWTS fitted |
 | KMAX | AM EXPRESS | 82,245 | 2010 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Jan-25 |  | excess $ 21.0m | undisclosed | delivery September-November 2021 |

@@ -274,7 +274,7 @@ In the Handysize sector we had the sale of the "CIELO DI VIRGIN GORDA" (39,202dw
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | SOUTH TRADER | 181,343 | 2014 | KOYO MIHARA, Japan | MAN-B\&amp;W | Jan-24 |  | $ 33.8m | Greek (Safe Bulkers) | delivery February 2022 |
 | POST PMAX | BOTTIGLIERI FRANCO VELA | 93,274 | 2010 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Jul-25 |  | $ 17.5m | Greek | BWTS fitted |
-| POST PMAX | BOTTIGLIERI GIULIO BORRIELLO | 93,258 | 2011 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Jan-26 |  | $ 18.5m |  | BWTS fitted |
+| POST PMAX | BOTTIGLIERI GIULIO BORRIELLO | 93,258 | 2011 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Jan-26 |  | $ 18.5m | Greek | BWTS fitted |
 | PMAX | ELVA | 73,910 | 2001 | NAMURA, Japan | B\&amp;W | Sep-26 |  | $ 11.25m | undisclosed | BWTS fitted |
 | SUPRA | KOUJU LILY | 58,872 | 2011 | KAWASAKI, Japan | MAN-B\&amp;W | Nov-24 | 4 X 30,5t CRANES | $ 24.5m | Greek | basis 5-yrs BBHP |
 | HANDY | DAIDO AMBITION | 37,982 | 2021 | I-S SHIPYARD, Japan | MAN-B\&amp;W | May-26 | 4 X 30,5t CRANES | $ 33.0m | Greek based (F.G.M. Chartering) | BBHP terms |
@@ -290,16 +290,16 @@ In the Handysize sector we had the sale of the "CIELO DI VIRGIN GORDA" (39,202dw
 # Secondhand Sales
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LNG | AL BIDDA | 72,462 | 1999 | KAWASAKI, Japan | Mitsubishi | Nov-24 | 135,466 |  |  |  |
-| LNG | AL ZUBARAH | 72,557 | 1996 | MITSUI CHIBA ICHIHARA, Japan | Mitsubishi | May-26 | 134,821 |  |  |  |
-| LNG | BROOG | 72,339 | 1998 | MITSUI CHIBA ICHIHARA, Japan | Mitsubishi | Apr-23 | 134,778 |  |  |  |
-| LNG | ZEKREET | 72,316 | 1998 | MITSUI CHIBA ICHIHARA, Japan | Mitsubishi | Aug-23 | 134,733 |  |  |  |
+| LNG | AL BIDDA | 72,462 | 1999 | KAWASAKI, Japan | Mitsubishi | Nov-24 | 135,466 | undisclosed | Qatari (Qatargas) | declaration of purchase option |
+| LNG | AL ZUBARAH | 72,557 | 1996 | MITSUI CHIBA ICHIHARA, Japan | Mitsubishi | May-26 | 134,821 | undisclosed | Qatari (Qatargas) | declaration of purchase option |
+| LNG | BROOG | 72,339 | 1998 | MITSUI CHIBA ICHIHARA, Japan | Mitsubishi | Apr-23 | 134,778 | undisclosed | Qatari (Qatargas) | declaration of purchase option |
+| LNG | ZEKREET | 72,316 | 1998 | MITSUI CHIBA ICHIHARA, Japan | Mitsubishi | Aug-23 | 134,733 | undisclosed | Qatari (Qatargas) | declaration of purchase option |
 | LNG | AL RAYYAN | 72,430 | 1997 | KAWASAKI, Japan | Mitsubishi | Apr-22 | 134,671 | undisclosed | Qatari (Qatargas) | declaration of purchase option |
-| LNG | AL WAKRAH | 72,453 | 1998 | KAWASAKI, Japan | Mitsubishi |  | 134,624 |  |  |  |
-| LNG | AL KHOR | 72,176 | 1996 | MITSUBISHI NAGASAKI, Japan | Mitsubishi |  | 134,607 |  |  |  |
-| LNG | AL WAJBAH | 72,348 | 1997 | MITSUBISHI NAGASAKI, Japan | Mitsubishi | May-22 | 134,562 |  |  |  |
-| LNG | DOHA | 72,337 | 1999 | MITSUBISHI NAGASAKI, Japan | Mitsubishi | May-24 | 134,517 |  |  |  |
-| LNG | AL JASRA | 72,218 | 2000 | MITSUBISHI NAGASAKI, Japan | Mitsubishi | Jun-25 | 134,482 |  |  |  |
+| LNG | AL WAKRAH | 72,453 | 1998 | KAWASAKI, Japan | Mitsubishi |  | 134,624 | undisclosed | Qatari (Qatargas) | declaration of purchase option |
+| LNG | AL KHOR | 72,176 | 1996 | MITSUBISHI NAGASAKI, Japan | Mitsubishi |  | 134,607 | undisclosed | Qatari (Qatargas) | declaration of purchase option |
+| LNG | AL WAJBAH | 72,348 | 1997 | MITSUBISHI NAGASAKI, Japan | Mitsubishi | May-22 | 134,562 | undisclosed | Qatari (Qatargas) | declaration of purchase option |
+| LNG | DOHA | 72,337 | 1999 | MITSUBISHI NAGASAKI, Japan | Mitsubishi | May-24 | 134,517 | undisclosed | Qatari (Qatargas) | declaration of purchase option |
+| LNG | AL JASRA | 72,218 | 2000 | MITSUBISHI NAGASAKI, Japan | Mitsubishi | Jun-25 | 134,482 | undisclosed | Qatari (Qatargas) | declaration of purchase option |
 | LPG | VENTURE GAS | 49,701 | 1990 | KAWASAKI, Japan | MAN-B\&amp;W |  | 75,386 | rgn $ 20.0m | UAE based |  |
 | LPG | ECO LOYALTY | 3,720 | 2015 | KITANIHON, Japan | MAN-B\&amp;W | Jun-25 | 3,458 | undisclosed | Cyprus based (Intergaz) |  |
 
@@ -314,12 +314,12 @@ In the Handysize sector we had the sale of the "CIELO DI VIRGIN GORDA" (39,202dw
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | IONIKOS | 4,360 | 2009 | HHIC, Philippines | MAN-B\&amp;W | Jul-24 |  | $ 96.0m | Asian | delivery June 2022 |
 | SUB PMAX | CAPE MARIN | 2,758 | 2012 | GUANGZHOU WENCHONG, China | Wartsila | Jun-22 |  | undisclosed | undisclosed |  |
-| SUB PMAX | CAPE MARTIN | 2,742 | 2007 | AKER MTW WERFT, GERMANY | Mitsubishi | Apr-22 |  |  |  |  |
+| SUB PMAX | CAPE MARTIN | 2,742 | 2007 | AKER MTW WERFT, GERMANY | Mitsubishi | Apr-22 |  | undisclosed | undisclosed |  |
 | SUB PMAX | HSL SHEFFIELD | 2,556 | 2003 | HYUNDAI ULSAN, S. Korea | Sulzer | May-22 | 4 X 40t CRANES | rgn $ 23.0m | undisclosed |  |
-| SUB PMAX | HSL PORTO | 2,478 | 2004 | AKER MTW WERFT, GERMANY | B\&amp;W | Sep-24 | 3 X 45t CRANES | rgn $ 23.0m |  |  |
+| SUB PMAX | HSL PORTO | 2,478 | 2004 | AKER MTW WERFT, GERMANY | B\&amp;W | Sep-24 | 3 X 45t CRANES | rgn $ 23.0m | undisclosed |  |
 | SUB PMAX | MIAMI TRADER | 2,460 | 2002 | NORDSEEWERKE, Germany | MAN-B\&amp;W | Oct-22 | 3 X 45t CRANES | undisclosed | undisclosed |  |
 | FEEDER | CAPE NABIL | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Nov-25 |  | high $ 20.0m | undisclosed | charter free delivery May-June 2022 |
-| FEEDER | CAPE NEMO | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Sep-25 |  | $ 31.0m |  | charter free delivery March-April 2022 |
+| FEEDER | CAPE NEMO | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Sep-25 |  | $ 31.0m | undisclosed | charter free delivery March-April 2022 |
 | FEEDER | BINDI IPSA | 1,740 | 2013 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | May-23 |  | $ 35.0m | undisclosed |  |
 | FEEDER | SONGA COUGAR | 1,118 | 2008 | JINLING, China | MAN | Sep-23 | 2 X 45t CRANES | rgn $ 21.0m | undisclosed |  |
 
@@ -330,24 +330,21 @@ In the Handysize sector we had the sale of the "CIELO DI VIRGIN GORDA" (39,202dw
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 28/01/2022 | 21/01/2022 | ±% | 2021 | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 63.5 | 63.5 | 0.0% | 59 | 51 | 54 |
-| **Capesize** | **180k** | 60.5 | 60.5 | 0.0% | 56 | 49 | 52 |
-| **Kamsarmax** | **82k** | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
-| **Ultramax** | **63k** | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
-| **Handysize** | **38k** | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 114.0 | 114.0 | 0.0% | 98 | 88 | 92 |
-| **Suezmax** | **160k** | 76.0 | 76.0 | 0.0% | 66 | 58 | 60 |
-| **Aframax** | **115k** | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
-| **MR** | **50k** | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 214.0 | 213.0 | 0.5% | 195 | 187 | 186 |  |
-| **LGC LPG 80k cbm** | 81.5 | 81.5 | 0.0% | 76 | 73 | 73 |  |
-| **MGC LPG 55k cbm** | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |  |
-| **SGC LPG 25k cbm** | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |  |
+| Sector | Vessel | Size | 28/01/2022 | 21/01/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 114.0 | 114.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 76.0 | 76.0 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 214.0 | 213.0 | 0.5% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 81.5 | 81.5 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |
 
 The most recent reported contracting activity indicates a decrease compared to the volumes of deals the newbuilding market has witnessed during the past weeks. Indeed, only a handful of orders came to light with the preference still focused on the container sector, while an order for a pair of Ultra-max units has also been completed. More specifically, Hong Kong based KC Maritime, inked a deal for the construction of two 63,600dwt at COSCO Zhoushan for \$31.0 million each. On the container front, Singaporean owner Pacific International Lines (PIL) ordered two firm plus two optional LNG fuelled 13,000teu boxships at Jiangnan Shipyard for \$160,0 million each while Chinese manufacturer Loctek Ergonomic made its debut in ship owning by ordering one 1,800teu feeder at Huanghai Shipbuilding at a price of \$32.6 million. Lastly, a small product tanker 17,999dwt was ordered by Sweden owner Furetank at Jinling shipyard. Price remains undisclosed while the unit will be able to run using LNG and liquid biogas fuels.
 

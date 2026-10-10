@@ -279,6 +279,6 @@ In Pakistan, the central bank reduced its key policy rate for the sixth consecut
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LEENA | 22,050 | 5,552 | 1994 | SAIKI, Japan | BC | $ 441.0m | Indian |  |
-| MARTHA OPTION | 13,940 | 3,868 | 1993 | SHIN KURUSHIMA, Japan | TANKER | $ 660.0m | Indian | as is Belawan, StSt |
-| HYUNDAI GREENPIA | 71,684 | 30,457 | 1996 | HYUNDAI, S. Korea | GAS TANKER | $ 580.0m | undisclosed | as is Singapore (option dely Subcont US$ 635/ldt) |
+| LEENA | 22,050 | 5,552 | 1994 | SAIKI, Japan | BC | $ 441/Ldt | Indian |  |
+| MARTHA OPTION | 13,940 | 3,868 | 1993 | SHIN KURUSHIMA, Japan | TANKER | $ 660/Ldt | Indian | as is Belawan, StSt |
+| HYUNDAI GREENPIA | 71,684 | 30,457 | 1996 | HYUNDAI, S. Korea | GAS TANKER | $ 580/Ldt | undisclosed | as is Singapore (option dely Subcont US$ 635/ldt) |

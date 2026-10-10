@@ -331,5 +331,5 @@ The Turkish market remains subdued, with little change from the previous week as
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AREL 2 | 3,152 | 972 | 1983 | BODEWESS GRUNO, Netherlands | GENERAL CARGO | $ 280.0m | Turkish |  |
-| TALENT BLU | 9,750 | 3,532 | 2008 | ZHEJIANG ZHENGHE, China | BC | $ 453.0m | Indian | incl. 140 mt FO/15 mt MGO |
+| AREL 2 | 3,152 | 972 | 1983 | BODEWESS GRUNO, Netherlands | GENERAL CARGO | $ 280/Ldt | Turkish |  |
+| TALENT BLU | 9,750 | 3,532 | 2008 | ZHEJIANG ZHENGHE, China | BC | $ 453/Ldt | Indian | incl. 140 mt FO/15 mt MGO |

@@ -266,7 +266,7 @@ In the Supramax sector we had the sale of the "BAO PROGRESS" (56,729dwt-blt '11,
 | SUEZ | NORDIC MOON | 160,200 | 2002 | SAMSUNG, S. Korea | B&amp;W | Aug-22 | DH | $ 16.0m | undisclosed |  |
 | AFRA | SEA BEECH | 106,138 | 2003 | TSUNEISHI, Japan | B&amp;W | Nov-23 | DH | $ 16.0m | undisclosed |  |
 | MR2 | CYGNUS | 51,218 | 2007 | STX, S. Korea | MAN-B&amp;W | Aug-26 | DH | rgn $ 15.0m | German (Leonhardt &amp; Blumberg) | BWTS fitted |
-| MR2 | SEXTANS | 51,215 | 2007 | STX, S. Korea | MAN-B&amp;W | May-27 | DH | rgn $ 15.0m |  |  |
+| MR2 | SEXTANS | 51,215 | 2007 | STX, S. Korea | MAN-B&amp;W | May-27 | DH | rgn $ 15.0m | German (Leonhardt &amp; Blumberg) | BWTS fitted |
 | Bulk Carriers |  |  |  |  |  |  |  |  |  |  |
 
 © Intermodal Research 14/06/2022 4
@@ -278,15 +278,15 @@ In the Supramax sector we had the sale of the "BAO PROGRESS" (56,729dwt-blt '11,
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | ARCHIMIDIS | 8,266 | 2006 | DAEWOO, S.Korea | Sulzer | Apr-25 |  | $ 130.0m | Swiss (MSC) |
-| POST PMAX | AGAMEMNON | 8,266 | 2007 | DAEWOO, S. Korea | Wartsila | Sep-24 |  |  |  |
-| POST PMAX | SEAMAX GREENWICH | 8,238 | 2004 | HYUNDAI, S. Korea | MAN-B\&amp;W | Nov-24 |  |  |  |
-| POST PMAX | SEAMAX FAIRFIELD | 8,208 | 2006 | HYUNDAI, S. Korea | MAN-B\&amp;W |  |  |  |  |
-| POST PMAX | SEAMAX NEW HAVEN | 8,084 | 2005 | SAMSUNG, S. Korea | Sulzer | Sep-25 |  | $ 300.0m | Swiss (MSC) |
-| POST PMAX | SEAMAX DARIEN | 8,063 | 2003 | SAMSUNG, S. Korea | B\&amp;W | Apr-23 |  |  |  |
-| POST PMAX | SEAMAX BRIDGEPORT | 8,063 | 2003 | SAMSUNG, S. Korea | B\&amp;W | Mar-23 |  |  |  |
+| POST PMAX | ARCHIMIDIS | 8,266 | 2006 | DAEWOO, S.Korea | Sulzer | Apr-25 |  | $ 130.0m (en bloc) | Swiss (MSC) |
+| POST PMAX | AGAMEMNON | 8,266 | 2007 | DAEWOO, S. Korea | Wartsila | Sep-24 |  | $ 130.0m (en bloc) | Swiss (MSC) |
+| POST PMAX | SEAMAX GREENWICH | 8,238 | 2004 | HYUNDAI, S. Korea | MAN-B\&amp;W | Nov-24 |  | $ 300.0m (en bloc) | Swiss (MSC) |
+| POST PMAX | SEAMAX FAIRFIELD | 8,208 | 2006 | HYUNDAI, S. Korea | MAN-B\&amp;W |  |  | $ 300.0m (en bloc) | Swiss (MSC) |
+| POST PMAX | SEAMAX NEW HAVEN | 8,084 | 2005 | SAMSUNG, S. Korea | Sulzer | Sep-25 |  | $ 300.0m (en bloc) | Swiss (MSC) |
+| POST PMAX | SEAMAX DARIEN | 8,063 | 2003 | SAMSUNG, S. Korea | B\&amp;W | Apr-23 |  | $ 300.0m (en bloc) | Swiss (MSC) |
+| POST PMAX | SEAMAX BRIDGEPORT | 8,063 | 2003 | SAMSUNG, S. Korea | B\&amp;W | Mar-23 |  | $ 300.0m (en bloc) | Swiss (MSC) |
 | POST PMAX | LYON II | 6,627 | 2001 | HANJIN HI, S. Korea | B\&amp;W | Jun-26 |  | undisclosed | Swiss (MSC) |
-| POST PMAX | PARIS II | 6,627 | 2001 | HANJIN HI, S. Korea | B\&amp;W | Apr-26 |  |  |  |
+| POST PMAX | PARIS II | 6,627 | 2001 | HANJIN HI, S. Korea | B\&amp;W | Apr-26 |  | undisclosed | Swiss (MSC) |
 
 © Intermodal Research 14/06/2022 5
 
@@ -295,24 +295,21 @@ In the Supramax sector we had the sale of the "BAO PROGRESS" (56,729dwt-blt '11,
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 10/06/2022 | 03/06/2022 | ±% | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 68.0 | 68.0 | 0.0% | 59 | 51 |
-| Capesize | 180k | 63.5 | 63.5 | 0.0% | 56 | 49 |
-| Kamsarmax | 82k | 37.0 | 37.0 | 0.0% | 33 | 28 |
-| Ultramax | 63k | 35.5 | 35.5 | 0.0% | 30 | 26 |
-| Handysize | 38k | 31.0 | 31.0 | 0.0% | 27 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 118.0 | 118.0 | 0.0% | 98 | 88 |
-| Suezmax | 160k | 79.0 | 79.0 | 0.0% | 66 | 58 |
-| Aframax | 115k | 61.5 | 61.5 | 0.0% | 53 | 48 |
-| MR | 50k | 42.5 | 42.0 | 1.2% | 38 | 35 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 229.0 | 228.0 | 0.4% | 195 | 187 | 186 |
-| LGC LPG 80k cbm | 86.0 | 85.5 | 0.6% | 76 | 73 | 73 |
-| MGC LPG 55k cbm | 73.5 | 73.0 | 0.7% | 67 | 63 | 65 |
-| SGC LPG 25k cbm | 51.0 | 50.5 | 1.0% | 45 | 42 | 44 |
+| Sector | Vessel | Size | 10/06/2022 | 03/06/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 68.0 | 68.0 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 63.5 | 63.5 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 37.0 | 37.0 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 35.5 | 35.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 118.0 | 118.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 79.0 | 79.0 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 61.5 | 61.5 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 42.5 | 42.0 | 1.2% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 229.0 | 228.0 | 0.4% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 86.0 | 85.5 | 0.6% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 73.5 | 73.0 | 0.7% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 51.0 | 50.5 | 1.0% | 45 | 42 | 44 |
 
 The shipbuilding activity bounced back last week. A plethora of newbuilding orders were placed with emphasis on container vessels, followed by LNG carriers. In the tanker sector, one order came to light, from Norwegian Utkilen. The respective owner inked a deal with Icdas Shipyard for four 6,700dwt tankers, due in 2024, which will run on LNG and biogas, and will also be methanol and ammonia ready. In the dry sector, Thenamaris concluded a deal with Hyundai Vietnam for four Ultramax 63,000dwt units at a price of \$36.5m each. Reported activity in the gas sector remained firm this week. DSME Shipyard secured two deals last week, one with Maran Gas and one from a joint venture of Korean owners. Maran Gas vessels will cost \$233.7m each and will operate on a ME-GI propulsion engine. H-Line Shipping, PanOcean and SK Shipping inked the second deal with DSME for a total of four LNG vessels, on behalf of Qatar LNG Project. Moreover, Knutsen OAS ordered LNG units at Hyundai Hi again on behalf of Qatar LNG. Last but not least, we have noticed a furore of newbuilding orders last week in the container sector. More specifically, there is an upward shift in the shipbuilding activity compared to the previous week with a total of five new orders. Imabari signed a deal with three Japanese owners for the construction of a total of four LNG capable box ships, measuring 23,000teu and due for delivery in 2025. CMA-CGM finalised an order with Hyundai Samho for six methanol-fuelled 8,000teu boxships, while MSC concluded a deal for 4 LNG-fuelled 8,000teu boxships with K Shipbuilding in South Korea.
 

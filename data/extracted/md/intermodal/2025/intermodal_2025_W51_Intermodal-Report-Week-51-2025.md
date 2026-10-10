@@ -218,7 +218,7 @@ Ultramax and Supramax sectors also softened as the approach of extended holidays
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | SFL THELON | 159,500 | 2015 | BOHAI, China | MAN B\&amp;W | Jan-30 | DH | $ 57,0m each | Greek | Eco |
-| SUEZ | SFL OTTAWA | 159,500 | 2015 | BOHAI, China | MAN B\&amp;W | Mar-30 | DH |  |  |  |
+| SUEZ | SFL OTTAWA | 159,500 | 2015 | BOHAI, China | MAN B\&amp;W | Mar-30 | DH | $ 57,0m each | Greek | Eco |
 | MR1 | OM SINGAPORE | 29,015 | 2007 | GSI, China | MAN B\&amp;W | Aug-29 | DH | $ 13,75m | Chinese |  |
 | J19 | OM SHANGHAI | 19,999 | 2007 | FUKUOKA, Japan | Mitsubishi | Oct-29 | DH | $ 15.0m | Chinese |  |
 

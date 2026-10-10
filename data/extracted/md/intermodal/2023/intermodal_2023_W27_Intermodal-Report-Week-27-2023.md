@@ -224,7 +224,7 @@ Supramax 10TC averaged \$ 8,102/day, down -1.48% w-o-w, while the Handysize 7TC 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | C APE | OC EAN COBALT | 180,200 | 2008 | IMABARI, Japan | MAN-B\&amp;W | J ul-28 |  | $ 19.5m | Chinese | BWTS fitted |
 | U MAX | GEMINI CONFIDENCE | 63,270 | 2019 | NEW DAYANG, China | MAN-B\&amp;W | J ul-24 | 4 X 35t CRANES | high $ 27.0m each | undisclosed | Eco |
-| U MAX | VIRGO CONFIDENCE | 63,206 | 2019 | NEW DAYANG, China | MAN-B\&amp;W | J ul-24 | 4 X 35t CRANES |  | undisclosed | Eco |
+| U MAX | VIRGO CONFIDENCE | 63,206 | 2019 | NEW DAYANG, China | MAN-B\&amp;W | J ul-24 | 4 X 35t CRANES | high $ 27.0m each | undisclosed | Eco |
 | U MAX | KAMBOS | 63,696 | 2015 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | J un-25 | 4 X 30t CRANES | $ 24.65m | Greek | Eco |
 | SUPRA | COUGA | 50,806 | 2010 | OSHIMA, Japan | MAN-B\&amp;W | May-25 | 4 X 30t CRANES | $ 16.0m | Far Eastern | BWTS fitted, OHBS |
 | SUPRA | TAI HONESTY | 55,418 | 2007 | OSHIMA, Japan | MAN-B\&amp;W | Mar-27 | 4 X 30t CRANES | $ 12,05m | Chinese | BWTS fitted |
@@ -234,8 +234,8 @@ Supramax 10TC averaged \$ 8,102/day, down -1.48% w-o-w, while the Handysize 7TC 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | J AC KSON BAY | 4,250 | 2007 | DALIAN, China | MAN-B\&amp;W | Apr-27 |  | $ 23.0m | French (C MA-C GM) |  |
-| SUB PMAX | C IMBRIA | 2,824 | 2002 | HYUNDAI MIPO, S. Korea | B\&amp;W | Oct-27 |  | $ 42.5m | undsiclosed |  |
-| SUB PMAX | CARDONIA | 2,824 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W |  |  |  |  |  |
+| SUB PMAX | C IMBRIA | 2,824 | 2002 | HYUNDAI MIPO, S. Korea | B\&amp;W | Oct-27 |  | $ 42.5m (en bloc) | undsiclosed |  |
+| SUB PMAX | CARDONIA | 2,824 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W |  |  | $ 42.5m (en bloc) | undsiclosed |  |
 | FEEDER | A KOBE | 1,800 | 2023 | J IANGSU YANGZI XINFU, C hina | MAN-B\&amp;W | Mar-28 |  | $ 28.0m | undisclosed | incl TC attached till May 2024 |
 
 ## Secondhand Sales
@@ -250,26 +250,23 @@ Supramax 10TC averaged \$ 8,102/day, down -1.48% w-o-w, while the Handysize 7TC 
 
 The newbuilding market activity took a small break during the past days with only four orders emerging. Interesting to note that no dry bulk newbuilding contracts materialize while only one tanker deal came to light. More specifically, Greek owner Evalend concluded a deal for the construction of four 75,000dwt Panamax tankers at Yangzijiang at a price of excess of \$50.0 million. Moving forward, Norwegian owner Solvang ordered three VLGC 88,000cbm at Hyundai Hi at a price of 106.5 million each while Nigerian owner West Africa LPG inked a deal for two firm plus one optional 40,000 LPG vessels at Hyundai Mipo at a price of \$70.5 million. The last deal concerns four 7,700ceu LNG fuelled PCTC at Hyundai Mipo, placed by UK-based owner Ray Car Carriers at a price of \$129.5 million each.
 
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 66.0 | 66.0 | 0.0% | 66.0 | 64.0 |
-| **Bulkers** | Capesize | 180k | 63.0 | 63.0 | 0.0% | 63.0 | 61.0 |
-| **Bulkers** | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 |
-| **Bulkers** | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 |
-| **Bulkers** | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | 300k | 125.0 | 125.0 | 0.0% | 125.0 | 120.0 |
-| **Tankers** | Suezmax | 160k | 84.0 | 84.0 | 0.0% | 84.0 | 76.0 |
-| **Tankers** | Aframax | 115k | 69.0 | 69.0 | 0.0% | 69.0 | 64.0 |
-| **Tankers** | MR | 50k | 46.0 | 46.0 | 0.0% | 46.0 | 44.0 |
-| **Gas** |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 261.0 | 260.0 | 0.4% | 261.0 | 248.0 |
-| **Gas** | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 |
-| **Gas** | MGC LPG 55k cbm |  | 85.5 | 85.0 | 0.6% | 85.5 | 77.5 |
-| **Gas** | SGC LPG 25k cbm |  | 55.5 | 55.5 | 0.0% | 55.5 | 53.0 |
+| Sector | Vessel | Size | 7-Jul-23 | 30-Jun-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 66.0 | 66.0 | 0.0% | 66.0 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 63.0 | 63.0 | 0.0% | 63.0 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 66 | 59 | 51 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 125.0 | 125.0 | 0.0% | 125.0 | 120.0 | 125.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 84.0 | 84.0 | 0.0% | 84.0 | 76.0 | 84.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 69.0 | 69.0 | 0.0% | 69.0 | 64.0 | 69.0 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 46.0 | 46.0 | 0.0% | 46.0 | 44.0 | 46.0 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 261.0 | 260.0 | 0.4% | 261.0 | 248.0 | 261.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 85.5 | 85.0 | 0.6% | 85.5 | 77.5 | 85.5 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 55.5 | 55.5 | 0.0% | 55.5 | 53.0 | 55.5 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

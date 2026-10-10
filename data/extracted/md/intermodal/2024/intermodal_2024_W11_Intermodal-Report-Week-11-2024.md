@@ -213,12 +213,12 @@ Supramax 10TC averaged \$ 14,436/day up 0.56% w-o-w, while the Handysize 7TC ave
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | ORANGE TIARA | 181,396 | 2012 | KOYO MIHARA, Japan | MAN-B\&W | Jul-25 |  | $ 35.0m | undisclosed | BWTS fitted |
-| CAPE | GENCO MAXIMUS | 169,021 | 2009 | SUNGDONG, S. Korea | MAN-B\&W | Sep-24 |  | $ 47.0m | undisclosed | BWTS, Scrubber fitted |
-| CAPE | GENCO CLAUDIUS | 169,001 | 2010 | SUNGDONG, S. Korea | MAN-B\&W | Jan-25 |  |  |  |  |
+| CAPE | GENCO MAXIMUS | 169,021 | 2009 | SUNGDONG, S. Korea | MAN-B\&W | Sep-24 |  | $ 47.0m (en bloc) | undisclosed | BWTS, Scrubber fitted |
+| CAPE | GENCO CLAUDIUS | 169,001 | 2010 | SUNGDONG, S. Korea | MAN-B\&W | Jan-25 |  | $ 47.0m (en bloc) | undisclosed | BWTS, Scrubber fitted |
 | POST PMAX | MARIA G.O. | 87,378 | 2011 | HUDONG-ZHONGHUA, China | Wartsila | Jul-26 |  | $ 17.0m | undisclosed | BWTS fitted |
 | KMAX | KEY GUARDIAN | 83,468 | 2011 | SANOYAS, Japan | MAN-B\&W | Apr-26 |  | $ 23.7m | Ukrainian | BWTS fitted |
-| SUPRA | ARKADIA | 56,348 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B\&W | Jan-27 | 4 X 27,5t CRANES | $ 37.1m | Turkish (HGF Denizcilik) | Ice Clas 1A, BWTS-fitted, Tier II |
-| SUPRA | KUMPULA | 56,348 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B\&W | May-27 | 4 X 27,5t CRANES |  |  |  |
+| SUPRA | ARKADIA | 56,348 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B\&W | Jan-27 | 4 X 27,5t CRANES | $ 37.1m (en bloc) | Turkish (HGF Denizcilik) | Ice Clas 1A, BWTS-fitted, Tier II |
+| SUPRA | KUMPULA | 56,348 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B\&W | May-27 | 4 X 27,5t CRANES | $ 37.1m (en bloc) | Turkish (HGF Denizcilik) | Ice Clas 1A, BWTS-fitted, Tier II |
 | SUPRA | QUEEN BUSAN | 55,474 | 2010 | KAWASAKI, Japan | MAN-B\&W | Jan-25 | 4 X 30,5t CRANES | $ 17.2m | Greek | BWTS fitted |
 | HANDY | BBC PLUTO | 37,495 | 2010 | TIANJIN XINGANG, China | Wartsila | Oct-25 | 4 X 30t CRANES | $ 11.6m | Turkish | BWTS fitted |
 
@@ -229,20 +229,20 @@ Supramax 10TC averaged \$ 14,436/day up 0.56% w-o-w, while the Handysize 7TC ave
 Last week the newbuilding market continued to be very active with orders across all trade sectors. In the hot VLCC market, Ray Car Carriers ordered four 300 dwt tankers from KSOE in South Korea. The scrubber-equipped, LNG-fuelled quartet will cost \$130m each and will be delivered in 2027. In the smaller segments, Pioneer Tankers ordered eight 18.5 dwt tankers from Fujian at \$33m each. In the bulk sector there were two orders for a total of 12 Ultramaxes. China's CCB ordered 2 firm and 2 optional 64kdwt vessels from New Dayang. The quartet has a TC with Bohai Ocean and will be on the water in 2026. In the other Ultramax order, Xiamen Financial Leasing ordered eight 64k dwt firm vessels from Nantong. All vessels will be methanol ready and EEDI Phase III compliant. Finally, Sea Jade Investments ordered two firm 175k cbm LNG carriers from Dalian. These were options and are on a 20 year time charter to China City Gas.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 15-Mar-24 | 8-Mar-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 15-Mar-24 | 8-Mar-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 71.0 | 70.5 | 0.7% | 71.0 | 70.0 | 71.0 | 49.5 | 66 | 66 | 59 |
-|  | **Capesize** | **180k** | 68.0 | 67.5 | 0.7% | 68.0 | 67.5 | 68.0 | 48.5 | 63 | 63 | 56 |
-|  | **Kamsarmax** | **82k** | 37.0 | 36.5 | 1.4% | 37.0 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | **Ultramax** | **63k** | 33.5 | 33.5 | 0.0% | 33.5 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | **Handysize** | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | **VLCC** | **300k** | 129.0 | 128.5 | 0.4% | 128.5 | 128.0 | 128.5 | 84.5 | 124 | 118 | 98 |
-|  | **Suezmax** | **160k** | 86.5 | 86.0 | 0.6% | 86.5 | 85.0 | 86.5 | 55.0 | 82 | 79 | 66 |
-|  | **Aframax** | **115k** | 74.0 | 73.5 | 0.7% | 74.0 | 73.0 | 74.0 | 46.0 | 69 | 62 | 53 |
-|  | **MR** | **50k** | 49.0 | 49.0 | 0.0% | 49.0 | 48.0 | 49.0 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 265.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | **MGC LPG 55k cbm** |  | 92.5 | 92.0 | 0.5% | 92.5 | 91.5 | 92.5 | 62.0 | 85 | 74 | 67 |
-|  | **SGC LPG 25k cbm** |  | 59.0 | 58.5 | 0.9% | 59.0 | 58.0 | 59.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 71.0 | 70.5 | 0.7% | 71.0 | 70.0 | 71.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 68.0 | 67.5 | 0.7% | 68.0 | 67.5 | 68.0 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.0 | 36.5 | 1.4% | 37.0 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 33.5 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 129.0 | 128.5 | 0.4% | 128.5 | 128.0 | 128.5 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 86.5 | 86.0 | 0.6% | 86.5 | 85.0 | 86.5 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 74.0 | 73.5 | 0.7% | 74.0 | 73.0 | 74.0 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 49.0 | 49.0 | 0.0% | 49.0 | 48.0 | 49.0 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 265.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 92.5 | 92.0 | 0.5% | 92.5 | 91.5 | 92.5 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 59.0 | 58.5 | 0.9% | 59.0 | 58.0 | 59.0 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

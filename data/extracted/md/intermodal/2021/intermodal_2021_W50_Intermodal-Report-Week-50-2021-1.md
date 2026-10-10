@@ -267,13 +267,13 @@ In the Handysize sector we had the sale of the "DD VANGUARD" (26,479dwt-blt '07,
 | KMAX | ATLANTIC LEGEND | 83,685 | 2009 | SANOYAS, Japan | MAN-B\&amp;W | May-26 |  | rgn-xs $ 18.0m | undisclosed | BWTS fitted, incl. TC attached at USD 16,500 p/d until April-July 2022 |
 | SUPRA | BELOCEAN | 58,018 | 2011 | YANGZHOU DAYANG, China | MAN-B\&amp;W | Mar-26 | 4 X 35t CRANES | $ 19.6m | German | SS/DD passed and BWTS fitted |
 | HANDY | BERGE TARANAKI | 36,896 | 2019 | OSHIMA, Japan | MAN-B\&amp;W | Apr-24 | 4 X 30t CRANES | $ 27.0m | undisclosed |  |
-| HANDY | NORDRUBICON | 37,985 | 2016 | OUHUA, China | MAN-B\&amp;W | Jan-26 | 4 X 30t CRANES | $ 42.8m | U.A.E. based |  |
-| HANDY | NORDCOLORADO | 37,976 | 2016 | OUHUA, China | MAN-B\&amp;W | Aug-26 | 4 X 30t CRANES |  |  |  |
+| HANDY | NORDRUBICON | 37,985 | 2016 | OUHUA, China | MAN-B\&amp;W | Jan-26 | 4 X 30t CRANES | $ 42.8m (en bloc) | U.A.E. based |  |
+| HANDY | NORDCOLORADO | 37,976 | 2016 | OUHUA, China | MAN-B\&amp;W | Aug-26 | 4 X 30t CRANES | $ 42.8m (en bloc) | U.A.E. based |  |
 | HANDY | MELBOURNE SPIRIT | 35,573 | 2013 | QINGSHAN, China | MAN-B\&amp;W | Nov-23 | 4 X 30t CRANES | rgn $ 27.0m | European |  |
 | HANDY | BOXY | 34,148 | 2012 | DAE SUN, S. Korea | MAN-B\&amp;W | Mar-22 | 4 X 30t CRANES | rgn $ 15,.5m | undisclosed | Tier II, BWTS fitted |
 | HANDY | DD VANGUARD | 26,479 | 2007 | SUNGDONG, S. Korea | MAN-B\&amp;W | Aug-22 | 4 X 30t CRANES | $ 12.0m | Turkish | basis waiving inspection |
-| HANDY | UBC SACRAMENTO | 31,773 | 2001 | SAIKI, Japan | Mitsubishi | Nov-26 | 4 X 30t CRANES | $ 21.0m | undisclosed |  |
-| HANDY | UBC SYDNEY | 31,759 | 2001 | SAIKI, Japan | Mitsubishi | May-26 | 4 X 30t CRANES |  |  |  |
+| HANDY | UBC SACRAMENTO | 31,773 | 2001 | SAIKI, Japan | Mitsubishi | Nov-26 | 4 X 30t CRANES | $ 21.0m (en bloc) | undisclosed |  |
+| HANDY | UBC SYDNEY | 31,759 | 2001 | SAIKI, Japan | Mitsubishi | May-26 | 4 X 30t CRANES | $ 21.0m (en bloc) | undisclosed |  |
 
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -286,27 +286,23 @@ In the Handysize sector we had the sale of the "DD VANGUARD" (26,479dwt-blt '07,
 ---
 
 # Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 17/12/2021 | 10/12/2021 | ±% | 2020 | 2019 | 2018 |  |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
-| Capesize | **180k** | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
-| Ultramax | **63k** | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
-| Handysize | **38k** | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 109.5 | 109.5 | 0.0% | 88 | 92 | 88 |
-| Suezmax | **160k** | 76.0 | 76.0 | 0.0% | 58 | 60 | 58 |
-| Aframax | **115k** | 59.0 | 59.0 | 0.0% | 48 | 49 | 47 |
-| MR | 50k | 41.0 | 41.0 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 208.0 | 207.0 | 0.5% | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 81.5 | 81.5 | 0.0% | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 71.5 | 71.5 | 0.0% | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 49.0 | 49.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 17/12/2021 | 10/12/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 109.5 | 109.5 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 76.0 | 76.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 59.0 | 59.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 208.0 | 207.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 81.5 | 81.5 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 42 | 44 | 43 |
 
 The activity was limited in the newbuilding realm. It seems that the Christmas period lull has affected contracting activity as only two orders came to light during the past days. However, with the exception of the crude carrier market which saw limited interest in newbuilding projects during the secondhand half of this year, interest for the rest of the segments was huge with Gas carrier and Container orders playing the major role in shipyards' profitability. In terms of last week's orders, Taiwanese owner Taiwan Navigation ordered two 63,500dwt units at Oshima for an undisclosed price, while Chinese owner CenerTech inked a deal for the construction of one 12,000cbm LNG bunkering vessel at Nantong CIMC yard.
 

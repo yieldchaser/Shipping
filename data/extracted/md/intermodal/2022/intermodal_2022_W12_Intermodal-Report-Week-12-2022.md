@@ -270,9 +270,9 @@ In the Panamax sector we had the sale of the "MARIBELLA" (76,629dwt-blt '04, Jap
 | SUPRA | SHANGRILA | 52,342 | 2001 | TSUNEISHI, Japan | B\&amp;W | Sep-26 | 4 X 30t CRANES | $ 12.8m | Chinese | high $ 12.0m |
 | HMAX | EVER AMPLE | 50,029 | 1998 | IMABARI, Japan | Mitsubishi | Nov-25 | 3 X 14,5t CRANES | $ 8.25m | undisclosed |  |
 | HANDY | INTERLINK CAPACITY | 38,835 | 2016 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Jun-26 | 4 X 30t CRANES | $ 26.5m | undisclosed | Eco, BWTS fitted, ICE Class 1C |
-| HANDY | INTERLINK EQUALITY | 38,781 | 2016 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Jul-26 | 4 X 30t CRANES | $ 26.5m |  |  |
-| HANDY | INTERLINK QUALITY | 38,719 | 2016 | HUATAI NANTONG, China | MAN-B\&amp;W | Feb-26 | 4 X 30t CRANES | $ 26.5m |  |  |
-| HANDY | INTERLINK ABILITY | 38,683 | 2015 | HUATAI NANTONG, China | MAN-B\&amp;W | May-25 | 4 X 30t CRANES | $ 25.5m |  |  |
+| HANDY | INTERLINK EQUALITY | 38,781 | 2016 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Jul-26 | 4 X 30t CRANES | $ 26.5m | undisclosed | Eco, BWTS fitted, ICE Class 1C |
+| HANDY | INTERLINK QUALITY | 38,719 | 2016 | HUATAI NANTONG, China | MAN-B\&amp;W | Feb-26 | 4 X 30t CRANES | $ 26.5m | undisclosed | Eco, BWTS fitted, ICE Class 1C |
+| HANDY | INTERLINK ABILITY | 38,683 | 2015 | HUATAI NANTONG, China | MAN-B\&amp;W | May-25 | 4 X 30t CRANES | $ 25.5m | undisclosed | Eco, BWTS fitted, ICE Class 1C |
 | HANDY | OCEAN IBIS | 38,486 | 2013 | MINAMI-NIPPON, Japan | MAN-B\&amp;W | Aug-26 | 4 X 30t CRANES | $ 24.5m | Greek based (FGM Chartering) | 1 yr BBHP structure |
 | HANDY | IONIC HALO | 34,039 | 2012 | DAE SUN, S. Korea | MAN-B\&amp;W | Mar-22 | 4 X 30t CRANES | $ 19.0m | Greek | SS/DD passed |
 | HANDY | ECO DYNAMIC | 32,354 | 2005 | KANDA, Japan | Mitsubishi | Nov-25 | 4 X 30,5t CRANES | excess $ 14.0m | Greek | BWTS fitted |
@@ -294,11 +294,11 @@ In the Panamax sector we had the sale of the "MARIBELLA" (76,629dwt-blt '04, Jap
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | NORDIC PASSAT | 164,274 | 2002 | SAMHO, S. Korea | B&amp;W | Aug-22 | DH | $ 15.5m | undisclosed |  |
 | LR2 | STI SAVILE ROW | 109,999 | 2015 | SUNGDONG, S. Korea | MAN-B&amp;W | Jun-25 | DH | $ 43.0m | Italian (Premuda) | delivery Q2/Q3-2022, incl TC attached |
-| LR2 | STI CARNABY | 109,999 | 2015 | SUNGDONG, S. Korea | MAN-B&amp;W | Sep-25 | DH | $ 43.0m |  |  |
+| LR2 | STI CARNABY | 109,999 | 2015 | SUNGDONG, S. Korea | MAN-B&amp;W | Sep-25 | DH | $ 43.0m | Italian (Premuda) | delivery Q2/Q3-2022, incl TC attached |
 | MR2 | MAERSK TOKYO | 49,687 | 2016 | SUNGDONG, S. Korea | MAN-B&amp;W | Jun-26 | DH | $ 31.0m | undisclosed |  |
 | MR2 | STI BENICIA | 49,990 | 2014 | SPP, S. Korea | MAN-B&amp;W | Sep-24 | DH | $ 26.5m | Cyprus based (MSEA Capital) | delivery Q2/Q3-2022, incl TC attached |
 | SMALL | DL VIOLET | 13,093 | 2008 | 21ST CENTURY, S. Korea | MAN-B&amp;W | Jan-23 | DH | $ 5.0m | undisclosed |  |
-| SMALL | DL ASTER | 13,079 | 2007 | 21ST CENTURY, S. Korea | MAN-B&amp;W | Mar-22 | DH | $ 4.8m |  |  |
+| SMALL | DL ASTER | 13,079 | 2007 | 21ST CENTURY, S. Korea | MAN-B&amp;W | Mar-22 | DH | $ 4.8m | undisclosed |  |
 
 ##  Containers 
 
@@ -315,24 +315,21 @@ In the Panamax sector we had the sale of the "MARIBELLA" (76,629dwt-blt '04, Jap
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 25/03/2022 | 18/03/2022 | ±% | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 64.5 | 64.5 | 0.0% | 59 | 51 |
-| Capesize | 180k | 61.5 | 61.5 | 0.0% | 56 | 49 |
-| Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 |
-| Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 |
-| Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 115.0 | 115.0 | 0.0% | 98 | 88 |
-| Suezmax | 160k | 76.5 | 76.5 | 0.0% | 66 | 58 |
-| Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 |
-| MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 220.0 | 219.0 | 0.5% | 195 | 187 | 186 |
-| LGC LPG 80k cbm | 84.0 | 84.0 | 0.0% | 76 | 73 | 73 |
-| MGC LPG 55k cbm | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |
-| SGC LPG 25k cbm | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |
+| Sector | Vessel | Size | 25/03/2022 | 18/03/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.5 | 64.5 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 61.5 | 61.5 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 115.0 | 115.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 76.5 | 76.5 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 220.0 | 219.0 | 0.5% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 84.0 | 84.0 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |
 
 The newbuilding market activity saw a decreased number of materialized deals last week, as only three orders came to light. More specifically, Swedes owner Erik Thun has ordered another LNG/LBG 17,999 chemical tanker at Jinling shipyard followed its partner Furetank similar order in late January. U.S based owner Venture Global LNG inked a deal with DSME yard for the construction of three supersized 200,000cbm LNG units at a cost of \$237.0 million each. At the same time, Wan Hai has returned to Samsung shipyard for the construction of five conventionally fuelled 13,100teu boxships at a price of around \$140.0 million each (an increase of \$20.0 million compared to their previous year's same order) marking a total of thirteen neo-panamax orders at the respective yard. Newbuilding values have started to soar again amidst the steel price increase, leading shipbuilders to revise their unit values, while the fact that space for new slots are hard to be found has added further pressure on newbuilding levels.
 

@@ -306,9 +306,9 @@ In the Ultramax sector we had the sale of the "STONY STREAM" (64,000dwt-blt '15,
 | VLCC | COSMO ACE | 320,054 | 2010 | HYUNDAI, S. Korea | Wartsila | Jan-25 | DH | region $ 56.5m | undisclosed | BWTS, Scrubber fitted, converted from a VLOC |
 | AFRA | MINOANSEA | 108,817 | 2008 | SWS, China | MAN-B&amp;W | Aug-23 | DH | $ 39.0m | UAE based (Gardsea) |  |
 | AFRA | DELTA CAPTAIN | 111,009 | 2005 | HYUNDAI, S. Korea | B&amp;W | Feb-25 | DH | $ 35.0m each | undisclosed | BWTS, Scrubber fitted, Ice Class 1A |
-| AFRA | DELTA VICTORY | 111,006 | 2005 | HYUNDAI, S. Korea | B&amp;W | Jan-25 | DH |  |  |  |
-| AFRA | DELTA SAILOR | 111,004 | 2005 | HYUNDAI, S. Korea | B&amp;W | Mar-25 | DH |  |  |  |
-| AFRA | DELTA PIONEER | 111,013 | 2004 | HYUNDAI, S. Korea | B&amp;W | Oct-24 | DH |  |  |  |
+| AFRA | DELTA VICTORY | 111,006 | 2005 | HYUNDAI, S. Korea | B&amp;W | Jan-25 | DH | $ 35.0m each | undisclosed | BWTS, Scrubber fitted, Ice Class 1A |
+| AFRA | DELTA SAILOR | 111,004 | 2005 | HYUNDAI, S. Korea | B&amp;W | Mar-25 | DH | $ 35.0m each | undisclosed | BWTS, Scrubber fitted, Ice Class 1A |
+| AFRA | DELTA PIONEER | 111,013 | 2004 | HYUNDAI, S. Korea | B&amp;W | Oct-24 | DH | $ 35.0m each | undisclosed | BWTS, Scrubber fitted, Ice Class 1A |
 | LR2 | SAINT GEORGE | 109,390 | 2002 | DALIAN, China | Sulzer | Jun-27 | DH | $ 22.5m | Chinese | BWTS fitted |
 | MR2 | GWN 3 | 50,192 | 2021 | SAMSUNG, S. Korea | MAN-B&amp;W | Jan-26 | DH | $ 50.0m | Japanese | BWTS, Scrubber fitted |
 ## Bulk Carriers
@@ -331,24 +331,21 @@ In the Ultramax sector we had the sale of the "STONY STREAM" (64,000dwt-blt '15,
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 16-Dec-22 | 9-Dec-22 | ±% | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 51 | 54 |
-| Capesize | 180k | 61.0 | 61.0 | 0.0% | 49 | 52 |
-| Kamsarmax | 82k | 34.5 | 34.5 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 31.5 | 32.0 | -1.6% | 26 | 28 |
-| Handysize | 38k | 28.0 | 29.0 | -3.4% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 |
-| Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 |
-| Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 |
-| MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 89.0 | 89.0 | 0.0% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 75.5 | 75.5 | 0.0% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 16-Dec-22 | 9-Dec-22 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 61.0 | 61.0 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.5 | 34.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 31.5 | 32.0 | -1.6% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 28.0 | 29.0 | -3.4% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 89.0 | 89.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.5 | 75.5 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 Newbuilding sector demonstrated a healthy ordering activity during the last week. More specifically, orders emerged across all main sectors. In the tanker realm, recently established Pro Tanker Investment struck a deal with Zhoushan Changhong for the construction of two MR tankers. It is rumored that the company is a sister company to Zhoushan Changhong and has already acquired some more MR tankers from the second-hand market. In the dry bulk segment, Zhejiang Xiehai sealed a deal with COSCO HI in Yankzhou for the construction of 2x210,000dwt and 2x82,500dwt vessels, which are slated for 2025 delivery. PascoGas returned to Hyundai for the construction of 1x45,000cbm LPG carrier for a price of \$69.3 million. Conclusively, Santoku Senpaku inked a deal for a sextet of LNG dual-fuelled PCTCs at Fujian Ship-yards. The vessels will cost \$86.0 million and are scheduled for 2026 delivery.
 

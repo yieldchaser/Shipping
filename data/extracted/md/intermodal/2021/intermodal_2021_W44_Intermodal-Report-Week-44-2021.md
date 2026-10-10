@@ -271,10 +271,10 @@ In the Supramax sector we had the sale of the "PACIFIC BLESS" (56,361dwt-blt '12
 | LR1 | IRIS VICTORIA | 74,905 | 2010 | MINAMI-NIPPON, Japan | MAN-B\&amp;W | Jun-25 | DH | $ 17.75m | Monaco based (Transocean) | BWTS fitted, uncoiled |
 | MR2 | ANGEL 62 | 47,410 | 2009 | ONOMICHI, Japan | MAN-B\&amp;W | Jul-24 | DH | $ 13.7m | Greek (Spring Marine Management) |  |
 | SMALL | LT CRYSTAL | 13,545 | 2021 | DAYANG OFFSHORE, China | Mitsubishi | Jan-26 | DH | high $ 16.0m | Chinese (Nanjing Yangyang Chemical Transport) | BWTS fitted |
-| SMALL | LT DIAMOND | 13,200 | 2020 | DAYANG OFFSHORE, China | Mitsubishi |  | DH | high $ 16.0m |  | BWTS fitted |
+| SMALL | LT DIAMOND | 13,200 | 2020 | DAYANG OFFSHORE, China | Mitsubishi |  | DH | high $ 16.0m | Chinese (Nanjing Yangyang Chemical Transport) | BWTS fitted |
 | SMALL | BOW FULING | 9,156 | 2012 | CHONGQING DONGFENG, China | MAN | Jun-22 | DH | rgn $ 8.0m | German (E\&amp;S Tankers) | St-St |
-| SMALL | BOW NANGANG | 9,124 | 2013 | CHONGQING DONGFENG, China | MAN | Mar-23 | DH | rgn $ 8.0m |  | St-St |
-| SMALL | BOW DALIAN | 9,118 | 2012 | CHONGQING DONGFENG, China | MAN | Nov-22 | DH | rgn $ 8.0m |  | St-St |
+| SMALL | BOW NANGANG | 9,124 | 2013 | CHONGQING DONGFENG, China | MAN | Mar-23 | DH | rgn $ 8.0m | German (E\&amp;S Tankers) | St-St |
+| SMALL | BOW DALIAN | 9,118 | 2012 | CHONGQING DONGFENG, China | MAN | Nov-22 | DH | rgn $ 8.0m | German (E\&amp;S Tankers) | St-St |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
@@ -310,24 +310,21 @@ In the Supramax sector we had the sale of the "PACIFIC BLESS" (56,361dwt-blt '12
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 05/11/2021 | 29/10/2021 | ±% | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 |
-| Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 |
-| Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 |
-| Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 108.0 | 108.0 | 0.0% | 88 | 92 |
-| Suezmax | 160k | 75.0 | 74.5 | 0.7% | 58 | 60 |
-| Aframax | 115k | 59.0 | 59.0 | 0.0% | 48 | 49 |
-| MR | 50k | 41.0 | 40.5 | 1.2% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 203.0 | 203.0 | 0.0% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 81.0 | 81.0 | 0.0% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 71.0 | 71.0 | 0.0% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 48.5 | 48.5 | 0.0% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 05/11/2021 | 29/10/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 108.0 | 108.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 75.0 | 74.5 | 0.7% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 59.0 | 59.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 41.0 | 40.5 | 1.2% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 203.0 | 203.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 81.0 | 81.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 71.0 | 71.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 48.5 | 48.5 | 0.0% | 42 | 44 | 43 |
 
 Healthy newbuilding ordering activity was materialized last week with the bulker and LNG units gathering the biggest chunk of contracting interest. On the dry bulk front, ICBC Leasing ordered two 210,000dwt units at Cosco Yangzhou for \$63.5 million each. At the same time, German owner Vogemann concluded a deal for the construction of four 82,000dwt vessels at Jiangsu New Hantong at a price of around \$34.0 million each while Imabari yard secured an order for two 64,000dwt Ultramax units from Wisdom Marine at a cost of \$35.0 million each. In the Tanker realm, it came to light that two conventionally fuelled 115,000dwt LR2 units were ordered by Eastmed at Daehan for a price of around \$60.0 million each. As far as the LNG sector is concerned, a total of six 174,000cbm vessels were ordered last week. Qatar Petroleum has taken its first step in the massive expansion of its LNG fleet. More specifically, four units will be built at DSME yard while two more will be constructed at Samsung with prices for all six ships remaining undisclosed.
 
@@ -375,7 +372,7 @@ Healthy newbuilding ordering activity was materialized last week with the bulker
 | 4 | Bulker | 82,000 dwt | Jiangsu New Hantong, China | 2023 | German (Vogemann) | around $34.0m |  |
 | 2 | Bulker | 64,000 dwt | Imabari, Japan | 2024 | Taiwanese (Wisdom Marime) | $ 35.0m | EEDI phase 3 |
 | 4 | LNG | 174,000 cbm | DSME, S. Korea | undisclosed | Qatari (Qatar Petroleum) | undisclosed |  |
-| 2 | LNG | 174,000 cbm | Samsung, S. Korea | undisclosed |  | undisclosed |  |
+| 2 | LNG | 174,000 cbm | Samsung, S. Korea | undisclosed | Qatari (Qatar Petroleum) | undisclosed |  |
 | 4 | MPP | 32,000 dwt | Huangpu Wenchong, China | 2024 | German (Schoeller Holdings) | undisclosed |  |
 | 4 | container | 2,900 teu | Fujian Mawei, China | 2023-2024 | Bangladeshi (Karnaphuli) | $37.0m-$38.0m | EEDI phase 2 |
 

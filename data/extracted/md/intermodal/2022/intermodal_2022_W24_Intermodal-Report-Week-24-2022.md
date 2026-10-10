@@ -267,17 +267,17 @@ In the Supramax sector we had the sale of the "SAGARJEET" (58,079dwt-blt '09, Ja
 | SUEZ | CAP LEON | 159,049 | 2003 | SAMSUNG, S. Korea | B\&amp;W | Oct-23 | DH | undisclosed | undisclosed | Ice 1C |
 | AFRA | ANGELICA SCHULTE | 106,433 | 2005 | UNIVERSAL, Japan | Sulzer | Apr-25 | DH | rgn $ 19.5m | Greek | BWTS fitted |
 | AFRA | CARLTON | 115,635 | 2004 | SAMSUNG, S. Korea | MAN-B\&amp;W | Oct-24 | DH | rgn $ 22.0m | Chinese | BWTS &amp; Scrubber fitted |
-| MR2 | HY SPRUCE | 49,600 | 2022 | GUANGZHOU, China | MAN-B\&amp;W |  | DH |  |  |  |
-| MR2 | HY GINKGO | 49,600 | 2022 | GUANGZHOU, China | MAN-B\&amp;W |  | DH | $ 152.0m | U.S. (J.P. Morgan) |  |
-| MR2 | HY CEDAR | 49,600 | 2023 | GUANGZHOU, China | MAN-B\&amp;W |  | DH |  |  |  |
-| MR2 | HY OAK | 49,600 | 2023 | GUANGZHOU, China | MAN-B\&amp;W |  | DH |  |  |  |
+| MR2 | HY SPRUCE | 49,600 | 2022 | GUANGZHOU, China | MAN-B\&amp;W |  | DH | $ 152.0m (en bloc) | U.S. (J.P. Morgan) |  |
+| MR2 | HY GINKGO | 49,600 | 2022 | GUANGZHOU, China | MAN-B\&amp;W |  | DH | $ 152.0m (en bloc) | U.S. (J.P. Morgan) |  |
+| MR2 | HY CEDAR | 49,600 | 2023 | GUANGZHOU, China | MAN-B\&amp;W |  | DH | $ 152.0m (en bloc) | U.S. (J.P. Morgan) |  |
+| MR2 | HY OAK | 49,600 | 2023 | GUANGZHOU, China | MAN-B\&amp;W |  | DH | $ 152.0m (en bloc) | U.S. (J.P. Morgan) |  |
 | MR2 | STI BENICIA | 49,990 | 2014 | SPP, S. Korea | MAN-B\&amp;W | Sep-24 | DH | $ 26.5m | undisclosed | Scrubber fitted, epoxy |
 | MR2 | CELSIUS RICHMOND | 50,083 | 2010 | ONOMICHI, Japan | MAN-B\&amp;W | Sep-25 | DH | xs $ 19.5m | undisclosed | BWTS fitted, epoxy coated |
 | MR1 | HAFNIA VICTORIA | 40,016 | 2007 | SAIKI, Japan | Mitsubishi | Jun-22 | DH | $ 12.5m | undisclosed | phenolic epoxy |
 | MR1 | SEACROWN I | 40,039 | 2003 | HYUNDAI, S. Korea | B\&amp;W | Jan-23 | DH | $ 8.5m | Peru based (Transgas) | epoxy coated |
-| SMALL | TIGER SPRING | 9,380 | 2009 | DONGFANG, China | MaK | Nov-24 | DH | $ 12.5m |  |  |
+| SMALL | TIGER SPRING | 9,380 | 2009 | DONGFANG, China | MaK | Nov-24 | DH | $ 12.5m | Turkish | CPP, epoxy |
 | SMALL | TIGER SUMMER | 9118 | 2009 | DONGFANG, China | MaK | Nov-24 | DH | $ 12.5m | Turkish | CPP, epoxy |
-| SMALL | TIGER WINTER | 9055 | 2011 | DONGFANG, China | MaK | Jan-26 | DH | $ 12.5m |  |  |
+| SMALL | TIGER WINTER | 9055 | 2011 | DONGFANG, China | MaK | Jan-26 | DH | $ 12.5m | Turkish | CPP, epoxy |
 | SMALL | PROSPER | 9,285 | 2008 | DONGFANG, China | MaK | May-23 | DH | $ 3.6m | Middle Eastern |  |
 
 © Intermodal Research 21/06/2022 4
@@ -317,7 +317,7 @@ In the Supramax sector we had the sale of the "SAGARJEET" (58,079dwt-blt '09, Ja
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | ZIM CONSTANZA | 4,250 | 2010 | Jiangsu, China | MAN-B\&amp;W | Aug-25 |  | $ 75.0m | French (CMA CGM) |  |
-| PMAX | ZIM TARRAGONA | 4,250 | 2010 | Jiangsu, China | MAN-B\&amp;W | Aug-25 |  | $ 75.0m |  |  |
+| PMAX | ZIM TARRAGONA | 4,250 | 2010 | Jiangsu, China | MAN-B\&amp;W | Aug-25 |  | $ 75.0m | French (CMA CGM) |  |
 | FEEDER | MOUNT KELLETT | 1,730 | 2017 | OUHUA, China | MAN-B\&amp;W | Jul-22 | 2 X 45t CRANES | $ 40.3m | undisclosed | BWTS fitted |
 
 © Intermodal Research 21/06/2022 6
@@ -325,27 +325,23 @@ In the Supramax sector we had the sale of the "SAGARJEET" (58,079dwt-blt '09, Ja
 ---
 
 # Intermodal Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 17/06/2022 | 10/06/2022 | ±% | 2021 | 2020 | 2019 |  |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 68.0 | 68.0 | 0.0% | 59 | 51 | 54 |
-| **Capesize** | **180k** | 63.5 | 63.5 | 0.0% | 56 | 49 | 52 |
-| **Kamsarmax** | **82k** | 37.0 | 37.0 | 0.0% | 33 | 28 | 30 |
-| **Ultramax** | **63k** | 35.5 | 35.5 | 0.0% | 30 | 26 | 28 |
-| **Handysize** | **38k** | 31.0 | 31.0 | 0.0% | 27 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 118.0 | 118.0 | 0.0% | 98 | 88 | 92 |
-| **Suezmax** | **160k** | 79.5 | 79.0 | **0.6%** | 66 | 58 | 60 |
-| **Aframax** | **115k** | 61.5 | 61.5 | 0.0% | 53 | 48 | 49 |
-| **MR** | **50k** | 42.5 | 42.5 | 0.0% | 38 | 35 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 230.0 | 229.0 | **0.4%** | 195 | 187 | 186 |  |
-| **LGC LPG 80k cbm** | 86.5 | 86.0 | **0.6%** | 76 | 73 | 73 |  |
-| **MGC LPG 55k cbm** | 74.0 | 73.5 | **0.7%** | 67 | 63 | 65 |  |
-| **SGC LPG 25k cbm** | 51.5 | 51.0 | **1.0%** | 45 | 42 | 44 |  |
+| Sector | Vessel | Size | 17/06/2022 | 10/06/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 68.0 | 68.0 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 63.5 | 63.5 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 37.0 | 37.0 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 35.5 | 35.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 118.0 | 118.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 79.5 | 79.0 | 0.6% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 61.5 | 61.5 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 42.5 | 42.5 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 230.0 | 229.0 | 0.4% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 86.5 | 86.0 | 0.6% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 74.0 | 73.5 | 0.7% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 51.5 | 51.0 | 1.0% | 45 | 42 | 44 |
 
 The last week was quite firm for the shipbuilding sector with boxships attracting most of buyers' attention for another week. Starting with the tankers, a single vessel was ordered; Norwegian Knutsen placed an order at COSCO Zhoushan for a single 154,000dwt shuttle tanker, at an undisclosed price. In the dry sector, the Chinese company Zhejiang Xinyihai ordered three 63,600dwt bulkers at COSCO Zhoushan, due to 2024 at a yet undisclosed price. Regarding the LNG sector, a single deal was recorded, for two 174,000cbm units between the Greek Capital and the Hyundai Samho yard, at the impressively high price of \$240.0m each, to be delivered in 2026. On the Container realm, ten orders were recorded, with 4 additional options, including a variety of sizes, from the Chinese BAL, Greek Navios and Belgian Seatrade in South Korean and Chinese yards.
 

@@ -218,9 +218,9 @@ Secondhand Sales
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KMAX | KEY ACTION | 82,168 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN B\&W | Apr-30 |  | $ 15.1m | Chinese | DD passed |
-| KMAX | CL TIFFANY | 81,687 | 2013 | YANGFAN, China | Mitsubishi | Apr-28 |  | $ 45.0m | Chinese |  |
-| KMAX | CL GRACE | 81,563 | 2012 | YANGFAN, China | Mitsubishi | Jan-28 |  |  |  |  |
-| KMAX | CL MONA | 81,504 | 2013 | YANGFAN, China | Mitsubishi | Jan-28 |  |  |  |  |
+| KMAX | CL TIFFANY | 81,687 | 2013 | YANGFAN, China | Mitsubishi | Apr-28 |  | $ 45.0m (en bloc) | Chinese |  |
+| KMAX | CL GRACE | 81,563 | 2012 | YANGFAN, China | Mitsubishi | Jan-28 |  | $ 45.0m (en bloc) | Chinese |  |
+| KMAX | CL MONA | 81,504 | 2013 | YANGFAN, China | Mitsubishi | Jan-28 |  | $ 45.0m (en bloc) | Chinese |  |
 | UMAX | NORD MISSISSIPPI | 60,456 | 2015 | MITSUI, Japan | MAN B\&W | Sep-25 | 4 X 30t CRANES | region $ 22,0m | Greek | Eco |
 | SUPRA | SOLDOY | 56,830 | 2011 | YANGFAN, China | MAN B\&W | Jul-26 | 4 X 36t CRANES | $ 12.5m | undisclosed | Tier II |
 | HANDY | MAPLE TULIP | 33,158 | 2011 | KANDA, Japan | Mitsubishi | Oct-25 | 4 X 30,5t CRANES | undisclosed | undisclosed | OHBS |
@@ -232,20 +232,20 @@ Secondhand Sales
 The newbuilding market saw a flurry of activity last week, with a total of 11 orders. In the bulker sector, Seacon placed an order for one 40.8k dwt vessel at Imabari Shipbuilding, set for delivery in 2028 and priced at \$35 million. The tanker segment was quite active with 4 orders, starting with Cido Shipping ordering at Hyundai HI Ulsan, a pair of 157k dwt vessels. This order represents a conversion of a previous order for two VLACs, with delivery expected in 2027, at a price of \$88m per vessel. Meanwhile KNOT contracted COSCO HI Zhoushan for a 154k dwt DP2 shuttle tanker, to be delivered in 2028. Liquid chemical carriers recorded two orders. COSCO Shipping ordered a 9.2k dwt stainless steel chemical tanker at Wuchang SB at \$25.1m and Shanghai Jinghan agreed with Zhoushan Dashenzhou for the construction of a 7.3k dwt stainless steel unit plus one optional, with delivery estimated in 2027. Containership sector saw the largest order, as the Japanese group ONE commissioned HD Hyundai Heavy for eight firm plus four optional LNG fuel 16k teu boxships at \$220m per vessel. Turning to the gas carriers, MOL contracted two domestic yards to build a series of six 88k cbm dual fuel VLGCs, i.e. Kawasaki HI and Namura Shipbuilding to construct four and two vessels respectively, with deliveries scheduled in 2027-2028. LNG bunkering segment witnessed two orders. Ibaizabal Tankers exercised an option at Hudong Zhonghua for an 18.6k cbm unit, priced at \$90m and to be chartered to TotalEnergies. Additionally, an undisclosed European buyer contracted Hyundai Mipo for two 18k cbm LNG dual fuel bunkering vessels, at a cost of \$97.5m each. Finally, newbuilding appetite extended to the deck cargo niche sector, as Winning International contracted a quartet of 12k dwt deck cargo vessels at Zongyang Shipyard with delivery scheduled for 2026-2027.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 23-May-25 | 16-May-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2023 | 2022 |
+| Sector | Vessel | Size | 23-May-25 | 16-May-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 77.0 | 77.5 | -0.6% | 79.0 | 77.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | **180k** | 73.5 | 74.0 | -0.7% | 75.0 | 73.5 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | **82k** | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-|  | Ultramax | **63k** | 34.0 | 34.0 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-|  | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | **300k** | 125.0 | 125.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-|  | Suezmax | **160k** | 86.0 | 86.0 | 0.0% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-|  | Aframax | **115k** | 75.5 | 75.5 | 0.0% | 77.5 | 75.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-|  | MR | **50k** | 48.5 | 48.5 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** | LNG 174k cbm |  | 255.0 | 255.0 | 0.0% | 260.0 | 255.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-|  | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 77.0 | 77.5 | -0.6% | 79.0 | 77.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 73.5 | 74.0 | -0.7% | 75.0 | 73.5 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 125.0 | 125.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 86.0 | 86.0 | 0.0% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 75.5 | 75.5 | 0.0% | 77.5 | 75.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 48.5 | 48.5 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 255.0 | 255.0 | 0.0% | 260.0 | 255.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

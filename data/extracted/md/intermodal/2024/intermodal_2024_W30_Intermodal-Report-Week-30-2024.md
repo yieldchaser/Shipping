@@ -264,8 +264,8 @@ Supramax 10TC averaged \$ 15,206/day up +2.27% w-o-w, while the Handysize 7TC av
 | SUPRA | HEILAN CRUISER | 56,922 | 2012 | SHANGHAI SHIPYARD, China | MAN-B\&W | Dec-26 | 4 X 35t CRANES | $ 14.2m | Chinese (Haitong) |  |
 | SUPRA | IONIC STORM | 56,032 | 2005 | MITSUI CHIBA, Japan | MAN-B\&W | Dec-25 | 4 X 30t CRANES | $ 13.3m | Greek |  |
 | HANDY | LIFE PASSION | 37,332 | 2018 | NANJING DONGZE, China | WinGD | October 2028 | 4 X 30t CRANES | $ 22.0m | German |  |
-| HANDY | LAGO DI CANCANO | 37,666 | 2014 | QINGSHAN, China | MAN-B\&W | Jan-29 | 4 X 30,5t CRANES | $ 37.0m | undisclosed | Eco, Ice Class 1C |
-| HANDY | LAGO DI COMO | 37,653 | 2014 | QINGSHAN, China | MAN-B\&W | Jun-29 | 4 X 30,5t CRANES |  | undisclosed | Eco, Ice Class 1C |
+| HANDY | LAGO DI CANCANO | 37,666 | 2014 | QINGSHAN, China | MAN-B\&W | Jan-29 | 4 X 30,5t CRANES | $ 37.0m (en bloc) | undisclosed | Eco, Ice Class 1C |
+| HANDY | LAGO DI COMO | 37,653 | 2014 | QINGSHAN, China | MAN-B\&W | Jun-29 | 4 X 30,5t CRANES | $ 37.0m (en bloc) | undisclosed | Eco, Ice Class 1C |
 | HANDY | SEA SMILE | 38,109 | 2012 | SHIMANAMI, Japan | MAN-B\&W | Apr-27 | 4 X 30,5t CRANES | $ 17.0m | Chinese |  |
 
 ## Secondhand Sales
@@ -273,8 +273,8 @@ Supramax 10TC averaged \$ 15,206/day up +2.27% w-o-w, while the Handysize 7TC av
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLGC | VICTORIA LYRA | 58,677 | 2008 | HYUNDAI HEAVY INDS - U, S. Korea | MAN-B\&W | Apr-28 | 80,623 | $ 60.0m | undisclosed |  |
-| VLGC | KEEGAN NO. 1 | 55,075 | 2020 | JIANGNAN SHIPYARD, China | MAN-B\&W | Oct-25 | 82,396 | $ 185.0m | U.S.A. (JP Morgan) | Eco, Scrubber fitted |
-| VLGC | KEEGAN NO. 2 | 55,065 | 2020 | JIANGNAN SHIPYARD, China | MAN-B\&W | Dec-25 | 82,373 |  |  | Eco, Scrubber fitted |
+| VLGC | KEEGAN NO. 1 | 55,075 | 2020 | JIANGNAN SHIPYARD, China | MAN-B\&W | Oct-25 | 82,396 | $ 185.0m (en bloc) | U.S.A. (JP Morgan) | Eco, Scrubber fitted |
+| VLGC | KEEGAN NO. 2 | 55,065 | 2020 | JIANGNAN SHIPYARD, China | MAN-B\&W | Dec-25 | 82,373 | $ 185.0m (en bloc) | U.S.A. (JP Morgan) | Eco, Scrubber fitted |
 | VLGC | SC COMMANDER LVII | 49,723 | 1999 | MITSUBISHI NAGASAKI, Japan | Mitsubishi | Dec-27 | 76,929 | $ 43.0m | undisclosed |  |
 
 ---
@@ -306,8 +306,8 @@ Newbuilding activity was robust last week, with a significant number of tanker c
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4 | Tanker | 159,000 dwt | Hyundai Hi, South Korea | 2027 | Hong Kong based (Cido Shipping) | $ 91.0m | conventional fuelled, scrubber fitted |
-| 4 | Tanker | 115,000 dwt | Hyundai Vietnam, Vietnam | 2028 |  | $ 70.0m | LR2 |
-| 4 | Tanker | 50,000 dwt |  | 2027 | Hong Kong based (Cido Shipping) | $ 47.0m |  |
+| 4 | Tanker | 115,000 dwt | Hyundai Vietnam, Vietnam | 2028 | Hong Kong based (Cido Shipping) | $ 70.0m | LR2 |
+| 4 | Tanker | 50,000 dwt | Hyundai Vietnam, Vietnam | 2027 | Hong Kong based (Cido Shipping) | $ 47.0m |  |
 | 4 | Tanker | 113,600 dwt | Xiamen, China | 2028 | Singaporean (Eastern Pacific) | $73.0-74.0m | LR2, LNG fuelled |
 | 1 | Tanker | 22,500 dwt | Wuhu, China | 2027 | Swedish (Donsotank Rederi) | undisclosed | chemical tanker |
 | 1 | Tanker | 17,500 dwt | Chengxi, China | 2026 | Swiss based (Trafigura) | undisclosed | asphalt and bitumen tanker |
@@ -315,7 +315,7 @@ Newbuilding activity was robust last week, with a significant number of tanker c
 | 1+1 | LNG bunkering | 18,600 dwt | Hudong Zhonghua, China | 2026 | Spanish (Ibaizabal Tankers) | $ 90.0m |  |
 | 2 | Bulker | 63,500 dwt | Haitong Offshore, China | 2026 | Chinese (Fujian Guohang Group) | undisclosed |  |
 | 9 | VLEC | 99,000 cbm | Jiangnan Shipyard, China | 2025-2027 | AW Shipping (J/V between ADNOC & Wanhua) | $ 155.0m |  |
-| 4 | VLAC | 93,000 cbm |  | 2026 |  | $ 125.0m |  |
+| 4 | VLAC | 93,000 cbm | Jiangnan Shipyard, China | 2026 | AW Shipping (J/V between ADNOC & Wanhua) | $ 125.0m |  |
 | 2 | Container | 6,000 teu | Wuhu, China | 2026 | Chinese (Zhonghuaizhou Shipping) | undisclosed |  |
 | 12 | PCTC | 7,600 ceu | CMHI Jiangsu, China | 2028-2030 | Hong Kong based (Cido Shipping) | $90.0-91.0m |  |
 | 1 | PCTC | 7,000 ceu | Yantai CIMC Raffles, China | 2027 | Norwegian ( NOCC) | undisclosed | LNG and ammonia ready |
@@ -351,4 +351,4 @@ The demolition market activity remained weak for another week, with only one dea
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ICE RUNNER | 14,499 | 7,001 | 1984 | HYUNDAI HEAVY INDS - U, S. Korea | REEFER | $ 587.0m | undisclosed |
+| ICE RUNNER | 14,499 | 7,001 | 1984 | HYUNDAI HEAVY INDS - U, S. Korea | REEFER | $ 587/Ldt | undisclosed |

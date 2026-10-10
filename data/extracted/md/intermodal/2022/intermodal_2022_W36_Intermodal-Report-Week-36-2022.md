@@ -272,8 +272,8 @@ In the Handysize sector we had the sale of the "AQUARIUS 77" (35,737dwt-bl't '16
 | AFRA | ALBA | 113,782 | 2005 | SAMSUNG, S. Korea | B\&amp;W | Oct-24 | DH | rgn $ 32.0m | Middle Eastern | Ice 1A, BWTS &amp; Scrubber fitted |
 | MR2 | ASTREA | 40,158 | 2006 | SHINA, S. Korea | MAN-B\&amp;W | Jan-26 | DH | $ 15.5m | undisclosed | Ice 1B, BWTS fitted, epoxy phenolic |
 | SMALL | SG BAHARI | 9,600 | 2009 | DONGFANG, China | MaK | Jan-24 | DH | $ 4.5m | Turkish |  |
-| SMALL | GUNGA | 6,480 | 2009 | DESAN, Turkey | MaK | Sep-24 | DH |  |  |  |
-| SMALL | GAZELA | 6,479 | 2010 | DESAN, Turkey | MAN | Mar-25 | DH | $ 14.0m | undisclosed | Ice 1C |
+| SMALL | GUNGA | 6,480 | 2009 | DESAN, Turkey | MaK | Sep-24 | DH | $ 14.0m (en bloc) | undisclosed | Ice 1C |
+| SMALL | GAZELA | 6,479 | 2010 | DESAN, Turkey | MAN | Mar-25 | DH | $ 14.0m (en bloc) | undisclosed | Ice 1C |
 ## Bulk Carriers
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -286,8 +286,8 @@ In the Handysize sector we had the sale of the "AQUARIUS 77" (35,737dwt-bl't '16
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | BW PRINCE | 54,368 | 2007 | HYUNDAI, S. Korea | MAN-B&amp;W | Nov-22 | 80,735 | $ 45.0m | undisclosed |
 | LPG | CLIPPER SIRIUS | 54,048 | 2008 | HYUNDAI, S. Korea | MAN-B&amp;W | Jun-23 | 73,537 | $ 50.0m | undisclosed |
-| LPG | SCALI REALI | 3,804 | 2010 | BESIKTAS GEMI, Turkey | Wartsila | Aug-25 | 3,295 |  |  |
-| LPG | SCALI SANLORENZO | 3,801 | 2010 | NAVAL SSZ ZAO, Ukraine | Wartsila | May-25 | 3,294 | $ 39.0m | undisclosed |
+| LPG | SCALI REALI | 3,804 | 2010 | BESIKTAS GEMI, Turkey | Wartsila | Aug-25 | 3,295 | $ 39.0m (en bloc) | undisclosed |
+| LPG | SCALI SANLORENZO | 3,801 | 2010 | NAVAL SSZ ZAO, Ukraine | Wartsila | May-25 | 3,294 | $ 39.0m (en bloc) | undisclosed |
 ## Secondhand Sales
 
 | Sector | Size | Containers | Name | Teu | Built | Yard | M/E | SS due | Gear |
@@ -300,25 +300,22 @@ In the Handysize sector we had the sale of the "AQUARIUS 77" (35,737dwt-bl't '16
 
 # Intermodal Newbuilding Market
 
-## Indicative Newbuilding Prices (million$)
-| Sector | Size | 09/09/2022 | 02/09/2022 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 69.0 | 69.0 | 0.0% | 51 | 54 | 51 |
-| Capesize | **180k** | 64.5 | 64.5 | 0.0% | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 37.0 | 37.5 | -1.3% | 28 | 30 | 29 |
-| Ultramax | **63k** | 35.0 | 35.0 | 0.0% | 26 | 28 | 27 |
-| Handysize | **38k** | 31.0 | 31.0 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| Suezmax | **160k** | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| Aframax | **115k** | 64.0 | 61.5 | 4.1% | 48 | 49 | 47 |
-| MR | **50k** | 44.0 | 43.5 | 1.1% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 241.0 | 240.0 | 0.4% | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 88.0 | 87.0 | 1.1% | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |  |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 09/09/2022 | 02/09/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 69.0 | 69.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 64.5 | 64.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 37.0 | 37.5 | -1.3% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 61.5 | 4.1% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 43.5 | 1.1% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 241.0 | 240.0 | 0.4% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 88.0 | 87.0 | 1.1% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 Last week newbuilding market was muted regarding the dry and the wet sectors, while firm shipbuilding activity came to light from the LNG and the Container segments. In the LNG segment, three deals were made known on behalf of the large LNG Qatar project, with the vessels to be booked against berths that have been pre-reserved by QatarEnergy. More specifically, the first owners are the known Korean consortium (including H - Line, SK Shipping and Pan Ocean), ordering nine 174,000 cbm carriers in total, at DSME and Samsung HI in South Korea and delivery due to 2025 and 2026 and the second owner is JP Morgan, buying two 174,000cbm units at Samsung HI, to be ready by 2025. Moving on to the feeder sector, Swiss based MSC made a deal for twelve 16,000teu vessels with Yangzijiang shipyard. The neopanamax units that are going to be fitted with GTT's Mark III Flex membrane-type containment system, will cost \$180.0m each and are due to 2024-2026.
 

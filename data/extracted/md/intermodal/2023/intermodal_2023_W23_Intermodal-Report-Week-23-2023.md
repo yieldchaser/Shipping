@@ -210,10 +210,10 @@ Supramax 10TC averaged \$ 8,430/day, down -11.31% w-o-w, while the Handysize 7TC
 | UMAX | BELVEDERE | 66,637 | 2015 | MITSUI, Japan | MAN-B\&amp;W | Sep-25 | 4 X 30t CRANES | excess $ 27.0m | undisclosed | BWTS fitted, Eco, dely Q3 2023 |
 | SUPRA | CF DIAMOND | 57,700 | 2016 | TSUNEISHI, Japan | MAN-B\&amp;W | Jun-26 | 4 X 30t CRANES | region $ 24.5m | undisclosed | BWTS fitted, Eco |
 | SUPRA | STOVE OCEAN | 55,861 | 2013 | OSHIMA, Japan | MAN-B\&amp;W | May-28 | 4 X 30t CRANES | $ 21.0m | Norwegian (Gearbulk) | BWTS fitted, Box Holds |
-| SUPRA | ZHOU SHAN HAI | 56,987 | 2009 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Oct-24 | 4 X 30t CRANES |  |  |  |
+| SUPRA | ZHOU SHAN HAI | 56,987 | 2009 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Oct-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
 | SUPRA | YUAN AN HAI | 56,957 | 2009 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Aug-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
-| SUPRA | YUAN SHUN HAI | 56,956 | 2009 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Aug-24 | 4 X 30t CRANES |  |  |  |
-| SUPRA | JIN ZHOU HAI | 56,907 | 2009 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Nov-24 | 4 X 30t CRANES |  |  |  |
+| SUPRA | YUAN SHUN HAI | 56,956 | 2009 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Aug-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
+| SUPRA | JIN ZHOU HAI | 56,907 | 2009 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Nov-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
 | HANDY | AMERICAN BULKER | 36,228 | 2016 | SHIKOKU, Japan | MAN-B\&amp;W | Feb-26 | 4 X 31,2t CRANES | region $ 22.7m | Greek | BWTS fitted, Eco, OHBS, dely OctNov 2023 |
 
 ## Containers
@@ -228,26 +228,23 @@ Supramax 10TC averaged \$ 8,430/day, down -11.31% w-o-w, while the Handysize 7TC
 
 The week ending 9th June was generally weaker for the newbuilding market with only 8 firm orders. Units were split evenly between bulkers, tankers, LPG carriers and boxships. Greek owner Medway Shipping ordered a 42,300 dwt bulker from Oshima in Japan for \$32m. Delivery is scheduled for 2026. In tankers, Singapore owner Eastern Pacific placed an order for two 115,000 dwt LR2s with GSI in China. The duo is expected to be in the water in 2026 and is priced at \$70m each. The contract also includes an option for two more identical vessels. This brings the number of LR2s ordered this year to 45, three fewer than the 22 ordered by owners in 2022 and 26 in 2021 combined, suggesting strong interest in this particular type. Avance Gas ordered two firm 40,000 cbm LPG carriers in Nantong at a cost of \$61.5m, with delivery expected in 2025-2026. The vessels will be dual-fuelled with LPG and equipped with shaft generators.
 
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 66.0 | 66.0 | 0.0% | 66.0 | 64.0 |
-| **Bulkers** | Capesize | 180k | 63.0 | 63.0 | 0.0% | 63.0 | 61.0 |
-| **Bulkers** | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 |
-| **Bulkers** | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 |
-| **Bulkers** | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | 300k | 125.0 | 125.0 | 0.0% | 125.0 | 120.0 |
-| **Tankers** | Suezmax | 160k | 83.0 | 83.0 | 0.0% | 83.0 | 76.0 |
-| **Tankers** | Aframax | 115k | 69.0 | 69.0 | 0.0% | 69.0 | 64.0 |
-| **Tankers** | MR | 50k | 45.5 | 45.5 | 0.0% | 45.5 | 44.0 |
-| **Gas** |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 260.0 | 260.0 | 0.0% | 260.0 | 248.0 |
-| **Gas** | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 |
-| **Gas** | MGC LPG 55k cbm |  | 84.0 | 84.0 | 0.0% | 84.0 | 77.5 |
-| **Gas** | SGC LPG 25k cbm |  | 55.5 | 55.5 | 0.0% | 55.5 | 53.0 |
+| Sector | Vessel | Size | 9-Jun-23 | 2-Jun-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 66.0 | 66.0 | 0.0% | 66.0 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 63.0 | 63.0 | 0.0% | 63.0 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 66 | 59 | 51 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 125.0 | 125.0 | 0.0% | 125.0 | 120.0 | 125.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 83.0 | 83.0 | 0.0% | 83.0 | 76.0 | 83.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 69.0 | 69.0 | 0.0% | 69.0 | 64.0 | 69.0 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 45.5 | 45.5 | 0.0% | 45.5 | 44.0 | 45.5 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 260.0 | 260.0 | 0.0% | 260.0 | 248.0 | 260.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 84.0 | 84.0 | 0.0% | 84.0 | 77.5 | 84.0 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 55.5 | 55.5 | 0.0% | 55.5 | 53.0 | 55.5 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

@@ -267,8 +267,8 @@ In the Ultramax sector we had the sale of the "SAILING SKY" (61,346dwt-blt '14, 
 | PMAX | PALAIS | 75,434 | 2014 | JIANGSU RONGSHENG, China | Wartsila | Jan-24 |  | $ 23.25m | Chinese | Tier II, BWTS fitted, bss prompt dely |
 | UMAX | SAILING SKY | 61,346 | 2014 | SHIN KASADO, Japan | MAN-B\&amp;W | Jun-24 | 4 X 30,7t CRANES | low $ 27.0m | Vietnamese | BWTS fitted |
 | HANDY | GLORIOUS EARTH | 26,102 | 2013 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Jan-23 | 3 X 30,7t CRANES | mid-high $ 14.0m | Far Eastern | Tier II |
-| HANDY | BULKER BEE 20 | 25,041 | 2010 | NINGBO XINLE, China | MAN-B\&amp;W | Sep-25 | 3 X 30t CRANES | $ 21.5m | German | BWTS fitted |
-| HANDY | BULKER BEE 21 | 25,012 | 2011 | NINGBO XINLE, China | MAN-B\&amp;W | Jan-26 | 3 X 30t CRANES |  |  |  |
+| HANDY | BULKER BEE 20 | 25,041 | 2010 | NINGBO XINLE, China | MAN-B\&amp;W | Sep-25 | 3 X 30t CRANES | $ 21.5m (en bloc) | German | BWTS fitted |
+| HANDY | BULKER BEE 21 | 25,012 | 2011 | NINGBO XINLE, China | MAN-B\&amp;W | Jan-26 | 3 X 30t CRANES | $ 21.5m (en bloc) | German | BWTS fitted |
 | HANDY | BAO DA | 28,107 | 2001 | BOHAI, China | Sulzer | Mar-24 | 4 X 30t CRANES | rgn $ 7.0m | undisclosed |  |
 ## Containers
 

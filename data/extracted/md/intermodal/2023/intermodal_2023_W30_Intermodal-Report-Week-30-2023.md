@@ -197,8 +197,8 @@ Supramax 10TC averaged \$ 8,163/day, down -1.24% w-o-w, while the Handysize 7TC 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | SIFA | 316,373 | 2011 | HYUNDAI HI, S. Korea | Wartsila | Jan-26 | DH | $ 64.0m | South Korean (Sinokor) | scrubber, BWTS fitted |
-| VLCC | FIDA | 316,373 | 2011 | HYUNDAI HI, S. Korea | Wartsila | May-26 | DH | $ 64.0m |  | scrubber, BWTS fitted |
-| VLCC | SAHAM | 299,991 | 2010 | UNIVERSAL, Japan | MAN-B\&W | Oct-25 | DH | $ 64.0m |  | scrubber fitted |
+| VLCC | FIDA | 316,373 | 2011 | HYUNDAI HI, S. Korea | Wartsila | May-26 | DH | $ 64.0m | South Korean (Sinokor) | scrubber, BWTS fitted |
+| VLCC | SAHAM | 299,991 | 2010 | UNIVERSAL, Japan | MAN-B\&W | Oct-25 | DH | $ 64.0m | South Korean (Sinokor) | scrubber fitted |
 | AFRA | TORNADO A | 105,411 | 2003 | SUMITOMO HI YOKOSUKA | Sulzer | Sep-25 | DH | $ 24.75m | unidisclosed | BWTS fitted |
 | MR2 | CASSIOPEIA II | 50,696 | 2008 | SPP Shipbuilding - Tongyeong | MAN-B\&W | Jul-23 | DH | $ 23.0m | unidisclosed | SS due, BWTS fitted |
 
@@ -215,10 +215,10 @@ Supramax 10TC averaged \$ 8,163/day, down -1.24% w-o-w, while the Handysize 7TC 
 | POST PMAX | MH HAMBURG | 6,494 | 2009 | KOYO MIHARA, Japan | MAN-B\&W | Mar-24 |  | $ 32.0m | German (Foroohari Schiff) | TC included, scrubber fitted |
 | PMAX | ZHONG GU JIANG SU | 4,963 | 2010 | DAEWOO-MANGALIA, Romania | MAN-B\&W | Apr-25 |  |  | Swiss (MSC) |  |
 | PMAX | MAERSK LAUNCESTON | 4,533 | 2005 | Odense Staalskibs - Lindo | Sulzer | Nov-24 |  |  | Swiss (MSC) |  |
-| PMAX | ZIM QINGDAO | 4,250 | 2006 | Dalian Shipbuilding Ind - No 1 | MAN-B\&W | Aug-26 |  |  |  |  |
-| PMAX | ZIM SHEKOU | 4,250 | 2007 | Dalian Shipbuilding Ind - No 1 | MAN-B\&W | May-27 |  | $ 80.0m | Swiss (MSC) |  |
-| PMAX | ZIM VANCOUVER | 4,250 | 2007 | Dalian Shipbuilding Ind - No 2 | MAN-B\&W | Aug-27 |  |  |  |  |
-| PMAX | ZIM YOKOHAMA | 4,250 | 2007 | Dalian Shipbuilding Ind - No 2 | MAN-B\&W | Aug-22 |  |  |  |  |
+| PMAX | ZIM QINGDAO | 4,250 | 2006 | Dalian Shipbuilding Ind - No 1 | MAN-B\&W | Aug-26 |  | $ 80.0m (en bloc) | Swiss (MSC) |  |
+| PMAX | ZIM SHEKOU | 4,250 | 2007 | Dalian Shipbuilding Ind - No 1 | MAN-B\&W | May-27 |  | $ 80.0m (en bloc) | Swiss (MSC) |  |
+| PMAX | ZIM VANCOUVER | 4,250 | 2007 | Dalian Shipbuilding Ind - No 2 | MAN-B\&W | Aug-27 |  | $ 80.0m (en bloc) | Swiss (MSC) |  |
+| PMAX | ZIM YOKOHAMA | 4,250 | 2007 | Dalian Shipbuilding Ind - No 2 | MAN-B\&W | Aug-22 |  | $ 80.0m (en bloc) | Swiss (MSC) |  |
 | FEEDER | WAN HAI 267 | 1,662 | 2002 | SHIN KURUSHIMA, Japan | B\&W | J un-27 |  |  | Indian |  |
 | FEEDER | A XINXIA | 907 | 2007 | KYOKUYO ZOSEN, Japan | MAN-B\&W | J un-24 |  | $ 8.0m | Vietnamese |  |
 
@@ -228,23 +228,23 @@ Supramax 10TC averaged \$ 8,163/day, down -1.24% w-o-w, while the Handysize 7TC 
 
 The newbuilding market remains in good shape despite the summer lull, with 31 firm newbuilding orders and 12 options. In tankers, Swiss owner Advantage Tankers placed firm orders for two 157,000 dwt tankers in Japan for \$85m each, with delivery scheduled for 2025. In smaller sizes, Zodiac Marine ordered four 19,900 dwt stainless steel tankers from Fukoka, Japan, for \$30m each, with delivery expected in 2024. In the dry bulk sector, TMS Dry was responsible for both orders. The Greek owner ordered two 82,600 dwt vessels from Chengxi in China and four 63,500 dwt vessels from Nantong. The Kamsarmaxes will be NOx Tier III and EEDI Phase 3 compliant, cost \$36m each and are expected to be on the water in 2026.
 
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 66.0 | 66.0 | 0.0% | 66.0 | 64.0 |
-|  | Capesize | **180k** | 63.0 | 63.0 | 0.0% | 63.0 | 61.0 |
-|  | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 |
-|  | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 |
-|  | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 |
-| **Tankers** | VLCC | **300k** | 125.0 | 125.0 | 0.0% | 125.0 | 120.0 |
-|  | Suezmax | **160k** | 84.0 | 84.0 | 0.0% | 84.0 | 76.0 |
-|  | Aframax | 115k | 70.0 | 69.0 | 1.4% | 69.0 | 64.0 |
-| **Tankers** |  | MR | 50k | 47.0 | 46.0 | 2.2% | 47.0 |
-| **Gas** | LNG 174k cbm |  | 261.0 | 261.0 | 0.0% | 261.0 | 248.0 |
-|  | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 |
-| **Gas** |  | MGC LPG 55k cbm |  | 86.5 | 86.0 | 0.6% | 86.5 |
-| **Gas** |  | SGC LPG 25k cbm |  | 56.0 | 56.0 | 0.0% | 56.0 |
+| Sector | Vessel | Size | 28-Jul-23 | 21-Jul-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 66.0 | 66.0 | 0.0% | 66.0 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 63.0 | 63.0 | 0.0% | 63.0 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 125.0 | 125.0 | 0.0% | 125.0 | 120.0 | 125.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 84.0 | 84.0 | 0.0% | 84.0 | 76.0 | 84.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 70.0 | 69.0 | 1.4% | 69.0 | 64.0 | 69.0 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 47.0 | 46.0 | 2.2% | 47.0 | 44.0 | 47.0 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 261.0 | 261.0 | 0.0% | 261.0 | 248.0 | 261.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 86.5 | 86.0 | 0.6% | 86.5 | 77.5 | 86.5 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 56.0 | 56.0 | 0.0% | 56.0 | 53.0 | 55.5 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

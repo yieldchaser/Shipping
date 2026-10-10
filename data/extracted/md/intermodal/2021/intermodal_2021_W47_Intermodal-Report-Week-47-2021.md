@@ -274,12 +274,12 @@ In the Handysize sector we had the sale of the "NEW DAYS" (38,230dwt-blt '17, Ja
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR2 | FRONT LION | 115,162 | 2014 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Sep-24 | DH |  |  |  |
-| LR2 | FRONT TIGER | 115,024 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Jun-25 | DH | $ 160.0m | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
-| LR2 | FRONT PANTHER | 109,900 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Jan-25 | DH |  |  |  |
-| LR2 | FRONT PUMA | 109,900 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Mar-25 | DH |  |  |  |
+| LR2 | FRONT LION | 115,162 | 2014 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Sep-24 | DH | $ 160.0m (en bloc) | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
+| LR2 | FRONT TIGER | 115,024 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Jun-25 | DH | $ 160.0m (en bloc) | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
+| LR2 | FRONT PANTHER | 109,900 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Jan-25 | DH | $ 160.0m (en bloc) | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
+| LR2 | FRONT PUMA | 109,900 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Mar-25 | DH | $ 160.0m (en bloc) | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
 | LR1 | NORDMERKUR | 74,999 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | May-24 | DH | $ 10.0m | Indian | deck heaters, old deal |
-| LR1 | NORDNEPTUN | 74,999 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Apr-24 | DH | $ 10.0m |  |  |
+| LR1 | NORDNEPTUN | 74,999 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Apr-24 | DH | $ 10.0m | Indian | deck heaters, old deal |
 | MR2 | GRAZIA | 50,213 | 2010 | GSI, China | MAN-B\&amp;W | Nov-25 | DH | $ 15.15m | Greek | BWTS fitted |
 | MR2 | ARCTIC BAY | 47,999 | 2006 | STX, S. Korea | MAN-B\&amp;W | Mar-26 | DH | $ 11.7m | Norwegian (Atlantica Shipping) | ICE 1A, BWTS fitted |
 | SMALL | OCEAN SEAL | 11,998 | 2018 | SHIN KURUSHIMA, Japan | Wartsila | Aug-23 | DH | rgn-excess $ 10.0m | undisclosed |  |
@@ -290,10 +290,10 @@ In the Handysize sector we had the sale of the "NEW DAYS" (38,230dwt-blt '17, Ja
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | MAYFAIR SPIRIT | 93,257 | 2011 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | May-26 |  | $ 19.0m | Greek (NGM) | BWTS fitted, prompt delivery with TC attached until March-May/2022 at USD 34,500 p/d, old |
-| KMAX | CHENGXI CX0831 | 85,000 | 2021 | CHENGXI, China | MAN-B\&amp;W |  |  |  |  |  |
+| KMAX | CHENGXI CX0831 | 85,000 | 2021 | CHENGXI, China | MAN-B\&amp;W |  |  | about $ 33.0m each | Chinese (Pacific Rim) | deliveries November 2021 / September 2022 |
 | KMAX | CHENGXI CX0832 | 85,000 | 2022 | CHENGXI, China | MAN-B\&amp;W |  |  | about $ 33.0m each | Chinese (Pacific Rim) | deliveries November 2021 / September 2022 |
-| KMAX | CHENGXI CX0833 | 85,000 | 2022 | CHENGXI, China | MAN-B\&amp;W |  |  |  |  |  |
-| KMAX | CHENGXI CX0834 | 85,000 | 2022 | CHENGXI, China | MAN-B\&amp;W |  |  |  |  |  |
+| KMAX | CHENGXI CX0833 | 85,000 | 2022 | CHENGXI, China | MAN-B\&amp;W |  |  | about $ 33.0m each | Chinese (Pacific Rim) | deliveries November 2021 / September 2022 |
+| KMAX | CHENGXI CX0834 | 85,000 | 2022 | CHENGXI, China | MAN-B\&amp;W |  |  | about $ 33.0m each | Chinese (Pacific Rim) | deliveries November 2021 / September 2022 |
 | HANDY | NEW DAYS | 38,230 | 2017 | SHIN KOCHI, Japan | MAN-B\&amp;W | Jan-22 | 4 X 30t CRANES | $ 27.0m | Greek | BWTS fitted, basis SS/DD passed |
 
 © Intermodal Research 30/11/2021 4
@@ -301,27 +301,23 @@ In the Handysize sector we had the sale of the "NEW DAYS" (38,230dwt-blt '17, Ja
 ---
 
 # Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 26/11/2021 | 19/11/2021 | ±% | 2020 | 2019 | 2018 |  |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
-| **Capesize** | **180k** | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
-| **Kamsarmax** | **82k** | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
-| **Ultramax** | **63k** | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
-| **Handysize** | **38k** | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 109.0 | 108.0 | 0.9% | 88 | 92 | 88 |
-| **Suezmax** | **160k** | 75.5 | 75.0 | 0.7% | 58 | 60 | 58 |
-| **Aframax** | **115k** | 59.0 | 59.0 | 0.0% | 48 | 49 | 47 |
-| **MR** | 50k | 41.0 | 41.0 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 205.0 | 204.0 | 0.5% | 187 | 186 | 181 |  |
-| **LGC LPG 80k cbm** | 81.5 | 81.5 | 0.0% | 73 | 73 | 71 |  |
-| **MGC LPG 55k cbm** | 71.5 | 71.5 | 0.0% | 63 | 65 | 63 |  |
-| **SGC LPG 25k cbm** | 49.0 | 49.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 26/11/2021 | 19/11/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 109.0 | 108.0 | 0.9% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 75.5 | 75.0 | 0.7% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 59.0 | 59.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 205.0 | 204.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 81.5 | 81.5 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 42 | 44 | 43 |
 
 After just one week break, activity in the new building market has resumed with a plethora of contracts appearing on the market. The majority of deals concern container units while despite the fact that no fresh tanker deals came to light during the past week, interest in the clean tanker sector was vivid in the secondhand realm. As far as the bulker sector is concerned, two deals were materialized last week; Yangzijiang Shipping ordered four 82,300dwt units at Yangzi-Mitsui yard while Zhejiang Dacheng declared an option for the construction of two 47,000dwt vessels at Haidong Shipyard. On the Container front, a total of twenty-eight feeder boxships were ordered last week. French owner CMA CGM inked a deal for the construction of ten LNG fuelled 2,000teu Containers at KSOE yard at a price of \$62.5 million each while Shanghai Jinjiang exercised an option for two 1,900teu boxships at Yangfan Group. In addition, X-Press Feeders ordered sixteen methanol fuelled 1,170teu boxhips, which have been equally separated between New Dayang and Ningbo Xinle shipyards. Lastly, DSME secured a contract for the construction of two firm plus two optional 174,000cbm LNG units at a price of \$207.0 million each.
 
@@ -371,7 +367,7 @@ After just one week break, activity in the new building market has resumed with 
 | 10 | Container | 2,000 teu | KSOE, S.Korea | 2023-2024 | French (CMA CGM) | $ 62.5m | LNG fuelled |
 | 2 | Container | 1,900 teu | Yangfan Group, China | 2023 | Chinese (Shanghai JinJiang) | $ 28.2m | option declared |
 | 8 | Container | 1,170 teu | New Dayang, China | 2023-2024 | Singaporean (X-Press Feeders) | undisclosed | methanol fuelled |
-| 8 | Container | 1,170 teu | Ningbo Xinle, China | 2023-2024 |  | undisclosed |  |
+| 8 | Container | 1,170 teu | Ningbo Xinle, China | 2023-2024 | Singaporean (X-Press Feeders) | undisclosed | methanol fuelled |
 
 © Intermodal Research 30/11/2021 5
 

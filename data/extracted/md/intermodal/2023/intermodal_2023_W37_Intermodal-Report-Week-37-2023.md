@@ -189,21 +189,21 @@ Secondhand Sales
 The newbuilding market continues to show healthy volumes overall and a wide variety of vessel types. In particular, tankers saw the most orders last week with 5 firm orders. UK-based Union Maritime ordered two Aframaxes from SWS, China, for delivery in 2026. The scrubber-equipped vessels are priced at \$66.0m each. In the smaller sizes, the Greek owner Meadway Shipping ordered a 42,300 dwt vessel at Oshima, Japan, for delivery during 2026. The only bulker order was an option exercised by Belgium's CMB for two 210,000 dwt vessels from Qingdao Behai. The price for the pair is not known, while the vessels will be ammonia-fuelled. In the LPG carrier sector, Lepta Shipping added four 40,000 cbm vessels to its order book with Jiangsu Yangzijiang, China. The quartet will be LPG dual-fuelled and all four will be chartered to Exmar. Each ship is priced at \$67.0m and is expected to be delivered between 2026 and 2027. Finally, Greek owner Erasmus Shipinvest placed an order for a small gas carrier of 7,500 cbm at Kyokuyo, Japan.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 15-Sep-23 | 8-Sep-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2022 | 2021 | 2020 |
+| Sector | Vessel | Size | 15-Sep-23 | 8-Sep-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 67.5 | 67.0 | *0.7%* | 67.5 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
-|  | Capesize | **180k** | 64.5 | 64.0 | *0.8%* | 64.5 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
-|  | Kamsarmax | **82k** | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
-|  | Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
-|  | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
-| **Tankers** | VLCC | **300k** | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
-|  | Suezmax | **160k** | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
-|  | Aframax | **115k** | 71.0 | 71.0 | 0.0% | 71.0 | 64.0 | 71.0 | 46.0 | 62 | 53 | 48 |
-|  | MR | **50k** | 47.0 | 47.0 | 0.0% | 47.0 | 44.0 | 47.0 | 34.0 | 43 | 38 | 35 |
-| **Gas** | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
-|  | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
-|  | MGC LPG 55k cbm |  | 88.0 | 87.5 | *0.6%* | 88.0 | 77.5 | 88.0 | 43.0 | 74 | 67 | 63 |
-|  | SGC LPG 25k cbm |  | 57.5 | 57.0 | *0.9%* | 57.5 | 53.0 | 57.5 | 40.0 | 51 | 45 | 42 |
+| Bulkers | Newcastlemax | 205k | 67.5 | 67.0 | 0.7% | 67.5 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 64.5 | 64.0 | 0.8% | 64.5 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 71.0 | 71.0 | 0.0% | 71.0 | 64.0 | 71.0 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 47.0 | 47.0 | 0.0% | 47.0 | 44.0 | 47.0 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 88.0 | 87.5 | 0.6% | 88.0 | 77.5 | 88.0 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 57.5 | 57.0 | 0.9% | 57.5 | 53.0 | 57.5 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

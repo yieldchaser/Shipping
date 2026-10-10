@@ -169,9 +169,9 @@ Supramax 10TC averaged \$ 11,969/day, down -1.72% w-o-w, while the Handysize 7TC
 | AFRA | SPERCHIOS | 106,999 | 2018 | NAMURA, Japan | MAN-B\&W |  | DH | $ 68.5m | Middle Eastern | scrubber fitted |
 | AFRA | ACE | 113,005 | 2008 | NEW TIMES, China | MAN-B\&W | Sep-23 | DH | high $ 30's | undisclosed |  |
 | LR1 | GULF CRYSTAL | 74,999 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B\&W | Nov-24 | DH | $ 29.50m | undisclosed | BWTS fitted |
-| LR1 | GULF HORIZON | 74,999 | 2005 | HYUNDAI, S. Korea | B\&W | Jul-25 | DH |  | undisclosed |  |
-| LR1 | GULF COAST | 74,999 | 2005 | HYUNDAI, S. Korea | B\&W | Nov-25 | DH | $ 61.2m | undisclosed | BWTS fitted |
-| LR1 | GULF PEARL | 74,999 | 2005 | HYUNDAI, S. Korea | B\&W | Apr-25 | DH |  | undisclosed |  |
+| LR1 | GULF HORIZON | 74,999 | 2005 | HYUNDAI, S. Korea | B\&W | Jul-25 | DH | $ 61.2m (en bloc) | undisclosed | BWTS fitted |
+| LR1 | GULF COAST | 74,999 | 2005 | HYUNDAI, S. Korea | B\&W | Nov-25 | DH | $ 61.2m (en bloc) | undisclosed | BWTS fitted |
+| LR1 | GULF PEARL | 74,999 | 2005 | HYUNDAI, S. Korea | B\&W | Apr-25 | DH | $ 61.2m (en bloc) | undisclosed | BWTS fitted |
 | MR1 | EASTERN QUINCE | 41,397 | 2009 | SLS, S. Korea | MAN-B\&W | May-24 | DH | high $ 21.0m | European |  |
 
 ## Bulk Carriers
@@ -191,21 +191,21 @@ Supramax 10TC averaged \$ 11,969/day, down -1.72% w-o-w, while the Handysize 7TC
 Last week was another strong week with a total of 15 firm orders, with several sizes in the spotlight. The bulker sector had 8 firm and 4 optional orders, while tankers had 3, while there was also some activity in the ro-ro sector. Norwegian owner Seatankers ordered four firm and four optional 82,000 dwt bulkers from Qingdao Yangfan in China for delivery between 2025 and 2026. Densay Shipping is also very active in the newbuilding market. After 2 Ultramaxes the week before, they came back with another 4, equally divided between two yards, Nantong Xiangyu and New Dayang. The vessels will be 63,000 dwt, ammonia ready and will be on the water in 2025 at a cost of \$32.5m each. In the tanker sector, Mitsui OSK Lines placed an order with Hyundai Mipo for a 48,000 dwt methanol dual fuel tanker to be delivered in 2025 at a cost of \$55.0m. The vessel is already in a long-term T/C with Mitsubishi Gas Chemical Co.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 19-May-23 | 12-May-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2022 | 2021 | 2020 |
+| Sector | Vessel | Size | 19-May-23 | 12-May-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 65.0 | 64.5 | 0.8% | 65.0 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
-|  | Capesize | **180k** | 62.0 | 61.5 | 0.8% | 62.0 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
-|  | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 66 | 59 | 51 |
-|  | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
-|  | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
-| **Tankers** | VLCC | **300k** | 124.0 | 123.0 | 0.8% | 124.0 | 120.0 | 124.0 | 84.5 | 118 | 98 | 88 |
-|  | Suezmax | **160k** | 82.0 | 81.0 | 1.2% | 82.0 | 76.0 | 82.0 | 55.0 | 79 | 66 | 58 |
-|  | Aframax | 115k | 68.0 | 68.0 | 0.0% | 68.0 | 64.0 | 68.0 | 46.0 | 62 | 53 | 48 |
-|  | MR | 50k | 44.5 | 44.5 | 0.0% | 44.5 | 44.0 | 44.5 | 34.0 | 43 | 38 | 35 |
-| **Gas** | LNG 174k cbm |  | 258.0 | 258.0 | 0.0% | 258.0 | 248.0 | 258.0 | 180.0 | 232 | 195 | 187 |
-|  | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
-|  | MGC LPG 55k cbm |  | 83.0 | 82.5 | 0.6% | 83.0 | 77.5 | 83.0 | 43.0 | 74 | 67 | 63 |
-|  | SGC LPG 25k cbm |  | 55.0 | 55.0 | 0.0% | 55.0 | 53.0 | 55.0 | 40.0 | 51 | 45 | 42 |
+| Bulkers | Newcastlemax | 205k | 65.0 | 64.5 | 0.8% | 65.0 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 62.0 | 61.5 | 0.8% | 62.0 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 66 | 59 | 51 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 124.0 | 123.0 | 0.8% | 124.0 | 120.0 | 124.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 82.0 | 81.0 | 1.2% | 82.0 | 76.0 | 82.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 68.0 | 68.0 | 0.0% | 68.0 | 64.0 | 68.0 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 44.5 | 44.5 | 0.0% | 44.5 | 44.0 | 44.5 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 258.0 | 258.0 | 0.0% | 258.0 | 248.0 | 258.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 83.0 | 82.5 | 0.6% | 83.0 | 77.5 | 83.0 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 55.0 | 55.0 | 0.0% | 55.0 | 53.0 | 55.0 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

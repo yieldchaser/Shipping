@@ -294,24 +294,21 @@ In the Handysize sector we had the sale of the "BASIC PRINCESS" (38,037dwt-blt '
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 17-Feb-23 | 10-Feb-23 | ±% | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 51 | 54 |
-| Capesize | 180k | 61.0 | 61.0 | 0.0% | 49 | 52 |
-| Kamsarmax | 82k | 34.0 | 34.0 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 31.5 | 31.5 | 0.0% | 26 | 28 |
-| Handysize | 38k | 29.0 | 28.5 | 1.8% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 |
-| Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 |
-| Aframax | 115k | 66.0 | 65.0 | 1.5% | 48 | 49 |
-| MR | 50k | 44.5 | 44.5 | 0.0% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 249.0 | 248.0 | 0.4% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 91.0 | 91.0 | 0.0% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 78.0 | 78.0 | 0.0% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 53.0 | 53.0 | 0.0% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 17-Feb-23 | 10-Feb-23 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 61.0 | 61.0 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.0 | 34.0 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 31.5 | 31.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 29.0 | 28.5 | 1.8% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 66.0 | 65.0 | 1.5% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.5 | 44.5 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 249.0 | 248.0 | 0.4% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 91.0 | 91.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 78.0 | 78.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 53.0 | 53.0 | 0.0% | 42 | 44 | 43 |
 
 The newbuilding market activity improved last week with a total of 31 units being ordered while owners' interest was split across all types of sectors. Tanker orders were on the rise, with 6 vessels being ordered which concerns exclusively product carriers units. On the container front, methanol fuelled units continue to attract owners' interest. French giant CMA-CGM ordered a further six 16,000 TEU methanol-fuelled ships, following on from its order for twelve similar vessels two weeks ago. South Korea's HMM ordered a total of nine 9,000 TEU methanol-fuelled boxships, seven of which will be built at Hyundai Samho and the other two at HJ Shipbuilding &amp; Construction. Bulker orders also emerged last week with three deals materializing, while it is interesting to mention that Greek owners have the lion's share of the conventional type of sector contracts with three out of the total six tanker/bulker deals being destined to Greek buyers.
 

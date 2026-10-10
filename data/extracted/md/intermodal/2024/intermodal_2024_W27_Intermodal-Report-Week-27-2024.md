@@ -223,23 +223,20 @@ Supramax 10TC averaged \$ 14,812/day down -3.98% w-o-w, while the Handysize 7TC 
 A plethora of newbuilding orders came to light during the previous week, with a total of 38 firm vessels being ordered. Tankers had the lions share with 22 vessels. There was a particular interest in LR1 vessels as Tsakos ordered two firm and two optional 75k dwt vessels from New Times and another one from Yangzijiang. The scrubber fitted vessels costed \$55m each and will be delivered between 2027 and 2028. The other owner active in LR1s was Gulf Energy Maritime, ordering four firm vessels from K Shipbuilding. On smaller sizes, the Greek owner Alimia Group ordered 5 MR2 tankers from Penglai Zhongbai in China to be delivered in 2026 and 2027. On bulkers, Winning International made a huge order for 6 ore carriers. The 325k dwt vessels will be scrubber fitted, will comply with EEDI Phase III regulations and the machine will be methanol ready.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 5-Jul-24 | 28-Jun-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 5-Jul-24 | 28-Jun-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
-| **Bulkers** | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
-| **Bulkers** | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-| **Bulkers** | Ultramax | 63k | 34.5 | 34.0 | 1.5% | 34.5 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-| **Bulkers** | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
-| **Tankers** | Suezmax | 160k | 89.5 | 89.5 | 0.0% | 89.5 | 85.0 | 89.5 | 55.0 | 82 | 79 | 66 |
-| **Tankers** | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
-| **Tankers** | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
-| **Gas** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-| **Gas** | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-| **Gas** | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.5 | 34.0 | 1.5% | 34.5 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 89.5 | 89.5 | 0.0% | 89.5 | 85.0 | 89.5 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -247,8 +244,8 @@ A plethora of newbuilding orders came to light during the previous week, with a 
 | 4 | Tanker | VLCC | Hanwha Ocean, S.Korea | 2026-2027 | Omanis (Asyad Shipping) | $ 130.0m |  |
 | 1 | Tanker | 75,000 dwt | Yangzijiang, China | 2027 | Greek (Tsakos) | $ 55.0m | scrubber fitted |
 | 2+2 | Tanker | 75,000 dwt | New Times, China | 2027-2028 | Greek (Tsakos) | $ 55.0m | scrubber fitted |
-| 4 | Tanker | 75,000 dwt | K Shipbuilding, South Korea | undisclosed | Dubai-based (GEM) | $ 392.0m |  |
-| 2 | Tanker | 50,000 dwt | K Shipbuilding, South Korea | undisclosed | Vietnamese (Asia Pacific Shipping) |  |  |
+| 4 | Tanker | 75,000 dwt | K Shipbuilding, South Korea | undisclosed | Dubai-based (GEM) | $ 392.0m (en bloc) |  |
+| 2 | Tanker | 50,000 dwt | K Shipbuilding, South Korea | undisclosed | Vietnamese (Asia Pacific Shipping) | $ 392.0m (en bloc) |  |
 | 5 | Tanker | MR2 | Penglai Zhongbai, China | 2026-2027 | Greek (Alimia Group) | undisclosed |  |
 | 4 | Tanker | 40,800 dwt | Wuhu, China | 2027 | Turkish (Trans KA Tanker) | undisclosed | NOx Tier III, EEDI Phase III |
 | 6 | Bulker | 325,000 dwt | Hengli HI Dalian, China | 2026-2027 | Singaporean (Winning International) | undisclosed | EEDI Phase III, scrubber fitted, methanol ready |
@@ -287,6 +284,6 @@ The demolition market saw little action this week, owing to high freight charges
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| HUA KAI | 6,819 | 2,408 | 1994 | DAE SUN, S. Korea | CONTAINER | $ 530.0m | Bangladeshi |
+| HUA KAI | 6,819 | 2,408 | 1994 | DAE SUN, S. Korea | CONTAINER | $ 530/Ldt | Bangladeshi |
 | MARZUK | 2,750 | 1,850 | 1974 | HOOGEZAND, Netherlands | GENERAL CARGO | undisclosed | Turkish |
 | BLUE STAR | 2,362 | 846 | 1986 | BIJLSMA SCHEEPSWERF, Netherlands | GENERAL CARGO | undisclosed | Turkish |

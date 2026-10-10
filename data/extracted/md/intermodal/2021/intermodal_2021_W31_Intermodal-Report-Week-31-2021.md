@@ -268,24 +268,21 @@ In the Supramax sector we had the sale of the "ADITYA" (55,496dwt-blt '08, Japan
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 06/08/2021 | 30/07/2021 | ±% | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 63.0 | 63.0 | 0.0% | 51 | 54 |
-| Capesize | 180k | 60.0 | 59.5 | 0.8% | 49 | 52 |
-| Kamsarmax | 82k | 34.5 | 34.5 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 32.5 | 32.5 | 0.0% | 26 | 28 |
-| Handysize | 38k | 28.5 | 28.0 | 1.8% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 102.0 | 101.0 | 1.0% | 88 | 92 |
-| Suezmax | 160k | 69.5 | 69.0 | 0.7% | 58 | 60 |
-| Aframax | 115k | 55.5 | 55.0 | 0.9% | 48 | 49 |
-| MR | 50k | 39.0 | 38.5 | 1.3% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 196.0 | 195.0 | 0.5% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 78.0 | 77.5 | 0.6% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 70.0 | 69.5 | 0.7% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 47.5 | 47.0 | 1.1% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 06/08/2021 | 30/07/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.0 | 63.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.0 | 59.5 | 0.8% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.5 | 34.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 32.5 | 32.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 28.5 | 28.0 | 1.8% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 102.0 | 101.0 | 1.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 69.5 | 69.0 | 0.7% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 55.5 | 55.0 | 0.9% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 39.0 | 38.5 | 1.3% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 196.0 | 195.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 78.0 | 77.5 | 0.6% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 70.0 | 69.5 | 0.7% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 47.5 | 47.0 | 1.1% | 42 | 44 | 43 |
 
 The stable activity extended in the newbuilding front throughout the past days. In contrast to the previous week, the recently surfaced newbuilding contracts include no bulker units with the majority of deals concerning gas carrier type of units. In the tanker sector, Greek owner Enesel declared two options for the construction of two scrubber fitted LR2 units at SWS and Daehan yards. The price at SWS is estimated to be around \$51.0 million with SWS charging a price of around \$50.0 million. On the gas carrier front, Celsius Shipping declared an option for one 180,000 cbm LNG unit at Samsung at a price of \$195.1 million while Hyundai LNG inked a deal for one more 174,000cbm LNG at DSME at a price of \$198.4 million which will be hired also in a long-term T/C to Repsol. At the same time, Phoenix Tankers concluded a deal for the construction of two dual fuelled 87,000cbm VLGC units at Namura Shipbuilding. Lastly, TS Lines continues to build its whopping orderbook with another boxship order. It came to light, that a contract for four firm plus two optional 1,100teu units was concluded between Fujian Mawei and TS Lines for an undisclosed price.
 
@@ -329,7 +326,7 @@ The stable activity extended in the newbuilding front throughout the past days. 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Tanker | 114,000 dwt | SWS, China | 2024 | Greek (Enesel) | around $50.0m | LR2, options declared, EEDI phase 3, Tier III, scrubber fitted |
-| 1 | Tanker | 114,000 dwt | Daehan, S. Korea | 2023 |  | around $51.0m |  |
+| 1 | Tanker | 114,000 dwt | Daehan, S. Korea | 2023 | Greek (Enesel) | around $51.0m | LR2, options declared, EEDI phase 3, Tier III, scrubber fitted |
 | 1 | LNG | 180,000 cbm | Samsung, S. Korea | 2024 | Danish (Celsius Shipping) | $ 195.1m | option declared |
 | 1 | LNG | 174,000 cbm | DSME, S. Korea | 2024 | South Korean (Hyundai LNG) | $ 198.4m | against long-term T/C to Repsol |
 | 2 | VLGC | 87,000 cbm | Namura, Japan | 2024 | Singaporean (Phoenix Tankers) | undisclosed | dual fuelled, EEDI phase 3 |

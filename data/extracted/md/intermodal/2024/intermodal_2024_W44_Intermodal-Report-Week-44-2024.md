@@ -225,9 +225,9 @@ Supramax 10TC averaged \$ 13,153/day down -4.13% w-o-w, while the Handysize 7TC 
 | UMAX | EY HAYDN | 63,608 | 2015 | CHENGXI, China | MAN-B\&W | Aug-25 | 4 X 30t CRANES | $ 23.5m | Chinese | Eco |
 | UMAX | SEACON FUZHOU | 63,342 | 2019 | NANTONG XIANGYU, China | MAN-B\&W | May-29 | 4 X 35t CRANES | $ 31.8m | Chinese | Eco |
 | SUPRA | GLOBAL GENESIS | 57,696 | 2010 | STX DALIAN, China | MAN-B\&W | Sep-25 | 4 X 30t CRANES | region $ 12.5m each | undisclosed |  |
-| SUPRA | GLOBAL BRAVE | 57,317 | 2010 | STX DALIAN, China | MAN-B\&W | May-25 | 4 X 30t CRANES |  |  |  |
-| SUPRA | GLOBAL FRONTIER | 57,298 | 2010 | STX DALIAN, China | MAN-B\&W | Aug-25 | 4 X 30t CRANES |  |  |  |
-| SUPRA | GLOBAL HOPE | 57,295 | 2010 | STX DALIAN, China | MAN-B\&W | Dec-25 | 4 X 30t CRANES |  |  |  |
+| SUPRA | GLOBAL BRAVE | 57,317 | 2010 | STX DALIAN, China | MAN-B\&W | May-25 | 4 X 30t CRANES | region $ 12.5m each | undisclosed |  |
+| SUPRA | GLOBAL FRONTIER | 57,298 | 2010 | STX DALIAN, China | MAN-B\&W | Aug-25 | 4 X 30t CRANES | region $ 12.5m each | undisclosed |  |
+| SUPRA | GLOBAL HOPE | 57,295 | 2010 | STX DALIAN, China | MAN-B\&W | Dec-25 | 4 X 30t CRANES | region $ 12.5m each | undisclosed |  |
 
 ---
 
@@ -237,21 +237,21 @@ A busy week for newbuildings, with notable activity in container and tanker sect
 
 In the tanker segment, Dynacom placed an order at Samsung HI for four Suezmax tankers set for delivery in 2027, at \$83.5m each. Moreover, the Singapore based MAC Shipping ordered four 25,900 dwt stainless steel chemical tankers at the Chinese yard Jiangxi New Jiangzhou. The price of each vessel reads \$50m, with expected delivery in 2026.
 
-# Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 1-Nov-24 | 25-Oct-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2021 | Year3 |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 1-Nov-24 | 25-Oct-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | 180k | 76.0 | 76.5 | -0.7% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | 82k | 37.25 | 37.5 | -0.7% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | 63k | 34.5 | 35.0 | -1.4% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
-|  | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 261.0 | 261.0 | 0.0% | 263.0 | 261.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 76.0 | 76.5 | -0.7% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.25 | 37.5 | -0.7% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.5 | 35.0 | -1.4% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 261.0 | 261.0 | 0.0% | 263.0 | 261.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
 
 ## Indicative Period Charters
 
@@ -291,7 +291,7 @@ Amidst the Diwali festivities, the recycling market witnessed another week of su
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FATMA SARI | 43,188 | 8,013 | 1994 | HYUNDAI, S. Korea | BC | $ 488.0m | Bangladeshi |  |
-| BOSS 7 | 18,469 | 4,531 | 1996 | CHEUNGGU MARINE, S. Korea | GENERAL CARGO | $ 473.0m | Indian |  |
-| SOFIA 3 | 12,839 | 3,732 | 1992 | SHIN KURUSHIMA, Japan | CONTAINER | $ 455.0m | Indian | 'as is' Khor Fakkan |
-| ARMADA SEJATI | 8,528 | 3,322 | 1991 | HAKATA, Japan | CONTAINER | $ 470.0m | Bangladeshi |  |
+| FATMA SARI | 43,188 | 8,013 | 1994 | HYUNDAI, S. Korea | BC | $ 488/Ldt | Bangladeshi |  |
+| BOSS 7 | 18,469 | 4,531 | 1996 | CHEUNGGU MARINE, S. Korea | GENERAL CARGO | $ 473/Ldt | Indian |  |
+| SOFIA 3 | 12,839 | 3,732 | 1992 | SHIN KURUSHIMA, Japan | CONTAINER | $ 455/Ldt | Indian | 'as is' Khor Fakkan |
+| ARMADA SEJATI | 8,528 | 3,322 | 1991 | HAKATA, Japan | CONTAINER | $ 470/Ldt | Bangladeshi |  |

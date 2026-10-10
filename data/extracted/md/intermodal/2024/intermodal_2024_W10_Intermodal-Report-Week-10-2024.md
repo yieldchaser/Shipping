@@ -287,6 +287,6 @@ The demolition industry is facing a severe shortage of vessels suitable for recy
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUVARNA SWARAJYA | 32,902 | 8,542 | 1998 | HYUNDAI HEAVY INDS - U, S. Korea | TANKER | $ 540.0m | BANGLADESH | 'as is' Colombo |
-| YAMTAI | 28,460 | 6,003 | 1994 | IMABARI, Japan | BC | $ 480.0m | BANGLADESH | 'as is' Singapore |
-| FAR EAST CHEER | 7,747 | 3,652 | 2007 | ZHEJIANG, China | CONTAINER | $ 530.0m | BANGLADESH |  |
+| SUVARNA SWARAJYA | 32,902 | 8,542 | 1998 | HYUNDAI HEAVY INDS - U, S. Korea | TANKER | $ 540/Ldt | BANGLADESH | 'as is' Colombo |
+| YAMTAI | 28,460 | 6,003 | 1994 | IMABARI, Japan | BC | $ 480/Ldt | BANGLADESH | 'as is' Singapore |
+| FAR EAST CHEER | 7,747 | 3,652 | 2007 | ZHEJIANG, China | CONTAINER | $ 530/Ldt | BANGLADESH |  |

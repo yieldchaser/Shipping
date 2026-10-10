@@ -180,8 +180,8 @@ Handysize also recorded a broadly positive week, though geopolitical caution per
 | AFRA | VOLTA RIVER | 105,839 | 2007 | TSUNEISHI, Japan | MAN B\&W | Aug-27 | DH | $ 33.0m | undisclosed |  |
 | MR2 | STI SENECA | 49,990 | 2015 | HYUNDAI MIPO, South Korea | MAN B\&W | Jun-30 | DH | $ 35.0m | undisclosed | Eco, Scrubber fitted |
 | MR2 | STI OSCEOLA | 49,990 | 2015 | HYUNDAI MIPO, South Korea | MAN B\&W | Apr-30 | DH | $ 35.0m | undisclosed | Eco, Scrubber fitted |
-| MR2 | FJELLANGER | 46,287 | 2010 | HYUNDAI MIPO, South Korea | MAN B\&W | Jan-30 | DH |  | undisclosed |  |
-| MR2 | FINNANGER | 46,251 | 2009 | HYUNDAI MIPO, South Korea | MAN B\&W | Jul-29 | DH | $ 48.0m | undisclosed | Marineline, Scrubber fitted |
+| MR2 | FJELLANGER | 46,287 | 2010 | HYUNDAI MIPO, South Korea | MAN B\&W | Jan-30 | DH | $ 48.0m (en bloc) | undisclosed | Marineline, Scrubber fitted |
+| MR2 | FINNANGER | 46,251 | 2009 | HYUNDAI MIPO, South Korea | MAN B\&W | Jul-29 | DH | $ 48.0m (en bloc) | undisclosed | Marineline, Scrubber fitted |
 | SMALL | ASIA EVERGREEN | 14,000 | 2012 | FUJIAN, China | MAN B\&W | Jun-27 | DH | excess $ 9,0m | undisclosed |  |
 
 ## Bulk Carriers
@@ -190,8 +190,8 @@ Handysize also recorded a broadly positive week, though geopolitical caution per
 | CAPE | CAPE SANDRA | 175,607 | 2011 | HHIC, Philippines | MAN B\&W | May-26 |  | $ 32.0m | undisclosed |  |
 | KMAX | SPIRIT OF HO-PING | 82,152 | 2011 | TSUNEISHI, Japan | MAN B\&W | Dec-28 |  | $ 19.5m | Greek |  |
 | KMAX | NORD AURIGA | 81,795 | 2020 | JIANGSU NEWYANGZI, China | MAN B\&W | May-30 |  | $ 32.0m | undisclosed | Scrubber fitted, Eco |
-| SUPRA | GENCO PREDATOR | 55,407 | 2005 | NACKS, China | B\&W | Feb-30 | 4 X 30,5t CRANES |  | undisclosed |  |
-| SUPRA | GENCO PICARDY | 55,257 | 2005 | NACKS, China | B\&W | Mar-30 | 4 X 30t CRANES | $ 21.0m | undisclosed |  |
+| SUPRA | GENCO PREDATOR | 55,407 | 2005 | NACKS, China | B\&W | Feb-30 | 4 X 30,5t CRANES | $ 21.0m (en bloc) | undisclosed |  |
+| SUPRA | GENCO PICARDY | 55,257 | 2005 | NACKS, China | B\&W | Mar-30 | 4 X 30t CRANES | $ 21.0m (en bloc) | undisclosed |  |
 | HANDY | ACTION TRADER | 39,481 | 2017 | JNS, China | MAN B\&W | Apr-27 | 4 X 30t CRANES | $ 20.0m | Greek | Eco |
 | HANDY | NORD SANTIAGO | 39,475 | 2018 | JNS, China | MAN B\&W | Jul-28 | 4 X 30t CRANES | $ 20.5m | European | Eco |
 | HANDY | SIDER ATHENA | 39,128 | 2013 | CHENGXI, China | Wartsila | Oct-28 | 4 X 30t CRANES | $ 17.5m | Turkish |  |

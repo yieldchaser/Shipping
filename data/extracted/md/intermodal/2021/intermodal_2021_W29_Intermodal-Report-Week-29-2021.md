@@ -268,7 +268,7 @@ In the Handysize sector we had the sale of the "ULTRA CALBUCO" (37,981dwt-blt '1
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | NORTHERN JULIE | 8,411 | 2005 | DAEWOO, S. Korea | MAN-B\&amp;W | Apr-25 |  | $ 85.0m | Swiss (MSC) | incl. T/C till 2022 |
-| POST PMAX | NORTHERN JADE | 8,411 | 2005 | DAEWOO, S. Korea | MAN-B\&amp;W | Aug-25 |  | $ 85.0m |  |  |
+| POST PMAX | NORTHERN JADE | 8,411 | 2005 | DAEWOO, S. Korea | MAN-B\&amp;W | Aug-25 |  | $ 85.0m | Swiss (MSC) | incl. T/C till 2022 |
 
 © Intermodal Research 27/07/2021 4
 
@@ -277,24 +277,21 @@ In the Handysize sector we had the sale of the "ULTRA CALBUCO" (37,981dwt-blt '1
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 23/07/2021 | 16/07/2021 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 62.5 | 62.5 | 0.0% | 51 | 54 | 51 |
-| Capesize | **180k** | 59.0 | 58.5 | **0.9%** | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 34.0 | 34.0 | 0.0% | 28 | 30 | 29 |
-| Ultramax | **63k** | 32.0 | 32.0 | 0.0% | 26 | 28 | 27 |
-| Handysize | **38k** | 27.0 | 27.0 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 101.0 | 100.5 | **0.5%** | 88 | 92 | 88 |
-| Suezmax | **160k** | 68.5 | 68.0 | **0.7%** | 58 | 60 | 58 |
-| Aframax | **115k** | 54.5 | 54.0 | **0.9%** | 48 | 49 | 47 |
-| MR | 50k | 38.0 | 37.5 | **1.3%** | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 194.0 | 193.0 | **0.5%** | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 77.0 | 76.5 | **0.7%** | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 69.0 | 68.5 | **0.7%** | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 46.5 | 46.0 | **1.1%** | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 23/07/2021 | 16/07/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 62.5 | 62.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 59.0 | 58.5 | 0.9% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.0 | 34.0 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 32.0 | 32.0 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 27.0 | 27.0 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 101.0 | 100.5 | 0.5% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 68.5 | 68.0 | 0.7% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 54.5 | 54.0 | 0.9% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 38.0 | 37.5 | 1.3% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 194.0 | 193.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 77.0 | 76.5 | 0.7% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 69.0 | 68.5 | 0.7% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 46.5 | 46.0 | 1.1% | 42 | 44 | 43 |
 
 The newbuilding market activity has seen another weekly round of strong appetite with Container sectors having the lion's share among last week's surfacing orders. Handysize units were present; Wisdom Marine inked a deal for four 40,000dwt vessels equally split between Imabari and Namura yards at a cost of around \$29.0 million each. On the Tanker realm, an option for one 155,000dwt shuttle tanker was exercised by Shanghai North Sea at DSIC while South Korean owner, Sinokor, concluded a deal for the construction of six 50,000dwt MR units at K Shipbuilding, formerly known as SXT Offshore &amp; Shipbuilding. The container sector continued to be extremely popular; a total of four 16,000teu units were ordered by CMB FL and Minsheng FL at GSI and DSIC respectively on the back of long-term T/C to MSC. Seaspan continues its massive orderbook with an order of ten 7,000teu boxships at Yangzijiang. Each vessel will cost around \$105.0 million while a T/C to Zim is linked to the initial deal. Lastly, TS Lines ordered one 1,900teu boxship at Huangpu Wenchong while Briese Schiffahrts declared an option for two more 1,800teu units at Huanghai Shipbuilding which are added to the previous four units ordered one month ago.
 
@@ -340,9 +337,9 @@ The newbuilding market activity has seen another weekly round of strong appetite
 | 1 | Tanker | 155,000 dwt | DSIC, China | 2023 | Chinese (Shanghai North Sea Shipping) | undisclosed | option declared, shuttle tanker |
 | 6 | Tanker | 50,000 dwt | K Shipbuilding, South Korea | 2023 | S.Korean (Sinokor) | $36.0-37.0m | against T/C to ExxonMobil, Tier III, EEDI phase 3 |
 | 2 | Bulker | 40,000 dwt | Imabari, Japan | 2023-2024 | Taiwanese (Wisdom Marine) | around $29.0m | EEDI phase 3 |
-| 2 | Bulker | 40,000 dwt | Namura, Japan | 2023-2024 |  | around $29.0m |  |
+| 2 | Bulker | 40,000 dwt | Namura, Japan | 2023-2024 | Taiwanese (Wisdom Marine) | around $29.0m | EEDI phase 3 |
 | 2 | Container | 16,000 teu | GSI, China | 2023-2024 | Chinese (CMB FL) | undisclosed | against long-term T/C to MSC, scrubber fitted, LNG fuelled |
-| 2 | Container | 16,000 teu | DSIC, China | 2023-2024 | Chinese (Minsheng FL) | undisclosed |  |
+| 2 | Container | 16,000 teu | DSIC, China | 2023-2024 | Chinese (Minsheng FL) | undisclosed | against long-term T/C to MSC, scrubber fitted, LNG fuelled |
 | 10 | Container | 7,000 teu | Yangzijiang, China | 2023-2024 | HK based (Seaspan) | $ 105.0m | LNG fuelled, against T/C to Zim |
 | 1 | Container | 1,900 teu | Huangpu Wenchong, China | 2022 | HK based (TS Lines) | undisclosed |  |
 | 2 | Container | 1,800 teu | Huanghai Shipbuilding, China | 2023 | German (Briese Schiffahrts) | undisclosed | options declared |

@@ -165,7 +165,7 @@ Secondhand Sales
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR1 | TWO MILLION WAYS | 73,965 | 2008 | ONOMICHI, Japan | MAN-B\&W | Feb-28 | DH | region $ 30.0m | Greek |  |
 | MR2 | STI SAN ANTONIO | 49,990 | 2014 | SPP, S. Korea | MAN-B\&W | Jun-29 | DH | $42.5m each | undisclosed | Scrubber fitted, Eco |
-| MR2 | STI TEXAS CITY | 49,990 | 2014 | SPP, S. Korea | MAN-B\&W | Mar-29 | DH |  |  |  |
+| MR2 | STI TEXAS CITY | 49,990 | 2014 | SPP, S. Korea | MAN-B\&W | Mar-29 | DH | $42.5m each | undisclosed | Scrubber fitted, Eco |
 | HANDY | LYDERHORN | 33,849 | 2006 | SHIN KURUSHIMA, Japan | Mitsubishi | Aug-26 | DH | $ 26.6m | undisclosed | StSt |
 | SMALL | FORTUNE SWAN | 11,260 | 2006 | STX, S. Korea | MAN-B\&W | May-26 | DH | $ 9.2m | undisclosed |  |
 
@@ -185,24 +185,21 @@ Secondhand Sales
 
 This week saw continued strong activity in the shipbuilding market, with a total of 47 vessels ordered across multiple segments. Greek owner Brave Maritime placed an order for two 52k dwt tankers from Hyundai HI, South Korea, with delivery expected in 2027. These vessels are priced at \$52.5 million each, reflecting the ongoing demand for mid-sized tankers. The bulk carrier segment was dominated by Chinese shipping giant COSCO Shipping, which secured a total of 17 bulkers across different sizes: 2x 82,5k dwt vessels from COSCO Yangzhou, at \$38.0 million each, scheduled for delivery in 2027. 13x 80,000 dwt vessels from COSCO Dalian, at \$43.0 million each, with delivery between 2026 and 2027, and 2x 64k dwt vessels from COSCO Zhoushan, at \$34.2 million each, to be delivered in 2027. On the LPG front, UK-based Purus Marine ordered 2 45k cbm LPG carriers from Hyundai Mipo, at \$74.0 million each, with delivery slated for 2027. Last, on containers, Maersk and Cosco were particularly active with a total of 32 from boxships and 12 optional.
 
-# Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 30-Aug-24 | 23-Aug-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 30-Aug-24 | 23-Aug-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
-| **Bulkers** | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
-| **Bulkers** | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-| **Bulkers** | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-| **Bulkers** | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
-| **Tankers** | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
-| **Tankers** | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
-| **Tankers** | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
-| **Gas** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 262.5 | 262.5 | 0.0% | 263.0 | 262.5 | 265.0 | 180.0 | 259 | 232 | 195 |
-| **Gas** | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-| **Gas** | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 262.5 | 262.5 | 0.0% | 263.0 | 262.5 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
 
 # Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -249,4 +246,4 @@ Yet another week with minimal activity in the demolition market as a result of s
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MEDELIN EXPO | 17,712 | 5,270 | 1993 | SHIN KURUSHIMA, Japan | TANKER | $ 653.0m | Indian | 'as is' Belawan with 275 Ts solid SUS 316 + 469 Ts |
+| MEDELIN EXPO | 17,712 | 5,270 | 1993 | SHIN KURUSHIMA, Japan | TANKER | $ 653/Ldt | Indian | 'as is' Belawan with 275 Ts solid SUS 316 + 469 Ts |

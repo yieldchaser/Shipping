@@ -263,17 +263,17 @@ In the Ultramax sector we had the sale of the "ATLANTIC MONTERREY" (63,590dwt-bl
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR1 | NAUTICAL DEBORAH | 75,343 | 2018 | Jiangsu Hantong, China | MAN-B\&amp;W | Jul-23 | DH |  |  |  |
-| LR1 | NAUTICAL SARAH | 75,144 | 2019 | Jiangsu Hantong, China | MAN-B\&amp;W | Apr-24 | DH | $ 153.0m | Turkish | Scrubber fitted, bss TC attached |
-| LR1 | NAUTICAL JANINE | 75,111 | 2019 | Jiangsu Hantong, China | MAN-B\&amp;W | Jan-24 | DH |  |  |  |
-| MR2 | VALLE BIANCA | 50,633 | 2007 | SPP, S. Korea | Wartsila | Oct-27 | DH |  |  |  |
-| MR2 | VALVERDE | 50,344 | 2008 | SPP, S. Korea | Wartsila | Apr-23 | DH |  |  |  |
-| MR2 | VALROSSA | 50,344 | 2008 | SPP, S. Korea | Wartsila | Mar-23 | DH |  |  |  |
+| LR1 | NAUTICAL DEBORAH | 75,343 | 2018 | Jiangsu Hantong, China | MAN-B\&amp;W | Jul-23 | DH | $ 153.0m (en bloc) | Turkish | Scrubber fitted, bss TC attached |
+| LR1 | NAUTICAL SARAH | 75,144 | 2019 | Jiangsu Hantong, China | MAN-B\&amp;W | Apr-24 | DH | $ 153.0m (en bloc) | Turkish | Scrubber fitted, bss TC attached |
+| LR1 | NAUTICAL JANINE | 75,111 | 2019 | Jiangsu Hantong, China | MAN-B\&amp;W | Jan-24 | DH | $ 153.0m (en bloc) | Turkish | Scrubber fitted, bss TC attached |
+| MR2 | VALLE BIANCA | 50,633 | 2007 | SPP, S. Korea | Wartsila | Oct-27 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
+| MR2 | VALVERDE | 50,344 | 2008 | SPP, S. Korea | Wartsila | Apr-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
+| MR2 | VALROSSA | 50,344 | 2008 | SPP, S. Korea | Wartsila | Mar-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
 | MR2 | VALLE AZZURRA | 49,999 | 2007 | SPP, S. Korea | Wartsila | Dec-27 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
-| MR1 | VALCADORE | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Feb-28 | DH |  |  |  |
-| MR1 | VALGARDENA | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jun-23 | DH |  |  |  |
-| MR1 | VALTELLINA | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | May-23 | DH |  |  |  |
-| MR1 | VALSESIA | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-23 | DH |  |  |  |
+| MR1 | VALCADORE | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Feb-28 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
+| MR1 | VALGARDENA | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jun-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
+| MR1 | VALTELLINA | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | May-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
+| MR1 | VALSESIA | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -296,24 +296,21 @@ In the Ultramax sector we had the sale of the "ATLANTIC MONTERREY" (63,590dwt-bl
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 7-Apr-23 | 31-Mar-23 | ±% | 2022 | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 64.5 | 64.5 | 0.0% | 66 | 59 | 51 |
-| Capesize | **180k** | 61.5 | 61.5 | 0.0% | 63 | 56 | 49 |
-| Kamsarmax | **82k** | 35.0 | 35.0 | 0.0% | 36 | 33 | 28 |
-| Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 34 | 30 | 26 |
-| Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30 | 27 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 120.0 | 120.0 | 0.0% | 118 | 98 | 88 |
-| Suezmax | **160k** | 76.0 | 76.0 | 0.0% | 79 | 66 | 58 |
-| Aframax | **115k** | 66.0 | 66.0 | 0.0% | 62 | 53 | 48 |
-| MR | **50k** | 44.0 | 44.0 | 0.0% | 43 | 38 | 35 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 254.0 | 254.0 | 0.0% | 232 | 195 | 187 |  |
-| LGC LPG 80k cbm | 92.0 | 92.0 | 0.0% | 86 | 76 | 73 |  |
-| MGC LPG 55k cbm | 80.0 | 80.0 | 0.0% | 74 | 67 | 63 |  |
-| SGC LPG 25k cbm | 53.5 | 53.5 | 0.0% | 51 | 45 | 42 |  |
+| Sector | Vessel | Size | 7-Apr-23 | 31-Mar-23 | ±% | 2022 | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.5 | 64.5 | 0.0% | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 61.5 | 61.5 | 0.0% | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 76.0 | 76.0 | 0.0% | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 66.0 | 66.0 | 0.0% | 62 | 53 | 48 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 254.0 | 254.0 | 0.0% | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 80.0 | 80.0 | 0.0% | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 53.5 | 53.5 | 0.0% | 51 | 45 | 42 |
 
 The past week was rather slow since many parts of the world were celebrating the Catholic Easter with only three contracts coming to light. The French giant CMA-CGM ordered a total of six 15,000 TEU containers which will be methanol dual-fuelled. The price and the delivery remain undisclosed. On the bulker sector, J. Lauritzen ordered two 81,200dwt Bulk Carriers which will be methanol dual-fuelled. The vessels were ordered at Tsuneishi Shipyard and will be delivered in 2026, while the price remained undisclosed. On the Tanker front, the Chinese owner EGPN has ordered four firm plus four optional 18,500dwt chemical tankers. The vessels will be delivered in 2025 and 2026 and they cost \$30m each.
 

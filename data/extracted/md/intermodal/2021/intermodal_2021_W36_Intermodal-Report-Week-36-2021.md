@@ -259,7 +259,7 @@ In the Supramax sector we had the sale of the "ATALANTI SB" (56,019dwt-blt '06, 
 | PMAX | NAVIOS ALTAIR I | 74,475 | 2006 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Dec-21 |  | $ 14.0m | Chinese | SS/DD due |
 | PMAX | SEA ARIRANG | 71,535 | 1994 | HITACHI ZOSEN, Japan | B\&amp;W | Dec-21 |  | rgn $ 6.0m | Chinese | Delivery November 2021, SS/DD due December 2021 |
 | UMAX | NAUTICAL RUNA | 63,577 | 2015 | JIANGSU HANTONG, China | MAN-B\&amp;W | Sep-25 | 4 X 36t CRANES | $ 26.0m | U.S. based | BWTS &amp; scrubber fitted, delivery December 2021 |
-| UMAX | NAUTICAL LUCIA | 63,548 | 2016 | JIANGSU HANTONG, China | MAN-B\&amp;W | Jan-26 | 4 X 36t CRANES | $ 27.0m |  |  |
+| UMAX | NAUTICAL LUCIA | 63,548 | 2016 | JIANGSU HANTONG, China | MAN-B\&amp;W | Jan-26 | 4 X 36t CRANES | $ 27.0m | U.S. based | BWTS &amp; scrubber fitted, delivery December 2021 |
 | SMAX | ATALANTI SB | 56,019 | 2006 | MITSUI, Japan | MAN-B\&amp;W | Feb-26 | 4 X 30t CRANES | $ 16.3m | Bangladeshi (Meghna) | BWTS fitted |
 | SMAX | BAO ELLA | 53,468 | 2006 | IMABARI, Japan | MAN-B\&amp;W | May-26 | 4 X 30,5t CRANES | $ 14.7m | undisclosed | SS/DD passed, BWTS fitted |
 | HMAX | JOSCO SUZHOU | 49,416 | 2004 | NACKS, China | B\&amp;W | Feb-24 | 4 X 25t CRANES | $ 13.5m | Chinese | online auction sale |
@@ -297,24 +297,21 @@ In the Supramax sector we had the sale of the "ATALANTI SB" (56,019dwt-blt '06, 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 10/09/2021 | 03/09/2021 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 63.5 | 63.0 | **0.8%** | 51 | 54 | 51 |
-| **Capesize** | **180k** | 60.5 | 60.0 | **0.8%** | 49 | 52 | 49 |
-| **Kamsarmax** | **82k** | 34.5 | 34.5 | 0.0% | 28 | 30 | 29 |
-| **Ultramax** | **63k** | 32.5 | 32.5 | 0.0% | 26 | 28 | 27 |
-| **Handysize** | **38k** | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 104.5 | 103.5 | **1.0%** | 88 | 92 | 88 |
-| **Suezmax** | **160k** | 71.5 | 70.5 | **1.4%** | 58 | 60 | 58 |
-| **Aframax** | **115k** | 57.5 | 57.0 | **0.9%** | 48 | 49 | 47 |
-| **MR** | 50k | 40.0 | 39.5 | **1.3%** | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 200.0 | 199.0 | **0.5%** | 187 | 186 | 181 |  |
-| **LGC LPG 80k cbm** | 79.0 | 78.0 | **1.3%** | 73 | 73 | 71 |  |
-| **MGC LPG 55k cbm** | 70.5 | 70.0 | **0.7%** | 63 | 65 | 63 |  |
-| **SGC LPG 25k cbm** | 48.0 | 47.5 | **1.1%** | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 10/09/2021 | 03/09/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.0 | 0.8% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.5 | 60.0 | 0.8% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.5 | 34.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 32.5 | 32.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 104.5 | 103.5 | 1.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 71.5 | 70.5 | 1.4% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 57.5 | 57.0 | 0.9% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 40.0 | 39.5 | 1.3% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 200.0 | 199.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 79.0 | 78.0 | 1.3% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 70.5 | 70.0 | 0.7% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 48.0 | 47.5 | 1.1% | 42 | 44 | 43 |
 
 In contrast to the previous week's activity where a total of 41 boxships were ordered summing the whooping number of approximately 50,500teu, the recent newbuilding activity did not include any container contract. Last week, we saw a decent number of bulker units being concluded; Norwegian owner Golden Ocean inked a deal for the construction of three dual fuelled 85,000dwt Kamsarmax units at DSIC for a price of around \$34.0 million each. Furthermore, it was a very active week for Ciner Shipping; the Turkish owner concluded a deal for the construction of three conventionally fuelled 88,800dwt units at Chengxi shipyard for a price of around \$34.0 million each and four 63,000 Ultramax vessels at New Dayang for an undisclosed price. In the tanker sector, we have observed another week of muted crude carrier activity. Only one order for one firm plus one optional 37,000dwt asphalt/bitumen carrier was materialized last week. The vessel will be constructed at Chgenxi yard on behalf of Vitol, its price is estimated at around \$39.0 million while it will use conventional fuels as well. Lastly, four 174,000cbm LNG units were ordered by Mitsui OSK Lines at DSME yard against a time charter to Russian giant Novatek.
 

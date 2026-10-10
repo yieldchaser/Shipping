@@ -221,21 +221,21 @@ Supramax 10TC averaged \$ 14,994/day down -5.90% w-o-w, while the Handysize 7TC 
 
 Tankers were again in focus last week in the shipbuilding market, with a total of 10 tankers being contracted and only 4 bulk carriers. Capital Maritime exercised options for 2 VLCCs, held in DSIC in China for \$ 140.0m each. The 307k dwt vessels are LNF dual-fueled and are expected in 2026-27. On bulkers, the Greek owner Veritas Shipmanagement ordered two Kamsarmaxes from Hengli HI, in China, for \$ 38.0m each and 2026 delivery. On other vessels, X-Press Feeders ordered four 10k TEU boxships from SWS in China, to be delivered in 2027 and costing \$ 115.0m. Last, Wallenius Wilhelmsen exercised options for four 9.3k ceu PCTC vessels to be delivered between 2026 and 2028, while the fee remains undisclosed.
 
-# Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 24-May-24 | 17-May-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2021 | Year3 |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 24-May-24 | 17-May-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 77.0 | 76.0 | 1.3% | 77.0 | 70.0 | 77.0 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | **180k** | 73.5 | 72.5 | 1.4% | 73.5 | 67.5 | 73.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | **82k** | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | **63k** | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | **38k** | 30.5 | 30.0 | 1.7% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | **300k** | 130.5 | 130.5 | 0.0% | 130.0 | 128.0 | 130.0 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | **160k** | 88.0 | 88.0 | 0.0% | **88.0** | 85.0 | **88.0** | 55.0 | 82 | 79 | 66 |
-|  | Aframax | **115k** | 75.0 | 75.0 | 0.0% | 75.0 | 73.0 | 75.0 | 46.0 | 69 | 62 | 53 |
-|  | MR | **50k** | 51.0 | 51.0 | 0.0% | 51.0 | 48.0 | 51.0 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 77.0 | 76.0 | 1.3% | 77.0 | 70.0 | 77.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 73.5 | 72.5 | 1.4% | 73.5 | 67.5 | 73.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.0 | 1.7% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 130.5 | 130.5 | 0.0% | 130.0 | 128.0 | 130.0 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 88.0 | 88.0 | 0.0% | 88.0 | 85.0 | 88.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 75.0 | 73.0 | 75.0 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.0 | 51.0 | 0.0% | 51.0 | 48.0 | 51.0 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
 
 # Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -281,10 +281,10 @@ Another subdued week for the recycling industry with signs of recovery, particul
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| EVER URANUS | 63,216 | 24,328 | 1999 | MITSUBISHI, Japan | CONTAINER | $ 542.0m | undisclosed | as is Port Kelang |
-| UNITED ID | 38,855 | 7,173 | 1991 | IHI, Japan | BC | $ 529.0m | undisclosed |  |
-| URANUS J | 26,428 | 5,778 | 1995 | HAKODATE, Japan | BC | $ 525.0m | undisclosed |  |
-| UNI-ASSURE | 15,511 | 7,099 | 1999 | EVERGREEN, Japan | CONTAINER | $ 373.0m | undisclosed | as is Piraeus |
-| SURYA AKI | 11,612 | 8,168 | 1996 | KAWASAKI, Japan | GAS TANKER | $ 660.0m | undisclosed | HKC recycling & 1100 bunkers |
-| BAO DI LONG 8 | 10,327 | 3,133 | 2006 | LINHAI HONGZHOU, China | GENERAL CARGO | $ 485.0m | Bangladeshi |  |
+| EVER URANUS | 63,216 | 24,328 | 1999 | MITSUBISHI, Japan | CONTAINER | $ 542/Ldt | undisclosed | as is Port Kelang |
+| UNITED ID | 38,855 | 7,173 | 1991 | IHI, Japan | BC | $ 529/Ldt | undisclosed |  |
+| URANUS J | 26,428 | 5,778 | 1995 | HAKODATE, Japan | BC | $ 525/Ldt | undisclosed |  |
+| UNI-ASSURE | 15,511 | 7,099 | 1999 | EVERGREEN, Japan | CONTAINER | $ 373/Ldt | undisclosed | as is Piraeus |
+| SURYA AKI | 11,612 | 8,168 | 1996 | KAWASAKI, Japan | GAS TANKER | $ 660/Ldt | undisclosed | HKC recycling & 1100 bunkers |
+| BAO DI LONG 8 | 10,327 | 3,133 | 2006 | LINHAI HONGZHOU, China | GENERAL CARGO | $ 485/Ldt | Bangladeshi |  |
 | SKYMOON KING | 4,336 | 1,240 | 1988 | ZHONGHUA, China | GENERAL CARGO | undisclosed | Turkish |  |

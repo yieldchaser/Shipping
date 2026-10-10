@@ -246,24 +246,21 @@ Contracting activity remained stable week-on-week, with transactions emerging in
 Kamsarmax and two Ultramax vessels at Nantong Xiangyu, with the Kamsarmaxes priced at \$34.0 million each and the Ultramaxes at \$32.5 million each, slated for delivery in 2025. Finally, a significant order was confirmed, involving four firm and six optional 93,000 cbm VLACs between Hyundai Samho and the Danish company Maersk, with each vessel priced at \$110.0 million, bringing the total value of the order (including options) to over 1.0 billion dollars.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 1-Dec-23 | 24-Nov-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2022 | 2021 | 2020 |
+| Sector | Vessel | Size | 1-Dec-23 | 24-Nov-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 69.0 | 68.5 | 0.7% | 69.0 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
-| **Bulkers** | Capesize | **180k** | 66.0 | 65.5 | 0.8% | 66.0 | 61.0 | 66.0 | 48.5 | 63 | 56 | 49 |
-| **Bulkers** | Kamsarmax | **82k** | 35.5 | 35.5 | 0.0% | 35.5 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
-| **Bulkers** | Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
-| **Bulkers** | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | **300k** | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
-| **Tankers** | Suezmax | **160k** | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
-| **Tankers** | Aframax | **115k** | 72.0 | 72.0 | 0.0% | 71.5 | 64.0 | 71.5 | 46.0 | 62 | 53 | 48 |
-| **Tankers** | MR | 50k | 47.5 | 47.5 | 0.0% | 47.5 | 44.0 | 47.5 | 34.0 | 43 | 38 | 35 |
-| **Gas** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
-| **Gas** | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
-| **Gas** | MGC LPG 55k cbm |  | 91.5 | 91.5 | 0.0% | 18.4 | 77.5 | 92.5 | 43.0 | 74 | 67 | 63 |
-| **Gas** | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
+| Bulkers | Newcastlemax | 205k | 69.0 | 68.5 | 0.7% | 69.0 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 66.0 | 65.5 | 0.8% | 66.0 | 61.0 | 66.0 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.5 | 35.5 | 0.0% | 35.5 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 72.0 | 72.0 | 0.0% | 71.5 | 64.0 | 71.5 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 47.5 | 47.5 | 0.0% | 47.5 | 44.0 | 47.5 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 91.5 | 91.5 | 0.0% | 18.4 | 77.5 | 92.5 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -271,7 +268,7 @@ Kamsarmax and two Ultramax vessels at Nantong Xiangyu, with the Kamsarmaxes pric
 | 2 | Tanker | 115,000 dwt | New Times, China | - | Greek (Minerva) | undisclosed | LOI stage, LNG fuelled, LR2 |
 | 4+2 | Tanker | 40,000 dwt | Xiamen, China | 2026 | German (German Tanker Shipping) | $ 55.0m | ice class, IMO II/III |
 | 2 | Bulker | 82,000 dwt | Nantong Xiangyu, China | 2025 | Japanese (Doun Kisen) | $ 34.0m |  |
-| 2 | Bulker | 63,500 dwt |  | 2025 |  | $ 32.5m |  |
+| 2 | Bulker | 63,500 dwt | Nantong Xiangyu, China | 2025 | Japanese (Doun Kisen) | $ 32.5m |  |
 | 4 | General Cargo | 5,000 dwt | Dung Quat, Vietnam | 2025-2026 | JV between CMB and Boeckmans | undisclosed | hydrogen-powered |
 | 4+6 | VLAC | 93,000 dwt | Hyundai Samho, S. Korea | 2027 | Danish (Maersk) | $ 108.2m | conventionally fuelled |
 

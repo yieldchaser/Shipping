@@ -198,14 +198,14 @@ The Handysize segment continues to move sideways, with limited fresh drivers to 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | ASIA ASCEND | 115,444 | 2004 | SAMSUNG, S. Korea | B\&W | Jul-29 | DH | $ 32.5m | Chinese |  |
 | MR2 | STI BLACK HAWK | 49,990 | 2015 | HYUNDAI MIPO, S. Korea | MAN B\&W | Sep-30 | DH | $ 35,0m each | undisclosed | Scrubber fitted, Eco |
-| MR2 | STI BROOKLYN | 49,990 | 2015 | SPP, South Korea | MAN B\&W | Jul-30 | DH |  |  |  |
+| MR2 | STI BROOKLYN | 49,990 | 2015 | SPP, South Korea | MAN B\&W | Jul-30 | DH | $ 35,0m each | undisclosed | Scrubber fitted, Eco |
 | MR1 | RINELLA M | 40,441 | 2006 | CONSTANTA, Romania | MAN B\&W | Jul-26 | DH | $ 13.0m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KMAX | SEACON VANCOUVER | 85,688 | 2023 | HUANGPU WENCHONG, China | MAN B\&W | Jun-28 |  | $ 36,0m each | undisclosed | Wide Beam, Eco |
-| KMAX | SEACON OSLO | 85,507 | 2023 | HUANGPU WENCHONG, China | MAN B\&W | Sep-28 |  |  |  |  |
+| KMAX | SEACON OSLO | 85,507 | 2023 | HUANGPU WENCHONG, China | MAN B\&W | Sep-28 |  | $ 36,0m each | undisclosed | Wide Beam, Eco |
 | KMAX | DONGHAE STAR | 82,861 | 2012 | STX, South Korea | MAN B\&W | May-27 |  | low $ 17,0m | undisclosed |  |
 | KMAX | DIAMANTINA | 82,139 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN B\&W | Mar-30 |  | $ 19.0m | UAE based |  |
 | KMAX | JOHN M CARRAS | 82,057 | 2012 | DAEWOO, South Korea | MAN B\&W | Jan-27 |  | $ 18.2m | Greek |  |
@@ -227,20 +227,20 @@ In containerships, Cosco Shipping ordered 12 LNG dual fuel 14k teu boxships at H
 Elsewhere, JP Morgan booked a pair of VLGCs at Samsung HI, at \$113m per unit. Byzantine Maritime also secured a duo of 40k cbm LPG carriers at HD Hyundai HI, due in 2029, valued at \$79m per unit. Finally, CNOOC commissioned a pair of AHTS vessels at Jiangmen Hantong, at \$25.4m apiece.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 3-Apr-26 | 27-Mar-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2025 | 2024 | 2023 |
+| Sector | Vessel | Size | 3-Apr-26 | 27-Mar-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2025 | Average 2024 | Average 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 78.0 | 78.0 | 0.0% | 78.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | **82k** | 36.5 | 36.5 | 0.0% | 36.5 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 34.8 |
-|  | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 33.5 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
-|  | Handysize | 38k | 29.5 | 29.5 | 0.0% | 29.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 130.0 | 129.5 | 0.4% | 130.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
-|  | Suezmax | 160k | 88.5 | 88.5 | 0.0% | **88.5** | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
-|  | Aframax | 115k | 76.5 | 76.5 | 0.0% | 76.5 | 75.0 | 77.5 | 46.0 | 76.0 | 76.0 | 68.7 |
-|  | MR | 50k | 50.0 | 50.0 | 0.0% | 50.0 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
-| **Gas** | LNG 174k cbm |  | 248.5 | 248.5 | 0.0% | 248.5 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
-|  | MGC LPG 55k cbm |  | 82.5 | 82.5 | 0.0% | **84.0** | 82.5 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 59.5 | 59.5 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 78.0 | 78.0 | 0.0% | 78.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 36.5 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 34.8 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 33.5 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
+| Bulkers | Handysize | 38k | 29.5 | 29.5 | 0.0% | 29.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 130.0 | 129.5 | 0.4% | 130.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
+| Tankers | Suezmax | 160k | 88.5 | 88.5 | 0.0% | 88.5 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
+| Tankers | Aframax | 115k | 76.5 | 76.5 | 0.0% | 76.5 | 75.0 | 77.5 | 46.0 | 76.0 | 76.0 | 68.7 |
+| Tankers | MR | 50k | 50.0 | 50.0 | 0.0% | 50.0 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
+| Gas | LNG 174k cbm |  | 248.5 | 248.5 | 0.0% | 248.5 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
+| Gas | MGC LPG 55k cbm |  | 82.5 | 82.5 | 0.0% | 84.0 | 82.5 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 59.5 | 59.5 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

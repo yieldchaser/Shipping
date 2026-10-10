@@ -222,8 +222,8 @@ Supramax 10TC averaged \$ 11,518/day while the Handysize 7TC averaged \$ 10,730/
 | SUPRA | KING BATON ROUGE | 55,884 | 2014 | MITSUI CHIBA, Japan | MAN-B\&amp;W | May-24 | 4 X 30t CRANES | xs $ 21.0m | undisclosed | BWTS fitted |
 | SUPRA | MERIDA | 56,670 | 2012 | TAIZHOU KOUAN, China | Mitsubishi | Jan-26 | 4 X 30t CRANES | $ 13.1m | undisclosed | BWTS fitted |
 | SUPRA | PU LAN HAI | 56,897 | 2010 | COSCO DALIAN, China | MAN-B\&amp;W | Mar-25 | 4 X 30t CRANES | $ 12.2m | undisclosed | BWTS &amp; scrubber fitted |
-| SUPRA | PACIFIC 08 | 52,471 | 2004 | TSUNEISHI, Japan | B\&amp;W | Sep-24 | 4 X 30t CRANES | $ 16.0m | undisclosed | BWTS fitted |
-| SUPRA | PACIFIC 07 | 53,343 | 2003 | TOYOHASHI, Japan | MAN-B\&amp;W | Mar-28 | 4 X 30t CRANES |  |  | BWTS fitted |
+| SUPRA | PACIFIC 08 | 52,471 | 2004 | TSUNEISHI, Japan | B\&amp;W | Sep-24 | 4 X 30t CRANES | $ 16.0m (en bloc) | undisclosed | BWTS fitted |
+| SUPRA | PACIFIC 07 | 53,343 | 2003 | TOYOHASHI, Japan | MAN-B\&amp;W | Mar-28 | 4 X 30t CRANES | $ 16.0m (en bloc) | undisclosed | BWTS fitted |
 | HMAX | BAO JIA | 48,913 | 1999 | IHI, Japan | Sulzer | Jun-24 | 4 X 25t CRANES | $ 5.3m | Chinese | BWTS fitted |
 | HANDY | NORDIC LONDON | 34,904 | 2010 | TK, S. Korea | MAN-B\&amp;W | Jun-25 | 4 X 30t CRANES | $ 12.5m | Turkish | BWTS fitted, boxed, bss dely Mar/Apr '24 |
 | HANDY | GLORIOUS JUPITER | 26,091 | 2013 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | May-28 | 3 X 30,7t CRANES | xs $ 12.0m | undisclosed | BWTS fitted |

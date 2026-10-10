@@ -284,10 +284,10 @@ In the Supramax sector we had the sale of the "SHAIL AL RUWAIS" (52,822dwt-blt '
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | ITAL LIRICA | 5,090 | 2007 | HANJIN HI, S. Korea | MAN-B&amp;W | Apr-22 |  |  |  |
+| PMAX | ITAL LIRICA | 5,090 | 2007 | HANJIN HI, S. Korea | MAN-B&amp;W | Apr-22 |  | undisclosed | French (CMA CGM) |
 | PMAX | ITAL LAGUNA | 5,090 | 2006 | HANJIN HI, S. Korea | MAN-B&amp;W | Nov-21 |  | undisclosed | French (CMA CGM) |
-| PMAX | ITAL LUNARE | 5,090 | 2007 | HANJIN HI, S. Korea | MAN-B&amp;W | May-22 |  |  |  |
-| PMAX | ITAL LIBERA | 5,090 | 2007 | HANJIN HI, S. Korea | MAN-B&amp;W | Feb-22 |  |  |  |
+| PMAX | ITAL LUNARE | 5,090 | 2007 | HANJIN HI, S. Korea | MAN-B&amp;W | May-22 |  | undisclosed | French (CMA CGM) |
+| PMAX | ITAL LIBERA | 5,090 | 2007 | HANJIN HI, S. Korea | MAN-B&amp;W | Feb-22 |  | undisclosed | French (CMA CGM) |
 | PMAX | XIN FENG YANG PU | 3,739 | 2002 | SAMSUNG, S. Korea | Sulzer |  | 2 X 45t CRANES | $ 30.0m | undisclosed |
 | FEEDER | BUSAN TRADER | 2,664 | 2009 | STX, S. Korea | MAN-B&amp;W | Nov-24 | 4 X 45t CRANES | $ 35.0m | undisclosed |
 | FEEDER | VEGA SIGMA | 1,118 | 2007 | QINGSHAN, China | MAN | Nov-22 | 2 X 45t CRANES | mid $ 15.0m | Swiss (MSC) |
@@ -300,24 +300,21 @@ In the Supramax sector we had the sale of the "SHAIL AL RUWAIS" (52,822dwt-blt '
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 27/08/2021 | 20/08/2021 | ±% | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 63.0 | 63.0 | 0.0% | 51 | 54 |
-| Capesize | 180k | 60.0 | 60.0 | 0.0% | 49 | 52 |
-| Kamsarmax | 82k | 34.5 | 34.5 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 32.5 | 32.5 | 0.0% | 26 | 28 |
-| Handysize | 38k | 28.5 | 28.5 | 0.0% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 103.0 | 102.5 | 0.5% | 88 | 92 |
-| Suezmax | 160k | 70.5 | 70.0 | 0.7% | 58 | 60 |
-| Aframax | 115k | 56.5 | 56.0 | 0.9% | 48 | 49 |
-| MR | 50k | 39.5 | 39.5 | 0.0% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 198.0 | 197.0 | 0.5% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 78.0 | 78.0 | 0.0% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 70.0 | 70.0 | 0.0% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 47.5 | 47.5 | 0.0% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 27/08/2021 | 20/08/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.0 | 63.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.0 | 60.0 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.5 | 34.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 32.5 | 32.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 103.0 | 102.5 | 0.5% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 70.5 | 70.0 | 0.7% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 56.5 | 56.0 | 0.9% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 39.5 | 39.5 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 198.0 | 197.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 78.0 | 78.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 70.0 | 70.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 47.5 | 47.5 | 0.0% | 42 | 44 | 43 |
 
 Last week, newbuilding contracts for non-conventional type of units have almost monopolized owners interest while the absence of tanker units for a third consecutive week cannot go unnoticed. In the dry bulk sector, Croatian owner Jadroplov concluded a deal with an undisclosed Chinese yard for the construction of two firm plus one optional 63,000dwt Ultramax vessels. Gas carrier sector was popular last week; it came to light that Celsius Shipping declared an option for two 186,000cbm LNG units at Samsung at a price of \$196.2m each. One dual fuelled 86,700cbm was ordered by K-Line at Kawasaki yard while Hyundai Glovis has also inked a deal with Hyundai Samho for the construction of two 86,000cbm VLGC vessels. Each vessel will cost around \$84.0m and will be able to use both LPG and conventional fuels. Container deals were also present with a total of 10 feeder boxships being ordered last week. Norwegian owner Songa ordered two 1,692teu boxships at Huanghai Shipbuilding while two 1,140teu units were ordered by StarOcean Marine at Fujian Southeast for a price of around \$20.0m each.
 

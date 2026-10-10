@@ -208,13 +208,13 @@ The Handysize market ticked higher, though the improvement was regionally uneven
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | RTM CARTIER | 205,507 | 2012 | HHIC, Philippines | MAN B\&W | Aug-27 |  | excess $ 90,0m | Chinese | Eco |
-| NEWCASTLEMAX | RTM ZHENG HE | 205,431 | 2012 | HHIC, Philippines | MAN B\&W | Nov-27 |  |  |  |  |
+| NEWCASTLEMAX | RTM CARTIER | 205,507 | 2012 | HHIC, Philippines | MAN B\&W | Aug-27 |  | excess $ 90,0m (en bloc) | Chinese | Eco |
+| NEWCASTLEMAX | RTM ZHENG HE | 205,431 | 2012 | HHIC, Philippines | MAN B\&W | Nov-27 |  | excess $ 90,0m (en bloc) | Chinese | Eco |
 | UMAX | ASL IXORA | 61,470 | 2012 | SHIN KASADO, Japan | MAN B\&W | Jan-27 | 4 X 30,5t CRANES | excess $ 20,0m | Chinese |  |
 | CAPE | BULK JOYANCE | 175,636 | 2012 | JINHAI, China | MAN B\&W | Apr-27 |  | $ 33.0m | undisclosed |  |
 | POST PMAX | LESTARI MANJUNG | 93,200 | 2011 | Jiangsu Newyangzi, China | MAN B\&W | Sep-30 |  | $ 14.0m | undisclosed |  |
-| KMAX | SEACON NOLA | 85,611 | 2023 | HUANGPU WENCHONG, China | MAN B\&W | Jan-28 |  | $ 72.0m | Middle Eastern | Wide Beam, Eco |
-| KMAX | SEACON HAMBURG | 85,505 | 2023 | HUANGPU WENCHONG, China | MAN B\&W | Apr-28 |  |  |  |  |
+| KMAX | SEACON NOLA | 85,611 | 2023 | HUANGPU WENCHONG, China | MAN B\&W | Jan-28 |  | $ 72.0m (en bloc) | Middle Eastern | Wide Beam, Eco |
+| KMAX | SEACON HAMBURG | 85,505 | 2023 | HUANGPU WENCHONG, China | MAN B\&W | Apr-28 |  | $ 72.0m (en bloc) | Middle Eastern | Wide Beam, Eco |
 | KMAX | SIROCCO | 82,000 | 2014 | SAINTY, China | MAN B\&W | Jan-29 |  | excess $ 20,0m | undisclosed |  |
 | HANDY | BRAVE STAR | 38,241 | 2019 | KANDA, Japan | J-ENG | Nov-29 | 4 X 30,5t CRANES | $ 28.5m | undisclosed | OHBS, bss 36 months BBHP |
 
@@ -233,20 +233,20 @@ ping secured a pair of 40.5k dwt oil/chemical tankers at Wuhu Shipyard for 2028-
 On the containership side, OOIL ordered a 12-unit series of 13.6k teu LNG dual-fuel containerships at Hudong Zhonghua for 2028-2030 delivery at \$185m per vessel. German D. Oltmann inked an order for a pair of 10.1k teu boxships at HJSC Yeongdo, scheduled for 2028 delivery at \$120.6m each. Costamare secured two separate series at DSIC, 12 units of 9.2k teu for 2028-2030 delivery, and a further quartet of 3.1k teu vessels for 2027-2028. Chinese CU Lines placed an order for a quartet of 6.4k teu containerships at Huangpu Wenchong Shipbuilding for 2029-2030 at \$75m per unit. Euroseas contracted a pair of 2.8k teu vessels at Huanghai Shipbuilding at \$46.5m each and separately agreed with Nantong CIMC SOE for a pair of 1.8k teu units, due in 2028 at \$32.5m apiece.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 1-May-26 | 24-Apr-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2025 | 2024 | 2023 |
+| Sector | Vessel | Size | 1-May-26 | 24-Apr-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2025 | Average 2024 | Average 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 78.5 | 78.5 | 0.0% | 78.5 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 75.5 | 75.5 | 0.0% | 75.5 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | 82k | 37.0 | 37.0 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 34.8 |
-|  | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.0 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
-|  | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
-|  | Suezmax | 160k | 89.0 | 89.0 | 0.0% | 89.0 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
-|  | Aframax | 115k | 77.0 | 77.0 | 0.0% | 77.0 | 75.0 | 77.5 | 46.0 | 76.0 | 76.0 | 68.7 |
-|  | MR | 50k | 50.0 | 50.0 | 0.0% | 50.0 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
-| **Gas** | LNG 174k cbm |  | 248.5 | 248.5 | 0.0% | 248.5 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
-|  | MGC LPG 55k cbm |  | 83.0 | 83.0 | 0.0% | **84.0** | 83.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 78.5 | 78.5 | 0.0% | 78.5 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 75.5 | 75.5 | 0.0% | 75.5 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 37.0 | 37.0 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 34.8 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.0 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
+| Tankers | Suezmax | 160k | 89.0 | 89.0 | 0.0% | 89.0 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
+| Tankers | Aframax | 115k | 77.0 | 77.0 | 0.0% | 77.0 | 75.0 | 77.5 | 46.0 | 76.0 | 76.0 | 68.7 |
+| Tankers | MR | 50k | 50.0 | 50.0 | 0.0% | 50.0 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
+| Gas | LNG 174k cbm |  | 248.5 | 248.5 | 0.0% | 248.5 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
+| Gas | MGC LPG 55k cbm |  | 83.0 | 83.0 | 0.0% | 84.0 | 83.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

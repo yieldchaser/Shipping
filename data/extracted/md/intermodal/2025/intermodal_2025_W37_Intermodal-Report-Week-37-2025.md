@@ -224,20 +224,20 @@ Newbuilding activity maintained a healthy pace, adding 8 fresh orders to the ord
 The containership segment remained quite active. Navios ordered 4 scrubber-fitted 8.85k teu units at HJ Shipbuilding valued \$115.1m each. Singapore-based Flex Box contracted HD KSOE for 4 vessels of 8k teu, at \$117.5m per ship with estimated delivery in 2028. Meanwhile, the Turkish Ciner Denizcilik ordered 2 units of 3.1k teu each at New Dayang at \$44m per unit. Other orders included a pair of 3k teu vessels from the Chinese Zhongxin Funeng at the compatriot Dayang Offshore, while Minerva Marine ordered 2 feeders of 1.8k teu each at Huanghai Shipbuilding, China estimated at \$30–33m each, dye for delivery in 2027-2028.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 12-Sep-25 | 5-Sep-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2023 | 2022 |
+| Sector | Vessel | Size | 12-Sep-25 | 5-Sep-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 77.0 | 77.0 | 0.0% | 79.0 | 77.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 73.5 | 73.5 | 0.0% | 75.0 | 73.5 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-|  | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-|  | Handysize | 38k | 29.5 | 29.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 126.0 | 126.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-|  | Suezmax | 160k | 85.5 | 86.0 | -0.6% | 90.0 | 85.5 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-|  | Aframax | 115k | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-|  | MR | 50k | 48.5 | 49.0 | -1.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** | LNG 174k cbm |  | 250.0 | 250.0 | 0.0% | 260.0 | 250.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-|  | MGC LPG 55k cbm |  | 85.0 | 85.0 | 0.0% | 90.5 | 85.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 77.0 | 77.0 | 0.0% | 79.0 | 77.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 73.5 | 73.5 | 0.0% | 75.0 | 73.5 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 29.5 | 29.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 126.0 | 126.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 85.5 | 86.0 | -0.6% | 90.0 | 85.5 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 48.5 | 49.0 | -1.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 250.0 | 250.0 | 0.0% | 260.0 | 250.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 85.0 | 85.0 | 0.0% | 90.5 | 85.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

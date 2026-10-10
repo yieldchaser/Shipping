@@ -273,7 +273,7 @@ In the Handysize sector we had the sale of the "GANT GRACE" (28,375dwt-blt '10, 
 | MR2 | NAVE DORADO | 47,999 | 2005 | IWAGI ZOSEN, Japan | MAN-B&amp;W | Aug-25 | DH | $ 15.6m | undisclosed |  |
 | MR1 | LUZERN | 38,431 | 2007 | GUANGZHOU, China | MAN-B&amp;W | Apr-27 | DH | $ 15.25m | undisclosed | BWTS fitted, dely March 2023 |
 | MR1 | CAPE BRADLEY | 40,345 | 2004 | HYUNDAI MIPO, S. Korea | B&amp;W | Feb-24 | DH | $ 15.0m | German | BWTS fitted |
-| MR1 | CAPE BACTON | 40,293 | 2004 | HYUNDAI MIPO, S. Korea | B&amp;W | Apr-24 | DH | $ 15.0m |  |  |
+| MR1 | CAPE BACTON | 40,293 | 2004 | HYUNDAI MIPO, S. Korea | B&amp;W | Apr-24 | DH | $ 15.0m | German | BWTS fitted |
 | SMALL | BOCHEM CHENNAI | 19,801 | 2012 | KITANIHON, Japan | Mitsubishi | Mar-27 | DH | $ 23.8m | undisclosed | StSt, BWTS fitted |
 | SMALL | NAVE POLARIS | 25,145 | 2011 | DAE SUN, S. Korea | MAN-B&amp;W | Jan-26 | DH | $ 14.7m | undisclosed |  |
 | SMALL | NAVE COSMOS | 25,130 | 2010 | DAE SUN, S. Korea | MAN-B&amp;W | Oct-25 | DH | $ 13.6m | undisclosed |  |
@@ -313,27 +313,23 @@ In the Handysize sector we had the sale of the "GANT GRACE" (28,375dwt-blt '10, 
 ---
 
 # Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 9-Dec-22 | 2-Dec-22 | ±% | 2020 | 2019 | 2018 |  |
-| Bulkers |  |  |  |  |  |  |  |
-| Newcastlemax 205k | 64.0 | 65.0 | -1.5% | 51 | 54 | 51 |  |
-| Capesize | 180k | 61.0 | 62.0 | -1.6% | 49 | 52 | 49 |
-| Kamsarmax 82k | 34.5 | 35.0 | -1.4% | 28 | 30 | 29 |  |
-| Ultramax 63k | 32.0 | 32.5 | -1.5% | 26 | 28 | 27 |  |
-| Handysize | 38k | 29.0 | 29.0 | 0.0% | 24 | 24 | 24 |
-| Tankers |  |  |  |  |  |  |  |
-| VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
-| MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
-| Gas |  |  |  |  |  |  |  |
-| LNG 174k cbm | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 89.0 | 88.5 | 0.6% | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 75.5 | 75.5 | 0.0% | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 9-Dec-22 | 2-Dec-22 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax 205k |  | 64.0 | 65.0 | -1.5% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 61.0 | 62.0 | -1.6% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax 82k |  | 34.5 | 35.0 | -1.4% | 28 | 30 | 29 |
+| Bulkers | Ultramax 63k |  | 32.0 | 32.5 | -1.5% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 29.0 | 29.0 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 89.0 | 88.5 | 0.6% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.5 | 75.5 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 It has been a relatively quiet week in the newbuilding sector, following the recent momentum. Last week, no newbuilding orders have been reported in the tanker and in the bulker realm. Yet, the buying frenzy in the gas sector is still well underway. Chinese Merchants Energy inked a deal with Dalian Shipbuilding for 2x175,00cbm firm LNG carriers. The vessels are due in 2026 and will cost \$ 235.0m. Meanwhile, Greek owner Latsco, who recently took delivery of four VLCC vessels from HHI, returned to KSOE for the construction of 2+2 LPG carriers amid an effort to renew its oldest LPG fleet. The vessels will be delivered within 2025 and will cost \$ 197.7.0m according to sources from KSOE. Conclusively, in the boxship sector, Japanese Interasia Lines declared options for 3x3,055teu vessels at JMU. The vessels are due in 2025, but no price has been disclosed.
 

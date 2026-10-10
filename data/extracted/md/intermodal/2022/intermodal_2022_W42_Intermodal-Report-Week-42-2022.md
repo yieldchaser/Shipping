@@ -264,10 +264,10 @@ In the Kamsarmax sector we had the sale of the "AROUZU" (82,113dwt-blt '12, Japa
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | ORIENT ANGEL | 176,859 | 2007 | NAMURA, Japan | MAN-B\&amp;W | Jun-25 |  | undisclosed | Turkish |  |
 | POST PMAX | PELLONIA | 93,386 | 2010 | Jiangsu, China | MAN-B\&amp;W | Mar-25 |  | $ 17.2m | undisclosed | BWTS fitted |
-| POST PMAX | JIN LANG | 93,280 | 2010 | Jiangsu, China | MAN-B\&amp;W | Apr-25 |  | $ 34.5m | undisclosed | BWTS fitted, delivery November-December |
-| POST PMAX | JIN MEI | 93,204 | 2010 | Jiangsu, China | MAN-B\&amp;W | Mar-25 |  |  |  |  |
-| KMAX | CCS ORCHID | 81,966 | 2017 | Jiangsu, China | MAN-B\&amp;W | Jan-27 |  | $ 54.0m | Chinese | BWTS fitted, eco |
-| KMAX | MSXT HERA | 81,738 | 2018 | CHENGXI, China | MAN-B\&amp;W | Nov-23 |  |  |  |  |
+| POST PMAX | JIN LANG | 93,280 | 2010 | Jiangsu, China | MAN-B\&amp;W | Apr-25 |  | $ 34.5m (en bloc) | undisclosed | BWTS fitted, delivery November-December |
+| POST PMAX | JIN MEI | 93,204 | 2010 | Jiangsu, China | MAN-B\&amp;W | Mar-25 |  | $ 34.5m (en bloc) | undisclosed | BWTS fitted, delivery November-December |
+| KMAX | CCS ORCHID | 81,966 | 2017 | Jiangsu, China | MAN-B\&amp;W | Jan-27 |  | $ 54.0m (en bloc) | Chinese | BWTS fitted, eco |
+| KMAX | MSXT HERA | 81,738 | 2018 | CHENGXI, China | MAN-B\&amp;W | Nov-23 |  | $ 54.0m (en bloc) | Chinese | BWTS fitted, eco |
 | KMAX | AROZU | 82,113 | 2012 | TSUNEISHI, Japan | MAN-B\&amp;W | Mar-27 |  | $ 24.5m | Greek | BWTS &amp; Scrubber fitted |
 | PMAX | CABRILLO | 75,200 | 2010 | PENGLAI ZHONGBAI, China | MAN-B\&amp;W | Nov-25 |  | $ 15.75m | undisclosed | BWTS fitted |
 | PMAX | BLUE CHIP | 76,596 | 2007 | IMABARI, Japan | MAN-B\&amp;W | Nov-22 |  | low $ 15.0m | Korean | BWTS fitted, basis DD passed |
@@ -288,7 +288,7 @@ In the Kamsarmax sector we had the sale of the "AROUZU" (82,113dwt-blt '12, Japa
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | PACIFIC M | 299,546 | 2019 | HYUNDAI, S. Korea | MAN-B&amp;W | Jan-24 | DH | low $ 90.0m | undisclosed | Scrubber fitted, TC attached at below marker rate for another 18 months |
-| VLCC | NEPTUNE M | 299,546 | 2019 | HYUNDAI, S. Korea | MAN-B&amp;W | May-24 | DH | low $ 90.0m | undisclosed |  |
+| VLCC | NEPTUNE M | 299,546 | 2019 | HYUNDAI, S. Korea | MAN-B&amp;W | May-24 | DH | low $ 90.0m | undisclosed | Scrubber fitted, TC attached at below marker rate for another 18 months |
 | VLCC | SHIBLAH | 316,476 | 2003 | HYUNDAI, S. Korea | B&amp;W | Mar-23 | DH | $ 42.3m | Chinese | basis prompt delivery within early November |
 | VLCC | BRILLIANT JEWEL | 305,178 | 2002 | DAEWOO, S. Korea | B&amp;W | Jan-25 | DH | $ 40m | undisclosed |  |
 | AFRA | P. FOS | 115,577 | 2007 | SASEBO, Japan | MAN-B&amp;W | Mar-27 | DH | $ 34.0m | undisclosed | basis delivery November |
@@ -308,27 +308,23 @@ In the Kamsarmax sector we had the sale of the "AROUZU" (82,113dwt-blt '12, Japa
 ---
 
 # Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 21/10/2022 | 14/10/2022 | ±% | 2020 | 2019 | 2018 |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 67.5 | 68.0 | -0.7% | 51 | 54 |
-| Capesize | 180k | 63.0 | 63.5 | -0.8% | 49 | 52 |
-| Kamsarmax | 82k | 36.0 | 36.0 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 |
-| Handysize | 38k | 30.0 | 30.0 | 0.0% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 |
-| Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 |
-| Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 |
-| MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 247.0 | 246.0 | 0.4% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 21/10/2022 | 14/10/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 67.5 | 68.0 | -0.7% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 63.0 | 63.5 | -0.8% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.0 | 36.0 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 247.0 | 246.0 | 0.4% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 Newbuilding contracting activity was steady during the past days. In the tanker realm, Euronav returned to DH Shipbuilding for the construction of two Suezmax vessels. The company placed an order for two more Suezmax vessels earlier this month. The 2x157,000dwt units will be fitted with BWTS and scrubber and will be methanol and LNG ready. Their delivery is scheduled between 2024-2025, and they will cost \$75.0m each. In the gas sector, Venture Global sealed a deal with DSME for the construction of 2x174,000cbm vessels, with expected delivery within 2025 and at \$250.0m each, placing them among the most highly-priced LNG carriers ordered so far. More specifically, asset values of LNG vessels have gained almost 25% at the three major Korean shipyards y-o-y, underpinned by increasing demand amid an unfolding energy crisis following the war in Ukraine. Meanwhile, Eastern Pacific inked a deal with Samsung for the construction of 2x88,000cbm dual-fueled VLGCs, which will mark the first VLGC order for the shipyard. With the particular order, EPS's order tally for VLGCs will be lifted to a total of four. Last but not least, Amasus Shipping ordered a quarter of MPP vessels at Bogazici Denizcilik shipyard in Turkey. The 4x4,000dwt vessels will be delivered throughout 2023-2024, and they will be powered by a diesel-electric system.
 

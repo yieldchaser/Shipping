@@ -269,8 +269,8 @@ In the Handysize sector we had the sale of the "SEASTAR HAWK" (40,355dwt-blt '22
 | MR2 | NAVIGARE PACTOR | 51,034 | 2012 | STX, S. Korea | MAN-B\&amp;W | Jan-27 | DH | $ 32.0m | Turkish | BWTS fitted, dely within January '23 |
 | MR2 | CENTENNIAL MISUMI | 47,186 | 2008 | ONOMICHI, Japan | MAN-B\&amp;W | Sep-23 | DH | $ 21.5m | undisclosed | BWTS fitted |
 | MR1 | ARDBEG | 34,798 | 2021 | FUJIAN MAWEI, China | WinGD | Nov-26 | DH | $ 35.0m | undisclosed | BWTS fitted |
-| MR1 | HAWASSA | 42,190 | 2013 | JINLING, China | MAN-B\&amp;W | Jan-23 | DH | $ 34.0m | Singaporean (Stamford Shipping) | Tier II |
-| MR1 | BAHIR DAR | 42,150 | 2012 | JINLING, China | MAN-B\&amp;W | Nov-22 | DH |  |  |  |
+| MR1 | HAWASSA | 42,190 | 2013 | JINLING, China | MAN-B\&amp;W | Jan-23 | DH | $ 34.0m (en bloc) | Singaporean (Stamford Shipping) | Tier II |
+| MR1 | BAHIR DAR | 42,150 | 2012 | JINLING, China | MAN-B\&amp;W | Nov-22 | DH | $ 34.0m (en bloc) | Singaporean (Stamford Shipping) | Tier II |
 | MR1 | STAR N | 37,836 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-24 | DH | $ 18.1m | Greek | BWTS fitted |
 | SMALL | GUANG HUI 638 | 7,048 | 2013 | HAIDONG, China | Wartsila | Jun-23 | DH | $ 7.2m | undisclosed | Chinese flag |
 ## Bulk Carriers

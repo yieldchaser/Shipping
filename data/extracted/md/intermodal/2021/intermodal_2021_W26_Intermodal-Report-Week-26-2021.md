@@ -279,14 +279,14 @@ In the Handysize sector we had the sale of the "MING YUAN" (33,002dwt-blt '10, C
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | DOUBLE PROVIDENCE | 95,720 | 2012 | IMABARI, Japan | MAN-B\&amp;W | Jan-22 |  | $ 21.3m | Greek | BWTS on order |
 | PMAX | QC MATILDE | 76,015 | 2002 | TSUNEISHI, Japan | B\&amp;W | Apr-25 |  | high $ 10.0m | undisclosed |  |
-| UMAX | NAVIGARE BELLUS | 63,310 | 2017 | CHENGXI, China | MAN-B\&amp;W | Jan-22 | 4 X 30t CRANES |  |  |  |
-| UMAX | NAVIGARE BEATUS | 63,310 | 2017 | CHENGXI, China | MAN-B\&amp;W | Jan-22 | 4 X 30t CRANES | $ 71.5m | USA based | BWTS, CO2, A60 &amp; AHL fitted |
-| UMAX | NAVIGARE BONITAS | 63,166 | 2014 | ZHEJIANG, China | MAN-B\&amp;W | Oct-24 | 4 X 36t CRANES |  |  |  |
+| UMAX | NAVIGARE BELLUS | 63,310 | 2017 | CHENGXI, China | MAN-B\&amp;W | Jan-22 | 4 X 30t CRANES | $ 71.5m (en bloc) | USA based | BWTS, CO2, A60 &amp; AHL fitted |
+| UMAX | NAVIGARE BEATUS | 63,310 | 2017 | CHENGXI, China | MAN-B\&amp;W | Jan-22 | 4 X 30t CRANES | $ 71.5m (en bloc) | USA based | BWTS, CO2, A60 &amp; AHL fitted |
+| UMAX | NAVIGARE BONITAS | 63,166 | 2014 | ZHEJIANG, China | MAN-B\&amp;W | Oct-24 | 4 X 36t CRANES | $ 71.5m (en bloc) | USA based | BWTS, CO2, A60 &amp; AHL fitted |
 | UMAX | KMARIN ULSAN | 63,151 | 2014 | JIANGSU NEW HANTONG, China | MAN-B\&amp;W | Jun-24 | 4x36.0, 4x30.0 | $ 21.0m | Chinese | BWTS fitted, delivery Janaury 2022 |
 | SMAX | CENTENARIO FORZA | 56,129 | 2012 | MITSUI, Japan | MAN-B\&amp;W | Apr-22 | 4 X 30t CRANES | $ 18.5m | undisclosed |  |
-| SMAX | BULK PATAGONIA | 58,723 | 2012 | KAWASAKI, Japan | MAN-B\&amp;W | Feb-23 | 4 X 30,5t CRANES |  |  |  |
-| SMAX | BULK ECUADOR | 57,937 | 2011 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Sep-21 | 4 X 30t CRANES | $ 60.0m | Greek |  |
-| SMAX | BULK CURACAO | 57,937 | 2011 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | May-26 | 4 X 30t CRANES |  |  | BWTS fitted |
+| SMAX | BULK PATAGONIA | 58,723 | 2012 | KAWASAKI, Japan | MAN-B\&amp;W | Feb-23 | 4 X 30,5t CRANES | $ 60.0m (en bloc) | Greek |  |
+| SMAX | BULK ECUADOR | 57,937 | 2011 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Sep-21 | 4 X 30t CRANES | $ 60.0m (en bloc) | Greek |  |
+| SMAX | BULK CURACAO | 57,937 | 2011 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | May-26 | 4 X 30t CRANES | $ 60.0m (en bloc) | Greek | BWTS fitted |
 | SMAX | VIET THUAN 56-01 | 57,334 | 2009 | STX, S. Korea | MAN-B\&amp;W | Sep-24 | 4 X 30t CRANES | rgn low $ 14.0m | undisclosed | BWTS fitted, Tier I compliant |
 | HANDY | CIELO DI CAPALBIO | 36,699 | 2012 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Mar-22 | 4 X 36t CRANES | high 15.0m | undisclosed | Tier II, Eco M/E |
 | HANDY | MING YUAN | 33,002 | 2010 | TAIZHOU HAIBIN, China | MAN-B\&amp;W | Jul-25 | 4 X 30.5t CRANES | $ 11.0m | Greek | delivery prompt |
@@ -295,7 +295,7 @@ In the Handysize sector we had the sale of the "MING YUAN" (33,002dwt-blt '10, C
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | NISSOS SANTORINI | 318,744 | 2019 | HYUNDAI ULSAN, S. Korea | Wartsila | Jul-24 | DH | $ 90.0m | Norwegian (Frontline) | scrubber fitted, delivery November 2021 |
-| VLCC | NISSOS ANTIPAROS | 318,744 | 2019 | HYUNDAI ULSAN, S. Korea | Wartsila | Jul-24 | DH | $ 90.0m |  |  |
+| VLCC | NISSOS ANTIPAROS | 318,744 | 2019 | HYUNDAI ULSAN, S. Korea | Wartsila | Jul-24 | DH | $ 90.0m | Norwegian (Frontline) | scrubber fitted, delivery November 2021 |
 | VLCC | PHOENIX M | 307,151 | 1999 | DAEWOO, S. Korea | MAN-B\&amp;W | Jul-22 | DH | undisclosed | Thai (Nathalin Shipping) |  |
 | AFRA | OCEAN PEGASUS | 108,926 | 2009 | SWS, China | MAN-B\&amp;W | Mar-24 | DH | undisclosed | undisclosed | auction sale |
 | MR | NEW BREEZE | 48,064 | 2010 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Jun-25 | DH | $ 15.5m | Greek | BWTS fitted |
@@ -311,7 +311,7 @@ In the Handysize sector we had the sale of the "MING YUAN" (33,002dwt-blt '10, C
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | MEXICO | 4,839 | 2002 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Feb-22 |  | $ 50.5m | Swiss (MSC) | delivery April 2022 basis SS/DD passed &amp; BWTS fitted |
 | PMAX | RHL CONSCIENTIA | 4,660 | 2012 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | May-22 |  | undisclosed | German (Hapag Lloyd) |  |
-| PMAX | RHL CONCORDIA | 4,620 | 2012 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Aug-22 |  |  |  |  |
+| PMAX | RHL CONCORDIA | 4,620 | 2012 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Aug-22 |  | undisclosed | German (Hapag Lloyd) |  |
 | PMAX | ZARNATA EXPRESS | 4,250 | 2007 | DALIAN, China | MAN-B\&amp;W | Mar-22 |  | undisclosed | U.K. based (Mount Street) |  |
 | PMAX | BALTHASAR SCHULTE | 4,249 | 2012 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Feb-22 |  | undisclosed | Danish (A.P. Moller) |  |
 | FEEDER | HARMONY N | 2,824 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Aug-21 |  | $ 29.1m | undisclosed | BWTS fitted |
@@ -330,24 +330,21 @@ In the Handysize sector we had the sale of the "MING YUAN" (33,002dwt-blt '10, C
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 02/07/2021 | 25/06/2021 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 62.5 | 62.5 | 0.0% | 51 | 54 | 51 |
-| Capesize | **180k** | 58.5 | 58.5 | 0.0% | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 33.0 | 33.0 | 0.0% | 28 | 30 | 29 |
-| Ultramax | **63k** | 30.5 | 30.5 | 0.0% | 26 | 28 | 27 |
-| Handysize | **38k** | 26.5 | 26.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 98.5 | 97.5 | 1.0% | 88 | 92 | 88 |
-| Suezmax | **160k** | 66.0 | 65.0 | 1.5% | 58 | 60 | 58 |
-| Aframax | **115k** | 52.0 | 51.0 | 2.0% | 48 | 49 | 47 |
-| MR | 50k | 36.5 | 36.5 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 191.0 | 190.0 | 0.5% | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 75.0 | 75.0 | 0.0% | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 67.0 | 67.0 | 0.0% | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 44.5 | 44.5 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 02/07/2021 | 25/06/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 62.5 | 62.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 58.5 | 58.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 33.0 | 33.0 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 30.5 | 30.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 26.5 | 26.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 98.5 | 97.5 | 1.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 66.0 | 65.0 | 1.5% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 52.0 | 51.0 | 2.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 36.5 | 36.5 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 191.0 | 190.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 75.0 | 75.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 67.0 | 67.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 44.5 | 44.5 | 0.0% | 42 | 44 | 43 |
 
 The newbuilding market activity remains healthy for another week, with the owner's interest focusing on the Container sector followed by a strong appetite for LNG units last week. Tanker and bulker units were the minority among the recent newbuilding orders, while no crude carrier contracts were materialized during the previous days. On the clean tanker side sector, Pro-man Shipping announced two more methanol-fuelled MR units, bringing its total orderbook to six vessels. The newest product carriers will be constructed at GSI shipyard. At the same time, two Kamsarmax units were ordered by Aston at Chengxi for \$31.5 million each while the same yard secured 2x70,000dwt and 6x64,000dwt woodchip carriers from BoCom FL. On the Container front, a total of eleven feeder boxships were ordered with the interest spreading at South Korean and Chinese yards from Chinese, Greek and Danish owners. Lastly, Danish owner Celsius Shipping inked a deal for three LNG units at Samsung for a price of \$193.0 million each while H-Line and CSSC ordered one 174.000cbm unit each at Hyundai Samho and Hudong Zhonghua respectively.
 
@@ -393,12 +390,12 @@ The newbuilding market activity remains healthy for another week, with the owner
 | 2 | Tanker | 49,900 dwt | GSI, China | 2023 | Swiss based (Proman Shipping) | undisclosed | methanol dual fuelled |
 | 2 | Bulker | 82,000 dwt | Chengxi, China | 2022-2023 | Russian (Aston) | $ 31.5m | Tier III |
 | 2 | Bulker | 70,000 dwt | Chengxi, China | 2023-2024 | Chinese (BoCom FL) | undisclosed | woodchip carriers |
-| 6 | Bulker | 64,000 dwt |  |  |  | undisclosed |  |
+| 6 | Bulker | 64,000 dwt | Chengxi, China | 2023-2024 | Chinese (BoCom FL) | undisclosed | woodchip carriers |
 | 3 | LNG | 180,000 cbm | Samsung, S. Korea | undisclosed | Danish (Celsius Shipping) | $ 193.0m |  |
 | 1 | LNG | 174,000 cbm | Hyundai Samho, S. Korea | 2023 | South Korean (H-Line) | $ 190.0m |  |
 | 1 | LNG | 174,000 cbm | Hudong Zhonghua, China | 2024 | Chinese (CSSC) | undisclosed | option declared |
 | 3 | container | 3,300 teu | Yangzijiang, China | 2023-2024 | Chinese (Ningbo Ocean) | undisclosed |  |
-| 3 | Container | 1,400 teu | Penglai Jinglu, China |  |  | undisclosed |  |
+| 3 | Container | 1,400 teu | Penglai Jinglu, China | 2023-2024 | Chinese (Ningbo Ocean) | undisclosed |  |
 | 2 | Container | 2,800 teu | Hyundai Mipo, S. Korea | 2023 | Greek (Euroseas) | $ 38.0m | eco-design fuel-efficient |
 | 1 | Container | 2,100 teu | Hyundai Mipo, S. Korea | 2023 | Danish (Maersk) | undisclosed | methanol dual fuelled |
 | 2+2 | Container | 1,900 teu | Yangfan Group, China | 2023 | Chinese (Shanghai Jin Jiang Shipping) | undisclosed |  |

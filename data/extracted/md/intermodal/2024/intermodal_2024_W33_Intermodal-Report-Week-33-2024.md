@@ -242,27 +242,27 @@ Supramax 10TC averaged \$ 13,604/day down -1.14% w-o-w, while the Handysize 7TC 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | KMARIN ATLANTICA | 4,622 | 2013 | HYUNDAI SAMHO, S. Korea | Wartsila | Jun-28 |  | $ 53.0m each | undisclosed |
-| PMAX | KMARIN AZUR | 4,622 | 2013 | HYUNDAI SAMHO, S. Korea | Wartsila | May-28 |  |  |  |
+| PMAX | KMARIN AZUR | 4,622 | 2013 | HYUNDAI SAMHO, S. Korea | Wartsila | May-28 |  | $ 53.0m each | undisclosed |
 | FEEDER | AS PAOLA | 2,478 | 2005 | AKER MTW WERFT, Germany | B\&amp;W | Jul-25 | 3 X 45t CRANES | $ 20.5m | Korean (HMM) |
 | FEEDER | XUTRA BHUM | 2,378 | 2005 | MITSUBISHI, Japan | Mitsubishi | Aug-25 |  | $ 20.0m each | Korean (HMM) |
-| FEEDER | WANA BHUM | 2,378 | 2005 | MITSUBISHI, Japan | Mitsubishi | Jun-25 |  |  |  |
+| FEEDER | WANA BHUM | 2,378 | 2005 | MITSUBISHI, Japan | Mitsubishi | Jun-25 |  | $ 20.0m each | Korean (HMM) |
 
 ## Bulk Carriers
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | AVANCE AVIOR | 58,247 | 2023 | HANWHA, S. Korea | MAN-B\&amp;W | May-28 | 89,450 |  |  |  |
-| LPG | AVANCE RIGEL | 58,207 | 2023 | DAEWOO, S. Korea | MAN-B\&amp;W | Feb-28 | 89,497 |  |  |  |
-| LPG | AVANCE CAPELLA | 58,243 | 2022 | DAEWOO, S. Korea | MAN-B\&amp;W | Feb-27 | 89,459 |  |  |  |
-| LPG | AVANCE POLARIS | 58,312 | 2022 | DAEWOO, S. Korea | MAN-B\&amp;W | Jan-27 | 89,459 |  |  |  |
-| LPG | PAMPERO | 53,503 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Oct-25 | 81,340 |  |  |  |
-| LPG | CHINOOK | 53,660 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Sep-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
-| LPG | AVANCE LEVANT | 53,658 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Aug-25 | 81,340 |  |  |  |
-| LPG | SIROCCO | 53,558 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Jul-25 | 81,340 |  |  |  |
-| LPG | PASSAT | 53,701 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Jun-25 | 81,340 |  |  |  |
-| LPG | BREEZE | 53,781 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Apr-25 | 81,340 |  |  |  |
-| LPG | MONSOON | 53,752 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Jan-25 | 81,340 |  |  |  |
-| LPG | MISTRAL | 53,854 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Jan-25 | 81,340 |  |  |  |
+| LPG | AVANCE AVIOR | 58,247 | 2023 | HANWHA, S. Korea | MAN-B\&amp;W | May-28 | 89,450 | $ 1.05b (en bloc) | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | AVANCE RIGEL | 58,207 | 2023 | DAEWOO, S. Korea | MAN-B\&amp;W | Feb-28 | 89,497 | $ 1.05b (en bloc) | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | AVANCE CAPELLA | 58,243 | 2022 | DAEWOO, S. Korea | MAN-B\&amp;W | Feb-27 | 89,459 | $ 1.05b (en bloc) | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | AVANCE POLARIS | 58,312 | 2022 | DAEWOO, S. Korea | MAN-B\&amp;W | Jan-27 | 89,459 | $ 1.05b (en bloc) | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | PAMPERO | 53,503 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Oct-25 | 81,340 | $ 1.05b (en bloc) | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | CHINOOK | 53,660 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Sep-25 | 81,340 | $ 1.05b (en bloc) | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | AVANCE LEVANT | 53,658 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Aug-25 | 81,340 | $ 1.05b (en bloc) | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | SIROCCO | 53,558 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Jul-25 | 81,340 | $ 1.05b (en bloc) | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | PASSAT | 53,701 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Jun-25 | 81,340 | $ 1.05b (en bloc) | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | BREEZE | 53,781 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Apr-25 | 81,340 | $ 1.05b (en bloc) | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | MONSOON | 53,752 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Jan-25 | 81,340 | $ 1.05b (en bloc) | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | MISTRAL | 53,854 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Jan-25 | 81,340 | $ 1.05b (en bloc) | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
 
 ---
 
@@ -275,20 +275,20 @@ In the gas carrier segment, Singapore-based Jaldhi Overseas commissioned two 93,
 Additionally, during the week ending at 10 August, Greek owner Samos Steamships ordered one 115k dwt tanker from Sumitomo, Japan, for 2026 delivery and an undisclosed price. Also, the same owner ordered two 180k dwt Capes from Nihon Shipyard, in Japan for an undisclosed fee.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 16-Aug-24 | 9-Aug-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 16-Aug-24 | 9-Aug-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
-|  | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 262.5 | 262.5 | 0.0% | 263.0 | 262.5 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 262.5 | 262.5 | 0.0% | 263.0 | 262.5 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
 ## Indicative Period Charters
 
 _No period fixtures reported._
@@ -325,4 +325,4 @@ This week the ship recycling market remains under considerable strain in key reg
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| NAHIDE-M | 27,917 | 7,125 | 1995 | NAIKAI ZOSEN, Japan | BC | $ 510.0m | Bangladeshi |
+| NAHIDE-M | 27,917 | 7,125 | 1995 | NAIKAI ZOSEN, Japan | BC | $ 510/Ldt | Bangladeshi |

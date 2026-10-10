@@ -217,20 +217,20 @@ Supramax 10TC averaged \$14,065/day down -3.18% w-o-w, while the Handysize 7TC a
 Last week, the newbuilding market experienced stable activity. In the dry bulk sector, it was revealed that Chinese owner Amoysailing has placed an order for four 64,000 dwt vessels at Jiangsu Haitong Shipyard in China, with a price of \$34.0 million each. In the gas carrier sector, Malaysian owner MISC finalized a contract with Samsung for the construction of two 174,000 cbm units, each priced at \$256.0 million. These vessels will be chartered to Petronas under time charter agreements. Additionally, Singaporean owner Eastern Pacific concluded an agreement for the construction of two 150,000 cbm ULEC units at Hyundai Samho for \$207.0 million each, while Turkish owner PascGas ordered two 45,000 cbm units from Hyundai Mipo, each priced at \$83.5 million. On the tanker front, it came to light that Shell concluded an order for ten MR2 units at a price of \$48.0m each.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 4-Oct-24 | 27-Sep-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2021 | Year3 |
+| Sector | Vessel | Size | 4-Oct-24 | 27-Sep-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
-|  | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 262.5 | 261.5 | *0.4%* | 263.0 | 261.5 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 262.5 | 261.5 | 0.4% | 263.0 | 261.5 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -281,4 +281,4 @@ In Turkey, however, there was some improvement with local and imported scrap pri
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| MSC ADELE | 30,950 | 8,779 | 1986 | HDW AG - Kiel - GEU, Germany | CONTAINER | $ 500.0m | Indian |
+| MSC ADELE | 30,950 | 8,779 | 1986 | HDW AG - Kiel - GEU, Germany | CONTAINER | $ 500/Ldt | Indian |

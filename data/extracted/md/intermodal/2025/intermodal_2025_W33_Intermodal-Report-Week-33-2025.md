@@ -198,9 +198,9 @@ The Handysize sector delivered mixed outcomes. The Atlantic basin demonstrated h
 # Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | MINERAL UTAMARO | 207,469 | 2016 | IMABARI, Japan | MAN B\&amp;W | Feb-26 |  |  |  |  |
-| NEWCASTLEMAX | MINERAL EDO | 207,219 | 2015 | IMABARI, Japan | MAN B\&amp;W | Apr-25 |  | $ 165.0m | UAE (Asyad Shipping) |  |
-| NEWCASTLEMAX | MINERAL HOKUSAI | 207,219 | 2015 | IMABARI, Japan | MAN B\&amp;W | Nov-25 |  |  |  |  |
+| NEWCASTLEMAX | MINERAL UTAMARO | 207,469 | 2016 | IMABARI, Japan | MAN B\&amp;W | Feb-26 |  | $ 165.0m (en bloc) | UAE (Asyad Shipping) |  |
+| NEWCASTLEMAX | MINERAL EDO | 207,219 | 2015 | IMABARI, Japan | MAN B\&amp;W | Apr-25 |  | $ 165.0m (en bloc) | UAE (Asyad Shipping) |  |
+| NEWCASTLEMAX | MINERAL HOKUSAI | 207,219 | 2015 | IMABARI, Japan | MAN B\&amp;W | Nov-25 |  | $ 165.0m (en bloc) | UAE (Asyad Shipping) |  |
 | CAPE | FRONTIER BONANZA | 179,435 | 2010 | HYUNDAI HI, S. Korea | MAN B\&amp;W | Oct-25 |  | $ 26.2m | Greek | BWTS |
 | MINI CAPE | ANGLO SAXON | 114,135 | 2010 | SHANGHAI SHIPYARD, China | MAN B\&amp;W | Sep-25 |  | $ 14.5m | Indian | BWTS, Scrubber fitted |
 | POST PMAX | KM NAGOYA | 95,349 | 2012 | IMABARI, Japan | MAN B\&amp;W | Aug-25 |  | $ 17.5m | undisclosed |  |
@@ -222,20 +222,20 @@ The Handysize sector delivered mixed outcomes. The Atlantic basin demonstrated h
 In the Dry bulk segment, Kmarin ordered two 210,000 dwt units at Jiangsu New Hantong, priced around \$73.5m each. Centrofin booked two 82,000 dwt Bulkers at Hengli Heavy Industries Dalian for 2026 delivery. Nanjing Kingship ordered four 63,000 dwt bulkers at Taizhou Zhonghang, near \$33.5m per vessel. In the Tanker segment, Nanjing Tanker placed an order for two 110,000 dwt vessels at Dalian Shipbuilding, with pricing indicated in the \$72–74m range. Regarding Containerships, Korea Maritime Transport contracted four 13,000 TEU units at HD Hyundai, priced at \$150m each. Seaspan placed an order for eight 9,000 TEU ships at Hudong Zhonghua and four 9,000 TEU at Shanghai Waigaoqiao, both priced around \$100m per vessel. TS Lines ordered four 5,300 TEU ships at CSSC Huangpu Wenchong, about \$61.28m each. Ningbo Ocean added four 4,300 TEU vessels at CSSC Huangpu Wenchong, circa \$60m each. Eastern Pacific agreed twelve firm plus six optional 1,800 TEU vessels at Fujian Mawei with a price of \$37.5m per unit. In the gas carrier segment, TMS Group contracted four 174,000 cbm units at Samsung , about \$250m each, while Celsius Shipping added two 174,000 cbm ships at the same yard and the same price. China Bunker booked one firm plus one optional 20,000 cbm gas carrier at Dalian Shipbuilding.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 15-Aug-25 | 8-Aug-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2023 | 2022 |
+| Sector | Vessel | Size | 15-Aug-25 | 8-Aug-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 77.0 | 77.0 | 0.0% | 79.0 | 77.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 73.5 | 73.5 | 0.0% | 75.0 | 73.5 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-|  | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-|  | Handysize | 38k | 29.5 | 29.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 126.0 | 126.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-|  | Suezmax | 160k | 86.0 | 86.0 | 0.0% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-|  | Aframax | 115k | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-|  | MR | 50k | 49.0 | 49.0 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** | LNG 174k cbm |  | 250.0 | 250.0 | 0.0% | 260.0 | 250.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-|  | MGC LPG 55k cbm |  | 85.5 | 86.0 | -0.6% | 90.5 | 85.5 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 77.0 | 77.0 | 0.0% | 79.0 | 77.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 73.5 | 73.5 | 0.0% | 75.0 | 73.5 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 29.5 | 29.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 126.0 | 126.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 86.0 | 86.0 | 0.0% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 49.0 | 49.0 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 250.0 | 250.0 | 0.0% | 260.0 | 250.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 85.5 | 86.0 | -0.6% | 90.5 | 85.5 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

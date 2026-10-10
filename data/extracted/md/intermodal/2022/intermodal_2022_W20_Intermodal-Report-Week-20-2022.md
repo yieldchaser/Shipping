@@ -254,25 +254,25 @@ In the Ultramax sector we had the sale of the "YANGZHOU CONFIDENCE" (63,165dwt-b
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | SVET | 321,039 | 2013 | BOHAI, China | Wartsila | Nov-23 | DH | undisclosed | U.A.E. (Al Seer Marine) | BWTS fitted, distressed sale |
-| VLCC | SCF SHANGHAI | 320,701 | 2014 | BOHAI, China | Wartsila | Feb-24 | DH |  |  |  |
-| VLCC | TRINITY STAR | 160,391 | 2008 | SAMSUNG, S. Korea | MAN-B&amp;W | May-23 | DH | $ 46.0m | Greek | BWTS fitted |
-| VLCC | TRINITY SUN | 159,233 | 2007 | HYUNDAI, S. Korea | MAN-B&amp;W | Jun-22 | DH |  |  |  |
+| VLCC | SCF SHANGHAI | 320,701 | 2014 | BOHAI, China | Wartsila | Feb-24 | DH | undisclosed | U.A.E. (Al Seer Marine) | BWTS fitted, distressed sale |
+| VLCC | TRINITY STAR | 160,391 | 2008 | SAMSUNG, S. Korea | MAN-B&amp;W | May-23 | DH | $ 46.0m (en bloc) | Greek | BWTS fitted |
+| VLCC | TRINITY SUN | 159,233 | 2007 | HYUNDAI, S. Korea | MAN-B&amp;W | Jun-22 | DH | $ 46.0m (en bloc) | Greek |  |
 | VLCC | NEPTUN | 307,284 | 2007 | DALIAN, China | Wartsila | Jul-22 | DH | $ 30.8m | Asian |  |
-| VLCC | NUCLEUS | 307,284 | 2007 | DALIAN, China | Wartsila | Oct-22 | DH | $ 30.8m |  |  |
+| VLCC | NUCLEUS | 307,284 | 2007 | DALIAN, China | Wartsila | Oct-22 | DH | $ 30.8m | Asian |  |
 | AFRA | LOMONOSOV PROSPECT | 113,226 | 2018 | HYUNDAI, S. Korea | Wartsila | Oct-23 | DH | $ 40.8m | Greek (Capital) | BWTS fitted, Ice 1A, dual fuelled |
-| AFRA | MENDELEEV PROSPECT | 113,189 | 2018 | HYUNDAI, S. Korea | Wartsila | Nov-23 | DH | $ 40.8m |  |  |
-| AFRA | KUTUZOVSKY PROSPECT | 113,170 | 2018 | HYUNDAI, S. Korea | Wartsila | Jul-23 | DH | $ 40.8m |  |  |
-| AFRA | SAMUEL PROSPECT | 113,095 | 2019 | HYUNDAI, S. Korea | Wartsila | Apr-24 | DH | $ 40.8m |  |  |
+| AFRA | MENDELEEV PROSPECT | 113,189 | 2018 | HYUNDAI, S. Korea | Wartsila | Nov-23 | DH | $ 40.8m | Greek (Capital) | BWTS fitted, Ice 1A, dual fuelled |
+| AFRA | KUTUZOVSKY PROSPECT | 113,170 | 2018 | HYUNDAI, S. Korea | Wartsila | Jul-23 | DH | $ 40.8m | Greek (Capital) | BWTS fitted, Ice 1A, dual fuelled |
+| AFRA | SAMUEL PROSPECT | 113,095 | 2019 | HYUNDAI, S. Korea | Wartsila | Apr-24 | DH | $ 40.8m | Greek (Capital) | BWTS fitted, Ice 1A, dual fuelled |
 | LR1 | BW ORINOCO | 76,580 | 2007 | DALIAN, China | MAN-B&amp;W | Nov-22 | DH | $ 11.8m | German (CST) |  |
-| LR1 | BW LENA | 76,578 | 2007 | DALIAN, China | MAN-B&amp;W | Aug-22 | DH | $ 11.8m |  |  |
+| LR1 | BW LENA | 76,578 | 2007 | DALIAN, China | MAN-B&amp;W | Aug-22 | DH | $ 11.8m | German (CST) |  |
 | MR2 | JAL SASVATA | 46,590 | 2009 | NAIKAI ZOSEN, Japan | MAN-B&amp;W | Apr-24 | DH | $ 17.0m | undisclosed | BWTS fitted, CPP |
 | MR1 | CLAXTON BAY | 36,686 | 2010 | HYUNDAI, S. Korea | MAN-B&amp;W | Jan-25 | DH | $ 15.6m | Greek | BWTS fitted, dely Med |
 | MR1 | GOLD OCEAN | 37,320 | 2007 | STX, S. Korea | MAN-B&amp;W | Jan-27 | DH | $ 10.0m | European | BWTS fitted |
 | SMALL | MEHMET A | 20,522 | 2011 | TURKTER, Turkey | MaK | Oct-26 | DH | $ 10.0m | undisclosed | Marineline, Ice 1A, BWTS fitted. Dely 8/22 |
-| SMALL | BRO NYBORG | 16,564 | 2007 | QIUXIN, China | Wartsila |  | DH |  |  |  |
+| SMALL | BRO NYBORG | 16,564 | 2007 | QIUXIN, China | Wartsila |  | DH | undisclosed | Norwegian |  |
 | SMALL | BRO NIBE | 16,534 | 2007 | QIUXIN, China | Wartsila | Apr-27 | DH | undisclosed | Norwegian |  |
-| SMALL | BRO NORDBY | 16,511 | 2007 | QIUXIN, China | Wartsila | Jun-22 | DH |  |  |  |
-| SMALL | BRO NAKSKOV | 16,427 | 2007 | QIUXIN, China | Wartsila | Sep-22 | DH |  |  |  |
+| SMALL | BRO NORDBY | 16,511 | 2007 | QIUXIN, China | Wartsila | Jun-22 | DH | undisclosed | Norwegian |  |
+| SMALL | BRO NAKSKOV | 16,427 | 2007 | QIUXIN, China | Wartsila | Sep-22 | DH | undisclosed | Norwegian |  |
 | SMALL | LS EVA | 4,726 | 2007 | TERSAN, Turkey | MaK |  | DH | $ 2.85m | Turkish (Kaptanoglu) |  |
 
 © Intermodal Research 24/05/2022 4
@@ -318,7 +318,7 @@ In the Ultramax sector we had the sale of the "YANGZHOU CONFIDENCE" (63,165dwt-b
 | LPG | COUGAR | 54,450 | 2015 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jun-25 | 82,320 | $ 70.0m | Japanese | 10 yrs sale &amp; lease back |
 | LPG | JAG VIJAYA | 26,897 | 1997 | MITSUBISHI, Japan | Mitsubishi | Jul-22 | 34,712 | $ 9.5m | Chinese |  |
 | LPG | SIBUR VORONEZH | 22,780 | 2013 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jul-23 | 20,311 | undisclosed | U.A.E. (Al Seer Marine) |  |
-| LPG | SIBUR TOBOL | 22,765 | 2013 | HYUNDAI, S. Korea | MAN-B\&amp;W | Sep-23 | 20,311 |  |  |  |
+| LPG | SIBUR TOBOL | 22,765 | 2013 | HYUNDAI, S. Korea | MAN-B\&amp;W | Sep-23 | 20,311 | undisclosed | U.A.E. (Al Seer Marine) |  |
 | LPG | MARIGOLA | 17,779 | 1999 | SESTRI, Italy | Sulzer | Oct-24 | 17,559 | low $ 8.0m | undisclosed |  |
 
 © Intermodal Research 24/05/2022 6
@@ -326,27 +326,23 @@ In the Ultramax sector we had the sale of the "YANGZHOU CONFIDENCE" (63,165dwt-b
 ---
 
 # Intermodal Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 20/05/2022 | 13/05/2022 | ±% | 2021 | 2020 | 2019 |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 67.0 | 66.5 | 0.8% | 59 | 51 |
-| Capesize | 180k | 62.8 | 62.5 | 0.4% | 56 | 49 |
-| Kamsarmax | 82k | 36.8 | 36.5 | 0.7% | 33 | 28 |
-| Ultramax | 63k | 34.5 | 34.3 | 0.7% | 30 | 26 |
-| Handysize | 38k | 30.0 | 30.5 | -1.6% | 27 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 116.5 | 116.5 | 0.0% | 98 | 88 |
-| Suezmax | 160k | 78.5 | 78.5 | 0.0% | 66 | 58 |
-| Aframax | 115k | 61.5 | 61.0 | 0.8% | 53 | 48 |
-| MR | 50k | 42.0 | 41.8 | 0.6% | 38 | 35 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 226.0 | 225.0 | 0.4% | 195 | 187 | 186 |
-| LGC LPG 80k cbm | 85.5 | 85.5 | 0.0% | 76 | 73 | 73 |
-| MGC LPG 55k cbm | 73.0 | 73.0 | 0.0% | 67 | 63 | 65 |
-| SGC LPG 25k cbm | 50.5 | 50.5 | 0.0% | 45 | 42 | 44 |
+| Sector | Vessel | Size | 20/05/2022 | 13/05/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 67.0 | 66.5 | 0.8% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 62.8 | 62.5 | 0.4% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.8 | 36.5 | 0.7% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 34.5 | 34.3 | 0.7% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.0 | 30.5 | -1.6% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 116.5 | 116.5 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 78.5 | 78.5 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 61.5 | 61.0 | 0.8% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 42.0 | 41.8 | 0.6% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 226.0 | 225.0 | 0.4% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 85.5 | 85.5 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 73.0 | 73.0 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 50.5 | 50.5 | 0.0% | 45 | 42 | 44 |
 
 The shipbuilding activity has bounced back last week, with LNG sector leading the way, and all other sectors having a moderate yet interesting action, except the wet one that noted no newbuildings. Starting with the dry sector, Globus Maritime inked another contract with COSCO Nantong, for two fuel-efficient 64.000dwt bulk carriers at the price of around \$35.15 million each, due to 2024. Moving on, Mitsui OSK Lines announced the conclusion of a deal with Oshima Shipbuilding, for a single 62.900dwt sail-assisted bulker, claiming that the sails will help reduce greenhouse emissions by 20%. The LNG sector had multiple new orders, with China and South Korea apparently starring and sharing eleven units. It is worth mentioning that five of these units were ordered by H-Line and SK Shipping against T/C to Petronas. Lastly, the Chinese CSSC Leasing ordered at Wuchang SB Group the construction of four boxships of 1.100teu each, that are expected to be delivered by 2024, for a price of \$24.0 million each.
 

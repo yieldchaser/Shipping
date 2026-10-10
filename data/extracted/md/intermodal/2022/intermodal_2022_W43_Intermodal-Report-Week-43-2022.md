@@ -281,24 +281,21 @@ In the Handysize sector we had the sale of the "WAAL CONFIDENCE" (33,387dwt-blt 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 28/10/2022 | 21/10/2022 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 67.0 | 67.5 | -0.7% | 51 | 54 | 51 |
-| **Capesize** | **180k** | 63.0 | 63.0 | 0.0% | 49 | 52 | 49 |
-| **Kamsarmax** | **82k** | 36.0 | 36.0 | 0.0% | 28 | 30 | 29 |
-| **Ultramax** | **63k** | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
-| **Handysize** | **38k** | 30.0 | 30.0 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| **Suezmax** | **160k** | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| **Aframax** | **115k** | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
-| **MR** | **50k** | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 248.0 | 247.0 | **0.4%** | 187 | 186 | 181 |  |
-| **LGC LPG 80k cbm** | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |  |
-| **MGC LPG 55k cbm** | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |  |
-| **SGC LPG 25k cbm** | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 28/10/2022 | 21/10/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 67.0 | 67.5 | -0.7% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 63.0 | 63.0 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.0 | 36.0 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 248.0 | 247.0 | 0.4% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 Newbuilding ordering activity held firm, with a flurry of new orders surfacing during last week. As we have previously noted, owners' insatiable hunger for LNG vessels holds steady with a healthy number of vessels ordered every week. It is worth mentioning, though, that as slots in Korean shipyards are extremely tight, Chinese yards have emerged as alternative players, offering competitive prices and reasonable delivery times. For instance, all three LNG orders surfacing last week have been placed in Chinese shipyards. Meanwhile, we have been witnessing that the number of owners making their debut in the LNG sector and investing in new vessels is still rising, with Chinese TSM investing in its first trio of newbuilding vessels last week. In the boxship sector, we notice that owners tend to invest in green technologies with methanol being preferred as a green shipping fuel. In the tanker realm, no orders have been penciled last week. In the dry sector, one bulker has been ordered, indicating a rather slow growth of tonnage. Conclusively, one order for up to ten PCTCs has been inked by Grimaldi Group. The vessels will be ammonia-ready and have been designed to carry electric vehicles.
 ## Newbuilding Orders

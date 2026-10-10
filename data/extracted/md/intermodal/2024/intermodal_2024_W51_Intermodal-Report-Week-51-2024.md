@@ -267,20 +267,20 @@ Moving to the container sector, the Swiss based MSC placed an order for ten LNG 
 In other segments, the Dutch Longship group ordered two 3,700 dwt general cargo vessels at the Dutch shipyard GS Projects and COSCO contracted 2 VLGCs at \$120m each with COSCO Qindong China with estimated delivery in 2027.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 20-Dec-24 | 13-Dec-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | Year2 | Year3 |
+| Sector | Vessel | Size | 20-Dec-24 | 13-Dec-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | 180k | 76.0 | 76.0 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | 82k | 37.50 | 37.25 | 0.7% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Bulkers | Capesize | 180k | 76.0 | 76.0 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.50 | 37.25 | 0.7% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
 | Tankers | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.0 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
-|  | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
+| Tankers | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
 | Gas | LNG 174k cbm |  | 260.0 | 260.0 | 0.0% | 263.0 | 260.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -324,4 +324,4 @@ As we approach the end of 2024, the recycling markets have shown limited sales a
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| GUO YUAN 9 | 48,218 | 9,326 | 1994 | DANYARD, Denmark | BC | $ 465.0m | Bangladeshi |
+| GUO YUAN 9 | 48,218 | 9,326 | 1994 | DANYARD, Denmark | BC | $ 465/Ldt | Bangladeshi |

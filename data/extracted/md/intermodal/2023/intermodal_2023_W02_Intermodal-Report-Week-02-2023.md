@@ -276,16 +276,16 @@ In the Supramax sector we had the sale of the "ASTRA PERSEUS" (58,518dwt-blt '12
 | VLCC | FPMC C HONOR | 298,078 | 2008 | UNIVERSAL, Japan | MAN-B\&amp;W | Nov-23 | DH | region $ 55.5m | UAE based | BWTS, Scrubber fitted |
 | AFRA | SEAMAGIC | 116,905 | 2007 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-27 | DH | $ 47.0m | undisclosed | Ice Class 1A |
 | LR1 | LUMEN N | 63,599 | 2008 | STX, S. Korea | MAN-B\&amp;W | Aug-23 | DH | $ 23.0m | Turkish | Ice class 1A |
-| LR1 | AURORA N | 63,495 | 2008 | STX, S. Korea | MAN-B\&amp;W | May-23 | DH | $ 23.0m |  | Ice class 1A |
+| LR1 | AURORA N | 63,495 | 2008 | STX, S. Korea | MAN-B\&amp;W | May-23 | DH | $ 23.0m | Turkish | Ice class 1A |
 | LR1 | PETALI LADY | 71,830 | 2004 | STX, S. Korea | MAN-B\&amp;W | Mar-24 | DH | $ 18.8m | Middle Eastern | basis dely Med |
 | MR2 | CHALLENGE PASSAGE | 48,658 | 2005 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Apr-25 | DH | $ 17.5m | undisclosed | BWTS fitted, basis ppt dely WC Mexico |
 | MR1 | OLYMPIC VISION | 34,663 | 2006 | DALIAN, China | MAN-B\&amp;W | Sep-26 | DH | $ 15.45m | Turkish | BWTS fitted |
 | MR1 | BALTIC SKY I | 37,272 | 2001 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-26 | DH | $ 10.0m | Turkish | BWTS fitted, Ice Class 1B, basis prompt dely Rotterdam |
 | SMALL | MILD BLOOM | 20,768 | 2006 | SHIN KURUSHIMA, Japan | Mitsubishi | Dec-26 | DH | excess $ 16.0m | Greek | BWTS fitted |
 | SMALL | T RIGEL | 20,919 | 2021 | RUSHAN, China | Bergens | Oct-26 | DH | $ 28.5m | undisclosed | BWTS fitted, StSt, Hull build in 2012, Diesel electric propulsion |
-| SMALL | T PROCYON | 19,101 | 2021 | RUSHAN, China | Bergens | Aug-26 | DH | $ 28.5m |  |  |
+| SMALL | T PROCYON | 19,101 | 2021 | RUSHAN, China | Bergens | Aug-26 | DH | $ 28.5m | undisclosed | BWTS fitted, StSt, Hull build in 2012, Diesel electric propulsion |
 | SMALL | GIANCARLO D | 19,801 | 2016 | NINGBO XINLE, China | MAN-B\&amp;W | Mar-26 | DH | $ 28.0m | Chinese | BWTS fitted, StSt |
-| SMALL | NQ ALPINIA | 19,800 | 2016 | NINGBO XINLE, China | MAN-B\&amp;W | Jul-26 | DH | $ 28.0m |  |  |
+| SMALL | NQ ALPINIA | 19,800 | 2016 | NINGBO XINLE, China | MAN-B\&amp;W | Jul-26 | DH | $ 28.0m | Chinese | BWTS fitted, StSt |
 | SMALL | DREGGEN | 19,994 | 2008 | FUKUOKA, Japan | MAN-B\&amp;W | Aug-26 | DH | $ 19.5m | Chinese (Dinheng Shipping) | StSt |
 ## Secondhand Sales
 
@@ -294,7 +294,7 @@ In the Supramax sector we had the sale of the "ASTRA PERSEUS" (58,518dwt-blt '12
 | LNG | PUTERI INTAN SATU | 75,849 | 2002 | MITSUBISHI, Japan | Mitsubishi |  | 134,770 | $ 30.0m | South East Asian |
 | LPG | SYN ALTAIR | 7,553 | 1998 | CANTIERE NAVALE, Italy | Wartsila | Feb-23 | 7,031 | $ 6.0m | Far Eastern |
 | LPG | INGE KOSAN | 3,796 | 2011 | YANGZHOU KEJIN, China | MAN | Jun-26 | 3,604 | mid high $ 9.0m | Indonesian (Pertamina) |
-| LPG | TRACEY KOSAN | 3,791 | 2011 | YANGZHOU KEJIN, China | MAN | Nov-26 | 3,604 | mid high $ 9.0m |  |
+| LPG | TRACEY KOSAN | 3,791 | 2011 | YANGZHOU KEJIN, China | MAN | Nov-26 | 3,604 | mid high $ 9.0m | Indonesian (Pertamina) |
 
 © Intermodal Research 17/01/2023 4
 
@@ -319,24 +319,21 @@ In the Supramax sector we had the sale of the "ASTRA PERSEUS" (58,518dwt-blt '12
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 13-Jan-23 | 6-Jan-23 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 64.0 | 64.0 | 0.0% | 51 | 54 | 51 |
-| **Capesize** | **180k** | 61.0 | 61.0 | 0.0% | 49 | 52 | 49 |
-| **Kamsarmax** | **82k** | 34.0 | 34.0 | 0.0% | 28 | 30 | 29 |
-| **Ultramax** | **63k** | 31.5 | 31.5 | 0.0% | 26 | 28 | 27 |
-| **Handysize** | **38k** | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| **Suezmax** | **160k** | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| **Aframax** | **115k** | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
-| **MR** | **50k** | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 90.0 | 90.0 | 0.0% | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 77.5 | 77.5 | 0.0% | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 53.0 | 53.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 13-Jan-23 | 6-Jan-23 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 61.0 | 61.0 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.0 | 34.0 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 31.5 | 31.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 90.0 | 90.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 77.5 | 77.5 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 53.0 | 53.0 | 0.0% | 42 | 44 | 43 |
 
 Last week, the overall activity in the shipbuilding sector was healthy, with multiple deals taking place and the tanker sector having the lion's share. Regarding the wet contracting activity, Tsakos successfully negotiated the conversion of containers newbuildings for two 158,000 dwt tankers from the Korean Hyundai HI. This move marks a shift from the container market, which is now in oversupply and is also threatened by global recession fears. The Greek owner is paying \$85m each, which is almost 13% higher than what Euronav paid for two 157,000 dwt at the same shipyard in October 2022. Regarding the dry sector, we continue to see a strong orderbook, with 6 new bulkers being ordered during the previous week. Despite that, a price drop is also evident in the newbuilding sector. More specifically, Japanese owners Doun Kisen have ordered four 63,500 dwt bulkers from Nantong Xiangyu at a cost of around \$31m each. Moreover, Mitsui ordered two 81,600 dwt bulkers which will be chartered by Cargill. The vessels will be methanol fuelled and the price is not disclosed, though it is believed to be north of \$36m.
 

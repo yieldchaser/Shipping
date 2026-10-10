@@ -204,7 +204,7 @@ Supramax 10TC averaged \$ 7,723/day, down -5.39% w-o-w, while the Handysize 7TC 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR | GULF ELAN | 46,894 | 2007 | HYUNDAI MIPO DOCKYARD, S. Korea | Wartsila | Jan-27 | DH | undisclosed | undisclosed |  |
-| MR | GULF ESPRIT | 46,891 | 2006 | HYUNDAI MIPO DOCKYARD, S. Korea | Wartsila | Nov-26 | DH |  |  |  |
+| MR | GULF ESPRIT | 46,891 | 2006 | HYUNDAI MIPO DOCKYARD, S. Korea | Wartsila | Nov-26 | DH | undisclosed | undisclosed |  |
 | SMALL | AD PRINCESS | 7,054 | 2012 | ZHEJIANG, China | Yanmar | Nov-26 | DH | $ 5.8m | undisclosed | BWTS fitted |
 
 ## Bulk Carriers
@@ -218,9 +218,9 @@ Supramax 10TC averaged \$ 7,723/day, down -5.39% w-o-w, while the Handysize 7TC 
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEO PMAX | YM WARRANTY | 14,220 | 2019 | IMABARI, Japan | MAN-B\&W | Mar-24 |  | $ 306.0m | Taiwanese (Yang Ming Marine Transportation) |
-| NEO PMAX | YM WELLSPRING | 14,220 | 2019 | IMABARI, Japan | MAN-B\&W | Mar-24 |  |  |  |
-| NEO PMAX | YM WELLBEING | 14,220 | 2018 | IMABARI, Japan | MAN-B\&W | Oct-23 |  |  |  |
+| NEO PMAX | YM WARRANTY | 14,220 | 2019 | IMABARI, Japan | MAN-B\&W | Mar-24 |  | $ 306.0m (en bloc) | Taiwanese (Yang Ming Marine Transportation) |
+| NEO PMAX | YM WELLSPRING | 14,220 | 2019 | IMABARI, Japan | MAN-B\&W | Mar-24 |  | $ 306.0m (en bloc) | Taiwanese (Yang Ming Marine Transportation) |
+| NEO PMAX | YM WELLBEING | 14,220 | 2018 | IMABARI, Japan | MAN-B\&W | Oct-23 |  | $ 306.0m (en bloc) | Taiwanese (Yang Ming Marine Transportation) |
 | FEEDER | ARIANA | 2,732 | 2006 | GDYNIA STOC ZNIA, Poland | MAN-B\&W | Jun-26 | 3 X 45t CRANES | undisclosed | Swiss (MSC) |
 
 ---
@@ -230,24 +230,21 @@ Supramax 10TC averaged \$ 7,723/day, down -5.39% w-o-w, while the Handysize 7TC 
 The newbuilding market was relatively quiet this week with only 5 orders for 15 vessels. These include 6 tankers, 1 bulk carrier, 2 LNG carriers and 6 general cargo vessels. Norwegian owner Ocean Yield ordered a quartet of 75k dwt tankers from GSI, China, with delivery expected in 2026-27 while Singapore based owner Jaldhi Overseas concluded a deal for the construction of two MR2 tankers at Yamic for an undisclosed price. In the dry bulk sector, Chellaram Shipping ordered a 63k dwt Ultramax vessel from New Dayang in China for delivery in 2026. Greek owner Evalend Shipping ordered two firm 174k cbm LNG carriers at a cost of \$265m each, with delivery expected in 2027.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 4-Aug-23 | 28-Jul-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2022 | 2021 | 2020 |
+| Sector | Vessel | Size | 4-Aug-23 | 28-Jul-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 67.0 | 66.0 | 1.5% | 66.0 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
-| **Bulkers** | Capesize | **180k** | 64.0 | 63.0 | 1.6% | 63.0 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
-| **Bulkers** | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
-| **Bulkers** | Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
-| **Bulkers** | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | **300k** | 125.0 | 125.0 | 0.0% | 125.0 | 120.0 | 125.0 | 84.5 | 118 | 98 | 88 |
-| **Tankers** | Suezmax | **160k** | 84.0 | 84.0 | 0.0% | 84.0 | 76.0 | 84.0 | 55.0 | 79 | 66 | 58 |
-| **Tankers** | Aframax | **115k** | 70.0 | 70.0 | 0.0% | 69.0 | 64.0 | 69.0 | 46.0 | 62 | 53 | 48 |
-| **Tankers** | MR | **50k** | 47.0 | 47.0 | 0.0% | 47.0 | 44.0 | 47.0 | 34.0 | 43 | 38 | 35 |
-| **Gas** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 262.0 | 261.0 | 0.4% | 262.0 | 248.0 | 262.0 | 180.0 | 232 | 195 | 187 |
-| **Gas** | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
-| **Gas** | MGC LPG 55k cbm |  | 86.5 | 86.5 | 0.0% | 86.5 | 77.5 | 86.5 | 43.0 | 74 | 67 | 63 |
-| **Gas** | SGC LPG 25k cbm |  | 56.0 | 56.0 | 0.0% | 56.0 | 53.0 | 55.5 | 40.0 | 51 | 45 | 42 |
+| Bulkers | Newcastlemax | 205k | 67.0 | 66.0 | 1.5% | 66.0 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 64.0 | 63.0 | 1.6% | 63.0 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 125.0 | 125.0 | 0.0% | 125.0 | 120.0 | 125.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 84.0 | 84.0 | 0.0% | 84.0 | 76.0 | 84.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 70.0 | 70.0 | 0.0% | 69.0 | 64.0 | 69.0 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 47.0 | 47.0 | 0.0% | 47.0 | 44.0 | 47.0 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 262.0 | 261.0 | 0.4% | 262.0 | 248.0 | 262.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 86.5 | 86.5 | 0.0% | 86.5 | 77.5 | 86.5 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 56.0 | 56.0 | 0.0% | 56.0 | 53.0 | 55.5 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

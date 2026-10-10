@@ -303,10 +303,10 @@ In the Handysize sector we had the sale of the "BELLE OCEAN" (28,354dwt-blt '14,
 
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LNG | KOOL ORCA | 92,969 | 2021 | HYUNDAI, S. Korea | WinGD | Jan-26 | 170,551 |  |  | eco |
-| LNG | KOOL FIRN | 93,025 | 2020 | HYUNDAI, S. Korea | WinGD | Sep-25 | 170,479 | $ 660.0m | Norwegian (CoolCo) | eco |
-| LNG | KOOL BOREAS | 93,585 | 2015 | STX, S. Korea | MAN | Apr-25 | 167,158 |  |  |  |
-| LNG | KOOL BALTIC | 93,508 | 2015 | STX, S. Korea | MAN | Jan-25 | 167,062 |  |  |  |
+| LNG | KOOL ORCA | 92,969 | 2021 | HYUNDAI, S. Korea | WinGD | Jan-26 | 170,551 | $ 660.0m (en bloc) | Norwegian (CoolCo) | eco |
+| LNG | KOOL FIRN | 93,025 | 2020 | HYUNDAI, S. Korea | WinGD | Sep-25 | 170,479 | $ 660.0m (en bloc) | Norwegian (CoolCo) | eco |
+| LNG | KOOL BOREAS | 93,585 | 2015 | STX, S. Korea | MAN | Apr-25 | 167,158 | $ 660.0m (en bloc) | Norwegian (CoolCo) |  |
+| LNG | KOOL BALTIC | 93,508 | 2015 | STX, S. Korea | MAN | Jan-25 | 167,062 | $ 660.0m (en bloc) | Norwegian (CoolCo) |  |
 | LNG | METHANE HEATHER SALLY | 79,084 | 2007 | SAMSUNG, S. Korea | Kawasaki | jul-25 | 142,100 | $ 50.0m | Chinese (Shandong Shipping) | incl BBB charter |
 
 © Intermodal Research 08/11/2022 5
@@ -316,24 +316,21 @@ In the Handysize sector we had the sale of the "BELLE OCEAN" (28,354dwt-blt '14,
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 04/11/2022 | 28/10/2022 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 66.5 | 67.0 | -0.7% | 51 | 54 | 51 |
-| **Capesize** | **180k** | 62.5 | 63.0 | -0.8% | 49 | 52 | 49 |
-| **Kamsarmax** | **82k** | 35.5 | 36.0 | -1.4% | 28 | 30 | 29 |
-| **Ultramax** | **63k** | 33.0 | 33.5 | -1.5% | 26 | 28 | 27 |
-| **Handysize** | **38k** | 30.0 | 30.0 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| **Suezmax** | **160k** | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| **Aframax** | **115k** | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
-| **MR** | **50k** | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |  |
-| **LGC LPG 80k cbm** | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |  |
-| **MGC LPG 55k cbm** | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |  |
-| **SGC LPG 25k cbm** | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 04/11/2022 | 28/10/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 66.5 | 67.0 | -0.7% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 62.5 | 63.0 | -0.8% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.5 | 36.0 | -1.4% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.5 | -1.5% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 In the newbuilding sector, we have noticed another week of healthy contracting activity. While orders have surfaced across most main sectors, LNG orders continue to gather momentum, primarily driven by the current vessel supply shortage. The number of new tanker and bulker orders remains subdued mainly due to the uncertainty around the decarbonization framework. Five LNG vessels were placed at Hudong Zonghua on behalf of the Qatari LNG project, which will soon commence its phase 2 of its newbuilding program. Meanwhile, due to extremely high demand, LNG newbuilding prices move on an upward trajectory, with one vessel booked at a record price of \$252 million last week, at DSME shipyard. In the boxship sector, two new orders have been placed last week. New container orders emerging are opting for alternative fuels, with LNG and methanol being mostly preferred.
 

@@ -238,20 +238,20 @@ Supramax 10TC averaged \$ 13,881/day down -7.29% w-o-w, while the Handysize 7TC 
 The newbuilding market activity remained strong for another week, with interest apparent across all sectors. In the tanker sector, the UK-based company Union Maritime secured two deals for the construction of three LR2 units. Two of these will be built at the KSOE shipyard, and the remaining one at Dalian; all will be LNG-fueled. On the dry bulk front, two Norwegian owners, Seatankers and Gearbulk, respectively ordered four scrubber-fitted 210,000 dwt vessels and four ammonia and methanol-ready 82,300 dwt vessels at Qingdao Yangfan and Hyundai Wenchong. In the gas sector, Maersk exercised an option for the construction of four 93,000 cbm VLACs at a price of \$116.9 million each. Lastly, the Turkish owner Arkas Group inked a deal with Huangpu Wenchong for the construction of six 4,300 TEU units, each at a price of \$60 million.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 12-Apr-24 | 5-Apr-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 12-Apr-24 | 5-Apr-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 73.0 | 72.5 | 0.7% | 73.0 | 70.0 | 73.0 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | 180k | 69.5 | 69.0 | 0.7% | 69.0 | 67.5 | 69.0 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.0 | 128.0 | 130.0 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | 160k | 87.5 | 87.5 | 0.0% | 87.5 | 85.0 | 87.5 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | 115k | 75.0 | 75.0 | 0.0% | 75.0 | 73.0 | 75.0 | 46.0 | 69 | 62 | 53 |
-|  | MR | 50k | 49.5 | 49.5 | 0.0% | 49.5 | 48.0 | 49.5 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 93.0 | 93.0 | 0.0% | 93.0 | 91.5 | 93.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 58.0 | 60.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 73.0 | 72.5 | 0.7% | 73.0 | 70.0 | 73.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 69.5 | 69.0 | 0.7% | 69.0 | 67.5 | 69.0 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.0 | 128.0 | 130.0 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 87.5 | 87.5 | 0.0% | 87.5 | 85.0 | 87.5 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 75.0 | 73.0 | 75.0 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 49.5 | 49.5 | 0.0% | 49.5 | 48.0 | 49.5 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 93.0 | 93.0 | 0.0% | 93.0 | 91.5 | 93.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 58.0 | 60.0 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -298,4 +298,4 @@ The shipbreaking market has been relatively subdued recently, largely due to the
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SINOKOR HONGKONG | 17,468 | 5,300 | 1996 | IMABARI, Japan | CONTAINER | $ 598.0m | Bangladeshi | including ROB 380T |
+| SINOKOR HONGKONG | 17,468 | 5,300 | 1996 | IMABARI, Japan | CONTAINER | $ 598/Ldt | Bangladeshi | including ROB 380T |

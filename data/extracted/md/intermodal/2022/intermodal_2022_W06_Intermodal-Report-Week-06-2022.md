@@ -282,9 +282,9 @@ In the Handysize sector we had the sale of the "MAJESTY" (34,375dwt-blt '11, S. 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | EVERGLORY | 81,666 | 2012 | QINGDAO BEIHAI, China | Wartsila | Aug-22 |  |  |  |  |
+| KMAX | EVERGLORY | 81,666 | 2012 | QINGDAO BEIHAI, China | Wartsila | Aug-22 |  | high $ 19.0m each | Chinese |  |
 | KMAX | GALAXY | 81,666 | 2012 | QINGDAO BEIHAI, China | Wartsila | Nov-22 |  | high $ 19.0m each | Chinese |  |
-| KMAX | RENAISSANCE | 81,666 | 2012 | QINGDAO BEIHAI, China | Wartsila | Dec-22 |  |  |  |  |
+| KMAX | RENAISSANCE | 81,666 | 2012 | QINGDAO BEIHAI, China | Wartsila | Dec-22 |  | high $ 19.0m each | Chinese |  |
 | KMAX | NAVIOS PROSPERITY | 82,535 | 2007 | TSUNEISHI, Japan | MAN-B\&amp;W | Jul-26 |  | rgn $ 16.4m | Greek | waiving inspection |
 | SUPRA | BUMBLEBEE | 55,628 | 2011 | MITSUI, Japan | MAN-B\&amp;W | Oct-26 | 4 X 30t CRANES | $ 20.4m | Middle Eastern | BWTS fitted |
 | HMAX | POLA ANISIA | 46,412 | 2006 | OSHIMA, Japan | MAN-B\&amp;W | Jan-26 | 4 X 30t CRANES | $ 13.2m | Turkish | BWTS fitted |
@@ -294,10 +294,10 @@ In the Handysize sector we had the sale of the "MAJESTY" (34,375dwt-blt '11, S. 
 
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MARITIME SINCHAI | 64,928 | 2017 | OSHIMA, Japan | MAN-B\&amp;W | Feb-22 | 2 X 75t &amp; 2 X 40t CRANES |  |  | MPP |
+| MARITIME SINCHAI | 64,928 | 2017 | OSHIMA, Japan | MAN-B\&amp;W | Feb-22 | 2 X 75t &amp; 2 X 40t CRANES | rgn $ 36.0m each | Chinese (COSCO) | MPP |
 | MARITIME CHALLENGER | 64,794 | 2017 | OSHIMA, Japan | MAN-B\&amp;W | Jul-22 | 2 X 75t &amp; 2 X 40t CRANES | rgn $ 36.0m each | Chinese (COSCO) | MPP |
-| MARITIME DISCOVERER | 64,793 | 2017 | OSHIMA, Japan | MAN-B\&amp;W | May-22 | 2 X 75t &amp; 2 X 40t CRANES |  |  | MPP |
-| MARITIME VOYAGER | 64,942 | 2016 | OSHIMA, Japan | MAN-B\&amp;W | Jul-26 | 2 X 75t &amp; 2 X 40t CRANES |  |  | MPP |
+| MARITIME DISCOVERER | 64,793 | 2017 | OSHIMA, Japan | MAN-B\&amp;W | May-22 | 2 X 75t &amp; 2 X 40t CRANES | rgn $ 36.0m each | Chinese (COSCO) | MPP |
+| MARITIME VOYAGER | 64,942 | 2016 | OSHIMA, Japan | MAN-B\&amp;W | Jul-26 | 2 X 75t &amp; 2 X 40t CRANES | rgn $ 36.0m each | Chinese (COSCO) | MPP |
 | CS FUTURE | 34,038 | 2010 | NANTONG YAHUA SHIPBUIL, China | MAN-B\&amp;W | Mar-25 | 2 X 40t &amp; 3 X 35t CRANES | $ 17.0m | undisclosed | 975-TEU, Tweendeck, BWTS fitted, Delivery Med |
 
 © Intermodal Research 15/02/2022 4
@@ -311,12 +311,12 @@ In the Handysize sector we had the sale of the "MAJESTY" (34,375dwt-blt '11, S. 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUB PMAX | VIVALDI | 2,546 | 2010 | JIANGSU YANGZIJJIANG, China | Wartsila | Jan-25 | 3 X 45t Cranes | $ 18.0m | undisclosed |  |
 | SUB PMAX | HAMMONIA PALATIUM | 2,546 | 2006 | JIANGSU YANGZIJJIANG, China | MAN-B\&amp;W | Nov-26 | 3 X 45t CRANES | $ 19.35m | Swiss (MSC) | Eco, mid-January 2022 deal |
-| SUB PMAX | ELIZABETH | 2,496 | 2003 | DAEWOO-MANGALIA, Romania | Sulzer | Dec-23 | 3 X 45t CRANES | $ 21.5m | undisclosed | incl. low TC attached, ear February 2022 deal |
-| SUB PMAX | CINDY | 2,490 | 2004 | HDW AG-KIEL, Germany | Sulzer | Nov-24 | 3 X 45t CRANES |  | undisclosed |  |
-| FEEDER | YANGFAN CV18H-VG01 | 1,868 | 2022 | YANGFAN Group, China | Wartsila |  |  |  |  |  |
+| SUB PMAX | ELIZABETH | 2,496 | 2003 | DAEWOO-MANGALIA, Romania | Sulzer | Dec-23 | 3 X 45t CRANES | $ 21.5m (en bloc) | undisclosed | incl. low TC attached, ear February 2022 deal |
+| SUB PMAX | CINDY | 2,490 | 2004 | HDW AG-KIEL, Germany | Sulzer | Nov-24 | 3 X 45t CRANES | $ 21.5m (en bloc) | undisclosed | incl. low TC attached, ear February 2022 deal |
+| FEEDER | YANGFAN CV18H-VG01 | 1,868 | 2022 | YANGFAN Group, China | Wartsila |  |  | rgn $ 44.5m each | French (CMA CGM) | delivery end 2022 / ear 2023 |
 | FEEDER | YANGFAN CV18H-VG02 | 1,868 | 2022 | YANGFAN Group, China | Wartsila |  |  | rgn $ 44.5m each | French (CMA CGM) | delivery end 2022 / ear 2023 |
-| FEEDER | YANGFAN CV18H-VG03 | 1,868 | 2022 | YANGFAN Group, China | Wartsila |  |  |  |  |  |
-| FEEDER | YANGFAN CV18H-VG03 | 1,868 | 2023 | YANGFAN Group, China | Wartsila |  |  |  |  |  |
+| FEEDER | YANGFAN CV18H-VG03 | 1,868 | 2022 | YANGFAN Group, China | Wartsila |  |  | rgn $ 44.5m each | French (CMA CGM) | delivery end 2022 / ear 2023 |
+| FEEDER | YANGFAN CV18H-VG03 | 1,868 | 2023 | YANGFAN Group, China | Wartsila |  |  | rgn $ 44.5m each | French (CMA CGM) | delivery end 2022 / ear 2023 |
 | FEEDER | HOOGE | 1,368 | 2006 | SHANDONG WEIHAI, China | MAN-B\&amp;W | Jul-26 | 2 X 40t CRANES | $ 23.6m | Israeli (Carmel Shipping) |  |
 
 © Intermodal Research 15/02/2022 5
@@ -326,24 +326,21 @@ In the Handysize sector we had the sale of the "MAJESTY" (34,375dwt-blt '11, S. 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 11/02/2022 | 04/02/2022 | ±% | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 59 | 51 |
-| Capesize | 180k | 60.5 | 60.5 | 0.0% | 56 | 49 |
-| Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 |
-| Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 |
-| Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 115.0 | 114.0 | 0.9% | 98 | 88 |
-| Suezmax | 160k | 76.5 | 76.0 | 0.7% | 66 | 58 |
-| Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 |
-| MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 216.0 | 215.0 | 0.5% | 195 | 187 | 186 |
-| LGC LPG 80k cbm | 81.5 | 81.5 | 0.0% | 76 | 73 | 73 |
-| MGC LPG 55k cbm | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |
-| SGC LPG 25k cbm | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |
+| Sector | Vessel | Size | 11/02/2022 | 04/02/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 115.0 | 114.0 | 0.9% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 76.5 | 76.0 | 0.7% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 216.0 | 215.0 | 0.5% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 81.5 | 81.5 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |
 
 The newbuilding market remains in a good shape, while despite last week's decreased volume when compared to the previous weeks, interest for new projects persists for LNG and Container units. At the same time, delivery slots are more and more difficult to be secured with the giant orderbook plans having reserved a high number of berths. Having said that, it came to light that QatarEnergy will increase its orderbook by two more LNG units summing a total number of twenty vessels so far, while Ocean Network Expressed is planning to dispense five 13,000teu ships in four shipyards with the deliveries taking place, not before the end of 2024. As far as the recent newbuilding list, Mitsui OSK Lines ordered one ice-class 54,800dwt tanker at GSI for an undisclosed price. Hyundai Samho secured two 174,000cbm LNG units from Nigerian owner Bono Energy. Each vessel will cost around \$223.0 million while a T/C to Nigerian National Corp is being attached to the deal. Lastly, Wanhua Chemical Group ordered two firm plus two optional LEG carriers at Jiangnan yard while CU Lines ordered two 2,700teu boxships at CSSC Huangpu.
 

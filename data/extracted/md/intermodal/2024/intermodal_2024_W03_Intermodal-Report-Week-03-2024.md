@@ -210,8 +210,8 @@ Supramax 10TC averaged \$ 11,518/day, down -7.93% w-o-w. while the Handysize 7TC
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | ALPHA AFOVOS | 74,428 | 2001 | DAEWOO, S. Korea | B\&W | Mar-26 |  | $ 7.0m | Chinese | BWTS fitted |
-| SUPRA | LAN HAI SHENG HUI | 56,616 | 2011 | CHINA SHIPPING, China | MAN-B\&W | Dec-26 | 4 X 30t CRANES | $ 27.7m | European | BWTS fitted |
-| SUPRA | HAI YANG ZHI HUA | 56,603 | 2011 | CHINA SHIPPING, China | MAN-B\&W | Sep-26 | 4 X 30t CRANES |  |  | BWTS fitted |
+| SUPRA | LAN HAI SHENG HUI | 56,616 | 2011 | CHINA SHIPPING, China | MAN-B\&W | Dec-26 | 4 X 30t CRANES | $ 27.7m (en bloc) | European | BWTS fitted |
+| SUPRA | HAI YANG ZHI HUA | 56,603 | 2011 | CHINA SHIPPING, China | MAN-B\&W | Sep-26 | 4 X 30t CRANES | $ 27.7m (en bloc) | European | BWTS fitted |
 | SUPRA | ISABELLA M | 56,056 | 2006 | MITSUI TAMANO, Japan | MAN-B\&W | Jul-26 | 4 X 30,5t CRANES | $ 12.5m | Chinese | BWTS fitted |
 | SUPRA | AMARNATH | 53,169 | 2004 | IWAGI ZOSEN, Japan | B\&W | Mar-24 | 4 X 30,5t CRANES | $ 7.8m | European | BWTS fitted |
 | HANDY | UNI WEALTH | 29,256 | 2009 | YANGZHOU, China | MAN-B\&W | Jul-28 | 4 X 30t CRANES | $ 8.5m | undisclosed | BWTS fitted |

@@ -174,7 +174,7 @@ Supramax 10TC averaged \$ 14,868/day up +0.37% w-o-w, while the Handysize 7TC av
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR2 | PACIFIC JEWELS | 115,177 | 2016 | DAEHAN, S. Korea | MAN-B\&W | May-26 | DH | high $ 60's each | Vietnamese | Scrubber fitted, Eco |
-| LR2 | PACIFIC TREASURES | 115,063 | 2016 | DAEHAN, S. Korea | MAN-B\&W | Mar-26 | DH |  |  |  |
+| LR2 | PACIFIC TREASURES | 115,063 | 2016 | DAEHAN, S. Korea | MAN-B\&W | Mar-26 | DH | high $ 60's each | Vietnamese | Scrubber fitted, Eco |
 | MR2 | NAVE EQUATOR | 49,999 | 2009 | SPP, S. Korea | MAN-B\&W | Sep-24 | DH | region $ 26.0m | undisclosed |  |
 
 ## Bulk Carriers
@@ -194,20 +194,20 @@ Supramax 10TC averaged \$ 14,868/day up +0.37% w-o-w, while the Handysize 7TC av
 A robust week for newbuilding orders saw a total of 19 firm vessels being commissioned. Tankers continued to dominate the scene with significant orders from Greek owners. Monte Nero led with an order for four 50,000 dwt tankers from Huanghai Shipbuilding, China, scheduled for delivery between 2026 and 2027. The owner also secured three 63,500 dwt bulkers from Nantong Xiangyu, China, for \$34 million each, to be delivered in 2025, featuring NOx Tier III and EEDI Phase III compliance. Sticking to Greeks, Athenian Sea Carriers exercised options for two 18,500 dwt tankers from Wuchang SB Group, China, set for delivery from 2025 to 2027. These vessels will feature NOx-Tier III, EEDI Phase 3 compliance, and dual-fuel LNG & methanol capabilities. In the bulker segment, Greek interests remained strong. Drydel Shipping ordered one 66,000 dwt bulker from Tsuneishi Cebu, Philippines, for delivery in 2028. The vessel will be scrubber-fitted and comply with EEDI Phase III regulations. The container ship market saw significant activity from Japanese shipping company ONE (Ocean Network Express), which ordered five 13,000 teu methanol dual-fuel vessels from Jiangnan, China, for delivery between 2027 and 2028. Additionally, ONE exercised options for five more 13,000 teu methanol dual-fuel vessels from Yangzijiang, China, with the same delivery timeline.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 19-Jul-24 | 12-Jul-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 19-Jul-24 | 12-Jul-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 34.5 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | 300k | 129.5 | 130.0 | -0.4% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
-|  | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 263.0 | 263.5 | -0.2% | 263.0 | 263.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 34.5 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 129.5 | 130.0 | -0.4% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 263.0 | 263.5 | -0.2% | 263.0 | 263.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
 
 ## Indicative Period Charters
 
@@ -247,5 +247,5 @@ The demolition market remained subdued this past week, impacted by strong freigh
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MSC IRIS | 21,370 | 10,655 | 1982 | WARNOWWERFT, Germany | CONTAINER | $ 526.0m | Indian | Green recycling |
+| MSC IRIS | 21,370 | 10,655 | 1982 | WARNOWWERFT, Germany | CONTAINER | $ 526/Ldt | Indian | Green recycling |
 | EMPIRE PERSIA | 612 | 1,805 | 1972 | CLELANDS, UK | OFFSHORE/Support | undisclosed | undisclosed | As is Denmark |

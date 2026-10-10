@@ -262,9 +262,9 @@ In the Panamax sector we had the sale of the "SCORPIO" (74,930dwt-blt '12, Japan
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR2 | PROSTAR | 115,643 | 2019 | DAEHAN, S. Korea | MAN-B&amp;W | Jan-24 | DH | $ 52.0m | Greek |
-| MR2 | DONG-A TRITON | 49,997 | 2015 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jan-25 | DH | $ 30.0m |  |
+| MR2 | DONG-A TRITON | 49,997 | 2015 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jan-25 | DH | $ 30.0m | U.K. based (Tufton Oceanic) |
 | MR2 | DONG-A THEMIS | 49,997 | 2015 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jan-25 | DH | $ 30.0m | U.K. based (Tufton Oceanic) |
-| MR2 | DONG-A KRIOS | 49,997 | 2015 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Apr-25 | DH | $ 30m |  |
+| MR2 | DONG-A KRIOS | 49,997 | 2015 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Apr-25 | DH | $ 30m | U.K. based (Tufton Oceanic) |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -282,38 +282,34 @@ In the Panamax sector we had the sale of the "SCORPIO" (74,930dwt-blt '12, Japan
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | CAROLINA TRADER | 2,782 | 2017 | Jiangsu Newyangzi, China | MAN-B\&amp;W | Sep-22 |  | around $ 48.5m |  |
+| FEEDER | CAROLINA TRADER | 2,782 | 2017 | Jiangsu Newyangzi, China | MAN-B\&amp;W | Sep-22 |  | around $ 48.5m | Taiwanese (Wan Hai Lines) |
 | FEEDER | CALIFORNIA TRADER | 2,782 | 2017 | Jiangsu Newyangzi, China | MAN-B\&amp;W | Sep-22 |  | around $ 48.5m | Taiwanese (Wan Hai Lines) |
-| FEEDER | DELAWARE TRADER | 2,782 | 2018 | Guangzhou Wenchong, China | MAN-B\&amp;W | Jun-23 |  | around $ 48.5m |  |
+| FEEDER | DELAWARE TRADER | 2,782 | 2018 | Guangzhou Wenchong, China | MAN-B\&amp;W | Jun-23 |  | around $ 48.5m | Taiwanese (Wan Hai Lines) |
 | FEEDER | MCC CHITTAGONG | 2,548 | 2016 | OUHUA, China | MAN-B\&amp;W | Oct-26 | 3 X 45t CRANES | undisclosed | Danish (Maersk) |
-| FEEDER | MCC NINGBO | 2,548 | 2016 | OUHUA, China | MAN-B\&amp;W | Aug-21 | 3 X 45t CRANES |  |  |
+| FEEDER | MCC NINGBO | 2,548 | 2016 | OUHUA, China | MAN-B\&amp;W | Aug-21 | 3 X 45t CRANES | undisclosed | Danish (Maersk) |
 
 © Intermodal Research 28/12/2021 4
 
 ---
 
 # Intermodal Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 24/12/2021 | 17/12/2021 | ±% | 2020 | 2019 | 2018 |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 |
-| Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 |
-| Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 |
-| Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 110.5 | 109.5 | 0.9% | 88 | 92 |
-| Suezmax | 160k | 76.0 | 76.0 | 0.0% | 58 | 60 |
-| Aframax | 115k | 59.0 | 59.0 | 0.0% | 48 | 49 |
-| MR | 50k | 41.0 | 41.0 | 0.0% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 209.0 | 208.0 | 0.5% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 81.5 | 81.5 | 0.0% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 71.5 | 71.5 | 0.0% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 49.0 | 49.0 | 0.0% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 24/12/2021 | 17/12/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 110.5 | 109.5 | 0.9% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 76.0 | 76.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 59.0 | 59.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 209.0 | 208.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 81.5 | 81.5 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 42 | 44 | 43 |
 
 The newbuilding market activity was healthy during the past days. Interest for bulker units was noticeable, followed by two LNG orders and a lone box-ship newbuilding contract. More specifically, in the dry bulk sector, Bocimar, a subsidiary of CMB group, ordered a pair of 210,000dwt ammonia-ready units at Qingdao Beihai for an undisclosed price. At the same time, HuaXia FL concluded two more Ultramaxes, this time at NACKS yard while Wisdom Marime concluded a deal for the construction of one 40,000dwt vessel at Hakodate shipyard. As far as the LNG orders are concerned, both CSSC Leasing and CMES inked an LOI for one firm plus one optional 175,000cbm unit at Jiangnan and DSIC shipyards respectively. Lastly, Hong Kong based owner TS Lines, ordered two 7,000teu boxships at Shanghai Waigaoqiao in China for an undisclosed price.
 

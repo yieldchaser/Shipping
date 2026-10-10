@@ -283,27 +283,23 @@ In the Handysize sector we had the sale of the "MALTO HOPE" (28,226dwt-blt '13, 
 ---
 
 # Intermodal Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 02/09/2022 | 26/08/2022 | ±% | 2020 | 2019 | 2018 |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 69.0 | 69.0 | 0.0% | 51 | 54 |
-| Capesize | 180k | 64.5 | 64.5 | 0.0% | 49 | 52 |
-| Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 35.0 | 35.0 | 0.0% | 26 | 28 |
-| Handysize | 38k | 31.0 | 31.0 | 0.0% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 |
-| Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 |
-| Aframax | 115k | 61.5 | 61.5 | 0.0% | 48 | 49 |
-| MR | 50k | 43.5 | 43.5 | 0.0% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 240.0 | 240.0 | 0.0% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 87.0 | 87.0 | 0.0% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 02/09/2022 | 26/08/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 69.0 | 69.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 64.5 | 64.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 61.5 | 61.5 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 43.5 | 43.5 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 240.0 | 240.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 87.0 | 87.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 Newbuilding ordering activity has gathered momentum during last week, with orders surfacing across all sectors. In the gas sector, Greek Evalend inked a deal with KSOE for three firm plus two optional 88,000cbm dual-fuelled VLGCs, which can carry liquefied ammonia gas and can transit the old Panama Canal locks. The vessels will be delivered between 2024-2025 and will cost \$95.3m each. Exmar LPG sealed a deal with HMD for two firm plus two optional 46,000cbm LPG, at a price over \$67.0m and delivery between 2024-2025. In the bulker sector, 3 orders surfaced for a total of 11 vessels, all placed at Chinese yards. In the tanker realm, an LOI was inked between Euronav and Daehan shipyard for one 159,000dwt Suezmax at a price between \$73.0m-\$74.0m and 2024 delivery. Last but not least, in the container sector, Langh Ship placed an order for three 1,200teu Ice 1A vessels which will be built according to NOx-Tier III standards and will carry hybrid-type scrubbers.
 

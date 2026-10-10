@@ -270,14 +270,14 @@ In the Handysize sector we had the sale of the "AFRICA PRIDE" (28,843dwt-bl't '9
 | VLCC | DHT EDELWEISS | 301,021 | 2008 | DAEWOO, S. Korea | MAN-B\&amp;W | Jan-23 | DH | $ 37.0m | undisclosed | Q3 dely |
 | VLCC | TSURUSAKI | 300,838 | 2002 | IHI MARINE, Japan | Sulzer | Dec-22 | DH | $ 33.0m | Greek |  |
 | VLCC | G. DREAM | 299,945 | 2022 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Jul-27 | DH | $ 108.0m | S. Korean (HMM) | BWTS &amp; Scrubber fitted |
-| AFRA | CELSIUS ESBJERG | 113,043 | 2009 | NEW TIMES, China | MAN-B\&amp;W | Oct-24 | DH |  |  | BWTS fitted, coated |
-| AFRA | CELSIUS EVERETT | 113,010 | 2008 | NEW TIMES, China | MAN-B\&amp;W | Oct-23 | DH | $ 64.0m | undisclosed | coated |
+| AFRA | CELSIUS ESBJERG | 113,043 | 2009 | NEW TIMES, China | MAN-B\&amp;W | Oct-24 | DH | $ 64.0m (en bloc) | undisclosed | BWTS fitted, coated |
+| AFRA | CELSIUS EVERETT | 113,010 | 2008 | NEW TIMES, China | MAN-B\&amp;W | Oct-23 | DH | $ 64.0m (en bloc) | undisclosed | coated |
 | AFRA | ATLANTIC PRIDE | 114,500 | 2004 | SAMSUNG, S. Korea | B\&amp;W | May-24 | DH | $ 24.0m | Chinese | BWTS fitted, Ice 1C |
 | AFRA | ZHEN I | 105,588 | 2002 | DAEWOO, S. Korea | MAN-B\&amp;W | Sep-22 | DH | mid/high $ 17.0m | undisclosed |  |
-| MR2 | GLENDA MERYL | 47,251 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Nov-25 | DH |  |  |  |
-| MR2 | GLENDA MELODY | 47,238 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-25 | DH | $ 109.6m | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their J/V partner based on the reported price of $109.6m enbloc |
-| MR2 | GLENDA MELISSA | 47,203 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Feb-26 | DH |  |  |  |
-| MR2 | GLENDA MELANIE | 47,162 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Nov-25 | DH |  |  |  |
+| MR2 | GLENDA MERYL | 47,251 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Nov-25 | DH | $ 109.6m (en bloc) | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their J/V partner based on the reported price of $109.6m enbloc |
+| MR2 | GLENDA MELODY | 47,238 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-25 | DH | $ 109.6m (en bloc) | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their J/V partner based on the reported price of $109.6m enbloc |
+| MR2 | GLENDA MELISSA | 47,203 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Feb-26 | DH | $ 109.6m (en bloc) | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their J/V partner based on the reported price of $109.6m enbloc |
+| MR2 | GLENDA MELANIE | 47,162 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Nov-25 | DH | $ 109.6m (en bloc) | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their J/V partner based on the reported price of $109.6m enbloc |
 | MR2 | AGNES VICTORY | 47,122 | 2004 | BRODOGRADILISTE, Croatia | B\&amp;W | Feb-24 | DH | $ 16.8m | Chinese | BWTS fitted |
 | MR2 | FSL SINGAPORE | 47,470 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Feb-26 | DH | $ 18.0m | Greek | BWTS fitted |
 | MR2 | GOTLAND CAROLINA | 53,160 | 2006 | GUANGZHOU, China | Wartsila | Dec-26 | DH | $ 18.5m | Norwegian | BWTS fitted |
@@ -299,12 +299,12 @@ In the Handysize sector we had the sale of the "AFRICA PRIDE" (28,843dwt-bl't '9
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | RIO CADIZ | 4,300 | 2008 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Jan-23 |  | undisclosed | Swiss (MSC) | Scrubber fitted |
-| PMAX | RIO CHARLESTON | 4,300 | 2008 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Jan-23 |  | undisclosed |  |  |
+| PMAX | RIO CHARLESTON | 4,300 | 2008 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Jan-23 |  | undisclosed | Swiss (MSC) | Scrubber fitted |
 | PMAX | TRF PARTICI | 3,534 | 2010 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Jun-25 |  | undisclosed | undisclosed | TC attached, Scrubber fitted |
-| SUB PMAX | CSBC Kaohsiung 1185 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  |  |  |  |
-| SUB PMAX | CSBC Kaohsiung 1186 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
-| SUB PMAX | CSBC Kaohsiung 1187 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  |  |  |  |
-| SUB PMAX | CSBC Kaohsiung 1188 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  |  |  |  |
+| SUB PMAX | CSBC Kaohsiung 1185 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m (en bloc) | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
+| SUB PMAX | CSBC Kaohsiung 1186 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m (en bloc) | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
+| SUB PMAX | CSBC Kaohsiung 1187 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m (en bloc) | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
+| SUB PMAX | CSBC Kaohsiung 1188 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m (en bloc) | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
 | FEEDER | PINARA | 1,740 | 2004 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Oct-24 | 2 X 45t CRANES | low $ 20.0m | Turkish (Akar Deniz Tasimac) |  |
 
 © Intermodal Research 30/08/2022 5
@@ -314,24 +314,21 @@ In the Handysize sector we had the sale of the "AFRICA PRIDE" (28,843dwt-bl't '9
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 26/08/2022 | 19/08/2022 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 69.0 | 69.0 | 0.0% | 51 | 54 | 51 |
-| Capesize | **180k** | 64.5 | 64.5 | 0.0% | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 37.5 | 37.5 | 0.0% | 28 | 30 | 29 |
-| Ultramax | **63k** | 35.0 | 35.0 | 0.0% | 26 | 28 | 27 |
-| Handysize | **38k** | 31.0 | 31.0 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| Suezmax | **160k** | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| Aframax | **115k** | 61.5 | 61.5 | 0.0% | 48 | 49 | 47 |
-| MR | **50k** | 43.5 | 43.5 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 240.0 | 239.0 | 0.4% | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 87.0 | 87.0 | 0.0% | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 26/08/2022 | 19/08/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 69.0 | 69.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 64.5 | 64.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 61.5 | 61.5 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 43.5 | 43.5 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 240.0 | 239.0 | 0.4% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 87.0 | 87.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 Newbuilding ordering activity remained fairly stable over the last week, with orders being almost equally distributed among all sectors. Japanese MOL shipping giant dominated ordering activity by placing two separate orders for 2 VLCC tankers and 4 VLOC bulkers. MOL is the first company to order a VLCC tanker after a 14-month period of muted ordering activity for the particular type of vessel. The 2x309,000dwt vessels will be built in DACKS for a price between \$120.0m-\$130.0m each and will be delivered between 2025-2026. It is worth mentioning that the last VLCC ordered in June 2021 was placed by Euronav at Korean Hyundai Samho, with the company paying \$93.3m for the vessel, approx. \$30.0m less than MOL. The company's second order consists of 4x210,000dwt Newcastlemax vessels, which will be built in Qingdao Beihai and will cost \$75.0m-\$80.0m each. All 6 vessels ordered by the company will be LNG dual-fuelled and will meet EEDI phase 3 and NOx-Tier III standards, in line with the company's target to achieve zero GHG emissions by 2050. In the dry sector, Doun Kisen placed another order last week for 2+2x40,000dwt vessels for less than \$30.0m each. Anhui Changjiang LNG concluded a deal with Hudong Zhonghua for the construction of 1x14,000cbm LNG bunkering vessel for a price lower than \$70.0m. The vessel will serve a domestic trade along Yantze river between Shanghai and Wuhu LNG terminal in Anhui province, which is the country's first inland LNG terminal. Conclusively, Elbdeich Reederei inked a deal with Penglai Jinglu for the construction of 2x1,400teu LNG ready boxships for a price of \$30.0m each.
 

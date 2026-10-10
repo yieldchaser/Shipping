@@ -287,9 +287,9 @@ In the Supramax sector we had the sale of the "OREO" (55,430dwt-bl't '08, Japan)
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | DL FREESIA | 3,650 | 2007 | SHITANOE, Japan | Mitsubishi | Sep-22 | 3,448 |  |  |  |
+| LPG | DL FREESIA | 3,650 | 2007 | SHITANOE, Japan | Mitsubishi | Sep-22 | 3,448 | undisclosed | Indonesian |  |
 | LPG | DL BEGONIA | 3,650 | 2006 | SHITANOE, Japan | Mitsubishi | May-26 | 3,447 | undisclosed | Indonesian | BWTS fitted |
-| LPG | DL CAMELLIA | 3,598 | 2001 | SHITANOE, Japan | Mitsubishi | Apr-26 | 3,446 |  |  | BWTS fitted |
+| LPG | DL CAMELLIA | 3,598 | 2001 | SHITANOE, Japan | Mitsubishi | Apr-26 | 3,446 | undisclosed | Indonesian | BWTS fitted |
 
 © Intermodal Research 19/07/2022 4
 
@@ -297,25 +297,22 @@ In the Supramax sector we had the sale of the "OREO" (55,430dwt-bl't '08, Japan)
 
 # Intermodal Newbuilding Market
 
-## Indicative Newbuilding Prices (million$)
-| Sector | Size | 15/07/2022 | 08/07/2022 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 69.0 | 69.0 | 0.0% | 51 | 54 | 51 |
-| **Capesize** | **180k** | 64.5 | 64.5 | 0.0% | 49 | 52 | 49 |
-| **Kamsarmax** | **82k** | 37.5 | 37.5 | 0.0% | 28 | 30 | 29 |
-| **Ultramax** | **63k** | 35.5 | 35.5 | 0.0% | 26 | 28 | 27 |
-| **Handysize** | **38k** | 31.0 | 31.0 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 118.5 | 118.5 | 0.0% | 88 | 92 | 88 |
-| **Suezmax** | **160k** | 79.5 | 79.5 | 0.0% | 58 | 60 | 58 |
-| **Aframax** | **115k** | 61.5 | 61.5 | 0.0% | 48 | 49 | 47 |
-| **MR** | **50k** | 42.5 | 42.5 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 234.0 | 233.0 | 0.4% | 187 | 186 | 181 |  |
-| **LGC LPG 80k cbm** | 87.0 | 87.0 | 0.0% | 73 | 73 | 71 |  |
-| **MGC LPG 55k cbm** | 74.5 | 74.5 | 0.0% | 63 | 65 | 63 |  |
-| **SGC LPG 25k cbm** | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |  |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 15/07/2022 | 08/07/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 69.0 | 69.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 64.5 | 64.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 35.5 | 35.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 118.5 | 118.5 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 79.5 | 79.5 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 61.5 | 61.5 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 42.5 | 42.5 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 234.0 | 233.0 | 0.4% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 87.0 | 87.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 74.5 | 74.5 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 Newbuilding ordering activity has been rather muted across most sectors during the past week. In contrast to the previous weeks, the recently surfaced newbuilding contracts include no containers, LNGs or bulkers. Instead, contracting activity resumed in the wet front. More specifically, sentiment in tanker contracting was firm with 3 orders emerging for a total of 8 vessels. Owners' appetite for LR2s and MRs has prevailed, underpinned by the current favorable market conditions for product tankers. Greek CM Lemos inked a deal for three conventionally fuelled LR2s at Hyundai Vietnam, costing \$65.0m each and expected to be delivered by 2024-2025. Meanwhile, Greek Neda returned to Daehan for the construction of one LR2, which will be scrubber fitted and will meet EEDI phase 3 standards. The vessel will be delivered in 2024 and will cost \$65.0m. Nissen Kaiun inked a deal with Hyundai Vietnam for 4 MRs which will meet EEDI phase 3 standards. Vessels will cost \$42.5m each and they will be delivered by 2024. CMB FL expanded its newbuilding activity by entering the car/truck carrier market with a sextet of PCTCs. The LNG dual-fuelled vessels will be assigned for construction to the state-owned Xiamen Shipbuilding and will cost \$86.0m each.
 

@@ -237,14 +237,14 @@ Supramax 10TC averaged \$ 8,063/day, down -4.35% w-o-w, while the Handysize 7TC 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | AS EMMA | 4,256 | 2010 | Jiangsu Newyangzi, China | MAN-B\&W | Jan-25 |  | $ 22.0m | undisclosed | dely Novemebr 2023 |
 | PMAX | NORTHERN DEDICATION | 3,534 | 2007 | SHANGHAI SHIPYARD, China | MAN-B\&W | Jul-27 |  | $ 17.5m each | UAE based (GFS) |  |
-| PMAX | NORTHERN DEFENDER | 3,534 | 2007 | SHANGHAI SHIPYARD, China | MAN-B\&W | Dec-27 |  |  |  |  |
+| PMAX | NORTHERN DEFENDER | 3,534 | 2007 | SHANGHAI SHIPYARD, China | MAN-B\&W | Dec-27 |  | $ 17.5m each | UAE based (GFS) |  |
 | SUB PMAX | NORTHERN VIGOUR | 2,742 | 2005 | AKER MTW WERFT, GERMANY | B\&W | Aug-25 |  | $ 17.0m | Swiss based (MSC) |  |
 | SUB PMAX | ELLA | 2,450 | 2003 | NAIKAI ZOSEN, Japan | B\&W | May-27 | 3 X 40t CRANES | $ 14.0m | Swiss based (MSC) | BWTS fitted |
-| SUB PMAX | QUEEN ESTHER | 2,190 | 2016 | GUANGZHOU WENCHONG, China | MAN-B\&W | Jun-26 | 3 X 45t CRANES |  |  |  |
-| FEEDER | B TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Feb-24 | CRANES 2x45 T |  |  |  |
-| FEEDER | TRIESTE TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Apr-24 | CRANES 2x45 T | $ 136.4m | Norwegian (MPC C) |  |
-| FEEDER | MADRID TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Jun-24 | CRANES 2x45 T |  |  |  |
-| FEEDER | LONDON TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Nov-24 |  |  |  |  |
+| SUB PMAX | QUEEN ESTHER | 2,190 | 2016 | GUANGZHOU WENCHONG, China | MAN-B\&W | Jun-26 | 3 X 45t CRANES | $ 136.4m (en bloc) | Norwegian (MPC C) |  |
+| FEEDER | B TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Feb-24 | CRANES 2x45 T | $ 136.4m (en bloc) | Norwegian (MPC C) |  |
+| FEEDER | TRIESTE TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Apr-24 | CRANES 2x45 T | $ 136.4m (en bloc) | Norwegian (MPC C) |  |
+| FEEDER | MADRID TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Jun-24 | CRANES 2x45 T | $ 136.4m (en bloc) | Norwegian (MPC C) |  |
+| FEEDER | LONDON TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Nov-24 |  | $ 136.4m (en bloc) | Norwegian (MPC C) |  |
 | FEEDER | MARFRET MARAJO | 1,713 | 2008 | HYUNDAI, S. Korea | MAN-B\&W | Sep-23 | 2 X 45t CR, 1 X 25t CR | undisclosed | Argentinian (Interocean) |  |
 
 ---
@@ -253,26 +253,23 @@ Supramax 10TC averaged \$ 8,063/day, down -4.35% w-o-w, while the Handysize 7TC 
 
 The newbuilding market activity was healthy last week, with 20 firm orders and 6 options materializing. Of these, 6 were tankers, 7 bulkers, while LNG and PCTC had 2 and 4 orders respectively. The Greeks had a strong presence in the tanker market with Polembros Shipping ordering two 157,000 dwt tankers from New Times in China. The vessel will be scrubber-fitted and LNG ready and is scheduled for delivery in 2025. Capital Shipping ordered a further two 156,000 dwt Suezmaxes from the same yard. The vessels will be LNG dual-fuelled and are expected to be in the water in 2027 at a cost of \$87.0m each. In bulkers, Guangdong Yudean ordered two 82,000 dwt bulkers from Chengxi in China for \$35.5m, while Wisdom Marine ordered a 42,200 dwt bulker from Tsuneishi Zhoushan for \$34.0m. In LNG, oil major Chevron ordered two firm and two optional 174,000 cbm LNG carriers from Samsung HI. The duo cost \$254.5m each, with delivery expected in 2027 and 2028, making it the first LNG carrier to be delivered so late.
 
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 66.0 | 66.0 | 0.0% | 66.0 | 64.0 |
-| **Bulkers** | Capesize | 180k | 63.0 | 63.0 | 0.0% | 63.0 | 61.0 |
-| **Bulkers** | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 |
-| **Bulkers** | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 |
-| **Bulkers** | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | 300k | 125.0 | 125.0 | 0.0% | 125.0 | 120.0 |
-| **Tankers** | Suezmax | 160k | 83.0 | 83.0 | 0.0% | 83.0 | 76.0 |
-| **Tankers** | Aframax | 115k | 69.0 | 69.0 | 0.0% | 69.0 | 64.0 |
-| **Tankers** | MR | 50k | 45.5 | 45.5 | 0.0% | 45.5 | 44.0 |
-| **Gas** |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 260.0 | 260.0 | 0.0% | 260.0 | 248.0 |
-| **Gas** | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 |
-| **Gas** | MGC LPG 55k cbm |  | 84.5 | 84.0 | 0.6% | 84.0 | 77.5 |
-| **Gas** | SGC LPG 25k cbm |  | 55.5 | 55.5 | 0.0% | 55.5 | 53.0 |
+| Sector | Vessel | Size | 16-Jun-23 | 9-Jun-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 66.0 | 66.0 | 0.0% | 66.0 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 63.0 | 63.0 | 0.0% | 63.0 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 66 | 59 | 51 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 125.0 | 125.0 | 0.0% | 125.0 | 120.0 | 125.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 83.0 | 83.0 | 0.0% | 83.0 | 76.0 | 83.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 69.0 | 69.0 | 0.0% | 69.0 | 64.0 | 69.0 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 45.5 | 45.5 | 0.0% | 45.5 | 44.0 | 45.5 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 260.0 | 260.0 | 0.0% | 260.0 | 248.0 | 260.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 84.5 | 84.0 | 0.6% | 84.0 | 77.5 | 84.0 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 55.5 | 55.5 | 0.0% | 55.5 | 53.0 | 55.5 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

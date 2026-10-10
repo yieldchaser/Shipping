@@ -270,12 +270,12 @@ In the Supramax sector we had the sale of the "SPARROW" (53,459dwt-blt '05, Japa
 | AFRA | JERSEY | 105,994 | 1998 | HYUNDAI HI, S. Korea | B\&amp;W | May-24 | DH | undisclosed | undisclosed |  |
 | MR | PS LONDON | 50,922 | 2008 | STX, S. Korea | MAN-B\&amp;W | Feb-23 | DH | $ 11.8m | Greek | ice class 1A |
 | HANDY | BOWMORE | 34,752 | 2021 | FUJIAN MAWEI, China | Wartsila | Oct-26 | DH | $ 23.5m | Singaporean |  |
-| HANDY | ARDBEG | 34,798 | 2021 | FUJIAN MAWEI, China | Wartsila | Nov-26 | DH | $ 23.5m |  |  |
+| HANDY | ARDBEG | 34,798 | 2021 | FUJIAN MAWEI, China | Wartsila | Nov-26 | DH | $ 23.5m | Singaporean |  |
 | HANDY | DICTATOR | 34,747 | 2019 | FUJIAN MAWEI, China | Wartsila | Nov-24 | DH | undisclosed | undisclosed | BWTS fitted |
 | SMALL | OCEAN JACK | 11,999 | 2018 | SAMJIN, China | Wartsila | Jan-23 | DH | undisclosed | undisclosed |  |
 | SMALL | OCEAN MANTA | 11,999 | 2017 | ZHEJIANG SHENZHOU, China | Wartsila | Jun-22 | DH | undisclosed | undisclosed |  |
-| SMALL | NORTHSEA BETA | 8,647 | 2010 | YANGZHOU KEJIN, China | MAN | May-25 | DH | $ 8.9m | undisclosed |  |
-| SMALL | PYXIS ALPHA | 8,615 | 2010 | YANGZHOU KEJIN, China | MAN | May-25 | DH |  |  |  |
+| SMALL | NORTHSEA BETA | 8,647 | 2010 | YANGZHOU KEJIN, China | MAN | May-25 | DH | $ 8.9m (en bloc) | undisclosed |  |
+| SMALL | PYXIS ALPHA | 8,615 | 2010 | YANGZHOU KEJIN, China | MAN | May-25 | DH | $ 8.9m (en bloc) | undisclosed |  |
 | SMALL | JIN FU XING 602 | 4,117 | 1992 | QIUXIN, China | B\&amp;W |  | DH | undisclosed | Chinese |  |
 
 © Intermodal Research 11/01/2022 4
@@ -310,24 +310,21 @@ In the Supramax sector we had the sale of the "SPARROW" (53,459dwt-blt '05, Japa
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 07/01/2022 | 31/12/2021 | ±% | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 |
-| Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 |
-| Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 |
-| Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 112.5 | 111.5 | 0.9% | 88 | 92 |
-| Suezmax | 160k | 76.0 | 76.0 | 0.0% | 58 | 60 |
-| Aframax | 115k | 59.5 | 59.0 | 0.8% | 48 | 49 |
-| MR | 50k | 41.0 | 41.0 | 0.0% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 211.0 | 210.0 | 0.5% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 81.5 | 81.5 | 0.0% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 71.5 | 71.5 | 0.0% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 49.0 | 49.0 | 0.0% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 07/01/2022 | 31/12/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 112.5 | 111.5 | 0.9% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 76.0 | 76.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 59.5 | 59.0 | 0.8% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 211.0 | 210.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 81.5 | 81.5 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 42 | 44 | 43 |
 
 The first newbuilding contracts of 2022 signals an exciting January for the newbuilding market. The trend follows the same pace of the previous year; LNG units are having the lion's share among the recent projects with Boxship sector following closely. At the same time, only one bulker order came to light, consisting of one 81,000dwt unit at Oshima shipyard, which will be delivered by 2025. More specifically, Sumitomo Corporation inked a deal with the respective yard to design and construct an ammonia fuelled Kamsarmax vessel for an undisclosed price. The majority of owners have opted for alternative fuels for their newbuilding projects during the past year with LNG leading the course so far. However, methanol and ammonia designs are starting to attract more and more followers in the shipping industry in an effort for a broader range of alternative fuel options. Lastly, no tanker deals took place during the past days.
 

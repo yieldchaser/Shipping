@@ -219,11 +219,11 @@ Supramax 10TC averaged \$ 13,848/day down -0.91% w-o-w, while the Handysize 7TC 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | K. DAPHNE | 180,786 | 2009 | STX, S. Korea | MAN-B\&W | Dec-24 |  | $ 53.0m | Chinese |  |
-| CAPE | LAVENDER | 179,873 | 2010 | DAEWOO, S. Korea | MAN-B\&W | Aug-25 |  |  |  |  |
+| CAPE | K. DAPHNE | 180,786 | 2009 | STX, S. Korea | MAN-B\&W | Dec-24 |  | $ 53.0m (en bloc) | Chinese |  |
+| CAPE | LAVENDER | 179,873 | 2010 | DAEWOO, S. Korea | MAN-B\&W | Aug-25 |  | $ 53.0m (en bloc) | Chinese |  |
 | KMAX | NOVA OPTIMUS | 81,805 | 2012 | JIANGSU EASTERN, China | MAN-B\&W | Sep-27 |  | $ 16.0m | Chinese (Haitong) |  |
-| UMAX | AUGUST OLDENDORFF | 61,090 | 2015 | JMU, Japan | Wartsila | Jan-25 | 4 X 30t CRANES | region $ 50,0m | Greek | Eco, Scrubber fitted |
-| UMAX | ALWINE OLDENDORFF | 61,090 | 2014 | JMU, Japan | Wartsila | Dec-24 | 4 X 30t CRANES |  |  |  |
+| UMAX | AUGUST OLDENDORFF | 61,090 | 2015 | JMU, Japan | Wartsila | Jan-25 | 4 X 30t CRANES | region $ 50,0m (en bloc) | Greek | Eco, Scrubber fitted |
+| UMAX | ALWINE OLDENDORFF | 61,090 | 2014 | JMU, Japan | Wartsila | Dec-24 | 4 X 30t CRANES | region $ 50,0m (en bloc) | Greek | Eco, Scrubber fitted |
 | SUPRA | DALIAN STAR | 55,802 | 2017 | OSHIMA, Japan | MAN-B\&W | Apr-27 | 5 X 30t CRANES | excess $ 27.0m | European | Eco, OHBS |
 | SUPRA | PARO | 55,691 | 2009 | MITSUI, Japan | MAN-B\&W | Dec-24 | 4 X 30t CRANES | $ 14.8m | Chinese |  |
 | HANDY | INTERLINK NOBILITY | 40,098 | 2017 | TAIZHOU KOUAN, China | MAN-B\&W | Jun-27 | 4 X 30t CRANES | $ 25,25 | Turkish | Eco, boxed |
@@ -244,23 +244,20 @@ Supramax 10TC averaged \$ 13,848/day down -0.91% w-o-w, while the Handysize 7TC 
 The Newbuilding market has notably eased during the previous week, as fewer deals are emerging. During last week, a total of 18 vessels were added to the orderbook, consisting of 6 Tankers, 4 Bulkers, and 6 Boxships. MR continued to be the size of choice for owners, as all 6 orders were for such tonnage. The Greek Owner Horizon Tankers exercised option for 2x 50k dwt MRs from Zhoushan Changhong, China held there since May. The \$45m units will be delivered between 2026-27. On Bulkers, the Chinese Fujian Guohang Group exercised options for 4x 89k dwt at Wuhu in China. The order is for methanol-ready vessels which are expected in 2027 and costed \$37m each. On the gas sector, Cido Shipping contracted KSOE in S.Korea to built 2x 88k cbm ammonia carriers for \$125m each, and delivery in 2027.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 18-Oct-24 | 11-Oct-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 18-Oct-24 | 11-Oct-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
-| **Bulkers** | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
-| **Bulkers** | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-| **Bulkers** | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-| **Bulkers** | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
-| **Tankers** | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
-| **Tankers** | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
-| **Tankers** | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
-| **Gas** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 261.0 | 261.5 | -0.2% | 263.0 | 261.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-| **Gas** | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-| **Gas** | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 76.5 | 76.5 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 261.0 | 261.5 | -0.2% | 263.0 | 261.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -310,6 +307,6 @@ Pakistan saw a similarly muted market. Local steel prices softened slightly, and
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PRINCESS LOTUS | 70,189 | 9,214 | 1996 | SUMITOMO, Japan | BC | $ 430.0m | Bangladeshi | 'as is' China with 200 ts bunkers |
+| PRINCESS LOTUS | 70,189 | 9,214 | 1996 | SUMITOMO, Japan | BC | $ 430/Ldt | Bangladeshi | 'as is' China with 200 ts bunkers |
 | MSC MALIN | 21,370 | 10,655 | 1982 | WARNOWWERFT, Germany | CONTAINER | undisclosed | Turkish |  |
 | HAPPY BUCCANEER | 13,740 | 9,900 | 1984 | HITACHI ZOSEN, Japan | GENERAL CARGO | undisclosed | Turkish |  |

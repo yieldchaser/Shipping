@@ -172,20 +172,20 @@ Supramax 10TC averaged \$ 16,014/day up +8.86% w-o-w, while the Handysize 7TC av
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | CLARET PRINCE | 109,005 | 2010 | HUDONG-ZHONGHUA, China | MAN-B\&W | Jan-25 | DH | $ 43.5m | Chinese | BWTS & Scrubber fitted |
 | AFRA | SONA STAR | 105,483 | 2003 | SUMITOMO, Japan | Sulzer | Nov-23 | DH | $ 27.5m | undisclosed | BWTS fitted |
-| MR | SEAWAYS NIAGARA | 51,257 | 2008 | STX, S. Korea | MAN-B\&W | Jan-28 | DH | $ 50.4m | Middle Eastern | BWTS fitted |
-| MR | SEAWAYS NANTUCKET | 51,225 | 2008 | STX, S. Korea | MAN-B\&W | Jun-28 | DH |  |  |  |
-| HANDY | GOLD TRADER II | 33,324 | 2022 | NANTONG XIANGYU, China | WinGD | Dec-27 | DH | $ 114.0m | SFL Corporation | Will start 8-year TC to Stolt Nielsen, BWTS fitted, StSt coated, Eco |
-| HANDY | GOLD TRADER III | 33,338 | 2023 | NANTONG XIANGYU, China | WinGD | Mar-28 | DH |  |  |  |
-| J19 | TRF KOBE | 19,997 | 2016 | KITANIHON, Japan | MAN-B\&W | Mar-26 | DH | $ 64.0m | European (Hansa Shipping) | BWTS fitted, StSt coated, Eco |
-| J19 | TRF KRISTIANSAND | 19,996 | 2016 | KITANIHON, Japan | MAN-B\&W | Jul-26 | DH |  |  |  |
+| MR | SEAWAYS NIAGARA | 51,257 | 2008 | STX, S. Korea | MAN-B\&W | Jan-28 | DH | $ 50.4m (en bloc) | Middle Eastern | BWTS fitted |
+| MR | SEAWAYS NANTUCKET | 51,225 | 2008 | STX, S. Korea | MAN-B\&W | Jun-28 | DH | $ 50.4m (en bloc) | Middle Eastern | BWTS fitted |
+| HANDY | GOLD TRADER II | 33,324 | 2022 | NANTONG XIANGYU, China | WinGD | Dec-27 | DH | $ 114.0m (en bloc) | SFL Corporation | Will start 8-year TC to Stolt Nielsen, BWTS fitted, StSt coated, Eco |
+| HANDY | GOLD TRADER III | 33,338 | 2023 | NANTONG XIANGYU, China | WinGD | Mar-28 | DH | $ 114.0m (en bloc) | SFL Corporation | Will start 8-year TC to Stolt Nielsen, BWTS fitted, StSt coated, Eco |
+| J19 | TRF KOBE | 19,997 | 2016 | KITANIHON, Japan | MAN-B\&W | Mar-26 | DH | $ 64.0m (en bloc) | European (Hansa Shipping) | BWTS fitted, StSt coated, Eco |
+| J19 | TRF KRISTIANSAND | 19,996 | 2016 | KITANIHON, Japan | MAN-B\&W | Jul-26 | DH | $ 64.0m (en bloc) | European (Hansa Shipping) | BWTS fitted, StSt coated, Eco |
 | J19 | IVORY RAY | 19,991 | 2011 | FUKUOKA, Japan | MAN-B\&W | Mar-26 | DH | $ 24.9m | undisclosed | StSt, BWTS fitted, Basis DD due |
 | J19 | CHEM JUPITER | 19,814 | 2008 | FUKUOKA, Japan | MAN-B\&W | Dec-28 | DH | $ 20.0m | undisclosed | BWTS fitted, StSt coated |
 
 ## **Bulk Carriers**
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | NEWMAX | 203,067 | 2012 | BOHAI, China | Wartsila | Jun-27 |  | $ 76.0m | Pioneer Shipping | BWTS fitted |
-| CAPE | CAPE KALLIA | 203,027 | 2012 | BOHAI, China | Wartsila | Jun-27 |  |  |  | BWTS fitted |
+| CAPE | NEWMAX | 203,067 | 2012 | BOHAI, China | Wartsila | Jun-27 |  | $ 76.0m (en bloc) | Pioneer Shipping | BWTS fitted |
+| CAPE | CAPE KALLIA | 203,027 | 2012 | BOHAI, China | Wartsila | Jun-27 |  | $ 76.0m (en bloc) | Pioneer Shipping | BWTS fitted |
 | CAPE | HAITI | 174,766 | 2004 | SWS, China | MAN-B\&W | due |  | $ 15.0m | Jiangsu Steamship |  |
 | CAPE | P MELIS | 171,448 | 2003 | HYUNDAI, S. Korea | MAN-B\&W | Sep-28 |  |  | Chinese | BWTS due 2024 |
 | KMAX | LOWLANDS SAGE | 82,577 | 2021 | TSUNEISHI, Japan | MAN-B\&W | Nov-26 |  | $ 39.2m | undisclosed | T/C to Cargill at US$ 16,000 pd until Q1 2025 BWTS fitted |
@@ -196,21 +196,21 @@ Supramax 10TC averaged \$ 16,014/day up +8.86% w-o-w, while the Handysize 7TC av
 
 The newbuilding market saw increased activity during the last week, with multiple orders, mainly for Tankers. A total of 21 tankers were ordered, four bulk carriers, two containers and 18 LNG vessels. Yasa Shipping ordered two 114k dwt scrubber fitted tankers, one in CSSC and the other in SWS in China. The vessels costed \$72.5m each and will be ready in 2026. d'Amico continued the LR1 orders with two 75k dwt vessel for 2027 delivery. The duo costed \$112.4m. On smaller sizes, Chinese owners Shanghai Junzheng Shipping ordered five firm and five optional 25.9k dwt stainless-steel tankers from CMJL in China. The vessels will be on the water between 2026 and 2028 while they costed \$44.2m each. All vessels will be IMO Tier III and EEDI Phase III compliant. On Bulkers, Wah Kwong Shipping ordered two Ultramax vessels from \$30m each from New Dayang, while a Greek ordered two firm and onw optional 41k dwt vessels from Huanghai Shipbuilding. Last, on the LNG front, Qatar Energy ordered a staggering 18 LNG vessels from Hudong, China. The 271k cbm vessels will be delivered between 2027 and 2029.
 
-# Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 26-Apr-24 | 19-Apr-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 26-Apr-24 | 19-Apr-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 74.0 | 73.5 | 0.7% | 74.0 | 70.0 | 74.0 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | **180k** | 70.5 | 70.0 | 0.7% | 70.5 | 67.5 | 70.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | **82k** | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | **63k** | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | **300k** | 130.5 | 130.0 | 0.4% | 130.0 | 128.0 | 130.0 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | **160k** | 88.0 | 87.5 | 0.6% | 88.0 | 85.0 | 88.0 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | **115k** | 75.0 | 75.0 | 0.0% | 75.0 | 73.0 | 75.0 | 46.0 | 69 | 62 | 53 |
-|  | MR | **50k** | 50.0 | 49.5 | 1.0% | 50.0 | 48.0 | 50.0 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 93.0 | 93.0 | 0.0% | 93.0 | 91.5 | 93.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 58.0 | 60.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 74.0 | 73.5 | 0.7% | 74.0 | 70.0 | 74.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 70.5 | 70.0 | 0.7% | 70.5 | 67.5 | 70.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 130.5 | 130.0 | 0.4% | 130.0 | 128.0 | 130.0 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 88.0 | 87.5 | 0.6% | 88.0 | 85.0 | 88.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 75.0 | 73.0 | 75.0 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 50.0 | 49.5 | 1.0% | 50.0 | 48.0 | 50.0 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 93.0 | 93.0 | 0.0% | 93.0 | 91.5 | 93.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 58.0 | 60.0 | 40.0 | 56 | 51 | 45 |
 
 # Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -258,5 +258,5 @@ The ship demolition market is still experiencing limited vessel availability and
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MSC NILGUN | 42,413 | 12,553 | 1994 | AESA SEVILLA, Spain | CONTAINER | $ 565.0m | Indian |  |
-| NEW COURAGE | 9,433 | 4,426 | 1994 | MITSUBISHI SHIMONOSEKI, Japan | GENERAL CARGO | $ 540.0m | Bangladeshi | Ctg |
+| MSC NILGUN | 42,413 | 12,553 | 1994 | AESA SEVILLA, Spain | CONTAINER | $ 565/Ldt | Indian |  |
+| NEW COURAGE | 9,433 | 4,426 | 1994 | MITSUBISHI SHIMONOSEKI, Japan | GENERAL CARGO | $ 540/Ldt | Bangladeshi | Ctg |

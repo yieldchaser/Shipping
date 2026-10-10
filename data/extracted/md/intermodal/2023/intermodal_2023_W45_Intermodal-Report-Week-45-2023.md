@@ -209,7 +209,7 @@ Supramax 10TC averaged \$12,187/day, down -2.33% w-o-w, while the Handysize 7TC 
 | AFRA | CONCORD EXPRESS | 111,920 | 2003 | HYUNDAI, S. Korea | MAN-B\&W | May-28 | DH | $ 26.0m | UAE based | BWTS fitted |
 | MR2 | SEAWAYS LORAIN | 51,218 | 2008 | STX, S. Korea | MAN-B\&W | Oct-28 | DH | region $ 24.5m | undisclosed | BWTS fitted |
 | SMALL | ENFORD | 16,886 | 2012 | TAIZHOU SANFU, China | MAN-B\&W | Jun-27 | DH | $ 14.0m each | Chinese (Seacon) | Sellers will take the vessels back on TC for 1-2 years at US$ 16,250 pd. |
-| SMALL | KENRICK | 16,788 | 2012 | TAIZHOU SANFU, China | MAN-B\&W | Jun-27 | DH |  |  |  |
+| SMALL | KENRICK | 16,788 | 2012 | TAIZHOU SANFU, China | MAN-B\&W | Jun-27 | DH | $ 14.0m each | Chinese (Seacon) | Sellers will take the vessels back on TC for 1-2 years at US$ 16,250 pd. |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |

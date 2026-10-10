@@ -292,27 +292,23 @@ In the Supramax sector we had the sale of the "MELATI LAUT" (56,643dwt-blt '11, 
 ---
 
 # Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 20/08/2021 | 13/08/2021 | ±% | 2020 | 2019 | 2018 |  |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 63.0 | 63.0 | 0.0% | 51 | 54 | 51 |
-| Capesize | **180k** | 60.0 | 60.0 | 0.0% | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 34.5 | 34.5 | 0.0% | 28 | 30 | 29 |
-| Ultramax | **63k** | 32.5 | 32.5 | 0.0% | 26 | 28 | 27 |
-| Handysize | **38k** | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 102.5 | 102.5 | 0.0% | 88 | 92 | 88 |
-| Suezmax | **160k** | 70.0 | 70.0 | 0.0% | 58 | 60 | 58 |
-| Aframax | **115k** | 56.0 | 56.0 | 0.0% | 48 | 49 | 47 |
-| MR | 50k | 39.5 | 39.5 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 197.0 | 196.0 | 0.5% | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 78.0 | 78.0 | 0.0% | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 70.0 | 70.0 | 0.0% | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 47.5 | 47.5 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 20/08/2021 | 13/08/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.0 | 63.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.0 | 60.0 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.5 | 34.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 32.5 | 32.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 102.5 | 102.5 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 70.0 | 70.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 56.0 | 56.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 39.5 | 39.5 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 197.0 | 196.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 78.0 | 78.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 70.0 | 70.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 47.5 | 47.5 | 0.0% | 42 | 44 | 43 |
 
 The newbuilding market activity was consisted of dry bulk and container orders last week, with a complete absence of tanker and gas carrier units. In the bulk carrier sector, Chinese owner Zhejiang Xiehai concluded a deal for the construction of two 210,000dwt units at Qingdao Beihai for a price of around \$60.0 million each. At the same time, Taizhou Jiahang ordered two 85,000dwt Kamsarmax vessels at Tianjin Xingang for an undisclosed price. Lastly, in the Container front, Danish owner Maersk, signed an agreement with Hyundai Hi for eight firm plus four optional 16,000teu boxships with the price remaining unknown for the time being. All units will be built with methanol dual fuelled propulsion which marks the turn of the largest Container shipping company to methanol as a future fuel.
 

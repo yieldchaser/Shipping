@@ -190,12 +190,12 @@ Supramax 10TC averaged \$ 11,608/day up +0.91% w-o-w, while the Handysize 7TC av
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR2 | EXCELSIOR BAY | 49,990 | 2014 | SPP, S. Korea | MAN-B\&W | Oct-24 | DH |  |  |  |
-| MR2 | CRYSTAL BAY | 49,990 | 2014 | SPP, S. Korea | MAN-B\&W | Nov-24 | DH |  |  |  |
-| MR2 | HARRISON BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Sep-25 | DH | $ 238.0m | US based (International Seaways) | Scrubber fitted |
-| MR2 | SAINT ALBANS BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Oct-25 | DH |  |  |  |
-| MR2 | JENNINGS BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | May-25 | DH |  |  |  |
-| MR2 | LAFAYETTE BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Jul-25 | DH |  |  |  |
+| MR2 | EXCELSIOR BAY | 49,990 | 2014 | SPP, S. Korea | MAN-B\&W | Oct-24 | DH | $ 238.0m (en bloc) | US based (International Seaways) | Scrubber fitted |
+| MR2 | CRYSTAL BAY | 49,990 | 2014 | SPP, S. Korea | MAN-B\&W | Nov-24 | DH | $ 238.0m (en bloc) | US based (International Seaways) | Scrubber fitted |
+| MR2 | HARRISON BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Sep-25 | DH | $ 238.0m (en bloc) | US based (International Seaways) | Scrubber fitted |
+| MR2 | SAINT ALBANS BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Oct-25 | DH | $ 238.0m (en bloc) | US based (International Seaways) | Scrubber fitted |
+| MR2 | JENNINGS BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | May-25 | DH | $ 238.0m (en bloc) | US based (International Seaways) | Scrubber fitted |
+| MR2 | LAFAYETTE BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Jul-25 | DH | $ 238.0m (en bloc) | US based (International Seaways) | Scrubber fitted |
 | MR1 | LEON HERMES | 40,165 | 2008 | SLS, S. Korea | MAN-B\&W | Dec-28 | DH | $ 23.0m | undisclosed |  |
 | MR1 | SHOGUN | 44,485 | 2002 | HYUNDAI MIPO, S. Korea | B\&W | Jun-27 | DH | high $ 13.0m | undisclosed | BWTS fitted |
 | SMALL | BEATRICE | 25,932 | 2013 | ASAKAWA, Japan | Mitsubishi | Nov-28 | DH | $ 29.0m | Korean (DM Shipping) | StSt |
@@ -205,7 +205,7 @@ Supramax 10TC averaged \$ 11,608/day up +0.91% w-o-w, while the Handysize 7TC av
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NEWCASTLEMAX | BULK SEOUL | 207,992 | 2019 | NEW TIMES, China | MAN-B\&W | Oct-24 |  | $ 63.75m each | Greek | Eco |
-| NEWCASTLEMAX | BULK SHANGHAI | 207,992 | 2019 | NEW TIMES, China | MAN-B\&W | Nov-24 |  |  |  | Eco |
+| NEWCASTLEMAX | BULK SHANGHAI | 207,992 | 2019 | NEW TIMES, China | MAN-B\&W | Nov-24 |  | $ 63.75m each | Greek | Eco |
 | CAPE | SAPIENTZA | 177,736 | 2008 | JIANGNAN, China | MAN-B\&W | Nov-28 |  | region $ 23.0m | Chinese | BWTS fitted |
 | PMAX | W-GALAXY | 76,629 | 2006 | IMABARI, Japan | MAN-B\&W | Jul-26 |  | $ 12.9m | Chinese | BWTS fitted |
 | PMAX | MARITSA | 76,015 | 2005 | TSUNEISHI, Japan | B\&W | Jan-25 |  | $ 12.2m | Chinese | BWTS fitted |

@@ -224,14 +224,14 @@ Handysize ships saw broadly stable conditions. Modest gains were recorded in Eur
 | KMAX | SILVER NAVIGATOR | 80,312 | 2011 | STX, S. Korea | MAN B\&amp;W | Jul-26 |  | $ 15.5m | undisclosed |  |
 | KMAX | ETERNAL BLISS | 82,071 | 2010 | TSUNEISHI, Japan | MAN B\&amp;W | Jan-30 |  | high $ 16.0m | Greek |  |
 | UMAX | JAL KALPAVRIKSH | 66,337 | 2021 | MITSUI, Japan | MAN B\&amp;W | Mar-26 | 4 X 30t CRANES | $ 32.55m each | Thai (Precious) | Eco |
-| UMAX | JAL KALPATARU | 66,264 | 2021 | MITSUI, Japan | MAN B\&amp;W | Jul-26 | 4 X 30t CRANES |  |  |  |
+| UMAX | JAL KALPATARU | 66,264 | 2021 | MITSUI, Japan | MAN B\&amp;W | Jul-26 | 4 X 30t CRANES | $ 32.55m each | Thai (Precious) | Eco |
 | UMAX | PACIFIC ACE | 59,963 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B\&amp;W | Jan-27 | 4 X 30t CRANES | high $ 13.0m each | Malaysian |  |
-| UMAX | PACIFIC PRIDE | 59,944 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B\&amp;W | Aug-27 | 4 X 30t CRANES |  |  |  |
+| UMAX | PACIFIC PRIDE | 59,944 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B\&amp;W | Aug-27 | 4 X 30t CRANES | high $ 13.0m each | Malaysian |  |
 | SUPRA | MARINOR | 56,784 | 2009 | JIANGSU HANTONG, China | MAN B\&amp;W | Jul-29 | 4 X 35t CRANES | high $ 10,0m | Chinese |  |
 | SUPRA | JIN RONG | 58,729 | 2008 | TSUNEISHI CEBU, Philippines | MAN B\&amp;W | Apr-28 | 4 X 30t CRANES | $ 11.9m | Chinese |  |
 | HANDY | STELLAR ARAGVI | 28,368 | 2014 | IMABARI, Japan | MAN B\&amp;W | Jan-29 | 4 X 30,5t CRANES | $ 12.5m | Indonesian |  |
-| HANDY | MYKONOS | 30,912 | 2013 | TSUJI, China | MAN B\&amp;W | Jul-28 | 4 X 30t CRANES | $ 22.0m | Turkish |  |
-| HANDY | MADRID | 30,900 | 2013 | TSUJI, China | MAN B\&amp;W | Jul-28 | 4 X 30t CRANES |  |  |  |
+| HANDY | MYKONOS | 30,912 | 2013 | TSUJI, China | MAN B\&amp;W | Jul-28 | 4 X 30t CRANES | $ 22.0m (en bloc) | Turkish |  |
+| HANDY | MADRID | 30,900 | 2013 | TSUJI, China | MAN B\&amp;W | Jul-28 | 4 X 30t CRANES | $ 22.0m (en bloc) | Turkish |  |
 | HANDY | ZUDAR | 38,273 | 2011 | IMABARI, Japan | MAN B\&amp;W | Jan-26 | 4 X 30,5t CRANES | mid $ 13's | Greek | Semi Boxed |
 
 ---

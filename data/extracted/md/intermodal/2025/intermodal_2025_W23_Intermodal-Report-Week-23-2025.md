@@ -199,8 +199,8 @@ Secondhand Sales
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KMAX | AOM SOPHIE II | 81,816 | 2020 | SANOYAS, Japan | MAN B\&W | Mar-30 |  | region $ 31.5m | Greek | Eco, Scrubber fitted |
-| HANDY | DL OLIVE | 35,194 | 2013 | SPP, S. Korea | MAN B\&W | Dec-28 | 4 X 35t CRANES | $ 27.0m | undisclosed |  |
-| HANDY | DL LAVENDER | 35,194 | 2014 | SPP, S. Korea | MAN-B\&W | Jan-29 | 4 X 35t CRANES |  |  |  |
+| HANDY | DL OLIVE | 35,194 | 2013 | SPP, S. Korea | MAN B\&W | Dec-28 | 4 X 35t CRANES | $ 27.0m (en bloc) | undisclosed |  |
+| HANDY | DL LAVENDER | 35,194 | 2014 | SPP, S. Korea | MAN-B\&W | Jan-29 | 4 X 35t CRANES | $ 27.0m (en bloc) | undisclosed |  |
 | HANDY | DARYA GANGA | 36,845 | 2012 | HYUNDAI MIPO, S. Korea | MAN B\&W | Feb-27 | 4 X 30,5t CRANES | $ 14.3m | undisclosed |  |
 
 ## Containers

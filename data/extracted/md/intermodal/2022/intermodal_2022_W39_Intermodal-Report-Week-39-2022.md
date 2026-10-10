@@ -298,24 +298,21 @@ In the Kamsarmax sector we had the sale of the "ALEXANDRA" (82,329dwt-blt '06, J
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 30/09/2022 | 23/09/2022 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 68.5 | 68.5 | 0.0% | 51 | 54 | 51 |
-| **Capesize** | **180k** | 64.0 | 64.0 | 0.0% | 49 | 52 | 49 |
-| **Kamsarmax** | **82k** | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
-| **Ultramax** | **63k** | 34.0 | 34.0 | 0.0% | 26 | 28 | 27 |
-| **Handysize** | **38k** | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| **Suezmax** | **160k** | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| **Aframax** | **115k** | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
-| **MR** | **50k** | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 244.0 | 243.0 | 0.4% | 187 | 186 | 181 |  |
-| **LGC LPG 80k cbm** | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |  |
-| **MGC LPG 55k cbm** | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |  |
-| **SGC LPG 25k cbm** | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 30/09/2022 | 23/09/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 68.5 | 68.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 64.0 | 64.0 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 244.0 | 243.0 | 0.4% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 Shipbuilding activity was kept firm in September overall, edging higher from the summer lull, typically witnessed during summer months. Orders for bulkers trebled month over month and orders for LNG carriers doubled, facing tailwinds from a flurry of new berths linked to the Qatar project. Boxship ordering activity remained flat month over month, while tanker orders edged slightly lower over the same period. Moving forward, the fresh start to the month did not gather similar momentum. In the gas sector, 1 order emerged last week assigned to Samsung HI. It is worth mentioning that it was not related to the Qatar project, as phase one of Qatar Energy's megaproject has been concluded last week following the announcement of the remaining three shipowners linked with the final eight berths at DSME. Yet we expect LNG contracting activity to remain firm, underpinned by strong market fundamentals. Tanker ordering activity remained flat with two MR vessels assigned to Hyundai Vietnam on behalf of Mitsui &amp; Co. One order for three PCTC vessels has been reported last week following a near 3-month muted activity. Conclusively, Petrobras returned to Singapore's Keppel for a P-83 FPSO. The unit is scheduled to operate at Brazil's Buzios Field in Santos Basin, which is set to be installed with eight additional units by 2030.
 

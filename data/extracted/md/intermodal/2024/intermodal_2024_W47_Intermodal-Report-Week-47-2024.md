@@ -219,20 +219,20 @@ Supramax 10TC averaged \$ 10,532/day down -5.20% w-o-w, while the Handysize 7TC 
 This week's activity in the newbuilding market included 10 orders for 25 vessels, with strong interest across all segments. Chinese yards dominated the scene, securing the majority of orders. The bulker segment remained the busiest with several notable deals. Ningbo Ocean ordered four 64kt bulkers from Jiangsu Haitong, China, at a price of \$37m each, with delivery scheduled for 2026. Norwegian owner Ludwig Mowinckels Rederi ordered a 63.5k dwt bulker at the same yard for \$34m, with delivery scheduled for 2025. Greek owner EuroDry secured two 63.5k dwt bulkers from Nantong Xiangyu, China for \$36m each, with delivery due in 2027. Bulgarian owner Navibulgar signed two contracts for 32k dwt and 45k dwt bulkers with Yangzijiang, China. These are old deals that are now coming to light. All vessels are sea-going designs, meeting IMO Tier III and EEDI Phase 3 standards. In the gas carrier sector, UK-based Navigator Gas declared options for two 48.5k cbm ethylene gas carriers at Jiangnan Shipyard, China, for \$102.9m each, with delivery scheduled for 2027. The Pure Car and Truck Carrier (PCTC) segment also saw significant activity. Eastern Pacific ordered four 5.5k ceu LNG dual-fuel PCTCs from Fujian Mawei, China, for \$80m each, with delivery in 2027, and a further two units from CMHI Jinling, China, for the same price, with delivery expected in 2028.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 22-Nov-24 | 15-Nov-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 22-Nov-24 | 15-Nov-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | **180k** | 76.0 | 76.0 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | **82k** | 37.25 | 37.3 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | **63k** | 34.5 | 34.5 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | **38k** | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | **300k** | 129.5 | 129.0 | 0.4% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | **160k** | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | **115k** | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
-|  | MR | **50k** | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 260.0 | 260.0 | 0.0% | 263.0 | 260.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 76.0 | 76.0 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.25 | 37.3 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 129.5 | 129.0 | 0.4% | 129.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 260.0 | 260.0 | 0.0% | 263.0 | 260.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

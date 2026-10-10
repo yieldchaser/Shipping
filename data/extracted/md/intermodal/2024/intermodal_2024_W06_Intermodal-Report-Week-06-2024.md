@@ -202,22 +202,22 @@ Supramax 10TC averaged \$ 11,503/day down -0.74% w-o-w, while the Handysize 7TC 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR2 | POLAR ACE | 109,999 | 2018 | DAEHAN, S. Korea | MAN-B\&W | Mar-28 | DH | $ 65.5m each | Greek | BWTS & Scrubber fitted, TCs attached until April-August 2025 at rates in the low US$ 20,000s per day |
-| LR2 | POLAR BRIGHT | 109,999 | 2018 | DAEHAN, S. Korea | MAN-B\&W | Jul-28 | DH |  |  |  |
+| LR2 | POLAR BRIGHT | 109,999 | 2018 | DAEHAN, S. Korea | MAN-B\&W | Jul-28 | DH | $ 65.5m each | Greek | BWTS & Scrubber fitted, TCs attached until April-August 2025 at rates in the low US$ 20,000s per day |
 | LR2 | SKS DRIVA | 119,456 | 2010 | HYUNDAI SAMHO, S. Korea | MAN-B\&W | Feb-26 | DH | $ 51.0m | undisclosed | BWTS fitted |
-| LR2 | SKS DARENT | 119,456 | 2011 | HYUNDAI SAMHO, S. Korea | MAN-B\&W | Feb-26 | DH | $ 53.0m |  |  |
+| LR2 | SKS DARENT | 119,456 | 2011 | HYUNDAI SAMHO, S. Korea | MAN-B\&W | Feb-26 | DH | $ 53.0m | undisclosed | BWTS fitted |
 | MR2 | ARDMORE SEAFARER | 50,093 | 2010 | ONOMICHI, Japan | MAN-B\&W | Jun-25 | DH | $ 27.0m | Indian | BWTS fitted |
 | MR2 | HANSA OSLO | 51,215 | 2007 | STX, S. Korea | MAN-B\&W | May-27 | DH | $ 22.5m | Chinese | BWTS fitted |
 | MR2 | CHANG HANG FA XIAN | 45,841 | 2006 | BOHAI, China | Sulzer | Sep-26 | DH | $ 19.9m | undisclosed | BWTS fitted |
 | HANDY | CAPE CAMDEN | 37,791 | 2009 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | May-24 | DH | xs $ 22m each | Greek | BWTS fitted |
-| HANDY | CAPE CORFU | 37,759 | 2009 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Jul-24 | DH |  |  |  |
+| HANDY | CAPE CORFU | 37,759 | 2009 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Jul-24 | DH | xs $ 22m each | Greek | BWTS fitted |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NEWCASTLEMAX | SOLAR NOVA | 209,471 | 2021 | NEW TIMES, China | MAN-B\&W | Jan-26 |  | $ 66m each | Greek | BWTS & Scrubber fitted |
-| NEWCASTLEMAX | SOLAR OAK | 208,892 | 2021 | NEW TIMES, China | MAN-B\&W | Jan-26 |  |  |  | BWTS & Scrubber fitted |
-| NEWCASTLEMAX | SOLAR PRIDE | 209,471 | 2020 | SHANGHAI WAIGAOQIAO, China | MAN-B\&W | Nov-25 |  | $ 65m each |  | BWTS & Scrubber fitted |
-| NEWCASTLEMAX | SOLAR QUANTUM | 209,471 | 2020 | SHANGHAI WAIGAOQIAO, China | MAN-B\&W | Nov-25 |  |  |  | BWTS & Scrubber fitted |
+| NEWCASTLEMAX | SOLAR OAK | 208,892 | 2021 | NEW TIMES, China | MAN-B\&W | Jan-26 |  | $ 66m each | Greek | BWTS & Scrubber fitted |
+| NEWCASTLEMAX | SOLAR PRIDE | 209,471 | 2020 | SHANGHAI WAIGAOQIAO, China | MAN-B\&W | Nov-25 |  | $ 65m each | Greek | BWTS & Scrubber fitted |
+| NEWCASTLEMAX | SOLAR QUANTUM | 209,471 | 2020 | SHANGHAI WAIGAOQIAO, China | MAN-B\&W | Nov-25 |  | $ 65m each | Greek | BWTS & Scrubber fitted |
 | CAPE | KINOKAWA MARU | 181,392 | 2013 | Imabari Shbldg - Marugame | MAN-B\&W | Dec-25 |  | $ 33.5m | Greek | BWTS fitted |
 | CAPE | FPMC B 102 | 104,990 | 2011 | STX DALIAN, China | MAN-B\&W | Oct-25 |  | $ 16.5m | undisclosed | BWTS & Scrubber fitted |
 | KMAX | IONIC KATANA | 82,936 | 2005 | TSUNEISHI, Japan | MAN-B\&W | Nov-25 |  | $ 13.1m | Far Eastern | BWTS fitted |
@@ -233,20 +233,20 @@ Supramax 10TC averaged \$ 11,503/day down -0.74% w-o-w, while the Handysize 7TC 
 This week only tanker and LNG orders were reported, with a total of 15 tankers and 15 LNG carriers ordered. Norwegian Seatankers ordered six firm and two optional VLCCs from Dalian in China. The vessels will be IMO Tier III and EEDI compliant, cost \$120m each and are expected to be delivered between 2026 and 2027. In the smaller size range, a joint venture between Stolt Tankers and NYK ordered six firm 38kdwt vessels from Nantong. The vessels will be delivered between 2026 and 2029 and are methanol ready. In LNG, Qatar Energy ordered 15 LNG carriers from Samsung Heavy Industries. The vessels are LNG dual-fuelled and are priced at \$230m each.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 9-Feb-24 | 2-Feb-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 9-Feb-24 | 2-Feb-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 70.5 | 70.5 | 0.0% | 70.5 | 70.0 | 70.5 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | **180k** | 67.5 | 67.5 | 0.0% | 67.5 | 67.5 | 67.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | **82k** | 35.5 | 35.5 | 0.0% | 35.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 33.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | **300k** | 128.0 | 128.0 | 0.0% | 128.0 | 128.0 | 128.0 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | **160k** | 85.5 | 85.0 | 0.6% | 85.5 | 85.0 | 85.0 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | **115k** | 73.5 | 73.0 | 0.7% | 73.0 | 73.0 | 73.0 | 46.0 | 69 | 62 | 53 |
-|  | MR | **50k** | 48.5 | 48.0 | 1.0% | 48.5 | 48.0 | 48.0 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 265.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 91.5 | 92.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 58.5 | 58.5 | 0.0% | 58.5 | 58.0 | 58.5 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 70.5 | 70.5 | 0.0% | 70.5 | 70.0 | 70.5 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 67.5 | 67.5 | 0.0% | 67.5 | 67.5 | 67.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 35.5 | 35.5 | 0.0% | 35.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 128.0 | 128.0 | 0.0% | 128.0 | 128.0 | 128.0 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 85.5 | 85.0 | 0.6% | 85.5 | 85.0 | 85.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 73.5 | 73.0 | 0.7% | 73.0 | 73.0 | 73.0 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 48.5 | 48.0 | 1.0% | 48.5 | 48.0 | 48.0 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 265.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 91.5 | 92.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 58.5 | 58.5 | 0.0% | 58.5 | 58.0 | 58.5 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -291,5 +291,5 @@ ever, the market could revive quickly if the political climate calms down. One b
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | KONSTANTINOS | 43,222 | 7,979 | 1995 | HYUNDAI HEAVY INDS - U, S. Korea | BC | undisclosed | Bangladeshi |
-| EZ FORTUNA | 43,108 | 7,371 | 1995 | OSHIMA, Japan | BC | $ 522.0m | Bangladeshi |
+| EZ FORTUNA | 43,108 | 7,371 | 1995 | OSHIMA, Japan | BC | $ 522/Ldt | Bangladeshi |
 | BUKHTA NAGAEVA | 2,397 | 2,399 | 1984 | KOMUNY PARYSKIEJ STOCZ, Poland | REEFER | undisclosed | Bangladeshi |

@@ -208,9 +208,9 @@ Supramax 10TC averaged \$ 14,998/day down -1.36% w-o-w, while the Handysize 7TC 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | THERESA GUANGDONG | 81,905 | 2012 | JIANGSU EASTERN, China | MAN-B\&amp;W | May-27 |  | $ 57.3m | Chinese (Fujian Highton Development) |  |
-| KMAX | THERESA JIANGSU | 81,680 | 2012 | SAINTY, China | MAN-B\&amp;W | Mar-27 |  | $ 57.3m | Chinese (Fujian Highton Development) |  |
-| KMAX | THERESA JILIN | 81,610 | 2012 | SAINTY, China | MAN-B\&amp;W | Jun-27 |  |  |  |  |
+| KMAX | THERESA GUANGDONG | 81,905 | 2012 | JIANGSU EASTERN, China | MAN-B\&amp;W | May-27 |  | $ 57.3m (en bloc) | Chinese (Fujian Highton Development) |  |
+| KMAX | THERESA JIANGSU | 81,680 | 2012 | SAINTY, China | MAN-B\&amp;W | Mar-27 |  | $ 57.3m (en bloc) | Chinese (Fujian Highton Development) |  |
+| KMAX | THERESA JILIN | 81,610 | 2012 | SAINTY, China | MAN-B\&amp;W | Jun-27 |  | $ 57.3m (en bloc) | Chinese (Fujian Highton Development) |  |
 | UMAX | JAL KAMAL | 63,319 | 2020 | IMABARI, Japan | MAN-B\&amp;W | Feb-25 | 4 X 30,7t CRANES | $ 37.8m | European |  |
 | SUPRA | SUZAKU | 54,881 | 2006 | OSHIMA, Japan | MAN-B\&amp;W | Jul-26 | 4 X 30t CRANES | region $ 14.0m | Chinese |  |
 | SUPRA | MONICA D | 52,478 | 2001 | SHIN KURUSHIMA, Japan | Mitsubishi | Dec-26 | 4 X 30,5t CRANES | $ 7.8m | undisclosed |  |
@@ -279,4 +279,4 @@ The ship recycling sector remained under pressure this week, with high freight r
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| MSC ANNAMARIA | 31,205 | 8,805 | 1987 | HDW AG - Kiel - GEU, Germany | CONTAINER | $ 535.0m | Indian |
+| MSC ANNAMARIA | 31,205 | 8,805 | 1987 | HDW AG - Kiel - GEU, Germany | CONTAINER | $ 535/Ldt | Indian |

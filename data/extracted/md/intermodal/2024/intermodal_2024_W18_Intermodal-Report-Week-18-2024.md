@@ -214,7 +214,7 @@ Panamax 5TC averaged \$ 17,999/day, up **+7.56%** w-o-w. The transatlantic earni
 | KMAX | VALIANT SUMMER | 81,920 | 2016 | TSUNEISHI, Japan | MAN-B\&W | Jun-26 |  | $ 32.5m | German (Blumenthal) | Eco |
 | PMAX | AC SHANGHAI | 75,211 | 2001 | SAMHO, S. Korea | B\&W | May-26 |  | $ 8.0m | Chinese |  |
 | SUPRA | BELFRIEND | 57,679 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B\&W | Sep-26 | 4 X 30t CRANES | $ 28.3m each | US based (Pangaea Logistics) | Eco |
-| SUPRA | BELTIDE | 57,679 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B\&W | Oct-26 | 4 X 30t CRANES |  |  | Eco |
+| SUPRA | BELTIDE | 57,679 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B\&W | Oct-26 | 4 X 30t CRANES | $ 28.3m each | US based (Pangaea Logistics) | Eco |
 | SUPRA | DELTA AVON | 56,897 | 2012 | COSCO GUANGDONG, China | MAN-B\&W | Mar-27 | 4 X 30t CRANES | $ 14.3m | Chinese | BWTS fitted |
 | SUPRA | PACIFIC HONOR | 58,912 | 2011 | KAWASAKI, Japan | MAN-B\&W | Sep-25 | 4 X 30,5t CRANES | $ 19.45m | undisclosed |  |
 | SUPRA | CHEVAL BLANC | 56,732 | 2009 | JIANGSU HANTONG, China | MAN-B\&W | Sep-24 | 4 X 35t CRANES | $ 11.5m | undisclosed | BWTS fitted |
@@ -233,20 +233,20 @@ Panamax 5TC averaged \$ 17,999/day, up **+7.56%** w-o-w. The transatlantic earni
 The last fortnight has seen a lot of new ships being contracted as well as some old deals coming to light. Tankers accounted for 7 firm and 2 optional orders, bulkers for 7, while there were orders for 2 LNG and 6 LPG vessels. The Greeks were again very active in the market, with Performance Shipping ordering an LR1 vessel from Jiangsu New Yang-zijiang in China for \$54.1m and delivery in 2027. Sea Pioneer ordered two MR vessels from K Shipbuilding for \$45.0m each, for delivery in 2026. Pantheon Tankers ordered two 307 dwt VLCCs from DSIC in a deal that materialised earlier in the year and has now come to light. The vessels are expected to be in the water in 2027. In the LNG sector, Evalend Shipping ordered two 174k cb LNG carriers from HHI in Ulsan, South Korea, at a cost of \$266.1m, with delivery expected in 2028.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 10-May-24 | 3-May-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 10-May-24 | 3-May-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 75.0 | 75.0 | 0.0% | 75.0 | 70.0 | 75.0 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | 180k | 71.5 | 71.5 | 0.0% | 71.5 | 67.5 | 71.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | 300k | 130.5 | 130.5 | 0.0% | 130.0 | 128.0 | 130.0 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | 160k | 88.0 | 88.0 | 0.0% | 88.0 | 85.0 | 88.0 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | 115k | 75.0 | 75.0 | 0.0% | 75.0 | 73.0 | 75.0 | 46.0 | 69 | 62 | 53 |
-|  | MR | 50k | 50.0 | 50.0 | 0.0% | 50.0 | 48.0 | 50.0 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 93.5 | 93.5 | 0.0% | 93.5 | 91.5 | 93.5 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 60.5 | 60.5 | 0.0% | 60.5 | 58.0 | 60.5 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 75.0 | 75.0 | 0.0% | 75.0 | 70.0 | 75.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 71.5 | 71.5 | 0.0% | 71.5 | 67.5 | 71.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 130.5 | 130.5 | 0.0% | 130.0 | 128.0 | 130.0 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 88.0 | 88.0 | 0.0% | 88.0 | 85.0 | 88.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 75.0 | 73.0 | 75.0 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 50.0 | 50.0 | 0.0% | 50.0 | 48.0 | 50.0 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 93.5 | 93.5 | 0.0% | 93.5 | 91.5 | 93.5 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 60.5 | 60.5 | 0.0% | 60.5 | 58.0 | 60.5 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -295,8 +295,8 @@ The ship demolition market continues to operate in a cautious manner, largely in
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TA'KUNTAH | 357,632 | 44,573 | 1978 | KOCKMUS MEKASINKA, SWEDEN | OFFSHORE | $ 184.0m | undisclosed | as is Mexico |
-| YK SOVEREIGN | 72,020 | 30,120 | 1994 | HYUNDAI, S. Korea | GAS TANKER | $ 620.0m | undisclosed | as is Japan/Korea |
-| PINE EXPRESS | 42,968 | 9,543 | 1990 | HASHIHAMA, Japan | BC | $ 560.0m | Bangladeshi |  |
-| HONG XI | 10,440 | 3,621 | 2008 | WUHAN SANYANG, China | GENERAL CARGO | $ 515.0m | Bangladeshi |  |
-| HEUNG-A TOKYO | 7,040 | 2,446 | 1996 | DAEDONG, S. Korea | CONTAINER | $ 581.0m | Bangladeshi |  |
+| TA'KUNTAH | 357,632 | 44,573 | 1978 | KOCKMUS MEKASINKA, SWEDEN | OFFSHORE | $ 184/Ldt | undisclosed | as is Mexico |
+| YK SOVEREIGN | 72,020 | 30,120 | 1994 | HYUNDAI, S. Korea | GAS TANKER | $ 620/Ldt | undisclosed | as is Japan/Korea |
+| PINE EXPRESS | 42,968 | 9,543 | 1990 | HASHIHAMA, Japan | BC | $ 560/Ldt | Bangladeshi |  |
+| HONG XI | 10,440 | 3,621 | 2008 | WUHAN SANYANG, China | GENERAL CARGO | $ 515/Ldt | Bangladeshi |  |
+| HEUNG-A TOKYO | 7,040 | 2,446 | 1996 | DAEDONG, S. Korea | CONTAINER | $ 581/Ldt | Bangladeshi |  |

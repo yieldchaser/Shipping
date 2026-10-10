@@ -222,11 +222,11 @@ In the Kamsarmax sector we had the sale of the "CMB PARTNER" (81,805dwt-blt '16,
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | ELANDRA ELBRUS | 299,999 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Jan-25 | DH | $ 112.0m | Saudi Arabian (Bahri) | scrubber fitted |
-| VLCC | ELANDRA DENALI | 299,999 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-25 | DH | $ 112.0m |  |  |
+| VLCC | ELANDRA DENALI | 299,999 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-25 | DH | $ 112.0m | Saudi Arabian (Bahri) | scrubber fitted |
 | MR2 | HIGH MARS | 51,543 | 2008 | STX, S. Korea | MAN-B\&amp;W | Apr-23 | DH | $ 20.3m | undisclosed |  |
 | MR1 | GOLDEN CAMELLIA | 34,783 | 2021 | FUJIAN MAWEI, China | WinGD | Oct-26 | DH | region $ 34.5m | undisclosed | BWTS fitted, Eco |
-| SMALL | GS FUTURE | 17,532 | 2009 | SAMHO, S. Korea | MAN-B\&amp;W | Feb-24 | DH | region $ 24.0m | undisclosed | Dely within 2023 |
-| SMALL | GS FORWARD | 17,527 | 2008 | SAMHO, S. Korea | MAN-B\&amp;W | Jan-24 | DH |  |  |  |
+| SMALL | GS FUTURE | 17,532 | 2009 | SAMHO, S. Korea | MAN-B\&amp;W | Feb-24 | DH | region $ 24.0m (en bloc) | undisclosed | Dely within 2023 |
+| SMALL | GS FORWARD | 17,527 | 2008 | SAMHO, S. Korea | MAN-B\&amp;W | Jan-24 | DH | region $ 24.0m (en bloc) | undisclosed | Dely within 2023 |
 | SMALL | STO CAMELLIA | 11,679 | 2000 | HIGAKI, Japan | Mitsubishi | Sep-25 | DH | $ 5.6m | Indonesian | StSt |
 | SMALL | WOOJIN CHEMS | 12,675 | 1999 | ASAKAWA, Japan | B\&amp;W | Mar-27 | DH | undisclosed | Indonesian (Berlian Laju Tanker) |  |
 ## Bulk Carriers
@@ -253,25 +253,22 @@ In the Kamsarmax sector we had the sale of the "CMB PARTNER" (81,805dwt-blt '16,
 
 # Intermodal Newbuilding Market
 
-## Indicative Newbuilding Prices (million$)
-| Sector | Size | 11-Nov-22 | 4-Nov-22 | ±% | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| 205k | 66.0 | 66.5 | -0.8% | 51 | 54 | 51 |
-| Capesize | 180k | 62.0 | 62.5 | -0.8% | 49 | 52 |
-| Kamsarmax | 82k | 35.0 | 35.5 | -1.4% | 28 | 30 |
-| Ultramax | 63k | 33.0 | 33.0 | 0.0% | 26 | 28 |
-| Handysize | 38k | 30.0 | 30.0 | 0.0% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 |
-| Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 |
-| Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 |
-| MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 88.5 | 88.0 | 0.6% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 75.5 | 75.0 | 0.7% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 11-Nov-22 | 4-Nov-22 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | 205k |  | 66.0 | 66.5 | -0.8% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 62.0 | 62.5 | -0.8% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.5 | -1.4% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 88.5 | 88.0 | 0.6% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.5 | 75.0 | 0.7% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 Reported activity on the newbuilding front remains firm for yet another week. On the dry sector, TMS Dry returned to former Jiangsu Rongsheng HI, now rebranded as SPS, for a mammoth order of 6 firm Kamsarmaxes plus 4 Capesize with an option of four more. This marks the first order for the newly rebranded yard which is rumored to be a bargain, as the pricing offered for the vessels is highly competitive. On the wet front, no orders have been reported this week, leaving the orderbook at a considerably low level. On the gas front, Greek Evalend declared two options at Hyundai HI, lifting its order tally to the shipyard to five VLGCs, while Greek Minerva secured 2 berths for the Qatari project, which have been previously reserved by Exxon Mobil. In the boxship sector, CMA CGM's CEO announced that the company will lift its order tally in DSIC to a total of 12 methanol fuelled neo-panamax vessels by ordering 6 vessels more. Conclusively, the Chinese automaker BYD is making its debut as a ship owner by ordering 2 LNG dual fuelled PCTC vessels at GSI, while Sallaum Lines inked 2 LNG dual fuelled PCTCs at Chinese Fujian Mawei.
 

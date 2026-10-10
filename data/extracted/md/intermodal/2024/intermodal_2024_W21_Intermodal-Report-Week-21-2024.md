@@ -231,23 +231,20 @@ Supramax 10TC averaged \$ 14,208/day down -5.24% w-o-w, while the Handysize 7TC 
 The past week witnessed a significant increase in newbuilding orders within the dry bulk sector. Notably, the orderbook expanded with the addition of one Kamsarmax and six Ultramax vessels. Conversely, tanker contracting activity remained subdued. However, the container ship market experienced a surge in activity with two substantial orders. Sea Consortium secured a contract with SWS shipyard for the construction of four 11,000 TEU vessels equipped for both LNG fuel and Methanol readiness. Additionally, Hyundai Glovis placed an order with GSI shipyard for six 10,800 TEU container ships, also featuring LNG and Methanol compatibility. Beyond the dry bulk and container sectors, Greek shipping company Capital placed orders for gas carriers and liquefied CO2 (LC02) vessels. The order comprises two 40,000 cbm gas carriers and four 22,000 cbm LC02 vessels.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 31-May-24 | 24-May-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 31-May-24 | 24-May-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 77.5 | 77.0 | 0.6% | 77.5 | 70.0 | 77.5 | 49.5 | 66 | 66 | 59 |
-| **Bulkers** | Capesize | **180k** | 74.0 | 73.5 | 0.7% | 74.0 | 67.5 | 74.0 | 48.5 | 63 | 63 | 56 |
-| **Bulkers** | Kamsarmax | **82k** | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-| **Bulkers** | Ultramax | **63k** | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-| **Bulkers** | Handysize | **38k** | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | **300k** | 130.5 | 130.5 | 0.0% | 130.0 | 128.0 | 130.0 | 84.5 | 124 | 118 | 98 |
-| **Tankers** | Suezmax | **160k** | 88.0 | 88.0 | 0.0% | **88.0** | 85.0 | **88.0** | 55.0 | 82 | 79 | 66 |
-| **Tankers** | Aframax | **115k** | 75.0 | 75.0 | 0.0% | 75.0 | 73.0 | 75.0 | 46.0 | 69 | 62 | 53 |
-| **Tankers** | MR | **50k** | 51.0 | 51.0 | 0.0% | 51.0 | 48.0 | 51.0 | 34.0 | 46 | 43 | 38 |
-| **Gas** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-| **Gas** | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-| **Gas** | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 77.5 | 77.0 | 0.6% | 77.5 | 70.0 | 77.5 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 74.0 | 73.5 | 0.7% | 74.0 | 67.5 | 74.0 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 130.5 | 130.5 | 0.0% | 130.0 | 128.0 | 130.0 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 88.0 | 88.0 | 0.0% | 88.0 | 85.0 | 88.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 75.0 | 73.0 | 75.0 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.0 | 51.0 | 0.0% | 51.0 | 48.0 | 51.0 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

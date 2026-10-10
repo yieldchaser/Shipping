@@ -194,23 +194,20 @@ Supramax 10TC averaged \$ 10,150/day down -2.58% w-o-w, while the Handysize 7TC 
 The dry bulk newbuilding market experienced a robust week, with a total of eleven bulk carriers being contracted. Notably, Eastern Pacific placed an order for five Capesize vessels at Nihon Shipyard, though the price remains undisclosed. Additionally, Japanese owner Doun Kisen finalized agreements for the construction of two 82,000 DWT Kamsarmax vessels and two 63,550 DWT Ultramax vessels at Nantong Xiangyu, priced at \$35.3 million and \$37.3 million, respectively. Furthermore, Chinese owner Glorious Youth Shipping secured an order for two 63,500 DWT Ultramax vessels at Jiangsu Haitong for \$35.0 million each. Conversely, activity in the tanker sector was muted. Meanwhile, Pakistan National Shipping Corporation commissioned the construction of a single 1,100 TEU container vessel at Karachi Ship &amp; Engineering Works in Pakistan, at a contract price of \$24.8 million
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 13-Dec-24 | 6-Dec-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 13-Dec-24 | 6-Dec-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
-| **Bulkers** | Capesize | 180k | 76.0 | 76.0 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
-| **Bulkers** | Kamsarmax | 82k | 37.25 | 37.3 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-| **Bulkers** | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-| **Bulkers** | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.0 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
-| **Tankers** | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
-| **Tankers** | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
-| **Tankers** | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
-| **Gas** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 260.0 | 260.0 | 0.0% | 263.0 | 260.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-| **Gas** | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-| **Gas** | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 80.0 | 80.0 | 0.0% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 76.0 | 76.0 | 0.0% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.25 | 37.3 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 35.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.0 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 85.0 | 90.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 260.0 | 260.0 | 0.0% | 263.0 | 260.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
 
 ## Indicative Period Charters
 
@@ -258,6 +255,6 @@ The global recycling market remains sensitive to broader trade dynamics, economi
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TRUE CONFIDENCE | 50,448 | 8,907 | 2011 | OSHIMA, Japan | BC | $ 353.0m | undisclosed | Damaged condition/total loss - as is Sharjah, UAE |
-| KELP | 8,424 | 3,248 | 2002 | KURINOURA, Japan | TANKER | $ 620.0m | Indian | high quantity of StSt |
-| NEW SMILE | 6,902 | 2,227 | 1995 | JURONG, Singapore | TANKER | $ 510.0m | Bangladeshi |  |
+| TRUE CONFIDENCE | 50,448 | 8,907 | 2011 | OSHIMA, Japan | BC | $ 353/Ldt | undisclosed | Damaged condition/total loss - as is Sharjah, UAE |
+| KELP | 8,424 | 3,248 | 2002 | KURINOURA, Japan | TANKER | $ 620/Ldt | Indian | high quantity of StSt |
+| NEW SMILE | 6,902 | 2,227 | 1995 | JURONG, Singapore | TANKER | $ 510/Ldt | Bangladeshi |  |

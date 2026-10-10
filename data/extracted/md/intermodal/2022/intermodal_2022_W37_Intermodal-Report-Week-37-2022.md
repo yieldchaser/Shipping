@@ -271,15 +271,15 @@ In the Handysize sector we had the sale of the "MAPLE AMBITION" (35,513dwt-blt '
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | HILWAH | 316,808 | 2002 | HYUNDAI ULSAN, S. Korea | B\&W | Dec-22 | DH | $ 37.8m | Chinese |  |
 | LR1 | POLAR UNICORN | 73,956 | 2008 | ONOMICHI, Japan | MAN-B\&W | Jan-23 | DH | high $ 22.0m | undisclosed | BWTS fitted |
-| LR1 | STENA PROVENCE | 65,125 | 2006 | BRODOSPLIT, Croatia | MAN-B\&W | Mar-26 | DH |  |  |  |
-| LR1 | STENA PRIMORSK | 65,079 | 2006 | BRODOSPLIT, Croatia | MAN-B\&W | May-26 | DH | rgn $ 60,0m | European | BWTS fitted |
-| LR1 | STENA PERFORMANCE | 65,065 | 2006 | BRODOSPLIT, Croatia | MAN-B\&W | Jun-26 | DH |  |  |  |
+| LR1 | STENA PROVENCE | 65,125 | 2006 | BRODOSPLIT, Croatia | MAN-B\&W | Mar-26 | DH | rgn $ 60,0m (en bloc) | European | BWTS fitted |
+| LR1 | STENA PRIMORSK | 65,079 | 2006 | BRODOSPLIT, Croatia | MAN-B\&W | May-26 | DH | rgn $ 60,0m (en bloc) | European | BWTS fitted |
+| LR1 | STENA PERFORMANCE | 65,065 | 2006 | BRODOSPLIT, Croatia | MAN-B\&W | Jun-26 | DH | rgn $ 60,0m (en bloc) | European | BWTS fitted |
 | MR2 | HIGH ADVENTURER | 49,997 | 2017 | ONOMICHI, Japan | MAN-B\&W | Nov-22 | DH | $ 30.4m | Italian (D' Amico) | purchase option exercised basis delivery within November 2022 |
 | MR2 | SEABRIGHT | 46,159 | 2006 | STX, S. Korea | MAN-B\&W | Nov-26 | DH | rgn $ 18.0m | undisclosed | BWTS fitted |
 | MR1 | SEAMERCURY | 39,634 | 2003 | HYUNDAI MIPO, S. Korea | B\&W | Jun-23 | DH | rgn $ 11.0m | undisclosed | Ice Class 1B |
 | SMALL | AEON | 18,041 | 2012 | ZHEJIANG, China | MAN-B\&W | Jan-26 | DH | $ 13.0m | undisclosed | via commercial auction |
-| SMALL | JUTLANDIA SWAN | 17,998 | 2008 | CICEK, Turkey | Ma K | Jan-23 | DH | $ 24.0m | German (Carl F. Peters) | Ice Class 1A |
-| SMALL | SELANDIA SWAN | 17,998 | 2008 | GISAN, Turkey | Ma K | Feb-23 | DH |  |  |  |
+| SMALL | JUTLANDIA SWAN | 17,998 | 2008 | CICEK, Turkey | Ma K | Jan-23 | DH | $ 24.0m (en bloc) | German (Carl F. Peters) | Ice Class 1A |
+| SMALL | SELANDIA SWAN | 17,998 | 2008 | GISAN, Turkey | Ma K | Feb-23 | DH | $ 24.0m (en bloc) | German (Carl F. Peters) | Ice Class 1A |
 | SMALL | SOL | 11,479 | 2007 | NANTONG,China | MAN-B\&W |  | DH | $ 5.1m | Indian | via commercial auction |
 | SMALL | ORIENTAL FREESIA | 14,383 | 2006 | ASAKAWA, Japan | MAN-B\&W | Feb-25 | DH | $ 11.5m | undisclosed |  |
 | Bulk Carriers |  |  |  |  |  |  |  |  |  |  |
@@ -290,25 +290,22 @@ In the Handysize sector we had the sale of the "MAPLE AMBITION" (35,513dwt-blt '
 
 # Intermodal Newbuilding Market
 
-## Indicative Newbuilding Prices (million$)
-| Sector | Size | 16/09/2022 | 09/09/2022 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 69.0 | 69.0 | 0.0% | 51 | 54 | 51 |
-| Capesize | **180k** | 64.5 | 64.5 | 0.0% | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 37.0 | 37.0 | 0.0% | 28 | 30 | 29 |
-| Ultramax | **63k** | 34.5 | 35.0 | -1.4% | 26 | 28 | 27 |
-| Handysize | **38k** | 31.0 | 31.0 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| Suezmax | **160k** | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| Aframax | **115k** | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
-| MR | **50k** | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 242.0 | 241.0 | **0.4%** | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |  |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 16/09/2022 | 09/09/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 69.0 | 69.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 64.5 | 64.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 37.0 | 37.0 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 34.5 | 35.0 | -1.4% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 242.0 | 241.0 | 0.4% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 In the newbuilding segment, orders surfaced across almost all sectors, with crude orders once again abstaining from the newbuilding list after the recent MOL and Euronav contracts. In the wet sector, one order has been sealed for a 13,000dwt StSt vessel. In the dry segment, two orders have been placed for a total of four vessels on behalf of Chinese owners and assigned also at Chinese yards. In the gas sector, eight more berths on behalf of the Qatari project have been secured at DSME and have been signed by three owners, MISC, Meiji Shipping, and TMS Cardiff Gas, without however making clear how the vessels will be divided between the owners. The vessels will be delivered from 2026 onwards, while they will cost \$215.0m each. Conclusively, Eastern Pacific inked a deal with HMD for the construction of two firm plus two optional 1,400teu LNG dual-fuelled containers. The vessels will be equipped with ME-GI engines and will be delivered in 2025.
 

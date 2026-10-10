@@ -284,15 +284,15 @@ In the Handysize sector we had the sale of the "HIMAWARI K" (37,786dwt-bl't '15,
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | ROWAN | 299,988 | 2001 | KAWASAKI, Japan | B\&amp;W | Nov-25 | DH | rgn $ 28.5m | Chinese | Non IACS |
-| LR2 | ALBURAQ | 112,521 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Oct-23 | DH | $ 70.0m | undisclosed |  |
-| LR2 | SEA LEGEND | 112,511 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Dec-23 | DH |  |  |  |
+| LR2 | ALBURAQ | 112,521 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Oct-23 | DH | $ 70.0m (en bloc) | undisclosed |  |
+| LR2 | SEA LEGEND | 112,511 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Dec-23 | DH | $ 70.0m (en bloc) | undisclosed |  |
 | MR2 | AURORA EXPRESS | 45,770 | 2002 | MINAMI-NIPPON, Japan | MAN-B\&amp;W | Nov-22 | DH | $ 10.0m | Indian (Seven Islands) | epoxy coated |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | AGRI KINSALE | 77,171 | 2009 | OSHIMA, Japan | MAN-B\&amp;W | Sep-24 |  | $ 32.0m | Chinese | BWTS fitted |
-| PMAX | AGRI QUEEN | 77,171 | 2009 | OSHIMA, Japan | MAN-B\&amp;W | Oct-24 |  |  |  |  |
+| PMAX | AGRI KINSALE | 77,171 | 2009 | OSHIMA, Japan | MAN-B\&amp;W | Sep-24 |  | $ 32.0m (en bloc) | Chinese | BWTS fitted |
+| PMAX | AGRI QUEEN | 77,171 | 2009 | OSHIMA, Japan | MAN-B\&amp;W | Oct-24 |  | $ 32.0m (en bloc) | Chinese | BWTS fitted |
 | PMAX | NAVIOS SYMMETRY | 74,476 | 2006 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Jun-26 |  | rgn $ 12.0m | undisclosed | BWTS fitted |
 | UMAX | BERGE TRONADOR | 61,087 | 2020 | COSCO DALIAN, China | MAN-B\&amp;W | Apr-25 | 4 X 30t CRANES | rgn $ 32.0m | Japanese |  |
 | SUPRA | OCEAN ADVENTURE | 57,814 | 2015 | TSUNEISHI, Japan | MAN-B\&amp;W | Oct-25 | 4 X 30t CRANES | rgn $ 23.0m | Japanese |  |
@@ -325,11 +325,11 @@ In the Handysize sector we had the sale of the "HIMAWARI K" (37,786dwt-bl't '15,
 | LPG | PROGRESS | 58,560 | 2009 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jan-24 | 80,793 | rgn $ 50,0m | UK based (Foresight Group) |  |
 | LPG | CLIPPER | 56,864 | 1992 | NKK CORP - TSU, Japan | Sulzer | Mar-27 | 76,978 | $ 15.0m | Far Eastern |  |
 | LPG | GAS GROUPER | 26,416 | 2009 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jun-24 | 34,574 | $ 32.0m | undisclosed |  |
-| LPG | PACIFIC SATURN | 23,724 | 2019 | NANTONG, China | MAN-B\&amp;W | Nov-24 | 21,560 |  |  |  |
-| LPG | PACIFIC MARS | 23,708 | 2019 | NANTONG, China | MAN-B\&amp;W | Jul-24 | 21,560 |  |  |  |
-| LPG | PACIFIC MERCURY | 23,704 | 2019 | NANTONG, China | MAN-B\&amp;W | Jan-24 | 21,560 | $ 233.0m | JV between Navigator Gas &amp; Greater Bay Gas |  |
-| LPG | PACIFIC VENUS | 18,599 | 2018 | NANTONG, China | MAN-B\&amp;W | Mar-23 | 17,077 |  |  |  |
-| LPG | PACIFIC JUPITER | 18,599 | 2018 | NANTONG, China | MAN-B\&amp;W | Sep-23 | 17,075 |  |  |  |
+| LPG | PACIFIC SATURN | 23,724 | 2019 | NANTONG, China | MAN-B\&amp;W | Nov-24 | 21,560 | $ 233.0m (en bloc) | JV between Navigator Gas &amp; Greater Bay Gas |  |
+| LPG | PACIFIC MARS | 23,708 | 2019 | NANTONG, China | MAN-B\&amp;W | Jul-24 | 21,560 | $ 233.0m (en bloc) | JV between Navigator Gas &amp; Greater Bay Gas |  |
+| LPG | PACIFIC MERCURY | 23,704 | 2019 | NANTONG, China | MAN-B\&amp;W | Jan-24 | 21,560 | $ 233.0m (en bloc) | JV between Navigator Gas &amp; Greater Bay Gas |  |
+| LPG | PACIFIC VENUS | 18,599 | 2018 | NANTONG, China | MAN-B\&amp;W | Mar-23 | 17,077 | $ 233.0m (en bloc) | JV between Navigator Gas &amp; Greater Bay Gas |  |
+| LPG | PACIFIC JUPITER | 18,599 | 2018 | NANTONG, China | MAN-B\&amp;W | Sep-23 | 17,075 | $ 233.0m (en bloc) | JV between Navigator Gas &amp; Greater Bay Gas |  |
 
 © Intermodal Research 11/10/2022 5
 
@@ -338,24 +338,21 @@ In the Handysize sector we had the sale of the "HIMAWARI K" (37,786dwt-bl't '15,
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 07/10/2022 | 30/09/2022 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 68.5 | 68.5 | 0.0% | 51 | 54 | 51 |
-| **Capesize** | **180k** | 64.0 | 64.0 | 0.0% | 49 | 52 | 49 |
-| **Kamsarmax** | **82k** | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
-| **Ultramax** | **63k** | 34.0 | 34.0 | 0.0% | 26 | 28 | 27 |
-| **Handysize** | **38k** | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| **Suezmax** | **160k** | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| **Aframax** | **115k** | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
-| **MR** | **50k** | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 245.0 | 244.0 | 0.4% | 187 | 186 | 181 |  |
-| **LGC LPG 80k cbm** | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |  |
-| **MGC LPG 55k cbm** | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |  |
-| **SGC LPG 25k cbm** | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 07/10/2022 | 30/09/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 68.5 | 68.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 64.0 | 64.0 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 245.0 | 244.0 | 0.4% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 Ordering activity, albeit firm during last week, has begun to reshape in order to adapt to current geopolitical disruptions that have been causing mounting concerns over security. The offshore sector, which has been underperforming the last few years, is reviving and fresh orders mirror the ongoing efforts to secure energy supplies, especially in European countries. Last week, Petrobras inked another deal, with Semborp this time, for the construction of 1x225,000bopd FPSO, which will become the tenth unit to be installed and operate in Brazil's Buzios field. In the gas sector, Excelerate Energy signed an LOI with HHI for 1x170,000cbm FSRU, lifting its tally of total units (in operation and under construction) to 11. The unit will be equipped with sophisticated technologies to ensure high performance and low emissions at the same time. In the tanker realm, Euronav and Atlas returned to DH Shipbuilding for a duet of tankers each. Euronav ordered 2 scrubber-fitted MR tankers at \$75.0m each, while Atlas ordered 2 Aframax vessels at the price of \$64.0m each. The vessel is priced at the upper end of the price range, considering that an Aframax vessel would cost around \$47.0m-\$48.0m two years ago at a Korean yard, indicating the improved profitability of this type of vessel. Conclusively, in the boxship sector, A.P Moller-Maersk placed an order for a sextet of 17,000teu vessels, which will be methanol fuelled, in line with the company's GHG emissions reduction targets. The order brings its order tally at KSOE to 19.
 

@@ -263,12 +263,12 @@ In the Kamsarmax sector we had the sale of the "BULK HOLLAND" (81,712dwt-blt '17
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ULCC | EUROPE | 441,561 | 2002 | DAEWOO, S. Korea | Sulzer | Nov-22 | DH | region $ 42.5m | undisclosed |  |
 | AFRA | SOLVIKEN | 114,523 | 2007 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jan-27 | DH | $ 32.5m | undisclosed | inc. TC at $15k/d + 50/50 profit split on real earnings (red/very on 15 Nov 22 – 15 Feb 23) |
-| AFRA | BLUESEA | 113,553 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | Feb-26 | DH | $ 62.5m | undisclosed | BWTS fitted, Ice Class 1A, delivery Q4 2022 |
-| AFRA | PAROSEA | 113,553 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | May-26 | DH |  |  |  |
+| AFRA | BLUESEA | 113,553 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | Feb-26 | DH | $ 62.5m (en bloc) | undisclosed | BWTS fitted, Ice Class 1A, delivery Q4 2022 |
+| AFRA | PAROSEA | 113,553 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | May-26 | DH | $ 62.5m (en bloc) | undisclosed | BWTS fitted, Ice Class 1A, delivery Q4 2022 |
 | AFRA | HAO YU | 105,522 | 2005 | SUMITOMO, Japan | Wartsila | Jun-25 | DH | $ 27.0m | Middle Eastern | BWTS, Scrubber fitted |
 | MR2 | BSL ELSA | 51,747 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jun-24 | DH | $ 22.0m | undisclosed | TC attached at a below market rate |
 | SMALL | FURE VEN | 17,993 | 2019 | AVIC DINGHENG, China | Wartsila | Mar-24 | DH | undisclosed | Finish (Neste) | delivery Q4 2023 |
-| SMALL | FURE VALO | 17,999 | 2018 | AVIC DINGHENG, China | Wartsila | Nov-23 | DH | undisclosed |  |  |
+| SMALL | FURE VALO | 17,999 | 2018 | AVIC DINGHENG, China | Wartsila | Nov-23 | DH | undisclosed | Finish (Neste) |  |
 | SMALL | CELSIUS MIAMI | 19,991 | 2005 | USUKI, Japan | MAN-B\&amp;W | Apr-25 | DH | $ 13.8m | Singapore based (Wilmar) | BWTS fitted, StSt |
 | SMALL | DUMANKAYA | 4,622 | 2007 | CEKSAN GEMI, Turkey | Wartsila | Mar-27 | DH | $ 5.7m | Russian | Ice Class 1A |
 
@@ -308,24 +308,21 @@ In the Kamsarmax sector we had the sale of the "BULK HOLLAND" (81,712dwt-blt '17
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 14/10/2022 | 07/10/2022 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 68.0 | 68.5 | -0.7% | 51 | 54 | 51 |
-| Capesize | **180k** | 63.5 | 64.0 | -0.8% | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 36.0 | 36.5 | -1.4% | 28 | 30 | 29 |
-| Ultramax | **63k** | 33.5 | 34.0 | -1.5% | 26 | 28 | 27 |
-| Handysize | **38k** | 30.0 | 30.5 | -1.6% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| Suezmax | **160k** | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| Aframax | **115k** | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
-| MR | **50k** | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 246.0 | 245.0 | 0.4% | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 14/10/2022 | 07/10/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 68.0 | 68.5 | -0.7% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 63.5 | 64.0 | -0.8% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 36.0 | 36.5 | -1.4% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 33.5 | 34.0 | -1.5% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 30.0 | 30.5 | -1.6% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 246.0 | 245.0 | 0.4% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 88.0 | 88.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 Newbuilding market continued to demonstrate healthy contracting activity for yet another week. In the tanker realm, Fairfield Chemical declared options for 2x26,300dwt stainless steel chemical tankers with Fukuoka Shipbuilding. The vessels cost \$70.0m each and will be delivered by 2025. In the dry sector, Lepta Shipping struck a deal with Yangtzi-Mitsui for 2x66,000dwt methanol fuelled vessels at an undisclosed price and 2024 delivery. In the gas sector, Pacific Gas inked a deal with Jiangnan Shipyard for 2+2x99,000cbm dual-fuelled vessels. The ethane carriers, which will cost \$130.0 each and will be delivered by 2025, are rumored to have been fixed under a 10-year T/C with UK-based chemical giant Ineos. Conclusively, the LNG ordering activity continues to gather momentum. With slots at the three big Korean shipyards being extremely tight, Chinese shipbuilders have emerged as alternative players and are ready to fill the gap and accommodate the flurry of new orders. In this respect, Celsius Tankers have sealed a deal with CMHI in Jiangsu for the construction of 4+8x180,000cbm vessels at \$231.0m each. While prices at Korean yards currently hover close to the \$240.0m-\$250.0m range, Chinese rivals are offering considerably lower prices, within the \$200.0m-\$230.0m range, becoming thus a lot more competitive.
 

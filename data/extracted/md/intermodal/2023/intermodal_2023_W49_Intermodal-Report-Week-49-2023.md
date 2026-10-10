@@ -213,9 +213,9 @@ Supramax 10TC averaged \$ 16,945/day, up +11.8% w-o-w, while the Handysize 7TC a
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | IRON MIRACLE | 180,643 | 2011 | TSUNEISHI CEBU, Philippines | MAN-B\&W | Oct-26 |  | region $ 27.0m | Greek | BWTS fitted, Eco |
-| CAPE | MINERAL DESTELBERGEN | 175,401 | 2010 | NEW TIMES, China | MAN-B\&W | Feb-28 |  | region $ 62.0m | Singapore based (EGPN) |  |
-| CAPE | MINERAL TEMSE | 175,401 | 2010 | NEW TIMES, China | MAN-B\&W | Jul-25 |  |  |  |  |
-| CAPE | MINERAL BRUGGE | 175,155 | 2011 | NEW TIMES, China | MAN-B\&W | Feb-26 |  |  |  |  |
+| CAPE | MINERAL DESTELBERGEN | 175,401 | 2010 | NEW TIMES, China | MAN-B\&W | Feb-28 |  | region $ 62.0m (en bloc) | Singapore based (EGPN) |  |
+| CAPE | MINERAL TEMSE | 175,401 | 2010 | NEW TIMES, China | MAN-B\&W | Jul-25 |  | region $ 62.0m (en bloc) | Singapore based (EGPN) |  |
+| CAPE | MINERAL BRUGGE | 175,155 | 2011 | NEW TIMES, China | MAN-B\&W | Feb-26 |  | region $ 62.0m (en bloc) | Singapore based (EGPN) |  |
 | CAPE | MINERAL NINGBO | 178,120 | 2009 | SWS, China | MAN-B\&W | Jul-24 |  | region $ 20.0m | Chinese (Agricore) | prompt dely China |
 | POST PMAX | DOUBLE MIRACLE | 95,444 | 2014 | IMABARI, Japan | MAN-B\&W | Jun-24 |  | region $ 25.0m | Greek | BWTS, Scrubber fitted, Eco |
 | PMAX | KING COAL | 76,361 | 2010 | OSHIMA, Japan | MAN-B\&W | Nov-25 |  | $ 15.8m | Greek | BWTS fitted |
@@ -237,21 +237,21 @@ Supramax 10TC averaged \$ 16,945/day, up +11.8% w-o-w, while the Handysize 7TC a
 Another robust week for the newbuilding market, with more sales across all segments. A total of 34 vessels were contracted, with bulk carriers taking the lion's share. Euronav was very active in the market last week as they exercised options on a VLCC at Behai in China. The vessel will be ammonia ready and scrubber equipped and is priced at \$112.2m. They also ordered two Suezmaxes from Daehna in South Korea. The ice-class vessels will be ready in 2026, cost \$85m each and are already chartered to Valero. In the bulk sector, Shandong Shipping ordered four firm 325kdwt vessels from Behai in China. The vessels, costing \$130m each, will be dual-fuelled with methanol and are time chartered to Vale. In the PCTC sector, both Seaspan and HMM ordered 6 10,800 ceu vessels from SWS and Guangzhou in China respectively. All vessels will be on long term time charters with Hyundai Glovis.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 8-Dec-23 | 1-Dec-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2022 | 2021 | 2020 |
+| Sector | Vessel | Size | 8-Dec-23 | 1-Dec-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 69.5 | 69.0 | 0.7% | 69.5 | 64.0 | 69.5 | 49.5 | 66 | 59 | 51 |
-|  | **Capesize** | **180k** | 66.5 | 66.0 | 0.8% | 66.5 | 61.0 | 66.5 | 48.5 | 63 | 56 | 49 |
-|  | **Kamsarmax** | **82k** | 35.5 | 35.5 | 0.0% | 35.5 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
-|  | **Ultramax** | **63k** | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
-|  | **Handysize** | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
-| **Tankers** | **VLCC** | **300k** | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
-|  | **Suezmax** | **160k** | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
-|  | **Aframax** | **115k** | 72.0 | 72.0 | 0.0% | 71.5 | 64.0 | 71.5 | 46.0 | 62 | 53 | 48 |
-|  | **MR** | **50k** | 47.5 | 47.5 | 0.0% | 47.5 | 44.0 | 47.5 | 34.0 | 43 | 38 | 35 |
-| **Gas** | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
-|  | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
-|  | MGC LPG 55k cbm |  | 91.5 | 91.5 | 0.0% | 18.4 | 77.5 | 92.5 | 43.0 | 74 | 67 | 63 |
-|  | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
+| Bulkers | Newcastlemax | 205k | 69.5 | 69.0 | 0.7% | 69.5 | 64.0 | 69.5 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 66.5 | 66.0 | 0.8% | 66.5 | 61.0 | 66.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.5 | 35.5 | 0.0% | 35.5 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 72.0 | 72.0 | 0.0% | 71.5 | 64.0 | 71.5 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 47.5 | 47.5 | 0.0% | 47.5 | 44.0 | 47.5 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 91.5 | 91.5 | 0.0% | 18.4 | 77.5 | 92.5 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

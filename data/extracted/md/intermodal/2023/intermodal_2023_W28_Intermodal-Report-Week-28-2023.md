@@ -214,11 +214,11 @@ Supramax 10TC averaged \$ 8,081/day, down -0.25% w-o-w, while the Handysize 7TC 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | BULK INGENUITY | 176,022 | 2011 | JINHAI, China | MAN-B\&W | Dec-26 |  |  |  |  |
-| CAPE | BULK INTEGRITY | 175,966 | 2010 | JINHAI, China | MAN-B\&W | Dec-25 |  |  |  |  |
-| CAPE | BULK PEACE | 175,858 | 2010 | JINHAI, China | MAN-B\&W | Mar-25 |  | $ 106.0m | Greek (Danaos) | BWTS fitted |
-| CAPE | BULK ACHIEVEMENT | 175,850 | 2011 | JINHAI, China | MAN-B\&W | Jan-26 |  |  |  |  |
-| CAPE | BULK GENIUS | 175,580 | 2012 | JINHAI, China | MAN-B\&W | Jun-27 |  |  |  |  |
+| CAPE | BULK INGENUITY | 176,022 | 2011 | JINHAI, China | MAN-B\&W | Dec-26 |  | $ 106.0m (en bloc) | Greek (Danaos) | BWTS fitted |
+| CAPE | BULK INTEGRITY | 175,966 | 2010 | JINHAI, China | MAN-B\&W | Dec-25 |  | $ 106.0m (en bloc) | Greek (Danaos) | BWTS fitted |
+| CAPE | BULK PEACE | 175,858 | 2010 | JINHAI, China | MAN-B\&W | Mar-25 |  | $ 106.0m (en bloc) | Greek (Danaos) | BWTS fitted |
+| CAPE | BULK ACHIEVEMENT | 175,850 | 2011 | JINHAI, China | MAN-B\&W | Jan-26 |  | $ 106.0m (en bloc) | Greek (Danaos) | BWTS fitted |
+| CAPE | BULK GENIUS | 175,580 | 2012 | JINHAI, China | MAN-B\&W | Jun-27 |  | $ 106.0m (en bloc) | Greek (Danaos) | BWTS fitted |
 | KMAX | JY ATLANTIC | 81,096 | 2019 | CHENGXI, China | MAN-B\&W | Nov-24 |  | $ 30.15m | European | Eco |
 | UMAX | MONA MANX | 63,878 | 2017 | TSUNEISHI ZHOUSHAN, China | MAN-B\&W | Jul-27 | 4 X 30t CRANES | excess $ 27.0m | Far Eastern | Eco |
 | HANDY | TOMINI ZONDA | 37,976 | 2016 | OUHUA, China | MAN-B\&W | Aug-26 | 4 X 30t CRANES | $19.36m | Greek | Eco |
@@ -240,26 +240,23 @@ The strong activity continues in the newbuilding market, with a total of 39 unit
 
 The trend of substantial orders for Kamsarmax newbuildings persists, with a cumulative count of 77 units placed until June. Additionally, new information surfaced last week, revealing 14 more Kamsarmax vessels and 2 Panamax vessels being ordered, surpassing the volume seen in 2022 (total 91 orders). A noteworthy observation is that the SnP deals, involving both Panamax and Kamsarmax sizes, comprise a total of only 64 vessels.
 
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 66.0 | 66.0 | 0.0% | 66.0 | 64.0 |
-| **Bulkers** | Capesize | **180k** | 63.0 | 63.0 | 0.0% | 63.0 | 61.0 |
-| **Bulkers** | Kamsarmax | **82k** | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 |
-| **Bulkers** | Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 |
-| **Bulkers** | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | **300k** | 125.0 | 125.0 | 0.0% | 125.0 | 120.0 |
-| **Tankers** | Suezmax | **160k** | 84.0 | 84.0 | 0.0% | **84.0** | 76.0 |
-| **Tankers** | Aframax | **115k** | 69.0 | 69.0 | 0.0% | 69.0 | 64.0 |
-| **Tankers** | MR | **50k** | 46.0 | 46.0 | 0.0% | 46.0 | 44.0 |
-| **Gas** |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 261.0 | 261.0 | 0.0% | 261.0 | 248.0 |
-| **Gas** | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 |
-| **Gas** | MGC LPG 55k cbm |  | 85.5 | 85.5 | 0.0% | 85.5 | 77.5 |
-| **Gas** | SGC LPG 25k cbm |  | 55.5 | 55.5 | 0.0% | 55.5 | 53.0 |
+| Sector | Vessel | Size | 14-Jul-23 | 7-Jul-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 66.0 | 66.0 | 0.0% | 66.0 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 63.0 | 63.0 | 0.0% | 63.0 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 66 | 59 | 51 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 125.0 | 125.0 | 0.0% | 125.0 | 120.0 | 125.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 84.0 | 84.0 | 0.0% | 84.0 | 76.0 | 84.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 69.0 | 69.0 | 0.0% | 69.0 | 64.0 | 69.0 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 46.0 | 46.0 | 0.0% | 46.0 | 44.0 | 46.0 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 261.0 | 261.0 | 0.0% | 261.0 | 248.0 | 261.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 85.5 | 85.5 | 0.0% | 85.5 | 77.5 | 85.5 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 55.5 | 55.5 | 0.0% | 55.5 | 53.0 | 55.5 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

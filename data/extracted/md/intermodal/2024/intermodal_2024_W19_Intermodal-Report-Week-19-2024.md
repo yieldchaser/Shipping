@@ -209,10 +209,10 @@ Supramax 10TC averaged \$ 15,935/day down -1.96% w-o-w, while the Handysize 7TC 
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | SM VENUS2 | 299,696 | 2020 | HYUNDAI SAMHO, S. Korea | Sulzer | Feb-27 | DH | $ 464.0m | U.A.E. (Bahri) | Scrubber fitted, Eco, Tier III |
-| VLCC | SM VENUS 1 | 299,696 | 2019 | HYUNDAI SAMHO, S. Korea | MAN-B\&W | Sep-24 | DH |  |  | Scrubber fitted, Eco, Tier III |
-| VLCC | SM WHITE WHALE2 | 300,759 | 2019 | DAEWOO HEAVY INDUSTRIE, S. Korea | MAN-B\&W | Dec-24 | DH |  |  | Scrubber fitted, Eco, Tier III |
-| VLCC | SM WHITE WHALE1 | 300,759 | 2019 | DAEWOO HEAVY INDUSTRIE, S. Korea | MAN-B\&W | Dec-24 | DH |  |  | Scrubber fitted, Eco, Tier III |
+| VLCC | SM VENUS2 | 299,696 | 2020 | HYUNDAI SAMHO, S. Korea | Sulzer | Feb-27 | DH | $ 464.0m (en bloc) | U.A.E. (Bahri) | Scrubber fitted, Eco, Tier III |
+| VLCC | SM VENUS 1 | 299,696 | 2019 | HYUNDAI SAMHO, S. Korea | MAN-B\&W | Sep-24 | DH | $ 464.0m (en bloc) | U.A.E. (Bahri) | Scrubber fitted, Eco, Tier III |
+| VLCC | SM WHITE WHALE2 | 300,759 | 2019 | DAEWOO HEAVY INDUSTRIE, S. Korea | MAN-B\&W | Dec-24 | DH | $ 464.0m (en bloc) | U.A.E. (Bahri) | Scrubber fitted, Eco, Tier III |
+| VLCC | SM WHITE WHALE1 | 300,759 | 2019 | DAEWOO HEAVY INDUSTRIE, S. Korea | MAN-B\&W | Dec-24 | DH | $ 464.0m (en bloc) | U.A.E. (Bahri) | Scrubber fitted, Eco, Tier III |
 | VLCC | MARIJAN | 302,977 | 2002 | SAMSUNG, S. Korea | MAN-B\&W | Jan-25 | DH | $ 33.5m | Chinese |  |
 | LR2 | SANMAR SANGEET | 106,516 | 2004 | TSUNEISHI, Japan | B\&W | Sep-24 | DH | $ 26.9m | undisclosed |  |
 | LR1 | UOG AEOLOS | 73,427 | 2009 | NEW TIMES, China | MAN-B\&W | May-24 | DH | $ 28.8m | undisclosed |  |
@@ -222,8 +222,8 @@ Supramax 10TC averaged \$ 15,935/day down -1.96% w-o-w, while the Handysize 7TC 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | TRUST SHANGHAI | 209,523 | 2021 | SWS, China | MAN-B\&W | Apr-26 |  | $ 146.0m | Danish (Norden) | Scrubber fitted, Eco |
-| NEWCASTLEMAX | TRUST QINGDAO | 209,301 | 2021 | SWS, China | MAN-B\&W | Feb-26 |  |  |  | Scrubber fitted, Eco |
+| NEWCASTLEMAX | TRUST SHANGHAI | 209,523 | 2021 | SWS, China | MAN-B\&W | Apr-26 |  | $ 146.0m (en bloc) | Danish (Norden) | Scrubber fitted, Eco |
+| NEWCASTLEMAX | TRUST QINGDAO | 209,301 | 2021 | SWS, China | MAN-B\&W | Feb-26 |  | $ 146.0m (en bloc) | Danish (Norden) | Scrubber fitted, Eco |
 | CAPE | EL GRASSO | 181,365 | 2012 | IMABARI, Japan | MAN-B\&W | May-25 |  | $ 35.7m | Singaporean (Agricore) | Eco |
 | KMAX | VINCENT TALISMAN | 81,577 | 2020 | JIANGSU HANTONG, China | MAN-B\&W | Apr-25 |  | $ 33.0m | Chinese | Eco |
 | UMAX | SSI PRIVILEGE | 63,566 | 2019 | JINLING, China | MAN-B\&W | Jul-24 | 4 X 30t CRANES | $ 32.8m | South Korean | Eco |
@@ -242,23 +242,20 @@ The previous week saw reduced activity in the newbuilding market, with a total o
 The only bulker deal was from the Cyprian owner, Lemissoler Navigation, for a quartet of 65k dwt vessels from Wenchong in China for a fee of \$34.5m, while the delivery dates remain undisclosed. On the gas sector, AW Shipping, the joint venture between ADNOC and Wanhua, ordered 2 firm and 2 optional 93k cbm LPG carriers, able to run on ammonia as well. The VLACs costed the owner \$120m each and are expected in 2026.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 17-May-24 | 10-May-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 17-May-24 | 10-May-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 76.0 | 75.0 | 1.3% | 76.0 | 70.0 | 76.0 | 49.5 | 66 | 66 | 59 |
-| **Bulkers** | Capesize | **180k** | 72.5 | 71.5 | 1.4% | 72.5 | 67.5 | 72.5 | 48.5 | 63 | 63 | 56 |
-| **Bulkers** | Kamsarmax | **82k** | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-| **Bulkers** | Ultramax | **63k** | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-| **Bulkers** | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | **300k** | 130.5 | 130.5 | 0.0% | 130.0 | 128.0 | 130.0 | 84.5 | 124 | 118 | 98 |
-| **Tankers** | Suezmax | **160k** | 88.0 | 88.0 | 0.0% | **88.0** | 85.0 | **88.0** | 55.0 | 82 | 79 | 66 |
-| **Tankers** | Aframax | **115k** | 75.0 | 75.0 | 0.0% | 75.0 | 73.0 | 75.0 | 46.0 | 69 | 62 | 53 |
-| **Tankers** | MR | 50k | 51.0 | 50.0 | 2.0% | 51.0 | 48.0 | 51.0 | 34.0 | 46 | 43 | 38 |
-| **Gas** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-| **Gas** | MGC LPG 55k cbm |  | 94.0 | 93.5 | 0.5% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-| **Gas** | SGC LPG 25k cbm |  | 61.0 | 60.5 | 0.8% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 76.0 | 75.0 | 1.3% | 76.0 | 70.0 | 76.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 72.5 | 71.5 | 1.4% | 72.5 | 67.5 | 72.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 130.5 | 130.5 | 0.0% | 130.0 | 128.0 | 130.0 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 88.0 | 88.0 | 0.0% | 88.0 | 85.0 | 88.0 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 75.0 | 73.0 | 75.0 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.0 | 50.0 | 2.0% | 51.0 | 48.0 | 51.0 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 93.5 | 0.5% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 61.0 | 60.5 | 0.8% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -304,8 +301,8 @@ ladesh presents a mixed outlook, with prices retaining robustness yet tempered b
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TA'KUNTAH | 357,632 | 44,573 | 1978 | KOCKMUS MEKASINKA, SWEDEN | OFFSHORE | $ 184.0m | undisclosed | as is Mexico |
-| YK SOVEREIGN | 72,020 | 30,120 | 1994 | HYUNDAI, S. Korea | GAS TANKER | $ 620.0m | undisclosed | as is Japan/Korea |
-| PINE EXPRESS | 42,968 | 9,543 | 1990 | HASHIHAMA, Japan | BC | $ 560.0m | Bangladeshi |  |
-| HONG XI | 10,440 | 3,621 | 2008 | WUHAN SANYANG, China | GENERAL CARGO | $ 515.0m | Bangladeshi |  |
-| HEUNG-A TOKYO | 7,040 | 2,446 | 1996 | DAEDONG, S. Korea | CONTAINER | $ 581.0m | Bangladeshi |  |
+| TA'KUNTAH | 357,632 | 44,573 | 1978 | KOCKMUS MEKASINKA, SWEDEN | OFFSHORE | $ 184/Ldt | undisclosed | as is Mexico |
+| YK SOVEREIGN | 72,020 | 30,120 | 1994 | HYUNDAI, S. Korea | GAS TANKER | $ 620/Ldt | undisclosed | as is Japan/Korea |
+| PINE EXPRESS | 42,968 | 9,543 | 1990 | HASHIHAMA, Japan | BC | $ 560/Ldt | Bangladeshi |  |
+| HONG XI | 10,440 | 3,621 | 2008 | WUHAN SANYANG, China | GENERAL CARGO | $ 515/Ldt | Bangladeshi |  |
+| HEUNG-A TOKYO | 7,040 | 2,446 | 1996 | DAEDONG, S. Korea | CONTAINER | $ 581/Ldt | Bangladeshi |  |

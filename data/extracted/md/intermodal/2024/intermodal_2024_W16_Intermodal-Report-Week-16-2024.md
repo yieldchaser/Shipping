@@ -199,21 +199,21 @@ Secondhand Sales
 
 Interest in newbuilding was modest last week, particularly concentrated on traditional sectors, in the absence of any new orders for container and LNG units. Specifically concerning the tanker sector, Malaysian owner AET contracted two ammonia-fueled LR2 units at Dalian Shipyard. In the realm of dry bulk, Turkish owner Ciner Shipping ordered four 82,000dwt vessels from Hengli Hi at a cost of \$38.0 million each, while Taiwanese owner Franbo Lines finalized an agreement with Jiangsu Haitong for four ultramax vessels at an undisclosed price. Additionally, a single VLGC was commissioned by Japanese owner Lino Kaiun from Hanwha Ocean, also for an undisclosed price.
 
-# Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 19-Apr-24 | 12-Apr-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 19-Apr-24 | 12-Apr-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 73.5 | 73.0 | 0.7% | 73.5 | 70.0 | 73.5 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | **180k** | 70.0 | 69.5 | 0.7% | 70.0 | 67.5 | 70.0 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | **82k** | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | **63k** | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | **300k** | 130.0 | 130.0 | 0.0% | 130.0 | 128.0 | 130.0 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | **160k** | 87.5 | 87.5 | 0.0% | 87.5 | 85.0 | 87.5 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | **115k** | 75.0 | 75.0 | 0.0% | 75.0 | 73.0 | 75.0 | 46.0 | 69 | 62 | 53 |
-|  | MR | **50k** | 49.5 | 49.5 | 0.0% | 49.5 | 48.0 | 49.5 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 93.0 | 93.0 | 0.0% | 93.0 | 91.5 | 93.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 58.0 | 60.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 73.5 | 73.0 | 0.7% | 73.5 | 70.0 | 73.5 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 70.0 | 69.5 | 0.7% | 70.0 | 67.5 | 70.0 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.0 | 128.0 | 130.0 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 87.5 | 87.5 | 0.0% | 87.5 | 85.0 | 87.5 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 75.0 | 73.0 | 75.0 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 49.5 | 49.5 | 0.0% | 49.5 | 48.0 | 49.5 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 93.0 | 93.0 | 0.0% | 93.0 | 91.5 | 93.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 58.0 | 60.0 | 40.0 | 56 | 51 | 45 |
 
 # Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -257,6 +257,6 @@ There is a noticeable resurgence in the ship demolition market, spurred by econo
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SINOKOR HONGKONG | 17,468 | 5,300 | 1996 | IMABARI, Japan | CONTAINER | $ 598.0m | Bangladeshi | including ROB 380T |
-| MUDITA | 23,866 | 6,869 |  | KURUSHIMA, Japan | BC | $ 485.0m | undisclosed | as is Indonesia |
-| BORDER | 14,120 | 5,723 |  | SZCZECINSKA, Poland | CONTAINER | $ 454.0m | undisclosed | as is S. Africa |
+| SINOKOR HONGKONG | 17,468 | 5,300 | 1996 | IMABARI, Japan | CONTAINER | $ 598/Ldt | Bangladeshi | including ROB 380T |
+| MUDITA | 23,866 | 6,869 |  | KURUSHIMA, Japan | BC | $ 485/Ldt | undisclosed | as is Indonesia |
+| BORDER | 14,120 | 5,723 |  | SZCZECINSKA, Poland | CONTAINER | $ 454/Ldt | undisclosed | as is S. Africa |

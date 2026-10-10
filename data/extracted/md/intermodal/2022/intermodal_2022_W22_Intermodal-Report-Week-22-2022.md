@@ -267,14 +267,14 @@ In the Supramax sector we had the sale of the "IVS PINEHURST" (57,811dwt-blt '15
 | SUEZ | RIDGEBURY ASTARI | 149,991 | 2002 | NKK, Japan | Sulzer | Jul-22 | DH | $ 15.5m | undisclosed |  |
 | AFRA | SILVER | 107,507 | 2010 | TSUNEISHI, Japan | MAN-B\&amp;W | Jul-25 | DH | $ 27.5m | undisclosed | BWTS fitted, epoxy coated |
 | AFRA | GODAM | 113,553 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | May-26 | DH | $ 22.0m | undisclosed | BWTS fitted, Ice 1A |
-| MR2 | MAERSK CAELUM | 45,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Mar-26 | DH |  |  |  |
-| MR2 | MAERSK NAVIGATOR | 45,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Apr-26 | DH |  |  |  |
-| MR2 | MAERSK SEAFARER | 45,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Sep-26 | DH |  |  |  |
-| MR1 | MAERSK CUMULUS | 39,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-26 | DH | $ 230.0m | Korean (KMarin) | BWTS fitted, on subs |
-| MR1 | MAERSK NIMBUS | 39,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Dec-26 | DH |  |  |  |
-| MR1 | MAERSK STRATUS | 39,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-27 | DH |  |  |  |
-| MR1 | MAERSK CIRRUS | 39,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Aug-22 | DH |  |  |  |
-| MR1 | MAERSK ALTUS | 39,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Apr-27 | DH |  |  |  |
+| MR2 | MAERSK CAELUM | 45,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Mar-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR2 | MAERSK NAVIGATOR | 45,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Apr-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR2 | MAERSK SEAFARER | 45,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Sep-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR1 | MAERSK CUMULUS | 39,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR1 | MAERSK NIMBUS | 39,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Dec-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR1 | MAERSK STRATUS | 39,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-27 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR1 | MAERSK CIRRUS | 39,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Aug-22 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR1 | MAERSK ALTUS | 39,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Apr-27 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
 | MR2 | CHALLENGE PASSAGE | 48,658 | 2005 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Apr-25 | DH | $ 12.8m | undisclosed | BWTS fitted |
 | MR2 | ANGEL NO. 6 | 45,663 | 2005 | SHIN KURUSHIMA, Japan | Mitsubishi | Jun-25 | DH | $ 9.4m | undisclosed | BWTS fitted, St-St |
 | MR2 | SABREWING | 49,323 | 2004 | NAIKAI ZOSEN, Japan | B\&amp;W | Jan-24 | DH | rgn $ 9.5m | Chinese | BWTS fitted |
@@ -306,24 +306,21 @@ In the Supramax sector we had the sale of the "IVS PINEHURST" (57,811dwt-blt '15
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 03/06/2022 | 27/05/2022 | ±% | 2021 | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 68.0 | 68.0 | 0.0% | 59 | 51 | 54 |
-| Capesize | **180k** | 63.5 | 63.5 | 0.0% | 56 | 49 | 52 |
-| Kamsarmax | **82k** | 37.0 | 37.0 | 0.0% | 33 | 28 | 30 |
-| Ultramax | **63k** | 35.5 | 35.5 | 0.0% | 30 | 26 | 28 |
-| Handysize | **38k** | 31.0 | 31.0 | 0.0% | 27 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 118.0 | 118.0 | 0.0% | 98 | 88 | 92 |
-| Suezmax | **160k** | 79.0 | 79.0 | 0.0% | 66 | 58 | 60 |
-| Aframax | **115k** | 61.5 | 61.5 | 0.0% | 53 | 48 | 49 |
-| MR | **50k** | 42.0 | 42.0 | 0.0% | 38 | 35 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 228.0 | 227.0 | 0.4% | 195 | 187 | 186 |  |
-| LGC LPG 80k cbm | 85.5 | 85.5 | 0.0% | 76 | 73 | 73 |  |
-| MGC LPG 55k cbm | 73.0 | 73.0 | 0.0% | 67 | 63 | 65 |  |
-| SGC LPG 25k cbm | 50.5 | 50.5 | 0.0% | 45 | 42 | 44 |  |
+| Sector | Vessel | Size | 03/06/2022 | 27/05/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 68.0 | 68.0 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 63.5 | 63.5 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 37.0 | 37.0 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 35.5 | 35.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 118.0 | 118.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 79.0 | 79.0 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 61.5 | 61.5 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 42.0 | 42.0 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 228.0 | 227.0 | 0.4% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 85.5 | 85.5 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 73.0 | 73.0 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 50.5 | 50.5 | 0.0% | 45 | 42 | 44 |
 
 The Dry bulk sector has the lion's share of the previous week's newbuilding contracts. Gas carriers' activity was muted while only one order for four box-ships came to light. Greek owner Safe Bulkers concluded a deal at COSCO Yangzhou for two 82.000dwt Kamsarmax units. CMB FL commissioned COSCO Dalian Shipyard in China for the construction of four 82,000dwt units, meeting TIER III standards and costing about \$40.0m each, that will be delivered within 2024. In addition, four 63,000dwt bulkers have also been assigned for construction at China's New Dayang Shipbuilding for approx. \$33.5m, compliant to NOx TIER III regulations and expected delivery also within 2024. In the wet sector, SC Shipping ordered two stainless steel 7.200dwt tankers at an undisclosed price. The vessels will be built in Wu-chang SB Group in China. Lastly, in the container sector, an order for four 1,800teu vessels was placed by the South Korean owner Pan Ocean, at \$32.2m each, to be delivered in 2024 by Hyundai Mipo.
 

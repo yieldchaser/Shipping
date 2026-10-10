@@ -226,20 +226,20 @@ In containerships, Goldenport turned to CMHI Qingshan for 3 feeders of 1.8k teu 
 Elsewhere, Tsakos Group exercised an option at HD Hyundai for a 174k cbm LNG carrier at \$254.4m and due for 2029. Finally A JV between Wagenborg Carisbrooke ordered at Dajin HI 8 firm plus 2 optional ice class MPP vessels of 7.4k dwt each, with delivery slated for 2027-2029.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 3-Jul-26 | 26-Jun-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2025 | 2024 | 2023 |
+| Sector | Vessel | Size | 3-Jul-26 | 26-Jun-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2025 | Average 2024 | Average 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 79.0 | 79.0 | 0.0% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 76.0 | 76.0 | 0.0% | 76.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | **82k** | 38.0 | 38.0 | 0.0% | **38.0** | 36.5 | 38.0 | 27.75 | 37.1 | 34.85 | 34.8 |
-|  | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 35.0 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
-|  | Handysize | 38k | 31.0 | 31.0 | 0.0% | 31.0 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
-|  | Suezmax | 160k | 89.5 | 89.5 | 0.0% | 89.5 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
-|  | Aframax | 115k | 78.0 | 78.0 | 0.0% | 78.0 | 75.0 | 78.0 | 46.0 | 76.0 | 76.0 | 68.7 |
-|  | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
-| **Gas** | LNG 174k cbm |  | 248.5 | 248.5 | 0.0% | 248.5 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
-|  | MGC LPG 55k cbm |  | 84.0 | 84.0 | **0.0%** | **84.0** | 83.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 60.5 | 60.5 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 79.0 | 79.0 | 0.0% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 76.0 | 76.0 | 0.0% | 76.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 38.0 | 38.0 | 0.0% | 38.0 | 36.5 | 38.0 | 27.75 | 37.1 | 34.85 | 34.8 |
+| Bulkers | Ultramax | 63k | 35.0 | 35.0 | 0.0% | 35.0 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 31.0 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
+| Tankers | Suezmax | 160k | 89.5 | 89.5 | 0.0% | 89.5 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
+| Tankers | Aframax | 115k | 78.0 | 78.0 | 0.0% | 78.0 | 75.0 | 78.0 | 46.0 | 76.0 | 76.0 | 68.7 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
+| Gas | LNG 174k cbm |  | 248.5 | 248.5 | 0.0% | 248.5 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
+| Gas | MGC LPG 55k cbm |  | 84.0 | 84.0 | 0.0% | 84.0 | 83.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.5 | 60.5 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

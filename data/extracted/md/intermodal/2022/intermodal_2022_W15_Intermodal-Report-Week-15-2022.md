@@ -277,25 +277,25 @@ In the Handysize sector we had the sale of the “OCEAN FALCON” (37,152dwt-blt
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | CHELSEA | 300,000 | 2020 | DAEWOO, S. Korea | MAN-B&amp;W | Jan-25 |  | rgn $ 184.0m | Greek (Euronav) | BWTS &amp; scrubber fitter |
-| VLCC | GHILLIE | 299,995 | 2019 | DAEWOO, S. Korea | MAN-B&amp;W | Nov-24 |  |  |  |  |
+| VLCC | CHELSEA | 300,000 | 2020 | DAEWOO, S. Korea | MAN-B&amp;W | Jan-25 |  | rgn $ 184.0m (en bloc) | Greek (Euronav) | BWTS &amp; scrubber fitter |
+| VLCC | GHILLIE | 299,995 | 2019 | DAEWOO, S. Korea | MAN-B&amp;W | Nov-24 |  | rgn $ 184.0m (en bloc) | Greek (Euronav) | BWTS &amp; scrubber fitter |
 | AFRA | BANDA SEA | 105,576 | 2007 | SUMITOMO, Japan | Sulzer | May-22 |  | $ 21.0m | Greek |  |
 | AFRA | ASTRO SCULPTOR | 105,109 | 2003 | DAEWOO, Korea, South | B&amp;W | Jan-23 |  | $ 15.6m | undisclosed |  |
 | MR2 | HAMMONIA ARTEMIS | 49,708 | 2016 | HRVATSKA BRODOGRADNJA, Croatia | MAN-B&amp;W | Dec-21 |  | $ 25.75m | German (Hammonia Reederei) | old deal/delivered |
 | MR2 | HAMMONIA ATHENE | 49,708 | 2015 | HRVATSKA BRODOGRADNJA, Croatia | MAN-B&amp;W | Sep-25 |  | $ 24.75m | German (Hammonia Reederei) | old deal/delivered |
 | MR2 | ST.JACOBI | 50,209 | 2014 | STX, S. Korea | MAN-B&amp;W | Jan-24 |  | $ 22.9m | Indonesian |  |
 | MR2 | HIGH SATURN | 51,527 | 2008 | STX, S. Korea | MAN-B&amp;W | Apr-23 |  | $ 14.25m | Greek |  |
-| MR2 | ARCTIC BREEZE | 50,885 | 2006 | SPP, S. Korea | MAN-B&amp;W | Apr-26 |  | rgn $ 24.0m | undisclosed |  |
-| MR2 | ARCTIC BLIZZARD | 49,990 | 2006 | STX, S. Korea | MAN-B&amp;W | May-26 |  |  |  |  |
+| MR2 | ARCTIC BREEZE | 50,885 | 2006 | SPP, S. Korea | MAN-B&amp;W | Apr-26 |  | rgn $ 24.0m (en bloc) | undisclosed |  |
+| MR2 | ARCTIC BLIZZARD | 49,990 | 2006 | STX, S. Korea | MAN-B&amp;W | May-26 |  | rgn $ 24.0m (en bloc) | undisclosed |  |
 | MR1 | TORM GYDA | 36,207 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jan-24 |  | $ 13.7m | Greek (Ancora) |  |
-| MR1 | SEAWAYS CAPE HORN | 37,662 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Aug-26 |  | $ 9.9m |  |  |
+| MR1 | SEAWAYS CAPE HORN | 37,662 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Aug-26 |  | $ 9.9m | German (Chemikalien Seetransport) | BWTS fitted |
 | MR1 | SEAWAYS AMBROSE | 37,623 | 2006 | HYUNDAI MIPO, S. Korea | Wartsila | Mar-26 |  | $ 9.9m | German (Chemikalien Seetransport) | BWTS fitted |
-| MR1 | SEAWAYS CHANIA | 36,713 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Apr-26 |  | $ 9.9m |  |  |
+| MR1 | SEAWAYS CHANIA | 36,713 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Apr-26 |  | $ 9.9m | German (Chemikalien Seetransport) | BWTS fitted |
 | MR1 | SEAWAYS CANAVERAL | 37,582 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jul-26 |  | $ 9.85m | Turkish (Trans KA) |  |
 | J19 | FOREST PARK | 19,803 | 2013 | KITANIHON, Japan | Mitsubishi | Nov-23 |  | $ 16.5m | undisclosed |  |
-| SMALL | OCEAN COD | 13,499 | 2018 | ZHEJIANG SHENZHOU, China | Wartsila | Dec-23 |  |  |  |  |
+| SMALL | OCEAN COD | 13,499 | 2018 | ZHEJIANG SHENZHOU, China | Wartsila | Dec-23 |  | undisclosed | Chinese |  |
 | SMALL | OCEAN BASS | 13,498 | 2018 | ZHEJIANG SHENZHOU, China | Wartsila | Oct-23 |  | undisclosed | Chinese |  |
-| SMALL | OCEAN EEL | 13,498 | 2019 | ZHEJIANG SHENZHOU, China | Wartsila | Jan-24 |  |  |  |  |
+| SMALL | OCEAN EEL | 13,498 | 2019 | ZHEJIANG SHENZHOU, China | Wartsila | Jan-24 |  | undisclosed | Chinese |  |
 
 © Intermodal Research 19/04/2022 4
 
@@ -313,25 +313,22 @@ In the Handysize sector we had the sale of the “OCEAN FALCON” (37,152dwt-blt
 
 # Intermodal Newbuilding Market
 
-## Indicative Newbuilding Prices (million$)
-| Sector | Size | 15/04/2022 | 08/04/2022 | ±% | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| 205k | 66.0 | 66.0 | 0.0% | 59 | 51 | 54 |
-| Capesize | 180k | 62.5 | 62.5 | 0.0% | 56 | 49 |
-| Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 |
-| Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 |
-| Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 116.0 | 115.0 | 0.9% | 98 | 88 |
-| Suezmax | 160k | 78.0 | 77.0 | 1.3% | 66 | 58 |
-| Aframax | 115k | 60.5 | 60.0 | 0.8% | 53 | 48 |
-| MR | 50k | 41.5 | 41.0 | 1.2% | 38 | 35 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 223.0 | 222.0 | 0.5% | 195 | 187 | 186 |
-| LGC LPG 80k cbm | 85.5 | 85.0 | 0.6% | 76 | 73 | 73 |
-| MGC LPG 55k cbm | 73.0 | 72.5 | 0.7% | 67 | 63 | 65 |
-| SGC LPG 25k cbm | 50.5 | 50.0 | 1.0% | 45 | 42 | 44 |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 15/04/2022 | 08/04/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | 205k |  | 66.0 | 66.0 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 62.5 | 62.5 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 116.0 | 115.0 | 0.9% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 78.0 | 77.0 | 1.3% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 60.5 | 60.0 | 0.8% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 41.5 | 41.0 | 1.2% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 223.0 | 222.0 | 0.5% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 85.5 | 85.0 | 0.6% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 73.0 | 72.5 | 0.7% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 50.5 | 50.0 | 1.0% | 45 | 42 | 44 |
 
 LNG and Container contracts continue to keep activity in the newbuilding market healthy through the Easter holidays, with LNG units having the lion's share last week, followed by one neo-Panamax container deal while no sales for the most conventional type of units emerged. Starting with the LNG sector, Japanese owner MOL concluded a deal for the construction of four 175,000cbm units at Hudong Zhonghua in China. These four units represent the first firm newbuildings from Qatar Energy mammoth project, out of a total 151 LNG carrier reserved berths. An order of two dual fuelled 174,000cbm units also took place from the same owner MOL, at DSME yard. Owner will pay around \$213.0 million for each vessel, which were options that the company held from a last year order. Lastly, a deal was inked between Adnoc and Jiangnan Shipyard for two 175,000cbm units. On the Container front, it came to light that Daehan shipyard secured its first neo-panamax order consisting of four 7,200teu units from Greek owner Danaos. Each vessel will cost around \$94.0 million.
 

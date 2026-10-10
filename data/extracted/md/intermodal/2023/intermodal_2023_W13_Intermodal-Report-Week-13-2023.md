@@ -275,13 +275,13 @@ In the Supramax sector we had the sale of the "SUPER ODEGAARD" (55,628dwt-blt '1
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | NECTAR SEA | 105,370 | 2008 | SUMITOMO, Japan | MAN-B\&amp;W | Jun-23 | DH | $ 37.0m | undisclosed | scrubber fitted |
 | MR2 | WISBY PACIFIC | 49,686 | 2017 | GUANGZHOU, China | MAN-B\&amp;W | Dec-27 | DH | low/mid $ 43.0m | Middle Eastern | BWTS fitted, Eco, StSt |
-| MR2 | WISBY ATLANTIC | 49,614 | 2017 | GUANGZHOU, China | MAN-B\&amp;W | Dec-27 | DH | low/mid $ 43.0m |  |  |
+| MR2 | WISBY ATLANTIC | 49,614 | 2017 | GUANGZHOU, China | MAN-B\&amp;W | Dec-27 | DH | low/mid $ 43.0m | Middle Eastern | BWTS fitted, Eco, StSt |
 | MR2 | CELSIUS RANDERS | 46,046 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-25 | DH | $ 26.5-27.0m | Dubai based | BWTS fitted |
 | MR2 | ELANDRA BLU | 50,696 | 2008 | SPP, S. Korea | MAN-B\&amp;W | Jul-23 | DH | $ 24.0m | Norwegian (Viken) | BWTS fitted |
-| MR2 | ELANDRA CORALLO | 50,607 | 2008 | SPP, S. Korea | MAN-B\&amp;W | Jul-23 | DH | $ 24.0m |  |  |
+| MR2 | ELANDRA CORALLO | 50,607 | 2008 | SPP, S. Korea | MAN-B\&amp;W | Jul-23 | DH | $ 24.0m | Norwegian (Viken) | BWTS fitted |
 | MR2 | GRACE LUCRUM | 51,371 | 2006 | SHINA, S. Korea | MAN-B\&amp;W | Jun-26 | DH | $ 22.8m | undisclosed | BWTS fitted, Ice 1B |
-| MR1 | VOGE TRUST | 38,341 | 2009 | GUANGZHOU, China | MAN-B\&amp;W | Oct-24 | DH | rgn $ 38.0m | undisclosed | BWTS fitted, bss delivery June 2023 |
-| MR1 | VOGE DIGNITY | 38,334 | 2009 | GUANGZHOU, China | MAN-B\&amp;W | May-24 | DH |  |  |  |
+| MR1 | VOGE TRUST | 38,341 | 2009 | GUANGZHOU, China | MAN-B\&amp;W | Oct-24 | DH | rgn $ 38.0m (en bloc) | undisclosed | BWTS fitted, bss delivery June 2023 |
+| MR1 | VOGE DIGNITY | 38,334 | 2009 | GUANGZHOU, China | MAN-B\&amp;W | May-24 | DH | rgn $ 38.0m (en bloc) | undisclosed | BWTS fitted, bss delivery June 2023 |
 | MR1 | NORIENT SATURN | 40,435 | 2007 | CONSTANTA, Romania | MAN-B\&amp;W | Dec-27 | DH | $ 19.65m | Nigerian (Sea Transport) | BWTS fitted |
 | SMALL | ROSY | 20,610 | 2008 | QINGSHAN, China | MAN-B\&amp;W | Jun-23 | DH | high $ 12.0m | undisclosed | bss SS/DD &amp; BWTS due |
 | SMALL | MERSEY FISHER | 4,765 | 1998 | VICKERS, UK | Ruston | Aug-23 | DH | $ 3.10m | undisclosed |  |
@@ -321,24 +321,21 @@ In the Supramax sector we had the sale of the "SUPER ODEGAARD" (55,628dwt-blt '1
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 31-Mar-23 | 24-Mar-23 | ±% | 2022 | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 64.5 | 64.5 | 0.0% | 66 | 59 | 51 |
-| Capesize | **180k** | 61.5 | 61.5 | 0.0% | 63 | 56 | 49 |
-| Kamsarmax | **82k** | 35.0 | 35.0 | 0.0% | 36 | 33 | 28 |
-| Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 34 | 30 | 26 |
-| Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30 | 27 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 120.0 | 120.0 | 0.0% | 118 | 98 | 88 |
-| Suezmax | **160k** | 76.0 | 76.0 | 0.0% | 79 | 66 | 58 |
-| Aframax | **115k** | 66.0 | 66.0 | 0.0% | 62 | 53 | 48 |
-| MR | **50k** | 44.0 | 44.0 | 0.0% | 43 | 38 | 35 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 254.0 | 253.0 | 0.4% | 232 | 195 | 187 |  |
-| LGC LPG 80k cbm | 92.0 | 92.0 | 0.0% | 86 | 76 | 73 |  |
-| MGC LPG 55k cbm | 80.0 | 80.0 | 0.0% | 74 | 67 | 63 |  |
-| SGC LPG 25k cbm | 53.5 | 53.5 | 0.0% | 51 | 45 | 42 |  |
+| Sector | Vessel | Size | 31-Mar-23 | 24-Mar-23 | ±% | 2022 | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.5 | 64.5 | 0.0% | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 61.5 | 61.5 | 0.0% | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 76.0 | 76.0 | 0.0% | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 66.0 | 66.0 | 0.0% | 62 | 53 | 48 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 254.0 | 253.0 | 0.4% | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 80.0 | 80.0 | 0.0% | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 53.5 | 53.5 | 0.0% | 51 | 45 | 42 |
 
 The previous week was arguably the strongest one since the beginning of the year as a total of 43 vessels were ordered with Bulkers leading the way with 22 units being ordered followed by Tankers with a total of 16 units which however concern small tonnage vessels. On the Tanker front, Union Maritime ordered four firm and four optional 18,500dwt methanol-ready tankers while the Chinese SC Shipping ordered two 9,200 Stainless Steel vessels to be delivered in 2024. In the Bulker sector, Cosco Shipping made a mammoth order for 20 wood-pulp carriers in 3 different Chinese shipyards. Wisdom Marine ordered another two 40,000dwt bulkers for \$33.0 million and delivery in 2026. This order is the second from the owner for an identical pair in less than a month in a different yard. Interest in LNG units was firm as well, with a total of 5 vessels being ordered. Japanese K Line ordered two 174,000cbm LNG carriers at a price of \$258.5m each.
 
@@ -385,9 +382,9 @@ The previous week was arguably the strongest one since the beginning of the year
 | 4+4 | Tanker | 18,500 dwt | Fujian Mawei, China | 2025 | U.K based (Union Maritime) | excess $ 30.0m | Methanon ready |
 | 2 | Tanker | 9,200 dwt | Wuchang SB Group, China | 2024 | Chinese (SC Shipping) | undisclosed | StSt |
 | 6 | Tanker | 6,500 dwt | CMHI Jinling, China | 2025 | Singapore Based (Consort Bunkers) | undisclosed | methanol fueled |
-| 10 | Bulker | 85,000 dwt | Chengxi, China | 2025 |  | $ 50.0m |  |
+| 10 | Bulker | 85,000 dwt | Chengxi, China | 2025 | Chinese (COSCO Shipping) | $ 50.0m | wood-pulp carrier |
 | 5 | Bulker | 85,000 dwt | COSCO Dalian, China | 2025 | Chinese (COSCO Shipping) | $ 50.0m | wood-pulp carrier |
-| 5 | Bulker | 85,000 dwt | Shanhaiguan, China | 2025 |  | $ 50.0m |  |
+| 5 | Bulker | 85,000 dwt | Shanhaiguan, China | 2025 | Chinese (COSCO Shipping) | $ 50.0m | wood-pulp carrier |
 | 2 | Bulker | 40,000 dwt | Nihon, Japan | 2026 | Taiwanese (Wisdom Marine Group) | $ 33.0m | conventional fuel |
 | 1 | LNG | 175,000 cbm | Jiangnan, China | 2027 | Chinese (TPSH Leasing) | $ 235.0m | against T/C to Shandong Marine Energy |
 | 2 | LNG | 174,000 cbm | Samsung HI, S. Korea | 2026 | Japanese (K Line) | $ 258.5m |  |

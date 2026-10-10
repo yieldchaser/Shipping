@@ -291,27 +291,23 @@ In the Supramax sector we had the sale of the "ATLANTIC TULUM" (58,802dwt-blt '0
 ---
 
 # Intermodal Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 18/03/2022 | 11/03/2022 | ±% | 2021 | 2020 | 2019 |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 64.5 | 64.5 | 0.0% | 59 | 51 |
-| Capesize | 180k | 61.5 | 61.5 | 0.0% | 56 | 49 |
-| Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 |
-| Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 |
-| Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 115.0 | 115.0 | 0.0% | 98 | 88 |
-| Suezmax | 160k | 76.5 | 76.5 | 0.0% | 66 | 58 |
-| Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 |
-| MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 219.0 | 219.0 | 0.0% | 195 | 187 | 186 |
-| LGC LPG 80k cbm | 84.0 | 84.0 | 0.0% | 76 | 73 | 73 |
-| MGC LPG 55k cbm | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |
-| SGC LPG 25k cbm | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |
+| Sector | Vessel | Size | 18/03/2022 | 11/03/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.5 | 64.5 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 61.5 | 61.5 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 115.0 | 115.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 76.5 | 76.5 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 219.0 | 219.0 | 0.0% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 84.0 | 84.0 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |
 
 Last week, the newbuilding contracting activity saw a huge volume of Container units across all type of sizes. The exceptionally positive conditions in the boxship sector, continue to strengthen owners' interest after their historical profits during 2021. Demand outdo supply, while the recent restrictions in China due to the Covid-19 Omicron variant will add further pressure on global supply chains, with an obvious positive result for the Container freight earnings. At the same time, owners have adopted a more conservative approach for new dry bulk units despite the prevailing healthy freight market levels. Indeed, the last week's order of four 40,000dwt from Reederei H. Vogemann was the first one that appeared during March, following a very quiet February dry bulk contracting activity when only five Kamsarmax units were added to the overall order book. Lastly, owners continue to abstain completely from the tanker newbuilding realm amidst the strong supply/demand imbalance that prevails in the market.
 

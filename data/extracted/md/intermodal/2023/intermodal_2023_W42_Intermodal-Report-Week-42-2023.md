@@ -195,7 +195,7 @@ Supramax 10TC averaged \$ 14,090/day, up +2.02% w-o-w, while the Handysize 7TC a
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUB PMAX | WAN HAI 301 | 2,496 | 2001 | NAIKAI ZOSEN, Japan | B\&amp;W | Sep-26 | N | $7,5m each | Chinese | BWTS fitted |
-| SUB PMAX | WAN HAI 302 | 2,496 | 2002 | NAIKAI ZOSEN, Japan | B\&amp;W | Mar-27 | N |  |  | BWTS fitted |
+| SUB PMAX | WAN HAI 302 | 2,496 | 2002 | NAIKAI ZOSEN, Japan | B\&amp;W | Mar-27 | N | $7,5m each | Chinese | BWTS fitted |
 
 ---
 
@@ -204,21 +204,21 @@ Supramax 10TC averaged \$ 14,090/day, up +2.02% w-o-w, while the Handysize 7TC a
 The newbuilding market continues to be subdued with only a few orders this week. A total of 4 orders have been placed, representing 6 firm and 4 optional vessels. In the tanker sector, Belgian powerhouse Euronav placed an order for a 319,000 dwt tanker with Qingdao Behai in China. The vessel will be delivered in 2026. On the smaller tonnage side, UK-based James Fisher ordered two firm and two optional 6,000 dwt tankers from CMJL Yangzhou. The vessels will be dual-fuelled with LNG and will comply with IMO Type 2 standards for the handling of chemicals, costing \$28m each. In the bulk carrier sector, Turkish owner Densay Shipping ordered an Ultramax from SUMEC Dayang in China. The price is \$32.5m and delivery is scheduled for 2026. Finally, in the offshore sector, Diana Shipping formed a joint venture called Windward Offshore, consisting of Blue Star Group, SeaRenergy Offshore Holding and SeraVerse, with the intention of ordering and operating OSVs. The JV has ordered two firm and two optional OSVs from Vard Holding in Norway. Delivery is scheduled for 2025.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 20-Oct-23 | 13-Oct-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2022 | 2021 | 2020 |
+| Sector | Vessel | Size | 20-Oct-23 | 13-Oct-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 67.5 | 67.5 | 0.0% | 67.5 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
-|  | Capesize | 180k | 64.5 | 64.5 | 0.0% | 64.5 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
-|  | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
-|  | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
-|  | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
-| **Tankers** | VLCC | 300k | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
-|  | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
-|  | Aframax | 115k | 71.0 | 71.0 | 0.0% | 71.0 | 64.0 | 71.0 | 46.0 | 62 | 53 | 48 |
-|  | MR | 50k | 47.0 | 47.0 | 0.0% | 47.0 | 44.0 | 47.0 | 34.0 | 43 | 38 | 35 |
-| **Gas** | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
-|  | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
-|  | MGC LPG 55k cbm |  | 90.5 | 90.0 | 0.6% | 90.5 | 77.5 | 90.5 | 43.0 | 74 | 67 | 63 |
-|  | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
+| Bulkers | Newcastlemax | 205k | 67.5 | 67.5 | 0.0% | 67.5 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 64.5 | 64.5 | 0.0% | 64.5 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 71.0 | 71.0 | 0.0% | 71.0 | 64.0 | 71.0 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 47.0 | 47.0 | 0.0% | 47.0 | 44.0 | 47.0 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 90.5 | 90.0 | 0.6% | 90.5 | 77.5 | 90.5 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

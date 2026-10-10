@@ -282,16 +282,16 @@ In the Panamax sector we had the sale of the "SEA MELODY I" (75,957dwt-bl't '02,
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KMAX | DARYA KIRTHI | 80,545 | 2012 | STX, S. Korea | MAN-B\&amp;W |  |  | $ 24.5m | Greek |  |
-| KMAX | GOLDEN ENTERPRISE | 79,471 | 2011 | JINHAI , China | MAN-B\&amp;W | Sep-26 |  |  |  |  |
-| KMAX | GOLDEN EMPRESS | 79,471 | 2010 | JINHAI , China | MAN-B\&amp;W | Dec-25 |  | $ 52.0m | undisclosed |  |
-| KMAX | GOLDEN ENDEAVOUR | 79,454 | 2010 | JINHAI , China | MAN-B\&amp;W | Dec-25 |  |  |  |  |
+| KMAX | GOLDEN ENTERPRISE | 79,471 | 2011 | JINHAI , China | MAN-B\&amp;W | Sep-26 |  | $ 52.0m (en bloc) | undisclosed |  |
+| KMAX | GOLDEN EMPRESS | 79,471 | 2010 | JINHAI , China | MAN-B\&amp;W | Dec-25 |  | $ 52.0m (en bloc) | undisclosed |  |
+| KMAX | GOLDEN ENDEAVOUR | 79,454 | 2010 | JINHAI , China | MAN-B\&amp;W | Dec-25 |  | $ 52.0m (en bloc) | undisclosed |  |
 | PMAX | GOYA | 75,750 | 2008 | JIANGSU RONGSHENG, China | MAN-B\&amp;W | Aug-23 |  | high $ 15.0m | Chinese | ICE 1C |
 | PMAX | SEA MELODY I | 75,957 | 2002 | TSUNEISHI, Japan | B\&amp;W | Feb-26 |  | $ 13.4m | Far Eastern |  |
 | UMAX | DROGBA | 63,488 | 2015 | CHENGXI, China | MAN-B\&amp;W | Oct-25 | 4 X 30t CRANES | $ 28.7m | undisclosed |  |
 | SUPRA | NATHAN BRANDON | 56,489 | 2013 | HUATAI NANTONG, China | MAN-B\&amp;W | Aug-23 | 4 X 36t CRANES | $ 19.0m | undisclosed |  |
 | SUPRA | ANTERO | 56,892 | 2011 | JIANGSU HANTONG, China | MAN-B\&amp;W | Aug-26 | 4x35.0, 4x30.0 | $ 17.7m | Bangladeshi |  |
 | SUPRA | BAO GRAND | 58,015 | 2010 | YANGZHOU DAYANG, China | MAN-B\&amp;W | Jun-25 | 4 X 36t CRANES | undisclosed | undisclosed |  |
-| SUPRA | BAO PROSPER | 56,722 | 2010 | JIANGSU HANTONG, China | MAN-B\&amp;W | Aug-25 | 4 X 35t CRANES |  |  |  |
+| SUPRA | BAO PROSPER | 56,722 | 2010 | JIANGSU HANTONG, China | MAN-B\&amp;W | Aug-25 | 4 X 35t CRANES | undisclosed | undisclosed |  |
 | SUPRA | KARIMU | 57,255 | 2010 | STX, S. Korea | MAN-B\&amp;W | Dec-25 | 4 X 30t CRANES | rgn $ 19.0m | undisclosed | old sale, sold for conversion, delivery July 2022, BWTS fitted |
 | SUPRA | HAI LONG | 56,083 | 2007 | MITSUI, Japan | MAN-B\&amp;W | Jun-25 | 4 X 30t CRANES | around $ 16.0m | undisclosed |  |
 | SUPRA | JIN CHENG | 53,806 | 2004 | NEW TIMES, China | B\&amp;W | Jan-24 | 4 X 40t CRANES | $ 13.9m | undisclosed |  |
@@ -309,8 +309,8 @@ In the Panamax sector we had the sale of the "SEA MELODY I" (75,957dwt-bl't '02,
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | MY WAY | 314,020 | 2007 | NACKS, China | MAN-B\&amp;W | Mar-25 | DH | $ 37.0m | UAE based |  |
 | VLCC | LANDBRIDGE MAJESTY | 308,206 | 2017 | DALIAN, China | MAN-B\&amp;W | Jan-27 | DH | $ 71.0m | undisclosed | BWTS &amp; Scrubber fitted |
-| VLCC | NAUTILUS | 307,284 | 2006 | DALIAN, China | Wartsila | Dec-26 | DH |  |  |  |
-| VLCC | NAVARIN | 307,284 | 2007 | DALIAN, China | Wartsila | Apr-22 | DH | $ 63.5m | Korean (Sinokor) |  |
+| VLCC | NAUTILUS | 307,284 | 2006 | DALIAN, China | Wartsila | Dec-26 | DH | $ 63.5m (en bloc) | Korean (Sinokor) |  |
+| VLCC | NAVARIN | 307,284 | 2007 | DALIAN, China | Wartsila | Apr-22 | DH | $ 63.5m (en bloc) | Korean (Sinokor) |  |
 | VLCC | OLYMPIC LOYALTY II | 306,999 | 2005 | SAMSUNG, S. Korea | MAN-B\&amp;W | Mar-25 | DH | mid $ 30.0m | undisclosed |  |
 | LR1 | TECTUS | 74,862 | 2009 | STX, S. Korea | MAN-B\&amp;W | Jul-24 | DH | $ 14.85m | Greek (Centrofin) |  |
 | MR1 | ADEBOMI 3 | 36,962 | 2002 | BRODOGRADILISTE, Croatia | Sulzer | Aug-22 | DH | $ 6.2m | Greek | old sale |
@@ -328,24 +328,21 @@ In the Panamax sector we had the sale of the "SEA MELODY I" (75,957dwt-bl't '02,
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 04/03/2022 | 25/02/2022 | ±% | 2021 | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 64.0 | 64.0 | 0.0% | 59 | 51 | 54 |
-| **Capesize** | **180k** | 61.0 | 61.0 | 0.0% | 56 | 49 | 52 |
-| **Kamsarmax** | **82k** | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
-| **Ultramax** | **63k** | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
-| **Handysize** | **38k** | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 115.0 | 115.0 | 0.0% | 98 | 88 | 92 |
-| **Suezmax** | **160k** | 76.5 | 76.5 | 0.0% | 66 | 58 | 60 |
-| **Aframax** | **115k** | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
-| **MR** | **50k** | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | **218.0** | 218.0 | 0.0% | 195 | 187 | 186 |  |
-| **LGC LPG 80k cbm** | 81.5 | 81.5 | 0.0% | 76 | 73 | 73 |  |
-| **MGC LPG 55k cbm** | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |  |
-| **SGC LPG 25k cbm** | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |  |
+| Sector | Vessel | Size | 04/03/2022 | 25/02/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 61.0 | 61.0 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 115.0 | 115.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 76.5 | 76.5 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 218.0 | 218.0 | 0.0% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 81.5 | 81.5 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |
 
 The newbuilding market continues to be fuelled by the owners' insatiable hunger for Container units. Indeed, the recent contracting list consists of a total of 26 new boxships summing the sizeable number of 162,200teu. Among them, Singapore-based owner PIL has ordered four LNG fuelled and ammonia-ready 14,000teu units at Jiangnan Shipyard while South Korean owner Sinokor, concluded a deal for the construction of six 8,000teu, four 2,800teu and two 1,000 boxships at KSOE group. The rest orders refer to two 7,000teu vessels that were ordered by Thai owner RCL, six 6,000 boxships options that were declared by CMB and two 2,500teu units that were inked by StarOcean Marine. Additionally, LNG sector was also present last week, with Greek owner Dynagas concluding a deal for the construction of three 200,000cbm units at KSOE for a price at the region of \$235.0 million each, while ADNOC ordered two firm plus two optional 175,000cmb vessels at Jiangnan Shipyard for a price of around \$200.0 million each.
 
@@ -391,9 +388,9 @@ The newbuilding market continues to be fuelled by the owners' insatiable hunger 
 | 3 | LNG | 200,000 cbm | KSOE, S.Korea | 2025 | Greek (Dynagas) | $ 235.0m |  |
 | 2+2 | LNG | 175,000 cbm | Jiangnan Shipyard, China | 2025 | U.A.E based (Adnoc) | around $200.0m |  |
 | 4 | Container | 14,000 teu | Jiangnan Shipyard, China | 2024-2025 | Singapore based (PIL) | undisclosed | LNG fuelled, ammonia-ready |
-| 6 | Container | 8,000 teu | Hyundai Hi, South Korea | 2024 |  | $ 98.0m | conventionally fuelled |
+| 6 | Container | 8,000 teu | Hyundai Hi, South Korea | 2024 | South Korean (Sinokor) | $ 98.0m | conventionally fuelled |
 | 4 | Container | 2,800 teu | Hyundai Mipo, S. Korea | 2023 | South Korean (Sinokor) | $ 43.0m |  |
-| 2 | Container | 1,000 teu |  | 2023 |  | $ 25.0m |  |
+| 2 | Container | 1,000 teu | Hyundai Mipo, S. Korea | 2023 | South Korean (Sinokor) | $ 25.0m |  |
 | 2 | Container | 7,000 teu | SWS, China | 2024-2025 | Thai (RCL) | $ 85.0m |  |
 | 6 | Container | 6,000 teu | Qingdao Yangfan, China | 2025 | Belgian (CMB) | undisclosed | options declared |
 | 2 | Container | 2,500 teu | Zhoushan Changhong, China | 2024 | Chinese (StarOcean Marine) | $ 38.0m |  |

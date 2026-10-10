@@ -162,21 +162,21 @@ Supramax 10TC averaged \$ 7,151/day up +20.50% w-o-w, while the Handysize 7TC av
 
 The newbuilding activity was robust this week with 10 orders placed encompassing up to forty vessels, placed in Chinese and S. Korean yards. In the dry bulk sector, Taiwanese group U Ming Marine ordered up to four 181k dwt vessels, at Hengli Dalian, at a price of \$78m each with delivery expected in 2027. In the tanker segment, COSCO contracted three orders in its affiliate shipyards in Yangzhou and Dalian. COSCO Yangzhou received two orders: the first comprised two tankers of 114k dwt each, at a cost of \$90m per vessel and due for delivery in 2028; the second order is for two product tankers of 109.9k dwt capacity, priced at \$87m each also due in 2028. The order placed in COSCO Dalian is for two smaller product tankers, 74k dwt, at a construction cost of \$68.5m each and expected delivery in 2027. The containership sector saw the largest volume, with twenty three units ordered, all LNG dual fueled. The French group CMA CGM, agreed with the Chinese yard Jiangsan for the construction of a dozen of 18k teu boxships, at \$208m per unit with estimated delivery in 2028-2029. The Taiwanese operator Evergreen, ordered a total of eleven 24k teu vessels, split between the Korean Hanwha Ocean (six units) and the Chinese Guangzhou (five units). Deliveries are scheduled between 2027 -2028 and the cost ranges from \$265 million to \$295 million per vessel. for an LNG, hydrogen ready high-speed passenger/car catamaran, priced at \$174m, due for delivery in 2028.
 
-# Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 14-Feb-25 | 7-Feb-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2022 | Year3 |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 14-Feb-25 | 7-Feb-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 78.0 | 78.5 | -0.6% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | **180k** | 74.0 | 74.5 | -0.7% | 75.0 | 74.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | **82k** | 37.00 | 37.00 | 0.0% | 37.0 | 37.0 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-|  | Ultramax | **63k** | 34.5 | 34.5 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-|  | Handysize | **38k** | 30.5 | 30.5 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | **300k** | 126.5 | 127.0 | -0.4% | 129.0 | 126.5 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-|  | Suezmax | **160k** | 88.5 | 89.5 | -1.1% | 90.0 | 88.5 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-|  | Aframax | **115k** | 78.0 | 78.0 | 0.0% | 77.5 | 77.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-|  | MR | **50k** | 51.5 | 51.5 | 0.0% | 51.5 | 51.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** | LNG 174k cbm |  | 257.0 | 257.0 | 0.0% | 260.0 | 257.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-|  | MGC LPG 55k cbm |  | 87.5 | 87.5 | 0.0% | 90.5 | 87.5 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 61.0 | 61.5 | -0.8% | 62.0 | 61.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 78.0 | 78.5 | -0.6% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 74.0 | 74.5 | -0.7% | 75.0 | 74.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 37.00 | 37.00 | 0.0% | 37.0 | 37.0 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 126.5 | 127.0 | -0.4% | 129.0 | 126.5 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 88.5 | 89.5 | -1.1% | 90.0 | 88.5 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 78.0 | 78.0 | 0.0% | 77.5 | 77.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 51.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 257.0 | 257.0 | 0.0% | 260.0 | 257.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 87.5 | 87.5 | 0.0% | 90.5 | 87.5 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 61.0 | 61.5 | -0.8% | 62.0 | 61.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -232,5 +232,5 @@ Another week of limited activity for the Turkish ship recycling market with poor
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RUN FU 7 | 38,852 | 7,236 | 1990 | IHI, Japan | BC | $ 445.0m | Bangladeshi |
-| BEST UNITY | 69,034 | 9,816 | 1997 | IMABARI, Japan | BC | $ 443.0m | Bangladeshi |
+| RUN FU 7 | 38,852 | 7,236 | 1990 | IHI, Japan | BC | $ 445/Ldt | Bangladeshi |
+| BEST UNITY | 69,034 | 9,816 | 1997 | IMABARI, Japan | BC | $ 443/Ldt | Bangladeshi |

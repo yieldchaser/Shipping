@@ -280,9 +280,9 @@ In the Supramax sector we had the sale of the "NEW ABLE" (55,889dwt-bl't '14, Ja
 | SUEZ | SKS SKEENA | 158,933 | 2006 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Aug-26 |  | $ 23.5m | Greek | BWTS fitted |
 | AFRA | SILVER | 107,507 | 2010 | TSUNEISHI, Japan | MAN-B\&amp;W | Jul-25 |  | $ 24.3m | undisclosed |  |
 | MR2 | MAERSK TANGIER | 49,835 | 2016 | SUNGDONG, S. Korea | MAN-B\&amp;W | Feb-26 |  | $ 31.0m | undisclosed | BWTS fitted |
-| MR2 | ARDMORE SEALIFTER | 47,472 | 2008 | ONOMICHI, Japan | MAN-B\&amp;W | Jul-23 |  |  |  |  |
-| MR2 | ARDMORE SEALEADER | 47,463 | 2008 | ONOMICHI, Japan | MAN-B\&amp;W | Aug-23 |  | $ 40.0m | German (Leonardt &amp; Blumberg) | incl T/C back for 2 years at rgn US$ 13,000 /day |
-| MR2 | ARDMORE SEALANCER | 47,451 | 2008 | ONOMICHI, Japan | MAN-B\&amp;W | Jun-23 |  |  |  |  |
+| MR2 | ARDMORE SEALIFTER | 47,472 | 2008 | ONOMICHI, Japan | MAN-B\&amp;W | Jul-23 |  | $ 40.0m (en bloc) | German (Leonardt &amp; Blumberg) | incl T/C back for 2 years at rgn US$ 13,000 /day |
+| MR2 | ARDMORE SEALEADER | 47,463 | 2008 | ONOMICHI, Japan | MAN-B\&amp;W | Aug-23 |  | $ 40.0m (en bloc) | German (Leonardt &amp; Blumberg) | incl T/C back for 2 years at rgn US$ 13,000 /day |
+| MR2 | ARDMORE SEALANCER | 47,451 | 2008 | ONOMICHI, Japan | MAN-B\&amp;W | Jun-23 |  | $ 40.0m (en bloc) | German (Leonardt &amp; Blumberg) | incl T/C back for 2 years at rgn US$ 13,000 /day |
 | MR2 | PRO EMERALD | 46,101 | 2003 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Jan-23 |  | high $ 6.0m | Far Eastern |  |
 | MR2 | SUNLIGHT EXPRESS | 45,931 | 2011 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Sep-25 |  | $ 17.0m | undisclosed |  |
 | SMALL | PHUONG DONG STAR | 9,045 | 2007 | YANGZHOU KEJIN, China | Daihatsu |  |  | $ 3.1m | Middle Eastern |  |
@@ -294,24 +294,21 @@ In the Supramax sector we had the sale of the "NEW ABLE" (55,889dwt-bl't '14, Ja
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 08/04/2022 | 01/04/2022 | ±% | 2021 | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 66.0 | 65.0 | **1.5%** | 59 | 51 | 54 |
-| Capesize | **180k** | 62.5 | 62.0 | **0.8%** | 56 | 49 | 52 |
-| Kamsarmax | **82k** | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
-| Ultramax | **63k** | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
-| Handysize | **38k** | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 115.0 | 115.0 | 0.0% | 98 | 88 | 92 |
-| Suezmax | **160k** | 77.0 | 76.5 | **0.7%** | 66 | 58 | 60 |
-| Aframax | **115k** | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
-| MR | **50k** | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 222.0 | 221.0 | **0.5%** | 195 | 187 | 186 |  |
-| LGC LPG 80k cbm | 85.0 | 85.0 | 0.0% | 76 | 73 | 73 |  |
-| MGC LPG 55k cbm | 72.5 | 72.5 | 0.0% | 67 | 63 | 65 |  |
-| SGC LPG 25k cbm | 50.0 | 50.0 | 0.0% | 45 | 42 | 44 |  |
+| Sector | Vessel | Size | 08/04/2022 | 01/04/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 66.0 | 65.0 | 1.5% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 62.5 | 62.0 | 0.8% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 115.0 | 115.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 77.0 | 76.5 | 0.7% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 222.0 | 221.0 | 0.5% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 85.0 | 85.0 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 72.5 | 72.5 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 50.0 | 50.0 | 0.0% | 45 | 42 | 44 |
 
 Reported activity on the newbuilding front remains firm for yet another week, with containers once again being the most popular sector, while after almost two months of inactivity, a fresh tanker contract emerged last week. Starting with the boxship sector, Celsius Shipping declared an option for another pair of methanol fuelled 3,000teu boxhips at Penglai Jinglu while Hong Kong based owner Cido Shipping inked a deal with Hyundai Samho for four 7,900teu units for a price of \$121.5 million each. On the LNG front, the same owner Celsius Shipping, ordered one firm plus one optional 174,000cbm unit at Samsung for a price of \$217.5 million. Lastly, Asiatic Lloyd exercised an option at Hyundai Vietnam for two 50,000dwt product tankers at a price of \$38.9 million each. It is worth noting, that we have seen an increased number of owners opting for methanol as an alternative fuel during 2022 (albeit not comparable with LNG); it remains to be seen if the focus turns to zero-carbon alternatives in the future with LNG now attracting most of the interest (around 30% of the existing orderbook).
 

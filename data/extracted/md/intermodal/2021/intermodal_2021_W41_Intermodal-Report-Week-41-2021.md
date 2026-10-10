@@ -253,9 +253,9 @@ In the Panamax sector we had the sale of the "ORIENT VIOLET" (77,111dwt-blt '15,
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | SCF URAL | 159,314 | 2002 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jul-22 | DH | $ 16.0m | Middle Eastern |  |
 | LR2 | NAVIG8 PROVIDENCE | 109,997 | 2018 | NEW TIMES, China | MAN-B\&amp;W | Aug-23 | DH | $ 48.0m | U.S. based (J.P. Morgan) | against 5 yrs BB |
-| LR2 | NAVIG8 PRIDE | 109,991 | 2018 | NEW TIMES, China | MAN-B\&amp;W | Aug-23 | DH | $ 48.0m |  |  |
+| LR2 | NAVIG8 PRIDE | 109,991 | 2018 | NEW TIMES, China | MAN-B\&amp;W | Aug-23 | DH | $ 48.0m | U.S. based (J.P. Morgan) | against 5 yrs BB |
 | MR2 | ECO LOS ANGELES | 50,185 | 2020 | HYUNDAI, S. Korea | MAN-B\&amp;W | Feb-25 | DH | $ 36.5m | Danish (Norden) | Scrubber fitted, delivery February 2022, with TC attached to Trafigura for 2 yrs at Us 17,500 p/d |
-| MR2 | ECO CITY OF ANGELS | 49,815 | 2020 | HYUNDAI, S. Korea | MAN-B\&amp;W | Feb-25 | DH | $ 36.5m |  |  |
+| MR2 | ECO CITY OF ANGELS | 49,815 | 2020 | HYUNDAI, S. Korea | MAN-B\&amp;W | Feb-25 | DH | $ 36.5m | Danish (Norden) | Scrubber fitted, delivery February 2022, with TC attached to Trafigura for 2 yrs at Us 17,500 p/d |
 | J19 | SHAMROCK JUPITER | 19,837 | 2009 | FUKUOKA, Japan | MAN-B\&amp;W | Dec-21 | DH | undisclosed | Vietnamese (Petro Vietnam) | st-st |
 
 ## Bulk Carriers
@@ -269,8 +269,8 @@ In the Panamax sector we had the sale of the "ORIENT VIOLET" (77,111dwt-blt '15,
 | SMAX | ATLANTIC YUCATAN | 55,863 | 2006 | KAWASAKI, Japan | MAN-B\&amp;W | Mar-23 | 4 X 30,5t CRANES | mid $ 17.0m | undisclosed |  |
 | HANDY | GLOBAL PASSION | 33,686 | 2011 | SHIN KOCHI, Japan | Mitsubishi | Jan-26 | 4 X 30t CRANES | $ 17.5m | undisclosed | BWTS fitted, delivery November 2021 - January 2022 |
 | HANDY | QUEEN ASIA | 28,425 | 2011 | I-S SHIPYARD, Japan | MAN-B\&amp;W | Mar-26 | 4 X 30,7t CRANES | rgn $ 15.0m | undisclosed | BWTS fitted |
-| HANDY | FEDERAL DANUBE | 37,116 | 2004 | NEW TIMES, China | B\&amp;W | Apr-24 | 4 X 40t CRANES | $ 23.0m | undisclosed | delivery January 2022 |
-| HANDY | FEDERAL ELBE | 37,058 | 2003 | NEW TIMES, China | B\&amp;W | Sep-23 | 4 X 40t CRANES |  |  | delivery January 2022 |
+| HANDY | FEDERAL DANUBE | 37,116 | 2004 | NEW TIMES, China | B\&amp;W | Apr-24 | 4 X 40t CRANES | $ 23.0m (en bloc) | undisclosed | delivery January 2022 |
+| HANDY | FEDERAL ELBE | 37,058 | 2003 | NEW TIMES, China | B\&amp;W | Sep-23 | 4 X 40t CRANES | $ 23.0m (en bloc) | undisclosed | delivery January 2022 |
 
 © Intermodal Research 19/10/2021 4
 
@@ -294,7 +294,7 @@ In the Panamax sector we had the sale of the "ORIENT VIOLET" (77,111dwt-blt '15,
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | GASLOG SALEM | 82,023 | 2015 | SAMSUNG, S. Korea | Wartsila | Apr-25 | 151,900 | $ 128.0m | Chinese (CDBL) | against 5 yrs BB without purchase obligation |
-| LNG | GASLOG SHANGHAI | 82,104 | 2013 | SAMSUNG, S. Korea | Wartsila | Jan-23 | 151,900 | $ 120.0m |  |  |
+| LNG | GASLOG SHANGHAI | 82,104 | 2013 | SAMSUNG, S. Korea | Wartsila | Jan-23 | 151,900 | $ 120.0m | Chinese (CDBL) | against 5 yrs BB without purchase obligation |
 | LPG | IRIS GLORY | 54,707 | 2008 | DAEWOO, S. Korea | MAN-B\&amp;W | Mar-23 | 83,782 | $ 41.5m | Japanese | incl. 9 years BBB |
 
 © Intermodal Research 19/10/2021 5

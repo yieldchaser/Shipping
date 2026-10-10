@@ -254,10 +254,10 @@ In the Kamsarmax sector we had the sale of the "BW RYE" (81,783dwt-bl't '19, Chi
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | SARA | 323,183 | 2011 | STX, S. Korea | MAN-B\&amp;W | May-26 | DH |  |  |  |
+| VLCC | SARA | 323,183 | 2011 | STX, S. Korea | MAN-B\&amp;W | May-26 | DH | undisclosed | S. Korean (Sinokor) |  |
 | VLCC | SIMONE | 323,182 | 2012 | STX, S. Korea | MAN-B\&amp;W | Jun-22 | DH | undisclosed | S. Korean (Sinokor) |  |
-| VLCC | SANDRA | 314,000 | 2011 | STX, S. Korea | MAN-B\&amp;W | Aug-26 | DH |  |  |  |
-| VLCC | SONIA | 314,000 | 2012 | STX, S. Korea | MAN-B\&amp;W | Jul-22 | DH |  |  |  |
+| VLCC | SANDRA | 314,000 | 2011 | STX, S. Korea | MAN-B\&amp;W | Aug-26 | DH | undisclosed | S. Korean (Sinokor) |  |
+| VLCC | SONIA | 314,000 | 2012 | STX, S. Korea | MAN-B\&amp;W | Jul-22 | DH | undisclosed | S. Korean (Sinokor) |  |
 | VLCC | ENEOS TOKYO | 300,976 | 2004 | IHI, Japan | Sulzer | Jul-24 | DH | rgn $ 31.0m | Chinese | BWTS due 2024 |
 | SUEZ | DENSA ORCA | 158,322 | 2012 | HYUNDAI GUNSAN, S. Korea | MAN-B\&amp;W | Apr-22 | DH | $ 33.0m | Greek (Delta Tankers) |  |
 | LR2 | SRI ASIH | 109,637 | 2005 | DALIAN, China | Sulzer | Jun-25 | DH | $ 14.6m | undisclosed |  |
@@ -282,7 +282,7 @@ In the Kamsarmax sector we had the sale of the "BW RYE" (81,783dwt-bl't '19, Chi
 | KMAX | BW RYE | 81,783 | 2019 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Jan-24 |  | $ 37.5m | Greek (Neda) |  |
 | KMAX | AGRI GRANDE | 81,966 | 2017 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Jan-27 |  | rgn $ 30.0m | Chinese | Tier II |
 | KMAX | EVERGLORY | 81,666 | 2012 | QINGDAO BEIHAI, China | Wartsila | Aug-22 |  | rgn $ 19.5m each | undisclosed |  |
-| KMAX | RENAISSANCE | 81,666 | 2012 | QINGDAO BEIHAI, China | Wartsila | Dec-22 |  |  |  |  |
+| KMAX | RENAISSANCE | 81,666 | 2012 | QINGDAO BEIHAI, China | Wartsila | Dec-22 |  | rgn $ 19.5m each | undisclosed |  |
 | KMAX | MBA LIBERTY | 82,217 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Jan-25 |  | $ 22.0m | undisclosed | BWTS fitted, incl. TC |
 | PMAX | CORAL RUBY | 76,596 | 2008 | IMABARI, Japan | MAN-B\&amp;W | Jun-23 |  | $ 18.6m | Greek |  |
 | PMAX | AQUAKNIGHT | 75,395 | 2007 | UNIVERSAL, Japan | MAN-B\&amp;W | Jun-22 |  | rgn $ 17.0m | undisclosed | incl. BWTS cost |
@@ -304,11 +304,11 @@ In the Kamsarmax sector we had the sale of the "BW RYE" (81,783dwt-bl't '19, Chi
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | SEALAND ILLINOIS | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Feb-25 |  | $ 61.0m |  |  |
+| POST PMAX | SEALAND ILLINOIS | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Feb-25 |  | $ 61.0m | undisclosed | incl. low TC until end 2022/ear 2023 |
 | POST PMAX | SEALAND MICHIGAN | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Oct-25 |  | $ 61.0m | undisclosed | incl. low TC until end 2022/ear 2023 |
-| POST PMAX | YORK | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B\&amp;W | May-25 |  | $ 61.0m |  |  |
+| POST PMAX | YORK | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B\&amp;W | May-25 |  | $ 61.0m | undisclosed | incl. low TC until end 2022/ear 2023 |
 | POST PMAX | SEALAND WASHINGTON | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Aug-25 |  | $ 72.3m | undisclosed | incl. low TC until end 2022/ear 2023 |
-| POST PMAX | MAERSK KALAMATA | 6,644 | 2003 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Jun-23 |  | $ 77.7m |  |  |
+| POST PMAX | MAERSK KALAMATA | 6,644 | 2003 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Jun-23 |  | $ 77.7m | undisclosed | incl. low TC until end 2022/ear 2023 |
 | POST PMAX | ALLEGORIA | 5,527 | 2006 | CSBC, China | Sulzer | Apr-26 |  | $ 109.5m | Taiwanese (Wan Hai Lines) | Delivery Q4-2022 |
 | PMAX | MP THE MCGINEST | 4,400 | 2010 | HYUNDAI SAMHO, S. Korea | Wartsila | Mar-25 |  | $ 40.0m | German | incl index linked TC until Jan '23 - Jan '25 |
 | FEEDER | DONGJIN AUBE | 1,060 | 2005 | HAKATA, Japan | B\&amp;W | Aug-25 |  | undisclosed | Swiss (MSC) | scrubber fitted |
@@ -324,27 +324,23 @@ In the Kamsarmax sector we had the sale of the "BW RYE" (81,783dwt-bl't '19, Chi
 ---
 
 # Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 11/03/2022 | 04/03/2022 | ±% | 2021 | 2020 | 2019 |  |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 64.5 | 64.0 | 0.8% | 59 | 51 | 54 |
-| **Capesize** | **180k** | 61.5 | 61.0 | 0.8% | 56 | 49 | 52 |
-| **Kamsarmax** | **82k** | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
-| **Ultramax** | **63k** | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
-| **Handysize** | **38k** | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 115.0 | 115.0 | 0.0% | 98 | 88 | 92 |
-| **Suezmax** | **160k** | 76.5 | 76.5 | 0.0% | 66 | 58 | 60 |
-| **Aframax** | **115k** | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
-| **MR** | **50k** | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 219.0 | 218.0 | 0.5% | 195 | 187 | 186 |  |
-| **LGC LPG 80k cbm** | 84.0 | 81.5 | 3.1% | 76 | 73 | 73 |  |
-| **MGC LPG 55k cbm** | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |  |
-| **SGC LPG 25k cbm** | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |  |
+| Sector | Vessel | Size | 11/03/2022 | 04/03/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.5 | 64.0 | 0.8% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 61.5 | 61.0 | 0.8% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 115.0 | 115.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 76.5 | 76.5 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 219.0 | 218.0 | 0.5% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 84.0 | 81.5 | 3.1% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |
 
 The newbuilding front was monopolized by container deals for another week with neo panamax sizes having the lion's share followed by four 2,800teu feeder boxships. More specifically, French owner CMA CGM ordered four 7,700teu units at Samsung for a price of \$123,3 million each. At the same time, DSIC Shipyard achieved two deals for the construction of two methanol-ready 7,100teu boxships from Asiatic Lloyd, and another two firm 7,100teu units plus two optional from Greek owner Danaos. In addition, Greek owner Capital inked a deal with Hyundai Mipo for the construction of four 2,800teu units at a price of \$45.5 million each. The more conventional sectors remain vanished from the newbuilding realm, with no tanker or dry bulk contracts materializing. Lastly, one 22,000cbm LPG vessel was ordered by Japanese owner Kyoei Tanker at Hyundai Mipo while one 9,400dwt stainless steel tanker was concluded by Chinese owner Wuzhou Tongzhou at Taizhou Wuzhou yard.
 

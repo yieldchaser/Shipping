@@ -293,15 +293,15 @@ In the Kamsarmax sector we had the sale of the "MAGNOLIA" (82,165dwt-blt '11, Ja
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | S SANTIAGO | 5,050 | 2006 | HANJIN HI, S. Korea | MAN-B\&amp;W | Aug-21 |  | $ 58.0m | Singapore based (OM Maritime) | basis a forward delivery in March 2022 |
-| PMAX | WASHINGTON EXPRESS | 3,237 | 2003 | CSBC CORP, Taiwan | B\&amp;W | Jan-23 | 4 X 45t CRANES |  |  |  |
-| PMAX | PHILADELPHIA EXPRESS | 3,237 | 2003 | CSBC CORP, Taiwan | B\&amp;W | Feb-23 | 4 X 45t CRANES |  |  |  |
+| PMAX | WASHINGTON EXPRESS | 3,237 | 2003 | CSBC CORP, Taiwan | B\&amp;W | Jan-23 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
+| PMAX | PHILADELPHIA EXPRESS | 3,237 | 2003 | CSBC CORP, Taiwan | B\&amp;W | Feb-23 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
 | PMAX | CHARLESTON EXPRESS | 3,237 | 2002 | CSBC CORP, Taiwan | B\&amp;W | Jun-22 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
-| PMAX | YORKTOWN EXPRESS | 3,237 | 2002 | CSBC CORP, Taiwan | MAN-B\&amp;W | Oct-22 | 4 X 45t CRANES |  |  |  |
-| PMAX | ST LOUIS EXPRESS | 3,237 | 2002 | CSBC CORP, Taiwan | B\&amp;W | Jul-22 | 4 X 45t CRANES |  |  |  |
-| FEEDER | BANAK | 2,546 | 2014 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Mar-24 | 3 X 45t CRANES |  |  | delivery prompt |
-| FEEDER | BALSA | 2,550 | 2013 | JIANGSU NEWYANGZI, China | Wartsila | Sep-23 | 3 X 45t CRANES | $ 120.0m | undisclosed | inlc. T/C till 2022 |
-| FEEDER | BALAO | 2,550 | 2013 | JIANGSU NEWYANGZI, China | Wartsila | Apr-23 | 3 X 45t CRANES |  |  | inlc. T/C till 2022 |
-| FEEDER | BALLENITA | 2,550 | 2013 | JIANGSU NEWYANGZI, China | Wartsila | Jul-23 | 3 X 45t CRANES |  |  | inlc. T/C till 2022 |
+| PMAX | YORKTOWN EXPRESS | 3,237 | 2002 | CSBC CORP, Taiwan | MAN-B\&amp;W | Oct-22 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
+| PMAX | ST LOUIS EXPRESS | 3,237 | 2002 | CSBC CORP, Taiwan | B\&amp;W | Jul-22 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
+| FEEDER | BANAK | 2,546 | 2014 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Mar-24 | 3 X 45t CRANES | $ 120.0m (en bloc) | undisclosed | delivery prompt |
+| FEEDER | BALSA | 2,550 | 2013 | JIANGSU NEWYANGZI, China | Wartsila | Sep-23 | 3 X 45t CRANES | $ 120.0m (en bloc) | undisclosed | inlc. T/C till 2022 |
+| FEEDER | BALAO | 2,550 | 2013 | JIANGSU NEWYANGZI, China | Wartsila | Apr-23 | 3 X 45t CRANES | $ 120.0m (en bloc) | undisclosed | inlc. T/C till 2022 |
+| FEEDER | BALLENITA | 2,550 | 2013 | JIANGSU NEWYANGZI, China | Wartsila | Jul-23 | 3 X 45t CRANES | $ 120.0m (en bloc) | undisclosed | inlc. T/C till 2022 |
 | FEEDER | SINAR BIMA | 1,118 | 2008 | TAIZHOU KOUAN, China | MAN | Jan-23 | 2 X 45t CRANES | $ 12.5m | undisclosed |  |
 
 © Intermodal Research 20/07/2021 5
@@ -309,27 +309,23 @@ In the Kamsarmax sector we had the sale of the "MAGNOLIA" (82,165dwt-blt '11, Ja
 ---
 
 # Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 16/07/2021 | 09/07/2021 | ±% | 2020 | 2019 | 2018 |  |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 62.5 | 62.5 | 0.0% | 51 | 54 | 51 |
-| Capesize | **180k** | 58.5 | 58.5 | 0.0% | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 34.0 | 33.5 | **1.5%** | 28 | 30 | 29 |
-| Ultramax | **63k** | 32.0 | 31.5 | **1.6%** | 26 | 28 | 27 |
-| Handysize | **38k** | 27.0 | 26.5 | **1.9%** | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 100.5 | 99.5 | **1.0%** | 88 | 92 | 88 |
-| Suezmax | **160k** | 68.0 | 67.0 | **1.5%** | 58 | 60 | 58 |
-| Aframax | **115k** | 54.0 | 53.0 | **1.9%** | 48 | 49 | 47 |
-| MR | 50k | 37.5 | 37.0 | **1.4%** | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 193.0 | 192.0 | **0.5%** | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 76.5 | 75.5 | **1.3%** | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 68.5 | 67.5 | **1.5%** | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 46.0 | 45.0 | **2.2%** | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 16/07/2021 | 09/07/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 62.5 | 62.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 58.5 | 58.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.0 | 33.5 | 1.5% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 32.0 | 31.5 | 1.6% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 27.0 | 26.5 | 1.9% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 100.5 | 99.5 | 1.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 68.0 | 67.0 | 1.5% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 54.0 | 53.0 | 1.9% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 37.5 | 37.0 | 1.4% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 193.0 | 192.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 76.5 | 75.5 | 1.3% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 68.5 | 67.5 | 1.5% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 46.0 | 45.0 | 2.2% | 42 | 44 | 43 |
 
 Appetite for new orders resumed on the newbuilding front, with another generous round of freshly-inked deals surfacing in the past days across the non-conventional sectors, while a good number of dry bulk orders was also present with Japanese owners being behind these contracts exclusively. Having said that, Japanese owners NYK Line, K Line, and MOL ordered one LNG fuelled 210,000dwt Newcastlemax each at Nihon shipyard against a long-term T/C to JFE Steel, while Japanese owner Orix ordered two 66,000dwt Ultramax units at Tsuneishi Zhoushan for an undisclosed price. At the same time, crude carrier units were for another week absent with only one order of two MR2 units surfacing last week; Greek owner Steelships inked a deal for two LNG fuelled/scrubber fitted 50,000dwt units at SXT Offshore. On the non-conventional sectors, a total of six LNG units were ordered by Pan Ocean, J.P Morgan, and Knutsen on the back of T/C to Shell. The units from the first two owners will be built at Hyundai Hi with the rest two units being destined to Hyundai Samho. Lastly, Cosco Yangzhou secured an order for four 16,180teu and six 14,092teu units from Cosco at \$155.0m and \$146.0m each respectively.
 
@@ -372,17 +368,17 @@ Appetite for new orders resumed on the newbuilding front, with another generous 
 ### Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Bulker | 210,000 dwt |  | 2024 | Japanese (NYK Line) | undisclosed |  |
+| 1 | Bulker | 210,000 dwt | Nihon, Japan | 2024 | Japanese (NYK Line) | undisclosed | against long-term T/C to JFE Steel, LNG fuelled, Tier III |
 | 1 | Bulker | 210,000 dwt | Nihon, Japan | 2024 | Japanese (K Line) | undisclosed | against long-term T/C to JFE Steel, LNG fuelled, Tier III |
-| 1 | Bulker | 210,000 dwt |  | 2025 | Japanese (MOL) | undisclosed |  |
+| 1 | Bulker | 210,000 dwt | Nihon, Japan | 2025 | Japanese (MOL) | undisclosed | against long-term T/C to JFE Steel, LNG fuelled, Tier III |
 | 2 | Bulker | 66,000 dwt | Tsuneishi Zhoushan, China | 2023 | Japanese (Orix) | undisclosed | Tier III |
 | 2 | Tanker | 50,000 dwt | STX Offshore, S. Korea | 2022 | Greek (Steelships) | $ 37.0m | LNG fuelled, scrubber fitted |
-| 2 | LNG | 174,000 cbm | Hyundai Hi, South Korea | 2024 | South Korean (Pan Ocean) | undisclosed |  |
+| 2 | LNG | 174,000 cbm | Hyundai Hi, South Korea | 2024 | South Korean (Pan Ocean) | undisclosed | against T/C to Shell, options declared |
 | 2 | LNG | 174,000 cbm | Hyundai Hi, South Korea | 2024 | US based (JP. Morgan) | undisclosed | against T/C to Shell, options declared |
-| 2 | LNG | 174,000 cbm | Hyundai Samho, S. Korea | 2025 | Norwegian (Knutsen) | undisclosed |  |
+| 2 | LNG | 174,000 cbm | Hyundai Samho, S. Korea | 2025 | Norwegian (Knutsen) | undisclosed | against T/C to Shell, options declared |
 | 2 | VLGC | 86,000 cbm | Hyundai Samho, S. Korea | 2023 | Japanese (Nissen Kaiun) | $ 82.5m | dual fuelled, against 10-yrs T/C |
 | 4 | Container | 16,180 teu | COSCO Yangzhou, China | 2025 | Chinese (Cosco) | $ 155.0m | scrubber fitted, conventially fuelled |
-| 6 | Container | 14,092 teu |  | 2023-2024 |  | $ 146.0m |  |
+| 6 | Container | 14,092 teu | COSCO Yangzhou, China | 2023-2024 | Chinese (Cosco) | $ 146.0m | scrubber fitted, conventially fuelled |
 | 4 | Container | 7,000 teu | Shanghai Waigaoqiao, China | 2023-2024 | Singaporean (Sea Consortium) | $ 73.0m | options declared, conventioanlly fuelled |
 
 © Intermodal Research 20/07/2021 6

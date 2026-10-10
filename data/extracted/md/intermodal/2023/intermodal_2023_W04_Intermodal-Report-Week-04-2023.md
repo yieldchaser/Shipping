@@ -287,24 +287,21 @@ In the Supramax sector we had the sale of the "BONITA" (58,105dwt-blt '10, China
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 27-Jan-23 | 20-Jan-23 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 64.0 | 64.0 | 0.0% | 51 | 54 | 51 |
-| **Capesize** | **180k** | 61.0 | 61.0 | 0.0% | 49 | 52 | 49 |
-| **Kamsarmax** | **82k** | 34.0 | 34.0 | 0.0% | 28 | 30 | 29 |
-| **Ultramax** | **63k** | 31.5 | 31.5 | 0.0% | 26 | 28 | 27 |
-| **Handysize** | **38k** | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| **Suezmax** | **160k** | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| **Aframax** | **115k** | 64.5 | 64.5 | 0.0% | 48 | 49 | 47 |
-| **MR** | **50k** | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |  |
-| **LGC LPG 80k cbm** | 90.5 | 90.5 | 0.0% | 73 | 73 | 71 |  |
-| **MGC LPG 55k cbm** | 77.5 | 77.5 | 0.0% | 63 | 65 | 63 |  |
-| **SGC LPG 25k cbm** | 53.0 | 53.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 27-Jan-23 | 20-Jan-23 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 61.0 | 61.0 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.0 | 34.0 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 31.5 | 31.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.5 | 64.5 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 90.5 | 90.5 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 77.5 | 77.5 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 53.0 | 53.0 | 0.0% | 42 | 44 | 43 |
 
 The previous week was a silent one in the newbuilding sector with not many deals taking place. After a strong beginning in 2023, bulkers have experienced the first week without order, while the PCTC sector continues to show strength with 9 vessels ordered in total. Indeed, we see a strong PCTC order-book as percentage of the fleet at 20.11%, above the 5-year-average (4.4%) and the highest since 2011 (21.63%) while the newbuilding contracts in 2021 and 2022 were 39 and 69 respectively against only 2, 8 and 2 for the rest of three years in due order. This tight tonnage supply might justify the record earnings in all sizes. In the tanker sector, Enterprise Shipping and Trading ordered one firm plus one optional 158,000 dwt Tanker for \$77m each, while Jaldhi Overseas ordered one 50,000 dwt Tanker at the Yamic Yard. On the PCTC front, Chinese carmaker BYD ordered two 7,000 ceu car carriers while H-Line Shipping ordered two 8,600 ceu against long term charter contracts with Hyundai Glovis. Last, the Japanese NYK Lines ordered one 86,700 cbm LPG/LAG carrier which is also LPG fueled and ammonia ready while it complies with EEDI phase 3 and Tier III.
 

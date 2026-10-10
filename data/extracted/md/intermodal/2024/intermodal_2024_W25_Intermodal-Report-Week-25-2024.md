@@ -204,7 +204,7 @@ Supramax 10TC averaged \$ 15,114/day up +2.13% w-o-w, while the Handysize 7TC av
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | COURAGEOUS | 181,008 | 2016 | SWS, China | MAN-B\&W | Nov-26 |  | $ 50.7m | Greek | Eco |
 | KMAX | KAMILLA OLDENDORFF | 82,245 | 2024 | JIANGSU NEW HANTONG, China | MAN-B\&W | Jan-29 |  | $ 40.0m each | undisclosed | Eco, Scrubber fitted |
-| KMAX | KLARISSA OLDENDORFF | 82,223 | 2023 | JIANGSU NEW HANTONG, China | MAN-B\&W | Oct-28 |  |  | undisclosed |  |
+| KMAX | KLARISSA OLDENDORFF | 82,223 | 2023 | JIANGSU NEW HANTONG, China | MAN-B\&W | Oct-28 |  | $ 40.0m each | undisclosed | Eco, Scrubber fitted |
 | KMAX | LIVIA ROSE | 81,828 | 2018 | TSUNEISHI ZHOUSHAN, China | MAN-B\&W | Jan-28 |  | excess $ 36.0m | Korean (HMM) | Eco |
 | KMAX | BBG QINZHOU | 81,608 | 2019 | TIANJIN XINGANG, China | MAN-B\&W | Nov-24 |  | $ 30,06m | Chinese | via auction |
 | KMAX | SEA OPAL | 79,342 | 2010 | JIANGSU EASTERN, China | MAN-B\&W | Aug-25 |  | region high $ 14.0m | undisclosed |  |
@@ -221,20 +221,20 @@ A total of 27 vessels were added to the orderbook last week, with new orders com
 In the bulk sector, Alassia Newships Management ordered a 40k dwt vessel from Yangzhou Nakanishi in Japan. In containers, Navios ordered 2 firm and 2 optional 7,900 TEU boxships from HJ Shipbuilding for \$120m each, to be delivered in 2026. Finally, Greek owner Capital placed an order for 4 firm and 4 optional PSVs with Fujian Mawei. The vessels will be diesel-electric and will be delivered between 2026 and 2027.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 21-Jun-24 | 14-Jun-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 21-Jun-24 | 14-Jun-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 80.0 | 79.0 | 1.3% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
-|  | Capesize | **180k** | 76.5 | 76.0 | 0.7% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
-|  | Kamsarmax | **82k** | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-|  | Ultramax | **63k** | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-|  | Handysize | **38k** | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** | VLCC | **300k** | 130.0 | 130.0 | 0.0% | 130.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
-|  | Suezmax | **160k** | 89.5 | 89.5 | 0.0% | 89.5 | 85.0 | 89.5 | 55.0 | 82 | 79 | 66 |
-|  | Aframax | **115k** | 77.5 | 77.0 | 0.6% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
-|  | MR | **50k** | 51.5 | 51.0 | 1.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
-| **Gas** | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-|  | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
-|  | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 80.0 | 79.0 | 1.3% | 80.0 | 70.0 | 80.0 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 76.5 | 76.0 | 0.7% | 76.5 | 67.5 | 76.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.5 | 128.0 | 130.5 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 89.5 | 89.5 | 0.0% | 89.5 | 85.0 | 89.5 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 77.5 | 77.0 | 0.6% | 77.5 | 73.0 | 77.5 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 51.5 | 51.0 | 1.0% | 51.5 | 48.0 | 51.5 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 264.0 | 264.0 | 0.0% | 265.0 | 264.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -284,5 +284,5 @@ The Bangladesh market likewise paused for the holidays, with recycling prices re
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MOSHTARAKA 2 | 94,274 | 14,348 | 1995 | MITSUBISHI, Japan | BC | $ 540.0m | undisclosed | as is Khor Fakkan, incl 450 tons bunkers |
-| TROPICAL SKY | 11,935 | 5,358 | 1986 | KOREA SHBLDG, S. Korea | REEFER | $ 545.0m | Indian |  |
+| MOSHTARAKA 2 | 94,274 | 14,348 | 1995 | MITSUBISHI, Japan | BC | $ 540/Ldt | undisclosed | as is Khor Fakkan, incl 450 tons bunkers |
+| TROPICAL SKY | 11,935 | 5,358 | 1986 | KOREA SHBLDG, S. Korea | REEFER | $ 545/Ldt | Indian |  |

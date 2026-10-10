@@ -230,7 +230,7 @@ The Supramax and Handysize segments, both ended the week on a positive note. The
 | SUPRA | PARADISE ISLAND | 57,835 | 2014 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Dec-26 | 4 X 30t CRANES | $ 21.9m | undisclosed | BWTS fitted |
 | SUPRA | ASL FORTUNE | 58,096 | 2012 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Apr-27 | 4 X 30t CRANES | $ 19.3m | Greek | BWTS fitted |
 | HANDY | LIANGCHOW | 39,685 | 2015 | OUHUA, China | Wartsila | Aug-25 | 4 X 36t CRANES | $ 20.5m each | UK based |  |
-| HANDY | LINTAN | 39,641 | 2015 | OUHUA, China | Wartsila | Oct-25 | 4 X 36t CRANES |  |  |  |
+| HANDY | LINTAN | 39,641 | 2015 | OUHUA, China | Wartsila | Oct-25 | 4 X 36t CRANES | $ 20.5m each | UK based |  |
 | HANDY | YELLOW SEA | 35,238 | 2012 | NANTONG CHANGQINGSHA, China | MAN-B\&amp;W | Dec-26 | 4 X 30,5t CRANES | high $ 11.0m | undisclosed | BWTS fitted, Tier II, Semi-Boxed |
 | HANDY | IVS IBIS | 28,238 | 2012 | IMABARI, Japan | MAN-B\&amp;W | Mar-27 | 4 X 30,5t CRANES | mid high $ 11.0m | Greek | BWTS fitted |
 | HANDY | PAN KRISTINE | 33,303 | 2011 | NANTONG CHANGQINGSHA, China | MAN-B\&amp;W | Aug-26 | 4 X 30t CRANES | region $ 11.0m | Greek | BWTS fitted |

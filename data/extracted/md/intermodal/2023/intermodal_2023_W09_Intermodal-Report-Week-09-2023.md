@@ -263,7 +263,7 @@ In the Handysize sector we had the sale of the "GALLEON" (28,294dwt-bl't '14, Ja
 | MR2 | VIVIANA | 47,221 | 1999 | ONOMICHI, Japan | B\&amp;W | Aug-25 | DH | $ 8.0m | undisclosed |  |
 | MR1 | NORDIC HUMBOLDT | 37,602 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Sep-23 | DH | $ 15.0m | undisclosed | bss dely June 2023 |
 | MR1 | BALTIC WAVE | 37,300 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | May-23 | DH | $ 12.6m | Turkish | Ice 1B |
-| MR1 | BALTIC WIND | 37,296 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Nov-23 | DH | $ 12.6m |  |  |
+| MR1 | BALTIC WIND | 37,296 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Nov-23 | DH | $ 12.6m | Turkish | Ice 1B |
 | J19 | CHEM POLARIS | 19,859 | 2008 | FUKUOKA, Japan | MAN-B\&amp;W | Mar-23 | DH | high $ 19.0m | Indian (Tolani) | StSt, BWTS fitted, bss dely with SS/DD passed |
 | SMALL | DL AMBER | 12,898 | 2010 | HIGAKI, Japan | MAN-B\&amp;W | Aug-25 | DH | $ 9.70m | undisclosed | StSt, BWTS fitted |
 ## Bulk Carriers

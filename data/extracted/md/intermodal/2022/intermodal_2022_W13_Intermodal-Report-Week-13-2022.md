@@ -357,25 +357,23 @@ In the Supramax sector we had the sale of the “AMOY ACTION” (56,874dwt-blt '
 
 # Intermodal Newbuilding Market
 
-| Sector | Size | Current | Previous | ±% | Year1 | Year2 | Year3 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 01/04/2022 | 25/03/2022 | ±% | 2021 | 2020 | 2019 |  |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 65.0 | 64.5 | **0.8%** | 59 | 51 | 54 |
-| **Capesize** | **180k** | 62.0 | 61.5 | **0.8%** | 56 | 49 | 52 |
-| **Kamsarmax** | **82k** | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
-| **Ultramax** | **63k** | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
-| **Handysize** | **38k** | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 115.0 | 115.0 | 0.0% | 98 | 88 | 92 |
-| **Suezmax** | **160k** | 76.5 | 76.5 | 0.0% | 66 | 58 | 60 |
-| **Aframax** | **115k** | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
-| **MR** | **50k** | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 221.0 | 220.0 | **0.5%** | 195 | 187 | 186 |  |
-| **LGC LPG 80k cbm** | 85.0 | 84.0 | **1.2%** | 76 | 73 | 73 |  |
-| **MGC LPG 55k cbm** | 72.5 | 71.5 | **1.4%** | 67 | 63 | 65 |  |
-| **SGC LPG 25k cbm** | 50.0 | 49.0 | **2.0%** | 45 | 42 | 44 |  |
+## Indicative Newbuilding Prices ($ Million)
+
+| Sector | Vessel | Size | 01/04/2022 | 25/03/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 65.0 | 64.5 | 0.8% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 62.0 | 61.5 | 0.8% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 115.0 | 115.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 76.5 | 76.5 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 221.0 | 220.0 | 0.5% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 85.0 | 84.0 | 1.2% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 72.5 | 71.5 | 1.4% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 50.0 | 49.0 | 2.0% | 45 | 42 | 44 |
 
 Activity in the newbuilding market resumed last week, with a plethora of deals coming to light. For yet another week, we witnessed plenty of container newbuilding deals surfacing in the market, however, what caught our attention was the volume of dry bulk contracts; sixteen Ultramax vessels were inked, with ten of them being ordered from Chinese CITIC Group at DSIC yard. The six remaining were secured by Nantong Xiangyu yard, with HuaXia FL ordering two of them and Greek owner TMS Dry ordering the rest four. In addition, two firm plus two optional 40,000dwt units were ordered from Franbo Lines at Hakodate yard. LNG units were also present, with a total of four 175,000cbm units being added to the 2022 contracting order-book. Lastly, after almost two months of stagnant activity, an order of two firm plus two optional LR2 units emerged. More specifically, it came to light that Greek owner Metrostar inked a deal for the construction of the respective 115,000dwt units at Hyundai Vietnam yard for a price of around $63.0 million each.
 
@@ -427,7 +425,7 @@ Activity in the newbuilding market resumed last week, with a plethora of deals c
 | 2+2 | LNG | 175,000 cbm | Dalian, China | 2025 | Chinese (China Merchants Energy) | undisclosed |  |
 | 2 | Container | 12,000 teu | Nihon, Japan | 2024 | Thai (RCL) | $ 133.0m |  |
 | 14 | Container | 8,000 teu | New Times, China | 2024-2025 | Swiss based (MSC) | excess $120.0m | LOI stage, LNG fuelled |
-| 8 | Container | 8,000 teu | Qingdao Beihai, China | 2024-2025 |  | excess $120.0m |  |
+| 8 | Container | 8,000 teu | Qingdao Beihai, China | 2024-2025 | Swiss based (MSC) | excess $120.0m | LOI stage, LNG fuelled |
 | 6 | Container | 7,700 teu | Hyundai Hi, South Korea | 2024-2025 | Swiss based (MSC) | excess $120.0m | LNG fuelled |
 | 2 | Container | 5,500 teu | HJ Shipbuilding, S. Korea | 2024 | Norwegian (MPC Container Ships) | $ 72.2m | against long-term T/C to Zim |
 

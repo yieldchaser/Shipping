@@ -282,25 +282,22 @@ In the Ultramax sector we had the sale of the "CL EBISU" (61,330dwt-blt '14, Jap
 
 # Intermodal Newbuilding Market
 
-## Indicative Newbuilding Prices (million$)
-| Sector | Size | 21-Apr-23 | 14-Apr-23 | ±% | 2022 | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 64.5 | 64.5 | 0.0% | 66 | 59 | 51 |
-| Capesize | **180k** | 61.5 | 61.5 | 0.0% | 63 | 56 | 49 |
-| Kamsarmax | **82k** | 35.0 | 35.0 | 0.0% | 36 | 33 | 28 |
-| Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 34 | 30 | 26 |
-| Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30 | 27 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 120.5 | 120.5 | 0.0% | 118 | 98 | 88 |
-| Suezmax | **160k** | 76.5 | 76.5 | 0.0% | 79 | 66 | 58 |
-| Aframax | **115k** | 67.0 | 67.0 | 0.0% | 62 | 53 | 48 |
-| MR | **50k** | 44.5 | 44.5 | 0.0% | 43 | 38 | 35 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 255.0 | 254.0 | 0.4% | 232 | 195 | 187 |  |
-| LGC LPG 80k cbm | 92.0 | 92.0 | 0.0% | 86 | 76 | 73 |  |
-| MGC LPG 55k cbm | 81.0 | 80.5 | 0.6% | 74 | 67 | 63 |  |
-| SGC LPG 25k cbm | 54.0 | 53.5 | 0.9% | 51 | 45 | 42 |  |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 21-Apr-23 | 14-Apr-23 | ±% | 2022 | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.5 | 64.5 | 0.0% | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 61.5 | 61.5 | 0.0% | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 120.5 | 120.5 | 0.0% | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 76.5 | 76.5 | 0.0% | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 67.0 | 67.0 | 0.0% | 62 | 53 | 48 |
+| Tankers | MR | 50k | 44.5 | 44.5 | 0.0% | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 255.0 | 254.0 | 0.4% | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 81.0 | 80.5 | 0.6% | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 54.0 | 53.5 | 0.9% | 51 | 45 | 42 |
 
 After the Easter holidays when newbuilding activity was slow, contracting interest came back stronger with a total of 23 vessels being ordered. The majority of orders come from the tankers sector where freight rates continue to be high despite them softening during the past week. Of the 17 tanker orders, the Greek owners ordered 8 of them, with Capital Gas and Maran Tankers ordering 4 firm and 4 optional Suezmaxes each. The vessels will be LNG dual-fuelled and costed \$ 87.0m each, while their delivery is expected between 2026 and 2027. On the bulk carriers sector, the UAE based owner Emarat Maritime ordered one 63,000 dwt Bulk Carrier from New Dayang in China, expected to be delivered in 2025 for an undisclosed price. There is also strong movement on the Gas Carrier sector, with 4 ships being ordered, all of which from Eastern Pacific. The vessels are 93,000 cbm dual-fuelled, and shipbuilders Hyundai Samho and Samsung Heavy Industries will build two each, costing the owner \$ 100.0m apiece.
 

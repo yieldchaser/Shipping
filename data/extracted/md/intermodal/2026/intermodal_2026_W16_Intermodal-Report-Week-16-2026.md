@@ -218,14 +218,14 @@ The Ultramax/Supramax segment enjoyed a favourable week, supported by better car
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | RTM CARTIER | 205,507 | 2012 | HHIC, Philippines | MAN B\&W | Aug-27 |  | excess $ 90,0m | Chinese | Eco |
-| NEWCASTLEMAX | RTM ZHENG HE | 205,431 | 2012 | HHIC, Philippines | MAN B\&W | Nov-27 |  |  |  |  |
+| NEWCASTLEMAX | RTM CARTIER | 205,507 | 2012 | HHIC, Philippines | MAN B\&W | Aug-27 |  | excess $ 90,0m (en bloc) | Chinese | Eco |
+| NEWCASTLEMAX | RTM ZHENG HE | 205,431 | 2012 | HHIC, Philippines | MAN B\&W | Nov-27 |  | excess $ 90,0m (en bloc) | Chinese | Eco |
 | UMAX | ASL IXORA | 61,470 | 2012 | SHIN KASADO, Japan | MAN B\&W | Jan-27 | 4 X 30,5t CRANES | excess $ 20,0m | Chinese |  |
 | SUPRA | SUNNY ROYAL | 58,772 | 2011 | KAWASAKI, Japan | MAN B\&W | Nov-30 | 4 X 30,5t CRANES | $ 18.5m | Greek |  |
 | SUPRA | HONOUR | 57,050 | 2010 | COSCO ZHOUSHAN, China | MAN B\&W | Jul-30 | 4 X 30t CRANES | $ 13.3m | Chinese |  |
 | SUPRA | PHOENIX K | 54,881 | 2007 | OSHIMA, Japan | MAN B\&W | May-27 | 4 X 30t CRANES | excess $ 14,0m | Chinese | OHBS |
-| HANDY | DORYSIA | 36,863 | 2010 | HYUNDAI MIPO, S. Korea | MAN B\&W | Oct-30 | 4 X 30t CRANES | $ 25.0m | Vietnamese |  |
-| HANDY | STRADION | 36,863 | 2011 | HYUNDAI MIPO, S. Korea | MAN B\&W | Jan-31 | 4 X 30t CRANES |  |  |  |
+| HANDY | DORYSIA | 36,863 | 2010 | HYUNDAI MIPO, S. Korea | MAN B\&W | Oct-30 | 4 X 30t CRANES | $ 25.0m (en bloc) | Vietnamese |  |
+| HANDY | STRADION | 36,863 | 2011 | HYUNDAI MIPO, S. Korea | MAN B\&W | Jan-31 | 4 X 30t CRANES | $ 25.0m (en bloc) | Vietnamese |  |
 | HANDY | KS GRACE | 36,320 | 2014 | SHIKOKU, Japan | MAN B\&W | Jan-29 | 4 X 30,5t CRANES | high $ 16,0m | Greek |  |
 
 ---
@@ -237,20 +237,20 @@ The newbuilding market is witnessing a wave of crude carrier orders, concentrati
 On the tanker front, Stealth Maritime committed to 2 units of 320k dwt at Hanwha Ocean, due in 2030, at \$130.5m apiece. Yangzijiang Maritime secured 8 scrubber fitted 319k dwt units for delivery in 2028-2030, at \$123m-\$125m per vessel. Also at DSIC, Advantage Tankers contracted a duo of 307k dwt LNG dual fuel tankers for 2028-2029, while Mercuria inked 2 firm plus 2 optional units of the same size, at \$123m each, along with a pair of 115k dwt LR2 tankers at the same yard, at \$75m per unit. JP Morgan booked a further 2 firm plus 2 optional units of 307k dwt at DSIC, due in 2029, at \$123m apiece. MSC ordered 8 scrubber-fitted 306k dwt carriers at Hengli Shipbuilding, **Indicative Newbuilding Prices (\$ Million)**
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Vessel Class | Size | 17-Apr-26 | 10-Apr-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2025 | 2024 | 2023 |
+| Sector | Vessel | Size | 17-Apr-26 | 10-Apr-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2025 | Average 2024 | Average 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 78.0 | 78.0 | 0.0% | 78.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | **82k** | 36.5 | 36.5 | 0.0% | 36.5 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 34.8 |
-|  | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 33.5 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
-|  | Handysize | 38k | 29.5 | 29.5 | 0.0% | 29.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
-|  | Suezmax | 160k | 89.0 | 89.0 | 0.0% | **88.5** | **86.0** | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
-|  | Aframax | 115k | 77.0 | 77.0 | 0.0% | 76.5 | 75.0 | 77.5 | 46.0 | 76.0 | 76.0 | 68.7 |
-|  | MR | 50k | 50.0 | 50.0 | 0.0% | 50.0 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
-| **Gas** | LNG 174k cbm |  | 248.5 | 248.5 | 0.0% | 248.5 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
-|  | MGC LPG 55k cbm |  | 83.0 | 82.5 | 0.6% | 84.0 | 83.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 78.0 | 78.0 | 0.0% | 78.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 36.5 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 34.8 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 33.5 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
+| Bulkers | Handysize | 38k | 29.5 | 29.5 | 0.0% | 29.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
+| Tankers | Suezmax | 160k | 89.0 | 89.0 | 0.0% | 88.5 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
+| Tankers | Aframax | 115k | 77.0 | 77.0 | 0.0% | 76.5 | 75.0 | 77.5 | 46.0 | 76.0 | 76.0 | 68.7 |
+| Tankers | MR | 50k | 50.0 | 50.0 | 0.0% | 50.0 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
+| Gas | LNG 174k cbm |  | 248.5 | 248.5 | 0.0% | 248.5 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
+| Gas | MGC LPG 55k cbm |  | 83.0 | 82.5 | 0.6% | 84.0 | 83.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

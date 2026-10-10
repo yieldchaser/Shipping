@@ -281,10 +281,10 @@ In the Supramax sector we had the sale of the "TRANS OCEANIC" (58,168dwt-bl't '1
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | SONANGOL LUANDA | 159,178 | 2000 | DAEWOO, S. Korea | B\&amp;W | Sep-25 | DH | $ 14.1m | Indian | LDT: 23,192 |
-| SUEZ | SONANGOL GIRASSOL | 159,057 | 2000 | DAEWOO, S. Korea | B\&amp;W | Jan-25 | DH | $ 14.1m |  | LDT: 23,313 |
+| SUEZ | SONANGOL GIRASSOL | 159,057 | 2000 | DAEWOO, S. Korea | B\&amp;W | Jan-25 | DH | $ 14.1m | Indian | LDT: 23,313 |
 | AFRA | MINERVA ZOE | 105,330 | 2004 | HYUNDAI SAMHO, S. Korea | B\&amp;W | Mar-24 | DH | $ 14.0m | undisclosed |  |
 | AFRA | BUNGA KELANA 7 | 105,194 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Jan-24 | DH | $ 13.3m | undisclosed |  |
-| AFRA | BUNGA KELANA 8 | 105,174 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Mar-24 | DH | $ 13.3m |  |  |
+| AFRA | BUNGA KELANA 8 | 105,174 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Mar-24 | DH | $ 13.3m | undisclosed |  |
 | MR | JUSTICE EXPRESS | 45,998 | 2011 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Mar-26 | DH | $ 17.0m | Greek | BWTS fitted |
 | SMALL | HANKUK CHEMI | 17,427 | 2000 | FUKUOKA, Japan | Mitsubishi | Aug-25 | DH | mid $ 5.0m | Chinese | St-St |
 | SMALL | OCEAN GULL | 9,551 | 2012 | NANJING, China | MaK | Jun-22 | DH | $ 3.0m | undisclosed | auction sale |
@@ -295,27 +295,23 @@ In the Supramax sector we had the sale of the "TRANS OCEANIC" (58,168dwt-bl't '1
 ---
 
 # Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 17/09/2021 | 10/09/2021 | ±% | 2020 | 2019 | 2018 |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 |
-| Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 |
-| Kamsarmax | 82k | 34.5 | 34.5 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 32.5 | 32.5 | 0.0% | 26 | 28 |
-| Handysize | 38k | 28.5 | 28.5 | 0.0% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 105.5 | 104.5 | 1.0% | 88 | 92 |
-| Suezmax | 160k | 72.5 | 71.5 | 1.4% | 58 | 60 |
-| Aframax | 115k | 58.5 | 57.5 | 1.7% | 48 | 49 |
-| MR | 50k | 40.0 | 40.0 | 0.0% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 201.0 | 200.0 | 0.5% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 80.0 | 79.0 | 1.3% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 70.5 | 70.5 | 0.0% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 48.0 | 48.0 | 0.0% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 17/09/2021 | 10/09/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.5 | 34.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 32.5 | 32.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 105.5 | 104.5 | 1.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 72.5 | 71.5 | 1.4% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 58.5 | 57.5 | 1.7% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 40.0 | 40.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 201.0 | 200.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 80.0 | 79.0 | 1.3% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 70.5 | 70.5 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 48.0 | 48.0 | 0.0% | 42 | 44 | 43 |
 
 After a short-week break, owners' appetite for Container units resumed with the number of deals surfacing in the past days highlighting that interest for contracting in the respective sector has remained robust. Indeed, a total number of 6 Panamax and 14 feeder boxships were ordered last week. Among them, the six LNG fuelled 7,600teu units that were ordered from French owner CMA CGM have been the most notable one. All vessels will be built at Samsung yard at a price of around \$120.0 million each. CMA deal have followed its previous mammoth order four months ago when CMA has ordered 22 containerships in China for a total value of almost \$2.3 billion. The lack of activity on the crude carrier side continued this past week with bulker units following suit; the only one order that came to light last week consisted of six 5,350dwt ice-class 1A Hybrid electric bulkers on behalf of Finnish owner ESL. The construction of the vessels was assigned to Chowgule yard in India for a price of around \$13.6 million each.
 

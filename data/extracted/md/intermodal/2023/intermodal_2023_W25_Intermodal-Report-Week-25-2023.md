@@ -236,21 +236,21 @@ Supramax 10TC averaged \$ 8,283/day, up +2.72% w-o-w, while the Handysize 7TC av
 Last week a very strong newbuilding activity materialized with 63 firm orders coming to light. The lion's share of these are containers, with the majority ordered by giants such as CMA-CGM, Evergreen and Maersk, and are also either methanol or LNG dual-fuelled. Specifically, CMA-CGM ordered ten 24,000teu LNG dual-fuel boxships from Jiangsu Yangzijiang at a cost of \$240.0m each, with delivery expected in 2026. Evergreen placed firm orders for 24 16,000teu ships with Nihon, China and Samsung HI, with the latter receiving the majority of the ships. In the dry bulk sector interest was vivid as well. Among the reported contracts, Danish owner J. Lauritzen ordered another 81,200dwt vessel from Tsuneishi for Cargill with a 7-year TC. The only tanker order was for two 22,500dwt stainless steel vessels from Donsotank Rederi. The duo will be built at Wuhu Shipward in China for delivery in 2025 and will also be dual-fuelled with LNG.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 23-Jun-23 | 16-Jun-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2022 | 2021 | 2020 |
+| Sector | Vessel | Size | 23-Jun-23 | 16-Jun-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 66.0 | 66.0 | 0.0% | 66.0 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
-|  | Capesize | 180k | 63.0 | 63.0 | 0.0% | 63.0 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
-|  | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 66 | 59 | 51 |
-|  | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
-|  | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
-| **Tankers** | VLCC | 300k | 125.0 | 125.0 | 0.0% | 125.0 | 120.0 | 125.0 | 84.5 | 118 | 98 | 88 |
-|  | Suezmax | 160k | 84.0 | 83.0 | 1.2% | 84.0 | 76.0 | 84.0 | 55.0 | 79 | 66 | 58 |
-|  | Aframax | 115k | 69.0 | 69.0 | 0.0% | 69.0 | 64.0 | 69.0 | 46.0 | 62 | 53 | 48 |
-|  | MR | 50k | 46.0 | 45.5 | 1.1% | 46.0 | 44.0 | 46.0 | 34.0 | 43 | 38 | 35 |
-| **Gas** | LNG 174k cbm |  | 260.0 | 260.0 | 0.0% | 260.0 | 248.0 | 260.0 | 180.0 | 232 | 195 | 187 |
-|  | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
-|  | MGC LPG 55k cbm |  | 85.0 | 84.5 | 0.6% | 85.0 | 77.5 | 85.0 | 43.0 | 74 | 67 | 63 |
-|  | SGC LPG 25k cbm |  | 55.5 | 55.5 | 0.0% | 55.5 | 53.0 | 55.5 | 40.0 | 51 | 45 | 42 |
+| Bulkers | Newcastlemax | 205k | 66.0 | 66.0 | 0.0% | 66.0 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 63.0 | 63.0 | 0.0% | 63.0 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 66 | 59 | 51 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 125.0 | 125.0 | 0.0% | 125.0 | 120.0 | 125.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 84.0 | 83.0 | 1.2% | 84.0 | 76.0 | 84.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 69.0 | 69.0 | 0.0% | 69.0 | 64.0 | 69.0 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 46.0 | 45.5 | 1.1% | 46.0 | 44.0 | 46.0 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 260.0 | 260.0 | 0.0% | 260.0 | 248.0 | 260.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 85.0 | 84.5 | 0.6% | 85.0 | 77.5 | 85.0 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 55.5 | 55.5 | 0.0% | 55.5 | 53.0 | 55.5 | 40.0 | 51 | 45 | 42 |
 
 ## Indicative Period Charters
 

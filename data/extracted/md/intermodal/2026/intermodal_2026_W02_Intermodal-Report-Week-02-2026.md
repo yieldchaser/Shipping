@@ -215,35 +215,35 @@ The Ultramax and Supramax markets remained under strain, with charterers retaini
 ## **Tankers**
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | ATLANTAS | 321,300 | 2010 | HYUNDAI, S. Korea | Wartsila | May- 30 | DH | $ 140.0m | S. Korean (Sinokor) |  |
-| VLCC | ACHILLEAS | 297,863 | 2010 | UNIVERSAL, Japan | MAN B\&W | Jun-30 | DH |  |  |  |
+| VLCC | ATLANTAS | 321,300 | 2010 | HYUNDAI, S. Korea | Wartsila | May- 30 | DH | $ 140.0m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | ACHILLEAS | 297,863 | 2010 | UNIVERSAL, Japan | MAN B\&W | Jun-30 | DH | $ 140.0m (en bloc) | S. Korean (Sinokor) |  |
 | VLCC | OCEANIS | 320,780 | 2011 | SAMSUNG, S. Korea | MAN B\&W | Apr-26 | DH | $ 68.0m | S. Korean (Sinokor) |  |
-| VLCC | DELTA ANGELICA | 319,911 | 2012 | HYUNDAI, S. Korea | MAN B\&W | Jan-27 | DH | $ 160.0m | S. Korean (Sinokor) |  |
-| VLCC | DELTA GLORY | 319,819 | 2012 | HYUNDAI, S. Korea | MAN B\&W | Mar-27 | DH |  |  |  |
+| VLCC | DELTA ANGELICA | 319,911 | 2012 | HYUNDAI, S. Korea | MAN B\&W | Jan-27 | DH | $ 160.0m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | DELTA GLORY | 319,819 | 2012 | HYUNDAI, S. Korea | MAN B\&W | Mar-27 | DH | $ 160.0m (en bloc) | S. Korean (Sinokor) |  |
 | VLCC | SEAWAYS RAFFLES | 318,325 | 2010 | HYUNDAI, S. Korea | Wartsila | Feb- 30 | DH | undisclosed | S. Korean (Sinokor) |  |
-| VLCC | SEAWAYS KILIMANJARO | 296,999 | 2012 | DALIAN, China | MAN B\&W | Dec-26 | DH |  |  |  |
+| VLCC | SEAWAYS KILIMANJARO | 296,999 | 2012 | DALIAN, China | MAN B\&W | Dec-26 | DH | undisclosed | S. Korean (Sinokor) |  |
 | VLCC | NISSOS PSARA | 301,861 | 2011 | IHI, Japan | Wartsila | Feb-26 | DH | $ 68.5m | S. Korean (Sinokor) |  |
-| VLCC | FRONT DEE | 299,999 | 2015 | DAEWOO, S. Korea | MAN B\&W | Sep-25 | DH |  |  |  |
-| VLCC | FRONT TAY | 299,999 | 2016 | DAEWOO, S. Korea | MAN B\&W | Jan-26 | DH |  |  |  |
-| VLCC | FRONT SPEY | 299,533 | 2016 | HYUNDAI, S. Korea | Wartsila | May-26 | DH |  |  |  |
-| VLCC | FRONT CLOUD | 299,446 | 2016 | HYUNDAI, S. Korea | Wartsila | Mar-26 | DH | $ 831.5m | S. Korean (Sinokor) |  |
-| VLCC | FRONT FORTH | 299,392 | 2016 | HYUNDAI, S. Korea | MAN B\&W | Sep-26 | DH |  |  |  |
-| VLCC | FRONT CLYDE | 299,320 | 2016 | HYUNDAI, S. Korea | Wartsila | Jan-26 | DH |  |  |  |
-| VLCC | FRONT OTRA | 299,047 | 2016 | HYUNDAI, S. Korea | B\&W | Jun-26 | DH |  |  |  |
-| VLCC | FRONT OSEN | 298,991 | 2016 | HYUNDAI, S. Korea | MAN B\&W | Aug-26 | DH |  |  |  |
-| VLCC | DAISHAN | 306,506 | 2007 | DAEWOO, S. Korea | Sulzer | Jun-27 | DH |  |  |  |
-| VLCC | HOJO | 302,965 | 2013 | JMU, Japan | MAN B\&W | Apr-28 | DH |  |  |  |
-| VLCC | HIRADO | 302,550 | 2011 | UNIVERSAL, Japan | MAN B\&W | May-26 | DH | region $ 530m | S. Korean (Sinokor) |  |
-| VLCC | DIA | 299,999 | 2015 | DAEWOO, S. Korea | MAN B\&W | Oct-25 | DH |  |  |  |
-| VLCC | ANTIGONE | 299,421 | 2015 | HYUNDAI, S. Korea | Wartsila | Sep- 30 | DH |  |  |  |
-| VLCC | AEGEAN | 299,011 | 2016 | HYUNDAI, S. Korea | B\&W | Sep-26 | DH |  |  |  |
+| VLCC | FRONT DEE | 299,999 | 2015 | DAEWOO, S. Korea | MAN B\&W | Sep-25 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | FRONT TAY | 299,999 | 2016 | DAEWOO, S. Korea | MAN B\&W | Jan-26 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | FRONT SPEY | 299,533 | 2016 | HYUNDAI, S. Korea | Wartsila | May-26 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | FRONT CLOUD | 299,446 | 2016 | HYUNDAI, S. Korea | Wartsila | Mar-26 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | FRONT FORTH | 299,392 | 2016 | HYUNDAI, S. Korea | MAN B\&W | Sep-26 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | FRONT CLYDE | 299,320 | 2016 | HYUNDAI, S. Korea | Wartsila | Jan-26 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | FRONT OTRA | 299,047 | 2016 | HYUNDAI, S. Korea | B\&W | Jun-26 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | FRONT OSEN | 298,991 | 2016 | HYUNDAI, S. Korea | MAN B\&W | Aug-26 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | DAISHAN | 306,506 | 2007 | DAEWOO, S. Korea | Sulzer | Jun-27 | DH | region $ 530m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | HOJO | 302,965 | 2013 | JMU, Japan | MAN B\&W | Apr-28 | DH | region $ 530m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | HIRADO | 302,550 | 2011 | UNIVERSAL, Japan | MAN B\&W | May-26 | DH | region $ 530m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | DIA | 299,999 | 2015 | DAEWOO, S. Korea | MAN B\&W | Oct-25 | DH | region $ 530m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | ANTIGONE | 299,421 | 2015 | HYUNDAI, S. Korea | Wartsila | Sep- 30 | DH | region $ 530m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | AEGEAN | 299,011 | 2016 | HYUNDAI, S. Korea | B\&W | Sep-26 | DH | region $ 530m (en bloc) | S. Korean (Sinokor) |  |
 | VLCC | ADVANTAGE VALUE | 297,557 | 2009 | SHANGHAI JIANGNAN, China | MAN B\&W | Jan-29 | DH | $ 56.0m | S. Korean (Sinokor) |  |
-| VLCC | DESIMI | 296,865 | 2011 | SHANGHAI JIANGNAN, China | MAN B\&W | Sep-26 | DH | $ 136.0m | S. Korean (Sinokor) |  |
-| VLCC | SOLANA | 296,790 | 2010 | SHANGHAI JIANGNAN, China | MAN B\&W | May- 30 | DH |  |  |  |
+| VLCC | DESIMI | 296,865 | 2011 | SHANGHAI JIANGNAN, China | MAN B\&W | Sep-26 | DH | $ 136.0m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | SOLANA | 296,790 | 2010 | SHANGHAI JIANGNAN, China | MAN B\&W | May- 30 | DH | $ 136.0m (en bloc) | S. Korean (Sinokor) |  |
 | SUEZ | ECLIPSE I | 158,933 | 2006 | HYUNDAI, S. Korea | MAN B\&W | Aug-26 | DH | $ 32m net | undisclosed |  |
 | LR2 | STI KINGSWAY | 109,999 | 2015 | SUNGDONG, S. Korea | MAN B\&W | Aug-30 | DH | $ 57.5m | undisclosed | Eco, Scrubber fitted |
 | MR2 | MARITIME TRANQUILITY | 49,999 | 2020 | GSI, China | WinGD | Aug-30 | DH | $ 39.8m each | Greek | Eco |
-| MR2 | MARITIME COMITY | 49,997 | 2020 | GSI, China | WinGD | Aug-30 | DH |  |  |  |
+| MR2 | MARITIME COMITY | 49,997 | 2020 | GSI, China | WinGD | Aug-30 | DH | $ 39.8m each | Greek | Eco |
 | MR2 | PIGEON POINT | 48,356 | 2005 | MINAMI-NIPPON, Japan | B\&W | Sep-28 | DH | $ 13.3m | Chinese |  |
 
 ## **Bulk Carriers**
@@ -272,20 +272,20 @@ In the gas space, Purus Marine contracted a duo of 174k cbm gas carriers at Sams
 Finally, in the MPP sector, 3 orders were recorded. Fujian Highton ordered 3 firm plus 4 optional 62k dwt units at Taizhou Kouan at \$43m each. Chipolbrok placed two separate orders: 4 x 60.8k dwt units at Taizhou Kouan for 2028, and a pair of 60.8k dwt ships at Taizhou Sanfu for 2027.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 9-Jan-26 | 2-Jan-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2025 | 2024 | 2023 |
+| Sector | Vessel | Size | 9-Jan-26 | 2-Jan-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2025 | Average 2024 | Average 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 78.0 | 78.0 | 0.0% | 78.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | **82k** | 36.5 | 36.5 | 0.0% | 36.5 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 34.8 |
-|  | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 33.5 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
-|  | Handysize | 38k | 29.5 | 29.5 | 0.0% | 29.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 128.0 | 128.0 | 0.0% | 128.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
-|  | Suezmax | 160k | 86.0 | 86.0 | 0.0% | 86.0 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
-|  | Aframax | 115k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 77.5 | 46.0 | 76.0 | 76.0 | 68.7 |
-|  | MR | 50k | 49.5 | 49.0 | 1.0% | 49.5 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
-| **Gas** | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 248.0 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
-|  | MGC LPG 55k cbm |  | 84.0 | 84.0 | 0.0% | **84.0** | **84.0** | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 59.5 | 59.5 | 0.0% | 59.5 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 78.0 | 78.0 | 0.0% | 78.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 36.5 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 34.8 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 33.5 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
+| Bulkers | Handysize | 38k | 29.5 | 29.5 | 0.0% | 29.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 128.0 | 128.0 | 0.0% | 128.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
+| Tankers | Suezmax | 160k | 86.0 | 86.0 | 0.0% | 86.0 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 77.5 | 46.0 | 76.0 | 76.0 | 68.7 |
+| Tankers | MR | 50k | 49.5 | 49.0 | 1.0% | 49.5 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 248.0 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
+| Gas | MGC LPG 55k cbm |  | 84.0 | 84.0 | 0.0% | 84.0 | 84.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 59.5 | 59.5 | 0.0% | 59.5 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

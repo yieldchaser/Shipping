@@ -345,24 +345,21 @@ In the Supramax sector we had the sale of the "BULK ORION" (56,155dwt-bl't '11, 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 29/04/2022 | 22/04/2022 | ±% | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| 205k | 66.5 | 66.5 | 0.0% | 59 | 51 | 54 |
-| Capesize | 180k | 62.5 | 62.5 | 0.0% | 56 | 49 |
-| Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 |
-| Ultramax | 63k | 34.0 | 33.5 | 1.5% | 30 | 26 |
-| Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 116.0 | 116.0 | 0.0% | 98 | 88 |
-| Suezmax | 160k | 78.0 | 78.0 | 0.0% | 66 | 58 |
-| Aframax | 115k | 60.5 | 60.5 | 0.0% | 53 | 48 |
-| MR | 50k | 41.5 | 41.5 | 0.0% | 38 | 35 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 224.0 | 223.0 | 0.4% | 195 | 187 | 186 |
-| LGC LPG 80k cbm | 85.5 | 85.5 | 0.0% | 76 | 73 | 73 |
-| MGC LPG 55k cbm | 73.0 | 73.0 | 0.0% | 67 | 63 | 65 |
-| SGC LPG 25k cbm | 50.5 | 50.5 | 0.0% | 45 | 42 | 44 |
+| Sector | Vessel | Size | 29/04/2022 | 22/04/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | 205k |  | 66.5 | 66.5 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 62.5 | 62.5 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 34.0 | 33.5 | 1.5% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 116.0 | 116.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 78.0 | 78.0 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 60.5 | 60.5 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 41.5 | 41.5 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 224.0 | 223.0 | 0.4% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 85.5 | 85.5 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 73.0 | 73.0 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 50.5 | 50.5 | 0.0% | 45 | 42 | 44 |
 
 The LNG and Container newbuilding deals continued firmly last week, with seven new LNG contracts from NYK and one more from the Norwegian Knutsen, while eight-teen Containers were ordered from SITC and Seaspan, followed by six new contracts for Aframax tankers, ordered by the Greek owner Navios Group. Starting with the LNG sector, Japanese owner NYK has placed an order for six 174.000 cbm LNG carriers at Hudong Zhonghua, at the price of around \$201,0m each, against a long-term T/C to CNOOC. One more deal was signed by the same owner with Hyundai Samho for a single 174.000 cbm LNG vessel, and to be chartered by the French EDF LNG Shipping. Lastly, Knutsen Group has concluded a deal for one 174.000cbm LNG units at the price of \$224,5m built in Hyundai Samho yard, as a part of the huge new-building project of the company, which includes a total of six-teen LNG units constructed in Korea, China and Spain. In the boxship sector, Chinese SITC has concluded a deal for the construction of ten 1,800teu containerships at Huanghai Shipbuilding. Additionally, the HK based Seaspan has signed a long-term T/C with MSC for eight 8.000teu LNG fuelled boxships, that are expected to be delivered in 2024-2025 from the K Shipbuilding. Regarding the tanker sector, Navios Group has signed a contract with Fujian Mawei, for four firm plus two optional LR2 vessels, against a T/C to Chevron.
 

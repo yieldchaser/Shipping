@@ -266,24 +266,24 @@ In the Panamax sector we had the sale of the "TR INFINITY" (77,113dwt-blt '15, J
 | MR1 | NORVIKEN | 37,874 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Feb-25 | DH | $ 24.00m | undisclosed | on subs |
 | MR1 | JEMMA | 38,402 | 2008 | GUANGZHOU, China | MAN-B\&amp;W | Jun-23 | DH | $ 18.0m | Turkish |  |
 | MR1 | SEAHAKE | 32,464 | 2003 | LINDENAU, Germany | MAN | Aug-23 | DH | $ 15.0m | UAE based | Ice 1B |
-| MR1 | SEARAY | 32,310 | 2004 | LINDENAU, Germany | MAN | May-24 | DH | $ 15.0m |  |  |
+| MR1 | SEARAY | 32,310 | 2004 | LINDENAU, Germany | MAN | May-24 | DH | $ 15.0m | UAE based | Ice 1B |
 | SMALL | CHEMICAL ATLANTIK | 15,081 | 2018 | SELAH, Turkey | Hyundai Himsen | May-23 | DH | $ 30.0m | Dutch (Stolt Tankers) | StSt |
-| SMALL | PREVEZE 1 | 15,081 | 2019 | SELAH, Turkey | Hyundai Himsen | Mar-24 | DH | $ 30.0m |  |  |
+| SMALL | PREVEZE 1 | 15,081 | 2019 | SELAH, Turkey | Hyundai Himsen | Mar-24 | DH | $ 30.0m | Dutch (Stolt Tankers) | StSt |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | MP THE HARRISON | 208,283 | 2021 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Feb-26 |  | $ 126.0m | Greek (TMS) | Scrubber fitted, bss T/C attached at index link |
-| NEWCASTLEMAX | MP THE VINATIERI | 208,213 | 2021 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Mar-26 |  |  |  |  |
+| NEWCASTLEMAX | MP THE HARRISON | 208,283 | 2021 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Feb-26 |  | $ 126.0m (en bloc) | Greek (TMS) | Scrubber fitted, bss T/C attached at index link |
+| NEWCASTLEMAX | MP THE VINATIERI | 208,213 | 2021 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Mar-26 |  | $ 126.0m (en bloc) | Greek (TMS) | Scrubber fitted, bss T/C attached at index link |
 | CAPE | C H S SPLENDOR | 170,000 | 2006 | IHI, Japan | Sulzer | Jan-26 |  | high $ 17.0m | Middle Eastern | BWTS fitted |
 | PMAX | TR INFINITY | 77,113 | 2015 | IMABARI, Japan | MAN-B\&amp;W | Aug-25 |  | $ 25.5m | Greek |  |
 | SUPRA | AMIS ORCHID | 58,120 | 2012 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Jul-25 | 4 X 30t CRANES | $ 19.0m | Greek | T/C attached till early-mid 2024 |
 | SUPRA | CARMENCITA | 58,773 | 2009 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | May-24 | 4 X 30t CRANES | $ 16.0m | undisclosed | BWTS fitted, Ugland held minority stake |
 | HANDY | MAESTRO PEARL | 36,920 | 2015 | SAIKI, Japan | MAN-B\&amp;W | Jul-25 | 4 X 36t CRANES | undisclosed | Turkish | BWTS fitted, Boxed, Eco |
 | HANDY | DAIWAN CHAMPION | 34,393 | 2015 | NAMURA, Japan | MAN-B\&amp;W | Feb-25 | 4 X 30t CRANES | region $ 20.0m | European | BWTS fitted, Eco, incl. T/C attached till May 2024 |
-| HANDY | ERISORT | 39,763 | 2014 | CHENGXI, China | Wartsila | Oct-24 | 4 X 36t CRANES | $ 20.5m |  |  |
+| HANDY | ERISORT | 39,763 | 2014 | CHENGXI, China | Wartsila | Oct-24 | 4 X 36t CRANES | $ 20.5m | USA based (JP Morgan) | BWTS fitted |
 | HANDY | ERRADALE | 39,757 | 2014 | CHENGXI, China | Wartsila | Aug-24 | 4 X 36t CRANES | $ 20.5m | USA based (JP Morgan) | BWTS fitted |
-| HANDY | WULIN | 39,049 | 2014 | CHENGXI, China | Wartsila | Mar-24 | 4 X 30t CRANES | $ 20.5m |  |  |
+| HANDY | WULIN | 39,049 | 2014 | CHENGXI, China | Wartsila | Mar-24 | 4 X 30t CRANES | $ 20.5m | USA based (JP Morgan) | BWTS fitted |
 | HANDY | CLIPPER PALMA | 34,399 | 2010 | SPP, S. Korea | MAN-B\&amp;W | Jan-25 | 4 X 35t CRANES | $ 13.35m | Turkish |  |
 
 © Intermodal Research 28/03/2023 4

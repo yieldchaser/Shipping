@@ -217,21 +217,21 @@ Supramax 10TC averaged \$ 16,097/day, down -5.0% w-o-w, while the Handysize 7TC 
 Last week saw a robust number of orders across all sectors with 7 tankers, 9 bulkers and 1 LMG bunkering vessel. Greek owner Cardiff Marine was very active in newbuilding contracting last week, ordering a total of 7 vessels. In particular, Cardiff ordered two 157kt vessels from Jiangsu New Hantong in China for delivery in 2026 at a cost of \$86m. The owner also ordered an Aframax at New Nimes in China for delivery in 2025. In the bulk sector, Cardiff Marine in Nantong ordered four firm 82k dwt vessels for \$35.5m each. The other active owner was MOL who ordered 5 Capes, two in Nihon, Japan and the other three in Qing-dao Behai. Both vessels are LNG dual-fuelled and will be delivered between 2026 and 2027.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 15-Dec-23 | 8-Dec-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2022 | 2020 | Year3 |
+| Sector | Vessel | Size | 15-Dec-23 | 8-Dec-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 69.5 | 69.5 | 0.0% | 69.5 | 64.0 | 69.5 | 49.5 | 66 | 59 | 51 |
-|  | **Capesize** | **180k** | 66.5 | 66.5 | 0.0% | 66.5 | 61.0 | 66.5 | 48.5 | 63 | 56 | 49 |
-|  | **Kamsarmax** | **82k** | 35.5 | 35.5 | 0.0% | 35.5 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
-|  | **Ultramax** | **63k** | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
-|  | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
-| **Tankers** | **VLCC** | **300k** | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
-|  | **Suezmax** | **160k** | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
-|  | **Aframax** | **115k** | 72.0 | 72.0 | 0.0% | 71.5 | 64.0 | 71.5 | 46.0 | 62 | 53 | 48 |
-|  | MR | 50k | 47.5 | 47.5 | 0.0% | 47.5 | 44.0 | 47.5 | 34.0 | 43 | 38 | 35 |
-| **Gas** | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
-|  | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
-|  | MGC LPG 55k cbm |  | 91.5 | 91.5 | 0.0% | 18.4 | 77.5 | 92.5 | 43.0 | 74 | 67 | 63 |
-|  | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
+| Bulkers | Newcastlemax | 205k | 69.5 | 69.5 | 0.0% | 69.5 | 64.0 | 69.5 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 66.5 | 66.5 | 0.0% | 66.5 | 61.0 | 66.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.5 | 35.5 | 0.0% | 35.5 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 72.0 | 72.0 | 0.0% | 71.5 | 64.0 | 71.5 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 47.5 | 47.5 | 0.0% | 47.5 | 44.0 | 47.5 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 91.5 | 91.5 | 0.0% | 18.4 | 77.5 | 92.5 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

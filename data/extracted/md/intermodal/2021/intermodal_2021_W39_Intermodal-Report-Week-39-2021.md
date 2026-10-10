@@ -261,17 +261,17 @@ In the Supramax sector we had the sale of the "MEDI OKINAWA" (56,118dwt-blt '11,
 | KMAX | XIN HUA | 82,269 | 2012 | DALIAN, China | MAN-B&amp;W | Jul-22 |  | $ 22.0m | undisclosed | Tier II, scrubber fitted, delivery Dec 2021/Jan 2022 |
 | PMAX | OCEAN GINGER | 75,735 | 2002 | SANOYAS, Japan | B&amp;W | May-22 |  | $ 11.5m | undisclosed | incl TC. At 10,500 until May 2022 |
 | SMAX | STOVE FRIEND | 57,679 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B&amp;W | Oct-21 | 4 X 30t CRANES | $ 28.0m | Norwegian (Belships) | BWTS fitted |
-| SMAX | STOVE TIDE | 57,679 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B&amp;W | Oct-26 | 4 X 30t CRANES | $ 28.0m |  |  |
+| SMAX | STOVE TIDE | 57,679 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B&amp;W | Oct-26 | 4 X 30t CRANES | $ 28.0m | Norwegian (Belships) | BWTS fitted |
 | SMAX | HTC CHARLIE | 56,451 | 2014 | TAIZHOU SANFU, China | MAN-B&amp;W | Feb-24 | 4 X 36t CRANES | $ 20.5m | Middle Eastern | Tier II |
 | SMAX | SEACON 6 | 57,000 | 2012 | NINGBO BEILUN, China | MAN-B&amp;W | Jun-22 | 4 X 30t CRANES | $ 15.3m | Chinese | online auction |
 | SMAX | MEDI OKINAWA | 56,118 | 2011 | MITSUI, Japan | MAN-B&amp;W | Oct-25 | 4 X 30t CRANES | excess $ 22.0m | Bangladeshi | BWTS fitted |
 | SMAX | SPRING HAWK | 55,688 | 2010 | MITSUI, Japan | MAN-B&amp;W | May-25 | 4 X 30t CRANES | $ 21.5m | Asian | BWTS fitted, delivery November-December 2021 |
-| HANDY | NEW FACE | 38,242 | 2017 | SHIN KOCHI, Japan | MAN-B&amp;W | Mar-22 | 4 X 30t CRANES | $ 52.0m | Greek |  |
-| HANDY | NEW DAYS | 38,230 | 2017 | SHIN KOCHI, Japan | MAN-B&amp;W | Jan-22 | 4 X 30t CRANES |  |  |  |
+| HANDY | NEW FACE | 38,242 | 2017 | SHIN KOCHI, Japan | MAN-B&amp;W | Mar-22 | 4 X 30t CRANES | $ 52.0m (en bloc) | Greek |  |
+| HANDY | NEW DAYS | 38,230 | 2017 | SHIN KOCHI, Japan | MAN-B&amp;W | Jan-22 | 4 X 30t CRANES | $ 52.0m (en bloc) | Greek |  |
 | HANDY | NEW INSPIRATION | 36,334 | 2013 | SHIKOKU, Japan | MAN-B&amp;W | May-23 | 4 X 30,5t CRANES | $ 20.6m | UK based (Tufton Oceanic) |  |
-| HANDY | NEW HISTORY | 36,332 | 2013 | SHIKOKU, Japan | MAN-B&amp;W | Feb-23 | 4 X 30t CRANES | $ 20.6m |  |  |
-| HANDY | EOS ESPERANCE | 33,686 | 2012 | SHIN KURUSHIMA, Japan | Mitsubishi | May-22 | 4 X 30t CRANES | $ 35.0m | Chinese | OHBS, BWTS fitted |
-| HANDY | EOS VICTORY | 33,686 | 2012 | SHIN KURUSHIMA, Japan | Mitsubishi | Aug-22 | 4 X 30t CRANES |  |  |  |
+| HANDY | NEW HISTORY | 36,332 | 2013 | SHIKOKU, Japan | MAN-B&amp;W | Feb-23 | 4 X 30t CRANES | $ 20.6m | UK based (Tufton Oceanic) |  |
+| HANDY | EOS ESPERANCE | 33,686 | 2012 | SHIN KURUSHIMA, Japan | Mitsubishi | May-22 | 4 X 30t CRANES | $ 35.0m (en bloc) | Chinese | OHBS, BWTS fitted |
+| HANDY | EOS VICTORY | 33,686 | 2012 | SHIN KURUSHIMA, Japan | Mitsubishi | Aug-22 | 4 X 30t CRANES | $ 35.0m (en bloc) | Chinese | OHBS, BWTS fitted |
 | HANDY | MEL PRIDE | 32,260 | 1999 | KANDA, Japan | Mitsubishi | Jan-22 | 4 X 30t CRANES | low-mid $ 8.0m | undisclosed |  |
 
 © Intermodal Research 05/10/2021 4
@@ -312,27 +312,23 @@ In the Supramax sector we had the sale of the "MEDI OKINAWA" (56,118dwt-blt '11,
 ---
 
 # Intermodal Newbuilding Market
-## TC Rates
+## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel | 01/10/2021 | 24/09/2021 | ±% | 2020 | 2019 | 2018 |  |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
-| Capesize | **180k** | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 34.5 | 34.5 | 0.0% | 28 | 30 | 29 |
-| Ultramax | **63k** | 32.5 | 32.5 | 0.0% | 26 | 28 | 27 |
-| Handysize | **38k** | 29.5 | 29.0 | 1.7% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 107.0 | 106.5 | 0.5% | 88 | 92 | 88 |
-| Suezmax | **160k** | 73.5 | 73.5 | 0.0% | 58 | 60 | 58 |
-| Aframax | **115k** | 59.0 | 59.0 | 0.0% | 48 | 49 | 47 |
-| MR | 50k | 40.5 | 40.0 | 1.3% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 203.0 | 202.0 | 0.5% | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 81.0 | 80.5 | 0.6% | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 71.0 | 71.0 | 0.0% | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 48.5 | 48.5 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 01/10/2021 | 24/09/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.5 | 34.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 32.5 | 32.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 29.5 | 29.0 | 1.7% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 107.0 | 106.5 | 0.5% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 73.5 | 73.5 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 59.0 | 59.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 40.5 | 40.0 | 1.3% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 203.0 | 202.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 81.0 | 80.5 | 0.6% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 71.0 | 71.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 48.5 | 48.5 | 0.0% | 42 | 44 | 43 |
 
 The volume of the newbuilding deals was softer compared to the week prior, with the dry bulk activity being confined to only one huge order and with the gas carrier units attracting most of the interest. At the same time, no tanker deals have compiled the newbuilding list for another week. On the dry bulk front, it came to light that CDB Leasing ordered nine 60,000dwt units at New Dayang at a price of \$29.0 million each. However, this deal was materialized some months ago which is also reflected in the newbuilding price. As far as the gas carrier units are concerned, Qatar Petroleum concluded a deal for the construction of four 174,000cbm units at Hudong Zhonghua for a price of \$192.25 million each. In addition, Russian owner Sovcomflot together with NYK Line inked a deal for the construction of four firm plus two optional ice-class 1A 174,000cbm vessels at Samsung yard for a price of \$202.0 million each while Eneos Ocean Corp. returned to Kawasaki for another LPG/LAG 86.700cbm carrier. Lastly, German owner MPC ordered four firm plus two optional 5,400teu boxships in Hanjin shipyard at a price of \$65.0 million each.
 

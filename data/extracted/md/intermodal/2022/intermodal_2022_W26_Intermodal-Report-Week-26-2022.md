@@ -257,12 +257,12 @@ In the Handysize sector we had the sale of the "INTERLINK ETERNITY" (39,094dwt-b
 | PMAX | RUI FU TAI | 73,870 | 2002 | NAMURA, Japan | B\&amp;W | Feb-26 |  | low $ 14.0m | undisclosed | prompt dely, Chinese flag, domestic trade |
 | PMAX | CHRISTINA IV | 72,493 | 2000 | SASEBO, Japan | B\&amp;W | Jan-25 |  | $ 13.0m | Dubai based (GLTA) | BWTS fitted |
 | UMAX | WESTERN SANTOS | 63,518 | 2014 | JIANGSU HANTONG, China | MAN-B\&amp;W | Apr-24 | 4x35.0, 4x30.0 | $ 26.4m | Chinese (Jinhui Shipping) | BWTS fitted |
-| PMAX | VAN CONTINENT | 74,475 | 2007 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Jan-27 |  | $ 18.5m |  |  |
+| PMAX | VAN CONTINENT | 74,475 | 2007 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Jan-27 |  | $ 18.5m | Chinese (HNA Technology) |  |
 | SUPRA | VAN GENERAL | 57,700 | 2011 | STX DALIAN, China | MAN-B\&amp;W | Jul-26 | 4 X 30t CRANES | $ 19.2m | Chinese (HNA Technology) |  |
-| SUPRA | VAN BONITA | 53,383 | 2008 | CHENGXI, China | MAN-B\&amp;W | Oct-23 | 4 X 36t CRANES | $ 18.6m |  | BWTS fitted |
-| SUPRA | VAN ETERNITY | 53,390 | 2007 | CHENGXI, China | MAN-B\&amp;W | Sep-22 | 4 X 36t CRANES | $ 16.7m |  |  |
-| SUPRA | VAN AUSPICIOUS | 53,630 | 2006 | YANGZHOU DAYANG, China | MAN-B\&amp;W | Aug-26 | 4 X 35t CRANES | $ 16.0m |  | BWTS fitted |
-| SUPRA | VAN DUFFY | 52,385 | 2006 | TSUNEISHI, Japan | MAN-B\&amp;W | Aug-26 | 4 X 30t CRANES | $ 17.0m |  | BWTS fitted |
+| SUPRA | VAN BONITA | 53,383 | 2008 | CHENGXI, China | MAN-B\&amp;W | Oct-23 | 4 X 36t CRANES | $ 18.6m | Chinese (HNA Technology) | BWTS fitted |
+| SUPRA | VAN ETERNITY | 53,390 | 2007 | CHENGXI, China | MAN-B\&amp;W | Sep-22 | 4 X 36t CRANES | $ 16.7m | Chinese (HNA Technology) |  |
+| SUPRA | VAN AUSPICIOUS | 53,630 | 2006 | YANGZHOU DAYANG, China | MAN-B\&amp;W | Aug-26 | 4 X 35t CRANES | $ 16.0m | Chinese (HNA Technology) | BWTS fitted |
+| SUPRA | VAN DUFFY | 52,385 | 2006 | TSUNEISHI, Japan | MAN-B\&amp;W | Aug-26 | 4 X 30t CRANES | $ 17.0m | Chinese (HNA Technology) | BWTS fitted |
 | SUPRA | MEDI BANGKOK | 53,466 | 2006 | IMABARI, Japan | MAN-B\&amp;W | Oct-25 | 4 X 31t CRANES | $ 17.5m |  | undisclosed |
 | HMAX | TRUE FRIEND | 43,775 | 1996 | DAEWOO, S. Korea | B\&amp;W | Apr-24 | 4 X 30t CRANES | undisclosed | undisclosed |  |
 | HANDY | INTERLINK ETERNITY | 39,094 | 2019 | ZHEJIANG ZENGHOU, China | MAN-B\&amp;W | Sep-24 | 4 X 30,5t DERRICKS | $ 29.6m | undisclosed |  |
@@ -288,7 +288,7 @@ In the Handysize sector we had the sale of the "INTERLINK ETERNITY" (39,094dwt-b
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | NORTHERN JASPER | 8,814 | 2009 | DAEWOO, S. Korea | MAN-B&amp;W | Aug-24 |  | low/mid $ 130.0m | Danish (Maersk) |  |
-| POST PMAX | NORTHERN JUPITER | 8,814 | 2010 | DAEWOO, S. Korea | MAN-B&amp;W | Feb-25 |  | low/mid $ 130.0m |  |  |
+| POST PMAX | NORTHERN JUPITER | 8,814 | 2010 | DAEWOO, S. Korea | MAN-B&amp;W | Feb-25 |  | low/mid $ 130.0m | Danish (Maersk) |  |
 | PMAX | GUENTHER SCHULTE | 3,534 | 2008 | SHANGHAI SHIPYARD, China | MAN-B&amp;W | May-23 |  | $ 55.0m | Dubai based | BWTS fitted |
 ## Secondhand Sales
 
@@ -303,24 +303,21 @@ In the Handysize sector we had the sale of the "INTERLINK ETERNITY" (39,094dwt-b
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 01/07/2022 | 24/06/2022 | ±% | 2021 | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 69.0 | 69.0 | 0.0% | 59 | 51 | 54 |
-| **Capesize** | **180k** | 64.5 | 64.5 | 0.0% | 56 | 49 | 52 |
-| **Kamsarmax** | **82k** | 37.5 | 37.0 | **1.4%** | 33 | 28 | 30 |
-| **Ultramax** | **63k** | 35.5 | 35.5 | 0.0% | 30 | 26 | 28 |
-| **Handysize** | **38k** | 31.0 | 31.0 | 0.0% | 27 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 118.0 | 118.0 | 0.0% | 98 | 88 | 92 |
-| **Suezmax** | **160k** | 79.5 | 79.5 | 0.0% | 66 | 58 | 60 |
-| **Aframax** | **115k** | 61.5 | 61.5 | 0.0% | 53 | 48 | 49 |
-| **MR** | **50k** | 42.5 | 42.5 | 0.0% | 38 | 35 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 232.0 | 231.0 | **0.4%** | 195 | 187 | 186 |  |
-| **LGC LPG 80k cbm** | 87.0 | 87.0 | 0.0% | 76 | 73 | 73 |  |
-| **MGC LPG 55k cbm** | 74.5 | 74.5 | 0.0% | 67 | 63 | 65 |  |
-| **SGC LPG 25k cbm** | 52.0 | 52.0 | 0.0% | 45 | 42 | 44 |  |
+| Sector | Vessel | Size | 01/07/2022 | 24/06/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 69.0 | 69.0 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 64.5 | 64.5 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.0 | 1.4% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 35.5 | 35.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 118.0 | 118.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 79.5 | 79.5 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 61.5 | 61.5 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 42.5 | 42.5 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 232.0 | 231.0 | 0.4% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 87.0 | 87.0 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 74.5 | 74.5 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 45 | 42 | 44 |
 
 The newbuilding market demonstrated a healthy activity overall this week while being dominated by the owners' hunger for Container vessels. Orders have been reported across most main sectors. Indeed, the container sector gathered the lion's share with 3 announced orders for a total of 10+2 units. PIL inked a deal with Yangzijiang for 4x8,000teu LNG fuelled &amp; ammonia-ready vessels, set for 2025 delivery. In the meantime, CA shipping sealed a deal with Huangpu Wenchong for 4+4x1,600teu EEDI-phase3 units with expected delivery in 2024. Taizhou Sanfu was assigned by MPCC for the construction of 2x1,300teu methanol-powered vessels, against a 15yrs T/C to NCL. On the dry front, NYK placed an order for a 180,000dwt LNG fuelled vessel at Shanghai Waigaoqiao, while ESL declared an option for a 5,300dwt hybrid-electric, ice-class 1A unit to a series of 6 ordered last year at Chowgule yard. Moving on to the gas sector, an order for 1+1 LPG was announced after almost two months between PascoGas and KSOE. Owner will pay \$64.0m for the 40,000cbm unit agreed to be delivered within 2025. Conclusively, an order has been reported for 2 dual-fuel Ethylene Gas carriers from Ocean Yield at Yamic yard. This marks the 3rd order within 2022 for LEG carriers and the vessels will be built against a 15yrs T/C to Braskem.
 

@@ -176,8 +176,8 @@ Handysize conditions remained mostly restrained, although Asia and the US Gulf s
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | MAXIM | 296,887 | 2011 | SHANGHAI JIANGNAN, China | MAN B\&amp;W | Jun-26 | DH | $ 82.0m | S. Korean (Sinokor) | Scrubber fitted, forward delivery |
-| J19 | SINAR MALAHAYATI | 20,938 | 2006 | SHIN KURUSHIMA, Japan | MAN B\&amp;W | Jul-26 | DH | $ 22,95m | undisclosed | StSt, TC attached at 14,7k p/d |
-| J19 | SINAR MENDAWAI | 19,998 | 2008 | USUKI SHIPYARD, Japan | MAN B\&amp;W | Jul-28 | DH |  |  | StSt, TC attached at 13,7k p/d |
+| J19 | SINAR MALAHAYATI | 20,938 | 2006 | SHIN KURUSHIMA, Japan | MAN B\&amp;W | Jul-26 | DH | $ 22,95m (en bloc) | undisclosed | StSt, TC attached at 14,7k p/d |
+| J19 | SINAR MENDAWAI | 19,998 | 2008 | USUKI SHIPYARD, Japan | MAN B\&amp;W | Jul-28 | DH | $ 22,95m (en bloc) | undisclosed | StSt, TC attached at 13,7k p/d |
 | SMALL | GOLDEN CURL | 17,088 | 2008 | JIUJIANG, China | MAN B\&amp;W | Apr-28 | DH | $ 9.0m | undisclosed |  |
 
 ## Bulk Carriers
@@ -188,7 +188,7 @@ Handysize conditions remained mostly restrained, although Asia and the US Gulf s
 | SUPRA | AE MARS | 53,630 | 2006 | YANGZHOU DAYANG, China | MAN B\&amp;W | Aug-26 | 4 X 35t CRANES | $ 9.0m | undisclosed | via onlinde bidding platform |
 | SUPRA | WHITE BAY | 52,248 | 2004 | TSUNEISHI CEBU, Philippines | B\&amp;W | Apr-29 | 4 X 30t CRANES | $ 10.0m | undisclosed |  |
 | HANDY | INTERLINK CELERITY | 40,112 | 2017 | TAIZHOU KOUAN, China | MAN B\&amp;W | Nov-27 | 4 X 30t CRANES | $ 22,0m each | undisclosed | OHBS, Eco, Ice 1C |
-| HANDY | INTERLINK SOLIDITY | 40,098 | 2017 | TAIZHOU KOUAN, China | MAN B\&amp;W | Aug-27 | 4 X 30t CRANES |  |  |  |
+| HANDY | INTERLINK SOLIDITY | 40,098 | 2017 | TAIZHOU KOUAN, China | MAN B\&amp;W | Aug-27 | 4 X 30t CRANES | $ 22,0m each | undisclosed | OHBS, Eco, Ice 1C |
 
 ---
 
@@ -203,20 +203,20 @@ In containerships, CMA CGM ordered 8 boxships of 6k teu at Hengli Shipbuilding f
 On the gas carrier side, Cosco Shipping ordered a quarter of 175k cbm units at Jiangnan Shipyard for \$238.3m each, due in 2029-2030, against TC contract to Shell. Purus Marine booked a single 174k cbm unit at Samsung HI for \$252m, due for 2029. BGN International booked 2 VLGCs of 93k cbm at HD Hyundai HI for 2029. Finally, a JV between Seacon Shipping and CM Energy Tech placed a firm 20k cbm LNG bunkering vessel with option for a second one, at CMHI Haimen for \$80m, due for 2028.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 5-Jun-26 | 29-May-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2025 | 2024 | 2023 |
+| Sector | Vessel | Size | 5-Jun-26 | 29-May-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2025 | Average 2024 | Average 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 78.5 | 78.5 | 0.0% | 78.5 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 75.5 | 75.5 | 0.0% | 75.5 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 34.8 |
-|  | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
-|  | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
-|  | Suezmax | 160k | 89.5 | 89.5 | 0.0% | 89.5 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
-|  | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 76.0 | 68.7 |
-|  | MR | 50k | 51.0 | 51.0 | 0.0% | 51.0 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
-| **Gas** | LNG 174k cbm |  | 248.5 | 248.5 | 0.0% | 248.5 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
-|  | MGC LPG 55k cbm |  | 83.0 | 83.0 | 0.0% | **84.0** | 83.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 78.5 | 78.5 | 0.0% | 78.5 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 75.5 | 75.5 | 0.0% | 75.5 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 37.5 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 34.8 |
+| Bulkers | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 34.2 | 33.95 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 130.0 | 130.0 | 0.0% | 130.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 124.0 |
+| Tankers | Suezmax | 160k | 89.5 | 89.5 | 0.0% | 89.5 | 86.0 | 90.0 | 55.0 | 88.5 | 88.5 | 82.2 |
+| Tankers | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 76.0 | 68.7 |
+| Tankers | MR | 50k | 51.0 | 51.0 | 0.0% | 51.0 | 49.0 | 51.5 | 34.0 | 50.5 | 50.5 | 45.8 |
+| Gas | LNG 174k cbm |  | 248.5 | 248.5 | 0.0% | 248.5 | 248.0 | 265.0 | 186.0 | 262.9 | 263.0 | 259.0 |
+| Gas | MGC LPG 55k cbm |  | 83.0 | 83.0 | 0.0% | 84.0 | 83.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

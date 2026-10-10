@@ -233,8 +233,8 @@ In the Handysize sector we had the sale of the "MISS SIMONA" (34,529dwt-blt '10,
 | AFRA | PROSPEROUS | 105,355 | 2009 | SUMITOMO, Japan | MAN-B\&amp;W | Jan-24 | DH | $ 28.7m | undisclosed | BWTS fitted |
 | AFRA | VOYAGER I | 106,638 | 2002 | TSUNEISHI, Japan | B\&amp;W | Oct-22 | DH | $ 14.5m | Chinese |  |
 | AFRA | CHOLA QUEEN | 104,996 | 2002 | IMABARI, Japan | B\&amp;W | Oct-22 | DH | $ 17.0m | undisclosed |  |
-| PMAX | ARCTIC CHAR | 74,996 | 2008 | BRODOSPLIT, Croatia | MAN-B\&amp;W | Mar-23 | DH | $ 40.0m | undisclosed | Ice 1A, epoxy coated |
-| PMAX | ARCTIC FLOUNDER | 74,925 | 2009 | BRODOSPLIT, Croatia | MAN-B\&amp;W | Apr-24 | DH |  |  |  |
+| PMAX | ARCTIC CHAR | 74,996 | 2008 | BRODOSPLIT, Croatia | MAN-B\&amp;W | Mar-23 | DH | $ 40.0m (en bloc) | undisclosed | Ice 1A, epoxy coated |
+| PMAX | ARCTIC FLOUNDER | 74,925 | 2009 | BRODOSPLIT, Croatia | MAN-B\&amp;W | Apr-24 | DH | $ 40.0m (en bloc) | undisclosed | Ice 1A, epoxy coated |
 | PMAX | KARADENIZ POWERSHIP ANATOLIA | 72,515 | 2004 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jul-24 | DH | mid/high $ 13.0m | undisclosed |  |
 | MR2 | PRIORITY | 46,847 | 2005 | NAIKAI ZOSEN, Japan | B\&amp;W | Mar-25 | DH | $ 13.4m | Greek | BWTS fitted |
 
@@ -254,8 +254,8 @@ In the Handysize sector we had the sale of the "MISS SIMONA" (34,529dwt-blt '10,
 | SUPRA | DENALI | 53,800 | 2009 | JIANGSU EASTERN, China | MAN-B\&amp;W | Jan-24 | 4 X 36t CRANES | $ 16.0m | undisclosed | BWTS fitted |
 | HANDY | MISS SIMONA | 34,529 | 2010 | SPP, S. Korea | MAN-B\&amp;W | Jun-25 | 4 X 35t CRANES | $ 16.8m | Greek | BWTS fitted |
 | HANDY | GLOBAL AQUARIUS | 28,328 | 2010 | IMABARI, Japan | MAN-B\&amp;W | Jan-25 | 4 X 30,5t CRANES | $ 14.8m | Vietnamese | BWTS fitted |
-| HANDY | ECO ANGELBAY | 32,165 | 2009 | HAKODATE, Japan | Mitsubishi | Aug-22 | 4 X 30t CRANES | $ 39.0m | Greek (Imperial Petroleum) | BWTS fitted |
-| HANDY | ECO BUSHFIRE | 32,081 | 2011 | HAKODATE, Japan | Mitsubishi | Apr-26 | 4 X 30t CRANES |  |  | BWTS fitted |
+| HANDY | ECO ANGELBAY | 32,165 | 2009 | HAKODATE, Japan | Mitsubishi | Aug-22 | 4 X 30t CRANES | $ 39.0m (en bloc) | Greek (Imperial Petroleum) | BWTS fitted |
+| HANDY | ECO BUSHFIRE | 32,081 | 2011 | HAKODATE, Japan | Mitsubishi | Apr-26 | 4 X 30t CRANES | $ 39.0m (en bloc) | Greek (Imperial Petroleum) | BWTS fitted |
 | HANDY | AFRICAN FALCON | 27,101 | 2003 | NEW TIMES, China | MAN-B\&amp;W | Jun-23 | 4 X 30t CRANES | $ 11.7m | Egyptian | BWTS fitted |
 | HANDY | MARIA L | 28,404 | 1998 | HAKODATE, Japan | B\&amp;W | Oct-22 | 4x30.5, 4x30.0 | $ 7.3m | Syrian |  |
 
@@ -285,25 +285,22 @@ In the Handysize sector we had the sale of the "MISS SIMONA" (34,529dwt-blt '10,
 
 # Intermodal Newbuilding Market
 
-## Indicative Newbuilding Prices (million$)
-| Sector | Size | 29/07/2022 | 22/07/2022 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 69.0 | 69.0 | 0.0% | 51 | 54 | 51 |
-| Capesize | **180k** | 64.5 | 64.5 | 0.0% | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 37.5 | 37.5 | 0.0% | 28 | 30 | 29 |
-| Ultramax | **63k** | 35.5 | 35.5 | 0.0% | 26 | 28 | 27 |
-| Handysize | **38k** | 31.0 | 31.0 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 119.0 | 119.0 | 0.0% | 88 | 92 | 88 |
-| Suezmax | **160k** | 79.5 | 79.5 | 0.0% | 58 | 60 | 58 |
-| Aframax | **115k** | 61.5 | 61.5 | 0.0% | 48 | 49 | 47 |
-| MR | **50k** | 43.5 | 43.0 | 1.2% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 236.0 | 235.0 | 0.4% | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 87.0 | 87.0 | 0.0% | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |  |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 29/07/2022 | 22/07/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 69.0 | 69.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 64.5 | 64.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 35.5 | 35.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 119.0 | 119.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 79.5 | 79.5 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 61.5 | 61.5 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 43.5 | 43.0 | 1.2% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 236.0 | 235.0 | 0.4% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 87.0 | 87.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 July ended with a total number of 59 units added to the current orderbook. LNG carriers have the lion's share in July's contracting activity, with a total number of 16 vessels ordered through the month, followed by 14 tankers, 11 bulkers, 8 containers, 6 PCTCs, and 4 MPPs. Newbuilding contracting activity remained relatively unchanged over the past week, with 2 LNG orders on behalf of the Qatar LNG project monopolizing interest. More specifically, Meiji Kaiun and Lino Kaiun secured two berths each at DSME for the construction of 4x174,000cbm vessels in total, with expected delivery within 2025, at an undisclosed price. On the wet front, 3 orders for 5 units emerged last week. PCL secured 2x50,000dwt vessels at K Shipbuilding. The vessels will be delivered between 2023-2024 and will comply with NOx-Tier III standards. Helikon Shipping inked a deal for 2x50,000dwt vessels at Hyundai Vietnam, at a price of \$42.0m each. The conventionally fuelled vessels will be delivered within 2025 and will comply with EEDI phase 3 and NOx-Tier III standards. Lastly, Furetank ordered a 1x17,999dwt vessel in Jinling at an undisclosed price. The vessel will be LNG and biogas fuelled and will be delivered within 2024. Conclusively, on the container front, 2 orders emerged last week for a total number of 3 boxships. Hyundai Mipo was assigned for the construction of 2x2,500teu vessels by Namsung at the price of \$42.5m each with 2024 expected delivery. Lastly, Xiamen ordered a 1x2,206teu vessel at Haidont with expected delivery within 2024.
 

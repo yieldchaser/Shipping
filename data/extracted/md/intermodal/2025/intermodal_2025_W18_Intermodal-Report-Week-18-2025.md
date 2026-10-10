@@ -203,8 +203,8 @@ Secondhand Sales
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | IRIS | 314,000 | 2012 | HYUNDAI, S. Korea | Wartsila | Feb-27 | DH | undisclosed | Japanese (Modec) | Conversion project, Scrubber fitted |
-| VLCC | HAKONE | 302,624 | 2010 | UNIVERSAL, Japan | MAN B\&W | Nov-25 | DH | region $ 116,0m | UAE based | Scrubber fitted |
-| VLCC | HAKATA | 302,550 | 2010 | UNIVERSAL, Japan | MAN B\&W | Mar-28 | DH |  |  |  |
+| VLCC | HAKONE | 302,624 | 2010 | UNIVERSAL, Japan | MAN B\&W | Nov-25 | DH | region $ 116,0m (en bloc) | UAE based | Scrubber fitted |
+| VLCC | HAKATA | 302,550 | 2010 | UNIVERSAL, Japan | MAN B\&W | Mar-28 | DH | region $ 116,0m (en bloc) | UAE based | Scrubber fitted |
 | VLCC | PACIFIC LOYALTY | 307,284 | 2006 | DALIAN, China | Wartsila | Dec-26 | DH | $ 42.0m | Chinese |  |
 | MR1 | ZAGARA | 37,320 | 2002 | STX, S. Korea | MAN B\&W | Apr-27 | DH | $ 8.0m | undisclosed |  |
 
@@ -230,20 +230,20 @@ On the other segments, Western Energy, linked to Guatemalan shipowners, booked a
 As mentioned, the containership sector saw significant activity. OOCL placed two orders for a total of fourteen 18.5k teu methanol-fuelled boxships. Dalian Cosco secured orders for six vessels, while Nantong Cosco will build eight. Each vessel is priced at \$220 million, with deliveries scheduled for 2028-2029. Additionally, Canadian group Seaspan contracted with Shanghai
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 2-May-25 | 25-Apr-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2023 | 2022 |
+| Sector | Vessel | Size | 2-May-25 | 25-Apr-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 77.5 | 78.0 | -0.6% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | **180k** | 74.0 | 74.0 | 0.0% | 75.0 | 74.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | **82k** | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-|  | Ultramax | **63k** | 34.0 | 34.0 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-|  | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | **300k** | 125.0 | 125.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-|  | Suezmax | **160k** | 86.0 | 86.5 | -0.6% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-|  | Aframax | **115k** | 75.5 | 75.5 | 0.0% | 77.5 | 75.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-|  | MR | **50k** | 48.5 | 49.5 | -2.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** | LNG 174k cbm |  | 255.0 | 255.0 | 0.0% | 260.0 | 255.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-|  | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 77.5 | 78.0 | -0.6% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 74.0 | 74.0 | 0.0% | 75.0 | 74.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 125.0 | 125.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 86.0 | 86.5 | -0.6% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 75.5 | 75.5 | 0.0% | 77.5 | 75.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 48.5 | 49.5 | -2.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 255.0 | 255.0 | 0.0% | 260.0 | 255.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

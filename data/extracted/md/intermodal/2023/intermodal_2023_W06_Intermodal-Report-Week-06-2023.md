@@ -296,24 +296,21 @@ In the Handysize sector we had the sale of the "SHANGHAI PEARL" (36,260dwt-blt '
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 10-Feb-23 | 3-Feb-23 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 64.0 | 64.0 | 0.0% | 51 | 54 | 51 |
-| **Capesize** | **180k** | 61.0 | 61.0 | 0.0% | 49 | 52 | 49 |
-| **Kamsarmax** | **82k** | 34.0 | 34.0 | 0.0% | 28 | 30 | 29 |
-| **Ultramax** | **63k** | 31.5 | 31.5 | 0.0% | 26 | 28 | 27 |
-| **Handysize** | **38k** | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| **Suezmax** | **160k** | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| **Aframax** | **115k** | 65.0 | 64.5 | 0.8% | 48 | 49 | 47 |
-| **MR** | **50k** | 44.5 | 44.0 | 1.1% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |  |
-| **LGC LPG 80k cbm** | 91.0 | 91.0 | 0.0% | 73 | 73 | 71 |  |
-| **MGC LPG 55k cbm** | 78.0 | 78.0 | 0.0% | 63 | 65 | 63 |  |
-| **SGC LPG 25k cbm** | 53.0 | 53.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 10-Feb-23 | 3-Feb-23 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 61.0 | 61.0 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.0 | 34.0 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 31.5 | 31.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 65.0 | 64.5 | 0.8% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.5 | 44.0 | 1.1% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 91.0 | 91.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 78.0 | 78.0 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 53.0 | 53.0 | 0.0% | 42 | 44 | 43 |
 
 During the past few days the number of materialized newbuilding contacts that came to light was low with only three deals taking place while no container and LNG deals were recorded. More specifically, the Swiss based Advantage tankers ordered three scrubber fitted dual fuelled 158,000 dwt tankers from the Daehan Shipyard, due to be delivered in 2025. The price is reported at \$79.0 million each. The UAE Emepco FZE ordered four 80,000 dwt tankers from Haidong shipyard in China and they are expected to be delivered in 2025 and 2026. On the bulkers front, the Japanese Doun Kisen concluded a deal for the construction of two 40,500dwt units at Nantong Xiang-yu for an undisclosed price.
 

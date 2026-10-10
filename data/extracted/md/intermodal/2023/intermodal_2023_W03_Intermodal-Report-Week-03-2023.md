@@ -331,24 +331,21 @@ In the Capesize sector we had the sale of the "AQUAGENIE" (177,346dwt-bl't '03, 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 20-Jan-23 | 13-Jan-23 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 64.0 | 64.0 | 0.0% | 51 | 54 | 51 |
-| **Capesize** | **180k** | 61.0 | 61.0 | 0.0% | 49 | 52 | 49 |
-| **Kamsarmax** | **82k** | 34.0 | 34.0 | 0.0% | 28 | 30 | 29 |
-| **Ultramax** | **63k** | 31.5 | 31.5 | 0.0% | 26 | 28 | 27 |
-| **Handysize** | **38k** | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
-| **Suezmax** | **160k** | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
-| **Aframax** | **115k** | 64.5 | 64.0 | 0.8% | 48 | 49 | 47 |
-| **MR** | **50k** | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| **LNG 174k cbm** | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |  |
-| **LGC LPG 80k cbm** | 90.5 | 90.0 | 0.6% | 73 | 73 | 71 |  |
-| **MGC LPG 55k cbm** | 77.5 | 77.5 | 0.0% | 63 | 65 | 63 |  |
-| **SGC LPG 25k cbm** | 53.0 | 53.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 20-Jan-23 | 13-Jan-23 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 61.0 | 61.0 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.0 | 34.0 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 31.5 | 31.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 28.5 | 28.5 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.5 | 64.0 | 0.8% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 90.5 | 90.0 | 0.6% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 77.5 | 77.5 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 53.0 | 53.0 | 0.0% | 42 | 44 | 43 |
 
 The newbuilding dry bulk market activity continues to impress for another week with a total of ten firms plus four optional deals taking place. Algoma ordered two self-unloaded 80,000 dwt bulk carriers with option for two more at a price of around \$64m each. Additionally, the Fujian Guohang Group ordered four firm plus two optional 73,800 dwt bulkers while Yasa Shipping concluded a deal with COSCO Yangzhou for the construction of four 63,600 units at a price of \$31.0m each. On the container front, MSC placed a mammoth order for ten LNG fuelled 11,400teu boxships, costing almost \$120m each. On the LNG side, Greeks have a strong presence with 5 new orders. Dynagas placed an order for three 200,000 cbm LNG carriers while Capital Gas declared an option for two 174,000 cbm for \$261.3 million and \$253 million respectively.
 

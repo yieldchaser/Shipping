@@ -304,23 +304,20 @@ This week saw more tanker orders as low orderbooks and high freight rates encour
 Wallenius Wilhelmsen ordering 4 x 10,800 ceu and 2 x 9,300 ceu PCTC vessels respectively. Finally, the Greeks were also active in the container sector, with Danaos ordering two 8,258 TEU vessels from JNY for delivery between 2026-2027. The ships will be methanol-ready and scrubber equipped. Interestingly, there were no new orders for bulk carriers.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 23-Feb-24 | 16-Feb-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2023 | 2022 | 2021 |
+| Sector | Vessel | Size | 23-Feb-24 | 16-Feb-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Bulkers** | Newcastlemax | 205k | 70.5 | 70.5 | 0.0% | 70.5 | 70.0 | 70.5 | 49.5 | 66 | 66 | 59 |
-| **Bulkers** | Capesize | **180k** | 67.5 | 67.5 | 0.0% | 67.5 | 67.5 | 67.5 | 48.5 | 63 | 63 | 56 |
-| **Bulkers** | Kamsarmax | **82k** | 35.5 | 35.5 | 0.0% | 35.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
-| **Bulkers** | Ultramax | **63k** | 33.0 | 33.0 | 0.0% | 33.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
-| **Bulkers** | Handysize | **38k** | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
-| **Tankers** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Tankers** | VLCC | **300k** | 128.0 | 128.0 | 0.0% | 128.0 | 128.0 | 128.0 | 84.5 | 124 | 118 | 98 |
-| **Tankers** | Suezmax | **160k** | 85.5 | 85.5 | 0.0% | 85.5 | 85.0 | 85.5 | 55.0 | 82 | 79 | 66 |
-| **Tankers** | Aframax | **115k** | 73.5 | 73.5 | 0.0% | 73.5 | 73.0 | 73.5 | 46.0 | 69 | 62 | 53 |
-| **Tankers** | MR | **50k** | 48.5 | 48.5 | 0.0% | 48.5 | 48.0 | 48.0 | 34.0 | 46 | 43 | 38 |
-| **Gas** |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Gas** | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 265.0 | 265.0 | 180.0 | 259 | 232 | 195 |
-| **Gas** | MGC LPG 55k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 91.5 | 92.0 | 62.0 | 85 | 74 | 67 |
-| **Gas** | SGC LPG 25k cbm |  | 58.5 | 58.5 | 0.0% | 58.5 | 58.0 | 58.5 | 40.0 | 56 | 51 | 45 |
+| Bulkers | Newcastlemax | 205k | 70.5 | 70.5 | 0.0% | 70.5 | 70.0 | 70.5 | 49.5 | 66 | 66 | 59 |
+| Bulkers | Capesize | 180k | 67.5 | 67.5 | 0.0% | 67.5 | 67.5 | 67.5 | 48.5 | 63 | 63 | 56 |
+| Bulkers | Kamsarmax | 82k | 35.5 | 35.5 | 0.0% | 35.5 | 35.5 | 37.5 | 27.5 | 35 | 36 | 33 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 33.0 | 35.5 | 25.5 | 33 | 34 | 30 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 30.0 | 31.0 | 23.5 | 30 | 30 | 27 |
+| Tankers | VLCC | 300k | 128.0 | 128.0 | 0.0% | 128.0 | 128.0 | 128.0 | 84.5 | 124 | 118 | 98 |
+| Tankers | Suezmax | 160k | 85.5 | 85.5 | 0.0% | 85.5 | 85.0 | 85.5 | 55.0 | 82 | 79 | 66 |
+| Tankers | Aframax | 115k | 73.5 | 73.5 | 0.0% | 73.5 | 73.0 | 73.5 | 46.0 | 69 | 62 | 53 |
+| Tankers | MR | 50k | 48.5 | 48.5 | 0.0% | 48.5 | 48.0 | 48.0 | 34.0 | 46 | 43 | 38 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 265.0 | 265.0 | 180.0 | 259 | 232 | 195 |
+| Gas | MGC LPG 55k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 91.5 | 92.0 | 62.0 | 85 | 74 | 67 |
+| Gas | SGC LPG 25k cbm |  | 58.5 | 58.5 | 0.0% | 58.5 | 58.0 | 58.5 | 40.0 | 56 | 51 | 45 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

@@ -282,7 +282,7 @@ In the Handysize sector we had the sale of the "SEASTAR HARRIER" (39,804dwt-blt 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NEWCASTLEMAX | CHINA STEEL ENTREPRENEUR | 203,512 | 2007 | CHINA SHIPBUILDING KAO, Taiwan | MAN-B\&amp;W | Jan-27 |  | $ 17.75m | Greek | BWTS fitted |
-| NEWCASTLEMAX | CHINA STEEL TEAM | 203,512 | 2006 | CHINA SHIPBUILDING KAO, Taiwan | MAN-B\&amp;W | Aug-26 |  | $ 17.75m |  | BWTS fitted |
+| NEWCASTLEMAX | CHINA STEEL TEAM | 203,512 | 2006 | CHINA SHIPBUILDING KAO, Taiwan | MAN-B\&amp;W | Aug-26 |  | $ 17.75m | Greek | BWTS fitted |
 | HANDY | SEASTAR HARRIER | 39,804 | 2022 | HAKODATE, Japan | MAN-B\&amp;W |  | 4 X 30t CRANES | $ 30.9m | Japanese | resale, prompt delivery |
 | HANDY | PENELOPE T | 32,377 | 2011 | SAMHO, S. Korea | MAN-B\&amp;W | Apr-26 | 4 X 30t CRANES | xs $ 14.0m | Greek | BWTS fitted, at $17,000 p/d till Feb-Apr 2023 |
 ## Secondhand Sales
@@ -298,24 +298,21 @@ In the Handysize sector we had the sale of the "SEASTAR HARRIER" (39,804dwt-blt 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 18-Nov-22 | 11-Nov-22 | ±% | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 65.0 | 66.0 | -1.5% | 51 | 54 |
-| Capesize | 180k | 62.0 | 62.0 | 0.0% | 49 | 52 |
-| Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 28 | 30 |
-| Ultramax | 63k | 32.5 | 33.0 | -1.5% | 26 | 28 |
-| Handysize | 38k | 29.5 | 30.0 | -1.7% | 24 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 |
-| Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 |
-| Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 |
-| MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
-| LGC LPG 80k cbm | 88.5 | 88.5 | 0.0% | 73 | 73 | 71 |
-| MGC LPG 55k cbm | 75.5 | 75.5 | 0.0% | 63 | 65 | 63 |
-| SGC LPG 25k cbm | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
+| Sector | Vessel | Size | 18-Nov-22 | 11-Nov-22 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 65.0 | 66.0 | -1.5% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 62.0 | 62.0 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 32.5 | 33.0 | -1.5% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 29.5 | 30.0 | -1.7% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 64.0 | 64.0 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 44.0 | 44.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 248.0 | 248.0 | 0.0% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 88.5 | 88.5 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.5 | 75.5 | 0.0% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 Newbuilding contracting activity remained firm last week, with a healthy number of materialized orders. Yet, while tanker and bulker orders gathered momentum after quite a while, orders for gas carriers and boxships remained muted. More specifically, although 2022 has not been a strong year for bulker contracting activity and the orderbook stands at its lowest since 1996, Bocimar doubled its mammoth order at CMB and lifted its tally at the shipyard to a total of 20 vessels, by adding 10 more Newcastlemaxes last week. The owner is said to have benefited from the weak newbuilding activity and thus paying \$2m less per vessel compared to a pair of vessels it booked in March. Meanwhile, activity resumed in the tanker realm with a total of 3 orders emerging last week. Knutsen NYK booked one shuttle tanker at COSCO Zhousan, Tsakos inked 2 more shuttle tankers with SHI, while Al Seer Marine sealed a deal with the Jihnae-based yard, K Shipbuilding for 4 LNG-ready MR2 tankers.
 

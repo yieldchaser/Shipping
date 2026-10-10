@@ -243,7 +243,7 @@ Handysize vessels recorded another positive week, with most regions posting gain
 | SUPRA | EPIC TRADER | 56,778 | 2012 | JIANGSU HANTONG, China | MAN B\&amp;W | Aug-27 | 4x36.0, 4x30.0 | excess $ 13.0m | Chinese | Tier II |
 | SUPRA | APJ JAI | 56,594 | 2011 | COSCO GUANGDONG, China | MAN B\&amp;W | Dec-25 | 4 X 30t CRANES | $ 11.25m | Chinese |  |
 | HANDY | HAMBURG WAY | 39,376 | 2016 | JNS, China | MAN B\&amp;W | Jun-26 | 4 X 30,5t CRANES | low $ 17.0m each | European | Eco |
-| HANDY | HAMBURG PEARL | 39,359 | 2016 | JNS, China | MAN B\&amp;W | Apr-26 | 4 X 30t CRANES |  |  |  |
+| HANDY | HAMBURG PEARL | 39,359 | 2016 | JNS, China | MAN B\&amp;W | Apr-26 | 4 X 30t CRANES | low $ 17.0m each | European | Eco |
 | HANDY | WOOYANG QUEEN | 37,218 | 2011 | SAIKI, Japan | Mitsubishi | Aug-26 | 4 X 30t CRANES | high $ 13.0m | Vietnamese | OHBS |
 | HANDY | IVS KINGLET | 33,132 | 2011 | KANDA, Japan | Mitsubishi | Aug-26 | 4 X 30,5t CRANES | $ 12.25m | undisclosed | OHBS |
 
@@ -254,20 +254,20 @@ Handysize vessels recorded another positive week, with most regions posting gain
 The landscape shifted notably last week, marking a strong rebound from the previous weeks activity. A total of 10 reported orders covered 33 firm vessels plus 6 optional units. In the dry bulk sector, a single order was reported by the Chinese CSSC Shipping to the compatriot Qingdao Beihai, for a pair of 210.4k dwt vessels, at \$73.5m each and delivery in 2027-2028. In the wet segment, Eastern Pacific placed an order at Hengli SB Dalian, for 2 firm plus 2 optional 158k dwt vessels, with delivery in 2028, priced at \$90m each. Containerships led the newbuilding activity with 6 orders. MSC firmed 4 separate contracts: a quarter of 22k teu vessels at Shanghai Waigaoqiao, a pair of 22k teu LNG dual-fuel units at Hengli Heavy Industries at \$200m each), and 3 plus 3 LNG-capable vessels of 21k teu each, from CMHI Haimen priced at \$210m apiece, with delivery estimated in 2028-2029. Moreover, Yang Ming Marine ordered 7 units of 15k teu each at Hanwha Ocean The Norwegian MPC Container Ships placed an order for a quartet of 4.5k teu vessels at Taizhou Sanfu, with delivery scheduled for 2027. Upon delivery, these ships will operate under three-year charter agreements and are priced at \$57m each. Eastern Pacific was active in the containership segment as well, contracting 6 units of 1.8k teu each with China Merchants Jinling Shipyard, with delivery between 2027-2028. The construction cost is \$30m per vessel. In the gas carrier segment, we had an order signaling the return of US ship-building in the LNG segment, as Hanwha Shipping, shipping arm of Hanwha Ocean placed an order for 1 firm plus 1 optional 174k cbm LNG carrier with the US Hanwha Philly Shipyard, with delivery in 2028. Lastly, Navigator Amon Shipping, a JV between UK and Norwegian entities ordered 2 ammonia-fueled 51,530 cbm ammonia carriers from Nantong CIMC, at \$84m each.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 18-Jul-25 | 11-Jul-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2023 | 2022 |
+| Sector | Vessel | Size | 18-Jul-25 | 11-Jul-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 77.0 | 77.0 | 0.0% | 79.0 | 77.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 73.5 | 73.5 | 0.0% | 75.0 | 73.5 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-|  | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-|  | Handysize | 38k | 29.5 | 29.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 126.0 | 126.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-|  | Suezmax | 160k | 86.0 | 86.0 | 0.0% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-|  | Aframax | 115k | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-|  | MR | 50k | 49.0 | 49.0 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** | LNG 174k cbm |  | 252.0 | 253.0 | -0.4% | 260.0 | 252.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-|  | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 77.0 | 77.0 | 0.0% | 79.0 | 77.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 73.5 | 73.5 | 0.0% | 75.0 | 73.5 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 34.5 | 33.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 29.5 | 29.5 | 0.0% | 30.5 | 29.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 126.0 | 126.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 86.0 | 86.0 | 0.0% | 90.0 | 86.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 75.0 | 75.0 | 0.0% | 77.5 | 75.0 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 49.0 | 49.0 | 0.0% | 51.5 | 48.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 252.0 | 253.0 | -0.4% | 260.0 | 252.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

@@ -271,7 +271,7 @@ In the Ultramax sector we had the sale of the "PAVO BRIGHT" (61,281dwt-bl't '17,
 | SUPRA | EVNIA | 53,806 | 2003 | NEW TIMES, China | B&amp;W | Aug-23 | 4 X 40t CRANES | $ 14.4m | undisclosed |  |
 | HMAX | ZHONG LIANG HUA DONG | 46,513 | 2001 | OSHIMA, Japan | Sulzer | Jan-26 | 4 X 30t CRANES | around $ 12.02m | undisclosed | auction sale, Chinese flag, price incl around 13% tax back to buyer |
 | HANDY | NORDIC BUSAN | 35,800 | 2018 | SAMJIN, China | MAN-B&amp;W | Apr-23 | 4 X 30t CRANES | $ 25.5m | Thai (Precious Shipping) |  |
-| HANDY | NORDIC SEOUL | 35,882 | 2017 | SAMJIN, China | MAN-B&amp;W | Aug-22 | 4 X 30t CRANES | $ 24.5m |  |  |
+| HANDY | NORDIC SEOUL | 35,882 | 2017 | SAMJIN, China | MAN-B&amp;W | Aug-22 | 4 X 30t CRANES | $ 24.5m | Thai (Precious Shipping) |  |
 | HANDY | GOLDEN MAPLE | 32,527 | 2009 | ZHEJIANG, China | MAN-B&amp;W | Dec-24 | 4 X 30t CRANES | $ 14.0m | undisclosed | BWTS fitted, old sale |
 | HANDY | SUPER KATE | 32,162 | 2008 | HAKODATE, Japan | Mitsubishi | Oct-25 | 4 X 30t CRANES | mid-high $ 16.0m | undisclosed | BWTS fitted |
 
@@ -298,24 +298,21 @@ In the Ultramax sector we had the sale of the "PAVO BRIGHT" (61,281dwt-bl't '17,
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 27/05/2022 | 20/05/2022 | ±% | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bulkers |  |  |  |  |  |  |
-| Newcastlemax | 205k | 68.0 | 67.0 | 1.5% | 59 | 51 |
-| Capesize | 180k | 63.5 | 62.5 | 1.6% | 56 | 49 |
-| Kamsarmax | 82k | 37.0 | 37.0 | 0.0% | 33 | 28 |
-| Ultramax | 63k | 35.5 | 34.5 | 2.9% | 30 | 26 |
-| Handysize | 38k | 31.0 | 30.5 | 1.6% | 27 | 24 |
-| Tankers |  |  |  |  |  |  |
-| VLCC | 300k | 118.0 | 116.5 | 1.3% | 98 | 88 |
-| Suezmax | 160k | 79.0 | 78.5 | 0.6% | 66 | 58 |
-| Aframax | 115k | 61.5 | 61.5 | 0.0% | 53 | 48 |
-| MR | 50k | 42.0 | 42.0 | 0.0% | 38 | 35 |
-| Gas |  |  |  |  |  |  |
-| LNG 174k cbm | 227.0 | 226.0 | 0.4% | 195 | 187 | 186 |
-| LGC LPG 80k cbm | 85.5 | 85.5 | 0.0% | 76 | 73 | 73 |
-| MGC LPG 55k cbm | 73.0 | 73.0 | 0.0% | 67 | 63 | 65 |
-| SGC LPG 25k cbm | 50.5 | 50.5 | 0.0% | 45 | 42 | 44 |
+| Sector | Vessel | Size | 27/05/2022 | 20/05/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 68.0 | 67.0 | 1.5% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 63.5 | 62.5 | 1.6% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 37.0 | 37.0 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 35.5 | 34.5 | 2.9% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 31.0 | 30.5 | 1.6% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 118.0 | 116.5 | 1.3% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 79.0 | 78.5 | 0.6% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 61.5 | 61.5 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 42.0 | 42.0 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 227.0 | 226.0 | 0.4% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 85.5 | 85.5 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 73.0 | 73.0 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 50.5 | 50.5 | 0.0% | 45 | 42 | 44 |
 
 The shipbuilding activity remained firm during the past days with contracts coming to light across all the different sectors. In the bulker sector, HK based Chellaram concluded a deal with Yamic yard, in China, for two 64.000dwt bulkers, at \$36.0 million each. In the wet sector, Norwegian EuroGreen has contracted New Times Shipbuilding in China, to build eight methanol-fuelled product tankers, at \$58.0 million each. Moving forward, An LOI was signed between Kumiai Navigation and Kawasaki yard for the construction of two dual-fuelled VLGC of 86,700cbm, each to be delivered in 2025. Lastly, in the container sector, Regional Container Lines has declared an option for the construction of two 7.000teu boxships at Shanghai Waigaoqiao in China, to be delivered in 2024-2025, at the price of \$85.0 million each.
 

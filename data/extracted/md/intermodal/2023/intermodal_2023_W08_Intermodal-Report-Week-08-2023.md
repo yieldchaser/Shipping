@@ -264,7 +264,7 @@ In the Handysize sector we had the sale of the "INTERLINK PRIORITY" (38,709dwt-b
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | GALVESTON STAR | 115,000 | 2023 | DAEHAN, S. Korea | MAN-B\&amp;W |  | DH | $ 76.0m | Libyan (GNMTC) | resale |
-| AFRA | DELAWARE STAR | 115,000 | 2023 | DAEHAN, S. Korea | MAN-B\&amp;W |  | DH | $ 76.0m |  |  |
+| AFRA | DELAWARE STAR | 115,000 | 2023 | DAEHAN, S. Korea | MAN-B\&amp;W |  | DH | $ 76.0m | Libyan (GNMTC) | resale |
 | LR2 | BEKS INDIANA | 105,547 | 2007 | SUMITOMO, Japan | Wartsila | Mar-27 | DH | undisclosed | undisclosed |  |
 | LR1 | SAND SHINER | 73,715 | 2006 | NEW TIMES, China | MAN-B\&amp;W | Dec-26 | DH | $ 23.25m | undisclosed | BWTS, Scrubber fitted |
 | MR2 | SPRUCE EXPRESS | 51,218 | 2006 | STX, S. Korea | MAN-B\&amp;W | Sep-26 | DH | $ 19.0m | Greek | BWTS fitted |
@@ -308,24 +308,21 @@ In the Handysize sector we had the sale of the "INTERLINK PRIORITY" (38,709dwt-b
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 24-Feb-23 | 17-Feb-23 | ±% | 2022 | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 64.0 | 64.0 | 0.0% | 66 | 59 | 51 |
-| **Capesize** | **180k** | 61.0 | 61.0 | 0.0% | 63 | 56 | 49 |
-| **Kamsarmax** | **82k** | 34.0 | 34.0 | 0.0% | 36 | 33 | 28 |
-| **Ultramax** | **63k** | 31.5 | 31.5 | 0.0% | 34 | 30 | 26 |
-| **Handysize** | **38k** | 29.0 | 29.0 | 0.0% | 30 | 27 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 120.0 | 120.0 | 0.0% | 118 | 98 | 88 |
-| **Suezmax** | **160k** | 80.0 | 80.0 | 0.0% | 79 | 66 | 58 |
-| **Aframax** | **115k** | 66.0 | 66.0 | 0.0% | 62 | 53 | 48 |
-| **MR** | **50k** | 44.5 | 44.5 | 0.0% | 43 | 38 | 35 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 250.0 | 249.0 | 0.4% | 232 | 195 | 187 |  |
-| LGC LPG 80k cbm | 92.0 | 91.5 | 0.5% | 86 | 76 | 73 |  |
-| MGC LPG 55k cbm | 79.0 | 78.5 | 0.6% | 74 | 67 | 63 |  |
-| SGC LPG 25k cbm | 53.0 | 53.0 | 0.0% | 51 | 45 | 42 |  |
+| Sector | Vessel | Size | 24-Feb-23 | 17-Feb-23 | ±% | 2022 | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 61.0 | 61.0 | 0.0% | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.0 | 34.0 | 0.0% | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 31.5 | 31.5 | 0.0% | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 29.0 | 29.0 | 0.0% | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 66.0 | 66.0 | 0.0% | 62 | 53 | 48 |
+| Tankers | MR | 50k | 44.5 | 44.5 | 0.0% | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 250.0 | 249.0 | 0.4% | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 91.5 | 0.5% | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 79.0 | 78.5 | 0.6% | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 53.0 | 53.0 | 0.0% | 51 | 45 | 42 |
 
 Subdued newbuilding market activity materialized last week with only a handful of orders coming to light. The Greek owner Sea Pioneer ordered three 81,800 dwt bulk carriers at Oshima Shipyard to be delivered In 2025 and is believed to have cost the owners \$38m each. The Abu Dhabi-based ABGC-DMCC ordered three 88,000 dwt VLGCs from Hyundai Samho, to be delivered in 2025 and 2026 for a price of \$98.5m per vessel. On the Tanker front, the Japanese Shoei Kisen placed an order of four 50,000 dwt at the Japanese Minaminippon Shipbuilding. The ships are expected to be delivered in 2025 and the cost remained undisclosed.
 

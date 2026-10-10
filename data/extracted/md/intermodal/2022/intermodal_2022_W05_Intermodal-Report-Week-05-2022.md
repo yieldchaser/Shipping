@@ -260,9 +260,9 @@ In the Handysize sector we had the auction sale of the "MARINE PRINCESS" (35,501
 | VLCC | ATHENIAN SUCCESS | 298,996 | 2010 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Jan-25 | DH | $ 42.5m | S. Korean (Sinokor) |  |
 | AFRA | GLIFA | 109,229 | 2005 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Aug-25 | DH | $ 14.5m | Indonesian (Soechi Lines) |  |
 | MR2 | STI DUCHESSA | 49,990 | 2014 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-24 | DH | $ 26.5m | Indonesian (Pertamina) | BWTS and Scrubber fitted |
-| HANDY | TEAM OSPREY | 25,432 | 2009 | DAE SUN, S. Korea | MAN-B\&amp;W | Apr-24 | DH | rgn $ 9.0m |  |  |
+| HANDY | TEAM OSPREY | 25,432 | 2009 | DAE SUN, S. Korea | MAN-B\&amp;W | Apr-24 | DH | rgn $ 9.0m | European |  |
 | HANDY | TEAM FALCON | 25,419 | 2009 | DAE SUN, S. Korea | MAN-B\&amp;W | Jan-24 | DH | rgn $ 9.0m | European |  |
-| HANDY | TEAM HAWK | 25,385 | 2008 | DAE SUN, S. Korea | MAN-B\&amp;W | Jun-25 | DH | rgn $ 9.0m |  |  |
+| HANDY | TEAM HAWK | 25,385 | 2008 | DAE SUN, S. Korea | MAN-B\&amp;W | Jun-25 | DH | rgn $ 9.0m | European |  |
 | SMALL | SUMMER | 13,023 | 2009 | 21ST CENTURY, S. Korea | MAN-B\&amp;W | Jun-24 | DH | undisclosed | Greek |  |
 | SMALL | EASTERN LIBERTY | 8,857 | 2002 | USUKI, Japan | Mitsubishi | Jun-22 | DH | $ 3.6m | Inonesian | St-St |
 
@@ -292,10 +292,10 @@ In the Handysize sector we had the auction sale of the "MARINE PRINCESS" (35,501
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | BALTIC BRIDGE | 7,471 | 2005 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-25 |  |  |  |  |
-| PMAX | BALTIC SOUTH | 4,432 | 2010 | HYUNDAI ULSAN, S. Korea | Wartsila | Aug-25 |  | $ 350.0m | Swiss (MSC) | end Jan-2022 deal |
-| PMAX | NORTH BRIDGE | 4,298 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Feb-23 |  |  |  |  |
-| PMAX | SINGAPORE BRIDGE | 4,253 | 2002 | SAMSUNG, S. Korea | B\&amp;W | Dec-22 |  |  |  |  |
+| POST PMAX | BALTIC BRIDGE | 7,471 | 2005 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-25 |  | $ 350.0m (en bloc) | Swiss (MSC) | end Jan-2022 deal |
+| PMAX | BALTIC SOUTH | 4,432 | 2010 | HYUNDAI ULSAN, S. Korea | Wartsila | Aug-25 |  | $ 350.0m (en bloc) | Swiss (MSC) | end Jan-2022 deal |
+| PMAX | NORTH BRIDGE | 4,298 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Feb-23 |  | $ 350.0m (en bloc) | Swiss (MSC) | end Jan-2022 deal |
+| PMAX | SINGAPORE BRIDGE | 4,253 | 2002 | SAMSUNG, S. Korea | B\&amp;W | Dec-22 |  | $ 350.0m (en bloc) | Swiss (MSC) | end Jan-2022 deal |
 | FEEDER | SAG GOOD TIMING | 1,118 | 2009 | TAIZHOU KOUAN, China | MAN | Mar-24 | 2 X 45t CRANES | $ 22.0m | undisclosed |  |
 
 © Intermodal Research 08/02/2022 5
@@ -304,25 +304,22 @@ In the Handysize sector we had the auction sale of the "MARINE PRINCESS" (35,501
 
 # Intermodal Newbuilding Market
 
-## Indicative Newbuilding Prices (million$)
-| Sector | Size | 04/02/2022 | 28/01/2022 | ±% | 2021 | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 63.5 | 63.5 | 0.0% | 59 | 51 | 54 |
-| Capesize | **180k** | 60.5 | 60.5 | 0.0% | 56 | 49 | 52 |
-| Kamsarmax | **82k** | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
-| Ultramax | **63k** | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
-| Handysize | **38k** | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 114.0 | 114.0 | 0.0% | 98 | 88 | 92 |
-| Suezmax | **160k** | 76.0 | 76.0 | 0.0% | 66 | 58 | 60 |
-| Aframax | **115k** | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
-| MR | **50k** | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 215.0 | 214.0 | **0.5%** | 195 | 187 | 186 |  |
-| LGC LPG 80k cbm | 81.5 | 81.5 | 0.0% | 76 | 73 | 73 |  |
-| MGC LPG 55k cbm | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |  |
-| SGC LPG 25k cbm | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |  |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 04/02/2022 | 28/01/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 114.0 | 114.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 76.0 | 76.0 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 60.0 | 60.0 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 215.0 | 214.0 | 0.5% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 81.5 | 81.5 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |
 
 January ended with the container units having the lions 'share of the 2022 orderbook with a total of fifty boxships being ordered followed by thirteen LNG vessels, eleven bulk carriers, and only two MR2 tanker units. The same momentum is being witnessed in February as well, with containers almost monopolizing last week's newbuilding list. Starting with the most pronounced deal, Zodiac Maritime inked a contract for the construction of six LNG fuelled 15,000teu vessels at DSME at a price of \$182.7 million each. Greek appetite for such units was evident, with Capital Ship Management ordering four firm plus two optional 7,100teu boxships at DSIC while, Greek owners Tsakos and Euroseas concluded deals for the construction of four and two 2,800teu units respectively at Hyundai Mipo yard. Lastly, DSME secured another duo of 174,000cbm LNG units from Greek owner Maran Gas. The owner's last order is an option that was retained from November 2021 initial deal. Price of the latest duo is coming with a premium of twelve million (\$217.5m vs \$205.5m).
 

@@ -202,8 +202,8 @@ Supramax 10TC averaged \$ 7,831/day down -9.23% w-o-w, while the Handysize 7TC a
 ## **Tankers**
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | AMAX AVENUE | 115,785 | 2010 | SAMSUNG, S. Korea | MAN-B\&W | Jun-25 | DH | region $ 79.0m | undisclosed |
-| AFRA | AMAX ANTHEM | 116,087 | 2011 | SAMSUNG, S. Korea | MAN-B\&W | Oct-26 | DH |  |  |
+| AFRA | AMAX AVENUE | 115,785 | 2010 | SAMSUNG, S. Korea | MAN-B\&W | Jun-25 | DH | region $ 79.0m (en bloc) | undisclosed |
+| AFRA | AMAX ANTHEM | 116,087 | 2011 | SAMSUNG, S. Korea | MAN-B\&W | Oct-26 | DH | region $ 79.0m (en bloc) | undisclosed |
 | SMALL | WOOLIM 3 | 11,460 | 2018 | STX, S. Korea | MAN-B\&W | Oct-28 | DH | $ 24.0m | undisclosed |
 
 ## **Bulk Carriers**
@@ -224,20 +224,20 @@ Supramax 10TC averaged \$ 7,831/day down -9.23% w-o-w, while the Handysize 7TC a
 The newbuilding activity was limited this week, with 4 orders placed for 7 vessels, mostly in Chinese shipyards. Bulkers counted 1 order of 2 ultramaxes of 63.5k dwt each, placed by the Chinese Zhejiang Zheshang Financial Leasing to the competitor Jiangsu Soho Chuangke Shipbuilding, with the price ranging around \$34-\$35 m per vessel and expected delivery in 2027. Moving to the wet sector, the Greek owner Pleiades contracted 3 tankers of 73k dwt each at the Chinese yard New Times, due for delivery in 2028. The Italian group Fratelli Cosulich ordered an IMO 2 methanol ready bunkering tanker of 8k dwt at Taizhou Maple Leaf of China. The delivery due for Q4 2026. Finally, the gas segment witnessed some action as well, with one order placed by the Danish Celsius Tankers to the Korean Samsung HI for a 180k cbm Gas Carrier, priced at \$261.5m and estimated delivery in 2027.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 17-Jan-25 | 10-Jan-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2023 | 2022 |
+| Sector | Vessel | Size | 17-Jan-25 | 10-Jan-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 79.0 | 79.0 | 0.0% | 79.0 | 79.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | 82k | 37.00 | 37.00 | 0.0% | 37.0 | 37.0 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-|  | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-|  | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.0 | 129.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-|  | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 90.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-|  | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 77.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-|  | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 51.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** | LNG 174k cbm |  | 259.0 | 259.0 | 0.0% | 260.0 | 259.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-|  | MGC LPG 55k cbm |  | 89.5 | 89.5 | 0.0% | 90.5 | 89.5 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 62.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 79.0 | 79.0 | 0.0% | 79.0 | 79.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 37.00 | 37.00 | 0.0% | 37.0 | 37.0 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 129.0 | 129.0 | 0.0% | 129.0 | 129.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 90.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 77.5 | 77.5 | 0.0% | 77.5 | 77.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 51.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 259.0 | 259.0 | 0.0% | 260.0 | 259.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 89.5 | 89.5 | 0.0% | 90.5 | 89.5 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 62.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -279,6 +279,6 @@ The ship recycling market remains constrained, characterized by limited activity
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| OCEAN PEACE | 72,338 | 11,654 | 1994 | HYUNDAI, S. Korea | BC | $ 455.0m | Bangladeshi | with 200 Ts bunkers |
-| RONG YUAN | 70,257 | 9,165 | 1997 | SANOYAS, Japan | BC | $ 450.0m | Bangladeshi |  |
-| GOLDEN ORIENT | 73,326 | 10,664 | 1998 | HALLA ENG & HI, S. Korea | BC | $ 418.0m | undisclosed | as is Hong Kong |
+| OCEAN PEACE | 72,338 | 11,654 | 1994 | HYUNDAI, S. Korea | BC | $ 455/Ldt | Bangladeshi | with 200 Ts bunkers |
+| RONG YUAN | 70,257 | 9,165 | 1997 | SANOYAS, Japan | BC | $ 450/Ldt | Bangladeshi |  |
+| GOLDEN ORIENT | 73,326 | 10,664 | 1998 | HALLA ENG & HI, S. Korea | BC | $ 418/Ldt | undisclosed | as is Hong Kong |

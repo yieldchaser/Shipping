@@ -270,9 +270,9 @@ In the Handysize sector we had the sale of the "CRIMSON PRINCESS" (38,395dwt-blt
 | MR2 | PS MILANO | 50,554 | 2008 | SPP, S. Korea | MAN-B\&amp;W | May-22 | DH | low-mid $ 11.0m | Turkish | trading dirty, deepwell |
 | MR1 | HAFNIA KARAVA | 40,020 | 2007 | SAIKI, Japan | Mitsubishi | Mar-22 | DH | excess $ 9.0m | undisclosed | trading DPP |
 | MR1 | CHEMWAY GAIA | 38,106 | 2007 | SHIN KURUSHIMA, Japan | Mitsubishi | Mar-22 | DH | $ 7.8m | Far Eastern | BWTS fitted, SS/DD due March 2022 |
-| MR1 | GULF MOON | 37,488 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jun-22 | DH | mid-high $7.0m |  |  |
+| MR1 | GULF MOON | 37,488 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jun-22 | DH | mid-high $7.0m | Greek | zinc coated |
 | MR1 | GULF MIST | 37,488 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-22 | DH | mid-high $7.0m | Greek | zinc coated |
-| MR1 | GULF MEWS | 37,448 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jul-22 | DH | mid-high $7.0m |  |  |
+| MR1 | GULF MEWS | 37,448 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jul-22 | DH | mid-high $7.0m | Greek | zinc coated |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -310,24 +310,21 @@ In the Handysize sector we had the sale of the "CRIMSON PRINCESS" (38,395dwt-blt
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 14/01/2022 | 07/01/2022 | ±% | 2021 | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| **Newcastlemax** | **205k** | 63.5 | 63.5 | 0.0% | 59 | 51 | 54 |
-| **Capesize** | **180k** | 60.5 | 60.5 | 0.0% | 56 | 49 | 52 |
-| **Kamsarmax** | **82k** | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
-| **Ultramax** | **63k** | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
-| **Handysize** | **38k** | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| **VLCC** | **300k** | 113.0 | 112.5 | 0.4% | 98 | 88 | 92 |
-| **Suezmax** | **160k** | 76.0 | 76.0 | 0.0% | 66 | 58 | 60 |
-| **Aframax** | **115k** | 60.0 | 59.5 | 0.8% | 53 | 48 | 49 |
-| **MR** | **50k** | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 212.0 | 211.0 | 0.5% | 195 | 187 | 186 |  |
-| LGC LPG 80k cbm | 81.5 | 81.5 | 0.0% | 76 | 73 | 73 |  |
-| MGC LPG 55k cbm | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |  |
-| SGC LPG 25k cbm | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |  |
+| Sector | Vessel | Size | 14/01/2022 | 07/01/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 33.5 | 33.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 113.0 | 112.5 | 0.4% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 76.0 | 76.0 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 60.0 | 59.5 | 0.8% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 41.0 | 41.0 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 212.0 | 211.0 | 0.5% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 81.5 | 81.5 | 0.0% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 71.5 | 71.5 | 0.0% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 49.0 | 49.0 | 0.0% | 45 | 42 | 44 |
 
 The newbuilding market activity remains healthy for another week. The presence of Container orders remains strong, gathering the largest share of last week's surfacing deals. At the same time, compared to the previous week's LNG contracting activity where a total of eleven LNG units were ordered, last week a sole order came to light. More specifically, Mitsui OSK Lines exercised an option for one 174,000 cbm vessel at DSME for a price of \$208.0 million. On the more conventional units, NYK Lined inked deals with Nihon, Namura and Shanghai Waigaoqiao yards. Nihon will construct two LNG fuelled 180,000dwt vessels with the remaining yards building from one 180,000dwt LNG fuelled unit each. Lastly, appetite for tanker units remained muted for another week.
 
@@ -370,9 +367,9 @@ The newbuilding market activity remains healthy for another week. The presence o
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Bulker | 180,000 dwt | Nihon, Japan | 2024-2025 |  | undisclosed |  |
+| 2 | Bulker | 180,000 dwt | Nihon, Japan | 2024-2025 | Japanese (NYK Line) | undisclosed | LNG fuelled |
 | 1 | Bulker | 180,000 dwt | Namura, Japan | 2024-2025 | Japanese (NYK Line) | undisclosed | LNG fuelled |
-| 1 | Bulker | 180,000 dwt | Shanghai Waigaoqiao, China | 2024-2025 |  | undisclosed |  |
+| 1 | Bulker | 180,000 dwt | Shanghai Waigaoqiao, China | 2024-2025 | Japanese (NYK Line) | undisclosed | LNG fuelled |
 | 1 | LNG | 174,000 cbm | DSME, S. Korea | 2024 | Japanese (Mitsui OSK Lines) | $ 208.0m | option declared |
 | 3+3 | Container | 7,000 teu | Hyundai Hi, South Korea | 2024 | Singaporean (Eastern Pacific) | around $116.0m | against 8-yr T/C to Zim, dual fuelled |
 | 4 | Container | 5,500 teu | Hanjin, S. Korea | 2023 | German (MPC) | undisclosed | methanol ready |

@@ -205,8 +205,8 @@ Avg Aframax TCE at \$49,430, up by 5.4% w-o-w
 | CAPE ACACIA | 206,237 | 2005 | IMABARI, Japan | MAN-B\&amp;W | Aug-27 |  | $ 21.5m | Chinese |  |
 | CHINA PROGRESS | 174,322 | 2006 | SHANGHAI WAIGAOQIAO, China | MAN B\&amp;W | Jun-26 |  | $ 17.0m | Chinese |  |
 | SHUN FU DA | 82,849 | 2006 | TSUNEISHI, Japan | MAN B\&amp;W | May-26 |  | $ 11.4m | undisclosed |  |
-| MAPLEGATE | 63,449 | 2019 | IWAGI ZOSEN, Japan | MAN B\&amp;W | Aug-29 | 4 X 30t CRANES | region $ 62.0m | Indonesian | Eco |
-| OAKGATE | 60,407 | 2018 | OSHIMA, Japan | MAN B\&amp;W | Nov-28 | 4 X 30t CRANES |  |  |  |
+| MAPLEGATE | 63,449 | 2019 | IWAGI ZOSEN, Japan | MAN B\&amp;W | Aug-29 | 4 X 30t CRANES | region $ 62.0m (en bloc) | Indonesian | Eco |
+| OAKGATE | 60,407 | 2018 | OSHIMA, Japan | MAN B\&amp;W | Nov-28 | 4 X 30t CRANES | region $ 62.0m (en bloc) | Indonesian | Eco |
 | AMIS WISDOM III | 61,527 | 2011 | SHIN KASADO, Japan | MAN B\&amp;W | Jan-26 | 4 X 30,5t CRANES | $ 17.5m | Chinese (Arm Shipping Ltd) |  |
 
 ---
@@ -220,20 +220,20 @@ Moving to tankers, Jaldhi Overseas from Singapore as well, placed two orders to 
 The gas segment saw one order, by the Belgian Somtrans to the Chinese CIMC Sinopacific Offshore for the construction of a 20k cbm LNG bunkering unit, to be delivered in 2027.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 11-Apr-25 | 4-Apr-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2023 | 2022 |
+| Sector | Vessel | Size | 11-Apr-25 | 4-Apr-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 78.0 | 78.0 | 0.0% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 74.0 | 74.0 | 0.0% | 75.0 | 74.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-|  | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-|  | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 125.0 | 125.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-|  | Suezmax | 160k | 86.5 | 86.5 | 0.0% | 90.0 | 86.5 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-|  | Aframax | 115k | 75.5 | 75.5 | 0.0% | 77.5 | 75.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-|  | MR | 50k | 49.5 | 49.5 | 0.0% | 51.5 | 49.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** | LNG 174k cbm |  | 255.0 | 255.0 | 0.0% | 260.0 | 255.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-|  | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 60.0 | 60.5 | -0.8% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 78.0 | 78.0 | 0.0% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 74.0 | 74.0 | 0.0% | 75.0 | 74.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 36.5 | 36.5 | 0.0% | 37.0 | 36.5 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 34.0 | 34.0 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 125.0 | 125.0 | 0.0% | 129.0 | 125.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 86.5 | 86.5 | 0.0% | 90.0 | 86.5 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 75.5 | 75.5 | 0.0% | 77.5 | 75.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 49.5 | 49.5 | 0.0% | 51.5 | 49.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 255.0 | 255.0 | 0.0% | 260.0 | 255.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 60.0 | 60.5 | -0.8% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

@@ -260,7 +260,7 @@ In the Supramax sector we had the sale of the "SERENITAS N" (56,811dwt-blt '11, 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | UBUNTU UNITY | 190,000 | 2023 | SHANGHAI WAIGAOQIAO, China | Wartsila |  |  | undisclosed | Greek (Maran Dry) | DF LNG, Incl. long TC attached, dely Q1 2023 |
-| CAPE | UBUNTU COMMUNITY | 190,000 | 2023 | SHANGHAI WAIGAOQIAO, China | Wartsila |  |  | undisclosed |  |  |
+| CAPE | UBUNTU COMMUNITY | 190,000 | 2023 | SHANGHAI WAIGAOQIAO, China | Wartsila |  |  | undisclosed | Greek (Maran Dry) | DF LNG, Incl. long TC attached, dely Q1 2023 |
 | CAPE | THALASSINI ASTRID | 179,816 | 2014 | TIANJIN XINGANG, China | MAN-B\&amp;W | Mar-24 |  | $ 34.0m | UAE based (Tomini) | Scrubber fitted, Eco |
 | KMAX | LIBERTY K | 82,217 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Jan-25 |  | $ 19.3m | Greek | BWTS fitted |
 | KMAX | HAMPTON BAY | 81,508 | 2009 | UNIVERSAL, Japan | MAN-B\&amp;W | Mar-24 |  | $ 19.8m | Greek | BWTS fitted |
@@ -279,10 +279,10 @@ In the Supramax sector we had the sale of the "SERENITAS N" (56,811dwt-blt '11, 
 | PMAX | RIO CENTAURUS | 3,426 | 2010 | NORDSEEWERKE, Germany | MAN-B\&amp;W | Jul-25 |  | $ 18.9m | Norwegian | Scrubber fitted, Incl. TC attached, Ice Class II |
 | SUB PMAX | TRF KAYA | 2,824 | 2007 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jul-22 |  | $ 15.0m | Norwegian | BWTS &amp; Scrubber fitted, Incl. TC attached |
 | SUB PMAX | NORTHERN VIVACITY | 2,742 | 2005 | AKER MTW WERFT, Germany | B\&amp;W | Sep-25 |  | $ 13.0m | undisclosed | Ice Class II |
-| SUB PMAX | NORTHERN VOLITION | 2,742 | 2005 | AKER MTW WERFT, Germany | B\&amp;W | Nov-25 |  | $ 13.0m |  | Ice Class II |
-| FEEDER | TS YOKOHAMA | 1,096 | 2019 | KYOKUYO ZOSEN, Japan | MAN-B\&amp;W | Nov-24 |  |  |  | BWTS fitted |
-| FEEDER | TS SHANGHAI | 1,096 | 2019 | KYOKUYO ZOSEN, Japan | MAN-B\&amp;W | Aug-24 |  | $ 40.0m | European | BWTS fitted |
-| FEEDER | TS MOJI | 962 | 2006 | DAE SUN, S. Korea | MAN-B\&amp;W | Dec-26 |  |  |  | BWTS fitted |
+| SUB PMAX | NORTHERN VOLITION | 2,742 | 2005 | AKER MTW WERFT, Germany | B\&amp;W | Nov-25 |  | $ 13.0m | undisclosed | Ice Class II |
+| FEEDER | TS YOKOHAMA | 1,096 | 2019 | KYOKUYO ZOSEN, Japan | MAN-B\&amp;W | Nov-24 |  | $ 40.0m (en bloc) | European | BWTS fitted |
+| FEEDER | TS SHANGHAI | 1,096 | 2019 | KYOKUYO ZOSEN, Japan | MAN-B\&amp;W | Aug-24 |  | $ 40.0m (en bloc) | European | BWTS fitted |
+| FEEDER | TS MOJI | 962 | 2006 | DAE SUN, S. Korea | MAN-B\&amp;W | Dec-26 |  | $ 40.0m (en bloc) | European | BWTS fitted |
 
 © Intermodal Research 08/02/2023 4
 
@@ -297,7 +297,7 @@ In the Supramax sector we had the sale of the "SERENITAS N" (56,811dwt-blt '11, 
 | LR2 | AETHER | 113,849 | 2007 | DAEWOO, S. Korea | MAN-B\&amp;W | Oct-22 | DH | $ 37.0m | Middle Eastern | BWTS fitted, uncoiled |
 | AFRA | ATLANTIS | 105,400 | 2008 | SUMITOMO, Japan | MAN-B\&amp;W | Sep-23 | DH | high $ 30's | Greek |  |
 | LR1 | HAFNIA COLUMBIA | 76,604 | 2007 | DALIAN, China | MAN-B\&amp;W | Jan-27 | DH | high $ 22.0m | undisclosed | BWTS fitted |
-| LR1 | HAFNIA KRONBORG | 73,708 | 2007 | NEW TIMES, China | MAN-B\&amp;W | Mar-27 | DH | high $ 22.0m |  |  |
+| LR1 | HAFNIA KRONBORG | 73,708 | 2007 | NEW TIMES, China | MAN-B\&amp;W | Mar-27 | DH | high $ 22.0m | undisclosed | BWTS fitted |
 | MR2 | MARKOS I | 45,592 | 2005 | ULJANIK BRODOGRADILISTE, Croatia | B\&amp;W | Aug-25 | DH | rgn $ 17.0m | Chinese | BWTS fitted |
 | MR2 | LOUKAS I | 45,568 | 2005 | ULJANIK BRODOGRADILISTE, Croatia | MAN-B\&amp;W | Dec-25 | DH | rgn $ 17.0m | undisclosed | BWTS fitted |
 | SMALL | EGEIRO CYAN | 13,241 | 2008 | JINSE, S. Korea | MAN-B\&amp;W | Oct-23 | DH | $ 7.0m | undisclosed |  |
@@ -308,7 +308,7 @@ In the Supramax sector we had the sale of the "SERENITAS N" (56,811dwt-blt '11, 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | BW THOR | 58,610 | 2008 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jun-23 | 80,657 | $ 55.0m | undisclosed | BWTS fitted |
 | LNG | SEAPEAK VISION | 12,211 | 2011 | AVIC DINGHENG, China | MAN-B\&amp;W | Oct-26 | 11,782 | $ 27.0m | Cypriot (Sole Shipping) | Incl BB charter to Titan, Ice Class II |
-| LNG | SEAPEAK UNIKUM | 12,210 | 2011 | AVIC DINGHENG, China | MAN-B\&amp;W | Jun-26 | 11,782 | $ 27.0m |  |  |
+| LNG | SEAPEAK UNIKUM | 12,210 | 2011 | AVIC DINGHENG, China | MAN-B\&amp;W | Jun-26 | 11,782 | $ 27.0m | Cypriot (Sole Shipping) | Incl BB charter to Titan, Ice Class II |
 
 © Intermodal Research 08/02/2023 5
 

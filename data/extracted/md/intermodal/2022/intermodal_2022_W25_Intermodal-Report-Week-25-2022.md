@@ -275,7 +275,7 @@ In the Handysize sector we had the sale of the "EVA BULKER" (38,140dwt-blt '12, 
 | SUEZ | NAVION GOTHENBURG | 150,980 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | Apr-26 | DH | $ 25.0m | undisclosed | shuttle tanker, BWTS fitted |
 | AFRA | MARAN SAGITTA | 105,071 | 2009 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Sep-24 | DH | $ 27.6m | Greek (Performance) | BWTS fitted |
 | AFRA | TARTAN | 113,782 | 2005 | SAMSUNG, S. Korea | B\&amp;W | Apr-25 | DH | $ 22.0m | Russian | BWTS fitted, Scrubber fitted, Ice Class 1A, old sale |
-| AFRA | FORTIES | 113,782 | 2005 | SAMSUNG, S. Korea | B\&amp;W | Sep-25 | DH | $ 22.0m |  |  |
+| AFRA | FORTIES | 113,782 | 2005 | SAMSUNG, S. Korea | B\&amp;W | Sep-25 | DH | $ 22.0m | Russian | BWTS fitted, Scrubber fitted, Ice Class 1A, old sale |
 | MR2 | DAISY M | 50,319 | 2008 | GUANGZHOU, China | MAN-B\&amp;W | Sep-23 | DH | $ 15.0m | Greek (Aerio) |  |
 | MR1 | FRESIA | 37,320 | 2003 | STX, S. Korea | MAN-B\&amp;W | Oct-23 | DH | excess $ 8.0m | undisclosed | purchase option exercised |
 | SMALL | MAERSK BORNEO | 29,013 | 2007 | GUANGZHOU, China | MAN-B\&amp;W | Apr-25 | DH | $ 11.8m | undisclosed |  |
@@ -304,7 +304,7 @@ In the Handysize sector we had the sale of the "EVA BULKER" (38,140dwt-blt '12, 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | EASTAWAY MALMSEY | 3,421 | 2011 | RONGCHENG SHENFEI, China | Wartsila | Feb-27 | 3 X 45t CRANES, 1 X 35t CRANES | $ 65.0m | UAE based (Safeen Feeders) |  |
 | FEEDER | Guangzhou Huangpu H2415 | 1,500 | 2022 | GUANGZHOU WENCHONG, China | MAN-B&amp;W |  |  | $ 31.5m | Far Eastern | resale |
-| FEEDER | Guangzhou Huangpu H2416 | 1,500 | 2023 | GUANGZHOU WENCHONG, China | MAN-B&amp;W |  |  | $ 31.5m |  |  |
+| FEEDER | Guangzhou Huangpu H2416 | 1,500 | 2023 | GUANGZHOU WENCHONG, China | MAN-B&amp;W |  |  | $ 31.5m | Far Eastern | resale |
 | FEEDER | MOUNT BUTLER | 1,756 | 2016 | ZHEJIANG OUHUA, China | MAN-B&amp;W | Feb-26 |  | undisclosed | undisclosed | TC attached until July 2023 |
 
 © Intermodal Research 28/06/2022 5
@@ -313,25 +313,22 @@ In the Handysize sector we had the sale of the "EVA BULKER" (38,140dwt-blt '12, 
 
 # Intermodal Newbuilding Market
 
-## Indicative Newbuilding Prices (million$)
-| Sector | Size | 24/06/2022 | 17/06/2022 | ±% | 2021 | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 69.0 | 68.0 | **1.5%** | 59 | 51 | 54 |
-| Capesize | **180k** | 64.5 | 63.5 | **1.6%** | 56 | 49 | 52 |
-| Kamsarmax | **82k** | 37.0 | 37.0 | 0.0% | 33 | 28 | 30 |
-| Ultramax | **63k** | 35.5 | 35.5 | 0.0% | 30 | 26 | 28 |
-| Handysize | **38k** | 31.0 | 31.0 | 0.0% | 27 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 118.0 | 118.0 | 0.0% | 98 | 88 | 92 |
-| Suezmax | **160k** | 79.5 | 79.5 | 0.0% | 66 | 58 | 60 |
-| Aframax | **115k** | 61.5 | 61.5 | 0.0% | 53 | 48 | 49 |
-| MR | **50k** | 42.5 | 42.5 | 0.0% | 38 | 35 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 231.0 | 230.0 | **0.4%** | 195 | 187 | 186 |  |
-| LGC LPG 80k cbm | 87.0 | 86.5 | **0.6%** | 76 | 73 | 73 |  |
-| MGC LPG 55k cbm | 74.5 | 74.0 | **0.7%** | 67 | 63 | 65 |  |
-| SGC LPG 25k cbm | 52.0 | 51.5 | **1.0%** | 45 | 42 | 44 |  |
+## Indicative Newbuilding Prices ($ Million)
+| Sector | Vessel | Size | 24/06/2022 | 17/06/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 69.0 | 68.0 | 1.5% | 59 | 51 | 54 |
+| Bulkers | Capesize | 180k | 64.5 | 63.5 | 1.6% | 56 | 49 | 52 |
+| Bulkers | Kamsarmax | 82k | 37.0 | 37.0 | 0.0% | 33 | 28 | 30 |
+| Bulkers | Ultramax | 63k | 35.5 | 35.5 | 0.0% | 30 | 26 | 28 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 27 | 24 | 24 |
+| Tankers | VLCC | 300k | 118.0 | 118.0 | 0.0% | 98 | 88 | 92 |
+| Tankers | Suezmax | 160k | 79.5 | 79.5 | 0.0% | 66 | 58 | 60 |
+| Tankers | Aframax | 115k | 61.5 | 61.5 | 0.0% | 53 | 48 | 49 |
+| Tankers | MR | 50k | 42.5 | 42.5 | 0.0% | 38 | 35 | 36 |
+| Gas | LNG 174k cbm |  | 231.0 | 230.0 | 0.4% | 195 | 187 | 186 |
+| Gas | LGC LPG 80k cbm |  | 87.0 | 86.5 | 0.6% | 76 | 73 | 73 |
+| Gas | MGC LPG 55k cbm |  | 74.5 | 74.0 | 0.7% | 67 | 63 | 65 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 51.5 | 1.0% | 45 | 42 | 44 |
 
 Last week, the newbuilding sector recorded a strong level of activity across most of the segments with the Container carriers starring for yet another week and the LNG vessel orders coming next. Starting with the wet segment, the quite low level of transactions continued; one order was announced, placed by the China Merchants Group, who returned to DSIC yard for two 115.000dwt tankers. In the dry sector, two orders were placed by Chinese parties, one for two 63.000dwt vessels from Avic Leasing, at \$32.5m each and one for four 63,000dwt units from CDB Leasing, at a similar price, to be delivered in 2023-2024, both in New Dayang. In the LNG sector Samsung HI has contracted on behalf of the Qatar LNG project, by JP Morgan for twelve 174.000cbm units at \$213.0m each and a Korean consortium, including H-Line, Pan Ocean and SK Shipping for two 174.000cbm units, at \$230.0m each. Moving on to the container segment, there was an impressive order by MSC for the construction of ten LNG fuelled 11.400teu and another ten 8.100teu boxships in New Times, to be delivered in 2024-2025. Lastly, another deal for a pair of 4.000teu units was concluded, between Turkon Line and Sedef yard in Turkey, due to 2024.
 

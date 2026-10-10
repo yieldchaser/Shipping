@@ -225,8 +225,8 @@ In the Handysize sector we had the sale of the "MARIA L" (28,404dwt-bl't '98, Ja
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | KIONI | 310,389 | 2004 | IMABARI, Japan | MAN-B\&amp;W | Oct-24 | DH | $ 29.5m | undisclosed |  |
 | SUEZ | DOLVIKEN | 159,058 | 2012 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jan-27 | DH | $ 41.5m | Turkish |  |
-| SUEZ | ASTRO POLARIS | 159,073 | 2004 | HYUNDAI, S. Korea | B\&amp;W | Mar-24 | DH | $ 43.0m | Chinese |  |
-| SUEZ | ASTRO PHOENIX | 159,055 | 2004 | HYUNDAI, S. Korea | B\&amp;W | Jan-24 | DH |  |  |  |
+| SUEZ | ASTRO POLARIS | 159,073 | 2004 | HYUNDAI, S. Korea | B\&amp;W | Mar-24 | DH | $ 43.0m (en bloc) | Chinese |  |
+| SUEZ | ASTRO PHOENIX | 159,055 | 2004 | HYUNDAI, S. Korea | B\&amp;W | Jan-24 | DH | $ 43.0m (en bloc) | Chinese |  |
 | AFRA | ORACLE | 105,380 | 2008 | SUMITOMO, Japan | MAN-B\&amp;W | Jul-23 | DH | $ 28.75m | undisclosed |  |
 | AFRA | NICHOLAS | 115,577 | 2007 | SEASEBO, Japan | MAN-B\&amp;W | Aug-22 | DH | $ 27.7m | Chinese | BWTS fitted |
 | AFRA | BLUE PRIDE | 115,048 | 2004 | DAEWOO, S. Korea | B\&amp;W | Aug-24 | DH | $ 23.0m | undisclosed | BWTS fitted |
@@ -236,7 +236,7 @@ In the Handysize sector we had the sale of the "MARIA L" (28,404dwt-bl't '98, Ja
 | MR2 | CHALLENGE PHOENIX | 47,786 | 2007 | STX, S. Korea | MAN-B\&amp;W | Sep-25 | DH | $ 18.0m | Greek (R-Shipping) | BWTS fitted |
 | MR1 | BALTIC FAVOUR | 37,105 | 2006 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jul-26 | DH | $ 14.0m | undisclosed | BWTS fitted |
 | MR1 | HAFNIA ROBSON | 40,014 | 2004 | SAIKI, Japan | Mitsubishi | May-24 | DH | $ 12.0m | Turkish | BWTS fitted |
-| MR1 | HAFNIA ADAMELLO | 40,002 | 2004 | SAIKI, Japan | Mitsubishi | Aug-24 | DH | $ 12.0m |  |  |
+| MR1 | HAFNIA ADAMELLO | 40,002 | 2004 | SAIKI, Japan | Mitsubishi | Aug-24 | DH | $ 12.0m | Turkish | BWTS fitted |
 | SMALL | LEFTERIS | 4,972 | 1997 | QIUXIN, China | Ma K | Oct-24 | DH | excess $ 3.0m | undisclosed |  |
 
 © Intermodal Research 26/07/2022 4
@@ -259,7 +259,7 @@ In the Handysize sector we had the sale of the "MARIA L" (28,404dwt-bl't '98, Ja
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | JUDITH SCHULTE | 9,403 | 2013 | Shanghai Jiangnan Changxing, China | MAN-B&amp;W | Jul-23 |  | undisclosed | Swiss (MSC) | BWTS fitted, Scrubber ready |
-| POST PMAX | JOHANNA SCHULTE | 9,403 | 2013 | Shanghai Jiangnan Changxing, China | MAN-B&amp;W | Oct-23 |  |  |  |  |
+| POST PMAX | JOHANNA SCHULTE | 9,403 | 2013 | Shanghai Jiangnan Changxing, China | MAN-B&amp;W | Oct-23 |  | undisclosed | Swiss (MSC) | BWTS fitted, Scrubber ready |
 | POST PMAX | CAP CAPRICORN | 3,884 | 2013 | Zhejiang Fenghua, China | MAN-B&amp;W | Oct-23 |  | $ 75.0m | French (CMA CGM) |  |
 | FEEDER | A ROKU | 1,708 | 2008 | IMABARI, Japan | MAN-B&amp;W | Jun-27 |  | $ 30.0m | Vietnamese (Hai An Transport) |  |
 | FEEDER | HARBOUR EXPRESS | 560 | 1998 | Watanabe Zosen, Japan | B&amp;W | Mar-23 | 2 X 36t CRANES | $ 10.0m | undisclosed |  |
@@ -279,24 +279,21 @@ In the Handysize sector we had the sale of the "MARIA L" (28,404dwt-bl't '98, Ja
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
 
-| Sector | Size | 22/07/2022 | 15/07/2022 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** |  |  |  |  |  |  |  |
-| Newcastlemax | **205k** | 69.0 | 69.0 | 0.0% | 51 | 54 | 51 |
-| Capesize | **180k** | 64.5 | 64.5 | 0.0% | 49 | 52 | 49 |
-| Kamsarmax | **82k** | 37.5 | 37.5 | 0.0% | 28 | 30 | 29 |
-| Ultramax | **63k** | 35.5 | 35.5 | 0.0% | 26 | 28 | 27 |
-| Handysize | **38k** | 31.0 | 31.0 | 0.0% | 24 | 24 | 24 |
-| **Tankers** |  |  |  |  |  |  |  |
-| VLCC | **300k** | 119.0 | 118.5 | 0.4% | 88 | 92 | 88 |
-| Suezmax | **160k** | 79.5 | 79.5 | 0.0% | 58 | 60 | 58 |
-| Aframax | **115k** | 61.5 | 61.5 | 0.0% | 48 | 49 | 47 |
-| MR | **50k** | 43.0 | 42.5 | 1.2% | 35 | 36 | 36 |
-| **Gas** |  |  |  |  |  |  |  |
-| LNG 174k cbm | 235.0 | 234.0 | 0.4% | 187 | 186 | 181 |  |
-| LGC LPG 80k cbm | 87.0 | 87.0 | 0.0% | 73 | 73 | 71 |  |
-| MGC LPG 55k cbm | 75.0 | 74.5 | 0.7% | 63 | 65 | 63 |  |
-| SGC LPG 25k cbm | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |  |
+| Sector | Vessel | Size | 22/07/2022 | 15/07/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 69.0 | 69.0 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 64.5 | 64.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 37.5 | 37.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 35.5 | 35.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 31.0 | 31.0 | 0.0% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 119.0 | 118.5 | 0.4% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 79.5 | 79.5 | 0.0% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 61.5 | 61.5 | 0.0% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 43.0 | 42.5 | 1.2% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 235.0 | 234.0 | 0.4% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 87.0 | 87.0 | 0.0% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 75.0 | 74.5 | 0.7% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
 Sentiment remained firm in the newbuilding contracting activity. Orders have surfaced across all main sectors indicating a healthy buying interest. On the wet front, 1 tanker has been ordered, 1x50,000dwt on behalf of CPC Corp., assigned to CSBC for construction and expected delivery within 2024. The vessel will cost \$50.0m (including 5%VAT) and will meet EEDI phase 3 standards. On the dry front, 2 orders for 4 vessels in total emerged last week. Foremost Group ordered 2x185,000dwt vessels at Namura against 7yrs T/C to NYK. The vessels are biofuel ready and will meet EEDI phase 3 and NOx Tier III standards, while they will be delivered within 2024. Additionally, U-Ming assigned the construction of 2x64,000dwt vessels at New Danyang for \$34.0m each. In the gas sector, another order was placed from ADS Maritime for 2x174,000cbm LNGs. The vessels are at LOI stage with DSME, will cost the owner \$248.0m each, and will be delivered within 2026. On the container front, HMM ordered 3x1,800teu units to HMD with 2024 expected delivery and a cost of \$35.5m each. Conclusively, 4+2x14,600dwt multi-purpose vessels have been ordered on behalf of SAL to Wuhu, China at the price of \$40.0m each. The heavy-lift vessels will be delivered within 2024-2025 and will be equipped with 2x800tonne Liebherr cranes each.
 

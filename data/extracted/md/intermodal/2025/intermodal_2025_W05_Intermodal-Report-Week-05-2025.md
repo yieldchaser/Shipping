@@ -224,20 +224,20 @@ Secondhand Sales
 Amid the Chinese New Year holidays, the new building sector witnessed subdued activity. Four orders were reported in dry, wet and containership sectors, with Greek owners particularly active. In the dry sector, the Norwegian Arriva Shipping exercised an option for an 8,000 dwt, battery hybrid bulker at the Chinese Jiangsu shipyard, with expected delivery in 2026. In the wet segment, the Greek owner Sun Enterprises placed an order at the S. Korean DH Shipbuilding for 2 LNG dual fuel tankers of 158,000 dwt each, priced at \$90.5m per vessel and due for delivery in 2027. In the containership sector two orders were reported. The German Peter Dohle Schifffahrts agreed with the Chinese yard Guangzhou for the construction of 3 LNG dual fuel boxships of 8,400 teu with an option for another 2 additional units. The delivery is estimated in 2027-2028 and the price is \$125m per vessel. Furthermore, the Greek group TMS placed an order for 6 dual fuel containerships of 11,400 teu capacity each, with an option for 4 more. Each vessel is priced at \$140 million, with deliveries scheduled between 2027 and 2029.
 
 ## Indicative Newbuilding Prices ($ Million)
-| Sector | Vessel Class | Size | 31-Jan-25 | 24-Jan-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2024 | 2023 | 2022 |
+| Sector | Vessel | Size | 31-Jan-25 | 24-Jan-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bulkers** | Newcastlemax | 205k | 79.0 | 79.0 | 0.0% | 79.0 | 79.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
-|  | Capesize | 180k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
-|  | Kamsarmax | 82k | 37.00 | 37.00 | 0.0% | 37.0 | 37.0 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
-|  | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
-|  | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
-| **Tankers** | VLCC | 300k | 128.0 | 128.5 | -0.4% | 129.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
-|  | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 90.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
-|  | Aframax | 115k | 78.0 | 77.5 | 0.6% | 77.5 | 77.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
-|  | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 51.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
-| **Gas** | LNG 174k cbm |  | 257.0 | 258.0 | -0.4% | 260.0 | 257.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
-|  | MGC LPG 55k cbm |  | 88.0 | 89.0 | -1.1% | 90.5 | 89.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
-|  | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 62.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
+| Bulkers | Newcastlemax | 205k | 79.0 | 79.0 | 0.0% | 79.0 | 79.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
+| Bulkers | Capesize | 180k | 75.0 | 75.0 | 0.0% | 75.0 | 75.0 | 76.5 | 49.0 | 73.3 | 63.15 | 62.6 |
+| Bulkers | Kamsarmax | 82k | 37.00 | 37.00 | 0.0% | 37.0 | 37.0 | 37.5 | 27.75 | 37.1 | 34.85 | 36.4 |
+| Bulkers | Ultramax | 63k | 34.5 | 34.5 | 0.0% | 34.5 | 34.5 | 35.5 | 25.75 | 34.2 | 32.7 | 33.95 |
+| Bulkers | Handysize | 38k | 30.5 | 30.5 | 0.0% | 30.5 | 30.5 | 31.0 | 19.5 | 30.3 | 29.75 | 30.4 |
+| Tankers | VLCC | 300k | 128.0 | 128.5 | -0.4% | 129.0 | 128.0 | 130.5 | 84.5 | 129.0 | 124.0 | 117.7 |
+| Tankers | Suezmax | 160k | 90.0 | 90.0 | 0.0% | 90.0 | 90.0 | 90.0 | 55.0 | 88.5 | 82.2 | 78.6 |
+| Tankers | Aframax | 115k | 78.0 | 77.5 | 0.6% | 77.5 | 77.5 | 77.5 | 46.0 | 76.0 | 68.7 | 61.9 |
+| Tankers | MR | 50k | 51.5 | 51.5 | 0.0% | 51.5 | 51.5 | 51.5 | 34.0 | 50.5 | 45.8 | 42.6 |
+| Gas | LNG 174k cbm |  | 257.0 | 258.0 | -0.4% | 260.0 | 257.0 | 265.0 | 186.0 | 262.9 | 259.0 | 232.3 |
+| Gas | MGC LPG 55k cbm |  | 88.0 | 89.0 | -1.1% | 90.5 | 89.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
+| Gas | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 62.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -285,5 +285,5 @@ In Turkey the ship recycling market faced downwards pressures on prices offered 
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| TASOS | 75,100 | 10,569 | 2000 | HITACHI ZOSEN, Japan | BC | $ 475.0m | undisclosed |
-| AK HAMBURG | 8,828 | 2,600 | 1982 | TAIHEI HASHIHAMA, Japan | GENERAL CARGO | $ 440.0m | Indian |
+| TASOS | 75,100 | 10,569 | 2000 | HITACHI ZOSEN, Japan | BC | $ 475/Ldt | undisclosed |
+| AK HAMBURG | 8,828 | 2,600 | 1982 | TAIHEI HASHIHAMA, Japan | GENERAL CARGO | $ 440/Ldt | Indian |
