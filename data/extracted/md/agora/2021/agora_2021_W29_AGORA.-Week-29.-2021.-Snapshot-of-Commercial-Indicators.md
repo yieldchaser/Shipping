@@ -1,3 +1,11 @@
+---
+title: "Agora Snapshot of Commercial Indicators - Week 29 / 2021"
+issue_date: "2021-07-23"
+year: 2021
+report_week: 29
+publisher: "Agora Shipbroking Corporation"
+source_file: "corpus/01-brokers/agora/2021/agora_2021_W29_AGORA.-Week-29.-2021.-Snapshot-of-Commercial-Indicators.pdf"
+---
 # agora_2021_W29_AGORA.-Week-29.-2021.-Snapshot-of-Commercial-Indicators
 
 source: `corpus/01-brokers/agora/2021/agora_2021_W29_AGORA.-Week-29.-2021.-Snapshot-of-Commercial-Indicators.pdf`  |  pages: 6  |  number convention: **EU** (comma is the decimal point)

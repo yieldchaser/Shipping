@@ -1,3 +1,11 @@
+---
+title: "Agora Snapshot of Commercial Indicators - Week 52 / 2022"
+issue_date: "2021-12-31"
+year: 2021
+report_week: 52
+publisher: "Agora Shipbroking Corporation"
+source_file: "corpus/01-brokers/agora/2022/agora_2022_W52_AGORA.-Week-52.-2021.-Snapshot-of-Commercial-Indicators.pdf"
+---
 # agora_2022_W52_AGORA.-Week-52.-2021.-Snapshot-of-Commercial-Indicators
 
 source: `corpus/01-brokers/agora/2022/agora_2022_W52_AGORA.-Week-52.-2021.-Snapshot-of-Commercial-Indicators.pdf`  |  pages: 5  |  number convention: **EU** (comma is the decimal point)

@@ -1,3 +1,11 @@
+---
+title: "Advanced Shipping & Trading Weekly Market Report - Week 52, 2022"
+issue_date: "2021-12-31"
+year: 2021
+report_week: 52
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2022/advanced_shipping_2022_W52_ADVANCED-MARKET-REPORT-WEEK-52.pdf"
+---
 # advanced_shipping_2022_W52_ADVANCED-MARKET-REPORT-WEEK-52
 
 - **Publisher**: Advanced Shipping & Trading

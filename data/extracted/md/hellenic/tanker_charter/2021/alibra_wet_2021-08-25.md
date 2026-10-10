@@ -1,3 +1,10 @@
+---
+title: "Weekly Tanker Time Charter Estimates, August 25 2021"
+issue_date: "2021-08-25"
+year: 2021
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/tanker_charter/2021/2021-08-25_weekly-tanker-time-charter-estimates-august-25-2021.html"
+---
 # Weekly Tanker Time Charter Estimates, August 25 2021
 
 - **Issue Date**: 2021-08-25

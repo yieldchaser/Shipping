@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 23, 2023"
+issue_date: "2023-06-13"
+year: 2023
+report_week: 23
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2023/intermodal_2023_W23_Intermodal-Report-Week-23-2023.pdf"
+---
 # Weekly Market Report
 ## Week 23 | Tuesday 13th June 2023
 

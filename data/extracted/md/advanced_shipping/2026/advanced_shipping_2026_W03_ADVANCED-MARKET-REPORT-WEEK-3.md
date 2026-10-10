@@ -1,3 +1,11 @@
+---
+title: "Advanced Shipping & Trading Weekly Market Report - Week 3, 2026"
+issue_date: "2026-01-16"
+year: 2026
+report_week: 3
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_2026_W03_ADVANCED-MARKET-REPORT-WEEK-3.pdf"
+---
 # advanced_shipping_2026_W03_ADVANCED-MARKET-REPORT-WEEK-3
 
 - **Publisher**: Advanced Shipping & Trading

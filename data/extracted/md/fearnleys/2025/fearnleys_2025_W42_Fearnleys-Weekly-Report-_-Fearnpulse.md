@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 42, 2025"
+issue_date: "2025-10-15"
+year: 2025
+report_week: 42
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2025/fearnleys_2025_W42_Fearnleys-Weekly-Report-_-Fearnpulse.pdf"
+---
 # fearnleys_2025_W42_Fearnleys-Weekly-Report-_-Fearnpulse
 
 source: `corpus/01-brokers/fearnleys/2025/fearnleys_2025_W42_Fearnleys-Weekly-Report-_-Fearnpulse.pdf`  |  pages: 19

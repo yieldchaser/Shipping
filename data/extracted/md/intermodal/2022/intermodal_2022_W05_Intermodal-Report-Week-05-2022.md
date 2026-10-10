@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 5, 2022"
+issue_date: "2022-02-08"
+year: 2022
+report_week: 5
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2022/intermodal_2022_W05_Intermodal-Report-Week-05-2022.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 05 | Tuesday 08<sup>th</sup> February 2022

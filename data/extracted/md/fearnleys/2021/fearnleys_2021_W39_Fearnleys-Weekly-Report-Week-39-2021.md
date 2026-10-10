@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 39, 2021"
+issue_date: "2021-09-29"
+year: 2021
+report_week: 39
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W39_Fearnleys-Weekly-Report-Week-39-2021.pdf"
+---
 # fearnleys_2021_W39_Fearnleys-Weekly-Report-Week-39-2021
 
 source: `corpus/01-brokers/fearnleys/2021/fearnleys_2021_W39_Fearnleys-Weekly-Report-Week-39-2021.pdf`  |  pages: 1

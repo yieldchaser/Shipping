@@ -1,3 +1,11 @@
+---
+title: "Advanced Shipping & Trading Weekly Market Report - Week 7, 2022"
+issue_date: "2022-02-18"
+year: 2022
+report_week: 7
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2022/advanced_shipping_2022_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf"
+---
 # advanced_shipping_2022_W07_ADVANCED-MARKET-REPORT-WEEK-7
 
 - **Publisher**: Advanced Shipping & Trading

@@ -1,3 +1,10 @@
+---
+title: "Weekly Dry Time Charter Estimates, May 27 2024"
+issue_date: "2024-05-29"
+year: 2024
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/dry_charter/2024/2024-05-29_weekly-dry-time-charter-estimates-may-27-2024.html"
+---
 # Weekly Dry Time Charter Estimates, May 27 2024
 
 - **Issue Date**: 2024-05-29

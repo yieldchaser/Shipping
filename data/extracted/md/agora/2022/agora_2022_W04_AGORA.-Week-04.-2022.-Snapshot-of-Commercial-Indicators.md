@@ -1,3 +1,11 @@
+---
+title: "Agora Snapshot of Commercial Indicators - Week 4 / 2022"
+issue_date: "2022-01-28"
+year: 2022
+report_week: 4
+publisher: "Agora Shipbroking Corporation"
+source_file: "corpus/01-brokers/agora/2022/agora_2022_W04_AGORA.-Week-04.-2022.-Snapshot-of-Commercial-Indicators.pdf"
+---
 # agora_2022_W04_AGORA.-Week-04.-2022.-Snapshot-of-Commercial-Indicators
 
 source: `corpus/01-brokers/agora/2022/agora_2022_W04_AGORA.-Week-04.-2022.-Snapshot-of-Commercial-Indicators.pdf`  |  pages: 5  |  number convention: **US** (period is the decimal point)

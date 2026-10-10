@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 34, 2022"
+issue_date: "2022-08-30"
+year: 2022
+report_week: 34
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2022/intermodal_2022_W34_Intermodal-Report-Week-34-2022.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 34 | Tuesday 30<sup>rd</sup> August 2022

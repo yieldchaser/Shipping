@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 36, 2025"
+issue_date: "2025-09-03"
+year: 2025
+report_week: 36
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2025/fearnleys_2025_W36_Fearnleys-Weekly-Report-_-Fearnpulse.pdf"
+---
 # fearnleys_2025_W36_Fearnleys-Weekly-Report-_-Fearnpulse
 
 source: `corpus/01-brokers/fearnleys/2025/fearnleys_2025_W36_Fearnleys-Weekly-Report-_-Fearnpulse.pdf`  |  pages: 19

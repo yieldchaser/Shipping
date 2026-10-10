@@ -1,3 +1,10 @@
+---
+title: "agora_2026_W34_AGORA.-Week-35-2026.-Snapshot-of-Commercial-Indicators"
+issue_date: "2026-08-27"
+year: 2026
+publisher: "Agora Shipbroking Corporation"
+source_file: "corpus/01-brokers/agora/2026/agora_2026_W34_AGORA.-Week-35-2026.-Snapshot-of-Commercial-Indicators.pdf"
+---
 # agora_2026_W34_AGORA.-Week-35-2026.-Snapshot-of-Commercial-Indicators
 
 source: `corpus/01-brokers/agora/2026/agora_2026_W34_AGORA.-Week-35-2026.-Snapshot-of-Commercial-Indicators.pdf`  |  pages: 5  |  number convention: **EU** (comma is the decimal point)

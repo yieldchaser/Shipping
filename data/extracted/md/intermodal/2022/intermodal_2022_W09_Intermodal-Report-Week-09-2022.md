@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 9, 2022"
+issue_date: "2022-03-08"
+year: 2022
+report_week: 9
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2022/intermodal_2022_W09_Intermodal-Report-Week-09-2022.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 09 | Tuesday 08<sup>th</sup> March 2022

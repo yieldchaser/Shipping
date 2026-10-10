@@ -1,3 +1,10 @@
+---
+title: "advanced_shipping_2025_W45_ADVANCED-MARKET-REPORT-WEEK-46"
+issue_date: "2025-11-14"
+year: 2025
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2025/advanced_shipping_2025_W45_ADVANCED-MARKET-REPORT-WEEK-46.pdf"
+---
 # advanced_shipping_2025_W45_ADVANCED-MARKET-REPORT-WEEK-46
 
 - **Publisher**: Advanced Shipping & Trading

@@ -1,3 +1,10 @@
+---
+title: "Weekly Dry Time Charter Estimates, June 8 2022"
+issue_date: "2022-06-08"
+year: 2022
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/dry_charter/2022/2022-06-08_weekly-dry-time-charter-estimates-june-8-2022.html"
+---
 # Weekly Dry Time Charter Estimates, June 8 2022
 
 - **Issue Date**: 2022-06-08

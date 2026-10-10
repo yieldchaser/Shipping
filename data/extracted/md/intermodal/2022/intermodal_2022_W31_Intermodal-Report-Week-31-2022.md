@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 31, 2022"
+issue_date: "2022-08-09"
+year: 2022
+report_week: 31
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2022/intermodal_2022_W31_Intermodal-Report-Week-31-2022.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 31 | Tuesday 09<sup>th</sup> August 2022

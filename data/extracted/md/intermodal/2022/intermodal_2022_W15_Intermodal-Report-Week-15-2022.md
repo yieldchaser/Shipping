@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 15, 2022"
+issue_date: "2022-04-19"
+year: 2022
+report_week: 15
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2022/intermodal_2022_W15_Intermodal-Report-Week-15-2022.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 15 | Tuesday 19<sup>th</sup> April 2022

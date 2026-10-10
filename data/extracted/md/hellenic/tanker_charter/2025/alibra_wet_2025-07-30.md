@@ -1,3 +1,10 @@
+---
+title: "Weekly Tanker Time Charter Estimates, July 30 2025"
+issue_date: "2025-07-30"
+year: 2025
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/tanker_charter/2025/2025-07-30_weekly-tanker-time-charter-estimates-july-30-2025.html"
+---
 # Weekly Tanker Time Charter Estimates, July 30 2025
 
 - **Issue Date**: 2025-07-30

@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 25, 2026"
+issue_date: "2026-06-17"
+year: 2026
+report_week: 25
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W25_Fearnleys-Weekly-Report-_-Fearnpulsewgwwgb_compressed.pdf"
+---
 # fearnleys_2026_W25_Fearnleys-Weekly-Report-_-Fearnpulsewgwwgb_compressed
 
 source: `corpus/01-brokers/fearnleys/2026/fearnleys_2026_W25_Fearnleys-Weekly-Report-_-Fearnpulsewgwwgb_compressed.pdf`  |  pages: 19

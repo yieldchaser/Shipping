@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 1, 2023"
+issue_date: "2023-01-04"
+year: 2023
+report_week: 1
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W01_Fearnleys-Weekly-Report-Week-1-2023.pdf"
+---
 # fearnleys_2023_W01_Fearnleys-Weekly-Report-Week-1-2023
 
 source: `corpus/01-brokers/fearnleys/2023/fearnleys_2023_W01_Fearnleys-Weekly-Report-Week-1-2023.pdf`  |  pages: 7

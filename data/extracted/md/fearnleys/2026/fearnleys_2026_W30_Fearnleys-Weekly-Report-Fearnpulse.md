@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 30, 2026"
+issue_date: "2026-07-22"
+year: 2026
+report_week: 30
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W30_Fearnleys-Weekly-Report-Fearnpulse.pdf"
+---
 # fearnleys_2026_W30_Fearnleys-Weekly-Report-Fearnpulse
 
 source: `corpus/01-brokers/fearnleys/2026/fearnleys_2026_W30_Fearnleys-Weekly-Report-Fearnpulse.pdf`  |  pages: 20

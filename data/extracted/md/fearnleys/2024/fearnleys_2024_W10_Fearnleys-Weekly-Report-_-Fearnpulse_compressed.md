@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 10, 2024"
+issue_date: "2024-03-06"
+year: 2024
+report_week: 10
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W10_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf"
+---
 # fearnleys_2024_W10_Fearnleys-Weekly-Report-_-Fearnpulse_compressed
 
 source: `corpus/01-brokers/fearnleys/2024/fearnleys_2024_W10_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf`  |  pages: 20

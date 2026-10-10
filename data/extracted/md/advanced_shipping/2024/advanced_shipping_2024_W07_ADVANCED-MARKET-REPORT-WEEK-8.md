@@ -1,3 +1,10 @@
+---
+title: "advanced_shipping_2024_W07_ADVANCED-MARKET-REPORT-WEEK-8"
+issue_date: "2024-02-23"
+year: 2024
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2024/advanced_shipping_2024_W07_ADVANCED-MARKET-REPORT-WEEK-8.pdf"
+---
 # advanced_shipping_2024_W07_ADVANCED-MARKET-REPORT-WEEK-8
 
 - **Publisher**: Advanced Shipping & Trading

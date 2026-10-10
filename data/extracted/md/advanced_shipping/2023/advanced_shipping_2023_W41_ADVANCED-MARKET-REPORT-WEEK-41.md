@@ -1,3 +1,11 @@
+---
+title: "Advanced Shipping & Trading Weekly Market Report - Week 41, 2023"
+issue_date: "2023-10-13"
+year: 2023
+report_week: 41
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2023/advanced_shipping_2023_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf"
+---
 # advanced_shipping_2023_W41_ADVANCED-MARKET-REPORT-WEEK-41
 
 - **Publisher**: Advanced Shipping & Trading

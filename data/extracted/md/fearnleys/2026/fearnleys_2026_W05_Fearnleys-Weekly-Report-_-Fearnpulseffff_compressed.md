@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 5, 2026"
+issue_date: "2026-01-28"
+year: 2026
+report_week: 5
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf"
+---
 # fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed
 
 source: `corpus/01-brokers/fearnleys/2026/fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed.pdf`  |  pages: 19

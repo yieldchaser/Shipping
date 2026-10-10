@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 46, 2024"
+issue_date: "2024-11-13"
+year: 2024
+report_week: 46
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W46_Fearnleys-Weekly-Report-_-Fearnpulse13_compressed.pdf"
+---
 # fearnleys_2024_W46_Fearnleys-Weekly-Report-_-Fearnpulse13_compressed
 
 source: `corpus/01-brokers/fearnleys/2024/fearnleys_2024_W46_Fearnleys-Weekly-Report-_-Fearnpulse13_compressed.pdf`  |  pages: 19

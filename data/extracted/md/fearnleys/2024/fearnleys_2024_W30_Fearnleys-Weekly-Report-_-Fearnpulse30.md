@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 30, 2024"
+issue_date: "2024-07-24"
+year: 2024
+report_week: 30
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W30_Fearnleys-Weekly-Report-_-Fearnpulse30.pdf"
+---
 # fearnleys_2024_W30_Fearnleys-Weekly-Report-_-Fearnpulse30
 
 source: `corpus/01-brokers/fearnleys/2024/fearnleys_2024_W30_Fearnleys-Weekly-Report-_-Fearnpulse30.pdf`  |  pages: 19

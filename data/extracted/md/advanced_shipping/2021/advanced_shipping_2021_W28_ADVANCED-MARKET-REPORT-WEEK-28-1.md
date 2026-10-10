@@ -1,3 +1,11 @@
+---
+title: "Advanced Shipping & Trading Weekly Market Report - Week 28, 2021"
+issue_date: "2021-07-16"
+year: 2021
+report_week: 28
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W28_ADVANCED-MARKET-REPORT-WEEK-28-1.pdf"
+---
 # advanced_shipping_2021_W28_ADVANCED-MARKET-REPORT-WEEK-28-1
 
 - **Publisher**: Advanced Shipping & Trading

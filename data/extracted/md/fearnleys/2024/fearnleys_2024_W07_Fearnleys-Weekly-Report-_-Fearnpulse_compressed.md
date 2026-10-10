@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 7, 2024"
+issue_date: "2024-02-14"
+year: 2024
+report_week: 7
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W07_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf"
+---
 # fearnleys_2024_W07_Fearnleys-Weekly-Report-_-Fearnpulse_compressed
 
 source: `corpus/01-brokers/fearnleys/2024/fearnleys_2024_W07_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf`  |  pages: 20

@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 51, 2023"
+issue_date: "2023-12-20"
+year: 2023
+report_week: 51
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W51_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf"
+---
 # fearnleys_2023_W51_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3
 
 source: `corpus/01-brokers/fearnleys/2023/fearnleys_2023_W51_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf`  |  pages: 19

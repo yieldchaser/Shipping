@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 31, 2023"
+issue_date: "2023-08-02"
+year: 2023
+report_week: 31
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W31_Fearnleys-Weekly-Report-_-Fearnpulse.pdf"
+---
 # fearnleys_2023_W31_Fearnleys-Weekly-Report-_-Fearnpulse
 
 source: `corpus/01-brokers/fearnleys/2023/fearnleys_2023_W31_Fearnleys-Weekly-Report-_-Fearnpulse.pdf`  |  pages: 19

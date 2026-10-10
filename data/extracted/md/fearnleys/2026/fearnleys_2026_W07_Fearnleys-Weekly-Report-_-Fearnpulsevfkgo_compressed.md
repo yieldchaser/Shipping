@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 7, 2026"
+issue_date: "2026-02-11"
+year: 2026
+report_week: 7
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf"
+---
 # fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed
 
 source: `corpus/01-brokers/fearnleys/2026/fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed.pdf`  |  pages: 19

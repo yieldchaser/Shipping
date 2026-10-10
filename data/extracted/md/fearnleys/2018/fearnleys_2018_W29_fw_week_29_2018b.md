@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 29, 2018"
+issue_date: "2018-01-01"
+year: 2018
+report_week: 29
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2018/fearnleys_2018_W29_fw_week_29_2018b.pdf"
+---
 # fearnleys_2018_W29_fw_week_29_2018b
 
 source: `corpus/01-brokers/fearnleys/2018/fearnleys_2018_W29_fw_week_29_2018b.pdf`  |  pages: 3

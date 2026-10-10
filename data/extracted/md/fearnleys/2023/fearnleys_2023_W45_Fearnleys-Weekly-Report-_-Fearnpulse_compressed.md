@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 45, 2023"
+issue_date: "2023-11-08"
+year: 2023
+report_week: 45
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W45_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf"
+---
 # fearnleys_2023_W45_Fearnleys-Weekly-Report-_-Fearnpulse_compressed
 
 source: `corpus/01-brokers/fearnleys/2023/fearnleys_2023_W45_Fearnleys-Weekly-Report-_-Fearnpulse_compressed.pdf`  |  pages: 19

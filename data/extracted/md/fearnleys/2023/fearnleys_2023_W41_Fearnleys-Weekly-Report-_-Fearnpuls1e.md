@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 41, 2023"
+issue_date: "2023-10-11"
+year: 2023
+report_week: 41
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W41_Fearnleys-Weekly-Report-_-Fearnpuls1e.pdf"
+---
 # fearnleys_2023_W41_Fearnleys-Weekly-Report-_-Fearnpuls1e
 
 source: `corpus/01-brokers/fearnleys/2023/fearnleys_2023_W41_Fearnleys-Weekly-Report-_-Fearnpuls1e.pdf`  |  pages: 19

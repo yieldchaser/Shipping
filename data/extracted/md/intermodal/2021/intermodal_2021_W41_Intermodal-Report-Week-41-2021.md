@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 41, 2021"
+issue_date: "2021-10-19"
+year: 2021
+report_week: 41
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2021/intermodal_2021_W41_Intermodal-Report-Week-41-2021.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 41 | Tuesday 19<sup>th</sup> October 2021

@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 11, 2022"
+issue_date: "2022-03-22"
+year: 2022
+report_week: 11
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2022/intermodal_2022_W11_Intermodal-Report-Week-11-2022.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 11 | Tuesday 22<sup>nd</sup> March 2022

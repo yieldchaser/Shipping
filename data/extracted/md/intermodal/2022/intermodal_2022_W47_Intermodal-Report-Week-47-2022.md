@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 47, 2022"
+issue_date: "2022-11-29"
+year: 2022
+report_week: 47
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2022/intermodal_2022_W47_Intermodal-Report-Week-47-2022.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 47 | Tuesday 29<sup>th</sup> November 2022

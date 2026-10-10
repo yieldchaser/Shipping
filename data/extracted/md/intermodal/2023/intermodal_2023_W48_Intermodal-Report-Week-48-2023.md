@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 48, 2023"
+issue_date: "2023-12-05"
+year: 2023
+report_week: 48
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2023/intermodal_2023_W48_Intermodal-Report-Week-48-2023.pdf"
+---
 # Weekly Market Report
 
 ## Market Insight

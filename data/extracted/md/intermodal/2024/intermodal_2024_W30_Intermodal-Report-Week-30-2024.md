@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 30, 2024"
+issue_date: "2024-07-30"
+year: 2024
+report_week: 30
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2024/intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf"
+---
 # Weekly Market Report
 
 ## Market Insight

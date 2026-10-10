@@ -1,3 +1,10 @@
+---
+title: "Weekly Dry Time Charter Estimates, November 02 2022"
+issue_date: "2022-11-03"
+year: 2022
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/dry_charter/2022/2022-11-03_weekly-dry-time-charter-estimates-november-02-2022.html"
+---
 # Weekly Dry Time Charter Estimates, November 02 2022
 
 - **Issue Date**: 2022-11-03

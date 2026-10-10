@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 4, 2022"
+issue_date: "2022-01-26"
+year: 2022
+report_week: 4
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2022/fearnleys_2022_W04_Fearnleys-Weekly-Report-Week-4-2022.pdf"
+---
 # fearnleys_2022_W04_Fearnleys-Weekly-Report-Week-4-2022
 
 source: `corpus/01-brokers/fearnleys/2022/fearnleys_2022_W04_Fearnleys-Weekly-Report-Week-4-2022.pdf`  |  pages: 1

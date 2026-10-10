@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 45, 2021"
+issue_date: "2021-11-10"
+year: 2021
+report_week: 45
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W45_Fearnleys-Weekly-Report-Week-45-2021.pdf"
+---
 # fearnleys_2021_W45_Fearnleys-Weekly-Report-Week-45-2021
 
 source: `corpus/01-brokers/fearnleys/2021/fearnleys_2021_W45_Fearnleys-Weekly-Report-Week-45-2021.pdf`  |  pages: 1

@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 22, 2026"
+issue_date: "2026-05-27"
+year: 2026
+report_week: 22
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W22_Fearnleys-Weekly-Report-_-Fearnpulseqefqwf_compressed.pdf"
+---
 # fearnleys_2026_W22_Fearnleys-Weekly-Report-_-Fearnpulseqefqwf_compressed
 
 source: `corpus/01-brokers/fearnleys/2026/fearnleys_2026_W22_Fearnleys-Weekly-Report-_-Fearnpulseqefqwf_compressed.pdf`  |  pages: 19

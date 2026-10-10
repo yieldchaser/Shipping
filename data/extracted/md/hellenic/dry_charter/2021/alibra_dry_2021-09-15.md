@@ -1,3 +1,10 @@
+---
+title: "Weekly Dry Time Charter Estimates, September 15 2021"
+issue_date: "2021-09-15"
+year: 2021
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/dry_charter/2021/2021-09-15_weekly-dry-time-charter-estimates-september-15-2021.html"
+---
 # Weekly Dry Time Charter Estimates, September 15 2021
 
 - **Issue Date**: 2021-09-15

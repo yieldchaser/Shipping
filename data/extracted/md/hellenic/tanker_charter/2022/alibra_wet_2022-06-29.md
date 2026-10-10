@@ -1,3 +1,10 @@
+---
+title: "Weekly Tanker Time Charter Estimates, June 29 2022"
+issue_date: "2022-06-29"
+year: 2022
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/tanker_charter/2022/2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022.html"
+---
 # Weekly Tanker Time Charter Estimates, June 29 2022
 
 - **Issue Date**: 2022-06-29

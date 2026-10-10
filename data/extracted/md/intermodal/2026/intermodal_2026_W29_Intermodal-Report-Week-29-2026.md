@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 29, 2026"
+issue_date: "2026-07-21"
+year: 2026
+report_week: 29
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2026/intermodal_2026_W29_Intermodal-Report-Week-29-2026.pdf"
+---
 ## Weekly Market Report
 
 ## Market Insight

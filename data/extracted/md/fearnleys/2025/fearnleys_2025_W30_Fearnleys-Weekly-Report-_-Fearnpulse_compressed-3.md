@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 30, 2025"
+issue_date: "2025-07-23"
+year: 2025
+report_week: 30
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2025/fearnleys_2025_W30_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf"
+---
 # fearnleys_2025_W30_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3
 
 source: `corpus/01-brokers/fearnleys/2025/fearnleys_2025_W30_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf`  |  pages: 19

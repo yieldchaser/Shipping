@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 29, 2022"
+issue_date: "2022-07-21"
+year: 2022
+report_week: 29
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2022/fearnleys_2022_W29_Fearnleys-Weekly-Report-Week-29-2022.pdf"
+---
 # fearnleys_2022_W29_Fearnleys-Weekly-Report-Week-29-2022
 
 source: `corpus/01-brokers/fearnleys/2022/fearnleys_2022_W29_Fearnleys-Weekly-Report-Week-29-2022.pdf`  |  pages: 1

@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 42, 2024"
+issue_date: "2024-10-16"
+year: 2024
+report_week: 42
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W42_Fearnleys-Weekly-Report-_-Fearnpulse16_compressed.pdf"
+---
 # fearnleys_2024_W42_Fearnleys-Weekly-Report-_-Fearnpulse16_compressed
 
 source: `corpus/01-brokers/fearnleys/2024/fearnleys_2024_W42_Fearnleys-Weekly-Report-_-Fearnpulse16_compressed.pdf`  |  pages: 19

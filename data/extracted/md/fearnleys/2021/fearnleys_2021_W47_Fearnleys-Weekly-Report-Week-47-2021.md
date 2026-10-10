@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 47, 2021"
+issue_date: "2021-11-24"
+year: 2021
+report_week: 47
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W47_Fearnleys-Weekly-Report-Week-47-2021.pdf"
+---
 # fearnleys_2021_W47_Fearnleys-Weekly-Report-Week-47-2021
 
 source: `corpus/01-brokers/fearnleys/2021/fearnleys_2021_W47_Fearnleys-Weekly-Report-Week-47-2021.pdf`  |  pages: 1

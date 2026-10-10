@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 32, 2024"
+issue_date: "2024-08-07"
+year: 2024
+report_week: 32
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed.pdf"
+---
 # fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed
 
 source: `corpus/01-brokers/fearnleys/2024/fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed.pdf`  |  pages: 19

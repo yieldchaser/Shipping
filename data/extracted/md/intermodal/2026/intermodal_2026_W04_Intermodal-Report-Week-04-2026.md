@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 4, 2026"
+issue_date: "2026-01-27"
+year: 2026
+report_week: 4
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2026/intermodal_2026_W04_Intermodal-Report-Week-04-2026.pdf"
+---
 ## Weekly Market Report
 
 ## Market Insight

@@ -1,3 +1,10 @@
+---
+title: "Weekly Dry Time Charter Estimates, December 08 2021"
+issue_date: "2021-12-08"
+year: 2021
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/dry_charter/2021/2021-12-08_weekly-dry-time-charter-estimates-december-08-2021.html"
+---
 # Weekly Dry Time Charter Estimates, December 08 2021
 
 - **Issue Date**: 2021-12-08

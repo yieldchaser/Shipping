@@ -1,3 +1,11 @@
+---
+title: "Advanced Shipping & Trading Weekly Market Report - Week 35, 2024"
+issue_date: "2024-08-30"
+year: 2024
+report_week: 35
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2024/advanced_shipping_2024_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf"
+---
 # advanced_shipping_2024_W35_ADVANCED-MARKET-REPORT-WEEK-35
 
 - **Publisher**: Advanced Shipping & Trading

@@ -1,3 +1,10 @@
+---
+title: "Weekly Tanker Time Charter Estimates, October 02 2024"
+issue_date: "2024-10-02"
+year: 2024
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/tanker_charter/2024/2024-10-02_weekly-tanker-time-charter-estimates-october-02-2024.html"
+---
 # Weekly Tanker Time Charter Estimates, October 02 2024
 
 - **Issue Date**: 2024-10-02

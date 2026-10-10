@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 4, 2023"
+issue_date: "2023-01-31"
+year: 2023
+report_week: 4
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2023/intermodal_2023_W04_Intermodal-Report-Week-04-2023.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 04 | Tuesday 31<sup>st</sup> January 2023

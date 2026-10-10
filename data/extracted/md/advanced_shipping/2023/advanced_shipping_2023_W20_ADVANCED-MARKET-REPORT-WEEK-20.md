@@ -1,3 +1,11 @@
+---
+title: "Advanced Shipping & Trading Weekly Market Report - Week 20, 2023"
+issue_date: "2023-05-19"
+year: 2023
+report_week: 20
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2023/advanced_shipping_2023_W20_ADVANCED-MARKET-REPORT-WEEK-20.pdf"
+---
 # advanced_shipping_2023_W20_ADVANCED-MARKET-REPORT-WEEK-20
 
 - **Publisher**: Advanced Shipping & Trading

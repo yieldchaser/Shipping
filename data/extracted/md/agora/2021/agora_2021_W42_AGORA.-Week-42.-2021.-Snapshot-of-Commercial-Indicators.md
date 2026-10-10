@@ -1,3 +1,11 @@
+---
+title: "Agora Snapshot of Commercial Indicators - Week 42 / 2021"
+issue_date: "2021-10-22"
+year: 2021
+report_week: 42
+publisher: "Agora Shipbroking Corporation"
+source_file: "corpus/01-brokers/agora/2021/agora_2021_W42_AGORA.-Week-42.-2021.-Snapshot-of-Commercial-Indicators.pdf"
+---
 # agora_2021_W42_AGORA.-Week-42.-2021.-Snapshot-of-Commercial-Indicators
 
 source: `corpus/01-brokers/agora/2021/agora_2021_W42_AGORA.-Week-42.-2021.-Snapshot-of-Commercial-Indicators.pdf`  |  pages: 5  |  number convention: **EU** (comma is the decimal point)

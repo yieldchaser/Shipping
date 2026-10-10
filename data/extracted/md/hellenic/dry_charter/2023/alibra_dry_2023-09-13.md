@@ -1,3 +1,10 @@
+---
+title: "Weekly Dry Time Charter Estimates, September 13 2023"
+issue_date: "2023-09-13"
+year: 2023
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/dry_charter/2023/2023-09-13_weekly-dry-time-charter-estimates-september-13-2023.html"
+---
 # Weekly Dry Time Charter Estimates, September 13 2023
 
 - **Issue Date**: 2023-09-13

@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 39, 2024"
+issue_date: "2024-09-25"
+year: 2024
+report_week: 39
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+---
 # fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed
 
 source: `corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf`  |  pages: 19

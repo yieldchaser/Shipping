@@ -1,3 +1,11 @@
+---
+title: "Banchero Costa Weekly Market Report - Week 26, 2021"
+issue_date: "2021-07-02"
+year: 2021
+report_week: 26
+publisher: "Banchero Costa"
+source_file: "corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W26_Bancosta-Weekly-2021-26.pdf"
+---
 # Banchero Costa Weekly Market Report - Week 26, 2021
 
 ## Weekly Macro Insight: Japan'S Crude Oil Imports

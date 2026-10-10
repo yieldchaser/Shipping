@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 36, 2024"
+issue_date: "2024-09-04"
+year: 2024
+report_week: 36
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W36_Fearnleys-Weekly-Report_-Fearnpulse.pdf"
+---
 # fearnleys_2024_W36_Fearnleys-Weekly-Report_-Fearnpulse
 
 source: `corpus/01-brokers/fearnleys/2024/fearnleys_2024_W36_Fearnleys-Weekly-Report_-Fearnpulse.pdf`  |  pages: 19

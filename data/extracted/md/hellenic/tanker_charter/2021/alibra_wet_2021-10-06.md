@@ -1,3 +1,10 @@
+---
+title: "Weekly Tanker Time Charter Estimates, October 06 2021"
+issue_date: "2021-10-06"
+year: 2021
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/tanker_charter/2021/2021-10-06_weekly-tanker-time-charter-estimates-october-06-2021.html"
+---
 # Weekly Tanker Time Charter Estimates, October 06 2021
 
 - **Issue Date**: 2021-10-06

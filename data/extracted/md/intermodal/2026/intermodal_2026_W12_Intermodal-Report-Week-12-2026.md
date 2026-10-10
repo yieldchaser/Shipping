@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 12, 2026"
+issue_date: "2026-03-24"
+year: 2026
+report_week: 12
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2026/intermodal_2026_W12_Intermodal-Report-Week-12-2026.pdf"
+---
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 

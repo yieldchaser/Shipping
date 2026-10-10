@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 26, 2021"
+issue_date: "2021-07-06"
+year: 2021
+report_week: 26
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2021/intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 26 | Tuesday 06<sup>th</sup> July 2021

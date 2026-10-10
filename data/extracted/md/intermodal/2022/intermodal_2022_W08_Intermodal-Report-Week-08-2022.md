@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 8, 2022"
+issue_date: "2022-03-01"
+year: 2022
+report_week: 8
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2022/intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 08 | Tuesday 01<sup>st</sup> March 2022

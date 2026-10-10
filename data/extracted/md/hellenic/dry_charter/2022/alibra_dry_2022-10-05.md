@@ -1,3 +1,10 @@
+---
+title: "Weekly Dry Time Charter Estimates, October 05 2022"
+issue_date: "2022-10-05"
+year: 2022
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/dry_charter/2022/2022-10-05_weekly-dry-time-charter-estimates-october-05-2022.html"
+---
 # Weekly Dry Time Charter Estimates, October 05 2022
 
 - **Issue Date**: 2022-10-05

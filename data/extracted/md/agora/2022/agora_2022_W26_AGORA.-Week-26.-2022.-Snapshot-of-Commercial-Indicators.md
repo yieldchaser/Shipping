@@ -1,3 +1,11 @@
+---
+title: "Agora Snapshot of Commercial Indicators - Week 26 / 2022"
+issue_date: "2022-07-01"
+year: 2022
+report_week: 26
+publisher: "Agora Shipbroking Corporation"
+source_file: "corpus/01-brokers/agora/2022/agora_2022_W26_AGORA.-Week-26.-2022.-Snapshot-of-Commercial-Indicators.pdf"
+---
 # agora_2022_W26_AGORA.-Week-26.-2022.-Snapshot-of-Commercial-Indicators
 
 source: `corpus/01-brokers/agora/2022/agora_2022_W26_AGORA.-Week-26.-2022.-Snapshot-of-Commercial-Indicators.pdf`  |  pages: 5  |  number convention: **US** (period is the decimal point)

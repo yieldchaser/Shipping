@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 29, 2026"
+issue_date: "2026-07-15"
+year: 2026
+report_week: 29
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W29_Fearnleys-Weekly-Report-_-Fearnpulsejnad_compressed.pdf"
+---
 # fearnleys_2026_W29_Fearnleys-Weekly-Report-_-Fearnpulsejnad_compressed
 
 source: `corpus/01-brokers/fearnleys/2026/fearnleys_2026_W29_Fearnleys-Weekly-Report-_-Fearnpulsejnad_compressed.pdf`  |  pages: 20

@@ -1,3 +1,11 @@
+---
+title: "Advanced Shipping & Trading Weekly Market Report - Week 10, 2022"
+issue_date: "2022-03-11"
+year: 2022
+report_week: 10
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2022/advanced_shipping_2022_W10_ADVANCED-MARKET-REPORT-WEEK-10.pdf"
+---
 # advanced_shipping_2022_W10_ADVANCED-MARKET-REPORT-WEEK-10
 
 - **Publisher**: Advanced Shipping & Trading

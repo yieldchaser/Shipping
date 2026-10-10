@@ -1,3 +1,10 @@
+---
+title: "Weekly Tanker Time Charter Estimates, February 16 2022"
+issue_date: "2022-02-16"
+year: 2022
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/tanker_charter/2022/2022-02-16_weekly-tanker-time-charter-estimates-february-16-2022.html"
+---
 # Weekly Tanker Time Charter Estimates, February 16 2022
 
 - **Issue Date**: 2022-02-16

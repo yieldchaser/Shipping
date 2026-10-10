@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 48, 2023"
+issue_date: "2023-11-29"
+year: 2023
+report_week: 48
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W48_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf"
+---
 # fearnleys_2023_W48_Fearnleys-Weekly-Report-_-Fearnpulse-1
 
 source: `corpus/01-brokers/fearnleys/2023/fearnleys_2023_W48_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf`  |  pages: 18

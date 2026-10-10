@@ -1,3 +1,10 @@
+---
+title: "Weekly Dry Time Charter Estimates, February 09 2022"
+issue_date: "2022-02-09"
+year: 2022
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/dry_charter/2022/2022-02-09_weekly-dry-time-charter-estimates-february-09-2022.html"
+---
 # Weekly Dry Time Charter Estimates, February 09 2022
 
 - **Issue Date**: 2022-02-09

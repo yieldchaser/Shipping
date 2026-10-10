@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 24, 2022"
+issue_date: "2022-06-21"
+year: 2022
+report_week: 24
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2022/intermodal_2022_W24_Intermodal-Report-Week-24-2022.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 24 | Tuesday 21<sup>st</sup> June 2022

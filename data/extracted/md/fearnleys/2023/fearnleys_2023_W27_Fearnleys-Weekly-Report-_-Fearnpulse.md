@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 27, 2023"
+issue_date: "2023-07-05"
+year: 2023
+report_week: 27
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W27_Fearnleys-Weekly-Report-_-Fearnpulse.pdf"
+---
 # fearnleys_2023_W27_Fearnleys-Weekly-Report-_-Fearnpulse
 
 source: `corpus/01-brokers/fearnleys/2023/fearnleys_2023_W27_Fearnleys-Weekly-Report-_-Fearnpulse.pdf`  |  pages: 20

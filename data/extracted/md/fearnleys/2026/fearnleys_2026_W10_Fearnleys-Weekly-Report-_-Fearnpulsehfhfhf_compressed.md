@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 10, 2026"
+issue_date: "2026-03-04"
+year: 2026
+report_week: 10
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W10_Fearnleys-Weekly-Report-_-Fearnpulsehfhfhf_compressed.pdf"
+---
 # fearnleys_2026_W10_Fearnleys-Weekly-Report-_-Fearnpulsehfhfhf_compressed
 
 source: `corpus/01-brokers/fearnleys/2026/fearnleys_2026_W10_Fearnleys-Weekly-Report-_-Fearnpulsehfhfhf_compressed.pdf`  |  pages: 19

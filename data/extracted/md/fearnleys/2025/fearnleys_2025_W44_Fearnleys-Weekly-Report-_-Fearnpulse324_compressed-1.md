@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 44, 2025"
+issue_date: "2025-10-29"
+year: 2025
+report_week: 44
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2025/fearnleys_2025_W44_Fearnleys-Weekly-Report-_-Fearnpulse324_compressed-1.pdf"
+---
 # fearnleys_2025_W44_Fearnleys-Weekly-Report-_-Fearnpulse324_compressed-1
 
 source: `corpus/01-brokers/fearnleys/2025/fearnleys_2025_W44_Fearnleys-Weekly-Report-_-Fearnpulse324_compressed-1.pdf`  |  pages: 19

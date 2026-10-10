@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 12, 2025"
+issue_date: "2025-03-19"
+year: 2025
+report_week: 12
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2025/fearnleys_2025_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf"
+---
 # fearnleys_2025_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2
 
 source: `corpus/01-brokers/fearnleys/2025/fearnleys_2025_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2.pdf`  |  pages: 19

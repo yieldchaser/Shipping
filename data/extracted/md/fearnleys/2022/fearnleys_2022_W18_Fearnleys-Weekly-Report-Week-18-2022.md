@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 18, 2022"
+issue_date: "2022-05-04"
+year: 2022
+report_week: 18
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2022/fearnleys_2022_W18_Fearnleys-Weekly-Report-Week-18-2022.pdf"
+---
 # fearnleys_2022_W18_Fearnleys-Weekly-Report-Week-18-2022
 
 source: `corpus/01-brokers/fearnleys/2022/fearnleys_2022_W18_Fearnleys-Weekly-Report-Week-18-2022.pdf`  |  pages: 1

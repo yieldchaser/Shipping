@@ -1,3 +1,10 @@
+---
+title: "Weekly Dry Time Charter Estimates, January 17 2024"
+issue_date: "2024-01-17"
+year: 2024
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/dry_charter/2024/2024-01-17_weekly-dry-time-charter-estimates-january-17-2024.html"
+---
 # Weekly Dry Time Charter Estimates, January 17 2024
 
 - **Issue Date**: 2024-01-17

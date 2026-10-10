@@ -1,3 +1,10 @@
+---
+title: "Weekly Dry Time Charter Estimates, October 27 2021"
+issue_date: "2021-10-27"
+year: 2021
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/dry_charter/2021/2021-10-27_weekly-dry-time-charter-estimates-october-27-2021.html"
+---
 # Weekly Dry Time Charter Estimates, October 27 2021
 
 - **Issue Date**: 2021-10-27

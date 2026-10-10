@@ -1,3 +1,10 @@
+---
+title: "Weekly Dry Time Charter Estimates, September 03 2025"
+issue_date: "2025-09-03"
+year: 2025
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/dry_charter/2025/2025-09-03_weekly-dry-time-charter-estimates-september-03-2025.html"
+---
 # Weekly Dry Time Charter Estimates, September 03 2025
 
 - **Issue Date**: 2025-09-03

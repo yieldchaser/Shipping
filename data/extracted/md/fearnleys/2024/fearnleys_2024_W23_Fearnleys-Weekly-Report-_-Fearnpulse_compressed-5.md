@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 23, 2024"
+issue_date: "2024-06-05"
+year: 2024
+report_week: 23
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W23_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5.pdf"
+---
 # fearnleys_2024_W23_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5
 
 source: `corpus/01-brokers/fearnleys/2024/fearnleys_2024_W23_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5.pdf`  |  pages: 19

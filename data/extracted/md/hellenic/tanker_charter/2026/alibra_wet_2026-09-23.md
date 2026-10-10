@@ -1,3 +1,10 @@
+---
+title: "Weekly Tanker Time Charter Estimates, September 23 2026"
+issue_date: "2026-09-23"
+year: 2026
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/tanker_charter/2026/2026-09-23_weekly-tanker-time-charter-estimates-september-23-2026.html"
+---
 # Weekly Tanker Time Charter Estimates, September 23 2026
 
 - **Issue Date**: 2026-09-23

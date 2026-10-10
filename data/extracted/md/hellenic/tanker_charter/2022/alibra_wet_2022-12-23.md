@@ -1,3 +1,10 @@
+---
+title: "Weekly Tanker Time Charter Estimates, December 21 2022"
+issue_date: "2022-12-23"
+year: 2022
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/tanker_charter/2022/2022-12-23_weekly-tanker-time-charter-estimates-december-21-2022.html"
+---
 # Weekly Tanker Time Charter Estimates, December 21 2022
 
 - **Issue Date**: 2022-12-23

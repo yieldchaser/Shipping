@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 6, 2024"
+issue_date: "2024-02-07"
+year: 2024
+report_week: 6
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W06_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf"
+---
 # fearnleys_2024_W06_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1
 
 source: `corpus/01-brokers/fearnleys/2024/fearnleys_2024_W06_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf`  |  pages: 19

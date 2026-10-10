@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 16, 2026"
+issue_date: "2026-04-15"
+year: 2026
+report_week: 16
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf"
+---
 # fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed
 
 source: `corpus/01-brokers/fearnleys/2026/fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed.pdf`  |  pages: 19

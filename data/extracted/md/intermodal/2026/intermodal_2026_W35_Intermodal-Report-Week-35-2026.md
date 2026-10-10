@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 35, 2026"
+issue_date: "2026-09-01"
+year: 2026
+report_week: 35
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2026/intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf"
+---
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 

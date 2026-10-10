@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 35, 2021"
+issue_date: "2021-09-07"
+year: 2021
+report_week: 35
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2021/intermodal_2021_W35_Intermodal-Report-Week-35-2021-1.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 35 | Tuesday 07<sup>th</sup> September 2021

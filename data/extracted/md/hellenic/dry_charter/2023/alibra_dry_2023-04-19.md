@@ -1,3 +1,10 @@
+---
+title: "Weekly Dry Time Charter Estimates, April 19 2023"
+issue_date: "2023-04-19"
+year: 2023
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/dry_charter/2023/2023-04-19_weekly-dry-time-charter-estimates-april-19-2023.html"
+---
 # Weekly Dry Time Charter Estimates, April 19 2023
 
 - **Issue Date**: 2023-04-19

@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 30, 2021"
+issue_date: "2021-08-03"
+year: 2021
+report_week: 30
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2021/intermodal_2021_W30_Intermodal-Report-Week-30-2021-2.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 30 | Tuesday 03<sup>rd</sup> August 2021

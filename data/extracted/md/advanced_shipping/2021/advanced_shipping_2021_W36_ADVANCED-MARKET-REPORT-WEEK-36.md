@@ -1,3 +1,11 @@
+---
+title: "Advanced Shipping & Trading Weekly Market Report - Week 36, 2021"
+issue_date: "2021-09-10"
+year: 2021
+report_week: 36
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf"
+---
 # advanced_shipping_2021_W36_ADVANCED-MARKET-REPORT-WEEK-36
 
 - **Publisher**: Advanced Shipping & Trading

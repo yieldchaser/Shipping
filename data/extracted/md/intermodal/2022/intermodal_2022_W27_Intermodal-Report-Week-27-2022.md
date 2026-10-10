@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 27, 2022"
+issue_date: "2022-07-12"
+year: 2022
+report_week: 27
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2022/intermodal_2022_W27_Intermodal-Report-Week-27-2022.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 27 | Tuesday 12<sup>th</sup> July 2022

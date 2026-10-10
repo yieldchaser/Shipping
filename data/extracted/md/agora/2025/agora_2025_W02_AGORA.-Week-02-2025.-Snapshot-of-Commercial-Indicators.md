@@ -1,3 +1,11 @@
+---
+title: "Agora Snapshot of Commercial Indicators - Week 2 / 2025"
+issue_date: "2025-01-09"
+year: 2025
+report_week: 2
+publisher: "Agora Shipbroking Corporation"
+source_file: "corpus/01-brokers/agora/2025/agora_2025_W02_AGORA.-Week-02-2025.-Snapshot-of-Commercial-Indicators.pdf"
+---
 # agora_2025_W02_AGORA.-Week-02-2025.-Snapshot-of-Commercial-Indicators
 
 source: `corpus/01-brokers/agora/2025/agora_2025_W02_AGORA.-Week-02-2025.-Snapshot-of-Commercial-Indicators.pdf`  |  pages: 5  |  number convention: **EU** (comma is the decimal point)

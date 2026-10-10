@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 34, 2026"
+issue_date: "2026-08-19"
+year: 2026
+report_week: 34
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W34_Fearnleys-Weekly-Report-_-Fearnpulse-2.pdf"
+---
 # fearnleys_2026_W34_Fearnleys-Weekly-Report-_-Fearnpulse-2
 
 source: `corpus/01-brokers/fearnleys/2026/fearnleys_2026_W34_Fearnleys-Weekly-Report-_-Fearnpulse-2.pdf`  |  pages: 20

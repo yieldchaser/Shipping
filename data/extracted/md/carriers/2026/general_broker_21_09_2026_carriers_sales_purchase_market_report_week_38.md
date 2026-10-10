@@ -1,3 +1,10 @@
+---
+title: "Carriers Sales & Purchase Market Report - Week 38, 2026"
+issue_date: "2026-09-21"
+year: 2026
+report_week: 38
+publisher: "carriers"
+---
 # Carriers Sales & Purchase Market Report - Week 38, 2026
 
 - **Date**: 2026-09-21 (21st September 2026)

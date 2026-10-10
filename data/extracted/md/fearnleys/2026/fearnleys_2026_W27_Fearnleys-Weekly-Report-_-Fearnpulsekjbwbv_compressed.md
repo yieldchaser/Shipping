@@ -1,3 +1,10 @@
+---
+title: "fearnleys_2026_W27_Fearnleys-Weekly-Report-_-Fearnpulsekjbwbv_compressed"
+issue_date: "2026-07-08"
+year: 2026
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W27_Fearnleys-Weekly-Report-_-Fearnpulsekjbwbv_compressed.pdf"
+---
 # fearnleys_2026_W27_Fearnleys-Weekly-Report-_-Fearnpulsekjbwbv_compressed
 
 source: `corpus/01-brokers/fearnleys/2026/fearnleys_2026_W27_Fearnleys-Weekly-Report-_-Fearnpulsekjbwbv_compressed.pdf`  |  pages: 19

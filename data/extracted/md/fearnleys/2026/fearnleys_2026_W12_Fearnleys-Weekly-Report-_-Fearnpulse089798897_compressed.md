@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 12, 2026"
+issue_date: "2026-03-18"
+year: 2026
+report_week: 12
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W12_Fearnleys-Weekly-Report-_-Fearnpulse089798897_compressed.pdf"
+---
 # fearnleys_2026_W12_Fearnleys-Weekly-Report-_-Fearnpulse089798897_compressed
 
 source: `corpus/01-brokers/fearnleys/2026/fearnleys_2026_W12_Fearnleys-Weekly-Report-_-Fearnpulse089798897_compressed.pdf`  |  pages: 20

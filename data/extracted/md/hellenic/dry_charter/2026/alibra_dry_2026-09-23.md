@@ -1,3 +1,10 @@
+---
+title: "Weekly Dry Time Charter Estimates, September 23 2026"
+issue_date: "2026-09-23"
+year: 2026
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/dry_charter/2026/2026-09-23_weekly-dry-time-charter-estimates-september-23-2026.html"
+---
 # Weekly Dry Time Charter Estimates, September 23 2026
 
 - **Issue Date**: 2026-09-23

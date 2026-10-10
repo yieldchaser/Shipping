@@ -6,6 +6,9 @@ broker: "agora"
 pages: 5
 source_file: "corpus/01-brokers/agora/2026/agora_2026_W35_AGORA.-Week-35-2026.-Snapshot-of-Commercial-Indicators.pdf"
 number_convention: "EU"
+issue_date: "2026-08-27"
+report_week: 35
+publisher: "Agora Shipbroking Corporation"
 ---
 
 # Agora Snapshot of Commercial Indicators - Week 35 / 2026

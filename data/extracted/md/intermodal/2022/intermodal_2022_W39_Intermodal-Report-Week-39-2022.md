@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 39, 2022"
+issue_date: "2022-10-04"
+year: 2022
+report_week: 39
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2022/intermodal_2022_W39_Intermodal-Report-Week-39-2022.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 39 | Tuesday 04<sup>th</sup> October 2022

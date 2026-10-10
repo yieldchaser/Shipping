@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 35, 2022"
+issue_date: "2022-09-06"
+year: 2022
+report_week: 35
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2022/intermodal_2022_W35_Intermodal-Report-Week-35-2022.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 35 | Tuesday 06<sup>th</sup> September 2022

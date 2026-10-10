@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 21, 2023"
+issue_date: "2023-05-30"
+year: 2023
+report_week: 21
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2023/intermodal_2023_W21_Intermodal-Report-Week-21-2023.pdf"
+---
 # Weekly Market Report
 
 ## Market Insight

@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 31, 2022"
+issue_date: "2022-08-03"
+year: 2022
+report_week: 31
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2022/fearnleys_2022_W31_Fearnleys-Weekly-Report-Week-31-2022.pdf"
+---
 # fearnleys_2022_W31_Fearnleys-Weekly-Report-Week-31-2022
 
 source: `corpus/01-brokers/fearnleys/2022/fearnleys_2022_W31_Fearnleys-Weekly-Report-Week-31-2022.pdf`  |  pages: 1

@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 8, 2025"
+issue_date: "2025-02-25"
+year: 2025
+report_week: 8
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2025/intermodal_2025_W08_Intermodal-Report-Week-08-2025.pdf"
+---
 # Weekly Market Report
 
 ## Market Insight

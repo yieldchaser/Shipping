@@ -1,3 +1,11 @@
+---
+title: "Advanced Shipping & Trading Weekly Market Report - Week 27, 2024"
+issue_date: "2024-07-05"
+year: 2024
+report_week: 27
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2024/advanced_shipping_2024_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf"
+---
 # advanced_shipping_2024_W27_ADVANCED-MARKET-REPORT-WEEK-27
 
 - **Publisher**: Advanced Shipping & Trading

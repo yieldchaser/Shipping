@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 11, 2022"
+issue_date: "2022-03-16"
+year: 2022
+report_week: 11
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2022/fearnleys_2022_W11_Fearnleys-Weekly-Report-Week-11-2022-1.pdf"
+---
 # fearnleys_2022_W11_Fearnleys-Weekly-Report-Week-11-2022-1
 
 source: `corpus/01-brokers/fearnleys/2022/fearnleys_2022_W11_Fearnleys-Weekly-Report-Week-11-2022-1.pdf`  |  pages: 1

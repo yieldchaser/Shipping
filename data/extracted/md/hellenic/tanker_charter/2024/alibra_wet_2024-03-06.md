@@ -1,3 +1,10 @@
+---
+title: "Weekly Tanker Time Charter Estimates, March 09 2024"
+issue_date: "2024-03-06"
+year: 2024
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/tanker_charter/2024/2024-03-06_weekly-tanker-time-charter-estimates-march-09-2024.html"
+---
 # Weekly Tanker Time Charter Estimates, March 09 2024
 
 - **Issue Date**: 2024-03-06

@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 50, 2022"
+issue_date: "2022-12-14"
+year: 2022
+report_week: 50
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2022/fearnleys_2022_W50_Fearnleys-Weekly-Report-Week-50-2022.pdf"
+---
 # fearnleys_2022_W50_Fearnleys-Weekly-Report-Week-50-2022
 
 source: `corpus/01-brokers/fearnleys/2022/fearnleys_2022_W50_Fearnleys-Weekly-Report-Week-50-2022.pdf`  |  pages: 441

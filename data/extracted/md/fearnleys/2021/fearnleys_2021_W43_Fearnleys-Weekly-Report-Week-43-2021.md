@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 43, 2021"
+issue_date: "2021-10-27"
+year: 2021
+report_week: 43
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W43_Fearnleys-Weekly-Report-Week-43-2021.pdf"
+---
 # fearnleys_2021_W43_Fearnleys-Weekly-Report-Week-43-2021
 
 source: `corpus/01-brokers/fearnleys/2021/fearnleys_2021_W43_Fearnleys-Weekly-Report-Week-43-2021.pdf`  |  pages: 1

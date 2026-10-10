@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 44, 2022"
+issue_date: "2022-11-08"
+year: 2022
+report_week: 44
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2022/intermodal_2022_W44_Intermodal-Report-Week-44-2022.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 44 | Tuesday 08<sup>th</sup> November 2022

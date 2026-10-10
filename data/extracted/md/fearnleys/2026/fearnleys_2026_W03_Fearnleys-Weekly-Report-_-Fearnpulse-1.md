@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 3, 2026"
+issue_date: "2026-01-14"
+year: 2026
+report_week: 3
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W03_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf"
+---
 # fearnleys_2026_W03_Fearnleys-Weekly-Report-_-Fearnpulse-1
 
 source: `corpus/01-brokers/fearnleys/2026/fearnleys_2026_W03_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf`  |  pages: 19

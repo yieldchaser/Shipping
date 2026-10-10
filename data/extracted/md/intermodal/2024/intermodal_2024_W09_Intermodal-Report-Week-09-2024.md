@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 9, 2024"
+issue_date: "2024-03-05"
+year: 2024
+report_week: 9
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2024/intermodal_2024_W09_Intermodal-Report-Week-09-2024.pdf"
+---
 # Weekly Market Report
 
 ## Market Insight

@@ -1,3 +1,11 @@
+---
+title: "Advanced Shipping & Trading Weekly Market Report - Week 48, 2023"
+issue_date: "2023-12-01"
+year: 2023
+report_week: 48
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2023/advanced_shipping_2023_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf"
+---
 # advanced_shipping_2023_W48_ADVANCED-MARKET-REPORT-WEEK-48
 
 - **Publisher**: Advanced Shipping & Trading

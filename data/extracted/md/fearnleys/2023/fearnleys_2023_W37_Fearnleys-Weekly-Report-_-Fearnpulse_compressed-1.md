@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 37, 2023"
+issue_date: "2023-09-13"
+year: 2023
+report_week: 37
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf"
+---
 # fearnleys_2023_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1
 
 source: `corpus/01-brokers/fearnleys/2023/fearnleys_2023_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1.pdf`  |  pages: 19

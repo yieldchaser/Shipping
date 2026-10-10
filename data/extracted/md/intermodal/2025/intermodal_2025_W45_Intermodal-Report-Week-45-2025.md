@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 45, 2025"
+issue_date: "2025-11-11"
+year: 2025
+report_week: 45
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2025/intermodal_2025_W45_Intermodal-Report-Week-45-2025.pdf"
+---
 ## Weekly Market Report
 
 ## Market Insight

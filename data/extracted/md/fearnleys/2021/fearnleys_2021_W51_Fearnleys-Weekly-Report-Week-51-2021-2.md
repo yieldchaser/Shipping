@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 51, 2021"
+issue_date: "2021-12-22"
+year: 2021
+report_week: 51
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W51_Fearnleys-Weekly-Report-Week-51-2021-2.pdf"
+---
 # fearnleys_2021_W51_Fearnleys-Weekly-Report-Week-51-2021-2
 
 source: `corpus/01-brokers/fearnleys/2021/fearnleys_2021_W51_Fearnleys-Weekly-Report-Week-51-2021-2.pdf`  |  pages: 1

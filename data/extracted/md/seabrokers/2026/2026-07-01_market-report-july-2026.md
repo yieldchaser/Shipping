@@ -1,3 +1,9 @@
+---
+title: "Seabreeze Monthly Offshore Market Report - July 2026"
+issue_date: "2026-07-01"
+year: 2026
+publisher: "Seabrokers Chartering"
+---
 # Seabrokers Chartering
 
 The Seabrokers Chartering Monthly Market Report  

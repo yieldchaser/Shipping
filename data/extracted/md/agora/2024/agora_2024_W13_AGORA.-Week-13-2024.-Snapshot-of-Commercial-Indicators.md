@@ -1,3 +1,11 @@
+---
+title: "Agora Snapshot of Commercial Indicators - Week 13 / 2024"
+issue_date: "2024-03-28"
+year: 2024
+report_week: 13
+publisher: "Agora Shipbroking Corporation"
+source_file: "corpus/01-brokers/agora/2024/agora_2024_W13_AGORA.-Week-13-2024.-Snapshot-of-Commercial-Indicators.pdf"
+---
 # agora_2024_W13_AGORA.-Week-13-2024.-Snapshot-of-Commercial-Indicators
 
 source: `corpus/01-brokers/agora/2024/agora_2024_W13_AGORA.-Week-13-2024.-Snapshot-of-Commercial-Indicators.pdf`  |  pages: 5  |  number convention: **EU** (comma is the decimal point)

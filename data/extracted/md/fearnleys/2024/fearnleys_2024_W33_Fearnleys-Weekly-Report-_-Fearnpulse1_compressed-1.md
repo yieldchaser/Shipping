@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 33, 2024"
+issue_date: "2024-08-14"
+year: 2024
+report_week: 33
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W33_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed-1.pdf"
+---
 # fearnleys_2024_W33_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed-1
 
 source: `corpus/01-brokers/fearnleys/2024/fearnleys_2024_W33_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed-1.pdf`  |  pages: 19

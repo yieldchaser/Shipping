@@ -1,3 +1,10 @@
+---
+title: "Weekly Dry Time Charter Estimates, May 14 2025"
+issue_date: "2025-05-14"
+year: 2025
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/dry_charter/2025/2025-05-14_weekly-dry-time-charter-estimates-may-14-2025.html"
+---
 # Weekly Dry Time Charter Estimates, May 14 2025
 
 - **Issue Date**: 2025-05-14

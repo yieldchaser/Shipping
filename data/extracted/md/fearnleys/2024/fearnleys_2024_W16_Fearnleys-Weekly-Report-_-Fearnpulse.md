@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 16, 2024"
+issue_date: "2024-04-17"
+year: 2024
+report_week: 16
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W16_Fearnleys-Weekly-Report-_-Fearnpulse.pdf"
+---
 # fearnleys_2024_W16_Fearnleys-Weekly-Report-_-Fearnpulse
 
 source: `corpus/01-brokers/fearnleys/2024/fearnleys_2024_W16_Fearnleys-Weekly-Report-_-Fearnpulse.pdf`  |  pages: 19

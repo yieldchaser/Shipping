@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 35, 2021"
+issue_date: "2021-09-01"
+year: 2021
+report_week: 35
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W35_Fearnleys-Weekly-Report-Week-35-2021.pdf"
+---
 # fearnleys_2021_W35_Fearnleys-Weekly-Report-Week-35-2021
 
 source: `corpus/01-brokers/fearnleys/2021/fearnleys_2021_W35_Fearnleys-Weekly-Report-Week-35-2021.pdf`  |  pages: 1

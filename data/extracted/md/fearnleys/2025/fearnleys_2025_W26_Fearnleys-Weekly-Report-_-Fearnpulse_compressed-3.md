@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 26, 2025"
+issue_date: "2025-06-25"
+year: 2025
+report_week: 26
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2025/fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf"
+---
 # fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3
 
 source: `corpus/01-brokers/fearnleys/2025/fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3.pdf`  |  pages: 19

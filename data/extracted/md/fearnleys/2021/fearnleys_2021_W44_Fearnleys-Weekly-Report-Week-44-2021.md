@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 44, 2021"
+issue_date: "2021-11-03"
+year: 2021
+report_week: 44
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W44_Fearnleys-Weekly-Report-Week-44-2021.pdf"
+---
 # fearnleys_2021_W44_Fearnleys-Weekly-Report-Week-44-2021
 
 source: `corpus/01-brokers/fearnleys/2021/fearnleys_2021_W44_Fearnleys-Weekly-Report-Week-44-2021.pdf`  |  pages: 1

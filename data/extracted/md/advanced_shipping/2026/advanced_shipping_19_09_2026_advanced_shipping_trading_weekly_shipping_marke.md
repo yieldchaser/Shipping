@@ -1,3 +1,11 @@
+---
+title: "Advanced Shipping & Trading Weekly Market Report - Week 38, 2026"
+issue_date: "2026-09-18"
+year: 2026
+report_week: 38
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_19_09_2026_advanced_shipping_trading_weekly_shipping_marke.pdf"
+---
 # advanced_shipping_19_09_2026_advanced_shipping_trading_weekly_shipping_marke
 
 - **Publisher**: Advanced Shipping & Trading

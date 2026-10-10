@@ -1,3 +1,11 @@
+---
+title: "Advanced Shipping & Trading Weekly Market Report - Week 7, 2025"
+issue_date: "2025-02-14"
+year: 2025
+report_week: 7
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2025/advanced_shipping_2025_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf"
+---
 # advanced_shipping_2025_W07_ADVANCED-MARKET-REPORT-WEEK-7
 
 - **Publisher**: Advanced Shipping & Trading

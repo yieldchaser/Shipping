@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 49, 2021"
+issue_date: "2021-12-14"
+year: 2021
+report_week: 49
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2021/intermodal_2021_W49_Intermodal-Report-Week-49-2021.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 49 | Tuesday 14<sup>th</sup> December 2021

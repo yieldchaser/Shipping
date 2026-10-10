@@ -1,3 +1,10 @@
+---
+title: "Banchero Costa Weekly Market Report - Week 38, 2026"
+issue_date: "2026-09-21"
+year: 2026
+report_week: 38
+publisher: "Banchero Costa"
+---
 # weekly market report
 
 # ebc

@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 9, 2026"
+issue_date: "2026-02-25"
+year: 2026
+report_week: 9
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf"
+---
 # fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed
 
 source: `corpus/01-brokers/fearnleys/2026/fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed.pdf`  |  pages: 19

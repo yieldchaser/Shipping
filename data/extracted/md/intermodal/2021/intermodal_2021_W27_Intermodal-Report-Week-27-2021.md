@@ -1,3 +1,11 @@
+---
+title: "Intermodal Weekly Market Report - Week 27, 2021"
+issue_date: "2021-07-13"
+year: 2021
+report_week: 27
+publisher: "Intermodal Shipbrokers"
+source_file: "corpus/01-brokers/intermodal/2021/intermodal_2021_W27_Intermodal-Report-Week-27-2021.pdf"
+---
 # Weekly Market Report
 
 Issue: Week 27 | Tuesday 13<sup>th</sup> July 2021

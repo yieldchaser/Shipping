@@ -1,3 +1,11 @@
+---
+title: "Advanced Shipping & Trading Weekly Market Report - Week 4, 2025"
+issue_date: "2025-01-24"
+year: 2025
+report_week: 4
+publisher: "Advanced Shipping & Trading"
+source_file: "corpus/01-brokers/advanced_shipping/2025/advanced_shipping_2025_W04_ADVANCED-MARKET-REPORT-WEEK-4.pdf"
+---
 # advanced_shipping_2025_W04_ADVANCED-MARKET-REPORT-WEEK-4
 
 - **Publisher**: Advanced Shipping & Trading

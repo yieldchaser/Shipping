@@ -1,3 +1,10 @@
+---
+title: "Weekly Tanker Time Charter Estimates, January 25 2023"
+issue_date: "2023-01-25"
+year: 2023
+publisher: "Alibra Shipping Limited"
+source_file: "corpus/02-hellenic/tanker_charter/2023/2023-01-25_weekly-tanker-time-charter-estimates-january-25-2023.html"
+---
 # Weekly Tanker Time Charter Estimates, January 25 2023
 
 - **Issue Date**: 2023-01-25

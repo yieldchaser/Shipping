@@ -1,3 +1,11 @@
+---
+title: "Fearnleys Weekly Report - Week 47, 2024"
+issue_date: "2024-11-20"
+year: 2024
+report_week: 47
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W47_Fearnleys-Weekly-Report-_-Fearnpulse20_compressed.pdf"
+---
 # fearnleys_2024_W47_Fearnleys-Weekly-Report-_-Fearnpulse20_compressed
 
 source: `corpus/01-brokers/fearnleys/2024/fearnleys_2024_W47_Fearnleys-Weekly-Report-_-Fearnpulse20_compressed.pdf`  |  pages: 19
