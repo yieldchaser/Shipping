@@ -17,6 +17,13 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 3. **`scripts/parse_engine_html/`** — VesselsValue HTML deals + VV Mini Matrix image OCR (in progress). Output to `.reparse_staging/vessel_valuations/`.
 4. **SHELVED — see HARD RULE.** `scripts/md_cleanup/chart_tables.py` — removes LLM-guessed chart tables (values not printed in source text layer), replaces with `> Figure: … not transcribed` note. Guarded mode default; ISM (vector-engine charts) and any "Vector" section excluded. Dry-run results in `.reparse_staging/chart_cleanup/guard_published/` (8,890 tables). Was about to APPLY in place — check `git diff --stat data/extracted/md` before committing.
 
+## STATUS 2026-10-10 — Star Asia LIVE ON MAIN (f5c1c07e16, merged f00f033710)
+197 files: snapshot tables rebuilt from PDF spans, 2932 page-footer lines removed, 4 orphan blocks (2023 W24/W26/W28/W30).
+Orphan blocker fixed: unit_key now strips escaped `\*` so escaped cells match; commentary test added (22 tests pass). Validator OK.
+Owner decision still pending: Star Asia trend arrows (images) — currently "IMPROVING /" without arrow.
+NEXT: Intermodal tables (NB Orders column shift; demolition "$ 540.0m" should be $540/ldt) → Carriers row-level re-parse →
+VV leftovers → metadata → self-hosted runner. Keys rotation at very end (owner).
+
 ## STATUS 2026-10-08 23:30 IST — PAUSED (weekly limit 98%). Resume Saturday.
 LIVE ON MAIN: Clarksons 179 · VV 224/255 · Xclusiv 2021–23 123/124 (18f9a8ae8) · Carriers cell fixes 135 files
 (23437f6d4) · Best Oasis 210 issues + 259 dupes removed (4ab1ef138). Knowledge validator passes.
