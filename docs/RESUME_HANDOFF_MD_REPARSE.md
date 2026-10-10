@@ -17,6 +17,14 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 3. **`scripts/parse_engine_html/`** — VesselsValue HTML deals + VV Mini Matrix image OCR (in progress). Output to `.reparse_staging/vessel_valuations/`.
 4. **SHELVED — see HARD RULE.** `scripts/md_cleanup/chart_tables.py` — removes LLM-guessed chart tables (values not printed in source text layer), replaces with `> Figure: … not transcribed` note. Guarded mode default; ISM (vector-engine charts) and any "Vector" section excluded. Dry-run results in `.reparse_staging/chart_cleanup/guard_published/` (8,890 tables). Was about to APPLY in place — check `git diff --stat data/extracted/md` before committing.
 
+## STATUS 2026-10-10 (later) — Intermodal tables LIVE ON MAIN (2a0621f4fa, merged ae04de5d84)
+scripts/md_cleanup/intermodal_fix.py (35 tests): 245 files — fill_down 1432 merged cells (+ "(en bloc)" on multi-ship $ prices),
+nb_prices 217 tables rebuilt to one schema (values dropped by old MD added from PDF with bbox), demolition_ldt 76 "$ NNN.0m"→"$ NNN/Ldt".
+40 unresolved left as-is (26 NB: value lost mid-row; 14 fill: page-spanning/split rows) — list in .reparse_staging/intermodal_fix/_summary.json.
+Publisher error kept as printed: 2023 W20–W29 Kamsarmax averages = Newcastlemax's (66/59/51). Owner: Star Asia stays without arrows.
+Chart-derived monthly tables (NB prices m$, demolition Date|Bangladesh…) untouched — chart cleanup still SHELVED.
+NEXT: Carriers row-level re-parse → VV leftovers → metadata → self-hosted runner. Keys rotation at very end (owner).
+
 ## STATUS 2026-10-10 — Star Asia LIVE ON MAIN (f5c1c07e16, merged f00f033710)
 197 files: snapshot tables rebuilt from PDF spans, 2932 page-footer lines removed, 4 orphan blocks (2023 W24/W26/W28/W30).
 Orphan blocker fixed: unit_key now strips escaped `\*` so escaped cells match; commentary test added (22 tests pass). Validator OK.
