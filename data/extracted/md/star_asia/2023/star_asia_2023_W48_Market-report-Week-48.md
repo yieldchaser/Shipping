@@ -28,8 +28,6 @@ Capesize:
 
 International iron ore prices hit a record high after China's stimulus announcements, prompting Chinese authorities to crack down on speculative trading and limiting additional purchases by importers. Additionally, restrictions on Panama Canal navigation have led to an increase in coal shipments from the United States to Asia via the Cape route, contributing to the shortage in the North Atlantic supply. Despite a minimal supply of ships in the Atlantic, both major regions continue to experience steady cargo inflows, leading to sustained strength in the Cape route. T/A saw levels jump to US$ 68,750's a day while Pacific r/v jumped some US$ 3,000's a day to
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 US$ 35,750's a day.
@@ -41,8 +39,6 @@ The upward trend in shipping rates continues due to a combination of port conges
 Handysize:
 
 In the Atlantic, there is a steady influx of cargo, primarily centred around the Mediterranean, while the entry of spot vessels remains restricted, maintaining a positive mood. T/A levels settle around US$ 14,150's a day. In the Pacific, Indonesia's consistent coal demand continues to absorb local vessels, and there is a slight recovery in NOPAC cargo demand, contributing to the ongoing upward trend. Inter Pacific levels close at US$ 7,300's a day at the week's closing.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -74,8 +70,6 @@ In the Atlantic, there is a steady influx of cargo, primarily centred around the
 | HANDY | 38,000 | 30 |  | 33 | 26 | 17 6 |
 | *(amount in USD million) |  |  |  |  |  |  |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Bulker 12 months T/C rates average (in USD/day)
@@ -86,8 +80,6 @@ In the Atlantic, there is a steady influx of cargo, primarily centred around the
 | PANAMAX | 75,000 | 14,750 | 13,250 | 14,300 | +11.32% | +3.15% |
 | SUPRAMAX | 58,000 | 13,750 | 12,250 | 13,250 | +12.24% | +3.77% |
 | HANDYSIZE | 38,000 | 12,000 | 10,250 | 10,500 | +17.07% | +14.29% |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -102,8 +94,6 @@ After a strong rise in freight rates in mid-November, there is now pressure for 
 Suezmax:
 
 Although activity has slowed due to restricted cargo inflow, resistance among shipowners has expanded in response to the sharp drop in November market conditions. The West Africa/Europe segment saw a 1% increase in closing, driven by efforts to secure short-term lows. 130,000mt Nigeria/U.K.C. saw levels at WS98.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -120,8 +110,6 @@ MR: In the U.S.G., MR rates reached their peak before falling to WS267. West of 
 L.R.: LR2 owners faced a disappointing week as rates ended lower than initially proposed by charterers. However, downward pressure is expected due to the freight gap with lower-tier vessels and the increasing local ship supply. M.E.G./Japan TC1 fell to WS107. LR1 rates in the M.E.G. remained stable despite declines in vessels. TC5 fell slightly to WS119.
 
 ## Tankers S&P Report
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -147,8 +135,6 @@ Tanker 12 months T/C rates average (in USD/day)
 | LR1 | 74,000 | 31,750 | 31,750 | 42,500 | 0 | -25.29% |
 | MR | 47,000 | 26,000 | 26,000 | 27,500 | 0 | -5.45% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -172,29 +158,16 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 36 | 28 | 15 | 12 |
 | 5,500 - 7,000 *(amount in USD million) | Gearless | 93 | 76 | 64 | 36 | N/A |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 510 ~ 520 490 ~ 500 500 ~ 510 520 ~ 530 WEAK /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 510 ~ 520 | 490 ~ 500 | 500 ~ 510 | 520 ~ 530 | WEAK / |
+| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | STABLE / |
 | **GADDANI, PAKISTAN | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 520 ~ 530 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -211,8 +184,6 @@ TURKEY
 | GADDANI, PAKISTAN | 415 | 365 | 400 | 610 | 500 |
 | ALIAGA, TURKEY | 280 | 240 | 215 | 330 | 300 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -225,11 +196,7 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -248,8 +215,6 @@ Anchorage & Beaching Position (December 2023)
 | DIAMOND WAY | BULKER | 9,016 | 23.11.2023 | 02.12.2023 |
 | WESTERN V | FISHING | 868 | 23.11.2023 | 02.12.2023 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
 
 Chattogram, Bangladesh
@@ -262,8 +227,6 @@ Gadani, Pakistan
 
 This weeks big news was that Pakistan has now committed to the Hong Kong International Convention for Safe and Environmentally Sound Recycling of Ships. Pakistan recently ratified the convention at the International Maritime Organization Assembly meeting, following a decision made during a November cabinet meeting.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 The convention is set to enter into force in June 2025, with Bangladesh and Liberia having ratified it earlier this year. Prior to implementation, Pakistan's shipbreaking yards in Gadani must upgrade facilities to meet the convention's standards. The latest sale of Chinese owned G Harmony built in 2005 China, weighing 11,248 tons was reported sold at a gross price of US$531/ton levels. This sale is anticipated to influence and establish a precedent for pricing trends in the future ship market. Looking ahead, as Alang maintains a subdued presence and Bangladesh tackles with challenges in opening LCs, Gaddani is poised to stay in the forefront. The recyclers in Gaddani are anticipated to attract sustained attention and focus for the time being after remaining absent for a long time.
@@ -273,8 +236,6 @@ Anchorage & Beaching Position (December 2023)
 Aliaga, Turkey
 
 Scrap prices in Turkey are on the rise due to increased costs from U.S. and European suppliers, presenting a challenge for Turkish mills. This comes at a difficult time as sales of finished steel products, including rebar, are low. The construction industry is contracting due to slowed product sales and rising production costs, especially with winter approaching. Interest rates have been raised by another 5% to the current 40%. Negotiations between Turkish steel producers and scrap collectors are sluggish, hindering mills from securing higher rebar prices. Current US-origin H.M.S. (80:20) bulk scrap is assessed at US$397/t, marking a US$9/t increase W-O-W. In recycling, it was another quiet week in Turkey, There was a noticeable lack of tonnage.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -307,8 +268,6 @@ EXCHANGE RATES
 
 ## HMS 1/2 & Tangshan Billet
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 ## Commodities
@@ -329,8 +288,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 132 | -2.2% | +30.6% | 135 | 101 |
 | Iron Ore Fines, C.N.F. Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 133 | -2.9% | +29.1% | 137 | 103 |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 

@@ -22,8 +22,6 @@ pages: 22
 
 This week, the big news that boosted the market sentiments was from the secondlargest economy. China plans to boost public borrowing and spending in 2025, making domestic consumption its top priority amid growing economic pressures. Following the Central Economic Work Conference, President Xi Jinping and senior officials announced a higher fiscal deficit target and future cuts to interest rates and the reserve requirement ratio, as reported by state broadcaster CCTV. The turn underscores Beijing's strategy to stimulate demand in the face of external risks like U.S. tariffs and internal challenges, including persistent deflation and a struggling property market. Officials also plan to issue special treasury bonds and increase local government financing for infrastructure investment. However, details on measures to lift consumer spending remain vague. Economists, including Macquarie Group's Larry Hu, expect increased public spending rather than direct consumer subsidies. Previous stimulus efforts, such as rate cuts and purchase subsidies, have failed to restore confidence significantly. This shift marks a departure from industrial upgrading and innovation as top priorities, reflecting the urgency to bolster domestic demand. Despite a positive tone, markets reacted cautiously, with stock futures falling and concerns about implementation lingering. Full details, including growth targets, will be unveiled in March, but the strategy highlights Beijing's intent to stabilise its economy amid looming domestic and global uncertainties. On the other side of the Pacific, The Federal Reserve's final meeting of 2024 will be a critical moment for financial markets, setting the tone for year-end moves and shaping 2025's economic outlook. Investors await clarity on whether the Fed will hold rates steady, tighten further, or signal a pivot amid moderating inflation and resilient consumer spending. Geopolitical risks and global growth concerns further complicate the backdrop. Markets will closely scrutinise Chair Jerome Powell's comments for insights on inflation, credit conditions, and policy direction. The Fed's decisions and messaging will determine near-term volatility and risk appetite, making this meeting a pivotal event for both markets and the economy.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Pacific market continues to face downward pressure as spot vessels accumulat
 Panamax/Kamsarmax:
 
 Market conditions remain subdued across both basins. In the Atlantic, limited fixture activity and weak vessel demand continue to drive rates downward. Similarly, the Pacific faces persistent downward pressure as most spot cargoes have been absorbed, leading
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ The handy segment saw a similar persistent fall, with both basins recording a lo
 | HANDY | 38,000 | 29 | 33 | 27 | 20 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Bulker 12 months T/C rates average (in USD/day)
@@ -86,8 +80,6 @@ The handy segment saw a similar persistent fall, with both basins recording a lo
 | PORTHOS |  | SMAX | 56,825 | 2010 | CHINA | 13.5 | UNDISCLOSED |
 | OAK | HARBOUR | HANDY | 33,745 | 2005 | JAPAN | 8.8 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -102,8 +94,6 @@ Suezmax:
 
 The West African market fell from WS88 to UKC despite being supported by Europebound cargo flows. The oversupply left little room for further increment, and the market is expected to maintain such a situation. In the Middle East, rates to the Med on TD23 also saw some slight easing, with 140,000mt closing at WS90.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -115,8 +105,6 @@ Clean:
 LR: After reaching a peak of WS120 points mid-week, the LR2 Middle East market has begun to cool off, closing with a 10-point decline to WS110 for TC1. In the LR1, levels for TC5 MEG/Japan remain stagnant as levels close at WS110. MR: The Far East market closed with slightly weakened rates as Chinese loading demand continues to remain subdued. In the UKC, TC2 saw renewed sentiments as levels jumped to WS146 at closing. Similarly, MEG market also saw rates improved on the TC17 route to E.Africa at WS201 mark.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -139,11 +127,7 @@ LR: After reaching a peak of WS120 points mid-week, the LR2 Middle East market h
 | SONGA BREEZE | PROD / CHEM | 19,999 | 2009 | JAPAN | 24.0 (SS) | CHINESE BUYERS |
 | WINTER | PROD / CHEM | 23,052 | 2009 | S. KOREA | 14.0 | FAR EASTERN BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 9
 
@@ -153,33 +137,18 @@ Market conditions vary significantly across different routes, with Mediterranean
 
 ## Containers S&P Report
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 11
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 470 ~ 480 450 ~ 460 440 ~ 450 480 ~ 490 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 480 ~ 490 470 ~ 480 | 450 ~ 460 | 490 ~ 500 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 460 ~ 470 440 ~ 450 | 430 ~ 440 | 470 ~ 480 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 340 ~ 350 350 ~ 360 370 ~ 380 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 470 ~ 480 | 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 480 ~ 490 | 470 ~ 480 | 450 ~ 460 | 490 ~ 500 | STABLE / |
+| GADDANI, PAKISTAN | 460 ~ 470 | 440 ~ 450 | 430 ~ 440 | 470 ~ 480 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 340 ~ 350 | 350 ~ 360 | 370 ~ 380 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -196,27 +165,19 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 800 | 580 | 520 |
 | ALIAGA, TURKEY | 270 | 210 | 240 | 300 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
 ## Ships Sold for Recycling
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
 ## Insight
 
 The ship recycling markets across the Indian subcontinent remained subdued this week, struggling with a confluence of challenges. Weak domestic steel demand and liquidity constraints, particularly in Bangladesh and Pakistan, have weighed heavily on the sector. Compounding these issues, corrections in domestic ship scrap prices have further dampened market sentiment. On the supply front, the week offered a preview of potential opportunities, with a few VLCCs entering the market. However, buyer interest remained tepid, reflecting the broader caution among recyclers. Despite the availability of these high-tonnage assets, end buyers with purchasing power have refrained from aggressive bidding, citing lingering concerns over market uncertainties. Notably, Aframax tankers have commanded prices approximately USD 20-25/ton higher than VLCCs, underscoring the selective appetite in a risk-averse environment. Looking ahead, a gleam of optimism arises from declining freight rates, particularly in the dry bulk segment, along with some changes in the container segment, which has been elevated for a very long period. This downturn may drive more vessels toward recycling.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -225,8 +186,6 @@ The first quarter of the upcoming year is anticipated to see a notable uptick in
 Alang, India
 
 The ship recycling industry is facing multiple headwinds this week, with a shift towards cautious negativity among stakeholders amid cheaply available imported ferrous scrap, sluggish domestic steel sales and the strengthening US Dollar Index. These factors combined contributed to uncertainties in the industry's outlook, potentially affecting pricing and the volume of recycling activity in the near term. However, on the brighter side, India's steel ministry is advocating for a temporary safeguard duty to curb a surge in cheap Chinese steel imports, a senior official revealed. The proposed tariff aims to protect domestic steelmakers, including JSW Steel, Tata Steel, and ArcelorMittal Nippon Steel India, as imports hit a seven-year high during April- August. India, the world's second-largest crude steel producer, became a net importer in FY24 amid rising demand fueled by infrastructure spending. The government has resisted curbing imports to ensure supply but now sees the need to prevent price crashes and financial strain on local producers. Free trade pacts with Japan and South Korea limit import duty options, while antidumping probes are too time-consuming. The safeguard duty process is expected to begin soon, with implementation likely within six months. Additionally, India plans to tighten quality standards to deter Chinese imports but has declined requests to restrict low-grade iron ore exports, citing sufficient reserves. On the other hand, for the ferrous scrap importers, India Faces a Regulatory Shift in EU Scrap Imports: A Game Changer as well for Ship Recycling industry? India's ferrous scrap import landscape is set to transform following the EU's revised Waste Shipment Regulation (WSR), which came into effect in May. By February 21, 2025, India must request approval from the European Commission to continue importing EUorigin waste, including steel scrap. Missing this deadline would halt exports by May 2027; with EU ferrous scrap accounting for 55% of the 35 million tons of exported waste in 2023, India's 3.7 million tons of imports underscores its dependence on these materials, driven by an 8-9% industrial growth forecast.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -250,8 +209,6 @@ Chattogram, Bangladesh
 
 This week witnessed a sharp downturn in market sentiment across the ship recycling sector, leading to a notable decline in ship prices. The sudden drop in demand has weighed heavily on the market, while domestic ship scrap prices have also turned negative, driven by sluggish sales in local steel markets. Adding to the challenges, political instability in Bangladesh has exacerbated uncertainties. Following the collapse of the Sheikh Hasina government, the interim administration has struggled to provide stability or clarity for the business environment. Industry experts predict that the ship recycling market in Bangladesh will remain subdued until a permanent government is established and policy direction is clarified. The combined effects of weak demand, falling scrap prices, and political turmoil have created a cautious atmosphere among recyclers in the Indian subcontinent. Many buyers are refraining from making significant commitments, preferring to wait for clearer signals on both domestic and global fronts.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Looking forward, the market's recovery will likely depend on improvements in local steel demand and the stabilisation of the political landscape in key markets like Bangladesh. Until then, recyclers are expected to maintain a conservative approach, with limited activity and downward pressure on pricing persisting in the short term.
@@ -263,8 +220,6 @@ The ship recycling market has entered a phase of near-hibernation as the availab
 Aliaga, Turkey
 
 Turkish steel market dynamics showed mixed signals this week, with some domestic mills reducing their buying prices while imported scrap prices recovered following fresh US deals. Market participants express cautious optimism, noting that while there has been a
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -297,8 +252,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 278.25 | 277.95 | -0.11% |
 | USD / TRY (TURKEY) | 34.94 | 34.75 | -0.55% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 19
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -317,15 +270,11 @@ liquidity issues dampened demand. UK-origin shredded prices rose by US$4/ton to 
 
 (80:20) bulk was stable at US$345/ton CFR, with Baltic-origin material trading at US$340- 345/ton CFR.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 20
 
 Robust rebar sales spurred mills to restock ahead of anticipated market shifts. Rising collection costs and holiday-season constraints among Baltic recyclers supported firm price levels. Sentiment remained optimistic, with potential developments from China's economic policy likely to influence the market. Sub-continent ferrous scrap markets remain under pressure, with liquidity constraints and low steel demand dictating cautious buying behaviour. Turkey's market shows signs of resilience, driven by strong rebar sales and tight supply. Global developments, including China's economic signals, could shape market trends in the coming weeks.
 
 ## HMS 1/2 & Tangshan Billet
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 21
 

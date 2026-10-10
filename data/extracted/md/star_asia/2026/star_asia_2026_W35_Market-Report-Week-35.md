@@ -202,14 +202,9 @@ Container shipping market continued its climb this week as the SCFI rose to 3,50
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE /         
-
-CHATTOGRAM |
-
-| GADDANI, PAKISTAN | $520-530 | $510-520 | $490-500 | $540-550 | BULLISH /            
-
-ALIAGA |
-
+| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE / |
+| CHATTOGRAM, BANGLADESH | $490-500 | $460-470 | $450-460 | $500-510 | BULLISH / |
+| GADDANI, PAKISTAN | $520-530 | $510-520 | $490-500 | $540-550 | BULLISH / |
 | ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
 
 ### Demolition - Reported Sales

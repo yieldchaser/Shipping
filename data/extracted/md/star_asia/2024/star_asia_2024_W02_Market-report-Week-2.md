@@ -22,8 +22,6 @@ pages: 17
 
 This week's latest update on geopolitical tensions sees the beginning of the new year marked by an intensified political and volatile environment, which always seems to be "good" for shipping, with the industry particularly sensitive to such events. Recent reports indicate that the U.S. and U.K. have conducted multiple airstrikes across Yemen in retaliation for attacks on Red Sea by Houthi rebels. This development could only add to more tightness in the overall markets but whether this is a lasting factor, the next few weeks would be crucial to see how the cards unfold. Meanwhile, China experienced a significant surge in coal imports last year, reaching a record high of 61.8% according to recent customs reports. The increased demand for commodities post-COVID-19, coupled with rising domestic coal prices and diminished quality, led users to turn to imports. Last December saw a monthly high of 47.3 million tons, driven by a severe cold wave and pre-Lunar New Year stocking. Despite the country reinstating coal import tariffs on countries without a free trade agreement in January 2024, traders believe that the price advantage of imported coal will persist, leading to a possible increase in imports this year. Notably, Mongolian coal imports are also expected to rise due to improved infrastructure links between the two countries. Taiwan's presidential elections concluded today with the Democratic Progressive Party's (DDP) candidate, Lai Ching-Te, winning the elections. Lai has vowed to maintain a cautious distance from China. As he has emerged victorious, it is expected that China will intensify its efforts to exert pressure on Taiwan as it came in as a big blow to China. The global community has been closely monitoring this election, recognising its potential to reshape Taiwan's relations with both China and the United States, as well as the broader geopolitical landscape. China asserts Taiwan as an integral part of its territory and has persistently pushed for reunification, a proposal consistently rejected by the democratic government of Taiwan. The ongoing tensions surrounding Taiwan remain a deeply divisive issue between Beijing and Washington, adding to the complex and contentious relationship between the two superpowers. Taiwan's presidential election will not only impact the island's future but also have significant implications for the evolving dynamics of global geopolitics.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ With the sluggish demand for iron ore in China, the Pacific region experienced a
 Panamax/Kamsarmax:
 
 A supply-dominant market persists in both basins, leading to a continued decline in rates overall. In the Pacific, there is some mild consolidation from reduced imports resulting from increased supply by China and India. Pacific r/v levels fell to US$9,800's a day. Meanwhile, in the Atlantic, grain exports have had a slow start, resulting in a decreased influx. While a generally subdued market is expected to persist this week, the potential recovery of US grain shipments could establish a short-term bottom. Supramax/Ultramax: Similar to the Panamax, a downturn continues across the routes. As the trade activity, centred in the Western region, contracted in early January, both the US Gulf and South
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -79,8 +75,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | SUPRAMAX | 58,000 | 12,250 | 13,000 | 13,750 | -5.77% | -10.91% |
 | HANDYSIZE | 38,000 | 12,500 | 12,750 | 9,750 | -1.96% | +28.21% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -99,8 +93,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | ELGIZNUR CEBI | SMAX | 57,305 | 2009 | S. KOREA | 13.2 | UNDISCLOSED |
 | VANTAGE SWORD | HANDY | 28,310 | 2009 | JAPAN | 9.0 | VIETNAMESE BUYERS |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -118,8 +110,6 @@ Suezmax saw an uptick in enquiries as traffic in the MEG to Europe route was red
 Aframax:
 
 In the Atlantic, markets remain firmed, influenced by lower-tier strength as TD26 gained some 60 points this week to WS345. The Middle East to Singapore route also saw a strong and stable market, with limitations on the extent of the increase due to a rise in ballast voyages from Southeast Asia.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -156,8 +146,6 @@ Tanker 12 months T/C rates average (in USD/day)
 | LR1 | 74,000 | 32,750 | 32,750 | 35,500 | 0 | -7.75% |
 | MR | 47,000 | 26,750 | 26,500 | 27,000 | +0.94% | -0.93% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -166,8 +154,6 @@ Tanker 12 months T/C rates average (in USD/day)
 |---|---|---|---|---|---|---|
 | BELLA CIAO | SUEZ | 156,586 | 2020 | CHINA | 86.0 | PERTAMINA |
 | APATYTH | PROD / CHEM | 24,086 | 2004 | CROATIA | 10.2 | UAE BUYERS |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -194,29 +180,16 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 36 | 28 | 15 | 12 |
 | 5,500 - 7,000 *(amount in USD million) | Gearless | 93 | 76 | 64 | 36 | N/A |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE
-
-TREND ALANG (WC INDIA) 500 ~ 510 480 ~ 490 490 ~ 500 520 ~ 530 STABLE /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 510 ~520 | 490 ~ 500 | 470 ~ 480 | 510 ~ 520 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 500 ~ 510 | 480 ~ 490 | 490 ~ 500 | 520 ~ 530 | STABLE / |
+| *CHATTOGRAM, BANGLADESH | 510 ~520 | 490 ~ 500 | 470 ~ 480 | 510 ~ 520 | STABLE / |
 | **GADDANI, PAKISTAN | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -233,8 +206,6 @@ TURKEY
 | GADDANI, PAKISTAN | 415 | 370 | 450 | 590 | 560 |
 | ALIAGA, TURKEY | 250 | 240 | 260 | 330 | 280 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -246,11 +217,7 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -270,8 +237,6 @@ Anchorage & Beaching Position (January 2024)
 | PROLIV LONGA | FISHING | 1,270 | 04.01.2024 | AWAITING |
 | AT MIDDLE BRIDGE | GENERAL CARGO | 3,406 | 12.01.2024 | AWAITING |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
 
 | ZE LENG | REEFER | 7,007 | 09.01.2024 | 12.01.2024 |
@@ -285,8 +250,6 @@ Anchorage & Beaching Position (January 2024)
 Chattogram, Bangladesh
 
 In the aftermath of the election, a week of adjustments is underway. Market activity has noticeably slowed down, creating challenges for recyclers who are encountering significant delays in opening LCs. Looking ahead, a notable shift has emerged, with the prevailing practice for most sellers now involving selling their ships at least six weeks in advance. This strategic move allows recyclers the necessary time to secure the required LCs, as it has become the new standard when it comes to selling ships to Chattogram. On the other hand, the economy is showing signs of deceleration, and inflation continues to be a persistent issue in Bangladesh. The country is grappling with a decline in its external reserves, with official reserves as of January 10 standing at US$20.18 billion, which is less than half of their highest point in 2021. This has led to a lingering currency shock. The incoming finance minister, Abul Hassan Mahmood Ali, will be faced with the challenging task of managing these economic pressures as he takes over from AHM Mustafa Kamal, who has led the critical ministry for the past five years.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -305,8 +268,6 @@ Anchorage & Beaching Position (January 2024)
 Aliaga, Turkey
 
 Despite the recent increases in imported scrap values, Turkish mills are maintaining their domestic scrap buying prices this week. The domestic market, valued in USD, is softening due to the continued depreciation of the lira against the dollar. Business activity within the domestic market is moderate, while demand for imported scrap persists.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -338,8 +299,6 @@ EXCHANGE RATES
 | USD / INR (INDIA) | 82.85 | 83.13 | +0.34% |
 | USD / PKR (PAKISTAN) | 280.44 | 278.05 | -0.86% |
 | USD / TRY (TURKEY) | 30.10 | 29.84 | -0.87% |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 

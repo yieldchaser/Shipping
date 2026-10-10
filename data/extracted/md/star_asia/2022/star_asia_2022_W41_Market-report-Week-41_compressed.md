@@ -52,8 +52,6 @@ second-largest economy will shape up in the months to come.
 
 As we enter the last quarter of 2022, the Baltic Indices gained momentum, hovering at twomonth highs. Despite the recent rise in the market, many participants are still not optimistic about the outlook for the Capesize sector. Various global economic factors, such as interest rates and war, are expected to continue affecting the market's perspective. Dry bulk vessels are not being utilised in China, which is the primary demand region. The Covid-related issues and the property market's potential recovery are also contributing to the uncertainty in the market. On the other hand, smaller vessels are still profitable, with spot prices for Supramax and Panamax vessels at high levels. Meanwhile on Thursday, the price of iron ore fell as anticipation that China might relax its zero-covid policy waned. Futures markets were also negatively impacted by the country's stringent measures. On the spot market in Northern China, 62% Fe fines were selling for US$94.86 PMT, a decrease of 1.19% from the previous day. The most actively traded iron ore contract on the country's primary market, the Dalian Commodity Exchange, closed the day down 2.5% at 696 yuan. China's Huatai Futures said that although they are not overly pessimistic about the market, they expect the situation to get worse due to the country's macroeconomics. However, they noted that the reduction in steel production could help support prices.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 ### Capesize:
@@ -85,8 +83,6 @@ Despite recent tensions between Russia and Ukraine, the Black Sea continues to o
 ### Handysize:
 
 In the Pacific, offers fell in response to restricted demand caused by the increase in tonnage. Inter Pacific saw levels in the region of US$13,695 a day. Despite BHSI's unfavorable movements, certain Atlantic regions have shown indications of recovery. T/A saw levels closed around US$14,950. Limited traffic in the Atlantic and Mediterranean also sustained levels.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 3
 
@@ -121,11 +117,7 @@ In the Pacific, offers fell in response to restricted demand caused by the incre
 | BSI | 1,690 | 1,706 |  | 3,576 | -0.94 | -52.74 |
 | BHSI | 1,012 | 1,033 |  | 2,021 | -2.03 | -49.93 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 5
 
@@ -141,8 +133,6 @@ Freight rates between the Middle East and China improved this week after the Chi
 
 Suezmax this week saw an uptick in crude oil imports from Europe and higher freight rates for the West Africa/Europe segment as 130,000mt Nigeria/U.K.C. climbed by 22 points to WS146. Med region also saw a positive outcome this week as Black Sea / Augusta saw improvements at WS185.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 6
 
 ### Aframax:
@@ -154,8 +144,6 @@ In the Med market, owners kept the momentum going and remained busy for another 
 M.R. freight rates between Korea and Southeast Asia declined as a result of a fall in the volume entering the region. The U.K.C. and U.S.G. improved as the week went on. However, the availability of vessels could increase if more ships are brought back from the U.S.G. AG MRs have increased significantly this week, with TC17 jumping to WS367.
 
 # Tankers S&P Report
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 7
 
@@ -194,8 +182,6 @@ limiting their operational capacity. The next stage will be to sell older vessel
 
 lead to record container demolitions in 2023.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 8
 
 # Containers S&P Report
@@ -217,32 +203,20 @@ lead to record container demolitions in 2023.
 | 5,500 - 7,000 | Gearless |  | 85 | 115 | 95 | 77 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 600 ~ 610 | 590 ~ 600 | 600 ~ 610 | 630 ~ 640 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 610 ~ 620 | 600 ~ 610 | 590 ~ 600 | 620 ~ 630 | STABLE / |
+| GADDANI, PAKISTAN | 590 ~ 600 | 580 ~ 590 | 560 ~ 570 | 600 ~ 610 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 350 ~ 360 | STABLE / |
 
-CHATTOGRAM,
-
-BANGLADESH 610 ~ 620 600 ~ 610 590 ~ 600 620 ~ 630 STABLE /
-
-GADDANI, PAKISTAN 590 ~ 600
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 320 ~ 330
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
 
 # 5-Year Ship
 
@@ -255,8 +229,6 @@ CHATTOGRAM, BANGLADESH GADDANI, PAKISTAN ALIAGA, TURKEY
 ### VESSEL NAME LDT / MT
 
 YU HAI XING 5017.10
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 580 ~ 590 560 ~ 570 600 ~ 610 STABLE /
 
@@ -285,8 +257,6 @@ YU HAI XING 5017.10
 
 This week saw minor corrections in the Sub-Continent domestic ship scrap prices. The momentum was seen losing steam as the central banks took center stage. The ever-devaluing domestic currency and depleting forex reserves have sent some shock waves to the Sub- Continent markets, especially Bangladesh. While in E.U. and the U.S., steel producers slowed down the production of steel amid high energy costs and weaker demand. The steel sector is among multiple energy-intensive industries and is vulnerable to the ongoing energy crisis, especially when winter is around the corner. In the U.S., as the steel prices continued their slow descent, few steel producers were cutting down production. Meanwhile, in Europe, countries have begun implementing emergency measures to mitigate rising energy prices.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 11
 
 ### ALANG, INDIA
@@ -306,8 +276,6 @@ Following a week-long surge in containerised and bulk scrap bookings, Indian buy
 ### CHATTOGRAM, BANGLADESH
 
 This week the markets have taken a breather as the volatility in the domestic ship scrap returns. Ongoing issues in opening the L.C.'s have now become even more difficult, with the central bank prompting the domestic banks to do cross-commodity price checks, in a nutshell, they are trying to slow down the imports amid depleting forex reserves. Ship recycling markets have entered into an extremely cautious mode. Several ships sold in the past are facing headwinds as even L.C.'s less than US$2.5 million value is being rejected by the banks. Bangladesh's central bank has pumped more than US$4 billion into the market so far this fiscal year, putting additional strain on the country's foreign exchange reserves. Between July and October, the Bank of Bangladesh flooded the market with almost four
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 12
 
@@ -332,8 +300,6 @@ billion dollars to assist lenders in clearing their import invoices. The previou
 ### GADDANI, PAKISTAN
 
 A very quiet week for the Pakistani ship recycling markets as the price levels are yet to match Bangladesh in competition. The good news for the importers was the strengthening of the Pakistani rupee due to intervention by the central banks. The currency gained 7.5% M-O-M basis. Overall a quiet market with no fresh sales reported.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 13
 
@@ -367,8 +333,6 @@ A very quiet week for the Pakistani ship recycling markets as the price levels a
 | COMMODITY SIZE / GRADE PRICE | CHANGE CHANGE LAST LAST W-O-W Y-O-Y WEEK YEAR |
 | Iron Ore Fines, Fines, Fe 62.5% US$96 C.N.F. Qingdao, (Brazil Origin) China | -2.04% -14.28% US$98 US$112 |
 | Iron Ore Fines, Fines, Fe 62% US$94 C.N.F. (Australia Origin) Rizhao, China | -2.08% -24.19% US$96 US$124 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 15
 

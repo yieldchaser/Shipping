@@ -26,8 +26,6 @@ This week's Fed's announcement of the interest rate hike midweek has many in jit
 
 Australia is set to play a big role in the coming months. As the world's second-largest producer of iron ore, Australia holds a hefty share of the global supply. This is a piece of good news for the February iron ore outlook, as prices are expected to remain strong due to ongoing demand from China. In addition to strong demand from China, demand is also being pushed due to production disruptions in Brazil. Brazil was hit by a severe drought, which led to power cuts and disruptions at mines. Then, last month, a large tailings dam collapsed and killed at least 186 people, forcing the closure of several mines. These disruptions have led to a tight supply of iron ore, which will likely continue in the short term. The outlook looks bullish, with Chinese demand set to remain strong after the holidays. Rates will remain elevated especially in the Capes and Supramaxes segment, in the coming weeks. There is also the potential for increased demand from India as the country looks to boost its infrastructure spending.
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 ### Capesize:
@@ -45,8 +43,6 @@ Despite holiday-related sluggishness in China and other countries, the weekly fl
 ### Handysize:
 
 In the Atlantic, cargo inflows from North America increased, but rates remain similar due to an abundance of ships. T/A saw levels in the region of US$ 8,000's a day slipping slightly from last week. Meanwhile, in the Pacific, activity declined due to a pressure on supply. Indonesia on the other hand however saw an uptick in coal demand with r/v routes remaining same as last. Handy rates traded around US$7,500/day at closing.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -79,11 +75,7 @@ In the Atlantic, cargo inflows from North America increased, but rates remain si
 | BSI | 682 |  | 650 | 1,594 |  | +4.92% |  | -57.21% |
 | BHSI | 436 |  | 431 | 990 |  | +1.16% |  | -55.96% |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 5
 
@@ -102,8 +94,6 @@ The freight rate in the WAF/Europe segment has decreased due to an increase in t
 ### Aframax:
 
 NSea rates were steady despite vessel departures due to weak market activity and weatherrelated delays. 80,000mt Hound Point/Wilhelmshaven route saw slight improvement at WS166. Med/BSea rates fell due to surplus vessels with Ceyhan/Lavera around WS198.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -150,8 +140,6 @@ Freight rates in the MEG fell, with cargos not covering available tonnage, leadi
 | 1,239 | 1,323 | 679 | -6.35% | +82.47% |
 | 629 | 659 | 589 | -4.55% | +6.79% |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 7
 
 | TYPE | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) DWT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) CURRENT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST WEEK | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST YEAR | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) W-O-W CHANGE | Y-O-Y CHANGE |
@@ -165,8 +153,6 @@ Freight rates in the MEG fell, with cargos not covering available tonnage, leadi
 ## Containers
 
 CEO of Hapag Lloyd says that container freight rates will continue to decrease due to the realignment of shipping demand and supply. The company has reported high profits in recent years but must now compete for each shipment. They also believe that rates will not drop below costs due to high costs for charter rates, fuel, and transitioning to low-carbon fuel. Boxship port congestion has also returned to pre-COVID levels. The container port congestion index stood at 31.5% on Friday, close to the pre-COVID (2016-2019) average of 31.6%. Meanwhile, supply chain SaaS platform E2open's Q4 2022 report shows that it now takes an average of 63 days to deliver goods after booking with an ocean carrier, a decrease of 8 days from the same quarter last year. The report attributes this to the continued drop in demand for goods shipping from Asia, reducing port congestion and resulting in shorter transit times.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 8
 
@@ -188,30 +174,21 @@ CEO of Hapag Lloyd says that container freight rates will continue to decrease d
 | 5,500 - 7,000 | Gearless |  | 87 | 85 | 70 | 45 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |  |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 550 ~ 560 | 540 ~ 550 | 550 ~ 560 | 600 ~ 610 | BULLISH / |
+| CHATTOGRAM, BANGLADESH | \*540 ~ 550 | \*530 ~ 540 | \*520 ~ 530 | \*570 ~ 580 | BULLISH / |
+| GADDANI, PAKISTAN | \*560 ~ 570 | \*550 ~ 560 | \*550 ~ 560 | \*590 ~ 600 | BULLISH / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-CHATTOGRAM,
-
-BANGLADESH \*540 ~ 550 \*530 ~ 540 \*520 ~ 530 \*570 ~ 580 BULLISH /
-
-GADDANI, PAKISTAN \*560 ~ 570 \*550 ~ 560 \*550 ~ 560 \*590 ~ 600 BULLISH /
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ### 5-Year Ship Recycling Average Historical Prices
 
@@ -225,8 +202,6 @@ GADDANI, PAKISTAN 410 420 370 440 595
 ALIAGA, TURKEY 290 260 240 265 340
 ```
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 10
 
 | VESSEL NAME | LDT / MT | YEAR / BUILT | TYPE | PRICE | COMMENTS |
@@ -237,8 +212,6 @@ ALIAGA, TURKEY 290 260 240 265 340
 | SAMC RESPONSIBILITY | 24,181 | 2003 / TAIWAN | BULKER | 419 | AS IS SINGAPORE |
 | KAMO | 4,426 | 1998 / JAPAN | HEAVY LIFT | UNDISCLOSED | DELIVERED CHATTOGRAM FOR CLASS NK HKC GREEN RECYCLING |
 | MAERSK ABERDEEN | 5,913 | 1999 / TAIWAN | CONTAINER | 470 | DELIVERED ALANG / MAERSK STANDARDS OF GREEN RECYCLING |
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Ships Sold for Recycling
 
@@ -296,8 +269,6 @@ The IMF upgraded its economic growth projections for 2023 and 2024 in its closel
 
 ---
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 12
 
 Several factors contribute to the overall weakness. The Dry bulk, containers, and tanker sectors all performed well in the first half of 2022, with the Dry bulk sector showing solid gains in the first half of the year, followed by a slowdown in the third quarter. The Tanker segment also saw a record increase in overall levels, with rates surging in the fourth quarter across all sizes but especially in the M.R. segment. Meanwhile, the Container segment continued to bask in the post-Covid rates, which remained at record high levels until the last quarter of 2022. Participants in the industry expected that 2023 would be a year of rebalancing, with rates reverting to pre-COVID levels. However, the last quarter of 2022 altered those opinions. The months ahead will be key. With Pakistan out of the market and Bangladesh's limited resources, competition is intensifying, particularly in the dry bulk and container markets. Expectations were that there would be a surplus of end-of-life ship supply in the first few months of 2023, putting upward pressure on prices, but this did not occur, and markets have risen as a result of sustained demand combined with a scarcity of ship supply. There have been no unabating recycling activities in the last two years, but as freight prices fall, owners will likely be compelled to send their older units for recycling. Meanwhile, the story of the Brazilian aircraft carrier has once again surfaced this week, São Paulo the aircraft carrier that was turned away from Turkey yard by the NGOs for improper assessment. The Brazilian Navy has decided to take matters into its own hands and decided to detonate explosives on its old aircraft carrier, causing it to sink. The ship contained at least several million dollars worth of recyclable metals, 760 tons of hazardous asbestos and over 300 tons of contaminated material with highly toxic PCBs and other heavy metal-laden waste! Environmentalists had been trying to get the ship recycled safely, but the Navy's decision has now led to an environmental tragedy. The sinking has violated three international environmental treaties: the Basel Convention, the Stockholm Convention and the London Convention and Protocol. The Brazilian Navy's action has raised questions about its refusal to bring the ship back to a naval base for proper review and its preference for contaminating the environment instead of facing scrutiny over the ship's contents.
@@ -305,8 +276,6 @@ Several factors contribute to the overall weakness. The Dry bulk, containers, an
 **ALANG, INDIA.**
 
 The most awaited Indian union budget 2023~2024 was announced this week, Wednesday, which did not reflect any direct changes in the ferrous scrap or ship import duty structure, which would directly impact the ship recycling industry. However, the finance ministry has announced concessional customs duty on steel, ferrous products and copper to continue, which is a part of government trade policy to promote domestic industries to encourage exports. The only critical aspect of the long-term benefit of the steel industry was increasing the capital expenditure for
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 13
 
@@ -329,8 +298,6 @@ For Alang ship recyclers, it was a positive budget, keeping in view the long-ter
 
 This week Bangladesh received the IMF-approved loan of US$4.7 billion, the first of three South Asian countries to secure funds amid economic trouble. The loan will help PM Sheikh Hasina ahead of the general election and address the current account deficit, a declining currency and foreign exchange reserves. Bangladesh will receive US$3.3 billion under the extended credit facility and US$1.4 billion under Resilience and Sustainability Facility for climate investments, the first Asian country to
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 14
 
 access it. The loans aim to protect macroeconomic stability, rebuild buffers, and advance the authorities' reform agenda. Bangladesh sought US$2 billion from the World Bank and the Asian Development Bank to bolster its reserves. Last year the country hit a deficit record of US$18.7bn, but this is expected to fall to US$6.8bn this year. The government has recently raised fuel and energy prices. Ship buying eased as the L.C. restrictions eased and the markets were seen getting back into action. A handful of recyclers can obtain letters of credit on certain conditions seen in the buying spree.
@@ -349,8 +316,6 @@ The domestic ship scrap prices kept surging on a weekly basis. The ship plates i
 
 Gaddani markets are waiting to hear the outcome of the ongoing talks with the IMF, and on the basis of the developments, the direction for the entire economy will be decided. Although it has been challenging for the Pakistani government to accept the stringent terms laid down by the IMF. But to save the nation from complete bankruptcy government has no choices left. As of Friday, Pakistan was left with only around US$3.10 billion in foreign exchange reserves, which can only cover 18 days' worth of imports, and observers believe the country desperately needs the next IMF tranche to head off a potential default. The domestic economy has taken another plunge into the deep ends, with inflation at its peak now. On Friday, the value of the rupee experienced another decline, closing at a record low of Rs.276.58 per dollar in the interbank market, as reported by the State Bank of Pakistan. This latest decrease occurred as the government continued its discussions with an International Monetary Fund delegation that was in Islamabad to finalise the ninth review of its US$7 billion loan program for Pakistan. If the review is completed successfully, it could lead to the release of a US$1.2 billion tranche for the country. The steel industry in Pakistan is facing a severe shortage of imported raw materials as feedstock to produce semi-finished and finished products leading several producers to shut down and for
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 15
 
 some steel mills with the ability were trying to find non-traditional ways to purchase scrap from Afghanistan and Iran to keep the industry running are on the lifeline for a short period of time. As such, feedstock quantities are small in comparison to their appetite. Ship recyclers as well trying to buy smaller ships by using the T.T. payment mechanism through third companies in UAE or other countries until the nation's foreign exchange and supply improve. Overall the markets remained on the sidelines waiting for constructive directions from the banks.
@@ -366,8 +331,6 @@ The prices of imported scrap in Turkey continue to rise due to demand outpacing 
 | Alang, India | : 04th Feb. ~ 10th Feb. \| 18th Feb. ~ 25th Feb. |
 
 ---
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 16
 

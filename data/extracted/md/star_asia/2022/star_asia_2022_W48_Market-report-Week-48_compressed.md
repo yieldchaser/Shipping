@@ -30,8 +30,6 @@ This week, the outcry and protests about COVID-zero limitations in China were fr
 
 Despite being a busy month in terms of volumes, November has been particularly difficult for major bulkers. Although the start of November has historically been quite quiet in terms of rates, there appears to be a lack of urgency translating into the present softness in spot Capesize prices. The excessive caution reflects both prior downturns and a lack of triggers that may tighten the present loose supply/demand balance. China, the most important demand center for dry bulk, is still experiencing a very fragile commodity recovery, while the rest of the world, which has provided significant support over the last two years, is now confronted with a rapidly slowing economy. This makes many market players anxious about the future. It is becoming ever trickier to construct a more positive scenario based on current data.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 #### Capesize:
@@ -64,8 +62,6 @@ This week's Pacific Handy markets were relatively calm, with prompt enquiries fa
 
 slipped to around US$8,845 a day. The Atlantic saw some activity, but rates remained depressed, closing T/A levels around the region of US$12,000 a day.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 3
 
 # Dry Bulk - S&P Report
@@ -90,8 +86,6 @@ slipped to around US$8,845 a day. The Atlantic saw some activity, but rates rema
 | HANDY | 38,000 | 28 |  | 27 | 23 | 16 | 5 |
 | *(AmountinUSD million) |  |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
 
 # Baltic Exchange Dry Bulk Indices
@@ -113,8 +107,6 @@ CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %
 | 75,000 | 14,300 | 13,850 | 22,625 | +3.25 | -36.80 |
 | 52,000 | 13,250 | 13,000 | 23,750 | +1.92 | -44.21 |
 | 32,000 | 10,500 | 10,500 | 24,125 | 0 | -56.48 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 5
 
@@ -162,8 +154,6 @@ Suezmax also saw rates fall slightly this week as the flat rate between West Afr
 
 Reduced vessel availability in the Middle East bolsters MEG to SE Asia market conditions. Levels saw pressure in the region of WS311. However, there has been an increase in anticipatory demand following the E.U.'s restriction on crude from Russia and the adverse
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 6
 
 weather, we may see this improving in the coming weeks.
@@ -173,8 +163,6 @@ weather, we may see this improving in the coming weeks.
 The market remains robust in the L.R. sector, with the supply of LR1 anticipated to grow in the UKC by the end of December. In contrast, the LR2 market in Europe has slowed down a bit towards the year-end.
 
 # Tankers S&P Report
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 7
 
@@ -196,8 +184,6 @@ Alphaliner also is warning that its fourth-quarter carrier profits could plummet
 
 weaker overall towards the end of year.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 8
 
 # Containers S&P Report
@@ -215,32 +201,21 @@ weaker overall towards the end of year.
 | 5,500 - 7,000 | Gearless |  | 85 | 100 | 90 | 65 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 520 ~ 530 | 510 ~ 520 | 490 ~ 500 | 540 ~ 550 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | \*530 ~ 540 | \*520 ~ 530 | \*480 ~ 500 | \*550 ~ 560 | IMPROVING / |
+| GADDANI, PAKISTAN | 500 ~ 510 | 490 ~ 500 | 460 ~ 470 | 510 ~ 520 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 290 ~ 300 | 280 ~ 290 | 270 ~ 280 | 310 ~ 320 | STABLE / |
 
-CHATTOGRAM,
-
-BANGLADESH \*530 ~ 540 \*520 ~ 530 \*480 ~ 500 \*550 ~ 560 IMPROVING /
-
-GADDANI, PAKISTAN 500 ~ 510 490 ~ 500 460 ~ 470 510 ~ 520 STABLE /
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 290 ~ 300 280 ~ 290 270 ~ 280 310 ~ 320 STABLE /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening.
 
 # 5-Year Ship Recycling Average Historical Prices
 
@@ -252,8 +227,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 | CHATTOGRAM, BANGLADESH | 430 | 430 | 375 | 390 | 610 |
 | GADDANI, PAKISTAN | 410 | 415 | 365 | 380 | 600 |
 | ALIAGA, TURKEY | 210 | 280 | 240 | 230 | 340 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 10
 
@@ -268,8 +241,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 
 # Recycling Ships Price Trend
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 11
 
 # Insight
@@ -279,8 +250,6 @@ The scarcity of recycling ships keeps the markets in check. As the 2023 IMO Ener
 #### ALANG, INDIA
 
 Positive start to the week as prices for domestic ship scrap show incremental signs of improvement. The domestic ship scrap prices, which had experienced a precipitous decline, found a bottom and resumed their upward. The domestic ship plate prices have improved by 5% and melting scrap by 6.75% W-O-W.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 12
 
@@ -295,8 +264,6 @@ Industry participants believe the markets have temporarily bottomed out. However
 #### CHATTOGRAM, BANGLADESH
 
 The ongoing drama surrounding the issuance of Letters of Credit (L.C.) has not changed significantly with its stringent regulations on foreign exchange. It is only a matter of time before the governments make a decision when they realise that the foreign exchange reserves are within the acceptable range. This week, some recyclers were able to obtain a few L.C.s for the vessels that were waiting ashore, but for the industry as a whole, this should not necessarily be interpreted as a sign that the banks have become more accommodating. The vast majority of ship owners and cash buyers have chosen to refrain from doing business with Bangladesh for the time being and have consequently taken a back seat. Meanwhile, domestic ship scrap prices are steadily rising due to a shortage of raw materials, and imports are not adequate to meet current demand.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 13
 
@@ -316,8 +283,6 @@ The dullness continues in Gaddani, with no new sales reported. With the rise in 
 #### ALIAGA, TURKEY
 
 Due to the dramatic increase in import costs, all of Turkey's steel mills have upped their domestic purchasing prices. These mills are now attempting to capitalize on the country's domestic scrap supply. As a result of improving global mood, scrap prices in Turkey continue to grow as suppliers target higher. However, many do not perceive the fundamentals underlying these price increases, as steel sales are not generally bolstering the market.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 14
 

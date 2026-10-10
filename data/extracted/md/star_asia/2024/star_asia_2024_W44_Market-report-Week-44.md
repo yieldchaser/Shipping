@@ -22,8 +22,6 @@ pages: 19
 
 China's manufacturing sector saw an unexpected boost in October, as recent stimulus measures appeared to take effect despite the drag of a weeklong Golden Week holiday. The Caixin Manufacturing PMI edged up to 50.3, surpassing September's 49.3 and beating analysts' expectations of 49.7. Readings above 50 signal expansion, marking the first growth since April. This improvement aligns with official data showing that factory activity ended a fivemonth contraction streak, spurring a 0.55% rise in the CSI 300 Index of Chinese stocks. The yuan weakened slightly by 0.1%, and China's 10-year bond yield held at 2.14%, signaling mixed investor reactions. Wang Zhe of Caixin Insight Group cited "stabilized market demand and improved optimism" as early indicators of stimulus impact. Residential property sales also rose year-over-year for the first time in 2024, another signal of improved sentiment. However, caution persists. New export orders fell for a third month amid slowing global demand, while manufacturers reported a second month of job cuts, with layoffs concentrated in capital goods sectors. The employment subindex hit its lowest level since May 2023, adding uncertainty to recovery prospects. China's export growth, which was strong through the first three quarters, sharply slowed in September. As global trade pressures mount, including potential EU tariffs on Chinese electric vehicles and a possible return of U.S. tariffs, Beijing's economic outlook remains uncertain. Markets are now looking to further fiscal support, potentially at next week's legislative meeting, to sustain recent gains While on the other side of the Pacific, in the US, the nation is preparing for the 2024 United States presidential election, which will be the 60th quadrennial presidential election, set to be held on Tuesday, November 5, 2024. The election's outcome will have significant global ramifications, influencing international relations, trade policies, and global security dynamics. Countries worldwide are closely monitoring the election, anticipating its impact on the global order.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -41,8 +39,6 @@ Despite weakness in F/H cargo volumes from South American, the Atlantic showed u
 Handysize:
 
 Another week of lacklustre outlook for the Handy segment mirroring similar discounts to the bigger segments. Most routes saw declines with limited activity reported. In the Pacific, holidays in some countries saw levels for inter route fell to US$9,800's. Similar was noted in the Atlantic with general quietness noted. T/A levels remain at US$9,900's a day.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -77,8 +73,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | SUPRAMAX | 58,000 | 14,000 | 15,000 | 11,000 | -6.67% | +27.27% |
 | HANDYSIZE | 38,000 | 13,750 | 14,000 | 11,000 | -1.79% | +25.00% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -96,8 +90,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | INDIAN OCEAN | HANDY | 36,009 | 2011 | CHINA | 12.5 | INDONESIAN BUYERS |
 | POS OCEANIA | HANDY | 28,190 | 2012 | JAPAN | 11.0 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -112,8 +104,6 @@ Suezmax:
 
 Suezmax mirrored VLCC's subdued activity, particularly in West Africa, where rates fell slightly. 130,000mt Nigeria/UKC lost 4 points closing at WS94. The overall slowdown in demand also extended to the Black Sea and Med region, with discounts noted for
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 135,000mt CPC/Med closing at WS106.
@@ -127,8 +117,6 @@ Clean:
 LR: LR2s in the MEG saw significant correction following the sharp increase in the previous week. After a period of urgent fixtures that drove the surge, rates corrected this week to WS105 on TC1 route. Similar was also noted in LR1, with TC5 falling 5 points to WS121 due to lack of activity. MR: The Far East market continued to face challenges, with rates falling as persistent demand weakness added pressure on rates. Elsewhere, in the USG, TC14 saw a big jump with 42 points, closing at WS176.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -155,8 +143,6 @@ COMMENTS /
 
 BUYERS ASP GREEK BUYERS CHINESE BUYERS
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -179,33 +165,18 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
 | 5,100 *(amount in USD million) | Gearless | 81 | 77 | 66 | 35 | 32 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 460 ~ 470 450 ~ 460 440 ~ 450 480 ~ 490 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | WEAK / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 460 ~ 470 440 ~ 450 | 430 ~ 440 | 460 ~ 470 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 340 ~ 350 350 ~ 360 370 ~ 380 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | WEAK / |
+| GADDANI, PAKISTAN | 460 ~ 470 | 440 ~ 450 | 430 ~ 440 | 460 ~ 470 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 340 ~ 350 | 350 ~ 360 | 370 ~ 380 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -222,19 +193,13 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 770 | 580 | 520 |
 | ALIAGA, TURKEY | 270 | 210 | 210 | 300 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -246,8 +211,6 @@ Alang, India
 
 The ship recycling markets remained closed this week in observance of the Diwali festival and are set to resume activity next week. Industry experts anticipate that demand will start to emerge in the post-Diwali period, which is traditionally a favourable time for the sector. However, the ship recycling market continues to tackle a significant lull, primarily
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 due to a shortage of available vessels, making it challenging to establish accurate market levels and future trends.
@@ -255,8 +218,6 @@ due to a shortage of available vessels, making it challenging to establish accur
 Chattogram, Bangladesh
 
 Another inactive week as Bangladesh's ship recycling industry is facing major challenges, with operations mainly at a near standstill since the formation of the new interim government. The country's worsening economic situation, combined with an influx of low-cost imported scrap, has intensified pressures on local recyclers. Bangladesh's shipbreaking industry, once a global leader in dismantling vessels, is now battling severe economic, regulatory, and geopolitical challenges that threaten its survival in the long run. A report by the NGO Ship Breaking Platform highlights the growing crisis, driven by a strong U.S. dollar, reduced availability of end-of-life ships, and restrictive regulations. As the Bangladeshi Taka weakens, costs soar for shipbreakers who must pay in dollars, squeezing profit margins. The shortage of ships, combined with safety concerns-five accidents and six deaths this year-has forced over 50 Bangladeshi yards to close recently, impacting jobs and steel supplies. Industry advocates call for government intervention to stabilise the sector, fearing further contraction in a vital industry that supports Bangladesh's construction and manufacturing sectors. The ship recycling market has come to a near standstill,
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -273,8 +234,6 @@ Chattogram, Bangladesh : 14 - 17 November | 30 November - 3 December Alang, Indi
 ---
 
 BUNKER PRICES (USD/TON)
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -298,8 +257,6 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 In the Sub-Continent and Turkey scrap markets, prices fell across India, Bangladesh, and Pakistan, reflecting a quieter demand as market activity slowed. In India, shredded scrap prices slipped to US$385-US$386/ton as pre-Diwali inquiries dwindled, leaving suppliers facing limited buying interest. Bangladesh's scrap market also remained sluggish due to low demand and restrained purchasing, while Pakistan saw a slight drop in shredded scrap offers despite an uptick in rebar prices. In Turkey, buyers took a bearish stance on US and Baltic offers, with bids dipping below US$360/t for US scrap. Shredded scrap in India was priced at US$385-386/ton, with busheling offers around US$400/ton, contingent on supplier terms. With Diwali keeping the market closed for the week, traders are keen to leverage lower prices, anticipating fresh shipments by late November. Expectations are mixed, with HMS (80:20) bids and offers ranging between US$362-370/ton at ports like Mundra and Chennai. Buyers show interest at approximately US$360/ton for HMS (80:20) and US$372-375/ton for HMS 1. Post-Diwali, activity is expected to rise as suppliers look to clear stocks ahead of winter. European scrap supplies, anticipated by mid-November to early December, may face potential disruptions from winter weather, which could push supply from alternative regions like the US, Brazil, and Australia. European shredded scrap offers in Pakistan held steady at US$392-394/ton, though workable levels hovered slightly below US$390/ton. A Karachi-based mill noted weak rebar sales despite recent price increases, as the construction sector in key regions
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 remains tepid. Notable companies kept rebar prices around PKR 245,000-250,000/ton, and local steel bars, previously exempt from sales tax, saw price hikes due to intensified tax enforcement. This recovery of previously underpaid taxes is now passed on to customers as a discount.
@@ -311,8 +268,6 @@ reductions by suppliers. Sellers from Singapore and Malaysia offered PNS scrap a
 ## HMS 1/2 & Tangshan Billet
 
 ## Commodities
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -341,5 +296,3 @@ reductions by suppliers. Sellers from Singapore and Malaysia offered PNS scrap a
 | Natural Gas (Nymex) | USD / MMBtu | 2.66 | -0.04 | -1.63% | Dec 2024 |
 
 *Note: all rates as at C.O.B. London time November 1, 2024*
-
-***Shipbroking (www.star-asia.com.sg)***

@@ -22,8 +22,6 @@ pages: 19
 
 With the start of the New Year, shipping is now a part of the E.U. Emission Trading Scheme (ETS), with shipowners and charterers needing to register for participation. While the EU ETS has been in operation since 2005, the inclusion of shipping was not a major concern for the E.U. Spokespersons highlight that only about 5% of shipowners currently interact with the ETS market, posing potential challenges when shipping joins in January. The complexity of ETS management may particularly impact smaller tanker companies, leading to predictions of increased pooling or consolidation for better handling and influence. Issues may arise towards the end of the year when EUAs are to be surrendered, with steep fines for non-compliance. Failure to pay or delays in payment are considered breaches of the agreement, and increased consolidation among smaller tanker companies is anticipated. On the other hand, the ongoing disruption in the Red Sea has led to International maritime trade challenges as Yemen's Houthi rebels target ships in the Red Sea, disrupting shipping routes and leading major companies to reroute trade away from the Red Sea and Suez Canal. Houthi attacks prompted Danish shipping giant Maersk to divert vessels around Africa, extending journey times by 10 to 20 days. This shift has caused significant price hikes, with CMA CGM doubling a 40-foot container price to US$6,000, and MSC increasing rates to US$5,900 from US$2,900. The U.S. reports over 20 Houthi attacks since October 19. Additionally, a shortage of containers in Asia and the upcoming Chinese New Year intensifies challenges, raising freight rates. The Panama Canal's drought and Taiwan's upcoming elections add further uncertainties, but the industry, having profited, is better equipped to handle disruptions compared to the pandemic.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Capesize segment saw a positive uptick with a spillover from last year. The 
 Panamax/Kamsarmax:
 
 Panamax did not fare as well. Rates were down across all routes, with discount shavings in a hundred. In the Atlantic, there has been a slight increase in new cargo inflows from the North. However, due to the buildup of supply from South America, rates fell overall. T/A closed around US$ 18,250's a day. In the Pacific, despite demand being there, levels decline overall due to supply constraints. Pacific r/v slipped to below US$12,000 a day. Supramax/Ultramax: A similar decline was also seen in the Supramax region. In the Atlantic, cargo from the U.S. Gulf and South America remains steady, but the surplus ship supply has pushed rates lower due to the competition. At closing, T/A rates were around US$ 27,500's a day. However, in the Pacific, some reliefs were observed despite the lack of cargo influx, offering a break in the descent. Pacific - India route managed to hold on to US$ 9,000 a day, similar to last done levels.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -77,8 +73,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | SUPRAMAX | 58,000 | 13,000 | 14,500 | 13,250 | -10.34% | -1.89% |
 | HANDYSIZE | 38,000 | 12,750 | 13,250 | 10,250 | -3.77% | +24.39% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -89,8 +83,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | STAR BOVARIUS | SMAX | 61,602 | 2015 | CHINA | 25.25 | GREEK BUYERS |
 | XING XI HAI | SMAX | 60,498 | 2017 | JAPAN | 29.0 | SCANDINAVIAN BUYERS |
 | XING SHOU HAI | SMAX | 60,492 | 2016 | JAPAN | 28.0 | GREEK BUYERS |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -106,8 +98,6 @@ Suezmax:
 
 The new week has been a positive one for the Suezmax region as activities saw an uptick in various regions. In West Africa, rates for 130,000mt UKC/WAFR have risen to WS135, with the Black Sea also seeing some gains. The MEG, however, did not fare as well, with 140,000mt MEG/Med slipping slightly to WS88.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -119,8 +109,6 @@ Clean:
 L.R.: L.R. market experienced a substantial shortfall in cargoes in the MEG as TC5 fell slightly to WS190. On the UKC, LR1 also faced limited enquiry, with TC16 remaining unchanged at WS208. MR: The MR segment in the MEG also saw a generally softer week, with TC17 coming off some 27 points to close at WS233. There was a general lack of activity, and this was also reflected in the one-year T.C. slipping some 11.6% to US$26,500 a day.
 
 ## Baltic Exchange Tanker Indices
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -144,8 +132,6 @@ L.R.: L.R. market experienced a substantial shortfall in cargoes in the MEG as T
 | S-TRUST | AFRA | 106,094 | 2005 | S. KOREA | 32.0 | UNDISCLOSED |
 | JAG PRABHA | LR | 47,999 | 2004 | JAPAN | 15.0 | UNDISCLOSED |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -157,8 +143,6 @@ Drewry has released its first box spot rate details of the year, revealing that 
 VESSEL NAME TYPE TEU YEAR BUILT PRICE COMMENTS /
 
 (MILLION) USD BUYERS NO NEW SALES REPORTED
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 9
 
@@ -174,29 +158,16 @@ VESSEL NAME TYPE TEU YEAR BUILT PRICE COMMENTS /
 | 5,500 - 7,000 | Gearless | 93 | 76 | 64 | 36 | N/A |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE
-
-TREND ALANG (WC INDIA) 500 ~ 510 480 ~ 490 490 ~ 500 520 ~ 530 WEAK /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 510 ~520 | 490 ~ 500 | 470 ~ 480 | 510 ~ 520 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 500 ~ 510 | 480 ~ 490 | 490 ~ 500 | 520 ~ 530 | WEAK / |
+| *CHATTOGRAM, BANGLADESH | 510 ~520 | 490 ~ 500 | 470 ~ 480 | 510 ~ 520 | WEAK / |
 | **GADDANI, PAKISTAN | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | IMPROVING/ |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -213,25 +184,17 @@ TURKEY
 | GADDANI, PAKISTAN | 415 | 360 | 460 | 600 | 540 |
 | ALIAGA, TURKEY | 240 | 230 | 260 | 320 | 280 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Recycling Ships Price Trend
 
 ## Page 12
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 ## Insight
 
 The year 2023 has been mostly dismal in terms of activity despite a severe shortage of end-of-life ships available. All the regions in the Sub-Continent saw a significant decline in tonnage apart from Bangladesh. Bangladesh managed to push through an additional 300,000 LT with a promising start in 2023, but as the year came to an end, there was a major halt in buying substantial tonnage. However, the last week of the year has brought about a mix of feelings in the global ship recycling community. The South Asian ship-breaking sector enjoyed a significant jump in December 2023, with a 27% increase in total tonnage processed. Although 2023 witnessed more done deals than the previous year, showing improvement, the industry fell short of achieving the necessary permanent exits to balance global fleets. Challenges persisted despite a higher volume of recycled vessels, with fluctuating prices causing significant losses for recyclers. Financing issues persisted in Bangladesh, as domestic banks were hesitant to approve new financing for vessel purchases despite moderately increasing demand. Cautious optimism prevailed due to firm international steel and commodity prices and acceptable currency fluctuations. The potential impact of incoming IMF loans could potentially ease funding hurdles for Bangladeshi and Pakistani banks in the coming year.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -240,8 +203,6 @@ This year's forecast seems upbeat for the ship recycling industry, where ship su
 Alang, India
 
 The year of 2023 saw Alang confronted with the additional undertakings of vessel recycling across various subcontinental markets due to the continuing financial issues in Pakistan and Bangladesh as rates offered fell due to currency instability and surplus tonnage. In the opening days of 2024, Alang's local steel plate prices experienced notable volatility, witnessing an initial decline of almost US$10 per ton in the early trading period. The week concluded with a sustained weakening, amounting to a US$7 per ton drop. Concurrently, domestic ship prices have faced continuous pressure post-Diwali, primarily attributed to sluggish demand. Industry experts posit that the markets may have reached their rock bottom; however, a substantial catalyst, particularly in the form of increased domestic demand and consumption, is deemed essential to propel the sector towards recovery and regain momentum.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -261,8 +222,6 @@ Chattogram, Bangladesh
 
 Finally, the long-awaited elections are here, with voting ongoing.. The commencement of the new year in Bangladesh unfolded with a subdued atmosphere as numerous buyers withdrew from engaging in competitive tonnage transactions, citing persistent challenges with L.C. that have grown more stringent. Illustrative instances include vessels arriving at ports and being compelled to linger outside for extended periods, incurring substantial costs. This situation also raises the alarming spectre of potential threats, such as armed pirates targeting ships and jeopardising the safety of the crew.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 While some buyers are optimistic about offering forward delivery after the upcoming elections, many are still hesitant. They are waiting on the sidelines to see the overall atmosphere in the coming weeks. The overall situation is fragile despite the fact that local ship scrap prices remained stable for a very long time, as domestic sales were weak. Hopes are that the post-election situation may change and business as usual. Meanwhile, the IMF anticipates improvements in the financial account, including timely repatriation of export proceeds. It projects the balance to rise to 0.5% of GDP by June this year, accelerating to 4% in FY25 and 4.6% in FY26. The current situation underscores the need for structural reforms to ensure inclusive and green growth, with economists emphasising the importance of balancing exchange rates to maintain gains in the current account and avoid potential deficits in the financial account.
@@ -278,8 +237,6 @@ Anchorage & Beaching Position (January 2024)
 Gadani, Pakistan
 
 The market in Pakistan has shown significant improvement as the L.C. issues ease with a buzzing of general optimism at the start of the week; the sudden news of a delay for reelection has caused uncertainty in the market outlook. Pakistan's Senate has passed a non-binding resolution urging a delay in the national general elections scheduled for February 8. The resolution cites "prevailing security conditions" and harsh winter weather as reasons for postponement. Pakistan has a history of February elections, and this move comes amid political and economic turmoil, with security concerns and rejected nomination papers for opposition candidates, including former Prime Minister Imran Khan.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -310,8 +267,6 @@ PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
 | ROTTERDAM | 563 | 455 | 750 |
 | HOUSTON | 576 | 499 | 779 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 EXCHANGE RATES
@@ -337,8 +292,6 @@ active rebar contract strengthening by 0.5%, hot-rolled coil growing by 0.6%, an
 Iron Ore
 
 COMMODITY SIZE / GRADE THIS WEEK W-O-W Y-O-Y LAST WEEK LAST YEAR
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

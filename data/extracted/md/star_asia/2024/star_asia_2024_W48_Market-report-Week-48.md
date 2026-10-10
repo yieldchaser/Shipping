@@ -22,8 +22,6 @@ pages: 20
 
 Big news this week was that a permanent ceasefire between Israel and Lebanon's Hezbollah took effect on Wednesday, marking the end of a yearlong conflict between Israel and Iranian-backed groups. The agreement, brokered by France and the United States, was announced by U.S. President Joe Biden in a statement from the White House Rose Garden. "Effective at 4:00 a.m. local time, the fighting across the Lebanese-Israeli border will end," Biden said, emphasizing the deal's aim for a lasting cessation of hostilities. The conflict, which began in October 2023, escalated following Israel's retaliatory military campaign in the Gaza Strip after a terror attack by Palestinian militant group Hamas. Biden underscored the commitment to prevent Hezbollah and other militant organisations from posing future threats to Israel's security. The deal represents a significant step towards stability in the volatile region, though challenges in maintaining peace remain. U.S. stock markets ended the shortened post-Thanksgiving trading session on a high note, with both the Dow Jones Industrial Average and S&P 500 reaching new records. The S&P 500 rose 0.56% to 6,032.28, while the Dow climbed 188.59 points to 44,910.65, and the Nasdaq Composite advanced 0.83% to 19,218.17. The rally was broad-based, with semiconductor stocks leading the charge after reports suggested potentially lighter restrictions on chip equipment sales to China than previously anticipated. Market sentiment remains bullish heading into December, supported by expectations of interest rate cuts, with futures markets pricing in a 66% chance of a 25-basis-point reduction at the next Federal Reserve meeting. Investment strategist Ross Mayfield from Baird Private Wealth Management noted that pre-election market dynamics have carried through post-election, suggesting continued momentum in this bull market run, particularly with seasonal tailwinds still in play.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ Despite some chartering activity in the Pacific, overall cargo volumes continued
 Panamax/Kamsarmax:
 
 The Pacific region continues to face challenges, with limited new cargo availability in NOPAC and persistent oversupply issues. The situation is further complicated by adverse weather conditions in Vietnam and China, while the weakening Yuan is putting additional pressure on demand, contributing to the market's ongoing weakness. Pacific r/v levels slipped to US$9,300's a day.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -78,8 +74,6 @@ Bulker 12 months T/C rates average (in USD/day)
 | SUPRAMAX | 58,000 | 12,500 | 12,500 | 13,750 | 0 | -9.09% |
 | HANDYSIZE | 38,000 | 13,250 | 12,500 | 12,000 | +6.00% | +10.42% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -97,8 +91,6 @@ Bulker 12 months T/C rates average (in USD/day)
 | SENANUR CEBI | SMAX | 55,660 | 2011 | S. KOREA | 16.75 | INDONESIAN BUYERS |
 | ATLANTICA SUN | SMAX | 55,635 | 2009 | JAPAN | 15.2 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -113,8 +105,6 @@ Suezmax:
 
 West African market started strong, boosted by Mediterranean strength and USG activity. 130,000mt Nigeria/UKC climb 11 points to WS85. In the Middle East, 140,000mt trip to the Mediterranean remained unchanged settling at WS91 mark.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -128,8 +118,6 @@ LR: LR2 in the MEG showed signs of recovery, with rates climbing this week. TC1 
 MR: In the MR segment, the Far East market finished notably stronger, with rates posting significant gains on the back of increased export volumes from China. In the MEG region, TC17 remains unchanged around the WS170-175 mark.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -153,8 +141,6 @@ MR: In the MR segment, the Far East market finished notably stronger, with rates
 | SOFIA II | AFRA | 105,400 | 2008 | JAPAN | 30.0 | UNDISCLOSED |
 | MAERSK BERING | MR | 29,057 | 2005 | CHINA | 15.0 | CHINESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -176,33 +162,18 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
 | 5,100 *(amount in USD million) | Gearless | 81 | 77 | 66 | 35 | 32 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE
-
-TREND ALANG (WC INDIA) 470 ~ 480 450 ~ 460 440 ~ 450 480 ~ 490 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 480 ~ 490 470 ~ 480 | 450 ~ 460 | 490 ~ 500 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 460 ~ 470 440 ~ 450 | 430 ~ 440 | 460 ~ 470 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 340 ~ 350 350 ~ 360 370 ~ 380 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 470 ~ 480 | 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 480 ~ 490 | 470 ~ 480 | 450 ~ 460 | 490 ~ 500 | STABLE / |
+| GADDANI, PAKISTAN | 460 ~ 470 | 440 ~ 450 | 430 ~ 440 | 460 ~ 470 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 340 ~ 350 | 350 ~ 360 | 370 ~ 380 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -219,8 +190,6 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 700 | 580 | 520 |
 | ALIAGA, TURKEY | 270 | 210 | 210 | 300 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -234,19 +203,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 ## Insight
 
 The ship recycling markets in the Sub-continent have maintained their footing, with demand levels remaining stable at current prices. A persistent shortage in the supply of vessels has helped keep prices elevated, even as broader economic conditions weighed on the sector earlier this year. Recent sales in the region have demonstrated price resilience, reversing an earlier slump caused by declining domestic scrap prices. With these prices now stabilising, recyclers are regaining confidence, reinforcing the market's strength. Looking ahead, the market could see some relief in supply constraints. The freight markets, particularly in the dry bulk sector, are undergoing a correction, which may prompt an uptick in the number of vessels headed for recycling. This anticipated adjustment could balance the currently tight supply-demand dynamics, offering recyclers more opportunities to secure tonnage while moderating price pressures.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -278,8 +241,6 @@ Anchorage & Beaching Position (November 2024)
 | TANA | GENERAL CARGO | 7,214 | 25.10.2024 | 01.11.2024 |
 | MSC ALEXA | CONTAINER | 16,228 | 27.10.2024 | 02.11.2024 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Chattogram, Bangladesh
@@ -305,8 +266,6 @@ Gadani, Pakistan
 
 The ship recycling market showed little movement this week, with conditions largely unchanged from the previous period. Industry sentiment remains subdued, reflecting persistent challenges and weak demand. Ship recyclers, facing a persistent shortage of vessels, continue to wait in anticipation for improved supply. Meanwhile, efforts to ensure compliance with the Hong Kong International Convention (HKC) are in full swing across the yards. The drive to meet international safety and environmental standards has become a priority, even as the lack of ships poses challenges to operational activity. Recyclers
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 remain hopeful that a recovery in vessel supply will coincide with the industry's progress toward sustainable and compliant practices.
@@ -330,8 +289,6 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 512 | 463 | 655 |
 | HOUSTON | 549 | 451 | 680 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -350,8 +307,6 @@ slightly in preparation for the December holidays. Suppliers quoted $390/t for U
 
 interest and weak steel demand. Offers for EU/UK-origin shredded were at US$385- 388/ton CFR Chattogram, though bids were lower as buyers awaited further price corrections.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 The Turkish imported ferrous scrap market remained stable day-on-day, with US-origin bulk HMS (80:20) offers assessed at US$340/ton CFR. Turkish mills continued to push prices lower, citing slow finished steel sales and diminished scrap import interest. Deals for Baltic and US-origin HMS were concluded at US$337.5/ton and US$342/ton, respectively. Buyer targets for US/Baltic-origin HMS (80:20) fell further to US$330/ton CFR. Mills are reportedly aiming to reduce inventories before year-end, with one market participant stating, "Everyone is trying to enter the New Year without stock."
@@ -363,8 +318,6 @@ The Turkish imported ferrous scrap market remained stable day-on-day, with US-or
 **Iron ore futures gained ground for the third consecutive session on Wednesday, buoyed**
 
 by robust steel production despite China's mixed economic signals. The January iron ore contract on China's Dalian Commodity Exchange rose 1.08% to close at 792.0 yuan (US$109.19) per metric ton during daytime trading, while Singapore Exchange's December benchmark climbed 1.11% to US$103.7/ton. However, the market faces headwinds from broader economic challenges in China, the world's leading steel producer and consumer. Recent data reveals continued pressure on industrial profits, while consumer prices hit a four-month low. The property sector remains particularly vulnerable, with October's new home prices recording their steepest decline in nine years. Adding to market uncertainty, industrial output continues its downward trajectory.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

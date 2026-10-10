@@ -22,8 +22,6 @@ pages: 18
 
 This week on 17th Sept. U.S. Federal Reserve cut its benchmark (federal funds) rate by 25 basis points (0.25%) to a target range of 4.00% ~ 4.25% this was the first FED's rate cut since December 2024. The U.S. Federal Reserve's decision to cut interest rates by 25 basis points, with two more reductions expected this year, has opened the door for Asian central banks to ease policy amid global trade headwinds and currency pressures. The Fed lowered its benchmark rate to 4%-4.25%, a move described by Chair Jerome Powell as "risk management," rather than a response to economic weakness. Analysts note the shift narrows yield gaps and gives Asian policymakers greater flexibility, particularly as inflation remains subdued across much of the region. Several central banks - including those in South Korea, Australia, and India have already acted, with further cuts anticipated in the coming months. Still, China and Japan remain exceptions, keeping policy steady as they balance inflation risks and domestic challenges. With resilient growth and low inflation, Asia could sustain a longer, more accommodative easing cycle compared to the Fed's limited room for manoeuvre. On the other hand, the trade war continues; this week China has halted purchases of U.S. soybeans at the start of the new export season, reviving a trade war tactic not seen in decades and signalling agriculture's central role in negotiations with Washington. The move comes as American farmers, facing a bumper harvest and low prices, press for tariff relief, while Beijing operates from a position of strength. With state and private stockpiles secured and Brazilian supplies locked in through next year, China is demonstrating both patience and leverage. The pause extends to corn and wheat, reflecting Beijing's broader strategy of diversifying supply chains and reducing reliance on U.S. goods. The timing is notable, ahead of a scheduled call between Presidents Trump and Xi, though analysts see little chance of a breakthrough. Risks remain, including Brazil's rising prices and potential disruption if U.S. imports resume suddenly. Still, U.S. soybeans' efficiency ensures they will remain central to any long-term deal.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The market moved with upward momentum in both basins, with the Pacific seeing an
 Panamax/Kamsarmax:
 
 Rates in the Atlantic softened slightly, as long-haul activity remains subdued, leaving the basin with an oversupply of available tonnage. T/A ended the week lower, closing at US$19,500's. In the Pacific, despite a modest improvement in grain cargoes from NOPAC and Indonesia, the market remains under charterers' control, seeing a slight dip. Supramax/Ultramax: The Atlantic holds steady, supported by consistent cargo flow from the USG to the Far East. F/H routes fared well, ending the week at US$28,150's. In the Pacific, new cargo entering the market from NOPAC was not enough to absorb the vessel oversupply in SE Asia, allowing charterers to maintain the upper hand and causing rates to fall.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -62,8 +58,6 @@ Compared to last week, the Handy market did not fare as well, following the patt
 | HANDY | 38,000 | 30 | 33 | 25 | 18 | 14 |
 | *(amount in USD | million) \| (E) - eco units |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -80,8 +74,6 @@ Compared to last week, the Handy market did not fare as well, following the patt
 | AQUAVITA BAY | SMAX | 55,757 | 2014 | JAPAN | 19.0 | UNDISCLOSED |
 | VEGA EVEREST | HANDY | 35,304 | 2011 | CHINA | 9.5 | TURKISH BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -91,8 +83,6 @@ The U.S. energy market experienced a significant tightening this week, with the 
 VLCC:
 
 Freight rates in the Middle East have surged to a new annual high, jumping over 20% last week. A rush of late-September cargoes absorbed much of the available tonnage, and continued robust demand from China and South Korea-driven by fears of a tightening supply-is further fueling the rally. MEG/China trip rose to WS105 at closing while WAFR/China trips climb to WS97.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -116,8 +106,6 @@ similar was seen in the Middle East. MEG fell at closing, losing some 20 points 
 
 ## Baltic Exchange Tanker Indices
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -129,8 +117,6 @@ similar was seen in the Middle East. MEG fell at closing, losing some 20 points 
 | PGC COMPANION | LR1 | 72,825 | 2005 | CHINA | 10.3 | UNDISCLOSED |
 | EASTERN ORCHID | PROD / CHEM | 13,498 | 2018 | CHINA | 17.0 | ASIAN BUYERS |
 | SUNNY 7 | HANDY |  |  |  |  |  |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -149,33 +135,18 @@ Across the global container shipping markets, freight rates are facing a downtur
 
 S&P Containers Report
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 420 ~ 430 410 ~ 420 400 ~ 410 440 ~ 450 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | IMPROVING / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 | ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| ALANG (WC INDIA) | 420 ~ 430 | 410 ~ 420 | 400 ~ 410 | 440 ~ 450 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | IMPROVING / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -192,8 +163,6 @@ TURKEY
 | GADDANI, PAKISTAN | 380 | 585 | 580 | 520 | 480 |
 | ALIAGA, TURKEY | 210 | 280 | 320 | 310 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -207,19 +176,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 A period of recalibration is underway in the Indian ship recycling market this week, as a notable influx of vessels arriving at the yards has eased supply concerns and exerted downward pressure on pricing. This softening is reflected in a consistent daily decline in local ship scrap values, dropping by 3.75% m-o-m. This trend is further influenced by sluggish demand in the export market for finished steel and ongoing trade tariff complexities that have weighed on sentiment. Despite the more subdued pricing environment, underlying interest from end-buyers remains evident at slightly corrected levels. The overall atmosphere was seen as cautious, with market participants remaining active while carefully adjusting to the current price levels.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -246,8 +209,6 @@ Chattogram
 
 Bangladesh markets this week are seeing an environment where a severe shortage of available vessels is creating a semblance of renewed activity. This scarcity has prompted buyers to show increased interest and table slightly firmer offers in a bid to secure the limited tonnage on offer. However, recyclers are of the belief that this upward pressure on pricing is superficial and runs counter to the persistently weak conditions in the domestic steel market, which remains a significant drag on overall sentiment in the broader sense. While a brief rise in international scrap values provided some initial support, the market's fundamental health is constrained by political uncertainty leading up to the national elections in February 2026, with most anticipating a price correction once more vessels become available. This week marked a positive for the Chattogram markets with prices improving due to emerging demand. How long this will remain is to be seen in the coming months.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Gadani
@@ -263,8 +224,6 @@ Another week of muted activity in the Turkish recycling market. Conditions remai
 Chattogram, Bangladesh : 20 ~ 23 September | 7 ~ 10 October Alang, India : 19 ~ 27 September | 5 ~ 14 October
 
 ---
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -302,8 +261,6 @@ EXCHANGE RATES
 
 1 at US$347/ton, and HMS at US$338/ton.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 UK/EU shredded offers stood higher at \\$378-380/t CFR, while buyers showed interest only at US$370-372/ton CFR, keeping a gap between bids and offers. In Turkey, deep-sea scrap prices edged lower again, though some fresh activity emerged. US and Baltic-origin cargoes were reported at US$335-337/ton CFR, while EUorigin HMS 80:20 was heard lower at US$328/ton CFR. However, weaker exchange rates continued to weigh on European suppliers' ability to sell competitively.
@@ -319,8 +276,6 @@ basis points yesterday, a move that in past cycles has typically buoyed raw mate
 **Copper led losses in the base metals sector ahead of the Federal Reserve's policy**
 
 decision, with bearish sentiment in Asian trading driving the selloff. The metal had previously found support on expectations that lower borrowing costs would spur demand, but attention has shifted back to the drag from U.S. tariffs on global growth.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

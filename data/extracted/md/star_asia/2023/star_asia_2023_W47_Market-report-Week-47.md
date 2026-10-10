@@ -32,8 +32,6 @@ Panamax/Kamsarmax:
 
 Continued demand for North American grains and a shortage of shipping vessels in the Atlantic region are driving T/A routes upwards. The strength in the N. Atlantic, ongoing supply disruptions in the USG due to Panama Canal restrictions, and deteriorating vessel conditions in S. American grain ports are supporting factors for the Panamax market. T/A levels improved to US$21,150's a day. The overall market is expected to maintain a robust
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 outlook, driven by the shortage of supplies in the Atlantic and the influx of N. American demand into the market. Supramax/Ultramax: The market experiences an upward turn in both major regions as demand for USG grains and Pacific coal drives the market. The towing effect spans the entire Atlantic region, partially absorbing vessels located in nearby areas such as the Black Sea and South America. At the week's closing, T/A saw levels settle higher, around US$ 23,000 a day. With the expectation of supply disruptions due to forecasted rain in Indonesia starting in December, there is an influx of speculative demand supporting the Pacific freight market. Pacific r/v closed at US$9,900's a day.
@@ -62,8 +60,6 @@ The Atlantic market continues to maintain a steady inflow with consistent suppor
 | IJSSEL CONFIDENCE | HANDY | 38,243 | 2012 | JAPAN | 15.3 | UNDISCLOSED |
 | PING JING | HANDY | 34,398 | 2015 | JAPAN | 17.5 | EUROPEAN BUYERS |
 | CETUS | HANDY | 32,449 | 2010 | CHINA | 9.5 | UNDISCLOSED |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -97,8 +93,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | SUPRAMAX | 58,000 | 12,250 | 11,875 | 13,000 | +3.16% | -5.77% |
 | HANDYSIZE | 38,000 | 10,250 | 11,000 | 10,500 | -6.82% | -2.38% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Tankers
@@ -118,8 +112,6 @@ Suezmaxes in West Africa had a stable week with marginal improvements in rates. 
 Aframax:
 
 Atlantic saw a quiet week with the continued holiday. 70,000mt EC Mexico/USG fell 46 points to WS198. The same was also seen in the USG/UKC route, with levels falling some
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -150,8 +142,6 @@ MR: In the UKC/WAFR, tonnage remained scarce as activity turned downwards. USG, 
 | PANAMAX-LR1 |  | 73,000 | 57 |  | 63 | 51 | 41 | 23 |
 | MR TANKER |  | 51,000 | 47 |  | 51 | 43 | 33 | 19 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Tankers S&P Report
 
 ## Page 6
@@ -163,8 +153,6 @@ MR: In the UKC/WAFR, tonnage remained scarce as activity turned downwards. USG, 
 | AFRAMAX | 110,000 | 43,750 | 41,000 | 37,500 | +6.71% | +16.67% |
 | LR1 | 74,000 | 31,750 | 31,750 | 38,750 | 0 | -18.06% |
 | MR | 47,000 | 26,000 | 26,000 | 27,500 | 0 | -5.45% |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -180,8 +168,6 @@ Scheduled container capacity post-Golden Week on transpacific and Asia-Europe ro
 | HAMMONIA HUSUM | FEEDER | 2,556 | 2006 | S.KOREA | 9.75 | MSC |
 | CONTSHIP DAX CONTSHIP REX | FEEDER (ECO MODERN) | 1,102 | 2016 2015 | CHINA | UNDISCLOSED | NEPTUNE PACIFIC |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers Values
@@ -196,29 +182,16 @@ Scheduled container capacity post-Golden Week on transpacific and Asia-Europe ro
 | 5,500 - 7,000 | Gearless | 93 | 78 | 66 | 39 | N/A |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 520 ~ 530 500 ~ 510 510 ~ 520 530 ~ 540 STABLE /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 520 ~ 530 | 500 ~ 510 | 510 ~ 520 | 530 ~ 540 | STABLE / |
+| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | STABLE / |
 | **GADDANI, PAKISTAN | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 520 ~ 530 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -235,8 +208,6 @@ TURKEY
 | GADDANI, PAKISTAN | 430 | 360 | 390 | 610 | 500 |
 | ALIAGA, TURKEY | 280 | 240 | 205 | 330 | 300 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -250,11 +221,7 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -265,8 +232,6 @@ The European Parliament and the Council recently achieved a breakthrough by reac
 Alang, India
 
 Following the conclusion of the Diwali festive holidays, markets returned to business on a muted tone, marked by a decline in domestic prices that has fostered negative sentiments.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -293,8 +258,6 @@ Chattogram, Bangladesh
 
 The current scenario of the ship recycling industry remains unchanged, with markets persistently subdued over the past few weeks. While a small segment of recyclers cautiously resumed purchasing at prevailing rates, the overall momentum was lacking, primarily due to lingering concerns about LC opening issues that continue to preoccupy the industry. As we come closer to the year's end, the situation is compounded by banks once again tightening the issuance of LCs, with only a handful of recyclers having limited facilities left to establish these LCs.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 On the other hand, imported ferrous scrap prices experienced a slight increase w-o-w amid sluggish market activities. Bid-offer differences have persisted over the past seven days, with shredded scrap from Europe quoted at US$430-435/ton CFR Chattogram and HMS (80:20) at US$410-412/ton CFR. Unlike buyer interests, sellers are maintaining high prices due to limited availability and global competition. Industry sources indicate that yards are gearing up to close operations for the Christmas and New Year holidays in the second week of December. Traders highlight significant challenges in opening LCs for both smaller and larger mills, causing delays of up to three weeks or more and posing substantial issues for sellers and yards in fulfilling contracts.
@@ -316,8 +279,6 @@ Anchorage & Beaching Position (November 2023)
 Gadani, Pakistan
 
 Recyclers are gradually re-entering the buying arena, albeit with limited capacity to establish LCs, only a handful of recyclers are eager to pursue buying. Recent reports revealed the resale of the previously sold bulk carrier "Catherine Bright" to a local recycler, with a notable 400 tons of bunkers at impressive price levels. This development signals that Gadani is poised to compete with its neighbouring ship recyclers. Despite the challenges, the overall situation in the industry is maintaining a steady course, instilling hopes of a broader resumption on the horizon. The resurfacing of ship resale activity and the competitive edge displayed by Gadani suggest a resilient undertone in the future for the ship recycling markets.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -352,8 +313,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 285.50 | 286.59 | -0.38 |
 | USD / TRY (TURKEY) | 28.86 | 28.71 | +0.52 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 ## Commodities
@@ -367,8 +326,6 @@ injecting a positive sentiment into the market. Speculation emerged that China m
 the week but finally settled back upward by the close of the week, following China's National Development and Reform Commission's heightened efforts to curb speculation in the market. The NDRC announced increased monitoring measures to crack down on speculative activities. While China's initiatives to revitalise property markets initially boosted iron ore prices, the actual impact on concrete property data remains uncertain. Winter production restrictions are anticipated to lead to a further reduction in steel production, compounded by softer steel demand resulting from weaker construction activity.
 
 ## HMS 1/2 & Tangshan Billet
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 

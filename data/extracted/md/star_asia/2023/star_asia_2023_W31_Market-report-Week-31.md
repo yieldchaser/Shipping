@@ -26,8 +26,6 @@ The highlight of this week was the Fitch Ratings, downgrading U.S. government's 
 
 BDI saw an increase start of the week, marking its second consecutive monthly gain. This rise was driven by improved rates for capesize and panamax vessels. The overall index rose by 17 points, reaching 1,127, with a monthly gain of 3.3%. BCI, climbed 43 points or about reaching 1,873, its highest level since late June, gaining about 10% for the month. The average daily earnings for capes, increased by US$353, reaching US$15,533. While iron ore futures saw a slight increase due to measures announced by Chinese authorities to boost consumption, concerns about steel demand and a sluggish manufacturing sector in China limited further gains. BPI recorded significant growth, gaining 30 points to reach 1,112, marking its seventh consecutive session of increase. The average daily earnings also saw a rise of US$269, reaching US$10,010.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 Capesize:
@@ -42,13 +40,9 @@ Handysize:
 
 The handy market did not fare so well this week, with rates across both basins seeing declines. The Inter-Pacific market saw some enquiries start of the week, but levels fell slightly at closing, settling at US$ 5,600's regions. In the Atlantic, higher supply manages to see levels remain largely unchanged. T/A closed at US$ 5,900's a day region.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 3
 
 ## Dry Bulk - S&P Report
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -62,8 +56,6 @@ The handy market did not fare so well this week, with rates across both basins s
 | HANDYSIZE | 38,000 | 9,750 | 10,250 | 14,750 |
 
 (in USD/day) W-O-W CHANGE Y-O-Y CHANGE 0 -4.76% +2.38% -35.82% -2.33% -33.86% -4.88% -33.90%
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -82,8 +74,6 @@ The reduced Russian crude oil exports are driving an increase in vessel supply i
 Aframax:
 
 The European market has been facing continuous decline for over two weeks, resulting in low rates overall. Owners are struggling to find Russian cargo due to Urals trading above the price cap. Additionally, there has been a decrease in the overall supply of oil in the
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -105,8 +95,6 @@ MR: This week, there was a surplus of tonnage in the USG MR market, causing down
 | BDTI | 810 | 881 |  | 1,448 | -8.06% | -44.06% |
 | BCTI | 716 | 671 |  | 1,404 | +6.71% | -49.00% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers Values
@@ -127,8 +115,6 @@ MR: This week, there was a surplus of tonnage in the USG MR market, causing down
 | LR1 | 74,000 | 29,250 | 29,250 |  | 26,750 | 0 |  | +9.35% |
 | MR | 47,000 | 25,000 | 24,000 |  | 24,000 | +4.17% |  | +4.17% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -137,22 +123,14 @@ The SCFI index remains stable this week at 1,039 points, mainly driven by Transp
 
 ## Containers S&P Report
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 500 ~ 510 490 ~ 500 500 ~ 510 510 ~ 520 IMPROVING /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 530 ~ 540 | 520 ~ 530 | 520 ~ 530 | 580 ~ 590 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 500 ~ 510 | 490 ~ 500 | 500 ~ 510 | 510 ~ 520 | IMPROVING / |
+| *CHATTOGRAM, BANGLADESH | 530 ~ 540 | 520 ~ 530 | 520 ~ 530 | 580 ~ 590 | WEAK / |
 | **GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
 | *For Non-EU ships.ForE.U. Ship,the pricesare about US$20-30/tonless | 310 ~ 320 | 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | STABLE / |
 
@@ -171,15 +149,11 @@ ALANG (WC INDIA) 500 ~ 510 490 ~ 500 500 ~ 510 510 ~ 520 IMPROVING /
 | GADDANI, PAKISTAN | 415 | 370 | 350 | 600 | 560 |
 | ALIAGA, TURKEY | 270 | 260 | 160 | 290 | 300 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
 
 ## Recycling Ships Price Trend
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 TYPE CONTAINER
 
@@ -201,8 +175,6 @@ Alang, India
 
 Positive start to the month, with domestic ship scrap prices witnessing a gradual upturn with demand improving, but the lack of ideal ships destined for Alang remains low. This week's noteworthy sales from top-class container owners were the sale of Maersk 10,351 tonner, which achieved US$405/ton as reported on as is where is UAE port for recycling into Maersk approved recycling facility. MSC has sold their two containers, MSC Lana II at US$520/ton levels for MSC-approved yards and MSC ERMINIA, 1993 Japanese built, weighing 17,694 tons, at US$505/ton. Chattogram's weakening is adding optimism in Alang, that a number of ships, especially from the Chinese markets, which are destined for Chattogram may now be available for the Alang recycler; however, the question remains how soon the ship owners realise the situation and start accepting the facts is to be seen in the weeks to come. As we reach the midpoint of 2023, the Alang ship recyclers are facing a challenging situation, with their inability to secure enough tonnage to meet the demands of domestic mills. In the past seven months, they have only managed to obtain around 73 ships
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
 weighing approximately 560,321 metric tons. This figure marks the lowest count of ship scrap in a decade, indicating a significant shortage in the market. As a result of this scarcity, domestic mills are now looking towards alternative sources for their scrap material requirements. The situation has motivated these mills to seek imported scrap materials as a substitute to bridge the gap, lifting the overall sentiments, which is positive in the long run for the ship recycling industry. On the Indian economy front, this week, the Indian government has outlined a roadmap to achieve its ambitious target of making India a $5 trillion economy, surpassing the economic growth of countries like Germany and the U.K. According to a background, paper circulated among lawmakers, sustaining an annual economic growth of 6.5% with inflation below 5% over the next five years is crucial for this goal. The paper relies on forecasts by the International Monetary Fund (IMF) and suggests that India could become a $5 trillion economy by 2026-27. Prime Minister Narendra Modi has prioritised this objective and emphasised the need for every state to identify its strengths and develop a roadmap to contribute to this growth. The paper highlights the corporate sector's readiness to invest, a strong digital economy, and the maturing Goods and Services Tax as key factors that will support India's economic growth.
@@ -218,8 +190,6 @@ Anchorage & Beaching Position (August 2023)
 Chattogram, Bangladesh
 
 Uncertainty strikes the Chattogram ship recycling market amidst plummeting domestic ship scrap prices and a surge in the supply of ships, especially from the Chinese markets. The ship recycling market in Chattogram has begun showing signs of weakness, with domestic ship scrap prices experiencing a sharp decline. Compounding the issue is the sudden influx of ships, particularly from Chinese owners, which has sparked panic among
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -241,8 +211,6 @@ Gaddani, Pakistan
 
 Amid the current market conditions, Pakistani recyclers are making a noteworthy comeback in the industry. After a prolonged period of inactivity, these recyclers are gaining prominence again, but under strict restrictions. However, it is very important to note only five ship recyclers have been granted a limit of up to US$5 million each by a local bank to
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 purchase ships within these parameters, with unusual terms and conditions attached, leading to additional costs for the recyclers. Once these five recyclers manage to procure ships within the specified conditions, the market is expected to witness a return to closure with uncertainty looming. The industry remains optimistic about the resurgence of Pakistani players in the recycling sector, a kick start even if it is short-lived, but once the forex situation improves, there should be more recyclers and banks able to enter the trade. For the time being, activities are being closely watched with anticipation. Once again, the political drama took centre stage as ex-prime minister Imran Khan was arrested a second time in three months after being found guilty in a corruption case. This time the judge sentenced him to three years imprisonment. The coming week may be crucial to see how the situation shapes up in Pakistan.
@@ -252,8 +220,6 @@ Anchorage & Beaching Position (July 2023)
 Aliaga, Turkey
 
 Turkish scrap prices are seen mostly following a stable trend in both the import and domestic markets. Although a few mills decreased their domestic scrap buying prices, most are keeping them unchanged. This points to a stabilisation in prices as the values in these fresh bookings are pegged at last week's transaction levels. Although scrap suppliers were seeking higher prices, they failed to achieve these amid the current unfavourable situation in the Turkish steel market. The demand, in general, across Turkey remains weak, mainly attributed to the lack of business activity in the local and export rebar sectors. Ship recycling prices remained stable despite fluctuations in the imported ferrous scrap prices like Alang markets,Turkey is also facing an acute shortage of green recycling ships keeping the prices intact.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -284,8 +250,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 283.57 | 286.06 | 0.87% |
 | USD / TRY (TURKEY) | 26.99 | 26.95 | -0.15% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 ## Commodities
@@ -295,8 +259,6 @@ Insight
 Crude oil prices surged after Saudi Arabia decided to extend its voluntary production cut, with the OPEC leader committing to reducing output by 9 million barrels per day (mb/d) until September. There is a possibility of further extensions or deeper cuts depending on market conditions. Russia also plans to continue its own production cut, albeit at a lower rate of 300,000 barrels per day, in the coming month. These supply reductions, combined with lower supply growth in other regions and a decline in U.S. shale oil output due to reduced drilling activity, are tightening the oil market. However, sustaining the price rally will depend on continued improvement in global demand. While demand seems promising, for now, there are concerns on the horizon. In China, electric vehicles (E.V.s) are becoming more popular, potentially leading to a loss of 260,000 barrels per day in oil consumption from E.V.s in 2023, which could impact oil prices in the medium term. Copper's earlier gains this week were reversed due to mounting evidence of China's fragile economic recovery and the downgrading of the U.S. credit rating. This downgrade led to a rise in bond yields and a rally in the USD. China's Caixin manufacturing purchasing managers index fell to a six-month low of 49.2 in July, indicating a contraction in factory activity. The U.S. is also experiencing challenges, with factory activity contracting for a ninth consecutive month. Concerns are rising about the effectiveness of Beijing's announced support measures following the lower PMI reading in China. Additionally, China's weak car sales, including a 5% Y-O-Y decline and a worrying 3% M-O-M drop in electric vehicle sales, have further impacted the metals market. Iron ore's rally has also stalled as efforts to aid the property market seem unlikely to boost demand, with Rio Tinto's CEO warning about China's saturated steel production. Supplyside issues in Chile may be nearing resolution, adding to the complexities in the metals sector.
 
 According to a commodity strategist, India is poised to offset a significant portion of the decline in commodity demand growth in China over the current decade, primarily driven by increased energy purchases. While China's economic growth is projected to slow down in the coming years, India's economy is expected to remain stable. It was further revealed that India could potentially replace around 60% of the reduction in Chinese consumption of oil and coal by the year 2030. The decline in China's commodities demand is attributed to the country's cautious approach towards stimulus spending due to debt concerns, while India is embarking on
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 

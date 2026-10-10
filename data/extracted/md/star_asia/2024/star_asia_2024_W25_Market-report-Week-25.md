@@ -22,8 +22,6 @@ WEEK 25 - June 22, 2024
 
 The Chinese property market is facing a deepening crisis, as evidenced by recent downgrades from global credit ratings firms. S&P Global Ratings and Fitch Ratings have both significantly lowered their forecasts for China's residential sales, projecting a 15% to 20% drop this year. This revised outlook places sales at less than half their 2021 peak, indicating a severe contraction in the sector. The pessimistic projections stem from a larger-than-anticipated decline in home prices, which is deterring potential buyers. In May, new home values experienced their most substantial fall in nearly a decade, while used-home prices saw their sharpest decline in at least 13 years. This trend is particularly concerning given that real estate comprises about 78% of household wealth in China, double the rate in the United States. Despite recent government efforts to stimulate the property market, including relaxed mortgage rules and encouragement for local governments to purchase unsold homes, credit rating agencies remain sceptical about the effectiveness of these measures. Major cities like Shanghai, Shenzhen, and Guangzhou have implemented significant easing policies for homebuyers, but these actions have yet to reverse the market's downward trajectory. The ongoing property slump continues to be a drag on China's economy, raising concerns about the country's broader economic stability and growth prospects. As the situation evolves, it remains to be seen whether additional government interventions will be able to stabilize the market and restore buyer confidence.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ Both basins experienced an uptick in cargo inflow, coupled with improved market 
 Panamax/Kamsarmax:
 
 The Atlantic continues to face downward pressure on rates despite a relatively tight vessel supply. This contradictory situation stems from a persistently weak influx of cargo, undermining potential market strength. Meanwhile, the Pacific region echoes this lackluster performance, with cargo volumes failing to rebound to satisfactory levels. In response to these challenging conditions, shipowners across both basins are reluctantly adjusting their rate expectations, reflecting the reality of the current market.T/A remains unchanged at around US$ 18,700 a day, while Pacific r/v slipped slightly to US$ 15,650.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -71,8 +67,6 @@ Handy market witness the same imbalance in rates like the bigger counterparts fr
 | SUPRAMAX | 58,000 | 15,500 |  | 15,500 |  | 11,250 | 0 |  | +37.78% |
 | HANDYSIZE | 38,000 | 14,500 |  | 14,250 |  | 9,750 | +1.75% |  | +48.72% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -90,8 +84,6 @@ Handy market witness the same imbalance in rates like the bigger counterparts fr
 | WESTERN PANAMA | HANDY | 39,000 | 2015 | CHINA | 18.6 | PRECIOUS SHIPPING |
 | NORDIC NANJING | HANDY | 34,620 | 2013 | CHINA | 15.6 | TURKISH BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -106,8 +98,6 @@ Suezmax:
 
 The two-week surge in rates from the USG has led to a dispersal of available vessels across major loading areas such as WAFR and MEG. This has resulted in a slightly bullish trend for WAFR to Europe routes. 130,000mt Nigeria/UKC remain unchanged at WS112 while 135,000mt CPC/Med close at WS122 at end of week.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -119,8 +109,6 @@ Clean:
 LR: LR2 tankers experienced a turnaround in fortunes last week. The market began with a downward trend but rebounded at the start of the week, reaching WS180. This recovery was driven by an influx of late June cargoes heading west. At closing, the TC1 rate for MEG/Japan climbed to WS200. MR: MR segments witness a decline this week. The previously strong rates on Far East to Singapore led to some cargoes conversion for LR. In the UKC, TC2 fell this week to WS154. The slowdown in demand towards the end of the month added to the sombre outlook.
 
 # Baltic Exchange Tanker Indices
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -146,8 +134,6 @@ PRICE 43.8 29.75 32.5 23.0 (SS)
 
 COMMENTS / BUYERS CHINESE BUYERS GREEK BUYERS UNDISCLOSED HEUNG-A SHIPPING
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 # Containers
@@ -161,8 +147,6 @@ Container freight rates continued their upward trend this week, driven by ongoin
 | NORTHERN DISCOVERY | PMAX | 3,534 | 2008 | CHINA | 19.7 | UNDISCLOSED |
 | WAN HAI 303 | SUB PMAX | 2,496 | 2002 | JAPAN | 13.0 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # Containers Values
@@ -175,22 +159,14 @@ Container freight rates continued their upward trend this week, driven by ongoin
 | 5,100 | Gearless | 79 | 76 | 60 | 31 | 28 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 520 ~ 530 510 ~ 520 520 ~ 530 540 ~ 550 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 520 ~ 530 | 510 ~ 520 | 520 ~ 530 | 540 ~ 550 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 330 ~ 340 | 340 ~ 350 | 380 ~ 390 | STABLE / |
 
@@ -209,8 +185,6 @@ ALANG (WC INDIA) 520 ~ 530 510 ~ 520 520 ~ 530 540 ~ 550 WEAK /
 | GADDANI, PAKISTAN | 410 | 305 | 575 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 295 | 300 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -224,11 +198,7 @@ ALANG (WC INDIA) 520 ~ 530 510 ~ 520 520 ~ 530 540 ~ 550 WEAK /
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -239,8 +209,6 @@ This week, the markets in Bangladesh and Pakistan remained largely inactive due 
 Alang, India
 
 This week has been extremely volatile for Alang's domestic ship scrap markets, with significant drops in domestic ship scrap prices erasing all gains from the past month. The price of domestic melting scrap has decreased by approximately 4%, while ship plate prices have fallen by around 1.5% month-on-month. The positive sentiment that had been building over the past month has reversed, leaving recyclers in a pricing dilemma once again. However, the majority view this downturn as a technical correction, which was anticipated given the rapid market movement, suggesting that a correction was inevitable. Overall, the long-term view is positive for the ship recycling markets in India as investments in India's key infrastructure sectors, including roads, real estate, and renewable energy, are projected to rise by 38% in FY25 and FY26 compared to the previous two years according to CRISIL Ratings. This increase, expected to reach nearly
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -267,8 +235,6 @@ It was a quiet week in Bangladesh following the Eid holidays on Monday with a la
 
 activity across. Sentiments seem uncertain with many reporting a lack of tonnage these
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 past few weeks. Certainly, the recent budget has played an impact on the outlook with worries over allocation of budget and possible spillover restrictions on issuances of LCs. Meanwhile, on a positive note, this week, BSRM, Bangladesh's leading steel manufacturer, is set to launch a US$217 million plant in Chattogram's Mirsarai by mid-2024. The new facility will boost the company's annual production capacity by 800,000 tons, increasing its market share from 23% to 34%. This expansion, partly funded by a US$50 million JICA loan for green industrialisation, will create about 1,000 jobs and reduce dependency on steel wire imports. The project showcases BSRM's commitment to environmental sustainability, featuring zero-emission technologies, water recycling systems, and plans for solar power integration. With this addition, BSRM's total production capacity will reach 2.4 million tons annually, solidifying its position in Bangladesh's growing steel industry. This expansion aligns with Bangladesh's steel sector growth, which produces 7-7.5 million tons annually, serving both domestic and export markets.
@@ -292,8 +258,6 @@ Anchorage & Beaching Position (June 2024)
 | JI HAI ZHING SHAN | CONTAINER | 2,175 | 28.05.2024 | 04.06.2024 |
 | MENT 1 | CEMEMENT | 2,234 | 24.05.2024 | 01.06.2024 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Gadani, Pakistan
@@ -305,8 +269,6 @@ This week, the markets remained largely closed due to the Eid holidays, resultin
 Chattogram, Bangladesh : 22 ~25 June | 05 ~08 July Alang, India : 19 ~28 June | 02 ~ 11 July
 
 ---
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -339,15 +301,11 @@ The Sub-Continent and Turkish ferrous scrap market displayed mixed trends this w
 
 celebrations and new electricity charges imposed by the National Electric Power
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 Regulatory Authority (NEPRA). Indicative offers for shredded scrap from the UK and Europe were assessed at US$420-425/t CFR Qasim. The newly imposed NEPRA fixed charges, ranging from PKR 200-1,000 per month for domestic consumers and PKR 1,500- 2,000 per month for industrial consumers, have further dampened market sentiments. In Bangladesh, demand for imported scrap was low, impacted by the Eid holidays and difficulties in opening Letters of Credit (LCs). Indicative offers for UK/Europe-origin shredded scrap were heard at US$423-430/t CFR Chattogram, while HMS (80:20) offers stood at US$400-405/t CFR. Market participants noted a lack of significant activity post- Eid, with inquiries present but at prices lower by US$5-8/t from current levels, compounded by challenges related to the weaker currency exchange. The Turkish market for imported scrap remained stable, with potential movements anticipated post-Eid. Discussions and possible bookings for July shipments might resume, with regular scrap business expected to return by the end of June. The tight supply of scrap, driven by low collections, domestic demand, and Egyptian demand, continued to support prices. Despite increased freights pushing up CFR Turkiye levels, scrap price hikes were not supported by the rebar market, which remained stable at around $580/t FOB. Turkish mills are likely to resume bookings next week, anticipating a gradual return to regular market activity.
 
 # HMS 1/2 & Tangshan Billet
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 
@@ -368,8 +326,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 107 | 0 | -6.95% | 107 | 115 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 109 | 0 | +6.86% | 109 | 102 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 

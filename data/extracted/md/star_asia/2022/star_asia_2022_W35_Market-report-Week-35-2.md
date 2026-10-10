@@ -60,8 +60,6 @@ more than US$20 billion.
 
 The deterioration of the situation with Capesize vessels has reached new lows. According to Baltic Exchange, the transatlantic C8 route has plummeted to US$944 per day, making August one of the most dismal months on record. Furthermore, losses were reported on all routes, with the C14 China-Brazil round trip earning US$2,640 per day and the C10 transpacific round trip earning US$4,842 per day. With earnings of US$2,505, the 5TC came close to covering OPEX. The analyst said that the rising demand for steel and the capacity of miners in Brazil and Australia to satisfy cargo demands as the primary variables that might influence Capesize vessel freight costs. Two variables that might drive greater shipping demand are China's economic recovery and the capacity of miners in these regions to produce enough iron ore. Port congestion reduction is another factor that might impact Capesize vessel freight prices. However, the fall in the Capesize vessel market has also impacted smaller vessel types, such as the 5TC, which is at US$10,956 per day.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 #### Capesize:
@@ -92,8 +90,6 @@ In the Atlantic, rates were under pressure this week due to the lack of demand. 
 
 The USG was under pressure this week due to the lack of cargo and an abundance of spot freight. F/H routes slipped slightly at levels in the region of US$16,700 a day. A volatile week across all areas, with a general lack of new inquiries being a big factor. In the Pacific, levels have seen some slight discounts with Inter-Pacific in the region of US$13,600 a day.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 3
 
 # Dry Bulk - S&P Report
@@ -121,11 +117,7 @@ The USG was under pressure this week due to the lack of cargo and an abundance o
 | BSI | 1,514 | 1,744 |  | 3,348 |  | -13.19 |  | -54.78 |
 | BHSI | 869 | 933 |  | 1,638 |  | -6.86 |  | -46.95 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 5
 
@@ -144,8 +136,6 @@ The USG/TA market has started to slow down after providing most of the momentum 
 #### Aframax:
 
 Due to the reduction in the number of vessels in the Middle East, the freight rates have increased. This week, the UKC was also relatively quiet, which resulted in a slight decrease in
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 6
 
@@ -192,8 +182,6 @@ CROATIA 17.0
 #### NB PROMPT DELIVERY
 
 109 79 71 55 46
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 #### COMMENTS / BUYERS
 
@@ -245,8 +233,6 @@ employment of around 9 months at a rate of US$28,000, which is significantly low
 
 compared to the previous year.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 8
 
 # Containers S&P Report
@@ -270,32 +256,20 @@ Containers Values
 
 *\*(amount in USD million)*
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 560 ~ 570 | 550 ~ 560 | 570 ~ 580 | 600 ~ 610 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 600 ~ 610 | 590 ~ 600 | 570 ~ 580 | 620 ~ 630 | WEAK / |
+| GADDANI, PAKISTAN | 590 ~ 600 | 580 ~ 590 | 550 ~ 560 | 600 ~ 610 | WEAK / |
+| TURKEY \*For Non-EU ships. For EU Ship, the prices are about USUS$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 350 ~ 360 | STABLE / |
 
-CHATTOGRAM,
-
-BANGLADESH 600 ~ 610 590 ~ 600 570 ~ 580 620 ~ 630 WEAK /
-
-GADDANI, PAKISTAN 590 ~ 600 580 ~ 590 550 ~ 560 600 ~ 610 WEAK /
-
-TURKEY
-
-\*For Non-EU ships. For EU 320 ~ 330 310 ~ 320 300 ~ 310 350 ~ 360 STABLE /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
 
 # 5-Year Ship Recycling Average Historical Prices
 
@@ -307,8 +281,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 | CHATTOGRAM, BANGLADESH | 415 | 435 | 375 | 350 | 600 |
 | GADDANI, PAKISTAN | 405 | 425 | 360 | 360 | 590 |
 | ALIAGA, TURKEY | 210 | 240 | 260 | 205 | 280 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 10
 
@@ -322,8 +294,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 
 # Recycling Ships Price Trend
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 11
 
 # Insights
@@ -333,8 +303,6 @@ A new month started on a slow footing in the Sub-Continent with uncertainties du
 #### ALANG, INDIA
 
 Following ArcelorMittal's announcement of a price hike in Europe, Indian mills are reportedly considering increasing their offers. According to sources, the mills have already withdrawn their offers to various markets, including the Gulf Cooperation Council and Vietnam.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 12
 
@@ -352,8 +320,6 @@ Indian mills are reportedly planning to increase their offers for September. Des
 
 In the last two weeks, cement and rod sales in Dhaka have decreased 50%. Due to the sharp rise in the cost of building materials prices. The decline in sales has left stores unable to pay rent and other bills, say shopkeepers. Topbrand rods cost Tk 98,000 per metric ton, while a 50-kg sack of cement costs Tk 650. Other problems, such as supply chain disruption and load-shedding, have damaged the cement and rod industry. Kamal Mahmud, the vice president of the Bangladesh Real Estate and Housing Association, said that the government should strengthen its monitoring of the market to prevent the prices from going up. Due to the continuous increase in the prices of construction materials, many of the association's member firms have been forced to suspend their projects. The government will regulate the pricing of nine key staples, including rice, starting next week in an effort to lower market costs. Commerce Minister Tipu Munshi made the statement following a meeting with officials from the relevant authorities. Munshi stated that the government would also launch a lawsuit against the people in business that disregard the goods' pricing. He stated that the costs of these things had risen owing to global uncertainty and the rising of the currency. In the coming weeks, this news could send shock waves to ship prices, and if the government caps the wire rod prices, there will be a significant drop in ship recycling prices.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 13
 
 Lately, the domestic ship scrap prices have come off significantly, fueled by ongoing banking issues for larger ships, dampening the sentiments, and such an effect was now being seen in the prices offered which is off by US$20~30/ton from its recent highs.
@@ -368,8 +334,6 @@ Lately, the domestic ship scrap prices have come off significantly, fueled by on
 #### ALIAGA, TURKEY
 
 The weak steel sales in Turkey are also contributing to the decline in the country's finished steel prices. Despite the continuous rise in the prices of rebar, the producers are still struggling to maintain their margins. The Turkish scrap market remained inactive this week as both the producers and suppliers stayed away from the market. Due to the lack of demand and the tight margins, both the mills and the suppliers are reluctant to buy at current levels.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 14
 

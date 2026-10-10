@@ -22,8 +22,6 @@ WEEK 13 - March 28, 2025
 
 President Xi Jinping met with over 40 global business leaders in Beijing on Friday, pledging to improve market access and provide a "transparent, steady and predictable policy environment" for foreign investors. In a significant expansion from last year's gathering, Xi welcomed company executives from the US, Europe, Japan, and South Korea to the Great Hall of the People, even inviting reporters to attend his concluding remarks-a gesture seemingly designed to project openness amid escalating global trade tensions. The timing of Xi's outreach is particularly meaningful as the US intensifies protectionist measures, including a 25% tariff on auto imports and potential new levies against the EU and Canada. In his address, Xi tactfully suggested that "blowing out another lamp won't make your own glow brighter," advocating for dialogue to manage US-China friction rather than confrontation. Chinese officials overseeing economy, finance, trade, and national development joined the meeting, underscoring the importance Beijing places on cultivating international business relationships during this uncertain period. While Xi portrays China as a "favorite destination" for foreign investment, the reality remains challenging-inbound investment dropped to its lowest level in over three decades last year, with further headwinds expected when the US completes its review of Beijing's compliance with the phase-one trade deal next month. Meanwhile, Chinese Premier Li Qiang has acknowledged the need to prepare for "shocks that exceed expectations" while pursuing an ambitious 5% growth target, which economists suggest may require trillions of yuan in stimulus if trade tensions continue to escalate. This engagement with international business aligns with China's broader strategy to position itself as open for business and supportive of private enterprise-a deliberate contrast to the "America First" approach.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ Despite an influx of cargo from East Australia due to rising Panamax rates, the 
 Panamax/Kamsarmax:
 
 The Atlantic continues its upward trend, supported by steady grain cargo inflows from the USG and South America, along with some coal shipments moving from the US East Coast to India. F/H routes saw rates close higher at US$17,500's a day. Meanwhile, the Pacific market maintains its positive momentum with ongoing cargo influx from Australia and Indonesia. Supramax/Ultramax: The Atlantic observed a downward market despite steady grain inflows from the USG, due to excess vessel supply combined with user-related uncertainties. In the Pacific, although new cargo continues to enter the market, rates are declining as owners lower their quotes to secure cargoes. Pacific r/v ended the week at US$12,400's.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -77,11 +73,7 @@ Handy market shows regional variation this week, with stability in the Cont. and
 | TATE J |  | HANDY | 34,439 | 2012 | S. KOREA | 13.0 | UNDISCLOSED |
 | ATLANTIC | BRAVE | HANDY | 33,407 | 2016 | JAPAN | 17.5 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -100,8 +92,6 @@ The West Africa market saw gains this week, as demand surge following the improv
 Aframax:
 
 Despite limited new cargo flow in the Middle East market, rates closed higher due to restricted vessel returns from Singapore-Australia routes. The Med market on the other hand, saw an impressive 69 points jump, recovering from a slow start as Ceyhan/Lavera route ended the week at WS198.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -142,11 +132,7 @@ Tankers S&P Report
 | EDEN | MR | 49,999 | 2020 | S. KOREA | 40.0 | TURKISH BUYERS |
 | CHALLENGE PROCYON | MR | 45,996 | 2011 | JAPAN | 19.0 | GREEK BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -170,33 +156,18 @@ S&P Containers Report
 | DEBUSSY | PMAX | 4,255 | 2009 | S. KOREA | N/A | UNDISCLOSED |
 | AS FRANZISKA | FEEDER | 1,345 | 2005 | CHINA | N/A | EUROPEAN BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 450 ~ 460 430 ~ 440 440 ~ 450 460 ~ 470 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 320 ~ 330 300 ~ 310 290 ~ 300 330 ~ 340 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 450 ~ 460 | 430 ~ 440 | 440 ~ 450 | 460 ~ 470 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 320 ~ 330 | 300 ~ 310 | 290 ~ 300 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -213,8 +184,6 @@ TURKEY
 | GADDANI, PAKISTAN | 270 | 490 | 680 | - | 530 |
 | ALIAGA, TURKEY | 160 | 250 | 480 | 320 | 310 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -228,19 +197,13 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 The Indian market continues to face sluggish conditions despite a slight improvement in price sentiment, with local activity showing minimal movement while the scarcity of available tonnage has prompted increased buyer interest. Despite this growing interest, price levels remain stagnant around previous benchmarks, creating a cautious market atmosphere where participants are reluctant to commit without seeing more substantial changes. Recycling has experienced heightened interest recently, but buyer uncertainty persists due to the recently implemented safeguard duty on imported scrap, which has affected the stability of offers. The approaching fiscal year-end on March 31 has further dampened demand for imported scrap, though domestic scrap generation remains higher than last year, contributing to the subdued interest in imports. Looking ahead, market participants anticipate that demand for recycled materials will improve in April as buyers typically restock before the monsoon season begins in June, potentially bringing more vitality to the industry.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -274,8 +237,6 @@ Anchorage
 | BANGLAR JYOTI | TANKER |  | 3,787 | - | 11.03.2024 |
 | BANGLAR SHOURAV | TANKER |  | 3,740 | - | 10.03.2024 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 & Beaching Position (MARCH 2025)
 
 ## Page 15
@@ -292,8 +253,6 @@ Chattogram, Bangladesh : 29 March ~ 01 April | 12 ~ 15 April Alang, India : 27 ~
 
 ---
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
@@ -305,8 +264,6 @@ The imported scrap markets across the Indian sub-continent continued to struggle
 ## India
 
 India's imported scrap market remained sluggish, largely due to financial year-end closures that kept buyers cautious despite some early-week optimism. Northern markets saw a brief surge in bookings at the start of the week, while buyers in Nhava Sheva witnessed a price increase of US$5-7 per ton. However, the overall market remained slow, with bid-offer mismatches limiting transactions.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -324,8 +281,6 @@ Turkey's imported scrap market continued its downward trend as mills refrained f
 
 # HMS 1/2 & Tangshan Billet
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 # Commodities (Weekinfocus)
@@ -339,8 +294,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 105 | +2.94% | +1.94% | 102 | 103 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 105 | +1.94% | +0.96% | 103 | 104 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

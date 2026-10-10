@@ -162,14 +162,9 @@ The container shipping market experienced a notable downward correction this wee
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE /         
-
-CHATTOGRAM |
-
-| GADDANI, PAKISTAN | $480-490 | $450-460 | $430-440 | $470-480 | BULLISH /  
-
-ALIAGA |
-
+| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE / |
+| CHATTOGRAM, BANGLADESH | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / |
+| GADDANI, PAKISTAN | $480-490 | $450-460 | $430-440 | $470-480 | BULLISH / |
 | ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
 
 ### Demolition - Reported Sales

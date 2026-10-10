@@ -22,8 +22,6 @@ WEEK 19 - May 9, 2025
 
 The Trump administration is considering a substantial reduction in tariffs on Chinese imports during weekend negotiations in Geneva, potentially bringing rates below 60% as an initial step toward de-escalating the damaging trade conflict. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng will lead these preliminary discussions, which could result in mutual tariff reductions as early as next week if progress is made. While expectations remain measured for this first diplomatic engagement-described by insiders as more exploratory than solution-focused-both sides appear motivated to address economic pain already manifesting in their respective economies. President Trump signalled his willingness to reduce the current 145% tariff levels with commerce Secretary Howard Lutnick echoing this sentiment, expressing hope for "a deescalating world where we go back to each other and then we work on a big deal together." Meanwhile, Chinese officials have maintained a more cautious stance, with Commerce Ministry spokesman He Yadong insisting that the US "needs to show sincerity to talk and be prepared to rectify its wrongdoing." Song Hong from the Chinese Academy of Social Sciences suggested Beijing would likely match American tariff reductions but emphasized that "China no longer holds the delusion that the US policy on China will change." Despite the potential breakthrough, economic analysts warn that even significant reductions would still leave historically high trade barriers in place. Both nations face challenging domestic political considerations-Xi Jinping must navigate patriotic sentiment urging resistance to US pressure, while Trump balances campaign promises with concerning approval ratings.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -41,8 +39,6 @@ The Atlantic region is experiencing an upward trend as robust cargo inflows in b
 Handysize:
 
 Handy market remains unchanged this week with not much activity in the Atlantic. Levels saw a slight decline as overall market in the basin remain soft. T/A closed the week at
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -83,11 +79,7 @@ Dry Bulk - S&P Report
 | BELLAVITA | HANDY | 35,723 | 2010 | S. KOREA | 10.0 | ASIAN BUYERS |
 | RESOURCE | HANDY | 31,776 | 2010 | CHINA | 8.0 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -98,8 +90,6 @@ Oil prices surged more than 1% early Thursday as investors responded positively 
 VLCC:
 
 VLCC market across both basins saw a dip in the latter half of the week. 270,000mt MEG/China fell to WS59 while similar dampening was also seen in the Atlantic as charterers adopt a wait-and-see approach with WAFR/China losing 4 points to WS61.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -144,8 +134,6 @@ CHANGE -13.85% -42.47%
 | MR |  | 51,000 |  | 49 | 50 | 41 (E) | 31 | (E) | 21 |
 | *(amount in USD million) | \ |  | (E) - eco units |  |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 # Tankers S&P Report
@@ -158,8 +146,6 @@ CHANGE -13.85% -42.47%
 | NEW NAXOS | VLCC | 299,985 | 2003 | JAPAN | 33.0 | SINGAPOREAN BUYERS |
 | MARITIME VANESSA / MARITIME SUZANNE | MR | 44,401 44,363 | 2002 | CHINA | 8.5 EACH | CHINESE BUYERS |
 | ZAGARA | MR | 37,320 | 2002 | S. KOREA | 8.0 | CHINESE BUYERS |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -182,33 +168,18 @@ S&P Containers Report
 |---|---|---|---|---|---|---|
 | TB KAIYUAN | SUB PMAX | 2,456 | 1997 | S. KOREA | 13.3 | CHINESE BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 460 ~ 470 430 ~ 440 440 ~ 450 470 ~ 480 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 450 ~ 460 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | WEAK / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 WEAK /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 460 ~ 470 | 430 ~ 440 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 450 ~ 460 | 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | WEAK / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | WEAK / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -225,8 +196,6 @@ TURKEY
 | GADDANI, PAKISTAN | 280 | 510 | 690 | - | 530 |
 | ALIAGA, TURKEY | 180 | 260 | 460 | 320 | 310 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -237,19 +206,13 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 The ship recycling sector in India opened the week with modest firmness, though initial optimism quickly faded as trading activity diminished by mid-week. While the market maintains a steady course overall, recent geopolitical tensions with Pakistan have introduced an element of uncertainty that continues to influence buyer sentiment. Overall recycling markets remained stable with demand intact. Overshadowing these challenges is also the persistent liquidity crunch affecting India's financial ecosystem, with limited fund movement constraining both traders and mill owners, ultimately dampening transaction volumes and market confidence.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -263,8 +226,6 @@ Anchorage & Beaching Position (MAY 2025)
 Chattogram
 
 Bangladesh continues to steer challenging waters as the industry inches toward Hong Kong Convention (HKC) compliance ahead of the June 26 enforcement deadline. While the issuance of No Objection Certificates (NOCs) has resumed, overall activity remains notably subdued, with market sentiment dampened by limited approvals and sluggish transaction volumes. With just over 5 weeks remaining until this landmark shipping regulation takes effect, Bangladesh appears overwhelmed by the impending regulatory transition that will reshape global recycling standards. The situation is further complicated by local authorities' cautious approach to vessel import clearances, with approvals being processed on a case-by-case basis, creating additional delays and uncertainties for potential deliveries. Several vessels that had been waiting at the outer anchorage in Chattogram have finally received their No Objection Certificates (NOCs). However, the prolonged delay incurred significant holding costs for cash buyers and owners, rendering many of these deals financially unviable and resulting in losses. The outlook for newly arriving tonnage remains uncertain, as the issuance of NOCs for non-HKC-compliant yards is still pending an official extension. The higher authorities from Dhakka are meeting this Sunday,11 May at Chattogram to evaluate the situation and take a prospective call on whether to give more time to the yards to complete the upgrading and resume issuing NOC's. Until such a directive is granted, the ability to proceed with fresh transactions remains constrained.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -288,8 +249,6 @@ Anchorage & Beaching Position (May 2025)
 
 ---
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
@@ -301,8 +260,6 @@ India's imported scrap market remains subdued as buyers maintain a cautious stan
 ## Bangladesh
 
 Acute liquidity constraints and seasonal demand softness continue to plague Bangladesh's imported scrap market, where rising freight costs have further dampened already weak buying interest. Australian shredded and PNS offers stand at US$375-380/t and US$385/t CFR Chattogram respectively but face strong buyer resistance with a striking bid-offer gap of US$57/t hampering transactions. The few deals concluded include Australian HMS 80:20 at US$355/t and Chilean HMS 90:20 at US$348/t CFR, while New Zealand shredded offers hover around US$385/t and Malaysian loose busheling at
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -317,8 +274,6 @@ Pakistan's scrap market has seen marginal price increases, primarily driven by r
 Turkey's imported scrap market has registered a modest improvement with US-origin bulk HMS 80:20 reaching US$339/t CFR, representing a slight US$1/t daily increase. Izmir mills have secured several US-origin cargoes at US$337-342/t CFR, with premium grades like shredded and bonus commanding up to US$359/t CFR, reflecting strengthening seller confidence. Nevertheless, most Turkish mills maintain a prudent approach due to persistently sluggish rebar sales that continue to constrain broader market participation. The short-sea segment shows limited activity, with Romanian-origin HMS 80:20 reportedly offered at US$318-320/t CFR, though many market participants question whether these levels can be achieved in current conditions. Despite cautious buying, sellers continue pushing for higher prices in anticipation of near-term market improvements.
 
 # HMS 1/2 & Tangshan
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -335,8 +290,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 100 | +2.04% | -13.04% | 98 | 115 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 96 | -1.03% | -18.64% | 97 | 118 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

@@ -22,8 +22,6 @@ pages: 18
 
 The U.S. and China held "very constructive" talks in Kuala Lumpur this Saturday, as trade tensions persist ahead of next week's Trump-Xi meeting at the APEC summit in South Korea. Led by U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng, the 5.5-hour session aimed to ease tariff disputes and avert escalation before the Nov. 10 truce deadline. Trump, en route to Asia, said both sides must make concessions, seeking renewed soybean purchases and curbs on fentanyl. Meanwhile, China's recent rareearth export controls have unsettled global markets, prompting calls for calm from regional leaders like Malaysia's foreign minister. This week, the IMO has decided to delay the adoption of its Net Zero Framework (NZF) for one year, a decision directly following intense geopolitical opposition, particularly from the United States and Saudi Arabia. The opposition was significant, with the US President publicly expressing outrage over the proposed global carbon pricing mechanism, and reports indicating that the US leveraged economic pressure, including threats of tariffs and port fees, against smaller states supporting the framework. This resulted in a procedural vote where 57 countries favoured the delay, 49 opposed it, and 21 abstained, leading to the adjournment of the session and necessitating a review of the framework's original March 2027 entry-into-force date. Despite the setback, IMO Secretary-General Arsenio Dominguez maintained a resolute and positive stance, assuring stakeholders that the NZF remains "very much alive" and emphasising that the decision was merely a procedural adjournment, not an abandonment of the framework. The delay elicited strong reactions, highlighting the resulting uncertainty for the industry: Organisations like the International Chamber of Shipping (ICS) and the International Association of Ports and Harbours (IAPH) expressed deep disappointment, stressing the urgent need for regulatory clarity to make necessary decarbonization investments and fearing that the delay will simply lead to a complex patchwork of national and regional measures. Environmental groups, including Pacific Environment and the Clean Shipping Coalition, condemned the adjournment as a "betrayal" and a squandered opportunity to address climate change.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ Capes market saw a downturn at closing, driven by cautious sentiment across both
 Panamax/Kamsarmax:
 
 Panamaxes in the Atlantic basin is being driven upward by a stable influx of cargoes from S. America, as firm demand is projected for both F/H and T/A routes, especially for the latter half of November. T/A rates firmed up, settling at US$19,250's a day. Conversely, the Pacific maintains its robust rates, as shipowners are reluctant to lower their asking prices despite the decrease in FFA values. Supramax/Ultramax: The Supramax market remains generally subdued. The Atlantic continues its decline with a noticeable lack of new cargo entering the North America-to-Mediterranean route. In the Pacific, demand from the NOPAC region holds firm, but the overall rate remains flat from limited fresh requirements. Pacific r/v ended the week at US$13,300's.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -62,8 +58,6 @@ Handy segment saw a muted week with rates remaining similar to last. There was s
 | HANDY | 38,000 | 30 | 33 | 25 | 18 | 14 |
 | *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -85,8 +79,6 @@ Handy segment saw a muted week with rates remaining similar to last. There was s
 | LA BAMBA | HANDY | 37,155 | 2012 | JAPAN | 14.8 | CHINESE BUYERS |
 | DANSHIP BULKER | HANDY | 28,291 | 2009 | JAPAN | 8.5 | VIETNAMESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -101,8 +93,6 @@ Suezmax:
 
 The West Africa Suezmax market fell end of week, closing with a drop of 8 points with 130,000mt Nigeria/UKC settling at WS126. This was driven by a sharp drop in cargo
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 volume from European refiners. In the Middle East, markets eased back slightly with 140,000mt to the Meds slipped to WS102.
@@ -116,8 +106,6 @@ Clean:
 LR: The Middle East LR2 market improved this week with TC1 climbing 17points to WS121. The issue involving Chinese port fees levied on US-related vessels provided a sort of defense against sharper declines. In the LR1, the positive sentiments were shared with TC5 MEG/Japan closing higher at WS129. MR: Given the current stagnation in demand, MEG market continues to be a slow, lackluster performance this week with TC17 MEG/E.Africa falling some 20 points to WS204. In the USG, rates saw a mixed week with rates coming off after climbing high. TC14 USG/UKC settled on Friday at WS201.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -135,8 +123,6 @@ LR: The Middle East LR2 market improved this week with TC1 climbing 17points to 
 | STAVANGER POSEIDON | MR | 49,999 | 2020 | VIETNAM | 44.15 | PNSC |
 | ROSE M | MR | 45,838 | 2005 | JAPAN | 11.0 | NIGERIAN BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -153,25 +139,16 @@ The global container ship orderbook, which currently exceeds 10 million TEU, is 
 | 5,100 ~ 5,300 | Gearless | 59 | 82 | 66 | - | 41 |
 | *(amount in USD | million) | \|=Ecounits |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 400 ~ 410 380 ~ 390 370 ~ 3800 410 ~ 420 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 | ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
-
-TURKEY
+| ALANG (WC INDIA) | 400 ~ 410 | 380 ~ 390 | 370 ~ 3800 | 410 ~ 420 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -187,8 +164,6 @@ TURKEY
 | CHATTOGRAM, BANGLADESH | 350 | 580 | 610 | 460 | 470 |
 | GADDANI, PAKISTAN | 370 | 590 | 580 | 510 | 480 |
 | ALIAGA, TURKEY | 200 | 280 | 320 | 300 | 320 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
@@ -206,19 +181,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
 Insights Alang
 
 The markets remained stagnant with prices remaining flat. The competition from the sanctioned tankers coming in kept the markets weak. Pricing structure is being undermined by the influx of lower cost sanctioned tankers that have become prevalent. This increased availability of such tankers, such as the recently noted Aframax and Suezmax tankers selling around US$360 per end-buyer ton and VLCCs offered at US$320, is creating downward pressure on the resale prices of materials across the entire Alang recycling sector. Combined with weak local steel demand, which continues to worry recyclers and traders alike, resulting in a total reduction of US$43/ton in local steel plate prices over the past five weeks. The Alang recycling market recorded a notable surge in activity through 2025, with yearto-date (January-October) figures showing 1,052,935 LDT recycled across 104 vessels - a sharp 76% increase compared to 598,728 LDT from 83 vessels over the same period in 2024. Despite the uptick in demolition volumes, local scrap prices softened in October, with average plate values easing to around INR 34,200 per ton, reflecting a 14% year-on-
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -250,8 +219,6 @@ Chattogram
 
 Bangladesh buyers are cautious as interest remains high despite economic challenges and downward price pressure. Even with the market uncertainty, a limited volume of sales continues to be finalised, though most recyclers are selective and conservative towards their buying, given the lack of clear direction and fluctuating market fundamentals. Although local ship scrap prices remain static, interest is sustained primarily because of the limited supply of tonnage available in the market. Consequently, buyers are showing a preference for, namely, tankers and bulkers, which remain their favoured options. No fresh ships arrived this week, with only older units lingering at anchorage due to delays in obtaining the necessary environmental permits. This week Bangladeshi Taka slipped 0.5% to over BDT 122 to a U.S. Dollar, compounding pressure on recyclers already burdened by costly tonnage, unsold inventory, and
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 shrinking yard space. The market now looks to political clarity and a new government to stabilize economic direction amid rising inflation.
@@ -263,8 +230,6 @@ The Pakistan market faces stagnation this week, as vessel prices continue to dec
 Aliaga, Turkey
 
 The Turkish ship recycling market saw a modest but notable strengthening this week, marking a positive shift after a relatively quiet period. This improvement is evidenced by a slight increase in local scrap prices, which have risen by about US$3 per ton.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -296,23 +261,17 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 India Despite the long Diwali holidays and consequently weak trading activity, imported scrap prices in India saw a marginal increase compared to the previous week's closing figures. Offers for shredded scrap were recorded between US$354-$356/ton CFR Mundra and Nhava Sheva, while HMS 80:20 stood at US$323-$326/ton. Market engagement remained minimal, as most key buyers and mills were still away, leading to a noticeable scarcity of inquiries. Traders are operating with the expectation that demand will begin to recover and market movement will resume once operations return to normal later in the current week.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Pakistan The imported scrap market in Pakistan remained quiet throughout the week, primarily weighed down by consistently weak demand, tight liquidity issues, and sluggish finished steel sales. Mills have concentrated on prudent cash flow management due to high input costs. UK/EU-origin shredded scrap was reportedly heard trading around US$360- $362/ton CFR Port Qasim, while Middle East-origin HMS/PNS traded in the range of US$352-$355/ton. Given that rebar and scrap prices remain depressed, the prevailing liquidity crunch offers little immediate hope for a quick market recovery. Bangladesh The imported ferrous scrap market in Bangladesh experienced a quiet spell over the last four to five days, with purchasing activity significantly muted. This stillness is attributed to the extended rainy season, combined with persistently sluggish finished steel demand. Prices for PNS were last heard at US$372-$374/ton CFR Chattogram, with these cargoes arriving in containers from various shippers in Malaysia and Singapore. Australian shredded scrap was reported slightly lower at US$368/ton. Turkey Deep-sea imported scrap prices in Turkey saw a slight softening, slipping to a range of US$350-$352/ton CFR, compared to the previous week's range of US$353-$355/ton. Market activity remained subdued as mills exercised caution amid weak finished steel demand and uncertainty surrounding domestic rebar sales. Sellers maintained their high offers due to tight supply and high freight rates, while buyers largely remained on the sidelines ahead of the Central Bank of Turkey's policy meeting.
 
 ## HMS 1/2 & Tangshan
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 ## Commodities (Week infocus)
 
 Iron ore futures extended their gains for a third straight session on Thursday, supported by expectations of fresh stimulus measures and stronger steel data from China, the world's top consumer. Market sentiment was buoyed by anticipation surrounding China's upcoming five year policy blueprint, set to follow the Communist Party's four day closed door meeting that began Monday. Investors are hopeful Beijing will announce initiatives to bolster growth and revive business confidence amid lingering U.S.-China trade frictions. On the exchanges, the most-traded January iron ore contract on the Dalian Commodity Exchange rose 0.39% to 777 yuan (US$109.08) per ton, while the benchmark November contract on the Singapore Exchange climbed 0.45% to US$104.65 per ton. The gains were underpinned by upbeat steel market data, 1.7% weekly drop in inventories and a 1% rise in output as of October 23, signaling resilient near term demand. However, analysts cautioned that strong supply from major producers could cap further price increases. Fortescue Metals posted a 4.2% rise in first-quarter shipments, and Brazil's Vale reported its highest quarterly output since 2018. Meanwhile, coking coal and coke surged over 5% and 4%, respectively, on supply concerns, while steel futures posted mixed movements across Shanghai's exchanges. Easing trade tensions lifted sentiment across the base metals market this week, with optimism growing ahead of a potential breakthrough in U.S.-China negotiations. President Donald Trump expressed confidence that his upcoming meeting with Chinese President Xi Jinping would result in a "good deal," while U.S. Treasury Secretary Scott Bessent is set to meet with Chinese counterparts to discuss steps toward de-escalation. Zinc led the rally, rising for a third consecutive session as London Metal Exchange (LME) inventories continued to plunge, leaving buyers exposed to one of the tightest squeezes in decades. Stockpiles have been falling steadily as smelters curb output, driving spot prices to trade about USD 323 per ton above the three-month contract - the widest premium since at least 1997. LME inventories have now dropped to just 24,425 tons, enough to meet less than a day's worth of global demand in the 14-million-ton market. Copper also found support amid renewed supply concerns following reports of a partial mine collapse in the Dominican Republic that trapped roughly 80 miners. The incident
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

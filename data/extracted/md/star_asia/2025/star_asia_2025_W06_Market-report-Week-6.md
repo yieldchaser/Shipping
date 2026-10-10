@@ -22,8 +22,6 @@ pages: 19
 
 The global shipping markets are navigating increasingly complex waters this week as President Trump's recent tariff measures against China signal a potential shift in trade dynamics. This development has particular significance for maritime, as the first concrete evidence of trade policy implementation rather than mere rhetoric has emerged, forcing market participants to reassess their positions across various segments. The impact is especially notable in consumer goods transportation, where the current environment differs markedly from the 2018-2019 period, with increased willingness among shippers to pass costs through the supply chain. Trade tensions are creating ripple effects across shipping sectors, with pressure points emerging in key trade routes. In Asia, where China continues to experience deflationary pressures, the potential for additional stimulus measures could affect demand patterns. Meanwhile, other Asian markets such as South Korea, Indonesia, and Japan are seeing varying degrees of inflationary pressure, which could influence regional trade flows and vessel deployment strategies. While container segment faces immediate challenges from consumer goods tariffs, bulk carriers are monitoring potential changes in commodity trade flows, particularly as China may adjust its import strategies. The tanker segment remains particularly sensitive to these developments, as changes in trade patterns could significantly impact ton-mile demand. Market participants are closely watching how potential retaliatory measures might affect established trading routes and vessel deployment strategies. Looking ahead, market participants are grappling with the extent and timing of US tariffs, potential retaliatory measures, and their combined impact on global trade flows. The European Central Bank's recent warnings about trade friction muddying the inflation outlook, coupled with unexpected acceleration in Euro-area inflation, suggest that shipping costs and rates could face upward pressure. However, China's continued deflationary environment, particularly in its export sector, may provide some counterbalance to these pressures.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ Activity in the Pacific market has cooled as market participants wrap up their s
 Panamax/Kamsarmax:
 
 The Atlantic market maintains its optimistic outlook, buoyed by increasing volumes of North American coal shipments. In the Pacific, the market continues to strengthen, primarily driven by robust East Australian coal to India. This positive momentum is further reinforced by spillover sentiment from the Atlantic basin, which has helped boost regional shipowners' confidence and sustain the overall outlook.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ Continent and Mediterranean regions showing encouraging signs as rates edged upw
 | HANDY | 38,000 | 29 | 33 | 27 | 20 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -80,8 +74,6 @@ Continent and Mediterranean regions showing encouraging signs as rates edged upw
 | ISA | HANDY | 34,939 | 1999 | JAPAN | 4.1 | UNDISCLOSED |
 | ES KURE | HANDY | 33,126 | 2012 | JAPAN | 12.5 | VIETNAMESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -95,8 +87,6 @@ Despite the lull in the charter market during the Lunar New Year holidays, freig
 Suezmax:
 
 The West African market improved at closing despite a stagnant demand at the start of the week as demand revived across the West of Suez region, particularly in the Atlantic market. 130,000mt Nigeria/UKC improve to WS94, while Guyana/UKC route gained 10 points to WS88.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -116,8 +106,6 @@ up after the holiday period, reflecting the typical seasonal market dynamics of 
 
 ## Baltic Exchange Tanker Indices
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -134,8 +122,6 @@ up after the holiday period, reflecting the typical seasonal market dynamics of 
 | PS AGUSTA | MR | 51,063 | 2011 | S. KOREA | 25.5 | MIDDLE EASTERN BUYERS |
 | BOW OCEANIC | PROD / CHEM | 17,460 | 1997 | NORWAY | 6.5 (SS) | CHINESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -151,29 +137,16 @@ SCFI has dipped below 1900 points for the first time since early 2024, with the 
 | 2,700 - 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
 | 5,100 *(amount in USD million) | Gearless | 81 | 77 S&P Containers Report | 66 | 35 | 32 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 450 ~ 460 430 ~ 440 440 ~ 450 460 ~ 470 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | WEAK / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 300 ~ 310 290 ~ 300 330 ~ 340 STABLE /
-
-*Ship, the prices are about USD 20-30/tonon less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 450 ~ 460 | 430 ~ 440 | 440 ~ 450 | 460 ~ 470 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | WEAK / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/tonon less | 320 ~ 330 | 300 ~ 310 | 290 ~ 300 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -190,8 +163,6 @@ TURKEY
 | GADDANI, PAKISTAN | 360 | 410 | 610 | 560 | 530 |
 | ALIAGA, TURKEY | 230 | 240 | 360 | 320 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -205,19 +176,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
 Insights Alang
 
 India's ship recycling sector traverses through choppy waters, with market dynamics significantly impacted by a confluence of domestic and international pressures. The persistence of Chinese steel imports continues to squeeze local recyclers' margins, while steel plate prices have broadly stabilised along with ship scrap prices. Despite these challenges, the recently announced Union Budget 2025-26 has introduced some promising initiatives for the maritime sector, including a substantial Rs.25,000 crore (approximately USD2.85 billion) Maritime Development Fund aimed at bolstering shipbuilding capabilities. The extension of customs duty exemptions on shipbuilding and ship recycling materials for another decade provides a silver lining for the industry, though the absence of anticipated measures to curb cheap steel imports has left recyclers vulnerable to continued price pressures. The government's broader infrastructure push, with significant allocations for railways, highways, and ports, could potentially stimulate domestic steel demand and indirectly benefit the recycling sector.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -239,15 +204,11 @@ Chattogram
 
 In a recent tapestry of maritime developments, Bangladesh's ship recycling yards have been granted a lifeline with the SRPF compliance deadline by the local environmental authorities, sailing forward to March 31st, 2025. While this extension provides necessary breathing room for yards to upgrade their facilities, the industry remains anchored by political turbulence that has not only halted infrastructure projects but cast a long shadow over vessel supply. On the other hand, approximately 17 ship recycling yards are currently in the process of obtaining Hong Kong Convention certification and undergoing implementation and audits as the June 25, 2025 deadline looms. This week the ship recycling markets have seen a significant influx of ships arriving at the shores of Chattogram and the fears of short supply have eased. Demand remains intact prior to Ramadan.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 Gadani
 
 Pakistani market faces a critical juncture as market stagnation persists, with recyclers anticipating vessel availability to surge between March and April, potentially driving prices below the US$400 threshold. The ramifications for Pakistan's ship recycling industry are particularly severe, as Gadani's shores now present a stark contrast. While recyclers' offers remain relatively uncompetitive with their Indian counterparts, the sector faces existential challenges beyond mere pricing dynamics. The impending HKC implementation in July 2025 poses a significant threat, as recyclers have yet to initiate crucial infrastructure upgrades or regulatory compliance measures, unlike their Bangladeshi competitors who are actively seeking extensions. No sales reported for the past few months.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -282,8 +243,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 279.03 | 278.81 | -0.08% |
 | USD / TRY (TURKEY) | 35.96 | 35.69 | -0.76% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -304,8 +263,6 @@ Pakistan's imported scrap market remained sluggish due to weak demand from the c
 
 Bangladesh's imported scrap market remained muted as falling rebar prices and weak construction demand kept mills cautious. Major Chattogram mills reduced rebar rates by
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 BDT 2,000 to BDT 86,000-88,000/ton, while Dhaka mills were seen offering at BDT 82,000- 84,000/ton. Although some restocking activity ahead of Ramadan may provide temporary support, overall market sentiment remains uncertain.
@@ -319,8 +276,6 @@ The Turkish scrap market remained rangebound but saw deals closing slightly high
 ## Commodities
 
 The global metals market experienced notable volatility as President Trump's announcement of substantial tariffs on China (10%) and North American neighbours Canada and Mexico (25%) sent ripples through the industry. While the initial market reaction saw aluminum plunging more than 1 .6% on the London Metal Exchange, prices rebounded as U.S. trading commenced, with copper following a similar trajectory. This market recalibration was further influenced by Mexican President Claudia Sheinbaum's announcement of a one-month delay in U.S. tariffs against Mexico, coupled with a
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -339,8 +294,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 107 | +1.90% | -15.07% | 105 | 126 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 108 | +0.93% | -15.62% | 107 | 128 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

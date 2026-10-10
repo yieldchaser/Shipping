@@ -26,8 +26,6 @@ The European Central Bank is facing uncertainty about its future rate decisions 
 
 The Baltic Exchange index experienced a continuation of losses during Tuesday's session, reaching a new 2 and a half year low due to a decrease in the rates of Capes and Panamax vessels. The BDI fell by 19 points, about 2.6%, to 721, its lowest since June 2020. The capesize index saw a loss of 50 points, reaching 685, its lowest point since September 2022. The average daily earnings for Capes' vessels saw discounts from US$410 to US$5,684. The Panamax index likewise fell by 13 points, reaching 1,035, also a more than 2-year low. On the other hand, among the smaller vessels, Supramax broke its more than month-long losing streak, increasing by four points to 649.
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 ### Capesize:
@@ -45,8 +43,6 @@ Flat rates have been observed across all basins, and there is a negative sentime
 ### Handysize:
 
 In the Atlantic, a negative sentiment persisted as the inflow of new demand on major hub routes remained sluggish. Despite this, positive charterers actively participating in spot vessel contracts were able to achieve a stable trend, as exemplified by the Taepyeong. Average rates hovered around US$7,250 /day. In the Pacific, levels fell to around US$6,600 a day.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -91,15 +87,11 @@ BALTIC EXCHANGE DRY BULK INDICES
 | 52,000 | 13,750 | 13,750 | 22,250 | 0 | -38.20% |
 | 32,000 | 9,750 | 9,750 | 18,500 | 0 | -47.30% |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
 
 ## Tankers
 
 Iran's oil shipments have increased significantly, offering relief to both the country and the world market, both of which had been anxious about the potential impact of sanctions on Russian supply. A substantial amount of these shipments is destined for China. According to figures from Vortexa and Kpler, Iran's oil exports hit roughly 1,300,000 BPD in November and remained close to the highest level in four years in December. This surge in exports occurs at a time when sanctions against Russia threaten to restrict oil supply from a key producer. However, the position is complicated for the United States and its allies, who seek low oil prices while also attempting to decrease Iran's exports to halt the country's nuclear program. Despite the failure of nuclear negotiations between Iran and world powers, including the United States, some oil traders assume that the United States is permitting Iran to continue oil exports so long as they assist in keeping oil prices in check. Under the guise of shipments from Malaysia, it appears that the extra barrel of Iranian oil is being shipped to China, the world's largest oil consumer. In December, Beijing's imports from Malaysia reached a record high, according to figures from China's customs office. However, shipments of this magnitude from Malaysia to China are unlikely to be practical. In the first nine months of 2022, the average daily crude output of the Southeast Asian nation was over three times greater than what was reported above. In addition, the flows exceeded those of key OPEC countries of Iraq and the United Arab Emirates.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 5
 
@@ -132,8 +124,6 @@ LR2 saw a lack of activity this week. TC15 route saw discounts, with TC16 hoveri
 | DREGGEN | PROD / CHEM | 19,994 | 2008 | JAPAN | 19.0 (SS) | DINGHENG SHIPPING |
 | GIANCARLO D / NQ ALPINA | PROD / CHEM | 19,800 | 2016 | CHINA | 28.0 EACH (SS) | UNDISCLOSED |
 | ATLANTIK PRIDE | PROD / CHEM | 17,999 | 2010 | TURKEY | 15.0 | BLYSTAD A. |
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -168,8 +158,6 @@ LR2 saw a lack of activity this week. TC15 route saw discounts, with TC16 hoveri
 | LR1 | 74,000 | 35,500 | 35,500 | 14,000 | 0 | +153.57% |
 | MR | 47,000 | 27,000 | 27,000 | 12,500 | 0 | +116.00% |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 7
 
 ## Containers
@@ -191,30 +179,21 @@ This week saw a fair amount of activity, with some operators choosing to wait un
 | 5,500 - 7,000 | Gearless |  | 87 | 85 | 70 | 45 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |  |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 8
 
 ## Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 550 ~ 560 | 530 ~ 540 | 550 ~ 560 | 580 ~ 590 | STABLE / |
+| CHATTOGRAM, BANGLADESH | \*520 ~ 530 | \*510 ~ 520 | \*500 ~ 510 | \*550 ~ 560 | STABLE / |
+| GADDANI, PAKISTAN | N/A | N/A | N/A | N/A | NA / N/A |
+| TURKEY \*For Non-EU ships. For EU Ship, the prices are about USUS$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-CHATTOGRAM,
-
-BANGLADESH \*520 ~ 530 \*510 ~ 520 \*500 ~ 510 \*550 ~ 560 STABLE /
-
-GADDANI, PAKISTAN N/A N/A N/A N/A NA / N/A
-
-TURKEY
-
-\*For Non-EU ships. For EU 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening.
 
 ### 5-Year Ship Recycling Average Historical Prices
 
@@ -227,8 +206,6 @@ CHATTOGRAM, BANGLADESH 430 430 390 450 600
 GADDANI, PAKISTAN 410 420 380 440 590
 ALIAGA, TURKEY 290 250 240 265 340
 ```
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 9
 
@@ -243,8 +220,6 @@ ALIAGA, TURKEY 290 250 240 265 340
 
 ## Recycling Ships Price Trend
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 10
 
 ## Insight
@@ -254,8 +229,6 @@ The ship recycling markets remained one-sided, with India the only leading buyer
 **ALANG, INDIA.**
 
 This week the domestic ship scrap prices took a breather after rallying for one month due to a shortage of scrap and stable demand. It was a relatively busy month for the Alang recyclers, with ships making their way to the yards. Recyclers were expecting far more ships in the backdrop of weakening container freight and dry bulk rates. Yet, a total of 116,200 mt of light displacement tonnage was sold just in January 2023 as compared to only 61,392 mt in January 2022. Indian mills continue to refrain from offering hot rolled coil (HRC) for export, as most exporters anticipate the global market to increase further after the Chinese New Year holidays. Market participants believe the market may take any direction after China resumes business after the holidays. If surging Covid cases lead to lockdowns, global sentiment is likely to decrease as Chinese mills will try to maximize exports, reversing the uptrend. For the Indian steel industry, next week shall be an interesting week when the Indian union budget is announced. The steel industry expects a pro-industry budget which shall boost the domestic steel sentiments along with prices.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 11
 
@@ -290,8 +263,6 @@ The domestic ship scrap prices continued their exponential increase on the backd
 
 Bangladesh was 3rd largest importer of ferrous scrap in 2022, and with the sudden slowing down by the banks to open Letters of credit, the volumes dropped by 24%. As we advance, the inventories have depleted, and the demand for the feedstock has increased despite the mills working at 30~40% capacity. Once the banks ease the opening of LC's, the markets may see a bounce back in prices of ferrous scrap, including ship scrap prices.
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 12
 
 ### Anchorage & Beaching Position (January 2023)
@@ -325,8 +296,6 @@ The country's foreign exchange reserves have depleted to a critical level, falli
 
 The next few months will be critical for Pakistan as a substantial amount of remittances are expected to flow into the country through formal channels, which may help to stabilize the country's foreign exchange reserves and the value of the PKR. However, the government's "complex" policies may be contributing to the devaluation of the rupee, and there may be challenges in stabilizing the economy and protecting the poor. Additionally, there is a need to
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 13
 
 complete the ninth review of a US$7bn IMF program in order to unlock inflows from friendly countries and other multilateral lenders. Ship buying has come to a complete halt now, and market experts believe that the situation will take longer than expected to resume. Pakistan-based re-rollers have also hiked their cold rolled and galvanized coil offers due to a lack of raw materials and delays in opening letters of credit for imports caused by a dollar shortage. Mills have raised their cold rolled coils (CRC) quotes by PKR 10,000/ton (US$43.19), effective on January 25.
@@ -344,8 +313,6 @@ complete the ninth review of a US$7bn IMF program in order to unlock inflows fro
 ### ALIAGA, TURKEY
 
 Turkey has decided to raise import duties on certain flat products. Import duty on non-alloy HRC climbed from 9% to 15%, while the duty on alloyed HRC went from 6% to 13%. Ship recycling prices improved as the demand improved along with imported ferrous scrap prices stabilises at USD415~420/ton levels from the U.S. and EU. Turkey, the market leader of global imported scrap, was sighted booking fresh orders throughout this week in the backdrop of energy price reduction likely to take place in the month of February, bringing lost confidence back amongst the Turkish mills. Not much activity in ship recycling was reported this week, but for the ship recyclers, an interesting fact is the pressure builds up on the freight rates in the dry bulk and container segment, a large influx of end-of-life ships that cannot be sold to the Indian Sub-continent are expected to hit Aliaga yards in the coming months.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 14
 

@@ -26,8 +26,6 @@ Singapore, the leading bunkering hub in the world, is preparing the infrastructu
 
 Iron ore prices, which recently rebounded after dropping by more than 50% in the second half of 2022, are expected to fall over the next 5 years due to slower demand growth and increased supply. Higher iron ore prices in the last few months are a result of a partial recovery in Chinese steel production, as China reopened following the end of the zero-Covid policy. Although Analysts have revised its iron ore price forecast for 2023 from US$110 to US$125 a tonne, it expects prices to fall to US$50 a tonne by 2032. While mainland China's recovery from structural headwinds is expected to support iron ore prices in the short term, global demand for
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 iron ore is expected to decrease as China's total steel production declines by a small amount each year. At the same time, global supply is expected to grow by 3.1% annually until 2028, with new supply coming online in Australia, Brazil, and Africa.
@@ -47,8 +45,6 @@ The decrease in demand for T/A vessels in the Atlantic and the slow volume of th
 #### Handysize:
 
 The USG market is generally quiet but has seen a slight decline due to falling supply and demand in the Mediterranean and South America. T/A levels fell to US$ 9,000's region a day. In the Pacific, despite the continuous inflow of Indonesian coal, oversupply in NE Asia is being transferred to SE Asia, with the implementation of a lock tax impairing the situation. Inter-Pacific levels fell to US$ 7,700's region on Thursday closing.
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -95,11 +91,7 @@ BALTIC EXCHANGE DRY BULK INDICES
 | BSI | 1,161 | 1,198 | 2,502 | -3.09% | -53.24% |
 | BHSI | 653 | 687 | 1,544 | -4.95% | -57.71% |
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 5
 
@@ -118,8 +110,6 @@ Although there has been limited cargo inflow between WAFR and Europe, emergency 
 #### Aframax:
 
 The Middle East/Singapore shipping route has experienced a slight improvement in market conditions due to a lack of available ships in East Suez and new cargo inflow in Southeast Asia. However, the weakening Mediterranean market has limited further growth due to a decline in exports to northern Iraq.
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -160,8 +150,6 @@ Updates relating to the product tanker were notably more favorable when compared
 
 *\*(amount in USD million)*
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 7
 
 ## Baltic Exchange Tanker Indices
@@ -169,8 +157,6 @@ Updates relating to the product tanker were notably more favorable when compared
 ## Containers
 
 Optimistic demand forecasts and the anticipation of a better peak season are fueling a containership charter market rally. According to a recent survey by Container xChange, 48% of supply chain participants believe this year's peak season will be better than last year's, leading to a subdued rebound in demand. Container lines have returned to the charter market to increase their capacity, and activity in the market has remained high, with strong demand across the board. MSC and CMA CGM dominate the market, snapping up any available tonnage and buying second-hand container ships. As a result, daily hire rates are on the rise for all sizes, with owners demanding a minimum 12-month charter period as well as positioning compensation.
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 8
 
@@ -189,30 +175,21 @@ Optimistic demand forecasts and the anticipation of a better peak season are fue
 | 5,500 - 7,000 | Gearless |  | 87 | 80 | 65 | 40 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |  |
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
 | DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
 |---|---|---|---|---|---|
-| ALANG (WC INDIA) |  |  | CARGO |  | TREND |
 | *For green ship recycling, the prices are about | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 570 ~ 580 | WEAK / |
+| CHATTOGRAM, BANGLADESH | \*580 ~ 590 | \*560 ~ 570 | \*530 ~ 540 | \*600 ~ 610 | WEAK / |
+| GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
+| TURKEY \*For Non-EU ships. For EU Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-US$25-30/ton lower.
-
-CHATTOGRAM, \*580 ~ 590 \*560 ~ 570 \*530 ~ 540 \*600 ~ 610 WEAK / BANGLADESH
-
-GADDANI, PAKISTAN NA NA NA NA NA
-
-TURKEY
-
-\*For Non-EU ships. For EU 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-Ship, the prices are about US$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 #### 5-Year Ship Recycling Average Historical Prices
 
@@ -225,8 +202,6 @@ CHATTOGRAM, BANGLADESH 460 445 350 480 670
 GADDANI, PAKISTAN 420 420 340 470 640
 ALIAGA, TURKEY 290 280 210 255 460
 ```
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 10
 
@@ -241,8 +216,6 @@ ALIAGA, TURKEY 290 280 210 255 460
 
 ## Recycling Ships Price Trend
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 11
 
 ## Insight
@@ -252,8 +225,6 @@ After an excellent start to 1st quarter of 2023 with prices quickly surpassing U
 **ALANG, INDIA.**
 
 This week saw some marginal improvements in the domestic ship scrap prices, but overall demand from the secondary mills for the ship scrap was lagging. Besides the waiting game for the recyclers, to avail their share of ships, next week shall bring in hopes and it will be interesting to watch the price levels for the Alang. A vast number of ship recyclers will be keen to grab the 2 Evergreen container ships, Ever Uinific and Ever Uberty. These are reasonably larger-sized ships, 23,943 long tons each and will set a yardstick for container ships of such a size. It's been ages since Alang has seen such a container ship. For Indian steel producers, the European markets came in as respite with fresh orders for the hot rolled coils motivating the steel mills to hike their prices. India's steel exports slumped to a five year low in the financial year ending March 31, 2023 due to slow global demand and export tax, which was earlier implemented, hampering the shipments. India is the world's second-largest producer of crude steel, shipping about 6.7 million tonnes of finished steel in 2022/2023, a significant drop of 50 .2% on the Y-O-Y and is the lowest since 2018/2019 as per the government data compiled by Reuters. Overall the markets were cautiously stable.
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 12
 
@@ -269,8 +240,6 @@ This week saw some marginal improvements in the domestic ship scrap prices, but 
 #### CHATTOGRAM, BANGLADESH
 
 The Bangladesh ship recycling market has been sluggish this week, causing a drop in recycling ship prices by USD 40-50/ ton due to difficulties opening letters of credit for recyclers and slow demand due to the Ramadan fasting month. In a concise time frame, the domestic ship scrap touched the peaks on March 19, 2023, at US$725/ton plates and US$677/ton melting and could resist too long before making a sharp Uturn and dropping by 5.65% to US$684/ton plates and 9.45% to US$613/ton melting. Currently, there is a continuing shortage of foreign exchange in the country, creating significant challenges as many L/Cs await approval from the Central Bank, leading to local delays in boarding and payment. The recent spike in oil prices has created panic to add to the ongoing crisis. The budget in Bangladesh for the fiscal year 2023-24 is likely to be on June 1, owing to polls and the Eid holidays. This year, the importers will carefully monitor the budget as three significant issues will dictate the upcoming union budget. The upcoming fiscal year's budget in Bangladesh will be influenced by three major factors: the International Monetary Fund's conditions, high inflation, and the national election. The Government has identified seven priorities for the budget, including maintaining GDP growth, tackling imported inflation, and expanding the social safety net. The IMF has set a taxrevenue collection target for the first six months of the fiscal year, and the Government plans to achieve a 7.5% GDP growth while keeping inflation below 6%. The budget is not expected to be election-focused, but the Government will showcase its achievements over the past four and a half years to the voters. Industry participants are expecting some significant changes as the Government is facing a huge fiscal deficit and an ailing economy, but at the same time, they will have to keep the business community happy as this is the last term for the ruling Government.
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 13
 
@@ -298,8 +267,6 @@ Additionally, the already precarious economic situation has been exacerbated by 
 #### ALIAGA, TURKEY
 
 Turkish mills are refraining from buying scrap due to weak steel sales and bearish sentiment in the global scrap market. However, mills are now bidding at below US$400/t CFR and are not willing to commit to a large volume of deep-sea scrap due to negative market sentiment. The pressure on scrap prices is increasing as mills continue to halt purchases, and some suppliers may accept a significant drop in price.
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 14
 

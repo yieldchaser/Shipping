@@ -22,8 +22,6 @@ WEEK 29 - July 18, 2025
 
 From a maritime perspective, this tariff volatility has created a whiplash effect on shipping volumes. The Port of Los Angeles, for instance, saw container traffic slump in May only to rebound to a record high in June, a clear reflection of companies reacting to the on-again, off-again nature of the tariffs by adjusting inventory strategies. Despite this disruption, the industry is now preparing for what looks to be the first relatively normal peak season since before the pandemic. Last year's season was distorted by carriers avoiding the Suez Canal and the threat of US port strikes, which drove up shipping rates. This year, with those pressures absent and front-loading largely completed earlier in the year, a dramatic spike in freight rates is not anticipated, bringing a welcome sense of stability for shippers. The critical question now facing the industry is how the cost of these tariffs will ultimately be distributed among manufacturers, distributors, and retailers. Evidence suggests that the burden is being shared, as businesses recognise it is simply impossible to pass the full cost on to the consumer. In response, retailers are adopting new strategies to protect their margins, such as reducing the variety of products they offer to focus on the most profitable items. Looking ahead, the uncertainty surrounding the August tariff deadlines remains. However, due to the inherent timelines of global shipping and retail, any significant consequences from a breakdown in negotiations will likely be delayed. Goods for the back-to-school and holiday seasons are already in warehouses or enroute across the ocean. The supply chain will then enter its traditional quiet period after the new year, through the Chinese New Year factory shutdowns in February. This logistics cycle provides a substantial buffer, meaning the full impact of any further tariff escalations decided upon in the coming weeks would likely not be felt by consumers until March of next year at the earliest.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ The positive outlook continues in the Pacific basin, supported by decreasing ves
 Panamax/Kamsarmax:
 
 In the Atlantic, the market remains bearish. While a shortage of available vessels and new coal cargo inquiries in the North provided some support, this is being offset by a broader slowdown in demand for grains. T/A ended slightly lower at US$17,000's levels. The Pacific on the other hand was a mixed basket as charterers waited due to a wide gap between offers and bids. In the South however, rates are finding support from a tighter supply of vessels. Supramax/Ultramax: Like Panamax, Supras in the Atlantic headed similar wait-and-see approach. Optimism is spreading, fueled by rumors of incoming cargo for August. The Pacific continues to experience a modest gain as demand for B/H from NOPAC remains the primary driver. B/H rates ended the week at US$11,050's a day.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -62,8 +58,6 @@ The Handy segment fared well in general, with rates in both the Atlantic and Pac
 | HANDY | 38,000 | 30 | 33 | 25 | 17 | 14 |
 | *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -83,8 +77,6 @@ The Handy segment fared well in general, with rates in both the Atlantic and Pac
 | GUO DIAN 36 | SMAX | 51,215 | 2002 | CHINA | 5.9 | UNDISCLOSED |
 | WOOYANG QUEEN | HANDY | 37,218 | 2011 | JAPAN | 13.0 | VIETNAMESE BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -94,8 +86,6 @@ On Friday, in a significant development, European Union member states approved a
 VLCC:
 
 In the Middle East market, rates saw a modest recovery, driven by an uptick in cargo volumes for late-July loading. 270,000mt MEG/ China ended the week at WS53. In the Atlantic, 260,000mt WAFR/China in the lows WS50. With a sufficient supply of available vessels, charterers are maintaining a cautious approach.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -113,8 +103,6 @@ LR: In the MEG, the LR2s recovered this week with TC1 improving 13 points to WS1
 
 # Baltic Exchange Tanker Indices
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 # Tankers S&P Report
@@ -127,8 +115,6 @@ LR: In the MEG, the LR2s recovered this week with TC1 improving 13 points to WS1
 | HESPERIA TIDE | AFRA | 115,000 | 2025 | CHINA | 71.0 | GREEK BUYERS (RESALE) |
 | HARRIS | MR | 40,960 | 2009 | S. KOREA | 17.2 | NIGERIAN BUYERS |
 | PRELUDE | MR | 39,988 | 2007 | JAPAN | 14.0 | UNDISCLOSED |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -146,8 +132,6 @@ The global shipping market is navigating significant volatility driven by US tar
 | 5,100 ~ 5,300 | Gearless | 59 | 82 | 66 | - | 41 |
 | *(amount in USD | million) | \|=Ecounits |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # S&P Containers Report
@@ -158,25 +142,16 @@ The global shipping market is navigating significant volatility driven by US tar
 | KAWA NINGBO | SUB PMAX | 2,496 | 2002 | JAPAN | 20.5 | UNDISCLOSED |
 | VEGA ALPHA | FEEDER | 917 | 2005 | UKRAINE | 8.0 | MIDDLE EASTERN BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 410 ~ 420 390 ~ 400 380 ~ 3900 420 ~ 430 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 400 ~ 410 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 ~ 430 | 390 ~ 400 | 420 ~ 430 | STABLE / |
-
-TURKEY
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 410 ~ 420 | 390 ~ 400 | 380 ~ 3900 | 420 ~ 430 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 400 ~ 410 | 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 390 ~ 400 | 420 ~ 430 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -193,8 +168,6 @@ TURKEY
 | GADDANI, PAKISTAN | 330 | 580 | 580 | - | 510 |
 | ALIAGA, TURKEY | 170 | 300 | 300 | 300 | 340 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -205,19 +178,13 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 Despite regional competitors facing various challenges, India's ship recycling industry asserted its direction. The yards at Alang saw activities with volume of tonnage that solidified their status as the destination for end-of-life vessels. The key to India's appeal lies in the number of HKC-compliant yards, which offer a level of regulatory certainty that many shipowners now prioritise over the higher, precarious price offerings from neighbouring markets. Looking at the domestic landscape, a picture of quiet optimism emerges for Indian recyclers. While the broader construction steel market is experiencing a seasonal lull due to the monsoon, the more direct driver for the recycling industry, local steel plate prices, has shown encouraging firmness this week. This provides a crucial layer of support for vessel acquisition prices at a time when global sentiment is more cautious.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -244,8 +211,6 @@ Anchorage & Beaching Position (JULY 2025)
 | ANG MIN | BULKER | 11,243 | 23.06.2025 | 02.07.2025 |
 | NASO | BULKER | 23,292 | 27.06.2025 | 01.07.2025 |
 | ABRAHIM M | BULKER | 8,997 | 26.06.2025 | 01.07.2025 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -274,15 +239,11 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 510 | 437 | 710 |
 | HOUSTON | 500 | 458 | 712 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
 
 Ferrous scrap markets were largely subdued this week, with a common theme of cautious buying and firm seller offers creating a quiet trading environment across key regions. Here is a breakdown of the market activity by country. India: Activity in the Indian import market remained muted as buyers continued to hold low positions. A clear standoff was evident in the heavy melting scrap (HMS) segment, where bids remained capped around US$330/t CFR for most origins-a level that suppliers found largely unworkable. A similar dynamic was observed for shredded scrap, with offers at approximately US$370/ton CFR failing to attract major deals, as buyers targeted lower prices around the US$360/ton mark. Looking ahead, aggressive restocking from neighbouring Pakistan could force Indian importers to raise their bids to remain competitive, particularly for material sourced from the EU or UK. Bangladesh: The imported scrap market in Bangladesh was also quiet, with only moderate interest shown for bulk cargoes. Buyer sentiment remained cautious due to subdued domestic steel demand, making them highly price sensitive. US-origin HMS was offered at US$360/ton CFR, but buyers are now targeting a lower range of US$345- 350/ton, which is difficult for most suppliers to meet. Offers for Australian bulk cargoes were heard in a similar range, aligning with Indian market levels, while Japanese H2 bulk was considered workable at a slightly lower US$336-340/ton depending on the urgency. Pakistan: Pakistan's import market showed little momentum this week, with mills adopting a highly cautious approach despite rising offer levels from suppliers. Shredded scrap from Europe was quoted at around US$385/ton CFR Qasim, but domestic buyers were largely inactive. This hesitancy is being driven by a combination of soft local demand for finished rebar and persistent currency instability. With little appetite for restocking at present, suppliers may struggle to conclude new deals unless stronger positive cues emerge from the domestic steel market.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -293,8 +254,6 @@ Turkey: In Turkey, imported ferrous scrap prices held steady this week. Overall 
 # Commodities (Week infocus)
 
 Iron ore futures continued their upward trend this week, closing higher for a second consecutive session yesterday amid a compelling mix of market forces. The rally, which saw the benchmark August contract on the Singapore Exchange climb to US$100.8 a ton, is being fueled by robust steel demand coinciding with planned production curbs in China's top steelmaking regions. This positive momentum was also evident on the Dalian Commodity Exchange, where the most-traded September contract posted a significant gain of 1.81%. This strength comes at an interesting time, with increased demand for steel products appearing even during the traditional off-season. Commodities analysts note that China's steel production has rebounded, driven by strong manufacturing activity and healthy export levels. This demand is currently being met with a tightening supply picture; shipments from key suppliers Australia and Brazil have recently fallen after a period of high output. Highlighting this, Rio Tinto reported its strongest second-quarter
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

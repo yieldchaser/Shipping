@@ -204,14 +204,9 @@ The container market sustained its upward momentum as upward pressure was led pr
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE /         
-
-CHATTOGRAM |
-
-| GADDANI, PAKISTAN | $520-530 | $510-520 | $490-500 | $540-550 | STABLE /            
-
-ALIAGA |
-
+| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE / |
+| CHATTOGRAM, BANGLADESH | $490-500 | $460-470 | $450-460 | $500-510 | STABLE / |
+| GADDANI, PAKISTAN | $520-530 | $510-520 | $490-500 | $540-550 | STABLE / |
 | ALIAGA, TURKEY | $290-300 | $280-290 | $270-280 | $300-310 | STABLE / |
 
 ### Demolition - Reported Sales

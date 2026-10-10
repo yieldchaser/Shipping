@@ -22,8 +22,6 @@ pages: 18
 
 This week, leaders in the global maritime and financial sectors are steering challenges to institutional integrity, highlighting two different approaches to governance. In the shipping world, a collaborative effort is underway to strengthen international standards, exemplified by a key visit from the head of the IMO to Panama. In sharp contrast, the United States' financial system is facing internal conflict, as political pressure mounts against the long-held independence of its central bank, the Federal Reserve, creating significant uncertainty for the global economy. In a move to reinforce global maritime best practices, IMO Secretary-General Arsenio Dominguez visited his home country of Panama, which operates the world's secondlargest ship registry. The visit centred on one of industry's most pressing concerns: the rise of the "shadow fleet" of vessels that evade international sanctions by frequently changing flags, often to obscure registries. Mr. Dominguez clarified that while the IMO cannot dictate how sovereign nations flag their ships, it is committed to improving and enforcing best practices to ensure compliance with international law. Meanwhile, a different dynamic is unfolding in Washington, where the Federal Reserve's independence is under a historic assault. President Trump's attempt to remove Fed Governor Lisa Cook marks an escalation in his campaign to exert political control over US monetary policy. For decades, the consensus among economists and world leaders has been that an independent central bank, free from political influence, is essential for maintaining low inflation, steady economic growth, and global trust in the US dollar. Experts warn that challenging this foundational principle could have severe long-term consequences, potentially undermining the dollar's dominance and increasing borrowing costs for the US. Despite this, financial markets have remained remarkably calm in the face of the political turmoil. US stocks have extended gains, and the dollar has held firm, a reaction many analysts describe as complacent. This muted response may stem from a belief that the institution will withstand the pressure through legal challenges or that a significant market backlash could cause the administration to change course.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -42,8 +40,6 @@ Handysize:
 
 The Handy market saw a mixed week, with activity in the Pacific recording a slight decline as availability of vessel pushed rates down. Inter Pacific recorded levels at US$11,150's. In the Atlantic, end August demand picked up with increase demand bolstering current rates. T/A closed at US$12,700's.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 3
 
 ## Baltic Exchange Dry Bulk Indices
@@ -61,8 +57,6 @@ The Handy market saw a mixed week, with activity in the Pacific recording a slig
 | ULTRAMAX | 64,000 | 34 | 38 | 31 (E) | 23 | 15 (56K) |
 | HANDY | 38,000 | 30 | 33 | 25 | 17 | 14 |
 | *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -86,8 +80,6 @@ The Handy market saw a mixed week, with activity in the Pacific recording a slig
 | ENDEAVOUR | SMAX | 53,496 | 2008 | VIETNAM | 9.0 | UNDISCLOSED |
 | ADRIENNE | HANDY | 34,845 | 2020 | JAPAN | 23.0 | GREEK BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -101,8 +93,6 @@ MEG market, continued this week with an uptick in activity, driven by activity i
 Suezmax:
 
 In the West African market, a continuous flow of new cargo for early September has absorbed available vessels, concluding the week on a firm note. Nigeria/UKC trip ease slightly from previous day, at WS107. In the MEG, 140,000mt to Med region ended the week slightly over WS100 mark with a chance of further increase in coming week for early to mid-September cargo.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -137,8 +127,6 @@ CHANGE +17.99% -1.60%
 | MR | 51,000 |  | 49 | 50 | 41 (E) | 30 | (E) | 21 |
 | *(amount inUSD | million) | \ | (E)-ecounits |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -152,8 +140,6 @@ CHANGE +17.99% -1.60%
 | SAN JULIAN | LR1 | 69,554 | 2009 | S. KOREA | 8.0 | NIGERIAN BUYERS |
 | STI MAESTRO | MR | 47,499 | 2020 | VIETNAM | 42.0 | VENERGY MARITIME LTD |
 | FOIS NAUTICA TEMBIKAI | MR | 47,172 | 1996 | JAPAN | 10.5 | MTC ENGINEERING SDN BHD |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -179,29 +165,18 @@ The container market saw another poor week as a massive oversupply of vessels cr
 | PFL MATAI | FEEDER | 1,730 | 2001 | POLAND | 10.5 | UNDISCLOSED |  |
 | SCO SHANGHAI | FEEDER | 707 | 2017 | VIETNAM | 7.0 | UNDISCLOSED |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 430 ~ 440 420 ~ 430 410 ~ 420 440 ~ 450 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 400 ~ 410 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
-
-TURKEY
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 400 ~ 410 | 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -218,8 +193,6 @@ TURKEY
 | GADDANI, PAKISTAN | 360 | 590 | 550 | 500 | 510 |
 | ALIAGA, TURKEY | 200 | 300 | 300 | 310 | 350 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -232,19 +205,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 In the Indian ship recycling market, the prevailing mood among buyers has shifted from aggressive buying to a more considered and stable purchasing strategy. This shift is closely tied to the domestic steel market, currently experiencing a pause. The combination of monsoon weather, which has disrupted construction projects across several states, and a slowdown due to the upcoming festival season has dampened the demand for finished steel products. While prices are holding steady due to firm raw materials, lack of immediate end user demand has led to caution. Market participants remain optimistic, anticipating a seasonal resurgence once the monsoon recedes in mid-to-late September, which should in turn support a more active market.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -274,8 +241,6 @@ Anchorage & Beaching Position (AUGUST 2025)
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Gadani
@@ -292,15 +257,11 @@ Chattogram, Bangladesh : 7 ~ 10 September | 20 ~ 23 September Alang, India : 5 ~
 
 ---
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
 
 India The Indian imported scrap market continues to be weighed down by declining domestic finished steel prices, which has dampened sentiment and pushed most buyers to the sidelines. Steel mills are actively resisting higher scrap offers, with their bids consistently trailing sellers' asking prices. This standoff is evident across various grades, with bids for high-grade HMS scrap hovering around US$340/t against offers of up to US$346/t, and similar price disagreements observed for shredded and bulk cargoes. Bangladesh In Bangladesh, the imported scrap trade was slow as significant disparities between buyer and seller price expectations prevented deals from being finalized. For Australian shredded scrap, for example, offers at US$380/t CFR were met with buying interest closer to US$370/t. A similar gap was noted for PNS grade material, effectively limiting trade and maintaining a slow market pace. Pakistan Pakistan's market remained exceptionally quiet, with trading activity at a minimum. While offers for material such as shredded scrap from the UK were heard in a range of US$378- 384/t, the lack of consistent bids or concluded deals indicates a market that is largely stagnant and awaiting a clear directional shift.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -311,8 +272,6 @@ TURKEY The Turkish deep-sea import market saw prices soften, with premium HMS sc
 ## Commodities (Week infocus)
 
 This week, the iron ore market showed notable resilience, with futures prices posting a weekly gain despite trading within a narrow range. This was largely underpinned by steady demand from China and a supportive trend of falling inventories. The mosttraded January iron ore contract on the Dalian Commodity Exchange finished the week with a 2.3% gain, settling at 787.5 yuan per metric ton. Several key factors are contributing to this firm market tone, primarily centred around policy and production dynamics in China. News that Beijing plans to enforce steel production cuts between 2025 and 2026 to address overcapacity has been a significant driver, with analysts suggesting this will ultimately improve steel mills' profitability and their ability to absorb higher raw material costs. In the shorter term, temporary production restrictions in the key steel hub of Tangshan, implemented to ensure air quality for an upcoming military parade, have also influenced market expectations, with traders anticipating a rebound in demand once these controls are lifted.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

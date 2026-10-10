@@ -30,8 +30,6 @@ pages: 14
 
 Despite global attempts to reduce coal consumption, world demand is projected to reach a record high this year. The International Energy Agency predicts that by 2022, demand will have increased by 1.2% to reach 8 billion tonnes. It was also said that this level of consumption will persist until 2025. The expansion of emerging markets, such as India and China, is offsetting the decline of developed economies. The European Union is also heavily relying on coal this year due to the gas supply disruptions by Russia. However, despite the present energy challenges, Europe remains on target to be coal-free by 2030. It was observed that no nation had altered its plans to eliminate coal entirely.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 ### Capesize:
@@ -64,8 +62,6 @@ Handies in Atlantic basin saw some activity this week in the USG as T/A climb to
 
 to affect the market. Inter pacific fare lower at US$ 7,750's region and r/v trips settling slightly higher at US$ 8,500's.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 3
 
 # Dry Bulk - S&P Report
@@ -92,8 +88,6 @@ to affect the market. Inter pacific fare lower at US$ 7,750's region and r/v tri
 | HANDY | 38,000 | 28 |  | 27 | 23 | 16 | 5 |
 | *(AmountinUSD million) |  |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
 
 # Baltic Exchange Dry Bulk Indices
@@ -117,8 +111,6 @@ DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE % CAPE 180,000 15,25
 |---|---|---|---|---|---|---|
 | SUPRAMAX | 52,000 | 13,500 | 13,000 | 24,250 | +3.85 | -44.33 |
 | HANDYSIZE | 32,000 | 10,250 | 10,500 | 24,500 | -2.38 | -58.16 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 5
 
@@ -166,8 +158,6 @@ The number of available ships in the Atlantic basin has declined, while competit
 
 Due to more vessel availability and restricted cargo inflow in the Middle East, levels saw a decrease. MEG to SGP route saw rates in the region of WS294 falling a few points. It was also quiet in the Med region, but rates remain mostly similar to last.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 6
 
 ### Clean:
@@ -175,8 +165,6 @@ Due to more vessel availability and restricted cargo inflow in the Middle East, 
 The softening M.R. market has resulted in the reduction in L.R. rates in the USG. On average, traffic has fallen by 22% over the three Baltic routes with TC14 currently around WS237. This week, the M.R. market also declined, with rates on the USG-ECSA route slipping to WS300.
 
 # Tankers S&P Report
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 7
 
@@ -206,8 +194,6 @@ UNCTAD, the outlook for international commerce remains bleak. Despite the ambigu
 
 surrounding the global trade picture, negative factors are outweighing positive tendencies.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 8
 
 Many have observed that the market has reached a severe slump. The reduction was linked
@@ -229,32 +215,21 @@ to the growing number of importers who are curtailing their inventory exposure.
 | 5,500 - 7,000 | Gearless |  | 85 | 100 | 90 | 65 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 530 ~ 540 | 520 ~ 530 | 520 ~ 530 | 570 ~ 580 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | \*530 ~ 540 | \*520 ~ 530 | \*500 ~ 510 | \*550 ~ 560 | STABLE / |
+| GADDANI, PAKISTAN | 540 ~ 550 | 530 ~ 540 | 510 ~ 5200 | 570 ~ 580 | IMPROVING / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 250 ~ 260 | 240 ~ 250 | 240 ~ 250 | 280 ~ 290 | STABLE / |
 
-CHATTOGRAM,
-
-BANGLADESH \*530 ~ 540 \*520 ~ 530 \*500 ~ 510 \*550 ~ 560 STABLE /
-
-GADDANI, PAKISTAN 540 ~ 550 530 ~ 540 510 ~ 5200 570 ~ 580 IMPROVING /
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 250 ~ 260 240 ~ 250 240 ~ 250 280 ~ 290 STABLE /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening.
 
 # 5-Year Ship Recycling Average Historical Prices
 
@@ -267,8 +242,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 | GADDANI, PAKISTAN | 410 | 415 | 365 | 400 | 600 |
 | ALIAGA, TURKEY | 210 | 270 | 240 | 245 | 340 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 10
 
 # Ships Sold for Recycling
@@ -280,8 +253,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 | DE XING HAI | 8,015 | 1990 / JAPAN Recycling | BULKER Ships Insight | 380 Price Trend | DELIVERED AS IS FUZHOU, CHINA |
 
 Fears of the global recession took center stage once again after the FED's rate decision and forward hawkish guidance. Markets are awaiting consumer data for the next few months, which looks to be cooling down and gradually shall affect steel prices in the long run.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 11
 
@@ -302,8 +273,6 @@ Markets have settled this week at the prevailing prices, and business went on as
 | MARSHAL NOVIKOV | FISHING TRAWLER | 3,971 | 06.12.2022 | 14.12.2022 |
 | DORA | TANKER | 12,615 | 05.12.2022 | 08.12.2022 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 12
 
 ### CHATTOGRAM, BANGLADESH
@@ -322,8 +291,6 @@ Markets remain muted, with limited activities reported. Domestic ship scrap pric
 ### GADDANI, PAKISTAN
 
 Despite the sluggish market for steel in the country, offers for scrap are on the rise. Pakistani mills have increased their rebar prices as a result of rising scrap prices coupled with the devaluation of the Pakistani rupee and rising finance rates. Nonetheless, steel demand continues to slow down due to poor economic conditions, lack of construction activity, inflation, and political uncertainty. Gaddani recyclers, who have been patiently waiting for a long time, finally managed to grab a few capes from the cash buyers at a whooping US$535 ~ 537/ton levels.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 13
 

@@ -22,8 +22,6 @@ pages: 19
 
 Confusion over Strait of Hormuz! The Strait of Hormuz returned to heightened uncertainty over the weekend, as Iran reimposed restrictions on vessel movements less than 24 hours after declaring the key waterway open during a fragile ceasefire. Tehran attributed the reversal to Washington's failure to meet agreed conditions, stating that transit would now require explicit Iranian approval. Iranian authorities emphasised that control of the strait had reverted to strict military oversight, with the Islamic Revolutionary Guard Corps signalling continued enforcement as long as the U.S. naval blockade on Iranian ports remains in place. The renewed tension quickly translated into operational risk, with reports of a tanker being approached by armed vessels near Omani waters, underscoring the deteriorating security environment. The abrupt policy shift has left shipowners and charterers in limbo. Despite earlier assurances, multiple vessels attempting to transit the corridor were reportedly forced to turn back, highlighting the lack of clarity on navigational protocols. Market reaction was swift, with oil prices retreating sharply amid volatile sentiment, even as the broader supply outlook remains constrained. With roughly one-fifth of global crude flows historically passing through Hormuz, the latest disruption reinforces the strait's central role in global energy security and the fragility of current geopolitical negotiations. This expansion comes at a time when the economic foundation of the Middle East is facing its most significant challenge in decades. With nearly 80% of food and essential goods typically transiting through the Strait of Hormuz now blocked, the region is grappling with soaring inflation and a systemic disruption to its supply chains. Major global investors are beginning to pull back, viewing the area no longer as a guaranteed safe haven for capital but as a high-risk zone with long-term instability. For the shipping industry, this means that even if a ceasefire were to be reached in the near future, the "risk premium" associated with Gulf trade is likely to remain elevated for the foreseeable future, permanently altering the costs of doing business in the region.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Capesize market experienced a significant surge this week as a recovery in C
 Panamax/Kamsarmax:
 
 The Panamax market maintained an upward trajectory this week, with F/H earnings climbing to US$25,450's as Brazil's soybean harvest reached 82.1% and spurred robust export volumes. In the Pacific, rates were bolstered by India's peak summer coal demand and healthy cargo flows from Australia, pushing Pacific r/v averages to US$18,450's. While a surplus of available vessels in some regions remains variable, the overall sentiment remains constructive as a tightening tonnage list and steady mineral demand allow owners to hold their ground firmly.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -71,8 +67,6 @@ Dry Bulk Values
 
 *\*(amount in USD million) | (E) - eco units*
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -92,8 +86,6 @@ Dry Bulk Values
 | COSCO JUNLUNSHAN / JIN WANT LING | HANDY | 31,917 | 2010 | CHINA | 8.2 EACH | UNDISCLOSED |
 | SAFI FORTUNE | HANDY | 28,467 | 2009 | JAPAN | 9.7 | US BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -107,8 +99,6 @@ Despite the brief optimism of a ceasefire, the breakdown of negotiations has rei
 Suezmax:
 
 The Suezmax market is facing significant downward pressure as a lack of meaningful volume on both sides of the Atlantic allows charterers to dominate negotiations. Sentiment has shifted toward a "wait-and-see" approach following the brief easing of
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -146,8 +136,6 @@ Tankers Values
 | AFRAMAX | 115,000 | 77 | 88 | 73 (E) | 63 (E) | 47 |
 | LR1 | 73,000 | 65 | 70 | 60 (E) | 52 (E) | 30 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 | MR | 51,000 | 50 |  | 57 | 46 (E) | 37 (E) 28 |
@@ -161,8 +149,6 @@ Tankers Values
 | EVER VICTORY | LR1 | 70,426 | 2005 | JAPAN | 15.5 | UNDOSCLOSED |
 | JAG PRAKASH | MR | 47,848 | 2007 | S. KOREA | 17.5 | UNDISCLOSED |
 | GOLDEN SPRUCE | SMALL | 18,500 | 2026 | CHINA | 32.2 | SINGAPOREAN BUYERS |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -180,35 +166,20 @@ The container market remains in a period of defensive strength this week as the 
 | 5,100 ~ 5,300 | Gearless | 55 | 79 | 64 | - | 39 |
 | *(amount in USD million) | \| = Eco units |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## S&P Containers Report
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS / WEEKLY
-
-GENERAL CARGO FUTURE TREND
-
-ALANG (WC INDIA) 420 ~ 430 410 ~ 420 400 ~ 410 450 ~ 460 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 480 ~ 490 470 ~ 480 | 440 ~ 450 | 500 ~ 510 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 300 ~ 310 290 ~ 300 270 ~ 280 310 ~ 320 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 420 ~ 430 | 410 ~ 420 | 400 ~ 410 | 450 ~ 460 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 480 ~ 490 | 470 ~ 480 | 440 ~ 450 | 500 ~ 510 | STABLE / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 300 ~ 310 | 290 ~ 300 | 270 ~ 280 | 310 ~ 320 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -225,8 +196,6 @@ TURKEY
 | GADDANI, PAKISTAN | 485 | 670 | 0 | 540 | 440 |
 | ALIAGA, TURKEY | 250 | 470 | 320 | 330 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -237,19 +206,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 Alang experienced a slight increase in demand this week, though local buyers continue to operate under significant pricing constraints. Indian recyclers are finding it difficult to secure new vessels as competing markets in Pakistan and Bangladesh offering higher rates that draw tonnage away from the domestic yards. While local steel plate prices briefly touched INR 41,000 per ton (about US$443/ton), they eventually settled back toward INR 40,600, which translates to a valuation of approximately US$438/ton. This fluctuation was partly driven by ongoing energy challenges, as disruptions in the supply of LPG to Alang's steel mills have only partially improved. Although the United States Dollar gained strength over the past week, the persistent volatility in the exchange rate has added to a sense of market uncertainty and caution among buyers. India currently sits as the most budget-conscious destination in the region, a position shaped more by unfavourable currency dynamics and energy hurdles than a lack of interest or capacity. Despite these headwinds, there is a hopeful outlook
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -273,8 +236,6 @@ Chattogram
 
 Chattogram maintained its position as the regional leader, even as local pricing experienced a minor downward adjustment. Although steel values dipped by approximately BDT 1000, about US$8/ton, the appetite among Bangladeshi buyers remains robust, with a clear and continued focus on securing available vessels. The operational environment has improved significantly as the central bank accelerates the approval of LCs, effectively easing the financial bottlenecks that hindered the industry earlier in the first quarter. However, due to confusion over the war, the overall supply of recyclable ships remains restricted and a heightened focus on regulatory compliance. Specifically, the prolonged presence of two sanctioned tankers at the local anchorage has led to much stricter screening processes by buyers, which continues to slow the entry of certain vessels into the market. Despite these factors, the limited availability of tonnage is expected to keep prices stable and firm as the industry moves deeper into the month of April.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Gadani
@@ -284,8 +245,6 @@ Gadani experienced quiet anticipation this week, as a lack of recent sales made 
 Aliaga, Turkiye
 
 Turkiye maintained a steady and consistent pace, with little movement in overall pricing or market sentiment. In Aliağa, shipbreaking scrap prices have remained stable at approximately US$378/ton, while typical vessel valuations for different categories have held firm, with tankers being quoted around US$270 per LDT. Most recycling yards are operating at their maximum capacity, which has resulted in a very limited interest in making new purchases for the time being. Although the underlying market conditions have not weakened, there is a noticeable absence of buying urgency as yard owners focus on processing their existing inventories.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -324,8 +283,6 @@ The Indian imported scrap market witnessed a subtle softening during this sessio
 
 In Pakistan, the imported scrap market similarly trended toward softer levels amidst limited procurement activity. Deals for UK-origin shredded scrap were reported at
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 US$425/ton CFR Qasim, even as prevailing offers hovered closer to US$430/ton. The emergence of a lower offer at US$418/ton CFR Qasim from a specific shipper served as a clear signal of easing price levels within the region. Sentiment was further dampened by a sharp decline in local finished steel prices, which has effectively eroded the urgency for mills to secure fresh scrap inventory at higher benchmarks.
@@ -340,8 +297,6 @@ The deep-sea imported scrap market in Turkiye remained quiet, with limited deal 
 
 HMS 1/2 & Tangshan
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 ## Commodities (Weekinfocus)
@@ -351,8 +306,6 @@ On Friday, the markets had stabilised amid the US-Iran peace talks and the openi
 ### Iron ore futures recently climbed above CNY 770/ton, reaching a one-week peak
 
 following stronger-than-expected economic growth in China, where the economy expanded by 5% in the first quarter. This upward momentum is mirrored in the steel sector, with rebar futures rising beyond CNY 3,090 per ton due to robust seasonal demand and consistent price hikes from major producers. Optimism is further fuelled by reports that Washington and Tehran are weighing an extension of their current two-week ceasefire, an event that has already eased broader inflation fears and stabilised central bank policy expectations across the market. However, the news of the Strait of Hormuz being closed on Saturday once again puts the commodity markets on the razor's edge.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

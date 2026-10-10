@@ -22,8 +22,6 @@ WEEK 21 - May 25, 2024
 
 China has escalated tensions with Taiwan by launching its most extensive military drills around the island in over a year, just days after Lai Ching-Te assumed the presidency. The drills, which commenced on Thursday, were described as a "strong punishment" for "Taiwan independence" forces and a "stern warning" against external interference, a likely reference to the United States, Taiwan's primary military backer. In response, Taiwan deployed its sea, air, and ground forces, while the Defense Ministry in Taipei condemned Beijing's provocations as undermining regional peace and stability. The ministry's spokesman stated that Taiwan's military was at a normal level of combat readiness. The news of the military drills caused a surge in Chinese defence stocks, with some companies gaining up to 20%. Lai Ching-Te, who took office on Monday, stated in his inaugural address that China should drop its threat of war and that neither side of the strait was subordinate to the other. China has already signalled its displeasure with Lai, accusing him of sending a "dangerous signal of seeking independence" and condemning the US for congratulating him. On the other side of the world, Russian sources claim President Vladimir Putin is ready to negotiate a ceasefire with Ukraine that would freeze the conflict along current battlefield lines. However, he remains committed to fighting if Kyiv and the West reject this proposal. Putin believes the territorial gains so far could be presented as a victory to the Russian people but does not want another nationwide mobilisation due to its potential impact on his popularity. While Ukraine has dismissed negotiations on Putin's terms, the sources suggest he is willing to freeze the conflict even if it falls short of Russia's initial goals of fully controlling the annexed regions. The U.S. and its allies remain committed to supporting Ukraine, but Russia is concerned about the risks of further escalation with the West.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -33,8 +31,6 @@ Despite robust coal demand from Asia, particularly India and China, Cape market 
 Capesize:
 
 While the Pacific region grappled with lacklustre fresh inquiries, even as Singaporean traders resumed operations, the market experienced a further dip in rates. Simultaneously, the Brazilian market continued its bearish trajectory, with a healthy supply of ballasters anticipated for June arrivals, maintaining the downward pressure. While the Pacific and Brazilian markets faced headwinds due to subdued demand and an oversupply of vessels, the North Atlantic region bucked the trend, buoyed by fresh cargo requirements, particularly for Colombian coal shipments. Pacific r/v fell to US$ 20,900 a day, while T/A saw levels close to around US$ 22,500 a day.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -57,8 +53,6 @@ Handysize cargo availability saw improvements across the Atlantic, but prompt to
 | BPI | 1,824 | 1,825 | 1,119 | -0.05% | +63.00% |
 | BSI | 1,326 | 1,405 | 946 | -5.62% | +40.17% |
 | BHSI | 688 | 690 | 588 | -0.29% | +17.01% |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -99,15 +93,11 @@ Handysize cargo availability saw improvements across the Atlantic, but prompt to
 | PERSENIK / BELMEKEN | HANDY | 30,361 | 2010 | CHINA | 21.0 | UNDISCLOSED |
 | SEVGI | GC | 28,164 | 2012 | CHINA | 16.2 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
 
 Pessimism remains high in the oil markets, with hedge funds leaning towards short positions. Brent crude prices have been range-bound around US$83.50 per barrel, pushing volatility to lower levels. Standard Chartered predicts that this bearish sentiment and low volatility are likely to persist until OPEC+ announces its policy decision in early June, which could potentially trigger another rally in oil prices. Despite the recent rally, there are predictions that Europe's gas flows will gradually return to normal by the end of May, potentially dampening demand and slowing the pace of inventory builds. Warmer weather forecasts until the end of May have already dampened gas demand, resulting in European gas storage facilities surpassing 67% capacity. The energy sector's stock gains moderated in response to the end of the early-year oil price rally, slipping to the fifth-best performing sector year-to-date. However, Wall Street remains bullish on oil and gas stocks, with analysts expressing a favourable outlook, particularly for the Energy sector. Recent analyses suggest that oil and gas stocks are likely to continue outperforming the market regardless of whether Biden or Trump occupies the White House in 2025.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -128,8 +118,6 @@ With active regional cargo movements centered around the Indonesian region, the 
 Clean:
 
 LR: LR1 market witnessed limited activity in the UKC region with ARA/WAFR falling slightly to WS155. LR2 market on the other hand saw a firmer position with activity in the MEG seeing a 19-point jump for 75,000mt Japan route to WS270. MR: MR in the Atlantic experienced a mixed week. Rates on the UKC/USAC route declined w-o-w to WS180, despite an uptick in inquiries towards the end of the week. On the other side, rates for WAFR remain firm. MEG/EAFR rose to WS415 despite a tight position list.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -169,36 +157,24 @@ LR: LR1 market witnessed limited activity in the UKC region with ARA/WAFR fallin
 | SANMAR SANGEET | LR2 | 106,516 | 2004 | JAPAN | 26.0 | UNDISCLOSED |
 | DEE4 LARCH | MR | 49,737 | 2016 | VIETNAM | 41.0 | DANISH BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 # Containers
 
 The global container industry is experiencing a remarkable comeback, with rates surging back towards record highs seen during the COVID-19 pandemic era. Drewry's composite World Container Index jumped 16% this week, driven by constrained supply due to rerouting through the Red Sea and strong demand across multiple regions, kickstarting peak season volumes earlier than usual. Contributing factors include unseasonal demand increases from Asia due to potential restocking in Europe and pre-peak season bookings from North American importers, compounded by general rate increases from major liners and adverse weather conditions at Chinese ports. Analysts anticipate liner companies will report robust second-quarter profits, potentially surpassing the healthy figures of the first quarter. Forecasts suggest liners collectively achieved a net income of US$5.4 billion in Q1, a significant rebound from losses in the previous quarter.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # Containers S&P Report
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 540 ~ 550 520 ~ 530 530 ~ 540 550 ~ 560 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 550 ~ 560 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | STABLE / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 330 ~ 340 | 340 ~ 350 | 380 ~ 390 | STABLE / |
 
@@ -217,8 +193,6 @@ ALANG (WC INDIA) 540 ~ 550 520 ~ 530 530 ~ 540 550 ~ 560 STABLE /
 | GADDANI, PAKISTAN | 420 | 300 | 540 | 610 | 520 |
 | ALIAGA, TURKEY | 270 | 170 | 307 | 310 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -230,11 +204,7 @@ ALANG (WC INDIA) 540 ~ 550 520 ~ 530 530 ~ 540 550 ~ 560 STABLE /
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -263,8 +233,6 @@ Anchorage & Beaching Position (May 2024)
 Chattogram, Bangladesh
 
 This week witnessed a slowdown in the recycling markets as Chittagong braces for an impending cyclone this weekend, coupled with anticipation of the upcoming budget in early June.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -297,8 +265,6 @@ Gadani, Pakistan
 
 Pakistani recycling market continued their subdued outlook this week, and their increasingly noticeable absence from the bidding tables has resulted in Gadani's anchorage remaining inactive this week.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Aliaga, Turkey
@@ -320,8 +286,6 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 564 | 472 | 743 |
 | HOUSTON | 588 | 490 | 758 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -335,8 +299,6 @@ offers from the US and Europe are assessed at US$415-420 per ton CFR Nhava Sheva
 **Pakistani buyers are staying out of the market due to a weak domestic steel market and**
 
 payment delays. Shredded scrap offers from the UK/Europe are assessed at US$415-418 per ton CFR Qasim. A trader said, "Suppliers are quiet, with the latest prices ranging from US$415-418 per ton. The booking environment is fragile, and quotes from the UAE are scarce due to limited response from mills. We're expecting a slow week, with the bid-offer gap likely widening until prices stabilise."
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -357,8 +319,6 @@ for the property sector. While these measures are expected to boost sentiment, t
 **Copper prices stabilised following a sharp drop earlier this week, driven by concerns that**
 
 market expectations had outpaced fundamentals. Chinese fabricators are projected to reduce factory run rates to 66% of capacity this month, the lowest for the season since 2017, according to a Shanghai Metals Markets survey. More than 60% of copper rod plants have also scaled back output. This demand weakness is reflected in inventories, with stockpiles at warehouses monitored by the Shanghai Futures Exchange reaching record levels for this time of year.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

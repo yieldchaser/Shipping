@@ -22,8 +22,6 @@ pages: 19
 
 China's economic performance in 2024 exceeded expectations, with GDP growing 5.4% in the fourth quarter and achieving an annual growth rate of 5%. This surge was primarily fueled by targeted policy measures and strong export performance. Yet, a closer look reveals persistent challenges beneath the surface, including below-par consumption growth compared to pre-pandemic levels and a historic contraction in property investment, while deflation continued for a second consecutive year. The outlook for 2025 hinges largely on fiscal policy, with the government preparing to announce crucial budget deficit and bond issuance plans in March. The Chinese leadership has indicated readiness for substantial stimulus measures, potentially raising the budget deficit to 4% of GDP and significantly increasing special treasury bond sales. However, these policy decisions are complicated by mounting external pressures, particularly the possibility of new U.S. tariffs that could reach as high as 60% on Chinese goods, threatening a key growth driver that accounted for roughly a quarter of 2024's economic expansion. In response to these challenges, Chinese authorities are implementing a multi-faceted approach to boost domestic consumption. Key initiatives include expanding subsidy programs for appliance and equipment upgrades, enhancing pension benefits, and improving medical insurance coverage. The government has committed 300 billion yuan to support equipment upgrading and consumer goods trade-in programs, with potential to double this investment in the coming year. Despite these proactive measures, the real estate sector remains a significant concern, with investment plunging by 10.6% in 2024 - the steepest decline since records began in 1987. The slow progress in reducing housing inventory and renovating urban villages has contributed to persistently weak developer sentiment.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Pacific market has entered a quieter phase as most spot fixtures conclude, w
 Panamax/Kamsarmax:
 
 The Atlantic market continues its downward trend as North cargoes become increasingly scarce. T/A saw levels fall to US$8,000's. Meanwhile, the Pacific presents a mixed picture, NOPAC shows improvement in demand and rates, with Pacific r/v seeing a slight climb to US$5,200's a day while Indonesia routes, continue to decline due to insufficient volume relative to available vessel.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ Similar weakness was seen in the Handy segment despite activities in the Pacific
 | HANDY | 38,000 | 29 | 33 | 27 | 20 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -83,8 +77,6 @@ Similar weakness was seen in the Handy segment despite activities in the Pacific
 | BLISS | HANDY | 35,278 | 2007 | JAPAN | 10.0 | UNDISCLOSED |
 | MOMO GLORY | HANDY | 28,222 | 2014 | JAPAN | 12.0 | INDONESIAN BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -99,8 +91,6 @@ Suezmax:
 
 In West Africa, despite early-week declines due to vessel oversupply, the market stabilized by the week's end. This recovery was primarily attributed to strong VLCC rates, which quickly absorbed available vessels. 130,000mt Nigeria/UKC gained 20 points to WS86. In the MEG, rates also pushed higher with 140,000mt MEG/Med climb to WS97.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -113,8 +103,6 @@ LR: MEG showed impressive momentum, with rates rapidly climbing to WS130 points,
 
 ## Baltic Exchange Tanker Indices
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -126,8 +114,6 @@ LR: MEG showed impressive momentum, with rates rapidly climbing to WS130 points,
 | SUVRETTA | LR2 | 109,250 | 2008 | S. KOREA | 31.0 | CHINESE BUYERS |
 | SANJIN 3025 | PROD / CHEM | 13,774 | 2020 | CHINA | 17.0 | SINGAPOREAN BUYERS |
 | DH GLORY | PROD / CHEM | 13,121 | 2020 | CHINA | 25.3 (SS) | UNDISCLOSED (AUCTION) |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -147,8 +133,6 @@ Several key factors have contributed to this adjustment. The successful resoluti
 | 5,100 | Gearless | 81 | 77 | 66 | 35 | 32 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## S&P Containers Report
@@ -161,29 +145,16 @@ Several key factors have contributed to this adjustment. The successful resoluti
 | BIG LILLY | FEEDER | 1,730 | 1999 | POLAND | 6.5 | MSC |
 | JAN | FEEDER | 1,700 | 2010 | JAPAN | 17.5 | MERATUS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 470 ~ 480 450 ~ 460 440 ~ 450 480 ~ 490 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | WEAK / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 340 ~ 350 350 ~ 360 370 ~ 380 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 470 ~ 480 | 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | WEAK / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 340 ~ 350 | 350 ~ 360 | 370 ~ 380 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -200,19 +171,13 @@ TURKEY
 | GADDANI, PAKISTAN | 305 | 800 | 580 | 520 | 520 |
 | ALIAGA, TURKEY | 220 | 300 | 300 | 320 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -222,15 +187,11 @@ Alang, India
 
 India's ship recycling market continues to experience sluggish conditions. Despite the country's overall economic resilience and projected growth of 6.6% in 2025, recycling operations remain subdued, with steel plate prices holding steady at 39,500 Rs. The market outlook shows potential for improvement, particularly with the possibility of a 25% steel import duty that could lift domestic steel prices by 4-6%. Market activity remains muted. This situation is further complicated by broader steel market dynamics, including competition from Chinese exports and weak global demand, which continue to influence the recycling sector's pricing and activity levels. Recylers are now looking toward potential early February improvements and upcoming budget announcements for signs of market revival.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 Chattogram, Bangladesh
 
 Bangladesh's ship recycling market is experiencing a period of subdued activity, marked by declining melting steel prices after a brief uptick last week. Steel plate prices dropped by 2,000 Taka to 72,000 Taka. The market's weakness is compounded by ongoing challenges in securing LC facilities, as strict regulations and a dollar shortage continue to hamper approval processes, effectively limiting recyclers' buying capacity. This challenging environment for ship recycling operates against a backdrop of broader economic headwinds, with the World Bank projecting Bangladesh's growth to slow to 4.1% in FY25, its weakest performance since the pandemic. While the government is taking steps to strengthen financial oversight through the introduction of the Bank Regulation Act, which will give Bangladesh Bank enhanced powers over banking operations, the immediate outlook for the recycling sector remains uncertain. Ship recyclers note that while temporary price increases may occur due to supply shortages, sustainable recovery will require more robust demand and improved financial conditions.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -247,8 +208,6 @@ The Turkish scrap market continues to face downward pressure as global steel mar
 Chattogram, Bangladesh : 30 January ~ 02 February | 14 ~ 17 February Alang, India : 28 ~ 31 January | 01 ~ 04 February
 
 ---
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -281,8 +240,6 @@ Sub-continent and Turkish ferrous scrap prices experienced a notable decline thi
 
 India's imported scrap market was subdued throughout the week, impacted by weak domestic steel demand and bid-offer mismatches. Shredded scrap from the US and UK/Europe was quoted at US$370-375/ton CFR Nhava Sheva, while buyers capped bids at US$365-370/ton CFR. HMS (80:20) offers from Europe and West Africa, priced at US$350-360/ton CFR, saw limited interest, resulting in minimal transactions. A depreciating rupee, nearing record lows against the USD, further escalated import costs, discouraging purchases. Domestic buyers increasingly favoured locally sourced sponge iron as a cost-effective alternative. The government's introduction of an 8% threshold for automakers under Extended Producer Responsibility (EPR) promises to bolster scrap generation and vehicle recycling, fostering a sustainable scrap steel economy. This week, approximately 1,000-2,000 tons of scrap were booked, including HMS (80:20) from the UK, US, and West Africa.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 #### Pakistan: Reduced Mill Capacities Reflect Weak Steel Demand
@@ -303,8 +260,6 @@ some sellers remained optimistic about a February recovery, citing stronger US d
 
 #### construction activity, and divided price expectations kept market sentiment bearish, with mills opting for minimal restocking
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 ## HMS 1/2 & Tangshan Billet
@@ -318,8 +273,6 @@ Commodity imports for December remained robust, reflecting a modest improvement 
 **Iron ore prices gained this week following China's announcement of additional measures**
 
 to support its economy. The Ministry of Commerce committed to boosting domestic consumption and stabilising foreign trade and investment in 2025. Key initiatives include strengthening trade-in policies for consumer goods and further promoting the Belt and Road Initiative. Trade data added further support to market sentiment. Iron ore imports remained steady at 100 million tons, as recent economic stimulus measures improved steel demand prospects. Steel exports also saw significant growth, rising 25.9% year-on-year to 9.73 million tons, reflecting strong international demand.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

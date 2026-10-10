@@ -22,8 +22,6 @@ pages: 21
 
 This week, the Indonesian President Prabowo Subianto has implemented a significant regulatory change requiring exporters of non-oil and gas resources to retain all proceeds locally for at least one-year, effective March 1 . This measure represents a substantial expansion of the previous policy that mandated keeping only 30% of export proceeds within Indonesia's financial system. The new policy will allow companies to utilize these funds if converted to rupiah or for legitimate business operations including dividend payments, raw material procurement, and loan repayments. The President projects this regulation will bolster the country's foreign exchange reserves by approximately US$80 billion, as exporters have historically preferred to maintain their earnings in offshore banks. Also, the coal export price index will be changed from ICI (Industrial, Commercial, and Institutional) coal to HBA (Household, Biomass, and Alternative fuels). The shipping sector will undergo operational adjustments as companies and logistics providers adapt to new financial and documentation requirements. These changes could impact freight rates for Indonesian exports, with most commodity shipments facing stricter regulations. However, oil and gas exporters will continue operating under the previous 30% retention rule. Meanwhile, the United States has announced a proposal stemming from a trade investigation into China's practices in the maritime, logistics, and shipbuilding industries. The US inquiry concluded that Beijing has unfairly dominated these sectors, with China's shipbuilding market share growing from less than 5% of global tonnage in 1999 to more than 50% in 2023. China now controls 19% of the commercial world fleet and produces 95% of shipping containers. In response, the US Trade Representative is proposing several remedies under Section 301 of the 1974 Trade Act, including service fees of up to US$1 million on Chinese-built vessels entering US ports. The US administration is also proposing escalating restrictions on maritime transport of American goods, starting with a requirement that at least 1% of US products exported by sea must be carried on US-flagged and operated vessels, gradually increasing to 15% after seven years. This expansion of requirements similar to the Jones Act aims to revitalize American shipbuilding capacity, which has declined dramatically despite longstanding protections. The US currently ranks 19th globally in commercial shipbuilding, producing fewer than five ships annually compared to China's 1,700.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Pacific continues to experience a tightening supply situation with steady ir
 Panamax/Kamsarmax:
 
 The Atlantic continues to see declines as the supply-dominant structure strengthens amid an absence of new cargo inflows. The Pacific market observed a quiet atmosphere with limited spot contracts and slowing demand. Both NOPAC and Australian inflows remain restricted, contributing to the ongoing drop. Pacific r/v closed lower at US$10,100's. Supramax/Ultramax: The Atlantic market saw another poor week as USG demand fails to maintain the week's recovery momentum. T/A ended the week lower at US$13,800's. In the Pacific, with no noteworthy changes in the markets, outlook saw an unclear market direction, as participants took a wait-and-see approach rather than engage in further bids.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -76,11 +72,7 @@ Similar weakness was seen in the Handy segment as discounts in rates remain prev
 | DL MARIGOLD / DL TULIP | HANDY | 33,752 33,694 | 2012 | CHINA | 9.8 EACH | LOAD LINE MARINE S.A. |
 | DESPINA | HANDY | 28,534 | 2007 | JAPAN | 7.2 | MIDDLE EASTERN BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -105,8 +97,6 @@ Clean:
 **LR: LR2 in the MEG closed lower as supply and demand gradually stabilized due to**
 
 ballasters from the Far East, with TC1 closing at WS120. In the LR1, rates hold similar to last for MEG routes with TC5 closing at WS137.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -135,11 +125,7 @@ movement and poor performance of larger vessel types. In the MEG, the outlook wa
 | PRINCESS ALEXIA | VLCC | 306,352 | 2004 | JAPAN | 39.0 | UNDISCLOSED |
 | ALMA MARINE | SMALL | 9,057 | 2010 | CHINA | 8.5 | TURKISH BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -168,33 +154,18 @@ CMA CGM AFRICA ENTERPRISE TWO / CMA CGM AFRICA THREE
 |---|---|---|---|---|---|---|
 | AYDOGAN | FEEDER | 1,730 | 1999 | POLAND | 8.9 | CHINESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 450 ~ 460 430 ~ 440 440 ~ 450 460 ~ 470 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | WEAK / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 300 ~ 310 290 ~ 300 330 ~ 340 WEAK /
-
-*Ship, the prices are about USD 20-30/tonon less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 450 ~ 460 | 430 ~ 440 | 440 ~ 450 | 460 ~ 470 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | WEAK / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/tonon less | 320 ~ 330 | 300 ~ 310 | 290 ~ 300 | 330 ~ 340 | WEAK / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -211,27 +182,19 @@ TURKEY
 | GADDANI, PAKISTAN | 350 | 440 | 620 | 560 | 530 |
 | ALIAGA, TURKEY | 230 | 240 | 360 | 320 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights
 
 This week, Danish shipping giant Maersk has signed a memorandum of understanding (MoU) with the Egyptian government to explore the development of a green ship recycling facility at Damietta port, situated west of Port Said on the Mediterranean coast. This move aligns with Egypt's strategy to reduce dependence on imported scrap metal and bolster its ship recycling capabilities. The proposed facility, spanning approximately 155,000 square meters, will be equipped to handle vessels up to 230 meters in length. Crucially, the site will adhere to the standards set by the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships, which is expected to come into force soon. Discussions are also underway for additional ship recycling sites across Egypt. Maersk's commitment to sustainable ship recycling is not new. Two decades ago, following its acquisition of P&O Nedlloyd, the company played a pivotal role in transforming China's leading demolition yard into a greener operation. The planned facility in Egypt represents a continuation of Maersk's efforts to promote environmentally responsible ship recycling practices worldwide. Ship recycling markets across the Indian subcontinent have experienced a slowdown due to a continued shortage of end-of-life vessels, leaving industry players uncertain about
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -240,8 +203,6 @@ the near-term outlook. Expectations of an influx of ships heading for demolition
 Alang
 
 The Indian ship recycling market remains in a holding pattern, recyclers are stuck in a Groundhog Day, waiting for new tonnage to arrive. In other news, a significant development is unfolding in India's ship-breaking industry as the Nolan, a Suezmax vessel sanctioned by the United States in 2019 for transporting Iranian oil, undergoes dismantling at Alang. This marks a potential watershed moment for the so-called "dark fleet" - hundreds of blacklisted tankers that continue operating globally despite sanctions. The vessel, built in 1998 and previously named Solan, arrived in Alang waters on January 25 after being idle for nearly a year, with Indian officials verifying its documentation before allowing it to beach on February 1, according to Bloomberg.com. While these ageing ships have remained operational primarily to transport Russian and Iranian oil, Washington's recent targeting of such vessels has forced many to sit idle, prompting owners to seek financial returns through scrapping. Industry experts anticipate more sanctioned tankers may follow, with the Bluefins currently anchored offshore and the Amor, the first dark fleet VLCC marked for scrapping, recently spotted at an Indonesian yard. Despite this emerging trend, many in the industry remain nervous about potential penalties for handling sanctioned vessels, with some seeking clarification without receiving clear guidance. The geopolitical landscape continues to evolve, particularly with President Trump's recent pivot toward Moscow potentially easing the transport of Russian crude and potentially reducing demand for dark fleet operations.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -267,8 +228,6 @@ Anchorage & Beaching Position (FEBRUARY 2025)
 Chattogram
 
 The Bangladeshi ship recycling market remained quiet this week as activity slowed with the onset of Ramadan. Previously sold vessels continue to arrive at Chattogram yards, keeping supply levels steady. Domestic ship scrap prices remained stable amid moderate demand, though overall market sentiment remains subdued. With limited buying interest and economic uncertainties persisting, the outlook for the coming weeks remains cautious. On the economic front, the Bangladesh Bank has embarked on an initiative to stabilize the struggling taka, which has suffered an 8% depreciation in 2024, making it Asia's poorest performing currency this year. At the root of this plan is a shift toward marketoriented processes through daily recalibration of exchange rates, building upon the crawling peg system introduced last year to reduce volatility. Financial institutions can now negotiate foreign currency trades within established parameters, while the central bank provides guidance through twice-daily reference exchange rate publications. These measures align with IMF recommendations and are crucial for securing continued financial support from the global lender.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -303,8 +262,6 @@ Anchorage & Beaching Position (FEBRUARY 2025)
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
 | - | - | - | - | - |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Aliaga, Turkey
@@ -338,8 +295,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 279.97 | 279.39 | -0.21% |
 | USD / TRY (TURKEY) | 36.52 | 36.44 | -0.22% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -364,8 +319,6 @@ market subdued. European shredded was offered at US$385-388/ton CFR Chattogram, 
 
 HMS 80:20 was assessed at US$361/ton CFR, down US$2/ton. EU-origin deals were reported at US$363/ton CFR. Sellers remained firm amid tight supply, with expectations of further US price hikes in March. Market participants across regions remain cautious, with hopes for a recovery post- Ramadan and closely monitoring global scrap price trends.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 19
 
 ## HMS 1/2 & Tangshan Billet
@@ -373,8 +326,6 @@ HMS 80:20 was assessed at US$361/ton CFR, down US$2/ton. EU-origin deals were re
 ## Commodities (Weekinfocus)
 
 The coal market continues its downward spiral, with prices plummeting to their lowest point in four years. This persistent decline stems from a confluence of factors: lackluster demand across major sectors, swollen inventory levels, and aggressive discounting strategies employed by increasingly desperate producers. Power generation facilities, already sitting on substantial stockpiles, have significantly curtailed their spot market activities. This purchasing reluctance has deepened downward pressure on coal prices across global markets. Adding to these concerns, major energy conglomerates Guoneng and Huaneng recently implemented temporary suspensions of their coal import tenders, affecting approximately three million tons of monthly volume. However, industry analysts note this move appears primarily aimed at reducing port congestion rather than signaling a fundamental shift in import strategy. Despite these immediate challenges, market observers anticipate a gradual recovery beginning in late March. Some stability may emerge from long-term domestic trading agreements, which could establish a price floor and prevent further dramatic declines. **Iron ore** prices rose as China pledged further economic support. The Ministry of Commerce announced plans to boost consumption and stabilise trade and investment, including strengthening trade-in policies for consumer goods and promoting the Belt and Road initiative. Trade data also provided optimism, with iron ore imports holding steady at 100 million tons, reflecting stronger steel demand driven by recent stimulus measures.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 

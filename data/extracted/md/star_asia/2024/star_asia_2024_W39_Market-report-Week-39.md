@@ -22,8 +22,6 @@ pages: 20
 
 In a surprising shift in economic strategy, Chinese President Xi Jinping has unveiled a series of bold measures to stimulate growth and address mounting concerns about China's economic slowdown. This week marked a significant turning point in Xi's approach to managing the world's second-largest economy, as his administration rolled out a comprehensive package of policies aimed at boosting market confidence and alleviating financial pressures. The People's Bank of China took centre stage, announcing major initiatives to inject liquidity into the stock markets and ease borrowing conditions. This was quickly followed by interest rate cuts, cash handouts, and new subsidies for unemployed graduates. The Politburo, led by Xi, further committed to increasing fiscal spending and introduced measures to stabilise property prices, signaling a renewed focus on economic growth and addressing public concerns. The People's Bank of China announced a reserve requirement ratio (RRR) cut to foster a favourable monetary and financial environment, aiming to support stable economic growth and high-quality development, according to an official statement. People's Bank of China cut its 7-day reverse repurchase rate to 1.5% from 1.7%, as well as slashing the reserve requirement ratio of financial institutions by 0.5 percentage points. The move comes as China's industrial profit data for August revealed a significant 17.8% y-o-y decline, following a 4.1% increase in July, which was the fastest pace in five months. On a year-to-date basis, profits at large industrial firms edged up by 0.5%, totaling 4.65 trillion yuan (US$663.47 billion) for the first eight months, a slowdown compared to the 3.6% growth seen in the first seven months. The news was cheered by the commodity markets, which in turn gave a boost to the dry bulk segment this week. With the data reflecting performance up to August, markets will await further reports to gauge the impact of the latest stimulus measures announced on Tuesday.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Pacific and Brazilian routes experienced a downward pressure on freight rate
 Panamax/Kamsarmax:
 
 Both the North Atlantic and South American sectors witness a decline in rates this week. With cargo inflow failing to keep pace with vessel supply, the current imbalance favours that of charterers. T/A rates at closing fell to US$11,750's a day. Similar was noted in the Pacific region, albeit for slightly different reasons. While cargo volumes remain subdued, the approaching Chinese National holidays led to eager owners to secure their next fixtures ahead of time. This has led to them lowering their asking rates, with Pacific r/v seeing levels in the region of US$13,300's. Supramax/Ultramax: In the Atlantic, a notable change is occurring in the USG, where previously steady cargo
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -71,8 +67,6 @@ The handy segment saw a mixed week rates picking up in the Pacific after last we
 | SUPRAMAX | 58,000 | 15,000 |  | 14,250 |  | 11,500 | +5.26% |  | +30.43% |
 | HANDYSIZE | 38,000 | 14,500 |  | 14,000 |  | 11,250 | +3.57% |  | +28.89% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -91,8 +85,6 @@ The handy segment saw a mixed week rates picking up in the Pacific after last we
 | YOCHOW | HANDY | 34,398 | 2015 | JAPAN | 19.0 | GREEK BUYERS |
 | AFRICAN EAGLE | HANDY | 27,102 | 2003 | CHINA | 6.0 | FAR EASTERN BUYER |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -107,8 +99,6 @@ Suezmax:
 
 The accumulated supply has saw the balance between demand tilt, resulting in rates chipping away this week. 130,000mt Nigeria/UKC fell some 6 points to WS73 at closing. Similar was also noted in the Black Sea region as 135,000mt CPC/Med fell to WS84. Overall, a quieter week for the Suezmaxes.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -120,8 +110,6 @@ Clean:
 LR: The Middle East market saw a modest improvement in freight rates this week. This upturn was primarily driven by a tightening of vessel supply, as regional refineries increased production in anticipation of the upcoming winter season. TC1 climbed 6 points to WS147 while TC5 improved to WS170. MR: In the Far East market, despite a series of MR, the reduction in supply was not sufficient to trigger a rebound in freight rates. In the USG, TC14 fell under pressure with rates falling to WS120. Similar was also noted in the MEG market with TC17 route MEG/E. Africa falling 24 points to WS185.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -145,8 +133,6 @@ Tankers S&P Report
 | SONGA PEACE | PROD/ CHEM | 19,992 | 2009 | JAPAN | 23.8 (SS) | HEUNG-A SHIPPING |
 | HORIN TRADER | PROD / CHEM | 19,855 | 2015 | JAPAN | 31.5 (SS) | WOOJIN |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -155,33 +141,18 @@ Despite the approaching China's Golden Week, there is no sign of short-term volu
 
 ## Containers S&P Report
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 470 ~ 480 460 ~ 470 460 ~ 470 490 ~ 500 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 470 ~ 480 450 ~ 460 | 430 ~ 440 | 480 ~ 490 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 480 ~ 490 460 ~ 470 | 450 ~ 460 | 490 ~ 500 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 310 ~ 320 300 ~ 310 320 ~ 330 WEAK /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 470 ~ 480 | 460 ~ 470 | 460 ~ 470 | 490 ~ 500 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 470 ~ 480 | 450 ~ 460 | 430 ~ 440 | 480 ~ 490 | STABLE / |
+| GADDANI, PAKISTAN | 480 ~ 490 | 460 ~ 470 | 450 ~ 460 | 490 ~ 500 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 320 ~ 330 | WEAK / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -198,8 +169,6 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 750 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 210 | 300 | 325 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -212,19 +181,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 ## Insight
 
 This week, the ship recycling markets in the Sub-Continent have shown early signs of stabilisation, with domestic ship scrap prices pausing their recent decline and gaining some upward momentum. While it may be premature to declare a market bottom, recyclers remain cautious about these developments. Over the period of last 2 months the ship prices have seen a significant drop of around US$50-60 per ton, contributing to the tempered optimism. Despite the downturn, market sentiment has been cautiously upbeat, largely due to the ongoing scarcity of ship supply, which has helped support market stability in the short term. However, a vast majority of the recyclers believe the levels are not sustainable in the long term. Meanwhile, recent global developments are adding complexity to the recycling outlook, geopolitical uncertainties, along with China's latest economic stimulus.This stimulus has provided a boost to the dry bulk shipping sector, which is viewed negatively by ship recyclers, as it extends the lifespan of vessels and delays the supply of end-of-life ships, further distancing them from Sub-Continent shores.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -249,8 +212,6 @@ Chattogram, Bangladesh
 
 The ship recycling industry in Chattogram remains stagnant as domestic challenges continue to weigh heavily on the market's recovery. Newly appointed ministers are reevaluating the issuance of necessary clearances for ship recycling, creating uncertainty and adding pressure to an already troubled sector. This regulatory review follows a recent notification requiring shipyards to adhere to the Ship Recycling Facility Plan (SRPF), with a deadline for compliance set for November 14. This directive has further complicated market conditions, leaving many recyclers in limbo as they attempt to rectify the yards to meet new standards.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Adding to the turmoil, the recent tragic incident at a local shipyard, which resulted in the deaths of six workers, has led to additional restrictions on the issuance of No Objection Certificates (NOCs), further delaying recycling activities. However, the NOCs are being issued on a case-to-case basis to honour the previous commitments. As a result, the Chattogram ship recycling market remains dormant in the near term, with no clear path forward until these domestic regulatory and safety issues are fully addressed.
@@ -272,8 +233,6 @@ Gadani, Pakistan
 
 The ship recycling industry has entered a prolonged slowdown due to declining domestic demand, falling scrap prices, and the influx of cheap steel imports from China. Based on present situation the recyclers have adjusted their pricing for ships which are now below US$450/ton levels but whether they can find one remains a question. While these challenges persist, a ray of hope emerged this week, with the International Monetary Fund (IMF) providing a positive outlook for Pakistan's economy. IMF Pakistan Mission Chief Nathan Porter confirmed that the UAE, China, and Saudi Arabia have pledged significant financial assurances under the IMF's newly approved US$7 billion, 37-month loan program for Pakistan. The program aims to stabilise Pakistan's macroeconomic situation through reforms and sound policies. On the other hand, one of the prominent steel mills, Amreli Steels Limited (ASTL) has announced the temporary suspension of operations at its SITE Rolling Mill (SRM) in
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Karachi, citing economic hardships. The facility, which accounts for 30% of the company's production capacity, will remain closed for six months, with operations potentially resuming depending on market conditions. The company's Board of Directors highlighted several challenges facing the documented steel sector, including declining demand for steel rebars, rising utility costs, high interest rates, an imbalanced tariff structure, and increased competition from smuggling and undocumented activities. These factors have severely disrupted market stability, leading to the decision to halt operations at its oldest plant. Despite the suspension, ASTL will continue operations at its Dhabeji facility, which accounts for 70% of its production, to meet current and future steel demand.
@@ -287,8 +246,6 @@ Chattogram, Bangladesh : 1 - 4 October | 16 - 19 October
 Alang, India : 3 - 8 October | 15 - 23 October
 
 ---
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -321,8 +278,6 @@ The Sub-Continent and Turkish ferrous scrap market exhibited a blend of trends t
 
 rebar sales, with mills operating at just 40-50% capacity. Indicative offers for shredded
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 scrap from the UK and Europe were around US$390-395/ton CFR Qasim. Despite current difficulties, optimism is rising following the IMF's approval of a US$7 billion Extended Fund Facility, which is expected to enhance liquidity, reduce interest rates, and improve dollar availability, potentially revitalising scrap demand in the longer term.
@@ -333,8 +288,6 @@ opening letters of credit (LCs), a situation compounded by ongoing economic disr
 
 ## HMS 1/2 & Tangshan Billet
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 19
 
 ## Commodities
@@ -344,8 +297,6 @@ In a promising turn for the global commodities market, iron ore futures experien
 **Copper led a rally in base metals, surpassing US$10,000 per ton for the first time since**
 
 June, as China ramped up efforts to stimulate economic growth. The red metal gained momentum after China's Politburo vowed to stabilise the real estate market and pushed for aggressive rate cuts, following a series of monetary policy measures introduced by the People's Bank of China (PBoC) earlier in the week. Risk appetite was further bolstered by stronger-than-expected US economic data. A comprehensive update from the Bureau of Economic Analysis (BEA) revealed the US economy grew US$292.2 billion more in the five years to 2023 than previously estimated, largely driven by robust consumer spending. Additionally, the BEA reported that Q2 growth reached 3%, highlighting the resilience of the post-pandemic recovery.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 

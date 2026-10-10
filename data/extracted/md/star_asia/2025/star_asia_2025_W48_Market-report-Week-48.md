@@ -22,8 +22,6 @@ pages: 19
 
 This week, China's industrial sector stumbled in October, with corporate earnings posting their first decline in three months and reinforcing concerns that the world's secondlargest economy is losing momentum. Industrial profits fell 5.5% Y-O-Y, reversing the more than 20% gains seen in August and September and sharply missing Bloomberg Economics' forecast for a modest increase. Despite this setback, profits for the first 10 months of the year were still up 1.9%, supported by strength in manufacturing and utilities, even as miners continued to face steep double-digit declines. The abrupt deterioration underscores how softer domestic demand and a cooling economy are squeezing margins, raising worries about weaker investment and employment ahead. The drop comes despite a recent easing in factory-gate deflation and ongoing government efforts to tackle overcapacity and intense price competition. October's slowdown was attributed in part to faster growth in financial expenses and an unfavourable comparison to last year's high base. While industrial production and retail sales disappointed and investment posted a record January - October contraction, Beijing appears unlikely to deploy fresh stimulus. With this year's roughly 5% growth target still within reach, policymakers have signalled a focus on executing existing measures. Private firms were hit hardest, with profit growth decelerating sharply, while gains at foreign enterprises cooled and state-owned firms saw only marginal improvement. This week, in the U.S., the U.S. dollar was poised for its worst weekly performance since late July on Friday, pressured by growing market expectations that the Federal Reserve will cut rates again next month. Traders have ramped up bets on December easing after a series of softer labour indicators, even as Fed officials continue to warn about persistent inflation risks. Fed funds futures now imply an 87% probability of a rate cut at the December 9-10 meeting, up sharply from 71% a week earlier.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Pacific market continues to maintain upward pressure on freight rates, drive
 Panamax/Kamsarmax:
 
 The Atlantic remained steady at the previous day's level, settling into a flat trend from overall weak trading volume. T/A ended the week at US$18,500's. In the Pacific, rates were supported by Australian coal and grain shipments from NoPac, but this was offset by a decline in Chinese demand for Indonesian coal, leading to a generally stable market condition. Supramax/Ultramax: The momentum in the Atlantic has slowed down somewhat; however, a mildly firm trend is being maintained as owners resist rate declines, supported by T/A. The Pacific generally showed stable activity despite a shortage in the flow of Indonesian coal cargoes. Pacific r/v ended the week around US$13,650's.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -62,8 +58,6 @@ Handy market saw a general uptick with rates across both basins seeing an increa
 | HANDY | 38,000 | 30 | 33 | 25 | 18 | 14 |
 | *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -85,8 +79,6 @@ Handy market saw a general uptick with rates across both basins seeing an increa
 | FEDERAL YELLOSTONE | HANDY | 37,153 | 2013 | CHINA | 14.0 | GREEK BUYERS |
 | THOMAS SELMER | HANDY | 34,963 | 2011 | CHINA | 10.2 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -101,8 +93,6 @@ Suezmax:
 
 The West Africa market saw a downward adjustment this week as a decline in intraregional cargo volumes pushed 130,000mt Nigeria/UKC down to WS150. However, the losses were limited by the stronger performances of the larger units. In the MEG, 140,000mt to the Mediterranean also slips slightly to WS111.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -114,8 +104,6 @@ Clean:
 LR: The Middle East market concluded the week with rising freight rates. This increase was driven by an improvement in cargo demand, compounded by the ongoing strength in the crude tanker sector. TC1 to Japan gain some 30 points to close at WS185 mark. In the LR1, similar strength was also seen with TC5 also gaining some 30 points to WS188. MR: The Far East market finished the week with slight softening, settling into a steady trend due to limited fixture activity. MRs in the MEG also fared well, similar to the larger sizes with TC17 MEG/E.Africa peaking at WS260 mid-week.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -132,8 +120,6 @@ LR: The Middle East market concluded the week with rising freight rates. This in
 | STAR EAGLE | MR | 51,202 | 2007 | S. KOREA | 13.8 | UNDISCLOSED |
 | KYRA | MR | 47,931 | 2006 | JAPAN | 11.5 | CHINESE BUYERS |
 | MTM NORTH SOUND | CHEM | 19,874 | 2006 | JAPAN | 15.0 (SS) | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -154,29 +140,18 @@ PRICE COMMENTS /
 
 (MILLION) USD BUYERS 46.5 TSAKOS COLUMBIA SHIPMANAGEMENT 27.4 CHINESE BUYERS
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 400 ~ 410 380 ~ 390 370 ~ 380 410 ~ 420 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 400 ~ 410 | 380 ~ 390 | 370 ~ 380 | 410 ~ 420 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
 | GADDANI, PAKISTAN | 410 ~ 420 | 400 ~ 410 | 390 ~ 400 | 420 ~ 430 | STABLE / |
-
-TURKEY
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -193,8 +168,6 @@ TURKEY
 | GADDANI, PAKISTAN | 385 | 610 | 570 | 510 | 460 |
 | ALIAGA, TURKEY | 210 | 310 | 290 | 300 | 350 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -206,19 +179,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 The Indian ship recycling market maintained a cautious posture this week, with purchasing interest severely constrained by ongoing, unpredictable fluctuations in the US dollar against the local rupee and by a substantial influx of dark fleet tankers sold at discounted prices, putting pressure on normal ships. Buyers remained deeply hesitant, making negotiations for new tonnage, especially for larger ships, exceedingly challenging amidst the currency's volatility. Accordingly, buyers also refrained from submitting meaningful bids, resulting in a failure to transact any significant tonnage this week, with many of the ships currently being circulated remaining tied to "dark fleet" operations. Locally, steel prices saw only marginal gains, which, combined with limited overall tonnage availability and weak consumer demand, were insufficient to generate firm momentum or shift the market out of its current state. November proved highly active for the ship recycling market, with roughly 136,378 tons of light displacement tonnage, largely made up of dark-fleet vessels, heading to the beaches. The influx kept compliant recyclers fully occupied, in sharp contrast to competitors who, despite offering competitive prices, continue to struggle to secure
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -244,8 +211,6 @@ Anchorage & Beaching Position (November 2025)
 Chattogram
 
 The Bangladesh market faced a sharp weakening this week, which has compelled domestic buyers to adopt a cautious approach. A significant disconnect remains between the pricing of melting scrap and finished steel plate, negatively impacting the competitiveness of the yards and keeping overall buying volumes low. Despite these domestic difficulties, the Bangladeshi market continues to set the benchmark for global ship recycling pricing and demand, even with a scarcity of suitable vessels available to satisfy buyer interest. Compounding the situation, the Taka currency, continues to struggle for stability, having declined by over 20 basis points this week to close at BDT 122.53 against the U.S. Dollar. Furthermore, the Ship Recycling Association is actively requesting that the government issue DASR certifications to non-compliant yards, which would permit them to continue operations while they work toward achieving HKC.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -279,8 +244,6 @@ Aliaga, Turkey
 
 The Turkish ship recycling market remains unchanged from last. No new changes to note as of this week.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Chattogram, Bangladesh : 3 ~ 6 December | 21 ~ 24 December Alang, India : 2 ~ 10 December | 18 ~ 26 December
@@ -310,8 +273,6 @@ EXCHANGE RATES
 
 India The imported ferrous scrap market in India remained steady, reporting active sales into key ports including Nhava Sheva, Mundra, and Chennai. Despite some suppliers still targeting the US$330-$340/ton range for HMS, buyers consistently maintained that trade was not being executed at those higher levels. Conversely, PNS was deemed workable at US$340-$345/ton CFR, sitting notably US$10-$15/ton below its typical range. Actual transaction feedback indicated slightly firmer pricing than the general market discussions suggested. Specifically, offers for UK HMS hovered around US$330/ton CFR, with shredded material priced near US$355/ton, and busheling close to US$361/ton CFR at western ports. Pakistan The imported scrap market in Pakistan held stable, though trading activity remained subdued. Mills are anticipating reduced utilization rates as the winter season approaches. Shredded scrap from Europe and the UK was assessed consistently at
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 US$355/ton CFR Qasim, while UAE-origin HMS maintained a steady trading range of US$335-$340/ton CFR. Bangladesh Imported scrap markets in Bangladesh stayed subdued as mills continued to grapple with weak downstream demand and tight liquidity. Despite restrained buying interest, however, price indications have persistently moved upward. Bulk offers into Chattogram have now crossed US$365/ton CFR, reflecting a firmer underlying sentiment in the market, even amidst the current purchasing constraints.
@@ -319,8 +280,6 @@ US$355/ton CFR Qasim, while UAE-origin HMS maintained a steady trading range of 
 Turkiye Deep-sea scrap prices in Turkiye held steady. Offers for EU-origin HMS 80:20 was indicated at US$356-$358/ton CFR, with US-origin material slightly higher at US$362- $364/ton CFR. Mills have reportedly booked seven to eight cargoes for January shipment and may seek to acquire more tonnage before the traditional holiday slowdown implemented by suppliers. Market sentiment remains mixed: sellers maintain optimism due to the tight availability of scrap, while buyers remain cautious, anticipating prices to move sideways given the ongoing uncertainty surrounding rebar demand.
 
 ## HMS 1/2 & Tangshan
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -331,8 +290,6 @@ Iron ore futures finished higher on Thursday, benefiting from a softer dollar, a
 developer China Vanke was denied a short-term bank loan by two major lenders,
 
 reinforcing fears over financial stress in the property sector. The timing coincided with LME Asia Copper Week in Shanghai, where trader Trafigura cautioned that China's protracted property downturn is offsetting strong copper demand from the energy transition. Since 2020, the firm noted, China's consumption growth has been driven almost entirely by export-oriented manufacturing rather than domestic construction. Property sector weakness also pressured iron ore futures. Despite solid demand from nonproperty industries, real estate remains a critical driver of ore consumption. Sentiment deteriorated further as steel inventories climbed, with the China Iron and Steel Association
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

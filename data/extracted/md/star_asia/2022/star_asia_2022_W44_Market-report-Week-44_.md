@@ -30,8 +30,6 @@ This week, the Federal Reserve announced a 0.75 basis point increase in interest
 
 This week's increase in dry bulk shares was linked to predictions that China will shortly remove its pandemic restrictions. However, no official statement has been issued by the administration. Most analysts predict that the country's limits will be eased as early as March of next year. World Bank also predicted that China's growth rate will drop in 2022 and 2023. According to the organization's most recent assessment, the country would no longer be Asia's top economic locomotive. The dry bulk sector is under pressure due to the sluggish steel environment and the decrease in Chinese steel prices. The dry bulk market has been struggling this week due to a persistent fall in both forward and near-month contracts, while the physical market is beginning to experience the consequences of the demand-supply gap. Owners are also striving to obtain new vessels and replenish the market's diminishing quantity.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 #### Capesize:
@@ -70,8 +68,6 @@ This week, the uncertainty regarding the future of Ukraine's grain exports impac
 
 persisted throughout the Pacific. Inter-Pacific did not fare as well, with levels in the region of US$ 9,300's.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 3
 
 # Dry Bulk - S&P Report
@@ -103,11 +99,7 @@ persisted throughout the Pacific. Inter-Pacific did not fare as well, with level
 | BSI | 1,268 | 1,483 |  | 2,416 |  | -14.50 |  | -47.52 |
 | BHSI | 836 | 897 |  | 1,726 |  | -6.80 |  | -51.56 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 5
 
@@ -127,8 +119,6 @@ Due to an increase in U.S. crude oil exports, the number of accessible vessels i
 
 Due to the strength of the Atlantic basin and an increase in Russian crude oil exports to Sakhalin and the Far East, there were fewer vessels available in the eastern waters of the Suez Canal. The W.S. in the Middle East/Singapore region improved by 4.6%. Meanwhile, in the Med, 80,000mt Ceyhan/Lavera fell to WS235.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 6
 
 #### Clean:
@@ -138,8 +128,6 @@ L.R.: Trade in the Asia/Europe section fell as European refinery utilisation ros
 MR: The weekly freight rate between Korea and Singapore fell by 8.2% as intra-regional trade volume fell.
 
 # Tankers S&P Report
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 7
 
@@ -180,8 +168,6 @@ further this week to 1,579 points, which is much lower than the rates reported s
 
 year.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 8
 
 # Containers S&P Report
@@ -199,32 +185,21 @@ year.
 | 5,500 - 7,000 | Gearless |  | 85 | 115 | 95 | 77 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 560 ~ 570 | 550 ~ 560 | 530 ~ 540 | 600 ~ 610 | STABLE / |
+| CHATTOGRAM, BANGLADESH | \*570 ~ 580 | \*560 ~ 570 | \*540 ~ 550 | \*600 ~ 610 | WEAK / |
+| GADDANI, PAKISTAN | 550 ~ 560 | 540 ~ 550 | 520 ~ 530 | 580 ~ 590 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 290 ~ 300 | 280 ~ 290 | 270 ~ 280 | 310 ~ 320 | STABLE / |
 
-CHATTOGRAM,
-
-BANGLADESH \*570 ~ 580 \*560 ~ 570 \*540 ~ 550 \*600 ~ 610 WEAK /
-
-GADDANI, PAKISTAN 550 ~ 560 540 ~ 550 520 ~ 530 580 ~ 590 WEAK /
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 290 ~ 300 280 ~ 290 270 ~ 280 310 ~ 320 STABLE /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Chattogram prices are based on a case-to-case and subject to Letters of Credit opening.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Chattogram prices are based on a case-to-case and subject to Letters of Credit opening.
 
 # 5-Year Ship Recycling Average Historical Prices
 
@@ -236,8 +211,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 | CHATTOGRAM, BANGLADESH | 390 | 455 | 360 | 360 | 610 |
 | GADDANI, PAKISTAN | 405 | 440 | 355 | 370 | 600 |
 | ALIAGA, TURKEY | 210 | 270 | 220 | 205 | 310 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 10
 
@@ -259,13 +232,9 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 
 The global steel prices have corrected to lower levels as the steel exporting nations start to drop their prices. Overall, negative sentiments have begun to kick in the steel markets as the demand weakens internationally.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 11
 
 Iron ore prices extended the rout on China's woes and posted monthly losses. Iron Ore prices dropped to US$80/ ton levels a week back but finally recovered on Friday this week by 6.2% and closed at US$85/ton CFR in China. Steel markets are looking for a strong catalyst that can pull back the sentiments and drive the prices back. The ship recycling prices have enjoyed their best last two years so far and now correcting back. Whether these prices will go back to the pre-COVID levels is to be seen in the coming months; however, the facts surrounding the markets are pointing towards a steep correction. A lot has changed during the past two years, with China's domination in the steel segment slowed down, but now with China resuming their exports and scaling back to the pre-COVID levels, the chances of a severe price drop are expected. Chinese export offers for various steel products, semi-finished and finished, both continued to decrease despite a short-term spike in the rumours of China planning to ease the COVID restrictions but eventually dropped back to reality. Analysts predict that Chinese steel prices are likely to fall further this month due to the pressure of global economies slowing down and weakening demand within China. The China Iron and Steel Association mentioned that despite traditionally a busy construction season from September onwards, steel consumption has fallen 4.2% in the first nine months of 2022, and going ahead with the slump in the real estate sector, the near-term rebound is very unlikely. A perfect recession in the steel industry has kicked in! While in Europe, the spread between the raw material prices and finished steel products continues to narrow to fresh lows driven by a stronger U.S. dollar which continued to boost the cost of coking coal and iron ore imports. Steel pricing in the United States has reached its lowest level in two years, with Steel companies' earnings taking a dip due to falling pricing. Among these are Cleveland-Cliffs Inc., which plummeted 8.89%, United States Steel Corp., down 5.9%,and Nucor Corp., falling 4.30%. Profits from these firms' steelmaking activities fell sharply during the third quarter compared to the same period last year. Summer marked the beginning of the decrease in steel prices. Steel's spot-market price declined by more than 20% during the third quarter as a result of a decline in demand. This has resulted in a 60% decrease in the price of this product compared to a year ago.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 12
 
@@ -274,8 +243,6 @@ As a result of the pandemic, steel mills were forced to reduce their stocks, res
 #### ALANG, INDIA
 
 The markets reopened after the long Diwali holiday taking the plunge. The first 15 days post- Diwali are traditionally considered robust for the steel markets as new projects are undertaken. This time around, the trader and steel mills were not able to get the cylinders fired. The ferrous scrap stock eventually arriving at the port was not able to get the anticipated demand. Approximately 380,000 ~ 400,000 tonnes of ferrous scrap (HMS) stocks lay at Kandla port and could not draw buyers buying interest. In the ship recycling industry, the prices took off on a negative note, with prices correcting lower to new lows Y-O-Y. Several ships that were sold in the past to cash buyers were now being proposed at significantly lower levels. As Bangladesh remains absent from the recycling markets for the time being, the absolute pressure is on Alang to absorb the tonnages, adding severe pressure to an already suffering market. In the broad sense, the demand for ships remains intact in the short term at the prevailing prices and moving ahead, as the supply of ships eases, this will dictate future pricing as the pressure is being built up in the backdrop of Bangladesh and Pakistan, a significant buyer being out of the market.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 13
 
@@ -291,8 +258,6 @@ This week the U.S. dollar sank over 1% after the jobs data showed a firm labour 
 #### CHATTOGRAM, BANGLADESH
 
 Another depressing week for Bangladeshi recyclers as the issuance of Letters of Credit by the local banks gets more complicated. Practically the markets remain shut. Fresh offers for forward deliveries were placed at significantly lower levels on subject Letters of Credit to be opened, and several ships positioned to arrive were facing an extremely dire situation. Some ships that have arrived at the outer anchorage are facing long waiting as the recyclers are running pillar to post to get special approvals from the banks. Only a select few have managed to obtain special permission to import so far, and the rest are being asked to differ their buying for the time being. Going ahead, some analysts believe this is a temporary phase for Bangladesh, as the forex reserves have depleted faster than expected, and the government wants to control the outflow of foreign reserves. Bangladesh is an import-dependent economy, and these ongoing issues would not last for a very long period of time. The repercussions of prolonged delays in establishing Letters of Credit could spill over the actual economy due to factory shutdowns leading to job losses, which are execrable for the economy. Once the foreign reserves return to the healthy threshold set by the government, the imports shall resume. For the time being, Bangladesh remains out of buying, and cautious buying shall resume once the banks ease the restrictions on payments. On the other hand, cash buyers refrained from offering on fresh ships as they preferred to stay on the sidelines until the dust settled down.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 14
 
@@ -323,8 +288,6 @@ Pakistani ship recycling markets remained subdued and shall remain inactive for 
 #### ALIAGA, TURKEY
 
 In October, the country's inflation rate reached 85.5%, marking the 17th month in a row that it has grown. Turkish production price index increased by 157.69% in the last year, while the consumer price index increased by 3.54%. The surge in costs has been ascribed to the Turkish currency's devaluation, which has impacted the country's purchasing power.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 15
 

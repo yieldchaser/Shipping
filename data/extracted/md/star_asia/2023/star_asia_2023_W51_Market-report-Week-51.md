@@ -28,8 +28,6 @@ A notable development was the recent decline in Treasury yields, prompting a rev
 
 Big news! In a joint announcement, global shipping company Star Bulk Carriers Corp. and Eagle Bulk Shipping Inc., one of the leading owner-operators in the midsize dry bulk vessel segment, revealed their decision to merge through an all-stock agreement on a Net Asset Value to Net Asset Value (NAV) basis. The merger, valued at approximately US$2.1 billion, received unanimous approval from both companies' boards of directors. Petros Pappas, CEO of Star Bulk, expressed optimism about the merger, stating that the consolidation would create a global leader in dry bulk shipping with a diverse and scrubber-fitted fleet. Gary Vogel, CEO of Eagle, echoed the sentiment, expressing excitement about joining forces with Star Bulk. Vogel emphasised the compatibility of the two companies, both commercially and operationally, and the belief that the merger would unlock significant value for Eagle shareholders.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 The combined company will now be the largest U.S.-listed dry bulk shipping company with a combined fleet of 169 owned vessels. It was another poor week for the Baltic's dry bulk sea freight index as overall points saw a notable dip, reaching a three-week low at the start of the week, primarily influenced by a decline in rates for Capesize. BDI recorded a decrease of 60 points, settling at 2,288. This drop follows a significant 22% decline the previous week, marking its most substantial decrease in six weeks. Factors contributing to these developments include the extension of losses in iron ore futures, as some investors unwound long positions amid persistently weak data and diminishing expectations for additional stimulus in China, a major consumer. This economic context has added pressure to shipping indices, especially impacting bigger units.
@@ -43,8 +41,6 @@ Despite the recent surge in the Pacific, oversupply issues in the Atlantic have 
 Panamax/Kamsarmax:
 
 The Atlantic market witnessed a downturn as coal shipments in the Pacific weakened, and South American grain saw seasonal declines. Despite steady ship demand in the USG, Cape rates are sharply declining, putting pressure on the Atlantic Panamax market. In the North Atlantic, there is a somewhat sluggish inflow of cargo, particularly on the T/A route. T/A levels fell to US$20,400's/day. It was also quiet in the Pacific with a lack of activity as most spot charterers concluded for the long holiday. Supramax/Ultramax: The decline continues, driven by oversupply in the Atlantic and sluggish coal demand in the Pacific. The previously supportive conditions in the USG and the Black Sea have shifted as a considerable amount of year-end cargo needs to be cleared, leading to a
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -77,8 +73,6 @@ In the Atlantic, the continuing weakness in USG demand has led to an increased d
 | SUPRAMAX | 58,000 | 13,000 |  | 12,750 |  | 13,350 | +1.96% |  | -2.62% |
 | HANDYSIZE | 38,000 | 13,250 |  | 12,750 |  | 10,250 | +3.92% |  | +29.27% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -98,8 +92,6 @@ In the Atlantic, the continuing weakness in USG demand has led to an increased d
 | CLIPPER COPENHAGEN | HANDY | 37,852 | 2010 | CHINA | 11.2 | ARMATOR SHIPPING |
 | ADVENTURE | HANDY | 33,730 | 2011 | CHINA | 11.0 | VIETNAMESE BUYERS |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -118,8 +110,6 @@ Aframax:
 
 Despite a continued slowdown in cargo intake from the Middle East, reduced availability of ships in the East of the Suez Canal, and increased tensions near the Red Sea, Aframax tanker rates for cross-Med trips have surged 50%, leading to an increase in the Baltic Exchange basket rates. North Sea also saw a positive week as rates firmed up for cross UKC to WS180.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Clean:
@@ -127,8 +117,6 @@ Clean:
 L.R.: The Middle East's recovery in CPP exports witnessed an increase in the MEG/Japan route this week. LR1 market had a quieter week in the Red Sea, with owners fixing slightly lower just before the holidays. In the east of Suez, the L.R. market saw some tightness as rates increased just a tick. MR: Steady cargo influx in the Northeast Asia region has resulted in a 4.9% increase in freight rates for the Korea/Southeast Asia route. However, a decrease in inbound cargo in the Southeast Asia market limits further increases. Overall, MR market experienced a busy week across the routes.
 
 ## Baltic Exchange Tanker Indices
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -148,8 +136,6 @@ L.R.: The Middle East's recovery in CPP exports witnessed an increase in the MEG
 
 As we look back on this segment, container rates for 6-12 months T.C. have seen levels come off the high this year by almost 50% across all sizes. Big cuts were seen in the 9,000 TEU sizes Y-O-Y, with rates closing now at US$39,500 in the region as compared to US$70,000 in the same period last year. The smaller segment also saw some 40% cuts, too, as 1,000 TEU now stand around the US$7,000 range.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 However, with the recent disruption in the Suez Canal due to the Houthi attacks, arrivals into the Gulf of Aden have seen a massive reduction in overall tonnage volumes this week, with container ships alone experiencing the bulk of the decline. This has led rates from Asia to Europe to rise, especially with the extra fuel costs. Overall, levels are still lower compared to pandemic rates.
@@ -165,8 +151,6 @@ CONTAINERS (BY TEU)
 2,700 - 2,900 5,500 - 7,000
 
 *\*(amount in USD million)*
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Containers S&P Report
 
@@ -191,23 +175,12 @@ Containers Values
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 500 ~ 510 480 ~ 490 490 ~ 500 520 ~ 530 WEAK /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 510 ~520 | 490 ~ 500 | 470 ~ 480 | 510 ~ 520 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 500 ~ 510 | 480 ~ 490 | 490 ~ 500 | 520 ~ 530 | WEAK / |
+| *CHATTOGRAM, BANGLADESH | 510 ~520 | 490 ~ 500 | 470 ~ 480 | 510 ~ 520 | WEAK / |
 | **GADDANI, PAKISTAN | 510 ~ 520 | 500 ~ 510 | 500 ~ 510 | 520 ~ 530 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -224,8 +197,6 @@ TURKEY
 | GADDANI, PAKISTAN | 420 | 360 | 400 | 600 | 550 |
 | ALIAGA, TURKEY | 270 | 240 | 245 | 340 | 250 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 | VESSEL NAME | LDT / MT | YEAR / BUILT | TYPE | PRICE | COMMENTS |
@@ -236,23 +207,17 @@ TURKEY
 | OCEAN MONARCH | 21,310 | 1974 /NORWAY | SEMI-SUB | 333 | AS IS JOHOR BHARU, MALAYSIA |
 | NEPTUNE 1 | 9,986 | 1994 / S.KOREA | BULKER | 465 | AS IS HONG KONG FOR REDELVIERY GADANI |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Ships Sold for Recycling
 
 ## Recycling Ships Price Trend
 
 ## Page 11
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
 ## Insight
 
 In yet another uneventful week, sentiments have taken a downturn across the Sub- Continent region. Contrary to the usual robust domestic demand for ship scrap in December, this time, it has shown a notable decline. This shift in dynamics is occurring within an unusual market framework, even though the supply of ships has reached its lowest point this year. Recyclers throughout the subcontinent seem reluctant to make offers until there is a significant market correction, particularly in Alang, where a substantial number are avoiding further speculation. The key factor that could inject optimism into buying sentiments is a sharp increase in domestic ship scrap prices coupled with robust demand. On the ship supply front, as the year draws to a close, a majority of ship owners are inclined to carry their ships into the new year, taking advantage of the current favorable conditions. Consequently, this situation has resulted in a severe shortage of end-of-life ships in the market. This week sales few ships have surfaced, one was from Transworld, the feeder called "Sol Valour" 1997 S. Korean built weighing 3,850 tons, was reported sold at a gross price of US$535/ton as is Colombo for redelivery Chattogram or Alang and another one was the FSU Soorena, built-in 1975 Japan weighing 40,354 tons on an undisclosed price as is Bandar Bushehr, Iran for redelivery Sub-Continent. Based on the present market situation, the only viable option is Alang, as Pakistan and Bangladesh are out of the game due to L.C. issues. Chinese owners have sold their 1994 S.Korean built bulker weighing 9,986 tons at a gross price of US$465/ton on an as is Hong Kong basis, which has been resold to Gadani recyclers at the prevailing prices. Diamond Offshore Services sold their cold stacked Semi- Submersible drilling rig "Ocean Monarch" built in 1974 at a price of US$7 million in Johor Baru, Malaysia. Her redelivery is unknown, but considering the type, Alang recyclers are usually known to be more popular for such assets. Recently, ship recycling in Turkey has come under the spotlight as the new NGO Shipbreaking Platform's report on Turkey has highlighted both challenges and opportunities in the sector. The report emphasises the potential for sustainable practices and outlines operational priorities, including effective wastewater treatment and hazardous materials verification during dismantling. With Turkey facing a critical juncture, improvements such as proper hazardous waste removal and gas-free operations were suggested.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -278,8 +243,6 @@ Anchorage & Beaching Position (December 2023)
 | WHITE PALM | TUG | 762 | 16.12.2023 | AWAITING |
 | ALEKSANDR SHALIN | FISHING | 839 | 11.12.2023 | AWAITING |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 | SEAS | TANKER | 10,061 | 18.12.2023 | 22.12.2023 |
@@ -302,8 +265,6 @@ Anchorage & Beaching Position (December 2023)
 | SEA SMILE | BULKER | 8,118 | 08.12.2023 | 14.12.2023 |
 | SHUN SIN | GENERAL CARGO | 527 | 01.12.2023 | 12.12.2023 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Gadani, Pakistan
@@ -317,8 +278,6 @@ Anchorage & Beaching Position (December 2023)
 Aliaga, Turkey
 
 Turkish mills are maintaining their domestic scrap buying prices unchanged this week, with business activity in the domestic market remaining moderate and imports halted. Most are refraining from booking imported scrap due to unaffordable prices amid falling rebar prices and expectations of a correction in scrap prices. The recent suspension of shipments through the Red Sea following attacks by Houthi rebels, has further affected the market. However, scrap suppliers may not see a softening in prices in the short term due to ongoing holidays disrupting supply. Turkish shipbreaking scrap prices stand at US$375-410/t delivered, while the lira closes at 29.21 per dollar.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -348,8 +307,6 @@ EXCHANGE RATES
 | USD / TRY (TURKEY) | 29.21 | 28.98 | -0.79% |
 
 ## HMS 1/2 & Tangshan Billet
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 

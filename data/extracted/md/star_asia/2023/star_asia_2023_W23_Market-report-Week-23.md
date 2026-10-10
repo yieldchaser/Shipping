@@ -22,8 +22,6 @@ WEEK 23 - June 11, 2023
 
 This week's highlight was the OPEC + meeting on last Sunday, the Organization of the Petroleum Exporting Countries (OPEC) and its allies have decided to maintain their planned oil production cuts for this year. Saudi Arabia, the coalition chair, announced further voluntary declines. OPEC+ also stated that they would limit combined oil production to 40.463 million barrels per day from January to December 2024. Russia confirmed that their voluntary cuts, initially set to expire after 2023, would now be extended until the end of 2024. However, there were discrepancies between the figures supplied by Russia and independent estimates, leading to concerns about Russia's commitment. Saudi Arabia announced an additional voluntary reduction of 1 million barrels per day for one month starting in July, which could be extended. The alliance also agreed to review baselines for 2025, which determine output levels, after a study by oil analysts. The outcome of the meeting and future reductions will impact oil futures prices. While in China, the producer price index data released showed that China's producer prices plunged the most in seven years as deflation hung over the economy. China's producer prices have experienced their most significant plunge in seven years, indicating the presence of deflationary pressures on the economy. Despite the lifting of strict COVID-19 lockdown measures, the economy is struggling to recover, with inflation remaining at low levels in May. The producer price index fell by 4.6% year-on-year, surpassing the decline of 3.6% observed in April and falling below the expected 4.3% decline. In contrast to major economies worldwide grappling with high inflation, China's consumer prices rose modestly by 0.2%. The nation's cooling economy is attributed to weak global commodity prices and overall demand, as highlighted by recent economic indicators. One pressing concern that Beijing is trying its best to address is the soaring youth unemployment rate, which currently stands at alarming levels. Until this crucial issue is effectively tackled, consumer confidence in spending is unlikely to improve. Addressing unemployment among young people is crucial for revitalising the economy and promoting a culture of consumerism. In summary, China's recent decision to lower deposit rates in state-owned commercial banks aims to promote economic growth. However, it remains uncertain whether this measure alone can effectively stimulate spending, as youth unemployment poses a significant obstacle that needs to be resolved to restore consumer confidence. While the United States and other Western economies are struggling with significant weaknesses, particularly in their industrial sectors, China's economic performance remains comparatively strong. However, it is argued that there is a tendency in the media to portray Western economies in a more positive light and China's economy in a more negative light. Recent data reveals that U.S. retail sales have failed to outpace inflation in five out of the last six months, reminiscent of the 2009 Great Financial Crisis. In contrast, China's retail sales have been robust, with a year-on-year growth of 18.3% even after adjusting for inflation.
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ Capesize this week saw a significant improvement in average spot rates, rising b
 Panamax/Kamsarmax:
 
 Panamax witnessed a week of contrasting fortunes. It began strongly, carrying over the positive sentiment from the previous week. Solid fresh demand in both basins propelled rates upward. However, market fragility resurfaced mid-week, as bids retracted despite slight reductions in offers, resulting in a stand-off by week's end. Fronthaul demand dominated the Atlantic, with June arrivals from EC South America fetching as high as US$15,000 a day. Mineral demand from Australia supported Indonesian supply as Pacific r/v levels bounced to US$ 8,600's a day. Supramax/Ultramax: It has been a turbulent week for Supramax, as sentiment remains largely negative. Despite a small influx of new cargo, there was an abundance of available ships ready for immediate hire, which has kept freight rates in check. Owners are engaged in fierce competition to secure contracts for their vessels. In the Atlantic, a 59,000-ton ship reportedly booked scrap cargo from the Baltic to the U.S. East Coast for US$8,250 a day. In Asia, the situation slightly improved with some cargo from Indonesia, but overall negativity persisted. A 60,000mt in China secured a trip to Indonesia and will return to China for US$5,000 a day, while a 63,000mt vessel agreed to a trip from Hong Kong via Australia to Singapore- Japan for US$8,000 a day.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -71,8 +67,6 @@ KUMPULA
 | SIRAYA WISDOM | HANDY | 21,118 | 2007 | JAPAN | UNDISCLOSED | UNDISCLOSED |
 | PAZEH WISDOM | HANDY | 18,969 | 2009 | JAPAN | 8.50 | UNDISCLOSED |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk Values
@@ -100,8 +94,6 @@ KUMPULA
 | SUPRAMAX | 52,000 | 12,250 | 12,250 | 25,750 | 0 |  | -52.43% |
 | HANDYSIZE | 32,000 | 9,350 | 9,350 | 26,500 | 0 |  | -64.72% |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -119,8 +111,6 @@ Suezmax rates have experienced a decline across various routes. 135,000mt C.P.C.
 Aframax:
 
 In the North Sea, the rate for 80,000mt Hound Point to Wilhelmshaven fell to WS140 level. Meanwhile, in the Mediterranean, rates fell significantly, with 80,000mt Ceyhan to Lavera losing 21 points and reaching WS149.5. In the Atlantic, 70,000mt EC Mexico to the USG surged by 37.5 points to WS177. Meanwhile, Trans-Atlantic 70,000mt from the U.S. Gulf to Rotterdam, saw levels imoroved by 34 points since last Friday, settling at WS177.5. This corresponds to a round-trip T.C.E. of US$45,600 per day.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -143,8 +133,6 @@ L.R. 2: Over the past week, the LR2 market for M.E.G. trips has experienced a be
 | EAGLE BAY | MR | 47,134 | 2008 | S.KOREA | 24.25 | UNDISCLOSED |
 | GULF MISHREF | MR | 46,089 | 2010 | S.KOREA | UNDISCLOSED | U.A.E BUYERS |
 | BLUE TRADER | HANDY | 37,270 | 2005 | S.KOREA | 18.20 | U.A.E. BUYERS |
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -176,8 +164,6 @@ Tanker 12 months T/C rates average (in USD/day)
 | LR1 | 74,000 | 35,000 | 35,500 | 22,500 | -1.41% | +55.56% |
 | MR | 47,000 | 26,000 | 26,000 | 19,000 | 0 | +36.85% |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 # Containers
@@ -199,8 +185,6 @@ This week, the charter market for box ships showed contrasting trends, with rate
 | GUANGZHOU TRADER | FEEDER | 1,700 | 2016 | CHINA | 20.0 | BUYER RCL, THAILAND |
 | ITHA BHUM | FEEDER | 1,498 | 1996 | JAPAN | 4.90 | BUYERS CHINESE |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # Containers Values
@@ -213,18 +197,14 @@ This week, the charter market for box ships showed contrasting trends, with rate
 | 5,500 - 7,000 | Gearless | 88 | 80 | 70 | 65 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS / WEEKLY
-
-GENERAL CARGO FUTURE TREND ALANG (WC INDIA)
-
-| *CHATTOGRAM, BANGLADESH | 560~570 | 550~560 | 540~550 | 590 ~ 600 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) \*For green ship recycling, the prices are about US$10-15/ton lower. | 530 ~ 540 | 510 ~ 520 | 530 ~ 540 | 540 ~ 550 | STABLE / |
+| *CHATTOGRAM, BANGLADESH | 560~570 | 550~560 | 540~550 | 590 ~ 600 | WEAK / |
 | GADDANI, PAKISTAN TURKEY | NA | NA | NA | NA | NA |
 | *ForNon-EU ships.ForE.U. Ship,the pricesareabout US$20-30/tonless | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
@@ -253,8 +233,6 @@ GENERAL CARGO FUTURE TREND ALANG (WC INDIA)
 | MSC NICOLE | 13,961 | 1989 / FRANCE | CONTAINER | 521 | DELIVERED ALANG / HKC RECYCLING / BULKER CONVERTED TO CONTAINER SHIP |
 | JASMINE II | 9,563 | 1997 / CHINA | BULKER | 585 | DELIVERED CHATTOGRAM / 150 MT ROB, INCLUDED IN THE SALE |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Recycling Ships Price Trend
@@ -262,8 +240,6 @@ GENERAL CARGO FUTURE TREND ALANG (WC INDIA)
 # Insight
 
 This week, Bangladesh's markets experienced a sudden and alarming setback as issues surrounding Letters of Credit (L.C.) have resurfaced. Unofficial communication from banks to their clients has indicated their inability to issue L.C. for new purchases. This unexpected development has caused confusion and uncertainty within the market. Market volatility is an inherent aspect of the industry, and currently, the freight rates have been volatile, leading to a considerable number of ships becoming perfect recycling candidates. Meanwhile, the local demand in the Sub-Continent for ship scrap is gradually waning, adding to the mounting pressure. In a broader sense, the markets are taking a negative turn, and a price drop appears to be on the horizon for the time being. Whether this will be a short-term or long-term trend depends on various factors. Nonetheless, recyclers are adopting an extremely cautious approach at present. In China, the two major steelmaking cities in China have implemented production cuts, leading to a surge in finished steel prices on June 5. Tangshan, which is the country's largest steelmaking hub, has instructed its top-ranked producers to halt one sintering machine each until the end of June. Additionally, all other producers in Tangshan have been directed to reduce operations at one blast
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -284,8 +260,6 @@ Anchorage & Beaching Position (June 2023)
 | MSC LUCIA | CONTAINER | 8,911 | 27.05.2023 | 02.06.2023 |
 | NOVO 23 | FISH FACTORY | 3,861 | 25.05.2023 | 02.06.2023 |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
 
 Chattogram,Bangladesh
@@ -299,8 +273,6 @@ Anchorage & Beaching Position (June 2023)
 | MERATUS MAKASSAR | CONTAINER | 5,455 | 08.06.2023 | AWAITING |
 | FORTUNE | WOODCHIP | 9,730 | 04.06.2023 | 07.06.2023 |
 | BODR | FISH FACTORY | 925 | 31.05.2023 | 07.06.2023 |
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -318,8 +290,6 @@ Pakistan's government presented a budget for the upcoming fiscal year on Friday,
 Aliaga, Turkey
 
 The Turkish lira's sharp decline to new record lows against the U.S. dollar has captured market attention this week, despite a lackluster sentiment as investors await the upcoming Federal Reserve meeting. With the USD/TRY exchange rate soaring over 7% to exceed 23.50, the Turkish currency continues its downward spiral. The initial drop followed Recep Tayyip Erdogan's re-election as Turkish president, but the situation worsened when the country's net foreign exchange reserves turned negative for the first time since 2002. Erdogan's victory has unsettled markets, and despite his professed willingness to enact economic policy changes, the lira remains under severe pressure. Skepticism surrounds Erdogan's commitment, as his impulsive decisionmaking raises doubts about following through on promises. On the ship recycling front and ferrous scrap imports, the markets remained quiet as recyclers were trying to digest the recent rout of lira. However, the Turkish ferrous scrap prices stablised at approx US$390/ton levels, but traders were reluctant to book fresh cargoes.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -361,25 +331,17 @@ in demand and a decrease in port inventories. The benchmark Australian iron ore 
 
 increased oil supply. Media reports from the Middle East indicated progress in talks between Iran and the U.S. regarding Iran's nuclear program. If the 2015 nuclear deal is restored, sanctions that restricted Iranian oil exports could be lifted. Following the deal's termination by the Trump Administration, Iran's oil production dropped from 3.8mb/d to 2-2.5mb/d. This reaction underscores the prevailing pessimistic sentiment in the market, with the recent reduction in output by Saudi Arabia having a lesser impact..
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 The World Steel Association has released the 2023 edition of its report, World Steel in Figures. This publication offers a comprehensive overview of various aspects of the steel industry, ranging from crude steel production to apparent steel consumption, global steel trade flows, and iron ore production and trade.
 
 According to Edwin Basson, the Director General of worldsteel, most countries experienced a slight decline in steel production and consumption in 2022. This can be attributed to the lasting impact of COVID-19 restrictions on the industry. Global Steel Production in 2022 Fell the Most since 2009. However, any future growth in steel production and demand must align with the goals set forth in the Paris Agreement. In worldsteel's policy paper on climate change, it emphasizes the need for the steel industry to enhance the efficiency of its existing technologies while also rapidly developing and implementing new steelmaking technologies on a large scale. Basson acknowledges the efforts of many worldsteel members who are actively working towards this objective.
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
 While in Copper markets, which is traditionally considered a leading indicator of global economic health, the prices have taken a hit due to weaker demand from China, the largest consumer of the metal, amid disappointing economic data. The slowdown in China's property market and a string of underwhelming economic releases have dampened sentiment for base metals. Despite April's industrial output growth of 5.6%, it fell short of expectations, along with lower-than-anticipated retail sales figures. Copper is trading down by more than 8% so far this month in the key London Metal Exchange and a similar trend was witnessed in the China Shanghai futures as well. Cooling demand is evident as consumer prices barely grew, and imports and exports have slowed globally. The U.S. Federal Reserve's aggressive policies and a resilient U.S. dollar have further impacted business activities and commodity prices. However, the long-term outlook for copper remains positive, driven by economic growth, technological advancements, and sustainability initiatives. Global ferrous scrap prices experienced slight growth this week, with adjustments noticed across different grades. Trade flow remained stable in the South Asian market, particularly in India and Pakistan, while Bangladesh made smaller contributions, including bookings at Japan's Kanto scrap tender. Turkey witnessed several deals at consistent levels from suppliers in Europe, the US, and the Baltic region. Following the Kanto tender for June, Japanese ferrous scrap export prices have risen. Both Shagang Steel in China and Tokyo Steel have also made revisions to their purchase prices during the week.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

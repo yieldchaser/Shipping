@@ -22,8 +22,6 @@ pages: 19
 
 In a sweeping start to his second presidency, Donald Trump issued numerous executive orders aimed at dramatically reversing his predecessor's policies. His most significant early action was pardoning over 1,500 January 6 defendants, which he framed as "ending a grave national injustice" and beginning national reconciliation. He also granted TikTok a 75-day reprieve from a planned ban while negotiations continue over national security concerns. Immigration emerged as an immediate focal point, with Trump declaring a national emergency at the southern border and authorising military deployment. His orders included resuming border wall construction, ending birthright citizenship for children of non-permanent residents, halting refugee resettlement, and reinstating the "Remain in Mexico" policy. The administration also initiated a massive shift in deportation policies, empowering immigration officers with broader authority. On energy and environmental policy, Trump moved to boost domestic production by reopening areas for oil and gas exploration, including offshore and Alaskan territories. He began the process of withdrawing from the Paris Climate Agreement and dismantled various efficiency regulations affecting everyday appliances. The administration also targeted Biden-era electric vehicle initiatives, planning to eliminate subsidies and state emissions waivers. The new administration took aim at diversity initiatives, terminating federal DEI programs and revoking certain anti-discrimination protections dating back to 1965. Trump ordered federal employees to return to in-person work, implemented a federal hiring freeze (except for military and immigration enforcement), and mandated that government agencies recognize only two biological sexes in official documentation. While he has discussed imposing new tariffs on various trading partners, specific trade actions remain under review pending agency studies due by April.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Pacific market continues to weaken as iron ore demand shows minimal signs of
 Panamax/Kamsarmax:
 
 The Atlantic is experiencing increased downward pressure due to accumulated ballast vessels, leading to falling market sentiment. Similarly, in the Pacific, with most spot fixtures concluded ahead of the Lunar holidays, only owners needing to secure their next cargo are engaging in fixture activities, resulting in continued rate declines. Pacific r/v saw rates fall to US$ 4,700 at closing. Supramax/Ultramax: The Atlantic region continues to show weakness across major routes due to the absence of new cargo influx as rates in the T/A slipped to US$13,500's. Similarly, the Pacific maintains its downward trend as persistent supply pressure continues without any significant upward momentum.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -62,8 +58,6 @@ Similar weakness was seen in the Handy segment with lack of activity across both
 | HANDY | 38,000 | 29 | 33 | 27 | 20 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -79,8 +73,6 @@ Similar weakness was seen in the Handy segment with lack of activity across both
 | HAI KANG / HAI BAO | HANDY | 35,215 | 2010 | CHINA | RMB 50.4M EACH (USD 6.9M) | UNDISCLOSED (VIA AUCTION) |
 | BLESSING SW | HANDY | 29,747 | 2010 | JAPAN | 8.0 | UNDISCLOSED |
 | BRABUS | HANDY | 28,355 | 2000 | PHILIPPINES | 4.0 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -99,8 +91,6 @@ West African markets dipped as well with demand shifting to VLCCs, with the buil
 Aframax:
 
 The Aframax segment in the Middle East showed moderate gains despite the currents in the VLCC and Suezmax trends. In the Mediterranean, 80,000mt Ceyhan/Lavera climbed 7 points to WS131. However, similarly, vessel availability has limited the rate increases.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -134,11 +124,7 @@ Tankers S&P Report
 | AMAX ANTHEM | AFRA | 116,087 | 2011 | S. KOREA | 39.5 | UNDISCLOSED |
 | AMAX AVENUE | AFRA | 115,785 | 2010 | S. KOREA | 39.5 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -163,33 +149,18 @@ VESSEL NAME TYPE TEU YEAR BUILT PRICE COMMENTS /
 
 (MILLION) USD BUYERS NO NEW SALE REPORTED
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 450 ~ 460 430 ~ 440 440 ~ 450 460 ~ 470 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | WEAK / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 340 ~ 350 350 ~ 360 370 ~ 380 STABLE /
-
-*Ship, the prices are about USD 20-30/tonon less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 450 ~ 460 | 430 ~ 440 | 440 ~ 450 | 460 ~ 470 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | WEAK / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/tonon less | 360 ~ 370 | 340 ~ 350 | 350 ~ 360 | 370 ~ 380 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -206,8 +177,6 @@ TURKEY
 | GADDANI, PAKISTAN | 360 | 420 | 600 | 540 | 520 |
 | ALIAGA, TURKEY | 230 | 240 | 330 | 270 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -222,19 +191,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights
 
 The ship recycling markets across the Sub-Continent remained subdued this week, with domestic scrap prices stabilising at lower levels. A notable surge in vessel supply has led to a cautious approach among recyclers, contributing to a prevailing sense of uncertainty in the industry. Despite the influx of tonnage, demand across key recycling hubs in India, Bangladesh, and Pakistan has remained sluggish, further dampening market sentiment. Industry analysts suggest that the current conditions reflect a broader trend of market weakness and sluggish activity, with recyclers adopting a wait-and-watch strategy in response to volatile economic conditions.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -276,8 +239,6 @@ Chattogram
 
 Gadani
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Aliaga, Turkey
@@ -310,8 +271,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 278.72 | 278.65 | -0.03% |
 | USD / TRY (TURKEY) | 35.68 Sub-Continent and Turkey ferrous scrap markets insight | 35.45 | -0.65% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 ### The Sub-Continent Ferrous Scrap Market Sees Uptrend Amid Turkish Price Gains
@@ -330,8 +289,6 @@ Pakistan's scrap market saw limited activity, with shredded scrap offers hoverin
 
 Bangladesh's ferrous scrap market continues to face headwinds, with sluggish demand persisting despite a marginal US$3/ton d-o-d increase in UK-origin shredded scrap prices to US$384/ton CFR Chattogram. Weak steel sales from Dhaka mills have prompted attempts to raise rebar prices to protect margins, though demand remains tepid.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Market insiders suggest Australian-origin scrap remains a preferred choice due to its competitive pricing and quicker shipping times. Additionally, the delayed disbursement of the International Monetary Fund (IMF) US$4.7 billion loan has contributed to the market's uncertain outlook. However, industry participants anticipate a potential recovery between March and April, with further improvements expected after June.
@@ -341,8 +298,6 @@ Market insiders suggest Australian-origin scrap remains a preferred choice due t
 Turkish deep-sea scrap prices continued their upward trajectory, bolstered by mills securing material for February shipments. Heavy melting scrap (HMS 80:20) prices have risen to US$340/ton CFR, marking a significant increase from the previous week's lows. Despite the bullish trend, market sentiment remains cautious, with some stakeholders pointing to potential geopolitical risks, including Turkeys' regional influence and ongoing conflicts in Gaza, which could impact the rebar sector and influence scrap price dynamics. A European-origin cargo for HMS (80:20) is reportedly sought at US$335/ton CFR, with expectations of further price hikes amid a tightening supply.
 
 ## HMS 1/2 & Tangshan Billet
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -359,8 +314,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 104 | +0.97% | -23.52% | 103 | 136 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 105 | 0 | -23.91% | 105 | 138 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

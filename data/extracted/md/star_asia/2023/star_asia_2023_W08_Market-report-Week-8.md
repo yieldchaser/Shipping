@@ -26,8 +26,6 @@ During their Jan. 31-Feb. 1 meeting, Federal Reserve officials anticipated that 
 
 Dry bulk shipping rates are expected to rise due to bumper soybean harvests in Brazil and unsold grain stocks in the U.S., according to industry sources. China is among the countries expected to restock after supply shocks last year, leading to increased demand for shipping. Slow activity in the sector has been driven in part by Covid lockdowns in China. But the limited ordering of dry bulk ships, coupled with the scrapping of smaller, less energy-efficient vessels used in the grains trade, is expected to tighten vessel availability. This year, new maritime environmental regulations are also anticipated to cause ships to reduce their speeds to cut emissions, further reducing the supply of vessels. Meanwhile, the spot price of benchmark 62% iron ore is rising due to stronger Chinese demand and lower supply from the world's two biggest exporters of steel raw material. The price rose to US$128.80 per ton on Monday, up 5.7% over the past week and now 63% higher than the 2022 low of US$79 a ton. The increase is driven by steel mills restocking in China, which buys about 70% of global seaborne iron ore and produces half of the world's steel. Iron ore inventories at Chinese ports also rose to 140.9 million tonnes in the week to February 17, with expectations that infrastructure and construction activity will pick up in late Spring.
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 ### Capesize:
@@ -45,8 +43,6 @@ Improved demand in the Atlantic and recovering demand in the Pacific have led to
 ### Handysize:
 
 This week saw T/A route leading an uptick due to the influx of new cargo in Europe. Levels closed in around US$8,500 a day. Although the winning trend continued, F/H activity in South America showed signs of recovery from the previous day, but the contract price slipped slightly from last amidst the regions of US$ 10,000's. In the Pacific basin, the influx of cargo from Indonesia and NOPAC remains strong, with Inter-Pacific levels remaining around US$7,800 a day.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -94,15 +90,11 @@ BALTIC EXCHANGE DRY BULK INDICES
 | BSI | 940 | 695 | 2,417 | +35.25% | -61.11% |
 | BHSI | 493 | 438 | 1,399 | +12.56% | -64.76% |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
 
 ## Tankers
 
 China's foreign ministry has expressed deep concern about the escalating war in Ukraine during a recent official visit of Beijing's top diplomat, Wang Yi, to Moscow. China's foreign minister, Qin Gang, has urged relevant parties to stop adding fuel to the fire and urged for the provision of Chinese wisdom for the political settlement of the Ukrainian crisis. President Xi Jinping is planning to visit Moscow in the coming months to meet with his counterpart President Putin, as Beijing seeks to play a more active role in ending the conflict. China has vowed to stay firm on the side of peace and dialogue, with Xi's visit considered a huge symbol of China's partnership with Russia. Meanwhile, oil prices rose slightly in thin Asian trade on Thursday, with WTI pausing from a sixday losing streak fed by mounting concerns that more aggressive interest rate increases by central banks could pressure economic growth and fuel demand. China's unexpected shift from its strict zero covid policy at the end of 2022 has led to projected strong growth in fuel demand in 2023, particularly for crude imports and refined product
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 5
 
@@ -123,8 +115,6 @@ Despite the busy activity in the Med/Black Sea region this week, the rates have 
 ### Clean:
 
 M.R. rates this week slipped due to a surplus of available tonnage, leading to a quieter week with softened rates as TC2 lost 66 points to WS193. L.R.s in the Middle East have experienced a decline after showing some improvement. TC1 reached its peak of just over WS200 midweek before declining to WS194. In a similar fashion, the LR1s have also fallen this week, with TC5 losing points and falling to WS209.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -178,8 +168,6 @@ PROD / BELUGA PACIFIC 17,988 2018 CHINA 19.5 UNDISCLOSED CHEM
 | 1,338 | 1,261 | 1,147 | +6.11% | +16.65% |
 | 955 | 1,084 | 696 | -11.90% | +37.21% |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 7
 
 | TYPE | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) DWT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) CURRENT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST WEEK | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST YEAR | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) W-O-W CHANGE | Y-O-Y CHANGE |
@@ -193,8 +181,6 @@ PROD / BELUGA PACIFIC 17,988 2018 CHINA 19.5 UNDISCLOSED CHEM
 ## Containers
 
 Management at LimakPort Iskenderun, the Turkish container terminal, has stated that it will take approximately three months to restore operations to their usual state following the earthquake that struck on February 6, causing significant structural damage and a severe fire as containers caught fire. The port typically handles 40,000 teu monthly and is located in the southern province of Hatay, which suffered significant damage from the magnitude 7.8 earthquake that destroyed over 1,200 buildings. Additionally, many roads in the region will require repair. Meanwhile, this week, the 1,700 TEU sector saw periods of six and 12 months settling at almost similar rates. There appears to be an uptick in demand than supply, especially from Asian operators looking for tonnage in March.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 8
 
@@ -212,30 +198,21 @@ Management at LimakPort Iskenderun, the Turkish container terminal, has stated t
 | 5,500 - 7,000 | Gearless |  | 87 | 85 | 70 | 45 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |  |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
 | DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
 |---|---|---|---|---|---|
-| ALANG (WC INDIA) |  |  | CARGO |  | TREND |
 | *For green ship recycling, the prices are about | 530 ~ 540 | 520 ~ 530 | 510 ~ 520 | 540 ~ 550 | STABLE / |
+| CHATTOGRAM, BANGLADESH | \*580 ~ 590 | \*560 ~ 570 | \*540 ~ 550 | \*590 ~ 600 | IMPROVING / |
+| GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-US$25-30/ton lower.
-
-CHATTOGRAM, \*580 ~ 590 \*560 ~ 570 \*540 ~ 550 \*590 ~ 600 IMPROVING / BANGLADESH
-
-GADDANI, PAKISTAN NA NA NA NA NA
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-Ship, the prices are about US$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
@@ -255,8 +232,6 @@ ALIAGA, TURKEY 290 270 240 245 340
 |---|---|---|---|---|---|
 | TAI FU NO.1 | 3,670 | 1979 / JAPAN | REEFER | UNDISCLOSED | AS IS BANGKOK |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 10
 
 ## Recycling Ships Price Trend
@@ -264,8 +239,6 @@ ALIAGA, TURKEY 290 270 240 245 340
 ## Insight
 
 This week the Sub-Continent ship recycling markets remained stable, with demand intact. The ship requirements at the Sub-Continent yards increased as the volatility in supply continued. The supply of ships for recycling once again took a pause after easing earlier this month in the backdrop of improving freight rates across the segments. The container and dry bulk sector may provide some tonnage for recyclers going forward, though there is unlikely to be a significant increase in volumes. In China, the recently held National Iron and Steel Scrap Conference on 22nd ~ February 24 in Chengdu City was focussed on increasing the generation and utilisation of ferrous scrap in
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 11
 
@@ -295,8 +268,6 @@ The markets remained steady this week, with ship prices holding firm, but many r
 | OKRA 1 | BULKER | 21,018 | 01.02.2023 | 06.02.2023 |
 | UNI 1 | CONTAINER | 7,098 | 31.01.2023 | 04.02.2023 |
 | PIONEER NIKOLAEVA | FISHING | 3,899 | 25.01.2023 | 03.02.2023 |
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 12
 
@@ -328,8 +299,6 @@ The ship scrap plates and melting scrap made a significant improvement after wea
 | JASMINE 201 | BULKER | 9,928 | 01.02.2023 | 08.02.2023 |
 | HARIN TRANSPORT 20 | GC | 897 | 30.01.2023 | 08.02.2023 |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 13
 
 ### GADDANI, PAKISTAN
@@ -341,8 +310,6 @@ Pakistan sits on the sidelines yet again this week. The recycling market looks b
 ### ALIAGA, TURKEY
 
 As the Turkish government plans to reconstruct earthquake-hit cities within the next three to four months, mills in Turkey have continued to demand scrap, causing scrap prices to increase. Some suppliers, however, have backed off from the market while others have offered premium HMS 1&2 80:20 above US$430/ton cfr on Tuesday. Even though some deals have been made, today's prices may not be available tomorrow. The ship recycling prices remained stable as private EU tonnages kept the yards active. Robust demand kept the prices elevated in Aliaga.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 14
 

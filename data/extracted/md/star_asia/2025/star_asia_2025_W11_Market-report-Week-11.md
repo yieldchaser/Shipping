@@ -22,8 +22,6 @@ WEEK 11 - March 14, 2025
 
 In a significant escalation of global trade tensions, President Donald Trump has implemented 25% tariffs on all U.S. steel and aluminum imports, triggering swift and substantial retaliation from major trading partners. The European Union has responded with "proportionate countermeasures" on U.S. imports worth up to €26 billion (US$28.4 billion), while Canada has announced 25% retaliatory tariffs on approximately C$30 billion (US$20.8 billion) of U.S. products, including metals, computers, and sporting equipment. Trump has threatened further escalation and signaling potential additional tariffs on automobiles, semiconductors, pharmaceuticals, lumber, and agricultural products as early as April. This trade confrontation occurs just seven weeks into Trump's second term, creating market volatility and economic uncertainty despite warnings from major industry stakeholders that such measures could endanger tens of thousands of jobs. The impact extends beyond immediate tariffs, with Canada's central bank cutting interest rates to prepare for economic disruption, and U.S. Commerce Secretary Howard Lutnick indicating that protections would be extended to copper as well. While the EU's countermeasures target a relatively small fraction of U.S. exports, specific sectors like the liquor industry have warned of potentially devastating consequences. International reactions have varied, with China promising to safeguard its interests and Japan expressing concern about the impact on bilateral economic ties. Closer U.S. allies like Britain and Australia have criticized the blanket tariffs but ruled out immediate retaliatory measures, while Brazil, the second-largest steel provider to the United States, has indicated it will not immediately retaliate. Despite the escalating tensions, European Commission President Ursula von der Leyen has stated that the bloc will resume talks with U.S. officials, leaving some room for potential negotiation amid the growing trade conflict.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -56,8 +54,6 @@ Activity in the Atlantic saw an uptick this week with fixings done before the im
 | BSI | 930 | 864 | 1,326 | +7.64% | -29.86% |
 | BHSI | 572 | 556 | 781 | +2.88% | -26.76% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 3
 
 # Dry Bulk Values
@@ -71,8 +67,6 @@ Activity in the Atlantic saw an uptick this week with fixings done before the im
 | SUPRAMAX | 56,000 | - | - | 27 | 20 | 13 |
 | HANDY | 38,000 | 31 | 33 | 25 | 17 | 14 |
 | *(amount in USD | million) |  |  |  |  |  |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -97,8 +91,6 @@ Activity in the Atlantic saw an uptick this week with fixings done before the im
 | ACHILLES BULKER | HANDY | 32,729 | 2003 | JAPAN | 6.6 | UNDISCLOSED |
 | PNOI | HANDY | 32,282 | 2009 | JAPAN | 11.2 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -116,8 +108,6 @@ In the West African market, chartering activity saw an uptick middle of the week
 Aframax:
 
 In the Middle East, rates closed slightly lower due to generally weak demand across the East of Suez region. On the Med side, Ceyhan/Lavera also saw lower rates for 80,000mt as rates lost 5 points, closing at WS115 at the week's end. Overall flat levels across the basins for Aframax unit.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -152,8 +142,6 @@ Y-O-Y CHANGE -21.39% -36.44%
 | MR | 51,000 | 50 | 52 | 40 | 31 | 20 |
 | *(amount in USD million) |  |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 # Tankers S&P Report
@@ -167,8 +155,6 @@ Y-O-Y CHANGE -21.39% -36.44%
 | MARLIN AMBER | MR | 49,999 | 2015 | CHINA | 30.0 | UNDISCLOSED |
 | NORD SWIFT | MR | 49,579 | 2015 | S. KOREA | 33.2 | GREEK BUYERS |
 | ALICE | MR | 37,320 | 2007 | S. KOREA | 9.0 | BESIKTAS GEMI INSA |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -194,33 +180,18 @@ S&P Containers Report
 | HANSA SALZBURG | FEEDER | 1,740 | 2011 | CHINA | 18.5 | CHINESE BUYERS |
 | MARGARET RIVER BRIDGE | FEEDER | 1,708 | 2009 | JAPAN | 18.6 | TANTO INTIM LINE |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 450 ~ 460 430 ~ 440 440 ~ 450 460 ~ 470 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 320 ~ 330 300 ~ 310 290 ~ 300 330 ~ 340 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 450 ~ 460 | 430 ~ 440 | 440 ~ 450 | 460 ~ 470 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 320 ~ 330 | 300 ~ 310 | 290 ~ 300 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -237,8 +208,6 @@ TURKEY
 | GADDANI, PAKISTAN | 360 | 460 | 650 | - | 540 |
 | ALIAGA, TURKEY | 230 | 250 | 380 | 320 | 330 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -253,19 +222,13 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights
 
 The recycling market continues to suffer pointed volatility as end buyers across major destinations remain hesitant to commit to purchases. Despite brief price spikes in both Bangladesh and Pakistan, these markets quickly reverted to their wary approach, primarily resulting from ongoing L/Cs restrictions that have severely limited buying capabilities. Adding to that, the recent U.S. Treasury Department sanctions against the dark fleet VLCC Itaugua, has sent ripples through the industry, deterring buyers who had been eyeing dark fleet prospects. The situation has become particularly sensitive as both the Itaugua and another vessel, the Artemis III, were on watchlists published by United Against Nuclear Iran and the U.S. Department of Energy for allegedly transporting sanctioned Iranian crude oil, despite not being formally sanctioned at the time of their arrival in Bangladesh.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -289,8 +252,6 @@ Chattogram
 
 Bangladesh outlook remains hesitant, with buyers strategically shifting their focus to smaller vessels amid reduced tonnage availability. Despite good demand, financial uncertainty and severely limited L/Cs availability have forced recyclers to adopt a cautious, selective approach to purchases. This situation coincides with the local scrap market experiencing modest improvement following a subdued start to Ramadan, with imported scrap offers declining by US$5-7 per ton while overall buying remains weak. Looking toward future developments, Bangladesh's steel industry is poised for transformation with Bashundhara Multi Steel Industries' planned facility at the National Special Economic Zone in Mirsarai, Chattogram. Set to begin operations by mid-2026, this project will feature the world's largest single-strand mini mill for long steel products,
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 with a 1.25 million tons per year capacity for rebar in coil and wire rod production. With over half the site already developed and plans for a dedicated jetty on the Sandwip Channel, this advancement may eventually provide new opportunities for the region.
@@ -298,8 +259,6 @@ with a 1.25 million tons per year capacity for rebar in coil and wire rod produc
 Gadani
 
 Gadani is showing signs of life despite broader challenges in the local steel market. Despite these indicators, the sector continues to face considerable financial constraints that limit its growth potential. Ongoing restrictions on L/Cs mean only a few buyers have the capacity to secure financing for larger vessels, potentially hindering deals for more substantial tonnage. This financial challenge is further reflected in the recent US$152 million decrease in foreign exchange reserves held by the State Bank of Pakistan, which fell to US$11 billion due to external debt repayments, even as the central bank engaged in large-scale dollar purchases from the banking market to mitigate these pressures.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -333,8 +292,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 279.92 | 279.96 | +0.01% |
 | USD / TRY (TURKEY) | 36.52 | 36.46 | -0.16% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 # HMS 1/2 & Tangshan Billet
@@ -344,8 +301,6 @@ EXCHANGE RATES
 **Iron ore markets showed mixed signals at closing as seaborne prices weakened while**
 
 futures demonstrated strong performance. Singapore Exchange April contracts for 62% Fe gained US$1.56 to reach US$102.22 per ton, suggesting divergent short-term and midterm outlooks. Industrial metals, including Copper and Aluminium, also saw decline at week's closing. Recent inventory data has reinforced signs of improving demand in China, with apparent consumption of major steel products increasing and total steel inventories continuing to decline. Notably, rebar inventories maintained their downward trend despite rising production levels, signaling steady demand in the construction sector. This positive indicator has helped restore some confidence in the market, alleviating concerns over the potential oversupply that had previously weighed on sentiment. In related news, Canada has filed an additional complaint with the World Trade Organization against the United States, specifically targeting President Trump's recently implemented 25% tariffs on steel and aluminum imports. This petition follows an earlier objection to Trump's blanket tariff on Canadian imports and comes alongside retaliatory measures on approximately CAD 30 billion (US$20.8 billion) of US goods. The Canadian Steel Producers Association has expressed alarm over these "unjustified" tariffs, warning of "devastating repercussions on both sides of the border" and calling on the Canadian government to enact protective measures against unfair trade practices while prioritizing domestic steel in publicly funded infrastructure projects.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

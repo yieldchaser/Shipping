@@ -26,8 +26,6 @@ Midweek, the Federal Reserve raised interest rates by a quarter of a percentage 
 
 The global head of commodities for Goldman Sachs, Jeff Currie, expects a commodities supercycle driven by China and the capital flight from energy markets and investments. He stated that the recent crisis at Credit Suisse and the collapse of two US lenders led to a decrease in oil prices. However, the hit was to the supply side rather than the demand side, and the bank remains very bullish on copper. He further mentioned that the forward outlook for copper is "extraordinarily positive" and that the copper price could reach US$10,500 in the near term and US$15,000 in the longer term. Furthermore, Currie noted that the concerns about the banking sector were centered around US regional banks, while Europe was relatively safe from contagion. Meanwhile, China has announced a target of around 5% for economic growth in 2023, which has disappointed some market observers who were expecting a more aggressive target. However, recent Chinese PMI numbers have reached levels not seen since 2011, indicating potential for infrastructure spending and increased bulk commodity demand. This is supported by the high price of iron ore, which remains at multi-month highs despite uncertainty. China's importance in bulk commodities means that its growth could provide muchneeded demand for these industries, leading to a positive impact on dry bulk shipping. Overall, there is optimism for incremental demand growth for bulk commodities in the rest of the year.
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 ## Capesize:
@@ -45,8 +43,6 @@ The trend of recovery continued across all basins, but it began to correct in th
 ## Handysize:
 
 Overall, market sentiment remained positive despite slight limitations in new cargo inflows from South America in the Atlantic. In the Pacific, major shipping routes showed mixed trends in different directions. Inter-Pacific fell to US$9,450's range, slightly lower than last week's levels. In Southeast Asia, there was an increase in cargo, but the supply advantage structure remained unresolved, resulting in declines. T/A saw some improvements, too, with rates in the region of US$ 10,500's.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -93,11 +89,7 @@ BALTIC EXCHANGE DRY BULK INDICES
 | BSI | 1,332 | 1,318 | 3,020 | +1.06% | -55.89% |
 | BHSI | 703 | 694 | 1,782 | +1.30% | -60.55% |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 5
 
@@ -116,8 +108,6 @@ This week saw a climb of 17% in WS from limited ship supply and increased cargo 
 ## Aframax:
 
 Owners are moving away from the Aframax market in the North Sea basin, creating a shortage of tonnage, which is expected to strengthen the market. At closing, we saw 80,000mt Ceyhan/Lavera shot 90 points to WS300. The Med/Black Sea market has seen a significant increase in cargo activity and is expected to remain firm.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -154,8 +144,6 @@ The rates for MRs in the USG have been volatile this week, roller-coasting up an
 | PANAMAX-LR1 | 73,000 | 54 | 57 | 47 | 36 | 18 |
 | MR TANKER | 51,000 | 45 | 47 | 41 | 33 | 18 |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 7
 
 # Baltic Exchange Tanker Indices
@@ -181,8 +169,6 @@ The rates for MRs in the USG have been volatile this week, roller-coasting up an
 
 Rumors suggest that Credit Suisse and First Republic Bank are facing a crisis following the bankruptcy of Silicon Valley Bank. This led to a contraction of investment and is expected to have a negative impact on trade volume. Despite this, orders for eco-friendly ships have continued, with a significant backlog of orders.This week, there was a modest increase in TC, with fixtures spread evenly across different sizes. There was more activity in the Panamax size, with 6-12 month TC rate for a 4,400 TEU climbing to around US$22,000/day. The SCFI remained largely unchanged, with rates on some routes remaining flat.
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 8
 
 # Containers S&P Report
@@ -203,30 +189,21 @@ Rumors suggest that Credit Suisse and First Republic Bank are facing a crisis fo
 | 5,500 - 7,000 | Gearless |  | 87 | 80 | 65 | 40 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |  |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
 | DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
 |---|---|---|---|---|---|
-| ALANG (WC INDIA) |  |  | CARGO |  | TREND |
 | *For green ship recycling, the prices are about | 550 ~ 560 | 530 ~ 540 | 540 ~ 550 | 580 ~ 590 | STABLE / |
+| CHATTOGRAM, BANGLADESH | \*600 ~ 610 | \*580 ~ 590 | \*570 ~ 580 | \*610 ~ 620 | STABLE / |
+| GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
+| TURKEY \*For Non-EU ships. For EU Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-US$25-30/ton lower.
-
-CHATTOGRAM, \*600 ~ 610 \*580 ~ 590 \*570 ~ 580 \*610 ~ 620 STABLE / BANGLADESH
-
-GADDANI, PAKISTAN NA NA NA NA NA
-
-TURKEY
-
-\*For Non-EU ships. For EU 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-Ship, the prices are about US$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
@@ -240,8 +217,6 @@ GADDANI, PAKISTAN 420 420 340 460 640
 ALIAGA, TURKEY 290 280 210 255 450
 ```
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 10
 
 # Ships Sold for Recycling
@@ -254,8 +229,6 @@ ALIAGA, TURKEY 290 280 210 255 450
 
 # Recycling Ships Price Trend
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 11
 
 # Insight
@@ -266,8 +239,6 @@ A quiet week with no significant sales to report. Overall, prices remained stabl
 
 This week saw some weakness in the domestic ship scrap prices, initially dropping at the start of the week and later recovering. The cause of concern in India was the dampening of steel demand. But some recyclers firmly believe this is a usual fiscal year-end closure and fresh buying slows down. However, the prices offered by the Alang recyclers do not match what their neighbors, Bangladesh, are offering. The recyclers will have to wait for the Bangladeshi appetite to be fulfilled or wait for the ships that are purely destined for Alang by the ship owners' preferred destination. The recent achievement of the two recycling yards in Chittagong obtaining the certification from Class NK, while three to four more yards are in the process of getting certification from HKC, is a matter of concern to the Alang recyclers. This will further distance Alang from its competitors. Comparable to what happened 30 years ago in Taiwan and 10 years ago in China, similarities are now being seen in Alang. The recycling industry is slowly dying, and the price differential between Bangladesh and Alang is incomparable. Domestic scrap prices in Alang have a 25% differential. Despite the
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 12
 
 government's desire to double the scale of operations, there is a possibility that activities in Alang may decrease over the next 5 to 7 years.
@@ -277,8 +248,6 @@ After enjoying the bull run, the domestic ship scrap prices witnessed minor corr
 A vast majority of the recyclers believe that the prices have peaked, and going forward, they believe the price levels should correct. A similar reflection was in the imported ferrous scrap, with prices correcting.
 
 As we enter the Ramadan period, the markets shall slow down as domestic activities hold back.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 13
 
@@ -295,8 +264,6 @@ After months of waiting, the ship recyclers could expect to resume buying as the
 ## ALIAGA, TURKEY
 
 Imported scrap prices in Turkey are declining due to an oversupply of scrap as demand from Turkish mills remains weak. The mills are struggling to sell steel in both domestic and export
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 14
 

@@ -22,8 +22,6 @@ WEEK 24 - June 13, 2025
 
 Middle East tensions reached a critical juncture as Israeli strikes on Iran's nuclear facilities and military installations triggered sharp market reactions across global asset classes. Oil markets led the response with Brent crude surging 7.6% after touching intraday highs of 13%, marking the largest single-day jump since March 2022, while equity futures retreated and safe-haven assets found renewed demand. The escalation sent ripple effects through financial markets as investors reassessed geopolitical risks following months of relative stability. S&P 500 futures declined 0.9% from earlier deeper losses, gold advanced 1.2% to month-long highs, and the dollar rebounded 0.5% from Thursday's three-year lows. Energy sector beneficiaries included Exxon Mobil and Chevron, both gaining over 2.5% in premarket trading, while defence contractors RTX and Lockheed Martin also moved higher on elevated military spending expectations. Market strategists emphasised the fluid nature of the situation, with correlations remaining variable as investors evaluate duration and escalation potential. The strikes come as global equity markets had recovered strongly from April's tariff-related selloff, with international indices reaching record levels just days prior. While the immediate reaction reflects classic risk-off behaviour, analysts suggest the price response in traditional safe havens has been relatively measured, indicating expectations that the conflict may remain contained. The developments present fresh challenges for central banks already navigating complex policy landscapes, as sustained oil price increases could reignite inflationary pressures and complicate monetary policy decisions. Iran has vowed retaliation while Israeli officials indicated operations will continue until threats are neutralised, setting the stage for potentially prolonged regional instability that markets will closely monitor for broader economic implications.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ Pacific continues their upward trajectory, driven by robust iron ore cargo flow 
 Panamax/Kamsarmax:
 
 Atlantic are experiencing strong upward momentum as fixture activity remains robust, with most fronthaul cargoes scheduled for late June loading now concluded successfully. Pacific sentiment is positive with strengthening coal cargo flows from Australia and Indonesia. Pacific r/v ended the week higher at US$10,250's a day. Favourable markets across both regions as a result of improved cargo and tighter vessel availability.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ The Handy saw a subdued ending to the week with Inter Pacific seeing an uptick i
 | HANDY | 38,000 | 31 | 33 | 25 | 17 | 14 |
 | *(amount in USD | million) \| (E) - eco units |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -83,8 +77,6 @@ The Handy saw a subdued ending to the week with Inter Pacific seeing an uptick i
 | MAREEBA | HMAX | 46,673 | 2002 | JAPAN | 7.0 | CHINESE BUYERS |
 | SIDER OLYMPIA | HANDY | 38,182 | 2013 | JAPAN | 15.75 | UNDISCLOSED |
 | ZHE HAI 360 | HANDY | 33,100 | 2010 | CHINA | RMB 38.89 | CHINESE BUYERS |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -109,8 +101,6 @@ Clean:
 **LR: Middle East rates declined as accumulated tonnage availability combined with**
 
 reduced chartering activity from the Eid holidays pressured levels. TC1 MEG/Japan lost 14 points to WS113. Ample vessel supply suggests rates will likely remain range-bound in the near term. Similar seen in LR1 with TC5 closing lower at WS139.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -141,11 +131,7 @@ several countries contributing to the downward adjustment. In the MEG, TC17 to E
 | BALTIC SAPPHIRE BALTIC | / SWIFT | MR |  | 37,594 37,565 | 2010 | S. KOREA | 35.0 EN BLOC |  | MIDDLE | EASTERN BUYERS |
 | GINGA | HAWK | PROD CHEM | / | 19,998 | 2000 | JAPAN | 6.9 (SS) |  |  | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -172,33 +158,18 @@ Container shipping markets are experiencing significant volatility as the pause 
 | A ROKKO | FEEDER | 1,096 | 2024 | JAPAN | 25.5 | UNDISCLOSED |  |
 | SITC YOKOHAMA | FEEDER | 831 | 2004 | JAPAN | 7.3 | UNDISCLOSED |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 450 ~ 460 430 ~ 440 430 ~ 440 470 ~ 480 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 450 ~ 460 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE/ |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 450 ~ 460 | 430 ~ 440 | 430 ~ 440 | 470 ~ 480 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 450 ~ 460 | 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE/ |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -215,8 +186,6 @@ TURKEY
 | GADDANI, PAKISTAN | 300 | 540 | 560 | - | 520 |
 | ALIAGA, TURKEY | 170 | 300 | 310 | 320 | 360 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -228,19 +197,13 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 Another quiet week in the Alang markets with not much activity seen. Prices offered are low, and many buyers remain cautious of the current gap in the market and rather wait. Meanwhile, India maintained its position as a net steel importer in April 2025, despite government efforts to protect domestic producers through trade measures. The government's 12% safeguard duty on select flat products implemented in April helped counter cheaper imports, particularly from China and Japan.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -270,8 +233,6 @@ Gadani
 
 Pakistan Budget Scraps Duty on HMS, Imposes New Levy on Re-Rolling Materials. In a key development for the country's steel sector, this week's federal budget announcement saw the abolition of customs duty on heavy melting scrap (HMS) a significant input for domestic steel producers. However, the relief was tempered by the introduction of a 5%
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 customs duty on imported re-rolling materials, which could raise costs for downstream re-rollers. At the same time, the tax exemption on the supply and import of iron and steel scrap has been narrowed, with the government removing certain benefits that previously supported the recycling segment. Notably, supplies made by manufacturers and exporters of recycled copper, operating under the Export Facilitation Scheme 2021, have been excluded from the exemption framework, signaling a more selective approach to sectoral tax relief. These measures reflect the government's balancing act between revenue generation and supporting domestic manufacturing, with the broader impact on steel prices and margins likely to unfold in the weeks ahead. For the shipbreaking industry, it is a boost but more details information directly impacting shall be known in the coming weeks once the budget clarity is available on more segments. Overall demand for ship recycling remains resilient, even as the first batch of seven yards anxiously awaits certification under the Hong Kong International Convention. The approvals, expected within the next four to six weeks, are anticipated to boost confidence in the region's compliance with international safety and environmental standards.
@@ -285,8 +246,6 @@ Anchorage & Beaching Position (MAY 2025)
 Aliaga, Turkey
 
 The Turkish markets continue to face significant pressure as both domestic and export demand remain stubbornly weak, with foreign competition intensifying challenges for local producers seeking to maintain pricing levels. Market sentiment reflects this subdued environment, with industry participants describing conditions as notably quiet amid persistently low buyer interest across all segments. The market has been slow in recent weeks, affected by the Eid holidays, the seasonal summer lull, and domestic economic pressures including high inflation and interest rates.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -322,8 +281,6 @@ Sub-Continent's imported scrap markets experienced a subdued week as seasonal di
 
 intersected with monsoon disruptions to suppress buying interest. Containerised shredded scrap offers at US$360-365 per ton CFR Nhava Sheva found limited traction due to significant bid-offer mismatches, with mills increasingly favouring cheaper domestic DRI and competitively priced Iranian HBI as cost-effective alternatives.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 African HMS 80:20 availability at US$345-350 per ton CFR encountered bids consistently below US$340 per ton CFR, while Brazilian HMS 80:20 at US$330-333 per ton CFR and hand-loaded HMS at US$360-365 per ton CFR saw minimal interest despite quality premiums. The combination of falling steel prices and seasonal slowdown reinforced buyer caution throughout the market.
@@ -341,8 +298,6 @@ domestic steel demand to limit trading activity. Containerised shredded offers h
 buyers and sellers. US-origin bulk HMS 80:20 held steady at US$338 per ton CFR with minimal trading interest, as mills demonstrated reluctance to secure July cargoes due to weak rebar demand and resistance to higher pricing levels.
 
 # HMS 1/2 & Tangshan
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -363,8 +318,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 95 | -1.04% | -9.52% | 96 | 105 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 94 | -1.05% | -12.14% | 95 | 107 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

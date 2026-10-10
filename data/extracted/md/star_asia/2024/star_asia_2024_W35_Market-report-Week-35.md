@@ -22,8 +22,6 @@ pages: 19
 
 Stocks climbed on Friday as investors sought to end a volatile August on a positive note, with attention focused on crucial inflation data closely monitored by the Federal Reserve. The S&P 500 and Nasdaq Composite made modest gains, while the Dow Jones Industrial Average saw a slight dip. The personal consumption expenditures (PCE) price index, the Fed's preferred inflation gauge, rose 0.2% monthly and 2.5% annually, aligning with economists' expectations. This data could influence the Fed's September rate decision. Despite early August turbulence, the S&P 500 is poised for a 1.7% monthly gain, marking its fourth consecutive winning month. Consumer staples and real estate emerged as top-performing sectors, while energy and consumer discretionary faced losses. Consumer sentiment showed improvement, with inflation expectations for the next year dropping to 2.8%, the lowest since December 2020. Gold futures continued their strong performance, setting another record to settle. European markets also trended upward, with the pan-European Stoxx 600 reaching a new intraday high. Tech stocks saw a slight pullback while the mining and utilities sectors advanced. Looking ahead, Wells Fargo analysts suggest that large-cap bank stocks could benefit from potential interest rate cuts, particularly in a soft-landing scenario. Historical data indicates that banks have typically outperformed following initial rate cuts in nonrecessionary periods. As August trading concludes, investors remain focused on economic indicators and central bank policies, balancing inflation concerns with hopes for sustained growth.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ In the Pacific region, the market is experiencing a period of adjustment. While 
 Panamax/Kamsarmax:
 
 In the Atlantic, there is a notable absence of cargo from key loading areas. This scarcity has led charterers to adopt a wait-and-see approach, anticipating rate cuts from owners. T/A fared lower than last closing at US$10,300's a day. The Pacific also mirrored this downward trend from an imbalance between vessel supply and insufficient cargo inflow. This disparity continues to exert downward pressure on rates with Pacific r/v closing lower at US$11,150's a day.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ Atlantic saw muted activity this week, with levels remaining the same as last at
 | HANDY | 38,000 | 30 | 35 | 28 | 21 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Bulker 12 months T/C rates average (in USD/day)
@@ -89,8 +83,6 @@ Dry Bulk - S&P Report
 | SANIA | SMAX | 57,011 | 2010 | CHINA | 12.3 | CHINESE BUYERS |
 | AHU C | HANDY | 31,818 | 2004 | JAPAN | 9.0 | POLESTAR MARINE |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -109,8 +101,6 @@ Aframax:
 
 Overall, a poor week in the segment. In the Med, 80,000mt Ceyhan/Lavera fell to WS113.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 While Aframax in the Middle East ended the week with declining rates as expanded vessel availability from stagnant summer demand, coupled with concurrent weakness in the Asian market. In the USG, rates also saw discounts as 70,000mt EC Mexico/USG fell 10 points to WS101.
@@ -120,8 +110,6 @@ Clean:
 LR: In the Middle East, the LR2 market closed on a weak note as demand shifted towards more competitively priced LR1 vessels. TC1 fell 14 points to WS115. For LR1, ARA/WAFR on TC16 levels remained flat around WS127. MR: The Far East MR market ended with a slightly bearish trend, marked by a lack of significant fixtures due to persistently sluggish chartering demand. In the MEG, TC17 saw muted activity, with trips to E. Africa remaining at WS205.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -134,8 +122,6 @@ LR: In the Middle East, the LR2 market closed on a weak note as demand shifted t
 | ELEGANT GRACE | MR | 50,698 | 2009 | S. KOREA | 28.0 | PVTRANS |
 | BOLERO | MR | 50,094 | 2009 | S. KOREA | 27.7 | AVANAH PETROLEUM |
 | KALAMOS | MR | 46,719 | 2004 | JAPAN | 17.8 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -155,29 +141,16 @@ The container market continues to face challenges as supply outpaces demand acro
 | 2,700 - 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
 | 5,100 *(amount in USD million) | Gearless | 81 | 77 | 66 | 35 | 32 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 490 ~ 500 480 ~ 490 480 ~ 490 510 ~ 520 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 500 ~510 | 480 ~ 490 | 470~ 480 | 510 ~ 520 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 490 ~ 500 | 480 ~ 490 | 480 ~ 490 | 510 ~ 520 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 500 ~510 | 480 ~ 490 | 470~ 480 | 510 ~ 520 | WEAK / |
 | GADDANI, PAKISTAN | 510 ~ 520 | 490 ~ 500 | 480 ~ 490 | 520 ~ 530 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 330 ~ 340 320 ~ 330 310 ~ 320 330 ~ 340 WEAK /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 330 ~ 340 | 320 ~ 330 | 310 ~ 320 | 330 ~ 340 | WEAK / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -194,8 +167,6 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 740 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 200 | 300 | 325 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -208,11 +179,7 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -221,8 +188,6 @@ TURKEY
 Alang, India
 
 After several turbulent months of declining domestic ship scrap prices, local markets have stabilised over the past couple of weeks. However, there has been no significant improvement in prices. While demand has started to pick up at the revised levels, the shortage of available ships has left the markets at a crossroads, struggling to find a clear direction. This week, India's steel industry is facing significant challenges, with one-third of imported steel products coming from China, leading to a widening trade deficit. In the April-July period, steel imports increased by 32% year-over-year, while exports declined by 41%, resulting in India becoming a net importer of steel. Global steel prices continued to decline in July across major markets, including India, China, the US, and the European Union. China emerged as India's largest steel import market, accounting for 30% of imports, followed by Korea, Japan, Vietnam, and Taiwan. Steel exports from India witnessed a decline across all five key markets, with significant drops in shipments to European countries like Italy, Belgium, and Spain. The United Arab
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -247,8 +212,6 @@ Anchorage & Beaching Position (August 2024)
 Chattogram, Bangladesh
 
 Bangladesh's market experienced another challenging week, marked by a continued lack of buying demand, which is clearly reflected in the current rates. Some sales were reported but with pricing varying from ship to ship. A series of smaller Chinese-built general cargo ships and bulkers have once again emerged as a significant source of ship supply in the market. However, these vessels have generated limited interest due to issues such as high wastage and inconsistent light displacement tonnage (LDT) proofs, leading to substantial weight loss for recyclers. As a result, these ships are now being offered at a discounted price of USD 50-60/ ton to account for the anticipated weight loss. This week, Bangladeshi Parliament has approved the national budget of Tk 7,97,000 crore for the fiscal year 2024-25, targeting a 6.75% GDP growth rate and aiming to keep inflation around 6%.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -275,8 +238,6 @@ Gadani, Pakistan
 
 Lack of demand coupled with falling domestic steel prices kept the ship recycling markets on the sidelines. No fresh sales were reported as a vast majority still wishes to refrain from offering anything above the prevailing prices. International Steel Limited, Pakistan's largest flat steel manufacturer, has cut flat steel prices by PKR 45,000 per ton, bringing CRC to PKR 247,800 per ton for customers in response to declining raw material HRC prices. Since early 2024, HRC steel has decreased by 38.33%, reflecting a significant drop from its all-time high in September 2021. Zayan Babar Khan, a research analyst at Optimus Capital, attributes this trend to China's excess capacity and low demand, which have driven international flat steel prices lower. Khan anticipates a mild recovery in sales volumes for FY25, driven by improved economic activity and a low base in FY24.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 However, the extension of sales tax exemption for the FATA-PATA region poses challenges for both long and flat steel industries in northern Pakistan.
@@ -300,8 +261,6 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 533 | 454 | 648 |
 | HOUSTON | 546 | 447 | 693 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -311,8 +270,6 @@ This week, the ferrous scrap markets in the Sub-Continent and Turkey showcased d
 ### India's imported scrap market had a challenging week, marked by sluggish demand
 
 and hesitant buyers. Shredded scrap offers fluctuated between US$385/t and 395/t CFR Nhava Sheva, but buyers were reluctant, often seeking prices below US$385/t. Offers for HMS (80:20) from the UK/Europe and West Africa ranged from US$365/t to 375/t CFR, but buyers targeted even lower levels, reflecting a lack of urgency and market confidence. The downturn in India was attributed to several factors, including weak steel demand, more competitive domestic scrap options, and widespread expectations of further price declines. The impending nationwide port workers' strike, which began on 28 August, further added to the uncertainty, disrupting trade and port activities. While some suppliers remain hopeful that prices are nearing a bottom, a significant recovery is not expected until mid-September, with the end of the monsoon season potentially bringing a demand uptick. In Pakistan, the ferrous scrap market saw a slight increase in shredded scrap offers, which edged up by US$2/t to US$399/t CFR-Qasim. This rise was driven by higher supplier offers amid exchange rate fluctuations despite moderate activity levels. Mills remained cautious, with limited interest in new bookings, influenced by weak liquidity, ongoing monsoon rains, and concerns over potential declines in rebar and billet prices. The market slowdown was further compounded by end-of-month financial constraints, which restricted cash flow and purchasing activity. A noteworthy development was the Fauji Foundation's interest in acquiring Agha Steel Industries, leading to a 10.03% rise in Agha Steel's stock, signaling potential sector consolidation. However, overall market
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -324,8 +281,6 @@ bolstered by tighter supply conditions and a recovery in global billet prices. U
 
 ## HMS 1/2 & Tangshan Billet
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 ## Commodities
@@ -333,8 +288,6 @@ bolstered by tighter supply conditions and a recovery in global billet prices. U
 **Iron ore prices are rebounding as China's substantial stockpiles of steelmaking raw**
 
 material continue to decline, potentially signalling the easing of a severe oversupply period. Data released late Friday shows that inventories at Chinese ports have decreased for four consecutive weeks, retreating from the peak of over 150 million tons reached in late July. This reduction offers a glimmer of hope for market bulls despite iron ore prices still being down nearly 30% this year. However, the broader outlook for China's steel sector remains clouded with uncertainty. The struggling property market and the government's push towards new growth sectors are major factors contributing to this ambiguity. Market observers are closely watching for signs of a potential uptick in steel production following recent declines, especially as July and August typically mark the weakest period for steel output. In Singapore trading, iron ore futures climbed 4.2% to US$100.20 a ton, building on last week's 4.5% gain. Huatai Futures Co. noted that while blast furnace output "has shown signs of bottoming out recently," iron ore inventories remain relatively high. The base metals sector faced downward pressure this week as a stronger USD, buoyed by better-than-expected economic data, dampened investor appetite. Aluminium led the decline, with market sentiment further clouded by ongoing concerns about the strength of China's demand recovery. The situation was exacerbated by a surge in supply, particularly from Rusal, which shipped record volumes of aluminium to China during the first half of the year. This influx has pushed inventories in China to their highest levels for this time of year since 2019, adding to the bearish outlook in the market. As uncertainty over China's demand recovery persists, the ample supply continues to weigh heavily on aluminium prices, reflecting broader concerns across the base metals sector.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

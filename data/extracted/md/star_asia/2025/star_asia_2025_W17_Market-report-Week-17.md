@@ -22,8 +22,6 @@ WEEK 17 - April 25, 2025
 
 Chinese equities surged mid-week on renewed optimism about US-China trade relations, with the Hang Seng China Enterprises Index climbing 2% in morning trading. The market responded enthusiastically to comments from US Treasury Secretary Scott Bessent, who acknowledged that the current tariff standoff between the world's two largest economies is unsustainable and suggested de-escalation efforts would come soon. This positive sentiment was further bolstered when President Donald Trump stated that tariffs on Chinese goods would decrease "substantially" from current levels. The warming tone marks a potential shift in the administration's approach, with Trump pledging to be "very nice" to China in upcoming trade discussions. "We're going to be very nice and they're going to be very nice, and we'll see what happens," Trump told reporters in Washington. This softening stance comes amid significant market volatility following his April 2 tariff announcement, which imposed 145% duties on Chinese imports. While Chinese media noted that Trump appears to be retreating from his signature trade policies, Beijing has yet to issue an official response to these overtures. Despite the positive market reaction, analysts caution that uncertainty remains. Some market observers suggest Trump's conciliatory tone may be motivated by recent market declines and persistently high Treasury yields. Meanwhile, high-level Chinese officials, including the central bank governor and finance minister, are in Washington for World Bank and IMF meetings, potentially creating an opportunity for preliminary discussions that could pave the way for more formal trade negotiations. Non-Chinese shipowners can now assuredly place orders for most vessel types at Chinese shipyards without weighty risk following the USTR's decision to soften penalties on Chinese-linked tonnage, according to a recent HSBC analysis that confirms the continued competitiveness of Chinese yards in the global shipbuilding market. This policy adjustment has already sparked renewed ordering activity, with MSC, reportedly signing for six 22,000 TEU newbuilds at Hengli Heavy Industry shortly after the announcement. Barring further changes, the modified US port fees are scheduled to take effect on October 14 following a public hearing on May 19 and subsequent final ruling, with implementation phased in gradually over three years.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ The Pacific saw an upward trend end week as available vessels become increasingl
 Panamax/Kamsarmax:
 
 Panamaxes in the Atlantic basin continues to experience robust rates driven by steady grain demand from the South American region. Ongoing fixtures on long-haul routes are sustaining market optimism with Brazil r/v recording levels in the region of US$13,200's a day. Meanwhile, the Pacific maintained its stability, supported by coal cargoes from Indonesia and Australia. However, this is being offset by increasing vessel supply as rates remained unchanged. Supramax/Ultramax: The Atlantic saw a mixed week, with rates generally remaining soft across North American regions. However, temporary demand influx from the South has generated modest rate increases, resulting in an overall steady outlook. In the Pacific, the market is experiencing slight softening as previous support from Indonesian coal cargoes have begun to slow. This easing has put some pressure on rates, though the decline remains moderate. Pacific - India routes fell slightly to US$11,250's a day.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -78,15 +74,11 @@ Handy market observed similar mixed markets with Pacific seeing a slight uptick 
 | ELENI M |  | SMAX | 50,992 | 2001 | JAPAN | 6.2 | UNDISCLOSED |
 | NORD | ABIDJAN | HMAX | 37,979 | 2020 | JAPAN | 25.5 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Tankers
 
 Crude oil futures down US$1.16 for the week, as prices struggled to mount any significant recovery despite fluctuating geopolitical tensions. The market attempted to stabilise following early-week losses, but sentiment remained fragile as traders carefully evaluated risks associated with Iran's potential return to global markets, upcoming OPEC+ production decisions, and broader international trade challenges. Oil began the week under pressure as optimism grew around U.S.-Iran nuclear negotiations, with reports of both sides drafting a potential agreement triggering concerns about Iranian crude returning to markets sooner than anticipated. Though midweek sanctions imposed by the U.S. on an Iranian shipping network briefly supported prices, these conflicting signals left markets oscillating between competing narratives. Meanwhile, the European Commission has intensified its efforts to regulate the "shadow fleet" operating in European waters by adopting an amendment to the Vessel Monitoring Directive. This new measure requires all vessels, including those merely transiting through EU waters without calling at EU ports, to provide comprehensive insurance information. "By requiring that all vessels operating in our vicinity are properly insured, the EU's ability to monitor and, if necessary, investigate maritime activities is strengthened, addressing risks posed by uninsured or unsafe vessels," stated the EC in its
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -121,8 +113,6 @@ pushing rates higher despite tonnage accumulation in Europe over the weekend, wh
 | BDTI | 1,142 | 1,152 | 1,100 | -0.87% | +3.82% |
 | BCTI | 678 | 670 | 954 | +1.19% | -28.93% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 # Tankers Values
@@ -147,8 +137,6 @@ Tankers S&P Report
 | DHT PEONY | VLCC | 320,014 | 2011 | CHINA | 51.5 | CHINESE BUYERS |
 | DAI AN | MR | 50,530 | 2007 | S. KOREA | 14.75 | VIETNAMESE BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 # Containers
@@ -172,33 +160,18 @@ S&P Containers Report
 | NORTHERN JUBILEE | POST PMAX | 8,814 | 2009 | S. KOREA | 75.0 | UNDISCLOSED |
 | NORTHERN JAVELIN | POST PMAX | 8,814 | 2009 | S. KOREA | 75.0 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 460 ~ 470 430 ~ 440 440 ~ 450 470 ~ 480 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 460 ~ 470 440 ~ 450 | 430 ~ 440 | 470 ~ 480 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 WEAK /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 460 ~ 470 | 430 ~ 440 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 460 ~ 470 | 440 ~ 450 | 430 ~ 440 | 470 ~ 480 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | WEAK / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -215,15 +188,11 @@ TURKEY
 | GADDANI, PAKISTAN | 280 | 510 | 690 | - | 530 |
 | ALIAGA, TURKEY | 180 | 260 | 460 | 320 | 310 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ships Sold for Recycling
 
 # Recycling Ships Price Trend
-
-## Shipbroking (www.star-asia.com.sg)
 
 TYPE PRICE (USD/LDT LT) LPG 440 TANKER UNDISCLOSED
 
@@ -231,15 +200,11 @@ COMMENTS DELIVERED CHATTOGRAM DELIVERED ALANG (WITH SS ONBOARD)
 
 ## Page 11
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
 Insights Alang
 
 The ship recycling market displayed brief optimism early in the week following the implementation of a 12% safeguard measure, though despite strong demand in India, vessel availability remains limited. Meanwhile, PM Modi has outlined an ambitious plan to expand India's steelmaking capacity to 500 million tons annually by 2047, positioning the country as a global steel export hub with a target of 25 million tons in exports. This steel sector expansion, coupled with infrastructure development initiatives and the growing shipbuilding industry, could suggest a potential long-term positive implication for the ship recycling market in India, especially as the country seeks to reduce import dependence and boost domestic production capabilities.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -261,8 +226,6 @@ Anchorage & Beaching Position (APRIL 2025)
 Chattogram
 
 There has been no significant change over the past few weeks. The industry continues to await official approval for the anticipated No Objection Certificates (NOC) that would permit the recycling of non-HKC-compliant ships. The Bangladeshi ship recycling sector has entered a virtual standstill as no new No Objection Certificates (NOCs) have been issued for over two weeks. This has stalled ongoing negotiations and raised the risk of vessels being redirected to India or Pakistan. Authorities have begun inspections of local yards to assess progress toward the necessary infrastructure upgrades for Hong Kong Convention (HKC) Statements of Compliance (SoC), with the compliance deadline looming on June 26th. Until significant progress is demonstrated, further NOCs are unlikely. Some yards that recently achieved SoC status have managed limited deliveries, but most vessels remain idling outside Chattogram. Encouragingly, the Director General of Shipping visited several yards over the weekend and signaled that NOCs could soon be granted to those showing sufficient upgrades. However, wider market conditions remain difficult. Domestic steel plate prices collapsed by US$60/ton post-Eid to US$478~480/ton, and the Taka depreciated to BDT 121.99 against the U.S. dollar. The downturn in fundamentals, combined with the regulatory bottleneck, could see Bangladesh lose its top position to India in the coming weeks if conditions do not stabilise.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -286,8 +249,6 @@ Anchorage & Beaching Position (APRIL 2025)
 Aliaga, Turkey
 
 Turkish mills face multiple challenges, including delayed sales for the July EU quota. The market uncertainty stemming from trade tariffs and the 90-day US tariff delay did not aid in the overall situation as scrap prices fell by US$27/ton since last week. Aliaga offers levels for bulkers and dry cargo vessels fell by another USD 20/ton this week, with prices now hovering around USD 250/MT - a stark contrast to the USD 400/MT levels seen just a few years ago. With sub-continent markets holding steady, the widening USD 200/ton price gap makes Turkey a far less competitive option for shipowners, particularly those at publicly traded companies who must justify end-of-life asset sales. As a result, Turkish recyclers risk being further sidelined.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -323,8 +284,6 @@ Ferrous scrap prices remained under pressure this week, with key markets includi
 
 India's imported scrap market remained subdued, with average prices slipping 2% w-ow to US$371/ton CFR. Weak global sentiment, falling domestic steel prices, and concerns over a potential 12% safeguard duty added to buyer caution. Shredded scrap offers from the UK/Europe hovered at US$370-375/ton CFR Nhava Sheva, but bids lagged at US$365- 370/ton. High port inventories, coupled with soft Turkish scrap values and rising freight costs, limited fresh bookings.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 ## Pakistan
@@ -340,8 +299,6 @@ Bangladesh's imported scrap market stayed quiet as mills focused on utilizing ex
 Turkey's imported scrap market saw prices tumble to a three-year low, weighed down by weak rebar demand and elevated finished steel inventories. US-origin HMS 80:20 offers dropped 3% w-o-w to around US$325/ton CFR, compared to US$335/ton last week. Sellers, contending with oversupply and thin margins, were forced to accept lower bids, while buyers remained cautious amid falling scrap values and sluggish rebar sales. Market sentiment across all major South Asian destinations remains bearish heading into next week, with players cautious of further price corrections, freight rate increases, and continued liquidity challenges.
 
 # HMS 1/2 & Tangshan Billet
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 

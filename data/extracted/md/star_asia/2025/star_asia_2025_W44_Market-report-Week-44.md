@@ -22,8 +22,6 @@ pages: 19
 
 U.S. President Donald Trump and Chinese President Xi Jinping struck a one-year trade truce during talks in South Korea, easing tensions but leaving core disputes unresolved. The deal, which Trump hailed as "truly great," halved U.S. fentanyl-related tariffs and paused new export restrictions on Chinese firms, while China agreed to resume soybean and rare-earth exports. Analysts view the agreement as favouring Beijing, with the U.S. conceding on key regulatory fronts as China's economic leverage grows. Trump secured political wins ahead of elections, including keeping TikTok's U.S. operations intact, but structural trade issues-such as market access and industrial policy-remain unaddressed. Markets viewed the truce as a temporary reprieve rather than a lasting resolution, with former trade envoy Robert Lighthizer calling it "strategic decoupling." Trump signalled annual renegotiations, framing the deal as a stabilising step likely to deliver short-term economic and political benefits while deeper U.S.-China competition endures. On the other hand, China's factory activity contracted for a seventh straight month in October, marking its longest slump in over nine years as the economy slows heading into the year's final quarter. The official manufacturing PMI fell to 49 from 49.8 in September, below expectations of 49.6, signaling declining production and demand. The slowdown was exacerbated by an extended national holiday and a complex global environment. Meanwhile, non-manufacturing activity inched up to 50.1, barely indicating growth. Despite a recent U.S.-China trade truce offering tariff relief, factory output weakened amid subdued domestic consumption and waning export momentum following earlier stockpiling ahead of tariffs. Economists expect China's growth to meet the 5% target but forecast the weakest quarterly performance since 2022. Policymakers are prioritizing manufacturing and technology under the next five-year plan while pledging to boost consumption's role in the economy through structural reforms and "extraordinary measures" in innovation.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ Market sentiment showed an improvement in the Pacific, where an increase in new 
 Panamax/Kamsarmax:
 
 In the Atlantic, the market remained flat despite a few fixtures concluded from the ECSA, as new cargo flow from the F/H range was sluggish. T/A ended the week at US$18,900's. Meanwhile, the Pacific experienced a slight easing of the general downturn due to a modest influx of new cargoes from Indonesia. However, this was insufficient to drive a full rate rebound, leaving the market in a slightly weak position. Supramax/Ultramax: The Supramax segment in the Atlantic saw a slight gain, driven by strong demand for early November schedules in West Africa for late November schedules. T/A ended the week at US$24,800's a day. In the Pacific, general mood in the region was somewhat subdued, with a small increase in cargo flow from South Africa.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -69,8 +65,6 @@ Dry Bulk Values
 
 *\*(amount in USD million) | (E) - eco units*
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -91,8 +85,6 @@ Dry Bulk Values
 | VEGA FALKTIND | HANDY | 31,754 | 2011 | CHINA | 8.4 | UNDISCLOSED |
 | TRANSFORMER OL | HANDY | 28,375 | 2009 | JAPAN | 9.8 | INDONESIAN BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -106,8 +98,6 @@ The Middle East market saw freight rates surge as tonnage tightened from an upti
 Suezmax:
 
 The West Africa market firmed this week and closed higher around WS145 range after a sharp WS38 point surge in the previous week. Although the pace of available vessels slowed down compared to last, demand for crude oil as an alternative to Russian barrels continued to provide support to the rates. In the MEG, 140,000mt to the Mediterranean also improved to WS108.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -127,8 +117,6 @@ MEG/E.Africa remaining around WS210 range. In the USG, rates saw a downturn with
 
 ## Baltic Exchange Tanker Indices
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -141,8 +129,6 @@ MEG/E.Africa remaining around WS210 range. In the USG, rates saw a downturn with
 | RYVINGEN SUN | LR1 | 74,032 | 2007 | CHINA | 14.2 | UNDISCLOSED |
 | JAG POOJA | MR | 48,539 | 2005 | JAPAN | 10.0 | UNDISCLOSED |
 | SEAWAYS GATUN / SEAWAYS HURON | MR | 47,834 | 2007 | S. KOREA | 25.0 EN BLOC | CHAMPION TANKERS |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -160,33 +146,18 @@ Following the successful meeting between President Trump and President Xi Jinpin
 | 5,100 ~ 5,300 | Gearless | 59 | 82 | 66 | - | 41 |
 | *(amount in USD million) | \| = Eco units |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 400 ~ 410 380 ~ 390 370 ~ 3800 410 ~ 420 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 400 ~ 410 | 380 ~ 390 | 370 ~ 3800 | 410 ~ 420 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
 | GADDANI, PAKISTAN | 420 ~ 430 | 410 ~ 420 | 400 ~ 410 | 420 ~ 430 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -203,8 +174,6 @@ TURKEY
 | GADDANI, PAKISTAN | 370 | 590 | 580 | 510 | 480 |
 | ALIAGA, TURKEY | 200 | 280 | 320 | 300 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -216,19 +185,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 Despite the post-Diwali period, typically a busy season marked by new projects, market activity remained muted, and the overall tone in steel markets softened. In Alang, a surge in the arrival of sanctioned vessels has disrupted pricing dynamics, as these ships are being sold to recyclers at significantly lower rates, dragging down overall market prices. Industry experts warn that with the continued influx of such sanctioned tankers and subdued demand; the prices of regular vessels may be forced to adjust downward to stay competitive. However, uncertainty looms over whether sanctioned ships will continue to trade at deep discounts, maintaining a substantial price gap that compensates buyers for the heightened risks associated with such purchases.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -260,8 +223,6 @@ Chattogram
 
 The market in Bangladesh remains quiet, with only some activity happening this week. Even with the slow local steel market with local steel plate prices dropping by US$4/ton some buyers are surprisingly offering firm, fixed prices for ships to be recycled. This suggests that some recyclers are confident and are willing to pay stable prices for the right vessels, perhaps expecting better times ahead. Furthermore, the industry is making important strides toward compliance, as more yards are successfully obtaining DASR certification, a key development that is expected to enhance the region's standing. Overall demand remained firm, with prices holding steady as the majority of buyers appeared ready to resume purchases. Market sentiment improved slightly following reports that a Suezmax tanker, approximately 22,000 LDT, was sold at around US$470/ton levels. This transaction if true, is expected to establish a new benchmark for tanker prices in Bangladesh, potentially guiding upcoming negotiations in the subcontinent recycling market.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Gadani
@@ -280,8 +241,6 @@ This week, Pakistan markets remain under strain, mirroring the weakness found ac
 
 ---
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
@@ -295,8 +254,6 @@ The imported ferrous scrap market in India remained quiet, with limited spot act
 ### Pakistan
 
 Pakistan's imported scrap market was similarly muted. Offers for UK/EU-origin shredded scrap were heard between US$356-360/ton CFR, while HMS traded around US$340- 345/ton. Bids for UK-origin shredded were reported slightly lower, at US$350-355/ton
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -312,8 +269,6 @@ Deep-sea imported scrap prices in Turkey held stable day-over-day, with market a
 
 ## HMS 1/2 & Tangshan
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 ## Commodities (Weekinfocus)
@@ -325,8 +280,6 @@ that followed a high-level meeting between the world's two largest economies. Th
 **Copper led the sector lower as a stronger USD dampened investor sentiment following**
 
 Powell's warning against expecting a December rate cut. While the US-China trade deal offered some stability, core issues remain unresolved. Ongoing mine disruptions continue to strain China's smelting sector, with processing fees turning negative and the CNIA calling for tighter controls on new capacity.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

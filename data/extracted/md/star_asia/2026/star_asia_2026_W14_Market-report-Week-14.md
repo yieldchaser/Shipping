@@ -22,8 +22,6 @@ pages: 21
 
 As the war enters the 5th week, with selective ships owned by selective nations successfully navigating the Strait of Hormuz with a naval escort provided a rare moment of optimism, but the broader reality remains grim. The blockade has paralysed the transit of essential refined products and fertilisers, with the UN reporting that approximately 30% of the global fertiliser trade and 50% of all sulfur shipments critical for phosphate production ordinarily pass through this narrow waterway. The impact is particularly acute in the agricultural sector; maritime data indicate that 86% of fertiliser carriers destined for East Africa have ceased operations, raising the spectre of reduced global wheat and corn yields during the upcoming planting season. Following a pledge from the United States to extend military operations, Brent crude has climbed to approximately US$107 a barrel, while European diesel futures have reached their highest levels in years. This volatility is deepened by reports that Iran is seeking to formalise a new monitoring protocol for the Strait of Hormuz, which could potentially include the imposition of tolls on commercial traffic. While Western powers and Gulf states maintain that these are international waters, the effective closure of the passage has already slashed global supply, prompting major industrial hubs as far as China to rebuild coal stockpiles and curb gas usage in anticipation of a prolonged energy crisis. The human and operational risks for shipowners have intensified as missile and drone strikes continue across the Persian Gulf. In response, a coalition of 35 nations, led by the United Kingdom and including several G7 members, has convened to discuss diplomatic and economic strategies to restore freedom of navigation independently of recent American military rhetoric. While some regional leaders are calling for UN intervention to authorise the use of force to reopen trade lanes, others are warning that such demands may be unrealistic without a broader consultative solution. As the conflict enters its second month, the industry remains caught between maximalist political demands and the urgent global necessity for stable, secure transit through the Middle East.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Capesize market is entering the Easter period with a firm tone, as Pacific R
 Panamax/Kamsarmax:
 
 Panamax observed a generally softer week as a significant oversupply of vessels in the Pacific exerted pressure on rates, though the Atlantic showed some signs of stability, supported by firmer South American sentiment. Despite current headwinds and a global ballast list exceeding 1,000 vessels, futures markets remain optimistic, with Q2 prices holding higher than spot rates in anticipation of a rebound. Pacific r/v ended the week on Thursday, closing at US$15,850's while T/A settled around US$14,000's levels. Supramax/Ultramax: Supramax market maintained a soft tone this week, with oversupplied tonnage in the USG and Continent keeping rates under pressure despite slight gains in some route averages. China's import demand remains restricted due to high domestic coal inventories, which
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ Handysize markets remained largely subdued this week, as cautious sentiment and 
 | HANDY | 38,000 | 30 | 36 | 28 | 21 | 17 |
 | *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -87,8 +81,6 @@ Handysize markets remained largely subdued this week, as cautious sentiment and 
 | JIN WANG LIN | HANDY | 31,775 | 2010 | CHINA | 8.2 | UNDISCLOSED |
 | ITHACA PATIENCE | HANDY | 28,349 | 2010 | JAPAN | 9.0 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -106,8 +98,6 @@ Suezmax rates are expected to remain firm in the Atlantic, as strong demand acro
 Aframax:
 
 The Aframax market remains firm in the Mediterranean and UKC, where record-high rates are being fuelled by Atlantic momentum and ongoing weather disruptions. While European markets are currently holding steady, an increase in vessels moving toward the United States is expected to eventually pressure supply levels later in the season.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -131,8 +121,6 @@ LR: LR market is seeing a divide as the West of Suez region remains firm due to 
 | MR | 51,000 |  | 50 | 57 | 46 (E) | 37 | (E) | 28 |
 | *(amount inUSD | million) | \ | (E)-ecounits |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -148,8 +136,6 @@ LR: LR market is seeing a divide as the West of Suez region remains firm due to 
 | HIGH SEAS | MR | 49,999 | 2012 | S. KOREA | 27.6 | SPRING MARITIME SA |
 | RINELLAM | MR | 40,441 | 2006 | ROMANIA | 13.0 | UNDISCLOSED |
 | YC AZALEA | PROD / CHEM | 19,997 | 2004 | JAPAN | 10.75 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -176,29 +162,18 @@ S&P Containers Report
 | HE SHENG | FEEDER | 1,102 | 2002 | ROMANIA | 5.5 | CHINESE BUYERS |
 | ERASMUS OASIS | FEEDER | 1,049 | 2008 | S. KOREA | 11.0 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS / WEEKLY
-
-GENERAL CARGO FUTURE TREND
-
-ALANG (WC INDIA) 420 ~ 430 410 ~ 420 400 ~ 410 450 ~ 460 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 450 ~ 460 440 ~ 450 | 420 ~ 430 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
-
-TURKEY
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 420 ~ 430 | 410 ~ 420 | 400 ~ 410 | 450 ~ 460 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 450 ~ 460 | 440 ~ 450 | 420 ~ 430 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 300 ~ 310 | 290 ~ 300 | 270 ~ 280 | 310 ~ 320 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -215,8 +190,6 @@ TURKEY
 | GADDANI, PAKISTAN | 485 | 670 | 0 | 540 | 440 |
 | ALIAGA, TURKEY | 250 | 470 | 320 | 330 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -227,19 +200,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 The Indian ship recycling market showed signs of resilience this week, supported by firmer domestic steel prices and a strengthening local currency, although underlying demand conditions remain mixed. Steel fundamentals improved notably, with domestic plate and scrap prices rising by approximately USD 27/ton, while imported scrap gained a further USD 13/ton. Semifinished and finished steel products also recorded increases in the range of USD 23- 25/ton. These gains have been largely driven by constrained scrap generation, stemming from energy shortages, which continue to limit supply. Despite this upward momentum, end-user demand remains subdued, prompting buyers to adopt a cautious buying strategy amid concerns that elevated prices may not be sustainable in the long run. Ship recycling prices in Alang have inched higher by roughly USD 8-10/LDT this week, with some recyclers indicating a willingness to push bids up by as much as USD 15/LDT. However, these levels still lag competing sub-continent destinations, limiting India's
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -256,15 +223,11 @@ Anchorage & Beaching Position (APRIL 2026)
 | KULKAJ ARROW | BULKER | 10.240 | 22.03.2026 | AWAITING |
 | DIU | DRILLING RIG | 27,538 | 02.04.2026 | AWAITING |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Chattogram
 
 Sentiment remains notably positive as recyclers return from the Eid holidays with renewed appetite. Yard capacity is gradually reopening, and buyers are actively seeking fresh candidates, particularly in the 10,000-15,000 LDT segment, where competition has intensified. Market participants report that pricing levels have improved by approximately USD 15/LDT week-on-week, reflecting both stronger buying intent and the scarcity of available vessels. Steel market dynamics presented a mixed picture. Local steel plate prices moved higher by around USD 22/ton, driven by the limited supply of recyclable ships and steady demand from the construction and shipbuilding sectors. In contrast, local scrap and rebar prices remained largely unchanged, while imported scrap softened marginally by about USD 5/ton. Chattogram continues to maintain a pricing premium over regional peers, reinforcing its position as the most competitive recycling destination in the sub-continent. Domestic steel prices edged up to approximately BDT 61,500/ton, while the USD/BDT exchange rate remained broadly stable, offering recyclers a relatively steady operating environment without significant currency pressure. Operationally, recyclers are facing some headwinds. Fuel supply constraints at the yard level have begun to slow processing activity, though this has not dampened buying appetite. Instead, the limited inflow of tonnage has further contributed to firmer price indications, as yards compete to secure available units. Looking ahead, the near-term outlook remains constructive. With the pre-monsoon window narrowing and seasonal weather disruptions expected within the next two months, recyclers are under increasing pressure to convert current buying interest into concluded deals. Should the supply of mid-sized dry bulk and gas carriers materialise, Bangladesh appears well-positioned, both financially and operationally, to absorb incoming tonnage. Overall, market fundamentals point toward continued firmness in pricing in the short term, supported by limited vessel availability, stable currency conditions, and improving transactional liquidity.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -279,8 +242,6 @@ Gadani
 
 Gadani ship recycling market has entered the second quarter on a markedly stronger footing, with Gadani reclaiming competitiveness across the sub-continent. Firm domestic steel pricing, a stable currency environment, and tightening scrap supply have collectively driven a notable improvement in sentiment and pricing levels. Steel plate prices, which saw a sharp uptick at the end of March, have sustained their gains into April, holding near PKR 175,000/ton (approx.USD627/ton), supported by a relatively stable Pakistani Rupee hovering around PKR 279 against the dollar. This stability has provided recyclers with a more predictable cost base, in contrast to the volatility seen earlier in the year. As a result, Pakistan has edged ahead of India in offered pricing, reestablishing itself as the region's second most competitive recycling destination. On the ground, structural improvements are becoming increasingly evident. In the latest development, Al Hamza Commodities has successfully obtained the Hong Kong Convention (HKC) Statement of Compliance (SoC) from Bureau Veritas for its ship recycling yard in Gadani. This milestone underscores the yard's adherence to internationally recognised standards for safe and environmentally responsible ship recycling, further strengthening Pakistan's growing compliance framework within the global recycling industry. On the other hand, ship supply-side dynamics remain the primary driver of the current market strength. Scrap availability has tightened significantly following a prolonged suspension of imports from the Middle East, now extending into its third consecutive week. Additionally, the halt in scrap inflows via the Iran land border has compounded shortages, creating upward pressure across the steel value chain. Domestic scrap prices have risen sharply, with shredded-equivalent material gaining USD 30-35/ton, while finished steel products have increased by approximately USD 20- 25/ton. Imported scrap has also firmed, rising by USD 10-15/ton over the week. Against this backdrop, recyclers have responded by raising vessel price indications by USD 10-15/LDT, with particular interest observed in dry bulk candidates and select
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 offshore and gas units. However, despite the upward movement in pricing, buying appetite remains measured, as end-users continue to approach procurement cautiously amid elevated input costs and uncertain downstream demand. Operationally, the limited number of active yards in Gadani has insulated the sector from broader fuel supply disruptions, allowing recycling activities to proceed without significant interruption. Notably, Pakistan has secured a limited exemption allowing a number of vessels to transit the Strait of Hormuz, which may provide some near-term support to vessel inflows. Looking ahead, the market's trajectory will largely depend on the availability of recycling tonnage and the persistence of current supply constraints in the steel market. While underlying fundamentals have improved, the recent price rally appears to be driven more by supply shortages than by a sustained recovery in end-user demand. Rising oil prices and broader inflationary pressures may also weigh on economic activity, potentially tempering steel consumption in the medium term.
@@ -290,8 +251,6 @@ Anchorage & Beaching Position (APRIL 2026)
 Aliaga, Turkiye
 
 Turkey's ship recycling market remained largely stable this week, with limited movement in pricing and activity despite modest gains in the domestic steel sector. Local scrap prices rose by USD 8-10/ton, while billet and rebar also saw small increases, supported by steady demand. However, these improvements have not translated into higher vessel prices, with recyclers maintaining cautious, unchanged offers amid tight margins. Cost pressures continue to build, with industrial gas prices rising sharply and electricity tariffs also increasing. While operations remain unaffected from a supply standpoint, higher input costs are limiting recyclers' ability to raise bids. Macroeconomic conditions remain the key constraint. The Turkish Lira weakened further to record lows, compressing USD-equivalent steel values and widening the gap with more competitive sub-continent markets. As a result, Aliaga pricing softened slightly to USD 265-285/LDT, keeping Turkey uncompetitive for mainstream tonnage. Market activity remains subdued, with no significant transactions reported. Turkey continues to rely on its niche EU-approved recycling segment, handling compliant
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -330,15 +289,11 @@ EXCHANGE RATES
 | 279.12 | 279.3 | +0.06% |
 | 44.47 | 44.43 | -0.09% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 19
 
 Pakistan In Pakistan, the market reflected a similarly quiet but firm environment, with very few major trades finalised at current asking prices. UK-origin shredded was heard at a high of US$425/ton CFR Qasim, while premium PNS offers reached approximately US$435/ton. Despite the lack of large-scale movement, some niche activity was recorded, including a limited deal for 500 tons of EU-origin shredded at US$418/ton CFR Qasim. However, any hopes for a downward correction were quickly tempered as fresh offers from the same supplier were immediately raised to the US$422-US$425/ton range, signalling that sellers remain confident in the face of limited regional inventory. Bangladesh Imported scrap prices in Bangladesh moved higher this week as restricted availability shifted the leverage firmly into the hands of suppliers. UK-origin shredded is currently heard between US$405/ton and US$410/ton CFR, while Australia-origin material has pushed further to US$415/ton. The market sentiment is notably bullish on the supply side, with many exporters holding back fresh offers in anticipation of further price gains. Indicative pricing for material from Oceania and East Asia remains elevated, with HMS 80:20 at US$385/ton, HMS 90:10 at US$395/ton, and PNS reaching US$425/ton CFR Chattogram. Much like the Indian market, Bangladesh is grappling with a widening bidoffer gap of US$22-US$25+/ton for shredded grades, reflecting a tug-of-war between aggressive seller expectations and the cautious procurement strategies of local mills.
 
 Turkiye Deep-sea scrap prices in Turkiye remained stable and firm on 2 April, with the market successfully holding the gains achieved during the previous week's heavy booking period. US-origin HMS 80:20 is currently trading within a steady range of US$403- US$405/ton CFR, with tradable values firmly established between US$400/ton and US$405/ton. While market activity has quieted following the recent flurry of deals, the overall sentiment is supported by rising prices for semi-finished steel imports, which continue to underpin scrap demand. Nevertheless, Turkish mills remain under pressure as the cumulative impact of higher billet, energy, and production costs continues to squeeze operational margins, making them sensitive to any further price escalations.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 
@@ -347,8 +302,6 @@ HMS 1/2 & Tangshan
 ## Commodities (Week infocus)
 
 With the Strait of Hormuz effectively closed to LNG shipments, major economies including Japan, South Korea, and Germany are lifting generation caps and reversing previous phase-out commitments to ensure grid reliability. This shift has propelled Newcastle coal prices up by approximately 13% since the escalation, with spot prices now reaching US$134/ton. Importers are increasingly viewing coal as the most viable immediate alternative to gas, especially since the commodity does not pass through the restricted strait, leading to a widened price gap between high-quality Australian coal and regional mid-grade varieties. In the industrial metals sector, iron ore and copper are navigating supply disruptions and shifting demand signals. Iron ore prices recently climbed toward CNY 820/ton, supported by tropical storms in Australia's Pilbara region and a diesel shortage that has begun to hamper mining efficiency. While global inventories at Chinese ports rose slightly by 0.5% to 161 million tons, the market remains tight due to ongoing pricing disputes and a rush by steel mills to secure cargoes before further trade restrictions take hold. The agricultural sector is also feeling the weight of geopolitical tensions, with wheat futures rising to US$6.06 per bushel, nearing a nine-month peak. This upward trend is driven by surging input costs for farmers, as the conflict inflates the price of energy and fertilisers while simultaneously complicating global shipping logistics. Domestic supply concerns in the United States further support these elevated prices, as unusually dry
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 21
 

@@ -22,8 +22,6 @@ WEEK 19 - May 11, 2024
 
 This week, China's April export figures surpassed expectations, with a 1.5% increase in dollar terms compared to the previous year, reversing the drop seen in March. Imports surged by 8.4%, resulting in a trade surplus of US$72.4 billion for the month. Economists had forecasted a 1.3% rise in exports and a 4.7% increase in imports. The publication of these trade numbers led to a 1.6% rise in a key gauge of Chinese shares listed in Hong Kong, breaking a two-day losing streak. These figures indicate a strengthening global demand, offering a significant boost to domestic growth. With weak consumer spending domestically due to a real estate downturn, China is relying on robust foreign sales to compensate. Economist noted that this export growth has been a highlight for China's economy this year, attributing it to deflationary pressure domestically, which enhances China's export competitiveness. This trend is considered positive for the global economy, particularly amid the inflationary pressures many central banks are grappling with. Other Asian countries experienced similar export growth, fueled by strong demand from the US. South Korean exports surged by almost 14%, while Taiwan reported record shipments to the US. However, China's exports to developed economies were slower, with complaints about cheap imports on the rise. While exports to the US remained largely unchanged, those to the European Union declined. In contrast, shipments to the ASEAN bloc increased by almost 13%. The unexpected surge in China's imports was observed across various trade partners, including the US, South Korea, Taiwan, the Netherlands, and Russia, all showing increases of more than 10%. This increase was largely driven by products such as chips and PC parts, indicating a stronger global tech trade momentum and suggesting a correlation with export rather than domestic demand.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ The Pacific market has seen a slowdown in its upward momentum despite a consiste
 Panamax/Kamsarmax:
 
 The Panamax market had a strong week with steady gains favouring shipowners. At closing, the Atlantic witnessed a gradual downward correction as limited new freight inflows centered around T/A. In contrast, the Pacific market is witnessing a decrease in cargo as ship supplies increase. Pacific r/v fell to US$17,150's a day.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -71,8 +67,6 @@ The week was relatively quiet due to holidays in both basins, resulting in limit
 | SUPRAMAX | 58,000 | 16,500 |  | 16,000 |  | 13,750 | +3.13% |  | +20.00% |
 | HANDYSIZE | 38,000 | 14,500 |  | 14,000 |  | 10,500 | +3.57% |  | +38.10% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -93,8 +87,6 @@ The week was relatively quiet due to holidays in both basins, resulting in limit
 | LAGO DI LUGANO | HANDY | 32,271 | 2008 | JAPAN | 11.5 | UNDISCLOSED |
 | KHOI | HANDY | 28,338 | 2010 | JAPAN | 10.7 | VIETNAMESE BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -113,8 +105,6 @@ Aframax:
 
 Activity in the Mediterranean remains steady, with the last levels remaining similar.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Although tonnage continues to be gradually absorbed, the overall direction of the market appears unchanged. 80,000mt Ceyhan/Lavera closed at WS165.
@@ -124,8 +114,6 @@ Clean:
 LR: The LR1 market had a quiet week with limited activity, but the LR2 remains stable with TC1 seeing a big jump of 27 points to WS230. In the LR1, MEG market was also positive as TC5 improved to WS230. In the UKC, TC16 fell to WS156. MR: MR rates strengthened due to consistent activity and uncertainties in the UKC, leading to upward pressure on rates. MR rates for the UKC/USAC route increased w-o-w to WS200. In the MEG, activity picked up towards the end of the week with TC17 climbing to WS384.
 
 # Baltic Exchange Tanker Indices
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -143,8 +131,6 @@ LR: The LR1 market had a quiet week with limited activity, but the LR2 remains s
 | PETRONILLA | MR | 49,000 | 2005 | S. KOREA | 16.3 | UNDISCLOSED |
 | GRACE FORTUNA | MR | 47,786 | 2007 | S. KOREA | 23.0 | UNDISCLOSED |
 | CHEM JUPITER | SMALL | 19,814 | 2008 | JAPAN | 20.0 | UNDISCLOSED |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -169,22 +155,14 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 40 | 31 | 23 | 17 |
 | 5,100 *(amount in USD million) | Gearless | 78 | 72 | 55 | 28 | 25 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 540 ~ 550 520 ~ 530 530 ~ 540 550 ~ 560 IMPROVING/
-
-.
-
-| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 550 ~ 560 | IMPROVING/ |
+| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 310 ~ 320 | 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | STABLE / |
 
@@ -203,8 +181,6 @@ ALANG (WC INDIA) 540 ~ 550 520 ~ 530 530 ~ 540 550 ~ 560 IMPROVING/
 | GADDANI, PAKISTAN | 420 | 300 | 540 | 665 | 520 |
 | ALIAGA, TURKEY | 270 | 170 | 255 | 330 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ships Sold for Recycling
@@ -218,11 +194,7 @@ ALANG (WC INDIA) 540 ~ 550 520 ~ 530 530 ~ 540 550 ~ 560 IMPROVING/
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -233,8 +205,6 @@ Market conditions in the Sub-Continent's ship recycling markets have shown signs
 Alang, India
 
 This week saw a modest recovery in domestic ship scrap prices, revitalising market sentiment. Recyclers are regaining their competitive edge, buoyed by perceptions that the market has reached its lowest point. A resurgence in domestic steel demand has been catalyzed by government efforts to stimulate infrastructure development and initiatives promoting the production of green steel. According to a recent Moody's Rating report, India's steel demand is expected to surpass China's over the next 12-18 months, fueled by robust GDP growth forecasts. India is projected to experience a 5-7% increase in steel demand, outpacing China's 4% growth in 2024 and 2025. This surge is supported by anticipated GDP expansions of 6.6% in FY 2024-25 and 6.2% the following year, alongside governmental efforts to boost infrastructure spending and domestic manufacturing incentives. While China's steel sector faces challenges with overcapacity and high production, leading to increased exports to India, India benefits from a more concentrated industry structure, which aids in maintaining pricing discipline. Additionally, India's rich iron ore reserves enhance its vertical integration and profitability, despite higher costs for imported Australian coking coal compared to China's cheaper imports from nearby Mongolia and Russia.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -253,13 +223,9 @@ Chattogram, Bangladesh
 
 This week a sudden interest rate hike coupled with domestic currency crawling peg system bought the recycling industry to a knee jerk pause but later by close of week the recyclers evaluated the actual effect and will take a clue from this new development for future pricing. This week the Bangladeshi Reserve bank hike the interest rates after four years to tackle the elevated level of inflation. Further, the bank announced the implementation of the crawling peg system, which has resulted in a significant devaluation of the Bangladeshi taka, plunging from Tk 110 to Tk 117 against the dollar. The US dollar's rate soared to Tk 125 in Bangladesh's informal kerb market, a significant rise from Tk 117, driven by a supply shortage. This adjustment aims to enhance the competitiveness of Bangladesh's international trade. Exporters stand to gain an additional Tk 7 per dollar of export earnings, a move they have long advocated for, following last fiscal year's merchandise exports totalling US$55.55 billion. The devaluation of the Bangladeshi taka has further compounded challenges for Chattogram's ship recyclers, who are already struggling with subdued local demand for ship scrap. This economic shift has intensified the difficulties in importing ships at the prevailing price levels for the time being, placing additional strain on the industry. However, experts predict that if the domestic currency continues to weaken, it is likely that domestic ship scrap prices will rise in the coming weeks to offset the impact of the currency devaluation.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 Aliaga, Turkey
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -296,23 +262,17 @@ The Sub-Continent ferrous scrap markets, trends varied notably. There was robust
 
 acceptable price points, while European recyclers held firm against lowering prices due to sluggish scrap inflows and stable collection costs. A few suppliers have proposed prices
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 ranging from US$382 to US$384/ton CFR Turkey for HMS (80:20) scrap, influenced by dockside prices in Europe of approximately 315 to 317 euros per ton (US$339 to US$341) and the scarce availability of scrap. European recyclers are wary of potentially significant losses due to an oversupply of scrap from the US and the Baltic region. Many European dealers have ceased offering their scrap to the Turkish market or faced challenges in dropping their prices below US$380/ton CFR. Conversely, HMS (80:20) scrap from US and Baltic sources was priced at or below US$383 per ton, but Turkish buyers are placing their bids around US$375/ton CFR, indicating a looming price mismatch.
 
 # HMS 1/2 & Tangshan Billet
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 # Commodities
 
 China is expected to maintain its robust appetite for steelmaking raw materials in 2024, with imports projected to range between 1.17 and 1.18 billion metric tons, similar to the previous year's 1.18 billion tons. Eduardo Vale attributes this resilience to the strength of the Chinese economy, particularly in the infrastructure and manufacturing sectors, despite a slowdown in the property market. China's iron ore imports in the first quarter of 2024 reached 310.13 million tons, a 5.5% yo-y increase. However, the country's crude steel production during the same period declined by 1.9% to 256.55 million tons compared to the previous year. Globally, Franco forecasts world steel production to rise to 2.07 billion metric tons by 2030, driven by growth in emerging regions such as the Middle East, India, and Southeast Asia. Additionally, the energy transition is anticipated to be a new driver of steel demand, as the material plays a crucial role in this transition. China's economic growth in the first quarter of 2024 exceeded expectations, providing a much-needed boost amid the ongoing weakness in the property sector and mounting local government debt. The base metals sector experienced a surge following a disappointing US jobs report, which heightened expectations of potential interest rate cuts. The unexpected increase in US jobless claims led to a decline in the USD, consequently boosting investor enthusiasm for metals. This shift in sentiment helped offset earlier declines during Asian trading sessions, sparked by concerns about future demand. Despite worries about the impact of rising prices on demand, underlying economic indicators remain robust. China's vigorous industrial activity in April drove an uptick in imports across various commodities, suggesting a positive economic composition that supports demand, particularly amidst an uptick in manufacturing and energy transition efforts. Although refined copper imports saw an 8% year-over-year increase, they fell from March levels due to unfavourable import conditions. Meanwhile, concentrate imports continued to rise, even with decreasing treatment charges.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

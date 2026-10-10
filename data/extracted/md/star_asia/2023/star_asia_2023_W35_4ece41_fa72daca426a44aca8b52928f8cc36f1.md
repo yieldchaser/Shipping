@@ -26,8 +26,6 @@ China has taken new measures to stabilise its residential property market, which
 
 The baltic index saw a decline midweek. This was primarily driven by lower rates in the capes, which overshadowed gains in the smaller vessel. BDI fell by 13 points, reaching a level of 1,094. The same was experienced for BCI, with a significant decline of 82 points, bringing it to its lowest level since June 2 to 1,123. The average daily earnings also fell to US$9,310, with oversupply of available tonnage in the Pacific region being a main factor. BSI, however, saw some gains, improving some 24 points to 942. Notably, iron ore futures recorded gains as investors were encouraged by the prospect of new measures from China aimed at supporting its struggling property sector.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 Capesize:
@@ -42,8 +40,6 @@ Handysize:
 
 In the Atlantic, there is ample cargo influx compared to ships across major shipping routes centred around the U.S. Gulf, leading to an expanding upward trend. T/A fared better, with rates improving to US$ 8,000's. In the Pacific, while cargo influx from Indonesia is weak, the NOPAC and East Australia routes are driving the market and maintaining an upward trajectory. Inter Pacific closed around US$ 7,200's average. BHSI also improved by 3.3% w-o-w.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 3
 
 VESSEL NAME SANTA LUCIA XIN WANG HAI ALAM KEKAL ANNA IVS HAYAKITA / IVS BOSCH HOEK TASMAN SPIRIT
@@ -57,8 +53,6 @@ KAMSARMAX SUPRAMAX HANDY
 INDICES
 
 BDI BCI BPI BSI BHSI
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Dry Bulk - S&P Report
 
@@ -106,8 +100,6 @@ Y-O-Y CHANGE +0.74% +53.21% +19.67% -37.78% -39.70%
 
 Crude oil prices increased midweek following a report from the U.S. Energy Information Administration that revealed a significant inventory decline of 10.6 million barrels for the week ending on August 25. This drop was larger compared to the previous week's draw of 6.1 million barrels. The American Petroleum Institute had earlier estimated an even more substantial decrease of 11.5 million barrels for the same week, prompting a surge in oil prices. Oil prices had experienced a decline over the past two weeks as attention was focused on economic data from the United States and China. However, the situation changed this week with the API's report of a significant inventory draw, indicating robust fuel demand in the largest consumer of oil.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 While the tanker market experienced some softening from July to early August, earnings remained at relatively strong levels compared to the 10-year average. Currently, average levels are recorded at around US$ 30,000/day. VLCC earnings have also eased, dropping to US$ 35,500 in mid-August. This was attributed to limited MEG cargoes due to OPEC+ cuts. Chinese seaborne crude imports saw a y-o-y increase in July, averaging 9.2 million bpd. Yet, volumes were down by 20% m-o-m from the near-record levels seen in June due to rising domestic stocks and reduced imports from Russia and Saudi Arabia, both of which had scaled down their production recently.
@@ -127,8 +119,6 @@ While there is a consistent influx of cargo in the S.E. Asia route, the decrease
 Clean:
 
 MR: Decrease in Chinese petroleum exports and an increase in available vessels within the region saw freight rates for the Korea/SE Asia route fall by 9.4%. Most of China's export quotas have been utilised as cargo volume in NE Asia slowed down. New quotas are expected to be allocated at the end of August, but the market's recovery will be limited by domestic consumption growth in September and October. Overall, it was a relatively stable end to the week. There was notable off-market activity involving Russian vessels, which pushed rates considerably higher than usual.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -156,8 +146,6 @@ L.R: Despite the relief in vessel supply pressures, a decrease in cargo influx h
 | MR TANKER |  | 51,000 | 47 |  |  | 50 | 40 | 31 | 18 |
 | *(amount in USD | million) |  |  |  |  |  |  |  |  |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tanker 12 months T/C rates average (in USD/day)
@@ -173,8 +161,6 @@ L.R: Despite the relief in vessel supply pressures, a decrease in cargo influx h
 ## Containers
 
 The recent decrease in freight rates will be a relief for buyers who rely on imports for materials or components. After a peak in late 2022, global logistics costs driven by the COVID-induced shipping frenzy are finally subsiding. Although shipping lines are grappling with container spot rates below their operational costs, this is seen by many as payback for their prior years of significant profits. This week saw the rate for the Shanghai to U.S. West Coast route increased by 6% w-o-w to $2,136 per FEU. This represents a 51% increase year-to-date and is the highest rate since September 2022. Overall, the SCFI spot container freight rate index increased by 2% weekly, reaching 1,034 points.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -195,29 +181,16 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 42 | 37 | 29 | 19 | 16 |
 | 5,500 - 7,000 *(amount in USD million) | Gearless | 93 | 78 | 66 | 41 | N/A |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 520 ~ 530 490 ~ 500 520 ~ 530 530 ~ 540 STABLE /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 460 ~470 | 450 ~ 460 | 460 ~ 470 | 500 ~ 510 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 520 ~ 530 | 490 ~ 500 | 520 ~ 530 | 530 ~ 540 | STABLE / |
+| *CHATTOGRAM, BANGLADESH | 460 ~470 | 450 ~ 460 | 460 ~ 470 | 500 ~ 510 | WEAK / |
 | **GADDANI, PAKISTAN | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 310 ~ 320 300 ~ 310 290 ~ 300 320 ~ 330 STABLE /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 310 ~ 320 | 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -233,8 +206,6 @@ TURKEY
 | CHATTOGRAM, BANGLADESH | 435 | 375 | 340 | 595 | 605 |
 | GADDANI, PAKISTAN | 425 | 360 | 375 | 600 | 590 |
 | ALIAGA, TURKEY | 240 | 260 | 200 | 290 | 330 |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
@@ -252,8 +223,6 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Insight
@@ -263,8 +232,6 @@ It was a mixed week for the ship recycling markets in the Sub-Continent. Indian 
 Alang, India
 
 Amid a slow global economic outlook and more favourable conditions in the Indian domestic market, Indian steel producers are shifting their focus from exports to domestic sales. This shift comes as Indian mills recognise the global sluggishness and aim to delay exposure to international uncertainties. Due to strong local demand, Indian mills are prioritising domestic sales. As a result, only a restricted number of finished and semi-finished steel products are available for export. According to industry experts, mills are now in a reasonably comfortable position because of robust domestic demand. They may need to adjust to global expectations once domestic allocations surpass local demand.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -281,8 +248,6 @@ Chattogram, Bangladesh
 
 It was another quiet week in Chattogram, with India taking the driver's seat. The market saw week-on-week demand decline, with many end buyers holding on to a 'wait and see' approach around buying. There was only one recorded sale for delivery to the region at closing. Bangladeshi banks are taking steps to establish a consistent exchange rate for the U.S. dollar starting next week, aiming to eliminate the multiple rates that have contributed to foreign currency instability. This move aligns with the conditions set by the International Monetary Fund for a US$4.5 billion loan and the central bank's desire to adopt a marketbased exchange rate. As part of this decision, banks will purchase the U.S. dollar at Tk 109.50 and sell it at Tk 110 from the beginning of the upcoming workweek. The Bangladesh Foreign Exchange Dealers Association (BAFEDA) and the Association of Bankers, Bangladesh (ABB) jointly determined this single exchange rate during a virtual meeting attended by their leaders and Bangladesh Bank Chief Economist.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
 
 | THIDA 7 | CONTAINER | 6,232 | 28.08.2023 | AWAITING |
@@ -298,8 +263,6 @@ The recyclers in Gaddani managed to grab their first 5 ships for which the banks
 Aliaga, Turkey
 
 Turkey's President Recep Tayyip Erdogan announced plans for a meeting with Russian officials to discuss the possibility of re-establishing the crucial Black Sea grain deal.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -332,8 +295,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 306.24 | 302.85 | -1.12% |
 | USD / TRY (TURKEY) | 26.71 | 26.47 | -0.91% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 ## Commodities
@@ -343,8 +304,6 @@ Insight
 In August, China's manufacturing sector, which had been shrinking, showed a slight improvement, with the PMI (Purchasing Managers' Index) rising to 49.7. That's a positive sign, but there are other factors at play. There's talk of businesses restocking their supplies, factory prices going up, and the possibility of exports bouncing back. All of these things could help lessen the impact of some big structural changes happening in the Chinese economy. Additionally, India is chipping in with its robust economic growth, hitting 7.8% year-onyear last quarter, the fastest in a year. This growth is expected to drive up demand for copper, especially with the electric vehicle industry gearing up. India is also looking to electrify its bus network, which will further boost the demand for copper and other critical minerals. As a result, we're anticipating that copper demand will surpass 1.5 million metric tons in 2025, a whopping 40% increase from 2022. This would make India the third-largest consumer of copper globally, right behind the U.S. Now, let's talk iron ore. The better-than-expected manufacturing data out of China has given a little boost to the iron ore market. This improvement was also supported by some measures aimed at helping the property sector. The People's Bank of China has eased down-payment requirements for both first-time and second-time homebuyers. They've also given the green light to cut interest rates on existing mortgages for first-time homebuyers. These moves come as data shows that housing sales, in terms of value, have been declining for the third consecutive month in August, with a significant 34% year-on-year drop.
 
 ## MS 1/2 & Tangshan Billet
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 

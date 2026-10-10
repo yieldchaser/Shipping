@@ -30,8 +30,6 @@ In an effort to assist the country's economy, the People's Bank of China reduced
 
 Iron ore prices are rising as optimism about China's steel demand outweighs possible winter output limitations and India's reduced export taxes. The price of spot 62% iron ore for delivery to north China climbed to US$99.50 a tonne on November 18, according to Argus. The price has climbed 26% after hitting a three-year low of US$79 a tonne on October 31, taking encouragement from China's efforts to revive the world's second-biggest economy and lift draconian COVID-19 control policies. Other optimistic considerations for iron ore and steel include an anticipation that steelintensive sectors will grow next year. China, which buys 70% of global seaborne iron ore, might increase imports in future months due to current low inventories. November might also see a robust month for iron ore imports. The biggest issue weighing on iron ore prices is the poor profitability of China's steel mills, which may lead to decreased output, particularly during the early part of winter. As part of efforts to regulate pollution, authorities may also put limits on steel manufacturing, which might temporarily reduce iron ore demand. The price of iron ore is now being driven by positive factors in China. The issue is that these characteristics are still mostly dependent on perception and will not materialise until early 2023.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 #### Capesize:
@@ -66,8 +64,6 @@ In the Pacific, handy sentiment remained subdued. However, levels remain similar
 
 anticipated to tighten in the Atlantic. At the week's closing, levels slipped slightly, closing at US$12,275 region.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 3
 
 # Dry Bulk - S&P Report
@@ -89,8 +85,6 @@ anticipated to tighten in the Atlantic. At the week's closing, levels slipped sl
 | SUPRAMAX | 56,000 | 32 |  | 36 |  | 28 | 19 | 8 |
 | HANDY | 38,000 | 28 |  | 28 |  | 24 | 16 | 6 |
 | *(AmountinUSD million) |  |  |  |  |  |  |  |  |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 4
 
@@ -115,8 +109,6 @@ DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE % CAPE 180,000 13,75
 |---|---|---|---|---|---|---|
 | SUPRAMAX | 52,000 | 13,000 | 12,500 | 21,125 | +4 | -38.46 |
 | HANDYSIZE | 32,000 | 10,500 | 10,500 | 21,875 | 0 | -52.00 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 5
 
@@ -164,8 +156,6 @@ This week Suezmax saw an inflow of higher linear conversion demand owing to stro
 
 Correlation shift to the Atlantic continues to rise as more tonnage becomes available in the Middle East/Singapore sector. Meanwhile, activity remains bustling in the Med region, 80,000mt Ceyhan/Lavera saw levels climb to WS430.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 6
 
 #### Clean:
@@ -173,8 +163,6 @@ Correlation shift to the Atlantic continues to rise as more tonnage becomes avai
 This week saw better rates in the segment. The MR market was buoyed by robust activity in the UKC and USG. TC2 improved to WS378. The LR1 was also busy this week, the TC16 index saw gains of 98.57 points to WS332.
 
 # Tankers S&P Report
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 7
 
@@ -207,8 +195,6 @@ prospects in the next months. However, due to the macroeconomic forces that are 
 
 impacting the business, it is impossible to anticipate how the scenario will play out in 2023.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 8
 
 As we advance, a significant number of older container ships are lined up for either layups or
@@ -231,32 +217,21 @@ rates.
 | 5,500 - 7,000 | Gearless |  | 85 | 105 | 92 | 75 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 520 ~ 530 | 500 ~ 510 | 490 ~ 500 | 540 ~ 550 | WEAK / |
+| CHATTOGRAM, BANGLADESH | \* N/A | \* N/A | \* N/A | \* N/A | WEAK / |
+| GADDANI, PAKISTAN | 500 ~ 510 | 490 ~ 500 | 460 ~ 470 | 510 ~ 520 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 290 ~ 300 | 280 ~ 290 | 270 ~ 280 | 310 ~ 320 | STABLE / |
 
-CHATTOGRAM,
-
-BANGLADESH \* N/A \* N/A \* N/A \* N/A WEAK /
-
-GADDANI, PAKISTAN 500 ~ 510 490 ~ 500 460 ~ 470 510 ~ 520 STABLE /
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 290 ~ 300 280 ~ 290 270 ~ 280 310 ~ 320 STABLE /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* This week no prices from Chattogram markets due to domestic banking issues.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* This week no prices from Chattogram markets due to domestic banking issues.
 
 # 5-Year Ship Recycling Average Historical Prices
 
@@ -268,8 +243,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 | CHATTOGRAM, BANGLADESH | 420 | 440 | 370 | 370 | 610 |
 | GADDANI, PAKISTAN | 420 | 430 | 360 | 380 | 600 |
 | ALIAGA, TURKEY | 210 | 280 | 240 | 210 | 340 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 10
 
@@ -283,8 +256,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 
 The closer we approach the end of the year, the more unpredictable ship recycling markets get. Every week brings a glimmer of optimism, but as the week passes, that hope is lost. Another dismal and inactive week for recyclers on the Indian Subcontinent. Recently, Indian and Pakistani recyclers have emerged as purchasers at varying price levels, offering carefully
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 11
 
 on ships that are being offered for sale at reduced prices. The vast majority of recyclers preferred to wait for further pricing stability. The only respite in the continuous saga is the limited ship supply, which keeps prices in check. The current scenario has dismayed the whole industry. The volatility of the recycling markets has altered the willingness of cash buyers and recyclers to take risks. Predicting the general situation on the Indian Subcontinent is becoming increasingly difficult. Several external variables influencing steel prices have a significant impact on the industry's dismal state. One such fundamental reality is that Russia is currently dumping inexpensive steel goods, both semi-finished and finished, for cash. Due to Western sanctions that have restricted legitimate avenues for the supply of foreign currency banknotes, the economic activity of the 1990s, in which items were sold abroad in exchange for bags of cash, is returning to Russia. The Ministry of Finance and the Central Bank have agreed on a mechanism that will allow resident companies to receive "cash" in payment for the export of any goods, including raw materials, follows from a draft government decree published on Wednesday on the portal of regulations. Such transactions can be carried out without a limit on the amount, and the received banknotes will be allowed not to be deposited into accounts in Russian banks, using them, for example, for mutual settlements - for the purchase of goods and services abroad. It will also be possible to bring cash into Russia and then sell it to an authorised bank no later than 30 days from the date of import or deposit it into an account at the cash desk. How things shape up surrounding such developments will be a challenge for the industry in the coming months.
@@ -292,8 +263,6 @@ on ships that are being offered for sale at reduced prices. The vast majority of
 #### ALANG, INDIA
 
 Last week's favourable development on lifting export tariffs resurrected the steel sector, and the recent comeback overcame the growing negative sentiments of W-O-W. Still, as the week proceeded, it all appeared to be a "dead cat bounce." Domestic ship scrap prices, which had risen by US$48/ton, reversed course, giving up all gains and falling back to much lower levels.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 12
 
@@ -318,8 +287,6 @@ As markets progress, it will be a long ride ahead for Indian steel mills since e
 #### CHATTOGRAM, BANGLADESH
 
 Another drab week in Bangladesh's recycling sector. Ships continue to arrive in the anchorage with no destination. Recyclers and sellers are collaborating to develop solutions with no conclusion in sight.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 13
 
@@ -348,8 +315,6 @@ It was a quiet week for Pakistani recyclers looking for encouragement in the abs
 |---|---|---|---|---|
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
 | - | - | - | - | - |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 14
 

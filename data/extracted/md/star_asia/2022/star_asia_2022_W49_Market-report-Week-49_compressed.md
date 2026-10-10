@@ -30,8 +30,6 @@ This week China further eased its restrictions on COVID, a significant shift in 
 
 In response to the demonstrations in China over the Covid-related measures, the country's rules have undergone several adjustments. This has prompted a favourable response in the commodities market and also the dry bulk segment. The resurgence of Chinese economic activity is anticipated to result in a substantial restocking of important commodities in the coming 2023. Activity should pick up just before the Lunar New Year. With the return of normalcy in trade after a period of substantial disruption and uncertainty, many players will be focusing on basic supply and demand fundamentals. Currently, the key factor influencing bulk vessel spot freight rates in the next year will be sensitive to such changes. Overall, China is poised to reclaim its leading position in imports.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 ### Capesize:
@@ -66,8 +64,6 @@ Positive optimism returned to the region this week as a result of the robust USG
 
 a tight list. Inter-Pacific saw levels in the region of US$8,000 per day, while Pacific r/v climbed to US$8,900 per day region.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 3
 
 # Dry Bulk - S&P Report
@@ -98,11 +94,7 @@ a tight list. Inter-Pacific saw levels in the region of US$8,000 per day, while 
 | BSI | 1,152 | 1,162 |  | 2,551 | -0.86 |  | -54.84 |
 | BHSI | 732 | 741 |  | 1,572 | -1.21 |  | -53.44 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 5
 
@@ -156,8 +148,6 @@ It was a quiet week for Suezmax as discounted rates on the VLCCs saw some conver
 
 While activity in the Nsea fell slightly, the absence of a position list prevented rates from plummeting further. There is anticipation that the market will remain healthy in December, with rates relatively stable. In the Mediterranean/Baltic Sea, 80,000mt Ceyhan/Lavera saw
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 6
 
 gain with rates at WS362.
@@ -187,8 +177,6 @@ M.R.s had a rather slow and steady week. U.S. Gulf MR rates have declined this w
 | STYLE / SKY | MR | 37,923 | 2008 / 2007 | S. KOREA | 33.0 EN BLOC | TURKISH BUYERS |
 | STAR N | MR | 37,836 | 2009 | S. KOREA | 18.1 | UNDISCLOSED |
 | GUANG HUI 638 | SMALL | 7,048 | 2013 | CHINA | 7.2 | UNDISCLOSED |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 7
 
@@ -223,8 +211,6 @@ Baltic Exchange Tanker Indices
 | LR1 | 74,000 | 42,500 | 42,500 | 13,500 | 0 | +214.81 |
 | MR | 47,000 | 30,250 | 27,500 | 13,000 | +10.00 | +132.69 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 8
 
 # Containers
@@ -254,32 +240,21 @@ Containers S&P Report
 | 2,700 - 2,900 | Gearless | 42 | 38 | 32 | 21 | 16 |
 | 5,500 - 7,000 | Gearless | 85 | 100 | 90 | 65 | N/A |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 530 ~ 540 | 520 ~ 530 | 520 ~ 530 | 570 ~ 580 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | \*530 ~ 540 | \*520 ~ 530 | \*500 ~ 510 | \*550 ~ 560 | STABLE / |
+| GADDANI, PAKISTAN | 500 ~ 510 | 490 ~ 500 | 460 ~ 470 | 510 ~ 520 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 250 ~ 260 | 240 ~ 250 | 240 ~ 250 | 280 ~ 290 | WEAK / |
 
-CHATTOGRAM,
-
-BANGLADESH \*530 ~ 540 \*520 ~ 530 \*500 ~ 510 \*550 ~ 560 STABLE /
-
-GADDANI, PAKISTAN 500 ~ 510 490 ~ 500 460 ~ 470 510 ~ 520 STABLE /
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 250 ~ 260 240 ~ 250 240 ~ 250 280 ~ 290 WEAK /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening.
 
 # 5-Year Ship Recycling Average Historical Prices
 
@@ -291,8 +266,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 | CHATTOGRAM, BANGLADESH | 430 | 430 | 375 | 410 | 610 |
 | GADDANI, PAKISTAN | 410 | 415 | 365 | 400 | 600 |
 | ALIAGA, TURKEY | 210 | 280 | 240 | 235 | 340 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 10
 
@@ -308,8 +281,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 
 # Recycling Ships
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 # for Recycling
 
 # Price Trend
@@ -319,8 +290,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 # Insight
 
 The momentum is building! Despite growing domestic ship scrap prices in the previous weeks, Sub-Continent markets, particularly in India and Bangladesh, have shown indications of revival. However, ship prices have yet to reflect such optimism. In the lack of a clear trend in a volatile market, recyclers have been particularly cautious about submitting their proposals. On the other hand, concerns about abrupt overstock persist as container markets correct. A large number of container ships have recently been proposed for sale, and the deal should be completed within the next week. The prices paid in today's market will be reflected in the sales of similar units. The next significant fear factor for the recycling markets is the sudden spur of ships, especially in the container and dry bulk segment. Cash buyers have become extremely picky and choosy about the ships they offer due to limited demand. The classic reflection was the recent failed bids in China for a few elderly handymax and panamax bulkers placed on the online platform bidding attracted zero buyers, despite of minimum reserve price set at a very reasonable US$360~380/lt levels. As we enter 2023, market participants feel the steel dynamics have altered in the last year and will change much more as the year advances due to new environmental rules, stringent export policies imposed by the authorities, geopolitical tensions, and fears of recession. Modestly bullish sentiments in the short term may keep the activities going at prevailing prices. While in the west, according to reports, the E.U. and the U.S. are contemplating additional levies on aluminium and steel to combat global overcapacity and climate change. This would be a first for the two, which typically employ tariffs to settle trade concerns. It would also represent an innovative strategy to combating climate change. This was, however, opposed by China's aluminium companies. With China, the world's largest producer of aluminium and carbon dioxide, being the primary emphasis. The planned taxes are expected to exacerbate trade tensions between the U.S. and China, particularly at a time when both countries are attempting to tackle climate change. China's Foreign Ministry announced on Tuesday that it would not support tariffs that violate World Trade Organization regulations. Mao said that China would take the necessary steps to protect its lawful interests.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 12
 
@@ -343,15 +312,11 @@ Overall a stable week with recyclers back on the drawing board working out the a
 
 This week the domestic ship scrap prices made a decent comeback in the backdrop of the scarcity of imported ferrous scrap. With the continued Letters of Credit challenges, the overall situation remained unchanged, and just a few recyclers were able to obtain approvals to establish Letters of Credit. There are no imminent signs of easing, although the situation is improving on a case-by-case basis. Ship recycling prices are seen settling down at the prevailing rates, though the spread between the domestic ship scrap prices and international ship prices is getting wider. As for recyclers, the cost of financing has exponentially increased in light of limitations on funding.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 13
 
 ### GADDANI, PAKISTAN
 
 This week, Mr.Wajid Bukhari, secretary general of the Pakistan Association of Large Steel Producers, stated that members are having difficulty establishing Letters of Credit due to the country's financial crisis. Several steel plants are already on the edge of collapsing due to a lack of raw materials. Due to the unpredictability of the currency market and the delays in the State Bank of Pakistan's acceptance of the Letters of Credit, these businesses have also begun to curtail their production. Pakistan's steel sector relies significantly on imported raw materials. Delays in L.C. approval and expensive demurrage fees contribute to the manufacturing delays. Further, the steel industries in the nation are suffering severe supply restrictions. Businesses are also concerned that they may not be able to satisfy the demand for their products once a building in the flooded regions resumes. If the issue is not resolved, the price per metric tonne of steel bars might climb to between Rs230,000 and Rs240,000 (US$1,022 ~ 1,066). In the first four months of this year, imports of steel scrap and iron stayed at about 900,000 tonnes, which is 29% lesser than the same period in the previous year. Concerns over depleting foreign exchange were taking center stage as the banks started to take a back foot on opening Letters of Credit. All major infrastructure projects have been put on hold due to the liquidity crisis, and demand for steel is non-existent. Pakistani recyclers remained inactive, on the sidelines for the time being, until domestic demand picked up and the liquidity crisis eased.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 14
 

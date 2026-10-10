@@ -22,8 +22,6 @@ pages: 19
 
 A shift appears to be underway at the U.S. Federal Reserve, with a growing number of officials signaling an increasing openness to an interest rate cut as soon as September. Just last month, the consensus was to hold rates steady, citing a solid labor market. However, recent government data, which dramatically revised job gains downward for May and June to levels some economists associate with a recession, has clearly unsettled policymakers. While a consensus for an immediate policy change has not yet formed, the tone has tilted decidedly more dovish as the Fed weighs its dual mandate of stable inflation and full employment against a rapidly changing economic backdrop. This stance at the central bank aligns with President Trump's aggressive, year-long campaign for lower borrowing costs. However, the President's economic focus this week has been a staunch and dramatic defense of his tariff policy, which faces a critical challenge in federal court. In a series of social media posts, President Trump warned that any judicial ruling against his authority to impose these duties could trigger a catastrophic economic downturn comparable to the "1929 GREAT DEPRESSION." He argued that unwinding the policy would be impossible and would jeopardize the wealth and power he claims it has created, framing the legal challenge as an existential threat to the nation's economic stability. Despite the President's assertions that his tariffs have had a "huge positive impact" on the stock market, market behavior has often suggested the opposite. Investors have typically reacted with relief and buying activity when tariff threats have been suspended or dialed back, as seen when the Nasdaq Composite soared following a 90-day tariff reprieve in April. On the contrary, markets have often dipped when the administration has pressed forward with higher duties. While specific sectors have certainly benefited from targeted exemptions, the broader market's rallies on tariff relief have often been short-lived. Over time, investors appear to have grown more accustomed to the President's frequently changing rhetoric, leading to more muted reactions as they await concrete policy outcomes.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ In the Pacific, rates are in a strong position, attempting to push higher on the
 Panamax/Kamsarmax:
 
 Panamax ended the week on a positive note, with rates seeing an uptick across the board. In the Atlantic, sentiment remains supported despite a slight dip in the FFA market. While a lack of grain cargo from the N. Atlantic is acting as a drag, this is being offset by a consistent flow of coal shipments from EC South America. T/A route finished the week with rates in the mid-teens. In the Pacific, the market remains stable; tight vessel supply in the NOPAC is keeping rates at existing levels, while solid demand for Indonesian coal continues to foster positive sentiment. Supramax/Ultramax: Momentum in the Supramax market remains strong, particularly in the Atlantic basin. North America is the primary driver, with S. Atlantic seeing rising rates due to a persistent shortage of available tonnage. In the Pacific, while rates continue to find support from the USG trade, the market appears to be stable.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -67,8 +63,6 @@ Dry Bulk Values
 | ULTRAMAX | 64,000 | 34 | 38 | 31 (E) | 23 | 15 (56K) |
 | HANDY | 38,000 | 30 | 33 | 25 | 17 | 14 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -85,8 +79,6 @@ Dry Bulk Values
 | BC CALLISTO | HANDY | 32,280 | 2010 | JAPAN | 12.5 | CHINESE BUYERS |
 | LUCKY TRADER | HANDY | 25,028 | 2011 | JAPAN | 11.6 | NOVA MARINE CARRIERS S. A |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -100,8 +92,6 @@ In the Middle East, the VLCC market improved this week, with freight rates climb
 Suezmax:
 
 WAFR market finished the week on a strong note, recording a rate increase. This bullish sentiment was driven by a tightening of supply in the region, influenced by increased cargo activity in the Black Sea. 130,000mt Nigeria/UKC shot to WS120 at closing.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -129,8 +119,6 @@ LR: The LR2 market continued its climb for the week, with freight rates concludi
 | MR | 51,000 |  | 49 | 50 | 41 (E) | 30 | (E) | 21 |
 | *(amount inUSD | million) | \ | (E)-ecounits |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -141,8 +129,6 @@ LR: The LR2 market continued its climb for the week, with freight rates concludi
 | LAKSHMI | MR | 50,192 | 2009 | S. KOREA | 17.5 | INDIAN BUYERS |
 | SEAWAYS MIA | MR | 49,999 | 2008 | S. KOREA | 16.5 | UNDISCLOSED |
 | NORD OLYMPIA | MR | 49,995 | 2018 | JAPAN | 37.0 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -165,29 +151,18 @@ S&P Containers Report
 |---|---|---|---|---|---|---|
 | AS FOIRELLA / AS FLORETTA | FEEDER | 1,296 | 2007 | CHINA | 33.0 EN BLOC | BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 430 ~ 440 420 ~ 430 410 ~ 420 440 ~ 450 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 400 ~ 410 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
-
-TURKEY
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 400 ~ 410 | 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -203,8 +178,6 @@ TURKEY
 | CHATTOGRAM, BANGLADESH | 325 | 610 | 610 | 550 | 520 |
 | GADDANI, PAKISTAN | 360 | 590 | 550 | 500 | 510 |
 | ALIAGA, TURKEY | 200 | 300 | 300 | 310 | 350 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 11
 
@@ -222,19 +195,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 With the conclusion of the monsoon season, some optimisms were seen breathing new life into local steel demand. The market's recovery is being boosted by a strengthening appetite for mid-sized vessels. Although the overall supply of tonnage remains limited, an upwardly biased sentiment prevails among buyers. Alang continues to solidify its position as the destination for shipowners committed to green recycling standards. While recycler sentiment showed signs of improvement, domestic ship scrap prices remained flat, held in check by stable imported ferrous scrap rates.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -258,8 +225,6 @@ Gadani
 
 Pakistan saw a positive week, with prices remaining stable. This week, the ministry's latest clarification on Hong Kong Convention (HKC) certification has emerged as a significant talking point among industry participants. Many had previously operated under the assumption that yards could handle multiple vessels simultaneously while progressing toward HKC accreditation. The new directive, however, sets a stricter framework: only one vessel may be recycled during the certification process, and once that vessel's
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 dismantling is completed, there will be no grace or cessation period to allow for the certification to be finalised. This sharper restriction is already prompting a strategic rethink across the recycling sector. Ship recyclers are now weighing whether to hold off on fresh purchases or proceed more selectively, and the financial implications of tying up capacity for a single vessel.
@@ -275,8 +240,6 @@ The Turkish ship recycling market saw another week of static conditions. Key mar
 Chattogram, Bangladesh : 9 ~ 12 August | 22 ~ 25 August Alang, India : 8 ~ 16 August | 20 ~ 27 August
 
 ---
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -305,8 +268,6 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 This week the Sub-Continent and Turkey ferrous scrap markets were largely stable over the week, with sentiment subdued by cautious buying and thin trading activity. While Pakistan and Bangladesh saw a handful of firm-price deals, Indian buyers remained inactive, relying instead on domestic scrap supplies as imported offers stayed above workable levels. In India, imported scrap trading was minimal, with mills avoiding seaborne cargoes due to high offer levels. Most continued sourcing through regular domestic channels. Recent indications included shredded scrap at $365/t delivered to Mandi, HMS 1 from Bahrain at US$345/tON CFR, and shredded from UK/Europe/US at US$375/ton CFR, though buyer interest was capped at $360/t. Pakistan, the market stayed steady with limited trades. UK-origin shredded was last heard at US$380-385/ton CFR, while UAE cargoes included sheared HMS at US$375/ton CFR and fabrication scrap at US$395/ton CFR. Buyers remained cautious amid currency volatility, weak domestic steel demand, and unclear price direction. Bangladesh, the domestic billet and rebar prices were rangebound-billet at BDT 66,500- 67,000/t (US$547-551/ton) and rebar at BDT 76,000-77,000/tons (US$625-633/ton). Imported HMS 80:20 was heard at US$348/ton CFR, 90:10 at $350/ton, and PNS at
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 US$352/ton, with importers wary due to volatile freight and demand. Local scrap hovered around BDT 48,000/t (US$395/ton), adjusted to mill needs. In Turkey, deepsea ferrous scrap import prices were unchanged, with HMS 80:20 at US$345-350/ton CFR US/Baltic and US$339-342/ton CFR EU. Mills stayed largely inactive on weak rebar and flat steel demand, with September bookings possible only if billet and finished steel prices recover.
@@ -316,8 +277,6 @@ US$352/ton, with importers wary due to volatile freight and demand. Local scrap 
 ## Commodities (Week infocus)
 
 This week, copper prices edged higher as robust Chinese trade data underscored resilient commodity imports in July despite US tariff tensions. Refined copper imports hit a 2024 high of 480kt, supported by strong industrial activity, grid expansion, and the energy transition. Imports are expected to rise further after the US exempted refined copper from the planned 50% tariffs. Copper concentrate shipments also climbed to a three-month high as smelters boosted purchases. Supply side risks added support, with Codelco's El Teniente mine suspension potentially lasting months pending a full review, alongside other unplanned outages such as Kamoa-Kakula. Unplanned disruptions now account for 5.7% of global production, up from under 5% in 2014, underscoring the sector's challenging operating environment. This trend is expected to constrain long-term supply growth, keeping market conditions tight. In the near term, supply issues may lift spot prices and pressure treatment charges, while Chinese demand for refined imports is set to strengthen further.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

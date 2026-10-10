@@ -22,8 +22,6 @@ WEEK 15 - April 11, 2025
 
 Global financial markets remained turbulent following President Donald Trump's midweek decision to pause most severe US tariffs, except those targeting China. Investors sought safety as economic indicators revealed diminishing inflationary pressures and declining consumer sentiment, signalling potential stress on the economy. The traditional flight to US Treasury securities reversed course as investors moved away from American assets while the dollar weakened, raising questions about the United States' safe-haven status. Trading partners worldwide responded with mixed relief and confusion to Trump's lastminute tariff pause decision. As officials globally attempt to determine what might secure permanent waivers, Trump's demonstrated willingness to abruptly change course-or in China's case, escalate by raising tariffs to 145%-adds another layer of uncertainty to international trade relations. China retaliated by increasing duties on all US goods from 84% to 125% starting April 12, while dismissing the administration's actions as a "joke" no longer worth matching. This escalation occurs as China experiences extended consumer deflation and persistent factory deflation, with its producer price index declining at an accelerated rate of 2.5% compared to February's 2.2%. The economic ripple effects are spreading globally, with US inflation showing broad cooling in March before the implementation of widespread tariffs that risk renewing price pressures. While in the Gulf, all eyes are on Oman this weekend as Tehran and Washington prepare for high-stakes negotiations that could determine the trajectory of U.S.-Iran relations. The outcome may prove pivotal-either paving the way for renewed diplomacy or risking a slide into open conflict. The talks carry significant implications, not just for regional stability across the Middle East, but potentially for the political future of the Islamic Republic, now in its fifth decade of rule.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -33,8 +31,6 @@ The Baltic Exchange's dry bulk index showed modest gains on Friday, despite the 
 Capesize:
 
 The Pacific region saw increased market activity at week's closing with active contract operations in the Australian area. Along with a reduction in vessel supply,
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -59,8 +55,6 @@ Handy market saw a mixed market with levels in the Pacific seeing slight improve
 | BHSI | 582 | 613 Dry | 722 Bulk Values (Weekly) | -5.06% | -19.39% |
 | TYPE | DWT NB | CONTRACT | NB PROMPT DELIVERY | 5 YEARS 10 | YEARS 15 YEARS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 | CAPE | 180,000 | 68 | 70 | 50 | 38 | 29 |
@@ -68,8 +62,6 @@ Handy market saw a mixed market with levels in the Pacific seeing slight improve
 | KAMSARMAX | 82,000 | 37 | 35 | 30 | 24 | 19 |
 | SUPRAMAX | 56,000 | - | - | 27 | 20 | 13 |
 | HANDY *(amount in USD million) | 38,000 | 31 | 33 | 25 | 17 | 14 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -84,8 +76,6 @@ MEG ended the week with a sluggish outlook, showing a gradual downward trend thr
 Suezmax:
 
 WAFR saw a drop in rates as many vessel fixtures were cancelled due to transportation suspension following Russia's pipeline inspection in the CPC region. Although rates recovered slightly later in the week, the market remained stagnant. 135,000mt CPC/Med was unchanged at WS130.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -124,8 +114,6 @@ Y-O-Y CHANGE -5.82% -22.75%
 | MR | 51,000 | 50 | 52 | 40 | 31 | 20 |
 | *(amount in USD million) |  |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 # Tankers S&P Report
@@ -139,8 +127,6 @@ Y-O-Y CHANGE -5.82% -22.75%
 | PS MILANO | MR | 49,999 | 2018 | S. KOREA | 37.2 | GREEK BUYERS |
 | DH HONESTY | PROD / CHEM | 13,148 | 2021 | CHINA | 20.5 (SS) | UNDISCLOSED (AUCTION) |
 | DH GLORY | PROD / CHEM | 13,121 | 2020 | CHINA | 20.5 (SS) | UNDISCLOSED (AUCTION) |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -166,33 +152,18 @@ Shipping companies are adjusting vessel supply more aggressively before yearly c
 | NORDIC HAMBURG | FEEDER | 1,036 | 2010 |  | CHINA | 13.0 | UNDISCLOSED |  |
 | DIANA J | FEEDER | 974 | 2006 |  | GERMANY | 9.7 | UNDISCLOSED |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 460 ~ 470 430 ~ 440 440 ~ 450 470 ~ 480 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 460 ~ 470 440 ~ 450 | 430 ~ 440 | 470 ~ 480 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 320 ~ 330 300 ~ 310 290 ~ 300 330 ~ 340 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 460 ~ 470 | 430 ~ 440 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 460 ~ 470 | 440 ~ 450 | 430 ~ 440 | 470 ~ 480 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 320 ~ 330 | 300 ~ 310 | 290 ~ 300 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -209,8 +180,6 @@ TURKEY
 | GADDANI, PAKISTAN | 270 | 490 | 680 | - | 530 |
 | ALIAGA, TURKEY | 160 | 250 | 480 | 320 | 310 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -225,19 +194,13 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 The market showed no significant shift in sentiment or activity this week compared to the previous period, with local demand steadily recovering. While India's rebar market rally has temporarily paused in the secondary segment as buyers have already restocked and adopted a wait-and-see approach ahead of safeguard duty decisions, the primary steel segment remains resilient. This stability is largely supported by robust demand from government infrastructure projects. Looking forward, India's ship recycling industry faces potential challenges as the country is predicted to experience a significant scrap shortage over the next five to ten years. This looming shortage is driven by multiple factors: a tightening global scrap pool as many countries retain more material for domestic use, sluggish growth in India's
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -254,8 +217,6 @@ Anchorage & Beaching Position (APRIL 2025)
 Chattogram
 
 Bangladesh's ship recycling market remains subdued, with prices holding steady at last week's levels despite limited local activity. In a significant development, the Bangladesh Ship Reprocessing Board, established under the Ship Reprocessing Act of 2018, officially began operations on April 10, 2025. This three-member board will now oversee all ship recycling activities in the country. The industry awaits next week's decision on whether NOCs will be issued to HKC-compliant yards, while non-HKC yards face uncertainty as their previous extension expired on March 31 with no new extensions announced until at least July. The broader economic changes also include the recent imposition of high U.S. tariffs. The 37% tariff imposed on Bangladesh comes amid tensions between the U.S. and China, creating additional pressure on the country's export sectors, including recycled steel from ships. As Bangladesh prepares to graduate from least developed country status, the industry faces a crucial period requiring enhanced commercial capacity and
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -275,8 +236,6 @@ Anchorage & Beaching Position (APRIL 2025)
 Aliaga, Turkey
 
 Turkey's market remains stagnant as domestic scrap prices remain largely unchanged from levels seen before the recent Eid holiday. However, pressure is mounting on the market as several mills prepare to decrease their domestic scrap buying prices in response to falling imported values. The market saw a significant supply-demand imbalance, with numerous offers available, while mills have halted purchases despite their incomplete May-shipment scrap procurements. This purchasing freeze by Turkish
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -308,8 +267,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 280.58 | 280.16 | -0.15% |
 | USD / TRY (TURKEY) | 37.87 | 37.96 | +0.24% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Sub-Continent and Turkey ferrous scrap markets insights
@@ -328,8 +285,6 @@ challenges and tight foreign exchange liquidity. Shredded offers stood at US$385
 
 US$5/ton to US$365/ton CFR, driven by tepid mill interest. A deal for HMS 90:10 at US$369/ton CFR confirmed bearish trends, with shredded and bonus scrap at US$386/ton. Offers for US/Baltic HMS 80:20 held at US$365-370/ton CFR, while EU suppliers largely stayed out of the market, citing unworkable levels. Despite the soft tone, some traders expect prices to find support near US$360/ton CFR if billet demand revives in Asian markets.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 # HMS 1/2 & Tangshan Billet
@@ -339,8 +294,6 @@ US$5/ton to US$365/ton CFR, driven by tepid mill interest. A deal for HMS 90:10 
 **Iron ore futures moved sideways on Friday but remained on track for a weekly decline as**
 
 escalating trade tensions between the United States and China-the world's two largest economies-cast shadows over demand prospects. The most actively traded September iron ore contract on China's Dalian Commodity Exchange (DCE) finished daytime trading slightly higher at 708 yuan (US$96.70) per metric ton, though still registering a weekly loss of 4.8%. Similarly, the benchmark May iron ore contract on the Singapore Exchange slipped to US$97 a ton as of 0705 GMT, bringing its decline for the week to 4.8% as well. Recent developments in the US-China trade relationship have heightened market concerns. US President Donald Trump increased tariffs on Chinese imports to 125% shortly after Beijing retaliated by raising duties on American goods to 84% from the previous 34%. Markets remain anxious about potential further escalation from China. Analysts warned in a note that trade tensions show no signs of easing, cautioning that a worstcase scenario could push the global economy into recession. These tensions have broadly weighed on sentiment across metals markets, despite a brief respite after Trump's unexpected 90-day pause on hefty duties for trading partners that didn't retaliate. However, resilient near-term demand for iron ore and optimism surrounding potential stimulus measures have helped limit losses.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

@@ -22,8 +22,6 @@ pages: 20
 
 Two years into the conflict, Russia invaded Ukraine on Feb 24, 2022, Ukraine's situation has become increasingly precarious, especially with Russia's strategic capture of Avdiivka, signaling a shift in momentum. The country finds itself in a challenging position reminiscent of the war's onset, wrestling with halted U.S. military aid and a critical shortage of manpower. These issues have led to an acute scarcity of ammunition and resources, amplifying the lethality of ongoing battles. The relentless nature of the conflict is palpable both on the frontlines and among civilians, with exhaustive air raid protocols and a pervasive state of mourning due to the continuous loss of life. Despite this, a resilient public sentiment prevails, with a vast majority of Ukrainians steadfast in their belief of victory, underscored by the essential support of international allies. However, the horizon suggests a protracted and intensifying conflict, with potentially dire consequences should Ukraine face defeat, including massive bloodshed, a significant refugee crisis, and geopolitical tensions at NATO's doorstep. Military analysts hint at a crucial period of rebuilding and defense for Ukraine, aiming to prevent further Russian advances while preparing for possible future offensives amidst the unpredictable dynamics of war. Despite the imposition of sanctions on Russia, their effectiveness has been less significant than anticipated on a global scale. In response, legislators throughout the United States and Europe are intensifying their efforts to implement a new price cap aimed at further restricting Russia's oil revenue. This move is part of a broader initiative to target the so-called "dark fleet" of ships involved in circumventing existing sanctions. A new wave of sanctions is being prepared, focusing on the crackdown on ship owners engaged in these illicit trades, as Western countries seek to tighten the economic noose around Russia's war machinery.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The market saw an uptick as players were back from the holidays, thanks to impro
 Panamax/Kamsarmax:
 
 In the North Atlantic, downward pressure persists due to weak new demand. In South America, as new volumes are not abundant, shipowners are offering lower bids than the previous day. T/A overall fell to US$15,600's a day. In the Pacific, most spot transactions have been completed, leading to subdued activity and a weak downward trend. Pacific r/v slipped to US$14,750's a day. Supramax/Ultramax: It was a mixed market this week for the Supra segment. Despite the subdued activity, there was a strong uptick in the Pacific, driven by the sustained demand for Indonesian coal. There was a recovery at the end of the week, influenced by increased demand. Pacific r/v improved to US$11,250's a day. However, on the other side, competition
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -78,8 +74,6 @@ Bulker 12 months T/C rates average (in USD/day)
 | SUPRAMAX | 58,000 | 15,000 | 15,000 | 14,750 | 0 | +1.69% |
 | HANDYSIZE | 38,000 | 13,500 | 13,250 | 11,000 | +1.89% | +22.73% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -95,8 +89,6 @@ Bulker 12 months T/C rates average (in USD/day)
 | MAESTRO SAPPHIRE | HANDY | 39,830 | 2020 | JAPAN | 29.25 | DEVBULK TRADING |
 | ECO SPLENDOR | HANDY | 38,302 | 2013 | JAPAN | 18.0 | DEVBULK TRADING |
 | LAGO DI LUGANO | HANDY | 32,271 | 2008 | JAPAN | 10.5 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -115,8 +107,6 @@ The Atlantic Basin is benefiting from increased demand for tonnage shift as the 
 Aframax:
 
 Despite a slowdown in new cargo inflow, increased movement of vessels is decreasing vessel availability in the Pacific region, acting as a limiting factor on falling rates. MEG/SGP route saw levels slip to WS191 at closing. On the other side, weakness was also seen in the USG as TD26 fell to WS194.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -147,15 +137,11 @@ LR: Since the end of January, LR2 has continued to see a downward adjustment. Wi
 | LR1 | 74,000 | 41,000 | 41,500 |  | 35,500 | -1.20% |  |  | +15.49% |
 | MR | 47,000 | 30,000 | 29,000 |  | 30,500 | +3.45% |  |  | -1.64% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
 
 *(\*SS is Stainless Steel)*
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -169,33 +155,18 @@ Drewry's Container report indicates a 1% growth in the global container fleet la
 |---|---|---|---|---|---|---|
 | MISTRAL | FEEDER | 868 | 2008 | GERMANY | 9.0 | UAE BASED BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 500 ~ 510 470 ~ 480 480 ~ 490 510 ~ 520 WEAK /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 500 ~ 510 | 470 ~ 480 | 480 ~ 490 | 510 ~ 520 | WEAK / |
+| *CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
 | **GADDANI, PAKISTAN | 530 ~ 540 | 520 ~ 530 | 510 ~ 520 | 540 ~ 550 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -211,8 +182,6 @@ TURKEY
 | CHATTOGRAM, BANGLADESH | 440 | 380 | 460 | 660 | 580 |
 | GADDANI, PAKISTAN | 420 | 370 | 460 | 640 | 535 |
 | ALIAGA, TURKEY | 280 | 240 | 240 | 345 | 325 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 11
 
@@ -230,11 +199,7 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -259,8 +224,6 @@ Anchorage & Beaching Position (February 2024)
 | VILIGA | FISHING | 804 | 18.01.2024 | 07.02.2024 |
 | ZE SHENG | AGGREGATES | 3,492 | 30.01.2024 | 01.02.2024 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 Chattogram, Bangladesh
@@ -282,8 +245,6 @@ Anchorage & Beaching Position (February 2024)
 | ZEUS ONE | BULKER | 21,364 | 11.02.2024 | 14.02.2024 |
 | KONSTANTINOS | BULKER | 7,979 | 08.02.2024 | 13.02.2024 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 | SIA | BULKER | 12,605 | 12.02.2024 | 13.02.2024 |
@@ -297,8 +258,6 @@ Gadani, Pakistan
 
 The ship recycling industry has remained active, witnessing a significant surge in demand for vessels. Notably, the sale of the "Qatar Ana," a Japanese-built aggregate carrier from 1989 weighing approximately 8,015 tons, was reported sold at a net price of USD 510 per ton. This transaction underscores a robust valuation for bulk carriers in the current market, particularly with the notable absence of competition from Alang. While another cape called "Wang Hai", 2003 Chinese built weighing 23,038 tons and sold in December 2023 by COSCO, arrived at the Gadani outer anchorage for recycling, being the first cape sold this year to Pakistan. Despite lukewarm domestic demand, recyclers have been keen on acquiring ships, driven by the ambition to utilise these acquisitions as case studies for their yards in pursuit of the Hong Kong Convention (HKC) certification. This ambition, coupled with stiff competition within the sector, has contributed to keeping prices at an elevated level. On the domestic economy front, Pakistan's struggle with debt repayment is escalating, exacerbated by a decline in the State Bank of Pakistan's foreign exchange reserves, which dropped by USD44 million to USD8.013 billion due to debt obligations amid rising political instability. Despite a boost in remittances, the country faces the daunting task of managing over USD6 billion in foreign payments by the fiscal year-end. In the first half of the fiscal year, Pakistan allocated USD7.2 billion to debt servicing. The financial community is optimistic that a new government in Islamabad might stabilise the economy. However, the consensus is that the debt crisis and dollar shortage will continue, with expectations that the upcoming administration will seek further IMF assistance. The State Bank's efforts to stabilise the foreign exchange market through strict import controls have helped, but IMF demands for import liberalisation could pose risks. Meanwhile, the country's total foreign exchange reserves stand at USD13.098 billion, including holdings by commercial banks.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Aliaga, Turkey
@@ -310,8 +269,6 @@ Turkish mills are still not showing signs of recovering scrap demand this week d
 Chattogram, Bangladesh : 26 ~ 29 February | 11 ~ 14 March Alang, India : 23 ~ 27 February | 8 ~ 15 March
 
 ---
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -342,15 +299,11 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The ferrous scrap market in South Asia is currently experiencing a downtrend, ascribed to a decrease in market inquiries. In India, the market dynamics have been particularly subdued due to a noticeable gap between the bids and offers, mirroring similar trends in Pakistan and Bangladesh where challenges in letters of credit approvals and a deceleration in the domestic steel market have led to reduced purchasing activities. Notably, shredded scrap prices have seen a reduction of USD2-3 per ton in India, Pakistan, and Bangladesh. Moreover, offers for US bulk HMS (80:20) to Turkey also experienced a slight decrease of USD2 per ton. In India, the demand for imported scrap has been tepid, with European-origin scraps facing significant price disparities compared to domestic alternatives. Current indicative offers for shredded scraps from Europe are placed at USD418-420 per ton CFR, with HMS (80:20) offers ranging from USD390-395 per ton CFR. Despite these offers, bids have remained static, showing reluctance among buyers to engage in new bookings due to the price discrepancies. Market participants in Pakistan report a slowdown in activities, largely due to delays in LC approvals, with indicative offers for European shredded scrap hovering around USD435-440 per ton CFR Qasim.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 The situation is similar in Bangladesh, where LC processing delays and a sluggish domestic steel market have tempered buyer enthusiasm, with indicative offers for shredded scrap from Europe assessed at USD435-440 per ton CFR Chattogram. In Turkey, import prices for ferrous scrap have slightly declined amidst slow rebar sales, with HMS (80:20) prices from the EU/UK and US/Baltic sources showing a softer trend. This has allowed Turkish mills to push for lower prices, reflecting a cautious approach to scrap imports amid expectations of further price declines. This market trend suggests a cautious stance among buyers across South Asia and Turkey, with significant attention to price movements and the broader economic factors influencing the ferrous scrap market. In the short term, the market is poised for a cautious phase, influenced by prevailing market sentiments. Indian buyers are displaying a lack of interest in procuring European scrap, opting to wait for offers to align with more feasible rates of around USD400 per ton. While transactions with other origins might take place due to domestic shortages, these are expected to unfold at a measured pace amidst instances of distressed sales. In Pakistan and Bangladesh, purchasing activities are likely to hinge on the availability of bank letters of credit, indicating a cautious procurement strategy. Meanwhile, Turkish buyers are bracing for potential price reductions, adopting a wait-and-see strategy in anticipation of more favourable market conditions. This collective approach underscores a broader market tendency towards caution and strategic purchasing amid uncertain market dynamics.
 
 ## HMS 1/2 & Tangshan Billet
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 
@@ -367,8 +320,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 121 | -6.92% | 0 | 130 | 130 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 124 | -6.06% | +1.63% | 132 | 122 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 

@@ -22,8 +22,6 @@ pages: 19
 
 The ongoing efforts to manage Venezuelan energy resources have reached a pivotal moment as Vitol Group successfully loaded the first shipment of crude directly from onshore storage facilities. The development now continues with a strategic push to clear the bottlenecks that have recently threatened to paralyse domestic production. By moving half a million barrels to storage hubs in Curacao, the administration is effectively bypassing the congestion caused by the departure of the "shadow fleet" and the resulting overflow of local tanks. This provides an outlet for crude, ensuring the infrastructure remains ready for a potential ramp-up in the coming months. While the energy sector adapts to these new export routes, the global commodities market is also being reshaped by the successful inaugural delivery of iron ore from the Simandou project in Guinea to China. The arrival of the WinningYouthat Majishan port signals the official transition of the world's largest mining venture from a decade of construction into a live participant in international trade. As China's demand for iron ore reached a record 1.26 billion tons this past year, the entry of high-grade Guinean ore offers a significant new alternative to traditional Australian and Brazilian supplies. While in Japan, speculation intensified into the weekend that Japanese authorities may be preparing to intervene in currency markets to stem the yen's recent weakness, potentially with rare support from the United States. The yen surged as much as 1.75% on Friday to around 155.6 per dollar, marking its strongest level of the year and the largest one day gain since August. The rally followed reports that the New York Federal Reserve had contacted financial institutions to inquire about yen exchange rates, a move widely interpreted by markets as a possible precursor to coordinated intervention. The currency's volatility comes amid turmoil in Japanese government bond markets, where long-dated yields hit record highs on concerns over fiscal expansion and rising inflation. US officials have acknowledged spillover risks into Treasuries, heightening sensitivity around yen movements. While officials reaffirmed commitments to marketdetermined exchange rates, intervention remains an option in cases of excessive volatility, raising the risk of a rapid unwind of short yen positions.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ Capesize market entered the week with a sense of renewed momentum in the Pacific
 Panamax/Kamsarmax:
 
 Panamax saw a strong trend this week, contrasting with the weakness seen in larger vessel classes. Atlantic rates have edged higher to US$13,900 a day, fuelled by a shortage of available ships as tonnage flocks to South America for the start of the grain export season. While Pacific r/v rates dipped slightly to US$11,634 on Thursday, the market remains optimistic, with futures prices jumping over 20% due to expectations of heavy cargo flow from coal supply shifts in Indonesia. Supramax/Ultramax: Supramax gained momentum this week as charterers lost their leverage due to a robust influx of new inquiries and a shrinking list of available vessels. Daily rates for Pacific routes to India have risen to US$8,512 on Thursday, while T/A earnings increased by US$294 to settle at US$19,277 as Atlantic enters a more stable phase. Although the overall sentiment remains firm, a clear rebound is currently being held back by the high volume of shortterm spot deals in the Pacific.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -88,11 +84,7 @@ Dry Bulk - S&P Report
 | UMAX | 63,630 | 2025 | CHINA | 34.0 | TURKISH BUYERS |
 | SMAX | 52,514 | 2002 | JAPAN | 7.8 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -107,8 +99,6 @@ MEG saw freight rates remain firm for the third consecutive week, as demand led 
 Suezmax:
 
 In the West African market, last week's inventory buildup saw a slew of tonnage arrive as demand fell, losing 21 points. Nigeria/UKC trip ended the week lower at WS149. Meanwhile, MEG region saw another positive week with 140,000mt to the Mediterranean, climbing slightly to WS113.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -141,8 +131,6 @@ Y-O-Y CHANGE +92.43% +18.21%
 | MR | 51,000 |  | 49 | 53 | 42 (E) | 33 | (E) | 24 |
 | *(amount inUSD | million) | \ | (E)-ecounits |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -161,8 +149,6 @@ Y-O-Y CHANGE +92.43% +18.21%
 | MAERSK KARA | MR | 38,396 | 2008 | CHINA | 12.0 | UNDISCLOSED |
 | SAMC SWAN | SMALL | 8,708 | 2019 | CHINA | 17.5 | AUGUSTA DUE S.R. L |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -179,8 +165,6 @@ The container market is seeing a period of downward price adjustments as the sha
 | 5,100 ~ 5,300 | Gearless | 55 | 79 | 64 | - | 39 |
 | *(amount in USD | million) | \|=Ecounits |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## S&P Containers Report
@@ -191,25 +175,16 @@ The container market is seeing a period of downward price adjustments as the sha
 | A-REX DEXTERITY | PMAX | 3,534 | 2008 | CHINA | 35.5 | UNDISCLOSED |
 | VICTORIA L | FEEDER | 1,374 | 2009 | CHINA | 18.0 | MSC |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS / WEEKLY
-
-GENERAL CARGO FUTURE TREND
-
-ALANG (WC INDIA) 410 ~ 420 400 ~ 410 380 ~ 390 430 ~ 440 IMPROVING /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | IMPROVING / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 410 ~ 420 | 400 ~ 410 | 380 ~ 390 | 430 ~ 440 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | IMPROVING / |
 | GADDANI, PAKISTAN | 420 ~ 430 | 410 ~ 420 | 400 ~ 410 | 430 ~ 440 | IMPROVING/ |
-
-TURKEY
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -226,8 +201,6 @@ TURKEY
 | GADDANI, PAKISTAN | 460 | 580 | 540 | 500 | 450 |
 | ALIAGA, TURKEY | 26 | 320 | 250 | 320 | 370 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -242,19 +215,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 The Indian market saw volatility this week, with a rapid "roller-coaster" in pricing that has left both buyers and sellers in a state of high alert. At the start of 2026, the sector initially enjoyed a surge; however, this momentum proved fragile as local steel plate prices quickly retreated, losing US$24/MT in a single week before partially recovering by US$11/MT toward the weekend. Adding to this uncertainty is the Indian Rupee's struggle, which recently weakened to close at ₹90.72. While current indicative levels for bulkers, tankers, and containers stand at US$380, US$400, and US$410/LDT respectively, the thin supply of new tonnage and fluctuating domestic fundamentals have forced Alang recyclers into a "wait-and-see" strategy. Despite this immediate softness, the industry remains bullish on the mediumterm outlook, buoyed by the upcoming implementation of the Recycling Code 2026.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -265,8 +232,6 @@ Bangladeshi market prepares for the upcoming February elections as overall deman
 Gadani
 
 Pakistan experienced a revitalised start to the year, with notable improvement in sentiment and a strategic shift toward modernising its infrastructure. Local recyclers at Gadani have found themselves in a unique position, climbing to the second spot in regional rankings due to their steady pricing.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -289,15 +254,11 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 407 | 354 | 621 |
 | HOUSTON | 417 | 344 | 602 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
 
 INDIA The Indian imported scrap market remains subdued as steelmakers show little urgency for new bookings. Buying interest is heavily tempered by currency pressures, with the exchange rate reaching nearly INR 91.50/$. Indicative levels for shredded scrap are hovering between US$345-US$348/t CFR, while HMS 80:20 and 90:10 is attracting bids in the US$320-US$322/t CFR range. There is a notable $5/t premium for West Coast deliveries. Recent transactions include Canada-origin shredded scrap sold at US$362/t CFR Nhava Sheva, while Australian-origin HMS 80:20 is currently indicated at US$330- US$335/t CFR. PAKISTAN Pakistan's market reflects a wide price gap between different supply origins. UAE-origin shredded scrap is commanding a premium, with buying levels around US$378-$380/t and offers reaching as high as US$390/t CFR Qasim. In contrast, EU-origin shredded material is seeing tradable levels near US$372-$373/t CFR. Despite the current selectivity, market analysts expect upward price pressure in the coming weeks due to rising freight costs-driven by longer alternative shipping routes-and firming export demand. Domestically, Punjab and KPK rebar prices remain steady between PKR 220,000- 225,000/t (US$786-US$804/t). BANGLADESH In Bangladesh, procurement remains highly selective as the industry navigates liquidity constraints and final election preparations. Buying interest for Australian-origin scrap is currently indicated at US$350-US$355/t CFR for HMS 80:20 and US$365-US$370/t for shredded. Regional supply remains a key factor, with Hong Kong-origin PNS quoted at US$365-US$370/t CFR and Malaysian busheling at US$370/t. Overall activity is characterised by "hand-to-mouth" purchasing as mills wait for post-election stability before committing to larger bulk cargoes.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -308,8 +269,6 @@ TURKIYE The Turkish market saw a slight cooling on 22 January, with deep-sea HMS
 ## Commodities (Week infocus)
 
 The iron ore market witnessed a slight recovery midweek as record-breaking trade figures from China helped steady investor sentiment. Dalian's most-traded May contract finished the day 0.06% higher at 821 yuan, equivalent to US$117.72/MT, while the Singapore benchmark for February saw a minor dip of 0.36% to settle at US$107.95 a ton. This stabilisation follows a difficult Tuesday session where prices dropped 1% to 789.5 yuan after a tragic explosion at a steel factory in Inner Mongolia raised alarms about potential production halts and nationwide safety inspections. The accident, which impacted a facility owned by a subsidiary of Baotou Steel Union, is expected to affect two blast furnaces with a daily output of roughly 16,000 metric tons. In terms of trade volume, China experienced a historic surge in December as steel exports reached a monthly record, supported by exporters rushing to ship products before new licensing rules take effect in 2026. Iron ore imports also hit an all-time high
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -322,8 +281,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 104 | -3.7% | -1.88% | 108 | 106 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 104 | -3.7% | -0.95% | 108 | 105 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

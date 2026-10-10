@@ -174,14 +174,9 @@ The SCFI surged 155 points to 2,726.48-it’s highest in two years-as an early p
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $420-430 | $410-420 | $400-410 | $450-460 | STABLE /         
-
-CHATTOGRAM |
-
-| GADDANI, PAKISTAN | $430-440 | $420-430 | $410-420 | $440-450 | STABLE /  
-
-ALIAGA |
-
+| ALANG, INDIA | $420-430 | $410-420 | $400-410 | $450-460 | STABLE / |
+| CHATTOGRAM, BANGLADESH | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / |
+| GADDANI, PAKISTAN | $430-440 | $420-430 | $410-420 | $440-450 | STABLE / |
 | ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
 
 ### Demolition - Reported Sales

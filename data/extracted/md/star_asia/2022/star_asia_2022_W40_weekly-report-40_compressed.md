@@ -70,8 +70,6 @@ import petroleum products and crude oil.
 
 In October, freight rates in the Panamax and Capesize segments began to rise, while rates in the Supramax and Handysize segments began to settle. However, the outlook for the Handysize sector remains bleak as the grain corridor in Ukraine remains largely steady. The month of September ended with a rebound in monthly grain flows from Ukraine, with China accounting for 18% of overall shipments. Prices for iron ore fell to nearly US$100 per tonne owing to China's Golden Week, raising concerns that the country's stimulus programme may not be enough to bolster the economy. Meanwhile, because of Europe's lower natural gas costs, futures for North-West Europe thermal coal have fallen. Contracts for November delivery in the region fell by 4.6%, settling at roughly US$300 per metric tonne.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 At closing, iron ore prices swung between gains and losses. On the Singapore Exchange, the November contract increased by 1.2%. The price increase was mostly due to anticipation that China would relax its Zero-Covid policy, which might stimulate demand for steelmaking raw materials.
@@ -106,8 +104,6 @@ Despite continuous advances in Latin America and the Black Sea, decreases in the
 
 Tight supplies maintained the Atlantic's quick coal prices. The mood in the Atlantic remained upbeat, but sentiment in Asia remained short-term. T/A levels saw some slight uptick with levels in the region of US$ 15,000's. In the Pacific, the market was mostly covered before the
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 3
 
 holidays, while most coal rounds were also sold. Inter-Pacific closed with a slight discount with levels in the region of US$14,350.
@@ -139,15 +135,11 @@ holidays, while most coal rounds were also sold. Inter-Pacific closed with a sli
 | BSI | 1,706 | 1,663 |  | 3,417 | +2.59 |  | -50.07 |
 | BHSI | 1,033 | 1,009 |  | 2,015 | +2.38 |  | -48.73 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
 
 # Tankers
 
 OPEC+ resolved this week to cut production by 2 million barrels per day (BPD). The group made an unprecedented decision at a time when the world's leading nations were experiencing strong economic expansion and demand for oil was still rising. Despite several attempts by Washington to influence the decision, the cartel's leaders, such as Saudi Arabia and the U.A.E., were able to make it. The White House has activated all of its human resources just one day before the OPEC+ conference. According to one official, the administration was having a "spasm and a panic attack." Several high-ranking officials, including Janet Yellen and Amos Hochstein, were charged with discussing the potential implications of a production decrease with the Saudis and the U.A.E. as part of the negotiations. They were also warned about the potential consequences of a cut on their reputations and relations with the U.S. and the West. Despite the warnings, the two countries chose to move forward.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 5
 
@@ -170,8 +162,6 @@ Trade volume between the Middle East and Southeast Asia has been declining since
 L.R.: Increased facility maintenance in Europe, as well as continued strikes in France and the U.K., have resulted in supply interruption and price hikes. However, arbitrage trading will restrict the extent of further declines. MR: Freight rates fell due to a drop in cargo inflows due to the Chinese national holiday. Meanwhile, after weeks of decline, the U.K.C. M.R.s have managed to maintain their position this week as TC2 hovers around mid-WS250s.
 
 # Tankers S&P Report
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 6
 
@@ -204,8 +194,6 @@ Tankers Values
 | PANAMAX-LR1 | 73,000 | 53 | 56 | 44 | 30 | 15 |
 | MR TANKER | 51,000 | 43 | 46 | 40 | 29 | 14 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 7
 
 # Baltic Exchange Tanker Indices
@@ -226,8 +214,6 @@ continue to plummet. Despite the global economic slowdown, the value of Chinese 
 
 increased in August.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 8
 
 # Containers S&P Report
@@ -247,32 +233,20 @@ NO NEW SALES REPORTED
 | 5,500 - 7,000 | Gearless | 85 | 157 | 146 | 121 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 600 ~ 610 | 590 ~ 600 | 600 ~ 610 | 630 ~ 640 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | 620 ~ 630 | 600 ~ 610 | 620 ~ 630 | 620 ~ 630 | STABLE / |
+| GADDANI, PAKISTAN | 590 ~ 600 | 580 ~ 590 | 560 ~ 570 | 600 ~ 610 | IMPROVING / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 350 ~ 360 | STABLE / |
 
-CHATTOGRAM,
-
-BANGLADESH 620 ~ 630 600 ~ 610 620 ~ 630 620 ~ 630 STABLE /
-
-GADDANI, PAKISTAN 590 ~ 600 580 ~ 590 560 ~ 570 600 ~ 610 IMPROVING /
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 320 ~ 330 310 ~ 320 300 ~ 310 350 ~ 360 STABLE /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
 
 # 5-Year Ship Recycling Average Historical Prices
 
@@ -284,8 +258,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 | CHATTOGRAM, BANGLADESH | 410 | 450 | 380 | 350 | 600 |
 | GADDANI, PAKISTAN | 420 | 445 | 370 | 360 | 590 |
 | ALIAGA, TURKEY | 210 | 270 | 220 | 205 | 290 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 10
 
@@ -304,8 +276,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 # Insights
 
 After a couple of dull months, it has been a positive week for the Sub-Continent ship recycling and imported ferrous scrap markets, with both prices and demand improving. Yet it is too early to determine if this is a dead cat bounce or forming a positive trend. Considering
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 11
 
@@ -328,8 +298,6 @@ A positive week for Alang, with demand increasing and, likewise, domestic ship p
 
 This week the data collected by the authorties reflected astonishing figures for ferrous scrap imports, which is a prominent alternative to ship recycling melting scrap generated - the
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 12
 
 ferrous scrap import shipments in Bangladesh, a major buyer in South Asia, reported 4.13 million tons in the first 9 months of 2022 vis-a-vis 3 .15 million tons in the same period of 2021, the total ferrous scrap rose by 31% on a yearly basis. Demand for steel was primarily supported b the government's initiative to develop infrastructure. The local steel industry expects this to continue to rise. Ships sold in the past are making their way to the shores of Chattogram with no negative reports linked to ongoing Letter of Credit issues. Overall a stable market with demand intact.
@@ -337,8 +305,6 @@ ferrous scrap import shipments in Bangladesh, a major buyer in South Asia, repor
 #### GADDANI, PAKISTAN
 
 A promising week for the Pakistani recyclers as the domestic currency strengthens after intervention from the Central Bank. The P.K.R. closed at 221~222 levels after reaching its peak just a couple of weeks back at PKR241~242 to a U.S. dollar. A significant 9% drop brings the lost sentiments back. On the other hand, the demand for ship scrap was seen improving against the backdrop of limited stock at the yards and emerging demand. The classic example was seen in the fresh prices being offered and recent end sale at US$590/ton levels to the recyclers of the Cheval Bleu, 21,822 tonner tanker. Exciting times lie ahead for the Pakistani recycling industry as it's been a very long period since they have been in action, and now with the domestic currency appreciating together with emerging demand, markets should catch up with India and Bangladesh in competition.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 13
 

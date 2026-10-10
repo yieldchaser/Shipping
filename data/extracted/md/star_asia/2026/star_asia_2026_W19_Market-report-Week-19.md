@@ -209,6 +209,10 @@ The container market rebounded this week as the Drewry World Container Index ros
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
 | :--- | :---: | :---: | :---: | :---: | :---: |
+| Alang, India | $420-430 | $410-420 | $400-410 | $450-460 | STABLE / |
+| Chattogram, Bangladesh | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / |
+| Gaddani, Pakistan | $430-440 | $420-430 | $410-420 | $440-450 | STABLE / |
+| Aliaga, Turkey\* | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
 
 ## Page 11
 

@@ -24,8 +24,6 @@ pages: 19
 
 Another unimpressive data is from China as China's consumer prices experienced their sharpest decline since the global financial crisis, with a 0.8% drop in January compared to a year ago, surpassing economists' expectations of a 0.5% decline. The producer price index also fell, down 2.5%, marking 16 consecutive months of deflation in factory-gate costs. Persistent deflationary pressures have plagued China amid challenges in reviving domestic demand and consumer confidence. Core CPI, excluding food and energy costs, rose by a modest 0.4%, while pork prices plummeted by 17%, contributing to the largest recorded decline in food prices since 1994. The looming threat of entrenched deflationary expectations poses significant risks, potentially dampening consumption and business activity if not addressed promptly and decisively by policymakers. The ongoing property crisis remains a primary concern, compounded by turbulence in the stock market, prompting calls for further policy intervention from Beijing. Economists foresee deflationary pressures persisting for at least six more months, largely attributed to the real estate sector's turmoil. The ripple effects of the US commercial real estate downturn have now reached Europe, with Chinese developers beginning to offload a wave of overseas property assets in markets such as Europe and Australia. As Chinese landlords and developers seek to bolster their domestic operations and address debt obligations, a surge in property transactions is anticipated. This trend is expected to shed light on the extent of distress within the global real estate sector, which has seen a dearth of asset sales in recent times. Last year witnessed a sharp decline in completed commercial property deals worldwide, plunging to levels not seen in a decade, as owners hesitated to divest assets at significant discounts. Concerns abound among regulators and market participants that this reluctance to sell may mask substantial unrealised losses in commercial real estate portfolios. Meanwhile, retail investors in Europe are withdrawing over €1 billion per month from real estate funds, indicating growing unease among smaller investors.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -39,8 +37,6 @@ The restocking of iron ore inventories prior to the Lunar New Year was hindered 
 Panamax/Kamsarmax:
 
 Despite continued demand, heavy rainfall in Indonesia disrupted coal mining and loading, causing a decline in production. China, on the other hand, saw increased production as industrial demand slowed and weather conditions improved. The China/Indonesia route saw rates improve to US$ 10,300 a day ahead of the holidays. In the North Atlantic, there is an effort to secure short-term lows as cargo inflows increase. Supramax/Ultramax: It was weak start for the Pacific region from China and India, but levels managed to pick up on Thursday due to steady demand. Supramax saw rates across improved. Pacific- India route climb to US$7,200's a day while Pacific r/v were up to US$9,000's a day.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -80,8 +76,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE CAPESIZE 180,000 
 | SUPRAMAX | 58,000 | 15,000 | 14,250 | 12,500 | +5.26% | +20.00% |
 | HANDYSIZE | 38,000 | 13,000 | 13,250 | 9,750 | -1.89% | +33.33% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -104,8 +98,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE CAPESIZE 180,000 
 | BAO JIA | HMAX | 48,913 | 1999 | JAPAN | 5.3 | CHINESE BUYERS |
 | EVER HARMONY | HANDY | 33,532 | 2005 | JAPAN | 9.3 | UNDISCLOSED |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -120,8 +112,6 @@ Suezmax:
 
 With limited cargo inflow, the number of available ships in the Atlantic area has grown, resulting in a decline in 130,000mt Nigeria/UKC, falling w-o-w to WS103. While shipowners' resistance has limited further fall, this will be tested with incoming ballasters from Europe. Med and Black Sea region also showed weakness, with CPC/Med falling to WS127. With tightened vessel supply, a subdued market is expected in the next few days.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -133,8 +123,6 @@ Clean:
 LR: There was not much activity for LR1, as a lack of European cargoes saw rates slip slightly. ARA/UKC also witnessed a decline, with levels closing lower even with a positive start to the week to WS237 on Friday. On the other hand, it was a steady week in the LR2 market despite TC1 MEG/Japan falling to WS261. MR: With continued cargo inflows, freight rates for the S. Korea/SG segment rose by 10% as Spot TCE exceeded US$50,000. Ongoing demand for long-haul voyages to Australia and the Americas has also contributed to improved market conditions. On the other side, UKC/USAC also saw rates firmed with several fixings closing at WS215 at the end of the week.
 
 ## Baltic Exchange Tanker Indices
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -166,8 +154,6 @@ AFRA 119,456 2010 S. KOREA 52.0 EACH UNION MARITIME
 | MR | 49,000 | 2006 | S. KOREA | 18.0 | UNDISCLOSED |
 | MR | 45,853 | 2007 | CHINA | 19.3 | UNDISCLOSED |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -189,33 +175,18 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 37 | 28 | 17 | 13 |
 | 5,500 - 7,000 *(amount in USD million) | Gearless | 94 | 78 | 66 | 36 | 23 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE
-
-TREND ALANG (WC INDIA) 500 ~ 510 470 ~ 480 480 ~ 490 510 ~ 520 STABLE /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 500 ~ 510 | 470 ~ 480 | 480 ~ 490 | 510 ~ 520 | STABLE / |
+| *CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
 | **GADDANI, PAKISTAN | 530 ~ 540 | 520 ~ 530 | 510 ~ 520 | 540 ~ 550 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -232,23 +203,17 @@ TURKEY
 | GADDANI, PAKISTAN | 420 | 370 | 415 | 595 | 570 |
 | ALIAGA, TURKEY | 270 | 240 | 240 | 340 | 325 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
 
 ## Recycling Ships Price Trend
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 TYPE BULKER BULKER REEFER
 
 PRICE COMMENTS (US$/LDT) 520 DELIVERED CHATTOGRAM 525 DELIVERED CHATTOGRAM 495 DELIVERED CHATTOGRAM
 
 ## Page 12
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -272,8 +237,6 @@ Chattogram, Bangladesh
 
 Market stability persisted, underpinned by robust domestic fundamentals, particularly evident in the consistent stability of domestic ship scrap prices over recent months. This steadiness has provided essential support to ship prices, buoying market sentiment. Demand remained resilient, with recyclers displaying eagerness to increase their inventories. On the downside, forex experts warned this week of potential exchange rate shocks in the coming month. Despite relative exchange rate stability in recent months, currency experts are warning of potential shocks in March. Factors like third-quarter economic performance and dwindling inflows of dollars, particularly in remittances and foreign
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 direct investment (FDI), have raised concerns. Remittances for the fiscal year's first half were 6% lower than expected, exacerbating fears. The Special Investment Facilitation Council (SIFC) is seen as a potential boost, targeting US$100 billion in investments over the next few years, but its impact might be post-election. The fate of the final IMF tranche (US$1.2 billion) due in March underpins uncertainties as a new government may renegotiate policies. Implementing populist economic measures may strain relations with the IMF, despite Pakistan's need for further bailout packages to sustain growth.
@@ -293,8 +256,6 @@ Anchorage & Beaching Position (February 2024)
 Gadani, Pakistan
 
 Pakistan reached a significant juncture this week as the much-anticipated elections unfolded, showcasing a closely contested battle between two parties without a definitive outcome. The impending week holds the promise of offering a clearer perspective as the electoral race remains neck-and-neck. Meanwhile, market activity continues amid a temporary respite in the ongoing LC disputes. Banks appear to be less tense, with LC challenges alleviating slightly. However, an ironic twist unfolds as the Gadani markets face a scarcity of available ships for trade despite favourable banking conditions. However, recyclers are opting to exercise patience for another week to gauge the impact of the election results, recognising its pivotal role in shaping the trajectory of the domestic economy.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -319,23 +280,17 @@ PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
 | ROTTERDAM | 581 | 453 | 796 |
 | HOUSTON | 616 | 460 | 820 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insight
 
 Imported ferrous scrap prices showed a varied pattern in South Asia this week. In India, price discrepancies persisted due to limited buying interest and weakened steel demand, while Pakistani buyers remained inactive amid the ongoing general election. Conversely, Bangladeshi buyers remained engaged in the imported market, with multiple containerised scrap deals reported. In Turkey, imported prices experienced a week-on-week decline with minor fluctuations as mills from the US and Europe engaged in moderate trading activities. In India, the demand for imported scrap remained subdued due to a sluggish finished steel market. While shredded scrap prices from Europe saw a slight increase to US$415/ton CFR Nhava Sheva, HMS (80:20) prices remained stable at US$397/ton CFR Nhava Sheva and dropped to US$393/ton from West Africa to Chennai port. Despite subdued market conditions, some transactions took place, including Malaysianorigin CR bushelings at US$440/ton CFR and West Africa-origin HMS (80:20) at US$385/t CFR. Domestic scrap prices were US$15-20/ton lower than imported scrap, with minimal interest in recent offers for UK-origin HMS at US$375/ton CFR Mundra. The recent increase in domestic steel scrap availability enabled mills to strategically reduce their scrap procurement costs. In Pakistan, market activity remained subdued due to the ongoing general elections. Shredded scrap from Europe was offered within the range of US$440-444/ton CFR Qasim, with LMS bundles and shredded scrap priced between US$375-442/ton CFR Qasim. HMS (80:20) from UAE was offered at US$418-420/ton. Domestically, local scrap prices were reported at PKR 164,000-168,000/t ($587-601/t) exworks, with rebars at PKR 264,000-268,000/t ($945-959/t) and billets at PKR 220,000- 225,000/t ($787-805/t), both ex-works.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 In Bangladesh, the post-election, improved LC approvals and increased domestic steel production boosted demand for imported scrap in Bangladesh. Recent price drops activated the market, with increased buyer interest prompting suppliers to lower offers. Multiple bulk deals were closed, totalling around 20,000-25,000 t of containerised scrap from various origins, such as Australia, the US, and Europe. Europe-origin shredded scrap dropped to US$433-436/ton CFR Chattogram, while Japanese H2 scraps were priced at US$426-430/ton. US-origin HMS (80:20) bulk indicatives were at US$430-435/ton, with inquiries at US$425-428/ton CFR Chattogram. In Turkey, imported ferrous scrap prices experienced a slight decline, dropping by US$2/tonto $419/t, while indicative tradable values for HMS (80:20) remained stable at US$419-422/ton CFR. Throughout the week, approximately 6-7 bulk deals were reported, encompassing various mixed grades from the UK, US, and Russia, with prices ranging from US$418- 432/ton CFR Turkey. Sellers maintained their positions against further drops, citing limited availability in Europe and steady domestic HMS prices in the US. Collection costs surged in Europe, reaching Euro 350/ton in the Baltic region and Euro 345-350/ton in the Benelux region, contributing to market uncertainties.
 
 ## HMS 1/2 & Tangshan Billet
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

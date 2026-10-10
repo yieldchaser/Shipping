@@ -22,8 +22,6 @@ WEEK 20 - May 16, 2025
 
 In a dramatic easing of trade tensions, the United States and China have agreed to temporarily reduce tariffs on each other's products, creating a three-month window for broader negotiations. The US will decrease its combined 145% levies on most Chinese imports to 30%, while China will lower its 125% duties on American goods to just 10%. Treasury Secretary Scott Bessent emphasized that both nations reject "generalized decoupling," though the US maintains its commitment to "strategic decoupling" in critical sectors including semiconductors, medicine, and steel. This de-escalation comes less than six weeks after President Trump's "Liberation Day" announcement of reciprocal tariffs that triggered retaliatory measures and effectively halted trade for many companies. The breakthrough reflects substantial progress in recent talks, with markets responding enthusiastically - S&P 500 futures jumped 3.1%, oil prices advanced, and the offshore yuan climbed approximately 0.5%. Importantly, China has also agreed to suspend non-tariff countermeasures imposed since April, including restrictions on rare earth exports that had threatened to disrupt various industries. While the agreement establishes "a mechanism to continue discussions about economic and trade relations," Secretary Bessent indicated it's "implausible" that reciprocal tariffs would drop below 10%, with potential adjustments to the 20% fentanyl surtax dependent on Beijing's engagement. Trade Representative Jamieson Greer emphasized that the US retains significant leverage, noting that the Trump administration's first-term China tariffs remain in place alongside the new 10% global baseline tariff applied to all trading partners. Despite market optimism, history suggests reaching a comprehensive agreement could prove challenging. The 2018 temporary truce required over 18 months of negotiations before yielding the "Phase One" trade deal, which ultimately saw China fall short on purchase commitments. Bessent acknowledged that while that deal offers a template, "the world has changed, products have changed, product mix has changed - so I think everything is on the table." For now, both sides appear committed to maintaining the constructive dialogue, with Bessent noting that as long as there is "good faith effort, engagement and constructive dialog, then we will keep moving forward."
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ The Pacific established a solid foundation of support as major mining companies 
 Panamax/Kamsarmax:
 
 The Atlantic observed stagnation due to a sharp decrease in cargo inflow from North Atlantic and North/Central American routes, combined with increased vessel supply. T/A fell to US$10,400's a day. In the Pacific, excess vessel supply has limited freight increases despite steady demand. Supramax/Ultramax: The Atlantic saw stable rates, supported by a robust demand in North America. The region saw gains driven by vigorous activity in South America and Far East routes. The Pacific, on the other hand, presents a mixed picture. Southeast Asia exhibit saw an uptick in activity with increased Indonesian coal shipments and new cargoes from Australia. However, Northeast Asia remains sluggish with a vessel oversupply. Pacific r/v closed the week at US$10,750's a day.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -80,11 +76,7 @@ Handy market saw rates dip slightly despite a flurry of fixing activities. Overs
 | SEASTAR VENTURE | HANDY | 32,500 | 2012 | CHINA | 9.25 | UNDISCLOSED |
 | NYMPHI / MANTICORE | HANDY | 28,241 | 2012 2014 | JAPAN | 11.5 12.5 | ADNOC |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -103,8 +95,6 @@ The West of Suez market saw a slight drop at the start of the week, with weak de
 Aframax:
 
 Aframax saw weak fixture activity compared to larger vessels. In the Med, 80,000mt Ceyhan/Lavera fell to WS117. With tight vessel supply, rates are expected to remain unchanged with slight fluctuations.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -137,11 +127,7 @@ LR: After LR2 last week's decline due to weak demand, charterers resumed activit
 | ANNA M |  | MR |  | 47,975 | 2010 | JAPAN | 17.4 |  |  | UNDISCLOSED |
 | GRACE LEO |  | MR |  | 47,409 | 2009 | JAPAN | 16.0 |  | TURKISH | BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -159,8 +145,6 @@ Uncertainty in Pacific eastbound container trades has triggered a significant su
 | 5,100 ~ 5,300 | Gearless | 59 | 82 | 66 | - | 41 |
 | *(amount in USD | million) | \|=Ecounits |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # S&P Containers Report
@@ -169,25 +153,16 @@ Uncertainty in Pacific eastbound container trades has triggered a significant su
 |---|---|---|---|---|---|---|
 | TOR | SUB PMAX | 2,754 | 2004 | POLAND | 10.0 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 460 ~ 470 430 ~ 440 440 ~ 450 470 ~ 480 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 450 ~ 460 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE / |
-
-TURKEY
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 460 ~ 470 | 430 ~ 440 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 450 ~ 460 | 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -204,8 +179,6 @@ TURKEY
 | GADDANI, PAKISTAN | 270 | 530 | 650 | - | 520 |
 | ALIAGA, TURKEY | 180 | 250 | 330 | 320 | 350 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -218,11 +191,7 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -240,8 +209,6 @@ Anchorage & Beaching Position (MAY 2025)
 | ULSAN | CONTAINER | 2,422 | 13.05.2025 | 16.05.2025 |
 | RUN FU 6 | BULKER | 6,258 | 06.05.2025 | 14.05.2025 |
 | SEA DOVE | BULKER | 7,918 | 24.04.2025 | 01.05.2025 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -266,8 +233,6 @@ Anchorage & Beaching Position (May 2025)
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Aliaga, Turkey
@@ -275,8 +240,6 @@ Aliaga, Turkey
 Market remains sluggish this week with no new activity to report. Prices over the last few weeks have largely remained unchanged.
 
 ---
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -290,8 +253,6 @@ PAKISTAN Pakistan's market similarly struggled against headwinds of weak constru
 
 TURKEY In stark contrast, Turkey's imported scrap market demonstrated remarkable resilience, driven by robust restocking activity and firm seller positions. Mills showed increased buying interest, with a significant US-origin deal reportedly concluded at US$347/t CFR for HMS 80:20 and US$367/t CFR for shredded and PNS scrap. US-origin bulk HMS 80:20 offers climbed US$5/t day-on-day to US$347/t CFR, with sellers from both the US and EU maintaining firm offers around US$345-350/t CFR. Market sentiment received an additional boost from optimism surrounding upcoming peace talks scheduled in Istanbul, further reinforcing bullish expectations and likely continued demand from Turkish mills.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 # HMS 1/2 & Tangshan
@@ -299,8 +260,6 @@ TURKEY In stark contrast, Turkey's imported scrap market demonstrated remarkable
 # Commodities (Week infocus)
 
 China's derivatives markets for major ferrous products showed significant gains on Monday following positive developments in the US-China trade talks held in Geneva over the weekend. The most-traded iron ore contract for September delivery on the Dalian Commodity Exchange led the increase, closing 3.16% higher than Friday's settlement price, reflecting the market's optimistic response to what China's official news agency Xinhua described as "substantial progress" in negotiations. This renewed market confidence was further bolstered when both economic powers jointly announced they would temporarily reduce the reciprocal tariffs imposed on each other's goods. Prior to these developments, iron ore prices had been constrained by growing concerns over potential US tariff hikes and China's crude steel output controls, despite relatively strong demand from steelmakers. Chinese steel production has continued to rise in recent weeks as mills actively pursue healthier profit margins, showing that approximately 59% of the 247 sampled integrated steelmakers were operating profitably as of May 8, an increase of 3% points w-o-w and 7% points y-o-y. According to a Shanghai-based iron ore analyst, although the summer lull in steel consumption approaches while production peaks, demand for iron ore is expected to remain resilient until any significant decline in hot metal output occurs, with the reduced threat of US tariffs and strong fundamentals likely supporting iron ore prices in the near term.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

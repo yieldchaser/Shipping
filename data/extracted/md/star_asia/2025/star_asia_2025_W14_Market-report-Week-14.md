@@ -22,15 +22,11 @@ pages: 19
 
 This week has captured the attention of the world. On 2 April 2025, President Trump, calling it "Liberation Day," shocked the world by imposing tariffs on imports from all countries. Many nations, such as China and Japan, have expressed their dissatisfaction with this move and are currently working on countermeasures. Critics argue that such actions could severely impact international trade and national economies, potentially leading to a global trade war and recession. From another perspective, these tariffs could be seen as Trump's strategy to negotiate with countries that have imposed significant tariffs on the U.S. In response, Vietnam has expressed its willingness to engage in negotiations with the U.S. Some economists argued that while Trump's tariff policies may provide short-term benefits, they could have long-term consequences for the American people. As the cost of goods rises, so does the overall cost of living. Higher tariffs also mean increased shipping costs, which will ultimately be passed down to consumers. Given these factors, the question remains: Will this move truly benefit the U.S. in the long run? The immediate effect was that Global stock markers took a nosedive triggered by President Donald Trump's sweeping new tariffs. U.S. equity futures continued to drop after US$6 trillion was wiped from U.S. markets in the last 2 trading sessions. Investors fled to haven assets, with global junk bonds experiencing their worst selloff since March 2020. Analysts fear the tariffs will slow global growth and potentially tip economies into recession. On the shipping side, the secondhand ship market is softening as buyers grow cautious amid rising geopolitical risk and tighter financing. Global trade flows are shifting under U.S. tariffs, with longer bulk and tanker voyages boosting ton-mile demand while container capacity remains underused. Regions are reacting differently: U.S. imports are down, Asia is redirecting exports, and Europe faces supply chain disruption. Shipping strategies are evolving, with flexibility and regional diversification replacing just-in-time models. Analysts warn that tariffs will put pressure on freight rates and raise costs. The shipping industry is now navigating a new normal-fragmented, uncertain, and politically charged.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
 
 The dry bulk market continues to navigate mixed signals amid shifting trade flows driven by U.S. tariff policy. While core commodities like grains, coal, and ores remain largely tariff-exempt, tariffs on finished metals and fertilizers are reshaping supply chains. U.S. buyers are increasingly substituting Canadian imports with cargoes from Brazil, Russia, and Israel-extending voyage lengths and supporting Panamax and Supramax demand. At the same time, China's retaliatory tariffs on U.S. agricultural goods have dampened Gulf Coast exports but boosted volumes from South America, particularly Brazilian soybeans, to Asia. These shifts are enhancing ton-mile demand, partially offsetting the softening global economic sentiment. Bulk freight rates have eased from their late 2024 highs when the Baltic Dry Index surged on Chinese commodity demand but remain supported by longer-haul trades and rerouted cargoes. While regional pain points persist, trade diversion continues to inject resilience into a volatile market facing broader macroeconomic headwinds. The Baltic Exchange's dry bulk index fell to a three-week low at closing, dropping to 1,489 in its eighth consecutive declining session. This downturn follows President Donald Trump's announcement of sweeping new tariffs on U.S. goods, which has put the shipping industry on edge as it braces for potential decreases in transport demand. All segments experienced declines, with the Capesize index suffering the most significant drop to 2,219, marking its lowest level since March 6. Average daily earnings fell by US$815 to US$19,383. Similarly, the Panamax index extended its decline for the third consecutive session, shedding 32 points to 1,464, with average daily earnings falling to US$13,176. Despite the current downward trend, FFAs suggest that freight rates may slightly strengthen for Supramax and Capesize segments during the second quarter. The Supramax index also fell to 971 points, in its seventh continuous declining session. In the sale and purchase segment, companies have also halted purchases of Chinesebuilt dry bulk carriers as the industry cautiously awaits proposed port charges for vessels constructed in China. Recent transactions showed a clear preference for Japanese-built vessels in recent weeks, with charterers also beginning to modify contracts to address potential fees. Recent S&P also suggest Chinese-built carriers may be experiencing value depreciation-with one recent sale seeing a US$5.8 million discount compared to a similar Japanese vessel.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -58,8 +54,6 @@ Handy market also saw similar declines across routes, particularly in the Atlant
 | BSI | 971 | 995 | 1,261 | -2.41% | -23.00% |
 | BHSI | 613 | 614 | 735 | -0.16% | -16.60% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk Values
@@ -86,8 +80,6 @@ Handy market also saw similar declines across routes, particularly in the Atlant
 | ARIETTA |  | SMAX | 55,818 | 2009 | JAPAN | 13.0 |  | CHINESE | BUYERS |
 | FORTUNE | WING | SMAX | 55,650 | 2011 | JAPAN | 16.0 |  | INDONESIAN | BUYERS |
 | MERCURIUS |  | SMAX | 50,296 | 2001 | JAPAN | 5.9 |  |  | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -117,8 +109,6 @@ market. TC1 closed the week at WS152 mark. With demand for Western routes notabl
 
 continued. In the UKC, levels also fell this week as general softness was observed. TC2 lost some 26 points to WS159.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 ## Baltic Exchange Tanker Indices
@@ -144,8 +134,6 @@ continued. In the UKC, levels also fell this week as general softness was observ
 | SW CAP FERRAT I | MR | 36,031 | 2002 | S. KOREA | 7.8 | CHINESE BUYERS |
 | STRINDA | PROD / CHEM | 19,959 | 2006 | JAPAN | 15.9 (SS) | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Containers
@@ -163,33 +151,18 @@ The container sector continues to absorb the heaviest impact from the U.S. tarif
 
 S&P Containers Report
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 460 ~ 470 430 ~ 440 440 ~ 450 470 ~ 480 IMPROVING /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | IMPROVING / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 460 ~ 470 440 ~ 450 | 430 ~ 440 | 470 ~ 480 | IMPROVING / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 320 ~ 330 300 ~ 310 290 ~ 300 330 ~ 340 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 460 ~ 470 | 430 ~ 440 | 440 ~ 450 | 470 ~ 480 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | IMPROVING / |
+| GADDANI, PAKISTAN | 460 ~ 470 | 440 ~ 450 | 430 ~ 440 | 470 ~ 480 | IMPROVING / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 320 ~ 330 | 300 ~ 310 | 290 ~ 300 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -206,8 +179,6 @@ TURKEY
 | GADDANI, PAKISTAN | 270 | 490 | 680 | - | 530 |
 | ALIAGA, TURKEY | 160 | 250 | 480 | 320 | 310 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -219,19 +190,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
 Insights
 
 The ship recycling market remains cautious amid mounting uncertainty triggered by the U.S. tariff escalation, which is fast becoming a watershed moment for global shipping. Trade growth is slowing, supply chains are fracturing, and freight rates have turned increasingly volatile-spiking on pre-tariff cargo rushes, then slumping under protectionist drag. Container shipping, in particular, faces mounting pressure.' A vast majority of the ship recyclers are now asking: Will this geopolitical shock finally unleash the long-anticipated wave of end-of-life vessels? With global yard capacity constrained and the Hong Kong Convention's entry into force approaching for the Sub- Continent yards, recyclers are bracing for a potential surge in tonnage while the yards are not fully ready. However, liquidity challenges in key recycling hubs like Pakistan and Bangladesh may limit their ability to absorb that supply without a sharp correction in pricing.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -241,8 +206,6 @@ Alang
 
 The domestic ship recycling markets posted a notable recovery this week, supported by a tightening supply of raw materials for local steel mills. Ship scrap prices rose approximately 5.5% month-on-month, reflecting improved demand and limited availability and to add, the INR has also strengthened, giving importers a sign of relief. Additionally, vessel prices at Alang recorded a solid increase of around USD 20 per light displacement ton. The price uptick has further strengthened Alang's competitiveness against their counterparts. Industry experts remain optimistic about the near-term outlook for the ship recycling market in Alang, buoyed by strong underlying demand and a persistent shortage of raw materials. Prices for scrap vessels have continued to firm, and many believe the current momentum is set to carry forward, with further meaningful price improvements anticipated in the coming months. However, uncertainty looms as turbulence in the global financial markets triggered by recent U.S. led disruptions has sent shockwaves across globe. This volatility has added a
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 layer of caution among the ship recyclers and the cash buyers. They expect a clearer direction to emerge in the coming weeks, which will likely set the tone for the next phase of the industry's trajectory.
@@ -250,8 +213,6 @@ layer of caution among the ship recyclers and the cash buyers. They expect a cle
 Chattogram
 
 The ship recycling markets remained largely inactive this week due to the Eid celebrations, with limited transactional activity reported. Despite the holiday lull, overall demand remained steady and ship prices held firm. Several vessels were sold in recent weeks, leaving most yards adequately stocked for the coming months. However, some recyclers who were unable to secure tonnage earlier are now offering higher prices in a bid to secure units ahead of the monsoon season and before the banks impose stricter restrictions on opening the Letters of Credit. However, with the recent developments with the global retaliatory tariffs imposed by the U.S. the ship recyclers in Bangladesh are facing rising uncertainty after the U.S. imposed a 37% tariff on imports from the country. The decision has triggered concerns over a potential drop in export volumes, which could weigh heavily on the broader economy. A key worry is the impact on foreign exchange reserves, as diminished export earnings may restrict access to U.S. dollars crucial for acquiring ships on the international market. With financial conditions already tight, the tariff move is expected to further strain liquidity across the sector, adding to the challenges facing Bangladeshi recyclers in the months ahead.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -268,8 +229,6 @@ Anchorage & Beaching Position (APRIL 2025)
 Aliaga, Turkey
 
 The Turkish recycling sector experienced a quiet week due to Eid celebrations, with market levels remaining steady despite looming U.S. tariffs that could potentially impact regional steel demand through significant impositions on the EU. Turkey's economic confidence showed signs of recovery in March, rising by 1.6% m-o-m to 100.8, with notable improvement in consumer confidence increased to 85.9, though construction confidence continued its decline. While services and real sector confidence indices showed modest gains, retail trade confidence fell by 2.5 points during the same period. Overall, the Turkish economy demonstrated resilience, growing by 3% in the last quarter of 2024.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -307,8 +266,6 @@ Imported scrap markets across the Sub-Continent remained subdued this week, with
 
 further price corrections. Shredded scrap was offered at US$390-400/ton CFR, while bids were capped at US$385-386/ton, limiting trade. UK-origin HMS 80:20 was available at US$365-370/ton CFR, and Turning scrap was offered at US$345/ton CFR. A bulk cargo from Japan to Chennai was heard at US$385-390/ton, but overall demand remained muted.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 **Pakistan's market remained largely inactive due to Eid holidays and ongoing LC issues.**
@@ -325,8 +282,6 @@ awaited clarity on U.S. tariff developments and currency fluctuations. US-origin
 
 ## HMS 1/2 & Tangshan Billet
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 ## Commodities (Weekinfocus)
@@ -338,8 +293,6 @@ investor sentiment turned risk-averse amid escalating global trade tensions. Fea
 **Aluminum continues to be hit with a 25% blanket duty on U.S. imports, while copper is**
 
 expected to face additional tariffs in the coming weeks. The prospect of rising trade barriers has added to market volatility, with traders closely watching for further policy moves from both Washington and Beijing. Meanwhile, the Grain and oilseed markets faced heightened volatility this week following the U.S. announcement of sweeping new tariffs. Futures for wheat, corn, and soybeans opened lower on April 3 at the Chicago Board of Trade but partially recovered later in the session as traders assessed the broader impact. While the immediate fallout remains uncertain, market participants await potential retaliation from major trade partners. Mexico and Canada, protected under the USMCA, remained largely unaffected. Mexico, in particular, continues to be a vital outlet for U.S. corn, accounting for 19 million ton of the 54 million tons exported so far this marketing year, according to USDA data. In Europe, Euronext grain futures also opened lower, but a weakened U.S. dollar cushioned price movement in physical markets. Meanwhile, Ukrainian corn faced pricing pressure as U.S. commodities fell, though Ukraine may benefit if Asian buyers turn away from U.S. supply ahead of Brazil's July safrinha crop. In China, importers distanced themselves from high-priced Ukrainian corn and continued to avoid U.S. soybeans amid tariff hikes. U.S. soybean exports to China are slowing, while demand from Chinese crushers remains tepid. Uncertainty surrounding trade flows is expected to persist in mid-April.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

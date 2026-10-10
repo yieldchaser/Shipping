@@ -22,8 +22,6 @@ pages: 20
 
 In a significant diplomatic milestone, this week's BRICS summit in Kazan emerged as a demonstration of evolving global dynamics, bringing together leaders from 36 nations. Russian President Vladimir Putin praised the BRICS summit in Kazan as a counterbalance to the West, criticising its "perverse methods." The summit gathered leaders from 36 nations, marking a diplomatic success for Russia amid U.S.-led efforts to isolate it over the Ukraine conflict. UN Secretary-General Antonio Guterres, attending his first Russian event in over two years, urged for a "just peace" in Ukraine. In response, Putin welcomed recent statements by former U.S. President Donald Trump to end the Ukraine crisis. Discussions focused on deepening BRICS financial cooperation, developing alternatives to Western-dominated payment systems, and addressing regional conflicts. The bloc, expanded to include countries like Iran and Saudi Arabia, now represents nearly half the global population, a fact Kremlin media emphasized as evidence of BRICS' challenge to Western influence. Meanwhile in its latest World Economic Outlook, the IMF has presented a nuanced view of the global economy, projecting a slight slowdown in growth while acknowledging central banks' successful efforts in managing inflation without triggering recessions. The forecast for 2025 has been trimmed to 3.2%, reflecting growing concerns about the world economy's ability to generate sufficient resources for addressing critical challenges like poverty reduction and climate change. Notably, inflation is expected to moderate to 4.3% next year from 5.8% in 2024, marking a significant improvement in price stability. The global economic landscape faces mounting challenges, with IMF Chief Economist Pierre-Olivier Gourinchas highlighting increasing risks from geopolitical tensions, regional conflicts, and rising protectionist policies. A significant concern emphasized in the report is the escalating global public debt, projected to reach US$100 trillion or 93% of world GDP by year-end, primarily driven by the United States and China. This situation, combined with various pressures on government spending - including clean energy initiatives, aging population support, and security needs - creates a challenging environment for fiscal stability. IMF cautions about potential risks from monetary policy impacts, sovereign debt pressures in emerging economies, and possible spikes in food and energy prices due to various external factors.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Pacific basin is showing signs of modest recovery, driven by a fresh influx 
 Panamax/Kamsarmax:
 
 While the Atlantic basin continues its downward trajectory, notably impacted by unexpectedly weak cargo volumes from South American routes that had previously helped stabilize rates. F/H route (Europe-E.Asia) fell to US$18,500s a day. The Pacific market, despite experiencing some rates decline due to subdued trading activity, maintains a more optimistic outlook thanks to healthy overall cargo flow levels with Pacific r/v falling slightly to US$11,500's a day. Supramax/Ultramax: In a contrasting market scenario, the Atlantic is experiencing a slight downturn, primarily
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -71,8 +67,6 @@ It was another tepid week for the Handy market with both basins seeing rates com
 | SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 11,500 | 0 |  | +30.43% |
 | HANDYSIZE | 38,000 | 14,000 |  | 14,000 |  | 11,250 | 0 |  | +24.44% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -89,8 +83,6 @@ It was another tepid week for the Handy market with both basins seeing rates com
 | SPAR SPICA | SMAX | 53,565 | 2005 | CHINA | 10.0 | UNDISCLOSED |
 | ULTRA BOSQUE | HANDY | 40,261 | 2020 | CHINA | 27.5 | TURKISH BUYERS |
 | EMIL SELMER | HANDY | 32,626 | 2010 | CHINA | 10.5 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -110,8 +102,6 @@ Aframax:
 
 Rates closed softer in the MEG, reflecting similar conditions in larger vessel segments (VLCC and Suezmax). 140,000mt MEG/Med route fell to WS101. In the WAFR region, the 130,000mt route to UKC saw a slight easing despite an uptick in activities. Rates were at WS97 at closing.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Clean:
@@ -122,8 +112,6 @@ MR: The MR market in the Far East closed slightly weaker, pressured by overall s
 
 ## Baltic Exchange Tanker Indices
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -131,8 +119,6 @@ MR: The MR market in the Far East closed slightly weaker, pressured by overall s
 BUILT PRICE (MILLION) USD JAPAN 34.3 JAPAN 20.0 (SS)
 
 COMMENTS / BUYERS D'AMICO UNDISCLOSED
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -149,8 +135,6 @@ SCFI showed mixed trends across the routes last week. While rates to major desti
 | GREEN ACE | FEEDER | 1,740 | 2005 | CHINA | 11.5 | UNDISCLOSED |
 | WAN HAI 232 | FEEDER | 1,660 | 2000 | JAPAN | N/A | CHINESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Containers Values
@@ -163,29 +147,16 @@ SCFI showed mixed trends across the routes last week. While rates to major desti
 | 5,100 | Gearless | 81 | 77 | 66 | 35 | 32 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 460 ~ 470 450 ~ 460 440 ~ 450 480 ~ 490 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | WEAK / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 460 ~ 470 440 ~ 460 | 430 ~ 440 | 460 ~ 470 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 340 ~ 350 350 ~ 360 370 ~ 380 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | WEAK / |
+| GADDANI, PAKISTAN | 460 ~ 470 | 440 ~ 460 | 430 ~ 440 | 460 ~ 470 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 340 ~ 350 | 350 ~ 360 | 370 ~ 380 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -202,8 +173,6 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 750 | 580 | 520 |
 | ALIAGA, TURKEY | 270 | 210 | 200 | 300 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -218,19 +187,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 ## Insight
 
 The ship recycling market is on the cusp of a significant shift, driven by declining dry bulk freight rates coupled with ailing demand, a double whammy. The industry is now gearing up to see a significant influx of end-of-life ships, which will determine the new pricing trends. However, the irony lies in the fact that domestic markets, struggling with weak demand, have seen a steep downturn. This has created a scenario where a major price correction in ship recycling appears inevitable to align with domestic fundamentals and ensure long-term business sustainability. As more shipowners begin to offload end-of-life vessels for recycling, ship supply pressures have started to ease. Looking ahead, November is expected to be a pivotal month, likely setting new pricing trends for the industry. The easing of ship supply will be the catalyst going forward to bring the market back to normal. On the global steel production front, the crude steel production for the 71 countries reporting to the World Steel Association (worldsteel) reached 143.6 million tonnes in September 2024, reflecting a 4.7% decline compared to the same month last year. Meanwhile, China's crude steel production fell to 77.1 million tons in September 2024, marking a 6.1% year-on-year decline. This signals potential market adjustments or a shift
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -239,8 +202,6 @@ in domestic demand. The global steel industry will be closely watching how this 
 Alang, India
 
 This week saw significant turbulence in the domestic ship scrap markets as prices sharply reversed course, erasing all gains made over the past month, a pure knee-jerk effect. In just one week, prices plummeted by approximately 2.5%, leaving the industry in a state of confusion. Despite earlier signs of stabilisation in the domestic ship scrap prices, the demand for steel quickly faltered, pushing the markets back into uncertainty. After 42 years of faithful service across the world's oceans, MSC EYRA embarks on her final voyage to Alang's shores, where she will gracefully conclude her maritime journey. Throughout her illustrious career, this 10,655MT lightweight vessel has weathered countless storms and carried millions of tons of cargo. MSC has also offloaded another vessel, the MSC Alexa, built in 1996 in Italy and weighing 16,227 tons, reported sold at a gross price of USS491/ton. Just a few weeks ago, these vessels would have likely commanded prices exceeding US$510/ton. Alang stands at a pivotal moment as the European Union conducts final audits of three of its yards for potential certification. This development could mark a significant breakthrough for both Alang and European shipping companies, who are increasingly seeking certified facilities for their end-of-life vessels. With approximately 35% of the world's shipping fleet under European ownership and limited EU-certified recycling facilities available, Alang's potential certification could provide a crucial solution to Europe's growing ship recycling demands. The journey toward EU certification has been marked by substantial improvements in Alang's facilities and practices. Key developments include the installation of a hightemperature rotary incinerator capable of safely disposing of hazardous materials at 1,400 degrees Celsius, and the establishment of a trauma center scheduled to be operational by December 2024. These upgrades, along with other environmental and safety enhancements, demonstrate Alang's commitment to meeting stringent EU standards while maintaining its competitive edge in the global ship recycling market. The matter is now tabled to the member states and If successful, EU certification would transform Alang into one of the few globally recognised facilities capable of recycling European vessels in compliance with EU regulations. This achievement would not only bring substantial economic benefits to India's ship recycling industry but also reinforce
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -270,8 +231,6 @@ Chattogram, Bangladesh
 
 The ship recycling market has come to a near standstill, with only a handful of recyclers expressing interest in new purchases. Amid political turmoil and the establishment of an interim government, business operations across the country have been severely disrupted. Key challenges have resurfaced, notably in the issuance of letters of credit, which only a select few recyclers are able to secure on a case-by-case basis. Meanwhile, environmental agencies have intensified their scrutiny, cracking down on substandard recycling yards. Adding to these woes, domestic ship scrap prices have weakened significantly, falling daily due to exceptionally poor local demand.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Over recent weeks, the market has witnessed a complete lull, with obtaining offers for vessels becoming increasingly difficult. Compounding this, many yards that received notices to upgrade their facilities to meet SRPF (Ship Recycling Facility Plan) standards are struggling to address compliance issues, casting doubt on their import permits. Until the country's situation stabilises, the recycling industry is expected to remain on the sidelines, with minimal buying activity.
@@ -292,8 +251,6 @@ Anchorage & Beaching Position (September 2024)
 Aliaga, Turkey
 
 The Turkish scrap market is witnessing a period of price stagnant in domestic procurement as import prices show signs of softening amid subdued buying interest. There was little activity to report this week, with no new sales recorded. Market dynamics are further complicated by weakening rebar prices and stagnant sales, with Turkish mills exerting downward pressure on scrap values. While most suppliers resist further price declines, the presence of distressed cargoes could influence market direction.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -327,15 +284,11 @@ EXCHANGE RATES
 
 The Sub-Continent and Turkey scrap markets experienced sluggish activity, with limited interest from buyers in India, Pakistan, and Bangladesh. Price discrepancies, high inventories, and weak steel market sentiment kept new bookings at bay. Trade activity in India remained minimal as buyers exercised caution amid a slowdown in the domestic steel market. The market was further impacted by regional disruptions, including a cyclone in some areas and the upcoming Diwali festival. A US$5-8/ ton gap between buyer bids and seller offers contributed to the lack of interest in imported scrap. Indicative offers for shredded scrap from the U.S. and Europe stood at US$395-398/ton CFR Nhava Sheva, while buyers targeted US$390-392/ton CFR. Offers for HMS (80:20)
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 from Europe and West Africa were quoted at US$375-380/ton CFR, with buyers seeking prices below US$370/ton CFR. In Pakistan, fresh scrap arrivals were met with limited demand, as previously booked shipments continued to arrive at more competitive rates. Fresh offers for scrap were heard at US$395-398/ton CFR Qasim, while buyer bids were around US$390-392/ton CFR. One steel mill official noted, "A lot of material has been arriving recently, but many are struggling to release it and are offering at significantly lower prices due to cash flow issues. While offers are around US$400/ton, we managed to buy some quantity at US$385/ton." Bangladesh's scrap buying activity remained minimal, with major buyers staying inactive for the past two months due to ample inventories and weak steel market sentiment. Offers for shredded scrap from Australia and New Zealand were in the range of US$400-405/ton CFR Chattogram, but buyers were looking for prices closer to US$395-400/ton CFR. HMS (90:10) scrap from South America was offered at US$355- 365/ton CFR. The Turkish imported scrap market remained stagnant, with no significant deals or price movements. Mills in Turkey were hesitant to commit to new scrap bookings, expecting lower prices in light of slow domestic rebar sales. Despite mills' efforts to pressure scrap prices downward, U.S. and European sellers held firm, citing strong domestic markets and high collection costs. As a result, the market remained at a standstill. The outlook across these regions remains bearish, as buyers continue to wait for more favourable conditions while sellers resist lowering prices.
 
 ## HMS 1/2 & Tangshan Billet
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 
@@ -357,8 +310,6 @@ Iron Ore
 |---|---|---|---|---|---|---|
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 99 | -1.0% | -17.5% | 100 | 120 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 101 | -5.60% | -16.52% | 107 | 121 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 

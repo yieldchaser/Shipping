@@ -26,8 +26,6 @@ This week, data from China was not encouraging as the second GDP growth fell sho
 
 Despite concerns about the potential effects of Russia's actions on food supplies, Hungary, Poland, and Slovakia have decided to extend their local bans on purchasing certain Ukrainian grain until the end of the year. These countries have implemented restrictions due to declining grain prices. While officials support the ban extension, Ukraine has urged the E.U. to lift the ban, citing its negative impact on the country's economy. The Capesize spot market has experienced a relatively quiet period during the summer months due to limited activity in the chartering market and a stable export rate. Loading rates in WAFR have been impacted by seasonal weather patterns, leading to a negative effect on the Atlantic basin. Despite these factors, iron ore shipments from Australia have remained steady, and the absence of congestion and weather disruptions for vessels has contributed to the stability of the spot market. Capesize rates may see an upward trend once seasonal demand returns, which is expected to occur in August.
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 Capesize:
@@ -41,8 +39,6 @@ Despite a rise in FFA midweek, rates in the Atlantic remain under pressure due t
 Handysize:
 
 In the Pacific, NE Asia and SE Asia are beginning to absorb excess ships, leading to a rise across the region. With vessels being digested, conditions are turning more positive as the oversupply is gradually alleviated. Inter-Pacific saw rates climb to US$ 5,700's levels while Pacific r/v closed higher US$ 6,400's a day range.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -80,8 +76,6 @@ In the Pacific, NE Asia and SE Asia are beginning to absorb excess ships, leadin
 | BSI | 757 | 743 | 2,080 | +1.88% | -63.61% |
 | BHSI | 403 | 409 | 1,211 | -1.47% | -66.72% |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Bulker 12 months T/C rates average (in USD/day)
@@ -96,8 +90,6 @@ In the Pacific, NE Asia and SE Asia are beginning to absorb excess ships, leadin
 # Tankers
 
 Oil prices initially fell in Asian trading before experiencing a slight rebound, as market participants weigh tightening supply and China's stimulus measures against concerns of economic slowdown in developed countries and potential rate hikes. During Asian trade, WTI Crude saw a decline of 0.13% to US$75.65, while Brent Crude recovered from early losses and increased by 0.05% to US$79.68. Concerns about the U.S. and European economies, along with China's lower-thanexpected growth in the second quarter, continue to exert downward pressure on oil prices. However, API estimated a small draw in U.S. crude oil inventories and a decrease in gasoline inventories. If confirmed by the official EIA inventory report, these draws could provide support to oil prices later in the week. The market remains concerned about the U.S. and European economies, with expectations of a quarter-point rate hike by the Fed.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -118,8 +110,6 @@ MEG/Singapore W.S. saw a weekly decline of 3.1% due to the increase in cargo con
 Clean:
 
 MR: M.R. market saw consistent activity, leading to higher rates on the UKC-USAC route. TC2 saw rates climb to WS155. On the other side, M.R. market had an eventful end to the week with varying rates on the MEG-E.Africa route. TC17 closed at WS206 at closing. L.R: The LR1 market had a slow week, with rates easing. In the MEG, TC5 rates fell to WS101. In the Atlantic, the LR2 market may be showing signs of reaching its bottom, suggesting the possibility of rate rebounding. TC1 fell below WS100, losing a couple of points to WS88.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -161,8 +151,6 @@ MR: M.R. market saw consistent activity, leading to higher rates on the UKC-USAC
 | LR1 | 74,000 | 29,250 | 29,250 | 23,500 | 0 | +24.47% |
 | MR | 47,000 | 24,000 | 25,000 | 20,000 | -4.00% | +20.00% |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 # Containers
@@ -176,8 +164,6 @@ The SCFI spot box freight rate index experienced a slight softening of 1.3% week
 | CHIQUITA PASSION | SUB PMAX | 2,797 | 2008 | CHINA | 15.5 | MSC |
 | X-PRESS COTOPAXI | FEEDER | 1,740 | 2004 | CHINA | N/A | MSC |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 # Containers Values
@@ -190,18 +176,14 @@ The SCFI spot box freight rate index experienced a slight softening of 1.3% week
 | 5,500 - 7,000 | Gearless | 93 | 82 | 70 | 45 | N/A |
 | *(amount in USD | million) |  |  |  |  |  |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND ALANG (WC INDIA)
-
-| *CHATTOGRAM, BANGLADESH | 550~560 | 540~550 | 560~570 | 570 ~ 580 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) \*For green ship recycling, the prices are about US$10-15/ton lower. | 510 ~ 520 | 500 ~ 510 | 510 ~ 520 | 520 ~ 530 | STABLE / |
+| *CHATTOGRAM, BANGLADESH | 550~560 | 540~550 | 560~570 | 570 ~ 580 | WEAK / |
 | GADDANI, PAKISTAN TURKEY | NA | NA | NA | NA | NA |
 | *For Non-EU ships.ForE.U. Ship,the pricesareabout US$20-30/tonless | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | WEAK / |
 
@@ -221,8 +203,6 @@ GENERAL CARGO WEEKLY FUTURE TREND ALANG (WC INDIA)
 | GADDANI, PAKISTAN | 420 | 400 | 300 | 570 | 560 |
 | ALIAGA, TURKEY | 290 | 270 | 180 | 290 | 270 |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ships Sold for Recycling
@@ -236,8 +216,6 @@ GENERAL CARGO WEEKLY FUTURE TREND ALANG (WC INDIA)
 
 # Recycling Ships Price Trend
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Insight
@@ -248,15 +226,11 @@ Alang, India
 
 After a turbulent start in early July, marked by uncertainty and plunging domestic ship scrap prices, the focus is now shifting back to the traditional factors of demand and supply that have historically influenced the ship recycling industry. As the domestic ship prices gradually stabilise, market attention is improving on how these fundamental dynamics will impact the sector. However, a prevailing sense of caution and weariness among recyclers hinders any aggressive moves. Prices have remained stagnant, and despite low inventories at the recycling yards, there is no urgency to buy. The ongoing monsoon season continues to impact the industry, contributing to a slowdown that is expected to persist throughout the traditionally sluggish month of August. This week, there was a slight uptick in domestic ship scrap prices, indicating potential signs of stabilisation following a significant downturn in the past few weeks. The market appears to be showing signs of reaching a bottom after experiencing a notable correction period.
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
 Chattogram, Bangladesh
 
 The shipbreaking industry in Bangladesh is facing a dire situation for the larger ships, weighing over 4,000 tons or valued over US$3 million. Cash buyers are struggling to obtain Letters of Credit within the required timeframe. Consequently, numerous previously sold ships have to line up at the outer anchorage for a substantial period before they receive the necessary LC.'s to enter the port. This predicament has become a new normal for the ships going to Chattogram until financing situations change. Under such circumstances, a large number of cash buyers have now resorted to pricing based on the Alang market, which remains stable at current levels. This shift in approach reflects the difficulties faced by larger vessels in Bangladesh, and cash buyers would not like to speculate in such conditions.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -274,8 +248,6 @@ The Gaddani recyclers are enduring a patiently waiting game as recent developmen
 Aliaga, Turkey
 
 Lately, there has been a subdued interest in buying activities, with recycling yards displaying a lack of enthusiasm to buy ships due to the prevailing unfavourable market conditions.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -310,8 +282,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 286.84 | 274.46 | -4.51% |
 | USD / TRY (TURKEY) | 26.94 | 26.19 | -2.86% |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 # Commodities
@@ -321,8 +291,6 @@ Insight
 This week, positive sentiment in the market was bolstered by reports indicating that China is gearing up to announce measures aimed at supporting its economy. These measures served as a counterbalance to the prevailing risk-off sentiment seen across broader markets. Within the base metals sector, Copper took the lead in gaining momentum after China's announcement of its plans to implement measures to foster economic growth. The Ministry of Industry and Information revealed that it is in the process of devising strategies to bolster development in ten key industries, including steel and auto. This move comes as a response to the Chinese Communist Party's commitment to improving conditions for private companies. These levels are expected to rise substantially over the next three years, even if traditional sectors like construction and manufacturing experience below-average growth, as overall demand is projected to maintain strong growth rates. The proposed support measures have also had a positive impact on the iron ore market. Reports suggest that Chinese authorities are contemplating easing home-buying restrictions in major cities, which would include granting exemptions from higher down payments and more stringent borrowing limits for individuals with a mortgage record but no property ownership. Overall, these developments have generated a sense of optimism in the market, driven by the anticipation of China's forthcoming measures and their potential to stimulate economic growth across various sectors.
 
 # MS 1/2 & Tangshan Billet
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 

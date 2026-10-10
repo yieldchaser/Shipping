@@ -22,8 +22,6 @@ pages: 19
 
 For the past two months, tensions in the Red Sea have disrupted international trade on an unprecedented scale. This has led to increased costs for shippers globally, impacting regions as far as Asia and North America. The disruption has prompted sailors to demand higher pay as insurance rates have surged. Many are avoiding the route, which is a crucial waterway responsible for 12% of global seaborne trade. The industry expects the disruption to continue for several months. This has increased transit periods, which has resulted in more inventory becoming entangled and production delays. Production in Europe has been halted by major manufacturers such as Volvo due to shortages of components. The economic ramifications are increasingly becoming apparent, as evidenced by charges for goods. A major exporter of LNG, Qatar, is delaying shipments to Europe as a result of lengthy travel periods. Despite scant indications of inflation on a broader scale, Christine Lagarde of the European Central Bank warns of the potential dangers. Global trade routes are also being impacted by the crisis, as supply chain disruptions and potential energy price increases are causes for concern. Considered more grievous in scope is the impact of the Red Sea crisis than the Ever Given incident in the Suez Canal in 2021. The current rerouting increases the distance travelled by approximately 40%, resulting in delays and difficulties in locating alternative modes of transportation. Some cargoes are being rerouted via air freight or alternative land routes in light of the crisis, resulting in consequential changes to worldwide logistics. The situation continues to be precarious, and if the disruption continues, there is a possibility of additional economic effects.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ In response to the recent drop in international iron ore prices, Chinese importe
 Panamax/Kamsarmax:
 
 Brazil's grain harvest has increased ship demand, with a shortage of vessels heading from the Pacific to South America. Brazil's soybean and corn exports remain high in the Atlantic. Seasonal demand for South American destinations is expected to support the market, but restrained coal shipments in Asia may limit upward movement. T/A saw levels climb in the region of US$ 16,450's a day. In the Pacific, with NOPAC cargo continuing to drive ship demand, there is also an increase in coal demand from Indonesia, contributing to an upward trend. Pacific r/v rose to US$ 11,400's a day. Supramax/Ultramax: The Atlantic routes experienced a rebound, but market conditions remained subdued due to Pacific and USG weaknesses. The Black Sea experienced increased premiums due to military conflicts, while the Pacific region faced challenges with coal shipments. However, ship congestion is easing as the market tries to secure short-term bottoms. Pacific - India improved to US$ 8,500's a day. South American recovery also supports the market, with increased cargo intake ahead of the Chinese New Year.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -76,8 +72,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE CAPESIZE 180,000 
 | SUPRAMAX | 58,000 | 14,250 | 13,000 | 13,750 | +9.62% | +3.64% |
 | HANDYSIZE | 38,000 | 13,250 | 13,000 | 9,750 | +1.92% | +35.90% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -90,8 +84,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE CAPESIZE 180,000 
 | ISABELLA M | SMAX | 56,056 | 2006 | JAPAN | 12.5 | CHINESE BUYERS |
 | AMARNATH | SMAX | 53,169 | 2004 | JAPAN | 7.75 | EUROPEAN BUYERS |
 | RUI AN | HMAX | 46,509 | 2001 | JAPAN | 6.7 | UNDISCLOSED |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -107,8 +99,6 @@ Suezmax:
 
 Following an early January rebound, the market enters a phase of correction. A decline was observed on the WAFR/Europe route as a result of an increase in cargo influx in the North Atlantic and a decrease in cargo influx in the U.S. during the latter part of the week. 130,000mt Nigeria/UKC fell by 28 points to WS109.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -120,8 +110,6 @@ Clean:
 L.R.: LR2 saw a notable increase this week on the MEG/Japan route due to a decline in local ship supply and an increase in profit-taking trades. Profitable deals ensure business viability despite rising European gasoline prices. TC1 climbed some 100 points, reaching WS353. Expectations that vessels would bypass the Suez Canal resulted in a premium in bunker fuel freight costs. LR1 also saw similar big gains, with TC5 closing at WS379. MR: With an increase in cargo intake in early February and relief from operational difficulties caused by bad weather, freight rates on the S. Korea/SGP route saw improvements this week, closing at WS23. In the Atlantic, there was some activity at the start of the week, but levels corrected midway. USG/UKC route remains at WS163.
 
 ## Baltic Exchange Tanker Indices
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -145,8 +133,6 @@ Tankers S&P Report
 | STI TRIBECA | MR | 49,990 | 2015 |
 | PATEA | PROD / CHEM | 16,651 | 2008 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 BUILT S. KOREA S. KOREA JAPAN S. KOREA CHINA
 
 PRICE (MILLION) USD 24.0 EACH 33.8 42.0 39.0 13.0
@@ -161,33 +147,18 @@ Over 500 container ships, which typically use the Red Sea for transit to and fro
 
 ## Containers S&P Report
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE
-
-TREND ALANG (WC INDIA) 500 ~ 510 470 ~ 480 480 ~ 490 510 ~ 520 STABLE /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | IMPROVING / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 500 ~ 510 | 470 ~ 480 | 480 ~ 490 | 510 ~ 520 | STABLE / |
+| *CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | IMPROVING / |
 | **GADDANI, PAKISTAN | 530 ~ 540 | 520 ~ 530 | 510 ~ 520 | 540 ~ 550 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -204,8 +175,6 @@ TURKEY
 | GADDANI, PAKISTAN | 420 | 380 | 425 | 600 | 535 |
 | ALIAGA, TURKEY | 250 | 240 | 240 | 330 | 325 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -217,11 +186,7 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -232,8 +197,6 @@ The markets in the Sub-Continent, notably in Chattogram and Gadani, witnessed a 
 Alang, India
 
 This week in India, the nation has been engrossed in celebrating various holidays, including the landmark 75th Republic Day on January 26. These national festivities seem to have had an impact on the ship recycling market, particularly in Alang. Alang Buyers have been persistently offering the lowest recycling rates among all the sub-continent ship recycling destinations. This trend has raised concerns as it poses a sustainability challenge for India's ship recycling sector in the long run. Amid a subdued market sentiment, Alang recyclers have largely chosen to stay on the sidelines, eagerly seeking opportunities to bid on eco-friendly recycling tonnages. Many of them are grappling with the challenge of maintaining costly inventories, attempting to balance their books in the current economic climate.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -264,8 +227,6 @@ Chattogram, Bangladesh
 
 This week marked a notable shift in market sentiment, with prices showing signs of improvement following the recent elections. However, it is premature to label it as a return to a normal market state. Banks are still deliberating their decisions, and L.C.s continue to be in limited supply. Meanwhile, domestic ship prices remained steady, contributing to a sense of optimism within the industry. Chinese ship owners have put forward numerous vessels for consideration by Bangladeshi recyclers, generating significant enthusiasm among the recyclers. Experts anticipate a surge in activity after the Lunar New Year, potentially reshaping pricing
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 dynamics. The limited number of recyclers remaining in the industry to compete for these opportunities could substantially impact pricing, making this development a potential game-changer.
@@ -291,8 +252,6 @@ It has been yet another quiet week for Gadani recyclers, with no ships being off
 
 them. Bangladesh has been dominating the competition for ships coming from the Far East, leaving Gadani without much activity. In a positive development, the L.C. situation in Pakistan has gradually improved. Banks are now willing to establish L.C.s with more favourable terms, a change that has been welcomed by recyclers. This shift comes as the local currency, which experienced turbulence over the past year, has finally stabilised in recent months. This stability has instilled confidence in the industry. The primary challenge at present remains the supply of ships. Despite competitive pricing that matches their counterparts in Bangladesh, Gadani recyclers continue to face disappointment. Geographical factors are working against them, as ships are being diverted away from their yards, causing frustration among the eager recyclers. Financial experts anticipate that the rupee is unlikely to depreciate further in the remainder of the fiscal year due to prevailing inflationary pressures. The exchange rate has remained stable, with the rupee valued below Rs280 against the U.S. dollar, though some analysts suggest it may reach Rs310 by year's end. However, widespread inflation concerns dominate economic priorities, leading to a focus on controlling inflation rather
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 than fostering growth. The upcoming general elections in February add to economic uncertainty.
@@ -310,8 +269,6 @@ Chattogram, Bangladesh : 27 ~ 30 January | 11 ~ 14 February Alang, India : 23 ~ 
 Sub-Continent and Turkey ferrous scrap markets insight
 
 Global ferrous scrap prices have seen a decline this week, with several factors affecting markets in South Asia. In India, the gap between domestic and imported scrap prices has deterred buyers, making domestic scrap more economically appealing. Buyers are holding off until the price differential becomes more favourable. Turkish imported scrap prices have also dipped due to uncertain price trends and sufficient inventories, reducing the urgency for re-stocking. However, the potential exists for a price premium if buyers commit to procuring 40 cargoes.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -340,8 +297,6 @@ EXCHANGE RATES
 
 ## HMS 1/2 & Tangshan Billet
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 ## Commodities
@@ -354,8 +309,6 @@ Iron Ore
 |---|---|---|---|---|---|---|
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 136 | +3.81% | +7.08% | 131 | 127 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 138 | +4.54% | +14.04% | 132 | 121 |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

@@ -22,8 +22,6 @@ pages: 20
 
 Global stock markets experienced a week of intense volatility, with a sharp plunge early in the week followed by a rapid recovery that restored a sense of stability. By mid-week, the positive momentum spread across global markets, with Japan's Nikkei experiencing its best day since October 2008 and U.S. markets joining the upswing. The tech-heavy Nasdaq Composite gained 1.4%, while the S&P 500 and Dow Jones Industrial Average also posted significant increases. European banks rebounded, trading over 3% higher despite recent challenges. However, Germany's Commerzbank saw a 3.7% decline despite reporting better-than-expected quarterly profits. In currency markets, the Japanese yen depreciated sharply against the U.S. dollar, falling 2.04% to 147.28 per dollar. This marked its most significant daily decline since June 2022. Despite recent market volatility and weaker economic data, UBS maintains that the U.S. economy is still on track for a soft landing. The firm cites strong corporate profit margins and normalising consumer spending as positive indicators. Meanwhile, Maersk CEO Vincent Clerc addressed ongoing shipping challenges, noting that container ship diversions around Africa due to Red Sea tensions are expected to continue until year-end. This situation is causing capacity shortages and increasing costs, which may be passed on to customers. Maersk reported lower y-o-y revenue and profit in its second-quarter results.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ China's manufacturing slowdown led to a decline in steel demand while increasing
 Panamax/Kamsarmax:
 
 The global bulk market witnessed a downturn due to weak Brazilian corn exports, expanded ship supply, and the slow recovery of Indonesian coal loading demand. The segment is facing oversupply issues, exacerbating downward pressure on freight rates, while India's power sector maintains ample coal stockpiles. In the Atlantic, despite a recovery in new coal shipping demand, the market remains under pressure due to the accumulation of spot vessels in South America. Rates for Brazil r/v fell to US$15,300's a day. A similar was also seen in the Pacific, with an ample supply of vessels being the main factor exerting pressure on freight rates. Pacific r/v fell slightly to US$12,300's a day.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -69,8 +65,6 @@ Dry Bulk Values
 | SUPRAMAX | 56,000 | 35 | 42 | 36 | 28 | 16 |
 | HANDY *(amount in USD million) | 38,000 | 30 | 35 | 28 | 21 | 12 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Bulker 12 months T/C rates average (in USD/day)
@@ -92,8 +86,6 @@ Dry Bulk Values
 | HB | IMABARI | HANDY | 40,320 | 2024 | JAPAN | 35.4 | UNDISCLOSED |
 | SEA WAVE ROSTRUM | / DUBAI | HANDY | 40,000 | 2025 | CHINA | 64.0 EN BLOC | CHINESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -111,8 +103,6 @@ The Suezmax market, particularly in West Africa, has been significantly impacted
 Aframax:
 
 The Middle East market is feeling the ripple effects of the larger vessel under performance. Compounded by an influx of empty ships from Asia, Aframax rates have been on a gradual decline. In the Med region, 80,000mt Ceyhan/Lavera fell 13 points to WS132.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -147,8 +137,6 @@ Tanker 12 months T/C rates average (in USD/day)
 | LR1 | 74,000 | 37,000 | 37,000 | 28,250 | 0 | +30.97% |
 | MR | 47,000 | 29,250 | 29,250 | 28,250 | 0 | +3.54% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -156,8 +144,6 @@ Tanker 12 months T/C rates average (in USD/day)
 | VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
 |---|---|---|---|---|---|---|
 | NAVE ORBIT | MR | 49,999 | 2009 | S. KOREA | 25.9 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -171,33 +157,18 @@ Despite strong cargo volumes and carriers' efforts to raise freight rates for th
 |---|---|---|---|---|---|---|
 | KMARIN AZUR / KMARIN ATLANTICA | PMAX | 4,532 | 2013 | S. KOREA | 53.0 EN BLOC | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 500 ~ 510 480 ~ 490 480 ~ 490 520 ~ 530 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 500 ~ 510 | 480 ~ 490 | 480 ~ 490 | 520 ~ 530 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
 | GADDANI, PAKISTAN | 510 ~ 520 | 490 ~ 500 | 480 ~ 490 | 520 ~ 530 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 330 ~ 340 340 ~ 350 380 ~ 390 WEAK /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 330 ~ 340 | 340 ~ 350 | 380 ~ 390 | WEAK / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -214,27 +185,19 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 680 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 190 | 300 | 325 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 ## Insight
 
 It was another lackluster week for the ship recycling industry, with activities across the region seeing little to no activity. Many market players are feeling the pressure of the downturn as the summer lull hits its full peak. There were some expectations that the autumnal months would bring about some positive changes, but with geopolitical tensions heightened, some vessels will continue to trade, taking full advantage of the current high rates. However, in recent weeks, rates have come off a bit, seeing a few thousand discounts, especially in the tanker segment. Meanwhile, China has implemented a policy to encourage the scrapping of vintage vessels in Chinese yards, aiming to modernise its transportation network and foster highquality industry development. This initiative, running until December 31 2028, offers financial subsidies for scrapping and renewing old Chinese-flagged ships operating within the country's borders. Eligible vessels include cargo and passenger ships, typically between 21 and 30 years old, with valid inspection and registration documents. The policy also supports the replacement of old ships with new fuel-powered or clean energy vessels. To qualify, new ships must have their keels laid and construction completed within the policy period, along with obtaining necessary certifications.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -258,8 +221,6 @@ Chattogram, Bangladesh
 
 Another slow week in Bangladesh markets led by the current instability ongoing in the country. Markets remain muted with no new sales recorded. Recyclers have taken a back seat and wait to see the dust settle down.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 However, with the interim government in place, market participants reported feeling optimistic for the new change but err on the side of caution as some are unsure how the current leader stance on ship recycling will swing. On the political front, Nobel Peace laureate Muhammad Yunus has returned to Bangladesh to lead an interim government following PM Sheikh Hasina's resignation amid weeks of student protests. Yunus, 84, arrived in Dhaka on Aug 8 after medical treatment in Paris, greeted by military officers and student leaders. Yunus, known as the "banker to the poor," is set to be sworn in as chief of a team of advisers. PM Hasina's departure, triggered by violent protests that killed about 300 people, led to jubilation and further unrest. The country faces significant challenges, including high inflation, unemployment, and shrinking reserves, which led to a US$4.7 billion IMF loan request. Yunus's interim government now faces the task of stabilising the country and preparing for free and fair elections.
@@ -277,8 +238,6 @@ Anchorage & Beaching Position (August 2024)
 | The Pakistani ship recycling hibernation amid a scarcity market remains stagnant, | market has of ships and leaving conditions | come to a standstill, waning demand. and pricing | entering a period With no new vessels uncertain. | of sold, the |
 |  |  |  |  |  |
 |  |  |  |  |  |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -311,8 +270,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 278.66 | 278.87 | +0.08% |
 | USD / TRY (TURKEY) | 33.53 | 33.19 | -1.02% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -327,8 +284,6 @@ limited buyer interest and a substantial gap between offers and bids. Shredded s
 
 prolonged hiatus. Turkish buyers secured a European bulk vessel at US$376/t CFR, while US-origin HMS (80:20) offers at US$390/t CFR were deemed unworkable. Two US bulk cargoes were reported: HMS (90:10) at US$381/t CFR and shredded/PNS scraps at US$396/t CFR. Market sentiment remained weak, with Turkish mills anticipating further price declines due to high recycler inventories. EU-origin HMS (80:20) offers ranged around US$375-378/t CFR, with aggressive Baltic offers at US$380-382/t CFR. Mills
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 remained hesitant to pay above US$380/t CFR, considering production cuts amid sluggish rebar demand. Overall, the ferrous scrap markets continue to navigate through a challenging period, with buyers and sellers alike bracing for further developments in the coming weeks.
@@ -340,8 +295,6 @@ remained hesitant to pay above US$380/t CFR, considering production cuts amid sl
 ### Iron ore futures reached a two-week high on Monday, buoyed by positive economic
 
 indicators from China, the world's largest consumer. The surge was driven by strong services data and ongoing expectations of stimulus measures from the Chinese government. The most-traded September iron ore contract on China's Dalian Commodity Exchange rose 1.97% to 776.5 yuan (US$108.69) per metric ton, while the benchmark September contract on the Singapore Exchange increased by 0.76% to US$104.6 per ton. These price levels marked the highest since July 22 for both exchanges. China's economic outlook improved as services activity growth accelerated in July, marking the 19th consecutive month of expansion. The Caixin/S&P's composite PMI index remained in expansionary territory, with employment rising at its fastest pace in 11 months. This positive data was complemented by the Chinese government's announcement of measures to boost service consumption and overall economic vitality, including improvements in product and service quality and financial support through tax deductions and credit incentives.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

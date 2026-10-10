@@ -22,8 +22,6 @@ WEEK 20 - May 18, 2024
 
 This week, breaking news came from the Biden administration, which confirmed various tariffs on Chinese imports. China has vehemently criticised the Biden administration's decision to increase tariffs on a wide range of Chinese imports, vowing to take retaliatory measures without providing specifics. The Ministry of Commerce stated that the US should immediately correct its actions and cancel the additional tariff measures against China, labelling them as "political manipulation" ahead of the US elections this year. President Biden is hiking tariffs on imports from China, including semiconductors, solar cells, and critical minerals, with rates ranging from 25% for batteries to 100% for electric vehicles. This move is the culmination of a review of predecessor Donald Trump's tariff increases, none of which were rolled back. The announcement caused some China stocks to decline on Wednesday. Semiconductor Manufacturing International Corp., LONGi Green Energy Technology Co., and BYD Co., the electric vehicle leader in China, all experienced losses. While Beijing often attempted a tit-for-tat approach in response to Trump's tariff hikes from 2018 onwards, analysts expect a more limited response this time. Experts suggest that China's leadership will seek to avoid actions that could hurt Xi Jinping's efforts to bolster domestic and international confidence in China or make the country the centre of the US presidential campaign. The US measures announced on Tuesday are themselves limited, which may help contain Beijing's response. Biden is trying to balance appearing tough on China while protecting US jobs without destabilising the domestic economy or inflaming inflation. The repercussions of such a move is to be seen in the time to come.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ In the Pacific market, the rate of decline slowed as vessels gradually absorbed 
 Panamax/Kamsarmax:
 
 The Atlantic market continued its downward trend as the oversupply situation became more entrenched due to a rising number of vessels in the North European region. T/A saw levels slipped to US$15,400's a day. Conversely, although new demand remained sluggish in the NOPAC region, the Pacific market experienced a deceleration in the rate of decline, buoyed by an uptick in coal shipments from East Australia. Pacific r/v closed lower at US$16,500's a day. Supramax/Ultramax: The Atlantic market continued to see falling rates due to the persistent lack of new cargo across most routes. T/A levels fell to US$17,000's a day. Meanwhile, in the Pacific market, although vessel supply increased centred around Northeast Asia, the low inflow of new
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -79,8 +75,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | SUPRAMAX | 58,000 | 16,250 | 16,500 | 13,650 | -1.52% | +19.05% |
 | HANDYSIZE | 38,000 | 15,000 | 14,500 | 10,500 | +3.45% | +42.86% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -100,8 +94,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | CIELO DI VALPARAISO | HANDY | 39,232 | 2015 | CHINA | 21.8 | UNDISCLOSED |
 | ADMIRALTY SPIRIT | HANDY | 32,263 | 2004 | JAPAN | 8.0 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -118,8 +110,6 @@ Suezmax:
 
 Despite numerous charters in the Middle East, supply balance was maintained due to accumulated vessel availability, leading to steady rates by the end of the week.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 140,000mt MEG/Med remains around the WS95. Following a midweek surge in VLCC rates, Suezmax vessels experienced a rise in cargo influx, leading to an increase in West Africa- Europe routes. However, at closing 130,000mt Nigeria/UKC lost recent gains to WS102.
@@ -133,8 +123,6 @@ Clean:
 LR: Midweek saw a surge in freight rates, especially on the MEG/Far East route, which closed slightly higher. This was driven by an uptick in eastbound demand. In LR1, TC5 also saw a climb with rates jumping to WS268. While in the UKC, TC16 fell slightly to WS157. MR: In the Far East market, rates experienced a downward adjustment, leading to a relatively flat closing. MEG continued its uptick with TC17 climbing to WS394. On the other side, USG fell as TC14 lost about 40 points to WS132.
 
 # Baltic Exchange Tanker Indices
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -155,8 +143,6 @@ LR: Midweek saw a surge in freight rates, especially on the MEG/Far East route, 
 | ARS ET | LABOR | MR | 40,416 | 2008 | ROMANIA | 25.0 | ITALIAN BUYERS |
 | G BRIGHT | PROD | / CHEM | 19,931 | 2004 | JAPAN | 15.3 (SS) INDONESIAN | BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 # Containers
@@ -165,26 +151,16 @@ The SCFI, after a two-week break for the Labor Day holiday, surged at an unprece
 
 # Containers S&P Report
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 540 ~ 550 520 ~ 530 530 ~ 540 550 ~ 560 IMPROVING/
-
-.
-
-| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 550 ~ 560 | IMPROVING/ |
+| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | WEAK / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 330 ~ 340 | 340 ~ 350 | 380 ~ 390 | IMPROVING / |
 
@@ -203,8 +179,6 @@ ALANG (WC INDIA) 540 ~ 550 520 ~ 530 530 ~ 540 550 ~ 560 IMPROVING/
 | GADDANI, PAKISTAN | 420 | 300 | 540 | 610 | 520 |
 | ALIAGA, TURKEY | 270 | 170 | 307 | 310 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -220,11 +194,7 @@ ALANG (WC INDIA) 540 ~ 550 520 ~ 530 530 ~ 540 550 ~ 560 IMPROVING/
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -235,8 +205,6 @@ This week was a mixed week in the recycling segment. While the tanker and dry bu
 Alang, India
 
 The markets continued their upward trend with robust demand amidst increasing ship scrap prices. The recyclers at Alang seem to be gaining confidence that PM Narendra Modi's re-election victory will pave the way for the much-anticipated portfolio of infrastructure projects. These projects have the potential to propel India's economy, which is currently the fifth largest in the world. This week, Evergreen sold their "Ever Uranus", 1999 Japanese built weighing 24,328 tons at a high price of USD542/ton on an as-is Port Klang basis, eventually to be recycled in Alang. It will be very interesting to see what the Alang recyclers will pay, as that may set a new benchmark for the time being for such large containers. The levels at which sold on an as is basis itself demonstrate the strength of the Alang container markets. Experts do believe that if all parameters remain as they are at this moment with gradual improvement in the domestic ship scrap markets, the prices may soon embrace the USD600/ton mark for the container segment. On the other hand, India's steel industry is bracing for a potential flood of cheaper steel imports from China in the wake of the U.S. imposing steep tariffs on Chinese steel and aluminum imports. Industry leaders warn India is highly vulnerable to a surge of "predatory imports" as other major markets shut their doors to steel exporters. Over the past two years, India has already grappled with an influx of low-priced Chinese steel aided by weak domestic demand, hurting local producers. While steelmakers have lobbied for import curbs, the government has resisted, citing robust steel consumption driven by economic growth. In fiscal 2023-24, India became a net importer of finished steel, with China nearly doubling its exports to 2.7 million tons, making it India's largest steel supplier.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -259,8 +227,6 @@ Anchorage & Beaching Position (May 2024)
 Chattogram, Bangladesh
 
 This week was a quiet one for this segment as the upcoming budget meeting in early June has led buyers to stay on the fence while they wait for the fresh tonnages. However, ships sold in the past are making their way smoothly to the shores as the recyclers were trying to build up inventories pre-budget. Bangladesh's foreign exchange reserves have been declining since September 2021, despite government efforts, reaching US$18.42 billion in gross international reserves as of late, barely covering three and a half months of imports. The net international reserves, at US$13 billion, cover only two and a half months. The IMF lowered the net reserve target to US$14.76 billion for June. Reserves had peaked at US$48 billion in August 2021 due to reduced import payments and increased remittances during the pandemic. However, rising imports, global commodity price hikes due to the Russia-Ukraine war, mismanagement in the forex market, policy changes, and exchange rate gaps contributed to the reserves' depletion. Since August 2021, reserves have fallen by US$24 billion, prompting concerns about Bangladesh's economic strength and credit rating. The central bank recently introduced
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -289,8 +255,6 @@ Anchorage & Beaching Position (May 2024)
 |  |  |  |  |  |
 
 Aliaga, Turkey
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -323,8 +287,6 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The ferrous scrap market exhibited mixed trends, with minor decreases of up to 2% observed in some regions. In South Asia, Indian buyers were more active compared to their counterparts in Pakistan and Bangladesh. Despite this, the overall market pace remained slow due to domestic market volatility and sluggish sales of finished steel products. In Pakistan, the gap between domestic and imported scrap prices kept buyers muted, while
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 in Bangladesh, purchasing activity slowed as buyers awaited clearer price directions amid softening global scrap prices. In India, demand for imported scrap remained moderate as buyers engaged in needbased purchasing due to domestic market volatility. This volatility was driven by slow finished steel sales and ample stockpiles booked in the previous month. Shredded scrap offers from the US and Europe remained largely stable at around US$424-427/t CFR Nhava Sheva, while HMS (80:20) offers from Europe were unchanged at US$405/t CFR.
@@ -334,8 +296,6 @@ in Bangladesh, purchasing activity slowed as buyers awaited clearer price direct
 domestic scrap prices. Sluggish sales in finished steel negatively impacted market sentiment, leading to temporary production halts at several steel mills. Shredded scrap offers from Europe were assessed as range-bound at US$422/t CFR Qasim on a weekly average basis. In **Bangladesh, the imported ferrous scrap market remained range-bound. Improved** forex conditions eased the process of opening new LC and fulfilling regular procurement needs. Offers for US bulk HMS stood at US$405-410/t, with H2 bulk from Japan at US$400- 404/t. HMS containers from Australia were priced at US$412-415/t, with negotiations at US$406-408/t. Shredded containers from the UK were offered at US$422-425/t. In Turkey, steel producers secured several deals towards the end of the week, with seven to eight cargoes booked for early June shipments from the US and Europe. Approximately 15-17 bulk cargoes have been booked for June shipments this month. US-origin HMS (80:20) bulk scrap priced at US$380/t CFR, reflecting a slight decline of US$2/t week-on-week. Similarly, HMS (80:20) from the US East Coast is assessed at US$356/t FOB, down US$2/t week-on-week.
 
 # HMS 1/2 & Tangshan Billet
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -356,8 +316,6 @@ began to ease. The New York-based exchange raised margins by 11%, causing the Ju
 ## Aluminum prices bucked the overall trend, ending the session lower as European
 
 production began to rebound. Trimet Aluminum SE announced increased output from its smelters in France and Germany, signalling a relief in energy costs after recent shortages.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

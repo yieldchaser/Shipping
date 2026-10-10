@@ -22,8 +22,6 @@ WEEK 13 - March 30, 2024
 
 The maritime community was rocked this week by a severe incident involving the container ship Dali, which collided with the Francis Scott Key Bridge at the Port of Baltimore, leading to catastrophic damage and the tragic loss of six lives. The collision, which occurred early Tuesday, resulted in the bridge's collapse into the Patapsco River, halting operations at one of America's leading ports-renowned for being the top hub for automobile shipments, with over 750,000 vehicles processed in 2022. Owned by Grace Ocean Pte Ltd, Singapore and operated by Synergy Marine Corp, the Dali was departing the port when it lost propulsion, striking the bridge's structure. Despite the harrowing event, all crew members, including two pilots, were accounted for without injuries. The port's indefinite closure is expected to severely impact the supply chain, notably affecting automobile, coal, and sugar distributions. This incident is set to notably disrupt coal exports, with anticipated delays affecting up to 2.5 million tons of coal. With the city's principal bridge now destroyed, the shipping industry braces for a potential record-breaking surge in insurance claims, with estimated losses between USD2 to USD4 billion. This surpasses previous maritime disasters, marking a grim milestone in shipping history. Investigations are underway, focusing on the crew and operational circumstances leading up to the accident. In China the ongoing real estate slump is impacting the country's largest banks, with an uptick in bad loans tarnishing their financial statements. The Bank of Communications witnessed a significant rise in its bad loan ratio within the property sector, escalating to 4.99% from 2.8% in just one year. Similarly, the Industrial & Commercial Bank of China and the Agricultural Bank of China reported increases in non-performing loans, especially in residential mortgages and corporate loans tied to real estate. Despite these challenges and shrinking interest margins, all three banks posted slight profit increases. These developments come as these major state-owned banks play a crucial role in Beijing's strategy to rejuvenate the domestic economy and support debt-ridden property developers. This scenario underscores the broader difficulties facing China's banking sector, marked by record high bad loans and the slowest profit growth since 2020, as the economy seeks to recover momentum largely through bank lending.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ Despite improvements in new demand for both iron ore and coal in the Pacific, th
 Panamax/Kamsarmax:
 
 Pacific region's coal shipments remain sluggish due to reduced demand from China and India although there has been a slight increase in new cargo inflows, it is insufficient to resolve the accumulated vessel oversupply. Levels recorded for Pacific r/v around USD15,600's on Thursday. Meanwhile, the increased supply of ballasters bound for South America is also putting pressure on the market as the Atlantic continues its decline due to the oversupply situation.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ The Pacific market continued to experience a lack of new cargo inflows, as owner
 | HANDY | 38,000 | 30 | 34 | 27 | 20 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Bulker 12 months T/C rates average (in USD/day)
@@ -90,8 +84,6 @@ Dry Bulk - S&P Report
 | NEW LEGENG PEARL | HANDY | 32,688 | 2010 | CHINA | 10.2 | GREEK BUYERS |
 | MARGARET SW | HANDY | 25,010 | 2012 | JAPAN | 13.0 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -101,8 +93,6 @@ The recent Ukrainian drone strikes on Russian refineries have taken 14% of Russi
 VLCC:
 
 Middle East region saw a surge in freight rates up to WS83 during the week due to a large influx of early April cargoes. However, the market quickly retreated to around WS67 as charterers resisted the rapid increase in rates and shipowners compromised on rates to secure profits. Despite expectations of further rate declines due to charterers' wait-andsee approach after the rush of fixtures, the downward trend is expected to be moderate as older and lower-quality vessels increasingly opt for Atlantic routes.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -137,11 +127,7 @@ Tankers Values
 | LR1 | 73,000 | 60 | 63 | 53 | 43 | 30 |
 | MR | 51,000 | 49 | 53 | 45 | 38 | 26 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -166,22 +152,14 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 38 | 29 | 20 | 14 |
 | 5,100 *(amount in USD million) | Gearless | 94 | 83 | 70 | 41 | 27 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 490 ~ 500 | 470 ~ 480 | 470 ~ 480 | 500 ~ 510 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | WEAK / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 310 ~ 320 | 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | WEAK / |
 
@@ -200,8 +178,6 @@ ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 WEAK /
 | GADDANI, PAKISTAN | 420 | 340 | 490 | 685 | 550 |
 | ALIAGA, TURKEY | 280 | 210 | 255 | 460 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ships Sold for Recycling
@@ -214,11 +190,7 @@ ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 WEAK /
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -229,8 +201,6 @@ The Sub-Continent markets have been subdued, with no noteworthy transactions tak
 Alang, India
 
 For the past three months, domestic ship scrap prices have remained weak, showing no substantial uptick. Recyclers in Alang find themselves unable to compete, as their prices are approximately USD50/ton higher than those of their regional counterparts, effectively sidelining them from procurement activities. The only source of supply was the pure green recycling ships that have managed to navigate this market constraint. On the other hand, the anticipated influx of significant bulk shipments of imported ferrous scrap could further enhance the supply for steel mills, potentially intensifying the pressures faced by Alang's recycling sector amid already weak demand.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -252,8 +222,6 @@ Market stability persisted, buoyed by unwavering demand. Amidst a backdrop of li
 
 The Bangladeshi recycling industry has received a notable boost from the domestic currency's significant appreciation against the U.S. dollar. The local Bangladeshi Taka strengthened from approximately BDT122~123 to BDT 111 against a U.S. dollar, marking a significant appreciation of 10.8%. This development is particularly meaningful for the recycling sector. However, it is important to note that this positive trend has a downside: the cost of imported ferrous scrap will likely be affected as alternatives will also get cheaper which may put pressure on the local ship scrap in the time to come. For the Bangladeshi recyclers good news come from the domestic currency front where the local Bangladeshi Taka appreciated from BDT122~123 to a U.S. dollar to BDT111 to a U.S. dollar, a significant 10.8% appreciation which is very meaningful for the recycling industry. However, the downside was the imported ferrous scrap would With an optimistic outlook towards the post-Ramadan period, recyclers anticipate a market rebound driven by a pronounced scarcity of ship scrap. Coupled with efforts by the new government to stabilise the economy, this optimism extends to a gradual resumption of previously stalled infrastructure projects.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 Gadani, Pakistan
@@ -263,8 +231,6 @@ Pakistan's domestic ship scrap market witnessed a halt in its recent price surge
 Aliaga, Turkey
 
 Turkish mills have maintained their domestic scrap buying prices at the same level as last week. Despite an increase in imported scrap values over the past week, the strengthening of the lira against the dollar following Turkey's Central Bank decision to raise loan rates by 500 basis points on March 21 has caused domestic scrap prices to rise when measured in dollars. While there are expectations among some market
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -280,15 +246,11 @@ In the Sub-Continent ferrous scrap market, caution prevails as Indian buyers tak
 
 is underscored by a general market slowdown, Holi festival holidays, leaving some participants still
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 In **India, despite the sluggish pace, shredded scrap offers have remained stable, while** nearby, Pakistan and Bangladesh have seen slight adjustments in prices, with Pakistan's prices ticking up by $1 per ton and Bangladesh by $3 per ton. Conversely, US bulk HMS (80:20) offers have marginally decreased by $1 per ton day-on-day for Turkey. Shredded scrap offers from the U.S. and Europe have been quoted at around USD408- 415/ton CFR, while HMS (80:20) prices ranged from USD375-388/ton CFR. The reluctance among Indian buyers stems from the uncompetitive pricing of imported scrap relative to local market rates. In Pakistan, the ferrous scrap market is experiencing a significant slowdown, with many mills operating at reduced capacities due to financial strains and rising operational costs, including electricity tariffs. This downturn is more pronounced than the usual Ramadanrelated lulls. **Bangladeshi buyers, facing** difficulties with LC, are increasingly opting for container shipments over bulk, seeking quicker shipment sources like Australia and Singapore. European scrap prices remain unattractive, pushing buyers to look elsewhere. Meanwhile, Turkey's deep-sea scrap market has shown stability, with April shipments indicating firm prices. However, Turkish mills, facing slow rebar sales, have been resistant to higher scrap prices, maintaining a cautious stance amid a bullish sentiment in the shortsea scrap market, particularly from the Balkans. This collective atmosphere of caution and adaptation underscores a period of strategic reevaluation for South Asian ferrous scrap market participants, navigating through price sensitivities, operational hurdles, and global market dynamics.
 
 # HMS 1/2 & Tangshan Billet
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -304,8 +266,6 @@ Iron Ore
 |---|---|---|---|---|---|---|
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 101 | -9.0% | -18.54% | 111 | 124 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 104 | -7.96% | -7.14% | 113 | 112 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

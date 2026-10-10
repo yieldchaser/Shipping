@@ -22,8 +22,6 @@ WEEK 24 - June 17, 2023
 
 This week, the Federal Reserve opted not to raise interest rates for the 11th consecutive time as it evaluates the impact of its previous hikes. However, the central bank indicated that two more quarter-point increases are likely by the end of the year. Fed Chair Jerome Powell acknowledged that the effects of the tightening measures are yet to be fully realized. The Fed intends to assess the outcomes of its policies over the next six weeks as it contends with inflation concerns. The median expectation among members is a funds rate of 5.6% by the close of 2023, implying two additional hikes this year. On the other hand, European Central Bank diverges from FED, raising interest rates by 25 basis points to 3.5% in light of taming the record-high inflation across the region. While in China, the economic recovery showed signs of weakening in May, based on the data released on Thursday, as growth in industrial output and retail sales slowed, increasing pressure on policymakers to implement stronger stimulus measures. According to the National Bureau of Statistics, industrial production rose by 3.5% compared to the previous year, in line with economists' expectations. However, retail sales saw a smaller increase of 12.7%, falling short of the anticipated 13.7% rise. Fixed-asset investment growth also slowed to 4% in the first five months of the year, below the predicted 4.4% upturn. The urban jobless rate remained unchanged at 5.2%. China's economy, which experienced an initial surge in the first quarter following the lifting of pandemic restrictions, has faced several challenges recently. Weak business and consumer confidence, a struggling property market, and declining global demand for exports are among the headwinds hampering the recovery. As a result, the People's Bank of China has shifted its focus to monetary easing, with further interest rate cuts and reductions in bank reserve requirements expected. Additionally, policymakers are considering a comprehensive stimulus package to support the real estate sector and domestic demand. However, the pressing issue of youth unemployment, which reached a record high of 20.8% in May, poses a significant and persistent threat that cannot be easily addressed through stimulus measures alone.
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 In the ship new building sector, Chinese shipbuilders experienced a substantial increase in new vessel orders from January to May, according to the China Association of the National Shipbuilding Industry (CANSI). The data revealed that orders reached 26.45 million DWT, soaring by 49.5% compared to the same period last year, with 91.3% of the orders designated for exports. In May alone, shipyards in China secured new orders totaling 6.6 million DWT, representing a 41.3% increase from April. During the first five months of the year, Chinese shipbuilders completed vessels equivalent to 16.47 million DWT, a year-on-year increase of 15.4%, with 85.1% of these vessels intended for export. The statistics also indicated a 15.5% increase in the order backlog, settling at 117.99 million DWT by the end of May. The total value of Chinese new building ships exports during this period amounted to US$8.86 billion, rising by 21.1% Y-O-Y. Bulk carriers remained the dominant vessel type, accounting for 55% of completed vessels and 42.1% of new orders. The top 10 shipbuilding enterprises in China completed 69.6% of all vessels, while Jiangsu province played a significant role with over 8 million DWT in completed vessels. Chinese shipbuilders accounted for a substantial portion of global new orders, order backlog, and completed vessels, representing 67.3%, 51.6%, and 48.1%, respectively, during the past five months.
@@ -31,8 +29,6 @@ In the ship new building sector, Chinese shipbuilders experienced a substantial 
 # Dry Bulk
 
 The Baltic index continued its upward trend, supported by stronger rates for various types of shipping vessels. On Thursday, the BDI index rose for the tenth consecutive session, reaching its highest level since May 30, with a gain of 15 points, reaching 1,094. The BCI increased by 19 points to 1,599. Capesizes, known for transporting substantial cargoes like iron ore and coal, saw their average daily earnings rise to US$13,258. This increase in trade volumes can be attributed to miners' ramp-up activity at the end of their financial year in June. Meanwhile, BPI rose by 21 points or 1.8% to 1,184, and the average daily earnings for Panamaxes increased to US$10,658. The BSI index also saw an increase of 11 points, reaching 740 points. Meanwhile, the demand for Capesize ships has experienced growth due to a 4% rise in the average distance traveled for shipments. This increase is primarily driven by higher exports from Brazil and Guinea, as well as greater volumes of long-haul Russian coal. This improved balance in demand and supply has allowed shipping rates to recover from the low levels observed between August 2022 and February 2023.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -47,8 +43,6 @@ Despite successfully achieving a short-term low by resisting long-term decline, 
 Handysize:
 
 In the Atlantic, although spot vessels available last week have been absorbed, overall, the region remains relaxed, contributing to continued downward pressure. T/A levels remain unchanged throughout the week closing at US$ 7,500's range. On the other hand, in the Pacific, the spot ships that were causing pressure in the market have been somewhat regulated. Levels in the Pacific r/v saw improvements, close to the average of US$ 6,700's a day.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -80,8 +74,6 @@ In the Atlantic, although spot vessels available last week have been absorbed, o
 | BSI | 740 | 736 |  | 2,467 | +0.54% | -70.00% |
 | BHSI | 471 | 501 |  | 1,343 | -5.99% | -64.93% |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Bulker 12 months T/C rates average (in USD/day)
@@ -92,8 +84,6 @@ In the Atlantic, although spot vessels available last week have been absorbed, o
 | PANAMAX | 75,000 | 13,000 | 12,500 | 24,150 | +4.00% | -46.17% |
 | SUPRAMAX | 58,000 | 12,050 | 12,250 | 25,000 | -1.63% | -51.80% |
 | HANDYSIZE | 38,000 | 11,000 | 9,350 | 21,750 | +17.65% | -49.43% |
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -109,8 +99,6 @@ Suezmax:
 
 The WAFR section of the market witnessed an increase in activity this week due to Nigeria's tax clawback policy. There was an uptick in enquiries in the region, with 130,000mt Nigeria to Rotterdam firming to WS113 while 140,000mt Basrah/Lavera remains around WS60 levels.
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 Aframax:
@@ -122,8 +110,6 @@ Clean:
 LR: The eastern Suez region has witnessed a slowdown in new cargo inflow, leading to an increase in the number of available ships. As a result, the MEG/NE Asia segment experienced a significant plunge of 20.5%. Overall the LR market had a quiet week with steady rates. Sentiments remained steady despite limited cargoes and a moderate list. Rates in the MEG strengthened, and owners are hopeful for continued momentum into the next week. Both LR1 and LR2 vessels improved, with TC5 reaching nearly WS140. TC16 on the UKC route remained stable around WS125. MR: The MR market experienced a week of mixed outcomes, with UKC rates weakening, but rates outside the USG strengthening due to increased demand and reduced available tonnage. MEG MR vessels have eagerly anticipated the trickle-down effects of LR improvements throughout the week. The TC17 index has maintained stability at WS235 throughout the entire week.
 
 # Tankers S&P Report
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -144,8 +130,6 @@ Tanker 12 months T/C rates average (in USD/day)
 | LR1 | 74,000 | 29,500 | 35,000 | 22,500 | -15.71% | +31.11% |
 | MR | 47,000 | 26,000 | 26,000 | 19,500 | 0 | +33.33% |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # Containers
@@ -164,29 +148,16 @@ The market has recently experienced a decrease in activity. There is a contrasti
 | 2,700 - 2,900 | Gearless | 42 | 38 | 30 | 20 | 15 |
 | 5,500 - 7,000 | Gearless | 92 | 82 *(amount in USD million) | 70 | 45 | N/A |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
-
-DESTINATION TANKERS
-
-ALANG (WC INDIA)
-
-\*CHATTOGRAM, 570~580 BANGLADESH GADDANI, PAKISTAN TURKEY
 
 # Ship Recycling Market Snapshot
 
-BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-500 ~ 510 520 ~ 530 530 ~ 540 STABLE /
-
-560~570 550~560 590 ~ 600 STABLE /
-
-NA NA NA NA NA
-
-310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) \*For green ship recycling, the prices are about US$10-15/ton lower. | 520 ~ 530 | 500 ~ 510 | 520 ~ 530 | 530 ~ 540 | STABLE / |
+| \*CHATTOGRAM, BANGLADESH | 570~580 | 560~570 | 550~560 | 590 ~ 600 | STABLE / |
+| GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
+| TURKEY \*For Non-EU ships. For EU Ship, the prices are about US$20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -204,8 +175,6 @@ NA NA NA NA NA
 | GADDANI, PAKISTAN | 420 | 410 | 305 | 545 | 600 |
 | ALIAGA, TURKEY | 290 | 270 | 175 | 290 | 320 |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -220,8 +189,6 @@ NA NA NA NA NA
 
 # Recycling Ships Price Trend
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
 # Insight
@@ -233,8 +200,6 @@ Alang, India
 The Alang recyclers are experiencing gradual improvements in the supply of ships for green recycling, particularly in the container ship segment, as a number of vessels are being placed on a weekly basis. In the latest development, LNG "Seapeak Polar" a 23,700 tonner, has been placed in the Alang markets for sale as well as six ships weighing a total of 49,045 metric tons in terms of light displacement tonnage have been put up for recycling or further trading sale by Wan Hai. It remains intriguing to see what fate awaits these ships and the levels they will achieve.
 
 The recent sale of another MSC container ship, named "MSC Kerry," has garnered attention as it was reported to have been sold at levels around US$545/ ton, including approximately
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -256,8 +221,6 @@ Chattogram, Bangladesh
 
 The Bangladeshi recycling industry is currently experiencing a notably quiet week, primarily due to a significant power shortage. With only about 25 ~ 30% of power being supplied on a daily basis, the industry's activities have slowed down considerably. This unfortunate situation has resulted in severe disruptions at the recycling yards, leading to sluggish sales. It is important to note that the industry was already facing challenges in terms of weak demand prior to the power shortage.
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 Industry participants anticipate that in the coming months, the markets will gradually adapt to the challenges posed by the Letters of Credit (LC) opening. As inventories begin to dwindle, experts predict that demand will gradually resurface. The reflection of such has already resumed in the imported ferrous scrap. Demand for containerised material has strengthened in the Bangladeshi imported scrap market, although payment issues remain a concern. Prices have started to increase following a recent decline. A ray of hope shines on the horizon for LC openings, presenting a welcome turnaround. After struggling with various hurdles, a handful of ships, previously sold and eagerly awaiting LC approvals, have finally received the green light, enabling their entry into Bangladesh. This recent development has infused the market with a renewed sense of optimism. However, it is important to note that this positive outcome has been limited to a specific group of ship recyclers, leaving others without the same opportunities. This week, in a significant and long-awaited announcement, Bangladesh has granted approval to the Hong Kong Convention for the safe recycling of ships and offshore assets. This move positions Bangladesh as the second sub-continent recycling location, following India, to ratify this convention. After extensive efforts and high-level meetings held in Chattogram just two weeks ago, the cabinet has now given its final approval to the resolution. The ratification will soon be signed into force by the foreign minister and subsequently submitted to the IMO for further action.
@@ -272,8 +235,6 @@ Anchorage & Beaching Position (June 2023)
 | ETERNAL LUCK | BULKER | 7,527 | 14.06.2023 | AWAITING |
 | TIAN HE SHUN | BULKER | 7,349 | 13.06.2023 | AWAITING |
 | JIN YUAN XING 9 | BULKER | 7,576 | 12.06.2023 | AWAITING |
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -298,8 +259,6 @@ Pakistan's ship recycling industry has been unable to make any progress due to t
 Aliaga, Turkey
 
 The Turkish lira's sharp decline to new record lows against the US dollar has captured market attention this week, despite a lackluster sentiment as investors await the upcoming Federal Reserve meeting. With the USD/TRY exchange rate soaring over 7% to exceed 23.50, the Turkish currency continues its downward spiral. Trading activity in the Turkish scrap market has remained slow since the beginning of the week. Mills have halted scrap purchases due to slower steel sales, changes in the Chinese steel market, and an increase in scrap offers in the Turkish market. Most are adopting a wait-and-see approach in these conditions. Market players are concerned about the unstable fundamentals in China, as Chinese exports have already reached record-high levels this year. Additionally, steel sales in the Turkish market are slow this week due to various issues, with credit accessibility being a significant concern. Turkish shipbreaking scrap prices, meanwhile, stood mostly at US$380/t delivered, unchanged from last week.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -336,15 +295,11 @@ Insight
 
 The metals market witnessed a significant rally as expectations grew regarding potential stimulus measures from China. This surge was further bolstered by a positive sentiment prevailing across various markets, triggered by lower-than-anticipated inflation figures in the United States. Among the base metals, copper led the way, propelled by China's decision to reduce its short-term policy interest rate. The People's Bank of China (PBoC) announced a 10 basis point cut in its seven-day reverse repo rate, bringing it down to 1.9%. This move was prompted by weakening credit demand in May, with aggregate financing amounting to CNY1.6 trillion. Additionally, reports indicated that Beijing is contemplating a comprehensive package of stimulus measures aimed at supporting the real estate market. These
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 developments were reinforced by certain supply-side challenges. Aluminum smelters in China have been struggling with reduced hydropower generation caused by a lack of rainfall in Yunnan province. Although recent rainfalls may allow some smelters to resume production, the risk of ongoing constraints remains significant. Concurrently, aluminum inventories have plummeted by approximately 60% since March. Iron ore futures also experienced a notable upswing in response to the prospect of additional support for the property sector by Beijing. The proposed measures are expected to focus on reducing costs associated with outstanding residential mortgages and facilitating lending through policy banks, ensuring the timely completion of housing projects. The State Council is anticipated to discuss these policies soon, although the precise timing of their formal announcement remains uncertain. In the steel sector, the European Commission has announced a five-year extension of antidumping duties on the hot rolled coil(HRC) from China, following a review initiated in 2022. The measures, which include anti-dumping duties of up to 31.3% and anti-subsidy duties of up to 35.9%, will continue to be enforced. The decision to maintain these measures is based on the Commission's assessment of the recurrence of dumping, the recurrence of injury, and the interest of the European Union. This move aims to protect the European market from unfair trade practices in the steel sector. This is not welcoming news for the Chinese steel sector, which is already facing tremendous pressure within and exports.
 
 MS 1/2 & Tangshan Billet
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

@@ -22,8 +22,6 @@ pages: 20
 
 The Red Sea shipping corridor is seeing a period of tentative stability, though underlying geopolitical tensions persist. While Hamas's reaffirmation of its commitment to the Gaza ceasefire has temporarily reduced the immediate threat of Houthi attacks on vessels, maritime traffic through the Bab el-Mandeb Strait remains below pre-crisis levels. Operator's cautious approach echoes ongoing concerns about regional stability. Adding to the complex maritime landscape, President Trump's recent directive on reciprocal tariffs has introduced new uncertainties to global trade. The proposed country-by-country tariff system, which could be implemented as early as April, aims to address what the administration perceives as unfair trade practices by major partners including the EU, Japan, and South Korea. This would cover various sectors including automobiles, semiconductors, and pharmaceuticals, marking a significant shift in U.S. trade policy. The market's initial response to these developments has been cautiously optimistic, with traders interpreting the gradual implementation timeline as an opportunity for negotiations. However, Trump's assertion that the tariffs would apply "across the board" without exemptions has raised concerns about potential impacts on global supply chains and consumer prices. The proposed reciprocal tariff system represents a fundamental departure from longstanding U.S. trade policy and the "most favored nation" principle that has governed global trade since the 1940s. While the administration argues this approach will create fairer trade conditions and boost U.S. economic interests, economists caution that trade deficits reflect broader macroeconomic factors beyond tariff disparities, including household consumption patterns, the dollar's reserve currency status, and global demand for U.S. assets.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ Market conditions in the Pacific improved slightly as rates hit OPEX levels, tri
 Panamax/Kamsarmax:
 
 The Atlantic market continues to experience downward pressure as persistent weak demand reinforces the supply-dominant structure. In contrast, the Pacific market demonstrates more resilient fundamentals, maintaining a generally positive atmosphere, supported by steady inflows of both coal and grain cargoes. Pacific r/v ended the week at US$8,600's a day.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ Handy segment saw a positive uptick across both basins with BHSI closing at 18.5
 | HANDY | 38,000 | 25 | 27 | 20 | 15 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -81,8 +75,6 @@ Handy segment saw a positive uptick across both basins with BHSI closing at 18.5
 | ENABLE | HMAX | 48,910 | 2001 | CHINA | 6.25 | UNDISCLOSED |
 | UNITY NORTH | HANDY | 37,614 | 2015 | JAPAN | 16.6 | GREEK BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -96,8 +88,6 @@ MEG saw rates this week fell to WS59 for trip to China. Freight rates closed low
 Suezmax:
 
 The West African market slipped slightly as demand in the USG improved. 130,000mt Nigeria/UKC fell to WS88. This performance was primarily attributed to Mediterranean and Black Sea market vibrancy, which led to an overall reduction in European regional vessel supply. 135,000mt CPC/Med climb 5 points this week to WS104.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -117,8 +107,6 @@ disruptions and sustained demand growth. In the MEG, TC17 to East Africa held at
 
 ## Baltic Exchange Tanker Indices
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -134,8 +122,6 @@ disruptions and sustained demand growth. In the MEG, TC17 to East Africa held at
 ## Containers
 
 Global shipping markets face mounting pressure as post-Lunar New Year demand softens and uncertainty over U.S. trade policies persists. Container rates continue their sharp decline, with the Drewry Container Index dropping 5% to US$3,095 per FEU, though remaining significantly above pre-pandemic levels, while the SCFI hit new lows not seen since before the Red Sea crisis, down another 6% w-o-w to 1,758. Intensified competition among shipping alliances, particularly in Mediterranean routes, coupled with broader economic concerns including European manufacturing slowdown and reduced Asian cargo volumes, continues to exert downward pressure on global freight rates.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -155,29 +141,16 @@ S&P Containers Report
 | DELPHIS FINLAND / DELPHIS GDANSK / DELPHIS RIGA | FEEDER | 1,924 | 2016 /2017 | S. KOREA | 120.0 | CMA CGM |
 | HS HONG KONG | FEEDER | 1,096 | 2019 | JAPAN | 21.0 | JIN JIANG SHIPPING CORP |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 450 ~ 460 430 ~ 440 440 ~ 450 460 ~ 470 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | WEAK / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 300 ~ 310 290 ~ 300 330 ~ 340 STABLE /
-
-*Ship, the prices are about USD 20-30/tonon less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 450 ~ 460 | 430 ~ 440 | 440 ~ 450 | 460 ~ 470 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | WEAK / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/tonon less | 320 ~ 330 | 300 ~ 310 | 290 ~ 300 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -194,8 +167,6 @@ TURKEY
 | GADDANI, PAKISTAN | 360 | 410 | 615 | 560 | 530 |
 | ALIAGA, TURKEY | 230 | 240 | 360 | 320 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -210,19 +181,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
 Insights
 
 Trump's announced 25% tariffs on steel and aluminum imports could trigger significant ripple effects across global steel markets and trade dynamics. Given that the U.S. is a major steel consumer and relies heavily on imports from Canada, Brazil, and Mexico, these protectionist measures could fundamentally reshape supply chains and pricing structures. The immediate implications for global steel markets could be substantial. The announcement is likely to cause price volatility in steel markets worldwide, as exporters who previously targeted the U.S. market may need to redirect their volumes to alternative destinations. This could potentially lead to oversupply in other regions, particularly in Asia and Europe, where markets are already struggling with overcapacity issues. Moreover, the announcement's timing coincides with ongoing global concerns about overcapacity in the steel industry, particularly as China's property sector struggles continue to impact global steel demand. For the recycling markets, these tariffs could create new opportunities but also challenges. Higher domestic steel prices could make recycled steel more attractive, potentially benefiting the ship recycling sector. However, the broader market uncertainty
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -231,8 +196,6 @@ and potential trade retaliation from affected countries could lead to more compl
 Alang
 
 India's market continues with a period of subdued activity, depicted by low demand for both scrap and vessels, though the sector shows remarkable preparedness for upcoming European Union regulatory changes. At the recent Steel Scrap 2025 conference, Zain Nathani, managing director of Nathani Group spoke about how India has secured full government backing and proactively addressed initial EU requirements regarding scrap grade specifications, positioning itself well ahead of the 2027 Waste Shipment Regulation implementation. Despite current market challenges and a disappointing union budget that offered limited relief, the long-term outlook shows promise with several strategic initiatives underway. The extension of the Extended Producer Responsibility (EPR) principle could significantly boost domestic scrap supply, particularly if applied to the steel and automotive sectors. This week, The Central Board of Indirect Taxes and Customs (CBIC) is assessing the imposition of a safeguard duty on steel imports to counter a surge in low-cost supplies, particularly from China. This review follows the government's recent overhaul of the customs duty framework, which reduced the average duty rate from 11.66% to 10.66% to align with ASEAN levels. With domestic steel manufacturers facing price pressures and increased competition, authorities are considering a safeguard duty of 15-25% to protect local producers from unfair trade practices. The move comes as global steel markets experience heightened volatility, with concerns over dumping from Chinese suppliers.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -264,8 +227,6 @@ Anchorage
 | LEAN | LNG |  | 29,180 | 27.01.2025 | 05.02.2025 |
 | GOU YUAN 9 | BULKER |  | 9,205 | 22.01.2025 | 02.02.2025 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Gadani
@@ -277,8 +238,6 @@ Anchorage & Beaching Position (FEBRUARY 2025)
 Aliaga, Turkey
 
 Turkey's market remains stagnant, with shipbreaking scrap prices holding steady at US$340-355 per ton delivered, though most mills are clustering at the higher end of this range. The broader market sentiment remains wary amid ongoing debates about the potential impact of US tariffs on scrap supply and pricing, while Turkish mills exercise prudence in their scrap purchases due to weak steel sales. The situation is further nuanced by Turkey's shifting trade patterns. Exports to the EU, which surged 80% last year, are now potentially under threat, though new regulations easing restrictions on Syrian trade could offer some relief. Despite expectations of a pre- Ramadan demand surge in the coming weeks, current market conditions remain quelled.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -315,8 +274,6 @@ Sub-continent and Turkish ferrous scrap markets saw moderate gains over the past
 
 India's imported scrap market saw marginal price increases, but buying interest remained muted due to slow finished steel sales and a depreciating rupee against the U.S. dollar. UK-origin shredded scrap rose 2% w-o-w to US$380/ton CFR from US$373/ton, though higher import costs and competitive domestic alternatives deterred buyers.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 ### Pakistan: Procurement Increases Ahead of Ramadan
@@ -331,8 +288,6 @@ Bangladesh's imported scrap market remained sluggish despite a 1% w-o-w price in
 
 Turkey's imported scrap market posted a 2% week-on-week (w-o-w) increase, with HMS (80:20)-US, CFR climbing to US$360/ton from US$354/ton. Recyclers maintained firm offers, slowing restocking efforts by mills, while weak rebar demand kept buyers cautious. A key U.S.-origin deal pushed prices higher, prompting Baltic-origin sellers to raise offers, though European recyclers were more flexible, with HMS offers in the US$350-358/ton CFR
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 range. U.S. recyclers remained bullish, supported by strong domestic demand and the introduction of new tariffs on steel and aluminium imports. Despite the price uptick, Turkish mills resisted further hikes. Rebar prices edged up to US$565/ton FOB, but sluggish demand limited buying interest. Market participants closely monitored developments on U.S. tariffs, with expectations that scrap prices may stabilize in the coming weeks.
@@ -342,8 +297,6 @@ range. U.S. recyclers remained bullish, supported by strong domestic demand and 
 ## Commodities
 
 This week, copper gains as Risk-On Sentiment Strengthens Amid Economic Optimism. Copper prices edged higher this week, buoyed by renewed risk appetite following the prospect of peace talks between Russia and Ukraine. Despite lingering economic uncertainties, including U.S. tariffs and China's sluggish property sector, the industrial metal continues to rally, with prices up nearly 7% year-to-date. Market dynamics suggest that demand-side factors are driving the surge. In China, key economic indicators have shown resilience-retail sales and industrial production are on the rise, while manufacturing activity has returned to expansion territory, supported by government stimulus measures. Signs of a recovery in other major developed economies further reinforce hopes of an industrial-led rebound, contributing to stronger copper demand.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

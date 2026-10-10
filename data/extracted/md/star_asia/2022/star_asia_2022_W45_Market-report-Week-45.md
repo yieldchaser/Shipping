@@ -32,8 +32,6 @@ Two big news lifted the sentiments and stock markets. In the U.S. softer than ex
 
 In the second week of November, Capesize rates have found a low not seen in five years albeit temporarily. Due to the numerous variables at play, it is challenging to estimate how the market will perform over the next few weeks. Given the seasonal structure of the market and the persisting demand patterns, it is fair to say that Capesize rates will recover during last few weeks of the year. However, the biggest threat that will deviate from the historical trends are this year's extraordinary market conditions. At the moment, the whole outlook is dependent on evidence of a somewhat economic recovery. Now, the whole outlook is dependent on evidence of a somewhat economic recovery. Meanwhile, iron ore futures rose as China eased some covid-19 limits after its new leadership stressed the need to contain disease transmission. Steel prices rose after the government's announcement. However, China's ferrous complex increases were not enough to support the market. As a result, iron ore demand in the country is anticipated to remain low in the coming months. This is because the nation's steel mills are already decreasing production. The government aims to introduce winter output limitations to reduce iron ore demand.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 #### Capesize:
@@ -64,8 +62,6 @@ Similar to the other categories, the Handy segment lost steam. The Asian market 
 
 day while Pacific r/v closed at US$ 9,500's. Overall market outlook remains pessimistic. T/A route also saw a decline as levels settled in the region of US$12,700 a day.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 3
 
 # Dry Bulk - S&P Report
@@ -92,8 +88,6 @@ day while Pacific r/v closed at US$ 9,500's. Overall market outlook remains pess
 
 # Baltic Exchange Dry Bulk Indices
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
 
 #### BALTIC EXCHANGE DRY BULK INDICES
@@ -118,8 +112,6 @@ CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %
 
 Despite occasional price surges, the weekly losses were projected to continue as concerns about global supplies remained. On the plus side, China is poised to relax its Covid
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 5
 
 limitations. However, the market's price fears were only briefly alleviated, as the pandemic is projected to continue in the country. Oil prices fell daily for most of the week as concerns about global supplies remained. Because of the growth in U.S. crude oil supplies and fears over China's restrictions, the weekly loss for oil might exceed 4%. Traders are concerned about lockdowns in the big oil importer country. This could momentarily limit the top-side objectives of the market. Despite the news, the market is still in a better position than it was at the start of the week. In other news, U.K. Treasury will not allow British insurers to cover Russian oil ships after December 5. By December 5, tanker owners flying any E.U. flag or carrying P&I insurance from an E.U. or U.K. club cannot have Russian crude oil onboard unless Russia sells the petroleum to the buyer at or below a price cap advocated for by G7. More than 90% of the world's insurers will shun Russian-linked crude tanker contracts next month when the U.S. joins the ban. The tanker ban legislation will initially only apply to crude oil exports but will be expanded to cover refined products on February 5.
@@ -139,8 +131,6 @@ The market rise was driven by the decline in available vessels in the Middle Eas
 #### Clean:
 
 The LR1 segment is currently tight with rates on the UKC-WAF route rising to WS220. This week however, MEG remained stable with little deviations. LR2s TC1 bottomed out WS170.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 6
 
@@ -184,8 +174,6 @@ Baltic Exchange Tanker Indices
 | 1,894 | 1,836 | 835 | +3.16 | +126.83 |
 | 1,340 | 1,199 | 607 | +11.76 | +120.76 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 7
 
 | TYPE | DWT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) CURRENT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST WEEK | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST YEAR | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) W-O-W CHANGE | Y-O-Y CHANGE |
@@ -210,8 +198,6 @@ index hit a record high of 5,000. Week on week, smaller discounts will be witnes
 
 the container segment.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 8
 
 # Containers S&P Report
@@ -228,32 +214,21 @@ the container segment.
 | 5,500 - 7,000 | Gearless |  | 85 | 115 | 95 | 77 | N/A |
 | *(amount in USD million) |  |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 550 ~ 560 | 530 ~ 540 | 520 ~ 530 | 580 ~ 590 | STABLE / |
+| CHATTOGRAM, BANGLADESH | \*560 ~ 570 | \*540 ~ 550 | \*530 ~ 540 | \*600 ~ 610 | STABLE / |
+| GADDANI, PAKISTAN | 520 ~ 530 | 510 ~ 520 | 490 ~ 500 | 570 ~ 580 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 290 ~ 300 | 280 ~ 290 | 270 ~ 280 | 310 ~ 320 | STABLE / |
 
-CHATTOGRAM,
-
-BANGLADESH \*560 ~ 570 \*540 ~ 550 \*530 ~ 540 \*600 ~ 610 STABLE /
-
-GADDANI, PAKISTAN 520 ~ 530 510 ~ 520 490 ~ 500 570 ~ 580 STABLE /
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 290 ~ 300 280 ~ 290 270 ~ 280 310 ~ 320 STABLE /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Chattogram prices are based on a case-to-case and subject to Letters of Credit opening.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Chattogram prices are based on a case-to-case and subject to Letters of Credit opening.
 
 # 5-Year Ship Recycling Average Historical Prices
 
@@ -265,8 +240,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 | CHATTOGRAM, BANGLADESH | 395 | 445 | 340 | 360 | 620 |
 | GADDANI, PAKISTAN | 405 | 440 | 350 | 370 | 610 |
 | ALIAGA, TURKEY | 210 | 280 | 240 | 205 | 290 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 10
 
@@ -280,8 +253,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 
 # Recycling Ships Price Trend
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 11
 
 # Insights
@@ -291,8 +262,6 @@ Chinese Exports and imports unexpectedly declined for the first time in almost t
 #### ALANG, INDIA
 
 After a rough start in November, with negative sentiments haunting the steel markets, some respite was seen this week as to where the U.S. dollar strength is concerned. The INR strengthened by about 2.78%, closing at INR80.60 levels, below INR81 this week in the backdrop of better than expected U.S inflation report. This has brought back some optimism amongst the importers. This week the domestic ship scrap markets took a plunge, with prices of melting ship scrap dropping by 12.73% and ship plates prices by 1 .5% M-O-M due to the relentless arrival of bulk scrap shipments on a weekly basis in India. Overall, sentiments in the recycling industry were weakening as cheaply available alternatives were driving the domestic scrap markets down. Ship recyclers preferred to stay cautious and conservative offers were bidding for fresh ships despite decent demand. Overall, the ship prices remain stable, but the markets in Alang are now divided, with prices offered by each recycler having a significant differential. The markets have turned on the *"View to offer" mode.*
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 12
 
@@ -309,8 +278,6 @@ After a rough start in November, with negative sentiments haunting the steel mar
 #### CHATTOGRAM, BANGLADESH
 
 Despite moderate demand at the current pricing, markets remained stagnant. The banking troubles persist, and the recyclers' efforts to convince the banks to open Letters of Credit are futile. A perfect tussle between the recyclers and the banks. On the one hand, the banks want the recyclers to fulfill their obligations by continuing to buy and utilising the banking lines provided, while on the other hand, the banks refrain from opening Letters of Credit. The ships lately purchased by the ship recyclers are reaping the benefits of the rising local markets as the ferrous scrap inventories deplete and no fresh import of ferrous scrap takes place due to L.C. issues. Several ship owners and cash buyers were caught in the dramatic situation between the recycler and the bank. The ships sold in the past are en route to Chittagong, oblivious to the uncertain outcome of acquiring Letters of Credit. This week, International Monetary Fund reached a preliminary agreement to provide Bangladesh with a US$4.5 billion support package to help Bangladesh to cope with soaring energy and food prices. Bangladesh plans to use the IMF loan to prop up its foreign exchange reserves, which have nosedived from US$46 billion to US$34 billion. From a bird's-eye view, the government has slammed the brakes on major infrastructure projects and subtly indicated on November 8 that the various authorities involved should not pursue any megaprojects and instead concentrate on rural development and public welfare. It was further mentioned, "the luxury projects can't be taken up. But small rural projects or welfare-oriented projects cannot be compromised. Mega projects can't be undertaken." Market participants have interpreted this as governments rationing funds to avoid extreme scarcity. Industry experts believe that the demand for cement and steel will be quiet in the coming months.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 13
 
@@ -341,8 +308,6 @@ Markets remained muted with no buying interest. Recyclers were happy staying on 
 #### ALIAGA, TURKEY
 
 Despite the decrease in import prices, the buying prices of scrap in Turkey have not changed. Due to the high cost of energy and the decline in steel prices, several manufacturers are considering importing inexpensive steel, with some also considering ceasing operations.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 14
 

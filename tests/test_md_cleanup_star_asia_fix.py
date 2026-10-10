@@ -304,3 +304,13 @@ def test_apply_without_promote_is_rejected(monkeypatch):
     monkeypatch.setattr("sys.argv", ["star_asia_fix", "--apply"])
     with pytest.raises(SystemExit):
         sf.main()
+
+
+def test_orphan_rule_keeps_commentary_that_shares_words_with_cells(monkeypatch):
+    _patch_pdf(monkeypatch, {})
+    text = "\n".join(["## Page 10", "", "Alang", "", "Prices are about the ships", "",
+                      "# Ship Recycling Market Snapshot", "", "| x |", "|---|", "",
+                      "- All prices are USD per light displacement tonnage in the long ton.", ""])
+    new, changes, _ = sf.fix_document(text, FakeDoc(range(15)))
+    assert "Alang" in new.split("\n") and "Prices are about the ships" in new.split("\n")
+    assert not [c for c in changes if c["class"] == "snapshot_orphan"]

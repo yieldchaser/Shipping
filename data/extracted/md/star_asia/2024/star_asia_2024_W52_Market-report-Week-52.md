@@ -24,8 +24,6 @@ pages: 18
 
 Once again, Chinese data made headlines this week, with China's Industrial Profits Declining for the Fourth Straight Month, which was the sharpest annual decline since records began in 2000. China's industrial profits fell 7.3% year-on-year in November, marking a fourth consecutive monthly decline, according to the National Bureau of Statistics said in a statement on Friday. While the drop reflects continued pressure on corporate earnings, it was less severe than October's 10% slump and the 27.1% plunge in September - the sharpest fall since March 2020. From January to November, industrial profits fell 4.7% compared to the same period last year, widening from a 4.3% drop recorded in the first 10 months of 2024. Mining industry profits plunged 13.2% year-on-year, and manufacturing profits declined 4.6%, while the utilities sector showed resilience with a 10.9% profit increase. Despite policy interventions, broader economic indicators highlight lingering challenges. Consumer inflation hit a five-month low in November, and retail sales, exports, and imports missed expectations. However, manufacturing activity expanded for the second consecutive month, reaching a five-month high. The World Bank revised its GDP growth forecast for China to 4.9% in 2024, up from 4.8%, reflecting optimism about the impact of recent policy shifts. Still, the embattled property sector and subdued confidence remain significant hurdles to sustained recovery. China is poised to achieve its growth target of around 5% this year, supported by emerging signs of economic recovery. However, new challenges are on the horizon as Donald Trump prepares to take office next month. His proposed steep tariffs on Chinese goods pose a significant threat to China's export sector, which is already under pressure from rising trade barriers in key markets like the European Union.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -43,8 +41,6 @@ The Atlantic, while lacking strong upward momentum, is finding support from posi
 Handysize:
 
 Not much activity was recorded during this period of holidays. The handy segment did
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -86,11 +82,7 @@ see slight activity in the Pacific, but the Atlantic remains mostly muted. BHSI 
 | ZEIN | SMAX | 52,402 | 2001 | JAPAN | 7.0 | UNDISCLOSED |
 | MOMO GLORY | HANDY | 28,222 | 2014 | JAPAN | 12.0 | GREEK BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -113,8 +105,6 @@ MEG closed lower despite expectations for new cargo flows before the New Year. T
 Clean:
 
 Despite the holiday season, MEG saw an increase in LR2 vessel availability due to lowerthan-expected charter demand. Rates trended downward as owners offered discounts amid concerns about diminished activity during this season. Meanwhile, MR in the Far East closed firm, with available vessels quickly being absorbed by regional cargo flows.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -147,11 +137,7 @@ Tankers S&P Report
 | MONAX / MARMOTAS | PROD / CHEM | 20,762 | 2005 | JAPAN | 31.2 (SS) | TUFTON |
 | DH HONESTY | PROD / CHEM | 13,148 | 2021 | CHINA | 25.6 (SS) | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -161,29 +147,16 @@ Trans-Pacific routes present a mixed picture. The West Coast is seeing rate incr
 
 ## Containers S&P Report
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 470 ~ 480 450 ~ 460 440 ~ 450 480 ~ 490 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 470 ~ 480 460 ~ 470 | 440 ~ 450 | 480 ~ 490 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 340 ~ 350 350 ~ 360 370 ~ 380 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 470 ~ 480 | 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 470 ~ 480 | 460 ~ 470 | 440 ~ 450 | 480 ~ 490 | STABLE / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 340 ~ 350 | 350 ~ 360 | 370 ~ 380 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -200,8 +173,6 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 800 | 580 | 520 |
 | ALIAGA, TURKEY | 270 | 210 | 300 | 300 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -217,11 +188,7 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -232,8 +199,6 @@ The ship recycling markets in the Sub-Continent ended the year on a positive not
 Alang, India
 
 The Sub-Continent ship recycling markets held steady this week, with domestic recycling prices maintaining their stability and helping restore confidence among industry participants. This stability, coupled with key sales, has sparked renewed optimism in the sector.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -258,8 +223,6 @@ Chattogram, Bangladesh
 
 The ship recycling market demonstrated sustained strength this week as domestic ship scrap prices inched upward, bolstered by improving local demand. This marks a notable shift following a period of stagnation since the interim government assumed office. The gradual price recovery reflects a combination of factors, including increased activity from local steel mills seeking raw materials and enhanced confidence in the economic outlook.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 However, the market's upward trajectory remains cautious as challenges such as fluctuating global steel prices could influence momentum in the coming weeks.
@@ -281,8 +244,6 @@ Anchorage & Beaching Position (DECEMBER 2024)
 Aliaga, Turkey
 
 The Turkish hot-rolled coil market continues to experience weak demand. Export activity remains subdued due to the winter holiday season. Turkish mills, meanwhile, are adjusting their February delivery prices upward, citing recent increases in scrap values and production costs. Despite these price hikes, Turkey's fourth-quarter EU tariff quota for HRC remains underutilised at 33% of the allocation, reflecting the broader market challenges. The ship recycling market remains quiet, with not much activity to report.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -327,8 +288,6 @@ exhibited cautious sentiment this week, as India,
 
 liquidity constraints, and economic hurdles
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Market activity remained subdued, with some yards temporarily halting operations until after the festive period. Indicative offers for shredded scrap from the UK/Europe and the US ranged between US$380-385/ton CFR Nhava Sheva, while HMS (80:20) offers were at US$360-365/ton CFR from the UK and US$365-370/ton CFR from West Africa. A supplier noted, "Current offers for shredded scrap are around US$375-380/ton, but buyer interest remains limited. We anticipate prices to rise by at least US$10/ton post-holidays."
@@ -345,8 +304,6 @@ Bangladesh's imported scrap market struggled under the weight of LC delays, bank
 
 The Turkish imported ferrous scrap market was largely inactive this week, with no firm offers or bids reported. Market participants remain on the sidelines, awaiting clearer price signals to guide trading activity.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 ## HMS 1/2 & Tangshan Billet
@@ -356,8 +313,6 @@ The Turkish imported ferrous scrap market was largely inactive this week, with n
 **Iron ore prices have fallen below the psychological US$100 per ton mark, reaching their**
 
 lowest level in over five weeks, amid persistent concerns about China's economic health. While Chinese steelmakers showed some improvement in profitability last month, the broader industrial sector continues to struggle, with November marking the fourth consecutive month of profit declines. The commodity has experienced a significant 29% decline this year, primarily due to China's prolonged economic slowdown and troubled property sector, despite repeated government intervention attempts. Adding to the downward pressure, major suppliers Australia and Brazil have increased their output, further weakening the market fundamentals. In Singapore trading, iron ore futures touched US$98.95 per ton, setting up for a second consecutive weekly loss, while Shanghai steel futures also weakened. Meanwhile, base metals showed mixed performance, with copper gaining 0.5% on the London Metal Exchange following a two-day holiday break, while aluminium and zinc both declined by 0.5%.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

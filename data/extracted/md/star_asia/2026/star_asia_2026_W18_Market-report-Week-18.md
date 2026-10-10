@@ -22,8 +22,6 @@ WEEK 18 - May 5, 2026
 
 The United Arab Emirates' exit from OPEC, effective May 1, introduces a significant shift in global oil supply dynamics, coinciding with heightened geopolitical tensions across the Middle East. As outlined in recent developments, the blockage of the Strait of Hormuz continues to constrain flows, with roughly one-fifth of global oil and LNG trade disrupted, driving Brent crude toward $108 per barrel. The UAE's departure weakens OPEC's collective supply management, potentially encouraging more independent production strategies among key producers. While OPEC+ has signaled a modest supply increase, implementation remains largely symbolic amid ongoing logistical constraints. For tanker markets, the outlook remains constructive but volatile. Incremental UAE exports, particularly via Fujairah, may support VLCC demand and offer partial routing flexibility. However, continued disruption at Hormuz, coupled with evolving trade patterns such as Red Sea diversions and multimodal Gulf logistics, is contributing to heightened freight rate volatility and increased operational complexity across crude and product tanker segments. US President Donald Trump indicated he will review Iran's latest peace proposal while maintaining the option of renewed military action, underscoring continued geopolitical uncertainty across the Middle East. Iran's proposal reportedly outlines a phased framework, including a one month timeline to negotiate the reopening of the Strait of Hormuz and a cessation of hostilities, followed by further discussions on its nuclear program. Despite tentative diplomatic signals, scepticism remains on both sides, with Washington expressing dissatisfaction over the terms presented. The conflict, which escalated following US-Israeli airstrikes in late February, has resulted in significant casualties across Iran and Lebanon and continues to disrupt regional stability. The closure of Hormuz, a critical artery for approximately one-fifth of global oil and LNG flows, remains the central pressure point for energy and shipping markets. Oil prices have surged, with Brent crude holding near $108 per barrel, while US gasoline prices have climbed sharply, amplifying political and economic pressures domestically.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -35,8 +33,6 @@ Capesize: The Capesize market remains resilient despite a slight dip in average 
 Panamax/Kamsarmax: The Panamax market saw a sharp regional split, as robust coal and mineral demand in Asia pushes the Indonesian round voyage rate to US$19,550's. While the Pacific remains better balanced ahead of the Golden Week holidays, the Atlantic is struggling with an oversupply of vessels and limited fresh inquiry, leading to a dip in T/A earnings to US$15,175's.
 
 Supramax/Ultramax: Supramax saw a surge in regional coal demand across SE Asia, helping the sector realise a Pacific-centered recovery that drove contract prices higher. While Pacific R/V rates softened slightly to US$17,600's, the Atlantic remained supportive with F/H earnings climbing to US$23,795 due to persistent strength in South American and USG waters. The outlook remains focused on Asia's ability to maintain this momentum, especially as charterers prioritise modern tonnage for short/medium term employment amid fluctuating bunker costs.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -57,8 +53,6 @@ Handysize: Handysize continues to show constructive conditions as owners maintai
 | ULTRAMAX | 64,000 | 35 | 42 | 35 (E) | 28 | 18 (56K) |
 | HANDY | 38,000 | 30 | 36 | 28 | 21 | 17 |
 | *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -82,8 +76,6 @@ Handysize: Handysize continues to show constructive conditions as owners maintai
 | FEDERAL YUKON | HANDY | 36,563 | 2000 | JAPAN | 6.0 | UNDISCLOSED |
 | KS GRACE | HANDY | 36,320 | 2014 | JAPAN | 16.95 | GREEK BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -93,8 +85,6 @@ The tanker market is currently witnessing a historic realignment of trade routes
 VLCC: The VLCC market closed higher this week as a shortage of Middle East supply, driven by the mass departure of vessels to other regions, offset the ongoing deadlock in peace negotiations. While competition is intensifying for remaining trading options and pressure builds in the East, the outlook remains strong and stable as owners continue to prioritize cargoes outside the volatile Persian Gulf. 270,000mt MEG/China close around WS408 while WAFR/China close at WS132.
 
 Suezmax: Suezmax rates in West Africa surged as the blockade of the Strait continues to force long-distance supply chain restructuring and reduce global vessel efficiency. European refiners are increasingly competing for West African crude as a substitute for Middle Eastern grades, keeping demand firm even as the tonnage list remains relatively balanced. Nigeria/UKC ended the week slightly lower from last at WS212.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -125,8 +115,6 @@ Y-O-Y CHANGE +153.64% +236.30%
 | MR | 51,000 |  | 50 | 57 | 46 (E) | 37 | (E) | 28 |
 | *(amount inUSD | million) | \ | (E)-ecounits |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 # Tankers S&P Report
@@ -148,8 +136,6 @@ Y-O-Y CHANGE +153.64% +236.30%
 | KRISTEN MAERSK | MR | 39,729 | 2010 | CHINA | 22.0 | UNDISCLOSED |
 | VS REMLIN | MR | 34,500 | 2003 | CHINA | 6.0 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 # Containers
@@ -167,29 +153,18 @@ The container market observed a slight softening this week as the SCFI index dip
 
 S&P Containers Report
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS / WEEKLY
-
-GENERAL CARGO FUTURE TREND
-
-ALANG (WC INDIA) 420 ~ 430 410 ~ 420 400 ~ 410 450 ~ 460 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 480 ~ 490 470 ~ 480 | 440 ~ 450 | 500 ~ 510 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
-
-TURKEY
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 420 ~ 430 | 410 ~ 420 | 400 ~ 410 | 450 ~ 460 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 480 ~ 490 | 470 ~ 480 | 440 ~ 450 | 500 ~ 510 | STABLE / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 300 ~ 310 | 290 ~ 300 | 270 ~ 280 | 310 ~ 320 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -206,8 +181,6 @@ TURKEY
 | GADDANI, PAKISTAN | 530 | 670 | 0 | 530 | 460 |
 | ALIAGA, TURKEY | 250 | 420 | 310 | 320 | 280 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -218,19 +191,13 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 Alang faced significant headwinds this week, primarily as a result of the Indian Rupee reaching a new historic low against the U.S. Dollar. The currency weakened to approximately 94.71, surpassing previous record lows and directly forcing local purchase prices downward to compensate for the higher cost of foreign exchange. This depreciation is largely attributed to a fundamental supply shock in energy imports, as shipping through the Strait of Hormuz remains at only 4% of normal levels, driving up the cost of crude and LPG. Despite these challenging economic fundamentals, the mood among recyclers remains cautiously optimistic, with many displaying a resilient belief that market conditions will improve in the near future. However, a persistent and severe shortage of available vessels continues to stall overall momentum, making transactional activity limited. Market participants are being highly selective, waiting for currency stability and a more favourable alignment of prices before committing to fresh tonnage.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -250,8 +217,6 @@ Gadani
 Gadani maintained a consistent pace with operational conditions remaining largely unchanged from the previous period. While overall activity levels have a more reserved sense of engagement with a lack of major new transactions, the region is benefiting from structural advantage in its currency. The Pakistani Rupee has emerged as the most stable major currency within the recycling basin, providing a reliable foundation for local buyers.
 
 Local steel plate prices have held firm at PKR 188,000 per ton, and due to the marginal strengthening of the rupee, the valuation in international terms has improved slightly to approximately US$674 per ton. Although the market is experiencing a period of easing demand, this stability allows Gadani to maintain its competitive standing in the subcontinent as it waits for a more active flow of incoming tonnage.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -284,8 +249,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 278.77 | 278.9 | +0.05% |
 | USD / TRY (TURKEY) | 45.24 | 45.01 | -0.51% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
@@ -296,8 +259,6 @@ Pakistan In contrast to its neighbours, the Pakistani market demonstrated resili
 
 Turkiye The Turkish deep-sea imported scrap market held steady on 1 May, with a persistent gap between seller expectations and buyer bids. US-origin HMS 80:20 offers were reported in the US$415~420/t CFR range, while Turkish mills showed resistance by placing bids at
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 US$412/t. This range-bound sentiment is a direct result of weak downstream rebar demand, which has eroded confidence in the sustainability of further price hikes. Nevertheless, elevated freight rates from both the US and the EU continue to provide a floor for offer levels, ensuring the market remains firm even as trading volume remains selective.
@@ -307,8 +268,6 @@ HMS 1/2 & Tangshan
 # Commodities (Week infocus)
 
 The global copper market is at a strategic crossroads, as international tensions and the needs of modern technology reshape long-term expectations. While American copper futures recently adjusted to approximately US$5.95 per pound after reaching a historical peak of US$6.12 on April 22nd, prices stay remarkably high due to a projected demand surge of 50% by 2040. This massive growth, estimated at 42 million metric tons, is primarily fuelled by the rapid expansion of A.I. data centres and the transition toward green energy grids. Recognising these pressures, the United States officially categorised the metal as a vital resource for national security in early 2025 to address its heavy reliance on international production. Supply chain vulnerabilities have become more pronounced as regional conflicts disrupt the specialised chemicals needed for metal processing. A recent decision by China to prohibit the export of sulfuric acid starting in May 2026 has placed 200,000 tons of Chilean copper output at risk, representing roughly 1% of the total global market. Because half of Chile's refining process depends on these imports, and since China manages
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

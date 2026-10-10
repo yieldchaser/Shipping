@@ -22,8 +22,6 @@ pages: 19
 
 China is concluding 2025 with an elevated international profile and a confidence boost, highlighted by its role as the first major economy to retaliate against U.S. tariffs and its increasing leverage of rare earth minerals. Domestically, Chinese tech companies have successfully circumvented U.S. chip restrictions to release cost-effective artificial intelligence models that pose a credible challenge to expensive American offerings, contributing to improving global perceptions of the nation. However, the same degree of confidence does not appear to permeate the broader domestic economy, which faces significant structural challenges that China's top leaders are expected to address next week at the annual Central Economic Work Conference, where they will discuss policy plans for 2026. Economists are currently monitoring three primary issues that are dragging on the economy, starting with the property sector, where woes have worsened throughout the year, recently centering on the financial struggles of Vanke. Once a leading developer, Vanke is now seeking to delay the repayment of a significant onshore bond due this month, a situation that prompted S&P Global Ratings to downgrade the company's debt, further eroding homebuyers' already fragile confidence and threatening to drag down nationwide sales. The second and third major drags involve consumption and deflation, both of which policymakers signaled a greater resolve to address after a planning meeting in late October. Although several ministries released a sweeping, supply-side plan last week to develop consumer industries across electronics and sporting goods, its effectiveness is questionable, as Goldman Sachs noted a lack of clear funding and implementation details, emphasising that sustained consumption growth will require policy support for job creation and income gains. This deflationary environment has discouraged domestic investment, with analysts suggesting that the bad loan ratio for households has alarmingly exceeded the corporate ratio, signaling fundamental stress that policymakers may need to address with stepped-up policy support in the spring to ensure a strong start to the upcoming five-year plan.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -41,8 +39,6 @@ Panamax market remains generally flat with sluggish trading across most routes i
 Handysize:
 
 Handy market overall saw a positive week with rates in both Atlantic and Pacific improving. In the Pacific, the busy year-end fixture for Indonesian cargoes saw Inter Pacific rates climb
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ to US$10,800's a day at closing. In the Atlantic, similar gains was also observe
 | HANDY | 38,000 | 30 | 33 | 25 | 18 | 14 |
 | *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -85,8 +79,6 @@ to US$10,800's a day at closing. In the Atlantic, similar gains was also observe
 | SHIMANAMI STAR | HANDY | 28,447 | 2006 | JAPAN | 6.7 | CHINESE BUYERS |
 | TRAWIND DOLPHIN | HANDY | 33,686 | 2012 | JAPAN | 13.8 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -104,8 +96,6 @@ WAFR saw a temporary burst of activity at the start of week with the introductio
 Aframax:
 
 MEG reached a high this week fueled by strong margins for refiners in Southeast Asia, which boosted demand for short-haul voyages. In the Mediterranean, 80,000mt
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -142,11 +132,7 @@ Tankers S&P Report
 | ECO REVOLUTION | MR | 39,208 | 2016 | VIETNAM | 32.0 | UNDISCLOSED |
 | VS LARA | PROD / CHEM | 11,336 | 2006 | TURKEY | 6.0 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -165,29 +151,18 @@ The global container freight market remains largely flat, with the SCFI showing 
 
 PRICE COMMENTS / (MILLION) USD BUYERS 46.5 TSAKOS COLUMBIA SHIPMANAGEMENT 27.4 CHINESE BUYERS
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 400 ~ 410 380 ~ 390 370 ~ 380 410 ~ 420 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 400 ~ 410 | 380 ~ 390 | 370 ~ 380 | 410 ~ 420 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
 | GADDANI, PAKISTAN | 410 ~ 420 | 400 ~ 410 | 390 ~ 400 | 420 ~ 430 | WEAK / |
-
-TURKEY
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -204,8 +179,6 @@ TURKEY
 | GADDANI, PAKISTAN | 385 | 610 | 570 | 510 | 460 |
 | ALIAGA, TURKEY | 210 | 310 | 290 | 300 | 350 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -218,19 +191,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 Markets in India remain cautious with activity muted, as domestic economic pressures continue to create a challenging pricing mismatch. The recent sharp depreciation of the Indian Rupee against the U.S. Dollar over the past couple of weeks has disrupted price expectations, making it increasingly difficult for local recyclers to justify elevated asking levels for older vessels. This pressure is compounded by an influx of dark-fleet tankers being sold at discounted prices, weighing heavily on domestic steel plate values and further limiting buyers' ability to compete. This reserved purchasing stance, which is being deeply affected by weak core market fundamentals, the Indian Rupee recently added further negativity as the INR crossed 90 mark and later settled down INR 89.35 to a US Dollar and simultaneously, the price of local steel plate has slipped by US$5/ton, closing at US$390/ton. To add on, the
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -243,8 +210,6 @@ Bangladesh saw further deterioration in local conditions over the past week, wit
 Gadani
 
 The Pakistan market saw minimal activity this week, although there has been a slight uplift in sentiment following some recent transactions involving smaller vessels at modest price points.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -267,15 +232,11 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 403 | 356 | 677 |
 | HOUSTON | 434 | 360 | 666 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
 
 India Imported scrap activity in India remains notably muted. Although there has been a slight improvement in buying inquiries, it is happening within a tight window for winter restocking before Western suppliers close for the holidays. The primary cause for this is the significant depreciation of the Indian Rupee, which has crossed the 90 marks against the USD-its weakest level in two decades-sharply increasing the cost of dollar-denominated imports. EU HMS (80:20) was assessed at US$315-320/t, HMS 1 at US$322-325/t, shredded at US$336-342/t, and PNS at US$340-345/t, while offers for EU shredded stand at US$350- 352/t CFR. Pakistan The market in Pakistan is currently sluggish and cash-constrained yet imported scrap prices are holding steady d-o-d due to firm international offers. Furnaces continue to operate at reduced capacity, limiting raw material intake as weak downstream demand persists. This continues to discourage aggressive winter restocking efforts by local mills. Reflecting the current stability of offers, EU shredded is assessed at US$356-358/t CFR, with UAE HMS 80:20 priced around US$338-340/t. Bangladesh Imported scrap demand remains subdued, as containerized offers are largely deemed unworkable for domestic buyers. Slow rebar sales have further contributed to the muted activity, despite a good range of available grades. The market saw various specific offers, including Brazil HMS at US$330/t CFR, Malaysia Holo bundles at US$325/t CFR, and Australia HMS at US$345/t CFR. While Philippines GI bundles were offered at US$305-310/t CFR, sellers have paused fresh sales at those levels, with Singapore PNS and Hong Kong PNS offered higher at US$370/t CFR and US$365/t CFR, respectively.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -287,8 +248,6 @@ Turkiye In stark contrast to South Asia, the deep-sea scrap market in Turkiye re
 
 Iron ore futures experienced mixed trading as the week concluded, reflecting weakening demand signals in contrast to cautious optimism driven by upcoming economic meetings in China, which are expected to provide guidance on supportive growth targets. The most actively traded January iron ore contract on the Dalian Commodity Exchange saw a slight decrease, while the benchmark contract on the Singapore Exchange posted a marginal gain. Market sentiment is being heavily influenced by a broader macro trade perspective, with investors keenly awaiting signals regarding next year's growth targets from the agendasetting Central Economic Work Conference and the December Politburo meeting. While some traders are positioning themselves to capitalise on a potential post-meeting rally,
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 experts see a low likelihood of immediate, substantive stimulus programs emerging from these events. The demand fundamentals for iron ore remain subdued in the near term, mainly because hot metal production is currently on a downward trend, reflecting weakening underlying demand. Furthermore, pig iron production is expected to continue its decline this week as recent stricter environmental implementation which placed sustained pressure on raw material prices. Despite this softening sentiment, the iron ore concentrated prices in the major steelmaking hub of Tangshan are anticipated to remain stable. In contrast to the iron ore market, Chinese steel prices are broadly expected to increase in December. This positive outlook is driven by an improving macroeconomic environment and a recovery in underlying market fundamentals. While steel benchmarks on the Shanghai Futures Exchange were mixed, with rebar and stainless steel edging up, and hotrolled coil easing slightly, analysts predict that the forward momentum will lift prices, suggesting that the downstream steel sector may be gaining traction even as raw material pressures persist. Copper eased back from its recent record high as investors questioned whether the latest rally had run too far. Prices have risen more than 7% since early November and are up roughly 30% year-to-date, supported by persistent supply disruptions. A major withdrawal from LME warehouses earlier in the week intensified speculation around a tightening market, but softer economic data out of China tempered expectations of an immediate shortage. Sentiment was further pressured by an unusual upward revision to global supply forecasts. Rio Tinto announced that its 2025 output from the Oyu Tolgoi mine in Mongolia is now estimated at 860-875 kt, compared with a previous range of 780-850 kt, citing accelerated operational performance.
@@ -299,8 +258,6 @@ Iron Ore
 |---|---|---|---|---|---|---|
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 105 | 0% | +0.96% | 105 | 104 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 102 | 0% | -3.77% | 102 | 106 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

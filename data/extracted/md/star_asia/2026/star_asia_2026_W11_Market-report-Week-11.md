@@ -22,8 +22,6 @@ pages: 20
 
 Fresh waves of hostilities in the Persian Gulf have effectively paralyzed one of the world's most critical energy arteries. Recent strikes on vessels off the coast of Iraq and near the UAE have forced major oil terminals to suspend operations, creating an atmosphere of extreme caution among global shipowners. This escalation has pushed crude prices back above the US$100 mark, despite a historic coordinated release of emergency reserves by the International Energy Agency. The operational impact of this standoff is reaching unprecedented levels, as the global oil supply faces a projected shortfall of 8 million barrels a day this month. Middle Eastern producers are desperately seeking alternative routes, such as pipelines to the Red Sea, yet these workarounds cannot accommodate the 20 million barrels that typically transit the Strait daily. Even ports located outside the immediate conflict zone, such as those in Oman, have experienced brief evacuations and operational pauses due to the expanding threat of drone activity. This widening geographic risk is causing many insurers and owners to avoid the region entirely, leading to a significant buildup of undelivered cargo and a surge in the prices of essential fuels like diesel and jet fuel. For the thousands of seafarers currently caught in the region, the situation has turned tragic, with reports of casualties following attacks on commercial tankers. While some bulk carriers continue to move by broadcasting specific neutral status signals, most of the merchant fleet remains stationary or is actively diverting to avoid the area. U.S. officials have indicated that military escorts for commercial shipping are unlikely to begin for several weeks, leaving a vacuum in security that continues to disrupt the global supply chain. As the industry moves into mid-March, the primary concern remains whether a credible and sustained corridor for transit can be re-established to prevent further economic and humanitarian fallout.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ A cautious week as short-term steel production cuts in North China have weakened
 Panamax/Kamsarmax:
 
 Panamax faced a downward pressure week as both the Pacific r/v and T/A rates softened to US$18,333 and US$14,588 respectively, driven by limited fresh enquiry and a growing list of available vessels. While Brazilian soybean shipments have surged by 59.2% w-o-w to support real demand, the narrowing rate gap with Capesize vessels is prompting some coal shippers to switch ship sizes, weakening Panamax negotiating power. Supramax/Ultramax: Atlantic faces softer sentiment, with the USG and South Atlantic under pressure from a growing tonnage list. Despite steadier activity in Asia and balanced demand in the Mediterranean, key routes have edged lower, with F/H rates dropping to US$23,721 and Indonesian routes at US$12,107. However, rising operational costs from higher bunker prices and war risk premiums are reducing effective vessel supply, particularly on routes involving the Middle East, which may provide a floor for rates amid increased logistics risks.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -61,8 +57,6 @@ The Handy market has remained steady this week, though levels softened slightly 
 | ULTRAMAX | 64,000 | 35 | 39 | 33 (E) | 24 | 16 (56K) |
 | HANDY | 38,000 | 30 | 33 | 26 | 19 | 15 |
 | *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -89,8 +83,6 @@ The Handy market has remained steady this week, though levels softened slightly 
 | AFRICAN WEAVER | HANDY | 34,369 | 2016 | JAPAN | 18.5 | UNDISCLOSED |
 | KEN GIANT | HANDY | 28,323 | 2009 | JAPAN | 8.6 | TURKISH BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -104,8 +96,6 @@ MEG continues with the surge, with freight rates slipping 100 points since last 
 Suezmax:
 
 The West African market has become a focal point for Suezmax activity as the war in MEG intensifies. As WAFR offers a geographically viable alternative to Persian Gulf supplies, demand for local crude grades has risen sharply. Nigeria/UKC ended this week at WS249 for a 130,000mt. In the MEG, 140,000mt to the Mediterranean (via Suez Canal) close high at WS518.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -142,8 +132,6 @@ Y-O-Y CHANGE
 | MR | 51,000 |  | 49 | 53 | 42 (E) | 33 | (E) | 24 |
 | *(amount inUSD | million) | \ | (E)-ecounits |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 VESSEL NAME LONG WIND GREEN ATTITUDE STI SOLIDARITY VOLTA RIVER STI SENECA / STI OSCEOLA RUI FU XING
@@ -158,8 +146,6 @@ VESSEL NAME LONG WIND GREEN ATTITUDE STI SOLIDARITY VOLTA RIVER STI SENECA / STI
 | AFRA | 105,839 | 2007 | JAPAN | 33.0 | UNDISCLOSED |
 | MR | 49,990 | 2015 | S. KOREA | 35.0 EACH | UNDISCLOSED |
 | MR | 47,162 | 2010 | S. KOREA | 22.0 | EUROPEAN BUYERS |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -186,29 +172,18 @@ The container market experienced a sharp upward trajectory this week as the SCFI
 | TRANSIMEX SUN |  | FEEDER | 1,060 | 2009 | JAPAN | 15.5 | HAI AN | CO LTD |
 | ASIATIC REUNION |  | FEEDER | 1,049 | 2008 | S. KOREA | 11.0 | UNDISCLOSED |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS / WEEKLY
-
-GENERAL CARGO FUTURE TREND
-
-ALANG (WC INDIA) 420 ~ 430 410 ~ 420 400 ~ 410 450 ~ 460 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 450 ~ 460 440 ~ 450 | 420 ~ 430 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
-
-TURKEY
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 420 ~ 430 | 410 ~ 420 | 400 ~ 410 | 450 ~ 460 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 450 ~ 460 | 440 ~ 450 | 420 ~ 430 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 300 ~ 310 | 290 ~ 300 | 270 ~ 280 | 310 ~ 320 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -225,8 +200,6 @@ TURKEY
 | GADDANI, PAKISTAN | 460 | 650 | 0 | 540 | 445 |
 | ALIAGA, TURKEY | 250 | 380 | 320 | 330 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -240,19 +213,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 The Indian ship recycling sector has recently become the center of a significant international discussion following the European Union's announcement of a new Industrial Maritime Strategy. This policy suggests a move toward formal cooperation with India to handle end-of-life vessels, a step intended to address the looming global shortage of recycling capacity. While industry advocates argue that over 110 Indian yards have already modernised their infrastructure to meet HKC standards, critics remain concerned about the traditional beaching method. This debate is particularly urgent given that European owners control more than 35% of the global fleet, yet only 1% of their ships are currently processed in European-registered yards. With approximately 15,000 vessels expected to reach the end of their service lives over the next ten years, the pressure to integrate India's high capacity facilities into the global regulatory framework is mounting.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -276,8 +243,6 @@ Despite these challenges and the inflationary pressures caused by Middle Eastern
 
 Anchorage & Beaching Position (MARCH 2026)
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
@@ -295,8 +260,6 @@ Anchorage & Beaching Position (MARCH 2026)
 Aliaga, Turkiye
 
 Turkiye has maintained a steady week, with the anticipated downward pressure from a rising number of candidate vessels failing to materialize in the current pricing structure. While market dynamics remain largely unchanged on the surface, the industry is operating against a backdrop of severe geopolitical instability following the escalation of conflict between the United States, Israel, and Iran. The recent interception of a third ballistic missile by NATO air defenses over the eastern Mediterranean has heightened national security concerns, even as the Turkish Ministry of Transport works to navigate the effective closure of the Strait of Hormuz. Although one
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -333,15 +296,11 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 India The Indian imported scrap market remained largely stable on a day-to-day basis, though an underlying expectation of price appreciation persists as geopolitical risks intensify. Current indications for HMS 80:20 sit between US$360/t and US$365/t CFR Chennai, with HMS 1 quoted slightly higher at US$375/t. Premium grades like shredded scrap are holding near US$385/t, while PNS (Plate and Structural) remains the highestvalued category at US$395/t. Despite these firm offers, Indian buyers are proceeding with
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 significant caution; the ongoing conflict in the Middle East has raised the specter of oil supply disruptions, creating a volatile environment that has made participants hesitant to commit to large volumes at the current US$360+/t levels.
 
 Bangladesh Market sentiment in Bangladesh remains firm, buoyed by a domestic steel market that continues to perform well despite global headwinds. Unlike some of its neighbors, Bangladesh has managed to avoid major L/C constraints, allowing for steady procurement. However, the Middle East conflict has not left the region untouched, as disrupted material flows and rising freight rates have pushed US-origin bulk offers above the US$380/t mark, up from previous levels of US$373/t. Similarly, Japanese H2 scrap from the Kanto region has seen its value rise to approximately US$385+/t CFR, reflecting the increased cost of securing seaborne raw materials in a tightening logistics market. Pakistan In Pakistan, imported scrap prices firmed up following a series of recent deals for UK and EU-origin shredded scrap, which were finalised between US$402/t and US$410/t CFR Qasim. The market has been subject to extreme volatility, with daily price swings of US$5-$10/t directly linked to developments in the Middle East war. While some suppliers initially attempted to push offers toward the US$415/t level due to freight uncertainties, buying interest began to soften as the week progressed. Workable levels have since settled closer to US$405-$410/t, as buyers attempt to lower their risk exposure amid the fluid security situation and unpredictable shipping surcharges. Turkiye Deep-sea imported scrap prices in Turkiye edged upward on 12 March, primarily as a reaction to surging freight rates which have reached US$55-$58/t for US-origin cargoes. While suppliers are targeting a benchmark of US$380/t CFR, workable deal levels are currently assessed nearer to US$376/t, with EU-origin material trailing at approximately US$373/t CFR. The upward momentum in Turkiye remains somewhat constrained by weak downstream demand for rebar; however, mills still require significant volumes for April shipment. This underlying need for inventory is expected to keep the Turkish market active and watchful for fresh deals, even as manufacturers resist higher pricing in the face of thin finished steel margins.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -350,8 +309,6 @@ HMS 1/2 & Tangshan
 ## Commodities (Week infocus)
 
 Aluminium has seen prices surge by as much as 3.8% to US$3,315 per ton following regional conflicts that have disrupted energy and industrial activity in the Middle East. With shipping through the Strait of Hormuz currently impaired, major producers like Qatalum have initiated controlled shutdowns that could take up to a year to fully reverse, threatening a region that contributes 8% of the world's primary aluminium output. This supply shock hits a market already projected to face a 600kt deficit in 2026, further strained by domestic capacity limits in China and imminent facility closures in other regions. Meanwhile, copper and coal sectors are closely watching legislative developments in major economies to gauge future industrial momentum. Copper futures recently held near US$6 per pound, marking a second week of gains as the market anticipates new policy priorities from China's upcoming "Two Sessions" parliamentary meetings and the release of the 15th Five-Year Plan. Despite this price resilience, actual trading remains cautious; Chinese importers have stayed largely inactive following the Lunar New Year, and exchange-monitored inventories reached record highs in late January due to shifting trade policies and mine disruptions. Coal prices also saw a late-February climb above US$119 per ton, reaching their highest point since late 2024, as the need for energy reliability continues to outweigh long-term shifts toward greener power. While energy security remains a priority, structural changes in the mining landscape suggest a move toward more disciplined production. In China, coal output rose 2.7% in 2025 to 4.98 billion tons, but a contraction is forecast for 2026 due to stricter safety
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

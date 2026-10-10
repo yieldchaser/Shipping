@@ -30,8 +30,6 @@ We would like to wish all our readers a Happy New Year and thank you for your co
 
 In December, China's economy experienced further slowing due to the widespread Covid-19 outbreak, with activity decreasing as more people stayed home to avoid getting sick or to recover. Early indicators revealed a contraction in activity in December, following a weak pace in November, and the outlook for the new year is bleak. Before the restrictions were lifted, China's economy was already facing difficulties, with a decline in consumer spending and slower industrial output. The spread of the virus
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 throughout China has dampened the initial optimism seen in the stock and commodity markets upon reopening. The Shanghai Composite Index has dropped near the level it was at before restrictions were relaxed on November 11 and have fallen for the past two weeks. The price of iron ore is also expected to decline due to the increase in Covid cases, which has raised concerns about near-term demand and undermined the impact of recent support for the real estate sector. Chinese steel mills are reducing production, and data from an industry association reveals that output has fallen and stockpiles have increased in the middle of this month.
@@ -57,8 +55,6 @@ The Atlantic basin in the Panamax rose slightly this week due to vessel concentr
 ### Supramax / Ultramax:
 
 Last week saw saw owners in the Pacific eager to secure deals before the holidays with offers seeing a reduction as a result. However, the large volume of cargo in Nopac and ex-Aus has helped to maintain steady earnings. This week with many still in holiday, sentiments have fell. Many are waiting for after the holidays to see the direction it will take.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 3
 
@@ -93,8 +89,6 @@ on this week with biggest decline mostly in the Atlantic basins. The Pacific rem
 | BSI | 1,062 |  | 1,083 |  | - | -1.94 |  | - |
 | BHSI | 663 |  | 671 |  | - | -1.19 |  | - |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
 
 # Tankers
@@ -120,8 +114,6 @@ Malaysia, the second-largest exporter of palm oil, to increase its shipments. Pa
 rose as much as 2.5% to RM 4,193 ringgit (US$950) per ton, on track to close at the highest
 
 level in a month.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 5
 
@@ -160,8 +152,6 @@ This week saw a drop in rates in the Mediterranean and Black Sea regions as the 
 ### Clean:
 
 Not much to report in either the East or West. Many are waiting till the New Year to see the direction sentiments will take.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 6
 
@@ -206,8 +196,6 @@ DELTA PIONEER / 111,013 DELTA CAPTAIN / 2004 / AFRA ~ S. KOREA 35.0 EACH UAE BAS
 | LR1 | 74,000 | 42,500 | 42,500 | 14,000 | 0 | +203.57 |
 | MR | 47,000 | 30,250 | 30,250 | 13,000 | 0 | +132.69 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 7
 
 # Containers
@@ -235,8 +223,6 @@ steadily declining freight rates.
 | AS CLEOPATRA | SUB PMAX | 2,742 | 2006 | GERMANY | 20.9 | UNDISCLOSED |
 | JRS CORVUS | FEEDER | 698 | 2008 | CHINA | N/A | UNDISCLOSED |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 8
 
 # Containers Values
@@ -252,32 +238,21 @@ steadily declining freight rates.
 | 5,500 - 7,000 | Gearless | 85 | 85 | 70 | 45 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 530 ~ 540 | 520 ~ 530 | 520 ~ 530 | 570 ~ 580 | STABLE / |
+| CHATTOGRAM, BANGLADESH | \*530 ~ 540 | \*520 ~ 530 | \*500 ~ 510 | \*550 ~ 560 | STABLE / |
+| GADDANI, PAKISTAN | 550 ~ 560 | 540 ~ 550 | 520 ~ 530 | 580 ~ 590 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 250 ~ 260 | 240 ~ 250 | 240 ~ 250 | 280 ~ 290 | STABLE / |
 
-CHATTOGRAM,
-
-BANGLADESH \*530 ~ 540 \*520 ~ 530 \*500 ~ 510 \*550 ~ 560 STABLE /
-
-GADDANI, PAKISTAN 550 ~ 560
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 250 ~ 260
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening.
 
 # 5-Year Ship
 
@@ -291,8 +266,6 @@ CHATTOGRAM, BANGLADESH GADDANI, PAKISTAN ALIAGA, TURKEY
 |---|---|---|
 | HONG DE | 7,534 | 1996 / JAPAN |
 | FU OCEAN | 3,567 | 1998 / CHINA |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 540 ~ 550 520 ~ 530 580 ~ 590 STABLE /
 
@@ -324,8 +297,6 @@ GEN. CARGO 460 DELVIERED CHATTOGRAM
 
 It has been one of the most exciting years for the ship recycling industry in the Indian subcontinent, wherein the prices have fluctuated by about 36% from January to December. The upside in the prices seen for a typical ship was region US$680 ~ 700/ first quarter of 2022 and saw the lowest at US$480 ~ 500/ton, an apparent US$200/ton decrease within the same year. Complex issues and risks in 2022 have not gone away and uncertainties of 2022 seem to be carried forward in 2023 for the initial period. Bangladesh technically ceased purchasing this year and took a pause, leaving markets stunned. The only saving grace in avoiding a free fall in prices as a result of these dramatic
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 11
 
 changes was a shortage of ship supply. Now, as the year comes to a close, Pakistan will likely follow suit, with the possibility of a pause from Gaddani recyclers due to banks conserving foreign exchange. As we advance, ship recycling prices should become even more volatile, as price directions will be determined by how long the Bangladesh and Pakistan markets remain muted with ship supply easing. In general, the market participants believe that 2023 will be the year of rebalancing, with rates returning to pre-COVID levels. Elsewhere, in Europe and the U.S., the demand for scrap remained subdued, but the prices of semi-finished and finished steel products saw momentum, with prices recovering. Harsh winters are also playing a vital role in scrap trades as the collection slows down. In China, a major shift in the Zero COVID policy lately added optimism, and to further optimise the time lost, China has been hinting that they would take extraordinary measures to stimulate growth to revive the ailing economy quickly, especially in the manufacturing and real estate sectors.
@@ -333,8 +304,6 @@ changes was a shortage of ship supply. Now, as the year comes to a close, Pakist
 ### ALANG, INDIA
 
 Markets continued their stability for the past month giving hopes of revival and gradually forming a trend that was very much needed for the industry, which got distorted due to volatility in domestic scrap prices. Buying is buoyant at the prevailing levels, with a vast majority eyeing larger ships now for green recycling and hopeful to see a decent supply in the first quarter of 2023. For the Indian steel industry, the coming year will be a very promising year as it is poised to overtake China. India is in the middle of a building boom with a government initiative of modernizing roads, rails, and ports to strive for superiority with China as a manufacturing hub. According to the World Steel Association, India's steel demand is set for a 6.7 percent jump, about 120 million tons in 2023, which is the highest growth among major economies. Similar expansion overtook the U.S. to become the world's no.2 steel consumer after China a couple of years ago.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 12
 
@@ -360,8 +329,6 @@ BERGE APO ETHAN T-20 T-19 FLOATING DOCK V UNTER LOBSTER MARSHAL NOVIKOV DORA
 
 Chittagong markets remained stable, with ships resuming their gradual sales while the year ended with no indications that the government would ease the ongoing Letters of Credit restrictions. On the domestic front, ship scrap prices kept increasing against the backdrop of the scarcity of imported ferrous scrap. The second half of 2022 saw a sudden pause due to a severe liquidity crunch, but analysts believe that second quarter onwards, the government shall resume the development program where they left off once the foreign reserves are back to their target levels.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 13
 
 ### GADDANI, PAKISTAN
@@ -377,8 +344,6 @@ After a decent comeback in the last couple of weeks, due to a shortage of scrap 
 ### ALIAGA, TURKEY
 
 This week saw Turkish domestic demand for rebar recovered as Turkish mills purchased scrap at prices above their desired levels. Although the scrap market was quiet on Friday, Turkish mills made numerous purchases throughout the week and nearly fulfilled their requirements for January.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 14
 

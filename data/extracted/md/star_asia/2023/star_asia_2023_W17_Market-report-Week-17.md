@@ -26,8 +26,6 @@ This week, Janet Yellen, the U.S. Treasury Secretary, has warned that failure by
 
 Iron ore futures in Dalian and Singapore hit a more-than-four-month low on Tuesday due to slow steel demand in China, leading mills to limit their production, which in turn could lead to an oversupply of the steel-making raw material. The benchmark May contract on the Singapore Exchange for iron ore dropped 0.8% to US$103.05 a tonne. Meanwhile, some mills in China have already limited production due to weak steel demand and low prices. Although China's infrastructure investment rose by 8 .8% YoY in the first quarter, property investment fell 5.8%. While China's manufacturing sector is expected to show only a moderate recovery in 2023-2024, the country's infrastructure sector may continue to benefit this year from the projects initiated at the end of 2022. Rebar on the Shanghai Futures Exchange fell 1.6%, and coking coal and coke on the Dalian exchange declined 1% and 2.3%, respectively. With the first quarter over, China's steel demand is expected to remain flat, providing support for iron ore imports but not creating a significant demand squeeze. Iron ore trade volumes tend to increase towards the end year, especially from distant Brazilian miners, which is likely to add to shipping demand. Trade is slowly stabilizing and focus is returning to the usual factors of supply and demand that have long influenced dry bulk profits. With fleet supply growth expected to be low over the next few years, demand will have the greatest impact on spot freight rates. China will continue to play an important role in being the primary driver.
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 ## Capesize:
@@ -45,8 +43,6 @@ The freight market for Pacific coal has been boosted by the increasing number of
 ## Handysize:
 
 Despite a surplus of ships in the USG, the Atlantic market is positively impacted by the strength of South America. This positive sentiment is reflected in contract prices exceeding previous levels. T/A, however, remains slightly lower than Thursday at closing, with levels closing around US$ 10,650's a day. Meanwhile, in the Pacific Northeast Asia region, the slight increase in the inflow of B/H cargo is insufficient to resolve the backlog of available ships. Inter Pacific levels fell to US$ 7,350's a day, with Pacific r/v also recording lower around US$ 8,250's a day.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -92,15 +88,11 @@ BALTIC EXCHANGE DRY BULK INDICES
 | BSI | 1,185 | 1,179 | 2,734 | +0.51% | -56.66% |
 | BHSI | 665 | 650 | 1,593 | +2.31% | -58.25% |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
 
 # Tankers
 
 Oil prices rebounded midweek, rising 0.5% for Brent crude and 0.6% for West Texas Intermediate crude after falling more than 2% in the previous session. The increase was due to reports of declining U.S. crude oil and fuel inventories, which pointed to strong demand in the world's top oil consumer. According to API figures, U.S. crude oil stocks fell by about 6.1 million barrels in the week to April 21, compared with analysts' expectations of a 1 .5 million barrel decline. Gasoline inventories fell by 1.9 million barrels, while distillate inventories rose by 1.7 million barrels. The U.S. government will release official stockpile data later this week. However, the market remains concerned about potential new interest rate hikes and economic uncertainty that could limit fuel demand growth. China's economy grew by 2.2% in Q1, a significant improvement from the previous quarter's 0.6% growth. This was the third consecutive quarterly expansion following the easing of COVID-
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 5
 
@@ -121,8 +113,6 @@ Following the end of Ramadan, there was a decrease in activity in MEG and SE Asi
 ## Clean:
 
 L.R.: MEG/NE Asia section saw a significant increase in shipments at the end of April, leading to a cut in available ships in eastern Suez. As a result, W.S. weekly rate has risen by 15.5%, and reduced tonnage in the MEG is likely to put upward pressure on the short-term market. TC5 held in high WS200's region.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -167,8 +157,6 @@ STI MYSTERY / STI MARVEL / MT 47,499 2019 VIETNAM N/A SCORPIO TANKERS STI MYTHIC
 
 *\*(amount in USD million)*
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 7
 
 # Baltic Exchange Tanker Indices
@@ -176,8 +164,6 @@ STI MYSTERY / STI MARVEL / MT 47,499 2019 VIETNAM N/A SCORPIO TANKERS STI MYTHIC
 # Containers
 
 The SCFI increased last week as a result of freight rate increases on North American routes. However, this week, the rate of increase has slowed, and main routes are experiencing weakness. However, due to reduced supply, the Middle East routes had an 8-point gain, resulting in an overall increase in the index. Meanwhile, China's GDP expanded by 4.5% in the first quarter of this year compared to the same period last year, although the recovery trend has been significantly hindered by interest rate rises in the United States and Europe. As a result, it is likely that the growth rate will slow down.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 8
 
@@ -196,30 +182,21 @@ The SCFI increased last week as a result of freight rate increases on North Amer
 | 5,500 - 7,000 | Gearless |  | 87 | 82 | 70 | 45 | N/A |
 | *(amount in USD million) |  |  |  |  |  |  |  |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
 | DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
 |---|---|---|---|---|---|
-| ALANG (WC INDIA) |  |  | CARGO |  | TREND |
 | *For green ship recycling, the prices are about | 520 ~ 530 | 500 ~ 510 | 510 ~ 520 | 540 ~ 550 | WEAK / |
+| CHATTOGRAM, BANGLADESH | \*560 ~ 570 | \*550 ~ 560 | \*530 ~ 540 | \*570 ~ 580 | WEAK / |
+| GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-US$25-30/ton lower.
-
-CHATTOGRAM, \*560 ~ 570 \*550 ~ 560 \*530 ~ 540 \*570 ~ 580 WEAK / BANGLADESH
-
-GADDANI, PAKISTAN NA NA NA NA NA
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-Ship, the prices are about US$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
@@ -232,8 +209,6 @@ CHATTOGRAM, BANGLADESH 430 455 330 480 660
 GADDANI, PAKISTAN 450 430 320 470 680
 ALIAGA, TURKEY 290 280 200 255 460
 ```
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 10
 
@@ -249,8 +224,6 @@ ALIAGA, TURKEY 290 280 200 255 460
 
 # Recycling Ships Price Trend
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 11
 
 # Insight
@@ -260,8 +233,6 @@ The markets reopened post-Eid holidays, at a slower pace, with domestic prices r
 **ALANG, INDIA.**
 
 The ship recycling prices in Alang witnessed a notable decline this week, experiencing a decrease of approximately USD20-30/ ton. This downturn can be attributed to a range of factors, including the global decrease in ferrous scrap, semi-finished, finished steel products and iron ore prices, along with the increased availability of cheaper imported alternatives for ship scrap. Moreover, the Alang market has been facing ongoing struggles for some time due to low domestic demand, which has been further exacerbated by a slowdown in economic activity and reduced construction activity as a result of extreme weather conditions, which are impacting the availability of water needed for construction. Despite these challenges, the market has held firm for some time due to the short supply of ships
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 12
 
@@ -293,8 +264,6 @@ This situation has led to uncertainty in the market, with industry experts quest
 The ship recycling markets reopened following the Eid holidays to a downturn in ship prices and weakening market sentiment. Industry participants were awaiting market direction post-holiday, but clarity emerged with a significant drop in imported ferrous scrap prices. This trend contributed to the overall decline in prices and sentiment.
 
 The ongoing issue of Letters of credit (LC) continues to dominate the business, with only a handful of ship recyclers currently active in the market. This situation has impacted several ships arriving at the outer anchorage, with many waiting for 20-25 days before being cleared.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 13
 
@@ -333,8 +302,6 @@ The latest situation in Chattogram indicates that most recyclers have ample inve
 
 ## GADDANI, PAKISTAN
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 14
 
 The situation remains unchanged in Pakistan. The import of scrap iron and steel in Pakistan declined by over 50% to US$859.3 million during the first nine months of FY23 compared to US$1,739.5 million during the same period last year. The import of finished iron and steel products also fell by 36.6% to US$1,321 million against US$2,085 million last year. The decline in steel consumption is affecting the overall industrial sector, including construction, which has seen prices rise more than 100% in the last year. Pakistan's steel consumption has been declining for the past five years, with per capita consumption much below the world average. China is the largest exporter of steel while the US is the largest importer. Pakistan's steel sector is majorly driven by private corporations, and the state-owned Pakistan Steel Mills has been inactive since June 2015.
@@ -344,8 +311,6 @@ The situation remains unchanged in Pakistan. The import of scrap iron and steel 
 ## ALIAGA, TURKEY
 
 The Turkish flat steel products market is quiet due to the holiday season and aggressive offers of material from China and Asia, causing prices to decline. The global bearish sentiment in the flats segment has impacted Turkish customers, who are evaluating the situation while holding sufficient stocks. The worldwide steel market, mainly led by China, has experienced a decline, resulting in a drop in iron ore prices, which has had a ripple effect on Turkey's export market. Moreover, the upcoming general elections in Turkey, scheduled for May 14, are contributing to the domestic market's slowdown. These elections have caused economic instability, with issues such as the devaluation of the lira and credit problems making the situation worse. Considering these developments, experts predict a short-term pessimistic outlook for Turkey's steel market. While the country's steel industry deals with external pressures caused by the global steel decline, it also faces internal challenges from the upcoming elections. Therefore, the market is expected to navigate through uncertain times in the coming weeks.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 15
 

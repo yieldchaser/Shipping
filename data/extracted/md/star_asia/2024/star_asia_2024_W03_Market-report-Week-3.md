@@ -22,8 +22,6 @@ pages: 18
 
 Federal Statistical Office reported that Germany's economy contracted by 0.3% y-o-y in 2023 due to high inflation and firm interest rates. Despite recent declines, high prices, unfavourable financing conditions, and lower demand domestically and abroad impacted economic development. Germany narrowly avoided a technical recession, with the fourth quarter recording a 0.3% drop. Early indicators suggest a slow economic recovery, and Capital Economics forecasts zero GDP growth in 2024, citing recessionary conditions, declining investment, and fiscal policy tightening. Germany faced challenges, including the loss of access to some Russian energy supplies and a deep budgetary crisis at the end of the previous year. On the other side of the globe, China's fourth-quarter GDP for 2023 came in at 5.2%, slightly below the 5.3% forecast, indicating a transition to a new growth model with a focus on the manufacturing and service sectors. The real estate sector, comprising over 20% of China's economy, witnessed a 9.6% investment decline in 2023 due to government restrictions on debt-driven growth. Despite concerns about insufficient domestic demand and economic challenges, China's overall fixed asset investment rose by 3% in 2023. The unemployment rate for young people aged 16 to 24, excluding those in school, was reported at 14.9%, showing improvement from previous highs. China's population declined by over 2 million in 2023, raising concerns about economic fundamentals and government efforts to address youth unemployment. The GDP growth is expected to slow to 4.6% in 2024 unless significant stimulus measures are implemented. Chinese Premier Li Qiang emphasised a focus on internal drivers and economic development without massive stimulus in a speech at the recent World Economic Forum.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The initial shortage in ship supply affecting the Atlantic has been resolved, bu
 Panamax/Kamsarmax:
 
 Enquiries for Australian coal saw an uptick this week as improved weather conditions rail up orders for the coming month. In the Pacific, despite mostly stable cargo levels across routes, the continued demand for NOPAC grains is driving ship demand, leading to an increase. Pacific saw improvements across, with r/v closing around US$ 10,000's a day. Similar was seen on the other side, as the midweek break saw a turn in rates with robust cargo influx in the USG, as Atlantic continues its upward trend. Supramax/Ultramax: The continuous supply dominance in both the North and South Atlantic regions is leading the downward trend across the segment's routes. The persistent decline in the USG for over a month is putting pressure on the entire region as rates closed for USG/Europe in the US$23,000 range. In the Pacific, shortages in Pacific Northwest grain shipments and weakened demand are further causing a contraction in volume.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -77,8 +73,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | SUPRAMAX | 58,000 | 13,000 | 12,250 | 13,750 | +6.12% | -5.45% |
 | HANDYSIZE | 38,000 | 13,000 | 12,500 | 9,750 | +4.00% | +33.33% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -98,8 +92,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | LOWLANDS HOPPER | HANDY | 36,309 | 2015 | JAPAN | 17.0 | CHINESE BUYERS |
 | HELGA BULKER | HANDY | 34,483 | 2017 | JAPAN | 22.0 | TURKISH BUYERS |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -117,8 +109,6 @@ Freight imports from Nigeria show signs of slowing, but increased activity in th
 Aframax:
 
 Like Suezmaxes, the Med region's adverse weather and lack of tonnage saw rates improve towards the end of the week. 80,000mt Ceyhan/Lavera climbed to WS211. In the Atlantic, rates for T/A route saw an uptick at the start of the week before falling to WS236 at closing. The outlook overall for the region remains positive.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -155,8 +145,6 @@ Tanker 12 months T/C rates average (in USD/day)
 | LR1 | 74,000 | 32,750 | 32,750 | 35,500 | 0 | -7.75% |
 | MR | 47,000 | 26,750 | 26,750 | 27,000 | 0 | -0.93% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -171,8 +159,6 @@ Tanker 12 months T/C rates average (in USD/day)
 | DINAH / PLUTO | MR | 37,300 | 2008 | S. KOREA | 41.0 EACH (ICE CLASS) | UNDISCLOSED |
 | LIV KNUTSEN / ELI KNUTSEN | PROD / CHEM | 16,585 | 2009 | CHINA | 13.0 EACH | ALGOMA |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -181,29 +167,16 @@ This week, container spot freight rates were once more robust as SCFI spot box f
 
 ## Containers S&P Report
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE
-
-TREND ALANG (WC INDIA) 500 ~ 510 470 ~ 480 480 ~ 490 510 ~ 520 WEAK /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490~ 500 | 520 ~ 530 | IMPROVING / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 500 ~ 510 | 470 ~ 480 | 480 ~ 490 | 510 ~ 520 | WEAK / |
+| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490~ 500 | 520 ~ 530 | IMPROVING / |
 | **GADDANI, PAKISTAN | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 540 ~ 550 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -220,8 +193,6 @@ TURKEY
 | GADDANI, PAKISTAN | 415 | 380 | 425 | 590 | 560 |
 | ALIAGA, TURKEY | 250 | 240 | 240 | 330 | 280 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -237,19 +208,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
 ## Insight
 
 This week, the markets in the sub-continent experienced a momentary slowdown. The industry is struggling with substantial challenges due to the declining domestic demand for raw materials, which has reached an unsustainable level. This situation is particularly concerning for Alang recyclers. On the positive side, there has been a gradual improvement in the flow of ships for recycling. Many Chinese ship owners have started placing their older vessels for recycling, which has helped keep the Sub-Continent markets active. Looking ahead, experts predict that after the lunar new year, a significant number of ships from their domestic markets will also be placed for recycling. This influx of ships may have a longterm impact on pricing, as the number of yards and ship recyclers is gradually decreasing over time. In the latest sales spree, MTT Shipping Sdn. Bhd., Malaysia managed to sell their third container for recycling in the span of the last 4 months. The latest one was the MTT Singapore, 1996 S.Korean-built feeder weighing 3,826 tons at a gross price of US$512/ton with about 250 tons of bunkers included at no extra cost on an as-is Port Klang for redelivery to Chattogram. In recent developments, the UAE government has decided to lift the temporary export ban on specific goods, initially implemented in July 2022, opting instead for the imposition of export duties. Ferrous scrap, identified by specific HS codes, now carries an export duty of AED 400 per metric ton. A proposed change in duties is currently under ministry review, pending approval, with its outcome uncertain. Effective 30 days after its publication in the Official Gazette on December 15, 2023, this export duty is poised to reshape the scrap and waste export market. It applies not only to ferrous scrap but also to various other products such as paper waste, used cooking oil, raw leather, waste pneumatic tires, and solid plastic waste. With the removal of the export ban, experts anticipate a short-term price increase of approximately AED 60 to AED 80 per metric ton by month-end. However, the long-term implications for the UAE's scrap and waste management sector will necessitate ongoing observation and analysis.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -273,8 +238,6 @@ Anchorage & Beaching Position (January 2024)
 | SOL | CONTAINER | 3,870 | 05.01.2024 | 11.01.2023 |
 | ONYX 1 | CONTAINER | 10,643 | 04.01.2024 | 10.01.2024 |
 | WHITE PALM | TUG | 762 | 16.12.2023 | 08.01.2024 |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -300,8 +263,6 @@ Anchorage & Beaching Position (January 2024)
 | TUNE | BULKER | 9,986 | 16.01.2024 | AWAITING |
 | G HARMONY | GENERAL CARGO | 11,312 | 06.01.2024 | 13.01.2024 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Aliaga, Turkey
@@ -325,13 +286,9 @@ PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
 | ROTTERDAM | 549 | 429 | 766 |
 | HOUSTON | 595 | 456 | 802 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 ## HMS 1/2 & Tangshan Billet
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -344,8 +301,6 @@ concerns over supply disruptions. The copper market underwent a significant shif
 ### Iron ore futures displayed a mixed performance as traders assessed the impact of
 
 Premier Li's remarks, but earlier this week, the iron ore remained under pressure. Additionally, the market is grappling with the possibility of reduced steel production, which could dampen demand. Yao Lin, Chairman of China Mineral Resources Group, advocated for steel mills to reduce output and prioritise high-quality development. These sentiments align with statements made by He Wenbo, the executive chair of the China Iron & Steel Association. Global ferrous scrap prices showed mixed trends last week. In South Asia, Indian buyers remained cautious due to price differences, while Pakistani steel mills favoured Middle Eastern materials due to European uncertainties. Bangladesh faced post-election effects and a slowdown in its steel sector. Japanese export offers increased due to higher bids from Vietnamese buyers. China's Shagang Steel reduced scrap procurement prices by $4/t. In Turkey, weather and currency fluctuations led to hesitant engagement with overseas suppliers. In the EU, HMS collection costs ranged from Euro 335-348/t delivered. US-origin HMS (80:20) was offered at US$427-429/ton CFR. In India, interest in imported scrap remained subdued due to price disparities. Pakistan also preferred Middle East materials due to Red Sea crisis uncertainties. Bangladesh saw varied prices and subdued buyer interest post-election. Shagang Steel reduced scrap procurement prices by US$4/on.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

@@ -22,8 +22,6 @@ WEEK 28 - July 11, 2025
 
 Last week, Vietnam's leadership was reportedly surprised by President Trump's announcement of a 20% tariff agreement, higher than their anticipated 10-15% range. Despite public silence from Vietnamese state media and officials on the specific rate, behind-the-scenes efforts are underway to negotiate a lower figure. This comes as Trump continues to issue various tariff letters to numerous trading partners, setting deadlines and imposing duties as high as 50%. Vietnam, a significant exporter to the US, finds itself navigating these demands while also maintaining crucial relations with China. In parallel with tariff discussions, Vietnam is reportedly tightening regulations against origin-of-goods fraud and illegal transshipments, a key US demand. However, the exact implementation and enforcement details of the new 20% rate, and a 40% levy on transshipped goods, remain unclear from both sides. Despite the initial confusion, some foreign investors view the 20% tariff as a favorable outcome for Vietnam, contributing to a recent rally in local stock markets. Concurrently, Vietnam is actively diversifying its export markets and strengthening economic ties with China, emphasising its strategic approach to evolving trade policies. Further demonstrating his firm stance on trade, President Trump has threatened a 35% tariff on some Canadian goods and hinted at imposing blanket 15-20% tariffs on most other trading partners. These actions, citing concerns ranging from trade deficits to fentanyl, signal no retreat from his core economic policy. While most Canadian exports to the US are shielded by the USMCA agreement, the move narrow in the volatile nature of these negotiations, prompting Canada to reaffirm its commitment to defending its businesses and workers. The ongoing uncertainty and the rapid pace of these tariff announcements from the US are poised to maintain a challenging global trade landscape.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ In the Pacific, Australian iron ore cargoes fixed for late July with Pacific r/v
 Panamax/Kamsarmax:
 
 The Atlantic has gained further upward momentum across, notably with early August cargoes from South America. In the Pacific, while gain in Asia has been limited, positive momentum is being maintained by new cargo inflows from South America and Indonesia. Pacific r/v ended the week at US$12,700's a day. Supramax/Ultramax: The Atlantic sustained its upward gain, driven by a persistent shortage of vessel supply and a steady influx of new cargoes, despite limited recent fixture activity. T/A ended the week with rates reaching almost US$20,000's a day. In the Pacific, despite a modest volume of new cargo, robust demand for coal from Australia provided support for overall rates.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -62,8 +58,6 @@ The Handy segment fared well once again across all routes this week. Inter Pacif
 | HANDY | 38,000 | 30 | 33 | 25 | 17 | 14 |
 | *(amount in USD | million) \| (E) - eco units |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -84,8 +78,6 @@ The Handy segment fared well once again across all routes this week. Inter Pacif
 | DENEB HARMONY | HANDY | 36,888 | 2020 | JAPAN | 25.0 | UNDISCLOSED |
 | HOPE | HANDY | 36,000 | 2010 | CHINA | 7.9 | MIDDLE EASTERN BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -103,8 +95,6 @@ West African Suezmax market has seen a steady decline throughout the week largel
 Aframax:
 
 In the Middle East, despite consistent fixtures for short-haul routes, the Aframax market concluded lower as it struggled to absorb the accumulated oversupply. In the Med, 80,000mt Ceyhan/Lavera lost a point closing at WS127.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -155,11 +145,7 @@ Tankers S&P Report
 | SAN FERNANDO | MR | 48,315 | 2005 | JAPAN | 12.1 | UNDISCLOSED |
 | GWEN | PROD/ CHEM | 19,702 | 2008 | JAPAN | 16.2 (STST) | GMS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -177,8 +163,6 @@ Qingdao Port is experiencing a remarkable expansion in its container services, s
 | 5,100 ~ 5,300 | Gearless | 59 | 82 | 66 | - | 41 |
 | *(amount in USD million) | \| = Eco units |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # S&P Containers Report
@@ -187,29 +171,16 @@ Qingdao Port is experiencing a remarkable expansion in its container services, s
 |---|---|---|---|---|---|---|
 | SHIRIN M | SUB PMAX | 2,546 | 2007 | CHINA | 21.0 | GREEK BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 410 ~ 420 390 ~ 400 380 ~ 3900 420 ~ 430 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 400 ~ 410 | 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 410 ~ 420 | 390 ~ 400 | 380 ~ 3900 | 420 ~ 430 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 400 ~ 410 | 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | WEAK / |
 | GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 390 ~ 400 | 420 ~ 430 | WEAK / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -226,8 +197,6 @@ TURKEY
 | GADDANI, PAKISTAN | 310 | 580 | 550 | - | 520 |
 | ALIAGA, TURKEY | 180 | 300 | 290 | 310 | 350 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -238,19 +207,13 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights
 
 Ship recycling markets across the Indian Subcontinent have resumed activity following the implementation of the Hong Kong Convention (HKC), but under a drastically revised pricing environment. Weak demand worsened by seasonal monsoons has led to a significant decline in vessel prices across the board. Despite the resumption in buying, local sales remain limited, with yard inventories still elevated. The subdued pace of domestic steel consumption continues to weigh on sentiment, leaving recyclers hesitant to commit at higher levels. Looking ahead, ships recyclers anticipate a further leg down in pricing as the industry adjusts to new HKC-aligned protocols and operational requirements. With no immediate recovery in demand expected, the bearish tone in the region's shipbreaking markets is likely to persist.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -273,8 +236,6 @@ Chattogram
 
 This week, Bangladesh continues to experience a period of notable quiet, with conditions remaining largely unchanged. The prevailing low prices and weak demand from Chattogram have resulted in a distinct lack of offers from local buyers. potential recycling vessels are being directed towards competing markets in Pakistan and India. This slowdown is significantly influenced by local regulations, as only 12 yards are currently HKC-approved and have already accommodated recent arrivals. For now, however, tight liquidity and a pause in fresh interest ensure that overall market activity in Bangladesh remains muted.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 The recyclers who are able to continue buying ships (HKC approved) are offering significantly lower pricing, and for smaller ships weighing 2000 ~ 4000 light displacement tons, the prices have reached sub-US$350/ton levels.
@@ -295,8 +256,6 @@ Anchorage & Beaching Position (JULY 2025)
 Aliaga, Turkey
 
 The Turkish ship recycling market has remained unchanged this week, continuing the relatively flat trend observed in recent weeks.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -335,8 +294,6 @@ cautious buyers and a notable absence of major bookings. Mills are currently les
 
 almost at a standstill. Mills refrained from actively engaging suppliers, even as some freight costs eased, leading to a persistent gap between bids and offers. Buyers were
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 seeking PNS at US$375/t CFR Chattogram, yet suppliers from Hong Kong and Singapore were unwilling to drop below US$380/t. An Australian supplier succinctly described the current conditions as "no good," citing weak interest from Bangladeshi buyers for imported scrap.
@@ -357,8 +314,6 @@ largely remained on the sidelines. Despite this price stability, market sentimen
 
 Exchange (SHFE) remained range-bound on Friday. This stability follows an initial shock
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 from the U.S. announcement of a 50% import tariff set to take effect on August 1, as the market now awaits further details regarding its implementation. As of Friday, the three-month copper on the LME was down 0.18% at US$9,683.5 per metric ton, bringing its weekly loss to 1.73% and positioning it for a second consecutive weekly decline. Similarly, the most-traded copper contract on the Shanghai Futures Exchange edged 0.18% higher to 78,530 yuan (US$10,943.12), though it was still on track for a 1.97% weekly decrease. The U.S. tariff, announced by President Donald Trump on Wednesday, targets a key industry essential for defence, electronics, and automobiles. However, uncertainties persist regarding the specific copper products that will be included, whether the 50% rate might be adjusted, or if the implementation date could be extended, according to a Beijing-based metals analyst.
@@ -374,8 +329,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 99 | + 3.12% | -6.60% | 96 | 106 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 99 | + 2.06% | -8.33% | 97 | 108 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

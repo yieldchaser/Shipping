@@ -24,8 +24,6 @@ In an effort to prevent missing growth targets, China is contemplating an increa
 
 In October, China experienced its sharpest decline in home prices in eight years, intensifying concerns about the deepening property slump despite increased government efforts to stimulate demand. New home prices in 70 cities, excluding statesubsidised housing, dropped by 0.38%, marking the steepest decrease since February 2015. The downturn adds to the signs of a persistent housing crisis, with sales and property investment contracting. Even after stimulus measures were introduced since August, the sector continues to weigh on China's economic recovery. The Chinese property market's challenges have led to concerns and financial struggles for major developers. While in the U.S., in a four-hour crucial discussion between President Biden and China's President Xi Jinping, substantial agreements were reached on curbing fentanyl production and re-establishing military-to-military communications, according to U.S. However, areas such as semiconductors, artificial intelligence, and China's involvement in the Gaza conflict showed limited progress. Official Chinese summaries of President Xi's message at the APEC summit in San Francisco suggest a dual objective. Firstly, to express a willingness to engage with the U.S., potentially to attract foreign investment back to China. Secondly, to assert China's stance in defending Beijing's interests and reinforcing its global standing as a major power on par with the United States. The talks reflect a delicate balance between cooperation and asserting national interests in the complex U.S.-China relationship.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -39,8 +37,6 @@ Major mining companies in Australia and Brazil are expected to increase shipment
 Panamax/Kamsarmax:
 
 Boosted by the upward movement in Cape rates and increased demand for North American grain shipping, the market is on the rise. As Cape rates soared to double those of Panamaxes on most routes, some Cape cargoes shifted to Panamaxes, triggering a towing effect. In the Atlantic, the robust demand in the North Atlantic continues to drive a significant increase in rates as vessels are in high demand, particularly along the T/A route, where the supply of ships has tightened even further. Meanwhile, in the Pacific, most spot transactions have concluded, and the determination of shipowners to maintain strength has diminished. However, the existing demand-supply imbalance still
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -65,8 +61,6 @@ The Atlantic continues its positive trend, with North American grain leading the
 | OCEAN DESTINY | SMAX | 58,786 | 2008 | JAPAN | 13.8 | PIONEER |
 | ROYAL KNIGHT | SMAX | 58,721 | 2013 | JAPAN | 19.5 | GREEK BUYERS |
 | AFRICAN IBIS | HANDY | 32,347 | 2004 | JAPAN | 8.6 | UNDISCLOSED |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -95,8 +89,6 @@ The Atlantic continues its positive trend, with North American grain leading the
 | SUPRAMAX | 58,000 | 11,875 |  | 11,500 |  | 12,500 | +3.26% |  | -5.00% |
 | HANDYSIZE | 38,000 | 11,000 |  | 10,750 |  | 10,500 | +2.33% |  | +4.76% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -110,8 +102,6 @@ MEG/China bounced back this week to WS74. The Atlantic region showed relative ac
 Suezmax:
 
 A weekly decline in West Africa to Europe route is observed due to reduced cargo influx from Nigeria and an increased supply of ships in the Atlantic region, absorbing highertier vessels. 130,000 MT fell 7 points to WS98. However, the impact might be mitigated to
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -143,8 +133,6 @@ DONGGANG / SKS 2012 DODA /SKS DEMINI / SKS DOYLES
 | ROMOE MAERSK / ROBERT MAERSK | MR | 34,806 | 2003 |
 | MONAX / MARMOTAS | PROD / CHEM | 20,762 19,953 | 2005 |
 | BRO DEVELOPER | PROD / CHEM | 14,737 | 2007 |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 BUILT
 
@@ -184,8 +172,6 @@ UAE BUYERS UNDISCLOSED CHINESE BUYERS UNDISCLOSED UNDISCLOSED UNDISCLOSED HAWKS
 | LR1 | 74,000 | 31,750 | 31,750 |  | 37,500 | 0 |  | -15.33% |
 | MR | 47,000 | 26,000 | 26,000 |  | 27,500 | 0 |  | -5.45% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -211,29 +197,16 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 37 | 29 | 17 | 14 |
 | 5,500 - 7,000 *(amount in USD million) | Gearless | 93 | 78 | 66 | 39 | N/A |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 530 ~ 540 520 ~ 530 520 ~ 530 540 ~ 550 IMPROVING/
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 530 ~ 540 | 520 ~ 530 | 520 ~ 530 | 540 ~ 550 | IMPROVING/ |
+| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | STABLE / |
 | **GADDANI, PAKISTAN | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 520 ~ 530 | IMPROVING/ |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 IMPROVING /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | IMPROVING / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -250,13 +223,9 @@ TURKEY
 | GADDANI, PAKISTAN | 430 | 355 | 380 | 620 | 500 |
 | ALIAGA, TURKEY | 280 | 240 | 205 | 330 | 300 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 VESSEL NAME SAMC EDDIE XIN FENG GUANG ZHOU DAYTONA DYNAMIC MTT TANJUNG MANIS MTT TAWAU
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Ships Sold for Recycling
 
@@ -273,8 +242,6 @@ VESSEL NAME SAMC EDDIE XIN FENG GUANG ZHOU DAYTONA DYNAMIC MTT TANJUNG MANIS MTT
 
 ## Page 11
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
 ## Insight
@@ -285,15 +252,11 @@ Alang, India
 
 As the festive week unfolds in Alang, markets are currently in a temporary break, set to recommence activities on Monday, November 20. Notably, post-Diwali, a traditional uptick has been observed in domestic ship scrap prices, hinting at a positive trajectory. It's worth noting that the genuine market pricing dynamics are anticipated to fully resume next week. The prevailing sentiments among Alang recyclers are notably optimistic, a sentiment likely bolstered by recent positive trends in imported ferrous scrap prices and notable northward movement in iron ore pricing. This collective outlook sets the stage for dynamic and potentially lucrative market conditions in the upcoming week. It will be interesting to see what is stored for the markets post Diwali as a vast majority are of the belief that the markets have bottomed out and a rebound is expected.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
 
 Chattogram, Bangladesh
 
 Bangladesh experiences yet another subdued week in its recycling sector, struggling with persistent challenges stemming from weakened demand and foreign exchange issues. Bangladesh is dealing with significant pressure on key macroeconomic indicators as its foreign exchange reserves continue to deplete. Simultaneously, the impending national election has heightened tensions in the political environment. Ships sold in the past are making their way to the Chattogram anchorage, but the waiting period has become a significant hurdle lately due to delays in obtaining the needed LCs followed by payments.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -310,8 +273,6 @@ Anchorage & Beaching Position (November 2023)
 Aliaga, Turkey
 
 Turkish domestic scrap prices are on an upward trajectory this week, driven by robust activity. All Turkish mills have increased their domestic scrap buying quotes, signalling strong business activity with gradual price hikes. Despite a slightly weaker business environment in the import sector, suppliers are maintaining high price targets, convinced that imported scrap prices will remain stable. European suppliers are holding firm at approximately US$380/tonne CFR Turkey for HMS 1 & 2 80:20, anticipating increased costs for Turkish mills due to a strengthening euro against
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -344,8 +305,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 286.59 | 287.47 | +0.31% |
 | USD / TRY (TURKEY) | 28.71 | 28.56 | -0.53% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 ## Commodities
@@ -366,8 +325,6 @@ However, amidst the positive data, there were signs of weakness. The real estate
 |  |  |  |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 132 | + 3.12% | +50% | 128 | 88 |
 | Iron Ore Fines, C.N.F. Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 134 | +3.07% | + 47.25% | 130 | 91 |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 Iron Ore
 

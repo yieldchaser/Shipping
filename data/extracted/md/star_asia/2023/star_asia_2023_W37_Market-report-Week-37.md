@@ -26,8 +26,6 @@ This week saw some positive data out from China after a long spell of negativity
 
 BDI, reached its highest point in over three months midweek due to strong rates for larger vessels. The overall index surged by 55 points, or 4.5%, reaching 1,290, marking its highest level since May 24. BCI continued its upward trend for the sixth consecutive session, rising by 86 points, or 6.5%, to 1,416. This was accompanied by an increase in the average daily earnings to about US$15,700 a day. Iron ore futures also saw an uptick for the third straight session, driven by expectations of increased demand from Chinese steelmakers ahead of the holidays, though gains were somewhat constrained by a weakening steel market. Meanwhile, BPI climbed by 48 points, or 3.1%, reaching its highest level in over four months at 1,623. Average daily earnings increased to about US$15,000 a day. Additionally, concerns were raised about the Panama Canal potentially reducing the maximum number of vessel transits per day due to a drought affecting the waterway this year.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 Among smaller vessels, BSI saw a gain of 38 points or 3.4%, reaching 1,156 points. The rise in Capes rates at the start of the week was fuelled by better market sentiment from China's eased mortgage loan regulations and increased Atlantic contract activity. This regulatory easing began in late August in Shenzhen and Guangzhou and is expected to expand to other major cities like Beijing and Shanghai.
@@ -44,8 +42,6 @@ Handysize:
 
 In the Pacific, an increase in Indonesian coal imports and rising period demand are contributing to improved sentiments, with rates seeing upward traction. Inter Pacific saw levels close at US$7,800's a day. The same was also seen in the Atlantic, with all-around improvements. BHSI saw an overall index gain 10%, closing the index at 624 points this week.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 3
 
 VESSEL NAME DIMITRIOS T GALILEO / GIANTS CAUSEWAY / CAPE CROSS / SALDERS WELLS ISABELITA GOLDEN HAWK KOBE STAR VANTAGE SWORD
@@ -57,8 +53,6 @@ KAMSARMAX SUPRAMAX HANDY
 INDICES
 
 BDI BCI BPI BSI BHSI
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Dry Bulk - S&P Report
 
@@ -105,8 +99,6 @@ BDI BCI BPI BSI BHSI
 
 Tanker rates for both crude oil and product tankers follow cyclical and seasonal patterns. Historically, freight rates have performed well during the fourth quarter and the first quarter of the year due to increased oil demand in the northern hemisphere during the winter. However, winter weather can also lead to more frequent delays, affecting vessel productivity. In recent years, factors like the Covid-19 pandemic and the Russian invasion of Ukraine disrupted these seasonal trends. But in 2023, the market appears to be returning to a more normal state. Crude tanker rates, especially for larger vessels, weakened during the summer, and Q4 earnings may not meet initial projections. However, the outlook for 2024 is promising, with expectations of a significant upswing in rates.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 The resumption of OPEC+ production, expected in Q2 2024, is likely to give the tanker market an immediate boost. Drastic cuts in Saudi crude exports in August and the potential for continued reductions could tighten the market considerably. Demand indicators do not appear unfavourable, as crude and product stocks have been decreasing, offering limited protection against future supply shortages. However, despite the optimism and discussions of oil prices reaching triple digits, concerns about future demand persist. The OPEC+ production cuts may limit downside risks, but uncertainties surrounding global demand, especially in China, continue to be a point of caution for the oil market. Spot VLCC rates have fallen below US$10/ton, reaching levels seen in the last two years due to the cuts above. While there are no signs currently of a rebound in rates, fourthquarter futures remain high, reflecting optimism in the tanker sector.
@@ -126,8 +118,6 @@ The prolonged weakness in the East Suez market has led to an increase in transit
 Clean:
 
 MR: M.R. rates in the UKC stayed strong due to limited tonnage availability, although sentiment showed signs of softening as the week progressed. TC19 remains unchanged at WS190. USG market also faced notable downward pressure this week. Despite delays in
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -153,8 +143,6 @@ L.R: In the LR1 sector, the sentiment remained steady as the week ended, but the
 | BDTI | 733 | 715 |  | 1,492 | +2.52% | -50.87% |
 | BCTI | 852 | 760 |  | 1,255 | +12.11% | -32.11% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers Values
@@ -178,8 +166,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | LR1 | 74,000 | 28,750 | 28,250 | 30,500 | +1.77% | -5.74% |
 | MR | 47,000 | 25,500 | 25,500 | 24,250 | 0 | +5.15% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -188,23 +174,15 @@ This week witnessed a significant decline in container spot freight rates, as in
 
 ## Containers S&P Report
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS / WEEKLY
-
-GENERAL CARGO FUTURE TREND
-
-ALANG (WC INDIA) 520 ~ 530 510 ~ 520 520 ~ 530 550 ~ 560 IMPROVING /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 460 ~470 | 450 ~ 460 | 440 ~ 450 | 500 ~ 510 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-| **GADDANI, PAKISTAN 520 TURKEY | ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
+| ALANG (WC INDIA) | 520 ~ 530 | 510 ~ 520 | 520 ~ 530 | 550 ~ 560 | IMPROVING / |
+| *CHATTOGRAM, BANGLADESH | 460 ~470 | 450 ~ 460 | 440 ~ 450 | 500 ~ 510 | WEAK / |
+| \*\*GADDANI, PAKISTAN | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
 | *For Non-EU ships.ForE.U. Ship,the pricesare about US$20-30/tonless | 310 ~ 320 | 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
@@ -222,8 +200,6 @@ ALANG (WC INDIA) 520 ~ 530 510 ~ 520 520 ~ 530 550 ~ 560 IMPROVING /
 | GADDANI, PAKISTAN | 430 | 360 | 370 | 600 | 585 |
 | ALIAGA, TURKEY | 260 | 230 | 210 | 285 | 330 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -237,15 +213,11 @@ ALANG (WC INDIA) 520 ~ 530 510 ~ 520 520 ~ 530 550 ~ 560 IMPROVING /
 
 ## Recycling Ships Price Trend
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Insight
 
 The Indian Sub-Continent saw a substantial change, with India leading the markets, active and cautiously bullish, while Bangladesh and Pakistan remained on the sidelines. As for the supply of ships, the market has hit the brakes due to the recent upswing in freight rates. The end-of-life ships that were previously proposed as potential candidates for recycling have been temporarily withdrawn from the sales. All three markets in the Sub-Continent have shifted gears, and interestingly, Alang, which historically lagged behind its neighbouring markets, has shown remarkable resilience. Alang has not only turned positive but surpassed price benchmarks by a significant margin of US$50 ~ 60/ton as compared to their neighbours. In the East, the latest move by Beijing, 25 basis points cut in the reserve rate, has sent ripples through the metal markets. This marks the second such cut this year and carries substantial implications for various sectors, including the metals market. This move, designed to infuse liquidity into the financial system and boost the economy, sparked a surge in metal prices. Copper nearly reached 8500 points, zinc climbed to 2600, and tin surged to 26,000. Aluminium, nickel, and lead also followed suit, albeit more cautiously. However, the euphoria hit a snag as the U.S. Dollar gained strength due to the European Central Bank's rate hike and robust U.S. economic data. The USD Index rose above 105, leading to retracements in metal prices. Still, hopes of China's economic recovery kept most metals afloat. The looming threat is a potential Dollar storm, with expectations of a 9-10% rise in the USD index. Metals like copper, lead, and tin, with growing inventories, may be most vulnerable. With challenges like a stronger Dollar and rising inventories, the coming weeks are pivotal for metal markets. China's economic data release in the upcoming week will be a litmus test, as metals face a potential short-lived bear rally amidst global uncertainties. While in the ferrous scrap segment, the global ferrous scrap prices experienced a modest uptick, resulting in a somewhat subdued market compared to the previous week. Notably, some markets in South Asia, particularly India and Pakistan, witnessed a downward trend in prices.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -254,8 +226,6 @@ Turkish mills continued to procure scrap, albeit at a slower pace. Indian buyers
 Alang, India
 
 This week, domestic ship scrap prices experienced notable increases, primarily driven by strong demand from secondary mills. However, these price surges are closely observed by the recyclers as the imported ferrous scrap traders are securing substantial quantities of bulk cargo for October shipments. In general, there is a moderately optimistic sentiment prevailing across the steel sector, with sustained demand driven by upcoming seasonal factors, fresh export orders and the Government's efforts to accelerate infrastructure projects ahead of upcoming elections in 2024. According to a report from India's National Statistical Office (NSO), the country's industrial output index registered a 5.7% year-on-year increase in July. This index encompasses mining, manufacturing, and electricity production. Manufacturing, which makes up 77.63% of total industrial output, grew by 4.6% YoY in July. ICRA, a credit rating agency, noted that the industrial output index reached a five-month high in July, partly due to a favourable base effect. They anticipate further growth, estimating a 6-7% YoY increase, driven by positive high-frequency indicators and factors like an 11.9% rise in passenger vehicle output and a 16.9% increase in finished steel consumption. In summary, the steel industry is displaying encouraging signs of recovery, bolstered by a growing wave of optimism. This positive sentiment is not bypassing the Alang ship recycling markets. As we peer into the upcoming months, Alang emerges as a promising hub for ship recycling, particularly as Bangladesh and Pakistan are currently less active in this sector. This shift in dynamics positions Alang as a potential hotspot for the ship recycling industry in the foreseeable future.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -275,8 +245,6 @@ Chattogram, Bangladesh
 No mercy to the Chattogram recyclers with falling domestic ship scrap prices wiping out the margins along with a slowdown in end sales. Mill owners took a pause due to weak demand.
 
 Last month's rigorous drop in the domestic ship scrap prices led the Bangladesh Ship Breakers and Recyclers Association (BSBRA) to suspend domestic sales of the ship scrap as an intervention to halt the free fall of domestic ship prices. A vast majority of the ship recyclers in Bangladesh have taken a strong bearish stand on the ship pricing and it has now become evident that ship prices have stalled at US$450 ~ 480/ton levels for the majority of the ship segments. On the other hand, Bangladesh's foreign exchange reserves have experienced a notable decline of nearly US$1.47 billion within just eight days, as reported by the latest weekly update from the Bangladesh Bank. As of September 13, the country's foreign exchange reserves amounted to US$21.71 billion, a significant drop from the US$23.18 billion recorded on September 5. This decline in foreign exchange reserves has been an ongoing trend for over a year, primarily attributed to several factors. Higher import payments, coupled with lower-thananticipated export earnings and remittance inflows, have put pressure on the country's foreign exchange holdings. This development underscores the challenges faced by Bangladesh's economy as it grapples with the need to balance its external trade and financial stability amid changing economic dynamics.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -308,8 +276,6 @@ Gaddani, Pakistan
 
 The recycling markets in Pakistan have experienced a rather uneventful week, marked by the sale of the initial batch of five ships. Currently, the markets have returned to a state of inactivity, resembling a period of dormancy. The situation is expected to persist until there is a more favourable development, such as banks easing the process of opening L.C.s, which is crucial for the revival of the recycling industry.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 This week, the Central bank's Monetary Policy Committee (MPC) announced its decision after a recent meeting, taking into consideration the latest inflation data. Inflation had been on a declining trend, dropping from a peak of 38% in May to 27.4% in August 2023. This monetary policy decision is crucial for the economy, particularly with inflation exceeding 26%. The current interest rates have deterred traders and businesses from borrowing at high costs. The Pakistani rupee extended its bullish run on Friday, gaining 0.37% against the U.S. dollar in the interbank market. This consistent appreciation during the month has reinforced the belief among currency traders that the greenback could depreciate to a level conducive to exchange rate stability. Ongoing efforts to curb forex smuggling are expected to keep the dollar's open market rate in check, while substantial liquidity in the interbank market is attributed to exporters liquidating their dollar holdings. The State Bank of Pakistan (SBP) reported a noteworthy drop of Rs1.11 in the dollar's value on Friday, closing at Rs296.85.
@@ -326,8 +292,6 @@ Anchorage & Beaching Position (September 2023)
 Aliaga, Turkey
 
 Turkish mills have maintained their domestic scrap buying prices despite the recent increases in imported scrap prices. Some Turkish mills resumed their deep-sea scrap purchases for October shipment towards the end of the previous week, leading to higher import prices due to rising freight rates. Mills have slowed their scrap purchases this week, focusing on steel sales and market sentiment after raising their quotes. Turkish shipbreaking scrap prices ranged from US$335 to US$375/ton delivered midweek, depending on the requirements of western Turkish mills. The exchange rate was 26.94 lira per dollar at the close of business.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -357,8 +321,6 @@ EXCHANGE RATES
 | USD / TRY (TURKEY) | 26.98 | 26.84 | -0.52% |
 
 ## HMS 1/2 & Tangshan Billet
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 

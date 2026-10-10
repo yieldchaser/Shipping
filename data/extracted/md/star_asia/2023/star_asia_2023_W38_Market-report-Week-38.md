@@ -26,8 +26,6 @@ This week, Federal Reserve Chair Jerome Powell signalled that the central bank i
 
 Last week, two bulk carriers successfully arrived at the Ukrainian seaport of Chornomorsk to load grain. This marks a significant development, as a ship had been stuck in Odesa since February 2022, indicating a potential easing of Russia's blockade in parts of the Black Sea. The two bulk carriers, Aroyat and Resilient Africa flying the Palau flag, docked at Chornomorsk on Saturday. They are the first civilian cargo ships to reach a Ukrainian Black Sea port since Russia withdrew from a United Nations-brokered grain shipping agreement in July. Meanwhile, Puma, a bulk carrier registered in the Cayman Islands, became the fifth stranded ship to leave Ukrainian waters during the weekend. This occurred after Ukraine opened a shipping corridor five weeks ago. The Puma followed the coastline of Romania
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 and Bulgaria before anchoring off Istanbul. These developments suggest a shift in the situation regarding maritime traffic in the Black Sea region.
@@ -44,15 +42,11 @@ Handysize:
 
 In Northeast Asia, the market is supported by backhaul cargoes despite weak demand in the North Pacific. Conversely, in Southeast Asia, a slight decrease in new arrivals from Indonesia and overall declining trends have been observed, contributing to a mixed direction in the Pacific market, with varying dynamics by route. Inter Pacific saw levels
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 3
 
 close around US$ 8,400's a day region, and BHSI closed at 669 points, climbing by 7.2% wo-w.
 
 ## Dry Bulk - S&P Report
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -68,8 +62,6 @@ close around US$ 8,400's a day region, and BHSI closed at 669 points, climbing b
 ## Tankers
 
 Crude oil prices experienced a slight dip midweek after a strong rally that pushed benchmarks to their highest levels in 10 months earlier. This dip can be attributed to profit-taking and a cautious pause ahead of an upcoming Federal Reserve meeting where interest rates will be discussed once again. Market analysts are closely monitoring the Fed's decision, which could have a significant impact on the trajectory of the U.S. economy. The oil market is taking a breather as traders await the Fed's decision, which could influence whether the U.S. experiences a soft or hard economic landing.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -91,8 +83,6 @@ Clean:
 
 MR: MR owners had a more positive outlook this week, thanks to steady inquiries and relatively limited available tonnage. TC14 remains similar to last around WS87, while TC21 rose to WS195. East of Suez saw less favourable sentiments with weak activity and excess tonnage.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 L.R.: LR1 owners faced challenges due to an increasing number of available vessels and less appealing ballast options in the East. TC1 fell to WS135. LR2 rates remained stable with moderate demand, preventing the tonnage list from becoming oversaturated.
@@ -108,8 +98,6 @@ TYPE VLCC 0SUEZMAX AFRAMAX PANAMAX-LR1 MR TANKER
 *\*(amount in USD million)*
 
 TYPE VLCC SUEZMAX AFRAMAX LR1 MR
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Tankers S&P Report
 
@@ -160,8 +148,6 @@ VESSEL NAME TYPE TEU YEAR BUILT PRICE COMMENTS /
 
 (MILLION) USD BUYERS NO NEW SALES REPORTED
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers Values
@@ -176,29 +162,16 @@ VESSEL NAME TYPE TEU YEAR BUILT PRICE COMMENTS /
 | 5,500 - 7,000 | Gearless | 93 | 78 | 66 | 41 | N/A |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 590 ~ 600 530 ~ 540 550 ~ 560 600 ~ 610 IMPROVING /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 460 ~470 | 440 ~ 450 | 420 ~ 430 | 480 ~ 490 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 590 ~ 600 | 530 ~ 540 | 550 ~ 560 | 600 ~ 610 | IMPROVING / |
+| *CHATTOGRAM, BANGLADESH | 460 ~470 | 440 ~ 450 | 420 ~ 430 | 480 ~ 490 | WEAK / |
 | **GADDANI, PAKISTAN | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 310 ~ 320 300 ~ 310 290 ~ 300 320 ~ 330 STABLE /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 310 ~ 320 | 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -215,8 +188,6 @@ TURKEY
 | GADDANI, PAKISTAN | 430 | 370 | 380 | 600 | 555 |
 | ALIAGA, TURKEY | 270 | 230 | 210 | 285 | 330 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -231,8 +202,6 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Insight
@@ -242,8 +211,6 @@ Market reactions across the Indian Sub-Continent have been rather diverse, with 
 Alang, India
 
 A significant upswing in domestic ship scrap prices earlier this week has captured attention, driven by a remarkable boost in domestic demand. The psychological barrier of US$600/ ton mark was surpassed this week. The fundamental reason for such robust pricing was the domestic demand, backed by the nation's signs of progress, with increased demand observed in the manufacturing, construction, and export sectors. Classic reflection of the underlying strength was seen by the recent sale of MSC general cargo ship, MSC Maria, weighing 3,952 tons, sold at a gross price of US$547/ton levels and Sinokor managed to obtain an astonishing number for their container feeder "Fortune Trader" weighing 7,191 tons at a gross price of US$612/ton. Usually, container ships are favoured by the recyclers due to the grade of steel plates and heavy propellers. In general, the markets have gained considerable momentum, leading to a resurgence of interest among numerous ship recyclers who are now getting cautiously bullish on the prevailing trend. They are once again actively engaged in the market, ready to buy.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -266,8 +233,6 @@ VESSEL NAME ZHO SINOKOR VLADIVOSTOK WHITE PURL MARITIME RIYAL INSTA ALDO SINOKOR
 Chattogram, Bangladesh
 
 There has been little to no improvement in the domestic ship recycling sector, as the sale of ship scrap within the country remains suspended. Ships sold in the past are making their way to Chattogram and encountering lengthy delays at anchorage points due to issues related to Letters of Credit, while fresh offers for ships have come to a standstill. Local recyclers are now offering rates below US$450 per ton, and it appears that some smaller vessels have been sold at significantly reduced prices, ranging from US$420 to US$430/ton. Amidst the current market turmoil, a notable trend has emerged where many cash buyers in the industry are redirecting their focus towards the Indian markets. They perceive the Indian market as more stable and efficient, offering swift payments and shorter waiting times upon the arrival of vessels. This shift in attention is driven by the expectation of obtaining more favourable returns as compared to Bangladesh. The overall situation in the domestic ship recycling market remains unfavourable. Industry experts anticipate that both prices and demand will continue to be under pressure for a foreseeable time. Some believe until the conclusion of the upcoming elections in December 2023.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -304,8 +269,6 @@ Gaddani, Pakistan
 
 The market has largely remained in a state of cautious observation since the acquisition of the initial five ships earlier this month. However, there is a growing interest from several recyclers who are now prepared to submit offers for future delivery. This newfound enthusiasm is partly fueled by indications from certain banks that they may be willing to open LCs for selected clients, potentially facilitating more transactions in the near future. In general, there is a notable lack of momentum. Recyclers attempting to submit offers for ships are encountering challenges as they find themselves less competitive compared to their counterparts in Alang.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 Anchorage & Beaching Position (September 2023)
@@ -324,8 +287,6 @@ Anchorage & Beaching Position (September 2023)
 Chattogram, Bangladesh : 28 ~ 30 September | 13 ~ 16 October Alang, India : 26 ~ 30 September | 01 ~ 05 October
 
 ---
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -352,8 +313,6 @@ EXCHANGE RATES
 
 ## HMS 1/2 & Tangshan Billet
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 ## Commodities
@@ -374,8 +333,6 @@ Iron Ore
 |---|---|---|---|---|---|---|
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 120 | -3.22% | +21.21% | 124 | 99 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 128 | -0.77% | +30.61% | 129 | 98 |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 

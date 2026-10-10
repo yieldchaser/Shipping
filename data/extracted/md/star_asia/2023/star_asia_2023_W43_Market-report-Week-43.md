@@ -26,8 +26,6 @@ This week, data from the world's largest economy brought a glimmer of positivity
 
 B.D.I., reached a one-month low as rates declined across vessel segments. The overall index fell by 24.5% w-o-w to 1,563 points on Friday. The capesize index recorded its sixth consecutive session of declines. Average daily earnings for capes have also dropped to US$20,446. Iron ore futures in Dalian and Singapore fell on concerns that Chinese demand for the steelmaking material will remain sluggish in the near term, overshadowing China's increased fiscal support for its faltering economy. B.P.I. reached its lowest point since October 18, declining 1.3%, with average daily earnings falling to US$14,652. B.S.I. also slipped 1.6%, reaching its lowest level in a month. Additionally, Ukraine suspended its Black Sea grain export corridor due to potential threats from Russian warplanes and sea mines. Despite a slow recovery in China's economy, there is optimism that the worst is over. The focus now shifts to when China's growth will return to a more normal level. Government efforts to stimulate the economy, especially through increased infrastructure spending, provide a positive outlook, benefiting real estate investment. Recent G.D.P. estimates have been upgraded, and China is expected to achieve its 5% growth target. However, challenges persist due to the country's debt structure and
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 leverage issues resulting from unsustainable levels of past infrastructure investment. The strategy of maintaining steady growth faces potential hurdles, and if unsuccessful, significant damage could ensue.
@@ -43,8 +41,6 @@ Following a substantial increase in Cape T/A rates, some Cape cargoes are being 
 Handysize:
 
 In the Atlantic, overall weak demand continues, sustaining the downward trend. However, scrap cargoes from Northern Europe are supporting the Transatlantic route. Meanwhile, in the Pacific, congestion of spot vessels is more noticeable than cargo demand in most regions, intensifying supply pressure. Inter-Pacific average levels fell to US$7,600's a day.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -79,8 +75,6 @@ In the Atlantic, overall weak demand continues, sustaining the downward trend. H
 | BSI | 1,184 | 1,287 |  | 1,483 | -8.00% | -20.16% |
 | BHSI | 671 | 689 |  | 897 | -2.61% | -25.20% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Bulker 12 months T/C rates average (in USD/day)
@@ -95,8 +89,6 @@ In the Atlantic, overall weak demand continues, sustaining the downward trend. H
 ## Tankers
 
 In such a multifaceted conflict in the Middle East, the implications are extensive, impacting the Eastern Mediterranean, the Suez Canal, the Red Sea, and the Persian Gulfcritical maritime transport routes for energy, commodities, and nearly half of global maritime trade. The costs of such a conflict would be staggering, jeopardising future assessments and investments. The situation evokes memories of the Ukrainian crisis, but the involved powers possess far greater capacity and reach. It is essential not to underestimate the global influence of Iran and Moscow's potential silent partnership in the unfolding events. After a recent 6% decline in the past three trading days, oil prices faced renewed pressure midweek. Despite the API reporting a decline in inventories (which would
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -117,8 +109,6 @@ The market in the Atlantic region and the Suez East remains on an upward traject
 Clean:
 
 MR: In the M.E.G., M.R.s saw a slight fuel in activity this week, but the demand was not sufficient to drive up rates. TC17 index fell 16 points to WS228. Meanwhile, in the U.S.G., levels saw improvements with an uptick in activity. TC14 climbed optimistically 12 points to WS115. Due to a decrease in China's petroleum product exports, next week will likely see an increase in vessel supply. A slightly bearish market is anticipated. L.R.: LR1 in the Middle East Gulf experienced a slowdown in momentum, resulting in some softening this week. TC5 fell to WS170. LR2s on the other hand, saw a different scene. TC1 saw enough drive-in activity to push levels up to WS173 at closing. Markets look to remain stable for the coming week as cargo limit delays increase.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -173,8 +163,6 @@ Tankers Values
 | PANAMAX-LR1 | 73,000 | 57 | 60 | 51 | 38 | 21 |
 | MR TANKER *(amount in USD million) | 51,000 | 47 | 51 | 43 | 33 | 19 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tanker 12 months T/C rates average (in USD/day)
@@ -190,8 +178,6 @@ Tankers Values
 ## Containers
 
 Container is undergoing a significant fleet renewal, marked by a record order book and an aging fleet, reaching the highest average age on record at 14.2 years, according to BIMCO. About 21% of container ships are over 20 years old, making them potential candidates for recycling in the coming years. The renewal focus has been on postpanamax segments, with nearly 70% of all containerships being over 10 years old. Despite low recycling rates in the past 15 months, analysts predict an increase as container shipping faces financial challenges, with carriers expected to report a combined loss of US$15 billion in 2024. This week, container spot rates saw a substantial increase with SCFI
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -211,29 +197,16 @@ index rising by 10% to 1,013 points. The surge was particularly notable on the m
 | 5,500 - 7,000 | Gearless | 93 | 78 |  | 66 | 39 |  | N/A |
 | *(amount in USD | million) |  |  |  |  |  |  |  |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 520 ~ 530 500 ~ 510 500 ~ 510 530 ~ 540 WEAK /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 520 ~ 530 | 500 ~ 510 | 500 ~ 510 | 530 ~ 540 | WEAK / |
+| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | STABLE / |
 | **GADDANI, PAKISTAN | 510 ~ 520 | 500 ~ 510 | 480 ~ 490 | 510 ~ 520 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 300 ~ 310 290 ~ 300 280 ~ 290 310 ~ 320 WEAK /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 300 ~ 310 | 290 ~ 300 | 280 ~ 290 | 310 ~ 320 | WEAK / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -250,8 +223,6 @@ TURKEY
 | GADDANI, PAKISTAN | 440 | 360 | 385 | 610 | 580 |
 | ALIAGA, TURKEY | 270 | 220 | 205 | 295 | 300 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -265,19 +236,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
 ## Insight
 
 In the Sub-Continent markets, the activities have taken a notable downturn despite the approaching festive season and a critical shortage of ships, particularly in Alang. While Chattogram had been displaying indications of a recovery, there has been limited enthusiasm among recyclers to engage in a buying spree due to ongoing L.C. issues. Meanwhile, Pakistan has remained on the sidelines, primarily due to the volatility in local scrap markets. The Sub-Continent markets find themselves at a pivotal juncture, marked by a distinct lack of clarity regarding pricing trends due to a sudden drop in domestic scrap prices. On the other hand, speculative buying by cash buyers has now assumed a central role in shaping market dynamics. Regarding the supply of ships, the persistently high freight rates have deterred end-of-life ships from entering the recycling markets for an extended period. Analysts are now raising concerns about the growing overcapacity in the shipping sector, and the critical question on everyone's minds is when these ships will become available for recycling. However, this week brought some optimism in the dry bulk segment for the ship-starved markets in the Sub-Continent, with Capesize bulker spot rates having experienced a significant 37.4% drop in the past week, marking a transition into bear territory due to sluggish demand. The coming week will hold further clues as to whether end-of-life capes make their way to the shores of the Sub-Continent or a pullback. With the recent decision to temporarily lift sanctions on Venezuela for a six-month trial period to assess the government's stance, market experts are warning that the immediate impact might not have been fully factored into current market dynamics. Venezuela is expected to gradually increase its oil production, and the tangible effects on the supply of tankers are anticipated to materialise in the second quarter of 2024. Analysts foresee a surge in the number of tankers destined for recycling once the Venezuelan oil supply steadies, as it will be a game changer for the tankers that are trading Venezuelan oil during sanctions. However, some may wait and see how the removal of sanctions affects the tanker industry since the restrictions are only set to be lifted for six months, with many expecting it to be extended. Owners may hold out against the currents, especially with higher-than-usual T.C. rates currently and hold the fort for a period longer.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -297,8 +262,6 @@ Anchorage & Beaching Position (October 2023)
 | MSC LEVINA | CONTAINER | 12,857 | 17.10.2023 | 20.10.2023 |
 | HAL ANANT | OFFSHORE | 4,092 | 16.10.2023 | 20.10.2023 |
 | NANTA 7 | CONTIANER | 5,095 | 17.10.2023 | 19.10.2023 |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -329,8 +292,6 @@ VESSEL NAME TYPE LDT ARRIVAL BEACHING
 | YI DING 9 | TANKER | 1,552 | 21.09.2023 | AWAITING |
 | S MARU 4 | TANKER | 1,095 | 18.10.2023 | 24.10.2023 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 | TAI H | RORO | 4,043 | 10.10.2023 | 21.10.2023 |
@@ -350,8 +311,6 @@ For the past few weeks, the ship scrap markets have experienced a prolonged peri
 Aliaga, Turkey
 
 Another dull week in Turkey, with almost no reported news of new sales. The volatile geopolitical tensions near the region have escalated into erratic demands, with many mills holding back to await further developments. Some Turkish mills have reduced their domestic scrap buying prices in response to the recent decline in imported scrap values despite the weakening lira against the dollar. Limited mills inquired about scrap midweek, with few suppliers offering material, while others are waiting for Turkish demand to recover.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -384,8 +343,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 277.50 | 278.54 | +0.37% |
 | USD / TRY (TURKEY) | 28.17 | 28.01 | -0.57% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 ## HMS 1/2 & Tangshan Billet
@@ -402,8 +359,6 @@ Iron Ore
 |---|---|---|---|---|---|---|
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 119 | 0 | +35.2% | 119 | 88 |
 | Iron Ore Fines, C.N.F. Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 122 | 0 | +35.5% | 122 | 90 |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

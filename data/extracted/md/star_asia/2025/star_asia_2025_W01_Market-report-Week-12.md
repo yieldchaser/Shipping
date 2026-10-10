@@ -22,8 +22,6 @@ pages: 21
 
 As 2025 begins, the world carries unresolved challenges and fresh developments that could reshape geopolitics and economies. Lingering tensions, such as the conflict in Eastern Europe and heightened competition in the Indo-Pacific, underscore a landscape of shifting alliances and contested influence. Trade dynamics remain under pressure as nations navigate energy transitions, supply chain realignments, and the implications of economic decoupling. Global climate action, following the outcomes of COP30, enters a critical phase, with nations under pressure to meet ambitious decarbonisation goals. The proposed greenhouse gas pricing mechanism and broader sustainability measures highlight the growing integration of environmental priorities into international policies. Economically, inflation, uneven recovery rates, and evolving monetary policies weigh heavily on global markets. However, new opportunities emerge as advancements in green energy, artificial intelligence, and digital finance drive innovation and growth. Emerging markets investing in these frontiers are poised to play an increasingly influential role. This week saw a landmark proposal for Shipping Emissions Pricing gain momentum. A coalition of 47 governments and key industry stakeholders has proposed a landmark greenhouse gas (GHG) emissions pricing mechanism for international shipping, signaling a major step toward maritime decarbonisation. The proposal, submitted to the IMO, introduces a mandatory GHG contribution system. Under this plan, vessels on international voyages would pay fees based on their CO2 emissions, with proceeds directed to a newly established "IMO GHG Strategy Implementation Fund." The fund aims to bridge the cost gap between traditional marine fuels and cleaner alternatives like green methanol, ammonia, and hydrogen while supporting decarbonisation efforts in developing countries. The initiative, endorsed by major maritime nations such as Greece, Japan, and the UK, as well as leading flag states and the EU, has received strong industry support. Despite some government hesitations, final negotiations will occur in February, with potential approval by April. If adopted, the mechanism could take effect globally by 2027, with contributions beginning in 2028.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ Pacific region continues to experience downward pressure despite maintaining a s
 Panamax/Kamsarmax:
 
 The Atlantic faces increasing pressure as vessels accumulate across major trading routes, pushing fixture rates below previous levels. Despite this softening, consistent cargo flow suggests potential for rate improvement. Pacific conditions have weakened further also, with NOPAC grain volumes showing signs of decline. Charterers hold their positions, anticipating rate concessions from vessel owners before making new commitments. Pacific - India route saw rates fell to US$4,600's a day.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ Both key regions are experiencing sustained downward pressure on rates, as the v
 | HANDY | 38,000 | 29 | 33 | 27 | 20 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -79,8 +73,6 @@ Both key regions are experiencing sustained downward pressure on rates, as the v
 | CS SONOMA | SMAX | 56,704 | 2010 | CHINA | 11.3 | UNDISCLOSED |
 | QING DAO GANG DA GANG | SMAX | 56,444 | 2012 | CHINA | 12.2 | CHINESE BUYERS |
 | ONE SHINE | HMAX | 46,644 | 2000 | JAPAN | 5.0 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -96,8 +88,6 @@ Suezmax:
 
 The Suez market saw a poor start to the year with many routes across recording losses. Despite some uptick in enquiry over US sanctions fallout, sentiments remain poor. In WAFR, Nigeria/UKC trip fell to WS63 this week. Similar was also noted in the Med, with CPC/Med falling to WS76.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -110,8 +100,6 @@ MR market saw mixed performance this week, with rates declining from USG and Med
 
 ## Baltic Exchange Tanker Indices
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -120,8 +108,6 @@ MR market saw mixed performance this week, with rates declining from USG and Med
 |---|---|---|---|---|---|---|
 | CRUDE CENTURION | LR2 | 112,863 | 2010 | CHINA | 33.5 | UNDISCLOSED |
 | CUMBRIAN FISHER | PROD /CHEM | 12,921 | 2004 | S. KOREA | 7.15 | INDIAN BUYERS |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -144,33 +130,18 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
 | 5,100 *(amount in USD million) | Gearless | 81 | 77 | 66 | 35 | 32 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 470 ~ 480 450 ~ 460 440 ~ 450 480 ~ 490 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 470 ~ 480 460 ~ 470 | 440 ~ 450 | 480 ~ 490 | WEAK / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 340 ~ 350 350 ~ 360 370 ~ 380 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 470 ~ 480 | 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 470 ~ 480 | 460 ~ 470 | 440 ~ 450 | 480 ~ 490 | WEAK / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 340 ~ 350 | 350 ~ 360 | 370 ~ 380 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -187,8 +158,6 @@ TURKEY
 | GADDANI, PAKISTAN | 305 | 800 | 580 | 520 | 520 |
 | ALIAGA, TURKEY | 210 | 300 | 300 | 320 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -202,19 +171,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 ## Insight
 
 It's been a quiet week for the ship recycling market in the Sub-Continent, as industry players await clarity on potential policy shifts once Trump assumes office in 10 days. The focus remains on how changes in the steel industry and commodities markets may impact global dynamics. Speculation about adjustments to U.S. steel tariffs under the new administration has already created uncertainty, with ripple effects anticipated across supply chains. Ship recyclers, heavily reliant on stable steel demand and pricing, are closely monitoring developments as they brace for potential disruptions or opportunities stemming from the evolving geopolitical and economic landscape. As Donald Trump prepares for his inauguration as the 47th President of the United States, the future of the US steel industry remains uncertain, particularly in regard to tariffs and trade policy. President Trump is expected to focus on the long-term sustainability of the domestic steel sector, with some analysts speculating that he may not introduce additional tariffs or quotas beyond those established under Section 232 during his first term in 2018.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -223,8 +186,6 @@ The Section 232 tariffs, aimed at protecting US steel from foreign competition, 
 Alang, India
 
 The domestic ship recycling market remained quiet and steady this week, with prices holding firm at the prevailing levels. However, concerns are mounting among recyclers
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -246,8 +207,6 @@ Chattogram, Bangladesh
 
 The ship recycling market saw limited activity this week as recyclers assessed the impact of a sudden surge in the US dollar against the Bangladeshi Taka. Over the past few
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 weeks, the Taka has weakened significantly-by approximately 5%-placing additional strain on market dynamics. The issue of opening Letters of Credit has re-emerged as a critical concern, with local banks tightening foreign exchange releases in response to prevailing domestic economic challenges. While on the other hand the domestic ship scrap prices remained largely stable. Prices for melting steel, in particular, experienced a modest increase, attributed to a shortage of imported materials. However, this uptick has not been sufficient to invigorate market activity. Overall, market conditions remain relatively unchanged from the previous week, with most ship recyclers opting for a "wait-and-see" strategy or submitting lower price offers. The sector continues to grapple with external economic pressures and a subdued demand environment. In a significant development, the interim government has announced deadline extensions for six reform commissions, tasked with drafting proposals on key governance areas, including the constitution, police, judiciary, elections, public administration, and anti-corruption. According to a Cabinet Division notice, five commissions now have until January 15 to submit their recommendations, while the Judiciary Reform Commission has been granted an extended deadline of January 31. The extensions are expected to provide additional time for thorough deliberations on these critical reforms which would shape up the underlying economic conditions and outcome of such would affect the industries which have been struggling to get the clue.
@@ -259,8 +218,6 @@ Anchorage & Beaching Position (JANUARY 2025)
 | NEW SMILE | TANKER | 1,969 | 26.12.2024 | 04.01.2025 |
 | ARK PROGRESS | CHEM TANKER | 2,635 | 08.01.2025 | AWAITING |
 | ULSAN GAS | LPG | 1,814 | 08.01.2025 | AWAITING |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -277,8 +234,6 @@ The Turkish scrap market has resumed activity after the year-end break, but with
 Chattogram, Bangladesh : 15 ~ 18 January | 30 January ~ 02 February Alang, India : 11 ~ 18 January | 28 ~ 31 January
 
 ---
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -313,8 +268,6 @@ The imported scrap markets across the Sub-Continent experienced a cautious tone 
 
 India's imported scrap market remained muted, with buyers shifting towards domestic procurement due to elevated seaborne offers and a weakening rupee, which pushed up import costs. UK-origin shredded scrap prices held steady at US$383/ton CFR Nhava Sheva, while offers were at US$385/ton CFR. However, bids fell below US$380/ton CFR, creating a pricing gap. HMS (80:20) from the UK and Europe was quoted at US$355-360/ton CFR, with West African HMS at US$360-370/ton CFR. Minimal deal activity was reported as traders cited a US$10/ton gap driven by currency fluctuations. Despite steady domestic billet and TMT production, oversupply and cautious sentiment dampened demand for imported scrap, with expectations of sluggish market conditions persisting.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 19
 
 **Pakistan: Subdued Trading Amid Reduced Mill Capacity**
@@ -328,8 +281,6 @@ Bangladesh's scrap market showed steady booking activity, with 15,000-16,000 t s
 ### Turkey: Price Pressures Persist Amid Ample Supply
 
 Turkey imported scrap market saw further softening, with US-origin HMS (80:20) assessed at US$343/ton CFR, unchanged from the previous day. European and US-origin deals were confirmed at lower levels, reflecting strong recycler availability. Mills pushed for additional price reductions, with bids for US scrap at US$339-342/ton CFR and EU material at US$330-335/ton CFR. Sellers resisted sharp declines, but buyers anticipated concessions amid an oversupplied market. While short-term sentiment remains bearish, some recyclers foresee tightening supply later in the year, potentially stabilising prices in the long term.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 

@@ -22,8 +22,6 @@ WEEK 30 - July 27, 2024
 
 This week in the focus, the Federal Reserve officials are poised to signal potential rate cuts in the coming months, with Chair Jerome Powell expected to hint at this during the upcoming meeting. As the Fed maintains interest rates at their highest level in over two decades, market watchers anticipate a rate cut in September. This speculation follows recent data indicating milder inflation and robust economic growth. The Fed aims to balance its goals of maximum employment and stable prices without harming the labour market. The spotlight is on Friday's jobs report, expected to show moderate hiring with nonfarm payrolls predicted to increase by 178,000, and the unemployment rate holding at 4.1%. Upcoming data on job openings and consumer confidence will also be crucial, along with the ISM factory report. In Canada, GDP data for May is expected to show a 0.2% rise, with preliminary June figures also anticipated. Globally, Japan's central bank is set to announce a reduction in bond purchases and possibly a rate hike. Pakistan's central bank is expected to cut its rate to 19.5%. Australia's June inflation data, China's PMI, and South Korea's consumer prices will be significant for regional policy decisions. In Europe, the focus is on GDP and inflation data. The euro area's growth is expected to slow to 0.2%, with inflation likely steady at 2.5%. The BOE is predicted to cut rates, marking a shift in policy amid ongoing price pressures. Saudi Arabia's economy likely contracted again due to oil production cuts, while non-oil growth remains a priority. In Africa, Mozambique's central bank is expected to cut rates for the fourth time this year. In Latin America, key data includes unemployment reports from Brazil, Mexico, Chile, and Colombia, as well as industrial output and consumer prices. Central banks in Chile, Colombia, and Brazil are set to announce rate decisions, with cuts expected in Chile and Colombia.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ The iron ore market is facing downward pressure due to seasonal low demand and w
 Panamax/Kamsarmax:
 
 The market is experiencing an upward trend, primarily driven by cargo shifts from overvalued Supramax vessels, despite weaker Brazilian corn exports compared to last year. The market is finding support from increased coal shipments from major Atlantic suppliers, attracted by Panamax competitive rates. Brazil r/v saw rates in the region of US$16,800's a day. Meanwhile, in the Pacific, markets have quietened down a bit, with most spot cargoes concluding fixtures; Pacific r/v closed the week at US$ 14,000 a day.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -69,8 +65,6 @@ Dry Bulk Values
 | SUPRAMAX | 56,000 | 34 | 42 | 36 | 28 | 16 |
 | HANDY *(amount in USD million) | 38,000 | 30 | 35 | 28 | 21 | 12 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Bulker 12 months T/C rates average (in USD/day)
@@ -100,11 +94,7 @@ Dry Bulk - S&P Report
 | CORELEADER OL | HANDY | 37,118 | 2012 | JAPAN | 17.4 | MANTA DENIZCILIK |
 | DL JASMINE | HANDY | 33,737 | 2012 | CHINA | 12.3 | LOAD LINE |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -120,8 +110,6 @@ Suezmax:
 
 The West African market saw a brief surge of optimism early in the week due to new cargo inflows. However, this quickly subsided, ending with a slightly bearish tone. 130,000mt Nigeria/UKC fell 7 points to WS87. A similar was also noted in the Middle East with 140,000mt MEG/Med route falling to WS85.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 Aframax:
@@ -133,8 +121,6 @@ Clean:
 LR: MEG/ Far East route continues to face dual challenges: an increase in available vessels and a shortage of cargo. This situation led to a significant rate drop last week, with LR1 rates in the region closing at the WS160 mark. LR2 also mirrors the same downturn with TC1 recording losses down to WS148. MR: The Far East region experienced a downward trend in rates, primarily due to reduced export volumes from China and South Korea. In the MEG, TC17 also saw big discounts with rates falling to WS200 at closing.
 
 # Baltic Exchange Tanker Indices
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -156,8 +142,6 @@ LR: MEG/ Far East route continues to face dual challenges: an increase in availa
 | QUARTZ / BERYL SILVER MONIKA SILVER EMILY SILVER AMANDA SILVER CARLA SILVER HAGUE SILVER | / / / / / / ROTTERDAM | MR | 49,990 49,680 | ~ 2015 ~ 2014 | S. KOREA 340.0 | EN BLOC | TORM |
 | NCC | TABUK | MR | 45,963 | 2006 | S. KOREA | 22.0 | UNDISCLOSED |
 | KANG YUN |  | MR | 43,407 | 1992 | TAIWAN | 4.75 | UNDISCLOSED |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 9
 
@@ -182,29 +166,16 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 43 | 34 | 27 | 22 |
 | 5,100 *(amount in USD million) | Gearless | 80 | 77 | 66 | 35 | 32 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 510 ~ 520 490 ~ 500 500 ~ 510 520 ~ 530 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 510 ~ 520 | 490 ~ 500 | 500 ~ 510 | 520 ~ 530 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
 | GADDANI, PAKISTAN | 510 ~ 520 | 490 ~ 500 | 480 ~ 490 | 520 ~ 530 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 330 ~ 340 340 ~ 350 380 ~ 390 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 330 ~ 340 | 340 ~ 350 | 380 ~ 390 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -221,8 +192,6 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 680 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 160 | 300 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -234,11 +203,7 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -250,8 +215,6 @@ Alang, India
 
 The market in Alang has taken a backseat, with domestic prices experiencing a sharp decline and no clear bottom in sight. Sentiments among recyclers in Alang remain mixed as they assess the ongoing changes and find support price levels to seek viability. Conversely, the catalyst for the domestic market downturn has been the influx of cheap imports, which are now having a negative impact. The Indian Steel Ministry is working with the Finance Ministry to implement policy measures aimed at curbing rising steel imports and protecting the domestic industry. Indian steel producers have raised concerns over the growing volume of imports, particularly from China and countries with Free Trade Agreements (FTA). These concerns were presented to Ministry officials, including the steel minister. Possible interventions include imposing duties or other trade restrictions. Recently, the Steel Ministry launched an enhanced Steel Import Monitoring System (SIMS 2.0) to better track and analyze import data. According to the annual Economic Survey of 2023-24, India became a net steel importer in FY24 due to lower international steel prices affecting export profitability. In Q1 FY25, imports surged 30% to 1.9 million tons, while exports fell 38% to 1.3 million tons. Major domestic steelmakers emphasised the urgency of quickresponse trade measures to address the situation. The Indian union budget was announced this week, and no changes were made to the steel or ship recycling industry. The only positive news from the budget was that the Government has allocated about 3.4% of the GDP equating to about US$134 billion for capital expenditure. Infrastructure investments by State Governments in the long term positive for the steel industry which would eventually give a boost to the demand of ship scrap down the line.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 The ongoing curfew over the past ten days has left the nation crippled, with internet communications completely cut off. The ship recycling industry was unreachable during this period, but internet services were restored this Friday and business is getting back to normal. Moving forward, it will be interesting to observe the market directions, especially as neighbouring countries face similar issues with cheap imports, which could shape new pricing levels.
@@ -259,8 +222,6 @@ The ongoing curfew over the past ten days has left the nation crippled, with int
 Gadani, Pakistan
 
 The ship recycling markets have now entered a period of hibernation due to the surge in steel imports impacting the local industry. Demand for ship scrap has vanished as
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -274,8 +235,6 @@ Anchorage & Beaching Position (July 2024)
 | DIYAA B | BULKER | 6,956 | 20.06.2024 | 05.07.2024 |
 
 Aliaga, Turkey
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -314,8 +273,6 @@ EXCHANGE RATES
 | 278.34 | 278.28 | -0.02% |
 | 33.09 | 33.02 | -0.21% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 ton CFR Nhava Sheva, with no bids at these prices. HMS (80:20) offers from West Africa and UK/Europe were assessed at $385-395 per ton CFR. In Pakistan, the demand for imported scrap was moderate, with limited inquiries amidst a slowdown in the domestic steel market. This was due to squeezed margins and delayed payments. Indicative offers for shredded scrap from the UK/Europe were assessed at US$425-430 per ton CFR, while offers from the UAE were at US$435-440 per ton CFR.
@@ -329,8 +286,6 @@ issues, limiting supplier connections. Market participants reported that limited
 near-term outlook due to a weak global finished steel market. Offers for HMS (80:20) scrap from the US were heard at US$389 per ton CFR. The bearish sentiment was driven by weak demand for Turkish finished steel, both domestically and for export, and a recent decline in billet prices, an alternative input for rebar production. Turkish mills have imported a significant amount of billets, impacting demand for September scrap shipments. EU recyclers' holidays and low scrap supply kept prices firm, counterbalanced by lack of demand.
 
 # HMS 1/2 & Tangshan Billet
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -347,8 +302,6 @@ regarding the demand outlook. After reaching a record high in May, prices have s
 **Aluminum found some support following the release of China's new emissions reduction**
 
 plan, which may lead to smelter capacity cuts. According to the plan, smelters must meet baseline efficiency levels by 2025 or face closure. This support was short-lived, however, with prices dropping sharply near the close of the session.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

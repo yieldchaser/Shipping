@@ -26,8 +26,6 @@ certainty. However, the truce is tariffs will return by
 
 unless further agreements materialise. The White House has set a July 9 deadline for finalising deals with 18 nations, though an extension remains possible. Observers caution that without deeper structural reforms, the peace may prove fragile and transient. While in China, the Industrial Profits Plunge, Casting Doubt on Stimulus Effectiveness. China's industrial profits fell 9.1% year-on-year in May, the sharpest drop since October 2024, highlighting continued pressure on factory margins despite ongoing stimulus efforts. Cumulative profits from January to May declined 1.1%, underscoring weak corporate earnings across key sectors. While retail sales rose 6.4% in May, buoyed by subsidies, industrial output and investment disappointed. Economists suggest further stimulus may be delayed until signs of deeper stress emerge. GDP growth is tracking at 5.2% in H1, above target, but risks remain. Export growth has shifted toward Southeast Asia and Europe amid steep U.S. declines, as tariff related uncertainty persists.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -41,8 +39,6 @@ The Pacific market saw major mining companies return to the market after a week,
 Panamax/Kamsarmax:
 
 The Atlantic continued to rise, centered around the North Atlantic, supported by ship supply shortages and continuous T/A inflows. T/A ended the week at US$12,800's a day. The Pacific on the other hand was supported by cargo from Australia and NOPAC, but levels dipped slightly from weak FFAs. Supramax/Ultramax: The Atlantic basin maintained stable levels despite a lack of new cargo from the USG, with some cargo inflows from the Mediterranean region supporting rates. Pacific meanwhile continued to see firm levels with active contracting activity from Indonesian coal and grain cargo. Pacific r/v saw rates closed at US$10,850's a day.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -65,8 +61,6 @@ The Handy segment fared well compared to the bigger sizes with all routes seeing
 | ULTRAMAX | 64,000 | 34 | 38 | 31 (E) | 23 | 15 (56K) |
 | HANDY | 38,000 | 31 | 33 | 25 | 17 | 14 |
 | *(amount in USD | million) \| (E) - eco units |  |  |  |  |  |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -93,8 +87,6 @@ The Handy segment fared well compared to the bigger sizes with all routes seeing
 | CANNY CAROLINE | HANDY | 32,070 | 2012 | JAPAN | 12.5 | UNDISCLOSED |
 | CS CRYSTAL | HANDY | 30,478 | 2010 | CHINA | 10.0 | S. KOREAN BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -113,8 +105,6 @@ Aframax:
 
 This week saw the cross-Med region, Ceyhan/Lavera stuck in typical summer doldrums with 80,000mt falling slightly to WS135 mark. On the T/A routes, USG/UKC 70,000mt rose slightly to close at WS148 at week's closing.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Clean:
@@ -128,8 +118,6 @@ losing some 40 points as situation eased. In the LR1, UKC routes remain unchange
 closing at WS226 on TC17 routes to East Africa.
 
 # Baltic Exchange Tanker Indices
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -150,8 +138,6 @@ closing at WS226 on TC17 routes to East Africa.
 | TORM DISCOVERER / TORM VOYAGER | MR | 45,979 45,916 | 2008 | CROATIA | 17.0 EACH | UNDISCLOSED |
 | ASP SUNRISE | PROD/ CHEM | 13,008 | 2014 | JAPAN | 16.0 (STST) | UNDISCLOSED |
 | SINAR MINAHASA | PROD / CHEM | 12,693 | 2007 | JAPAN | 13.0 (STST) | UNDISCLOSED |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -174,33 +160,18 @@ S&P Containers Report
 |---|---|---|---|---|---|---|
 | ESPOIR / ESCAPE | FEEDER | 1,436 | 2011 | CHINA | 20.0 EACH | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 430 ~ 440 410 ~ 420 400 ~ 410 440 ~ 450 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 430 ~ 440 420 ~ 430 | 410 ~ 420 | 450 ~ 450 | WEAK / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE/ |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 430 ~ 440 | 410 ~ 420 | 400 ~ 410 | 440 ~ 450 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 450 ~ 450 | WEAK / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE/ |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -217,13 +188,9 @@ TURKEY
 | GADDANI, PAKISTAN | 300 | 540 | 560 | - | 520 |
 | ALIAGA, TURKEY | 170 | 300 | 310 | 320 | 360 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 VESSEL NAME BITUMEN PRINCESS ANG MIN GAS SOECHI XXVIII HUGO
-
-## Shipbroking (www.star-asia.com.sg)
 
 # Ships Sold for Recycling
 
@@ -239,15 +206,11 @@ VESSEL NAME BITUMEN PRINCESS ANG MIN GAS SOECHI XXVIII HUGO
 
 ## Page 12
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
 
 Insights
 
 June 26, 2025, ushered in a significant regulatory shift for the global ship recycling industry. After more than 16 years since its adoption by the International Maritime Organisation, the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships (HKC) has officially entered into force. Designed to enhance safety, environmental protection, and transparency in ship dismantling operations, the HKC is expected to set a new international benchmark, though its practical implementation remains under scrutiny. Now that the HKC has officially entered into force, the landscape for selling end-of-life ships is undergoing a fundamental shift. All transactions must now adhere to a uniform, internationally recognised framework.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -281,8 +244,6 @@ An official certificate confirming that the ship recycling facility is authorise
 
 A vessel-specific plan that outlines how the recycling yard will dismantle a particular ship in a safe and environmentally sound way.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 It references the ship's Inventory of Hazardous Materials (IHM Parts I-III) and adapts the SRFP to the specific features of the ship. This is prepared using: The vessel's IHM The yard's SRFP as a baseline This document will be needed before the ship can receive a Ready for Recycling Certificate (RfRC). However, while these are the baseline requirements under the Hong Kong Convention, absolute clarity on implementation and practical challenges will likely emerge gradually, as the first few ships are delivered for recycling under the new regime in the coming weeks.
@@ -292,8 +253,6 @@ In terms of market dynamics, the global ship recycling sector remained largely s
 Alang
 
 The onset of the monsoon season continued to hamper yard operations. Declining demand from the construction and infrastructure sectors has pushed local steel prices lower, directly affecting breakers' appetite for tonnage. Prices for scrap ships saw further correction, with buyers maintaining a cautious stance amid uncertainty around HKC enforcement timelines and certification requirements. Domestic ship scrap prices continued their downward trajectory this week, offering no signs of relief. Melting scrap prices registered a sharp month-on-month decline of approximately 4.5%, while plate prices fell by around 4.2%. The persistent drop has weighed heavily on market sentiment. Looking ahead, ship prices are expected to remain under sustained pressure amid weak demand and bearish steel fundamentals.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -320,8 +279,6 @@ Anchorage & Beaching Position (MAY 2025)
 | GAS SOECHI XXVIII |  | LPG | 2,179 | 21.06.2025 | 26.06.2025 |
 | SIDIMI |  | RORO | 2,985 | 16.05.2025 | 16.06.2025 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Gadani
@@ -338,8 +295,6 @@ Anchorage & Beaching Position (MAY 2025)
 Aliaga, Turkey
 
 The Turkish ship recycling market remained unchanged from the previous week, with no fresh sales reported and overall activity stalled. Sentiment across the region was notably gloomy, as yards saw minimal buying interest and continued to operate at a near standstill. Ship recyclers cited sluggish sales volumes and a lack of workable tonnage as key factors weighing on momentum.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -372,8 +327,6 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 Imported scrap markets across the Sub-Continent and Turkey remained largely subdued this week, with prices staying rangebound on a day-to-day basis. Seasonal factors, soft steel demand, and ongoing geopolitical uncertainties continued to dampen buying sentiment across key regions. In India, buyers refrained from making large bookings amid declining rebar prices and the availability of more competitive domestic scrap alternatives. Pakistani mills maintained a cautious approach, influenced by regional tensions in the Middle East and anticipation of upcoming tax revisions. In Bangladesh, post-Eid market activity remained muted, with limited trade despite relatively stable pricing in the bulk segment.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 19
 
 Meanwhile, the Turkish scrap market held firm, as both buyers and sellers adopted a wait-and-watch stance. Downstream demand remained weak, but firm seller offers prevented any significant price corrections.
@@ -396,8 +349,6 @@ it is slow-moving," suggesting prices may soften without improved project activi
 
 adopted cautious stances in a subdued trading environment. US-origin bulk HMS 80:20 offers held steady at US$345 per ton CFR, unchanged from previous sessions, with US and Baltic-origin cargoes quoted in the US$345-350 per ton range. Sellers remained firm in
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 20
 
 their pricing, citing balanced market conditions supported by stable rebar prices and euro strength. However, buyers stayed on the sidelines due to weak downstream demand and uncertain rebar market dynamics.
@@ -410,8 +361,6 @@ their pricing, citing balanced market conditions supported by stable rebar price
 
 weakening U.S. dollar and renewed policy support signals from Chinese authorities. The most-active September contract on China's Dalian Commodity Exchange climbed 0.64% to settle at 705.5 yuan per metric ton, while the benchmark July contract on Singapore Exchange advanced 0.55% to US$93.25 per ton. The rally was underpinned by significant dollar weakness following President Trump's comments about replacing Federal Reserve Chair Jerome Powell, which sparked fresh concerns about central bank independence and sent the greenback tumbling to multiyear lows. This currency move makes dollar-denominated commodities more attractive to holders of other currencies, providing fundamental support for iron ore and other industrial metals. Additional momentum came from Chinese Premier Li Qiang's Thursday announcement that policymakers would implement "forceful steps" to stimulate domestic consumption, signaling Beijing's commitment to supporting economic growth despite ongoing headwinds. The broader steel complex showed mixed performance, with coking coal futures surging 3.5% to an intraday high of 819 yuan following production cuts at coal mines due to
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 21
 
 safety incidents and environmental concerns. On the Shanghai Futures Exchange, most steel benchmarks posted modest gains, including a 0.1% rise in rebar, 0.39% advance in hot-rolled coil, and 1.16% climb in stainless steel, though wire rod edged 0.06% lower. Analysts noted that iron ore shipments from Australia and Brazil have increased substantially, with major producer Vale ramping up supply to capitalise on end-ofseason demand patterns.
@@ -421,8 +370,6 @@ safety incidents and environmental concerns. On the Shanghai Futures Exchange, m
 that the squeeze on the London Metal Exchange (LME) is beginning to ease. The cash to three-month spread narrowed significantly, with contracts for immediate delivery trading at a premium of US$98/ton over the LME three-month benchmark, down sharply from US$398/ton earlier in the week. The tightness in supply has been partially attributed to record outbound shipments to the United States, as traders move to front-run expected tariffs. Meanwhile, robust demand from China has continued to support pricing momentum, reinforcing bullish sentiment despite the softening backwardation. While in the Coal sector, China has reduced coal imports and boosted exports amid strong domestic output and weakening demand. Between January and May, coal exports rose 13% to 2.5 million tons, primarily to Japan, Indonesia, and South Korea, while imports fell 8% year-on-year. Domestic production hit 5 billion tons, driven by energy security priorities and low prices. Thermal coal demand has softened due to high inventories at ports, record production, and sluggish coal-fired power generation, even as the country entered its summer peak demand season. The central government has also mandated a 10% stockpile increase for power generators, further weighing on imports. Despite rapid wind and solar deployment, coal-fired generation still hit a record 6.34 trillion kWh in 2024, though thermal power growth was the slowest in nearly a decade. China's coal association expects supply to outpace demand through year-end, suggesting import softness may persist in the near term.
 
 Iron Ore
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 22
 

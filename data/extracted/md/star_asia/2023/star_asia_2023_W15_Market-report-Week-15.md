@@ -30,8 +30,6 @@ China's Capesize markets are experiencing a decline in momentum due to the under
 
 The decline in international iron ore prices, coupled with favorable weather conditions in major exporting countries, has resulted in a surge in iron ore shipments and improved price competitiveness for imported ores. However, a recent cyclone that hit Port Hedland, Western Australia, has caused a slowdown in activity in the region. Despite this setback, some charterers
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 have been able to secure ships and obtain support in the Atlantic basin instead. Moreover, there has been a rise in ballaster supply to Brazil, which, when combined with a lack of contract activity in the North Atlantic, has put additional pressure on the market. T/A levels manage to climb slightly, with levels closing around US$ 14,400's a day. Pacific r/v, on the other hand, fell to US$ 13,200's a day.
@@ -47,8 +45,6 @@ The global Supramax market has experienced some ups and downs recently, with cer
 ## Handysize:
 
 Rates in the Atlantic region experienced a slight increase just before Greek Easter, thanks to a steady stream of cargo from the U.S. Gulf and a rise in demand for Mediterranean vessels. However, in the Pacific market, there was a decline in the NOPAC region as the inflow of Australian cargo decreased slightly and the supply of intra-regional ships increased. As a result, rates overall dropped, with some discounts being offered. Inter-Pacific levels fell to around US$6,900 per day, while T/A levels were slightly lower at around US$8,650 per day.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -95,15 +91,11 @@ BALTIC EXCHANGE DRY BULK INDICES
 | BSI | 1,096 | 1,161 | 2,497 | -5.60% | -56.11% |
 | BHSI | 628 | 653 | 1,449 | -3.83% | -56.66% |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
 
 # Tankers
 
 The E.U.'s ban on seaborne imports of Russian refined oil products, which came into effect on February 5, has caused significant disruption to traditional oil shipping routes and a surge in fuel shipping prices. Tankers carrying petroleum products are now in higher demand, and the average rates for shipping fuels have more than doubled since the ban was implemented. Russia has redirected its diesel and other petroleum products to North Africa and Asia, with these regions becoming key export outlets. Meanwhile, Northwest Europe has resorted to purchasing more diesel and other fuels from the Middle East, Asia, and North America to replace the lost Russian barrels. Countries in North Africa have started importing Russian oil products, but there is uncertainty about whether they will consume them or re-export them to Europe after blending them with
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 5
 
@@ -124,8 +116,6 @@ As market conditions in the Atlantic, including the Mediterranean Sea, improve, 
 ## Clean:
 
 LR1s experienced limited enquiry and came under pressure this week, while LR2s saw the fragmentation of cargoes into smaller sizes due to the end of a positive East/West arbitrage. Shipping rates for LR2 tankers in the M.E.G. market have softened slightly this week, with TC1 shedding five points to WS159. On the other hand, it was a strong week for M.R.s in the Med/U.K.C., but ballasters returning from across the Atlantic may haul on rates in the coming week.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -175,8 +165,6 @@ CHEM
 
 *\*(amount in USD million)*
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 7
 
 # Baltic Exchange Tanker Indices
@@ -193,8 +181,6 @@ T.C. for the container is steadily increasing this week due to China being a sou
 
 NO NEW SALE REPORTED
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 8
 
 # Containers Values
@@ -210,30 +196,21 @@ NO NEW SALE REPORTED
 | 5,500 - 7,000 | Gearless | 87 | 82 | 70 | 45 | N/A |
 | *(amount in USD million) |  |  |  |  |  |  |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
 | DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
 |---|---|---|---|---|---|
-| ALANG (WC INDIA) |  |  | CARGO |  | TREND |
 | *For green ship recycling, the prices are about | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 570 ~ 580 | WEAK / |
+| CHATTOGRAM, BANGLADESH | \*580 ~ 590 | \*560 ~ 570 | \*540 ~ 550 | \*600 ~ 610 | STABLE / |
+| GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-US$25-30/ton lower.
-
-CHATTOGRAM, \*580 ~ 590 \*560 ~ 570 \*540 ~ 550 \*600 ~ 610 STABLE / BANGLADESH
-
-GADDANI, PAKISTAN NA NA NA NA NA
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-Ship, the prices are about US$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
@@ -246,8 +223,6 @@ CHATTOGRAM, BANGLADESH 430 455 350 480 665
 GADDANI, PAKISTAN 420 430 340 470 675
 ALIAGA, TURKEY 290 280 210 255 460
 ```
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 10
 
@@ -267,8 +242,6 @@ ALIAGA, TURKEY 290 280 210 255 460
 
 # Recycling Ships Price Trend
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 11
 
 # Insight
@@ -278,8 +251,6 @@ The ship recycling industry is currently experiencing a significant downturn, pa
 **ALANG, INDIA.**
 
 Following a period of minor corrections in domestic ship scrap prices, the ship recycling markets in Alang have now stabilised. Ship scrap prices in Alang had been on the rise in the first few months of the year, driven in part by strong demand from steel mills in India and elsewhere. However, in recent weeks, there had been some downward pressure on prices as a result of slowing demand and other market factors. This week, the Alang recyclers faced disappointment as their hopes to acquire two Evergreen containers, Ever Unific and Ever Uberty, were crushed when the owner secured trading interests, leaving the recyclers without any gain. However, despite this setback, the Alang recyclers had another opportunity to acquire the "M.S.C. Nora II," a container ship weighing
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 12
 
@@ -299,8 +270,6 @@ around 10,478 MT that was reportedly sold for US$592/ton, including approximatel
 ## CHATTOGRAM, BANGLADESH
 
 This week has been marked by some exciting ship sales, with speculation reaching its peak. Despite concerns about the outcome of the Bangladesh budget and difficulties in opening letters of credit, several ships were sold on a highly speculative basis.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 13
 
@@ -333,8 +302,6 @@ As the markets approach the Eid holidays, next week will likely see a significan
 ## GADDANI, PAKISTAN
 
 This week, the International Monetary Fund (I.M.F.) has expressed its approval of Pakistan's announcement that it has secured vital bilateral support from key partners. The I.M.F. has stated that it eagerly awaits further "financing assurances" from Pakistan, which would enable the longdelayed ninth review of the US$7 billion loan program to be completed as soon as possible. The country's dwindling foreign reserves, which currently stand at just US$4 billion, are adding to the challenges faced by the economy on the external front, owing to the burden of debt repayment. As a result, importers are finding it increasingly difficult to source external funding to sustain their businesses, leaving them in a state of distress.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 14
 

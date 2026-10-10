@@ -22,8 +22,6 @@ WEEK 27 - July 6, 2024
 
 This week's big news was from the U.K. elections, Labour Secures 326-Seat Milestone to Win UK Election. In a dramatic turn of events, Labour has not only clinched the UK election with a 326-seat majority but also witnessed the near-total collapse of the Scottish National Party (SNP). Back in 2019, the SNP dominated Scotland by winning 48 out of 59 seats, leaving Labour with just one. However, results reveal a seismic shift: Labour surged to 37 seats, while the SNP plummeted to seven. This follows a tumultuous period culminating in the resignation of SNP leader Humza Yousaf in May. While across the Atlantic, in the U.S., the Federal Reserve Chair has expressed cautious optimism about the progress made on inflation over the past year during a central banking forum in Portugal. While acknowledging significant strides in bringing inflation closer to the Fed's 2% target, Powell emphasised the need for more consistent evidence of sustainable downward movement before considering interest rate cuts. Powell highlighted the delicate balance the Fed must maintain: acting too soon could undo progress made in controlling inflation, while moving too late might unnecessarily hinder economic recovery and expansion. He noted that the risks of these two scenarios have become more balanced this year as inflation has eased while the economy and labour market have remained robust. Despite market expectations for potential rate cuts later this year, Powell refrained from committing to specific timelines. He emphasised the Fed's focus on data-driven decision-making rather than predetermined schedules or political considerations. The Fed Chair's comments come amid a global context where some central banks, including the European Central Bank, have begun to ease their monetary policies. However, Powell's stance suggests that the Fed will continue its cautious approach, prioritising sustained progress towards its inflation target before initiating any policy loosening.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ In the Pacific, the market showed resilience due to the consistent vessel demand
 Panamax/Kamsarmax:
 
 The Atlantic market is experiencing a quiet start of the week, yet there are signs of an attempt to establish a price floor after two consecutive weeks of decline. This suggests a potential pushback against the recent levels as market participants seek to stabilise prices. T/A levels fell to US$11,700's a day at the end of the week. In contrast, the Pacific continues to face discounts on rates despite a steady influx of cargoes. Pacific r/v levels were at US$12,850's a day. The persistent oversupply of vessels relative to demand is maintaining a bearish market structure. Supramax/Ultramax: The Atlantic is experiencing mixed signals. While there has been an increase in grain
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -58,8 +54,6 @@ Bulker 12 months T/C rates average (in USD/day)
 | PANAMAX | 75,000 | 15,000 | 15,400 | 11,500 | -2.60% | +30.43% |
 | SUPRAMAX | 58,000 | 15,000 | 15,000 | 10,750 | 0 | +39.53% |
 | HANDYSIZE | 38,000 | 14,500 | 15,000 | 9,850 | -3.33% | +47.21% |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -84,8 +78,6 @@ Bulker 12 months T/C rates average (in USD/day)
 | GOLD DUST | HANDY | 28,420 | 2012 | JAPAN | 12.0 | VIETNAMESE BUYERS |
 | LORD MOUNTBATTEN | HANDY | 28,207 | 2011 | JAPAN | 11.5 | SYRIAN BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -102,8 +94,6 @@ Suezmax:
 
 Suezmax faced challenges this week with USG seeing weakness, prompting some Atlantic charterers to convert to VLCCs. This has led to subdued demand across the segment. Meanwhile, West African market remained quiet, ending the week on a soft
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 note due to lackluster demand. 130,000mt Nigeria/UKC fell some 10 points to WS100.
@@ -117,8 +107,6 @@ Clean:
 LR: Despite an increase in fixtures at the start of the week for MEG/Far East routes, LR2 saw a significant downturn. Levels closed at WS180, marking discounts of 18 points. Similar was also noted in the LR1 in the UKC region with little activities recorded. TC16 closed the week lower at WS138. MR: MEG markets fared badly this week with TC17 to E.Africa falling some 55 points to WS248. This is expected to continue next week due to mounting pressure in the region. In the Far East, the market initially saw rates improve, driven by a surge in cargo influx. However, this was tempered as charterers felt the pinch of rising rates, with cargo conversion to LR tankers for B/H voyages.
 
 # Baltic Exchange Tanker Indices
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -143,8 +131,6 @@ PRICE 69.8 18.0 69.0 ENBLOC
 
 COMMENTS / BUYERS EASTERN PACIFIC UNDISCLOSED NORWEGIAN BUYERS
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 # Containers
@@ -153,22 +139,14 @@ The prolonged high freight rates are prompting shippers to opt for early shipmen
 
 # Containers S&P Report
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 510 ~ 520 500 ~ 510 510 ~ 520 530 ~ 540 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 510 ~ 520 | 500 ~ 510 | 510 ~ 520 | 530 ~ 540 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 330 ~ 340 | 340 ~ 350 | 380 ~ 390 | STABLE / |
 
@@ -187,8 +165,6 @@ ALANG (WC INDIA) 510 ~ 520 500 ~ 510 510 ~ 520 530 ~ 540 WEAK /
 | GADDANI, PAKISTAN | 410 | 305 | 680 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 190 | 300 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ships Sold for Recycling
@@ -199,11 +175,7 @@ ALANG (WC INDIA) 510 ~ 520 500 ~ 510 510 ~ 520 530 ~ 540 WEAK /
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -215,8 +187,6 @@ Alang, India
 
 The mood in Alang has significantly dampened as domestic ship scrap prices have taken a nosedive. Recyclers are currently hesitant to make offers and struggling to comprehend the sharp price declines. Recent ship sales are now viewed as costly acquisitions, with many hoping for a significant price rebound to make these purchases viable. Some recyclers are attempting to buy more to average the previous purchases. Market experts attribute the price pressure to weak demand and the monsoon season, predicting continued challenges ahead. Additionally, India faces a significant challenge from cheap Chinese imports, with hot-rolled coil (HRC) prices for commercial-quality base grades offered at US$530-$535 per ton, further complicating the situation for domestic steel mills. In response to the influx of cheap Chinese imports, Indian ministers reportedly discussed potential measures to curb rising imports, particularly from China. Domestic producers have called for an increase in customs duties to protect local industries. However, according to sources, any governmental action remains speculative at this point, with no immediate measures expected.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
 
 Indian export activity to Europe remains minimal due to persistent weak demand and limited offers from Indian mills. The country continues to stay off the export market, focusing on domestic challenges instead. Looking ahead, the outlook for ship recycling markets remains bleak. Prices continue to lag, with some recyclers showing interest in revised, lower prices in an effort to average out previous high-value purchases. The market remains in a state of uncertainty, awaiting potential government interventions and hoping for a turnaround in demand. However, if one looks at the larger picture, India's ambitious infrastructure initiatives are projected to drive steel demand to unprecedented levels, ranging between 221 to 275 million tons by FY34, according to a recent report. This surge highlights the pivotal role of infrastructure projects in advancing the steel industry. With such substantial growth anticipated, the sector is set for remarkable expansion, fueled by strong government initiatives.
@@ -227,8 +197,6 @@ Chattogram, Bangladesh
 
 This week witnessed a notable decline in domestic ship scrap prices, ending a prolonged period of stability. This trend mirrors similar developments in India, creating discomfort and confusion among recyclers. The abrupt drop has prompted industry participants to reassess its impact and seek clarity on future market directions. In Bangladesh, the onset of the monsoon season traditionally signals a slowdown in activity. Recyclers, however, have accumulated substantial inventories, particularly from Chinese domestic ships, ensuring they remain occupied in the coming months as they closely monitor market conditions. Overall, the Bangladeshi ship recycling market continues to adopt a cautious stance, with limited demand as recyclers navigate a period of uncertainty. Current market conditions have led many industry players to remain on the sidelines, awaiting clearer trends before making significant moves.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 Gadani, Pakistan
@@ -236,8 +204,6 @@ Gadani, Pakistan
 The markets are witnessing a large influx of cheap semi-finished and finished steel products from China, dampening sentiment and mood. The underlying demand for scrap in a limited mill capacity has turned around the dynamic lately. Very few recyclers are keen to acquire ships for recycling, while a vast majority turn into traders of finished steel products. The markets sentiments in Pakistan have soften dramatically as lack of ships initially also played a frustrating role amongst the recycling community, leading diversifications. To bring the lost sentiments back to normal may require a lot of parameters in check, including the ailing demand for steel due to the domestic economy slowing down.
 
 Aliaga, Turkey
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -274,8 +240,6 @@ Overall, the Sub-Continent scrap markets exhibited diverse trends, with India's 
 
 offer gaps and the availability of more economical domestic alternatives. Shredded scrap from the US and UK/Europe was priced at US$410-415 per ton CFR Nhava Sheva, but there were no takers at these levels. Offers for West African and UK/European HMS (80:20) were assessed at US$385-390 per ton CFR. In Pakistan, demand for imported scrap slowed as buyers adjusted purchases amid domestic market volatility and rising imported scrap prices. Offers for shredded scrap from the UK/Europe were evaluated at US$425-430 per ton CFR Qasim.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 "Container shortages are affecting suppliers, likely increasing freight costs similar to the spikes seen during the 2020 pandemic," noted a steel mill official. "Safety issues on the Red Sea route have led vessels to divert through the longer Cape Town route to South Asia, raising shipping times and operational expenses. Given these logistical challenges, a reduction in freight rates appears unlikely in the near future."
@@ -285,8 +249,6 @@ offer gaps and the availability of more economical domestic alternatives. Shredd
 sluggish domestic steel market during the rainy season. Buyers shifted their preference towards Australian and Singapore-origin scraps. Reports indicated the booking of two bulk vessels from Singapore, each carrying 8,000 tons of HMS 70:30 at an average price of US$400 per ton CFR Chattogram. Freight rates from Singapore to Bangladesh hovered around US$40-45 per ton. Additionally, around 3,000 tons of HMS (80:20) were booked from Australia at US$405 per ton CFR Chattogram. The Turkish imported scrap market remained stable following a recent US-origin deal, with offers for HMS (80:20) holding steady at US$390 per ton CFR. European recyclers faced competitive pressures with offers slightly below US-origin prices, while Turkish mills expressed cautious optimism amid market quietude.
 
 # HMS 1/2 & Tangshan Billet
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -306,8 +268,6 @@ Iron Ore
 |---|---|---|---|---|---|---|
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 114 | +7.54% | +4.58% | 106 | 109 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 117 | +8.33% | +7.33% | 108 | 109 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

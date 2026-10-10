@@ -26,8 +26,6 @@ Global economists and central banks all share a common view: interest rates are 
 
 B.D.I., extended its winning streak for the seventh consecutive week, primarily driven by capesize strength. The overall index experienced a 5.3% weekly increase despite a 25- point drop to 2,046. BCI fell by 77 points to 3,556. The average daily earnings slipped by US$637 to US$29,493. Concerns about China's property market and lower-than-expected steel production have led to a decline in iron ore futures, impacting capesize rates. B.P.I. showed a modest 0.2% increase, adding 3 points to reach 1,638. Average daily earnings for Panamax climbed by US$19 to US$14,738. Among smaller vessels, B.S.I. index remained steady at 1,287, registering a 1.5% gain for the week.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 Capesize:
@@ -41,8 +39,6 @@ In the Atlantic, coal from the North is supporting the market, but overall, ther
 Handysize:
 
 Handysize segments also witness similar weakness as per the bigger units. Levels all across took a dip at the week's closing, with rates seeing at least a US$100 discount. In the Pacific, there were limited new cargoes coupled with a surplus of available ships, driving rates downward. Inter Pacific closed at an average US$8,300 a day, while T/A saw a jump from the previous day to US$11,200 a day.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -77,8 +73,6 @@ Handysize segments also witness similar weakness as per the bigger units. Levels
 | BSI | 1,287 | 1,266 |  | 1,678 | +1.66% | -23.30% |
 | BHSI | 689 | 684 |  | 961 | +0.73% | -28.30% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Bulker 12 months T/C rates average (in USD/day)
@@ -93,8 +87,6 @@ Handysize segments also witness similar weakness as per the bigger units. Levels
 ## Tankers
 
 Big news for the tanker markets this week was the U.S. has decided to relax its six-yearold sanctions against Venezuela, issuing a six-month license allowing transactions in Venezuela's oil sector. This move follows an agreement between the Venezuelan administration and opposition leaders to ensure fair elections in 2024. The Latin American country's petrochemical industry is poised to increase crude oil production by approximately 25%, pumping an additional 200,000 BPD. This positive development could lead to increased cargo flow in the tanker market in the next few weeks. While Venezuelan crude oil production has risen to 0.8 million BPD from 0.3 million BPD in 2020, it remains below the pre-2017 level of 2.5 million BPD. The state-run oil company,
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -111,8 +103,6 @@ Increased shipments from Brazil and Nigeria contribute to growing demand. The We
 Aframax:
 
 Aframax vessels experienced a 7% increase in W.S. rates for the MEG/SE Asia route, attributed to a decrease in available ships in the Suez East area and the influx of October-end chartering demand. Despite the strong market conditions in the Atlantic region, there are limitations on the inflow of cargo to the Middle East. The market displayed firming rates for shorter voyages, while the trans-Atlantic sector saw a softening. 70,000mt E.C. Mexico/U.S.G. surged 55 points to WS267.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -138,8 +128,6 @@ MR: It was a quiet week in the U.K.C. at the start, with activity seeing a peak 
 | BDTI | 1,274 | 1,149 |  | 1,737 | +10.88% | -26.66% |
 | BCTI | 763 | 748 |  | 1,232 | +2.01% | -38.07% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers Values
@@ -162,8 +150,6 @@ MR: It was a quiet week in the U.K.C. at the start, with activity seeing a peak 
 | LR1 | 74,000 | 30,750 | 30,750 |  | 37,500 | 0 |  | -18.00% |
 | MR | 47,000 | 26,000 | 26,000 |  | 27,500 | 0 |  | -5.45% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -175,8 +161,6 @@ This week witnessed a general strengthening of container spot freight rates, wit
 | VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
 |---|---|---|---|---|---|---|
 | MSC REN V | PMAX | 4,515 | 2002 | S. KOREA | 18.5 | UNDISCLOSED |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 9
 
@@ -192,29 +176,16 @@ This week witnessed a general strengthening of container spot freight rates, wit
 | 5,500 - 7,000 | Gearless | 93 | 78 | 66 | 41 | N/A |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 520 ~ 530 500 ~ 510 500 ~ 510 530 ~ 540 WEAK /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | IMPROVING/ |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 520 ~ 530 | 500 ~ 510 | 500 ~ 510 | 530 ~ 540 | WEAK / |
+| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | IMPROVING/ |
 | **GADDANI, PAKISTAN | 510 ~ 520 | 500 ~ 510 | 480 ~ 490 | 510 ~ 520 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 300 ~ 310 290 ~ 300 280 ~ 290 310 ~ 320 WEAK /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 300 ~ 310 | 290 ~ 300 | 280 ~ 290 | 310 ~ 320 | WEAK / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -231,8 +202,6 @@ TURKEY
 | GADDANI, PAKISTAN | 440 | 360 | 380 | 610 | 580 |
 | ALIAGA, TURKEY | 270 | 220 | 205 | 295 | 330 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -244,11 +213,7 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -270,8 +235,6 @@ Anchorage & Beaching Position (October 2023)
 | NEVEY | FISHING | 3,435 | 17.10.2023 | 21.10.2023 |
 | MSC LEVINA | CONTAINER | 12,857 | 17.10.2023 | 20.10.2023 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 | HAL ANANT | OFFSHORE | 4,092 | 16.10.2023 | 20.10.2023 |
@@ -292,8 +255,6 @@ Anchorage & Beaching Position (October 2023)
 Chattogram, Bangladesh
 
 This week marked a positive start for the Bangladeshi recyclers, with recyclers coming out of their hard shell trying to gauge the markets and positioning themselves to re-enter the buying spree amid the resumption of domestic ship plates sales last week and melting scrap this week at a price fixed by the recycling association. Meanwhile, banks in Bangladesh are set to implement a uniform exchange rate for the U.S. dollar in an effort to address ongoing foreign currency instability. The move is part of the central bank's initiative to adopt a market-based exchange rate in line with conditions attached to the International Monetary Fund's US$4.5 billion loan. The decision, made during a virtual meeting attended by the Bangladesh Foreign Exchange Dealers Association and the Association of Bankers, Bangladesh, establishes a rate of Tk 109.50 for buying and Tk 110 for selling the U.S. dollar, effective from the first working day of the following week. This decision aims to curb the multiple pricing of the U.S. dollar blamed for the instability. The country's foreign exchange reserves have been declining, standing at US$23.06 billion as of August 30, reflecting a 25% decrease over the past year. The falling trend of foreign exchange reserves and overdue foreign debt repayment are considered significant concerns for the economy. Experts emphasise the need for a market-based exchange rate for a sustainable solution and warn about the impact on remittance earnings if the gap between formal and informal exchange rates persists.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -322,8 +283,6 @@ Anchorage & Beaching Position (October 2023)
 
 VESSEL NAME TYPE LDT ARRIVAL BEACHING
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 NIKOS BULKER 9,743 02.10.2023 03.10.2023
@@ -349,8 +308,6 @@ PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
 | ROTTERDAM | 622 | 542 | 885 |
 | HOUSTON | 634 | 521 | 938 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 ## HMS 1/2 & Tangshan Billet
@@ -360,8 +317,6 @@ PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
 Insight
 
 Worldsteel has revised its 2023 global steel demand forecast to reflect a 1.8% year-onyear growth, down from the 2.3% projected in April. This adjustment is attributed to persistently high-interest rates, which are curbing both investment and consumption and a slowdown in manufacturing despite easing supply chain issues. The main sources of uncertainty are China's ongoing structural transition and escalating geopolitical conflicts. Anticipated steel demand for 2023 is estimated at 1.81 billion tons, with a further 1.9% increase projected for 2024, reaching 1.85 billion tons. The recovery of steel demand in advanced economies is expected to be slow in 2024 due to the delayed impact of tightening monetary policies. Meanwhile, emerging economies, particularly in Asia, exhibit more resilience. Chinese steel demand in 2023 is set to grow by 2%, driven by infrastructure investments and a stabilising property sector. However, 2024's outlook for China remains uncertain,
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

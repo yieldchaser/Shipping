@@ -28,8 +28,6 @@ Capesize:
 
 While the recovery of iron ore cargo in the Pacific is showing slow progress, the market is experiencing a significant decline as the previously supportive Australian coal market is gradually stabilising. Pacific r/v levels fell some US$1,800 to US$25,000 a day at closing. The impact of shipowners and cargo owners rushing to conclude agreements to avoid uncertainties arising from the EU Emissions Trading System implemented starting early next year also played a part. In the Atlantic, despite a relatively tight supply, the ongoing demand slump is exerting downward pressure on the market, leading to a sustained bearish sentiment.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 Panamax/Kamsarmax:
@@ -57,8 +55,6 @@ The subdued atmosphere continues due to weak demand in South America, but improv
 | HANDY | 38,000 |  | 30 |  | 33 | 26 | 17 | 6 |
 | *(amount in USD | million) |  |  |  |  |  |  |  |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 3
 
 VESSEL NAME HERUN CHINA KAI OLDENDORFF AQUAVITA SOL / AQUAVITA SEA CYMONA GALAXY ZHE HAI 169 ATLANTIC ALTAMIRA VULLY HANDY
@@ -66,8 +62,6 @@ VESSEL NAME HERUN CHINA KAI OLDENDORFF AQUAVITA SOL / AQUAVITA SEA CYMONA GALAXY
 Bulker 12 months T/C rates average
 
 TYPE DWT CAPESIZE 180,000 PANAMAX 75,000 SUPRAMAX 58,000 HANDYSIZE 38,000
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Dry Bulk - S&P Report
 
@@ -107,8 +101,6 @@ Aframax:
 
 The pressure on ship supply in the Middle East is eased by the increased shift of vessels to the Mediterranean, limiting the extent of the decline. On the other side of the Atlantic, the market continued to decline. 70,000mt Covenas/USG fell by 32 points to WS134, while same-size USG/UKC weakened by 17 points to WS159.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 Clean:
@@ -132,8 +124,6 @@ LR: In the MEG, LR2 activity increased, leading to optimistic freight resurgence
 | INDICES | CURRENT | LAST | WEEK LAST | YEAR | W-O-W CHANGE |
 | BDTI | 1,145 | 1,172 |  | 2,110 |  |
 | BCTI | 856 | 833 |  | 1,835 |  |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 PRICE 30.0 32.5 47.0 19.1 12.0 9.25
 
@@ -165,8 +155,6 @@ NB PROMPT 5 YEARS 10 YEARS 15 YEARS DELIVERY
 | 31,750 | 42,500 | 0 | -25.29% |
 | 26,000 | 30,250 | 0 | -14.05% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Containers
@@ -192,29 +180,16 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 36 | 28 | 15 | 12 |
 | 5,500 - 7,000 *(amount in USD million) | Gearless | 93 | 76 | 64 | 36 | N/A |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 510 ~ 520 490 ~ 500 500 ~ 510 520 ~ 530 STABLE /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 510 ~ 520 | 490 ~ 500 | 500 ~ 510 | 520 ~ 530 | STABLE / |
+| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | STABLE / |
 | **GADDANI, PAKISTAN | 510 ~ 520 | 500 ~ 510 | 500 ~ 510 | 520 ~ 530 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For EU* 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For EU Ship, the prices are about US$20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -231,15 +206,11 @@ TURKEY
 | GADDANI, PAKISTAN | 415 | 365 | 400 | 610 | 500 |
 | ALIAGA, TURKEY | 280 | 240 | 245 | 330 | 260 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ships Sold for Recycling
 
 ## Recycling Ships Price Trend
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 | TYPE | PRICE (US$/LDT) | COMMENTS |
 |---|---|---|
@@ -248,8 +219,6 @@ TURKEY
 ENOUGH TO REACH ALANG CONTAINER 520 AS IS ZHOUSHAN, CHINA
 
 ## Page 10
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 11
 
@@ -261,8 +230,6 @@ Once again, the freight markets took centre stage, leaving the hopes of getting 
 - Foreign ships are recycled in the UAE.
 - Foreign ships where the decision to recycle was made while the vessel was in UAE waters.
 - Foreign ships commencing the final voyage for recycling directly from UAE waters. In addition, new ships under the UAE flag must have an Inventory of Hazardous Materials (IHM) on board, identifying hazardous materials, their location, and quantities. Existing UAE-flagged ships must comply with IHM requirements by June 26, 2030, or before undergoing recycling. By aligning with the European Ship Recycling Regulation, the UAE aims to attract responsible ship owners and foster high-standard, environmentally conscious practices
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -284,13 +251,9 @@ Chattogram, Bangladesh
 
 Over the past few weeks, a consistent status quo has persisted, with no discernible shifts in the existing parameters. Despite this stability, there's a noteworthy aspect on the domestic front - demand from mills remains unwavering. This steadiness is particularly notable in the context of the rising prices associated with imported ferrous scrap. As the clock ticks closer to the upcoming elections scheduled for January 7, 2024, the recycling industry is slowly awakening. Despite the anticipation surrounding the leadership
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
 
 outcome, the current scenario depicts a measured level of activity. The elections are not only a political spectacle but also a crucial barometer for observers, providing insights into the course of the domestic currency and the government's stance on persisting issues, particularly the ongoing challenges with Letters of Credit. Against the backdrop of a significant foreign exchange crisis gripping the economy, all eyes are on how the electoral process unfolds, with implications extending beyond political dynamics to the resolution of pressing economic issues. Bangladesh faces escalating pressure on its foreign exchange reserves, burdened by unpaid liabilities totalling billions of dollars owed to foreign creditors, energy companies, and international firms.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -307,8 +270,6 @@ Chattogram, Bangladesh : 12 ~ 15 December | 26 ~ 29 December Alang, India : 11 ~
 ## Global ferrous scrap insight
 
 Global ferrous scrap prices witnessed a noteworthy surge, ranging from 1-8% over the week, primarily propelled by assertive procurement by Turkish mills ahead of the winter holidays. Turkish mills strategically secured 15-18 bulk cargoes, contributing significantly to the upward trajectory. Simultaneously, Pakistani buyers exhibited proactive engagement in booking imported scrap, anticipating further price escalations from suppliers. Contrastingly, in India, buyers exercised caution, abstaining from importing scrap. Their decision was influenced by the availability of cost-effective domestic materials, coupled with a substantial price gap. A similar trend unfolded in Bangladesh, where a limited number of buyers participated, due to the fact in delays in opening LCs and prevailing uncertainty linked to impending elections.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -335,8 +296,6 @@ EXCHANGE RATES
 
 ## HMS 1/2 & Tangshan Billet
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 ## Commodities
@@ -355,8 +314,6 @@ Iron Ore
 |---|---|---|---|---|---|---|
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 136 | +3.03% | +22.5% | 132 | 111 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 138 | +3.75% | +26.6% | 133 | 109 |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 

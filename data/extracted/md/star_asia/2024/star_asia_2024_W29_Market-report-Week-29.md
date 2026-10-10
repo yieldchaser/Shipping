@@ -22,8 +22,6 @@ WEEK 29 - July 20, 2024
 
 This week the third Plenum meeting held in China finished with President Xi Jinping unveiled at the Third Plenum, provided little incentive for markets, who now await more detailed guidelines. The readout indicated that Beijing would continue pursuing "highquality development" but did not hint at major stimulus to boost demand or address the property slump. Some analysts had varied reactions, and the majority of them viewed the plenum as a non-event, predicting choppy markets due to trade war fears and a lack of fiscal stimulus. In a nutshell, there was a lack of any major policy shift in China. While across the Pacific in the US, the political landscape was seen shaping up with a Presidential nomination race. The majority urged Biden to withdraw, aiming to boost the party's chances in November. High-profile donors, including Ari Emanuel and Alan Jones, have lobbied senior Democrats to persuade Biden to step down. Despite efforts by allies like Hillary and Bill Clinton to retain donor support, Biden remains resolute. The most significant blow came from a Washington Post report stating that former President Barack Obama told allies that Biden's chances of victory had greatly diminished. Obama reportedly advised that Biden needs to seriously consider the viability of his campaign. On the other hand, former President Trump accepted the Republican nomination. Meanwhile, in Europe, The European Central Bank maintained its interest rates at 3.75% in a unanimous vote, signaling caution amid persistent domestic price pressures and high services inflation. Despite a minor dip in Eurozone headline inflation to 2.5% in June, core inflation remained steady at 2.9%. ECB President Christine Lagarde emphasised the need for more data before further easing monetary policy, noting that wage growth and weak productivity continue to drive labour costs. While the ECB remains open to a potential rate cut in September, market expectations suggest two 25 basis point cuts by year-end. European markets showed minimal reaction, with the euro slightly down against the U.S. dollar but up against the British pound. The ECB's cautious approach reflects a commitment to data-driven decisions amidst fluctuating inflation trends.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ The iron ore market is experiencing fluctuations throughout the week, caught bet
 Panamax/Kamsarmax:
 
 The market is showing signs of recovery, led by the Atlantic, despite seasonal slowdowns in coal demand from China and India. This upturn is driven by a market rebound and freight rate disparities between vessel sizes. T/A levels climb to US$13,000's a day. India's coal imports remain low due to pre-monsoon stockpiling, while Brazil's corn exports are expected to surge significantly in July. In the Pacific, demand recovery in Southeast Asia and NOPAC has led to a rough balance between supply and demand.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -63,8 +59,6 @@ The Handy market saw some uptick this week unlike the bigger counterparts. Rates
 | SUPRAMAX | 56,000 | 34 | 42 | 36 | 28 | 16 |
 | HANDY | 38,000 | 30 | 35 | 28 | 21 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -93,11 +87,7 @@ The Handy market saw some uptick this week unlike the bigger counterparts. Rates
 | LAGO DI CANCANO / LAGO DI COMO | HANDY | 37,666 | 2014 | CHINA | 38.0 EN BLOC | UNDISCLOSED |
 | VOGE MIA / VOGE EMMA | HANDY | 36,866 | 2011 | S. KOREA | 30.5 EN BLOC | TURKISH BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -116,8 +106,6 @@ The West African Suezmax market remained stable, mirroring the previous week. Th
 Aframax:
 
 The MEG market ended the week with declining rates. This was a result of ample vessel availability and weakness in larger vessel classes, which has expanded charterers'
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -154,8 +142,6 @@ CHANGE
 | MR | 51,000 | 52 | 54 | 47 | 39 | 28 |
 | *(amount in USD million) |  |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 # Tanker 12 months T/C rates average (in USD/day)
@@ -181,8 +167,6 @@ Tankers S&P Report
 | ATLAS STAR | MR | 38,289 | 2008 | CHINA | 23.25 | ANCORA |
 | PEARL MAYA | SMALL | 7,999 | 2018 | CHINA | 16.5 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # Containers
@@ -194,8 +178,6 @@ A Singapore-flagged container ship, Lobivia, was attacked by Houthi forces south
 | VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
 |---|---|---|---|---|---|---|
 | WARNOW CHIEF | FEEDER | 1,496 | 2009 | CHINA | 11.0 | ERASMUS CORP |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
@@ -209,22 +191,14 @@ A Singapore-flagged container ship, Lobivia, was attacked by Houthi forces south
 | 5,100 | Gearless | 80 | 77 | 61 | 35 | 32 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 510 ~ 520 490 ~ 500 500 ~ 510 520 ~ 530 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 510 ~ 520 | 490 ~ 500 | 500 ~ 510 | 520 ~ 530 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 330 ~ 340 | 340 ~ 350 | 380 ~ 390 | STABLE / |
 
@@ -243,8 +217,6 @@ ALANG (WC INDIA) 510 ~ 520 490 ~ 500 500 ~ 510 520 ~ 530 WEAK /
 | GADDANI, PAKISTAN | 410 | 305 | 640 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 190 | 300 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
 # Ships Sold for Recycling
@@ -258,11 +230,7 @@ ALANG (WC INDIA) 510 ~ 520 490 ~ 500 500 ~ 510 520 ~ 530 WEAK /
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -273,8 +241,6 @@ This week saw little change in the Indian sub-continent markets, with domestic s
 Alang, India
 
 The markets in Alang remained weak, with sentiments depressed. There has been no remorse for the Alang recyclers to seeing the bottoming out on domestic ship scrap prices. On a daily basis, there was a drop bit by bit, wiping out the gains seen in the last month and turning negative. A fresh MSC container ship called the "MSC Iris" 1982 German-built, weighing about 10,655 tons, was reported sold for green recycling at the price of US$526 and it was surprising to note the levels being achieved were about US$20/ton down from the last done deal of such a container. This is a clear reflection of the market status in Alang at this moment. Overall, markets are subdued and awaiting a significant bounce back in the domestic ship scrap prices as well as concerns about the domestic demand, which has been on a roller coaster ride for the past few years. On the brighter side, this week in an official announcement from the Gujarat Maritime Board (GMB), a delegation from the European Parliament is set to visit Alang in January/February 2025 to audit the ship recycling yards. This visit is part of the Parliament's ongoing efforts to ensure compliance with international environmental and safety standards.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -292,8 +258,6 @@ Anchorage & Beaching Position (July 2024)
 Chattogram, Bangladesh
 
 This week, the nation was gripped by intense domestic unrest as protests erupted over government job quotas. The situation escalated to the point where communication channels were blocked, significantly disrupting business activities. The tension between students and the government remains high, with no immediate resolution in sight. In Chattogram, the ship recycling market continues to face challenges amid falling domestic ship scrap price which remains on a downward trend, further aggravated by the widening price differential between ship scrap and ship scrap plates. This gap has now reached approximately US$148/ton, a historically high and unsustainable level in the
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -317,8 +281,6 @@ Gadani, Pakistan
 
 This week, the Gadani markets demonstrated stability in contrast to neighbouring regions. Despite steady demand, the lack of available ships resulted in minimal activity. This balance of supply and demand maintained market stability, with no significant fluctuations reported. On the domestic economic front, the Shehbaz Sharif-led government has secured a crucial three-year, US$7 billion aid package from the IMF, offering much-needed relief to Pakistan, the Washington-based institution announced on Saturday. Moody's welcomed the deal, noting that it would enhance Pakistan's (Caa3 stable) funding prospects by
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 providing credible financing sources and catalysing support from other partners to meet the nation's external financing needs. However, Moody's stressed the importance of sustained reform implementation to unlock continuous financing and ease government liquidity risks. The new IMF program mandates significant reforms, including tax base expansion, energy tariff adjustments, and improvements in state-owned entities' management. These measures aim to restore energy sector viability, phase out agricultural subsidies, and liberalise trade policy. Despite these efforts, Moody's cautioned that social tensions from high living costs and political instability could hinder reform progress. With foreign reserves below necessary levels, Pakistan faces substantial external financing needs of US$21 billion by June 2025 and US$23 billion for 2026-27.
@@ -330,8 +292,6 @@ Aliaga, Turkey
 Chattogram, Bangladesh : 21 ~ 24 July | 4 ~ 7 August Alang, India : 19 ~ 27 July | 31 July ~ 8 August
 
 ---
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -368,15 +328,11 @@ significant bid-offer disparities. Shredded scrap offers were around US$410-415/
 
 leading to minimal activity and curtailed offers and bids. Shredded scrap offers from the UK/Europe remained steady at US$425-430/t CFR Qasim, with limited buyer interest. The domestic steel market was moderate, with buyers purchasing as needed and local scrap
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 19
 
 prices rising to PKR 150,000-160,000/t. Despite stable domestic rebar and billet prices, limited purchasing power resulted in few major sales. As the market reopened post- Muharram, expectations of increased production costs and declining raw material inventory suggested potential price hikes. Imported ferrous scrap offers into Bangladesh increased by up to US$2/t w-o-w for containerised scrap, while buyers in the Dhaka region showed less interest due to liquidity concerns. Bulk offers from the US and Japan were absent as major players adopted a wait-and-watch approach. Mid-week, the market remained largely closed due to Muharram observance. In Dhaka, several mills are up for sale, with some owners looking to sell plants along with the land, indicating industry de-growth. Workable levels for imported ferrous scrap were US$410/t for Australian HMS (80:20), US$420-422/t for UAE HMS 1 and PNS mix, US$427-430/t for European shredded, and US$420-425/t for US shredded. The preference for Australian, Singaporean, and Malaysian materials persisted, but higher freight rates hindered significant bookings. Student protests against quotas led to blocked roads and railways, disrupting scrap and steel movements. The Turkish imported ferrous scrap index held steady with a slight rise mid-week, currently at US$389-390/t CFR, reflecting limited market activity. Early in the week, market operations were subdued due to the Turkish Democracy and National Solidarity holidays. By the weekend, deals from the US and Europe were reported in the US$383-392/t range. Collection costs for HMS in the Benelux region remained at a minimum of €320/t delivered to docks, with overall market stability despite the holiday lull.
 
 # HMS 1/2 & Tangshan Billet
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 
@@ -396,8 +352,6 @@ Iron Ore
 |---|---|---|---|---|---|---|
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 108 | -2.70% | -5.26 | 114 | 111 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 111 | -5.12% | 0% | 117 | 111 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 21
 

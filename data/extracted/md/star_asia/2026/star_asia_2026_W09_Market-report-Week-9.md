@@ -22,8 +22,6 @@ pages: 20
 
 An unprecedented joint military strike by the United States and Israel against Iran over the weekend has sharply escalated geopolitical tensions in the Middle East, surpassing prior cycles of retaliation and raising concerns over regional stability. Tehran has framed the confrontation as an existential threat, responding within hours through missile launches targeting locations in Israel as well as US-aligned facilities across Qatar, the United Arab Emirates, and Bahrain. Iran has also warned of potential strikes against American bases in Iraq, signaling a broader effort to impose costs on regional partners supporting US military operations. Washington's stated objective of neutralising Iran's strategic threat and encouraging internal political change reduces incentives for de-escalation from Tehran. Markets remain attentive to risks surrounding Gulf shipping lanes, as Iran retains antiship missile capabilities and asymmetric naval assets capable of disrupting commercial traffic. Analysts increasingly view both sides as locked into a prolonged exchange, prolonging geopolitical risk premiums across energy and freight markets. While in the U.S., following a recent judicial reversal of earlier trade measures, the White House has implemented a 10% global tariff under the Trade Act of 1974, effective February 24 for an initial 150-day period. The policy aims to preserve US trade leverage while remaining within revised legal parameters. Although the measure introduces additional costs for importers, the overall effective tariff burden appears slightly lower than levels seen earlier this year. In tanker markets, freight earnings have surged amid strong chartering activity led by Saudi Arabia's Bahri, whose spot market hiring points to rising crude export volumes toward Asia. VLCC rates have climbed above US$200,000 per day on select routes, materially impacting oil trade economics. Tight vessel availability, fleet consolidation, and heightened Middle East geopolitical risks continue to support elevated freight levels as charterers secure tonnage ahead of potential supply disruptions.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Capesize market ended the week with both basins experiencing forward upward 
 Panamax/Kamsarmax:
 
 The Panamax market continues to exhibit a clear geographic split, as the Atlantic remains under pressure with T/A rates softening to US$16,175 due to over tonnage and limited grain enquiry. Conversely, the Pacific basin maintains a firm tone with rates rising to US$17,950's, supported by tight vessel availability and steady cargo flows from Indonesia and Australia. While NOPAC lacks immediate momentum, some optimism persists in the South. Supramax/Ultramax: Atlantic region continues to outperform the Pacific, with owners clearly favoring F/H routes from the USG and EC South America. The market is buoyed by firm sentiment and rising period rates, which have pushed T/A rates up to US$24,200's. Meanwhile, the Pacific is showing growth with R/V rates climbing to US$12,500's, reflecting a generally positive trend across both hemispheres.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -75,11 +71,7 @@ The Handy market remains largely subdued, as ongoing Lunar New Year celebrations
 | ASIAN PEARL |  | SMAX | 50,307 | 2003 | JAPAN | 7.7 |  | CHINESE BUYERS |
 | CS CANDY |  | HANDY | 37,459 | 2012 | CHINA | 11.6 |  | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -99,8 +91,6 @@ Aframax:
 
 The Aframax market also saw a mixed week with rates in the North Sea remaining flat. 80,000mt cross-UKC closed at WS195 levels. In the Mediterranean, 80,000mt Ceyhan/Lavera fell to WS224.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Clean:
@@ -108,8 +98,6 @@ Clean:
 LR: MEG LR2 saw the week ended on a positive. TC1 ended the week higher than last, gaining some 30 points w-o-w, closing around WS197. Similar was also seen in the LR1 segment, with MEG/Japan trips ending the week higher at WS215. MR: MR in the MEG gain this week, adding 45 points on the TC17, as MEG/E.Africa trips climbed to WS262. In the USG, rates improved this week after last with USG/UKC ending at WS270.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -129,11 +117,7 @@ LR: MEG LR2 saw the week ended on a positive. TC1 ended the week higher than las
 | CHEMTRANS TAURUS | LR1 | 72,782 | 2006 | CHINA | 12.5 | UNDISCLOSED |
 | HAFNIA MAGELLAN / HAFNIA MALACCA / HAFNIA SUNDA / HAFNIA TORRES | MR | 39,067 | 2015 | S. KOREA | 31.0 EACH | INTERUNITY MANAGEMENT |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 9
 
@@ -152,29 +136,18 @@ The container market showed signs of recovery this week as the SCFI index climbe
 
 S&P Containers Report
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 11
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS / WEEKLY
-
-GENERAL CARGO FUTURE TREND
-
-ALANG (WC INDIA) 420 ~ 430 410 ~ 420 400 ~ 410 450 ~ 460 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 430 ~ 440 420 ~ 430 | 410 ~ 420 | 450 ~ 460 | IMPROVING / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | IMPROVING/ |
-
-TURKEY
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 420 ~ 430 | 410 ~ 420 | 400 ~ 410 | 450 ~ 460 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 450 ~ 460 | IMPROVING / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | IMPROVING/ |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 300 ~ 310 | 290 ~ 300 | 270 ~ 280 | 310 ~ 320 | IMPROVING/ |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -191,8 +164,6 @@ TURKEY
 | GADDANI, PAKISTAN | 440 | 620 | 560 | 530 | 440 |
 | ALIAGA, TURKEY | 240 | 360 | 320 | 320 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
 ## Ships Sold for Recycling
@@ -207,19 +178,13 @@ PRICE COMMENTS (USD/LDT LT) 370 DELIVERED GADANI UNDISCLOSED DELIVERED CHATTOGRA
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
 Insights Alang
 
 Alang faced a challenge close to February as pricing levels softened to a point that many now consider unsustainable, despite a consistent and respectable level of demand from end buyers. This market cooling is compounded by a new, more rigid regulatory environment following the Directorate General of Shipping's strict enforcement of documentation for sanctioned vessels, requiring all approvals to be meticulously scrutinised for flag, class, and insurance compliance. While this bureaucratic shift has caused a temporary bottleneck and made some ship owners hesitant to move forward, India remains a primary destination for a diverse array of specialist and geographically positioned units. Despite the underlying turbulence, which saw the Indian Rupee weaken slightly, there are emerging signs of optimism among local recyclers who have endured a volatile period since late 2025.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -249,8 +214,6 @@ Anchorage & Beaching Position (FEBRUARY 2026)
 Chattogram
 
 Chattogram experienced a remarkable resurgence this week, reclaiming its position at the top of the sub-continent's price rankings following a significant boost in political and economic confidence. Since the BNP secured a majority in the recent national elections, the market has shifted from a period of interim governance to a more stable outlook, encouraging local recyclers to aggressively pursue high-quality tonnage with industryleading offers. This sudden momentum has allowed Bangladesh to leapfrog a competitive Pakistani market. While the purchasing intent from end buyers is clearly visible, it is the local steel sector that is now providing the necessary support for these higher purchases. Although recyclers have maintained their offer levels for the time being, the broader strengthening of imported shredded scrap prices suggests a robust and recovering situation for the Bangladeshi recycling industry.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -290,8 +253,6 @@ Aliaga, Turkiye
 
 Turkiye market remains unchanged this week, with no new activity to report.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Markets remains cautious and buying has been minimal as supply outweighs current demands.
@@ -329,8 +290,6 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 India Imported scrap activity in India remained focused on essential, need-based purchasing as the month ended. Transactional highlights included UK-origin incinerator scrap concluded at US$255-US$260/t CFR and shredded scrap sold at US$370/t CFR Chennai, despite sellers maintaining higher quotes in the US$375-US$380/t bracket. While international cues remained firm and the US Dollar showed strength, weak domestic TMT demand forced mills to remain highly price sensitive. This was evident in Chennai, where buyers bypassed firm Australian offers in favor of more competitively priced, readily loaded cargoes from Malaysia, Singapore, Hong Kong, and Thailand. The week saw total
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 bookings of approximately 5,000-5,500 tons, which included a mix of HMS at US$330- $346/t CFR, LMS bundles, and shredded material.
@@ -339,8 +298,6 @@ Pakistan The Pakistani market for imported shredded scrap held stable this week,
 
 Turkiye Deep-sea imported scrap prices in Turkiye maintained a steady profile throughout the week, with US-origin HMS 80:20 consistently hovering between US$374/t and US$376/t CFR. Material sourced from the EU and Baltic regions was positioned slightly lower, trading within the US$369-US$373/t CFR range. The market was characterized by limited booking activity as Turkish mills grappled with tight scrap-to-rebar margins and subdued demand for finished products, which effectively capped any potential price increases. Although harsh winter conditions on the US East Coast and firm Atlantic freight rates provided some support to offer levels, buyer resistance became particularly pronounced as quotes approached the US$380/t mark. Consequently, the combination of Ramadan-related slowdowns and logistical constraints resulted in a cautious and mixed market sentiment.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 19
 
 HMS 1/2 & Tangshan
@@ -348,8 +305,6 @@ HMS 1/2 & Tangshan
 ## Commodities (Week infocus)
 
 Copper prices softened during the week as market participants awaited a clearer return of Chinese demand following the Lunar New Year holiday. Physical buyers have remained largely cautious, contributing to weaker near-term momentum. Inventory accumulation in China exceeded seasonal norms, with privately held stocks across key consumption hubs, including Shanghai, Guangdong, and Tianjin, rising to approximately 531.7kt, according to Shanghai Metals Market surveys. Meanwhile, inventories across major global exchanges reached record highs in late January, supported by ongoing mine supply disruptions and shifts in U.S. trade policy. Elevated stock levels continue to weigh on sentiment as traders assess the pace of demand recovery in the world's largest copper consumer. In the broader energy and raw materials sectors, coal and iron ore are seeing contrasting trends driven by government policy and supply shifts. Coal prices recently climbed above US$119 per ton, their highest point since late 2024, as China continues to expand its coal-fired power capacity to ensure energy reliability. Simultaneously, the U.S. government has allocated US$175 million to modernise domestic coal plants. Conversely, iron ore prices have retreated to US$97.90 a ton in Singapore, marking a 7% decline this year. This weakness is attributed to an 11-week rise in Chinese port inventories, which grew 0.5% recently to reach 161 million tons, alongside higher-than-expected production from major mining companies like Vale SA.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 

@@ -22,8 +22,6 @@ pages: 20
 
 China's economic challenges continued to dominate headlines this week, as the nation's economy struggles to rebound after its worst five-quarter stretch. Industrial output and retail sales were largely in line with forecasts, but a prolonged housing slump remains a significant drag on consumer spending. The latest data showed a surprise slowdown in fixed-asset investment, which grew by just 3.6% in the first seven months of the year, raising concerns about the overall health of the world's second-largest economy. Retail sales provided a glimmer of hope, beating expectations due to a seasonal uptick, which boosted China's stock market. However, growth in retail sales remained far below pre-pandemic levels, while industrial production softened slightly but still outpaced consumption. The offshore yuan remained under pressure following the release of the data. The US$17 trillion economy continues to show signs of weakening, with both consumers and businesses increasingly pessimistic. Recent government efforts, including interest rate cuts, have had minimal impact on stimulating consumption and investment as China continues to rely heavily on manufacturing for growth. "The economy's momentum has slowed," noted Ding Shuang, chief economist for Greater China and North Asia at Standard Chartered Plc, highlighting the challenges of achieving the government's growth target of around 5% for the year. While equity markets reacted positively to the slight improvement in retail sales, economists are urging the government to accelerate infrastructure spending and other programs to revive domestic demand if the growth target is to be met. In the US, in the past week, a wave of data reinforced key economic trends: inflation is easing, the labour market remains stable, and the economy isn't on the brink of recession. However, the Federal Reserve faces critical decisions ahead. As the Jackson Hole symposium approaches, Fed Chair Jerome Powell's upcoming speech is anticipated to outline a cautious path forward, with markets expecting potential rate cuts starting in September. Despite mixed signals in housing and consumer spending, the Fed must balance cooling inflation with economic resilience, making the next few weeks pivotal for future policy direction.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ In the Pacific, the previously robust momentum slowed as spot demand for iron or
 Panamax/Kamsarmax:
 
 The Panamax market continues to exhibit varied trends across regions, with the North Atlantic experiencing a persistent decline in rates due to sluggish new cargo inflows. South America presents a mixed scenario, where charter demand for September onwards remains stable, yet an accumulation of spot vessels has led to a steady downward adjustment in contract rates. Brazil's r/v fell slightly to US$ 14,600 a day. Supramax/Ultramax: In the Atlantic, a slight recovery in the Med grain shipment has been offset by insufficient cargo inflow in other routes, resulting in a minor adjustment of rates. In the Pacific, the region managed to establish a short-term bottom, buoyed by improved cargo inflow from Southeast Asia. Additionally, the market has benefited from an increase in Chinese steel product shipments. Pacific r/v saw rates climb to US$13,450's a day.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -77,8 +73,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | SUPRAMAX | 58,000 | 15,000 | 15,000 | 11,750 | 0 | +27.66% |
 | HANDYSIZE | 38,000 | 15,000 | 15,000 | 11,000 | 0 | +36.36% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -92,8 +86,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | GREAT SPRING | UMAX | 61,438 | 2017 | CHINA | 27.8 (AUCTION) | UNDISCLOSED |
 | STAR HYDRUS | SMAX | 56,604 | 2013 | CHINA | 16.6 | UNDISCLOSED |
 | VIGOR SW | HANDY | 32,228 | 2009 | JAPAN | 13.0 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -113,8 +105,6 @@ Aframax:
 
 It was a quiet week in the Aframax market, with many regions seeing muted activity. Notably, a portion of Aframax cargoes has been shifted to Suezmax vessels, reducing demand for the segment. In the Med, 80,000mt Ceyhan/Lavera closed the week lower at WS121. While in the UKC, limited fixing activity saw rates held the same as last as WS120.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Clean:
@@ -125,8 +115,6 @@ LR: LR2 in the MEG saw a sharp reversal in its recent fortunes. After a period o
 
 ## Tankers S&P Report
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 | VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
@@ -135,8 +123,6 @@ LR: LR2 in the MEG saw a sharp reversal in its recent fortunes. After a period o
 | MTM GIBRALTAR | PROD / CHEM | 20,810 | 2003 | JAPAN | 14.5 (SS) | UNDISCLOSED |
 | LINCOLN PARK | PROD / CHEM | 19,801 | 2012 | JAPAN | 26.7 (SS) | CHINESE BUYERS |
 | SAMBONG HERA | PROD / CHEM | 11,416 | 2018 | S. KOREA | 23.8 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -159,29 +145,16 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 43 | 34 | 27 | 22 |
 | 5,100 *(amount in USD million) | Gearless | 81 | 77 | 66 | 35 | 32 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 490 ~ 500 480 ~ 490 480 ~ 490 510 ~ 520 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 480~ 490 | 520 ~ 530 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 490 ~ 500 | 480 ~ 490 | 480 ~ 490 | 510 ~ 520 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 480~ 490 | 520 ~ 530 | WEAK / |
 | GADDANI, PAKISTAN | 510 ~ 520 | 490 ~ 500 | 480 ~ 490 | 520 ~ 530 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 330 ~ 340 340 ~ 350 380 ~ 390 WEAK /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 330 ~ 340 | 340 ~ 350 | 380 ~ 390 | WEAK / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -198,8 +171,6 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 710 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 190 | 300 | 325 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -211,19 +182,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
 ## Insight
 
 This week, the ship recycling market experienced sharp declines in ship prices, driven by a significant drop in local scrap values as the market adjusts to new realities. The ongoing global slump in steel prices is exerting considerable pressure on the shipbreaking industry, as the influx of low-cost semi-finished and finished steel products disrupts market stability. To protect domestic industries, countries are stepping in with anti-dumping duties to encourage the home steel mills. In the latest move, India has launched an anti-dumping investigation into certain steel imports from Vietnam, as per a recent notification from the Ministry of Commerce and Industry. This probe, initiated at the behest of major domestic steel producers like JSW Steel and ArcelorMittal Nippon Steel, will assess the extent of injury and potential threats to the local steel industry. The investigation comes amid a challenging period for India's steel sector, with prices plummeting to their lowest in three years due to a surge in imports and declining export volumes. Despite being the world's second-largest crude steel producer, India ended the fiscal year on March 31, 2024, as a net importer of steel-a trend that persisted into the following months. Provisional government data reveals that finished steel imports in April-May reached their highest levels in five years. On the other hand, China's steel industry, a global powerhouse producing over half of the world's output, is now facing a significant downturn with far-reaching implications. A
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -233,23 +198,17 @@ Alang, India
 
 The market remained subdued this week, with only a few past transactions coming to light as ships arrived at the shores of Alang. Interestingly, a number of vessels initially destined for Bangladesh are now being diverted to Alang, as the situation in Bangladesh remains unsettled following recent political unrest. Revised ship prices are anticipated in the coming months. Market experts point out a significant disparity between international ferrous scrap prices and ship values, emphasising that these need to realign with traditional norms. The consensus among industry players is that current ship recycling prices do not reflect the underlying market conditions and are on the brink of a correction. Given the relatively small scale of the ship recycling industry compared to the broader imported ferrous scrap market, this correction is seen as inevitable. This week, The Government of India (GOI) is set to seek Cabinet approval for a transformative shipbuilding policy aimed at enhancing India's position in the global maritime sector. Key components of this initiative include a ship recycling credit note worth 40% of the scrap value for vessels dismantled at Indian yards, alongside fixed subsidies for shipbuilders. The government plans to establish maritime clusters in Andhra Pradesh, Gujarat, and Odisha to foster growth. This policy presents a substantial opportunity for ship owners globally, incentivising them to recycle ships domestically and construct new vessels locally. Fleet owners must utilise the credit note by building in India; opting for international orders will nullify these
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 benefits. The policy includes graded subsidies-20% for standard vessels, 25% for oil and gas carriers, and 30% for eco-friendly ships-offered until March 2034, with potential extensions through 2047. Currently, India holds less than 1% of the global shipbuilding market. The ambitious plan aspires to break into the top 10 by 2030 and the top 5 by 2047, challenging the dominance of China, South Korea, and Japan, which collectively control over 85% of the sector. The proposed Shipbuilding Policy 2.0 aims to revitalise the industry and attract international investments. Key Features of Policy: -Introduction of a ship recycling credit note. -Fixed subsidy rate for shipbuilders over 10 years. -Establishment of three maritime clusters in Andhra Pradesh, Gujarat, and Odisha. Ship Recycling Credit Note: -Equivalent to 40% of scrap value for ships dismantled in India. -Aimed to encourage building new ships in India. Graded Subsidy Rates: -20% for normal vessels. -25% for oil, gas tankers, and container ships. -30% for green vessels and others with advanced technologies. Targeted Impact: -India aims to be among the top 10 countries in shipbuilding by 2030. -Aim to break into the top 5 by 2047. Global Context: China, South Korea, and Japan currently account for over 85% of the global shipbuilding market. Long-Term Vision: The subsidy scheme could be extended up to 2047 to achieve these goals.
 
 Once this policy is passed in the cabinet, it may be a positive sign for the Alang recycling industry in the long run.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Chattogram, Bangladesh
 
 The market remains gripped by fear, uncertainty, and chaos, fueled by weak demand and political turmoil. Until the interim government stabilises and restores business confidence, the industry is expected to remain cautious. In Bangladesh, recent political developments have further complicated the situation, leaving local authorities, particularly environmental agencies, banks in disarray. This confusion has led to delays in issuing permits for shipbreaking, delaying the clearance of newly arrived vessels. Despite these challenges, a few ships sold prior to the current turmoil have managed to navigate through the bureaucratic hurdles. Industry participants believe it's only a matter of time before the situation stabilises, at which point recyclers are expected to resume buying activity. For now, the market remains in a holding pattern, awaiting clarity and a return to normalcy.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -260,8 +219,6 @@ The situation in Pakistani recycling markets remains subdued as recyclers wait f
 Anchorage & Beaching Position (August 2024)
 
 Aliaga, Turkey
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -290,8 +247,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 278.47 | 278.66 | +0.07% |
 | USD / TRY (TURKEY) | 33.67 | 33.53 | -0.42% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -306,8 +261,6 @@ due to a combination of political instability and global market trends. The loca
 
 back, expecting further price declines in the near term, while sellers were reluctant to offer discounts. Offers for HMS (80:20) from the US were assessed at US$371 per ton CFR, reflecting the broader market uncertainty. A few shortsea scrap deals were made, but overall, the sentiment remained cautious, with iron ore price drops adding further pressure on scrap prices. Notably, a European-origin bulk scrap cargo was reportedly booked by a Turkish mill at US$365 per ton CFR, signalling ongoing challenges in the market.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 19
 
 ## HMS 1/2 & Tangshan Billet
@@ -319,8 +272,6 @@ Strong U.S. economic data bolstered sentiment across commodities this week, with
 ### Base metal markets overcame weak economic indicators to post gains. In China,
 
 industrial output grew by 5.1% in July, a slight dip from June's 5.3%. Retail sales increased by 2.3%, aligning with forecasts. Despite these modest figures, supply-side issues played a crucial role in driving the market. Copper prices surged as a strike at BHP's Escondida copper mine in Chile extended into its third day, threatening to disrupt over 5% of global supply. This followed Lundin Mining's decision to scale back operations at its Chilean copper mine due to ongoing labour strikes. The concentrate market had already been tightening after mine closures in Chile and Panama late last year. With several mines in Chile, accounting for approximately 900,000 tons of copper or 4% of global supply, still negotiating wages, the risk of further disruptions remains significant. We maintain our projection that supply disruptions could reach 6% in 2024. Even a partial realisation of these potential labour disputes could deepen the copper market deficit, likely counterbalancing any concerns over weakening demand in the coming months. Conversely, Iron ore futures plummeted to a two-year low, driven by sluggish demand from China's steel industry. Crude steel production fell 9% year-over-year to 82.94 million tons in July, according to China's statistical bureau, leaving year-to-date volumes down 2.2% year-over-year. This decline follows a warning from China Baowu Steel Group, which
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 

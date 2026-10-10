@@ -22,8 +22,6 @@ pages: 17
 
 This week, at the meeting, Federal Reserve Chair Jerome Powell suggested that the US central bank might have completed its most aggressive tightening cycle in four decades after choosing not to raise interest rates for a second consecutive policy meeting. Powell emphasised a cautious approach, stating that slowing down allows the Fed to assess the need for further action. The Committee maintained its benchmark rate at 5.25% to 5.5%, signalling a reduced motivation to hike again due to a recent rise in longer-term Treasury yields. Powell's dovish stance boosted markets, with the S&P 500 closing over 1% higher. The Fed remains watchful of economic indicators, and while Powell acknowledged the risk of rising inflation, he indicated the Fed's openness to further tightening if necessary. Despite positive economic indicators, the Committee stressed a careful and data-driven approach, acknowledging two-sided risks in the outlook. While inflation expectations have risen, Powell downplayed concerns and emphasised the Fed's commitment to a soft landing. In China, in October, the manufacturing sector regressed, slipping into contraction, while the expansion of the services sector unexpectedly slowed. The official manufacturing Purchasing Managers' Index fell to 49.5, down from September's 50.2, signalling economic fragility. The non-manufacturing gauge also decreased to 50.6 from 51.7, below expectations. This data underscores the need for additional support from Beijing, as China's recovery has faced challenges such as weak consumer confidence, declining export demand, and an ongoing property crisis. Analysts anticipate that the government may increase the fiscal deficit for 2024 to stimulate a more sustained economic recovery. The People's Bank of China may cut reserve requirements and interest rates, with weak market demand and a contraction in export orders contributing to the economic uncertainty.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -38,8 +36,6 @@ Panamax/Kamsarmax:
 
 Although initially supported by the Pacific region at the beginning of the week, a sharp decline in Capesize rates and weak demand for coal heading to China led to a reversal to a downward trend later in the week. The sustained decline in Capesize rates throughout the week had a negative impact on Panamax market sentiment, leading to a downturn in the latter half of the week. Pacific r/v fell to US$ 11,250 a day while T/A slipped to US$ 14,000 a day. Supramax/Ultramax: Demand for coal imports in China has slowed but the delay of additional coal production quotas by the Indonesian government has kept coal prices high. However, trading is not thriving due to reduced cargo movement and a market downturn. In Indonesia's central and eastern Kalimantan regions, the relatively dry climate has led to low river levels, causing disruptions in the transportation of coal from mines to ports. This has
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 3
 
 contributed to a decrease in demand for export vessels. Levels across all routes witnessed a decline at closing. Pacific - India fell to US$ 8,700 a day and Inni r/v went down to lows of US$ 7,900's region.
@@ -49,8 +45,6 @@ Handysize:
 In the Atlantic, the influx of USG cargo continues to rise, leading to a positive trend. T/A levels were still lower than the previous but remain around US$ 10,000's a day region. However, on the other side, ship demand remains weak, resulting in a relatively stable but weak market. The Pacific region also faces challenges, with subdued demand in Northeast Asia and oversupply in Southeast Asia, leading to a persistent decline as sufficient cargo influx is not accompanied. Inter Pacific clock in around US$ 6,800 a day.
 
 ## Dry Bulk - S&P Report
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -74,8 +68,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | SUPRAMAX | 58,000 | 11,000 | 11,500 | 12,500 | -4.35% | -12.00% |
 | HANDYSIZE | 38,000 | 11,000 | 11,250 | 12,000 | -2.22% | -8.33% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -94,8 +86,6 @@ Aframax:
 
 In the MEG/Singapore route, rates rose by 3.5% due to the ongoing shortage of ship supply in the Suez East region. In the Mediterranean market, the rate for the 80,000mt Ceyhan/Lavera route continued to rise, gaining 32 points to WS252. The prospect of replacement inquiries may provide further support to rates in the upcoming week.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Clean:
@@ -103,8 +93,6 @@ Clean:
 MR: The MR market strengthened this week in the UKC-USAC route, reaching WS200, and the expectation is for rates to continue rising due to a tight position list. In the USG, MRs have had a relatively uneventful week, maintaining a stable position in the open market, which has prevented a significant drop. TC14 remain at WS112 level. L.R.: In the LR1 market, limited tonnage availability resulted in a slow week, causing rates on the UKC-WAF route to decline to WS175, with the potential for further decreases next week. In the MEG, LR1 saw rates fall although the decline was not as pronounced as LR2 segment. TC5 slipped to WS167. Meanwhile, for LR2 in the TC1, levels fell to WS146
 
 ## Tankers S&P Report
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -121,8 +109,6 @@ MR: The MR market strengthened this week in the UKC-USAC route, reaching WS200, 
 ## Containers
 
 A year ago, the shipping industry was thriving, with carriers offering substantial bonuses. However, the tide has turned, and now major players like Maersk are implementing staff layoffs due to plummeting rates and excess capacity. Maersk's Q3 results reveal a global workforce reduction to below 100,000 by year-end, down from around 110,000 at the beginning of 2023. The challenging market environment, characterised by subdued demand and overcapacity, led Maersk's Ocean division to post a Q3 EBIT of US$-27m, a significant contrast to the US$8.7bn recorded in the same quarter last year.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -145,29 +131,16 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 37 | 29 | 17 | 14 |
 | 5,500 - 7,000 *(amount in USD million) | Gearless | 93 | 78 | 66 | 39 | N/A |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 520 ~ 530 500 ~ 510 500 ~ 510 530 ~ 540 STABLE /
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 520 ~ 530 | 500 ~ 510 | 500 ~ 510 | 530 ~ 540 | STABLE / |
+| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | STABLE / |
 | **GADDANI, PAKISTAN | 510 ~ 520 | 500 ~ 510 | 480 ~ 490 | 510 ~ 520 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 300 ~ 310 290 ~ 300 280 ~ 290 310 ~ 320 STABLE /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 300 ~ 310 | 290 ~ 300 | 280 ~ 290 | 310 ~ 320 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -183,8 +156,6 @@ TURKEY
 | CHATTOGRAM, BANGLADESH | 455 | 370 | 355 | 620 | 595 |
 | GADDANI, PAKISTAN | 440 | 360 | 385 | 610 | 580 |
 | ALIAGA, TURKEY | 270 | 220 | 205 | 295 | 300 |
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
@@ -205,11 +176,7 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -221,8 +188,6 @@ Alang, India
 
 In Alang, the markets found stability following a period of turbulence at the beginning of the week but, by the end of this week, gave up all the gains. Domestic ship scrap prices, which had been on a continuous downward trend, saw a pause and started to see a gradual rise, but it was not too long before the prices corrected back to where they resumed. Another continued week of extreme volatility! However, it's worth noting that while the inventories at the yards are depleting at a faster pace and demand emerging, recycler sentiments have not yet fully adjusted to this positive shift. The volatile nature of these markets, with their fluctuating conditions, is causing considerable confusion among recyclers.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
 
 Going forward, the markets are expecting substantial stability with the festive season around the corner, wherein the overall demand gets a boost, and the recyclers are expected to resume buying.
@@ -233,8 +198,6 @@ Chattogram, Bangladesh
 
 Market sentiments have remained stagnant over the past few weeks, primarily due to the erratic nature of ship-melting sales, which has left recyclers in a state of uncertainty. Unfortunately, there has been no positive development in domestic ship scrap prices. As time progresses, ongoing geopolitical concerns, coupled with impending elections, have led to a cautious approach from banks in terms of opening Letters of Credit. This conservative stance is being taken to keep foreign exchange reserves in check, further contributing to the overall economy. This week, the Bangladeshi bankers recently made a significant decision to further devalue the national currency, the Taka, against the US dollar. Under this plan, banks will buy the greenback from exporters at Tk 110.50 to a U.S. dollar and sell it to importers at Tk 111, reflecting an increase of approximately Tk 0.50 compared to the rates set by bankers at the end of September. This move was initiated to encourage the flow of foreign currencies through formal channels. The decision was reached during a meeting of the Bangladesh Foreign Exchange Dealers' Association (Bafeda) and the Association of Bankers, Bangladesh (ABB). The decision comes as the Taka faces pressure due to the country's dwindling foreign exchange reserves, resulting from a decline in exports and remittances that fail to meet the requirements for import bills and other international payments. Bangladesh's foreign exchange reserves have fallen by US$60 million in a week, reaching US$20.89 billion on October 25, as per Bangladesh Bank data.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 In the context of these challenges, the move to devalue the Taka and incentivise formal remittance channels aims to address the country's foreign exchange difficulties.
@@ -242,8 +205,6 @@ In the context of these challenges, the move to devalue the Taka and incentivise
 Aliaga, Turkey
 
 This week, Turkish mills maintained their domestic scrap buying prices despite the devaluation of the lira against the US dollar and the increased prices of imported scrap. Imported scrap prices remain robust, with suppliers aiming for higher levels Mills, facing challenges in selling steel amid rising prices, find US$360/t cfr for scrap unaffordable, particularly when unable to sell rebar at US$560/t. Market participants believe that scrap prices are unlikely to reach US$370/t cfr due to resistance from buyers in sluggish steel markets. Turkish shipbreaking scrap prices stand at US$350-357/t delivered. The lira was at 28.41 per dollar at business close.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -274,8 +235,6 @@ EXCHANGE RATES
 
 ## HMS 1/2 & Tangshan Billet
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 ## Commodities
@@ -293,8 +252,6 @@ in risk appetite across global markets. This upturn comes after facing challenge
 **Zinc prices, on the other hand, saw a boost earlier this week following Nyrstar's**
 
 announcement of suspending operations at two zinc mines in the US due to a sharp decline in prices.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 

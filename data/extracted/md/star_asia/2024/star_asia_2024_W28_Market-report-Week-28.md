@@ -22,8 +22,6 @@ WEEK 28 - July 13, 2024
 
 The Red Sea shipping route's significance for global trade has been severely impacted by ongoing Houthi militia attacks on vessels with ties to Israel, in response to the Israeli- Hamas conflict. These attacks have led to increased military presence in the region, including US and British interventions and international naval coalitions like the EU's Aspides mission. The conflict has caused significant disruptions to global trade, resulting in higher freight costs and insurance premiums. Many shipowners are opting to reroute vessels around the Cape of Good Hope, leading to longer travel times and increased fuel consumption. Consequently, shipping prices have skyrocketed, with the Drewry World Container Index reporting a 233% increase compared to the previous year. Analysts highlight the adaptability of shipping companies but warn of continued price increases due to longer routes and increased demand for vessels. The situation is further complicated by low water levels in the Panama Canal, forcing some shippers to use alternative transportation methods across the US. While there are signs of improvement in the Panama Canal's water levels, the ongoing crisis continues to pose significant challenges. With around 70% of Red Sea trade still being rerouted around Africa, many warn that a prolonged crisis could overwhelm companies and lead to further increases in freight rates, potentially worsening the situation in the industry. The upcoming policy meeting of China's ruling Communist Party, scheduled from Monday to Thursday, is a significant event that happens only once every five years. Originally expected last fall, this Third Plenum is set against the backdrop of China's real estate challenges. However, analysts predict the focus will be on high local government debt and boosting advanced manufacturing. Historically, Third Plenums have been pivotal for economic policy, with Deng Xiaoping's 1978 meeting marking China's "reform and opening." Next week's session is anticipated to emphasize financial reform. Economists highlighted the importance of financial reform and will be watching for consolidation in the banking sector and policies on local government finances and taxes. This Third Plenum is poised to shape China's economic direction amid current challenges
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ It was a mixed week for the Capesize with the Pacific continuing to experience a
 Panamax/Kamsarmax:
 
 Positive gains across this size with gains recorded in all routes. The North Atlantic remains tight due to reduced vessel supply, as Black Sea vessels ballast to South America, despite
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -66,8 +62,6 @@ Similar was also seen in Handy segments this week fuelled by robust enquiries in
 | HANDY | 38,000 | 30 | 35 | 28 | 21 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Bulker 12 months T/C rates average (in USD/day)
@@ -94,8 +88,6 @@ Similar was also seen in Handy segments this week fuelled by robust enquiries in
 | UNIVERSE PROSPERITY | HANDY |  | 28,514 | 2001 | JAPAN | 6.2 (AUCTION) | CHINESE BUYERS |
 | NOBLE OAK | HANDY |  | 28,492 | 2005 | JAPAN | 7.7 | CHINESE BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -110,8 +102,6 @@ Suezmax:
 
 The West African market has shown weak freight rates throughout the week due to persistent stagnant demand and vessel buildup. With little prospect of momentum to improve the supply-demand balance, the dip in freight rates continue at closing with 130,000mt Nigeria/UKC closing around WS98. In the Med, markets were slightly muted.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -123,8 +113,6 @@ Clean:
 LR: On the MEG/Far East route, LR2 started the week with an uptick with increased fixture activities. However, the influx of crude oil tankers limits the extent of the rate increase with TC1 closing at WS173. For the LR1, UKC region remain mostly similar to last as TC16 close in the region of WS130's. MR: The market in the Far East region ended the week on a slightly bearish note. This softening was led by weak export volumes from China and stagnant summer demand. In the MEG, MR rates held steady with TC17 remaining similar to last at WS245 mark.
 
 # Baltic Exchange Tanker Indices
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -146,8 +134,6 @@ Tankers S&P Report
 | ENDLESS SUMMER | MR | 49,999 | 2010 | JAPAN | 30.0 | ITALIAN BUYERS |
 | NCC TIMHAMA | MR | 45,948 | 2006 S. | KOREA | 22.5 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 # Containers
@@ -156,26 +142,16 @@ The container shipping market is showing signs of cooling after an unprecedented
 
 # Containers S&P Report
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 510 ~ 520 500 ~ 510 510 ~ 520 530 ~ 540 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 510 ~ 520 | 500 ~ 510 | 510 ~ 520 | 530 ~ 540 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 330 ~ 340 | 340 ~ 350 | 380 ~ 390 | STABLE / |
 
@@ -194,8 +170,6 @@ ALANG (WC INDIA) 510 ~ 520 500 ~ 510 510 ~ 520 530 ~ 540 WEAK /
 | GADDANI, PAKISTAN | 410 | 305 | 660 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 190 | 300 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -207,11 +181,7 @@ ALANG (WC INDIA) 510 ~ 520 500 ~ 510 510 ~ 520 530 ~ 540 WEAK /
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -235,8 +205,6 @@ Chattogram, Bangladesh
 
 This week witnessed a notable drop in domestic ship scrap prices, with the price differential between ship scrap and ship plate widening to approximately US$140 per ton, levels not seen in a long time. This decline is attributed to local rerolling mills facing a shortage of raw materials due to a limited supply of ships. Like their counterparts in India, Bangladesh is also facing similar challenges in the recycling industry, and with the softening of domestic ship scrap prices, the recyclers are taking a back seat, waiting and watching to see the bottoming of such drastic fall as well as a narrowing the differential between the ship scrap and plate prices
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 This week, the market remained stagnant, with sentiments continuing on a downward trend. No significant developments were reported, and activity stayed largely on the sidelines. Despite the unforeseen tax projected to increase costs by Rs. 3000 per ton (approximately US$10 per ton), there has been no impact on the prices of finished goods or vessels. Buyer interest and inquiries remained minimal, resulting in a negligible market impact.
@@ -246,8 +214,6 @@ This week, the market remained stagnant, with sentiments continuing on a downwar
 Chattogram, Bangladesh : 21 ~ 24 July | 4 ~ 7 August Alang, India : 19 ~ 27 July | 31 July ~ 8 August
 
 ---
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -280,15 +246,11 @@ The Sub-Continent and Turkish ferrous scrap market experienced a downtrend this 
 
 due to a sluggish domestic steel market. Indicative offers for shredded scrap from the UK/Europe were assessed at US$425-430/t CFR Qasim, with a few deals in the last 2-3 days concluded at US$422-425/t CFR. Domestic traders were seen talking about the corrections in domestic scrap and rebar prices. The current market rate was PKR 258,000-260,000, but mills kept their official rate
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 higher by PKR 5,000/t. Production costs were not under control for normal or mid-cap steel producers. Inquiries from the UK were heard at US$425/t, and deals were made at US$420-422/t, but it was buyer specific. Some buyers also showed better interest in the UAE materials, preferring PNS and HMS mix grades. The Bangladeshi imported scrap market was very slow, as buyers took a wait-and-see approach due to higher offers and anticipation of a price drop. Additionally, a gas shortage led to many rolling mills shutting down or reducing production. Although there was a high preference for materials from Australia, Singapore, and Malaysia, the increase in freight rates prevented the booking of significant volumes. Offers for Australian-origin shredded scrap were heard at US$425-430/t CFR Chattogram, while HMS (80:20) was at US$410/t CFR. The Turkish imported ferrous scrap market softened slightly following a recent US-origin deal and the decline in Chinese iron ore prices. However, suppliers remained firm, resulting in range-bound offers from the US at US$388-390/t CFR Turkey. HMS collection costs were assessed at Euro 325/t delivered to docks, though recyclers are anticipating a correction. A trader noted that it is difficult to get scraps at Euro 315/t.
 
 # HMS 1/2 & Tangshan Billet
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -303,8 +265,6 @@ to weigh on market sentiment. Stockpiles of copper held in LME warehouses surged
 **Iron ore fines (Fe 62%) spot prices fell by US$4.10/t day-over-day to US$105.50/t CFR**
 
 China on July 10, 2024. This decline is attributed to weak market fundamentals and sluggish steel demand. The decrease in steel and raw material prices has been exacerbated by the rainy weather in southern China and the anticipation of macroeconomic reforms. Additionally, several steel mills, recently facing financial losses, have opted for maintenance downtimes. The Chinese iron ore market is expected to remain oversupplied in the July-December period, driven by increased imports and stronger domestic production, while demand is projected to decrease due to restricted steel production. The highly anticipated policy meeting, which would shape up and give further directions to the commodity markets, is scheduled from Monday,15 July, to Thursday, 18 July. It is a significant gathering of the top members of the ruling Communist Party of China, an event that typically occurs only once every five years. Originally expected to take place last fall, this plenum has been delayed.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

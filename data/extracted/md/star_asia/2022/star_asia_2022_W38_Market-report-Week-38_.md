@@ -62,8 +62,6 @@ prices increased further.
 
 Despite the optimistic economic signs, iron ore prices held steady as investors assessed China's demand. The government's stimulus measures are assisting the construction industry, which is projected to increase steel consumption in the country. However, a lockdown in Tangshan, a key steel center, implies that China's Covid Zero restrictions may impact product demand. Iron ore prices in Singapore declined 0.7% to $94.40 per tonne after rising as much as 2% earlier. Steel futures in China's Dalian, on the other hand, fell 1.4%. The decline implies that the government's attempts to encourage the construction sector are responding. The continual growth in blast furnace output is assisting in replenishing iron ore stocks, which are likely to climb ahead of the October National Day celebrations. As blast furnace operating rates are nearing their peak. The market will also be focused on the approaching National Party Congress in October, where new housing loan and infrastructure-funding plans are anticipated to be announced.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 #### Capesize:
@@ -96,8 +94,6 @@ This week, the markets were generally positive across the board, with gains bein
 
 The E.C. South America region was bustling this week with an uptick in a number of inquiries. In the Atlantic, rates were firm due to the tight supply and healthy inquiry in the U.S.G. T/A levels climbed higher to levels of US$14,600 a day. Pacific saw a healthy climb as the demand for cargo in SE Asia outpaced the growth in the supply with upcoming holidays. Inter-Pacific
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 3
 
 levels soared to US$ 15,250's region at closing.
@@ -128,11 +124,7 @@ levels soared to US$ 15,250's region at closing.
 | BSI | 1,652 | 1,551 |  | 3,359 |  | +6.51 |  | -50.82 |
 | BHSI | 966 | 905 |  | 1,925 |  | +6.74 |  | -49.82 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 5
 
@@ -151,8 +143,6 @@ Rates for 135,000mt Black Sea/Augusta was rather stable, hovering around the WS1
 #### Aframax:
 
 Over the recent week, the Mediterranean market has rebounded dramatically, with the rate for 80,000mt Ceyhan/West Mediterranean rising 33 points to about WS185. The North Sea/Baltic market remained flat, with charterers just replicating previous levels. The activity
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 6
 
@@ -183,8 +173,6 @@ This week, freight volumes in the Middle East Gulf continued to fall. TC1 droppe
 | PANAMAX-LR1 | 73,000 |  | 53 | 56 |  | 44 | 30 | 15 |
 | MR TANKER | 51,000 |  | 43 | 46 |  | 40 | 29 | 13 |
 | *(amount in USD million) |  |  |  |  |  |  |  |  |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 7
 
@@ -217,8 +205,6 @@ approach as the number of vessels accessible in a timely manner has increased. T
 
 container sailings is contributing to the worsening situation for carriers in major trade lanes.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 8
 
 The peak season has also been curtailed. The average capacity offered from Asia to the U.S.
@@ -242,31 +228,20 @@ same period in 2021.
 | 5,500 - 7,000 | Gearless | 85 | 175 | 163 | 135 | N/A |
 | *(amount in USD million) |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
-| Ship DESTINATION | Ship Recycling TANKERS | Recycling TANKERS BULKERS | Recycling Market MPP/ | Market Snapshot CONTAINERS | Snapshot CONTAINERS SENTIMENTS / | SENTIMENTS / |
-|---|---|---|---|---|---|---|
-|  |  |  | CARGO |  |  | TREND |
-| ALANG (WC INDIA) | 580 ~ | 590 560 ~ 570 | 600 ~ 610 | 630 ~ 640 | IMPROVING | / |
-|  |  |  |  |  |  |  |
+## Ship Recycling Market Snapshot
 
-CHATTOGRAM,
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 580 ~ 590 | 560 ~ 570 | 600 ~ 610 | 630 ~ 640 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | 620 ~ 630 | 600 ~ 610 | 620 ~ 630 | 620 ~ 630 | STABLE / |
+| GADDANI, PAKISTAN | 550 ~ 560 | 540 ~ 550 | 520 ~ 530 | 570 ~ 580 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 350 ~ 360 | STABLE / |
 
-BANGLADESH 620 ~ 630 600 ~ 610 620 ~ 630 620 ~ 630 STABLE /
-
-GADDANI, PAKISTAN 550 ~ 560 540 ~ 550 520 ~ 530 570 ~ 580 STABLE /
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 320 ~ 330 310 ~ 320 300 ~ 310 350 ~ 360 STABLE /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
 
 # 5-Year Ship Recycling Average Historical Prices
 
@@ -278,8 +253,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 | CHATTOGRAM, BANGLADESH | 415 | 440 | 370 | 350 | 600 |
 | GADDANI, PAKISTAN | 430 | 430 | 370 | 360 | 590 |
 | ALIAGA, TURKEY | 210 | 270 | 230 | 210 | 280 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 10
 
@@ -295,15 +268,11 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 
 # Recycling Ships Price Trend
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 11
 
 # Insights
 
 An eventful week with F.E.D.'s action, the reaction was the immediate strengthening of the U.S. dollar. The U.S. dollar strength is shaping up the global steel markets. A sharp drop was noted in imported ferrous scrap cargoes that were booked at lower levels. These two main factors directly impact ship recycling markets. From the U.S. to China, the prices of steel raw materials and finished products have dropped in the backdrop of several factors like increasing production costs, weak demand due to inflationary pressure building up, and the impact of geopolitics on the market. However, the slew of events overshadowing the steel industry has reached a point where declining supply outweighs the concerns of weaker demand. Some industry experts feel that as the supply shortage takes center stage in the coming months, they predict a positive turnaround in the steel segment globally. The ship recycling markets have been in a lull period with very few activities due to a shortage of ships for recycling to feed all three markets. The coming weeks will be very crucial as we enter the last quarter of 2022. While in China, the lifting of Chengdu COVID restrictions has boosted the sentiments in the iron ore markets as the end of the restrictions equates to the resumption of ongoing works and more steel requirements for construction. The uptick was also noted in the steel sector but was not enough to be convinced of strong future markets. This week the exciting Ship Recycling Lab organised by the N.G.O. platform took place in the city of Rotterdam. Two days event, with highly profiled participants, ranging from E.U. ship recycling yards, Banks, Owners, E.U. delegates, and more, attended. Sharing their views on green steel and technology, discussions on drafting regulations to ensure the European ship owners ensure the end-of-life ships are sold in compliance and many other concerns were discussed. The highlight was the growing concerns in the E.U. to control the ship owners to ensure the ships sold for recycling are sold according to the guidelines of E.U. Ship Recycling Regulation. Some market participants made strong comments and gave recommendations to make a law, black and white for the maritime industry, which will have to abide by an extent to have a
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 12
 
@@ -330,8 +299,6 @@ Empty yards and depleting inventories were the major cause of concern in the Ala
 
 A vast majority of the steel and ship recycling sector was busy at the two days 3rd Steel & Raw Material Conference held in Chittagong. The mood amongst the industry participants was - markets would drop, imported scrap would be available for US$400/ton, Banking issues to continue for another few months, and so on. In a nutshell, negative sentiment was brewing
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 13
 
 toward the steel industry in Bangladesh. However these are hypothetical assumptions, but the reality was painting a different picture. The general price levels are yet the highest in the last five years. Several smaller ships were fetching high prices, and the momentum continued. Local currency, which depreciated from BDT104 to BDT107 to a U.S.dollar since early September, making imports expensive, coupled with the ongoing banking issues, were shrugged off as keeping the yard active was the prime focus for a vast majority. Overall a stable market with demand for smaller ships intact. It is a matter of time and a waiting game for the recyclers who are hoping the local banks ease the Letter of Credit restrictions to unleash the prices for the larger ships.
@@ -352,8 +319,6 @@ toward the steel industry in Bangladesh. However these are hypothetical assumpti
 |  |  |  |  |  |
 
 #### ALIAGA, TURKEY
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 14
 

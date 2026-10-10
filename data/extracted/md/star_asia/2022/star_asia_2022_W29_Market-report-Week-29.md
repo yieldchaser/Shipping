@@ -66,8 +66,6 @@ reaction. Evergrande has declined to comment.
 
 The dirtiest fossil fuel will continue to be China's primary source of energy for at least the next decade, according to the world's largest coal business, which is a frightening thought for those who are alarmed by the sweltering heat affecting most of the globe. Zhang Hong, deputy general secretary of the China National Coal Association, said at a briefing on Wednesday that coal's prevailing position is unlikely to alter in the next 10 to 15 years. Despite China's tremendous investment in renewable energy, climate action remains dependent on energy security, especially in light of last year's devastating power outages and the price surge caused by Russia's invasion of Ukraine. Meanwhile, in Capesize, spot prices have fluctuated between US$18,000 and US$25,000 since the start of summer, considerably off the mark compared to last year's highs. The market is currently supported, but spot rates are not climbing. There is anticipation that
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 rangebound trade will continue for a few more weeks until late summer seasonality while the growing iron ore shipments from Brazil constrain the South Atlantic basin. Also, China's economic stimulus is also expected to help the real estate market. If such stimulation leads to increased iron ore (and coal) shipping volumes, dry bulk spot rates may be expected to be higher than the data suggests.
@@ -99,8 +97,6 @@ The need for key goods such as coal and grain has declined for nearly four weeks
 #### Supramax / Ultramax:
 
 Russia and Ukraine are meeting this week under the presidency of Turkey and the United Nations with regard to grain exports. Shipments to the Black Sea are likely to resume, although it will be challenging to return to pre-war levels. Levels across Supramaxes also saw improvements this week. Pacific r/v rates were in the region of US$ 20,900's while T/A climbed to US$26,000 a day. The Atlantic witnessed increased activity in the USD, as well as increased demand from the E.C. South America for August dates. It was overall positive.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 3
 
@@ -139,8 +135,6 @@ also saw levels firmed with rates at US$ 18,300's a day.
 | HANDY | 38,000 | 30 |  | 32 | 28 | 20 | 9 |
 | *(AmountinUSD million) |  |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
 
 # Baltic Exchange Dry Bulk Indices
@@ -164,8 +158,6 @@ DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE % CAPE 180,000 21,50
 | SUPRAMAX | 52,000 | 18,250 | 17,625 | 25,000 | +3.55 | -27.00 |
 | HANDYSIZE | 32,000 | 17,750 | 17,500 | 23,750 | +1.43 | -25.26 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 5
 
 # Tankers
@@ -183,8 +175,6 @@ Due to an increase in U.S. crude oil exports, the number of vessels accessible o
 #### Aframax:
 
 This week witnessed an uptick in activity throughout the Aframax market, notably in the Med and the Black Sea. The market improved significantly due to prompt demands from Libya and a limited number of CPC-approved vessels. The rate for 80,000mt Ceyhan to West Med soared 92 points to WS271.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 6
 
@@ -218,8 +208,6 @@ Tankers Values
 | PANAMAX-LR1 | 73,000 | 53 | 52 | 40 | 27 | 12 |
 | MR TANKER | 51,000 | 42 | 43 | 33 | 25 | 11 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 7
 
 # Baltic Exchange Tanker Indices
@@ -233,8 +221,6 @@ contracts up over 400% since 2019. The global market for container shipping is i
 much to shippers' sorrow and major carriers' big profits. The most recent data show a
 
 significant increase in the T.C. rates in Australasia. This week little change was noted W-O-W.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 8
 
@@ -263,22 +249,20 @@ However, with y-o-y, levels are almost 4 times higher compared to the end of 202
 | 5,500 - 7,000 | Gearless | 85 | 175 | 163 | 135 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (W.C. INDIA) | 540 ~ 550 | 530 ~ 540 | 560 ~ 570 | 610 ~ 620 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 580 ~ 600 | 560 ~ 580 | 540 ~ 560 | 600 ~ 620 | STABLE / |
+| GADDANI, PAKISTAN | 580 ~ 590 | 570 ~ 580 | 530 ~ 540 | 600 ~ 610 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 300 ~ 310 | 290 ~ 300 | 280 ~ 290 | 300 ~ 310 | STABLE / |
 
-CHATTOGRAM, BANGLADESH 580 ~ 600 560 ~ 580 540 ~ 560 600 ~ 620 STABLE /
-
-| GADDANI, PAKISTAN TURKEY *For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 580 ~ 300 ~ | 590 570 ~ 580 310 290 ~ 300 | 530 ~ 540 280 ~ 290 | 600 ~ 610 300 ~ 310 | WEAK / STABLE / |  |
-|---|---|---|---|---|---|---|
-| - All prices are - The prices - Prices quoted above-quoted | USD per light reported are net are basis simple prices based | displacement tonnage prices offered by the Japanese / Korean on quality & quality | in the long ton. recycling yards. built tonnages of Spares, Non-Fe., | trading units. Premiums bunkers, cargo history, | are paid on top of and maintenance. | the |
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
 
 | 5-Year | Recycling | Average (Week 29) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -289,8 +273,6 @@ CHATTOGRAM, BANGLADESH 580 ~ 600 560 ~ 580 540 ~ 560 600 ~ 620 STABLE /
 | CHATTOGRAM, BANGLADESH | 380 | 430 | 415 | 315 | 580 |
 | GADDANI, PAKISTAN | 375 | 420 | 400 | 330 | 570 |
 | ALIAGA, TURKEY | 210 | 290 | 270 | 180 | 290 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 10
 
@@ -304,8 +286,6 @@ INCLUDED
 
 # Recycling Ships Price Trend
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 11
 
 # Insights
@@ -315,8 +295,6 @@ Once again, panic gripped the markets in the Indian Sub-Continent, and this time
 #### ALANG, INDIA
 
 This week the local currency breached INR 80 mark to the U.S. dollar, dampening the sentiments. The local ship scrap prices, which showed improvement in early July, gave in two-thirds of such gains. Once again, the markets are at the crossroad looking for clues as there is no proper vision on putting the correct price tag on the ships. Overall sentiments turned negative with a highly conservative approach. Although a dearth of ships has not helped the Indian recyclers as fears of further currency weakening in the coming weeks, have disturbed the industry.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 12
 
@@ -329,8 +307,6 @@ This week the local currency breached INR 80 mark to the U.S. dollar, dampening 
 #### CHATTOGRAM, BANGLADESH
 
 Markets returned with a vengeance! The domestic ship plates and melting scrap prices spiked back to US$752/ton and US$635/ton levels this week. These are the levels seen in the month of May 2022. Domestic ship scrap prices have been on a constant rise due to depleting inventories and a severe shortage of scrap raw materials. Overall, it has been a buoyant market with sentiments improving, but the markets remain highly divided with the disparity in the prices from recycler to recycler based on their individual demand and other factors. Recyclers are keen to procure ships for recycling, but the irony is the banks are not supporting the recyclers. Opening of Letter of Credit issues is getting bad to worse. Lately, some larger ships sold to cash buyers, yet to be delivered, are facing difficulties in obtaining Letters of credit, and their future remains uncertain. Bangladesh has imposed new regulations on letters of credit which apply across the board, not just shipping, to restrict the outflows of the U.S. dollar. - L.C.s over US$5 million, it is imperative to seek central bank approval - L.C.s over US$25 million are suspended except in exceptional circumstances. The Government is not taking any chances after what has happened in Sri Lanka and is prepared to weather the risks of any global recession. Despite the bullish domestic scrap market, a vast majority of Bangladeshi buyers refrained from going overboard on the prices as they believed that the imported scrap cargoes booked in the last few months were reaching Bangladesh in August ~ September. They anticipate this may crash the domestic markets as steel mills would have enough feedstock and won't be buying from the recycling industry at high prices.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 13
 
@@ -355,8 +331,6 @@ Markets returned with a vengeance! The domestic ship plates and melting scrap pr
 This week, the Pakistani political drama took centre stage with the Pakistani rupee taking the lead role and weakening to PKR227 levels to the U.S. dollar. The recycling industry has been left in panic and confusion. Off late, the currency had shown signs of stability, but this did not last long, and just in a week, it depreciated by about 12%! In a similar situation to Bangladesh, the ongoing currency saga, the banks are now hesitant to open fresh Letters of Credit for recycling ships as the foreign currency reserves have fallen very low.
 
 The new Government has taken bold steps to cut spending and conserve reserves as much as possible, as it spends 40% of its revenues on interest payments. Industry experts believe such tightening shall continue until the IMF deal is approved by the end of August. This week rumours of Chinese wire rods being offered at a discounted price of US$625/ton surfaced this week, which, if dumped into the Pakistan markets, will be a complete disaster for the ship recycling markets as they are direct competition to the ship plates scrap and eventually have a negative effect on the pricing of ships. For the time being, recyclers have gone hard-shelled and prefered to stay sidelines until the domestic issues are sorted out.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 14
 

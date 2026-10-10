@@ -30,8 +30,6 @@ The first Australian coal cargo to China in more than two years is about to dock
 
 The recent seasonal iron ore supply disruptions in Brazil and ongoing sluggish demand in China resulted in further declines in the market this week. Despite participants returning after the end of the holidays, overall levels still appear to be low. Brazil's iron ore exports in January reached 24.7 million tons, a decrease of 23% m-o-m, marking it the lowest export volume since January 2015. Brazil's R/V levels fell to US$3,600 a day at the week's closing. However, a bottom is expected to be secured soon due to increased resistance from ship owners in response to the
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 continued low rates below OPEX. Although there are still indications of a virtuous cycle, this has not yet been translated on paper. Pacific r/v saw levels in the lows of US$2,600 with an overall Capesize average in the regions of US$5,700 a day.
@@ -47,8 +45,6 @@ Despite the ongoing downturn in major Atlantic routes, there has been a replacem
 #### Handysize:
 
 In the Atlantic and Pacific basin, the markets remain weak due to limited cargo inflows. Inter- Pacific levels were in the region of US$5,600 a day. Although some spot ships have been cleared in the Atlantic, causing a slight improvement in vessel supply pressure, the market sentiment remains negative. T/A levels fell to US$ 7,600's region.
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -90,8 +86,6 @@ CAPE 180,000 15,000 14,750 27,250 +1.69% -44.95%
 | SUPRAMAX | 52,000 | 12,500 | 13,500 | 26,250 | -7.41% | -52.38% |
 | HANDYSIZE | 32,000 | 9,750 | 10,000 | 22,500 | -2.50% | -56.67% |
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
 
 ## Tankers
@@ -101,8 +95,6 @@ China's state-owned oil companies have increased imports of Russian crude oil, a
 #### VLCC:
 
 This week saw a rise of 7% on the MEG to China route due to the increased inflow of cargo and
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 5
 
@@ -121,8 +113,6 @@ The freight rates for the route between Middle East and Southeast Asia have seen
 Before the embargo started, there was more demand for Russian oil products in Europe, so freight rates for the L.R. route between Asia and Europe went up. But the increase in linear conversion demand and the money made from the E.U. embargo led to more trading, which should stop the market from falling further. In the short term, the market is likely to stay flat.
 
 ## Tankers S&P Report
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 (MILLION) USD
 
@@ -161,8 +151,6 @@ Before the embargo started, there was more demand for Russian oil products in Eu
 | LR1 | 74,000 | 35,500 | 35,500 | 13,625 | 0 | +160.55% |
 | MR | 47,000 | 26,000 | 26,000 | 12,500 | 0 | +108.00% |
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 7
 
 ## Containers
@@ -182,8 +170,6 @@ The Drewry World Container Index dropped below US$2,000 per feu for the first ti
 | ACACIA WA | FEEDER | 704 | 2006 | CHINA | 9 | TURKISH BUYERS |
 | NORTHERN GENERAL | PANAMAX | 4,294 | 2008 | S.KOREA | 21 | MSC |
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 8
 
 ## Containers Values
@@ -199,30 +185,21 @@ The Drewry World Container Index dropped below US$2,000 per feu for the first ti
 | 5,500 - 7,000 | Gearless | 87 | 85 | 70 | 45 | N/A |
 | *(amount in USD million) |  |  |  |  |  |  |
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 540 ~ 550 | 530 ~ 540 | 540 ~ 550 | 560 ~ 570 | WEAK / |
+| CHATTOGRAM, BANGLADESH | \*550 ~ 560 | \*540 ~ 550 | \*530 ~ 540 | \*560 ~ 580 | STABLE / |
+| GADDANI, PAKISTAN | \*560 ~ 570 | \*550 ~ 560 | \*550 ~ 560 | \*590 ~ 600 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-CHATTOGRAM,
-
-BANGLADESH \*550 ~ 560 \*540 ~ 550 \*530 ~ 540 \*560 ~ 580 STABLE /
-
-GADDANI, PAKISTAN \*560 ~ 570 \*550 ~ 560 \*550 ~ 560 \*590 ~ 600 STABLE /
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 | 5-Year | Recycling | Average (Week 6) | Historical | Prices |
 | --- | --- | --- | --- | --- |
@@ -242,8 +219,6 @@ Ship, the prices are about USUS$30-40/ton less
 | NING FENG 316 | 11,350 | 1977 / YUGOSLAVIA | BULKER | UNDISCLOSED | DELIVERED CHATTOGRAM |
 | ROSE | 1,959 | 1998 / JAPAN | TANKER | 560 | DELIVERED CHATTOGRAM |
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 10
 
 | NAUTICA MUAR | 12,164 | 1992 / ROMANIA | FSU | 426 | AS IS JOHOR, MALAYSIA / UNDER TOW FOR RE-DELIVERY ALANG |
@@ -256,8 +231,6 @@ Ship, the prices are about USUS$30-40/ton less
 
 ## Recycling Ships Price Trend
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 11
 
 ## Insight
@@ -267,8 +240,6 @@ This week, domestic ship scrap prices across the Indian Sub-Continent took a bre
 **ALANG, INDIA.**
 
 This week the domestic ship scrap prices took a breather after peaking out as the pressure eases on the ferrous scrap and ships supply front. Industry experts believe the prices would remain under pressure in the short run, as the recent catastrophe in Turkey would add additional stress to Indian scrap markets. Importers are on wait-and-watch mode for the time being as they fear that several bulk shipments for Turkey may be diverted to India until Turkish mills resume after settling down. For the ship recycling markets, the long-awaited ship supply dearth was now seen easing. Talks of several container ships have surfaced this week, and the first MSC container was reported sold for specific yards as chosen by the owner after its strict due diligence. Likewise, the
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 12
 
@@ -302,8 +273,6 @@ This week saw some further improvement in the ease of Letters of credit as banks
 
 Speculations in the industry are that Central banks may ease the Letters of Credit restriction further in the second quarter to bring the economy back up and running like before.
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 13
 
 The prices of domestic ship scrap dipped from their peaks seen last week, but overall demand for ships was stable at the prevailing prices.
@@ -329,8 +298,6 @@ The administration is attempting to minimise the impact on the general public, b
 #### ALIAGA, TURKEY
 
 Millions were affected by Monday's tremendous earthquakes in Syria and Turkey. The 7.8- magnitude quakes were the strongest to hit both countries in over a century. Over 21,000 people are dead and many more are missing or seriously injured. With the dust from the disaster still settling, regional analysts are focusing on the longer-term ramifications for Turkey, a country whose 85 million-strong population was already mired in
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 14
 

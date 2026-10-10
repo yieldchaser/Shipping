@@ -22,8 +22,6 @@ WEEK 24 - June 15, 2024
 
 The port of Singapore, already one of the world's busiest, is facing a prolonged period of congestion due to the Red Sea tensions. The commotion has prompted shipowners to take the longer route around the Cape of Good Hope, preventing them from refuelling or unloading cargo at Middle Eastern ports. Singapore's location on a major shipping route connecting Europe and the Middle East to China makes it particularly vulnerable to the effects of these diversions. The increasing congestion at the port, a crucial hub for refuelling and container redistribution, is expected to cause delays in goods delivery and further upward pressure on shipping rates. In May, Singapore's yard utilisation rates reached nearly 90%, well above the optimal level of around 70%. The impact of the re-routing is now becoming apparent, as spare capacity in ports and container yards has been depleted. The number of container ships waiting off Singapore has also increased from 14 in January to 44 in May, with an average wait time of four days. Ports in the nearby region have also seen increased activity. Tanjung Pelepas and Klang, in Malaysia, recorded record monthly throughput in May. However, this is unlikely to alleviate the overall pressure on the global shipping network, as major Middle Eastern ports, such as Salalah in Oman, have experienced a significant drop in volume. Although there are early signs of easing congestion in June, the situation is not expected to improve in the near future, and spot rates for vessels are likely to continue climbing, with the "bull run" for container freight rates expected to persist.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ The Pacific experienced a slight adjustment as the last robust inflow slowed dow
 Panamax/Kamsarmax:
 
 The Atlantic continued its overall climb this week despite a decrease in inflow from the North Atlantic. This was largely driven by the sustained demand for vessels transporting grains from South America. Levels for T/A closed at US$13,600's a day. Similarly, in the Pacific, although coal demand from East Australia has struggled to recover, increased coal inflow from Indonesia and firm rates in South America have contributed to improved conditions, as well as market sentiment. Pacific r/v rates settled at US$16,300's a day.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ Handysize in the Pacific saw poor rates with holidays across the regions and a l
 | HANDY | 38,000 | 30 | 35 | 28 | 21 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Bulker 12 months T/C rates average (in USD/day)
@@ -83,8 +77,6 @@ Handysize in the Pacific saw poor rates with holidays across the regions and a l
 | GUO TAI PING AN | SUPRAMAX |  | 56,643 | 2011 | CHINA | 14.0 | UNDISCLOSED |
 | PANAGIA | KANALA SUPRAMAX |  | 56,568 | 2012 | CHINA | 16.0 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -99,8 +91,6 @@ Suezmax:
 
 The West Africa/Europe route experienced a flat week due to slowing demand. 130,000mt Nigeria/UKC closed at WS113. However, a supply shortage on the US Gulf/Europe route led to a rate surge, limiting the decline in the West African market. In the Med and Black Sea region, 135,000mt CPC/Med remained unchanged as levels closed this week at WS123.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -112,8 +102,6 @@ Clean:
 LR: LR2 rates generally softened despite a good week and steady sentiment. TC1 closed at WS200. In the LR1, MEG markets fell slightly with TC5 falling 11 points to WS230 MR: The market experienced a mixed week, with USG seeing softening levels while the UKC/USAC improved w-o-w to WS160, supported by a flurry of cargoes. In the MEG, rates fell from the previous week with TC17 slipping some 30 points to WS337.
 
 # Baltic Exchange Tanker Indices
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -132,8 +120,6 @@ LR: LR2 rates generally softened despite a good week and steady sentiment. TC1 c
 | GUNMETAL JACK PARADISE | / CITY | MR | 49,999 | 2009 | S. KOREA | 28.0 EACH | TURKISH BUYERS |
 | STOLT | SISTO | MR | 46,011 | 2010 | S. KOREA | 28.5 | CHINESE BUYERS |
 | TRF MANDAL TRF | / MARQUETTE | MR | 37,596 | 2016 | S. KOREA | 38.0 EACH | SOKANA |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -155,26 +141,16 @@ The container shipping market is experiencing an unprecedented boom, with charte
 | 5,100 | Gearless | 78 |  | 75 | 57 | 30 |  | 27 |
 | *(amount in USD | million) |  |  |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 540 ~ 550 520 ~ 530 530 ~ 540 550 ~ 560 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 550 ~ 560 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 330 ~ 340 | 340 ~ 350 | 380 ~ 390 | STABLE / |
 
@@ -193,8 +169,6 @@ ALANG (WC INDIA) 540 ~ 550 520 ~ 530 530 ~ 540 550 ~ 560 STABLE /
 | GADDANI, PAKISTAN | 410 | 305 | 575 | 605 | 530 |
 | ALIAGA, TURKEY | 270 | 175 | 295 | 290 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 | VESSEL NAME | LDT | YEAR / BUILT | TYPE | PRICE | COMMENTS |
@@ -205,15 +179,11 @@ ALANG (WC INDIA) 540 ~ 550 520 ~ 530 530 ~ 540 550 ~ 560 STABLE /
 | MSC GRACE F | 7,555 | 1991 / GERMANY | CONTAINER | 545 | DELIVERED ALANG FOR MSC-APPROVED YARD |
 | WAN TONG | 4,897 | 1990 / JAPAN | REEFER | 435 | AS IS TAIZHOU, CHINA FOR REDELIVERY CHATTOGRAM |
 
-## Shipbroking (www.star-asia.com.sg)
-
 # Ships Sold for Recycling
 
 # Recycling Ships Price Trend
 
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -239,8 +209,6 @@ Anchorage & Beaching Position (June 2024)
 | NEZHA | GENERAL CARGO | 1,571 | 04.06.2024 | 11.06.2024 |
 | BORD | CONTAINER | 5,723 | 03.06.2024 | 07.06.2024 |
 | STREAM | REEFER | 9,148 | 01.06.2024 | 07.06.2024 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -269,8 +237,6 @@ Gadani, Pakistan
 
 On June 12, Pakistan unveiled its highly anticipated budget, which arrived with minimal alterations. The only notable positive development surfaced was the government's decision to withdraw the exemption previously granted to backward areas, which allowed them to operate without sales tax and duty, amounting to 18% plus 3%. This exemption had been detrimental to the steel industry, hindering their ability to compete effectively with these units.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Conversely, the government has also eliminated the 18% sales tax on the sale of scrap. As a result, manufacturers will now be required to pay sales tax at the point of sale, rather than at the time of local purchase or importation. The shipbreaking industry is diligently working to assess the ramifications of these changes for all parties involved. They are conducting a thorough analysis of the new budget's implications to gain a comprehensive understanding of its potential impact on their operations and the broader steel market.
@@ -282,8 +248,6 @@ Aliaga, Turkey
 Chattogram, Bangladesh : 22 ~25 June | 05 ~08 July Alang, India : 19 ~28 June | 02 ~ 11 July
 
 ---
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -312,15 +276,11 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent and Turkey ferrous scrap market witnessed further deceleration. In India, a dampening in buying interest for imported scrap was noted amid unstable domestic market conditions and sluggish demand for finished steel products. In Pakistan, market activity remained muted, affected by financial liquidity issues and weak demand. Similarly, in Bangladesh, demand for imported scrap was low, reflecting a broader slowdown in the domestic steel sector and delays in Letter of Credit approvals. In India, the demand for imported scrap has slowed, impacted by volatility in the domestic market, slow off-take of finished steel, and discrepancies between bid and offer prices. Current indicative offers for shredded scrap from the US, Australia, and UK/Europe are pegged at US$415-420 per ton CFR Nhava Sheva, while HMS (80:20) offers from UK/Europe and West Africa are at US$395-398 per ton CFR. Traders believed that with the monsoon season approaching, the market was expected to remain subdued, and the reluctance of suppliers to lower their offers was adding to the uncertainty. The Pakistani market continues to suffer from a weak finished steel market and cash flow difficulties, resulting in minimal trading activity. Indicative offers for shredded scrap
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 from the UK/Europe stand at US$424-428 per ton CFR Qasim. A steel mill official commented, "The market is slow, with severe cash flow issues, and there are only limited inquiries for rebar, mostly on credit terms." The recent budget announcement, which has come in positive for the scrap steel, will have a positive impact going forward to the post-Eid festival, and new trends shall determine the pricing. In Bangladesh, the demand for imported scrap remains low, hindered by a sluggish domestic steel market and delayed LC approvals. Indicative offers for shredded scrap from UK/Europe are valued at US$425-430 per ton CFR Chattogram, while HMS (80:20) is at US$405-410 per ton CFR. Local ship-breaking scrap prices were reported at BDT 61,500-62,000 per ton, with rebars priced at BDT 89,000-89,500 per ton ex-Dhaka and BDT 94,500-95,000 per ton ex-Chattogram. A trader noted that given the current state of steel demand and production, prices for rebar and billet are likely to fall further, with challenges in pricing and LC approvals for bulk imports from Australia and the US. In Turkey, a slowdown in deep-sea scrap procurement is anticipated as mills have secured 15-16 cargo deals for early July. Although a few mills are still in the market for cargo, offer availability is limited. A recent booking by a West Marmara-based steel mill included a US-origin cargo of HMS (90:10) priced at US$386 per ton on a CFR Turkey basis.
 
 # HMS 1/2 & Tangshan Billet
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

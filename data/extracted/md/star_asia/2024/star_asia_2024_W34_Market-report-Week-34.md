@@ -22,8 +22,6 @@ pages: 19
 
 This week Friday, Federal Reserve Chair Jerome Powell indicated that interest rate cuts are likely on the horizon, though he did not specify the timing or magnitude. Speaking at the Fed's annual Jackson Hole retreat, Powell emphasized that the policy direction is clear, with future adjustments depending on incoming economic data. He highlighted significant progress in reducing inflation, which has declined but remains above the Fed's 2% target. Powell also noted that the labour market has cooled without triggering a recession, allowing the Fed to shift focus toward sustaining employment. Markets responded positively, anticipating potential rate cuts as early as September. Powell reflected on the causes of recent inflation, acknowledging the role of global factors and supply chain disruptions, and emphasised the importance of anchored inflation expectations in achieving disinflation without severe economic downturns. On the other hand, Investment research firm BCA Research predicts an impending recession, contending that expected Federal Reserve rate cuts will be inadequate to prevent it. This forecast contradicts widespread market optimism. Garry Evans, BCA's chief strategist of global asset allocation, cites indicators of economic deceleration, including a weakening U.S. labor market and declining manufacturing activity. While the market anticipates at least three rate cuts by year-end, BCA argues these will not significantly impact the economy, noting that rate cuts typically take a year to stimulate growth. The firm suggests that the market's projection of a 3% federal funds rate by late next year, down from the current 5.3%, is only feasible in a recessionary scenario.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Pacific region's shipping market continues to strengthen, driven by Chinese 
 Panamax/Kamsarmax:
 
 The Atlantic market continues to experience weakness across all major routes as sluggish demand exacerbates the oversupply situation. T/A ended the week at around US$11,350's a day, falling some US$250 from last. Similarly, the Pacific market is facing downward pressure due to the limited inflow of new cargo across the board. Pacific r/v fell to US$12,150's.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -71,8 +67,6 @@ It was a generally soft week in the Handy segment with most rates seeing decline
 | SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 11,750 | 0 |  | +27.66% |
 | HANDYSIZE | 38,000 | 15,000 |  | 15,000 |  | 11,000 | 0 |  | +36.36% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -91,8 +85,6 @@ It was a generally soft week in the Handy segment with most rates seeing decline
 | EFFICIENCY OL | HMAX | 37,130 | 2010 | JAPAN | 15.3 | UNDISCLOSED |
 | CS CAPRICE | HMAX | 30,465 | 2010 | CHINA | 10.8 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -107,8 +99,6 @@ Suezmax:
 
 The West African Suezmax market started the week on a weak note due to sluggish demand. However, influenced by the strengthening in the US Gulf market, rates slightly improved in the latter half of the week, closing with a slight firmness. 130,000mt Nigeria/UKC improved to WS78. The Middle East market on the other hand, indirectly benefited from the VLCC surge, closing the week on a firmer note with rising rates.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -120,8 +110,6 @@ Clean:
 LR: The LR2 Middle East market remained steady, holding firm against the seasonal summer freight rate decline with consistent fixtures. TC1 however fell slightly closing at WS130. The LR1 on the other hand, saw rates in the MEG remain stable. TC5 closes at WS126. MR: The MR market experienced mixed conditions this week. Rates in the Med and UKC softened with TC2 falling 10 points to WS119. Meanwhile the MEG market improved from last with TC17 climbing 3 points to WS204.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -142,8 +130,6 @@ LR: The LR2 Middle East market remained steady, holding firm against the seasona
 | GALL |  | PROD | 28,310 | 2018 | CHINA | 26.0 | TURKISH BUYERS |
 | SAMBONG | HERA | SMALL | 11,416 | 2018 | S. KOREA | 13.8 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -152,29 +138,16 @@ Spot container freight rates fell sharply this week, with the SCFI falling 6% w-
 
 ## Containers S&P Report
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 490 ~ 500 480 ~ 490 480 ~ 490 510 ~ 520 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 480~ 490 | 520 ~ 530 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 490 ~ 500 | 480 ~ 490 | 480 ~ 490 | 510 ~ 520 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 480~ 490 | 520 ~ 530 | WEAK / |
 | GADDANI, PAKISTAN | 510 ~ 520 | 490 ~ 500 | 480 ~ 490 | 520 ~ 530 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 330 ~ 340 320 ~ 330 310 ~ 320 330 ~ 340 WEAK /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 330 ~ 340 | 320 ~ 330 | 310 ~ 320 | 330 ~ 340 | WEAK / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -191,8 +164,6 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 740 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 200 | 300 | 325 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -204,19 +175,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
 ## Insight
 
 This week, the Indian Subcontinent markets have shown signs of recovery, with renewed buying interest emerging at newly adjusted price levels in response to the global decline in ferrous scrap prices and other steel products. As markets begin to account for the influx of cheaper imported steel, recyclers across the Indian Subcontinent and Turkey are recalibrating their pricing strategies. Although the market's recovery has been gradual, hindered by a limited supply of ships, realistic pricing is expected to materialise as the availability of vessels improves. In China, the Chinese steel industry faces significant challenges as the nation's sluggish property sector fails to absorb excess capacity, leading to a sharp decline in both domestic demand and prices. With steel rebar prices down over 20% and iron ore prices plummeting 28% year to date, the industry is experiencing what Baowu Steel Chairman Hu Wangming described as a "winter." The downturn, exacerbated by weak property market conditions, is expected to persist into 2025, squeezing margins and prompting Chinese steelmakers to turn to exports. However, this surge in exports has led to accusations of steel dumping, with countries like Thailand and India imposing antidumping duties. China's steel exports have disrupted global markets, causing closures such as Chile's largest steel mill, Huachipato. ArcelorMittal, the world's second-largest steel producer, warned that China's overproduction has created "unsustainable" market conditions globally. Southeast Asia has absorbed a significant portion of these exports, further impacting regional markets
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -243,13 +208,9 @@ Chattogram, Bangladesh
 
 The Bangladeshi ship recycling industry faced a major setback this week as the Ministry of Industry of Bangladesh has announced that it will no longer issue No Objection Certificates (NOCs) for the importation of ships for reprocessing at yards that have failed to meet development requirements. According to a recent notice, this decision applies to ship reprocessing yards that have not completed or made satisfactory progress on their yard development work, as stipulated under the Ship Breaking and Recycling Rules-2011.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 The notice highlights that, despite receiving preliminary approval for their Ship Recycling Facility Plans (SRFP) since 2019, many yard owners have not fulfilled the necessary development conditions within the specified timeframe. Consequently, from November 14, 2024, onwards, NOCs for ship importation will be denied to non-compliant yards. This move emphasises the government's commitment to enforcing stricter regulations within the ship recycling industry, ensuring that yards adhere to the environmental and safety standards mandated by the SRFP. In response to the recent circular issued by the Ministry of Industry, there has been a sudden surge in demand for end-of-life ships among Bangladesh's ship recyclers. Anticipating the upcoming November 14, 2024 deadline, when non-compliant yards will no longer receive No Objection Certificates (NOCs) for ship imports, recyclers are scrambling to secure inventories before the cut-off. Some recyclers are reportedly offering slight premiums above the prevailing market prices to acquire these ships, aiming to stockpile enough materials to continue operations while they work on upgrading their yards to meet the required standards as well to weather any uncertainties that may arise due to banking hurdles. Another issue brewing in Bangladesh' is the Bangladeshi taka, which has further depreciated after the central bank introduced more flexibility in foreign currency transactions, highlighting a shortage of US dollars in the market. As of yesterday, banks traded the dollar at up to Tk 120 in interbank exchanges, up from Tk 118 just days earlier, according to Bangladesh Bank. This decline follows Bangladesh Bank's decision on August 18 to widen the band of the crawling peg-a controlled range for exchange rate fluctuations-from 1 % to 2.5 % to boost foreign currency inflows. Initially set in early May, the crawling peg replaced previously administered exchange rates, aiming for a market-driven rate over time. However, due to the growing gap between supply and demand for dollars, banks have been forced to buy at higher rates, sometimes exceeding Tk 120. This situation has been exacerbated by shrinking forex reserves, which have plummeted from US$48 billion in August 2021 to US$20.48 billion as of July 2024. Given these pivotal developments impacting the ship recycling markets, the coming months are likely to be turbulent, with the industry poised for significant transformation, leading to price corrections.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -258,8 +219,6 @@ Gadani, Pakistan
 Markets have been largely stagnant over the past few months, with minimal movement as recyclers have taken a cautious stance. Sluggish domestic demand, coupled with declining imported ferrous scrap prices, has led recyclers to hold back. However, buying interest amongst ship recyclers has remained strong but at a price that supports the underlying fundamentals. For the past few months, Gadani recyclers have struggled to compete with their counterparts, but market dynamics are expected to shift soon. All three major recycling markets are likely to align at similar pricing levels, maintaining traditional differences. However, this realignment will only occur once there is an adequate supply of ships available for recycling. Currently, market imbalances and a constrained supply are distorting price signals.
 
 Aliaga, Turkey
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -292,13 +251,9 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent and Turkey ferrous scrap market remained subdued this week, with minimal buyer activity observed across India, Pakistan, and Bangladesh. In India, buyers
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 were hesitant to make bulk bookings, opting to wait for prices to bottom out following recent declines in the Turkish market. Similarly, Pakistan's market saw slow movement, hampered by the rainy season and delayed payments. Meanwhile, in Bangladesh, steel mills are postponing significant purchases until October, citing weak demand in the infrastructure sector. Despite the overall bearish sentiment, there are signs of a potential rebound, particularly in Turkey, where the recent price drops have led to speculation that market conditions could improve if certain factors, such as the cancellation of China-origin billet orders, come into play. In India, the demand for imported scrap remained weak as buyers showed little interest in current offers. Many are holding off, expecting prices to drop further in line with the downturn in the Turkish market. The availability of cheaper domestic alternatives has also kept buyers away from the seaborne market. Indicative offers for shredded scrap from the US and UK/Europe hovered around US$395-398/t CFR Nhava Sheva, while buyers' expectations were below US$390/t CFR. HMS (80:20) offers were at US$370-375/t CFR. Steel mills in India were of the belief that, at the current price level, there's little interest in booking imported scrap, as domestic scrap remains a viable option. However, if prices drop to around US$365/t, they could see some good deals from India. The imported scrap market in Pakistan remained cautious and slow. Buyers largely adopted a wait-and-see approach, expecting stable prices while dealing with the impact of the rainy season, which has dampened domestic steel demand. Delayed payments continued to strain cash flows, further slowing market activity. Indicative offers for shredded scrap from the UK/Europe were assessed at US$395-400/t CFR Qasim, while HMS (80:20) offers from the UAE were heard at around US$380-382/t CFR. Market activity in Bangladesh stayed sluggish due to a slowdown in the steel sector, driven by subdued construction and infrastructure projects. Market participants reported that a major Bangladeshi steel mill has sufficient stock and is unlikely to make large purchases until October. Indicative offers for shredded scrap from the UK/Europe were reported at US$410-415/t CFR Chattogram, with HMS (80:20) offers at US$395-400/t CFR. The Turkish imported ferrous scrap market continued to face pressure as prices dropped further. A US-origin deal was concluded by a Marmara mill for HMS (80:20) scrap at US$360/t CFR, marking a US$3/t decline. This deal underscored the intense buyside pressure on recyclers, who are struggling to meet mill demands. Market sentiment remained bearish, with some participants suggesting that prices could dip even further
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -313,8 +268,6 @@ The stronger U.S. dollar dampened investor appetite across the base metals secto
 **copper leading the decline amid a broad wave of selling. However, zinc defied the trend,**
 
 closing higher after China's largest smelter announced plans to reduce its concentrate intake to mitigate deepening losses in refining. According to Beijing Antaike Information Development, smelters plan to cut their ore demand this year by nearly 1 million tons, a significant reduction from their initial estimate. This adjustment involves 14 companies with a combined annual capacity of 4.17 million tons, representing 70% of China's total output. Copper inventories on the Comex increased by 6.6% to 31,300 tons on Thursday, reflecting the lingering effects of the recent squeeze in the U.S. market. Copper imports surged to 91,000 tons in July, marking the third-highest monthly volume in the past decade.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

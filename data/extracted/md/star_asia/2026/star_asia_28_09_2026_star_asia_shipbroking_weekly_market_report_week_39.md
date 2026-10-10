@@ -203,14 +203,9 @@ The global container shipping market maintained a steady posture this week as th
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $490-500 | $480-490 | $440-450 | $540-550 | STABLE /         
-
-CHATTOGRAM |
-
-| GADDANI, PAKISTAN | $520-530 | $510-520 | $490-500 | $540-550 | STABLE /            
-
-ALIAGA |
-
+| ALANG, INDIA | $490-500 | $480-490 | $440-450 | $540-550 | STABLE / |
+| CHATTOGRAM, BANGLADESH | $510 - 520 | $490-500 | $480-490 | $560-570 | STABLE / |
+| GADDANI, PAKISTAN | $520-530 | $510-520 | $490-500 | $540-550 | STABLE / |
 | ALIAGA, TURKEY | $320-330 | $310-320 | $290-300 | $340-350 | STABLE / |
 
 ### Demolition - Reported Sales

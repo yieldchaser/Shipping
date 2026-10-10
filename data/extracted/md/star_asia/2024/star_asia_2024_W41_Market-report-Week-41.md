@@ -22,8 +22,6 @@ pages: 19
 
 The global financial markets are experiencing a period of heightened uncertainty and divergence. Recent economic data, particularly concerning the labour market, has sparked concerns among investors, leading to the worst performance for stocks since the 2023 regional bank crisis. While the S&P 500 remains up 13% this year, the recent gyrations have highlighted the growing divide between different asset classes in their assessment of economic prospects. Bond and commodity markets have been signaling caution for some time, with Treasury yields and key commodities like oil and copper showing signs of economic weakness. This week's market movements suggest that equity investors may be catching up to the more pessimistic outlook that has been priced into bonds and commodities. The simultaneous selloff across various asset classes indicates a rare moment of agreement among investors about the economic outlook. However, opinions remain divided on whether these market signals truly portend a recession or if they represent a temporary adjustment in a still-robust economy. The coming months will be crucial in determining whether the current market concerns translate into a significant economic slowdown or if the resilience we have seen in recent years will once again prevail. Meanwhile, on the other side of the Pacific, during a press briefing on Saturday, China's Finance Minister Lan Fo'an indicated that the government has significant room to increase debt and the deficit. While additional fiscal support has been widely anticipated, no major stimulus measures have been announced yet. Lan suggested more stimulus could be forthcoming, though its scale and focus remain unclear. The Finance Ministry also outlined measures aimed at tackling local government debt, stabiliing the real estate market, and supporting employment. Vice Minister Liao Min highlighted plans to use special bonds for land purchases and allow housing subsidies to apply to existing inventory, rather than just new construction. As China's real estate slump continues and GDP growth lingers at 5%, analysts are closely watching for details on fiscal policy changes, with expectations focused on the upcoming parliamentary meeting. The People's Bank of China has also extended real estate support and launched a US$71 billion fund to bolster stock market investment.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ In the Pacific, the market remains stable as the influx of coal from Eastern Aus
 Panamax/Kamsarmax:
 
 Sentiments in the North Atlantic have weakened due to reduced demand for front-haul coal shipments, reflecting broader changes in the energy sector. South America, however, presents a more optimistic picture, with a steady influx of cargo that maintains a favorable balance and supporting rates. Brazil's r/v rates closed higher at around US$14,000's. The Pacific region, on the other hand, faces a unique challenge: despite consistent cargo flow, an accelerating oversupply of vessels is exerting downward pressure on rates. Pacific r/v average a day fell to US$ 13,100's a day.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -71,8 +67,6 @@ It was a weak week in the Pacific with rates seeing discounts as activity pick u
 | SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 11,500 | 0 |  | +30.43% |
 | HANDYSIZE | 38,000 | 14,000 |  | 14,000 |  | 12,000 | 0 |  | +16.67% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -91,8 +85,6 @@ It was a weak week in the Pacific with rates seeing discounts as activity pick u
 | NPS MOSA | SMAX | 53,556 | 2007 | JAPAN | 12.0 | S. KOREAN BUYERS |
 | KEFALONIA | HANDY | 28,742 | 2009 | JAPAN | 10.5 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -106,8 +98,6 @@ The Middle Eastern market started the week slightly bearish. However, mid-week, 
 Suezmax:
 
 The West African market was also impacted by the geopolitical crisis in the Middle East. The WAFR/UKC route saw rates dropped some 16 points to WS89. Meanwhile in the MEG, 140,000mt MEG/Med gained 2 points to WS104.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -148,8 +138,6 @@ CHANGE
 | MR | 51,000 | 52 | 53 | 50 | 41 | 28 |
 | *(amount in USD million) |  |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tanker 12 months T/C rates average (in USD/day)
@@ -175,8 +163,6 @@ COMMENTS /
 
 BUYERS CHINESE BUYERS UNDISCLOSED S. KOREAN BUYERS
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -191,8 +177,6 @@ The global container shipping market is experiencing a decline in rates, with th
 | CAPE FARO | FEEDER | 1,440 | 2006 | GERMANY | 14.0 | CHINESE BUYERS |
 | SSF LILY | FEEDER | 1,155 | 2005 | TURKEY | 8.5 | MIDDLE EASTERN BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Containers Values
@@ -205,29 +189,16 @@ The global container shipping market is experiencing a decline in rates, with th
 | 5,100 | Gearless | 81 | 77 | 66 | 35 | 32 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 470 ~ 480 460 ~ 470 460 ~ 470 490 ~ 500 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 470 ~ 480 450 ~ 460 | 430 ~ 440 | 480 ~ 490 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 480 ~ 490 460 ~ 470 | 450 ~ 460 | 490 ~ 500 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 370 ~ 380 350 ~ 360 360 ~ 370 380 ~ 390 IMPROVING /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 470 ~ 480 | 460 ~ 470 | 460 ~ 470 | 490 ~ 500 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 470 ~ 480 | 450 ~ 460 | 430 ~ 440 | 480 ~ 490 | STABLE / |
+| GADDANI, PAKISTAN | 480 ~ 490 | 460 ~ 470 | 450 ~ 460 | 490 ~ 500 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 370 ~ 380 | 350 ~ 360 | 360 ~ 370 | 380 ~ 390 | IMPROVING / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -244,8 +215,6 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 750 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 200 | 300 | 325 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -257,11 +226,7 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -272,8 +237,6 @@ The overall sentiment in the Sub-Continent ship recycling market remained subdue
 Alang, India
 
 The Alang ship recycling market has entered a new phase of purchasing at the prevailing prices as domestic ship scrap prices stabilise after weeks of decline. This trend has been observed over the past few weeks. As the market approaches a busy festive period, with extended holidays and a traditionally quieter month, industry participants have begun shifting into holiday mode. However, buying activity is expected to pick up
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -287,8 +250,6 @@ again after the Diwali festival in India, when new projects are typically launch
 | Markets are witnessing ships has kept overall holding steady despite Anchorage | notable improvements trends flat. Recyclers the lack of clear & Beaching | remain direction | in demand; eager to in the market. Position (September | however, the limited purchase, with 2024) | supply of prices |
 | VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
 | - | - |  | - | - | - |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -313,8 +274,6 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 558 | 524 | 685 |
 | HOUSTON | 577 | 475 | 733 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -329,8 +288,6 @@ due to weak finished steel sales and low production levels, exacerbated by liqui
 
 in response to ongoing economic sluggishness, monsoon flooding, and high inventory levels. Steel production in the country is operating at just 50-60% capacity, a reflection of weak demand. Offers for shredded scrap from Australia and New Zealand stood at US$415-420/ton CFR Chattogram, while HMS (80:20) was offered at US$390-395/ton CFR. Most buyers are expected to reassess their purchasing strategies next month. In contrast to the Sub-Continents markets, Turkish mills were actively securing scrap to support strong domestic rebar production anticipated in November. With limited availability, Turkish buyers moved quickly to lock in supplies. Notable transactions included Venezuela-origin HMS (80:20) purchased at US$382/ton CFR by an Aegean-
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 based mill, alongside EU-origin HMS (80:20) deals at US$378-381/ton CFR. German-origin HMS (80:20) was also booked at US$376/ton CFR by several mills in the same region. While challenges in the Sub-Continent continue to weigh on the market, Turkey's demand for scrap remains robust, driven by its rebar production needs.
@@ -342,8 +299,6 @@ based mill, alongside EU-origin HMS (80:20) deals at US$378-381/ton CFR. German-
 ### Iron ore futures rebounded on Thursday, with the most-traded January contract on
 
 China's Dalian Commodity Exchange rising 1 .15% to 792.5 yuan per metric ton. This recovery was driven by expectations of additional fiscal stimulus from China and stronger seasonal demand for steel products. The benchmark November iron ore on the Singapore Exchange also saw an increase, climbing 2.16% to US$107.15 a ton. Market optimism was further bolstered by the announcement of an upcoming news conference where China's finance ministry will detail plans for economic stimulus, leading analysts to revise growth forecasts upward. Recent policy measures appear to be having a stabilising effect on China's steel market, with spot rebar prices reaching their highest level in over two months and improved steel mill margins. The traditional "golden October" period in the steel industry is contributing to a better supply-demand balance for industrial steel products. This seasonal uptick, combined with policy support, is providing a more positive outlook for the sector.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -359,8 +314,6 @@ Iron Ore
 |---|---|---|---|---|---|---|
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 104 | -3.70% | -10.34% | 108 | 116 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 107 | +2.88% | -10.08% | 104 | 119 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

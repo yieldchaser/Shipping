@@ -22,8 +22,6 @@ pages: 19
 
 The shipping industry received a jolt end week following a landmark 6-3 decision by the US Supreme Court that dismantled a major pillar of current American trade policy. By ruling that the executive branch overstepped its legal bounds, the court effectively cancelled broad "reciprocal" tariffs and specific import taxes that had been applied to major trading partners like Canada, Mexico, and China. While this decision offers immediate legal relief, it introduces a period of intense administrative complexity regarding the potential refund of billions of dollars in collected duties. Many are now closely monitoring how the US Treasury will manage these repayments, as a sudden influx of capital back to importers could significantly alter near-term cash flows and inventory strategies across the supply chain. Operational volatility remains the primary concern for carriers and port operators as the market reacts to this sudden shift in the cost of trade. The invalidation of these duties is expected to trigger a surge in container volumes as shippers reassess previously delayed orders and look to capitalise on the lower effective tax rates. However, this optimism is balanced by the White House's indication that it will pursue alternative, albeit more cumbersome, legal avenues to reinstate certain trade barriers. The broader economic impact was immediately visible in the financial markets, where stocks rallied on hopes of revitalised trade growth while Treasury yields rose in anticipation of lower government revenue. In the shipping markets, the ruling comes at a critical time as the industry was already grappling with declining first-quarter throughput and a cautious outlook for 2026. While some officials have called for calm, the potential for a massive "reverse gear" in trade policy has logistics providers and drayage operators preparing for a period of heightened activity and logistical maneuvering. As global markets fully digest the news over the coming days, the maritime industry must navigate these murky waters with a focus on flexibility and rapid response to the evolving regulatory landscape.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Capesize market saw a softening trend across major routes, as Brazil and T/A
 Panamax/Kamsarmax:
 
 Atlantic sentiment for the Panamax segment turned cautious as slowing activity limit further upside. In contrast, the Pacific continues to set a positive with R/V rates rising to US$16,250's, bolstered by steady cargo flows and increasing period interest. While ECSA and fronthaul demand remain subdued, the healthy underlying fundamentals point toward a more constructive market post-Chinese New Year. Supramax/Ultramax: The Supramax market remains subdued with a softening trend in the Atlantic, leading to rate declines for T/A and F/H routes. While the USG and South Atlantic face limited enquiry and balanced tonnage, the Pacific offers a lone bright spot with rates edging up to US$10,719 behind steady coal and minor bulk business. Overall sentiment remains patchy across both hemispheres.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -62,8 +58,6 @@ The Handy market remains largely subdued, as ongoing Lunar New Year celebrations
 | HANDY | 38,000 | 30 | 33 | 26 | 19 | 15 |
 | *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -84,8 +78,6 @@ The Handy market remains largely subdued, as ongoing Lunar New Year celebrations
 | ASIA SPIRIT | HANDY | 35,031 | 2012 | CHINA | 11.5 | UNDISCLOSED |
 | LIBERATOR | HANDY | 28,414 | 2006 | JAPAN | 6.7 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -99,8 +91,6 @@ MEG recovered end week slightly, with the easing of holidays in Asia as trips to
 Suezmax:
 
 In West Africa, activity has slightly uptick with early March requirements on the rise. 130,000mt Nigeria/UKC climbs to WS163 at week's closing. In the Middle East, 140,000mt MEG/Mediterranean route (via Suez Canal), has strengthened closing at WS119.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -135,8 +125,6 @@ CHANGE +96.16% +12.27%
 | MR | 51,000 |  | 49 | 53 | 42 (E) | 33 | (E) | 24 |
 | *(amount inUSD | million) | \ | (E)-ecounits |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -154,8 +142,6 @@ CHANGE +96.16% +12.27%
 | CAPE TEES / CAPE TALLIN | LR1 | 73,731 | 2009 | CHINA | 21.0 EACH | UNDISCLOSED |
 | FLORENCE | MR | 47,999 | 2006 | JAPAN | 11.1 | PRECIOUS SHIPPING |
 | CABO NEGRO II | MR | 47,236 | 2006 | JAPAN | 14.2 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -178,29 +164,18 @@ S&P Containers Report
 |---|---|---|---|---|---|---|
 | SEASPAN JAKARTA | PMAX | 4,253 | 2006 | S. KOREA | 17.0 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS / WEEKLY
-
-GENERAL CARGO FUTURE TREND
-
-ALANG (WC INDIA) 410 ~ 420 400 ~ 410 380 ~ 390 430 ~ 440 IMPROVING /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | IMPROVING / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 | ~ 430 | 410 ~ 420 | 440 ~ 450 | IMPROVING/ |
-
-TURKEY
+| ALANG (WC INDIA) | 410 ~ 420 | 400 ~ 410 | 380 ~ 390 | 430 ~ 440 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | IMPROVING / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | IMPROVING/ |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 300 ~ 310 | 290 ~ 300 | 270 ~ 280 | 310 ~ 320 | IMPROVING/ |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -217,8 +192,6 @@ TURKEY
 | GADDANI, PAKISTAN | 440 | 620 | 560 | 530 | 440 |
 | ALIAGA, TURKEY | 240 | 360 | 320 | 320 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -231,19 +204,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 Alang continues to experience uncertainty, with participants navigating a landscape defined by erratic fundamentals and shifting market expectations. While demand from end buyers remains at a respectable level, the resale steel market is currently burdened by systemic sluggishness, most notably evidenced by the dramatic extension of credit terms from a standard single day to a full 10-day period. This highlights a broader fragility in the regional steel economy, where a recent downward correction in local prices has contrasted sharply with the steadfast offer levels maintained by ship recyclers. Although current price indications for bulk carriers hold near US$395-$405/LDT and container ships reach up to US$435/LDT, actual trading activity remains restricted as recyclers wait for more stable conditions. The environment in Gujarat remains highly precarious, leaving the industry in a state of constant anticipation as recyclers search for
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -272,8 +239,6 @@ Chattogram
 
 Local buyers in Chattogram demonstrate an eager appetite for new vessels despite a persistent shortage of available tonnage. This scarcity has created a notable supply squeeze, heightening the sense of urgency among yard owners who are keen to maintain operations as the industry moves toward greener practices. While the local steel market saw reduced activity for much of the week following the recent national elections, pricing from ship recyclers has remained remarkably steady. In a major regulatory shift, the BSBRA has officially adopted the International Ready for Recycling Certificate (IRRC) protocols this week, aligning the country with India and Pakistan in adhering to HKC standards. Under these new requirements, yards must develop a detailed Ship Recycling Plan once sellers provide the necessary inventory of hazardous materials, which then allows for the issuance of the IRRC by relevant authorities-a mandatory step for all vessels now entering sub-continent recycling destinations.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Anchorage & Beaching Position (FEBRUARY 2026)
@@ -296,8 +261,6 @@ Anchorage & Beaching Position (FEBRUARY 2026)
 Aliaga, Turkiye
 
 Turkiye market remains unchanged this week, with no new activity to report. Markets remains cautious and buying has been minimal as supply outweighs current demands.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -328,15 +291,11 @@ EXCHANGE RATES
 
 India The Indian imported scrap market reflects mixed sentiment, as a visible disconnect between supplier expectations and buyer willingness. Suppliers have been quoting HMS 80:20 at levels between US$352/t and US$355/t CFR; however, domestic buyers have largely resisted concluding deals at these points. Although buying interest at major ports like Nhava Sheva and Mundra has shown signs of firming, bids generally remain below the US$350/t threshold. Meanwhile, LMS bundles and turnings are finding a floor between US$325/t and US$330/t. Despite this wide availability of material, the Indian market remains highly selective and acutely sensitive to even minor price fluctuations. Bangladesh In Bangladesh, the imported ferrous scrap sentiment has witnessed a notable improvement as the market moves past the uncertainties of the election week. This
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 recovery in demand expectations has allowed offer levels to remain firm across the board. Australia-origin HMS 80:20 is currently heard at US$360/t and above, while HMS 1 is positioned at US$370/t and shredded scrap reaches US$380-US$382/t CFR. While the outlook is more optimistic than in previous weeks, procurement remains disciplined, as evidenced by buyer bids hovering between US$372/t and US$375/t, suggesting that while the appetite for material is growing, price sensitivity remains a primary constraint. Pakistan The Pakistani market for imported shredded scrap maintains a firm stance, supported by a combination of limited supply and steady, albeit selective, buying activity. General offers for shredded scrap are currently concentrated in the US$380-US$382/t range, with UK-origin material specifically noted at the US$382/t mark. Supply constraints are particularly evident in the UAE segment, where shredded scrap was last heard at a premium of US$395/t. Despite these high benchmarks, active trade is occurring at more competitive levels, including a recent deal for 2,000 tons of UAE fabrication scrap at US$375/t CFR and a smaller booking of 250 tons of UAE HMS 80:20 at US$365/t CFR earlier in the week. Turkiye Deep-sea imported scrap prices in Turkiye remained largely flat, although the market experienced a late-week surge in activity following a quiet start to the month. This reentry by Turkish mills suggests a selective need for inventory, yet the overarching sentiment is one of caution. The market is currently balanced by opposing seasonal factors: harsh winter conditions in Northern Europe are restricting the flow of scrap into the market, providing a floor for prices, while the onset of Ramadan is beginning to curb mill activity and downstream demand.
 
 HMS 1/2 & Tangshan
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -351,8 +310,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 97 | -3% | -11.8% | 100 | 110 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 97 | -3% | -6.73% | 100 | 104 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

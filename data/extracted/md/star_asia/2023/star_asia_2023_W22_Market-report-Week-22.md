@@ -26,8 +26,6 @@ This week, finally, President Joe Biden and Republican House Speaker Kevin McCar
 
 Coal miners in China are dealing with plummeting prices as domestic production rises and massive imports lead to historically high stockpiles. The benchmark price at Qinhuangdao port has dropped by 18% this year, reaching its lowest point since the beginning of 2022. Additionally, liquefied natural gas prices have fallen by 40% since the start of the year, underscoring weak industrial fuel demand. This price decline is unusual as it contradicts the typical trend during rising temperatures when airconditioning usage increases. The economic reopening after the pandemic has done little to improve the situation, and a disappointing construction season in the second quarter has led to price cuts by mills. The focus now rests on whether Beijing is willing to increase stimulus measures beyond market expectations. Meanwhile, Baltic Dry Index continued its downward trend for the 16th consecutive session on Friday, marking its largest weekly decline since early January. This week's decline was substantial, with B.D.I. down 21.6%, the lowest since the week ending January 6. The capesize index, fell by 28 points to 1,116, experiencing its most significant weekly percentage drop since February 17, at over 33%. The decline could be attributed to the reduced coal imports to Europe and an ongoing sluggish economic recovery in China.
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 Capesize:
@@ -41,8 +39,6 @@ Sluggish coal trade in the Pacific and Atlantic, coupled with strong grain price
 Handysize:
 
 The Atlantic is still experiencing general congestion among spot vessels, as bigger units offer cheaper rates compared to smaller units. There has been a shift in demand, leading to a continued decline. T/A levels fell to US$ 8,500's region at closing. In the Pacific, South East Asian countries are on holiday, with subdued activity all around. Inter-Pacific fell to US$ 6,300's a day while Pacific r/v in the regions of US$ 7,000's a day.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -82,8 +78,6 @@ The Atlantic is still experiencing general congestion among spot vessels, as big
 | BSI | 819 | 946 | 2,703 | -13.42% | -69.70% |
 | BHSI | 545 | 588 | 1,595 | -7.31% | -65.83% |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Bulker 12 months T/C rates average (in USD/day)
@@ -98,8 +92,6 @@ The Atlantic is still experiencing general congestion among spot vessels, as big
 # Tankers
 
 The OPEC+ alliance is preparing for a weekend meeting in Vienna to discuss further production policy steps as the oil market continues to manage supply volatility, demand uncertainty, and broader economic concerns. The 23-member alliance, including Russia and Saudi Arabia, has been implementing production cuts since October 2021 to address lower demand. While public comments from officials have been conflicting, there are indications that further supply cuts could be on the table. Saudi Arabia's energy minister warned speculators to "watch out" for potential pain ahead, while Russia's Deputy Prime Minister initially downplayed the possibility of output cuts but later clarified that his comments were misinterpreted. The alliance aims for a balanced market and is cautious about deep cuts that could strain consuming households or draw criticism from the United States. Analysts from Goldman Sachs expect OPEC+ to keep production unchanged, but there is a possibility of deeper cuts. The ministers may take a "wait and see" approach, given lukewarm demand forecasts and the potential impact of higher oil prices on the global economy. The secretary general of OPEC has expressed that they would welcome Iran's return to the international oil market once the U.S. lifts sanctions on Tehran. He emphasized Iran's responsible role within OPEC and anticipated cooperation to maintain market balance. The U.S. imposed sanctions on Iran started in 2016 to halt its nuclear program, particularly targeting its oil and gas industry. While Iranian oil and gas exports
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -120,8 +112,6 @@ There were mixed sentiments in the segment this week. While the Atlantic has obs
 Clean:
 
 L.R.: During the past week, there was limited activity in the L.R., with rates experiencing a slight decline. This can be attributed to a longer tonnage list, coinciding with holidays in Singapore. In the M.E.G., LR1 faced a similar situation, with TC5 rates dropping to WS147. MR: This week, there was an overall improvement in M.R. rates. Thanks to strong demand, ship owners were able to increase rates on the UKC-WAF route, reaching WS 205. Meanwhile, M.E.G. route has been tested and found wanting. The TC17 index fell on Friday to WS272.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -167,8 +157,6 @@ L.R.: During the past week, there was limited activity in the L.R., with rates e
 | LR1 | 74,000 | 35,500 | 35,500 | 22,000 | 0 | +61.36% |
 | MR | 47,000 | 26,000 | 26,000 | 19,000 | 0 | +36.84% |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 # Containers
@@ -186,8 +174,6 @@ Upon initial observation, the market may have seemed uneventful, but private act
 | WAN HAI 281 | FEEDER | 1,510 | 1998 | JAPAN | 6.85 | CHINESE BUYERS |
 | YANTRA BHUM | FEEDER | 1,098 | 1993 | JAPAN | 3.5 | CHINESE BUYERS |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 # Containers Values
@@ -200,19 +186,16 @@ Upon initial observation, the market may have seemed uneventful, but private act
 | 5,500 - 7,000 | Gearless | 88 | 80 | 70 | 45 | N/A |
 | *(amount in USD million) |  |  |  |  |  |  |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ | CONTAINERS | SENTIMENTS |  | / WEEKLY |
-|---|---|---|---|---|---|---|---|
-|  |  |  | GENERAL CARGO |  | FUTURE |  | TREND |
-| ALANG (WC INDIA) *For greenshiprecycling, the pricesareabout US$10-15/tonlower. | 530 ~ 540 | 510 ~ 520 | 530 ~ 540 | 540 ~ 550 | STABLE / |  |  |
-| CHATTOGRAM, BANGLADESH | *580 ~ 590 | *560 ~ 570 | *550 ~ 560 | *590 ~ 600 | STABLE / |  |  |
-| GADDANI, PAKISTAN | NA | NA | NA | NA |  | NA |  |
-| TURKEY *For Non-EU ships.ForE.U. Ship,the pricesare about US$20-30/tonless | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |  |  |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) \*For green ship recycling, the prices are about US$10-15/ton lower. | 530 ~ 540 | 510 ~ 520 | 530 ~ 540 | 540 ~ 550 | STABLE / |
+| CHATTOGRAM, BANGLADESH | \*580 ~ 590 | \*560 ~ 570 | \*550 ~ 560 | \*590 ~ 600 | STABLE / |
+| GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -230,8 +213,6 @@ Upon initial observation, the market may have seemed uneventful, but private act
 | CHATTOGRAM, BANGLADESH | 435 | 420 | 300 | 550 | 630 |
 | GADDANI, PAKISTAN | 430 | 410 | 290 | 540 | 620 |
 | ALIAGA, TURKEY | 290 | 270 | 170 | 290 | 345 |
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
@@ -251,8 +232,6 @@ Upon initial observation, the market may have seemed uneventful, but private act
 
 # Recycling Ships Price Trend
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Insight
@@ -260,8 +239,6 @@ Upon initial observation, the market may have seemed uneventful, but private act
 The Sub-Continent's market has experienced a notably busy period, characterised by a return to normalcy despite significant declines and a general decrease in enthusiasm. It seems that recyclers, disregarding previous concerns, have eagerly embraced the belief that markets have reached their lowest point, leading to a resurgence in their purchasing activities. On the end-of-life ship supplies, the dry bulk segment, particularly those owned by Chinese companies, has experienced significant advancements as owners become increasingly eager to sell off their older vessels amidst fluctuations in freight rates. A majority of the dry bulk carriers owned by Far Eastern ship owners were seen aiming to seize the opportunity of prevailing prices by acting swiftly. This has brought about positive developments in the ship recycling industry for the time being, lessening certain challenges faced due to the previous dearth of ships.
 
 On the other hand, the recent plunge in the dry bulk freight rates may burden a sudden influx, which the markets have not seen in a while, and poses a challenge due to the limited number of recycling facilities, particularly in Bangladesh. Furthermore, Pakistan has closed its facilities, and Alang is reluctant to offer premiums compared to its competitors. This impending scenario is expected to have a profound influence on the price dynamics within the recycling industry. Only time will reveal whether this recent drop in dry bulk freight rates will persist or if it was merely a temporary reaction. In the container segment, although freight rates have decreased, they have not reached a level that entices shipping companies to send their vessels for recycling. Recently, there have been notable cases involving container ships such as Wan Hai 281, built in 1998, and Wan Hai 261, built in 2001, as well as RCLowned Yantra Bhum, built in 1993. All these older vessels were initially earmarked for recycling due to their age but surprisingly found interested buyers in the trading market. China, the largest manufacturer of steel products, released its steel Purchasing Managers' Index (PMI) data this Wednesday, revealing a significant decline. The steel PMI dropped by 10 points from April to 35.2, with output falling by 20 points to 27.5 and new orders standing at 27.4. While from China's National Bureau of Statistics (N.B.S.), the manufacturing PMI comes in at 48.8 expected 51.4, prior 49.2. These figures have raised concerns among analysts, who view them as alarmingly low, indicating a gloomy outlook for the future. Moreover, recent data indicate that China's extensive property sector continues to struggle despite some signs of recovery earlier this year. The main factors contributing to this weak performance are an overall lack of demand across all sectors and poor export figures. Beijing is currently contending with a fresh wave of challenges, with youth unemployment emerging as a critical threat to the economy. A crucial interdependence exists between the real estate sector and the issue of joblessness among the younger population, as addressing the latter is indispensable for any substantial improvement in the former. Historically, fluctuations in steel prices have often originated in China and had a ripple effect on global steel prices. Therefore, if Chinese steel prices continue to decline, it is likely to have contagion effects on international steel prices.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -280,8 +257,6 @@ Anchorage & Beaching Position (June 2023)
 | ENAM | CONTAINER | 4,751 | 24.05.2023 | AWAITING |
 | MSC LUCIA | CONTAINER | 8,911 | 27.05.2023 | 02.06.2023 |
 | NOVO 23 | FISH FACTORY | 3,861 | 25.05.2023 | 02.06.2023 |
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -304,8 +279,6 @@ Anchorage & Beaching Position (June 2023)
 | The Gaddani recyclers have easing the foreign exchange Credit. Markets remained on Anchorage | remained in a state crisis, which has the sidelines. & Beaching | of inactivity, as resulted in the Position (May 2023) | there has been no suspension of the opening | distinct progress in of Letters of |
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
 | - | - | - | - | - |
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -342,8 +315,6 @@ EXCHANGE RATES
 | USD / INR (INDIA) | 82.39 | 82.61 | +0.27% |
 | USD / PKR (PAKISTAN) | 285.59 | 285.10 | -0.17% |
 | USD / TRY (TURKEY) | 20.97 | 20.00 | -4.85% |
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 

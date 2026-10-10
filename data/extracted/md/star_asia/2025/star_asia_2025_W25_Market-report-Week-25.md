@@ -22,8 +22,6 @@ WEEK 25 - June 20, 2025
 
 This week, Israel and Iran launched new strikes in a second week of hostilities. President Donald Trump will decide within two weeks whether to authorise military action against Iran, according to White House spokeswoman Karoline Leavitt. Trump's statement follows a series of Israeli strikes on Iranian nuclear facilities and rising speculation over U.S. involvement. While the president has previously signalled support for joining Israel's campaign, his latest message hints at a potential diplomatic opening, citing "a substantial chance" of negotiations. The delay eased pressure on U.S. equity futures, while Brent crude fell 2% in Asian trading. The geopolitical uncertainty has rattled global markets, although trading across Asia remained range bound. Meanwhile, Israeli strikes continue to target Iran's military infrastructure, including an Isfahan nuclear facility and inactive nuclear reactor near Arak. Amid the escalating conflict, European leaders and Gulf states have renewed calls for diplomacy, warning that the next two weeks may be pivotal for a peaceful resolution. Trump's track record with "two-week" timelines leaves markets on edge. While no oil infrastructure was directly hit, markets reacted swiftly to the reality that conflict now involves a nation controlling the Strait of Hormuz, through which 20% of global oil traffic flows daily. Iran's position as a major energy player amplifies the stakes considerably. Despite years of sanctions, the country exports over 1.5 million barrels daily, much of it flowing to China through both official and unofficial channels. As an OPEC+ member with substantial influence on global crude policy, Iran's role extends far beyond its own production. The country's strategic location next to the Hormuz chokepoint means even minor threats to that waterway could trigger another US$10 price spike overnight, transforming regional conflict into a global energy crisis.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -41,8 +39,6 @@ The Atlantic market has remained weak as oversupply coupled with cargo owners' r
 Handysize:
 
 The Handy saw a subdued ending to the week with Inter Pacific seeing an uptick in rates at US$8,500's a day from a lack of tonnage. In the Atlantic, although not much movement reported, rates remain stable supported by consistent flow.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -78,11 +74,7 @@ Dry Bulk - S&P Report
 | PAX SILVA | HMAX | 46,900 | 2007 | JAPAN | 8.0 | VIETNAMESE BUYER |
 | NY TRADER III | HANDY | 39,388 | 2016 | CHINA | 17.0 | GERMAN BUYER |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -101,8 +93,6 @@ West Africa saw some weaknesses at the end of last week due to lackluster demand
 Aframax:
 
 Middle East fundamentals remained similar as last with enough supply to meet demand, but like larger vessels, rates saw volatility due to the regional tensions. In the Mediterranean, similar gains were also seen with Ceyhan/Lavera route improving to WS139.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -143,11 +133,7 @@ Tankers S&P Report
 | OSAKA | MR | 37,923 | 2008 S. | KOREA | 14.8 | MIDDLE EASTERN BUYER |
 | BIRDIE TRADER | PROD / CHEM | 19,822 | 2016 | JAPAN | 28.5 (SS) | TAIHUA SHIP MGMT LTD |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -170,29 +156,18 @@ S&P Containers Report
 |---|---|---|---|---|---|---|
 | GALEN / GARWOOD | FEEDER | 1,810 | 2007 2008 | S. KOREA | 18.5 EACH | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 440 ~ 450 420 ~ 430 410 ~ 420 450 ~ 460 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 450 ~ 460 440 ~ 450 | 430 ~ 440 | 460 ~ 470 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 450 ~ 460 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE/ |
-
-TURKEY
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 440 ~ 450 | 420 ~ 430 | 410 ~ 420 | 450 ~ 460 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 450 ~ 460 | 440 ~ 450 | 430 ~ 440 | 460 ~ 470 | STABLE / |
+| GADDANI, PAKISTAN | 450 ~ 460 | 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE/ |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -209,8 +184,6 @@ TURKEY
 | GADDANI, PAKISTAN | 300 | 540 | 560 | - | 520 |
 | ALIAGA, TURKEY | 170 | 300 | 310 | 320 | 360 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -224,19 +197,13 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights
 
 The time has come!! next week! on June 26, 2025, the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships (HKC) will officially come into force, over 16 years after its adoption by the International Maritime Organisation (IMO). The long-awaited implementation marks a historic step forward for global ship recycling standards. Yet, while the regulatory milestone signals progress, the industry faces immediate and significant challenges. A severe shortage of HKC compliant recycling facilities across key shipbreaking nations threatens to derail momentum. In Pakistan, currently there are 7 yards that have completed about ~ 80% of the works and are expecting in a matter of 4 to 6 weeks to get the HKC certification, while Bangladesh counts only 12 compliant yards, and although India leads with over 100 certified facilities, many remain underutilised due to weak supply. Compounding matters are falling scrap prices Indian recycling rates are down 15% over the past month. Activity across the subcontinent has slowed markedly, and shipowner expectations remain unmet amid a stagnant market.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -259,8 +226,6 @@ Anchorage & Beaching Position (MAY 2025)
 | MIMI | GENERAL CARGO | 1,227 | 03.06.2025 | 10.06.2025 |
 | ASMAA | BULKER | 7,616 | 02.06.2025 | 10.06.2025 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Chattogram
@@ -276,8 +241,6 @@ Anchorage & Beaching Position (May 2025)
 Gadani
 
 Markets remained at a standstill this week as recyclers adopted a wait-and-watch approach ahead of the crucial 26th June deadline for the enforcement of the Hong Kong Convention (HKC). Uncertainty hangs over key recycling hubs such as Gadani, where no yards have yet secured HKC certification, though compliance work remains underway. The core issue now lies in the standoff between federal and local authorities. While the federal government is pushing for full HKC implementation from the deadline onwards, local officials are advocating for a temporary extension. Such a reprieve would allow recyclers to complete necessary audits while continuing operations.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -302,15 +265,11 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 469 | 426 | 610 |
 | HOUSTON | 482 | 403 | 624 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Sub-Continent and Turkey ferrous scrap markets insights
 
 India's imported ferrous scrap market continues to struggle with weak buying interest and persistent bid-offer gaps. HMS 80:20 offers remained stuck in the US$338-342 per ton CFR range, while shredded scrap hovered at US$360-362 per ton CFR. UK-origin HMS commanded US$345 per ton CFR Mundra, with shredded at US$365-370, and premium grades like PNS and busheling reached US$375 per ton CFR. Australian HMS offers stood at US$345-350 per ton CFR, but Indian buyers maintained resistance with bids closer to US$340 per tonne, reflecting their reluctance to accept current price levels. Bangladesh showed moderately positive sentiment as most domestic steel mills resumed operations, indicating improved production stability. Scrap procurement activity picked up slightly with several mills cautiously re-entering the import market, gesturing early confidence in steel demand recovery. Australian shredded scrap was quoted at US$365-366 per ton CFR with recent tradable levels at US$355-360. However, larger bulk bookings remained limited as mills continued monitoring both global and domestic market trends closely. Pakistan's scrap market remained subdued with limited activity as mills maintained caution amid weak finished steel sales. EU-origin shredded scrap offers climbed above US$370 per ton CFR Qasim, with many suppliers quoting US$375 or higher. UK-origin shredded at US$370 per ton disappeared from the market as sellers pushed prices upward. UAE shredded offers reached US$385 per ton CFR while HMS-PNS mix traded in the US$376-378 range. Mills showed little urgency to procure, preferring to wait for either market corrections or clearer demand signals before making fresh commitments. Turkey's imported scrap prices gained upward momentum with US/Baltic-origin HMS 80:20 offers at US$348-350 per ton CFR and EU cargoes at US$340-345. Mills resisted offers above US$340 per ton, citing weak finished steel demand and tight margins. UK recyclers reported limited summer availability, keeping sellers' firm on pricing despite Turkish mills needing around 20 cargoes for July shipments. Domestic rebar prices stood
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -321,8 +280,6 @@ at US$535-545 per ton ex-works, depending on location, but demand remained weak 
 # Commodities (Week infocus)
 
 Iron ore prices have tumbled to their weakest level in nine months, dropping below US$93 per ton in Singapore after four consecutive sessions of decline. This downturn echoes the mounting concerns over China's economic trajectory. The latest data reinforces persistent headwinds, with nationwide steel output declining 7% y-o-y in May, marking the weakest performance for that month since 2018. Major financial institutions are responding accordingly. Citigroup analysts have slashed their iron ore forecasts, cutting three month targets to US$90 per ton from US$100 and lowering six to twelve month projections to US$85 from US$90. Their reasoning centers on China's property market weakness, which has yet to show meaningful recovery signs, combined with ongoing manufacturing pressures. The broader picture remains concerning. Despite elevated steel exports, China's economy continues to struggle with deflationary pressures and lacks the momentum needed for sustained recovery. Copper prices remained under pressure this week amid persistent geopolitical concerns stemming from the Israel-Iran conflict, which continues to fuel market uncertainty. Fears
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

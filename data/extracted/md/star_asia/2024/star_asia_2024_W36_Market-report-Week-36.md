@@ -22,8 +22,6 @@ pages: 19
 
 This week, the focus was back on the Chinese data, which was not impressive. China's economic slowdown deepened in August, with services activity expanding less than expected, raising concerns over the nation's broader growth outlook. The Caixin China services PMI dropped to 51.6, down from 52.1 in July, missing economists' forecasts of 51.8. A reading above 50 indicates growth, but the marginal decline highlights the challenges facing the sector. Wang Zhe, the senior economist at Caixin Insight Group, noted that fierce competition forced businesses to prioritise sales through price cuts, contributing to labour market pressures as companies adopted cautious hiring strategies. The disappointing data adds to concerns of a potential stall in China's economy, which is contending with a prolonged real estate crisis and weak consumer demand. Official data from the weekend pointed to a near contraction in sectors like restaurants and tourism during the final month of summer. China's services sector, regarded by the IMF as an "underutilised driver" of growth, continues to struggle in comparison to advanced economies. Meanwhile, factory activity contracted for the fourth consecutive month, raising doubts about whether China can meet its 5% growth target for 2024. The yuan and Chinese stocks both weakened, reflecting investor anxiety amid the broader regional market selloff. On the other side of the Pacific, markets are closely watching the U.S. Federal Reserve's rate decision, with expectations for a modest 25 basis point cut at the Sept. 17-18 meeting. Some economists downplayed the likelihood of a deeper 50 basis point cut, citing the absence of data that would prompt drastic action. While private sector payroll growth has slowed, and there are concerns about a labour market downturn, weekly unemployment claims have decreased. Economists noted that a sharper rate cut would require significant economic deterioration, such as a spike in layoffs and a collapse in hiring. However, some analysts, including Ben Emons of Fed Watch Advisors, believe a larger cut is still possible, depending on August's jobs report. Some pointed out that weaker job growth could trigger concerns about a recession, influencing the Fed to act more aggressively. Currently, the Fed's benchmark rate stands at 5.25%-5.50%.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ In the Pacific, freight rates are on the rise again. This upturn is primarily dr
 Panamax/Kamsarmax:
 
 In the Atlantic, despite a steady influx of coal cargo in the North, charter rates continue to adjust downward as oversupply is seen across South America. Grain exports, particularly from Brazil, are underperforming due to weather-related challenges. T/A fell to the US$9,300's level. In contrast, the Pacific saw an expanding upward trend in rates primarily driven by a robust inflow of cargoes, especially from NOPAC and Indonesia. Pacific r/v climbed to US$ 12,100 a day.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -71,8 +67,6 @@ Rates in the Handy fell across the regions. The Atlantic region did not fare wel
 | SUPRAMAX | 58,000 | 14,750 |  | 14,750 |  | 12,750 | 0 |  | +15.69% |
 | HANDYSIZE | 38,000 | 14,250 |  | 14,750 |  | 10,150 | -3.39% |  | +40.39% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -88,8 +82,6 @@ Rates in the Handy fell across the regions. The Atlantic region did not fare wel
 | ISOLDA | HANDY | 34,941 | 1999 | JAPAN | 5.5 | UNDISCLOSED |
 | AFRICAN EGRET | HANDY | 34,370 | 2016 | JAPAN | 21.5 | UNDISCLOSED |
 | FLORIANA | HANDY | 33,862 | 2012 | S. KOREA | 14.0 | GREEK BUYERS |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -113,15 +105,11 @@ Clean:
 
 LR: LR2 in the MEG hold steady this week with TC1 closing in the region of WS115. There was
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 some shift in demand towards LR1s, which currently offer slightly better rates with TC5 holding steady as well at WS140 mark. Elsewhere, markets remain depressed with LR1 in the UKC route falling to WS119. MR: The Far East region closed on a slightly bearish note, showing little movement throughout the week as adverse weather conditions kept chartering activity low. The lack of significant demand has also kept rates relatively stable. Similar was also noted in the MEG. As TC17 route shed 10 points falling to WS195 at week's closing.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -134,8 +122,6 @@ VESSEL NAME TWO MILLION WAYS CONQUEROR STI TEXAS CITY / STI SAN ANTONIO
 | LR1 | 73,965 | 2008 | JAPAN | 30.0 | UNDISCLOSED |
 | LR1 | 70,616 | 2004 S. | KOREA | 18.0 | CHINESE BUYERS |
 | MR | 49,990 | 2014 | S. KOREA | 85.0 EN BLOC | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -155,29 +141,16 @@ Despite some carriers reducing operations, freight rates continue to decline due
 | 2,700 - 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
 | 5,100 *(amount in USD million) | Gearless | 81 | 77 | 66 | 35 | 32 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 490 ~ 500 480 ~ 490 480 ~ 490 510 ~ 520 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 500 ~510 | 480 ~ 490 | 470~ 480 | 510 ~ 520 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-| GADDANI, PAKISTAN | 500 ~ 510 | 480 ~ 490 | 470 ~ 480 | 510 ~ 520 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 330 ~ 340 320 ~ 330 310 ~ 320 330 ~ 340 WEAK /
-
-*Ship, the prices are about USD 20-30/ton less*
+| ALANG (WC INDIA) | 490 ~ 500 | 480 ~ 490 | 480 ~ 490 | 510 ~ 520 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 500 ~510 | 480 ~ 490 | 470~ 480 | 510 ~ 520 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 500 ~510 | 480 ~ 490 | 470~ 480 | 510 ~ 520 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 330 ~ 340 | 320 ~ 330 | 310 ~ 320 | 330 ~ 340 | WEAK / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -194,8 +167,6 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 740 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 200 | 300 | 325 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -206,19 +177,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
 ## Insight
 
 Week after week, market instability continues, with domestic ship scrap prices plunging due to various unfavourable factors simultaneously influencing ship pricing. Across the Sub-Continent, recycler sentiment has soured, with most taking a cautious stance despite a significant shortage of ships available for sale-a rare situation where market prices decline even amidst a diminished supply. Determining true market price levels has become increasingly challenging for the industry, as cheap imported raw materials and finished products have turned into a recycler's nightmare. On the other hand, the faint hope that Chinese shipowners might send their end-of-life vessels from China to the Sub-Continent has faded following a recent shift in the Chinese government's subsidy policy. Ships initially destined for the Sub-Continent are being withdrawn from the market as owners opt to scrap them locally to benefit from the available subsidies. Consider a typical case: Panamax-sized bulker built in Japan, flagged in China, weighing 9500 tons, could have fetched around US$500-510/ton a month ago if sold to the Sub- Continent.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -231,8 +196,6 @@ However, with the new subsidies, ship owners are now achieving a better deal by 
 Alang, India
 
 There have been no new developments for the past few months; with markets trying to stabilise at the prevailing prices, the only difference between Alang and the other two destinations, the domestic ship scrap prices have settled earlier than there two destinations along with no issues on opening the required letters of credit. However, Alang remains a very cautious market with no urgency to go overboard. Lately, the Indian ship recycling industry has been struggling with a significant downturn driven by declining demand for local steel. Only 20% of Alang's 120 shipyards are operational. A surge in cheaper steel imports from countries like China and Vietnam has
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -249,8 +212,6 @@ Anchorage & Beaching Position (September 2024)
 Chattogram, Bangladesh
 
 This week, domestic ship scrap prices came under pressure, with a significant plunge, directly affecting ship prices. The ship scrap melting prices plunged by 8.5%, and plates by 3.5% W-O-W. Recyclers are trying to evaluate the situation and wish to refrain from offering for the time being, as they wish to see the bottom unless they see a dramatically lower price that can support the local prices.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -274,8 +235,6 @@ Gadani, Pakistan
 
 The ship recycling industry has been struggling with a significant decline in domestic demand, dampening the sentiments as well as creating an uncertain environment for
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 recyclers. A majority of ship recyclers have pivoted toward importing finished steel products, particularly Hot Rolled Coils (HRC), as this option has proven to be more financially viable in the current steel market, which is heavily oversupplied. The downturn in construction activities due to the ongoing monsoon season has further intensified the situation, leading to a drastic drop in demand for ship scrap. The market outlook remains cautious as recyclers look to the end of the monsoon season and potential recovery in construction demand to revive ship recycling activities.
@@ -297,8 +256,6 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 623 | 595 | 960 |
 | HOUSTON | 671 | 562 | 1012 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -313,8 +270,6 @@ construction activity and rebar demand. Offers for shredded scrap from UK/Europe
 
 supply and firm offers. US-origin HMS (80:20) was offered at US$370-375/ton CFR, with deals closing around US$370-371/ton CFR. EU-origin HMS (80:20) was similarly quoted at US$365-370/ton CFR. Scrap supply remains constrained by slow collection rates and rising costs in Europe, further tightening the market. Turkish rebar export prices inched
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 higher as steady order volumes allowed mills to maintain favourable margins between scrap and rebar conversion.
@@ -326,8 +281,6 @@ higher as steady order volumes allowed mills to maintain favourable margins betw
 **Iron ore prices plunged to their lowest levels since 2022 as China's leading steel industry**
 
 group, the China Iron & Steel Association, urged caution in ramping up production too quickly. The association forecasted a moderate recovery in steel demand through September and October but warned mills against prematurely boosting output. Iron ore futures in Singapore hovered near the critical USD 90/t mark, down roughly 10% this week, driven by growing concerns over weakening demand. Next week is set to be pivotal for the iron and steel markets as China prepares to release crucial economic data. On Tuesday, the August trade report will offer insight into iron ore imports and steel exports, both key indicators of global demand and trade flows. Later in the week, on Saturday, the August industrial production report, including steel output figures, will be published. Market participants will closely watch these reports to assess China's industrial activity and its influence on global steel and iron markets. Meanwhile, copper steadied after significant selling pressure earlier in the week, buoyed by industrial buyers stepping in. However, the gains were capped by persistent fears of slower global economic growth impacting demand for industrial metals. A slightly weaker USD provided some relief, improving investor sentiment. Nonetheless, the broader metals complex continued to decline amid deepening concerns over China's economic outlook, exacerbated by data indicating a slowdown in services sector growth in August.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

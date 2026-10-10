@@ -22,8 +22,6 @@ pages: 17
 
 The Trump administration has renewed its vigorous opposition to the International Maritime Organisation's (IMO) upcoming net-zero framework, condemning the initiative as a "global tax" levied by an unaccountable body. The administration's principal objection is economic, arguing that the proposed fees for vessels that fail to meet stringent emission targets are fundamentally unworkable. It projects that these penalties will inevitably drive up costs across the energy, shipping, and tourism sectors, ultimately passing a significant financial burden from maritime operators onto American consumers. This firm stance is supported by a united cabinet, with key secretaries echoing the opposition by framing the policy as a "woke climate agenda" that harms the economy while unfairly benefiting competitors like China. Reaffirming a long-held position that rejects such measures as disguised wealth redistribution, the administration has put other IMO members on notice. It has clearly signalled its readiness to implement retaliatory actions should the framework be adopted, escalating the diplomatic stakes ahead of the October finalisation. Despite this strong opposition, the framework received initial approval from the IMO's Marine Environment Protection Committee in April. In a direct contrast to the administration's view, the World Shipping Council (WSC), a major industry body, has pledged its commitment to the new measures. On the other hand, this week, China's economy cooled in July as weak domestic demand and capacity-cut measures weighed on activity. Retail sales rose 3.7% year-on-year, missing forecasts and slowing from June's 4.8%. Industrial output grew 5.7%, the weakest since November, while fixed-asset investment rose 1.6% year-to-date, pressured by a deeper 12% drop in property investment. Urban unemployment edged up to 5.2%, with youth joblessness excluding students above 14%. Economists warned of risks to Beijing's 5% growth target without fresh policy support. Separately, Beijing and Washington extended their tariff pause by 90 days to mid-November, avoiding sharp hikes and allowing more time for talks. However, disputes over technology, critical minerals, and industrial policy remain unresolved ahead of a potential Trump-Xi summit.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -41,8 +39,6 @@ In the Atlantic, a general lack of new transactions and momentum led to weaker r
 Handysize:
 
 The Handy market saw an overall positive week, with rates seeing an uptick across all routes. Inter Pacific saw an improvement in demand against tight supply as rates ended higher around US$10,800's a day.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -81,15 +77,11 @@ Dry Bulk - S&P Report
 | COBRA | SMAX | 55,474 | 2010 | JAPAN | 15.0 | UNDISCLOSED |
 | OCEAN PRINCE | SMAX | 52,475 | 2002 | JAPAN | 7.9 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Tankers
 
 The global oil market is currently in a holding pattern, with trading volumes thin and prices for key benchmarks like ICE Brent staying within a narrow range. This is largely due to market participants focusing intently on the upcoming summit between U.S. President Trump and Russian President Putin in Anchorage, Alaska. The possibility of a breakthrough in the Russia-Ukraine conflict has introduced significant uncertainty, suppressing prices as traders weigh the potential for a return of more Russian energy to the global market. While a successful peace deal could theoretically lead to the lifting of sanctions, the White House has cautiously framed the meeting as a "listening exercise," tempering expectations for an immediate resolution. From a tanker market perspective, the prospect of a sudden flood of Russian crude oil onto the market appears limited, even if a peace accord is reached. Industry analysis suggests that Russia is already producing at its maximum sustainable capacity, having operated without access to the West parts for several years. Furthermore, while the removal of the Western price cap might be a Russian condition for any deal, this could
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -116,8 +108,6 @@ the August cargo concluded, demand began to taper off. The market softened sligh
 **MR: In the Far East, persistent low demand in the region, especially in Singapore, has led**
 
 to a growing oversupply of available vessels, placing downward pressure on rates. In the MEG, rates saw decline with trips to E. Africa falling some 13 points to WS235.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -155,15 +145,11 @@ Tankers S&P Report
 | HALCYON | VLCC | 299,942 | 2020 | S. KOREA | 119.0 | INTERNATIONAL SEAWAYS INC |
 | NAVE EQUINOX | MR | 50,922 | 2007 | S. KOREA | 14.0 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Containers
 
 In a positive turn for the container shipping industry, the U.S. and China have extended their tariff truce for another 90 days, providing a welcome period of stability by postponing a significant escalation in duties until November 10th. This development has staved off what was expected to be a sharp contraction in transpacific trade volumes, offering considerable relief to ocean carriers. The impact of tariff uncertainty has already been visible in shipping patterns, with Port of Long Beach reporting a record July as importers rushed to bring in goods. Despite this encouraging news, the spot freight market presents a more subdued picture. SCFI continued its slide, reflecting a lackluster peak season. Rates on major trade lanes, including the transpacific, have softened amid sluggish demand, even as carriers attempt to manage capacity.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -185,29 +171,16 @@ In a positive turn for the container shipping industry, the U.S. and China have 
 | EASLINE DALIAN | FEEDER | 1,675 | 1998 | JAPAN | 10.0 | UNDISCLOSED |  |
 | WYBELSUM | FEEDER | 1,402 | 2008 | CHINA | 16.6 | UNDISCLOSED |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 430 ~ 440 420 ~ 430 410 ~ 420 440 ~ 450 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 400 ~ 410 | 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 400 ~ 410 | 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
 | GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -224,8 +197,6 @@ TURKEY
 | GADDANI, PAKISTAN | 360 | 590 | 550 | 500 | 510 |
 | ALIAGA, TURKEY | 200 | 300 | 300 | 310 | 350 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -240,19 +211,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
 Insights Alang
 
 Despite a subdued domestic steel market where local scrap prices have remained stagnant, the recycling sector is seeing some recovery and increased activity. Buyers are showing keen interest in the limited number of vessels being offered. While India maintains its position in the recycling market, the industry is cautiously monitoring potential economic headwinds that could arise from recently implemented U.S. tariffs. The recycling market is beginning to see a modest inflow of end-of-life tonnage, offering a degree of relief to yards after weeks of limited supply. With Bangladesh continuing to lag at sharply lower price levels, some larger vessels have instead been diverted toward Alang, where discussions have surfaced for potential sales. This redirection is expected to ease the immediate vessel shortage, though the sustainability of this trend remains to be seen.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -263,8 +228,6 @@ Bangladesh saw a weak domestic steel market, compounded by political uncertainty
 Gadani
 
 Pakistan market remains eager in appetite for new tonnage, with buyers showing interest at the bidding tables. This enthusiasm is paired with a stable pricing environment, although a slight dip in imported scrap prices suggests the market may be poised for a minor adjustment.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -291,8 +254,6 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 482 | 422 | 671 |
 | HOUSTON | 497 | 427 | 666 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Sub-Continent and Turkey ferrous scrap markets insights
@@ -303,8 +264,6 @@ Scrap trading across Sub-Continent markets remained muted this week, with limite
 
 US$345-350/ton CFR and EU-origin at US$340/ton CFR. Weaker rebar fundamentals and stagnant finished product prices have kept the market steady for weeks, with traders awaiting September's Central Bank MPC meeting for direction.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 ## HMS 1/2 & Tangshan
@@ -314,8 +273,6 @@ US$345-350/ton CFR and EU-origin at US$340/ton CFR. Weaker rebar fundamentals an
 **Iron ore futures held steady this week, with the market largely shrugging off persistent**
 
 weakness in China's property sector. Prices remain underpinned by expectations of further rationalisation in the country's steel industry, which could lend additional support in the months ahead. Benchmark iron ore has climbed more than 20% since June, touching a one-year high, buoyed by resilient demand indicators from China. First-half GDP growth reached 5.3%, while industrial fixed asset investment rose 6.4% year-on-year. Although macroeconomic headwinds persist, improved sentiment in the steel market has played a decisive role in sustaining recent gains. A recent pullback in steel output has lifted sector profitability, with mill margins rebounding into positive territory - peaking at around USD150/t in recent weeks. The improved margin environment has given iron ore prices further room to advance. Market attention is now turning to Beijing's renewed push to reduce overcapacity in the steel sector. The government's anti-involution campaign is expected to intensify scrutiny, with policymakers anticipating implementing meaningful capacity cuts. Such measures could extend the current rally, reinforcing the bullish outlook for iron ore in the near term.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 

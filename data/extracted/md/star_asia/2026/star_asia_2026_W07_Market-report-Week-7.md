@@ -22,8 +22,6 @@ pages: 19
 
 The maritime landscape in East Asia faces renewed uncertainty following the seizure of a Chinese fishing vessel by Japanese authorities on Thursday. The incident, which took place within Japan's EEZ off the coast of Nagasaki, led to the arrest of the ship's captain after he allegedly attempted to evade an onboard inspection. This marks the first seizure of a Chinese boat by the Japanese Fisheries Agency since 2022 and comes at a time when regional stability is already under significant pressure. While Japanese officials maintain that such enforcement is necessary to deter illegal fishing, the Chinese government has responded by calling for the protection of their sailors' rights, further complicating an already delicate diplomatic environment. The timing of this arrest is particularly sensitive, occurring in the wake of a landslide election victory for Prime Minister Sanae Takaichi. Her administration has maintained a firm stance on regional security, notably refusing to retract earlier statements regarding the potential for military involvement should a conflict arise in the Taiwan Strait. In response, Beijing has implemented several restrictive measures, including export controls on dual-use materials and advisories against travel to Japan. This friction has trickled down into the shipping and logistics sectors, with major Japanese carriers expressing caution over their operations in China and emphasizing the need for supply chain diversification to mitigate geopolitical risks. The maritime community is closely watching for signs of further escalation or a possible return to a calmer status quo. Historical precedents, such as the major diplomatic clash in 2010 over a similar vessel detention, serve as a reminder of how quickly local maritime disputes can impact broader international relations. As both nations weigh their national interests against the benefits of economic stability, the industry will remain vigilant to the evolving dynamics of the East China Sea.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ Capesize trended firmer as an early-week surge and tightening vessel supply in t
 Panamax/Kamsarmax:
 
 Panamax started the week on a firmer footing, with sentiment improving across both basins despite a mixed fundamental landscape. In the Pacific, round voyages climbed by
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -68,8 +64,6 @@ Handy market saw a regional divide, as Atlantic remained on an upward trajectory
 | HANDY | 38,000 | 30 | 33 | 26 | 19 | 15 |
 | *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -88,8 +82,6 @@ Handy market saw a regional divide, as Atlantic remained on an upward trajectory
 | AFRICAN LARK / AFRICAN DOVE | HANDY | 34,402 | 2014 | JAPAN | 16.5 EACH | UNDISCLOSED |
 | MELODY | HANDY | 28,414 | 2010 | CHINA | 8.0 | CHINESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -107,8 +99,6 @@ In West Africa, activity has largely stabilised as most mid-February requirement
 Aframax:
 
 The Aframax market has entered a "wait-and-see" phase, closing flat as the flurry of early February loading activity subsided. Rates remain steady throughout the week, as the market balances a quiet cargo list. 80,000mt Ceyhan/Lavera fell to WS237 while in the Nort Sea x-UKC remain around WS190's mark.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -137,8 +127,6 @@ Y-O-Y CHANGE +88.24% +28.53%
 | MR | 51,000 |  | 49 | 53 | 42 (E) | 33 | (E) | 24 |
 | *(amount inUSD | million) | \ | (E)-ecounits |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -150,8 +138,6 @@ Y-O-Y CHANGE +88.24% +28.53%
 | TRIKWONG VENTURE | VLCC | 297,136 | 2012 | CHINA | 70.0 | SINOKOR |
 | CABO FROWARD | LR1 | 74,543 | 2006 | JAPAN | 12.5 | UNDISCLOSED |
 | ELANDRA FJORD / ELANDRA BALTIC | MR | 51,408 | 2011 | S. KOREA | 24.5 EACH | GREEK BUYERS |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -174,29 +160,18 @@ S&P Containers Report
 |---|---|---|---|---|---|---|
 | H CYGNUS | FEEDER | 1,781 | 2022 | CHINA | 34.0 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS / WEEKLY
-
-GENERAL CARGO FUTURE TREND
-
-ALANG (WC INDIA) 410 ~ 420 400 ~ 410 380 ~ 390 430 ~ 440 IMPROVING /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | IMPROVING / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 | ~ 430 | 410 ~ 420 | 440 ~ 450 | IMPROVING/ |
-
-TURKEY
+| ALANG (WC INDIA) | 410 ~ 420 | 400 ~ 410 | 380 ~ 390 | 430 ~ 440 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | IMPROVING / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | IMPROVING/ |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 300 ~ 310 | 290 ~ 300 | 270 ~ 280 | 310 ~ 320 | IMPROVING/ |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -213,8 +188,6 @@ TURKEY
 | GADDANI, PAKISTAN | 415 | 600 | 540 | 520 | 430 |
 | ALIAGA, TURKEY | 240 | 330 | 310 | 320 | 360 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -228,19 +201,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 In Alang, the ship recycling market maintained a steady pace this week, with pricing remaining remarkably consistent despite shifts in the broader economic landscape. As most local yards have now achieved HKC certification, Indian buyers have successfully secured several high-profile units, including a significant LNG carrier and various smaller vessels, while larger dry bulk candidates were primarily diverted to neighbouring yards in Pakistan and Bangladesh. The domestic steel sector provided a supportive backdrop, as a stable demand profile pushed local steel plate prices up by US$4/MT and scrap values by US$11/MT, effectively reversing the marginal softening observed in previous weeks. Although ship recyclers are showing a heightened appetite for fresh inventory, the scarcity of vessels available for immediate delivery has created a competitive bottleneck. Sentiment on the waterfront has been further bolstered by the dramatic cooling of the USD, which eased from recent
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -263,8 +230,6 @@ Chattogram
 
 Bangladesh's recent national election marked a significant step toward restoring democratic confidence, with a voter turnout nearing 60 percent and a largely peaceful, participatory process. The Bangladesh Nationalist Party (BNP) secured a decisive mandate under the leadership of Tarique Rahman, whose return from long exile and focus on party renewal helped consolidate public support. His commitment to institutional reform, youth engagement, and accountable governance has raised expectations for political stability and inclusive growth. The Election Commission and security forces played a critical role in maintaining order, though concerns remain over the spread of AI-driven disinformation. The constructive stance of opposition parties, including Jamaat-e-Islami, further strengthened democratic credibility. Looking ahead, the new government faces high expectations to deliver reforms, sustain investor confidence, and avoid governance complacency associated with parliamentary supermajorities. Political stability will be key to supporting economic recovery and longterm market confidence. This week, Chattogram has displayed remarkable resilience and energy this week, as local buyers maintain an assertive stance despite the looming challenge of diminishing yard space. This buoyant atmosphere persists even as the nation navigates a significant political transition following the Thursday elections, where unofficial figures indicate a decisive victory for the Bangladesh Nationalist Party with 209 seats, comfortably surpassing the 151-seat majority requirement. While this political shift initially fostered a
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 sense of caution regarding future financial stability, the market has remained steady with pricing levels holding firm throughout the period. A scarcity of new vessels for recycling continues to test the industry, leaving many to wonder if recyclers will accept narrower profit margins to maintain their operational flow or if a more cautious approach will soon emerge. After a difficult start to the year, Chattogram has successfully reclaimed its position in the global rankings. This recovery is clearly visible at local anchorages, which have seen a surge in activity, including the timely arrival of several vessels during recent high tides.
@@ -283,8 +248,6 @@ Anchorage & Beaching Position (FEBRUARY 2026)
 | Gadani has maintained interest from a few active there is a noticeable recyclers have shown a final outcome of several by a significant needed boost for the standing slump. Overall demand for recycled maintain their current offer destination for end-of-life Anchorage | a steady position buyers who continue shortage of new willingness to engage units that were improvement in domestic industry as local steel The local currency material remains levels and solidify vessels. & Beaching | throughout to search vessels entering at competitive recently beached. fundamentals, plate prices further supported healthy, Gadani's Position | this week, driven by for available tonnage. the global market, levels as they This resilience is which acted as finally broke through this positive allowing ship recyclers reputation as a reliable (FEBRUARY 2026) | targeted Although Pakistani wait for the largely fueled a much- a long- trend. to |
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
 | - | - | - | - | - |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -323,8 +286,6 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 India Indian imported scrap market remained largely stable, though transactional data revealed pockets of selective strength. South American HMS 1 was offered at US$356/t CFR West Coast India, while standard HMS from the same region was positioned at US$345/t. Middle Eastern offers for high-grade PNS, specifically Blue Steel and Super, were quoted between US$380/t and US$385/t CFR Mundra, with LMS grades trailing at US$340/t.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Pakistan Imported shredded scrap prices in Pakistan maintained their firm footing leading up to 17 February, primarily bolstered by a concentrated surge in pre-Ramadan buying interest. UAE-origin shredded scrap was indicated above the US$400/t CFR threshold, while UAE HMS 80:20 was noted at levels exceeding US$375/t. UK shredded material maintained a steady presence near US$385/t. However, following these recent bookings, a shift in market psychology has emerged as buyers adopt a more cautious stance. Many participants are now reassessing their positions in anticipation of potential downside pressure as the immediate pre-holiday procurement window begins to close. Bangladesh The Bangladeshi market remained largely unchanged, with trading activity significantly hampered by the cautious climate surrounding the upcoming national election. Shredded scrap from the UK and EU was indicated at approximately US$370/t CFR Chattogram, while HMS offers were positioned near US$350/t. From the Oceania region, indicative pricing for shredded scrap was reported at US$375-$380/t, with HMS 90:10 at US$355/t and HMS 80:20 at US$348/t. A specific offer for HMS bundles from Malaysia was also heard at US$355/t, but overall fresh bookings remained limited as the industry awaits greater political clarity.
@@ -333,15 +294,11 @@ Turkiye In Turkiye, deep-sea import prices remained essentially static on 12 Feb
 
 ## HMS 1/2 & Tangshan
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 ## Commodities (Week infocus)
 
 The copper market is currently experiencing a notable cooling period following a robust growth phase throughout 2025 and the early part of this year. On Thursday, copper prices for March delivery in New York retreated by over 3% to settle at US$5.78 per pound, or US$12,740 per ton, marking a 12% decline from the peak reached just two weeks prior. This downward trend is reinforced by recent satellite data indicating that global smelting operations have hit their lowest levels since tracking began nearly a decade ago. Specifically, 14.3% of global capacity sat idle in January, a figure that is 6.8% higher than the three-year average and represents a rare double-digit inactivity rate for the start of the year. This widespread reduction in activity is largely driven by a combination of regional operational hurdles and a collapse in processing margins. While China maintains a relatively steady inactive rate of 7.5%, the rest of the world has seen active production volume drop by 1.2 million tons compared to last year. Significant disruptions in Asia and Oceania, such as facility closures in the Philippines and Indonesia following the Grasberg mine incident, have removed 850,000 tons from the market. Furthermore, the financial incentive for smelting has vanished as treatment and refining charges plummeted to historic lows, including a 2026 benchmark of zero dollars. These negative margins have forced many international facilities to halt production, whereas state-supported Chinese plants continue to operate despite the lack of profitability. Simultaneously, the iron ore sector is facing its own set of challenges as prices fell for a third consecutive day, reaching US$97.90 a ton in Singapore. This 1.7% dip contributes to a 7% year-to-date decline, fueled by an 11-week rise in Chinese port inventories which now sit at approximately 161 million tons. Supply pressure has intensified following an impressive performance by Vale SA, which produced 90.4 million tons in the final quarter, surpassing both analyst's expectations and its primary competitors. With stockpiles climbing 0.5% in just one week and demand remaining sluggish ahead of the Lunar New Year, the market is currently grappling with a significant surplus that continues to weigh on seasonal valuations.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

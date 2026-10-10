@@ -28,8 +28,6 @@ Chairman Powell stated after the meeting that reducing inflation would require a
 
 China's recent economic data has been disappointing, indicating slower growth in the second quarter and weaker industrial indicators. This has raised concerns about a potential economic downturn, contrasting with earlier high growth expectations. The real estate sector is a major obstacle, with fewer properties sold and lower home prices than
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 before. This has led to hopes for stimulus measures, but any actions are expected to be targeted and limited, with a modest impact in the short term. The main challenge lies in the lack of demand, both domestically and internationally. Without a significant stimulus program, the Chinese economy is likely to maintain its soft trajectory. In the commodity market, trade is gradually returning to normal, with the focus shifting back to traditional demand and supply dynamics that impact dry bulk profitability. Demand will be a crucial factor influencing spot freight rates, as fleet supply growth remains minimal for the next few years.
@@ -41,8 +39,6 @@ To counter the economic slowdown, the Chinese government announced a stimulus pa
 Panamax/Kamsarmax:
 
 Steady coal inflows in the North Atlantic have led to a positive market trend. However, in South America, activity appears sluggish after most vessels have been cleared as shipments from major hubs have slowed down, causing a decline. T/A levels fell to lows of US$ 6,800's a day. With the expiration of the Black Sea Grain Agreement, around 10 ships' voyages were cancelled, most of which were Panamax-class ships heading to Asia. CIS r/v levels slipped to US$ 7,250's a day. In the Pacific, new cargo inflows are also slow, prompting charterers to lower their asking prices. Pacific r/v levels closed lower, around US$6,650's a day. Supramax/Ultramax: In general, there is still a supply advantage in the Atlantic, leading to a downward trend. T/A saw levels closed in the regions of US$ 9,900's on Friday. F/H also saw a similar decline, with levels just below US$ 13,900's on average. In the Pacific, although there was a slight increase in cargo inflows from N.E. Asia and NOPAC, it was not enough to alleviate the excess ship supply. Additionally, S.E. Asia, particularly Indonesia, experienced a slight decrease in coal inflows, resulting in weak sentiments all around. Pacific r/v levels were at the low of US$ 7,300's a day.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -70,8 +66,6 @@ Handysize also witness a similar deterioration similar to the Panamax segment. T
 | HANDY | 38,000 | 30 |  | 31 | 24 | 17 | 6 |
 | *(amount inUSD million) |  |  |  |  |  |  |  |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Baltic Exchange Dry Bulk Indices
@@ -96,8 +90,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR
 
 (in USD/day) W-O-W CHANGE Y-O-Y CHANGE 0 -19.46% -2.33% -40.00% -2.27% -33.85% +2.50% -35.94%
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -115,8 +107,6 @@ The WAFR/Europe weekly spot rate fell by 19% because of sluggish contract activi
 Aframax:
 
 The Middle East to Singapore W.S. rate declined by 3.6%, primarily due to upper linear weakness. However, an increase in trade volume and a surge of shipments expected in early August are preventing further significant declines. There was minimal activity in the Mediterranean and Black Sea regions, resulting in falling rates. 80,000mt Ceyhan/Lavera lost 16 points, dropping to WS104.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -146,8 +136,6 @@ L.R: LR1 market activity was quiet, with rates holding steady and no fresh stems
 | MR TANKER | 51,000 | 46 |  | 50 | 40 | 31 | 19 |
 | *(amount inUSD | million) |  |  |  |  |  |  |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 # Tanker 12 months T/C rates average (in USD/day)
@@ -163,8 +151,6 @@ L.R: LR1 market activity was quiet, with rates holding steady and no fresh stems
 # Containers
 
 Container rates on the transpacific route are soaring to levels not seen since 2012. (Excluding the pandemic year) Drewry's latest spot rates indicate a 6% increase yesterday, reaching US$2,087 per feu on the Shanghai - Los Angeles route, marking the fourth consecutive week of rise. Rates to the U.S. west coast are now 42% higher than the same time in 2019 before the pandemic, while rates to the U.S. east coast are also up by 12% compared to 2019. Despite the rate increases, experts are uncertain about the strength of demand. Meanwhile, the SCFI spot box freight rate index surged by 6.5% w-o-w, reaching 1,029 points. This increase was driven by a series of General Rate Increases across the main lanes. Specifically, the Shanghai-North Europe route experienced a substantial 31% rise to US$975 per TEU, the highest level since late January.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -183,37 +169,16 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 42 | 38 | 30 | 20 | 17 |
 | 5,500 - 7,000 *(amount in USD million) | Gearless | 93 | 82 | 70 | 45 | N/A |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-DESTINATION
-
-ALANG (WC INDIA)
-
-\*CHATTOGRAM, BANGLADESH \*GADDANI, PAKISTAN TURKEY
-
-TANKERS
-
-500 ~ 510
-
-550~560
-
-520 ~ 530 310 ~ 320
 
 # Ship Recycling Market Snapshot
 
-BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-490 ~ 500 500 ~ 510 510 ~ 520 STABLE /
-
-540~550 560~570 570 ~ 580 STABLE /
-
-| 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
-|---|---|---|---|
-| 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) \*For green ship recycling, the prices are about US$10-15/ton lower. | 500 ~ 510 | 490 ~ 500 | 500 ~ 510 | 510 ~ 520 | STABLE / |
+| \*CHATTOGRAM, BANGLADESH | 550~560 | 540~550 | 560~570 | 570 ~ 580 | STABLE / |
+| \*GADDANI, PAKISTAN | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 310 ~ 320 | 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | WEAK / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -232,8 +197,6 @@ GENERAL CARGO WEEKLY FUTURE TREND
 | GADDANI, PAKISTAN | 420 | 400 | 300 | 570 | 580 |
 | ALIAGA, TURKEY | 290 | 270 | 180 | 290 | 280 |
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ships Sold for Recycling
@@ -248,8 +211,6 @@ GENERAL CARGO WEEKLY FUTURE TREND
 
 # Recycling Ships Price Trend
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Insight
@@ -259,8 +220,6 @@ The Sub-Continent ship recycling markets remained subdued with the monsoon at it
 Alang, India
 
 The breaking yards experienced a calm week amidst heavy rains and weak demand. Despite the challenging conditions, ship prices managed to maintain their stability due weak supply of ships destined for Alang. Market participants are hopeful that once the rains subside, there should be a surge in demand for ship scrap by the domestic mills as the construction activities resume. On the domestic ship scrap front, prices have remained steady for the past two weeks. Recyclers are exercising caution and closely monitoring the international ferrous scrap prices, which have recently taken a significant downturn.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -282,8 +241,6 @@ Anchorage & Beaching Position (July 2023)
 Chattogram, Bangladesh
 
 Another quiet week in the ship recycling industry with few sales reported. The latest noteworthy sale was of the Sinokor-controlled container ship, which was sold at US$622/lt gross with 240 MT of bunkers included in the sale keeping the hopes alive and sending positive waves. The ongoing L.C. issues are now like a broken record, with the industry finding ways to yet finance the sale and business as usual. However, a vast majority of the recyclers are keeping a soft tone for larger ships for the time being and are more focused on procuring smaller ships to keep the ball rolling. Lately, unyielding and incessant rains have dealt a double blow to the country as they continue to disrupt both domestic construction projects and ship-recycling activities. Coupled with other local factors, these adverse conditions are collectively contributing to a decline in local sentiments. Notably, the domestic steel plate prices have witnessed a substantial decrease of nearly US$20/ton this week, further intensifying the situation. Additionally, the Bangladeshi Taka is tackling record-low levels against the U.S. Dollar, hovering around BDT 108.50 interbank rate.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -317,8 +274,6 @@ Gaddani, Pakistan
 
 After a prolonged wait of more than seven months, there is finally some positive news from the Gaddani ship recyclers. They have recently entered the market, screening out the
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 availability of ships at the Alang comparative levels. Although this development is encouraging, it is important to note that the resumption of activities is cautious and highly selective, with only a limited number of banks in discussions to issue the much-awaited L.C's on certain conditions. While this initial step indicates a potential reopening of the markets in the near future, it is important to keep a close eye on how things progress in the coming weeks. The situation remains dynamic, and recyclers will closely monitor the developments in international ferrous scrap prices, especially the imported shredded scrap, to see how they can base their pricing on ships in the coming days.
@@ -328,8 +283,6 @@ Anchorage & Beaching Position (July 2023)
 Aliaga, Turkey
 
 New central bank chief of Turkey, Hafize Gaye Erkan, pledges gradual and decisive steps to tackle surging inflation, now projected to reach 58% by year-end, higher than the earlier forecast of 22%. The inflation surge is attributed to lira depreciation, soaring food prices, and a substantial increase in the minimum wage. Erkan acknowledges that pre-election stimulus led to economic imbalances and a record current account deficit. Despite investors welcoming the central bank's revised inflation forecast as realistic, doubts persist about the extent of her ability to raise rates given President Erdoğan's history of opposing high borrowing costs and his influence over monetary policy. Turkish mills have maintained their domestic scrap buying prices, but imported scrap values continue to drop. Turkish mills, facing falling steel prices and weak sales, have rejected higher values and are sticking to last week's range of US$350-355/ton CFR for premium HMS (HeavyMeltingScrap) 1 & 2 80:20. The shipbreaking scrap prices have also experienced a sharp decline, reaching US$330- 350/t delivered after a major mill reduced its buying price by US$21/ton. The exchange rate was at TRY26.95 per dollar at the end of the week closing.
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -366,15 +319,11 @@ Insight
 
 Commodity markets experienced a downturn due to a stronger U.S. dollar, propelled by positive economic indicators and increased supply across various sectors. Notably, copper and other industrial metals faced a decline as the robust U.S. economic data bolstered the dollar, dampening investor interest. Moreover, easing supply-side challenges contributed to the market dip. For instance, the global copper market transitioned from a deficit of 74kt in the same period last year to a surplus of 287kt for the first five months of this year, as reported by the International Copper Study Group.
 
-## Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 The demand waned as the optimistic economic data raised concerns that the Federal Reserve might need to implement further rate hikes. This occurred despite indications from Powell that a pause in rate increases was being considered after the recent 25bp rate rise. Soft commodities - As consumers were beginning to see signs of easing inflation in supermarkets, concerns over food supplies, especially rice, are resurfacing. India, a major rice exporter, recently banned a significant portion of its rice exports, causing prices in Asia to reach their highest level in over three years. This move is expected to lead to further price surges. India's restrictions affect a substantial portion of its total rice shipments, and there are fears that more categories could be impacted if rainfall becomes uneven and domestic inflation rises. The situation has prompted panic buying in other countries. Wheat prices have also been increased due to Russia's actions in attacking a key port that facilitated Ukraine's grain exports. The disruption of the agreement between Russia and Ukraine could lead to a 15% increase in global grain prices, as estimated by the IMF's chief economist. This development also raises food-security concerns in Africa, where many countries rely on wheat imports from Ukraine and Russia. In response, Russia has offered to send free grain shipments to several African nations. On top of that is the recent arrival of El Niño that may cause further damage to agriculture. Growers are getting ready. Some Indonesian rice farmers are planting corn and other crops that require less water as the country braces for its most severe dry season since 2019, partly due to the return of the El Niño weather pattern.
 
 # MS 1/2 & Tangshan Billet
-
-## Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 

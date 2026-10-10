@@ -22,8 +22,6 @@ pages: 18
 
 Finally, the big moment, which was long-awaited, took place! The US elections. Donald Trump has become the 47th president of the United States. Global maritime markets experienced immediate turbulence as election results confirmed Donald Trump's ascension to become America's 47th president. The immediate effect post-election Market Reactions: Metals Drop, Oil & Agriculture Rebound Following Donald Trump's recent U.S. election win, the commodities market is seeing mixed reactions. Here's the latest on what's moving: Metals Plunge: Metals like gold and copper faced a sharp sell-off. Gold hit a three-week low, and copper saw its biggest drop in five months. Trump's push for U.S. manufacturing could challenge industries abroad, impacting prices. Oil and Gas Steady: After an initial drop, oil prices levelled out. Trump's support for U.S. fossil fuel production, combined with record production levels under Biden, could mean steady prices, though proposed tariffs might limit future demand. Agriculture Bounces Back: Corn, wheat, and soybeans saw a recovery. But, as the dollar strengthens, exports might become pricier. Trump's proposed tariffs could also disrupt trade with China, impacting U.S. farmers next season. As policies unfold, these shifts hint at a transformative period for metals, energy, and agriculture. Expect more changes in the months ahead! Further, the aftermath saw immediate ripples across Asian financial centres, with Chinese currency declining and equity markets retreating in both Hong Kong and mainland bourses. While in China, the central government announced a 6 trillion yuan ($840 billion) plan to support local governments in reducing hidden debt from 2024 to 2026, allocating 2 trillion yuan annually. Finance Minister Lan Fo'an revealed an annual issuance of 800 billion yuan in special local government bonds over five years, totaling 4 trillion yuan. The goal is to decrease hidden debt from 14.3 trillion yuan to 2.3 trillion yuan by 2028.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -41,8 +39,6 @@ It was a mixed market in the basins this week. The Atlantic experienced a downwa
 Handysize:
 
 An optimistic end to the week in the Handy segment despite some tightness in both
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -80,8 +76,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 
 HANDYSIZE 38,000 13,750 13,750 10,750 0 +27.91%
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -96,8 +90,6 @@ HANDYSIZE 38,000 13,750 13,750 10,750 0 +27.91%
 | ERIN MANX | UMAX | 63,878 | 2020 | CHINA | 32.5 | WHITE SEA NAVIGATION |
 | EY HAYDN | UMAX | 63,608 | 2015 | CHINA | 23.5 | CHINESE BUYERS |
 | POYANG / HUPEH | HANDY | 39,790 | 2016 | CHINA | 42.0 EN BLOC | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -116,8 +108,6 @@ West African market experienced persistent weak demand at the start of the week,
 Aframax:
 
 The Middle East market, which had shown an increase last week, remains unchanged this week. In the Med, 80,000mt Ceyhan/Lavera also remains stagnant at WS121 mark. Overall, it was a slow week with little activity.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -152,8 +142,6 @@ Tanker 12 months T/C rates average (in USD/day)
 | LR1 | 74,000 | 27,500 | 27,500 | 73,000 | 0 | -62.33% |
 | MR | 47,000 | 23,000 | 23,750 | 51,000 | -3.16% | -54.90% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -164,8 +152,6 @@ Tanker 12 months T/C rates average (in USD/day)
 | FULHAM ROAD | LR1 | 74,986 | 2013 | S. KOREA | 44.5 | GREEK BUYERS |
 | JAG PADMA | MR | 47,999 | 2005 | JAPAN | 17.0 | UNDISCLOSED |
 | NINA | MR | 40,401 | 2010 | ROMANIA | 24.0 | ANCORA |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -190,33 +176,18 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
 | 5,100 *(amount in USD million) | Gearless | 81 | 77 | 66 | 35 | 32 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 470 ~ 480 450 ~ 460 440 ~ 450 480 ~ 490 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 480 ~ 490 470 ~ 480 | 450 ~ 460 | 490 ~ 500 | IMPROVING / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 460 ~ 470 440 ~ 450 | 430 ~ 440 | 460 ~ 470 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 340 ~ 350 350 ~ 360 370 ~ 380 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 470 ~ 480 | 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 480 ~ 490 | 470 ~ 480 | 450 ~ 460 | 490 ~ 500 | IMPROVING / |
+| GADDANI, PAKISTAN | 460 ~ 470 | 440 ~ 450 | 430 ~ 440 | 460 ~ 470 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 340 ~ 350 | 350 ~ 360 | 370 ~ 380 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -233,8 +204,6 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 700 | 580 | 520 |
 | ALIAGA, TURKEY | 270 | 210 | 210 | 300 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -246,11 +215,7 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -261,8 +226,6 @@ Following the festive holidays in India, markets have resumed normal operations,
 Alang, India
 
 The ship recycling markets have bounced back with positive sentiment following the Diwali holidays. Demand remains moderately strong at current price levels, with most
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -275,8 +238,6 @@ After a period of volatility, local markets have gradually started to show signs
 Gadani, Pakistan
 
 The markets have remained steady, with demand holding firm but a noticeable absence of available ships. Frustration among recyclers has been growing, yet a crucial factor keeping the industry afloat is the influx of low-cost Chinese imported finished and semifinished steel products.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -308,8 +269,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 277.86 | 277.51 | -0.13% |
 | USD / TRY (TURKEY) | 34.36 | 34.34 | -0.06% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -319,8 +278,6 @@ This week, ferrous scrap markets across the Sub-Continent showed mixed trends, i
 ### Pakistan's imported scrap market experienced a modest rise, with shredded scrap
 
 prices increasing by US$7/ton week-over-week to US$396/ton CFR Qasim, up from US$389/ton the previous week. This trend was supported by a slight improvement in domestic rebar prices and positive policy developments from the State Bank of Pakistan. Despite the upward trend, mills remained cautious due to high offers and a sluggish domestic market, with many operating below full capacity. Domestic steel sales showed stability, with rebar prices holding steady and scrap prices at PKR 148,000-150,000/ton. Optimism from potential IMF support and increased remittances bolstered sentiment, but high inventories and tight profit margins kept demand for imported scrap subdued. The Bangladeshi imported scrap market also saw price increases, with shredded scrap rising by US$9/ton week-over-week to US$401/ton CFR Chattogram. HMS (80:20) from the US edged up US$2/ton to US$380/ton. Despite weak steel demand and ongoing disruptions in construction, tighter supply and renewed interest from mills supported these price gains.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -335,8 +292,6 @@ US$362/ton CFR. Sellers maintained cautious optimism, anticipating a price floor
 ## Commodities
 
 The base metals market faced pressure this week due to a stronger USD and the looming possibility of a renewed US-China trade war. Copper saw a significant decline of over 4%, mirroring sharp losses in the Chinese Yuan. Meanwhile, US steel stocks surged more than 12% amid expectations that former President Trump would reintroduce tariffs on global steel imports. The market selloff offset recent gains that had been driven by optimism for additional stimulus measures in China, which had fueled hopes for stronger demand. China's spot prices for iron ore fines (62% Fe) declined by US$3.05/ton day-on-day to US$102.80/ton CFR on 8 November 2024, as the government's stimulus announcement
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

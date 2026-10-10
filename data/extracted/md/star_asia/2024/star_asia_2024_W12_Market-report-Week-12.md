@@ -22,8 +22,6 @@ WEEK 12 - March 24, 2024
 
 In a significant policy shift, the Bank of Japan (BOJ) has raised its short-term interest rates from -0.1% to between 0% and 0.1%, marking the end of the world's only negative interest rate regime. During its March meeting, the BOJ also terminated its yield curve control policy and curtailed its extensive asset purchases, signaling a step back from its longstanding ultra-loose monetary stance aimed at combating deflation. While this move signals a historic pivot from decades of aggressive monetary easing, BOJ Governor Kazuo Ueda emphasised that Japan is not on the path to rapid interest rate hikes due to the fragile state of the nation's economy. Despite this adjustment, the BOJ plans to maintain its monthly government bond purchases at about 6 trillion yen, indicating a cautious approach towards normalising monetary policy. This policy change has led to a depreciation of the yen and adjustments in the financial markets, underlining the BOJ's careful navigation through inflation targets and economic recovery. While in the U.S., on Wednesday, the Federal Reserve made the decision to maintain current interest rates steady at 5.25~5.50%, postponing any reductions and the associated alleviation of elevated borrowing expenses. The anticipation that the Federal Reserve is successfully navigating a "soft landing" for the economy has grown. However, this provides minimal solace to those in the U.S. burdened by debts with high-interest rates.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ The Pacific market saw downward pressure due to persistently sluggish inflows of
 Panamax/Kamsarmax:
 
 The Atlantic market saw a slowdown in the upward trend due to a combination of sluggish cargo inflows compared to the previous week and a deterioration in market sentiment following weakness in the FFA. However, the tight supply and demand structure remains intact. T/A levels close lower at USD17,000's a day. The Pacific market saw an increase in demand for NOPAC grains and Indonesian coal, but the accumulating vessel supply offset this, resulting in a slightly weaker level. Pacific were around USD15,000's a day. Looking ahead, sustained cargo flows and vessel positioning will be key variables dictating future rate direction. Supramax/Ultramax: In the Atlantic, the Mediterranean market continues to maintain a positive sentiment, with a balanced supply and demand supported by favourable fundamentals in South
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -70,8 +66,6 @@ The handy market showed improvements this week with robust demand in the Atlanti
 | SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 15,850 | 0 |  | -5.36% |
 | HANDYSIZE | 38,000 | 13,500 |  | 14,000 |  | 12,850 | -3.57% |  | +5.06% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -92,8 +86,6 @@ The handy market showed improvements this week with robust demand in the Atlanti
 | CONDOR HAMBURG | HANDY | 31,796 | 2012 | CHINA | 12.0 | UNDISCLOSED |
 | RIN TREASURE | HANDY | 28,333 | 2009 | JAPAN | 9.0 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -111,8 +103,6 @@ Despite steady fixing, the Middle East and West Africa markets closed sideways a
 Aframax:
 
 In contrast to the stagnant Middle East, brisk activity in Asia and Australia saw tonnage being absorbed rapidly. This, coupled with a surging LR2 market and increased West of Suez fuel oil liftings, drove rates higher. On the other side, North Sea rates for 80,000 mt x- UKC saw a small uptick, closing at WS143.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -143,8 +133,6 @@ LR: The LR1 market firmed this week in the Middle East, with rates on the MEG/Ja
 | LR1 | 74,000 | 36,500 | 35,750 |  | 35,500 | +2.10% |  |  | +2.82% |
 | MR | 47,000 | 29,750 | 29,750 |  | 30,500 | 0 |  |  | -2.46% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 # Tankers S&P Report
@@ -154,8 +142,6 @@ LR: The LR1 market firmed this week in the Middle East, with rates on the MEG/Ja
 | HIGH PROSPERITY | MR | 48,711 | 2006 | JAPAN | 19.3 | SINGAPOREAN BUYERS |
 | PACIFIC JEWEL | MR | 48,012 | 2009 | JAPAN | 23.7 | UNDISCLOSED |
 | MTM ST JEAN | MR | 34,528 | 2003 | JAPAN | 18.0 | CHINESE BUYERS |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -169,8 +155,6 @@ The container industry faces unprecedented uncertainty in 2024 due to the ongoin
 |---|---|---|---|---|---|---|
 | ARISTOMENIS / ATHENIAN / ATHOS | POST PMAX | 9,954 | 2011 | S. KOREA | 153.0 EN BLOC | PETER DOEHLE |
 | PARIS II / LYON II | POST PMAX | 6,627 | 2001 | S. KOREA | 20.0 EACH | MSC |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 9
 
@@ -186,22 +170,14 @@ The container industry faces unprecedented uncertainty in 2024 due to the ongoin
 | 5,100 | Gearless | 94 | 83 | 70 | 41 | 27 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 490 ~ 500 | 470 ~ 480 | 470 ~ 480 | 500 ~ 510 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | WEAK / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 310 ~ 320 | 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | WEAK / |
 
@@ -220,8 +196,6 @@ ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 WEAK /
 | GADDANI, PAKISTAN | 420 | 340 | 495 | 685 | 550 |
 | ALIAGA, TURKEY | 280 | 210 | 255 | 460 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -236,11 +210,7 @@ ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 WEAK /
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -252,8 +222,6 @@ Alang, India
 
 The domestic scrap markets are posing early indications of a modest uptick following a sustained period of decline, though it remains uncertain whether this signals that the markets have bottomed out and are on the path to recovery. Despite the uncertainties, purchasing activity at the current price levels persists. In a notable transaction this week, BW Offshore recently committed a vintage FPSO vessel, the Petroleo Nautipa. built in 1975 in Japan, weighing about 18,139 tons, was sold on under-tow as is Duqm, Oman for green recycling at Alang marking a significant deal in the industry's recent transactions. A promising development for the Alang Sosiya Ship Recycling Yard, as the Government of Gujarat unveiled a comprehensive package of fiscal incentives for the 2024-2025 financial year, aimed at rejuvenating the beleaguered industry. Faced with diminishing ship recycling activities due to a scarcity of ships and stiff competition from neighbouring countries, these initiatives are designed to stimulate industry growth. The Gujarat Maritime Board's new policy includes significant cuts in Housing Cess and Development Charges, as well as adjustments to LDT Charges for Indian-flagged vessels. The resolution entails a full waiver of housing cess and a 50% reduction in development charges, effectively lowering operational expenses for the yard's 131 active plots, which represent a whopping 98% of India's ship recycling capacity.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 Moreover, the policy introduces a halving of the minimum LDT requirement for the second block and offers incentives to circumvent penalties. These calculated financial relaxations are poised to bolster the Alang Ship Recycling Yard's competitive edge and sustainability, affirming its stature as a formidable entity within the international ship recycling domain. The Alang market is expected to remain quiet the coming week due to the financial year's end on March 31, alongside a subdued buying interest, possibly due to the upcoming religious festival and elections in April.
@@ -261,8 +229,6 @@ Moreover, the policy introduces a halving of the minimum LDT requirement for the
 Chattogram, Bangladesh
 
 Market sentiments have remained largely unchanged as activities in the markets slow down during Ramadan. Traditionally, the month of Ramadan marks a period of reduced activity, and the intensity for acquisitions is already showing signs of waning this week. Overall demand and pricing for ships remained stable, as the scarcity of vessels available for recycling has led recyclers to settle for smaller Chinese domestic ships, ensuring the continuation of operations.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -284,8 +250,6 @@ Anchorage & Beaching Position (March 2024)
 Aliaga, Turkey
 
 Despite the accelerating depreciation of the Turkish lira against the US dollar and firm imported scrap values, some Turkish mills have reduced their domestic scrap purchasing prices since last week. The market sentiment has improved following the rebound in the Chinese market earlier this week, but Turkish mills are pushing for scrap prices below USD380 per tonne on a CFR Turkey basis due to weak steel sales. Turkish domestic rebar prices stood at USD590-620/t ex-works midweek, while Turkish shipbreaking scrap has decreased to USD375-380/t delivered. The Turkish lira hit 32.02 per dollar on Friday's business close, improving slightly from last week. Overall, the markets look to be stagnant in the coming weeks.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -318,8 +282,6 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 In this week's ferrous scrap market in the Sub-continent and Turkey, trends showed mixed signals. Indian importers showed caution towards European shredded scrap due to pricing concerns, turning instead to offers from Africa for HMS, which saw a notable interest. In Pakistan, the commencement of Ramadan led to a slowdown in purchasing, impacting market activity. Conversely, Bangladeshi buyers are leaning towards bulk purchases, attracted by competitive prices, marking a shift from previous buying patterns. Meanwhile, in Turkey, scrap prices have held steady with expectations of increased buying activity as sellers anticipate a rise in steel rebar prices.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 In India, there's a hesitancy among scrap importers towards European shredded scrap, pivoting instead to African HMS, with deals being struck within the USD375-380/ton range. This shift comes amidst a flurry of activity in recent days, although inquiries have dipped today. The market has seen HMS offers from West Africa and South America being eagerly accepted, contrasting with the steady demand for shredded scrap from the UK/EU, priced around USD400/ton. Despite the variety of offers, some suppliers are targeting slightly lower prices for US materials amid a surplus of offers from West Africa and Brazil/South America.
@@ -336,8 +298,6 @@ undercurrent of anticipation for restocking activities that could push prices up
 
 # HMS 1/2 & Tangshan Billet
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 # Commodities
@@ -351,8 +311,6 @@ market, are starting to recover thanks to more optimistic views and positive eco
 **Base metals saw a significant increase in early market trading, driven by an optimistic**
 
 mood across financial markets. In the US, sales of previously owned homes jumped by 9.5% last month, marking a notable rise. Additionally, US manufacturing activity saw its highest expansion since June 2022. In China, sales of electric vehicles are expected to nearly double in March, following price reductions, as reported by China's Passenger Car Association. Zinc prices experienced the largest increase following an announcement by Glencore to temporarily shut down its McArthur River mine in Australia due to a cyclone. The mine has seen record-breaking rainfall this week, surpassing a record that was set in 1974.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

@@ -22,8 +22,6 @@ pages: 21
 
 This week, the Federal Reserve has implemented a 25-basis point interest rate reduction, establishing a new target range of 4.25%-4.50%, marking a return to levels not seen since December 2022. While this adjustment was anticipated by markets, the Federal Reserve has adopted a more conservative stance toward future rate adjustments, indicating only two potential reductions in 2025. Jerome Powell characterised this decision as a carefully weighted consideration, reflecting the delicate balance between managing inflation risks and sustaining economic growth, which is forecasted to reach 2.5% in 2024 before moderating in subsequent years. This monetary policy shift carries significant implications for the maritime sector. The reduction in interest rates is expected to enhance access to capital financing, potentially facilitating fleet expansion and supporting crucial sustainability initiatives within an industry facing increasing pressure to decarbonise. The Fed's optimistic economic growth projections suggest potential increases in trade volumes, which could strengthen freight demand and port activity. However, the rise in Treasury yields following the announcement indicates a measured market response, which will likely influence freight rates and chartering strategies in the coming quarters. While lower financing costs present opportunities for strategic investments, persistent inflation concerns above the Fed's 2% target could impact operational costs, particularly in fuel prices. This environment requires shipping companies to maintain a careful balance in their financial and operational planning, considering both the immediate benefits of reduced borrowing costs and the potential challenges of ongoing inflationary pressures. The industry's response to these conditions will be crucial in determining how effectively it can capitalize on growth opportunities while managing cost pressures in the evolving economic landscape.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ in the Pacific and North Atlantic regions, persistent cargo weakness continues t
 Panamax/Kamsarmax:
 
 In the Atlantic, T/A routes maintain their momentum, buoyed by consistent cargo flows. However, F/H are facing headwinds due to weakening cargo volumes from S. America. The Pacific market continues to navigate through difficult conditions, with vessel owners increasingly willing to negotiate lower rates to secure future bookings amid a scarcity of new cargo opportunities. Pacific r/v at closing saw levels touched US$5,500's a day. Supramax/Ultramax: Despite weakness in larger vessel segments due to sluggish cargo inflow and typical end-of-year holiday slowdown, the Supramax segment has maintained a relative stable across both basins. T/A settled at the end of the week at US$ 19,350 a day, a substantially higher taking compared to the bigger units on similar routes.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -90,11 +86,7 @@ Dry Bulk - S&P Report
 | SMAX | 51,828 | 2007 | JAPAN | 12.0 | UNDISCLOSED |
 | HANDY | 32,178 | 2002 | JAPAN | 6.5 | VIETNAMESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -110,8 +102,6 @@ Suezmax:
 
 The West African market closed with a 6-point decline as charterers delayed their activities, concerned about the previous week's increase. 130,000mt Nigeria/UKC fell to WS81. The market outlook remains slightly bearish with the weakness in VLCC. In the MEG,
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 140,000mt to the Mediterranean close at WS90.
@@ -126,8 +116,6 @@ LR: LR2 in the Middle East showed an uptick early in the week, supported by fixt
 
 ## Baltic Exchange Tanker Indices
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -139,8 +127,6 @@ LR: LR2 in the Middle East showed an uptick early in the week, supported by fixt
 | VALLE DI GRANADA | MR | 40,218 | 2005 | S. KOREA | 13.5 | UNDISCLOSED |
 | BOW AQUARIUS / BOW GEMINI / BOW HERCULES / BOW EXPLORER / BOW EXCELLENCE / BOW PERSISTENT / BOW PROSPER | MR | 40,900 ~ 36,221 | 2016 ~ 2020 | CHINA / JAPAN | N/A (STAINLESS STEEL) | ODJFELL |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -149,33 +135,18 @@ Global shipping rates, particularly on the SCFI, have seen significant increases
 
 ## Containers S&P Report
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 470 ~ 480 450 ~ 460 440 ~ 450 480 ~ 490 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 470 ~ 480 460 ~ 470 | 440 ~ 450 | 480 ~ 490 | WEAK / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 460 ~ 470 440 ~ 450 | 430 ~ 440 | 470 ~ 480 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 340 ~ 350 350 ~ 360 370 ~ 380 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 470 ~ 480 | 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 470 ~ 480 | 460 ~ 470 | 440 ~ 450 | 480 ~ 490 | WEAK / |
+| GADDANI, PAKISTAN | 460 ~ 470 | 440 ~ 450 | 430 ~ 440 | 470 ~ 480 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 340 ~ 350 | 350 ~ 360 | 370 ~ 380 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -192,8 +163,6 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 800 | 580 | 520 |
 | ALIAGA, TURKEY | 270 | 210 | 240 | 300 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -205,11 +174,7 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -217,15 +182,11 @@ TURKEY
 
 The ship recycling markets across the Sub-continent displayed mixed reactions this week, with overall sentiment remaining subdued as the year-end draws near. Recyclers are paying close attention to the dry bulk segment, which continues its downward trajectory. This trend is fueling expectations that a long-anticipated influx of end-of-life could soon materialise, shaping up the price dynamics. On the pricing front, markets appear to have stabilised at the prevailing rates for the time being, with most ship recyclers believing that prices have bottomed out. However, new concerns, post-FED decision, persist over the strength of the US dollar, which is now becoming a key factor and under close scrutiny. Market players are adopting a cautious approach as they navigate these uncertain conditions. For the time being, the persistent shortage of end-of-life vessels continues to challenge the ship recycling market. In a rare transaction within the current constrained environment, the VLCC Amor (built in 2000 in Japan, weighing 40,584 tons) has reportedly been sold to the Alang recyclers. This marks the first VLCC sale to India since March 2020. In addition to this, there are a few more VLCCs placed in the market, and the coming week should give some clues on their sales.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 Alang, India
 
 This week saw sharp fluctuations in domestic ferrous scrap prices, prompting varied responses from recyclers. Purchases were largely need-based, with prices reflecting current market conditions rather than speculative buying. A key topic of discussion was the continued decline in dry bulk indices, which has rekindled optimism across the industry. Recyclers anticipate a significant easing in ship supply by 2025, a development that could establish a new pricing trend and reshape the dynamics of the sector. The domestic steel industry may see some relief as the Indian government is likely to impose a 25% safeguard duty on steel imports, following a proposal by the steel ministry aimed at curbing cheaper-origin imports, such as from China, according to Reuters. During a 17 December meeting chaired by Commerce Minister Piyush Goyal, the proposal gained significant support, with assurances to small manufacturers that they would not face higher domestic steel prices. With HKC coming into force in June 2025, the industry estimates 15,000 ships will need recycling over the next decade, averaging about 1,500 ships annually. Maersk, the world's second-largest container carrier, has voiced significant concerns about this challenge, particularly regarding post-Panamax vessels. At a recent BIMCO panel discussion in Mumbai, Capt Prashant, Maersk's Head of ESG & Public Affairs for South Asia, emphasized that the industry faces not just capacity issues but also capability challenges in meeting HKC standards. Currently, Alang can process 4.5 million tons of steel annually from ship recycling, with plans to double this capacity to 9 million tons. Over 114 yards at Alang already comply with HKC standards, and Maersk has successfully recycled more than 20 ships at a dozen yards there. However, the facility's draft limitations create complications for larger vessels. While Maersk continues to recycle Panamax vessels at Alang, they express concerns about the current practice of beaching post-Panamax ships at a distance and pulling them to recycle plots during high tide, citing environmental and safety considerations. Local industry experts and officials present a more optimistic view of Alang's capabilities and future potential. The Gujarat Maritime Board is working to enhance the facility's infrastructure by reviewing policies to allow for larger plot sizes through amalgamation, moving away from the current 150-meter restriction. This adaptation aims to accommodate vessels of varying sizes based on specific requirements.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -252,8 +213,6 @@ Market sentiment has turned increasingly cautious, with buyers adopting a select
 
 Notably, several vessels sold recently at premium prices have yet to secure end-buyers. Industry participants remain focused on shipping trends, anticipating that a significant decline in freight rates by early 2025 could ease supply pressures. Many are adopting a wait-and-watch stance to gauge the market's reaction in the coming months. After a challenging 2024, the IMF's projections offer renewed optimism for Bangladesh's economy. The IMF projects Bangladesh's economic recovery in FY26, with inflation easing
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 and growth rebounding. IMF official Chris Papageorgiou highlighted at a press briefing that inflation, expected to stay around 11% in FY25, should decline to 5% in FY26, fostering growth recovery to 6.7%. However, FY25 growth is forecasted at 3.8%, affected by disruptions like unprecedented floods and economic imbalances. Papageorgiou emphasised structural issues driving food inflation and strong demandside pressures. He noted persistent high inflation, double digits as of November, is straining the balance of payments and reserves, which have plummeted from US$50 billion to US$20 billion over three years. The IMF criticised underreported non-performing loans (NPLs) in the banking sector despite government reform efforts. Challenges include global shocks, supply chain disruptions, and domestic unrest. The IMF program aims to stabilise the economy, restore sustainable growth, and address structural vulnerabilities for long-term resilience.
@@ -271,8 +230,6 @@ Gadani, Pakistan
 
 It has been another depressed week for Pakistani ship recyclers, with limited activity reported in the market. Despite growing interest among recyclers keen to acquire tonnage after an extended period of inactivity, deals remain scarce due to persistent pricing challenges. Gadani recyclers are struggling to compete with their regional counterparts in terms of offering attractive rates, further compounding the frustration of ship-starved buyers. This disparity in pricing continues to drive potential sellers to neighboring markets such as India and Bangladesh, where stronger offers are prevalent. Pakistani recyclers are caught in a difficult position, as they are unable to align with regional benchmarks, along with the clock ticking, to comply with the HKC certifications prior to June 2025 HKC initiatives.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 The ongoing situation underscores the challenges faced by Gadani recyclers, who are trying their best to navigate rising competition in limited-supplied markets. Until pricing parity is achieved, Pakistan's recycling yards are likely to remain stagnant.
@@ -288,8 +245,6 @@ Chattogram, Bangladesh : NO TIDES IN DECEMBER Alang, India : 12 - 20 December
 ---
 
 BUNKER PRICES (USD/TON) PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -320,8 +275,6 @@ Imported scrap offers from European recyclers rose following a high-priced Turki
 
 ### Pakistan: Modest Activity Amid Higher Costs
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 19
 
 The Pakistani imported scrap market showed signs of recovery, with suppliers quoting US$395-400/ton CFR Qasim for shredded scrap, reflecting increased collection costs. Buyers negotiated for bulk orders at US$385-388/ton, while smaller lots (500 tons) were only available at prices above US$390/ton.
@@ -337,8 +290,6 @@ In Turkey, imported scrap prices weakened amid bid-offer disparities. EU/Benelux
 ## HMS 1/2 & Tangshan Billet
 
 ## Commodities
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 

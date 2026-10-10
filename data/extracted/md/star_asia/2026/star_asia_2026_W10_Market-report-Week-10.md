@@ -22,8 +22,6 @@ pages: 20
 
 This week saw a significant shift for maritime insurance as major mutuals begin withdrawing war risk coverage for vessels entering the Persian Gulf. Starting Thursday, several prominent P&I clubs will automatically terminate these specific policies for ships navigating the waterway and its adjacent Iranian waters, a move triggered by similar cancellations from global reinsurers. While alternative coverage remains available in the open market, the cost for such protection has surged dramatically, with some premiums increasing by 50% or even doubling in recent days. This sudden change in the financial framework of maritime trade is expected to temporarily deter ship owners from loading cargoes in a region that typically supplies a fifth of the world's crude oil and a vast majority of its liquefied natural gas. Beyond the financial hurdles, the physical safety of assets and personnel has become a paramount concern due to the escalating tensions in the Middle East. Although international authorities clarify that the Strait of Hormuz remains legally open, the consensus among industry leaders is that the passage is currently too dangerous for standard navigation. This has left approximately 800 international vessels, including tankers and bulk carriers, effectively stranded within the Gulf. The human impact is equally profound, with an estimated 20,000 seafarers and thousands of cruise passengers currently unable to leave the region due to the suspension of local air travel and the inherent risks of attempting a transit through the Strait. The broader maritime community is now reacting to these volatile conditions with a mix of caution and strategic reassessment. Leading insurance brokers suggest that even if direct attacks on merchant shipping are avoided, hull insurance rates in the Gulf are likely to see near-term increases of at least 25% as underwriters account for the heightened exposure. Industry bodies have issued urgent calls for state intervention to ensure the safety of crews who find themselves in the crosshairs of a conflict. As the market monitors the situation heading into the middle of March, the focus remains on the dual challenge of managing skyrocketing operational costs while ensuring the welfare of the thousands of workers currently trapped behind one of the world's most critical maritime chokepoints.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -39,8 +37,6 @@ Capesize enters the week on an upward momentum as the Pacific r/v rose to US$31,
 Panamax/Kamsarmax:
 
 The market continues to exhibit a regional divide as the Pacific basin firmed to US$20,075's, driven by tight spot tonnage and a surge in Indonesian coal demand following announced production cuts. While the Atlantic route softened slightly to US$15,750 a day, due to limited prompt enquiry, significant growth in Brazilian soybean shipments is expected to tighten capacity as the harvest season accelerates.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -66,8 +62,6 @@ The Handy market has remained steady this week, though levels softened slightly 
 | HANDY | 38,000 | 30 | 33 | 26 | 19 | 15 |
 | *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -85,15 +79,11 @@ The Handy market has remained steady this week, though levels softened slightly 
 | THEODORA | SMAX | 53,569 | 2008 | JAPAN | 13.0 | UNDISCLOSED |
 | MANGUSTA | HANDY | 33,393 | 2015 | JAPAN | 16.7 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
 
 In the Persian Gulf, the number of tankers available for immediate booking has dwindled to between six and twelve vessels, a supply barely sufficient to cover a single day of typical outbound traffic. This scarcity is exacerbated by the strategic dominance of South Korea's Sinokor and MSC, which now control nearly all available VLCCs for USG Coast departures. Daily rates for the benchmark MEG/China route surged to a record high of over US$420,000 this week, while global average VLCC rates have climbed past US$280,900. These exorbitant costs, which now include heavy war-risk bonuses and hazard pay, have made standard transit uneconomical for most global operators. The security situation in the Strait of Hormuz has effectively paralysed maritime trade, as insurers cancel war cover and Iranian forces allegedly target vessels attempting transit. Although the waterway is not physically blocked, the threat of missile and drone attacks has reduced Monday's traffic to just one or two mid-sized vessels. This disruption is having an immediate impact on upstream activities; Iraq has already been forced to shut in 1.5 million BPD of production as storage tanks reach capacity, with officials warning that this could double to 3 million BPD-nearly its entire export volume. Analysts at JPMorgan further estimate that if the disruption persists for 18 days, total production shut-ins across the region could reach 4.7 million BPD. While Saudi Arabia and the UAE have pipeline capacity to redirect approximately 2.6 million BPD toward the Red Sea and Gulf of Oman, these alternatives offer only partial relief for crude and almost no solution for refined products or LNG. The broader economic fallout from this is manifesting as a global inflation shock, with energy price spikes expected to add 0.5% points to Eurozone inflation, bringing the yearly average to 2.3%. Financial markets are reacting with significant distress, evidenced by a 12% drop in the KOSPI index and a sharp appreciation in the U.S. Dollar Index (DXY) as investors scramble for liquidity. In the natural gas sector, QatarEnergy's declaration of force majeure has taken roughly 20% of global LNG supply offline, causing Asian JKM prices to hit their highest premium over European benchmarks since 2021. The tanker market remains the primary bottleneck for global energy security, with the structural lack of compliant hulls and safe passage suggesting that the current price rally is far from over.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -119,8 +109,6 @@ LR: LR2 in the MEG has seen a surge in activity as charterers rush to secure Mar
 |---|---|---|---|---|---|
 | BDTI | 3,083 | 1,991 | 879 | +54.85% | +250.74% |
 | BCTI | 1,654 | 906 | 663 | +82.56% | +149.47% |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -152,11 +140,7 @@ LR: LR2 in the MEG has seen a surge in activity as charterers rush to secure Mar
 | MARINER A | MR | 40,099 | 2005 | S. KOREA | 12.0 | NIGERIAN | BUYERS |
 | TIGRIS | PROD / CHEM | 12,920 | 2009 | S. KOREA | 9.3 | UAE BASED | BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 9
 
@@ -183,29 +167,18 @@ Following the closure of the Strait of Hormuz, SCFI index surged by 82 points, t
 | TRANSIMEX SUN | FEEDER | 1,060 | 2009 | JAPAN | 15.5 | HAI AN | CO. LTD |
 | ASIATIC REUNION | FEEDER | 1,049 | 2008 | S. KOREA | 11.0 | UNDISCLOSED |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 11
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS / WEEKLY
-
-GENERAL CARGO FUTURE TREND
-
-ALANG (WC INDIA) 420 ~ 430 410 ~ 420 400 ~ 410 450 ~ 460 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 430 ~ 440 420 ~ 430 | 410 ~ 420 | 450 ~ 460 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
-
-TURKEY
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 420 ~ 430 | 410 ~ 420 | 400 ~ 410 | 450 ~ 460 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 450 ~ 460 | STABLE / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 300 ~ 310 | 290 ~ 300 | 270 ~ 280 | 310 ~ 320 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -222,8 +195,6 @@ TURKEY
 | GADDANI, PAKISTAN | 440 | 620 | 560 | 530 | 440 |
 | ALIAGA, TURKEY | 240 | 360 | 320 | 320 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
 ## Ships Sold for Recycling
@@ -235,19 +206,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
 Insights Alang
 
 Alang currently occupies the last position among South Asian destinations in terms of pricing; paradoxically, however, it still emerged as the most active hub for vessel arrivals this week. Indian recyclers have secured nearly three times as many ships as Chattogram and four times the number of units headed for Gadani and for February still hold the highest LDT cumulative. While the festive observance of Holi has briefly moderated the pace of yard activities, the broader economic outlook is being reshaped by a significant geopolitical shift. Another cause of concern for the Alang recycler with the ongoing war is the fear of a shortage of LPG. India has invoked emergency powers requiring refiners to maximise LPG production following supply disruptions linked to the Middle East crisis. The country consumed about 33.15 million tonnes of LPG last year, with imports accounting for roughly two-thirds of demand, and 85-90% of those imports sourced from the Middle East. Under the directive, refiners must prioritise the use of propane and butane for LPG production and supply volumes to state distributors, including Indian Oil Corp, Hindustan
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -266,8 +231,6 @@ Anchorage & Beaching Position (MARCH 2026)
 | QUARTZ |  | TANKER | 9,453 | 26.02.206 | AWAITING |
 | SIRRAH |  | BULKER | 7,071 | 15.02.2026 | AWAITING |
 | SAGE SAGITTARUS |  | BULKER | 19,943 | 25.02.2026 | 05.03.2026 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -298,15 +261,11 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 609 | 543 | 965 |
 | HOUSTON | 584 | 475 | 927 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Sub-Continent and Turkey ferrous scrap markets insights
 
 India The sentiment in the Indian imported scrap market is currently of extreme caution as buyers and sellers navigate a "perfect storm" of freight volatility and currency pressure. The Rupee has come under significant strain, with market participants bracing for a potential slide toward the INR 95/$ mark, which would drastically inflate import costs. Under normal conditions, UK-origin HMS was recently workable at US$352/t CFR, but new freight circulars from major carriers like Hapag-Lloyd and CMA CGM suggest potential increases of US$1,500 to US$2,000 per container. If realized, these adjustments could add roughly a staggering US$80/t to landed costs, pushing supplier targets for HMS above US$360/t and shredded scrap toward US$380/t, especially as vessels are forced to reroute via the Cape of Good Hope. Current procurement activity remains sluggish due to the festive period and the inability of traders to finalise firm quotations amidst these shifting variables. Buyers at key ports such as Mundra and Nhava Sheva have maintained a conservative stance, keeping bids for HMS below US$350/t and shredded below US$370/t. In contrast, hand-loaded HMS buyers in Northern India (Punjab) have shown a higher threshold, with workable bids reported at US$365/t. However, many suppliers are currently holding back their inventories, awaiting more definitive freight and currency data before committing to fresh trade. Bangladesh In contrast to the broader regional hesitation, the Bangladeshi market has seen a strengthening of offer levels as suppliers move to factor in the anticipated April container freight hikes. Buyers have begun signaling acceptance of workable levels near US$380/t for shredded scrap to secure material before logistics costs rise further. Malaysian PNS is currently being offered at US$388/t CFR Chattogram, while Australian shredded material is quoted near US$386/t. The containerized scrap segment is showing particularly firm sentiment, with rerollable PNS from Singapore reaching US$450/t and Hong Kong origin material heard at US$430/t. However, liquidity remains a concern for mid-sized
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -317,8 +276,6 @@ Pakistan The Pakistani market is currently in a state of flux, severely impacted
 Turkiye Deep-sea scrap trading in Turkiye has remained mostly subdued, with a "wait-and-see" approach from both mills and exporters. While mills are attempting to talk the market down to protect their narrowing margins, sellers are signaling higher levels due to rising operational costs. Current workable levels for high-quality HMS 80:20 are estimated to be around US$370/t CFR. However, the reality of rising freight-up approximately US$15/t from the US and US$10/t from the Baltic regions-is placing upward pressure on the market. Exporters are currently unwilling to absorb these additional costs, leading to a standoff in negotiations. Until there is a clearer resolution to the freight surcharges or a significant rebound in rebar demand, Turkish trading activity is expected to remain in a narrow, sideway range.
 
 HMS 1/2 & Tangshan
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 
@@ -333,8 +290,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 100 | +1.01% | -2.91% | 99 | 103 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 100 | +1.01% | -0.99% | 99 | 101 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 

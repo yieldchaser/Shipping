@@ -22,8 +22,6 @@ WEEK 12 - March 21, 2025
 
 President Trump's upcoming "Liberation Day" tariff announcement on April 2 is expected to take a more targeted approach than initially feared, bringing potential relief to markets that have been gripped by uncertainty. Rather than implementing the sweeping global tariffs he has sometimes threatened, the administration appears to be focusing on specific nations and trade blocs while excluding others. According to White House officials, only countries that impose tariffs on the US and with whom the US has a trade deficit will face these reciprocal measures. The targeted nature of this approach could somewhat limit disruption to global shipping lanes, though the immediate implementation of these tariffs will still require rapid supply chain adjustments. The shipping industry should prepare for significant trade pattern shifts as these tariffs take effect, particularly affecting vessels serving routes between the US and what Treasury Secretary Scott Bessent has called the "dirty 15" - countries representing a substantial portion of US trading volume. Vessel demand may decrease on certain routes as charterers seek alternative sourcing locations exempt from the new tariffs. Container lines and bulk carriers are likely to experience the most immediate impact, with potential ripple effects extending to port congestion, equipment positioning challenges, and freight rate volatility across various trade lanes. Although sectoral tariffs on automobiles, semiconductors, pharmaceuticals, and lumber were previously expected to be part of the April 2 announcement, these now appear to be delayed, offering temporary reprieve to specialized carriers and ro-ro operators. This more measured approach indicates the administration is cognizant of market reactions to its earlier tariff implementations on steel and aluminum. While the President views these measures as tools to stimulate domestic manufacturing and generate revenue, economists question their long-term effectiveness, noting how US customs revenues from Chinese tariffs peaked in 2022 before dropping sharply in 2023 as supply chains adapted. For the maritime sector, this suggests the most acute disruption may be temporary as shippers develop new sourcing strategies and routing options.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ Pacific market maintained stability on Friday despite experiencing an overall qu
 Panamax/Kamsarmax:
 
 The Atlantic market maintained a slight upward momentum during the early week but shifted to a marginally softer tone by the week's end. Apart from USG routes, most other lanes experienced minimal contracting activity in the latter part of the week. T/A saw levels decline to US$9,300's a day. In the Pacific, despite some new cargo, rates trended slightly downward with a softer market position overall. Supramax/Ultramax: The Atlantic experienced a slowdown in contracting activity as the spread between shipowners' and charterers' rate expectations widened considerably. In the Pacific, steady cargo movement continued across the Asian region. Pacific r/v managed to see rates climb slightly to US$12,800's a day.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -67,8 +63,6 @@ Dry Bulk Values
 | SUPRAMAX | 56,000 | - | - | 27 | 20 | 13 |
 | HANDY *(amount in USD million) | 38,000 | 31 | 33 | 25 | 17 | 14 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -88,8 +82,6 @@ Dry Bulk Values
 | MOONDANCE II | SMAX | 55,566 | 2005 | CHINA | 8.5 | CHINESE BUYERS |
 | LION | HANDY | 32,256 | 2007 | JAPAN | 10.0 | CHINESE BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -99,8 +91,6 @@ The tanker market continues to adapt to the evolving sanctions landscape, with a
 VLCC:
 
 The Middle East market showed an upturn in movement for the remaining late-March cargoes in the early week, but freight rates rose slightly due to general supply conditions.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -126,8 +116,6 @@ the reduced inflows. In the MEG, rates saw improvement with TC17 jumping some 40
 
 # Baltic Exchange Tanker Indices
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 # Tankers S&P Report
@@ -141,8 +129,6 @@ the reduced inflows. In the MEG, rates saw improvement with TC17 jumping some 40
 | ECO FLEET | MR | 39,208 | 2015 | VIETNAM | 30.0 | NAVIGAZIONE MONTANARI SPA |
 | YASH | MR | 37,320 | 2002 | S. KOREA | 8.2 | UNDISCLOSED |
 | HENG XIN | PROD / CHEM | 13,968 | 2010 | CHINA | 12.0 | UNDISCLOSED |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -170,33 +156,18 @@ S&P Containers Report
 |---|---|---|---|---|---|---|
 | IRENES RYTHM | SUB PMAX | 2,824 | 2007 | S. KOREA | N/A | RCL FEEDER PTE LTD |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 450 ~ 460 430 ~ 440 440 ~ 450 460 ~ 470 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 320 ~ 330 300 ~ 310 290 ~ 300 330 ~ 340 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 450 ~ 460 | 430 ~ 440 | 440 ~ 450 | 460 ~ 470 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 320 ~ 330 | 300 ~ 310 | 290 ~ 300 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -213,8 +184,6 @@ TURKEY
 | GADDANI, PAKISTAN | 360 | 460 | 650 | - | 540 |
 | ALIAGA, TURKEY | 230 | 250 | 380 | 320 | 330 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -228,19 +197,13 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 Alang has shown modest improvement this week with renewed interest in tonnage, though buyers remain cautious as they evaluate the impact of India's recent safeguard duty announcement on imported scrap. This duty announcement has already stimulated the broader scrap market, with prices increasing by US$5-7 per ton and HMS (80:20) offers have settled around US$355-360 per ton cfr. Industry experts suggest this could be an opportune moment for Indian buyers to secure imported scrap, particularly from the UK and Europe, given the 45-60 day transit period which would align deliveries with the implementation of the safeguard duty and peak domestic steel demand season. However, caution remains as India's internal infrastructure demand will ultimately determine steel production levels, with potential risks for buyers who secure large volumes of imported scrap if domestic consumption falls short of expectations.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -261,8 +224,6 @@ Anchorage & Beaching Position (MARCH 2025)
 Chattogram
 
 Bangladesh markets remain bleak despite a pronounced demand for medium-sized vessels. While buyer interest exists, operational barriers including stricter banking policies on LCs and extended processing timeframes are impeding transaction completions. Market conditions remain stagnant compared to last week, with expectations that activity will continue to be subdued during the upcoming Eid celebrations. Against this backdrop, Bangladesh's parliament has passed the national budget of Tk 7,97,000 crore for the fiscal year 2024-25, targeting a GDP growth rate of 6.75% and aiming to maintain annual inflation around six percent. Finance Minister Abul Hassan Mahmood Ali's Appropriations Bill seeking Tk 12,41,752 crore in budgetary allocation was approved by voice votes, following the passing of the Finance Bill 2024 with minor modifications on Saturday, potentially creating a new economic context for the ship recycling industry once market activity resumes after the holiday period.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -301,8 +262,6 @@ Chattogram, Bangladesh : 29 March ~ 01 April | 12 ~ 15 April Alang, India : 27 ~
 
 ---
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
@@ -315,8 +274,6 @@ Imported scrap markets across Sub-Continent remained largely subdued this week, 
 
 Mills operated at reduced capacity amid weak steel demand and ongoing liquidity
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 constraints. Shredded scrap from the UK and EU was offered at US$385-390/ton CFR Qasim, though most buyers capped bids at $385-388/t. UAE-origin shredded was quoted higher at US$390-395/ton CFR, but buyer interest was minimal. Market participants noted that currency volatility, rising freight costs, and falling domestic rebar prices were further dampening mill margins. While a recovery is expected after Eid, for now, the market remains under pressure. In Bangladesh, the market remained quiet, with interest in UK and European-origin material particularly low. Due to shorter lead times and more favourable pricing, buyers preferred sourcing from closer markets such as Australia, Hong Kong, and Singapore. Australian shredded was heard at US$380-385/ton CFR Chattogram, while HMS 90:10 was offered around US$365-367/ton CFR. Like its neighbours, Bangladesh anticipates a pickup in demand after Ramadan, with improved activity projected for April and May.
@@ -326,8 +283,6 @@ constraints. Shredded scrap from the UK and EU was offered at US$385-390/ton CFR
 volatility and political unrest. A US-origin bulk cargo was reported concluded at $381/t CFR for HMS 80:20 and US$401/ton CFR for shredded/bonus grades. These prices are considered repeatable in the near term. US-origin HMS 80:20 was generally assessed in the US$380-385/ton CFR range, although Turkish buyers continued to bid lower, around US$375/ton CFR-levels which most sellers resisted. European exporters targeted similar ranges, with offers at US$380-385/ton CFR, and US-origin material heard at US$385-390/ton CFR.
 
 # HMS 1/2 & Tangshan Billet
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -344,8 +299,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 102 | +0.99% | -6.42% | 101 | 109 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 103 | +1.98% | -8.84% | 101 | 113 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

@@ -56,8 +56,6 @@ America said, "At this point, it wouldn't take much to tip the economy into rece
 
 Iron ore prices continued to fall significantly as fears about global steel industry demand intensified. Benchmark for the steelmaking component fell on Thursday to US$82.45/ton, the lowest level since May 2020. Several institutions have cautioned that the prospects for China's housing market and economic development may not auger well for the bulk commodities industry. According to China's Huatai Futures, the steel industry's peak season is drawing to an end, and the recovery has fallen short of expectations. The market's trust in the industry has also decreased owing to a lack of evidence that President Xi Jinping's measures to reduce the country's real-estate debt will be successful in stimulating the economy. Furthermore, due to winter output limits and Europe's energy problems, the country's steel stocks are expanding.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 ### Capesize:
@@ -90,8 +88,6 @@ The market remains steady, with the weakness in the Pacific offset by the robust
 
 The Pacific had a strong start, but the end of the week was more subdued with the abundance of prompt tonnage. The increase in open tonnage was due to the decline in the number of enquiries across Asia. Inter-Pacific levels fell to US$11,185 a day while r/v trips were in the US$ 12,000's region. Meanwhile, activity in the Atlantic was muted this week due to a drop in USG sales.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 3
 
 # Dry Bulk - S&P Report
@@ -118,8 +114,6 @@ The Pacific had a strong start, but the end of the week was more subdued with th
 | HANDY | 38,000 | 29 |  | 29 |  | 25 | 17 | 6 |
 | *(AmountinUSD million) |  |  |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
 
 # Baltic Exchange Dry Bulk Indices
@@ -144,8 +138,6 @@ DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE % CAPE 180,000 13,50
 | SUPRAMAX | 52,000 | 14,000 | 15,500 | 25,000 | -9.68 | -44.00 |
 | HANDYSIZE | 32,000 | 13,000 | 13,750 | 26,750 | -5.45 | -53.27 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 5
 
 # Tankers
@@ -164,8 +156,6 @@ Freight rates in the Atlantic continue to thrive as a result of strong demand an
 
 The Middle East/Southeast Asia section's W.S. saw an uptick of 8.4% this week. In the US- Carib region, the Aframax market has continued to improve. On the Atlantic, 80,000mt Hound Point to Wilhelmshaven fell by two points to WS207.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 6
 
 ### Clean:
@@ -173,8 +163,6 @@ The Middle East/Southeast Asia section's W.S. saw an uptick of 8.4% this week. I
 This week in the Middle East Gulf, LR2s freight levels were quiet. TC1 lost five points to WS192. Meanwhile, AG MRs were strong, with the TC17 Index gaining 42 points to reach WS402. UK-Continent MRs remains muted, with the TC2 shedding 18 points to reach WS282.5, and the TC19 falling from WS309.
 
 # Tankers S&P Report
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 7
 
@@ -213,8 +201,6 @@ indication for the container shipping industry. Some analysts believe that the r
 
 moderation in the leading indicators' rollover rate movements is a sign that the container
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 8
 
 shipping industry is starting to bottom out.
@@ -234,32 +220,20 @@ shipping industry is starting to bottom out.
 | 5,500 - 7,000 | Gearless |  | 85 | 115 | 95 | 77 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 580 ~ 590 | 560 ~ 570 | 570 ~ 580 | 610 ~ 620 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 590 ~ 600 | 580 ~ 590 | 560 ~ 570 | 610 ~ 620 | WEAK / |
+| GADDANI, PAKISTAN | 570 ~ 580 | 560 ~ 570 | 550 ~ 560 | 600 ~ 610 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 290 ~ 300 | 280 ~ 290 | 270 ~ 280 | 310 ~ 320 | WEAK / |
 
-CHATTOGRAM,
-
-BANGLADESH 590 ~ 600 580 ~ 590 560 ~ 570 610 ~ 620 WEAK /
-
-GADDANI, PAKISTAN 570 ~ 580 560 ~ 570 550 ~ 560 600 ~ 610 STABLE /
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 290 ~ 300 280 ~ 290 270 ~ 280 310 ~ 320 WEAK /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
 
 # 5-Year Ship Recycling Average Historical Prices
 
@@ -271,8 +245,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 | CHATTOGRAM, BANGLADESH | 380 | 455 | 370 | 360 | 600 |
 | GADDANI, PAKISTAN | 400 | 440 | 360 | 370 | 590 |
 | ALIAGA, TURKEY | 210 | 270 | 220 | 205 | 300 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 10
 
@@ -288,8 +260,6 @@ AN PING 8 9,804 1994 / JAPAN BULKER 620 DELIVERED CHATTOGRAM
 
 This week Bangladesh made headlines, putting sudden brakes on new purchases as the banks tighten the payments. Recycling markets have now taken a dramatic turn approaching year-end. In China, domestic steel consumption has been facing significant challenges for a prolonged period of time as the strict COVID policies have dampened the demand. The liquidity crunch has kept the property developers away from new projects leading local governments to sell
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 11
 
 land to state-owned enterprises to try and generate some immediate revenue but not enough to boost steel and commodity demand. As the domestic demand for steel exhausts in China, the steel mills are looking toward export markets which are going to be very complex for pricing in the long term. Once again, the fears of cheap Chinese steel flooding the markets will keep the steel prices volatile. Meanwhile, steel consumption in the E.U. is predicted to fall by 3.5% this year and 1.9% in 2023 because of increased energy prices and a recession, according to Eurofer on Wednesday. The agency, which analyses statistics on the country's steel sector, has also reduced its prognosis for apparent steel demand a few times this year. It forecasted a 3.1% increase in demand in 2022 in February, but that figure was revised down to 1.7% in August. Steel demand increased by 6.3% in the first quarter but fell in the second quarter owing to the impact of the Russia-Ukraine war. Eurofer is also especially concerned about the high volume of distorted steel imports into the E.U. Steel imports into the E.U. climbed by 28.5% in the first quarter and by 1.6% in the second quarter.
@@ -297,8 +267,6 @@ land to state-owned enterprises to try and generate some immediate revenue but n
 ### ALANG, INDIA
 
 This week the markets remained closed due to the Diwali festival and shall resume next week Monday, October 31. Overall, markets remain muted as there are hardly any ships proposed for Alang markets, and price trends are yet to be formed. With Bangladesh going hard shell, for the time being, this may be a turning point for the Indian recyclers who have been patiently waiting for their turn. Ships destined for Chittagong will start getting diverted to Alang. The Indian rupee rose sharply against the dollar after dropping to historic lows a week back on the backdrop of a softer U.S. dollar on easing FED rate hike bets. The coming week will be very crucial for the currency as FED's interest rate decision is announced on November 2, which will be the last rate hike for the year 2022. This Friday, Prime Minister Modi hailed the progress India has made in the steel sector at the expansion ceremony of the ArcelorMittal Nippon Steel plant in Gujarat. PM Modi said that the Indian steel industry has become the second largest in the world. According to official data available, India as of April 2022, India was the world's second-largest producer of crude steel, with an output of 10.14 MT. In FY22, the production of crude steel and finished steel stood at 133.596 MT and 120.01 MT, respectively.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 12
 
@@ -317,8 +285,6 @@ This week the markets remained closed due to the Diwali festival and shall resum
 ### CHATTOGRAM, BANGLADESH
 
 A chaotic week for Bangladeshi recyclers as the ongoing Letters of Credit issues got more dramatic with Central Bank intervention. The import payments across all segments, except the essential ones, were caught in a difficult situation where local banks were refraining from issuing any fresh Letters of Credit despite recyclers putting up full margin money to the banks. The ship recycling industry slowed down activities due to uncertainties. With the ongoing financial crisis, fresh ships offered to the market were ignored with no serious price tag. Faster than expected, depleting foreign reserves has alarmed the government to take drastic steps to protect the economy first. Foreign exchange reserves stood at U$35.85 billion this week, down 23 percent from a year ago. Food and like necessities have become the priority for the government, and ship recycling is not at all essential for them at this juncture. Some analysts believe this is a temporary phase, and once the situation with foreign reserves improves, the banks may loosen up as Bangladesh is an import economy, and banks cannot keep lids on for a very long time as it will drag the economy at a faster pace. The bright side for ship recyclers in this dire situation was that a vast majority of recyclers had bought a significant number of ships lately, and inventories at the yard were going to keep the recyclers busy for the next couple of months. To add to this, domestic ship scrap prices saw an uptick this week, with prices increasing after bottoming out.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 13
 
@@ -348,8 +314,6 @@ A chaotic week for Bangladeshi recyclers as the ongoing Letters of Credit issues
 ### GADDANI, PAKISTAN
 
 The ship recycling markets remained on the sidelines with no signs of any improvement. On the other hand, Pakistani scrap importers have halted their purchases amid deteriorating sentiments and weak demand caused by political instability. Cheap imported scrap, semi-finished and finished products were making their way to Pakistan creating difficulties for the ship recycling industry. Considering the ongoing market conditions, Gadanni may need to wait longer than expected. The only ray of hope for the Gadanni recyclers was soon Bangladeshi recycling industry would be putting brakes on buying and Alang not paying higher prices. The prices will need to align to reflect the real values that make ship scrap prices viable.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 14
 
@@ -383,8 +347,6 @@ The ship recycling markets remained on the sidelines with no signs of any improv
 | COMMODITY SIZE / GRADE PRICE | CHANGE CHANGE LAST LAST W-O-W Y-O-Y WEEK YEAR |
 | Iron Ore Fines, CNF Fines, Fe 62.5% US$84 Qingdao, China (Brazil Origin) | -9.67% -19.23% US$93 US$104 |
 | Iron Ore Fines, CNF Fines, Fe 62% US$83 Rizhao, China (Australia Origin) | -8.79% -26.54% US$91 US$113 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 16
 

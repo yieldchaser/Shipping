@@ -22,8 +22,6 @@ pages: 19
 
 Global financial markets experienced a significant shift in sentiment last week, as the S&P 500 recorded its largest decline of the year amid mixed economic signals and renewed geopolitical tensions. The 1.7% drop effectively erased the week's gains, while bond markets rallied with 10-year Treasury yields falling 8 basis points to 4.43%. This market reaction came as reports on consumer sentiment, housing, and services suggested potential pressure on the US growth narrative that has been supporting investor confidence. Meanwhile, the first high-level economic dialogue between the US and China under the Trump administration has highlighted ongoing tensions in the bilateral relationship. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng exchanged concerns over various issues, including trade imbalances and economic policies, following the implementation of new US tariffs on Chinese goods. Despite these challenges, President Trump has suggested the possibility of reaching a fresh deal with China, though the US$295 billion trade surplus remains a significant point of contention. Investment flows have remained remarkably resilient despite these headwinds, with US exchange-traded funds attracting a record US$155 billion this year, while junk bonds and equities have also seen substantial inflows. However, market strategists increasingly advocate for a balanced approach, suggesting that while abandoning risk assets may be premature given the healthy job market, investors should consider hedging against potential risks arising from policy uncertainty and elevated valuations.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Pacific market is taking a small breather today, with iron ore cargo flows s
 Panamax/Kamsarmax:
 
 The Atlantic market is showing resilience, with USG shipments keeping rates on an upward trend despite slower coal cargo flows. T/A remains around US$8,500's a day. The Pacific market remains particularly strong, driven by steady cargo flows from NOPAC and Australian grains. This has created a tight vessel supply, maintaining the market's bullish momentum.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ The Atlantic saw a downward pressure on rates end of week after a rousing start,
 | HANDY | 38,000 | 25 | 27 | 20 | 15 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -81,8 +75,6 @@ The Atlantic saw a downward pressure on rates end of week after a rousing start,
 | MAZURY | HANDY | 38,981 | 2005 | CHINA | 6.0 | UNDISCLOSED |
 | LIBERTY C | HANDY | 32,618 | 2012 | CHINA | 9.2 | VIETNAMESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -96,8 +88,6 @@ The Middle East market saw a shift from the start of the week. In response to th
 Suezmax:
 
 West Africa's market fell 2 points to WS91 for Nigeria/UKC trips mid-week, influenced by VLCC. However, the outlook for the market remains positive with strong demand in the Black Sea and Mediterranean regions.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -136,8 +126,6 @@ Y-O-Y CHANGE -26.35% -31.32%
 | MR | 51,000 | 37 | 39 | 31 | 23 | 15 |
 | *(amount in USD million) |  |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 VESSEL NAME GREAT LADY KAVAFIS / ELYTIS FREE SPIRIT SEA LUCK III DONEGAL SPIRIT EASTERLY SIRIUS GOLDEN DAHLIA CLYDE FISHER
@@ -158,8 +146,6 @@ PRICE 41.5
 31.5 25.0 26.0 15.8 32.8 7.0
 
 COMMENTS / BUYERS CHINESE BUYERS CENTROFIN MGMT UNDISCLOSED CHINESE BUYERS IMS SA GREEK BUYERS UNION MARITIME UAE BUYERS
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -182,33 +168,18 @@ S&P Containers Report
 |---|---|---|---|---|---|---|
 | EVI | FEEDER | 1,345 | 2008 | CHINA | 12.7 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 450 ~ 460 430 ~ 440 440 ~ 450 460 ~ 470 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 320 ~ 330 300 ~ 310 290 ~ 300 330 ~ 340 STABLE /
-
-*Ship, the prices are about USD 20-30/tonon less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 450 ~ 460 | 430 ~ 440 | 440 ~ 450 | 460 ~ 470 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/tonon less | 320 ~ 330 | 300 ~ 310 | 290 ~ 300 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -225,8 +196,6 @@ TURKEY
 | GADDANI, PAKISTAN | 350 | 440 | 620 | 560 | 530 |
 | ALIAGA, TURKEY | 230 | 240 | 360 | 320 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -239,19 +208,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 The Indian ship recycling market remains in a holding pattern, with activity levels continuing to be muted as the fiscal year-end approaches. Market participants are exercising caution due to financial constraints, with expectations that this subdued sentiment will persist through March. While the recent US implementation of a 25% flat tariff on steel imports has created ripples across global markets, India's steel industry appears relatively insulated from direct impacts, with only 2% of its finished steel exports destined for US markets. However, the indirect effects could influence the ship recycling sector, particularly through potential shifts in steel scrap availability, as US mills increase domestic production and reduce scrap exports. This is especially significant for India, which sources approximately 14-15% of its scrap requirements from the US, potentially necessitating a diversification of supply sources to maintain operational stability.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -273,8 +236,6 @@ Anchorage & Beaching Position (FEBRUARY 2025)
 Chattogram
 
 It was another quiet week in the Bangladesh sector with similar outlook as last and likely would remain so as Ramadan approaches next week. Recently at a workshop in Dhaka, environment Adviser Syeda Rizwana Hasan led urgent calls for reform of regulatory frameworks. Hasan highlighted that workers remain largely unaware of the toxic risks they face in yards that frequently lack environmental clearance, creating a stark contrast with the regulated standards seen in Bangladesh's garment sector. The situation is particularly concerning as many ships arriving for breaking come from European companies who change vessel registration to small island states to evade responsibility, highlighting a troubling double standard in global maritime regulations. Hasan emphasizes the critical need to enforce existing High Court directives and hold polluters accountable through a comprehensive legal framework that aligns with international safety and environmental standards.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -308,8 +269,6 @@ Aliaga, Turkey
 
 Another tepid week in Turkey recycling market with not much activity to boot. The market's challenges are amplified by recent geopolitical developments, particularly the impact of Trump's tariffs on the Turkish economy. The Turkish Lira's decline against the U.S. Dollar, settling at TRY 36.31. Steel sales remain weak, prompting mills to approach scrap purchases cautiously while exploring alternative options like imported billet to protect their margins.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 ---
@@ -321,8 +280,6 @@ The sub-continent imported scrap market continued its subdued pace this week, we
 ### India:
 
 India's market remains muted as ample domestic scrap supplies and sluggish steel sales have kept buyers on the sidelines. Offers for shredded scrap from the UK and Europe were quoted at US$375-380 /ton CFR Nhava Sheva, while bids lagged slightly at US$370-375 /ton. Similarly, HMS (80:20) sourced from West Africa and Europe traded at lower levels, around US$345-355 /ton CFR. Despite sellers holding firm, buyers' calls for
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -340,8 +297,6 @@ Bangladesh saw limited activity in its scrap imports as sufficient mill inventor
 
 Over in Turkey, the scrap market experienced slight price declines amid weak finished steel demand and competitive billet prices. Turkish mills, eager to reduce costs, pushed for lower scrap prices, though sellers largely held their ground. A recent deal for Balticorigin HMS (80:20) was struck at US$358 /ton CFR, setting the tone for the week. Despite steady demand, the overall market sentiment remains cautious, with local mills favouring European and Baltic cargoes over more expensive US shipments. One trader remarked on a noticeable drop in activity, with deep-sea cargo bookings falling from 11 earlier in February to just six in the past two weeks. This week's report underscores the persistent challenges across the region, with domestic oversupply, economic uncertainties, and global tariff shifts continuing to shape market dynamics.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 ## HMS 1/2 & Tangshan Billet
@@ -349,8 +304,6 @@ Over in Turkey, the scrap market experienced slight price declines amid weak fin
 ## Commodities
 
 **Iron ore futures reached** their highest levels since October 2024, with China's Dalian Commodity Exchange seeing the May contract climb to 838.5 yuan (US$115.75) per metric ton and Singapore's benchmark March contract touching US$109.3. This upward momentum has been driven by encouraging signs in China's steel sector, where construction steel transaction volumes surged 44% w-o-w to 112,600 tons, reflecting growing optimism ahead of the peak March construction season. A broad rally swept the base metal sector, led by aluminium as reports emerged that the EU backs a ban on Russian metal. EU ambassadors are moving ahead with fresh sanctions, including an import ban, vessel restrictions, and a SWIFT ban on several banks. Meanwhile, a weak nickel market has hit Indonesia hard, with PT Gunbuster Nickel Industry cutting production and delaying payments amid nickel ore shortages. The market's positive sentiment is further bolstered by China's central bank's commitment to support private enterprise development, though some headwinds persist with daily hot metal output showing a slight decline of 0.2% to 2.28 million tons. Despite these mixed signals, analysts at COFCO Futures maintain an optimistic outlook through mid-March, anticipating resilient steel prices supported by potential economic stimulus measures,
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

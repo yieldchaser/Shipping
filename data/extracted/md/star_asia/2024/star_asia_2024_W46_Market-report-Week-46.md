@@ -22,8 +22,6 @@ pages: 21
 
 **corporate earnings forecasts for the coming year, potentially threatening the market's impressive rally. The earnings-revision momentum indicator for the S&P 500 has turned negative, approaching its second-lowest level of the year. This shift comes at a critical time, as corporate profits have been the driving force behind the market's decade-long advance. Market valuations have reached their highest level since April 2021, with the S&P 500 posting gains exceeding 20% and heading toward its second consecutive year of growth. However, Gina Martin Adams, BI's chief equity strategist, warns of a possible market reversal, highlighting concerns about Federal Reserve policy and earnings momentum beyond the technology sector. Despite these concerns, third-quarter earnings have shown resilience, with S&P 500 profits projected to grow 8.5% y-o-y. Yet, executives' cautious guidance amid uncertainties surrounding Fed rate cuts, Chinese economic weakness, and U.S. fiscal policy has prompted analysts to reduce their 12-month earnings forecasts. This week, Chinese President Xi Jinping and US President Joe Biden met, final meeting before the US presidential transition, during the APEC summit in Lima, Peru, emphasizing the need for cooperation between the world's largest economies as power transitions to Donald Trump. Xi expressed China's readiness to work with the incoming administration, urging "solidarity and cooperation" to address global challenges. Xi warned against decoupling and supply chain disruptions, calling for peaceful coexistence and mutual respect on sensitive issues like Taiwan and the South China Sea. Biden highlighted progress in military communication and AI governance but raised concerns about China's cyberattacks and support for Russia's industrial base. As Trump's proposed tariffs on Chinese imports threaten trade, Xi positioned China as a reliable free trade partner, inaugurating a US$1.3 billion port in Peru and advocating for deeper economic ties. The meeting underscored mutual interest in stability despite looming uncertainties under the incoming administration.**
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -39,8 +37,6 @@ pages: 21
 ## Panamax/Kamsarmax:
 
 **Market conditions across basins show mixed signals in recent trading. The Atlantic draws partial support from strong Cape rates, though momentum remains limited by the notable absence of fresh cargoes from both USG and S. American regions. The Pacific, on the one hand, presents a contrasting picture. East Australian coal shipments continue to flow steadily, but abundant vessel supply has begun to temper rate gains. Meanwhile, the NOPAC region demonstrates more strength, with grain fixtures commanding premium rates amid tighter vessel availability. Pacific r/v fell to US$11,600's at week's closing.**
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -75,8 +71,6 @@ pages: 21
 | HANDY | 38,000 | 30 | 35 | 28 | 21 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Bulker 12 months T/C rates average (in USD/day)
@@ -90,11 +84,7 @@ pages: 21
 
 ## Dry Bulk - S&P Report
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -111,8 +101,6 @@ pages: 21
 ## Suezmax:
 
 **West African rates declined substantially, pressured by a weak US Gulf market and increased vessel availability from eastbound ballasters. The outlook remains soft this week amid ample tonnage and cautious chartering sentiment. 130,000mt Nigeria/UKC voyage slipped by some 8 points to WS75.**
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -145,8 +133,6 @@ pages: 21
 | MR | 51,000 | 52 | 53 | 50 | 41 | 28 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Tanker 12 months T/C rates average (in USD/day)
@@ -166,8 +152,6 @@ pages: 21
 | GOLDEN YOSA | PROD / CHEM | 19,701 | 2008 | JAPAN | 21.0 (SS) | UNDISCLOSED |
 | GOLDEN OAK / VALLEY OAK | PROD / CHEM | 13,161 | 2008 | S. KOREA | 12.0 EN BLOC | UNDISCLOSED |
 | HUITONG 78 | PROD / CHEM | 12,476 | 2012 | CHINA | 7.2 | UNDISCLOSED |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 9
 
@@ -195,19 +179,14 @@ pages: 21
 | 5,100 | Gearless | 81 | 77 | 66 | 35 | 32 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 11
 
 ## Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ | CONTAINERS | SENTIMENTS / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  |  |  | TREND |
 | ALANG (WC INDIA) . | 470 ~ 480 | 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | STABLE / |
 | CHATTOGRAM, BANGLADESH | 480 ~ 490 | 470 ~ 480 | 450 ~ 460 | 490 ~ 500 | STABLE / |
 | GADDANI, PAKISTAN | 460 ~ 470 | 440 ~ 450 | 430 ~ 440 | 460 ~ 470 | STABLE / |
@@ -220,8 +199,6 @@ pages: 21
 - **Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on** **top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history,** **and maintenance.**
 
 ## 5-Year Ship Recycling Average Historical Prices
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -237,11 +214,7 @@ pages: 21
 
 ## Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -251,8 +224,6 @@ pages: 21
 
 **environmentally sound ship recycling practices. This initiative aims to unify the ship recycling and shipping industries, facilitating the global implementation of the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships (HKC). The HKC is set to enter into force on June 26, 2025, marking a significant step toward sustainable maritime operations. The ship recycling industry faces mounting pressure to adapt, as over 15,000 vessels are expected to be dismantled over the next decade. Despite this, voluntary adoption of HKC-compliant recycling practices remains limited, highlighting an urgent need for unified industry efforts. The newly launched Ship Recycling Alliance aims to bridge this gap by connecting stakeholders, advising regulators, and raising public awareness. "To ensure responsible and safe recycling, all stakeholders must step up," emphasised BIMCO Secretary General David Loosley.**
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 **A key focus will be collaboration with the International Maritime Organization (IMO) and the Basel Convention Secretariat to clarify legal frameworks and align compliance efforts. The alliance's founding members include BIMCO, regional ship recycling associations from South Asia and Turkey, major cash buyers, and other industry leaders, aiming to drive progress in sustainable ship recycling globally. This week, SK Shipping, Korea, finalised the sale of four LNG tankers for green recycling, totalling 117,371 tons of light displacement tonnage (LDT). The transaction marks the largest single en-bloc sale of 2024, alongside regular MSC container vessels, fueling hopes for improved supply conditions in the recycling market. Adding to the optimism, a number of ships from Chinese and other Asian markets is expected to hit the market in the coming weeks, further revitalising sentiment among recyclers. These developments have sparked renewed confidence in the ship recycling industry, signalling a potential upswing in activity.**
@@ -260,8 +231,6 @@ pages: 21
 ## Alang, India
 
 **The ship recycling markets in Alang remained subdued this week, with domestic ship scrap prices continuing to soften amid persistent uncertainty and a lack of market confidence. Despite steady demand for vessels, domestic ship scrap prices failed to hold, reflecting cautious sentiment across the region. A vast majority of the ship recyclers have shrugged off these minor dips in the domestic ship scrap prices and continued their buying activities at the prevailing prices. While some are adopting a wait-and-see approach, dampening activity levels and further weighing on domestic ship scrap pricing trends and forex fluctuations due to the strengthening of the U.S. dollar. The present condition is a reflection of mixed sentiments with demand intact.**
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -290,8 +259,6 @@ pages: 21
 | CHANG FEI HAI | BULKER |  | 2,942 | 02.11.2024 | 03.11.2024 |
 | YUN DA HAI | BULKER |  | 2,880 | 03.11.2024 | 07.11.2024 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 ## Gadani, Pakistan The local steel market remains sluggish, with demand showing little improvement
@@ -304,8 +271,6 @@ pages: 21
 
 **adjust their purchasing strategies according to individual needs. Recent transactions highlight a downward trend in import values, with fresh EU-origin bookings setting new price benchmarks. The market now confronts the possibility of prices dropping below US$350/t cfr, a level unseen since early this year. Opinion remains divided on recovery prospects, with some viewing current EU and UK cargo sales as temporary pressure points, while others anticipate sustained weakness. Shipbreaking scrap maintains levels of US$365-380/t delivered, while the Turkish lira closed at TRY 34.34 to the dollar.**
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 ## Chattogram, Bangladesh : 30 November - 3 December | 14 - 17 December Alang, India : 14 - 21 November | 29 November - 7 December
@@ -316,8 +281,6 @@ pages: 21
 
 **The Sub-Continent ferrous scrap market experienced a price decline of US$2-4/ton dayon-day this week, driven by tepid demand and persistent market challenges. In India, Domestic scrap consumption remains subdued, with shredded offers from the US and UK/Europe assessed at US$390-392/ton CFR Nhava Sheva, down US$4/ton d-o-d. HMS (80:20) from UK/Europe stood at $365/t CFR, while West African material was priced at US$370-375/ton CFR. Market insiders noted muted buying, influenced by stock surpluses, poor steel sales, and monsoon disruptions.**
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 19
 
 ## In Pakistan, weak rebar demand and smog-related logistical challenges slowed off, anticipating further price drops.
@@ -327,8 +290,6 @@ pages: 21
 **Financial constraints in Bangladesh, high inventories, and letter of credit issues curtailed buying. UK-origin shredded prices dropped to US$396/ton CFR Chattogram, while buyers delayed commitments in anticipation of lower rates. In Turkey, the market softened as Baltic-origin HMS (80:20) dropped to US$356-360/ton CFR, reflecting weaker euro-driven pricing. Traders expect potential demand recovery for January shipments. Global uncertainties and cautious buying strategies have kept the regional scrap market under pressure.**
 
 ## HMS 1/2 & Tangshan Billet
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 

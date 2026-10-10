@@ -22,8 +22,6 @@ pages: 20
 
 The United States has dramatically escalated its involvement in the Venezuelan energy sector following the military operation that led to the arrest of President Nicolás Maduro in early January 2026. This development now continues with the federal government asserting direct authority over approximately 50 million barrels of Venezuelan crude, worth billions at current market rates. By establishing a "quarantine" in the Caribbean, the U.S. Navy has actively seized tankers like the Veronica to dismantle the "shadow fleet" that previously moved oil to Asian markets. This transition toward U.S. oversight is designed to stabilize regional supply and redirect heavy crude to American Gulf Coast refineries, which have historically relied on these specific oil grades. Market dynamics have shifted rapidly as Washington begins marketing these seized reserves through major commodity traders, with proceeds being held in protected U.S. Treasury accounts. This intervention has triggered a sharp rise in regional shipping rates, as the sudden change in trade routes from China to the United States has increased the demand for mid-sized tankers. While the administration is engaging with interim leader Delcy Rodríguez and high-profile opposition figures to discuss a "safe and proper transition," the global industry remains on high alert. Major refiners are seeing their stock values climb in anticipation of cheaper feedstocks, yet many drilling companies remain cautious, citing the immense cost of rehabilitating Venezuela's decaying infrastructure after years of neglect. The long-term success of this strategy depends on both political stability and a massive infusion of capital to restore the country's output, which currently sits at a fraction of its historical peak. While the U.S. government plans to control these oil sales indefinitely to fund Venezuelan recovery and settle outstanding debts, the environmental and economic stakes are high. Analysts suggest that while production could increase significantly over the next decade, the immediate focus remains on securing the maritime environment and enforcing the new legal framework for energy exports.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Capesize market saw increased activity on the C5 route in late January. Whil
 Panamax/Kamsarmax:
 
 The Panamax market began the week with a cautious tone as rising vessel availability in the Continent and West Mediterranean kept Atlantic rates anchored near previous levels. Despite the heavy supply, daily earnings for T/A voyages edged up slightly higher to US$11,950's. In the Pacific, the market outlook has softened as tonnage accumulates in the North, though Pacific r/v rates managed a modest gain to settle at US$10,025. Supramax/Ultramax: Supramax entered the week with a cautiously firm sentiment, as owners pushed for higher rates on long-haul despite charterer resistance. In the Atlantic, tightening vessel availability and fresh inquiries from the USG have bolstered T/A daily earnings to US$18,675. Meanwhile, the Pacific remains largely balanced with a modest gain of US$31 bringing round-voyage rates to US$8,950's.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -67,8 +63,6 @@ Dry Bulk Values
 | ULTRAMAX | 64,000 | 34 | 38 | 31 (E) | 22 | 15 (56K) |
 | HANDY | 38,000 | 30 | 33 | 25 | 18 | 14 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -86,8 +80,6 @@ Dry Bulk Values
 | SUN MASTER | SMAX | 50,714 | 2011 | JAPAN | 15.2 | CHINESE BUYERS |
 | TBC PRAISE | HANDY | 36,699 | 2012 | S. KOREA | 14.4 | UNDISCLOSED |
 | BASS STRAIT | HANDY | 33,520 | 2006 | JAPAN | 8.6 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -107,8 +99,6 @@ Aframax:
 
 The Aframax segment remains stagnant as Asian refiners prioritize VLCCs for their pre- Lunar New Year stockpiling. With vessel supply remaining stable and demand failing to recover, the market closed slightly softer. In the Med, 80,000mt basis Ceyhan/Lavera improved to WS207.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Clean:
@@ -118,8 +108,6 @@ LR: The market has shifted decisively in favor of shipowners as a backlog of nap
 MR: The Far East regional market ended on a high note as a wave of accumulated demand from the holiday period was released at once. This concentrated burst of fixing activity has cleared out prompt tonnage and successfully driven freight rates upward across regional routes.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -146,11 +134,7 @@ MR: The Far East regional market ended on a high note as a wave of accumulated d
 | ELLIE M II | MR | 46,784 | 2007 | S. KOREA | 15.0 | UNDISCLOSED |
 | T VEGA | PROD / CHEM | 19,807 | 2006 | JAPAN | 14.0 (STST) | CHINESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 9
 
@@ -178,29 +162,18 @@ The mid-January passage of the Maersk Denver through the Bab El-Mandeb Strait ma
 | CONTSHIP BOX | FEEDER | 1,496 | 2009 | CHINA | 15.1 | CMA | CGM |
 | TITAN | FEEDER | 1,122 | 1996 | GERMANY | N/A | UNDISCLOSED |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 11
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 400 ~ 410 380 ~ 390 370 ~ 380 410 ~ 420 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 400 ~ 410 | 380 ~ 390 | 370 ~ 380 | 410 ~ 420 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
 | GADDANI, PAKISTAN | 410 ~ 420 | 400 ~ 410 | 390 ~ 400 | 420 ~ 430 | STABLE / |
-
-TURKEY
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -217,8 +190,6 @@ TURKEY
 | GADDANI, PAKISTAN | 460 | 580 | 540 | 500 | 450 |
 | ALIAGA, TURKEY | 26 | 320 | 250 | 320 | 370 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
 ## Ships Sold for Recycling
@@ -233,19 +204,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
 Insights Alang
 
 The Indian ship recycling market adjusts this week as the initial surge in optimism begins to meet economic realities. While the sector received a significant boost from a 12% safeguard duty on steel imports, which briefly pushed Alang to the top of the regional price charts, recent volatility has led to a more cautious bidding environment. Local steel plate prices, which had jumped by nearly US$30/ton early in the year, have recently retreated, wiping out several weeks of steady gains. Indicative recycling levels have softened to approximately US$380/LDT for bulkers, US$400 for tankers, and US$410 for containers. With the global political uncertainties weighing on sentiment, buyers in Alang are currently prioritising market-aligned offers over aggressive expansion, keeping overall activity thin as they wait for more stable pricing signals.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -258,8 +223,6 @@ Anchorage & Beaching Position (JANUARY 2026)
 | EMANO 11 | GENERAL CARGO | 2,556 | 02.01.2026 | 10.01.2026 |
 | BODHI | TANKER | 16,294 | 09.01.2026 | 15.01.2026 |
 | SHENG LU | BULKER | 6,300 | 12.01.2026 | 17.01.2026 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -282,8 +245,6 @@ Anchorage & Beaching Position (JANUARY 2026)
 Aliaga, Turkiye
 
 Turkiye remains steady but secondary to the Subcontinent, with pricing at US$270/LDT for bulkers and US$290/LDT for containers.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -320,15 +281,11 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 INDIA India's imported scrap segment, has seen activity remains more subdued as buyers resist higher offer levels. UK-origin shredded scrap is currently offered at US$355-$358/t CFR, while small parcels of Costa Rica-origin HMS 60:40 were recently booked at US$312-$316/t. Despite a mid-month softening in sentiment due to currency risks, the long-term outlook remains positive with a proposed ₹4,000 crore incentive scheme expected to launch later this year.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 PAKISTAN Pakistani buyers are focusing on narrowly defined workable levels. Imported EU-origin shredded scrap is attracting interest at around US$365/t CFR, while UAE-origin material has seen a slight price hike to US$370-$375/t CFR due to firm exporter stances. Domestically, rebar prices remain firm, trading between PKR 220,000-225,000/t (US$786- $804/t). BANGLADESH Quiet market presumes in Bangladesh. The imported scrap market also reflects this weakness; Australian HMS 80:20 is quoted at US$340-$342/t, while local rebar prices in Chattogram are holding steady at roughly US$638/t (BDT 78,000). Operational activity is expected to remain range-bound until political and geopolitical uncertainties stabilise. TURKIYE The Turkish market stands out with a firmer tone, supported by tight supply and winterdriven collection constraints in the US and Europe. Deep-sea scrap prices have edged higher, with US-origin HMS 80:20 recently concluded at US$373/t CFR, while new offers are pushing toward US$375-$380/t.
 
 ## HMS 1/2 & Tangshan
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 
@@ -342,8 +299,6 @@ Iron Ore
 |---|---|---|---|---|---|---|
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 108 | 0% | +5.88% | 108 | 102 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 108 | 0% | +4.85% | 108 | 103 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 

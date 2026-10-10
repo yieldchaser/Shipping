@@ -22,8 +22,6 @@ pages: 19
 
 Speaking at a recent industry forum in Singapore, Swire Bulk CEO Peter Norborg highlighted that while shipping has always contended with disruptive events, the sheer multiplicity of current challenges is unique. He noted that the wide range of uncertainties-spanning from conflicts and sanctions to fluctuating US trade policies, such as the investigation into Chinese shipbuilding-creates a highly unpredictable environment for maritime trade, making long-range planning more complex than ever before. This pervasive uncertainty is fostering a significant shift towards short-termism within the bulk shipping markets. With the difficulty for commodity traders to secure long-term contracts for their goods (due to uncertain current outlook) directly impacts their ability to commit to long-term shipping agreements. This presents a considerable challenge for shipowners, who are faced with making multi-decade investment decisions on new vessels. The risk is particularly acute now, as owners must invest in expensive, futureproofed technologies like dual-fuel engines to comply with future emissions regulations, all while their customers are increasingly hesitant to commit beyond a 12-month horizon. In response to this volatile global environment, key maritime nations are taking strategic steps to reinforce their positions and provide stability. In a recent meeting with prominent Japanese shipping companies, Panamanian President José Raúl Mulino outlined a comprehensive modernisation plan for the Panama Ship Registry. Emphasising its role as a national emblem rather than a franchise, President Mulino presented a vision for a fully digitalised, efficient, and secure flag state aligned with top international standards. Given that seven out of ten Japanese shipowners already use the Panamanian flag, this strategic engagement is vital for Panama to consolidate its leading position and assure the global maritime community, particularly its crucial Japanese partners, of its commitment to being a reliable and forward-thinking registry.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -42,8 +40,6 @@ Handysize:
 
 It was another week market for the Handy market with rates falling low. Inter Pacific fell slightly, closing at US$10,350's a day. Atlantic managed to fare better with T/A seeing a jump to US$14,700's at closing as tight vessel availability helped pushed rates higher.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 3
 
 ## Baltic Exchange Dry Bulk Indices
@@ -61,8 +57,6 @@ It was another week market for the Handy market with rates falling low. Inter Pa
 | ULTRAMAX | 64,000 | 34 | 38 | 31 (E) | 22 | 15 (56K) |
 | HANDY | 38,000 | 30 | 33 | 25 | 18 | 14 |
 | *(amount in USD | million) \| (E) - eco units |  |  |  |  |  |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -88,8 +82,6 @@ It was another week market for the Handy market with rates falling low. Inter Pa
 | YANGTZE CLASSIC / YANGTZE DIGNITY | HANDY | 32,503 | 2012 | CHINA | 9.0 EACH | UNDISCLOSED |
 | T SYMPHONY | HANDY | 32,451 | 2011 | CHINA | 8.5 | VIETNAMESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -108,8 +100,6 @@ Aframax:
 
 In the Middle East, the Aframax market remained supported by the continued strength in the larger sizes. In the Mediterranean, 80,000mt Ceyhan/Lavera rose to WS142. In the Atlantic, USG/UKC climb by 15 points to WS165.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Clean:
@@ -123,8 +113,6 @@ decline was attributed to a persistent oversupply of available vessels. Similar 
 flow of new inquiries. TC17 trip MEG/East Africa climbed to WS175 with USG TC14 also seeing an uptick settling higher at WS174.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -143,8 +131,6 @@ flow of new inquiries. TC17 trip MEG/East Africa climbed to WS175 with USG TC14 
 | F MUMBAI | PROD / CHEM | 19,992 | 2005 | JAPAN | 13.5 (SS) | UNDISCLOSED |
 | CAMELIA | PROD/ CHEM | 12,306 | 2007 | JAPAN | 9.8 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -161,8 +147,6 @@ Global container shipping costs have seen a significant decline, with spot rates
 | 5,100 ~ 5,300 | Gearless | 59 | 82 | 66 | - | 41 |
 | *(amount in USD million) | \| = Eco units |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## S&P Containers Report
@@ -171,29 +155,16 @@ Global container shipping costs have seen a significant decline, with spot rates
 |---|---|---|---|---|---|---|
 | NORDPANTHER | FEEDER | 1,730 | 2014 | CHINA | 27.5 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 420 ~ 430 410 ~ 420 400 ~ 410 440 ~ 450 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 | ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| ALANG (WC INDIA) | 420 ~ 430 | 410 ~ 420 | 400 ~ 410 | 440 ~ 450 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -209,8 +180,6 @@ TURKEY
 | CHATTOGRAM, BANGLADESH | 370 | 580 | 600 | 470 | 500 |
 | GADDANI, PAKISTAN | 380 | 585 | 580 | 520 | 480 |
 | ALIAGA, TURKEY | 210 | 280 | 320 | 310 | 320 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 11
 
@@ -228,19 +197,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 The Indian ship recycling sector experienced a notable deceleration this week, with market sentiment turning decidedly cautious. This subdued atmosphere is primarily a reflection of persistent weakness in the domestic steel sector, where sluggish demand for finished goods continues to exert downward pressure on the entire supply chain. While local steel plate and scrap values have softened, ship recyclers have so far held firm on their prices offered for available tonnage. This has led to a more selective buying environment, and while some interest for smaller vessels endures, most buyers appear content to observe from the sidelines. Going forward, the seasonal buying post monsoon and pre-Diwali buying should bring in better prospects for the Alang recyclers.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -272,8 +235,6 @@ Chattogram
 
 The ship recycling market in Bangladesh saw a mix of cautious optimism and significant operational constraints. A recent firming in the domestic steel sector, with both plate and scrap prices showing upward movement, provides a foundational pillar of support for a potential market recovery. While buying activity remained low this week, there is an undercurrent of enthusiasm among some recyclers who seem prepared to raise their offer prices. However, this promising optimism is being held in check by substantial challenges. A persistent shortage of foreign exchange continues to loom over the industry, creating a difficult financial climate and prompting a hesitant approach from most buyers. Furthermore, administrative delays in achieving full compliance with HKC are acting as a bottleneck, limiting the market's capacity.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Gadani
@@ -283,8 +244,6 @@ Pakistan's market activity remains sparse this week. The sector is contending wi
 Aliaga, Turkey
 
 Another quiet week in the Turkish market with a distinct lack of movement in either pricing or transactional activity. This standstill mirrors the current state of the domestic steel industry, where prices have remained stable but are met with significant buyer reluctance. Recyclers have maintained their offer levels without change, and the market appears to be in a holding pattern, awaiting clearer economic signals before any new momentum is established.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -320,8 +279,6 @@ The Indian market for imported ferrous scrap remained quiet. In the southern por
 
 Pakistan's imported scrap market continued its slow spell, though there is an expectation of renewed buyer interest in the coming week. This cautious optimism is tied to the recent price rebound seen in Turkey, which often serves as a benchmark for the region.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Current offers for shredded scrap from the European Union were heard in the range of US$367-368 per ton CFR Qasim, with sellers anticipating a potential increase to the US$370-372 range as market sentiment gradually improves.
@@ -335,8 +292,6 @@ The market here was similarly subdued, with activity remaining quiet on a day-to
 In a notable divergence from the South Asian markets, Turkey's imported scrap prices continued to climb, signaling a recovery from the dip experienced earlier in September. Market sentiment has turned positive, supported by fresh deal activity and firm offers from suppliers. This recovery appears to be largely driven by tight supply, which has given sellers leverage to increase their asking prices as mills selectively book cargoes to fulfill their October requirements. Prices for HMS 80:20 from the US/Baltic region were clustered around US$342 per ton CFR, while material from the EU was priced slightly lower.
 
 ## HMS 1/2 & Tangshan
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

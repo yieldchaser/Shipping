@@ -26,8 +26,6 @@ The strength of the US dollar has been putting pressure on currencies worldwide,
 
 The Baltic Exchange's index saw a minor drop midweek, largely attributed to declining rates in the Panamax and Supramax vessel segments. BPI experienced a downturn for the ninth straight session, with average daily earnings falling to US$15,947. This decrease was primarily due to the immediate release of vessels scheduled to load in Baltimore, which led to a reduction in demand for larger vessels. Similarly, BSI also declined by 1.5%, reaching 1,284 points. In contrast, BCI demonstrated a 1.8% increase, reaching 2,437 points, marking its best performance in over two weeks. This uptick occurred despite the index being at its lowest level in nearly two months, with average daily earnings rising to US$20,015. Meanwhile, iron ore futures in China experienced a slight dip but remained higher on a weekly basis. Market participants found themselves weighing the current weak demand against expectations of improved future consumption.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 Capesize:
@@ -41,8 +39,6 @@ The Atlantic region continues to experience a downward trend in freight rates as
 Handysize:
 
 The Atlantic started well but faced downward pressure in latter half due to the accumulation of vessel supply, leading to a continued decline. T/A levels fell to US$12,500's a day. In the Pacific, ahead of the Eid celebrations in Indonesia, most spot coal cargoes have been cleared, resulting in a sharp decrease in fixing activities. Inter Pacific fell to US$9,000's a day.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -77,8 +73,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | SUPRAMAX | 58,000 | 14,750 | 15,250 | 16,000 | -3.28% | -7.81% |
 | HANDYSIZE | 38,000 | 13,250 | 13,500 | 13,150 | -1.85% | +0.76% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -93,8 +87,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | DRAGONERA | HANDY | 35,732 | 2011 | CHINA | 14.0 | GREEK BUYERS |
 | NARUTO STRAIT | HANDY | 34,391 | 2016 | JAPAN | 20.3 | TURKISH BUYERS |
 | KATYA ATK | HANDY | 28,467 | 2009 | JAPAN | 9.0 | VIETNAMESE BUYERS |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -113,8 +105,6 @@ Quiet fixture activity in West Africa, saw rates fell slightly to WS106 for Nige
 Aframax:
 
 Fixture activity has slowed a little due to a lack of April cargoes in major loading areas such as the Middle East, South Asia, and Australia. With the upcoming Eid holidays, the market is expected to remain quiet. In the North Sea, 80,000mt x-UKC also saw weakness slipping to WS131 at closing.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -150,8 +140,6 @@ Y-O-Y CHANGE -14.56% -3.16%
 | LR1 | 74,000 | 37,000 | 36,150 |  | 35,500 | +2.35% |  |  | +4.23% |
 | MR | 47,000 | 30,000 | 29,750 |  | 31,250 | +0.84% |  |  | -4.00% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 VESSEL NAME AURVIKEN MINERVA HELEN TRF MONGSTAD / TRF MOSS
@@ -169,8 +157,6 @@ TYPE DWT YEAR BUILT PRICE COMMENTS / (MILLION) USD BUYERS
 
 Eastbound trans-Pacific spot rates have plummeted as container ship capacity recovers and volumes reset at a lower level than pre-Lunar New Year. Rates on Transpacific routes continue to experience a downward trend, with SCFI Shanghai-US West Coast route, falling 3% to US$3,308 per FEU, a 36% decrease since March 1.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 Although China's industrial activity is growing, it has not yet translated into increased China-U.S. trade. Importers may be shifting container flows to avoid tariffs by moving goods through Mexican ports. Spot container freight rates have remained similar, with the overall SCFI increasing by 1% w-o-w to 1,745 points. Despite this slight uptick, the index remains 21% below its mid- January peak.
@@ -187,22 +173,14 @@ Although China's industrial activity is growing, it has not yet translated into 
 | 2,700 - 2,900 | Gearless | 41 | 38 | 29 | 21 | 15 |
 | 5,100 *(amount in USD million) | Gearless | 94 | 84 | 71 | 42 | 28 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 IMPROVING /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 490 ~ 500 | 470 ~ 480 | 470 ~ 480 | 500 ~ 510 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 310 ~ 320 | 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | STABLE / |
 
@@ -221,8 +199,6 @@ ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 IMPROVING /
 | GADDANI, PAKISTAN | 430 | 340 | 490 | 685 | 550 |
 | ALIAGA, TURKEY | 280 | 210 | 255 | 460 | 325 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -235,11 +211,7 @@ ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 IMPROVING /
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
@@ -259,8 +231,6 @@ Chattogram, Bangladesh
 
 The market is currently experiencing a slight downturn, largely due to the anticipation of upcoming EID holidays, causing a noticeable decline in activity. There has been a significant drop in serious offers from recyclers, intensified by ongoing LC issues, reflecting a broader sense of caution in the market. Furthermore, the demand for local steel scrap materials has decreased as steel mills turn to more cost-effective options on the international stage, signaling a shift in sourcing strategies amid global market dynamics.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
 
 This softening phase in the market is expected to continue, with predictions pointing towards a further decline. This outlook is partly due to the recent depreciation of the Bangladeshi Taka, which contrasts with its previous signs of strength. This week marked a notable transaction in the recycling industry as the SInokor's container "Sawasdee Singapore," built in Germany in 1995, was reported sold. The vessel, weighing 7,138 and is equipped with a valuable 31.9-ton bronze propeller, also included approximately 550 metric tons of bunkers in the sale. The ship fetched a gross price of US$600/ ton, a significant figure that represents the first instance in several months of a vessel reaching this price point.
@@ -276,8 +246,6 @@ Anchorage & Beaching Position (April 2024)
 Gadani, Pakistan
 
 As the end of Ramadan nears, followed by the Eid holiday period, the market is witnessing a significant slowdown, similar trends seen in Bangladesh. This week, a marked reluctance among recyclers to complete transactions has been observed, with many opting to wait until after Eid to make any major moves. This cautious approach suggests a temporary halt in activity, with expectations of a rebound once the Eid celebrations conclude. In addition to the seasonal market fluctuations, there are developments on the international financial front concerning Pakistan. The International Monetary Fund (IMF) is on the verge of finalizing the disbursement of the final instalment of Pakistan's US$3 billion program within this month. This follows an agreement reached last month, which paved the way for a crucial $1.1 billion tranche to be unlocked, subject to the approval of the IMF's board. This financial injection is eagerly awaited and is seen as a critical step in stabilising Pakistan's economic situation, with implications for market confidence and activity post-Eid.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -295,8 +263,6 @@ Anchorage & Beaching Position (March 2024)
 | Alang, India | : 06 ~ | 13 April \| 23 ~ 29 | April |  |
 
 ---
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -327,8 +293,6 @@ This week, the global ferrous scrap market experienced varied trends, with Sub-C
 
 US-origin HMS (80:20) bulk scrap prices saw a reduction to US$384/ton CFR, with East Coast prices dropping to US$361/ton FOB. The scrap-to-rebar price gap widened to US$205-206/ton, indicating a shift in market dynamics. The US domestic steel market is poised for a mild uptick in early April, following the end of maintenance shutdowns that could stir buying interest. European scrap collection costs hovered between Euro 310-320/ton.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 In **India,** a subtle rise in demand for imported scrap was noted as buyers explored alternatives amid domestic price hikes and shortages, with one deal reported at approximately US$415/ton CFR for bulk cargo.
@@ -339,15 +303,11 @@ Eid holidays, combined with maintenance shutdowns and rising operational costs l
 
 ## HMS 1/2 & Tangshan Billet
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 ## Commodities
 
 China's prolonged property crisis has led to a significant drop in iron ore prices, with Singapore futures falling 30% from January 2023 highs. Despite signs of recovery in the broader economy, the divergence between manufacturing and the ailing property market is expected to widen as Beijing focuses on new growth drivers in renewable energy and advanced technology. The government's reluctance to provide substantial fiscal stimulus to offset the housing crash, coupled with the absence of the usual spring construction activity, has created uncertainty over the timing of consumption revival. Chinese steelmakers have reported substantial losses, and analysts suggest that the persisting weakness in iron ore prices may signal a structural shift in the market. President Xi Jinping's policies could lead to a diminished role for iron ore and steel compared to metals benefiting from the energy transition. While supply may tighten if high-cost producers shut down, long-term demand concerns persist, with the Australian government expecting a steady decline in prices through 2029. The shift in commodities consumption may result in a structural change in the iron ore and steel markets, contrasting with the expected gains in copper due to its importance in the energy transition. **Copper prices surged to their highest level in** 14 months, fueled by mounting supply concerns and optimism for a global demand revival. The price increase follows the shutdown of several copper mines towards the end of 2023, significantly tightening the concentrate market. As a result, Chinese smelters are signaling potential output reductions due to plummeting treatment charges. Additionally, the threat of further industrial actions in Chile, a key copper supplier, is intensifying supply fears. A recent one-day strike by Chilean power workers, which hampered copper and lithium shipments, may foreshadow more widespread disruptions. Operational challenges are becoming increasingly evident, with Ivanhoe Mines reporting a 6.5% decline in quarterly production at its Kamoa-Kakula mine in the Democratic Republic of Congo. Moreover, Zambia faces hurdles in expanding its mined output due to drought conditions, adding to the supply strain. These developments coincide with encouraging economic indicators from China, suggesting a potential uptick in demand. This confluence of factors is steering the copper market into a period of heightened volatility and scrutiny.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

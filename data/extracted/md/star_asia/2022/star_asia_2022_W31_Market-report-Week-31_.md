@@ -56,8 +56,6 @@ tip, causing delays of up to three days.
 
 The abrupt end to iron ore's five-day advance was ascribed to investors' discontent with China's reluctance to deliver any fresh indications about its ambitions to bolster the country's housing market. Iron ore plummeted more than 5% after rising more than 20% in the previous five days. China is now facing a moral hazard as a result of the pressure it is under to bail out property developers who have previously taken excessive risks. The spot Capesize market has also underperformed market forecasts. The latest market slump has been mostly attributed to China's bleak outlook. Despite the probable reduction in volatility in the dry bulk market, many analysts believe the sector will improve, and total bulk commodities will remain high. The paucity of oil and gas supplies, geopolitical developments, and infrastructural restrictions that influence the whole supply chain all contributed to this optimistic forecast. Government policies are also expected to increase commodity flow.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 #### Capesize:
@@ -98,8 +96,6 @@ Pacific rates slipped to US$ 15,250's region. In the Atlantic, the ECSA and U.S.
 
 struggling, T/A levels fell to US$16,225 a day.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 3
 
 # Dry Bulk - S&P Report
@@ -125,8 +121,6 @@ struggling, T/A levels fell to US$16,225 a day.
 | HANDY | 38,000 | 30 |  | 32 | 28 | 20 | 9 |
 | *(AmountinUSD million) |  |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
 
 # Baltic Exchange Dry Bulk Indices
@@ -151,8 +145,6 @@ DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE % CAPE 180,000 15,75
 | SUPRAMAX | 52,000 | 15,875 | 16,250 | 25,150 | -2.31 | -36.88 |
 | HANDYSIZE | 32,000 | 14,750 | 16,000 | 26,150 | -7.81 | -43.59 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 5
 
 # Tankers
@@ -171,8 +163,6 @@ This week, rates for Aframax fell across the basins due to a lack of interest in
 
 The week ended on a slow note in the Black Sea, with rates falling by 20% as 80,000mt Ceyhan to West Med recorded levels below WS222 due to weak activity and the tight vessels
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 6
 
 in the region. The North Sea, however, saw rates improve with activities picking up. 100,000mt Primorsk to U.K.C. improved to WS220.
@@ -182,8 +172,6 @@ in the region. The North Sea, however, saw rates improve with activities picking
 U.K.C. MR markets were busy this week, with rates rising due to steady enquiries. TC2 saw levels improve to WS350 at closing. U.S.G. markets also reported similar with TC14 climbing to WS369. Activity in the Med was relatively quiet. In the L.R. market, rates remain slightly softer.
 
 # Tankers S&P Report
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 7
 
@@ -202,8 +190,6 @@ commodity costs have resulted in a buildup of stockpiles at ports and warehouses
 along with different geopolitical challenges, have also contributed to increased supply chain
 
 congestion.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 8
 
@@ -227,28 +213,20 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 43 | 55 | 53 | 51 | 47 |
 | 5,500 - 7,000 | Gearless | 85 | 175 | 163 | 135 | N/A |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (W.C. INDIA) | 540 ~ 550 | 520 ~ 530 | 550 ~ 560 | 580 ~ 590 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 620 ~ 630 | 610 ~ 620 | 600 ~ 610 | 630 ~ 640 | IMPROVING / |
+| GADDANI, PAKISTAN | 550 ~ 560 | 540 ~ 550 | 520 ~ 530 | 580 ~ 590 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 300 ~ 310 | 290 ~ 300 | 280 ~ 290 | 300 ~ 310 | STABLE / |
 
-CHATTOGRAM, BANGLADESH 620 ~ 630 610 ~ 620 600 ~ 610 630 ~ 640 IMPROVING /
-
-GADDANI, PAKISTAN 550 ~ 560 540 ~ 550 520 ~ 530 580 ~ 590 STABLE / TURKEY
-
-\*For Non-EU ships. For E.U. 300 ~ 310 290 ~ 300 280 ~ 290 300 ~ 310 STABLE /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
 
 | 5-Year | Recycling | Average (Week 30) | Historical | Prices |
 | --- | --- | --- | --- | --- |
@@ -259,8 +237,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 | CHATTOGRAM, BANGLADESH | 395 | 425 | 380 | 315 | 600 |
 | GADDANI, PAKISTAN | 390 | 415 | 370 | 340 | 580 |
 | ALIAGA, TURKEY | 210 | 270 | 260 | 190 | 290 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 10
 
@@ -278,8 +254,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 
 The price of iron ore fell on Wednesday as the crisis in China's property developers affected the mill profitability of their companies. 62% Fe fines imported into China were changing hands at around US$109 a tonne, a 4.5% decrease. On the other hand, the most-traded September contract on the country's exchange fell 0.8% to close at 786.50 yuan.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 11
 
 The recent gains in iron ore prices have not been enough to boost sentiment in China. New house prices and sales volume in July have declined from the previous month. The mortgage boycott has also raised concerns about the country's housing market. Despite the improving steel margins, concerns about China's decarbonisation strategy and the country's struggling property industry remain. This will likely affect the country's annual steel output. The recovery will be gradual, and there are two risks that could affect it: mortgage boycotts and the rise of lockdowns. China's property crisis is threatening to drag down the steel industry as Beijing is reluctant to spend its way out of real-estate troubles. Domestic demand is vanishing at speed, and industry experts predict tough times ahead. Li Ganpo, the chairman of a steel company in China, lamented that almost a third of the country's steel mills could go bankrupt in the next five years due to the lack of profitability. He said during a private conference in June that the industry was already losing money. Overall, ship recycling markets in the Sub-Continent and Turkey remained stable. With a severe shortage of scrap available as feedstock, the domestic prices were making a decent comeback but domestic issues, especially in Bangladesh and Pakistan, kept the activities subdued. While in the International ferrous scrap markets, the prices saw some decent improvement after dropping in July. July saw a drop of US$60 despite tight supply. August has so far seen a rise of US$30 despite weak demand. The question now is whether the price can surpass the last high of US$410/ton. Traders in Europe and the U.S. believe that the scrap prices will continue to rise next week because of the shortage as the collection has drastically slowed down due to the holiday season.
@@ -287,8 +261,6 @@ The recent gains in iron ore prices have not been enough to boost sentiment in C
 #### ALANG, INDIA
 
 Bulk imported scrap offers in India have dropped significantly in recent deals due to a decline in bookings from other importers, such as Turkey, Bangladesh, and Pakistan. However, the containerised scrap offers jumped after aggressive bookings. Ship prices have not shown any positive move as there are hardly any recycling ships offered to set a market trend. Recyclers remained calm and patiently waiting. This Friday, the Reserve Bank Of India raised the interest rates by 50 basis points to 5.40 percent for the third time since the beginning of the current fiscal year to bring down inflation.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 12
 
@@ -303,8 +275,6 @@ The R.B.I.'s decision to raise the benchmark lending rate by 50 basis points to 
 #### CHATTOGRAM, BANGLADESH
 
 The financial situation in Bangladesh was seen deteriorating, and to this effect, The government of Bangladesh has asked the Asian Development Bank and the World Bank for US$1 billion each to help boost its foreign exchange reserves. The requests came days after the government asked the I.M.F. for a loan to boost its foreign exchange reserves, which are expected to be affected by the effects of the war in Ukraine and the energy price shocks. The country's foreign exchange reserves fell to US$39.4 billion as of July 27, from almost US$46 billion a year earlier. Its trade deficit also widened to a record US$33.3 billion during the last fiscal year. This week the ship recycling prices increased due to a severe shortage of scrap. Domestic ship scrap plates traded at about US$710/ton and melting at US$545/ton, but the critical issue of payments by the end users was still a nightmare for imports. The banks have instructed recyclers to put up 100% margins if they want to establish Letters of Credit that too up to US$3 million. Hence the demand for smaller ships has spiked this week. A classic example of an old sale of a 14,396 tonner Kamsarmax sold in early July for delivery Chattogram is now facing difficulties in obtaining the Letter of Credit. Despite solid demand and willingness of recyclers to buy, banking issues are becoming a significant hurdle and playing a vital role. For the time being, the industry has to settle down with smaller ships to keep the ball rolling until the bank ease the Letters of Credit restrictions.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 13
 
@@ -331,8 +301,6 @@ On Monday, respite came for the Pakistani importers. The Pakistani rupee strengt
 
 The decline in Turkish hot rolled coil prices is expected to continue in August as the country's export markets are limited, and the prices are also impacted by the weakening scrap market.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 14
 
 However, market participants noted that the second half of the month would see an increase in orders. The reluctance of buyers to commit to buying is mainly due to the weak downstream markets. As a result, some processors are shifting their focus to cheaper materials from Asia and Russia. Despite the slight recovery in the value of the Turkish currency over the weekend and last week, the rate remained at record lows. On Monday, the currency was trading at 17.94 per U.S. dollar. This week the NGO platform took the center stage calling on President Macron to take responsibility for the old French aircraft carrier "Sao Paulo", Ex-Clemenceau II which is the sister of the famous aircraft carrier Clemenceau, which the French Government had to call her back after arrival to Alang, India. The warship "Sao Paulo" was on her under tow to Aliaga where it will be scrapped. Environmental groups around the world are denouncing Brazil's export and disposal plans in Turkey as illegal and unsafe. It will be interesting to see how things shape up once the aircraft carrier arrives as so far both the Turkish and Brazilian governments have rebuffed the NGO's and ignored the claims of legal violations. Overall a stable market, similar to the Sub-Continent shortage of scrap situation. Demand was intact at prevailing prices.
@@ -346,8 +314,6 @@ However, market participants noted that the second half of the month would see a
 | Alang, India | : 11th Aug. ~ 14th Aug. \| 27th Aug. ~ 30th Aug. |
 
 ---
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 15
 

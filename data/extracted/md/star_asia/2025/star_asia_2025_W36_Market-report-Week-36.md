@@ -22,8 +22,6 @@ pages: 18
 
 In a notable development with significant global economic implications, a legal challenge to President Donald Trump's sweeping tariffs is being fast-tracked to the US Supreme Court. The request for an expedited review, filed by the Trump administration this past Wednesday, has found an unlikely supporter in the very small businesses that initiated the lawsuit. In a court filing on Friday, the companies stated they endorse the accelerated timeline, citing the "severe economic hardships" they are enduring from price increases and supply chain disruptions caused by the levies. This mutual desire for a swift resolution sets the stage for potential arguments as early as November, which could lead to a definitive ruling on the matter by the end of the year. The urgency from both parties points out the immense financial and geopolitical stakes of the case. A ruling against the administration could have profound consequences, potentially cutting half the current average US tariff rate and compelling the government to refund tens of billions of dollars to importers. Moreover, President Trump has explicitly stated that a loss in court could force him to "unwind" preliminary trade agreements struck with key partners, including the European Union, Japan, and South Korea. The administration's legal team has argued that the lower court's decision has already "jeopardised ongoing foreign negotiations," framing the tariffs as an essential tool for maintaining leverage in international trade talks. At its core, the appeal in Trump v. V.O.S. Selections will test the boundaries of presidential authority under the 1977 International Emergency Economic Powers Act (IEEPA). The administration has relied on a broad interpretation of this law, which was designed to address national emergencies but does not explicitly mention tariffs, to unilaterally impose the duties. However, both the US Court of International Trade and the Court of Appeals for the Federal Circuit have ruled that this action exceeds the powers granted by the statute. The Supreme Court is now tasked with resolving this critical question of executive power, a decision that will shape the landscape of US trade policy for years to come.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Capesize market presented a divided picture this week. In the Pacific, rates
 Panamax/Kamsarmax:
 
 Sentiment in the Panamax was largely positive, driven by strong fundamentals in the Atlantic. The market there saw a sustained rise in rates, supported by a robust inflow of cargo on both T/A and Far East routes. The Pacific, however, struggled to gain momentum. While an influx of grain cargoes from the North prompted some owners to raise their offers or hold in anticipation of higher ones, this prevented a market rebound. Pacific r/v ended the week at US$12,800'S. Supramax/Ultramax: The Atlantic market is on an upward trajectory, largely fueled by a surge in grain cargo fixtures originating from the USG. This performance has managed to overshadow otherwise limited activity in other parts of North and South America. T/A closed at
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ The Handy market saw a mixed week, like the larger counterparts. The Pacific reg
 | HANDY | 38,000 | 30 | 33 | 25 | 17 | 14 |
 | *(amount in USD | million) \| (E) - eco units |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -86,8 +80,6 @@ The Handy market saw a mixed week, like the larger counterparts. The Pacific reg
 | MAUBERT | SMAX | 53,828 | 2008 | CHINA | 10.0 | UNDISCLOSED |
 | MAGNUM ENERGY | SMAX | 53,628 | 2009 | CHINA | 10.5 | CHINESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -105,8 +97,6 @@ In the West Africa market, rates finished the week slightly firmer as Nigeria/UK
 Aframax:
 
 In the MEG, rates fell this week as some short-haul demand shifted to the larger vessel classes. In the North Sea, TD7 fell 10 points to WS130 while in the Med region, Ceyhan/Lavera trip fell to WS130 mark.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -150,11 +140,7 @@ Tankers S&P Report
 | HAFNIA LUPUS | MR | 52,550 | 2012 | CHINA | 20.0 | UNDISCLOSED |
 | HAFNIA ANDROMEDA | MR | 49,999 | 2011 | CHINA | 18.3 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -177,33 +163,18 @@ S&P Containers Report
 |---|---|---|---|---|---|---|
 | HT CAMELLIA | FEEDER | 1,030 | 2007 | SINGAPORE | 9.8 | UAE BASED BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 430 ~ 440 420 ~ 430 410 ~ 420 440 ~ 450 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 400 ~ 410 | 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 400 ~ 410 | 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
 | GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -220,8 +191,6 @@ TURKEY
 | GADDANI, PAKISTAN | 360 | 590 | 550 | 500 | 510 |
 | ALIAGA, TURKEY | 200 | 300 | 300 | 310 | 350 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -232,11 +201,7 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -257,8 +222,6 @@ Chattogram
 
 Bangladesh continued to face headwinds as a prolonged slowdown in the domestic steel sector continues to dampen sentiment.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 Although recyclers have maintained their purchasing price levels for vessels, a sharp drop of US$11 per MT in local scrap prices this week highlights the weakening conditions for finished steel. This lack of demand from end-users is leading a discouraging atmosphere, evidenced by the low price indications being quoted even for smaller tonnage.
@@ -274,8 +237,6 @@ Anchorage & Beaching Position (SEPTEMBER 2025)
 |  |  |  |  |  |
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
 | FORTUNE OCEAN | GENERAL CARGO | 2,261 | 12.08.2025 | AWAITING |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -311,8 +272,6 @@ EXCHANGE RATES
 
 In India, the market for imported scrap remained largely stable but at low levels. Offers for UK-origin HMS 80:20 material was noted in the US$330-335 per ton CFR range, though buyer interest was closer to US$325. The market continues to be affected by weak domestic steel demand and localized disruptions, such as recent flooding in Ludhiana, which has curtailed restocking efforts. A more meaningful increase in buying is not anticipated until the region moves closer to the winter season.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 **Pakistan's market faced similar headwinds, with prices pressured by sluggish finished**
@@ -320,8 +279,6 @@ In India, the market for imported scrap remained largely stable but at low level
 steel sales and ample scrap inventories at the mills. Activity was further constrained by flood-related disruptions and the recent Eid holiday, leading buyers to target lower price levels of around US$370-375 per ton. In Bangladesh, the scrap import market remained under significant pressure, compounded by ongoing political uncertainty and challenges with US dollar availability for transactions. This cautious environment was reflected in a wide bid-ask spread, with offers for UK shredded scrap at US$375 per ton against bids closer to US$360. Local mills are limiting their purchases, navigating both the subdued demand and the challenging economic landscape. The Turkish deep-sea scrap market was also quiet, with prices holding steady dayover-day due to a lack of significant trading. Subdued domestic consumption of finished steel products, particularly rebar, has dampened the appetite for imported scrap. US and Baltic-origin HMS 80:20 was reported in the US$340-345 per ton CFR range. Market sentiment remains weak, as high freight costs from the US and softening domestic rebar prices continue to squeeze margins, leaving importers cautious about the market's nearterm direction.
 
 ## HMS 1/2 & Tangshan
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -336,8 +293,6 @@ steel complex helped lift iron ore futures, with steel benchmarks in Shanghai fo
 **Copper prices slipped over the week, dragged lower by fresh concerns about Chinese**
 
 demand. Sentiment soured after BYD, the world's largest electric vehicle manufacturer, cut its full-year sales target. The automaker now expects to deliver 4.6 million units in 2024, a 16% reduction from its earlier goal of 5.5 million, citing fierce competition in its home market. The downgrade matters because Chinese EV growth has been a crucial driver of demand for copper and other battery metals in recent years. Still, the market's losses were cushioned by persistent supply-side constraints. Chilean state miner Codelco warned that national copper output could stagnate around 5.5 million tonnes annually, as operational challenges weigh on production. The push and pull between softer demand signals and tightening supply left copper trading lower, but with limited downside.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

@@ -26,8 +26,6 @@ The Asia Pacific markets traded lower on Wednesday, with the release of U.S. inf
 
 Iron ore prices dropped at the start of the week due to growing steel inventories and increased portside iron ore inventory, indicating a slow recovery in demand from China. The benchmark 62% Fe fines fell 2.82% to US$122.13 per tonne, the lowest in a month. China's most-traded May iron ore contract fell 2.2% to 841.50 yuan (US$123.23) a tonne. Although new bank loans in China increased, steel mills' profits remained poor, and inventory continued to increase, leading to short-term product price adjustments. Traders await February and March economic data to assess the Chinese economy's health. In the dry bulk market, Capesize rates have dropped to nearly zero due to a lack of cargo flow, particularly from Brazil, as the Atlantic basin is oversupplied. Owners are opting to stay in the Pacific instead of the steep ballasting route, resulting in T.C. rates in the Pacific also reaching multi-year lows. However, futures have begun to price a revival in spot rates, and there are positive indications of a potential recovery in the dry bulk market. The current market weakness is a seasonal phenomenon as market participants are optimistic about the future.
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 ### Capesize:
@@ -45,8 +43,6 @@ The increased uncertainty in the Atlantic due to the earthquake in Turkey is see
 ### Handysize:
 
 The Handy market situation is being bolstered by an increase in supply and demand in major routes, leading to overall positive sentiment. In the Atlantic basin, there has been a notable increase in cargo inflows from North America and a slight improvement in the timeliness of South American ships. T/A levels improved at closing around the region of US$ 7,300's. Meanwhile, in the Pacific, new cargo inflows in the NOPAC region remain limited, but there is a rise in Australia and Indonesia as cargo inflow continues. Inter-Pacific levels fared slightly better from the last closing at US$6,000 a day.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -90,15 +86,11 @@ BALTIC EXCHANGE DRY BULK INDICES
 | BSI | 695 | 628 | 2,325 | -10.67% | -70.11% |
 | BHSI | 438 | 436 | 1,285 | -0.46% | -65.91% |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
 
 ## Tankers
 
 China appears to be making direct moves in Iraq to advance its interests in the country's oil reserves. Iraq's latest Oil Minister, Hayan Abdul Ghani, announced that the country had awarded six oil concessions to three companies from China and the United Arab Emirates. Additionally, PetroChina is expected to become the sole lead operator of Iraq's supergiant West Qurna 1 oil field, taking over from ExxonMobil, which is set to sell its 32.7% stake in the site. Although PetroChina bought a similar stake in the field at around the same time as ExxonMobil, it has gradually become the dominant partner in West Qurna 1 through several under-the-radar deals. The supergiant oil field holds a significant portion of Iraq's 43 billion barrels of recoverable reserves, and Iraq's Oil Ministry plans to boost its crude oil production capacity to more than 700,000 barrels per day by the end of 2025. These deals and projects demonstrate China's careful operational methods to accrete power across Iraq and Iran. Meanwhile, China's state-held refiners, PetroChina and Sinopec, have resumed purchasing Russia's Urals crude after a brief hiatus during the E.U. embargo and the G7 price cap on Russian crude. The refiners are buying Urals crude at deep discounts via trading companies without breaching the sanctions. The resumption of trading is beneficial for Chinese refiners, as
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 5
 
@@ -119,8 +111,6 @@ The aftermath of the earthquake in Turkey has led to a decrease in cargo inflow,
 ### Clean:
 
 Throughout the week, rates for M.R. vessels on the USG-UKC route increased slightly due to tight prompt supply. TC17 improved, jumping to around WS387. The LR1 market remained stable, with TC16 climbing to WS212. LR2 rates, on the other hand, were boosted by strong demand in the East following a surge of activity in the Med and Red Sea.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -167,8 +157,6 @@ HAFNIA COLUMBIA / LR1 76,604 2007 CHINA 22.80 EACH UNDISCLOSED HAFNIA KRONBORG S
 | 1,261 | 1,206 | 699 | +4.56% | +80.40% |
 | 1,084 | 875 | 687 | +23.89% | +57.79% |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 7
 
 | TYPE | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) DWT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) CURRENT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST WEEK | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST YEAR | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) W-O-W CHANGE | Y-O-Y CHANGE |
@@ -182,8 +170,6 @@ HAFNIA COLUMBIA / LR1 76,604 2007 CHINA 22.80 EACH UNDISCLOSED HAFNIA KRONBORG S
 ## Containers
 
 The number of scrapped container ships has doubled in 2023 compared to the whole of last year, with liners and tonnage providers looking to reduce their fleets due to falling rates and an uncertain outlook for the global economy. Fifteen box ships have already been sent for recycling so far this year, with January seeing the busiest month for container demolition sales since July 2020. However, there needs to be a further increase in the pace of scrapping to make a material difference to the overall fleet numbers. Containerships aged 20 years or more represent 23% of the fleet, providing plenty of demolition candidates.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 8
 
@@ -202,30 +188,21 @@ The number of scrapped container ships has doubled in 2023 compared to the whole
 | 5,500 - 7,000 | Gearless |  | 87 | 85 | 70 | 45 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |  |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
 | DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
 |---|---|---|---|---|---|
-| ALANG (WC INDIA) |  |  | CARGO |  | TREND |
 | *For green ship recycling, the prices are about | 530 ~ 540 | 520 ~ 530 | 510 ~ 520 | 540 ~ 550 | WEAK / |
+| CHATTOGRAM, BANGLADESH | \*550 ~ 560 | \*540 ~ 550 | \*530 ~ 540 | \*590 ~ 600 | STABLE / |
+| GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-US$25-30/ton lower.
-
-CHATTOGRAM, \*550 ~ 560 \*540 ~ 550 \*530 ~ 540 \*590 ~ 600 STABLE / BANGLADESH
-
-GADDANI, PAKISTAN NA NA NA NA NA
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-Ship, the prices are about US$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ### 5-Year Ship Recycling Average Historical Prices
 
@@ -239,8 +216,6 @@ GADDANI, PAKISTAN 420 420 370 410 610
 ALIAGA, TURKEY 290 270 240 245 340
 ```
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 10
 
 ### VESSEL NAME
@@ -248,8 +223,6 @@ ALIAGA, TURKEY 290 270 240 245 340
 SEAPEAK ARCTIC
 
 XIUMEI SHANGHAI OEL SHRAVAN TANTO SENTOSA MSC GIOVANNA DA QING 349 SEA WIN HANG JUN 12
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Ships Sold for Recycling
 
@@ -276,8 +249,6 @@ Overall domestic ship scrap prices remained volatile in the weekly trading sessi
 **ALANG, INDIA.**
 
 The markets have started to develop cracks as bullish sentiments wane in the backdrop of the slowing down of demand for semi-finished and finished products. The Indian export market has taken a big hit due to the slowing down of European markets, and domestic demand is not enough to boost the sentiments. A vast majority of secondary steel mills are running on an average 60% capacity, a classic reflection of weak steel demand. Europe is the largest importer of steel products from India, which has been hardest hit due to the economic consequences of the war in Ukraine. As the week progressed, the recyclers shifted to fundamentals and turned cautious. Offers were seen at lower levels moving the attention to demand and supply, which now seems to be getting balanced off with a large number of ships being sold and several in discussions. This week the Indian Steel Association red-flagged an issue of rising imports and declining exports. India remains a net importer of steel between October 2022 and January 2023 (imports exceed export), as per Steel Ministry data.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 12
 
@@ -309,8 +280,6 @@ The overall economic situation remains unchanged, with the output of the steel a
 
 Domestic ship scrap prices started on a weak note and settled by the close of the week at US$728/ton for ship plates and US$650/ton for ship melting scrap. Overall, ship recycling markets remained stable with demand intact.
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 13
 
 ### Anchorage & Beaching Position (February 2023)
@@ -338,8 +307,6 @@ Pakistani recycling markets will take longer than expected to resume buying. Las
 In the latest move, the government has banned all but essential food and medical imports until a deal is reached with IMF.
 
 Senior analysts at Moody's believe that inflation in Pakistan could average 33% in the first half of 2023 and IMF bailout alone is not going to put the economy back on track.There is no overnight fix to the ongoing saga.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 14
 

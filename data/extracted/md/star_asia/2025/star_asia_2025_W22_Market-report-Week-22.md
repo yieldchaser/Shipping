@@ -22,8 +22,6 @@ WEEK 22 - May 30, 2025
 
 President Donald Trump's ambitious tariff strategy, designed as powerful leverage to extract trade concessions from countries worldwide, has suffered a major setback following this week's US Court of International Trade ruling that effectively invalidated the bulk of his second-term tariffs. While a US appeals court has temporarily stayed the decision, the initial ruling has already sent a clear message globally that Trump's tariff threats may now carry significantly less weight than previously feared. The court's determination that Trump exceeded his authority by using emergency powers to impose sweeping tariffs has fundamentally undermined the credibility of his negotiating position, as trade partners now question his ability to follow through on economic threats. The legal challenges have immediately injected fresh uncertainty into ongoing trade negotiations, with foreign governments showing signs of emboldened resistance to US demands. India has reportedly decided to insist that the US abandon all reciprocal tariffs, including Trump's proposed 10% baseline, while also pushing back on rules of origin requirements in a notably toughened negotiating stance. Japan's chief trade negotiator acknowledged the ruling will influence upcoming talks, while European leaders express cautious optimism about finding agreements but emphasize the need for clarity on legal frameworks. As James Lucier of Capital Alpha Partners observed, foreign governments now feel "under no pressure to do anything before July 9," effectively neutralizing Trump's self-imposed deadline for securing trade deals. Despite the setbacks, the Trump administration continues to project confidence while internally searching for new legal authorities to reimpose tariffs. The administration has warned that the court ruling jeopardizes negotiations with dozens of countries by constraining presidential leverage, while simultaneously arguing that trade partners will continue negotiating in good faith because they expect the ruling to be overturned on appeal. However, analysts note that even if new tariffs are imposed under different statutory authorities, they will face legal scrutiny and require complicated, timeconsuming investigations. This legal uncertainty has effectively stripped the July 9 deadline of its force and limited Trump's ability to threaten major escalations, representing a significant blow to a president who has built his reputation as the nation's premier dealmaker.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ The Pacific market demonstrated strong momentum this week as steady iron ore car
 Panamax/Kamsarmax:
 
 Atlantic coal markets declined amid reduced market participation due to European holidays, accumulated vessel supply, and aggressive low bidding from charterers. T/A fell to US$8,750's a day. Pacific rates faced downward pressure as both East Australian and Indonesian cargo flows decreased while vessel availability simultaneously increased, creating unfavourable supply-demand dynamics.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ Handy market saw a week of mixed markets with Atlantic faring slightly lower at 
 | HANDY | 38,000 | 31 | 33 | 25 | 17 | 14 |
 | *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -83,8 +77,6 @@ Handy market saw a week of mixed markets with Atlantic faring slightly lower at 
 | NZ HANGZHOU | SMAX | 56,709 | 2012 | CHINA | 12.0 | CHINESE BUYERS |
 | IVY ALLIANCE | SMAX | 55,886 | 2011 | JAPAN | 15.5 | VIETNAMESE BUYERS |
 | VEGA DABLAM | HANDY | 35,112 | 2011 | CHINA | 8.5 | UNDISCLOSED |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -104,8 +96,6 @@ Aframax:
 
 MEG remained firmly in charterers' favor throughout the week as regional cargo demand stagnated and ballasters arrivals from underperforming South Asian markets increased available supply. In the Med, 80,000mt Ceyhan/Lavera fell to WS119.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Clean:
@@ -117,8 +107,6 @@ INDICES BDTI BCTI
 TYPE VLCC SUEZMAX AFRAMAX LR1 MR
 
 VESSEL NAME CHEMTRANS ADRIATIC GLENDA MELODY WORLD NAVIGATOR PELAGIC TARPON
-
-## Shipbroking (www.star-asia.com.sg)
 
 # Baltic Exchange Tanker Indices
 
@@ -148,8 +136,6 @@ Tankers S&P Report
 
 ## Page 7
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 # Containers
@@ -176,29 +162,18 @@ Container freight rates experienced dramatic increases this week, with the Trans
 | SLS AZURE | FEEDER | 1,740 | 2000 | CHINA | 9.2 | UNDISCLOSED |  |
 | SHUI SPIRIT | FEEDER | 1,679 | 2000 | S. KOREA | 8.0 | EUROPEAN | BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 450 ~ 460 430 ~ 440 430 ~ 440 470 ~ 480 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 450 ~ 460 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE/ |
-
-TURKEY
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 450 ~ 460 | 430 ~ 440 | 430 ~ 440 | 470 ~ 480 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 450 ~ 460 | 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE/ |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -215,8 +190,6 @@ TURKEY
 | GADDANI, PAKISTAN | 270 | 530 | 650 | - | 520 |
 | ALIAGA, TURKEY | 180 | 250 | 330 | 320 | 350 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -228,19 +201,13 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights
 
 The Hong Kong Convention for ship recycling officially begins enforcement on June 26, 2025, across all three major recycling destinations. This represents a pivotal moment for the global shipping industry as new mandatory requirements take effect, with all ship recycling operations having to take place exclusively at facilities holding a valid Document of Authorisation to conduct Ship Recycling certification. The implementation represents the most significant regulatory transformation in ship recycling practices in recent years. At the same time, the five-year implementation window provides adequate adaptation time, early compliance positions operators advantageously in an increasingly regulated maritime environment. New ships must also comply immediately with IHM Part I requirements upon the Convention's entry into force. Existing vessels have a five-year compliance window extending until June 26, 2030, though they must comply before proceeding to recycle if that occurs earlier.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -276,8 +243,6 @@ Anchorage & Beaching Position (May 2025)
 | FIRST 1 | WOOD CHIP | 7,951 | `15.05.2025 | 19.05.2025 |
 | VISTAR | BULKER | 10,693 | 13.05.2025 | 17.05.2025 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 | WOODS | WOODCHIP | 9,462 | 08.05.2025 | 15.05.2025 |
@@ -301,23 +266,17 @@ Chattogram, Bangladesh : 11 ~14 June | 24 ~ 27 June Alang, India : 09 ~17 June |
 
 ---
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
 
 INDIA Imported scrap market remained under pressure this week as sluggish steel demand, compressed margins, and mills' growing preference for sponge iron and pellets continued to weigh on trading activity. Mills demonstrated pronounced caution, favouring short-transit cargoes amid mounting monsoon uncertainties that typically disrupt logistics and construction activity. Shredded scrap offers from UK and European origins held steady around US$370-375 per ton CFR, though buyer bids remained consistently lower at US$360-365 per ton, while HMS 80:20 material was offered at US$345-350 per ton CFR with bids near US$340-345 per ton. BANGLADESH Bangladesh's imported scrap market faced mounting pressure as mills maintained cautious positions amid an Eid-related slowdown, ongoing letter of credit difficulties, and escalating freight costs that further complicated procurement decisions. Australian HMS 80:20 was offered at US$355-360 per ton CFR Chattogram, with HMS 1 commanding US$365-367 per ton CFR, shredded scrap at US$375-380 per ton CFR, and busheling reaching US$385-390 per ton CFR. Domestic scrap prices ranged between BDT 53,000- 55,000 per ton, while finished rebar prices declined to BDT 82,000-83,000 per ton in Dhaka and BDT 84,000-86,000 per ton in Chattogram, reflecting subdued construction activity and weakening demand fundamentals that are expected to persist through mid-
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 June. PAKISTAN The scrap market exhibited similar weakness as high freight costs, tepid steel demand, and the approaching Eid holidays combined to suppress trading activity significantly. Mills showed pronounced hesitation in booking cargoes, resulting in minimal buying interest across all material grades and origins. UK and EU-origin shredded scrap offers ranged between US$380-385 per ton CFR Port Qasim, while bids remained slightly lower around US$380-382 per ton, contributing to exceptionally thin trade volumes. Shipping surcharges prompted some cargoes to divert toward India, though persistently low Indian prices suggested these shipments might eventually return to Pakistani ports as sellers sought better pricing opportunities. TURKEY Turkey's imported scrap market softened moderately as ample supply conditions overwhelmed persistently weak demand, leading to reduced buying interest and lower bid levels across major material categories. Indicative values remained at or below US$347 per ton CFR, with bids heard at US$340 per ton CFR for US-origin material and declining to US$335 per ton CFR for EU-origin scrap. Despite downward pricing pressure, sellers maintained relatively firm positions, particularly for EU-origin material around US$342 per ton CFR, though buyers remained largely inactive, citing oversupply conditions and current price levels as commercially unworkable. Market sentiment turned increasingly cautious with bearish undertones strengthening as participants anticipated further weakness ahead.
 
 # HMS 1/2 & Tangshan
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -334,8 +293,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 97 | -4.9% | -18.48% | 102 | 119 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 95 | -5.94% | -22.13% | 101 | 122 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

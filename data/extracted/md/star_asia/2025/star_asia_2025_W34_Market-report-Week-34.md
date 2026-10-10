@@ -22,8 +22,6 @@ pages: 19
 
 The shipping industry is now signalling that maritime security concerns in the Red Sea will likely disrupt trade for an extended period. Chief executive of Hapag-Lloyd projects that the rerouting of vessels away from the Suez Canal and around Africa is expected to continue past the end of this year and potentially into 2026. This opinion is also shared by Maersk, suggesting that the current, longer trade routes between Asia and the West will remain the standard for the foreseeable future. While Hapag-Lloyd's chief acknowledged a turbulent year influenced by global tariff policies, he noted that overall container volumes have remained healthy. He also pointed to a short-term surge in business as companies prepare for China's Golden Week holiday in October, an uptick that defied earlier, more subdued forecasts. Despite this brief burst of activity, Hapag-Lloyd has adjusted its 2025 earnings forecast downward, citing the prevailing geopolitical unpredictability and volatile freight costs that are causing many clients to delay long-term decisions. Other major carriers, such as Orient Overseas International Ltd., have reported considerable fluctuations in transpacific shipping rates as policy uncertainties prompt a cautious approach from customers. A large consequence of this has been a turn towards more regional commerce, evidenced by robust growth in intra-Asia and Australasia trade. While major longhaul vessels are reported to be operating at near-full capacity for now, the sector faces further headwinds, including the potential financial impact of new port levies that could further muddy market dynamics.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -41,8 +39,6 @@ In the Pacific, rates saw an increase driven by spot cargoes that have been secu
 Handysize:
 
 The Handy market saw another positive week, buoyed by demand in the Pacific. Inter Pacific fared well with rates closing at US$11,250's a day. In the Atlantic, tight vessel availability lends support to rates with T/A ending the week around US$11,500's range.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -81,11 +77,7 @@ The Handy market saw another positive week, buoyed by demand in the Pacific. Int
 | MYSTRAS | SMAX | 57,300 | 2013 | CHINA | 15.5 | MIDDLE EASTERN BUYERS |
 | ROSTRUM ASIA | HANDY | 40,003 | 2021 | CHINA | 25.0 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -104,8 +96,6 @@ WAFR rates rebounded at closing, driven by an uptick in chartering activity amid
 Aframax:
 
 MEG ended the week on a firmer note as an increase in fixtures destined for South Asia and Australia reduced the number of ballast vessels to the region. In the Mediterranean region, however, 80,000mt Ceyhan/Lavera fell 6 points to WS140.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -144,11 +134,7 @@ Tankers S&P Report
 |---|---|---|---|---|---|---|
 | CLARICE | PROD / CHEM | 25,926 | 2014 | JAPAN | 29.5 | UNDISCLOSED (STST) |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -171,29 +157,18 @@ S&P Containers Report
 |---|---|---|---|---|---|---|
 | ATLANTIC WEST / ATLANTIC SILVER | FEEDER | 1,345 | 2008 | CHINA | 17.0 EACH | FRENCH BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 430 ~ 440 420 ~ 430 410 ~ 420 440 ~ 450 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 400 ~ 410 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
-
-TURKEY
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 400 ~ 410 | 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -210,8 +185,6 @@ TURKEY
 | GADDANI, PAKISTAN | 360 | 590 | 550 | 500 | 510 |
 | ALIAGA, TURKEY | 200 | 300 | 300 | 310 | 350 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -222,19 +195,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 The Alang ship recycling market remained stable this week, with a gradual flow of vessels heading toward Alang. The Indian hub continues to stand out as the only viable option for end-of-life tonnage, given its balanced pricing and steady demand. Recyclers noted that several vessels are being lined up for negotiations in the coming weeks, with particular attention on the larger LNG segment. Market observers are looking closely to see how pricing levels and competition unfold for these units. On the domestic front, ship scrap prices held steady, supported by an uptick in demand as the monsoon season nears its end. Looking ahead, September is expected to bring the traditional pre-Diwali buying cycle, as steel demand typically strengthens with the launch of new infrastructure and construction projects during this period.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -262,8 +229,6 @@ Anchorage & Beaching Position (AUGUST 2025)
 | WOND | TANKER | 2,229 | 03.08.2025 | 13.08.2025 |
 | LEONID | TANKER | 13,605 | 28.07.2025 | 09.08.2025 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Gadani
@@ -283,8 +248,6 @@ Anchorage & Beaching Position (AUGUST 2025)
 Aliaga, Turkey
 
 The Turkish Lira slipped further this week, easing by 32 basis points to close at TRY 40.90 against the U.S. dollar, hovering precariously near the TRY 41 mark. On the macro front, however, the government's policy measures appear to be yielding results. Inflation, which stood at nearly 61.8% in July 2024, has fallen sharply to around 33.5% a year later. While this easing has offered much-needed relief to households and helped shift public attention away from the currency's volatility, the impact on the ship recycling market in Aliaga has been more severe. Local recyclers report that offerings are expected to soften further in the coming weeks, leaving the market short of workable tonnage. For now, activity remains muted, and tough times continue with little on the lot available for buyers.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -317,15 +280,11 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 The Sub-Continent imported scrap markets held broadly stable this week, though trading activity remained muted as weak finished steel demand and seasonal rains continued to dampen construction. Mills across India, Pakistan, and Bangladesh adopted a cautious approach to fresh bookings, while Turkey's market held steady with limited appetite. India's imported scrap market was subdued, with containerised shredded scrap trading at US$360-365/ton CFR Nhava Sheva. Demand remained under pressure as recent holidays slowed construction and weighed on steel consumption, keeping mills on the sidelines.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Pakistan's scrap market showed little movement, with shredded offers steady at US$380/ton CFR. Buyers remained hesitant, while UAE-based suppliers refrained from aggressive selling. Heavy rains further disrupted construction and trading, prolonging the market's quiet tone. Bangladesh's market stayed weak as mills avoided new commitments. Offers were reported at US$372/ton CFR for PNS, US$370-374/ton CFR for shredded from Australia, US$385/ton CFR for Hong Kong-origin PNS, and US$390/ton CFR for Malaysian busheling. Persistent rains and sluggish finished steel demand weighed heavily on sentiment. Turkey's deep-sea scrap market was largely stable, with premium HMS 80:20 at US$345- 348/t CFR and EU-origin cargoes slightly lower at US$342-344/t CFR. Attempts by suppliers to lift prices, citing higher collection costs, freight, and euro/dollar fluctuations, met resistance as mills delayed September cargo bookings. Domestic and export finished steel demand remained weak, leaving mills in no rush to re-enter the market. Demand recovery may emerge in September if finished steel sales show improvement, but for now, the summer holiday season is expected to keep trading activity subdued. Market participants remain cautious, with little expectation of a near-term pick up until post-holiday demand patterns become clearer.
 
 ## HMS 1/2 & Tangshan
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -339,8 +298,6 @@ Iron Ore
 |---|---|---|---|---|---|---|
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 101 | -1.94% | +3.06% | 103 | 98 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 96 | -2.04% | -4.95% | 98 | 101 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

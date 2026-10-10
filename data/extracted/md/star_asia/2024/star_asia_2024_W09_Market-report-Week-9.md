@@ -22,8 +22,6 @@ pages: 19
 
 This week, India has solidified its status as the world's fastest-growing economy, according to IMF Executive Director Krishnamurthy Subramanian, following a third-quarter GDP growth that surpassed expectations. The economy expanded by 8.4% in the last quarter, marking the quickest growth rate in six quarters, driven by robust private consumption and vigorous activity in manufacturing and construction, significantly outdoing the anticipated 6.6% growth. This performance has led the Indian government to revise its growth forecast for the fiscal year 2023-24 to 7.6% from an earlier projection of 7.3%. Subramanian highlighted the government's increased focus on capital expenditure as a key growth driver, a trend supported by the recent interim budget. This budget anticipates a fiscal deficit reduction to 5.1% by 2025 and projects an 11.1% increase in capital expenditure to 11.11 trillion Indian rupees for the fiscal year 2025. With the upcoming general elections, this growth narrative is expected to bolster Prime Minister Narendra Modi's economic credentials, while the Reserve Bank of India is likely to maintain its interest rate at 6.5% in response to the strong growth momentum. Meanwhile, in the U.S., in the latest economic developments, hopes for a reduction in interest rates by the U.S. Federal Reserve were quashed following recent inflation data. January saw the Fed's key inflation measure climb at its quickest rate in nearly a year, complicating efforts to temper inflation amid a strong job market, solid economic growth, and a durable US consumer base. This acceleration underscores the Fed's consistent message: a cautious approach to rate cuts is necessary to avoid reigniting inflationary pressures. This cautious stance is mirrored in Europe and other regions, where inflation also decelerated less than expected, prompting similar caution among policymakers. Despite these challenges, it's crucial to acknowledge the economic obstacles surmounted and those still faced, from the pandemic to geopolitical tensions. Global central banks have aimed to manage inflation through rate increases, carefully balancing the risk of recession. At this week's G20 meeting, finance leaders noted a rising possibility of a "soft landing" for the global economy, buoyed by US economic strength and fiscal stimulus in China. However, concerns over potential deflation and escalating conflicts in the Middle East highlight the lingering uncertainties in the global economic landscape.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The potential constraints on the shipment volume of iron ore have eased, contrib
 Panamax/Kamsarmax:
 
 In China, industrial activity resumed after the holiday, leading to an increase in domestic coal demand. This led to prices for domestic coal to rise, prompting Chinese buyers to continue purchasing cheaper Indonesian coal steadily. S. China/Indonesia trips continued to average higher at USD14,900's a day. In Europe, the contraction in coal shipments persisted due to milder winter weather compared to the previous year. Some European coal importers are attempting to resell coal to Asian markets at lower prices than the initial import prices.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ The Atlantic is experiencing a deepening supply imbalance due to sustained weak 
 | HANDY | 38,000 | 30 | 34 | 27 | 20 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Bulker 12 months T/C rates average (in USD/day)
@@ -90,8 +84,6 @@ The Atlantic is experiencing a deepening supply imbalance due to sustained weak 
 | SSI | AVENGER | SMAX | 52,949 | 2004 | JAPAN | 10.5 | UNDISCLOSED |
 | LUCKY | GLORY | HANDY | 32,256 | 2007 | JAPAN | 10.5 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -105,8 +97,6 @@ Due to the overheated conditions in the Middle East, demand has sharply declined
 Suezmax:
 
 Overall, stagnation in demand has led to an increase in available vessels, and despite the diversion of routes from the Middle East to Europe, the decline in demand from the Gulf of Mexico and Africa has expanded, resulting in a slight upward trend in the East.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -141,8 +131,6 @@ Y-O-Y CHANGE -22.79% +28.52%
 | MR | 51,000 | 48 | 53 | 45 | 38 | 26 |
 | *(amount in USD million) |  |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tanker 12 months T/C rates average (in USD/day)
@@ -157,8 +145,6 @@ Y-O-Y CHANGE -22.79% +28.52%
 
 Tankers S&P Report
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -171,8 +157,6 @@ Despite ongoing disruptions in the Red Sea, the containership charter market is 
 |---|---|---|---|---|---|---|
 | YM WISDOM | SPP | 14,220 | 2019 | JAPAN | N/A | YANG MING |
 | JACK LONDON / JONATHAN SWIFT | PMAX | 4,249 | 2010 | CHINA | 17.6 EN BLOC | GERMAN BUYERS |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 9
 
@@ -188,22 +172,14 @@ Despite ongoing disruptions in the Red Sea, the containership charter market is 
 | 5,100 | Gearless | 94 | 81 | 68 | 38 | 25 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 490 ~ 500 | 470 ~ 480 | 470 ~ 480 | 500 ~ 510 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
 | GADDANI, PAKISTAN TURKEY | 530 ~ 540 | 520 ~ 530 | 510 ~ 520 | 540 ~ 550 | STABLE / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
@@ -222,8 +198,6 @@ ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 WEAK /
 | GADDANI, PAKISTAN | 420 | 360 | 460 | 640 | 535 |
 | ALIAGA, TURKEY | 280 | 240 | 255 | 380 | 325 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -241,21 +215,15 @@ ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 WEAK /
 | KELSIE | 3,535 | 1994 / BELGIUM | TANKER | 865 | AS IS BATAM, INDONESIA / WITH ABOUT 350 SOLID 316 L GRADE STAINLESS STEEL CONTENT |
 | ISL STAR | 10,177 | 1999 / JAPAN | BULKER | 525 | DELIVERED GADDANI |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
 ## Recycling Ships Price Trend
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 ## Insight
 
 The ship recycling markets are beginning to react to the recent worldwide drop in ferrous scrap prices across major markets, with diminishing demand throughout the Sub- Continent significantly influencing market sentiment. Amidst this backdrop, ship recyclers have adopted a notably cautious approach in their offerings despite the constrained supply of vessels available for recycling. This heightened sense of caution comes at a time when the industry is already anticipating a traditional slowdown in activity in the coming month due to the commencement of Ramadan, particularly affecting markets in Pakistan and Bangladesh. The holy month often sees a reduction in operational pace as daily routines and working hours are adjusted to accommodate fasting and religious observances, impacting the overall market activities. The ship recycling industry is witnessing a notable improvement in supply of ships, particularly from Chinese, driven by the significant price disparities between Chinese and Bangladeshi ship recycling markets. This trend has led to a surge of domestic Chinese vessels entering the recycling stream, sustaining the momentum of recycling activities.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -275,8 +243,6 @@ Chattogram, Bangladesh
 
 The current buoyancy in the Chattogram ship recycling market is at risk as an easing of ship supply looms and an influx of vessels, particularly from Chinese owners, introduces a new layer of volatility. Recent transactions have built up considerable inventories at recycling yards, indicating that any abrupt shifts in supply could precipitate a sharp decline in prices.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Moreover, the market is poised for a period of decreased activity beginning March 10, coinciding with the start of Ramadan, traditionally a time when operations slow down.
@@ -284,8 +250,6 @@ Moreover, the market is poised for a period of decreased activity beginning Marc
 Aliaga, Turkey
 
 Activity in Turkey's scrap market remains stagnant, with subdued steel sales preventing Turkish mills from committing to large scrap cargoes. As of this week, no new scrap bookings have been reported. Despite ample availability from numerous suppliers across regions, Turkish mills are hesitant to make bids, showing little interest even in short-sea scrap. The sluggish activity in the scrap market has led to a stalemate in steel markets as steel buyers pause purchases. Some suppliers believe that once Turkey resumes steel sales, mills will return to the scrap market. However, others think that scrap purchases will trigger steel sales as buyers wait for scrap prices to stabilise.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -298,8 +262,6 @@ Overall, the market is facing downward pressure on scrap prices due to increased
 Sub-Continent and Turkey ferrous scrap markets insight
 
 This week, the ferrous scrap market in South Asia experienced a decline in prices, with Indian buyers exercising caution and markets in Pakistan and Bangladesh showing more activity due to the demand surrounding Ramadan. Prices for shredded scrap fell by USD3-6/ton across the region, while US bulk HMS (80:20) offers to Turkey stayed the same.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -314,8 +276,6 @@ imported scrap at discounted rates, preparing for Ramadan. Offers for shredded s
 peak construction season post-Ramadan, increased their procurement of deep-sea scrap. This strategic stockpiling aims to satisfy immediate needs and upcoming high demand. Bulk deals from the US West Coast were reported at USD410 /ton CFR, with April deliveries in focus to meet the expected rise in steel demand. Challenges in securing letters of credit persist, affecting the sector's efficiency. In Turkey, the prices of imported ferrous scrap remained steady at USD 395 /ton CFR amid cautious trading. Slow rebar sales and difficulties in obtaining scrap at lower prices contributed to the market's uncertainty. The outlook for European prices was unclear, with expectations of local drops in US domestic scrap prices and slight decreases in export grades due to solid demand from rebar mills. The market is watching closely, with some traders predicting a possible decrease in Turkish scrap prices to USD385 /ton CFR in the near future, though the exact direction remains to be seen.
 
 ## HMS 1/2 & Tangshan Billet
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

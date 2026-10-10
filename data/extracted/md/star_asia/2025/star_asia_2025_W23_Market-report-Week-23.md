@@ -22,8 +22,6 @@ WEEK 23 - June 6, 2025
 
 Asian markets displayed cautious optimism following Thursday's 90-minute phone call between U.S. President Donald Trump and Chinese President Xi Jinping, with both leaders agreeing that officials will meet soon to continue trade war negotiations. Trump described the conversation as "very good" and said it yielded a "very positive conclusion for both countries," focusing almost entirely on trade issues. Japan's Nikkei 225 rose 0.5% to close at 37,741.61, while Australia's ASX 200 slipped 0.27% and Hong Kong's Hang Seng declined 0.51%, with mainland China's CSI 300 finishing flat. India emerged as the session's standout performer, with the Nifty 50 climbing 0.96% after the country's central bank delivered a larger-than-expected interest rate cut, reducing the benchmark policy rate to 5.5% from 6%. This marked the third consecutive rate reduction since February and came below the median forecast of 5.75% in a Reuters poll, providing additional stimulus to the economy and boosting investor sentiment across Indian equities. Market analysts remain cautiously optimistic about the trade developments while warning that tensions will persist. Luke Yeaman, chief economist at Commonwealth Bank, noted that the U.S.-China agreement to de-escalate tensions shows both countries have reached an economic "pain threshold," though he cautioned that more bouts of escalation remain possible as both nations continue pushing for greater economic independence. U.S. futures traded calmly ahead of key jobs data, while overnight trading saw the major American indices close lower, with the S&P 500 dropping 0.53% and the Nasdaq falling 0.83%.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ The Pacific continues its upward trajectory, supported by robust iron ore cargo 
 Panamax/Kamsarmax:
 
 The Atlantic has experienced a notable rebound driven by shipowners' strong resistance to charterers' low-ball bidding strategies. This pushback from vessel operators against low offers has created upward pressure on freight levels. T/A ended the week at US$8,500's a day. In the Pacific, rates have continued their upward climb despite mixed conditions in the Indonesian market, with solid new cargo flows from Australia providing the primary catalyst for rate improvements.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ The Handy segment did not fare as well as the bigger counterparts with rates acr
 | HANDY | 38,000 | 31 | 33 | 25 | 17 | 14 |
 | *(amount in USD | million) \| (E) - eco units |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -85,8 +79,6 @@ The Handy segment did not fare as well as the bigger counterparts with rates acr
 | DL OLIVE / DL LAVENDER | HANDY | 35,194 | 2013 | S. KOREA | 27.0 EN BLOC | UNDISCLOSED |
 | ARKI | HANDY | 30,270 | 2011 | JAPAN | 10.2 | VIETNAMESE BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -100,8 +92,6 @@ VLCC market in the Middle East experienced a continued softening in demand. This
 Suezmax:
 
 The Suezmax market in West Africa concluded with an upward momentum. This was primarily driven by a surge in owner asking prices, influenced by robust activity in the USG. 130,000mt Nigeria/UKC climbed 9 points to WS89. Given the current supply constraints, this momentum is expected to continue.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -121,8 +111,6 @@ inflows. In the MEG, rates fell slightly with over supply vessels as trips to E.
 
 # Baltic Exchange Tanker Indices
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 # Tankers S&P Report
@@ -133,8 +121,6 @@ inflows. In the MEG, rates fell slightly with over supply vessels as trips to E.
 | CLEAROCEAN MARIA | MR | 49,999 | 2014 | S. KOREA | 29.5 | UNDISCLOSED |
 | CLEAROCEAN MARY | MR | 49,999 | 2014 | S. KOREA | 29.5 | UNDISCLOSED |
 | NORD JOY / NORD JEWEL | MR | 49,874 | 2018 | JAPAN | 74.0 | UNDISCLOSED |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -160,33 +146,18 @@ The container segment is in for an extended uncertainty rather than a quick reso
 | MARCOS V | POST PMAX | 6,350 | 2005 | JAPAN | 50.0 | UNDISCLOSED |  |
 | H MERCURY | FEEDER | 1,781 | 2022 | CHINA | 34.5 | EUROPEAN | BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 450 ~ 460 430 ~ 440 430 ~ 440 470 ~ 480 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 450 ~ 460 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE/ |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 450 ~ 460 | 430 ~ 440 | 430 ~ 440 | 470 ~ 480 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 450 ~ 460 | 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE/ |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -203,8 +174,6 @@ TURKEY
 | GADDANI, PAKISTAN | 300 | 540 | 560 | - | 520 |
 | ALIAGA, TURKEY | 170 | 300 | 310 | 320 | 360 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -216,19 +185,13 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights
 
 This week, Ocean Network Express (ONE), the Japanese container shipping company formed in 2017 through the merger of NYK, MOL, and K Line, has become a signatory to the Ship Recycling Transparency Initiative (SRTI). Headquartered in Tokyo with global operations in Singapore, ONE's move reinforces its commitment to sustainable ship recycling ahead of the Hong Kong Convention's enforcement on 26 June 2025. As part of its formal Ship Recycling Policy, ONE has pledged to dismantle all owned vessels exclusively at certified facilities aligned with international standards, prioritising safety, environmental protection, and regulatory compliance. "The development of our Ship Recycling Policy and SRTI participation marks a meaningful step in our 'Clean Ship Recycling' initiative," said Michimasa Noda, SVP, Sustainability at ONE. This aligns with ONE's broader Green Strategy and supports rising industry expectations around end-of-life transparency. The company joins a growing group of owners raising the bar for sustainable practices across global shipping.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -250,8 +213,6 @@ Chattogram
 
 The Bangladeshi ship recycling market has ground to a halt for non-HKC-compliant yards, as the long-awaited issuance of No Objection Certificates (NOCs) has stalled yet again. The latest delay, compounded by the Eid holidays, is expected to extend the standstill by another 8 to 10 days, causing significant disruption.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Several vessels are now anchored off Chattogram, with shipowners and cash buyers facing mounting losses as they await regulatory clearance. The prolonged uncertainty has sent ripples through the market, heightening frustration among participants involved. Meanwhile, HKC-certified yards are capitalising on the regulatory bottleneck. The divide between compliant and non-compliant yards is becoming increasingly stark, exemplified by the recent sale of the Ore Carrier Berge for green recycling in Bangladesh, an advantage clearly tilted in favour of HKC-compliant facilities. Cash buyers and recyclers warn that continued delays may drive owners to consider alternative markets, further challenging Bangladesh's position in the global recycling trade. Bangladeshi ship recyclers face mounting pressure as the new government's proposed FY2025-26 budget introduces higher tax burdens amid sluggish economic recovery. Industry experts warn that the 1% turnover tax, even on loss-making firms, forces businesses to dip into capital, threatening survival and employment. Individual tax rates have also tripled from 0.25% to 1%, with knock-on effects for corporates. Speaking at an ICAB budget briefing, SMAC Advisory's Snehasish Barua flagged legal concerns over raising corporate tax to 27.25% for listed firms with under 10% public float. He added that while procedural VAT and customs reforms are welcome, structural issues remain unaddressed. ICAB President Maria Howlader supported the BDT 7,000 crore budget cut as a prudent move but raised concerns over the increased tax burden on "cashless" companies and individuals. She called for a rethink on VAT hikes for online sales and essential goods, stressing the need to preserve business competitiveness and consumer confidence..
@@ -262,8 +223,6 @@ Anchorage & Beaching Position (May 2025)
 |---|---|---|---|---|
 | SIDIMI | RORO | 2,985 | 16.05.2025 | AWAITING |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Gadani
@@ -273,8 +232,6 @@ Ship recycling markets maintained a cautiously bullish tone this week, with impr
 Anchorage & Beaching Position (MAY 2025)
 
 ---
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -290,8 +247,6 @@ and US$366-370/ton CFR for US material. However, limited appetite from buyers le
 
 bulk cargo was reportedly booked at US$373/ton CFR, though not officially confirmed. Shredded offers stood at US$376-380/ton CFR Chattogram, but Eid-related closures kept buyers on the sidelines. Activity is expected to resume mid-next week.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 Meanwhile, Turkey's imported scrap market held steady near US$340/ton CFR for HMS 80:20. Steelmakers delayed fresh bookings amid weak rebar sales and limited holiday demand. Despite firm export prices, rising collection costs and tight supply pressured producers. Market participants anticipate a clearer direction once post-Eid buying resumes.
@@ -303,8 +258,6 @@ Meanwhile, Turkey's imported scrap market held steady near US$340/ton CFR for HM
 **Copper prices climbed to a fresh two-month high this week, driven by mounting supply**
 
 concerns and robust Chinese demand. Inventories on the London Metal Exchange (LME) fell for the 14th consecutive day, with another 14,000 tons withdrawn from warehouses in South Korea and the Netherlands. Total LME stockpiles now stand at just 54,700 tons, marking the lowest level since July 2023. Strong withdrawal activity has been largely attributed to increased Chinese consumption, while fresh supply disruptions have added upward pressure. Teck Resources flagged production setbacks at two of its Chilean operations, while seismic activity in the Democratic Republic of Congo forced the Kamoa-Kakula mine offline. The underground section of the mine, operated by Ivanhoe Mines, is now expected to remain shut until Q4 2025 due to flooding. Market sentiment was further buoyed by a diplomatic breakthrough between the U.S. and China. President Trump and Xi agreed to resume trade talks, with reports suggesting a resolution over rare earth export disputes raising hopes of tariff easing.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

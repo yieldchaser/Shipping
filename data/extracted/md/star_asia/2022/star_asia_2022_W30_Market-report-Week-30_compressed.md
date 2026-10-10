@@ -62,8 +62,6 @@ The deal on July 22 will allow Ukraine to export about 65% of its grains through
 
 two-thirds of the country's grain exports, this target volume of export will prove challenging, especially with the consequences of the invasion. The goal of the deal is to increase Ukraine's monthly grain exports by about 5 million tonnes. However, achieving this objective could be challenging since these ports have not been able to handle as much grain in the past five years. There are also concerns about the availability of seafarers and cover of insurance for the affected area. Ukraine is a major producer of oilseeds and grains. Its arable land accounts for over 55% of its land area, and it is responsible for over 40% of the country's total exports. In addition to the 22 million tonnes of grain that have been stranded in Ukraine, another 25 million tonnes are expected to be exported following the 2022 crop. This will require the country to transport the stored grain quickly to make room for the new crop.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 #### Capesize:
@@ -101,8 +99,6 @@ day. In the Atlantic, it did not fare better. Levels overall fell from the weake
 lengthening list. T/A levels were seen at US$17,975 a day. Overall, the outlook in most
 
 regions declined. In the Western Med, similar tones were noted from a lack of enquiries.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 3
 
@@ -148,15 +144,11 @@ DWT CURRENT LAST WEEK LAST YEAR W-O-W Y-O-Y CHANGE % CHANGE % CAPE 180,000 18,62
 | SUPRAMAX | 52,000 | 16,250 | 18,250 | 25,150 | 10.96% | -35.39% |
 | HANDYSIZE | 32,000 | 16,000 | 17,750 | 23,750 | 9.86% | -32.63% |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
 
 # Tankers
 
 Concerns have been voiced regarding the global economy's growth prospects as a result of the crisis in Ukraine. It has also had an impact on the European Union's financial transactions and economic relations with Russia. Since the pause of the Nord Stream pipeline, Russia's natural gas exports to the E.U. are now suffering a reduction. E.U. is currently experiencing a partial cutback in natural gas supplies from Russia, and the situation is raising concerns about the potential impact on the global economy and the supply of natural gas. Despite the rapid response by the government, overall, they lack a clear understanding of how to minimise the impact of the situation. Meanwhile, the officials of Saudi Arabia and Russia, who lead the OPEC+ alliance, have reiterated their commitment to maintaining a stable oil market during a meeting in Riyadh. According to a statement posted by the Russian government, the two countries are working toward achieving this objective. This is their first direct talk since June, which came ahead of the meeting of the group's members and their allies on September 3. The Energy Ministry of Saudi Arabia confirmed the meeting in a statement. It said the officials discussed the progress of the joint committee's work. They also talked about the opportunities for cooperation. The meeting between Novak and Saudi Energy Minister Khalid Al-Falih was held following a phone call between Russian President Vladimir Putin and Saudi Crown Prince Mohammad
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 5
 
@@ -177,8 +169,6 @@ The market continues to be supported by the recovery in Libyan crude oil exports
 #### Clean:
 
 The LR1 and LR2 markets were relatively quiet this week, with the U.S. seeing an uptick in activity as local M.R. markets continued to firm. On the LR1s TC5 levels saw a big fall to WS256. However, with multiple vessels coming to the East, the list is anticipated to improve over the weekends. The U.K.C. MR activity has been in full swing. Both TC2 and TC19 have gained a few points in the last few days closing at WS336 and WS345, respectively.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 6
 
@@ -223,8 +213,6 @@ ASTRO POLARIS / SUEZ / 2004 S. KOREA 21.5 EACH CHINESE BUYERS ASTRO PHOENIX 159,
 | 1,466 | 1,485 | 604 | -1.28 | +142.72 |
 | 1,363 | 1,316 | 477 | +3.57 | +185.74 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 7
 
 | TYPE | DWT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) CURRENT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST WEEK LAST YEAR | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST YEAR | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) W-O-W CHANGE | Y-O-Y CHANGE |
@@ -261,8 +249,6 @@ Despite the overall decline in volumes, owners remain fairly optimistic.
 
 NO NEW SALES TO REPORT
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 8
 
 # Containers Values
@@ -278,22 +264,20 @@ NO NEW SALES TO REPORT
 | 5,500 - 7,000 | Gearless | 85 | 175 | 163 | 135 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (W.C. INDIA) | 540 ~ 550 | 530 ~ 540 | 560 ~ 570 | 610 ~ 620 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 580 ~ 600 | 560 ~ 580 | 540 ~ 560 | 600 ~ 620 | WEAK / |
+| GADDANI, PAKISTAN | 550 ~ 560 | 540 ~ 550 | 520 ~ 530 | 580 ~ 590 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 300 ~ 310 | 290 ~ 300 | 280 ~ 290 | 300 ~ 310 | STABLE / |
 
-CHATTOGRAM, BANGLADESH 580 ~ 600 560 ~ 580 540 ~ 560 600 ~ 620 WEAK /
-
-| GADDANI, PAKISTAN TURKEY *For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 550 ~ 300 ~ | 560 540 ~ 550 310 290 ~ 300 | 520 ~ 530 280 ~ 290 | 580 ~ 590 300 ~ 310 | WEAK / STABLE / |  |
-|---|---|---|---|---|---|---|
-| - All prices are - The prices - Prices quoted above-quoted | USD per light reported are net are basis simple prices based | displacement tonnage prices offered by the Japanese / Korean on quality & quality | in the long ton. recycling yards. built tonnages of Spares, Non-Fe., | trading units. Premiums bunkers, cargo history, | are paid on top of and maintenance. | the |
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
 
 | 5-Year | Recycling | Average (Week 30) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -304,8 +288,6 @@ CHATTOGRAM, BANGLADESH 580 ~ 600 560 ~ 580 540 ~ 560 600 ~ 620 WEAK /
 | CHATTOGRAM, BANGLADESH | 380 | 425 | 400 | 315 | 590 |
 | GADDANI, PAKISTAN | 375 | 415 | 390 | 340 | 580 |
 | ALIAGA, TURKEY | 210 | 290 | 270 | 190 | 290 |
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 10
 
@@ -321,8 +303,6 @@ CHATTOGRAM, BANGLADESH 580 ~ 600 560 ~ 580 540 ~ 560 600 ~ 620 WEAK /
 
 # Recycling Ships Price Trend
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 11
 
 # Insights
@@ -332,8 +312,6 @@ The ship recycling industry is undoubtedly going through an uncertain phase with
 #### ALANG, INDIA
 
 Extreme volatility has gripped the industry, with domestic ship scrap prices dropping on a daily basis. Indian rupee saw stability this week and traded between INR79~80 to a U.S. dollar. Fears of the unknown have gripped the market. Recyclers remained cautious, and a vast majority wanted to stay sidelines and wait to see the trend as lately, the domestic prices with ailing demand have sent shock waves to the sentiments.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 12
 
@@ -349,8 +327,6 @@ Extreme volatility has gripped the industry, with domestic ship scrap prices dro
 #### CHATTOGRAM, BANGLADESH
 
 The markets have settled at the prevailing price, but demand is purely for smaller ships as larger ships are facing banking difficulties in obtaining Letters of credit. The domestic ship scrap prices, which inched up early this week, faced resistance and corrected back by the weekend, giving up some gains. Overall, it is a tense situation amongst the recyclers as their vision has been distorted. The continuous devaluations of local currency with extreme measures taken by the local banks and volatility in the domestic ship scrap prices were painting a gloomy picture and enfeebling the recyclers to form a trend. However, for the time being, to keep the ball rolling and yards busy, the demand for smaller ships was more voracious. In breaking news this week, Bangladesh has requested a US$4.5 billion loan from the I.M.F., joining its South Asian neighbours Pakistan and Sri Lanka in requesting assistance to deal with escalating economic pressure. The country's US$416 billion economy has been one of the world's fastest-growing for years, but the Russia-Ukraine conflict has ballooned its import bill and current account imbalance. According to central bank statistics, Bangladesh's current account deficit was US$17.2 billion from July to May, up from US$2.78 billion the previous year, as its trade deficit increased and remittances plummeted. Exports increased 34%, while imports increased 39% in the first 11 months of the fiscal year. To add to the ongoing problems, another blow to the industry was the Central Bank of Bangladesh issuing a notice to the domestic banks asking them to seek approval from the central bank before issuing letters of credit. The reduction in the limit of credit that banks can offer to their customers from US$5 million to US$3 million is a clear indication of the government's efforts to address the country's financial problems. We may see shifts in how this will affect the whole buying outlook.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 13
 
@@ -377,8 +353,6 @@ The markets have settled at the prevailing price, but demand is purely for small
 
 Once again, the Pakistani rupee made the headlines, devaluing by another 5% this week. The local currency, which had ended at Rs229.88 to a U.S. dollar at the start of the week, had further dropped by Rs10.12 to Rs240 by the mid-week interbank market. For the recyclers to get the letter of credit from the bank for buying a ship was at P.K.R 245~246, making it unviable. The rupee set a new intraday low as a result of letter of credit (L.C.) payments for oil at a time when the State Bank of Pakistan (S.B.P.) was unwilling to issue reserves to control exchange rate volatility. It also seems as though exporters are more concerned with generating windfall gains since they appear to have abandoned national interests in favour of getting rapid profits from currency devaluation, commented Saad Bin Naseer, director of Mettis Global. Between April 7 (when then PM Imran Khan was deposed) and July 22, the rupee lost 21.3% of its value versus the U.S. dollar, owing to a massive trade imbalance as well as increased political insecurity and uncertainty. On the ship recycling front, the markets remain absent mainly due to unstable currency, political instability, and to add torrential rains, which have destroyed the infrastructure at
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 14
 
 Gaddani, paralysing the movements of materials from the recycling yards. All operations at the recycling yard have ceased operations and have no access to the roads. The markets shall remain absent for a more extended period until the domestic situation stabilises.
@@ -394,8 +368,6 @@ This week, Turkey's hot-rolled coil market is moving in lockstep with softening 
 | Alang, India | : 26 July ~ 3rd August \| 8th August ~ 17th August 2022 |
 
 ---
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 15
 

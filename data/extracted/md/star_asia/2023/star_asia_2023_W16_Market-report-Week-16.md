@@ -26,8 +26,6 @@ Chinese GDP data released on Tuesday showed a growth of 4.5% in the first quarte
 
 The surge in iron ore futures on the Dalian Commodity Exchange is a direct result of China's quicker-than-anticipated economic growth in March. The National Bureau of Statistics reported a 4.5% increase in GDP for the first quarter, surpassing the projected 4.0%. This news has sparked investor interest and demand for iron ore. Consequently, the September iron ore futures on the DCE have climbed to 788.5 CNY (US$114.67), marking a 3.5 CNY (US$0.51) increase or roughly 0.45% compared to the previous close. The trading volume is 199,197, and the open interest is 735,465. Given China's expanding economy, investors are closely monitoring the iron ore market, which is critical for the nation's industrial and construction sectors. The recent surge in iron ore futures is a positive trend for the industry and may affect global markets due to China's significant influence on worldwide economic growth.
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 ## Capesize:
@@ -45,8 +43,6 @@ Ahead of the Eid holidays, Supramax activities increased in both basins this wee
 ## Handysize:
 
 In the Atlantic, there is a tight supply against demand, with a steady cargo flow in South America. Rates saw some improvement ahead of the weekend, with T/A closing around the US$10,000 per day range. In the Pacific, the market is being supported by a steady demand for ships in NE Asia, with an increase in cargo inflow from Indonesia just before Eid. Inter-Pacific route levels climbed to US$7,250 per day.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -80,13 +76,9 @@ In the Atlantic, there is a tight supply against demand, with a steady cargo flo
 
 *\*(Amount in USD million)*
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
 
 # Baltic Exchange Dry Bulk Indices
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 5
 
@@ -101,8 +93,6 @@ Before the OPEC+ production cuts began in May, there was a surge in demand for t
 ## Suezmax:
 
 At the beginning of the week, there was an increase in crude oil imports due to the resumption of refinery and terminal operations following the suspension of strikes. However, supply chain disruptions are expected to continue as strikes resume later in the week ahead of the ruling on the pension reform bill. Expectations of increased supply are counterbalanced by the disruptions caused by the strikes. Black Sea and Med regions did not fare so well this week. 135,000mt CPC to Med close lower around WS145.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -143,8 +133,6 @@ LR saw a slowdown in trading between Asia and Europe with an increase in ship su
 
 *\*(amount in USD million)*
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 7
 
 # Baltic Exchange Tanker Indices
@@ -170,8 +158,6 @@ LR saw a slowdown in trading between Asia and Europe with an increase in ship su
 
 The container segment appears to have hit its bottom and is beginning to recover from it, according to multiple reports. Enquiries for secondhand tonnage remain strong, and charter rates are increasing, while the Drewry World Container Index rose by 4% in the past week alone. The speed of containerships has also reduced to new lows, and the inactive container ship fleet has shrunk for the third consecutive fortnightly period. Analysts predict that liners will aim to firm up the spot market to sustain higher contract rates in the coming summer. Charter rates are increasing for most ship sizes, and period employment is also growing longer. Outlook looks positive for the segment in general.
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 8
 
 # Containers S&P Report
@@ -189,30 +175,21 @@ The container segment appears to have hit its bottom and is beginning to recover
 | 5,500 - 7,000 | Gearless | 87 | 82 | 70 | 45 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
 | DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
 |---|---|---|---|---|---|
-| ALANG (WC INDIA) |  |  | CARGO |  | TREND |
 | *For green ship recycling, the prices are about | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 570 ~ 580 | WEAK / |
+| CHATTOGRAM, BANGLADESH | \*580 ~ 590 | \*560 ~ 570 | \*540 ~ 550 | \*600 ~ 610 | WEAK / |
+| GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
+| TURKEY \*For Non-EU ships. For EU Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-US$25-30/ton lower.
-
-CHATTOGRAM, \*580 ~ 590 \*560 ~ 570 \*540 ~ 550 \*600 ~ 610 WEAK / BANGLADESH
-
-GADDANI, PAKISTAN NA NA NA NA NA
-
-TURKEY
-
-\*For Non-EU ships. For EU 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-Ship, the prices are about US$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
@@ -225,8 +202,6 @@ CHATTOGRAM, BANGLADESH 430 455 330 480 660
 GADDANI, PAKISTAN 420 430 320 470 680
 ALIAGA, TURKEY 290 280 210 255 460
 ```
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 10
 
@@ -244,15 +219,11 @@ ALIAGA, TURKEY 290 280 210 255 460
 
 # Recycling Ships Price Trend
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 11
 
 # Insight
 
 The Sub-Continent markets and Turkey were closed for the Eid holidays this week, resulting in a relatively quiet market. However, there has been a noticeable increase in the supply of end-oflife ships this week. This trend is particularly evident in the large number of older bulk carriers and container segments from the early to late 1990s that are now pushed for sale. Owners of these ships, especially from the Far East region, have started to screen the prevailing recycling pricing they can achieve for such assets. The fear is that the number of such ships is growing daily as most of them are on their extreme last leg of trading. A vast majority of ship owners are looking to give one last try to see if there are any potential trading interests before they can take a final call on putting them up for recycling. An interesting sale reported this week was the Mitsui Osk Lines (MOL) woodchip carrier, which was sold to PHP Shipbreaking in Bangladesh for a price of US$560/ton and on the other hand, MSC sold their older container ship, the "M.S.C. Pillar," weighing 23,740 tons, to Alang recyclers at US$550/ton. Next week, Gearbulk Holding's general cargo ship "Kumul Arrow" weighing about 10,965 tons, will be on the negotiating table for the Alang recyclers. These transactions indicate that there is a shift occurring in the industry, where the growing supply of ships is expected to lead to a subsequent decrease in prices. Ship recyclers will be closely monitoring the situation in the coming weeks to see if this trend continues. As time marches on, the clock is ticking for ship owners of mothballed / under-tow vessels as they must make a critical decision before the monsoon season approaches. The ships that are located far distances from the Sub-Continent must be towed before early May, as insurance underwriters typically impose strict deadlines for their voyage to the recycling yards. Traditionally every year, the maximum time frame for towing such vessels is until the second week of May, after which they must wait until the end of August. The ship recycling industry experiences a lull during the monsoon period, making it crucial for ship owners aiming to maximize their profits and avoid costly delays. The worldwide steel industry has experienced a sluggish demand for semi-finished and finished steel this month, with markets globally witnessing a slowdown. Despite this, the overall state of
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 12
 
@@ -278,8 +249,6 @@ In the ship recycling industry, it has been a relatively quiet week, with domest
 
 Despite a weak ship supply this year, yet, Alang has managed to beach a total of 44 ships, weighing 307,423 light displacement tons. However, this falls short of their neighboring competitor, Bangladesh, which has done 55 ships totaling 399,531 light displacement tons. Recyclers in Alang are currently facing a daunting challenge, securing non-green ships has become increasingly arduous. This is due to the substantial price differential between Alang and their competitors in Chattogram, leaving the recyclers struggling to maintain their business operations. The stark difference in pricing has made it challenging for Alang's recyclers to stay competitive in the market, resulting in difficulties in sustaining their businesses. Consequently, most recyclers have diversified their business activities, leaving only a small number of recyclers still willing to acquire ships in these circumstances.
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 13
 
 ## CHATTOGRAM, BANGLADESH
@@ -289,8 +258,6 @@ The ship scrapping industry experienced a quiet week amid the long Eid festival 
 In a historic move for Bangladesh, Mitsui O.S.K. Lines Ltd. (MOL) has sold its aging woodchip carrier to PHP Shipbreaking in Chattogram. This sale marks another significant milestone for PHP Shipbreaking, as it becomes the only yard in the region to receive a vessel, in contrast to the 10 Alang yards. It is worth noting that MOL has a strict policy of selling its ships only to yards identified by them, limiting the total number of recycling yards to 11.
 
 As the market prepares for post-Eid purchasing, attention is shifting towards the supply of ships, which is expected to ease in the near future. This may result in a drop in prices as the market adjusts to the changing conditions. Ship recyclers are closely monitoring the market to determine the direction of prices in the coming weeks.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 14
 
@@ -317,8 +284,6 @@ Currently, the ship recycling industry remains at a standstill with no activity 
 This week, The Pakistan Association of Large Steel Producers (PALSP) informed Prime Minister that more than 80% of steel bars sold in Balochistan are being smuggled into the country from Iran, causing a major blow to local manufacturers. The smuggled steel is reaching Lahore, Karachi, and other cities due to weak security apparatus.
 
 PALSP Secretary General claims that around 500,000 tonnes of steel bars are being smuggled into Pakistan from Iran and Afghanistan, causing an annual revenue loss of Rs25 billion to the national exchequer. PALSP warns of implications related to money laundering as there is no formal banking channel between the two countries. He suggests that the import of steel should be allowed only through sea routes to effectively counter the threat posed by smuggling. The local steel industry is already struggling due to currency depreciation and high financial and input costs, and the unchecked inflow of smuggled steel has created survival challenges for the industry. Production activity has come to a halt due to a shortage of raw materials, and many units are working on a small fraction of their capacity. Despite repeated requests, the government has not taken any effective measures to control this illegal activity.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 15
 

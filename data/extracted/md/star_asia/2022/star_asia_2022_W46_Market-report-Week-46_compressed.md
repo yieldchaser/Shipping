@@ -30,8 +30,6 @@ It was an eventful week for the global markets as the G20 summit was held in Bal
 
 The deal to allow Ukrainian grain shipments via Black Sea ports has been renewed for another 120 days. U.N. Secretary-General Antonio Guterres, Ukraine's President Vladimir Zelenskyy, and Turkey's President Recep Tayyip Erdogan all agreed to the prolongation. Over 500 vessels have transported over 11 million tonnes of agricultural goods and grain through Black Sea ports since July. The expansion was made possible by the collaboration of the U.N. and Turkey. Ukraine's infrastructure minister stated it was a significant step in combating the worldwide food crisis. Russia's Foreign Ministry spokesperson, Maria Zakharova, stated that the government consented to the extension without amending its terms. Russia earlier withdrew from the pact in October when it was accosted, but it finally rejoined days later. The deal, which was scheduled to last a year, was extended for 120 days.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 2
 
 ### Capesize:
@@ -66,8 +64,6 @@ The Atlantic basin saw little activity this week. T/A levels continue to slip, w
 
 as orders and tonnage decreased. However, sentiments overall still remain bleak, with inter- Pacific levels discounted to US$8,150 a day.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 3
 
 # Dry Bulk - S&P Report
@@ -97,8 +93,6 @@ as orders and tonnage decreased. However, sentiments overall still remain bleak,
 | HANDY | 38,000 | 29 |  | 28 |  | 24 | 16 | 6 |
 | *(AmountinUSD million) |  |  |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 4
 
 # Baltic Exchange Dry Bulk Indices
@@ -121,8 +115,6 @@ CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %
 | 52,000 | 12,500 | 12,500 | 20,750 | 0 | -39.76 |
 | 32,000 | 10,500 | 10,750 | 21,350 | -2.33 | -50.82 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 5
 
 # Tankers
@@ -140,8 +132,6 @@ Increased cargo imports from West Africa and Europe resulted in an overall boost
 ### Aframax:
 
 The increased activity in the Black Sea and the Mediterranean has driven up prices. 80,000mt Ceyhan/Lavera route saw a big point jump of 97, settling at WS360 at closing. Meanwhile, activity in the UKC/Baltic saw improvements toward the end week. 80,000mt Hound Point to Wilhelmshaven firmed at WS247.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 6
 
@@ -188,8 +178,6 @@ PROD / WOOJIN CHEMS 12,675 1999 N/A N/A BERLIAN LAJU TANKERS CHEM
 | 2,365 | 1,894 | 780 | +24.87 | +203.21 |
 | 1,461 | 1,340 | 596 | +9.03 | +145.13 |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 7
 
 | TYPE | DWT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) CURRENT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST WEEK | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST YEAR | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) W-O-W CHANGE | Y-O-Y CHANGE |
@@ -216,8 +204,6 @@ started to become tight, especially in the sub-2000 TEU sector, which has prompt
 
 to try and reverse the slide in the rates.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 8
 
 # Containers S&P Report
@@ -235,32 +221,21 @@ to try and reverse the slide in the rates.
 | 5,500 - 7,000 | Gearless |  | 85 | 105 | 92 | 75 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |  |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 540 ~ 550 | 530 ~ 540 | 560 ~ 570 | 580 ~ 590 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | \* N/A | \* N/A | \* N/A | \* N/A | WEAK / |
+| GADDANI, PAKISTAN | 500 ~ 510 | 490 ~ 500 | 460 ~ 470 | 500 ~ 510 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 290 ~ 300 | 280 ~ 290 | 270 ~ 280 | 310 ~ 320 | STABLE / |
 
-CHATTOGRAM,
-
-BANGLADESH \* N/A \* N/A \* N/A \* N/A WEAK /
-
-GADDANI, PAKISTAN 500 ~ 510 490 ~ 500 460 ~ 470 500 ~ 510 STABLE /
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 290 ~ 300 280 ~ 290 270 ~ 280 310 ~ 320 STABLE /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* This week no prices from Chattogram markets due to domestic banking issues.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* This week no prices from Chattogram markets due to domestic banking issues.
 
 # 5-Year Ship Recycling Average Historical Prices
 
@@ -276,8 +251,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 |---|---|---|---|---|---|
 | DONG FANG SHENG | 9,543 | 1990 / JAPAN | BULKER | 445 | SOLD AS IS GUANG DONG, CHINA, IN AUCTION |
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 10
 
 # Recycling Ships Price Trend
@@ -286,8 +259,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 
 Panic has gripped the ship recycling markets in the Sub-Continent, and the industry has reported mayhem, with ship recycling prices plummeting by over US$50/tonne in less than a fortnight and sending shock waves across the industry. As we advance, the ship recycling prices are likely to remain under pressure in the near term as the global steel transition unfolds and demand shifts. The only stimulus to get the cylinders firing must come from a solid geopolitical standpoint, altering international dynamics. Positive news this week from China prevented a full plunge in steel prices, but it was not enough to boost sentiments in the near term. The most recent strategy to revive faltering property markets with a recalibrated position on the COVID Zero policy may portend a healthy steel demand in the long run.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 11
 
 End-of-life ship supply remains moderate as the ship owners preferred to stay sidelines and wait for the prices to settle down. The market correction was too quick to decide.
@@ -295,8 +266,6 @@ End-of-life ship supply remains moderate as the ship owners preferred to stay si
 ### ALANG, INDIA
 
 It has been a roller coaster ride for the Indian steel industry, including the ship scrap markets. After an abysmal start to the week, with domestic ship scrap prices continuously dropping, in the backdrop of large volumes of imported scrap arriving at Indian ports to offset the demand and the upcoming state elections. In the last 30 days, the domestic ship scrap prices dropped by about US$43/ton but magnified the industry sentiments down by twice the price. But as the week ended, the big savior to halt the continuous downfall came in on Friday. The Finance Ministry said in a notification that export tariffs on iron ore and steel products had been eliminated as of Saturday. The administration stated it made the changes to eliminate export tariffs for the benefit of the people. According to the notification, export duties on nine steel products will attract nil duty compared with the 15pc imposed since May 2022. Some main items were bars and rods, hotrolled, in irregularly wound coils, of other alloy steel, and some products of stainless steel, which were added to the list for nil duty. While exports of iron ore lumps and fines with less than 58pc Fe and iron ore pellets will attract nil duty compared with the 50pc and 45pc duties, respectively, levied earlier in the year. Iron ore lumps and fines of more than 58pc will continue to attract 30pc duty. This news has lifted the deteriorating Indian steel market sentiments overnight, resulting in the resumption of normal buying and improvement of prices. Domestic scrap prices jumped by US$48/ton. In the coming weeks, the secondary market speculators finally have an opportunity to get back, and prices could recover by US$50-70/ton next week. However, the clear picture and levels shall set in after 2-3 weeks. In a nutshell, Alang was looking for the bottom, and after a long wait, the news of the government rolling back / modifying the duties gave a revival of hope. With Bangladesh being absent from the markets and Pakistan of competition, an immense opportunity has emerged for the Alang recyclers who were on the sidelines for a very long period of time.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 12
 
@@ -318,8 +287,6 @@ It has been a roller coaster ride for the Indian steel industry, including the s
 
 The industry has become more imperceptible this week as the ongoing U.S. dollar crisis in Bangladeshi banks was getting more challenging day by day, and at the same time, the ship prices have also started to correct. The banks in Bangladesh have refrained from opening letters of credit (LC), and the situation is that LC's for importing daily necessities is also getting difficult. The U.S. dollar crisis is paralyzing the domestic economy, which once was the fastest growing in the region. Several Bangladesh banks fail to clear their import liabilities with International banks. Due to the foreign exchange crisis and exchange rate losses, the recyclers as well are refraining from offering on a firm basis as they feel there is no sense in offering when they cannot get banking support. In short, the markets remain absent for the time being, and any fresh offers from recyclers are on the subject of obtaining LC basis, making it as good as a non-starter. It has been an unfortunate situation for the sellers where the ships arriving in Bangladesh start to pile up at outer anchorage, caught in the crossfires with an uncertain fate. Ships are indefinitely waiting outside Chittagong, hoping for a quick remedy, but there is a sense of plight to endure. On the other hand, the ships yet to reach are being diverted to alternate destinations sending markets a fearsome picture. However, after all the negativity surrounding the markets, the only positive side was that domestic ship scrap prices have exponentially jumped back to high levels after dropping to
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 13
 
 lows a couple of weeks back. This week saw a decent uptick, up by 10%, mainly due to a shortage led by import restrictions. The entire industry is hoping for some direction from the government on easing the banking restrictions, which would help to propel the economy, but the sentiments currently remain laborious. On the other hand, it was announced at the meeting between Industries Minister Nurul Majid Mahmud Humayun and Japanese Ambassador to Bangladesh Ito Naoki at the Industries Ministry in the city that Japan will be setting up ship recycling facilities in Chittagong. Ito Naoki said Japan would help Bangladesh in all possible ways to comply with the conditions of "The Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships, 2009 (The Hong Kong Convention)". He presented multiple alternative proposals for setting up ship recycling facilities in Chittagong Mirsarai and Sitakund areas.
@@ -340,8 +307,6 @@ lows a couple of weeks back. This week saw a decent uptick, up by 10%, mainly du
 
 Another dull week for Gaddani as lack of support from the local ferrous scrap prices from the domestic mills in addition to the cheaply imported scrap and finished steel products, kept the recyclers passive. For the vast majority, it has been more than six months of being out of the markets and the future opportunity looks gloomy with the marginal price difference between ship prices and finished steel products.
 
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
-
 ## Page 14
 
 The positive developments in China may bring some respite to the Pakistani steel markets as the finished products like HotRolledCoils(HRC) gets expensive, making way for the recyclers to get back on the drawing board to calculate their costings. The only bright side to the entire episode in Pakistani ship recycling markets is the demand, which remains stable. Once the prices align with domestic scrap prices, buying shall emerge to absorb the pressure from Alang. After a long time, reports of a late 1990s Japanese Panamax bulker, 9,800 light displacement tonnage, and a late 1990s Japanese built Cape size bulker, 21,200 light displacement tonnage surfaced, sold to a local recycler at US$510/ton, which is a classic reflection of the prevailing market prices.
@@ -351,8 +316,6 @@ The positive developments in China may bring some respite to the Pakistani steel
 ### ALIAGA, TURKEY
 
 Turkey will likely see a rough conclusion to the year. It will be difficult for the country to reduce scrap rates now for export in December. Given the current volatility of energy and the increased demand coupled with Turkey's low steel sales, going into 2023 looks to be lackluster. Since last week, Turkish mills have lowered local scrap purchase costs amid falling import prices. Mills struggle to maintain profits with falling steel prices, pressuring scrap costs. Turkish shipbreaking scrap prices stood mostly at around US$290/t delivered. Ship recycling markets remained stagnant, with no fresh sales reported.
-
-[Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
 ## Page 15
 

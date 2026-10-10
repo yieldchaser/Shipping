@@ -22,8 +22,6 @@ pages: 19
 
 The global financial markets experienced a notable recovery this week as investors moved past an initial technology sell-off sparked by concerns over high level artificial intelligence spending. Major indices reached significant milestones, with the Dow Jones Industrial Average topping the 50,000 mark and the broader S&P 500 rising by 2% following a sharp rally in the semiconductor and software sectors. While some largescale tech firms have committed to massive capital expenditures for infrastructure, market sentiment was bolstered by comments from industry leaders suggesting that demand for these innovations remains exceptionally robust. In the maritime and shipping sector, global liners are preparing for a shift in profitability with the potential reopening of the Red Sea trade route. Although a return to shorter transit times through the Suez Canal offers operational efficiency, it also threatens to release significant vessel capacity back into an already oversupplied market, which could push freight rates lower. Major carriers like Maersk and Hapag-Lloyd are navigating these changes with caution, balancing the desire for cost savings against the risks of port congestion and regional volatility. The first half of 2026 may see these network adjustments, making it a pivotal period for liners to demonstrate discipline in capacity management while facing a projected contraction in global demand. Regulatory scrutiny is also intensifying in Southeast Asia, where Singapore is calling for greater international cooperation to manage the challenges posed by shadow fleet vessels. Operating frequently just beyond territorial limits, these ships often engage in fraudulent practices to bypass international sanctions, creating safety and security risks in the strategic Straits of Malacca. The Singaporean government has reaffirmed its commitment to implementing global resolutions and is working closely with neighbouring nations to enhance maritime monitoring and information sharing.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Capesize market showcased notable volatility this week, beginning with a str
 Panamax/Kamsarmax:
 
 The Panamax market was cautious this week, as Atlantic rates faced downward pressure from growing tonnage lists and limited T/A enquiry. While the Pacific saw some stability from firmer grain demand and renewed period interest, overall sentiment was dampened by thinner volumes in East Australia and uncertainty regarding Indonesian policy. Pricing reflected this mixed environment, with T/A rates showing a modest gain of US$225 to reach US$15,350, while the Pacific R/V and Pacific India routes dipped to US$12,608 and US$11,500 respectively. Supramax/Ultramax: The Supramax began the week on a subdued note, with a quiet trading atmosphere in Asia due to seasonal factors and a sluggish Indonesian coal market. However, the Atlantic basin provided a boost as sentiment improved across the US Gulf and European routes, helping the T/A rate rise to US$21,954. While the Pacific R/V saw a minor softening to settle
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -71,8 +67,6 @@ Dry Bulk Values
 
 *\*(amount in USD million) | (E) - eco units*
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -93,8 +87,6 @@ Dry Bulk Values
 | JETSTREAM | HANDY | 34,563 | 2012 | S. KOREA | 13.5 | UNDISCLOSED |
 | YANGTZE GRACE / YANGTZE HAPPINESS | HANDY | 32,503 | 2012 | CHINA | 10.0 EACH | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -108,8 +100,6 @@ MEG has been the epicenter of recent volatility, with rates experiencing a drama
 Suezmax:
 
 In West Africa, shippers have resisted with Nigeria/UKC trips settling at WS153, leading to a lull in new fixture activity as charterers hold out for corrections. However, significant losses have been prevented by a tightening vessel list in the Atlantic, partly due to tonnage being diverted toward higher-paying routes in the Americas. Similar was seen in the MEG, with trips to Mediterranean closing at WS120.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -127,8 +117,6 @@ were concluded early, leading to a natural slowdown in activity. In the MEG, TC1
 
 ## Baltic Exchange Tanker Indices
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -145,8 +133,6 @@ were concluded early, leading to a natural slowdown in activity. In the MEG, TC1
 | SEAWAYS GRACE / SEAWAYS MADELEINE | MR | 49,999 | 2008 | S. KOREA | 16.8 EACH | UNDISCLOSED |
 | LIANYUNGANG WUZHOU WZ465 | MR | 49,900 | 2026 | CHINA | 45.0 | ASYAD SHIPPING |
 | KYRA | MR | 47,931 | 2006 | JAPAN | 11.5 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -172,33 +158,18 @@ The container market continues to face significant headwinds as SCFI fell by 9.7
 | VALDIVA / VIOLETTA / VALENTINA | FEEDER | 1,853 | 2007 | ROMANIA | N/A | MSC |  |
 | LILA CANADA | FEEDER | 1,118 | 2006 | CHINA | 10.9 | MSC |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS / WEEKLY
-
-GENERAL CARGO FUTURE TREND
-
-ALANG (WC INDIA) 410 ~ 420 400 ~ 410 380 ~ 390 430 ~ 440 IMPROVING /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | IMPROVING / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 | ~ 430 | 410 ~ 420 | 440 ~ 450 | IMPROVING/ |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| ALANG (WC INDIA) | 410 ~ 420 | 400 ~ 410 | 380 ~ 390 | 430 ~ 440 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | IMPROVING / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | IMPROVING/ |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -215,8 +186,6 @@ TURKEY
 | GADDANI, PAKISTAN | 415 | 600 | 540 | 520 | 430 |
 | ALIAGA, TURKEY | 240 | 330 | 310 | 320 | 360 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -228,23 +197,15 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
 Insights Alang
 
 In Alang, ship recyclers are maintaining an active search for fresh inventory. A significant regulatory milestone was reached this week as the Gujarat Maritime Board issued a new circular that officially empanels eight "Recognized Organizations," including major bodies such as ABS, DNV, and IRS, while also clarifying the specific procedures for issuing certificates that align local operations with the HKC. While these administrative improvements provide much needed transparency, the local market is grappling with rising operational costs due to increased temporary safeguard duties, even as 40% credit incentives remain available for those utilising green certified facilities. Financial anxiety has further intensified due to the underperformance of the Indian Rupee, with growing industry concerns that the currency might eventually weaken past the 100 marks against the USD. Despite this however and a pricing structure that currently sits at the lower end of regional boards, Alang remains an active anchorage in the area, having welcomed few vessels in the last few weeks.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -267,8 +228,6 @@ Anchorage & Beaching Position (FEBRUARY 2026)
 Gadani
 
 Recyclers have observed a small selection of dry segment vessels circulating for potential bids this week, though firm commitments from shipowners remain elusive despite the region's favourable economic standing. Currently, Pakistani yards are offering more competitive pricing than their counterparts, which theoretically positions Gadani as a preferred destination for owners looking to offload ageing tonnage; however, the market has yet to see a definitive increase in finalised sales. A significant breakthrough for the local industry was recorded recently as Salams International became the nation's second ship recycling facility to receive HKC
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -307,8 +266,6 @@ EXCHANGE RATES
 | 279.7 | 279.69 | 0 |
 | 43.61 | 43.42 | -0.44% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Sub-Continent and Turkey ferrous scrap markets insights
@@ -329,8 +286,6 @@ The imported ferrous scrap market in Bangladesh stayed largely unchanged, anchor
 
 Deep sea import prices in Turkiye softened slightly as fresh deals emerged at lower levels, leaving the market direction somewhat ambiguous. Turkish mills are currently facing a difficult environment with tight rebar margins, which has led to significant resistance against higher scrap pricing. On the supply side, US sellers continued to target a range of US$380-385/t CFR while EU suppliers hovered around US$375-377/t. However, trade levels remained muted as high freight rates and slow scrap collection due to
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 winter conditions prevented sellers from making deeper concessions, even as mills remained sidelined by sluggish downstream demand.
@@ -342,8 +297,6 @@ winter conditions prevented sellers from making deeper concessions, even as mill
 **Iron ore prices stabilise on the Dalian Commodity Exchange, edging up 0.06% to reach**
 
 821 yuan per metric ton. This modest recovery followed a sharper 1% decline on Tuesday, which was triggered by a tragic accident at a steel facility in northern China that raised concerns about potential production halts and safety inspections. Despite these disruptions, China reported historic trade activity for December, with iron ore imports reaching record levels and steel exports hitting an all-time monthly high. This surge in exports was largely driven by companies front-loading shipments to beat new licensing requirements set for 2026, effectively offsetting softer domestic demand. Supply dynamics are also evolving as major global miners adjust to shifting market conditions. BHP Group reported a 9% increase in its second-quarter iron ore output but has accepted lower prices during annual negotiations with Chinese buyers. Meanwhile, state backed entities in China have encouraged local mills to be more selective in their purchases to secure better contract terms. The broader commodities market showed a mix of caution and recovery across different metals. While coking coal and coke on the Dalian exchange saw respective mid-week declines of 1.52% and 1.28%, finished steel benchmarks in Shanghai mostly gained ground, with wire rod strengthening by 2.04% and stainless steel firming by 0.83%. In the copper sector, spot markets are navigating a period of lower liquidity as suppliers move
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

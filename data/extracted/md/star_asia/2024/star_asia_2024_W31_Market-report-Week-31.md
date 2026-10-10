@@ -22,8 +22,6 @@ pages: 20
 
 This week, global recession fears dominated as over US$2.9 trillion was wiped from major indices, marking the worst day for stocks since March 16, 2020. On Friday, U.S. markets plunged, with the S&P 500 dropping 1.84% to 5,346.56 and the Nasdaq Composite falling 2.43% to 16,776.16, entering correction territory. The massive sell-off raises questions about whether a global recession is imminent or if this is merely a knee-jerk reaction. Investors will keenly watch the coming week for clues on the true state of the global economy. The Fed kept the rates steady but signalled a possible rate cut in September amid labour market concerns. FED Chair Jerome Powell indicated that the Fed might cut interest rates in September unless inflation progress stalls. Powell highlighted growing confidence among officials to ease economic restraints while expressing concerns about the labour market weakening further. The Fed has kept the federal funds rate between 5.25% and 5.5% since last July. In the U.K., the Bank of England is cutting interest rates for the first time in over four years. In a narrow vote, BoE's Monetary Policy Committee reduced the key interest rate by a quarter point to 5%, marking the first cut in more than four years. The decision, passed by a 5-4 vote, follows inflation's return to the 2% target. BoE Governor Andrew Bailey warned against rapid successive cuts, emphasising the need for cautious monetary policy. While in Japan, The Bank of Japan (BOJ) raised its interest rate to 0.25% and announced a bond tapering plan, signaling confidence in economic recovery and concerns over the weak yen. BOJ Governor Kazuo Ueda hinted at further hikes if inflation continues. The policy rate is still negative after inflation, aiming not to hinder the economy. This unexpected move surprised the market, as only 26% anticipated a rate hike. The BOJ will halve its monthly bond purchases by early 2026, ensuring a smooth tapering process. The yen remains weak against the dollar, prompting previous yen-buying interventions by currency authorities.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -41,8 +39,6 @@ In the Atlantic region, despite a steady influx of North American cargoes, the m
 Handysize:
 
 It was another lacklustre week in the Handy with rates mostly remaining unchanged. F/H routes saw rates similar to last closing at US$14,000's a day. Meanwhile in Pacific, rates
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -71,8 +67,6 @@ across saw discounts owning to excess tonnage in the region. Inter Pacific close
 | SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 10,500 | 0 |  | +42.86% |
 | HANDYSIZE | 38,000 | 15,000 |  | 15,000 |  | 9,750 | 0 |  | +53.85% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -93,8 +87,6 @@ across saw discounts owning to excess tonnage in the region. Inter Pacific close
 | UGLJAN | HANDY | 37,729 | 2010 | CHINA | 11.0 | UNDISCLOSED |
 | SEASTAR TITAN | HANDY | 30,439 | 2009 | CHINA | 9.8 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -109,8 +101,6 @@ Suezmax:
 
 The West African Suezmax market initially showed promise of a rate rebound, buoyed by improved VLCC demand. However, this optimism was short-lived. Rates began to decline
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 more sharply in the latter half of the week, ending on a weak note. 130,000mt Nigeria/UKC fell to WS80. The coming week offers little prospect for demand recovery sufficient to reverse this trend, suggesting a continued decline in rates.
@@ -124,8 +114,6 @@ Clean:
 LR: The LR2 market, particularly on Middle East/Japan routes, continues to grapple with dual pressures for another week. The summer season has brought an increase in available vessels, coupled with a persistent cargo shortage. These factors have driven rates down significantly, closing at WS148. In LR1, TC5 remains relatively unchanged with levels hovering at WS155. MR: MR market in the Far East region is also experiencing downward pressure on rates. This decline is primarily attributed to weakened export activities from key players in the region, notably China and South Korea. In the UKC, some recovery was noted. TC2 closes at WS200.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -144,8 +132,6 @@ LR: The LR2 market, particularly on Middle East/Japan routes, continues to grapp
 | GREEN SEA |  | MR | 50,927 | 2014 | S. KOREA | 38.0 | LVM |
 | SUGAR |  | MR | 42,721 | 2002 | S. KOREA | 14.0 | NIGERIAN BUYERS |
 | BRAVELY | SINCERITY | PROD/ CHEM | 14,445 | 2010 | CHINA | 10.7 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -169,33 +155,18 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 43 | 34 | 27 | 22 |
 | 5,100 *(amount in USD million) | Gearless | 81 | 77 | 66 | 35 | 32 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 510 ~ 520 490 ~ 500 500 ~ 510 520 ~ 530 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 510 ~ 520 | 490 ~ 500 | 500 ~ 510 | 520 ~ 530 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | WEAK / |
 | GADDANI, PAKISTAN | 510 ~ 520 | 490 ~ 500 | 480 ~ 490 | 520 ~ 530 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 330 ~ 340 340 ~ 350 380 ~ 390 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 330 ~ 340 | 340 ~ 350 | 380 ~ 390 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -212,8 +183,6 @@ TURKEY
 | GADDANI, PAKISTAN | 410 | 305 | 680 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 170 | 300 | 325 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -224,19 +193,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 ## Insight
 
 As we enter a new month, there has been a significant decrease in ship recycling tonnage across Bangladesh, India, and Pakistan from June to July 2024. The most dramatic drop is observed in Bangladesh, where the tonnage of ships recycled plummeted from 105,409mt in June to 32,264 MT in July, a decrease of nearly 70%. India also experienced a substantial decline, with recycling tonnage falling from 59,527mt in June to 37,126 in July, a reduction of about 38%. Pakistan, in contrast, saw a modest increase from 14,105 MT tons in June to 17,147 MT tons in July. The big news this week for the ship recycling industry was from China. The subsidies are coming back. China is set to expand its policies aimed at boosting large-scale equipment upgrades and consumer goods trade-ins to stimulate domestic demand, as announced at a State Council executive meeting chaired by Premier Li Qiang last month. The meeting revealed plans to issue ultra-long special treasury bonds to fund these initiatives. Support measures will be optimised for equipment upgrades, extending to the energy and power sectors, old elevator renovations, and key industry safety and environmental upgrades. Enhanced subsidies will be provided for scrapping and upgrading old ships and trucks, renewing agricultural machinery, and new energy buses. Additionally, the subsidy ratio for equipment upgrade loans will be increased. These actions align with the guiding
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -245,8 +208,6 @@ principles from the third plenary session of the 20th Communist Party of China C
 Alang, India
 
 This week, the domestic ship scrap prices took a breather from further falling and stabilised. The past few months have been a rough ride for the Alang recyclers, with sharp declines in the prices of domestic ship scrap wiping out all the gains. The sentiments remain dull due to lagging demand. The markets remained cautious and closely monitored the domestic ship scrap pricing to get the right direction. For now, the prices have stopped falling, but whether this is the bottom is yet to be determined. The only sale reported this week was the MSC's container ship called "MSC Annamaria", built in 1987 in Germany, weighing 8,805 tons at a gross price of US$535/ton for an MSCapproved green yard. This sale marks the 10th sale by MSC this year. India's Steel Ministry is negotiating with mills to diversify coking coal (key component in *steel making) imports from Russia, Canada, and the U.S. to reduce dependency on*
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -262,8 +223,6 @@ Anchorage & Beaching Position (August 2024)
 Chattogram, Bangladesh
 
 The Chattogram ship recycling market is experiencing a significant slowdown, driven by declining demand and rising inventories. Domestic ship scrap prices continued to fall, with the price gap between melting scrap and plate widening considerably. This has led to notable price differences between smaller ships (ranging from 2,000 to 4,000 light displacement tons) and larger ones. However, demand for larger ships remains intact, with some recyclers keen to offer a premium as the plate prices remain highly elevated. In response to this price disparity, several smaller ships that typically head to Chattogram from the Far East are now being discussed at Gadani, Pakistan. The market remains subdued, with limited buying activity compounded by the peak monsoon season. Looking ahead, the market is expected to stay quiet throughout the
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -284,8 +243,6 @@ Anchorage & Beaching Position (August 2024)
 | - | - | - | - | - |
 
 Aliaga, Turkey
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -318,8 +275,6 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent and Turkey scrap steel market remains beset by multiple challenges, with notable trends observed in India, Pakistan, Bangladesh, and Turkey. In India, the demand for imported scrap remains sluggish, primarily due to the availability of cheaper alternatives such as sponge iron and domestic scrap. Additionally, the lack of support from the downstream steel sector has impacted scrap consumption.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 Indicative offers for shredded scrap from the US and UK/Europe hovered around US$410- 420/ton CFR Nhava Sheva, while buyers aimed for US$400-405/ton CFR. Offers for HMS (80:20) were at US$390-395/ton CFR, with buyers looking for US$385-390/ton CFR. In Pakistan, demand for imported scrap remains constrained by rising electricity and gas costs, making it difficult for rebar producers to pass on these expenses to finished steel products. Consequently, scrap consumption remains limited. Indicative offers for shredded scrap from the UK/Europe were assessed at US$425-430/ton CFR Qasim.
@@ -329,8 +284,6 @@ Indicative offers for shredded scrap from the US and UK/Europe hovered around US
 as Australia, Hong Kong, New Zealand, and the UAE, avoiding UK/Europe scrap due to high freight rates. Indicative offers for shredded scrap from the UK/Europe were assessed at US$427-430/ton CFR Chattogram, while HMS (80:20) stood at US$405-410/ton CFR. In Turkey, deep-sea imported ferrous scrap prices have softened as European and Baltic recyclers struggle to attract demand from Turkish mills. Offers for US-origin bulk HMS (80:20) scraps were at US$386/ton CFR, down US$2/mt from the previous day. Indicative tradable values for EU-origin HMS (80:20) were around US$380/ton CFR, but offers at US$383/ton CFR struggled to find buyers. Market sentiment remains negative, with expectations of further price corrections amid declining billet prices. However, mills are expected to resume purchases soon.
 
 ## HMS 1/2 & Tangshan Billet
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

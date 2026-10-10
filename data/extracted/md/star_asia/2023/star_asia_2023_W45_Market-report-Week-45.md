@@ -22,8 +22,6 @@ pages: 17
 
 Major central banks around the world have recently halted their interest rate hikes as economic data indicates a softening trend, prompting markets to shift focus towards potential rate cuts. Over the past 18 months, the U.S. Federal Reserve, European Central Bank, and the Bank of England aggressively raised rates to curb rising inflation. The Federal Reserve, in its latest move, kept benchmark interest rates unchanged at 5.25%-5.5%, maintaining the status quo for the second consecutive meeting. Despite Chairman Jerome Powell emphasizing the Fed's ongoing commitment to addressing inflation, markets perceived a slightly dovish shift in the central bank's tone and responded positively to the decision. Market indicators now suggest a likelihood of a 25 basis point cut from the Fed on May 1, 2024, with expectations of a total of 100 basis points in cuts by the end of the next year. Recent softer-than-expected U.S. nonfarm payroll data for October, along with a modest rise in unemployment and a slowdown in wage growth, have contributed to the dovish sentiment. Meanwhile, China is grappling with increased deflationary pressures as consumer prices dipped by 0.2% in October, falling below zero and exacerbating concerns about the need for additional economic stimulus. The decline in consumer prices, coupled with a 13th consecutive monthly drop in producer prices by 2.6%, highlights the persistent challenge of combating deflation in the face of weak demand. While recent policy measures have been implemented, such as interest rate cuts and reduced reserve requirements, calls persist for more supportive measures to prevent a downward drift in inflation expectations that could impact business confidence and household spending. The weak inflation data, driven in part by a slump in pork prices, supports the case for additional policy support, including potential further cuts to the reserve requirement ratio. Despite concerns about China's growth recovery, the data also raises hopes for additional policy measures to counter deflationary pressures.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ Despite a weekly fall, support was regained in the latter part of the week, attr
 Panamax/Kamsarmax:
 
 With El Nino, the Panama Canal authorities plan to reduce the daily passage of vessels, impacting air supply from the Pacific to the Atlantic. In the North Atlantic, spot vessels are gradually accumulating, but overall, there is sufficient cargo supply, leading to a continued upward trend. T/A levels close on the region of US$14,300's a day. On the other hand, South America is in a quiet atmosphere as most fixtures were concluded early in the week. In the Pacific, there is a recovery in rates as the previously low levels of NOPAC cargo influx slowly start to improve. Pacific r/v levels climb to US$11,600's a day.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -72,8 +68,6 @@ In the Atlantic, the positive market trend continues with support from the stron
 | HANDY | 38,000 | 30 |  | 32 | 25 | 17 | 6 |
 | *(amount in USD million) |  |  |  |  |  |  |  |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Baltic Exchange Dry Bulk Indices
@@ -97,8 +91,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 
 HANDYSIZE 38,000 10,750 11,000 10,750 -2.27% 0
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -112,8 +104,6 @@ The Middle East/China sector saw a dip, fuelled by lacklustre market conditions 
 Suezmax:
 
 Owners faced a disheartening week, with rates decreasing overall. Suezmax in West Africa faced a challenging one marked by minimal inquiries. Nigeria/UKC fell significantly by 47 points to WS111, with expectations of further declines in the coming week. The Med region remained stable, providing support to rates in the region. CPC/Med fell slightly to WS155.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -140,8 +130,6 @@ MR: The MR market saw a relatively stable week, with rates on the WC India-Japan
 | BOW EMMA | MR | 25,594 | 2009 | JAPAN | 24.0 (SS) | TAIHUA |
 | ST SARA / VS SALMA / VS SALOME | SMALL | 8,000 | 2008 2007 | TUZLA | 8.3 EACH | UNDISCLOSED |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Baltic Exchange Tanker Indices
@@ -166,8 +154,6 @@ MR: The MR market saw a relatively stable week, with rates on the WC India-Japan
 | LR1 | 74,000 | 31,750 | 31,750 |  | 37,500 | 0 |  | -15.33% |
 | MR | 47,000 | 26,000 | 26,000 |  | 27,500 | 0 |  | -5.45% |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -191,29 +177,16 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 37 | 29 | 17 | 14 |
 | 5,500 - 7,000 *(amount in USD million) | Gearless | 93 | 78 | 66 | 39 | N/A |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 530 ~ 540 510 ~ 520 520 ~ 530 530 ~ 540 IMPROVING/
-
-.
-
-| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 530 ~ 540 | 510 ~ 520 | 520 ~ 530 | 530 ~ 540 | IMPROVING/ |
+| *CHATTOGRAM, BANGLADESH | 510 ~520 | 500 ~ 510 | 490 ~ 500 | 520 ~ 530 | STABLE / |
 | **GADDANI, PAKISTAN | 530 ~ 540 | 510 ~ 520 | 500 ~ 5100 | 520 ~ 530 | IMPROVING/ |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 300 ~ 310 290 ~ 300 280 ~ 290 310 ~ 320 STABLE /
-
-*Ship, the prices are about US$20-30/ton less*
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 300 ~ 310 | 290 ~ 300 | 280 ~ 290 | 310 ~ 320 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -230,15 +203,11 @@ TURKEY
 | GADDANI, PAKISTAN | 440 | 350 | 380 | 610 | 530 |
 | ALIAGA, TURKEY | 280 | 240 | 195 | 295 | 300 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 VESSEL NAME MSC CHIARA
 
 CATHERINE BRIGHT GAS DOLLART
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Ships Sold for Recycling
 
@@ -253,8 +222,6 @@ CATHERINE BRIGHT GAS DOLLART
 
 ## Page 11
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
 ## Insight
@@ -264,8 +231,6 @@ A positive week for the Indian Sub-Continent markets, especially Alang and Gadan
 Alang, India
 
 In India, the domestic ship scrap prices have been steady after declines, and a vast majority have entered back in anticipation that post-Diwali festival, the local markets shall improve. Despite this positive development, uncertainties continue to linger concerning the future trajectory of rates offered by recyclers in the country. Once again, after a short pause, MSC sold their container "MSC Charia" 1984 French, weighing 13,933 tons, reported sold at a gross price of US$537/ ton levels with 350 mt bunkers included. While Omani owners of a bulker called "Catherine Bright" built in 1998 Japan weighing 10,962 tons achieved a speculative gross price of US$535/ton. The demand for imported scrap, meanwhile, was limited as buyers opted for domestically sourced scrap, which is more cost-effective. Indicative offers for shredded scrap from Europe were noted at US$405-410/t CFR Nhava Sheva, while HMS (80:20) scraps were reported at US$385-390/t CFR. A steel mill reported that with festivities approaching, trades are restricted, and local scrap procurement is both convenient and economical. As a result, the focus is currently on domestic procurement rather than imports. Scrap prices are rising due to suppliers capitalising on demand before the holiday period, driven by intense buying from Turkey. The markets have entered the Diwali celebrations, and the coming week shall remain quiet.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -283,15 +248,11 @@ Chattogram, Bangladesh
 
 A sense of gloom has descended upon the Bangladesh markets this week as issues surrounding LC become more intricate, aggravated by a shortage of U.S. dollars. The increasing complexity in handling LC matters is casting a shadow over business transactions, creating a challenging environment for the recyclers in Bangladesh. The situation has become quite dire that few offers have had to be withdrawn considering the situation. Most of the recyclers have commented that, at the moment, the circumstances will not improve in the next two months and have advised late delivery, possibly towards the end of January 2024. The uncertainty in Bangladesh politics ahead of the elections in January, leading to protests, has also added to the overall poor sentiments. Bangladesh's foreign exchange reserves have decreased to US$19.5 billion after the Bangladesh Bank cleared US$1.17 billion in import payments through the Asian Clearing Union (ACU). ACU is an arrangement for settling payments in intra-regional transactions among eight countries, including India, a major trading partner of Bangladesh. The country's foreign exchange reserve was reported at US$20.6 billion on the first day of November based on the IMF's Balance of Payment Manual 6. After the ACU payment, gross reserves stood at US$25.21 billion. While the current reserve level is below the IMF's benchmark of a minimum three-month import cover, the Bangladesh Bank spokesperson expects an increase in the coming weeks, with the possibility of multilateral lenders clearing some instalments, including the IMF's second instalment of its US$4.7 billion loan.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 Aliaga, Turkey
 
 Turkish domestic scrap prices have mirrored the recent increases in imported values, with all Turkish mills raising their domestic scrap buying quotes in the past week. Market sentiment suggests a continuation of the upward trend in imported scrap prices, with expectations that Turkey will face challenges securing December shipment cargoes at lower prices. Some anticipate prices reaching US$380-390/t CFR soon, especially considering the tightening supply situation as winter approaches. While demand in Turkey's domestic market exhibits diverging trends, with improvements in southern Turkey contrasting slower regions, domestic rebar offers stood at US$565-
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -325,8 +286,6 @@ EXCHANGE RATES
 | USD / TRY (TURKEY) | 28.56 | 28.41 | -0.53% |
 
 ## HMS 1/2 & Tangshan Billet
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 

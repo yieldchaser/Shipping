@@ -22,8 +22,6 @@ pages: 19
 
 The recent movements of the US-sanctioned LNG tanker, the Zarya, part of the shadow fleet that facilitates Russia's efforts to circumvent sanctions, is heading toward the Suez Canal after spending time sailing back and forth in the North Atlantic earlier this month. Having loaded cargo from Russia's banned Arctic LNG 2 export facility last month, the tanker is passing along North Africa and is signaling its arrival at Egypt's Port Said, this weekend. Traders are closely monitoring whether the vessel will risk transiting the Red Sea, that has become a dangerous zone for most LNG suppliers since the Houthi rebel attacks earlier this year. The route has been largely avoided by LNGs since, with Russia's Arctic Mulan completing the last known southbound transit through the Red Sea back in May. Sanctioned Russian vessels, including those delivering the prohibited fuel-which has only found buyers in China, accounting for fifteen received cargoes from the Arctic LNG 2 project since August-have been seeking riskier routes to reduce both travel times and associated costs. However, risks in the Red Sea remain high due to ongoing tensions. Meanwhile, a strategic acceleration in maritime trade is underway between China and Peru following the inauguration of a major Chinese-owned port along Peru's Pacific coast. The world's leading container shipping firm, MSC Mediterranean Shipping, is responding to this shift by launching a new weekly direct service to transport goods from the port of Ningbo, China, to Callao, near the Peruvian capital of Lima. This move directly competes with the earlier initiative by COSCO Shipping, the fourth-largest container firm, which opened its US$1.3 billion port in nearby Chancay last year and launched a similar weekly direct line to Shanghai. While the two routes, one traveling to China in twenty-one days and the other arriving in Peru in twenty-three days-are currently complementary, they clearly highlight the increasing significance of trade between China and Peru, even as the development raises concerns in Washington. The new direct routes challenge the traditional model, where imports from China previously took forty to forty-five days to reach Peru after stopping at larger markets like Mexico and other intermediate ports, a practice that was long believed necessary due to Peru's comparatively small market size.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ It was an overall quiet weak for the Capes, largely attributable to the weak car
 Panamax/Kamsarmax:
 
 In the Atlantic, T/A and F/H rates for later December laycans saw minor discounts, leading to a flat market. Notably, the market is benefiting from positive sentiment driven by rumours of increased Chinese grain imports. T/A ended the week at US$17,700's. The Pacific on the other hand holds steady, supported by limited spot cargo coverage from the NOPAC and, crucially, a rise in Indonesian coal cargoes alongside a robust period charter market. Supramax/Ultramax: IIn the Atlantic, the North American market is balanced between vessel supply and cargo demand. Meanwhile, WAFR is showing a stronger, firming trend, as a slight reduction in vessel availability for late November has facilitated active fixtures. The Pacific on the other hand remains steady, with freight rates finding support from an inflow of grain cargoes in the North Pacific and a firm performance on the Backhaul route. Pacific r/v closed lower at US$13,500's.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -69,8 +65,6 @@ Dry Bulk Values
 
 *\*(amount in USD million) | (E) - eco units*
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -89,8 +83,6 @@ Dry Bulk Values
 | EMIL SELMER | HANDY | 32,626 | 2010 | JAPAN | 8.0 | UNDISCLOSED |
 | KALLISTI GS | HANDY | 32,077 | 2010 | JAPAN | 11.2 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -100,8 +92,6 @@ The enforcement of US sanctions against major Russian oil producers, including R
 VLCC:
 
 VLCC saw a surge in the MEG, with weekly rates rising by 24.7% and reaching a new annual high of WS133. This was driven primarily by China's increased demand for alternative crude oil sources, resulting in a large influx of bookings from Chinese charterers, for late November loadings. In the Atlantic, 260,000mt WAFR/China fell slightly to WS119.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -125,8 +115,6 @@ points. This gain was due to a seasonal shift, which resulted in an uptick in de
 
 ## Baltic Exchange Tanker Indices
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 VESSEL NAME OCEANIC FORTUNE STENA SUNSHINE MAERSK MARU / MAERSK MISSISSIPPI
@@ -142,8 +130,6 @@ TYPE DWT YEAR BUILT PRICE (MILLION) USD
 |  | 47,990 | 2010 |  |  |
 
 COMMENTS / BUYERS CHINESE BUYERS GREEK BUYERS MSC
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -170,33 +156,18 @@ Across key long-haul routes, including North America, Latin America, and Africa,
 | NEWNEW STAR 2 | PMAX | 3,534 | 2007 | CHINA | 26.0 | MSC | CROCIERE SA |
 | EF ELENA | FEEDER | 1,338 | 2007 | CHINA | 17.0 | UNDISCLOSED |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 400 ~ 410 380 ~ 390 370 ~ 380 410 ~ 420 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 400 ~ 410 | 380 ~ 390 | 370 ~ 380 | 410 ~ 420 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
 | GADDANI, PAKISTAN | 410 ~ 420 | 400 ~ 410 | 390 ~ 400 | 420 ~ 430 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -213,8 +184,6 @@ TURKEY
 | GADDANI, PAKISTAN | 385 | 610 | 570 | 510 | 460 |
 | ALIAGA, TURKEY | 210 | 310 | 290 | 300 | 350 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -228,19 +197,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights
 
 The recent Tradewinds Ship Recycling Conference, held in Hong Kong on November 18th and 19th, was a resounding success, attracting over 250 enthusiastic participants from across the maritime and recycling industries. It was truly gratifying to see such a strong turnout, creating a dynamic platform for critical discussions as the sector prepares for a transformative period. A major focus of the forum was the recent ratification of the Hong Kong Convention (HKC) in June 2025, and the changes that have taken place since then. The consensus among attendees was one of optimism, with industry leaders collaborating on essential updates and forward-looking strategies to ensure a smooth transition into this new regulatory landscape. The conference also provided valuable insights into regional developments across the major ship recycling nations. In South Asia, the sector is demonstrating significant progress; Pakistan, for instance, celebrated the fantastic news of its first HKC-approved yard, with the government allocating substantial funds to further upgrade its Gadani facilities. India continues to show commitment to improvement, having seen a welcome reduction in accidents following various yard upgrades, while Bangladesh is striving for greater government support and is receiving ongoing assistance from Norway through the SENSREC project, even as its BSRB office prepares for a move to Chattogram. Meanwhile, Turkiye remains cautious in its market outlook for the next year, focusing
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -270,8 +233,6 @@ Chattogram
 
 Bangladesh market remains subdued, with its restricted purchasing activity despite its reputation for offering the highest prices for demolition tonnage within the subcontinent. This soft, selective buying is primarily confined to a few financially secure buyers with an interest in mid- to large-sized vessels, as demand for smaller units is nearly nonexistent. This wider economic pressure across the nation continues to depress local steel consumption, hindering the ability for domestic mills to absorb additional volume. Reflecting the prevailing uncertainty and limited transactions, prices offered by recyclers fell by US$10/LDT this week, while domestic steel plate prices experienced volatility.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Although numerous for sale vessels are currently circulating in, the low purchasing commitment from recyclers indicates that domestic market capacity remains severely constrained by the economic environment.
@@ -283,8 +244,6 @@ A subdued week in Pakistan, with minimal change from preceding weeks as buyers h
 Aliaga, Turkey
 
 The Turkish ship recycling market remain similar been noted in the last few weeks. No drastic changes to note as of this week.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -321,8 +280,6 @@ The Indian imported scrap market softened due to a noticeable dip in demand, ref
 
 The imported scrap market in Pakistan held steady on firm offers, though overall sentiment remained mixed. This stability was underscored by a shredded deal heard to have been concluded yesterday by the UK at US$357 per ton CFR Port Qasim. Suppliers
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 were steadfast in maintaining offers between US$360 and US$362 per ton, yet buyers were unwilling to budge, capping their bids at a tighter range of US$355 to US$356 per ton. This small gap has kept negotiations taut and limited the volume of fresh bookings. Consequently, current assessments for shredded scrap from Europe and the UK remain firmly around US$355 per ton CFR Port Qasim.
@@ -337,8 +294,6 @@ In contrast to the South Asian markets, deep-sea scrap prices in Turkey moved hi
 
 ## HMS 1/2 & Tangshan
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 ## Commodities (Weekinfocus)
@@ -346,8 +301,6 @@ In contrast to the South Asian markets, deep-sea scrap prices in Turkey moved hi
 **Iron ore futures experienced a decline for the second consecutive session on Friday, as the**
 
 market reacted to signals of softer demand and tightening steel margins within China, the world's largest consumer. The most-traded January iron ore contract on the Dalian Commodity Exchange closed daytime trade 0.32% lower at 785.50 yuan per metric ton, equivalent to about US$110.43. Concurrently, the benchmark December iron ore contract on the Singapore Exchange edged down to $103.85 a ton. These price movements occurred against a backdrop of shrinking steel profitability, with a gauge showing that average daily hot metal output, which measures iron ore demand, fell by 0.3% from the previous week to US$2.36 million tons as of November 20. Furthermore, steel margins continued to narrow, leaving just over one-third of steel mills operating at a profit, a significant drop from nearly half of mills operating profitably just a month ago. Despite the recent daily declines, both benchmark contracts are poised for a second weekly gain, rising 1% so far this week. Separately, seaborne iron ore spot prices have remained robust, staying above the key psychological level of US$100 per ton in November, surpassing earlier expectations for a quarterly average price of US$90-95. Adding tension to the supply side, protracted negotiations between China's state iron ore buyer and the miner BHP have tightened the availability of some iron ore, helping to underpin prices despite the overall weakening demand for the key steelmaking ingredient. Meanwhile, base metals slipped as uncertainty over the Federal Reserve's policy trajectory continued to weigh on sentiment. Copper reversed early gains after the U.S. jobs report tempered expectations for near-term easing. Prices had initially been supported by reports that China is weighing additional measures to stabilise its struggling property market, including potential mortgage subsidies for new buyers, higher income-tax rebates for mortgage borrowers, and lower transaction costs. China's prolonged property downturn has curbed construction activity and pressured metals demand, with strength in new-energy sectors and power-grid investment providing the only meaningful offset this year.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

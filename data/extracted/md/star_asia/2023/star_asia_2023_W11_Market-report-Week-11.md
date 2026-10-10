@@ -26,8 +26,6 @@ The international economic landscape is apprehensively awaiting the repercussion
 
 China has lifted trade restrictions on Australian coal, allowing all domestic companies to import it. This move follows the permission granted earlier this year to four major importers to resume purchasing Australian coal. China's economic planning agency, the National Development and Reform Commission, has not commented on the decision. China is the world's largest producer and consumer of coal, and its demand for high-quality Australian coal, which is used by its steelmakers and power plants, is expected to result in imports of up to 1 million tons in the first half of March alone. After news broke that China would allow all domestic companies to import Australian coal, stocks of Australian coal mining companies such as Yancoal Australia Ltd. and New Hope Corp. recovered slightly. However, Chinese coking coal futures continued to decline. China had previously stopped importing Australian coal due to political tensions between the two countries, but the decision to lift the ban is seen as a positive step in restoring ties between them. Australian exporters of other commodities that were also hit by trade restrictions, such as
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 lobster, beef, barley, and wine, are optimistic that the easing of tensions will lead to greater opportunities in the Chinese market.
@@ -47,8 +45,6 @@ Despite adjustments in USG and intra-Pacific routes, the Black Sea and South Ame
 ## Handysize:
 
 In the Atlantic, there was a slight increase in USG new cargo inflows, but the high asking price levels for the Northern Europe/Mediterranean route also increased marginally. Charterers resisted, leading to a flat trend. T/A settled around US$ 10,400's a day at closing. Meanwhile, in the Pacific, the inflow of NOPAC and B/H cargoes persisted. However, the market support from
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -95,15 +91,11 @@ BALTIC EXCHANGE DRY BULK INDICES
 | BSI | 1,318 | 1,209 | 2,922 | +9.02% | -54.89% |
 | BHSI | 694 | 631 | 1,662 | +9.98% | -58.24% |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
 
 # Tankers
 
 Crude oil prices experienced an increase on Thursday after significant losses earlier in the week due to two U.S. bank collapses, which sparked industry meltdown concerns. The early Thursday recovery was influenced by an update on China's growth outlook from Goldman Sachs, reinforcing expectations of higher oil demand this year. This followed optimistic forecasts from OPEC and the International Energy Agency, predicting a record-high global oil demand of 102 million barrels daily. OPEC stated that oil demand would rise by 2.32 million barrels daily, with China contributing significantly. However, the organization expressed concerns about rising interest rates and global debt levels impacting economic growth. Support for prices came from the Swiss central bank's decision to lend up to US$54 billion to Credit Suisse, preventing a devastating collapse. Despite this, price recovery remains unstable
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 5
 
@@ -124,8 +116,6 @@ In the North Sea market, the rate for the 80,000mt Hound Point/Wilhelmshaven rou
 ## Clean:
 
 L.R. freight rates for the Middle East/Northeast Asia route increased due to the ongoing influx of trading as a decline in LPG prices led to a slowdown in naphtha trade and exerted downward pressure on the market. TC16 rose to WS182. In MR, rates between Korea and Singapore have experienced a 23% decline, driven by the ongoing slowdown in N.E. Asian exports and a rise in the number of available vessels.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -170,8 +160,6 @@ L.R. freight rates for the Middle East/Northeast Asia route increased due to the
 | 1,541 | 1,487 | 1,127 | +3.63% | +36.73% |
 | 1,077 | 905 | 994 | +19.01% | +8.35% |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 7
 
 | TYPE | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) DWT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) CURRENT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST WEEK | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST YEAR | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) W-O-W CHANGE | Y-O-Y CHANGE |
@@ -199,8 +187,6 @@ Freight rates across all sizes experience downward adjustments due to supply-dem
 | TS DUBAI | POST PMAX | 6,350 | 2007 | JAPAN | 29.0 | MSC |
 | TS MUMBAI | POST PMAX | 5,680 | 2003 | S. KOREA | 25.0 | MSC |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 8
 
 # Containers Values
@@ -216,30 +202,21 @@ Freight rates across all sizes experience downward adjustments due to supply-dem
 | 5,500 - 7,000 | Gearless | 87 | 80 | 65 | 40 | N/A |
 | *(amount in USD million) |  |  |  |  |  |  |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
 | DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
 |---|---|---|---|---|---|
-| ALANG (WC INDIA) |  |  | CARGO |  | TREND |
 | *For green ship recycling, the prices are about | 550 ~ 560 | 530 ~ 540 | 540 ~ 550 | 580 ~ 590 | STABLE / |
+| CHATTOGRAM, BANGLADESH | \*610 ~ 620 | \*590 ~ 600 | \*570 ~ 580 | \*620 ~ 630 | STABLE / |
+| GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-US$25-30/ton lower.
-
-CHATTOGRAM, \*610 ~ 620 \*590 ~ 600 \*570 ~ 580 \*620 ~ 630 STABLE / BANGLADESH
-
-GADDANI, PAKISTAN NA NA NA NA NA
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-Ship, the prices are about US$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
@@ -252,8 +229,6 @@ CHATTOGRAM, BANGLADESH 470 450 350 450 660
 GADDANI, PAKISTAN 420 420 360 460 645
 ALIAGA, TURKEY 290 280 240 245 410
 ```
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 10
 
@@ -268,8 +243,6 @@ ALIAGA, TURKEY 290 280 240 245 410
 
 # Recycling Ships Price Trend
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 11
 
 # Insight
@@ -280,8 +253,6 @@ The Indian Sub-Continent ship recycling markets continued their positive momentu
 
 Overall a quiet week with no ships reported sold. The price differential between Alang and Chattogram has kept the recyclers on the sidelines. While the fiscal year-end approaches for businesses, activities have slowed down. Demand for scrap steel was slowing down due to falling domestic sentiments. This dragged the domestic ship scrap prices locally after enjoying a robust comeback. Alang remains on wait-and-watch mode as the recent instability in the financial markets with the U.S. dollar slowly strengthening is being closely monitored.
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 12
 
 A vast majority of the ship recyclers don't believe these prices paid by the cash buyers support the actual market conditions, despite a sharp increase in the domestic ship scrap prices amid delays in issuing letters of credit for imported scrap.
@@ -291,8 +262,6 @@ Meanwhile, the Bangladeshi foreign reserves are in critical condition, and banks
 Market participants anticipate the banking situation to improve in the coming months on the back of receiving the second tranche of the IFM loan to Bangladesh.
 
 The Taka remains stable, hovering just below BDT 106 ~ 107 against the U.S. Dollar, while local steel plate prices appear to have plateaued throughout most of the week.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 13
 
@@ -305,8 +274,6 @@ In Pakistan, the week was relatively uneventful. Due to restrictions imposed by 
 ## ALIAGA, TURKEY
 
 Scrap prices in Turkey are observed to be stable, as an adequate number of offers in the market meet the demand from mills. European suppliers are offering HMS 1&2 80:20 at US$455-462/tonne CFR Turkey, while U.S. offers are above US$460/t CFR. Scrap suppliers see a stable trend in prices, with both demand and supply in balance. Western Turkish mills, the primary buyers of shipbreaking scrap, have significantly increased their buying prices since the start of the week, pushing shipbreaking scrap values.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 14
 

@@ -22,8 +22,6 @@ WEEK 20 - May 21, 2023
 
 This week the G-7 leaders convened in Hiroshima, Japan, for their annual summit, where they discussed further sanctions against Russia in response to its invasion of Ukraine. The allies have committed to imposing additional measures aimed at increasing the costs for Russia and its supporters involved in the war effort. In a statement released on Friday, the G-7 stated their intention to deprive Russia of technology, industrial equipment, and services from G7 countries that contribute to its military capabilities. To add to the G7 in coordination, U.S. also imposed new sanctions against Russia. Furthermore, the group has assured Ukraine of receiving the necessary financial support for 2023 and early 2024. The G-7 has been relying on sanctions as a means to deplete Russia's financial resources and impede the progress of its military offensive in Ukraine. Taking a proactive stance, the United Kingdom has already implemented concrete actions. British PM Rishi Sunak announced a ban on the import of Russian diamonds, as well as copper, aluminum, and nickel. Additionally, the U.K. has introduced new restrictions to counter the theft and illegal resale of Ukrainian grains. These measures form part of the broader efforts by the G- 7 countries to exert economic pressure on Russia in response to its aggression in Ukraine. In other news, economic data from the world's largest economies fell short of expectations, raising concerns about the future outlook. China, the second-largest economy globally, reported industrial production and retail sales figures for April that disappointed analysts. Although industrial production showed a significant annual increase compared to March, the growth rate of 5.6% fell well below the consensus projection of 10 .9%. These disappointing figures have fueled worries about the Chinese economy facing greater challenges than anticipated earlier this year. China's economic recovery is slowing down, raising concerns about the need for additional policy measures to support growth. Data from April showed disappointing growth in industrial output, retail sales, and fixed investment, despite the boost from a low base comparison due to last year's lockdown. Of particular concern is the record-high youth unemployment rate, indicating that the recovery is not robust enough to absorb new entrants into the labor market. Meanwhile, in the United States, retail sales for April also failed to impress. Although there was a 0.4% m-o-m increase, ending a two-month decline, it fell short of the consensus forecast of 0.8%. This weaker-than-expected growth in retail sales gives the Federal Reserve more leeway. It increases the likelihood of the central bank pausing its current cycle of interest rate hikes as it grapples with mounting concerns over the debt ceiling and the health of the banking sector.
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ Chinese iron ore port inventories have been decreasing steadily for over two mon
 ## Panamax / Kamsarmax:
 
 Grain sales in Brazil have declined due to ongoing adjustments in pace and sluggish demand for coal in the Pacific region. As international prices for soybeans and maize continue to decrease, influenced by Brazil's abundant harvest, grain exporters in Brazil are trying to adjust their export rates to protect prices. Coal imports are expected to increase as the summer season approaches in the northern hemisphere, and the export of double-cropped corn from Brazil will
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -65,8 +61,6 @@ Handy markets saw an overall weakness this week with discounts on all routes. Ch
 | HONG CHENG | PANAMAX | 75,081 | 2011 | CHINA | 17.2 | GREEK BUYERS |
 | MAESTRO DIAMOND | HANDY | 36,920 | 2015 | JAPAN | 22.5 | TURKISH BUYERS |
 | SUPPER GUNNER | HANDY | 31,922 | 2009 | JAPAN | 13.0 | UNDISCLOSED |
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 4
 
@@ -101,15 +95,11 @@ BALTIC EXCHANGE DRY BULK INDICES
 | 52,000 | 13,650 | 13,750 | 26,000 | -0.73% | -47.50% |
 | 32,000 | 10,500 | 10,500 | 23,250 | 0 | -54.84% |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 5
 
 # Tankers
 
 Oil is on track for its first weekly gain in over a month due to optimism surrounding a potential agreement to raise the U.S. debt ceiling, avoiding a catastrophic default. West Texas Intermediate (WTI) futures rose above US$72 per barrel, resulting in a roughly 3% increase for the week. House Speaker Kevin McCarthy expressed hope that negotiators could reach a preliminary agreement as early as this weekend. Asian refiners are once again purchasing U.S. oil cargoes, and analysts continue to anticipate a tightening of global crude markets during the summer. Despite these positive developments, crude prices remain 10% lower for the year due to China's sluggish economic recovery and the Federal Reserve's tightening of monetary policy. Uncertainty was injected into the market by Fed officials, who expressed divergent views on whether to raise interest rates at their upcoming meeting or adopt a pause. Bank of America Corp. noted that oil has struggled to gain strength this year. However, they believe that supply deficits will emerge and expect prices to rise throughout the second half of the year. Meanwhile, wildfires in Alberta, Canada's leading energy-producing province, have disrupted output and contributed to some market tightness. Rystad Energy estimates that approximately 240,000 BPD have been shut down due to the fires. Additionally, the impasse in U.S. debt ceiling negotiations has weighed on the oil market. Despite these factors, estimates of decreasing U.S. fuel inventories and the International Energy Agency's positive outlook on Chinese oil demand have provided support to oil prices.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -130,8 +120,6 @@ The Aframax size segment has shown a stronger performance in recent weeks, altho
 ## Clean:
 
 L.R.: MEG/NE Asia W.S. experienced a 4.3% increase in the weekly rate. This rise can be attributed to the higher import of Chinese naphtha caused by refinery facility maintenance. However, the declining profit margins of petrochemical products and the competitive pricing of alternative LPG are factors that are constraining further growth. TC5 close to the WS180 mark. MR: Rates between Korea and Singapore dropped as a result of a decrease in petroleum product exports from NE Asia and an increase in the number of available vessels in the region. In the Atlantic, TC14 fell a few points, closing around WS85.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 7
 
@@ -165,8 +153,6 @@ L.R.: MEG/NE Asia W.S. experienced a 4.3% increase in the weekly rate. This rise
 
 # Baltic Exchange Tanker Indices
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 8
 
 | TYPE | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) DWT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) CURRENT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST WEEK | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST YEAR | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) W-O-W CHANGE | Y-O-Y CHANGE |
@@ -181,8 +167,6 @@ L.R.: MEG/NE Asia W.S. experienced a 4.3% increase in the weekly rate. This rise
 
 The Valencia Containerised Freight Index (VCFI), ended 2022 at 3,603 points, down 11.3% compared to December 2021. Since January 2019, the VCFI has gained a total of 260%. The index experienced two distinct phases in 2022, with monthly gains until August reaching a peak of 4,918 points, followed by a significant drop in export prices from September onwards. Meanwhile, SCFI fell 1% w-o-w, reaching 972 points. The decline was primarily driven by a 4% drop in rates on the Shanghai-USWC route. However, rates on other major routes were also affected, with the Shanghai-USEC rate slipping to US$2,365 per FEU.
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
 
 # Containers S&P Report
@@ -191,30 +175,21 @@ The Valencia Containerised Freight Index (VCFI), ended 2022 at 3,603 points, dow
 |---|---|---|---|---|---|---|
 | INGRID | FEEDER | 698 | 2008 | CHINA | 5.8 | TURKISH BUYERS |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
 | DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
 |---|---|---|---|---|---|
-| ALANG (WC INDIA) |  |  | CARGO |  | TREND |
 | *For green ship recycling, the prices are about | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 550 ~ 560 | STABLE / |
+| CHATTOGRAM, BANGLADESH | \*560 ~ 570 | \*550 ~ 560 | \*530 ~ 540 | \*570 ~ 580 | STABLE / |
+| GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | WEAK / |
 
-US$15-20/ton lower.
-
-CHATTOGRAM, \*560 ~ 570 \*550 ~ 560 \*530 ~ 540 \*570 ~ 580 STABLE / BANGLADESH
-
-GADDANI, PAKISTAN NA NA NA NA NA
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 WEAK /
-
-Ship, the prices are about US$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
@@ -227,8 +202,6 @@ CHATTOGRAM, BANGLADESH 420 430 310 520 645
 GADDANI, PAKISTAN 440 420 300 510 660
 ALIAGA, TURKEY 290 270 170 280 400
 ```
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 11
 
@@ -245,15 +218,11 @@ ALIAGA, TURKEY 290 270 170 280 400
 
 # Recycling Ships Price Trend
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 12
 
 # Insight
 
 Overall, the ship recycling sector in the Sub-Continent experienced a lackluster demand by the domestic steel mills amid the decline in global steel prices. Ship recyclers exercised caution in their approach due to sluggish demand from steel mills. The global steel industry finds itself in a state of uncertainty and stagnation, struggling to regain momentum. In the realm of end-of-life ship supplies, the market has witnessed a consistent improvement in the availability of vessels this week, primarily originating from the Far Eastern markets. Ship owners had grown accustomed to this upward trend, eagerly capitalising on the increasing options at their disposal. However, an unforeseen and abrupt decline in ship prices for the last one month has sent shockwaves through the industry, catching many owners off guard and leaving them scrambling to navigate this new reality. Consequently, a significant majority of these owners have opted to adopt a cautious approach, choosing to wait and closely monitor the situation before making any definitive moves. While in the Chinese steel markets, Chinese steelmakers are urging the government to quickly revise standards governing the import of scrap materials in order to boost their volume of imports. The current standards are strict, limiting the availability of suitable varieties and leading to exporters being reluctant to comply. Consequently, Chinese steel plants are cautious about importing raw materials due to the potential for legal consequences. China is the world's largest consumer of scrap, and increasing scrap imports would help to reduce its reliance on imported iron ore. Additionally, this move would align with China's commitment to carbon emissions reduction, targeting carbon neutrality by 2060. To achieve this, Beijing plans to raise the share of steel produced from electric arc furnaces (EAFs), which rely on scrap as a raw material, to 15% by 2025. However, the shortage of domestic scrap is hindering these plans. The revision of scrap standards is crucial for Chinese steelmakers as they seek to expand steel production using electric arc furnaces and address the domestic scrap shortage while striving to achieve sustainability goals. Earlier this year, industry experts and government officials highlighted several factors affecting the potential for increased scrap usage. Global scrap consumption in the steel industry decreased by 7% to 610 million tons in 2022. The top three consumers were China (225 million tons), the European Union (78 million tons), and the United States (55 million tons). This week, the United Nations has now put the famous ULCC-sized FSO Safer, weighing 60,453 tons up for recycling sale due to its potential to cause a catastrophic environmental disaster.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 13
 
@@ -282,8 +251,6 @@ A vast majority of the recyclers believe that the current rebound in the midst o
 In a troubling turn of events, domestic markets are grappling with a persistent decline in prices of domestic ship plates and melting scrap. This can be attributed to the sluggish demand from steel mills, which has weakened onward sales due to the ailing economy. Adding to the complexity of the situation are the mounting challenges surrounding ongoing issues with Letters of Credit (LC) and the strengthening of the U.S. dollar against the local currency.
 
 The domestic ship plate and melting scrap prices are on a steady downward trajectory, causing concerns within the market. The primary reason behind this slump is lackluster sales to steel
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 14
 
@@ -317,8 +284,6 @@ For the time being, the focus now shifts to the upcoming budget to take clues on
 | PABLO | D/V | 7,362.30 | 29.04.2023 | 04.05.2023 |
 | HAN | REEFER | 2,184.45 | 18.04.2023 | 04.05.2023 |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 15
 
 ## GADDANI, PAKISTAN
@@ -330,8 +295,6 @@ Pakistan continues to grapple with economic struggles and escalating U.S. Dollar
 ## ALIAGA, TURKEY
 
 Despite the uncertain political climate surrounding the Turkish General Election, domestic steel prices in the country have shown remarkable stability, holding steady as the nation awaits a crucial runoff. This resilience in steel prices reflects the industry's strength and ability to withstand economic challenges. Key regions such as Marmara, Izmir, and Iskenderun have experienced consistent prices for rebar, with no significant fluctuations observed. The stability follows a notable increase in prices shortly after the election, indicating an initial market response to the political uncertainties. Billet prices in Turkey have also remained constant, while imported ferrous scrap prices have shown minor fluctuations. The stability in steel prices is particularly noteworthy, considering the country's economic future hinges on the election outcome, which could have significant implications for the steel industry due to currency movements and reliance on imported scrap. The market remains watchful, aware of the potential impact of the election runoff on the economy and the steel market.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 16
 

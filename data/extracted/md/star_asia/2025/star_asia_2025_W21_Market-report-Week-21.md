@@ -22,8 +22,6 @@ WEEK 21 - May 23, 2025
 
 The United States and China have agreed to maintain open lines of communication following a high-level call between senior officials on Thursday, signalling continued diplomatic engagement as both nations work towards a comprehensive trade agreement. Chinese Vice Foreign Minister Ma Zhaoxu and US Deputy Secretary of State Christopher Landau exchanged views on various key issues during the conversation, with both sides releasing closely aligned statements on Friday, though they did not specify whether tariffs were among the topics discussed. Despite recent de-escalation efforts following the Geneva talks that resulted in temporary tariff reductions, tensions persist. Financial analysts suggest that while tactical cooperation may continue, strategic decoupling between the world's two largest economies remains inevitable, with both sides likely to employ more targeted measures in critical technology sectors while Chinese exporters increasingly diversify away from US markets and American firms accelerate production shifts out of China. Meanwhile, the recent 90-day negotiating period established between the United States and China has provided temporary relief from escalating trade tensions, although they remain significantly higher than pre-Trump administration levels. This sudden and steep tariff cut has left companies scrambling to navigate new challenges while grappling with persistent issues of high prices, potential empty shelves, and looming layoffs. The uncertainty has particularly plagued the shipping and freight industries, pushing product prices higher and forcing many US importers to halt shipments entirely. On Friday, President Donald Trump proposed a 50% tariff on all European Union imports starting June 1, citing stalled trade talks and accusing the EU of exploiting the U.S. with unfair trade barriers and taxes. The announcement, made on Truth Social, caused immediate market disruption, with European stocks falling 2% and U.S. futures dropping. Trump later confirmed he isn't seeking a deal, stating, "It's time we play the game my way." Treasury Secretary Scott Bessent said the move aims to pressure the EU. The White House downplayed the post as non-policy, while the European Commission declined to comment.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -41,8 +39,6 @@ The Atlantic saw a weak ending to the week as both the North Atlantic and South 
 Handysize:
 
 Handy had a positive end to the week with rates across the routes improving. With uptick in demand in the Pacific and the lack of available tonnage, Inter Pacific ended the week higher at US$8,800's a day. Same was mirrored in the Atlantic region.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -83,11 +79,7 @@ Handy had a positive end to the week with rates across the routes improving. Wit
 | SIENA | HANDY | 32,744 | 2002 | JAPAN | 5.8 | UNDISCLOSED |
 | CS VANGUARD | HANDY | 26,479 | 2007 | S. KOREA | 6.5 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -106,8 +98,6 @@ In West Africa this week, the market ended the week lower with intermittent Euro
 Aframax:
 
 MEG market closed on a firm note this week, supported by fixture activity and limited ballast arrivals. In the Med, 80,000mt Ceyhan/Lavera gain some 14 points to WS135. In the North Sea, 80,000mt x-UKC climb to WS125.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -150,11 +140,7 @@ Tankers S&P Report
 | SEAWAYS FRONTIER / SEAWAYS CITRON | MR | 49,999 | 2007 | S. KOREA | 14.0 EACH | LILA GLOBAL LTD |
 | DING HENG 2 | SMALL | 4,199 | 2007 | CHINA | 4.0 | MIDDLE EASTERN BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -172,8 +158,6 @@ A survey of over 100 small-to-medium US businesses revealed that despite the 90-
 | 5,100 ~ 5,300 | Gearless | 59 | 82 | 66 | - | 41 |
 | *(amount in USD million) | \| = Eco units |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # S&P Containers Report
@@ -184,29 +168,16 @@ A survey of over 100 small-to-medium US businesses revealed that despite the 90-
 | KESTREL / ELA | FEEDER | 1,805 / 1,740 | 2013 2012 | TAIWAN / CHINA | 22.5 EACH | ERASMUS CORP |
 | PANDA VEGA | FEEDER | 1,048 | 2006 | JAPAN | 9.9 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 460 ~ 470 430 ~ 440 440 ~ 450 470 ~ 480 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 450 ~ 460 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE/ |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 460 ~ 470 | 430 ~ 440 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 450 ~ 460 | 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE/ |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -223,8 +194,6 @@ TURKEY
 | GADDANI, PAKISTAN | 270 | 530 | 650 | - | 520 |
 | ALIAGA, TURKEY | 180 | 250 | 330 | 320 | 350 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -239,19 +208,13 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights
 
 The recycling industry is preparing for significant changes as June 26 approaches, bringing mandatory requirements for IHM 1, 2, and 3 that will create considerable market dynamics. Another key component of these changes involves the introduction of the International Ready for Recycling Certificate (IRRC), issued by flag states, which represents a fundamental shift in how vessels approaching their end-of-life are processed. The IRRC requirement forms part of the broader HKC regulation framework, serving as a formal document that verifies vessels have been properly prepared for recycling in accordance with international safety and environmental standards. Overall, the market will need to adapt and recalibrate to accommodate these new regulations, much like the industry adjusted when gas-free certificates were first introduced, with market participants now positioning themselves to meet these evolving regulatory demands while managing the associated costs and operational adjustments that will inevitably follow.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -273,8 +236,6 @@ Anchorage & Beaching Position (MAY 2025)
 Chattogram
 
 The Bangladesh ship recycling market continues to remain muted as the Hong Kong Convention implementation approaches. The situation is further complicated by the current regulatory environment, where no No Objection Certificates (NOCs), are being issued to non-green, non-HKC-compliant yards, resulting in approximately five vessels waiting in the pipeline with uncertain prospects. Buyers are showing limited interest at present, particularly with fewer yards expected to remain active come 26th June. Uncertainty continues to surround the issuance of NOCs, leaving cash buyers and shipowners in limbo. Several vessels have arrived and remain anchored offshore, with their fate still to be determined. The prolonged delays are incurring significant holding costs and exposing owners to increased operational and financial risk.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -301,8 +262,6 @@ Anchorage & Beaching Position (May 2025)
 Aliaga, Turkey
 
 The market continues to reflect last week's inactivity. Prices remain largely unchanged, with no new sales to report this week.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -338,8 +297,6 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 ## India
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 India's imported scrap market remained stable this week as buyers pushed back against higher offer levels, citing subdued steel demand and the ready availability of alternatives such as sponge iron. Shredded scrap offers were mostly positioned in the US$370-375 per ton CFR range, though buying interest proved softer with bids gravitating closer to US$365 per ton. Recent trading activity included the sale of 1,000 tons of Poland-origin HMS 80:20 at US$362 per ton CFR Mundra, reflecting the cautious approach buyers are taking in the current market environment.
@@ -356,8 +313,6 @@ Pakistan's imported scrap market remained sluggish, weighed down by consistently
 
 Turkey's deep-sea ferrous scrap market remained steady day-over-day, with prices for US/Baltic-origin HMS 80:20 holding around US$347 per ton CFR. Both buyers and sellers demonstrated caution, resulting in muted trading activity and minimal movement in price levels.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 This subdued market sentiment stems primarily from slow domestic rebar demand, which has started the week weaker than mills had anticipated, leading to a conservative purchasing approach as mills expect no immediate supply disruptions or sudden demand surges from Asia or other regions that would justify aggressive restocking.
@@ -373,8 +328,6 @@ compounded by rising concerns over weakening demand from China. Increasing inven
 **Iron ore futures declined this week as fresh data pointed to continued weakness in**
 
 China's property sector. New home prices across 70 cities fell 0.12% in April, extending March's 0.08% decline. The trend underscores the challenges facing Beijing as it seeks to shield the economy from the impact of U.S. tariff hikes. While Chinese officials reaffirmed support for existing property sector aid programs, persistent weakness in real estate
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

@@ -26,8 +26,6 @@ pages: 15
 
 2022 has been a memorable year, not least the warmth and support of those who shared the journey with us! Wishing everyone health, love, peace, prosperity, and happiness for this new year, and here's hoping our paths cross in 2023, and we have more memorable moments! This year, EEXI came into effect on January 1, 2023. In an effort to reduce the carbon intensity of ships by 40% by 2030 compared to a 2008 baseline, ships will be required to calculate two ratings: their attained Energy Efficiency Existing Ship Index (EEXI) to measure their energy efficiency and their annual operational Carbon Intensity Indicator (CII) and associated CII rating. The CII rating links GHG emissions to the amount of cargo carried, and the distance traveled. The introduction of mandatory EEXI and CII requirements is part of the Initial IMO Strategy for Reduction of GHG Emissions from Ships, adopted in 2018. The Initial Strategy outlines shortterm, mid-term, and long-term measures to reduce GHG emissions from shipping. What lies ahead for the year 2023? Here are some thoughts from the leading banks. While the Federal Reserve is implementing a tightening campaign, the general consensus is that a recession will hit the US and Europe, though it will be mild. The IMF has also predicted that 2023 will be a difficult year for the global economy, as the main drivers of growth - the US, Europe, and China - are experiencing slowing economic activity. However, Goldman Sachs, JPMorgan Chase, and UBS Asset Management predict that the economy will defy the bearish consensus and that price growth will ease, leading to potential gains for investors. Deutsche Bank expects the S&P 500 Index to rise in the first half of the year before experiencing a 25% drop in the third quarter due to a downturn, but it is expected to bounce back by the end of 2023. It is expected that this year will be one of the worst for the global economy in four decades. There is a high probability of a severe global downturn. Many analysts believe that a hard landing is inevitable. The agreement among strategists is that a mild recession will hit both sides of the Atlantic, with a high bar for any dovish policy pivot, even if inflation has peaked. UBS Group predicts that US 10-year yields will drop to as low as 2.65% by the end of the year due to attractive coupons and renewed demand for safe assets. Investment in the cryptocurrency industry is not expected to be a major focus this year, as the bubble has burst and the pandemic is no longer a significant consideration except in relation to China's efforts to quickly reopen its economy, which could have significant consequences for global investment and consumption.
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 ## Dry Bulk
@@ -41,8 +39,6 @@ There seems to be a lull in fixing activity over the Christmas period, but now r
 #### Panamax / Kamsarmax:
 
 The first index day of the year, on January 3, showed a negative market with limited activity. Despite increased demand for iron ore in the Atlantic, the market structure has not been able to support higher rates due to a surplus of ships. At the week's closing, T/A levels fell to US$13,150 a day. In South America, low activity persists as negotiations between shipowners and charterers have not reached a satisfactory deal. Meanwhile, in the Pacific, the influx of cargo has not been enough to offset the excess of ships, leading to downward pressure on rates. Pacific r/v saw levels in the region of US$ 8,250's.
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -74,8 +70,6 @@ few ships fixed for cargo, but overall demand was weak. Inter-Pacific saw levels
 | HANDY | 38,000 | 28 |  | 27 | 23 | 16 | 5 |
 | *(AmountinUSD million) |  |  |  |  |  |  |  |
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
 
 ## Baltic Exchange Dry Bulk Indices
@@ -100,8 +94,6 @@ DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE % CAPE 180,000 17,25
 | SUPRAMAX | 52,000 | 13,250 | 13,350 | 23,350 | -0.75 | -43.25 |
 | HANDYSIZE | 32,000 | 10,250 | 11,000 | 20,000 | -6.82 | -48.75 |
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 5
 
 ## Tankers
@@ -119,8 +111,6 @@ Suezmax vessels have seen a decrease in all regions this week. Rates for 135,000
 #### Aframax:
 
 In the Mediterranean/Black Sea region, rates have seen a turnaround after falling significantly in the past two weeks. 80,000mt Ceyhan to Lavera climbed 13 points since the New Year to WS173. North Sea remains quite stagnant with flat rates observed in Hound Point to
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -145,8 +135,6 @@ SUEZMAX AFRAMAX
 PANAMAX-LR1 MR TANKER
 
 CURRENT BDTI 1,391 BCTI 1,068
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Tankers S&P Report
 
@@ -217,8 +205,6 @@ the holidays.
 
 NO NEW SALES REPORTED
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 8
 
 ## Containers Values
@@ -234,32 +220,21 @@ NO NEW SALES REPORTED
 | 5,500 - 7,000 | Gearless | 85 | 85 | 70 | 45 | N/A |
 | *(amount inUSD million) |  |  |  |  |  |  |
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-|  |  |  | CARGO |  | TREND |
 | ALANG (WC INDIA) | 550 ~ 560 | 530 ~ 540 | 550 ~ 560 | 580 ~ 590 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | \*520 ~ 530 | \*510 ~ 520 | \*500 ~ 510 | \*550 ~ 560 | STABLE / |
+| GADDANI, PAKISTAN | \*550 ~ 560 | \*540 ~ 550 | \*520 ~ 530 | \*580 ~ 590 | STABLE / |
+| TURKEY \*For Non-EU ships. For EU Ship, the prices are about USUS$30-40/ton less | 270 ~ 280 | 260 ~ 270 | 250 ~ 260 | 300 ~ 310 | STABLE / |
 
-CHATTOGRAM,
-
-BANGLADESH \*520 ~ 530 \*510 ~ 520 \*500 ~ 510 \*550 ~ 560 STABLE /
-
-GADDANI, PAKISTAN \*550 ~ 560 \*540 ~ 550 \*520 ~ 530 \*580 ~ 590 STABLE /
-
-TURKEY
-
-\*For Non-EU ships. For EU 270 ~ 280 260 ~ 270 250 ~ 260 300 ~ 310 STABLE /
-
-Ship, the prices are about USUS$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the
-
-above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
@@ -279,8 +254,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 | XIANG SHUN | 1,314 | 1996 / JAPAN | TANKER | 525 | DELIVERED CHATTOGRAM |
 | DE XIANG | 1,820 | 1990 / JAPAN | TANKER | 530 | DELIVERED CHATTOGRAM |
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 10
 
 ## Recycling Ships Price Trend
@@ -288,8 +261,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 ## Insight
 
 The new year has begun positively for the ship recycling industry as domestic ship scrap prices across-the-board surged due to a shortage of raw materials. The rebound on steel and ferrous scrap prices has rebounded due to the continuous seven months' decline, low inventories, and reduced capacities of the mills. Fresh shipments of ferrous scrap bookings resumed at better levels, with Turkey getting back in the game of buying EU and US cargoes due to a rise in global demand. The increment in the prices is believed to remain strong during the entire winter season due to lesser collection and higher demand.
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 11
 
@@ -299,15 +270,11 @@ The big news this week was from China, which went all out to rescue its deterior
 
 All cylinders are firing! The robust local demand and the shortage of ship supply have taken Alang prices to a new level. A lone ranger in the sub-continent with buying interest across all segments. Alang markets have shrugged off the fears of Pakistan and Bangladesh being out of markets and resumed buying. The recycling community believes the time has come to build inventories as the local ship scrap prices gradually rise. The domestic ship scrap prices have been on a steady northward move and steady exchange rates. Local steel demand in India has been improving, increasing steel plate and rebar prices. Currently, India remains the top place for the sub-continent. Demand for ships remained stable with positive sentiments. However, a vast majority of the recyclers believe the pricing has to be cautiously placed in the light of the recent developments from the neighboring nations.
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 12
 
 #### CHATTOGRAM, BANGLADESH
 
 The new year started with gradual activities resuming. The ongoing saga of the letters of credit continues with a limited number of recyclers being able to facilitate payments on a case-to-case basis. But in general, the markets remain status quo. On the ground level, the recycling yard sales of the ship scrap have reduced in light of rising prices due to shortage as finished products demand lags. Local mills are operating at their 20% to 30% capacity. Most cash buyers still wanted to refrain from risking sales into Bangladesh markets as the banking system is not yet opened up like before, and only a handful of recyclers are able to facilitate payment mechanisms. Overall, ship prices have settled down at the prevailing rates.
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 13
 
@@ -325,8 +292,6 @@ Pakistan entered into an IMF program worth US$6 billion in 2019, which was incre
 #### ALIAGA, TURKEY
 
 Scrap prices in Turkey are seeing sharp increases due to tight supply and the country's need for February shipment cargoes. In the Benelux region, exporters have raised their dock prices to €335-340/MT (US$353 ~ 359) delivered due to the rising prices in Turkey, while domestic suppliers are targeting even higher prices due to tight supply. Turkish mills have also increased their shipbreaking and domestic scrap buying prices, with shipbreaking scrap currently around US$260 ~ 280/MT delivered. It is expected that an uptick in market conditions will continue, and prices offered by recyclers will remain at similar levels with a chance of slight improvement.
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 14
 

@@ -22,8 +22,6 @@ pages: 18
 
 President Xi Jinping got unanimous approval from Chinese lawmakers, to redirect China's economy toward consumption. Such adversity strengthened after Trump elevated tariffs on Chinese goods to 20%, therefore compelling Premier Li Qiang to declare "dynamically augmenting consumption" as the government's primary issue for 2025. China's transition vis-à-vis consumption represents a large restructuring of its economic blueprint, which has depended substantially on investment and exports across many decades. Given that expenditure represents approximately 40% of the GDP, China faces meaningful impediments in overhauling its financial infrastructure. The needed policy adjustments - face resistance throughout China's wide-ranging bureaucracy, especially from state-owned enterprise executives who benefit from the current investment-driven system. Meanwhile, markets experienced significant volatility this week following President Trump's announcement of various tariffs last week, with the S&P 500 briefly plunging below its 200-day moving average before staging a partial recovery. The trading session demonstrated this instability, as stocks swung from a 1% decline to modest gains following Federal Reserve Chair Powell's reassurances about economic stability, though he maintained the Fed's cautious stance on interest rate cuts. Despite the late-day recovery, the tariff concerns coupled with mixed February employment data-created an environment of heightened uncertainty that has investors seeking safety in diversification strategies while the dollar headed toward its worst weekly performance since November 2022. The market's extreme sensitivity to policy shifts was particularly evident as Trump's tariff announcements triggered broader concerns about potential trade wars and their economic impact. The whipsawing prices across major indices-with the Nasdaq 100 briefly entering technical correction territory before rebounding-highlight how sensitive market sentiment can shift in response to economic outlooks. Many analysts suggest that continued uncertainty may be the defining market characteristic until there's more clarity on the administration's trade agenda and its economic consequences.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ In the Pacific, the combination of growing cargo volumes and constrained vessel 
 Panamax/Kamsarmax:
 
 Activity in both basins saw a downturn despite some inquiries. In the North Atlantic, limited transactions have resulted in rates holding their ground without significant movement. The Pacific mirrors this pattern, with expanded gaps between buyer and seller expectations hampering deal completion. Pacific -India route saw rates fell to US$8,200's a day. Supramax/Ultramax: The Atlantic maintains a modest gain amid lackluster cargo demand, T/A closed the week at US$13,150's a day. Similarly, the Pacific continues to show slight firmness while experiencing some rate adjustments from uncertainties related to Indonesian coal pricing issues. Pacific r/v remain at US$10,500's.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -61,8 +57,6 @@ Activity in the Atlantic was sluggish with rates falling to US$6,100's a day at 
 | SUPRAMAX | 56,000 | - | - | 27 | 20 | 13 |
 | HANDY | 38,000 | 31 | 33 | 25 | 17 | 14 |
 | *(amount in USD | million) |  |  |  |  |  |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -88,8 +82,6 @@ Activity in the Atlantic was sluggish with rates falling to US$6,100's a day at 
 ## Tankers
 
 Recent concerns about Asian oil demand forecasts have emerged following weakerthan-expected oil flows to the region, with imports declining by 780,000 BPD in January and February compared to the previous year. This decline, primarily driven by China's 840,000 BPD reduction, appears to stem from supply complications rather than demand issues. The Biden administration's final sanctions against Russia's oil industry disrupted the availability of ESPO crude-a preferred option for Chinese refiners-by restricting the tanker fleet servicing these routes. Market adjustments are already underway as Russia redirects Aframax tankers from western ports to prioritize the Far East-China route, with reports indicating that approximately 11 unsanctioned vessels have recently joined oil delivery operations between Russia and China. These developments, alongside predictions from major energy trader Vitol that global oil demand will remain stable at around 105 million barrels daily until at least 2040, suggest that the current import decline represents a temporary disruption rather than a long-term trend.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -124,8 +116,6 @@ route to E. Africa closed at WS211. In the USG, rates lose traction with not muc
 | BDTI | 879 | 885 | 1,186 | -0.68% | -25.89% |
 | BCTI | 663 | 670 | 959 | -1.04% | -30.87% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 ## Tankers Values
@@ -153,15 +143,11 @@ Tankers S&P Report
 | SC TAIPEI | PROD / CHEM | 22,377 | 2000 | SPAIN | 8.8 (SS) | UNDISCLOSED |
 | SAEHAN INTRASIA | PROD / CHEM | 19,870 | 2005 | JAPAN | 15.1 (SS) | CHINESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Containers
 
 Container freight rates continued their downward slide this week, with the SCFI spot box freight index dropping 5% w-o-w to 1,436 points-a 43% decline from the start of the year. Adding to market uncertainty is the Trump administration's recent announcement of 25% tariffs on Canadian and Mexican products, which has prompted many importers to delay new orders. Despite carriers' attempts to implement GRIs on North American routes this March, the prospects for significant rate rebounds remain limited due to persistent excess capacity. European shipping routes represent a notable exception to the downward trend, showing their first rate increase of the year. Meanwhile, Mediterranean routes continue to experience declining rates, and Southeast Asian lanes show mixed results with some increases on routes where carriers have successfully adjusted capacity.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -176,29 +162,16 @@ Container freight rates continued their downward slide this week, with the SCFI 
 
 S&P Containers Report
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 450 ~ 460 430 ~ 440 440 ~ 450 460 ~ 470 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 320 ~ 330 300 ~ 310 290 ~ 300 330 ~ 340 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 450 ~ 460 | 430 ~ 440 | 440 ~ 450 | 460 ~ 470 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | STABLE / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 320 ~ 330 | 300 ~ 310 | 290 ~ 300 | 330 ~ 340 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -215,8 +188,6 @@ TURKEY
 | GADDANI, PAKISTAN | 360 | 460 | 650 | - | 540 |
 | ALIAGA, TURKEY | 230 | 250 | 380 | 320 | 330 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -232,19 +203,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
 Insights Alang
 
 India's ship recycling market remains subdued with multiple challenges faced by the industry, especially in Bangladesh where the yards are trying to cope up fixing the yards in accordance with the guidelines set by local authorities before 31th March 2025. Imported scrap demand is particularly weak, reflected in a widening bid-offer gap. Despite a rally in domestic prices, scrap importers remain resistant to higher offers, citing sufficient domestic scrap availability and currency volatility concerns. With the fiscal year-end approaching, industry participants expect trading activity to remain limited in the short term. The broader outlook appears challenging as the impending US reciprocal tariffs, effective from April 2, threaten to disrupt export markets and potentially redirect excess steel supply into India. Credit ratings agency S&P Global warns this could trigger a domestic steel price correction of around INR 3,000/ton (US$34.45/ton), potentially delaying full utilisation of India's newly added steel capacity. The ship recycling sector may face continued headwinds before any meaningful recovery takes hold.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -265,8 +230,6 @@ Anchorage & Beaching Position (MARCH 2025)
 Gadani
 
 Gadani ship recycling market are seeing signs of revival, with renewed activity through the purchase of 3-4 vessels ranging between 5,000-6,000 LDT at prices around US$440-$450 per light ton. This upturn has brought a welcome sense of optimism to local recyclers who are simultaneously working to upgrade their facilities to meet HKC compliance. Meanwhile, Pakistan's financial landscape shows some positive indicators, with the State Bank of Pakistan (SBP) actively building its foreign exchange reserves through dollar purchases from the interbank market. The central bank is working toward a target of US$13 billion in reserves by the end of FY25, a goal being closely monitored by an IMF mission
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -297,8 +260,6 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 500 | 433 | 637 |
 | HOUSTON | 523 | 437 | 686 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -312,8 +273,6 @@ cautious stance, deterred by a widening bid-offer gap and adequate domestic scra
 **Bangladesh's imported scrap market faced a downturn this week, hindered by slow LC**
 
 openings and weak construction activity. Australian-origin shredded scrap was offered at US$380-385/ton CFR, while HMS (80:20) was priced at US$360-365/ton CFR. Hong Kong-origin PNS material was heard at $375-380 per tonne CFR. Limited deep-sea bulk inquiries underscored the cautious sentiment. Malaysian busheling was offered at US$385-390/ton CFR, but a wide price gap between bids and offers impeded deals. Despite minor improvements in LC conditions, traders anticipate a market recovery only after Ramadan.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -331,8 +290,6 @@ of losses amid escalating trade tensions between the US and China. The benchmark
 
 measures in China lifted market sentiment. Chinese leaders continued their top
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 legislative meetings, with investors closely watching for concrete plans to reduce overcapacity in heavy industries. Meanwhile, the U.S. market encountered with the prospect of new tariffs on copper imports. Despite the Commerce Department's investigation into alleged dumping, President Trump's speech to Congress indicated that a levy on copper is already in the works. The U.S. has seen a steady decline in domestic base metal production, leaving it heavily reliant on offshore suppliers. For aluminium, imports account for 67% of primary consumption, with copper not far behind. The looming tariffs have sparked a rush to secure supplies, driving up copper and aluminium premiums sharply in the U.S. and extending waiting times on global exchanges. In the short term, premiums are expected to rise further as the market adjusts to the disruption in physical supply chains. With global inventories relatively low, tariffs are likely to exert additional upward pressure on spot prices in the coming weeks. While February's private-sector survey revealed stronger supply, demand, and export orders-aligning with official PMI data and suggesting last year's stimulus measures are taking effect-investors remained cautious about the steel industry outlook. Other steelmaking ingredients on the Dalian Exchange showed mixed performance, with
@@ -348,8 +305,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 101 | -5.60% | -14.40% | 107 | 118 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 101 | -6.48 | -15.12% | 108 | 119 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

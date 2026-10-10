@@ -22,8 +22,6 @@ pages: 19
 
 The 43-day government impasse, which had become the longest shutdown in U.S. history, officially concluded when President Trump signed legislation to resume operations. Federal workers were immediately expected back on the job beginning Thursday, marking the end of a stalemate that had caused significant disruptions, including halting food aid to millions of households and forcing federal employees to go unpaid for over a month. However, a full return to normal operations and clearing the ensuing backlog may take days or even weeks; Transportation Secretary Sean Duffy indicated it could take as long as a week just to begin lifting flight restrictions at major airports. The economic fallout from the shutdown was considerable, impacting the U.S. economy and clouding visibility into its performance. The Congressional Budget Office had projected that a six-week government closure would lower real gross domestic product growth in the current quarter by 1.5% points. While the CBO forecast that a little more than half of that loss might be recouped early the following year once federal programs and back pay resume, some pain will linger. Many of the 42 million low-income Americans covered by the federal food stamp program were denied their November benefits, with states requiring as long as a week to update beneficiary files. Furthermore, key economic reports, such as the October jobs and Consumer Price Index data, are unlikely to be released on schedule, further obscuring the economic picture. Ultimately, the pressure from these hardships forced a reopening of the government, though not without lingering political conflict. The House voted 222 to 209 to pass interim funding through January 30, with Democrats largely opposing the measure because it did not renew the Affordable Care Act subsidies. This resolution followed a familiar pattern where the party attempting to leverage the shutdown for policy gains-in this case, Senate Democrats who initially blocked a temporary funding package-ultimately backed down in the face of public pressure.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Capesize market has shown a positive reversal, regaining momentum after rece
 Panamax/Kamsarmax:
 
 In the Atlantic, transactions are occurring, but rate increases remain limited as market players continue to be in a stalemate, resulting in a lack of upward movement. T/A ended the week at US$17,600's. The Pacific on the other hand is showing initial signs of a correction, as the gains has diminished from short-term pressure of reduced inflow of coal cargo originating from Indonesia. Supramax/Ultramax: Supramax in the Atlantic shows a firming outlook and rising rates, supported by a decrease in vessel supply on most routes. Likewise, the Pacific is experiencing rising rates and maintaining a solid market sentiment across, notably in the North Asia region where charterers' bidding prices have slightly increased. Pacific r/v ended the week at US$13,150's.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -61,8 +57,6 @@ Handies in the Atlantic saw a firming trend, primarily due to reduced vessel sup
 | ULTRAMAX | 64,000 | 34 | 38 | 31 (E) | 22 | 15 (56K) |
 | HANDY | 38,000 | 30 | 33 | 25 | 18 | 14 |
 | *(amount in USD | million) \| (E) - eco units |  |  |  |  |  |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -89,8 +83,6 @@ Handies in the Atlantic saw a firming trend, primarily due to reduced vessel sup
 | CHAMCHURI NAREE | HANDY | 33,733 | 2005 | JAPAN | 8.25 | TURKISH BUYERS |
 | YANGTZE FLOURISH | HANDY | 32,503 | 2012 | CHINA | 9.8 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -104,8 +96,6 @@ MEG concluded the week with a notable gain at closing with 270,000mt to China at
 Suezmax:
 
 The West African market ended with stable rates, supported by ongoing supply crunch. This is driven by the replacement demand for Russian crude oil from European refineries and loading volumes in preparation for winter. 130,000mt Nigeria/UKC remain at WS157. In the MEG, 140,000mt to the Mediterranean (via the Suez Canal) climb 2 points to WS112.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -125,8 +115,6 @@ by a recovery in regional demand. In the MEG, rates remained stable with TC17 ME
 
 ## Baltic Exchange Tanker Indices
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -140,8 +128,6 @@ by a recovery in regional demand. In the MEG, rates remained stable with TC17 ME
 | BRISTOL TRADER | MR | 35,863 | 2016 | JAPAN | 39.0 (STST) | EUROPEAN BUYERS |
 | GOLDEN RAY | PROD / CHEM | 19,802 | 2012 | JAPAN | 23.0 (STST) | PVTRANS OILFIELD SERVICES |
 | GINOSTRAM | PROD / CHEM | 18,639 | 2024 | CHINA | 27.0 | AUGUSTA DUE SRL |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -167,33 +153,18 @@ Spot container rates generally ticked lower this week, with the SCFI Index dropp
 | PANAY | FEEDER | 1,930 | 2023 | CHINA | 35.5 | CMA | CGM |
 | WARNOW WHALE | FEEDER | 1,296 | 2007 | CHINA | 13.0 | UNDISCLOSED |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 400 ~ 410 380 ~ 390 370 ~ 3800 410 ~ 420 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 400 ~ 410 | 380 ~ 390 | 370 ~ 3800 | 410 ~ 420 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
 | GADDANI, PAKISTAN | 410 ~ 420 | 400 ~ 410 | 390 ~ 400 | 420 ~ 430 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -210,8 +181,6 @@ TURKEY
 | GADDANI, PAKISTAN | 385 | 610 | 570 | 510 | 460 |
 | ALIAGA, TURKEY | 210 | 310 | 290 | 300 | 350 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -223,19 +192,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 The Indian ship recycling market remained steady throughout the week, with activity levels constrained primarily by the robust value of the USD. Though buying interest is present, the low availability of suitable demo tonnage continues to restrict the market, with any emerging offers typically being made at reduced levels. This cautious environment is further challenged by the continuous influx of "shadow fleet" vessels, which are reportedly being handled quickly and at significantly cheaper prices, pulling down overall market sentiment. Weak fundamentals persist, with low demand in the local steel market contributing to softening prices and prompting steel mills to reduce production due to rising inventories of finished products.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -256,8 +219,6 @@ Anchorage & Beaching Position (November 2025)
 | FU OCEAN | BULKER | 21,338 | 10.11.2025 | AWAITING |
 | NEW PROGRESS | TANKER | 2,147 | 09.11.2025 | AWAITING |
 | ANG | BARGE | 2,630 | 27.10.2025 | 04.11.2025 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -282,8 +243,6 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 432 | 402 | 707 |
 | HOUSTON | 452 | 418 | 693 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
@@ -300,8 +259,6 @@ Imported shredded scrap prices in Pakistan maintained stability w-o-w, holding s
 
 The imported scrap market in Bangladesh remained quiet, characterized by declining prices due to weak buying interest. Offers for GI bundles were heard around US$310 per ton, with buyers bidding at US$305 per ton. HMS 80:20 from Australia was reportedly at US$330 per ton, while mixed HMS-PNS cargoes from Hong Kong were offered at US$330- 335 per ton. Australian shredded scrap offers stood notably higher at US$360-365 per ton CFR, with general HMS offers ranging from US$345-350 per ton CFR.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 ### Turkey
@@ -315,8 +272,6 @@ Imported deep-sea scrap prices in Turkey remained stable as limited cargo supply
 **Iron ore futures prices traded unevenly on Thursday as market participants weighed the**
 
 impact of softening near-term demand in top consumer China and the prospects of increasing supply against potential restocking activity by steelmakers. Specifically, the most-traded January iron ore contract on China's Dalian Commodity Exchange (DCE) closed daytime trade 0.26% higher at 772.5 yuan (US$108.45) a metric ton, while the benchmark December contract on the Singapore Exchange (SZZFZ5) saw a slight dip, easing 0.03% at US$102.75 a ton as of 0724 GMT. Traders are refocusing on fundamental factors which currently lean toward the weak side, according to analysts at Shengda Futures. Expectations for an increase in supply and a concurrent softening of demand throughout the remainder of the year had already
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

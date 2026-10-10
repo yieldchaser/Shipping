@@ -22,8 +22,6 @@ WEEK 11 - March 16, 2024
 
 This week, the focus was once again on the FED with the core inflation data that was released on Tuesday. US inflation remained persistently high in February, with notable increases in the prices of used cars, air travel, and clothing, underscoring the Federal Reserve's cautious stance on reducing interest rates. The core consumer price index, which excludes volatile food and energy costs, rose by 0.4% from January and 3.8% yearover-year, surpassing expectations for the second consecutive month. This trend suggests inflation's stubbornness, making the Fed hesitant to ease monetary policy prematurely. The report indicates a 4.2% annualised rise in core CPI over the past three months, the highest since June, hinting at ongoing inflation pressures. Despite some signs of easing in specific categories, the overall data supports a continued cautious approach by the Fed, with market participants adjusting expectations for potential rate cuts. The Fed's upcoming decisions will likely be influenced by this data, alongside future economic indicators. On the Red Sea front, Yemen's Houthi rebels, led by Abdul-Malik al-Houthi, have announced plans to escalate their missile campaign against ships associated with Israel, expanding their operational reach to the Indian Ocean enroute to the Cape of Good Hope. This strategic shift aims to target vessels diverting from the group's primary operational zones-the Red Sea and the Gulf of Aden-since mid-November. Al-Houthi's declaration comes in the wake of a Houthi missile strike on a merchant vessel in the Red Sea, causing damage but leaving the crew unharmed. This incident follows a series of attacks, including a deadly assault on the Barbadosflagged bulker True Confidence, resulting in three fatalities. The expansion reflects a broader strategy to disrupt maritime routes, as evidenced by a significant decrease in Suez Canal shipping and a corresponding surge in traffic around the Cape of Good Hope. The intensified campaign has provoked retaliatory missile strikes from the US and UK against Houthi targets in Yemen, underscoring the conflict's escalating maritime sector.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -39,8 +37,6 @@ Panamax/Kamsarmax:
 It was a good overall for Panamax with gains across all routes. In the Atlantic, the tight
 
 supply in the North Atlantic and deepening demand for grains in South America continue to fuel the upward gains as T/A close higher at USD15,500's a day. Despite weak inflows of new cargo on most routes in the Pacific, steady demand for coal in Indonesia continues to support the market, maintaining a positive outlook despite Ramadan in the region, which is a seasonally slower market. Pacific r/v saw levels at USD18,650's a day. Supramax/Ultramax: The Supramax market also experienced growth due to a shortage of South American grains in the Atlantic. Despite a decrease in coal demand, South American grain
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -72,8 +68,6 @@ It was a decent week for this segment as demand in the Atlantic help to support 
 | SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 15,750 | 0 |  | -4.76% |
 | HANDYSIZE | 38,000 | 14,000 |  | 14,000 |  | 12,750 | 0 |  | +9.80% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -95,8 +89,6 @@ It was a decent week for this segment as demand in the Atlantic help to support 
 | WESTERN PANAMA | HANDY | 39,000 | 2015 | CHINA | 18.5 | VEGA BULK |
 | WHITE SEA | HANDY | 35,248 | 2012 | CHINA | 11.6 | GREEK BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -110,8 +102,6 @@ Shippers in the Middle East region bustled with activity as they secure vessels 
 Suezmax:
 
 Weakness persisted due to sluggish demand in the Middle East, exacerbated by the Red Sea incident impacting the East of China market. The movement of ships from Suez to
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -144,8 +134,6 @@ Tankers Values
 | LR1 | 73,000 | 59 | 63 | 53 | 43 | 30 |
 | MR | 51,000 | 49 | 53 | 45 | 38 | 26 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 *\*(amount in USD million)*
@@ -162,8 +150,6 @@ Tankers Values
 
 # Tankers S&P Report
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 # Containers
@@ -175,8 +161,6 @@ A new player from China is set to join the transpacific container trade. Hede In
 VESSEL NAME TYPE TEU YEAR BUILT PRICE COMMENTS /
 
 (MILLION) USD BUYERS NO NEW SALES REPORTED
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 9
 
@@ -192,22 +176,14 @@ VESSEL NAME TYPE TEU YEAR BUILT PRICE COMMENTS /
 | 5,100 | Gearless | 94 | 82 | 69 | 39 | 25 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 490 ~ 500 | 470 ~ 480 | 470 ~ 480 | 500 ~ 510 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
 | GADDANI, PAKISTAN TURKEY | 530 ~ 540 | 520 ~ 530 | 510 ~ 520 | 540 ~ 550 | STABLE / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 310 ~ 320 | 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | WEAK / |
 
@@ -226,8 +202,6 @@ ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 WEAK /
 | GADDANI, PAKISTAN | 420 | 360 | 495 | 680 | 550 |
 | ALIAGA, TURKEY | 280 | 240 | 255 | 460 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -240,11 +214,7 @@ ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 WEAK /
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -266,8 +236,6 @@ Anchorage & Beaching Position (March 2024)
 Chattogram, Bangladesh
 
 The only markets which is viable are open for ships at elevated prices compared to their neighbours as their domestic ship scrap prices are higher and supportive. This week, reports emerged of Turkish shipowners selling a panamax bulker, named the Denak Voyager, in Japan in 1996 and weighing 9,518 tons for a significantly higher price than initially expected. Vessel was originally slated for recycling under the Hong Kong Convention standards. However, due to an attractive price differential, the owners opted for a non-HKC sale, ultimately securing a notably higher sale price.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -300,8 +268,6 @@ Aliaga, Turkey
 
 Turkish steel mills have reduced their domestic scrap purchase prices despite the Turkish lira weakening against the dollar and a correction in imported scrap prices. This bearish
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 sentiment in the market is attributed to weak steel sales and concerns about China. Weak steel sales, pressured steel prices, and a second crash in the Chinese market have contributed to Turkey's negative sentiment. Meanwhile, European suppliers are hesitant to lower their prices due to current dock prices, weak flow, and the strong euro. The price trend in Turkey will be determined by domestic demand, with concerns about potential price drops if purchasing halts. Additionally, the Turkish domestic rebar market saw subdued demand due to tightened credit accessibility, with reports of bankruptcies adding caution to the market. Turkish shipbreaking scrap fell to USD375-385 per tonne delivered. The Turkish lira depreciated further against the dollar, reaching 32.10 per dollar by Wednesday's close.
@@ -333,8 +299,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 279.28 | 279.50 | +0.08% |
 | USD / TRY (TURKEY) | 32.21 | 31.93 | -0.88% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -346,8 +310,6 @@ This week, the global market for ferrous scrap metal has seen offers decrease by
 to USD403/ton CFR, and HMS (80:20) to USD377/ton CFR, reflecting a preference for more affordable domestic sources. This sentiment is echoed in Pakistan, where cautious buyers are monitoring global price trends amid a slowdown in the steel market. **Bangladesh, however, is** bucking the trend with increased activity in scrap imports, securing deals from the US and Australia. This comes as domestic rebar and billet prices hold steady, and post-election infrastructure developments spur construction activities. In Pakistan, the scrap market is experiencing a moderate level of activity, with industry players closely monitoring global price trends. The aim is to minimise procurement costs in light of a downturn in finished steel prices. A key figure from a leading mill noted that some buyers are on the sidelines, waiting for scrap prices to bottom out, especially as Turkey faces significant price drops.
 
 # HMS 1/2 & Tangshan Billet
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 

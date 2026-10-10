@@ -26,8 +26,6 @@ The October 7 raid carried out by Palestinian militants caught the Israeli gover
 
 BDI, reached a one-year high at the start of the week, driven by increased rates for capesize units. Capesize average daily earnings rose to US$28,901 before levels saw a decline throughout the week. By Thursday, BDI experienced its third consecutive day of decline. This was attributed to reduced demand in more significant vessel segments, with the overall index falling to 1,935 points. BCI also fell by 0.8% to 3,278 points, with average daily earnings declining to US$27,185. BPI and BSI indices also witnessed declines, while the Supramax segment saw a slight increase, noted for its strength in the Far East.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 Iron ore futures experienced a decline, hitting a nearly six-week low after the Golden Week holiday. Factors such as negative steel mill margins, production restrictions, and uncertainties in China's economic recovery contributed to the downturn.
@@ -44,8 +42,6 @@ Handysize:
 
 The Atlantic has an overall positive market sentiment as ship demand surpasses supply along major grain shipping routes. However, T/A routes are seeing a weaker performance compared to the previous, with rates falling slightly to US$15,500 a day. The prevailing North Pacific demand that supported the market this week is diminishing, intensifying the supply-dominant structure.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 3
 
 VESSEL NAME AM GIJON EAST TRADER CAPE STAR KUNO OLDENDORFF HONWIN JAG ROHAN
@@ -59,8 +55,6 @@ INDICES
 BDI BCI BPI BSI BHSI
 
 TYPE CAPESIZE PANAMAX SUPRAMAX HANDYSIZE
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Dry Bulk - S&P Report
 
@@ -128,8 +122,6 @@ W-O-W CHANGE Y-O-Y CHANGE
 
 OPEC released its 2023 World Oil Outlook on Monday, projecting increased world oil demand for the medium and long term. In contrast to forecasts by entities like the IEA predicting a peak in demand this decade, OPEC anticipates a decade or more of rising consumption. The organisation emphasises the need for US$14 trillion in investments to meet this demand despite the growing use of renewable fuels and the rise of electric cars. OPEC Secretary General highlighted a pragmatic approach to energy transition and criticised calls to halt investments in new oil projects, warning against potential energy and economic chaos. The expected world oil demand is set to reach 116 million barrels a day by 2045, an increase of 6 million barrels from the previous year's estimate, with growth driven by China, India, other Asian nations, Africa, and the Middle East. OPEC raised concerns about pushback against net-zero policies and emphasised that climate action should not compromise global energy security. The latest outlook suggests a further increase of 1.6 million barrels per day in the last decade of the forecast period. OPEC+ is currently cutting supply to support crude prices, and the report envisions OPEC's total share of the oil market rising to 40% in 2045 from 34% in 2022 as non-OPEC output declines from the early 2030s.
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 The oil market experienced increased volatility at the start of the week following a weekend conflict in Israel/Palestine, disrupting the geopolitical landscape in the crucial oil-exporting region of the Middle East. The potential impact on oil supply is a concern, and the situation could lead to stricter enforcement of U.S. sanctions on Iran, potentially reducing oil supply and disrupting the anticipated surplus for 2024. The attack may prompt a more stringent stance on Iranian oil exports. This could further tighten the oil market, with global supply and price implications.
@@ -149,8 +141,6 @@ Increased cargo volume in the U.S./Europe route and growing demand in the Wester
 Clean:
 
 MR: The MR market in the UKC concluded the week on a quiet note, witnessing a significant increase in available vessels. Rates on the UKC-USAC route experienced a wo-w drop to WS160, reflecting softer trends in the U.S. Gulf. MEG has also seen a correction in terms of rates, with TC17 losing 18 points to WS224.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -185,8 +175,6 @@ Tankers Values
 | PANAMAX-LR1 | 73,000 | 57 | 60 | 50 | 37 | 20 |
 | MR TANKER *(amount in USD million) | 51,000 | 47 | 50 | 41 | 33 | 19 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tanker 12 months T/C rates average (in USD/day)
@@ -202,8 +190,6 @@ Tankers Values
 ## Containers
 
 The container spot freight market showed varying patterns this week. Although major routes saw significant drops, significant improvements were observed on non-mainlane ones. The SCFI rate for container spot freight increased by 0.6% from September but has decreased by 16% since January 23, 2016. On the Shanghai to Northern Europe trade route, the rates dropped 6% to around $552 per TEU, which is the lowest since June 2016.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -224,31 +210,16 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 37 | 29 | 18 | 15 |
 | 5,500 - 7,000 *(amount in USD million) | Gearless | 93 | 78 | 66 | 41 | N/A |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 540 ~ 550 530 ~ 540 520 ~ 530 580 ~ 590 WEAK /
-
-.
-
-\*CHATTOGRAM, 490 ~500 450 ~ 460 460 ~ 470 510 ~ 520 WEAK /
-
-BANGLADESH
-
-\*\*GADDANI, 510 ~ 520 500 ~ 510 480 ~ 490 510 ~ 520 WEAK /
-
-PAKISTAN TURKEY
-
-*\*For Non-EU ships. For E.U.* 310 ~ 320 300 ~ 310 290 ~ 300 320 ~ 330 WEAK /
-
-*Ship, the prices are about US$20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 540 ~ 550 | 530 ~ 540 | 520 ~ 530 | 580 ~ 590 | WEAK / |
+| \*CHATTOGRAM, BANGLADESH | 490 ~500 | 450 ~ 460 | 460 ~ 470 | 510 ~ 520 | WEAK / |
+| \*\*GADDANI, PAKISTAN | 510 ~ 520 | 500 ~ 510 | 480 ~ 490 | 510 ~ 520 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$20-30/ton less | 310 ~ 320 | 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | WEAK / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -265,8 +236,6 @@ PAKISTAN TURKEY
 | GADDANI, PAKISTAN | 440 | 360 | 375 | 605 | 590 |
 | ALIAGA, TURKEY | 270 | 220 | 200 | 290 | 330 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ships Sold for Recycling
@@ -280,19 +249,13 @@ PAKISTAN TURKEY
 
 ## Recycling Ships Price Trend
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 12
 
 ## Insight
 
 The Tradewinds Ship Recycling conference in Singapore delved into critical issues shaping the ship recycling industry, providing insights into the challenges and progress across various countries. One of the topics discussed centred on the Recycler's Perspective regarding the future trajectory of the Hong Kong Convention (HKC), with a collective aspiration for Pakistan to emulate Bangladesh's strides in rectifying HKC compliance. Another point was the complexity of regulations, including Basel and EUSSR standards, which highlighted the need for international governance to create a unified understanding and preference was given to have HKC as the suitable framework for green recycling. Here are some of the highlights from the recycling regions. Turkey recyclers faced a challenging year with historically low ship volumes and light displacement tonnage. The difficulties were attributed to both economic factors, such as rising interest rates, and global dynamics, including China's steel export pressure. Despite a challenging first half, optimism existed for a potential recovery towards the end of the year, fuelled in part by demand from India. However, the expectation of a decline in scrap steel prices added a note of realism. Indian recyclers showcased advancements with 126 yards achieving the Standard of Compliance (SOC) and continuous improvements in worker training. However, the challenges they faced were also a decline in ship arrivals and some yards struggling with the recovery of their investments after making the improvements. One of the pivoting talk points was the divergence in regulations between HKC and EUSSR, which presented a significant challenge, with Indian recyclers asserting that HKC standards were sufficient. Bangladeshi recyclers, on the other hand, emphasised the need for a governing board overseeing recycling. They showcased their SENSREC project in Norway, fostering collaboration between recyclers and regulators to rectify HKC compliance. While there are currently four HKC-compliant yards in Chattogram, efforts are underway to ensure all the yards meet the standard. An achievement highlighted by the Bangladesh Ship Breakers & Recyclers Association (BSBRA) was the establishment of a 200-bed hospital as part of the SENSREC initiative. Lastly, industries' best wishes go to Pakistan, as they unveiled their commitment to rectifying HKC by 2025 at The Tradewinds Recycling Conference this year. Pakistan recognised its challenges, including the time constraint and the necessity for an industry mindset shift within the yard owner. Currently, most shipyards in Pakistan are ISO certified, but their main contest will be how they handle the safe disposal of Inventory of Hazardous
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -316,8 +279,6 @@ Anchorage & Beaching Position (October 2023)
 | MSC JASMINE | CONTAINER | 14,305 | 01.10.2023 | 05.10.2023 |
 | E DRILL | RIG | 4,904 | 01.10.2023 | 05.10.2023 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 | FRIO OLYMPIC | REEFER |  | 4,698 | 28.09.2023 | 04.10.2023 |
@@ -337,8 +298,6 @@ Anchorage & Beaching Position (October 2023)
 Gaddani, Pakistan
 
 A sharp decline in domestic ship scrap prices has significantly dampened enthusiasm amongst ship recyclers for fresh purchases. Even as the Pakistani rupee experienced a notable uptick, appreciating by approximately 12% in just two weeks, the domestic ship scrap prices dropped by about 30%, offsetting the FX gains. Despite some encouraging steps by banks to ease LC procedures, it has not yet rekindled a strong buying eagerness. Instead, most recyclers have opted to remain on the sidelines. They are closely watching the currency's stability and are also awaiting improvements in domestic scrap prices before committing to further transactions.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -365,8 +324,6 @@ PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
 | ROTTERDAM | 602 | 514 | 871 |
 | HOUSTON | 613 | 502 | 896 |
 
-### Star Asia Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 ## HMS 1/2 & Tangshan Billet
@@ -378,8 +335,6 @@ Insight
 **Copper saw an initial rise in early trading, benefiting from a boost in risk assets following**
 
 less hawkish comments from the Fed. Positive reports of additional fiscal stimulus in China were well-received by the market. However, sentiment took a hit later in the session due to increased copper inventories. Stockpiles on the LME reached 181.2kt, their highest level in nearly two years. This increase coincided with a deteriorating demand outlook in traditional sectors like construction, further exacerbated by a stronger USD, which posed challenges for the base metals sector. On the other hand, Iron ore futures saw an uptick in price despite production cuts by Chinese steel mills. These cuts were implemented to support steel prices, which had experienced significant declines in recent months. However, iron ore prices rose following Australia's decision to reintroduce a list of critical minerals, hinting that domestically abundant commodities like iron ore might be added.
-
-### Star Asia Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 

@@ -22,8 +22,6 @@ WEEK 30 - July 25, 2025
 
 This weekend, all eyes are turning to Scotland, where a critical trade negotiation is set to unfold. European Commission President Ursula von der Leyen is traveling to meet with US President Donald Trump in a last-ditch effort to finalise a deal before the looming August 1st deadline. The stakes are incredibly high, with the threat of a 30% US tariff on most EU exports set to trigger automatically if no agreement is reached. President Trump has offered mixed signals, publicly stating the odds of a deal are "50-50" while also noting that negotiators are working "closely" towards a resolution. The potential accord is expected to settle on a 15% tariff rate for most goods, with specific exemptions for key sectors and a quota system for steel and aluminium imports. This high stakes negotiation is taking place against an increasingly fragile global backdrop. Central banks across the world have been loosening monetary policy, with Russia's central bank making a dramatic 200-basis-point cut to 18% today amid concerns of a looming recession. This trend prompted a cautionary note from Bank of America strategists this week, who warned that the combination of falling interest rates and easing financial regulation is increasing the risk of a stock market bubble. Elsewhere, other significant geopolitical pieces are in motion, with European and Iranian diplomats agreeing in Istanbul today to continue talks regarding sanctions and Tehran's nuclear program. For Europe, this weekend represents a pivotal moment. The discussions with the US come as influential voices within the bloc, are urging for the creation of a unified European safe asset to rival US Treasuries, framing it as a "now or never" opportunity to cement the EU's global influence. The European Commission is approaching the talks with a clear understanding of the consequences of failure, having prepared a robust package of countermeasures targeting roughly €100 billion of iconic American goods-from Boeing aircraft to bourbon whiskey-that can be deployed swiftly. The outcome of this weekend's meeting will undoubtedly set the tone for transatlantic relations and the wider global economy for months to come.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ In the Pacific, the influx of iron ore shipments, particularly from Brazil, cont
 Panamax/Kamsarmax:
 
 In the Atlantic, rates are currently being supported by coal shipments from the US East Coast. However, a fresh influx of cargo is needed to maintain these levels, as activity remains limited. T/A saw rates close like last at US$17,150's a day. The Pacific is quiet too as it awaits the start of a new grain season. While there is a steady flow of coal from Indonesia, this is not enough to absorb the oversupply of available vessels. Pacific r/v ended the week lower at US$14,000's. Supramax/Ultramax: In the Atlantic, sentiment turns bearish. While S. America maintains a balanced supply and demand, there is a near-total absence of new cargo entering the market from the USG, driving the downturn. The Pacific is also quiet. Although some spot chartering activity is reported for cargoes originating from SEAsia, this is offset by sluggish conditions in the NOPAC region. Pacific r/v fell slightly to US$13,150's a day.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -69,8 +65,6 @@ Dry Bulk Values
 
 *\*(amount in USD million) | (E) - eco units*
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -88,8 +82,6 @@ Dry Bulk Values
 | HAMBURG PEARL | HANDY | 39,359 | 2016 | CHINA | 17.0 | RICKMERS MARITIME |
 | AFRICAN SWAN | HANDY | 32,776 | 2005 | CHINA | 6.65 | CHINESE BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -103,8 +95,6 @@ The market fell at the end of the week, after the last of July cargo shipment sa
 Suezmax:
 
 Rates fell from the previous week fueled by a poor flow of early August cargo from the West Africa region, against the number of available vessels. 130,000mt Nigeria/UKC lost some 12 points to close at WS777. In the MEG, rates remain steady with routes to Med holding at WS96 mark.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -124,8 +114,6 @@ WS226 mark. Competition for cargo deepened as some shipments shifted to LR vesse
 
 # Baltic Exchange Tanker Indices
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 # Tankers S&P Report
@@ -137,8 +125,6 @@ WS226 mark. Competition for cargo deepened as some shipments shifted to LR vesse
 | BULL SHARK | MR | 49,999 | 2009 | S. KOREA | 17.35 | UNDISCLOSED |
 | FAIRCHEM CONQUEST | PROD /CHEM | 21,176 | 2017 | JAPAN | 29.0 (STST) | EUROPEAN BUYERS |
 | PUERTO AYSEN | PROD / CHEM | 12,800 | 2010 | S. KOREA | 10.2 | UNDISCLOSED |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -164,33 +150,18 @@ The container market is facing significant downward pressure, largely driven by 
 | FORMOSA CONTAINER NO. 4 | FEEDER | 920 | 2007 | CHINA | 7.5 | SEALEAD SHIPHOLDING | CO. |
 | LAGARFOSS | FEEDER | 875 | 2014 | CHINA | N/A | UNDISCLOSED |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 410 ~ 420 390 ~ 400 380 ~ 3900 420 ~ 430 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 400 ~ 410 | 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 410 ~ 420 | 390 ~ 400 | 380 ~ 3900 | 420 ~ 430 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 400 ~ 410 | 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
 | GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 390 ~ 400 | 420 ~ 430 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -206,8 +177,6 @@ TURKEY
 | CHATTOGRAM, BANGLADESH | 300 | 580 | 610 | 540 | 510 |
 | GADDANI, PAKISTAN | 330 | 580 | 580 | - | 510 |
 | ALIAGA, TURKEY | 170 | 300 | 300 | 300 | 340 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 11
 
@@ -225,19 +194,13 @@ VESSEL NAME SENAZ TWIN MEIZAN MARU GREEN EGERSUND
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 A welcome sense of optimism is beginning to filter through India's ship recycling sector this week. After a period of quiet, the recent firming of domestic steel and iron ore prices is breathing new life into the marketplace. With a gradual return of buyer interest, some recyclers, encouraged by the improved fundamentals, are now re-engaging with the market. This optimism, however, is tempered by a healthy dose of caution, as many key players remain on the sidelines, observing how the market develops before making any firm commitments. Despite generally lower vessel supply for demo globally, yards there have managed to secure a significant volume of tonnage recently. This includes several larger, high-value units that were under negotiation, indicating an appetite to fill dormant plots and a competitive spirit that could see Alang strengthen its position against regional rivals in the weeks ahead.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -264,8 +227,6 @@ Chattogram
 
 After a prolonged period of quiet, a cautious sense of activity is returning to Bangladesh's shores this week. Buyer interest is slowly returning, though it is currently concentrated among the handful of pioneering yards that have done HKC compliance. With limited competition at the bidding tables, these yards are approaching the market from a position of strength, showing little urgency to raise their price indications. With 15 facilities now HKC-certified, Bangladesh's capacity for compliant recycling is growing; however, the region is still adapting to the new operational landscape. Both recyclers and authorities are navigating a steep learning curve, implementing the comprehensive documentation and planning now required for every vessel arrival. While the recent arrival of tonnage is a positive sign, the market's path forward will be shaped by how the industry adapts to these new operational realities.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Gadani
@@ -273,8 +234,6 @@ Gadani
 Pakistan's ship recycling market remains quiet this week, with not much activity to report. The market saw no new sales as recyclers maintained distance from active buying. While the broader national economy is showing signs of stabilisation, this has not yet been enough to entice buyers back into making firm commitments for new tonnage. Looking ahead, there are encouraging developments on the horizon that point towards a more active future. The most significant progress is being made on the regulatory front, where a number of additional recycling facilities are advancing their efforts to achieve HKC compliance.
 
 Another quiet week in the Turkey's ship recycling market this week, with both yard capacity and buying appetite remaining notably subdued. This quiet spell prompted recyclers to adopt a more needs-based approach to purchasing rather than pursuing long-term inventory. Despite the general lack of enthusiasm for securing new tonnage, pricing has shown considerable stability, holding at same levels.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -312,8 +271,6 @@ international front, activity remained notably sluggish, with offers for UK-orig
 
 continued to lead the region on pricing, successfully securing a steady stream of shredded cargoes at levels around US$385/ton CFR. This aggressive procurement has made Pakistan the preferred destination for many international suppliers. The only factor
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 tempering the pace of imports is the ongoing monsoon season, which has impacted mill operations and placed a natural cap on production capacity and overall scrap consumption.
@@ -328,15 +285,11 @@ progressed. Traders reported that a steady and sufficient supply of available ca
 
 # HMS 1/2 & Tangshan
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 # Commodities (Weekinfocus)
 
 As the week concluded, trading activity was subdued as many participants held back ahead of the approaching August 1st deadline for new trade tariffs between the United States and its key partners. This cautious approach was apparent in the copper markets, where prices on the London Metal Exchange eased to US$9,867./ton, and the mosttraded contract on the Shanghai Futures Exchange slipped to 79,290 yuan (US$11,083.16) a ton. Despite the day's softness, copper was on track to post its second consecutive weekly gain, indicating resilient underlying sentiment, though daily trading was tempered by geopolitical uncertainty. This market dynamic was particularly evident in the iron ore and steel complex, which experienced conflicting pressures from short-term supply and long-term demand indicators. Iron ore prices faced headwinds, with the most-traded September contract on China's Dalian Commodity Exchange ending daytime trade lower at 811 yuan (US$113.40) a metric ton. This was influenced by reports of record fourth-quarter shipments from Australian miner Fortescue, and from Brazil's Vale. Countering this, however, overall sentiment received a significant boost from the confirmation that China will proceed with building the world's largest hydropower dam-a major infrastructure project that supports long-term demand for steel and its key ingredients. Ultimately, market focus has shifted to the calendar and the diplomatic efforts unfolding ahead of August. With high stakes trade talks scheduled between Chinese and US officials, and EU negotiators working to find a solution with Washington, the market is poised for its next directional cue. Until there is more clarity on the specifics of these tariffs, it is expected that this period of watchful patience will continue, setting the stage for a potentially volatile start to the coming month. In the coal segment, China's coal imports fell sharply in June, dropping 26% from last year to 33 million tons, the lowest since February 2023. The biggest hit came to Indonesia, whose exports fell 30%. Indonesian coal is mostly low-grade lignite, which Chinese power plants are now avoiding due to an oversupply of better-quality domestic coal. Despite rising summer electricity demand, Chinese utilities are buying less imported coal, especially for power generation, while steelmaking coal remains more stable. Local production is at record highs, and power plants are focusing on long-term domestic deals. Falling domestic coal prices also make higher-grade coal cheaper than imports. Indonesia may add export taxes, making its coal even less attractive. China's
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

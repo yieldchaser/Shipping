@@ -22,8 +22,6 @@ pages: 18
 
 The American government has recently moved to take direct oversight of Venezuelan energy resources, following a dramatic shift in the region's political leadership after the U.S. military operation that led to the arrest of President Nicolás Maduro start of 2026. The development now continues with the federal government assuming control of approximately 50 million barrels of crude oil. This intervention, highlighted by President Trump and further detailed by the Department of Energy, marks a departure from traditional market roles. By positioning the United States as a primary marketer for these reserves, the administration aims to restart the flow of heavy crude to Gulf Coast refineries that have been starved of this specific supply for years due to previous sanctions. This sudden reintroduction of Venezuelan oil has immediately impacted global markets, triggering a sharp decline in Canadian crude prices and weighing on international benchmarks. While the nation holds the world's largest proven oil reserves, decades of neglect and economic isolation have left its infrastructure in a state of severe disrepair, with production recently struggling to stay near one million barrels per day. Considering the current strategy, major industry players and refining giants are aggressively seeking ways to participate in this new framework. Companies like Citgo and various global trading groups are now in active talks with federal officials to navigate the selective easing of trade restrictions, which is intended to facilitate the legal transport of fuel and the import of critical oil field technology. Despite the surge in market interest and the record-high stock prices for several American refiners, significant operational and political hurdles remain. The Department of Energy has confirmed that it will manage oil sales indefinitely, depositing proceeds into controlled accounts, yet many drilling firms remain cautious about re-entering the country without more permanent legal protections. The situation is further complicated by an ongoing naval presence that continues to intercept unauthorized vessels in the Caribbean.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Capesize market enter the week with a softening trend as average daily earni
 Panamax/Kamsarmax:
 
 Panamax market saw a notable shift in sentiment this week as the post-holiday lull begins to fade. In the Atlantic, earnings for Brazil r/v have climbed to US$11,860's, while Pacific r/v rose by US$500 to reach US$9,696/day. Although the T/A market remains somewhat uneven with rates hovering between US$12,380 and US$12,500, owners are now holding firmer positions as the excess tonnage from last year has largely been cleared. Supramax/Ultramax: The Supramax market has started the year on a subdued note, with Pacific r/v rates edging up slightly to US$9,050's a day while the broader Asian benchmark finished the week significantly lower at US$10,459's. T/A routes also faced downward pressure, sliding by US$325 to roughly US$18,700's daily as vessel supply continues to exceed cargo demand. Although owners are attempting to defend current levels, sentiment remains soft as charterers maintain the upper hand.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -72,11 +68,7 @@ Dry Bulk - S&P Report
 | SEACON SHANGHAI | KMAX | 80,811 | 2019 | CHINA | 26.7 | DEXTER NAVIGATION |
 | JIANG YUAN NAN JING | HMAX | 49,326 | 2003 | CHINA | 7.5 (AUCTION) | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -92,8 +84,6 @@ Suezmax:
 
 The Suezmax market began the year on a downward trend. Significant corrections were seen on key routes, WAFR/UKC rates fell to US$60,350's range while 135,000mt CPC/Augusta lost 12 points settling at the WS155 mark. Despite these softer figures, owners are looking toward the heightened geopolitical tensions to potentially bolster market sentiment and reclaim lost cargo shares.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -106,8 +96,6 @@ LR: In the MEG, rates saw improvement this week with LR2 trips to MEG/Japan (TC1
 
 ## Baltic Exchange Tanker Indices
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -115,8 +103,6 @@ LR: In the MEG, rates saw improvement this week with LR2 trips to MEG/Japan (TC1
 | VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
 |---|---|---|---|---|---|---|
 | DHT CHINA / DHT EUROPE | VLCC | 317,794 317,713 | 2007 | S. KOREA | 101.6 EN BLOC | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -139,29 +125,18 @@ S&P Containers Report
 | --- | --- | --- | --- | --- | --- |
 | KOI / LOTUS | PMAX | 8,600 | 2011 | 90.0 EN BLOC | (W/ TC) |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 400 ~ 410 380 ~ 390 370 ~ 380 410 ~ 420 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 400 ~ 410 | 380 ~ 390 | 370 ~ 380 | 410 ~ 420 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
 | GADDANI, PAKISTAN | 410 ~ 420 | 400 ~ 410 | 390 ~ 400 | 420 ~ 430 | STABLE / |
-
-TURKEY
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -178,27 +153,19 @@ TURKEY
 | GADDANI, PAKISTAN | 460 | 580 | 540 | 500 | 450 |
 | ALIAGA, TURKEY | 26 | 320 | 250 | 320 | 370 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 The Indian ship recycling sector started the year in a notable resurgence, as a sharp rise in local scrap and steel plate prices has propelled Alang to the forefront of regional price rankings. This bullish momentum is largely supported by the Indian government's recent implementation of a multi-year safeguard duty on steel imports, a strategic move that has successfully shielded domestic producers from low-cost foreign competition and stimulated demand for recycled materials. While the market is currently facing a quiet period with limited vessel arrivals, the combination of firming domestic steel demand and the introduction of these protective trade measures has boosted the confidence of local recyclers. As the industry moves further into the first quarter, points suggest a much more optimistic outlook for the year ahead.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -209,8 +176,6 @@ Bangladesh has contended with a challenging start to 2026, as the market struggl
 Gadani
 
 The Pakistani ship recycling market entered 2026 with a renewed sense of purpose, highlighted by the historic inauguration of the country's first HKC-certified recycling facility at Gadani this January. While domestic recyclers are closely monitoring a slight uptick in global scrap values, the local steel sector has been active in urging the government to address the competitive pressure from duty-free imports entering through the northern borders. Despite these
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -247,8 +212,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 281.33 | 280.13 | -0.43% |
 | USD / TRY (TURKEY) | 43.05 | 42.93 | -0.28% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
@@ -259,8 +222,6 @@ PAKISTAN Domestic steel prices have remained range-bound, though shredded scrap 
 
 TURKIYE The Turkish market stands out for its steady activity in the imported scrap segment, recently concluding deals for US-origin material at US$371-US$372/t CFR. While domestic construction activity has slowed due to seasonal winter conditions and project delays, scrap sellers remain confident in future price gains.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 ## HMS 1/2 & Tangshan
@@ -268,8 +229,6 @@ TURKIYE The Turkish market stands out for its steady activity in the imported sc
 ## Commodities (Week infocus)
 
 The iron ore market experienced a significant surge midweek, reaching multi-month highs as investors reacted positively to shifting economic signals from China. This rally was largely driven by the Chinese central bank's commitment to easing monetary policy throughout 2026, which included plans to reduce interest rates and reserve requirement ratios to maintain healthy market liquidity. On the Dalian Commodity Exchange, the May iron ore contract climbed 4.09% to end at 828 yuan/ MT (about US$118.48), while the Singapore Exchange saw the February benchmark rise 2.47% to reach US$109.1/MT. Beyond broad economic policy, the immediate demand for steelmaking raw materials has been bolstered by seasonal factors and supply concerns. Chinese steel mills are currently operating with low inventory levels and are expected to begin a period of intensive restocking before the Lunar New Year festivities in February. This urgency contributed to a massive spike in other essential ingredients, with both coking coal and coke jumping nearly 8% to hit their daily exchange limits. The upward momentum extended into the finished steel sector, reflecting a robust recovery across the entire ferrous complex. In Shanghai, rebar prices increased by 2.87% and hot-rolled coil gained 2.52%, while wire rod saw a more modest rise of 0.92%. Additionally, stainless steel futures hit their maximum trading limit with a 4.99% jump, a move influenced by the surging cost of nickel. Overall, the market remains optimistic that Beijing's supportive fiscal stance will continue to support demand for industrial metals in the coming months.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

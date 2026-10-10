@@ -26,8 +26,6 @@ This week the Federal Reserve raised interest rates by 25 basis points, bringing
 
 Iron ore prices increased midweek due to hopes of additional policy support for China's economy. The most-traded September iron ore contract on China's Dalian Commodity Exchange rose 1.3% to 714 yuan (US$103.30) a ton, touching its highest level since April 27 at 727.50 yuan. This follows a six-month low last week due to speculation about new rules governing state-owned enterprises' bond issuances and as China's housing regulator ordered real estate brokers to reduce transaction and leasing service fees to support the property sector. Analysts expect commodity markets to remain reactive to any signs of policy support, which will keep iron ore prices volatile in the short term. Market participants feel optimistic as Capesize rates continue to rise gradually without significant drops in the spot market. This has led to expectations for stronger rates for the rest of the year. There is a sense that the current calm in the market is temporary, and a jump in spot Capesize
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 rates is expected ahead of the fiscal year-end for some major Australian miners in June. The bottom for spot rates in smaller-size dry bulk segments is also expected to be near, and the Capesize sector is likely to support those smaller vessels during periods of robust rates.
@@ -48,8 +46,6 @@ Market activity was low during the holidays, resulting in rates softening. The A
 
 Ship supply accumulation in the Atlantic has experienced a slight slowdown, while new demand remains limited overall, seeing stable rates similar to last week. T/A levels were in the region of US$ 10,500's a day at closing. In the Pacific, there was a lack of activity in the region. Inter-
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 3
 
 Pacific levels, however, remain stable, recording around US$ 7,400's a day. There were some enquiries for coal and grain, which may hopefully lead to a positive outlook next week.
@@ -69,13 +65,9 @@ Pacific levels, however, remain stable, recording around US$ 7,400's a day. Ther
 | MARDINIK | HANDY | 33,918 | 2011 | S. KOREA | 14.4 | SYRIAN BUYERS |
 | STONEWALL UNITY | GC | 33,217 | 2012 | CHINA | 18.0 | RUSSIAN BUYERS |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
 
 # Baltic Exchange Dry Bulk Indices
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 5
 
@@ -90,8 +82,6 @@ There was a slowdown in activity start of the week from last week's holidays, re
 ## Suezmax:
 
 Despite limited cargo inflows, the WAFR/Europe segment experienced a 3.1% weekly rise in W.S. due to a lack of available ships in Atlantic waters. 130,000 mt Nigeria/Rotterdam climb to WS116. Meanwhile, in the Med, 135,000mt CPC/Med also saw improvements, with levels rising to WS126. Overall looks positive in the short term.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -119,8 +109,6 @@ L.R.: The weekly decline from last week due to an increase in the supply of ship
 | HIGH TRUST | MR | 49,990 | 2016 | VIETNAM | 22.2 | D'AMICO INTERNATIONAL |
 | MTM LONDON | PROD / CHEM | 20,587 | 2003 | JAPAN | N/A (S.S.) | UNDISCLOSED |
 | MAREX NOA | PROD / CHEM | 12,479 | 2015 | JAPAN | N/A (S.S.) | UNI TANKERS |
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 7
 
@@ -157,8 +145,6 @@ L.R.: The weekly decline from last week due to an increase in the supply of ship
 | 1,218 | 1,077 | 1,133 | +13.09% | +7.50% |
 | 637 | 719 | 1,448 | -11.40% | -56.01% |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 8
 
 # Containers
@@ -185,11 +171,7 @@ Maersk has announced changes to its Asia-Europe shipping network, aiming to incr
 | 2,700 - 2,900 | Gearless | 42 | 38 |
 | 5,500 - 7,000 | Gearless | 89 | 82 |
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 10
 
@@ -197,22 +179,15 @@ Maersk has announced changes to its Asia-Europe shipping network, aiming to incr
 
 | DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
 |---|---|---|---|---|---|
-| ALANG (WC INDIA) |  |  | CARGO |  | TREND |
 | *For green ship recycling, the prices are about | 520 ~ 530 | 500 ~ 510 | 510 ~ 520 | 530 ~ 540 | STABLE / |
+| CHATTOGRAM, BANGLADESH | \*560 ~ 570 | \*550 ~ 560 | \*530 ~ 540 | \*570 ~ 580 | WEAK / |
+| GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | WEAK / |
 
-US$25-30/ton lower.
-
-CHATTOGRAM, \*560 ~ 570 \*550 ~ 560 \*530 ~ 540 \*570 ~ 580 WEAK / BANGLADESH
-
-GADDANI, PAKISTAN NA NA NA NA NA
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 WEAK /
-
-Ship, the prices are about US$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
@@ -225,8 +200,6 @@ CHATTOGRAM, BANGLADESH 420 440 310 510 660
 GADDANI, PAKISTAN 440 420 300 500 680
 ALIAGA, TURKEY 290 270 170 255 410
 ```
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 11
 
@@ -241,8 +214,6 @@ ALIAGA, TURKEY 290 270 170 255 410
 
 # Recycling Ships Price Trend
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 12
 
 # Insight
@@ -252,8 +223,6 @@ The ship recycling markets in the Sub-Continent are currently in a state of stag
 **ALANG, INDIA.**
 
 In the past few weeks, domestic ship scrap prices have been in a corrective mode, indicating a potential market correction. However, the demand for ships has improved as many recyclers are still waiting for favorable buying opportunities, with almost 70% of yards empty with no ships. While the demand for ships has improved, there is a significant difference in buying behavior between recyclers in Chattogram and Alang. Chattogram recyclers have shown more urgency to buy, whereas Alang recyclers tend to take a more cautious approach due to various market factors. This has resulted in a less pronounced bounce back in ship prices in the Alang market. The domestic ship scrap market remains unpredictable, and recyclers are keeping a watchful eye on market developments. This week the popular Evergreen's Panamax container called the "Ever Diadem," built in 1998 in Japan, weighing 21,731 mt, was finally sold at US$512/ long ton with a decent quantity of bunkers, as is Singapore. The last similar ship, owned by MSC, the MSC Pilar, weighing 23,740 mt, was sold in April 2023 at US$550/long ton, with about 400 mt of bunkers included in the sale, delivered Alang. So technically, adding up the delivery cost of the Ever Diadem would be about US$530/long ton ship basis delivery Alang. A decent US$20/Lt decline. On the other hand, UAE, one of the largest exporters of ferrous scrap to India, has extended the export ban for another six months; despite the scrap export ban, UAE continues to ship
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 13
 
@@ -272,8 +241,6 @@ containerized scrap exports. On the other hand, the Indian customs have stopped 
 ## CHATTOGRAM, BANGLADESH
 
 This week, the issues with Letters of Credit (LC's) have resurfaced and continued to affect the transactions. Banks have further tightened the opening of LC's, and those that are already opened are facing challenges in releasing payments. This is due to the central bank's top priority of conserving foreign exchange, as reserves dropped 29.45% this week. As a result of these issues, several ships that have been sold in the past are now anchored at the outer anchorage, waiting for their fate to be decided. The ships with higher prices are particularly facing difficulties in obtaining the necessary LC's as well as headwinds from the sharp drop of about 2% W-O-W in the local ship scrap prices. In a nutshell, the recyclers are facing a number of challenges, including the tightening of LCs, the involvement of customs in the valuation of ships, delays in obtaining cutting permission due to new regulations, the weakening of domestic ship scrap prices, ailing domestic demand from the local steel mills and uncertainties surrounding the outcome of the upcoming budget. As the passage of time continues and the markets draw nearer to the annual budget announcement on June 1, there is heightened attention on the event due to the struggling economy and concerning foreign exchange conditions. Over the past two weeks, there has been a noticeable deterioration in market sentiment, which has been closely aligned with a substantial decline in ship prices. This decline in prices has prompted many recyclers to exercise caution and adopt a wait-and-see approach before making any significant decisions.
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 14
 
@@ -305,8 +272,6 @@ The industry is now facing an uncertain future. It is unclear when the political
 
 Pakistan buyers demonstrated heightened activity in purchasing imported ferrous scrap during the latter part of the week. As a result, several deals were concluded at a price range of US$435-440 per metric ton on a CFR basis, with the aim of sustaining the operations of secondary steel mills. This increased buying activity is expected to positively influence market sentiment, particularly in light of the ongoing political turmoil within the country. Prices for shredded scrap originating from the U.K. and Europe remained stable at US$439-440 per metric ton. These transactions also offer a glimmer of hope that ship recyclers are preparing to resume purchases once the issues related to L.C. are alleviated.
 
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 15
 
 ## ALIAGA, TURKEY
@@ -318,8 +283,6 @@ Tukey prepares for the crucial elections, which will be a critical factor for th
 | Alang, India | : 16th ~ 24th May \| 2nd ~ 10th June |
 
 ---
-
-## Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 16
 

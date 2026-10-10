@@ -24,8 +24,6 @@ This week, on Saturday, Iran retaliated against Israel with a barrage of drone a
 
 watches anxiously, the Middle East faces heightened instability and uncertainty. In the U.S., Inflation data for the first three months of 2024 has been disappointing, with prices at the register and wholesale input costs remaining stubbornly high despite being off the blistering pace of 2022. Investors, consumers, policymakers, and economists have been caught off guard by the persistence of price pressures. Economists noted that the past three months have seen inflation prints consistently above expectations, suggesting a need to change how we think about the future. The market has been forced to dramatically adjust its expectations, with the Federal Reserve now expected to make just two rate cuts this year, as opposed to the six or seven anticipated at the beginning of the year. Meanwhile, China's exports experienced a significant decline in March, falling 7.5% y-o-y, while imports also decreased by 1.9%. These figures fell short of economist forecasts and raised concerns about the country's ability to meet its 5% economic growth target for the year despite some positive indicators in earlier March data. The unexpected drop in imports further highlights the ongoing challenges faced by Chinese consumers, who continue to feel the impact of a prolonged real estate slump and have limited spending power. This is evidenced by the minimal rise in consumer prices over the past 12 months, which underscores the persistent threat of deflation. However, there were some bright spots in China's trade performance. Exports of steel products, manufactured goods, cars, and semiconductors saw growth in the first quarter, although this has the potential to exacerbate trade tensions with the US, Europe, and some emerging economies.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -39,8 +37,6 @@ The demand for iron ore in China is experiencing a decline, influenced by a slow
 Panamax/Kamsarmax:
 
 The North Atlantic market continues to see improvements in both freight rates and sentiment as tight supply persists. T/A levels remain unchanged from last, closing at US$11,850's a day. In South America, although the market atmosphere has become somewhat subdued due to the previously active fixing activity, rates are maintaining an upward trend as demand outweighs supply. The Pacific, on the other hand, is experiencing a rise, with market participants' sentiment improving due to the rebound in the Capesize sector. Pacific r/v trips closed higher at US$12,400's a day on Friday.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -65,8 +61,6 @@ The Atlantic market is displaying an overall firm outlook, with demand from the 
 | SUPRAMAX | 56,000 | 34 | 41 | 34 | 27 | 16 |
 | HANDY | 38,000 | 30 | 34 | 27 | 20 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -94,11 +88,7 @@ Dry Bulk - S&P Report
 | NEW JOURNEY | HANDY | 36,371 | 2015 | JAPAN | 20.0 | UNDISCLOSED |
 | FW EXCURSIONIST | HANDY | 34,484 | 2019 | JAPAN | 27.0 | DADAYLILAR |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -109,8 +99,6 @@ The OPEC+ group has regained significant control over the oil market, influencin
 VLCC:
 
 This week, activity slowed down towards the end due to Eid holidays in various parts of the world, resulting in a slight dip. For the Middle East market, a wait-and-see approach from owners is expected until the end of April to early May, with ample available vessels likely leading to slightly weaker freight rates. 270,000mt MEG/China fell to WS61. In the Atlantic, WAFR/China also fell slightly to WS62.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -127,8 +115,6 @@ Clean:
 Sentiment in the CPP market was mixed this week, with rates generally softening across most routes. LR1 rates on the UKC/WAFR fell to WS200 due to limited activity. LR2 sentiment improved following a busier period, although rates on the MEG/Japan route remained at WS190. Meanwhile, MR rates on the UKC/USG eased w-o-w to WS185, despite the list remaining in owners' favour.
 
 # Baltic Exchange Tanker Indices
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -150,36 +136,24 @@ Sentiment in the CPP market was mixed this week, with rates generally softening 
 | CHEM | BULLDOG | PROD/ CHEM | 21,306 | 2010 | JAPAN | 23.0 (SS) | UNDISCLOSED |
 | SAMBONG | ARTEMIS | PROD/ CHEM | 11,457 | 2018 | S. KOREA | 22.0 | FRENCH BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # Containers
 
 In the latest series of geopolitical issues, Iranian forces seized the MSC Aries, a 15,000-teu container ship owned by Zodiac Maritime and chartered by Mediterranean Shipping Co, in the Strait of Hormuz. The vessel, managed by MSC, was diverted from its course towards Iran. There are 25 crew members onboard, and efforts are underway to ensure their safety. The incident occurred amidst heightened tensions in the region, with Iran allegedly targeting the ship due to its affiliation with Israeli interests. This seizure raises concerns for all vessels navigating the area, prompting calls for heightened vigilance and coordination with military forces to prevent further incidents. Iran's history of boarding ships in the region for various reasons underscores the ongoing volatility in the area. The recent Red Sea incident caused the Shanghai Containerized Freight Index (SCFI) to fall by approximately 22% from its previous high of 2,239. However, in the first week of April, the index showed a minor increase, signalling a stabilization in freight rates after a decline that lasted over two months. While freight rates on five routes, including those to North America, decreased, seven other routes, such as those to Europe, saw an increase, resulting in the SCFI rising by 14 points to 1,745. Despite the slight increase in freight rates for Europe and the Mediterranean, rates for the U.S. West and East Coasts continued to decline. The U.S. is currently facing an expanding trade deficit and a decrease in exports of automobiles, parts, and engines, which limits the positive momentum for North American transport demand. The upcoming freight rate contract season for North America is expected to bring price increases, which will likely provide clarity on the direction of freight rates in the second quarter.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 # Containers S&P Report
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 11
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 490 ~ 500 | 470 ~ 480 | 470 ~ 480 | 500 ~ 510 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 310 ~ 320 | 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | STABLE / |
 
@@ -198,8 +172,6 @@ ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 STABLE /
 | GADDANI, PAKISTAN | 430 | 340 | 490 | 685 | 550 |
 | ALIAGA, TURKEY | 280 | 210 | 255 | 460 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
 
 # Ships Sold for Recycling
@@ -213,11 +185,7 @@ ALANG (WC INDIA) 490 ~ 500 470 ~ 480 470 ~ 480 500 ~ 510 STABLE /
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 13
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -237,8 +205,6 @@ Chattogram, Bangladesh
 
 This week, markets remained quiet due to the ongoing Eid holidays, but buying activities continued. Markets will reopen next week when business as usual.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Gadani, Pakistan
@@ -248,8 +214,6 @@ Markets remained closed for the Eid festive holidays. As a result, no significan
 Aliaga, Turkey
 
 Turkish imported ferrous scrap prices have experienced a slight increase as sellers anticipated a restocking surge. Despite a brief market pause, the bullish sentiment was revived by Türkiye's leading steelmaker, which slashed its rebar list prices, driving up demand.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -282,15 +246,11 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 Last week, the global ferrous scrap market demonstrated overall stability, with minimal fluctuations observed. In Sub-Continent, Indian buyers approached the market cautiously due to volatility in the domestic market and a slowdown attributed to regional festivities. Meanwhile, market activity in Pakistan and Bangladesh remained subdued as both countries observed Eid and related holidays. In **Turkey, imported ferrous scrap market activities remained sluggish, although a few** deals emerged early in the week. Notably, a Mediterranean mill secured HMS (90:10) from a US supplier at US$387 per ton CFR and HMS (80:20) from a UK exporter at US$380 per ton CFR. European recyclers reported a slight decrease in collection costs to Euro 315 per ton delivered to docks.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Steelmakers in Turkey remained subdued amid Eid festivities, with trade expected to resume momentum in the following week. Analyst assessment for US-origin HMS (80:20) bulk scrap was at US$384 per ton CFR, while US East Coast bulk HMS (80:20) remained stable at US$365 per ton FOB. Rebar assessment stood at US$595 per ton FOB Iskenderun, with the scrap-to-rebar spread widening to US$210-211 per ton. The Turkish Ministry of Commerce swiftly imposed export restrictions to Israel amid the Gaza conflict, which is anticipated to impact Turkish steel exports significantly, as Israel is a key import market. In India, demand for imported scrap remained steady as buyers exercised caution amidst domestic market fluctuations. Shredded scrap offers from Europe saw a slight increase, rising by US$3 per ton to US$421 per ton CFR on a weekly average basis, compared to $418 per ton CFR in the previous week. Similarly, HMS (80:20) offers climbed to US$395 per ton CFR, up by US$3 per ton from the previous week's US$392 per ton CFR. Transactions included the procurement of turning boring scrap from Europe at $360 per ton CFR, hand loaded HMS scraps from Kuwait at US$415 per ton CFR, and shredded scrap from the US at US$411 per ton CFR. Market activity in Pakistan and Bangladesh was minimal throughout the week due to Eid holidays, with several mills announcing maintenance shutdowns due to a subdued finished steel market and the off-season surrounding Eid. Shredded scrap offers from Europe stood at US$426 per ton CFR Qasim on average, marking a US$2 per ton increase compared to the previous week. In Bangladesh, shredded scrap offers averaged $421 per ton CFR Chattogram, up US$2 per ton from a week ago, while HMS (80:20) offers remained steady at US$403 per ton CFR Chattogram week-over-week.
 
 # HMS 1/2 & Tangshan Billet
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -315,8 +275,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 109 | +11.22% | +26.74% | 98 | 86 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 111 | +5.71% | -35.83% | 105 | 173 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

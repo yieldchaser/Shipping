@@ -22,8 +22,6 @@ pages: 19
 
 A coalition of 14 European countries, including the UK, France, and Germany, delivered a stern ultimatum to the "shadow fleet" tankers operating in the Baltic and North Seas in a major effort to bolster regional security. By legally stating that any vessel lacking transparent documentation, proper insurance, or a single verified flag will now be classed as "stateless," coastal authorities have effectively increased their legal ability to interfere and board suspected ships. Alarming reports of Russian-linked interference with satellite navigation systems, endangering all mariners in these crucial corridors, and an ageing fleet of about 1,500 tankers used to get around international sanctions have prompted this coordinated crackdown. As the maritime community faces these heightened risks, governments are not only stepping up physical enforcement but are also urging international cooperation to develop backup land-based navigation tools to ensure that it remains protected from both physical and digital disruption. In East Asia, prominent private refiners such as Shandong Chambroad Petrochemicals are increasingly pivoting towards North American resources to sustain their operations. This comes after restrictions on Venezuelan crude, which has long been a mainstay for Chinese "teapot" refineries, mostly due to its high grade and competitive pricing. The industry is seeing a noticeable shift towards Canadian Cold Lake bitumen as Venezuelan flows become more erratic and costly because of maritime blockades and the seizure of sanctioned vessels. Additionally, the logistics of monitoring these global shifts have evolved from a specialised analytical tool to an essential part of modern maritime policy. Among other recent high-profile events, the pursuit and subsequent capture of the vessel Bella1near Iceland illustrate the declining ability of vessels to operate in total secrecy. The open ocean is now more transparent than ever, thanks to the integration of high-resolution satellite imagery and sophisticated data parsing, despite attempts by crews to "go black".
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Capesize market entered the week with a balanced to slightly soft tone as Pa
 Panamax/Kamsarmax:
 
 A surge in South American grain demand drove the Panamax market this week. This has created a shipowner-dominated market, pushing T/A rates up to US$14,000 and F/H earnings to US$20,638, despite some late-week adjustments as shippers adopted a waitand-see approach ahead of the holiday season. While logistical bottlenecks are tightening vessel supply in the Atlantic, the Pacific remains more cautious with R/V rates at US$12,000's as the market looks toward long-term growth from the inauguration of the South American export season. Supramax/Ultramax: The Supramax market remains in a box-bound trend as regional variations in the Atlantic and stabilising levels in the Pacific create a balanced but positional trading environment. In the Atlantic, strong demand from the USG has pushed Transatlantic R/V rates up by US$241 to reach US$20,156, while the Pacific market is supported by US$10,651 daily earnings and ongoing port congestion in Indonesia that is limiting available vessel supply. Although an increasing number of open vessels continues to weigh on the sector, sentiment is bolstered by steady demand for NOPAC cargoes.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -62,8 +58,6 @@ The Handy market experienced a firmer tone this week, with daily earnings in the
 | HANDY | 38,000 | 30 | 33 | 26 | 19 | 15 |
 | *(amount in USD | million) | \|(E)-ecounits |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -79,8 +73,6 @@ The Handy market experienced a firmer tone this week, with daily earnings in the
 | THE LOVING | SMAX | 58,701 | 2007 | PHILIPPINES | 11.9 | UNDISCLOSED |
 | INDIGO SPICA | SMAX | 58,052 | 2014 | JAPAN | 21.5 | GREEK BUYERS |
 | EUROSKY | HANDY | 33,774 | 2011 | CHINA | 11.0 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -99,8 +91,6 @@ West African rates saw a slight correction this week, as many shippers paused to
 Aframax:
 
 In contrast to the larger vessels, Aframax in the MEG has demonstrated notable resilience and growth. Aframaxes are currently being booked for regional short-haul trips and as a cost-effective alternative to larger tonnage, which has led to a tightening of available units. Similar demand was also seen in the North Sea, where 80,000mt X-UKC (Hound Point to Wilhelmshaven) gained some 40 points to close at WS232 marks.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -131,8 +121,6 @@ CHANGE +88.70% +34.89%
 | MR | 51,000 |  | 49 | 53 | 42 (E) | 33 | (E) | 24 |
 | *(amount inUSD | million) | \ | (E)-ecounits |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -148,8 +136,6 @@ CHANGE +88.70% +34.89%
 | GREEN PLANET | MR | 50,844 | 2014 | S. KOREA | 31.0 | PV TRANS |
 | HELEN M | MR | 46,843 | 2005 | JAPAN | 9.7 | UNDISCLOSED |
 | NORDIC MASA | PROD / CHEM | 20,819 | 2009 | JAPAN | 18.0 (STST) | VIET SING SHIPPING JSC |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -175,29 +161,18 @@ As January 2026 comes to an end, container segments have experienced a significa
 | VALDIVA / VIOLETTA / VALENTINA | FEEDER | 1,853 | 2007 | ROMANIA | N/A | MSC |  |
 | LILA CANADA | FEEDER | 1,118 | 2006 | CHINA | 10.9 | MSC |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS / WEEKLY
-
-GENERAL CARGO FUTURE TREND
-
-ALANG (WC INDIA) 410 ~ 420 400 ~ 410 380 ~ 390 430 ~ 440 IMPROVING /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | IMPROVING / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 410 ~ 420 | 400 ~ 410 | 380 ~ 390 | 430 ~ 440 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | IMPROVING / |
 | GADDANI, PAKISTAN | 420 ~ 430 | 410 ~ 420 | 400 ~ 410 | 430 ~ 440 | IMPROVING/ |
-
-TURKEY
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -214,19 +189,13 @@ TURKEY
 | GADDANI, PAKISTAN | 415 | 600 | 540 | 520 | 430 |
 | ALIAGA, TURKEY | 240 | 330 | 310 | 320 | 360 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -234,15 +203,11 @@ Insights Alang
 
 The Indian ship recycling industry is gaining traction, as it recaptured the second spot in the regional price rankings this week. While the industry is under enormous financial pressure, with the Indian Rupee reaching approximately 91.65 against the USD, Alang recyclers have demonstrated a particular competitive advantage, effectively outmanoeuvring more aggressive neighbours to obtain another LNG. Domestically, while steel plate prices have witnessed some volatility, recently falling by 2-4% before recovering late in the week to around US$410/MT, overall optimism remains underpinned by a steady appetite for recycling possibilities. Despite a continuing scarcity of available tonnage and a volatile commodity, the mood in Alang remains positive.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 Chattogram
 
 After a tumultuous start that saw the market fall to the bottom of the regional rankings, conditions in Chattogram have begun to improve as buyers cautiously re-enter the market ahead of the key February elections. While active bidding for smaller, marginal units remains limited, there is a strong interest in high-value assets, as evidenced by recent recycling levels. This recovery is aided by local steel plate prices remaining stable at around US$500/MT and the Taka's relative stability near 122.26 against the USD. As political clarity emerges, the industry hopes that a stable government will free up liquidity, allowing Bangladesh to restore the lead in the subcontinent's recycling sector.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -267,15 +232,11 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 433 | 390 | 683 |
 | HOUSTON | 462 | 362 | 702 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
 
 India Imported scrap market in India remains subdued as depreciating rupee and stagnant finished steel sales forces buyers to maintain a defensive posture. A stark regional price disparity has emerged between the north and south, with North India maintaining a firmer stance of approximately US$10-$15/t over its southern counterpart. Specifically, HMS 80:20 is currently valued near US$350 CFR Mundra in the north, while the same grade is heard at US$335 CFR Chennai in the south. Additionally, Australian origin offers into Chennai are being indicated at US$330 for HMS 80:20 and US$350 for shredded scrap, but these too are meeting pushback in a softened southern market. Pakistan Pakistan observed a more active landscape for suppliers compared to its neighbors, with relatively consistent demand for HMS despite broader market challenges. Imported shredded scrap from the UK and EU is being offered around US$380 CFR, while UAE suppliers are signaling higher expectations at US$395-plus. Market participants are also monitoring a Bahrain-origin cargo which is expected to conclude at a level exceeding US$390. Within the HMS segment, workable trade levels are currently shown between US$365 and US$375 CFR, providing a slight premium that keeps the country attractive for international sellers. On the domestic front, local scrap prices are hovering between PKR 135,000 and 136,000/t, which translates to roughly US$483-$486/t. Bangladesh In Bangladesh, imported ferrous scrap market has maintained a steady but cautious tone, with prices holding within familiar bands. Japanese H2 scrap is quoted at around US$355-US$357 CFR Chattogram, while the higher-grade HS (Heavy Scrap) is heard at US$362-$367. The containerized market for Oceania-origin material remains similarly consistent, with HMS 80:20 trading at US$345-US$350 and shredded scrap at US$365- US$370. Premium PNS (Plate and Structural) scrap is currently indicated at US$370- US$375 CFR, as market show signs of stability but operating under a highly disciplined buying environment.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -286,8 +247,6 @@ Turkiye The Turkish market observed a "silent week" as deep-sea import prices re
 ## Commodities (Week infocus)
 
 Copper prices surged this week amid a wave of Chinese buying and renewed investor demand for hard assets. Prices jumped as much as 11%, lifting copper above USD 14,500 per ton for the first time on record. The rally began during Asian trading hours and extended into the London session as momentum accelerated. A weaker US dollar provided additional support, encouraging investors to seek exposure to commodities against a backdrop of persistent geopolitical uncertainty. Trading activity intensified sharply on the Shanghai Futures Exchange, where volumes surged to near record levels. January had already been the busiest month on record for copper, with Thursday registering the second highest daily turnover ever. Beyond speculative flows, improving fundamentals also underpinned the rally. Demand expectations strengthened following signs of stabilising global growth, with US Federal Reserve Chair Jerome Powell citing a "clear improvement" in the economic outlook as
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -300,8 +259,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 103 | -0.96% | -2.83% | 104 | 106 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 103 | -0.96% | -3.73% | 104 | 107 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

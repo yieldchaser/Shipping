@@ -22,8 +22,6 @@ WEEK 26 - June 30, 2024
 
 The Houthis have escalated their maritime attacks in the Middle East, claiming to have launched a homemade hypersonic missile, the Hadim-2, against a Liberian-flagged vessel in the Arabian Sea. Over the past two weeks, Houthis have intensified their campaign against merchant shipping, employing more sophisticated tactics that combine air and sea attacks. These assaults have resulted in a ship sinking, several vessels sustaining significant damage, and the tragic loss of a seafarer's life. It is estimated that nearly 120 merchant vessels have been targeted in the last 7 months. In response to this escalating threat, the International Transport Workers' Federation (ITF) and seafarers' unions worldwide have called for increased government intervention to protect maritime workers in the region. They have also urged shipping companies to prioritize crew safety by rerouting vessels away from dangerous areas. Despite these calls for action, many shipping analysts predict that the Red Sea shipping crisis will persist into the first half of next year. Meanwhile, President Joe Biden and former President Donald Trump faced off in their first presidential debate, with Biden's performance raising concerns about his age and fitness for office. The 81-year-old incumbent stumbled through several exchanges, making notable gaffes and misstatements on key policy points, which could potentially impact his already struggling campaign. Trump capitalized on Biden's missteps, particularly on issues like the economy and immigration. The debate covered a range of topics, including economic policies, abortion rights, veterans' care, and foreign policy, with both candidates trading barbs and accusations. Biden attempted to highlight his administration's achievements, particularly in job creation and veterans' care while attacking Trump's legal troubles and controversial statements. Trump, in turn, defended his economic record and criticised Biden's competence. The debate also touched on sensitive issues like the Israel-Hamas conflict, with Biden trying to balance support for Israel with calls for restraint in Gaza. Trump advocated for a more isolationist foreign policy stance.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ Despite seasonal slowdowns in Chinese steel demand, iron ore prices are rising d
 Panamax/Kamsarmax:
 
 The Atlantic is showing signs of recovery, with the decline in rates slowing down. This improvement is attributed to two main factors: a rebound in the Capes segment and an influx of August cargo bookings for South American routes. However, the supply of vessels continues to outpace demand, indicating that a sustained inflow is necessary to establish a solid price floor and support further recovery. T/A saw levels slipped to
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -63,8 +59,6 @@ It was a positive week in the Handy segment with rates across all routes seeing 
 | SUPRAMAX | 56,000 | 34 | 42 | 36 | 28 | 16 |
 | HANDY | 38,000 | 30 | 35 | 28 | 21 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 4
 
@@ -95,8 +89,6 @@ VESSEL NAME UNTA LIVIA ROSE BBG QINZHOU ALMIRA BRIGHT HERO GENCO WARRIOR TAI HUN
 | SMAX |  | 55,418 | 2007 | JAPAN | 14.5 | CHINESE BUYERS |  |
 | HANDY |  | 33,720 | 2005 | JAPAN | 10.75 | CHINESE BUYERS |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -111,8 +103,6 @@ Suezmax:
 
 Although freight rates for West Africa to Europe routes remain flat this week with Nigeria/UKC closing at WS109, increased vessel availability and the downward rates in VLCC rates are expected for further declines in coming week. In the MEG, routes to Med remain at WS95.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -124,8 +114,6 @@ Clean:
 LR: LR2 on the MEG/Far East route continued its upward momentum from last at WS205. However, this was short-lived. With the start of July next week, the expected influx of cargoes did not live up, leading to a decline in rates. In the LR1, TC5 routes remain the same as last at WS230, while ARA/WAFR routes fell to WS142. MR: The Far East/Singapore route experienced a subdued week. Demand softened noticeably, resulting in limited activity in the charter market. In the ARA/WAFR route, TC19 saw a jump by some 25 points to WS202.
 
 # Baltic Exchange Tanker Indices
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -146,8 +134,6 @@ LR: LR2 on the MEG/Far East route continued its upward momentum from last at WS2
 | NEUTRON | SOUND | MR | 49,997 | 2007 | S. KOREA | 23.0 | UNDISCLOSED |
 | FOS | ENERGY | MR | 45,990 | 2006 | S. KOREA | 20.5 | UNDISCLOSED |
 | CSC | PROGRESS | MR | 45,791 | 2007 | CHINA | 21.0 | UNDISCLOSED |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -172,26 +158,16 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 41 | 33 | 26 | 20 |
 | 5,100 *(amount in USD million) | Gearless | 79 | 77 | 61 | 33 | 30 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 510 ~ 520 500 ~ 510 510 ~ 520 530 ~ 540 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 510 ~ 520 | 500 ~ 510 | 510 ~ 520 | 530 ~ 540 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 520 ~530 | 510 ~ 520 | 490~ 500 | 530 ~ 540 | STABLE / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 330 ~ 340 | 340 ~ 350 | 380 ~ 390 | STABLE / |
 
@@ -210,8 +186,6 @@ ALANG (WC INDIA) 510 ~ 520 500 ~ 510 510 ~ 520 530 ~ 540 WEAK /
 | GADDANI, PAKISTAN | 410 | 305 | 490 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 210 | 300 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -227,19 +201,13 @@ ALANG (WC INDIA) 510 ~ 520 500 ~ 510 510 ~ 520 530 ~ 540 WEAK /
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 # Insight
 
 Another quiet week for the Indian Sub-Continent markets with subdued domestic demand and a lack of ships for sale left the markets cold as there were not enough ships to create a marketplace. The robust freight rates across the board in all segments kept the ships away for the shores of the Sub-Continent. Ship supply side issues across the segments provided some support to the ailing markets across the Sub-Continent. In the meantime, in China, the steel industry achieved profitability in May for the first time this year, driven by a faster growth in operating income compared to operating costs. Increased steel output, higher prices for flats and wire rods, and lower iron ore costs in May contributed to this positive outcome. In May, the steel industry reported net profits of CNY 9.5 billion ($1.3 billion), a significant turnaround from the CNY 860 million net loss recorded in April. Operating income and costs for the month were CNY 698.1 billion and CNY 667.8 billion, reflecting month-onmonth increases of 2.3% and 1.2%, respectively. China's finished steel production in May rose to 122.7 million tons, a 5.3% increase from the previous month. Sectors consuming flat steel, including automotive, shipbuilding, and home appliances, continued to show year-on-year growth up to May, buoyed in part by strong export demand. The average cost of importing iron ore dropped by 6.5% month-on-month, according to the China General Administration of Customs, while the price of imported coke saw a 14.3% increase. Despite the positive performance in May, the steel industry recorded a net loss of CNY 12.7 billion over the January-May period, with revenue down 3.3% year-onyear to CNY 3.3 trillion. Speculation about potential crude steel production cuts has fueled interest in betting on steelmaking margins, although the industry's improved performance in May casts some doubt on this strategy.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -266,8 +234,6 @@ Chattogram, Bangladesh
 
 It was a quiet week for the Chattogram recyclers as the markets resumed normalcy post-EID holidays. Prices have remained firm and stable, as the underlying demand remains moderately stable. Bangladesh's economy is striving to recover, tackling high inflation while simultaneously maintaining open business activities and promoting existing interest rates to facilitate more lending to companies. However, the IMF has recommended that the Bangladesh Bank raise its policy rate by 50 basis points by December, citing the insufficient impact of current monetary tightening
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 on inflation. As Bangladesh Bank prepares its July monetary policy announcement, it faces persistent inflation despite increasing the repo rate by over 400 basis points to 8.5% in the past two years. Inflation soared to a 12-year high of 9.02% last financial year, surpassing 9.5% this year, severely impacting low-income groups. Economist Zahid Hussain attributes the ineffectiveness of monetary tightening to inconsistency and impartiality. The IMF, which approved a $1.15 billion tranche of a $4.7 billion loan to Bangladesh, stressed the need for continued tightening until inflation aligns with BB's 5-6% target. It projects the policy rate might peak at 9% by mid-2024-25 to reduce inflation to 7% by fiscal year's end. Additionally, the IMF urges amending the Bangladesh Bank Order and enhancing decision-making and communication. BB has committed to regular Monetary Policy Committee meetings and quarterly reports. Hussain highlights the need for better transmission of monetary policy and functional interest rate corridors amid foreign exchange constraints and declining reserves.
@@ -293,8 +259,6 @@ Anchorage & Beaching Position (June 2024)
 | JI HAI ZHING SHAN | CONTAINER | 2,175 | 28.05.2024 | 04.06.2024 |
 | MENT 1 | CEMEMENT | 2,234 | 24.05.2024 | 01.06.2024 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Gadani, Pakistan
@@ -304,8 +268,6 @@ This week, the markets have returned to normal operations following the Eid holi
 Anchorage & Beaching Position (June 2024)
 
 Aliaga, Turkey
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -334,8 +296,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 278.42 | 278.50 | +0.03% |
 | USD / TRY (TURKEY) | 32.73 | 32.84 | +0.33% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -346,8 +306,6 @@ The Sub-Continent ferrous scrap market encountered a series of hurdles this week
 
 has not fully resumed post-Eid. Normalcy is expected to return next Monday, but overall industry production is still at 30-40%. The market is under pressure as sales remain inactive due to fund shortages. Current UK/Europe offers for shredded scrap hover at US$420-422 per ton CFR Qasim. In Bangladesh, the imported scrap market remained in a wait-and-watch mode due to bearish steel demand. Participants dealing with containerised scrap experienced uncertain freight rates, with a negotiable price range varying from US$395-410 per ton for HMS from the US and Australia. A bulk deal from the US was heard but is yet to be confirmed. Buyers are also facing challenges in opening LCs, adding to market uncertainty. Globally, the market expects a quiet week with nominal bookings. Some suppliers warn of declining scrap flow issues during the summer, while others anticipate a temporary rebound as Turkish scrap bookings have resumed in bulk, which will temporarily support prices. The Turkish imported ferrous scrap market saw multiple deals from the US and Europe, pushing prices up as mills returned after a quiet holiday week. However, softening rebar prices and increased freight costs have tempered expectations of a strong recovery.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 19
 
 # HMS 1/2 & Tangshan Bille
@@ -357,8 +315,6 @@ has not fully resumed post-Eid. Normalcy is expected to return next Monday, but 
 **Iron ore futures prices continued their upward trend for the second consecutive day on**
 
 Wednesday, driven by a surge in buying activity in China's spot market and growing expectations of further economic stimulus measures. The most-traded September iron ore contract on China's Dalian Commodity Exchange rose 3.4% to 826 yuan (US$113.67) per metric ton, while the benchmark July iron ore on the Singapore Exchange climbed 3.8% to US$107 per ton. This price rally is underpinned by several key factors. Solid near-term demand for iron ore persists, partly due to its cost advantage over steel scrap as a steelmaking input. Additionally, Beijing's recent announcement of reduced minimum down payment ratios for first-time home buyers has signalled potential support for the struggling property market, further boosting investor confidence. Market sentiment is also buoyed by anticipation of possible stimulus measures to be unveiled at the upcoming third plenum meeting in July, which is expected to focus on deepening reforms and promoting China's modernisation. This expectation has led some traders to close their short positions, indicating limited expectations for further price declines in the near term. However, the market dynamics remain complex. Despite the positive indicators in iron ore, daily crude steel output among member steelmakers
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 

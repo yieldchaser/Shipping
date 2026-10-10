@@ -22,8 +22,6 @@ WEEK 18 - May 4, 2024
 
 In its May 2024 meeting, the US Federal Open Market Committee opted to keep the Federal Funds Rate steady within the 5.25-5.50% target range and scaled back quantitative tightening from US$95 billion to US$60 billion. During the press conference, Fed Chair Jerome Powell reaffirmed that monetary policy remains restrictive and hinted at the unlikelihood of an interest rate hike in the near future. Despite the backdrop of higher interest rates, the US economy has demonstrated unexpected resilience. Analysts have revised upward their 2024 growth forecasts from 1.3% in January to 2.4% in April. However, the FOMC expressed concern over the lack of significant progress toward the 2% inflation target. Market expectations now lean towards 1-2 rate cuts in 2024, a notable shift from earlier projections of 4-5 cuts. For the shipping industry, as the sanctions are intensifying, another noteworthy piece of news surfaced, but this time from the Far East. The US Treasury Department's top sanctions official is scheduled to visit Singapore and Malaysia next week, aiming to address concerns over funding for Iran and its proxy groups and the evasion of sanctions on Russia. Sources indicate a rise in funds channelling to Iran and its proxies, such as Hamas, through Malaysia's financial system. During the visit, Under Secretary Brian Nelson will discuss US apprehensions regarding such activities. Additionally, General Counsel Neil MacBride will accompany him. This visit aligns with the Treasury's heightened focus on terrorist financing in Southeast Asia, including illicit Iranian oil sales. Discussions in Singapore are expected to revolve around enforcing a Group of Seven-led price cap on Russian oil and curbing the transshipment of critical dual-use goods. Amidst global efforts to sanction Russia for its actions in Ukraine, Singapore's role as a key shipping hub comes under scrutiny, with concerns raised over the verification of paperwork related to oil shipments adhering to the price cap.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ In the Pacific, rates rose as Australian iron ore charterers actively secured ve
 Panamax/Kamsarmax:
 
 Despite strong coal volumes to India, the market remains flat due to increased vessel supply from South America and lower Chinese coal demand. China's prolonged rainfall until late May is lowering power demand while boosting hydropower, likely further curbing coal imports by Chinese power plants. Pacific r/v saw levels closed at US$14,750's a day. In the Atlantic, the market remained flat as supply remained tight overall, but demand has yet to show improvement. T/A levels fell slightly to US$14,500's a day. Supramax/Ultramax: The Atlantic market was upbeat at the start of the weak from steady demand for grain, with China's soybean imports favouring Brazil over the US. But with the holidays midweek, F/H route fell slightly to US$23,300's a day due to excess tonnage in the region. In the Pacific, the market activity was subdued due to holidays leading to downward adjustments primarily in the overvalued Pacific Panamax sector. Pacific r/v corrected rates to US$15,200's a day at closing.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -68,8 +64,6 @@ In the Atlantic, the downward trend persisted as demand remained subdued across 
 | SUPRAMAX | 58,000 | 16,000 |  | 16,500 |  | 14,500 | -3.03% |  | +10.34% |
 | HANDYSIZE | 38,000 | 14,000 |  | 14,250 |  | 11,000 | -1.75% |  | +27.27% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -86,8 +80,6 @@ In the Atlantic, the downward trend persisted as demand remained subdued across 
 | FLC LONGIVITY | SMAX | 56,785 | 2009 | CHINA | 11.8 | UNDISCLOSED |
 | CARLOTA BOLTEN | HANDY | 37,489 | 2015 | CHINA | 18.8 | GREEK BUYERS |
 | GLOBAL STRIKER | HANDY | 32,976 | 2013 | JAPAN | 14.5 | GREEK BUYERS |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -107,8 +99,6 @@ Aframax:
 
 Despite continuous chartering activity from the early part of the week in the Middle East and Asian regions, excess tonnage maintained a supply-demand balance, resulting in a flat rate. In the Med, levels saw a downturn from last weeks with 80,000mt slipping to WS168 in Ceyhan/Lavera route.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Clean:
@@ -120,8 +110,6 @@ MR: MR rates strengthened across the board, driven by an extremely tight supply 
 Atlantic, TC2 climbed to WS170.
 
 # Baltic Exchange Tanker Indices
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -139,8 +127,6 @@ Atlantic, TC2 climbed to WS170.
 | GOLD TRADER III / GOLD TRADER II | MR | 33,338 | 2022 | CHINA | 57.0 (SS) | SFL CORPORATION |
 | TRF KOBE / TRF KRISTIANSAND | PROD / CHEM | 19,997 | 2016 | JAPAN | 32.0 (SS) | UNDISCLOSED |
 | IVORY RAY | PROD / CHEM | 19,991 | 2011 | JAPAN | 24.9 (SS) | UNDISCLOSED |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -163,26 +149,16 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 40 | 31 | 22 | 16 |
 | 5,100 *(amount in USD million) | Gearless | 78 | 69 | 55 | 28 | 25 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 510 ~ 520 500 ~ 510 520 ~ 530 550 ~ 560 IMPROVING/
-
-.
-
-| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 510 ~ 520 | 500 ~ 510 | 520 ~ 530 | 550 ~ 560 | IMPROVING/ |
+| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 310 ~ 320 | 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | STABLE / |
 
@@ -201,8 +177,6 @@ ALANG (WC INDIA) 510 ~ 520 500 ~ 510 520 ~ 530 550 ~ 560 IMPROVING/
 | GADDANI, PAKISTAN | 425 | 290 | 540 | 685 | 550 |
 | ALIAGA, TURKEY | 280 | 160 | 255 | 430 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -213,11 +187,7 @@ PRICE COMMENTS DELIVERED CHATTOGRAM 545 DELIVERED ALANG ~ GADANI DELIVERED ALANG
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -237,8 +207,6 @@ Anchorage & Beaching Position (May 2024)
 | KEL | CHEM.TANKER | 3,535 | 02.05.2024 | 04.05.2024 |
 | DARK KNIGHT | AHTS | 2,606 | 30.04.2024 | 01.05.2024 |
 | LEO | FSPO | 23,590 | 30.04.2024 | 01.05.2024 |
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -261,8 +229,6 @@ Anchorage & Beaching Position (May 2024)
 | PITA ERMA | GEN.CARGO | 6,002 | 25.05.2024 | AWAITING |
 | SINOKOR QINGDAO | CONTAINER | 4,734 | 23.04.2024 | AWAITING |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Gadani, Pakistan
@@ -278,8 +244,6 @@ Aliaga, Turkey
 Chattogram, Bangladesh : 7 ~ 10 May | 22 ~ 25 MAY Alang, India : 5 ~ 13 May | 21 ~ 29 MAY
 
 ---
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -308,8 +272,6 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent and Turkey ferrous scrap market displayed a mixed performance this week, reflecting diverse conditions across the region. In India, a slight rise in demand for imported scrap was observed due to limited domestic availability. Pakistani buyers exercised caution amidst slow sales of finished steel, while Bangladesh encountered sluggish demand linked to a domestic steel market slowdown exacerbated by adverse weather. Shredded scrap offers increased marginally by US$1/t in India and US$2/t in Bangladesh, while remaining unchanged in Pakistan. Conversely, US bulk HMS (80:20) offers to Turkey held steady day-on-day. In India, shredded scrap offers from the US and Europe were cited at US$425-430/t CFR, with HMS (80:20) from West Africa and Europe at US$405-410/t CFR. A representative from a southern Indian steel mill noted a temporary domestic market uptick due to scarcity, necessitating increased reliance on imports, which are currently priced lower than local scrap.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 In Pakistan, cautious sentiment prevailed, and no firm offers or bids were reported.
@@ -320,8 +282,6 @@ UK/Europe at US$420-425/t CFR and HMS (80:20) at US$400-405/t CFR. **Turkish** d
 
 # HMS 1/2 & Tangshan Billet
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 # Commodities
@@ -331,8 +291,6 @@ The copper kicked off the trading day on a robust note, buoyed by a softened USD
 ## Iron ore futures experienced a downward trend due to a combination of increased
 
 supply and diminished demand. Australian iron ore exports notably surged by 26% month-on-month to reach 78.41 million tons in April. Operational challenges, including maintenance disruptions and adverse weather conditions, have been successfully addressed, allowing exports to rebound. However, market sentiment was further dampened by reports suggesting that China might consider adjusting its steel production limits in response to oversupply issues and falling prices. These developments collectively contributed to the subdued atmosphere surrounding iron ore futures.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

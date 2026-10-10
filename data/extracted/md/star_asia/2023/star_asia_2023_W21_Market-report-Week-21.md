@@ -26,8 +26,6 @@ This week has been marked by a series of significant challenges that have the po
 
 China, the largest global producer of aluminum, is increasingly importing lightweight metal from Russia due to sanctions and a reduced appetite for Russian commodities from other countries. In April, Russian sales of refined aluminum to China nearly tripled compared to the previous year. This growth in imports is driven by factors such as drought affecting China's domestic aluminum production and geopolitical considerations. Russia needs to sell more aluminum to China as other nations avoid its supplies due to the ongoing war, while Chinese buyers can pay in their own currency, supporting Beijing's efforts to promote the yuan globally. Meanwhile, the slump in iron ore prices indicates the ongoing struggles in the Chinese economy. Steel inventories at major Chinese mills have decreased, and consumption during the
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 peak construction season fell short of expectations. Crude steel production also declined, leading to price drops and output reduction directives from authorities. The cost of iron transportation to Chinese harbors has significantly declined, impacting global markets and affecting mining firms' revenue. While there was a slight rise in iron ore futures due to improved downstream demand and expectations of stimulus policies, analysts remain doubtful about significant improvements in the iron ore market. Although there has been an increase in crude steel output, doubts persist, and the rise in iron ore futures may be short-lived without prompt demand improvement. This suggests the potential for a more significant slowdown in the Chinese economy.
@@ -43,8 +41,6 @@ The decline in demand from major coal importers like China and India has resulte
 ### Supramax / Ultramax:
 
 Similar to Panamax, the market experienced a decline due to sluggish demand for grain and coal. However, the demand for Supramax ships was relatively favorable as Indonesian exporters shifted their focus to South East Asian countries. SEAsia is experiencing an early heat wave, leading to a rise in electricity demand and a potential increase in coal imports, especially in Vietnam, with the opening of new power plants. Levels in the Pacific r/v, however, remain tight, recording around an average US$ 8,500's a day via Indonesia. T/A levels were only slightly
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -79,8 +75,6 @@ This week, the Atlantic market experienced a decline due to the gradual accumula
 
 *\*(Amount in USD million)*
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
 
 # Baltic Exchange Dry Bulk Indices
@@ -103,8 +97,6 @@ BALTIC EXCHANGE DRY BULK INDICES
 | 52,000 | 12,750 | 13,650 | 25,750 | -6.59% | -50.49% |
 | 32,000 | 10,500 | 10,500 | 23,250 | 0 | -54.84% |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 5
 
 # Tankers
@@ -122,8 +114,6 @@ WAFR/Europe region saw levels fall this week to WS114 for 130,000mt. Market cond
 ### Aframax:
 
 Due to the robust market conditions in the Atlantic, MEG/Singapore route witnessed a decrease in available ships in the eastern part of the Suez Canal start of the week. But Atlantic levels fell midweek for 70,000mt for EC Mexico/USG to WS290. The arrival of ships in the region is expected to be restricted, but the market is anticipated to remain due to the slowdown in trade
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -162,8 +152,6 @@ L.R.: The LR1 market saw a bustling week, with strong activity observed. TC5 set
 
 *\*(amount in USD million)*
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 7
 
 # Baltic Exchange Tanker Indices
@@ -184,8 +172,6 @@ L.R.: The LR1 market saw a bustling week, with strong activity observed. TC5 set
 | AFRAMAX | 110,000 | 41,000 | 41,000 | 20,750 | 0 | +97.59% |
 | LR1 | 74,000 | 35,500 | 35,500 | 22,000 | 0 | +61.36% |
 | MR | 47,000 | 26,000 | 26,500 | 19,000 | -1.89% | +36.84% |
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 8
 
@@ -208,30 +194,21 @@ Despite a significant decline in freight rates and an imbalance in supply and de
 | 5,500 - 7,000 | Gearless | 88 |  | 80 | 70 | 45 |  | N/A |
 | *(amount in USD million) |  |  |  |  |  |  |  |  |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
 
 # Ship Recycling Market Snapshot
 
 | DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
 |---|---|---|---|---|---|
-| ALANG (WC INDIA) |  |  | CARGO |  | TREND |
 | *For green ship recycling, the prices are about | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 550 ~ 560 | STABLE / |
+| CHATTOGRAM, BANGLADESH | \*550 ~ 560 | \*540 ~ 550 | \*530 ~ 540 | \*570 ~ 580 | WEAK / |
+| GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | WEAK / |
 
-US$15-20/ton lower.
-
-CHATTOGRAM, \*550 ~ 560 \*540 ~ 550 \*530 ~ 540 \*570 ~ 580 WEAK / BANGLADESH
-
-GADDANI, PAKISTAN NA NA NA NA NA
-
-TURKEY
-
-\*For Non-EU ships. For E.U. 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 WEAK /
-
-Ship, the prices are about US$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ### 5-Year Ship Recycling Average Historical Prices
 
@@ -244,8 +221,6 @@ CHATTOGRAM, BANGLADESH 420 430 310 520 645
 GADDANI, PAKISTAN 440 420 300 510 660
 ALIAGA, TURKEY 290 270 170 280 400
 ```
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 10
 
@@ -267,15 +242,11 @@ ALIAGA, TURKEY 290 270 170 280 400
 
 # Recycling Ships Price Trend
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 11
 
 # Insight
 
 The ship recycling markets in the Sub-Continent experienced some noticeable cracks this week, leading to growing uncertainties. Despite ship prices not reflecting this lackluster sentiment, market participants are adopting an exceedingly cautious approach for the future. The recent sales reported for forward deliveries appear to be primarily driven by speculation, lacking substantial support from local markets. The validity of these sales can only be determined in due course as time unfolds to disclose the outcome of such buying. The latest data released by the World Steel Association reported that the global production of crude steel for 63 countries in April 2023 reached 161.4 million tonnes (Mt). This figure represents a decline of 2.4% compared to the same period in 2022. Analyzing the regional production statistics, Africa experienced growth, with a production of 1.3 mt in April 2023, reflecting a 4.8% increase from the previous year. However, Asia and Oceania witnessed a decrease in production, producing 121.1 mt, down by 1.5%. The European Union (E.U.), consisting of 27 member countries, faced a significant decline in production, reaching 11.1 Mt, representing a 11.7% decrease. Europe, excluding the E.U., produced 3.5 Mt, indicating a substantial drop of 17.3%. The Middle East recorded a production of 4.2 mt, marking a 4.2% increase. North America produced 9.2 Mt, facing a decline of 4.6%. Russia, other Commonwealth of Independent States (CIS) countries, and Ukraine collectively produced 7.5 Mt, showing a growth of 5.9%. Lastly, South America produced 3 .6 mt, experiencing a slight decrease of 2.2%.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 12
 
@@ -284,8 +255,6 @@ Despite the overall decline of 2.4% in global steel production, the prices of st
 **ALANG, INDIA.**
 
 It has been a subdued week for the recyclers at Alang, as their activities have been limited due to a sudden decline in ship sales destined for the region. Recent sales of ships from Far Eastern markets have primarily been directed towards Bangladesh, resulting in a lack of opportunities for the recyclers at Alang. After a brief pause, domestic ship scrap prices have once again started declining, signaling a resumption of their downward trend. This drop can be attributed to a lack of demand from domestic steel mills, which has remained consistently poor. Several factors have contributed to this ongoing slump in demand, including uncertainties surrounding geopolitical issues and the upcoming monsoon season. During this season, construction activities tend to slow down, further dampening the demand for ship scrap. Additionally, weak exports have also played a role in the overall decline in demand for steel products. While on the other hand, import prices for preferred grades of ferrous scrap, such as shredded and HMS, into India have remained steady due to a lack of significant inquiries. Meanwhile, the domestic scrap and semi-finished markets experienced a slight decrease in prices and subdued trading. The ship recycling markets have experienced a prolonged period of inactivity due to a noticeable absence of demand. Looking ahead, it is clear that a substantial catalyst will be required to rekindle both demand and optimism within the industry.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 13
 
@@ -317,8 +286,6 @@ Nevertheless, a persistent challenge for cash buyers and breakers has been the a
 Alarming reports indicate that certain vessels have been stranded for over a month, prompting concerns over delays and substantial costs and facing the potential risk of adverse monsoon weather and strong currents.
 
 Further, to add to the ongoing uncertainties, the shipbreaking industry in Bangladesh is facing a new crisis due to delays and losses caused by changes in environmental regulations, which were
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 14
 
@@ -352,8 +319,6 @@ Next week, all eyes will be on the highly anticipated upcoming National Budget F
 | LOGAN | GEN.CARGO | 1,769.45 | 30.04.2023 | 07.05.2023 |
 | HONG YANG | GEN.CARGO | 11,883.80 | 18.04.2023 | 06.05.2023 |
 
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 15
 
 | WEST OCEAN 9 | GEN.CARGO | 1,671.48 | 29.04.2023 | 05.05.2023 |
@@ -372,8 +337,6 @@ The ship recycling markets have been filled with frustration and a sense of stag
 ### ALIAGA, TURKEY
 
 In a noteworthy development this week, Hapag-Lloyd AG, successfully sold three ice-classed panamax container vessels for recycling in Aliaga to Leyal Ship Recycling Group, Turkey at a healthy price of US$385/long ton. These vessels, totaling over 45,000 LT in weight, were exclusively offered for Green Recycling, reflecting Hapag-Lloyd's commitment to environmentally responsible practices. While several environmentally conscious shipyards expressed their interest in participating, Hapag-Lloyd made it clear that they would only consider offers from yards approved by the EU-SSR. This particular stipulation highlights the stringent adherence of European companies to EU regulations, further emphasizing their dedication to sustainable operations. Meanwhile, against the backdrop of a hung general election and economic instability, Turkey is experiencing fluctuations in its domestic rebar market. The political uncertainty and economic volatility have intensified the unpredictability in the Turkish economy, impacting the steel market. Recent data shows a retraction in rebar prices compared to previous levels. Factors such as weak demand, credit issues, and market sensitivity to macroeconomic conditions contribute to the downward pressure on prices. Traders are cautious, expecting the wavering trend in rebar prices to persist until political and economic conditions stabilize. It is crucial to closely monitor these market dynamics, as the future of the Turkish domestic rebar market depends on how broader challenges are addressed and resolved.
-
-### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 16
 

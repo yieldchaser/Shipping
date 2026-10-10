@@ -22,8 +22,6 @@ pages: 21
 
 The European Central Bank (ECB) has cut borrowing costs for the fifth time since June, lowering the deposit rate by a quarter-point to 2.75% as the eurozone economy struggles to gain momentum and inflation moves closer to the 2% target. While policymakers maintain that monetary policy remains "restrictive," they have signalled the potential for further easing, though without committing to a specific rate path. ECB President Christine Lagarde emphasised the uncertainty surrounding economic conditions, making clear that any firm forward guidance would be unrealistic at this stage. Investors interpreted the ECB's stance and Lagarde's optimism on inflation as a sign that more rate cuts could be on the way. Markets responded with a surge in regional bonds, pushing the two-year German yield down by 10 basis points to 2.18%, the sharpest daily drop in two months. Meanwhile, the euro saw modest gains, trading at $1.0431. Despite a recent uptick in inflation, policymakers remain confident that price stability will be achieved this year. Their primary concern now lies with the sluggish eurozone economy, which unexpectedly stagnated at the end of 2024, weighed down by weak growth in Germany and France, as well as uncertainties surrounding U.S. trade policy under President Donald Trump. Looking ahead, the ECB expects economic weakness to persist in the near term, with risks tilted to the downside due to potential global trade friction. Lagarde noted that while services activity continues to expand, manufacturing remains in contraction, and consumer confidence is fragile. Some policymakers argue for deeper rate cuts to prevent monetary policy from hindering growth, with analysts estimating a neutral rate between 2% and 2.25%. However, as inflation edges down and wage growth moderates, officials are increasingly confident that their price-stability goals are within reach, reinforcing expectations that further easing could come gradually rather than aggressively.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Capesize market experienced a challenging week, with the BCI 5TC declining t
 Panamax/Kamsarmax:
 
 The market experienced a subdued week across both basins due to the Lunar New Year holidays, with rates continuing to soften. The Atlantic displayed a notable North/South divide, with East Coast S. America showing signs of improvement as March arrival fixtures picked up. In the Pacific, despite the holiday lull, some fixtures were reported at higher levels than the index. However, ample vessel supply constrains any significant upward movement. Pacific r/v saw rates closed at US$5,700's a day. Supramax/Ultramax: Supramax faced continued downward pressure this week, with rates declining across all regions amid holiday-thinned trading conditions. The Atlantic showed little signs of
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ The market experienced widespread weakness this week, with rates under pressure 
 | HANDY | 38,000 | 29 | 33 | 27 | 20 | 12 |
 | *(amount in USD | million) |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -83,8 +77,6 @@ The market experienced widespread weakness this week, with rates under pressure 
 | PAPAYIANNIS III | SMAX | 58,429 | 2010 | S. KOREA | 11.7 | CHINESE BUYERS |
 | ORION | SMAX | 56,071 | 2007 | JAPAN | 10.6 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -99,8 +91,6 @@ Suezmax:
 
 The Suezmax market showed signs of recovery this week, particularly in the Western hemisphere, with the Nigeria/UKC strengthening to WS80. The Black Sea region also demonstrated resilience amid heavy forward window activity, while other regions remained oversupplied with tonnage. 135,000mt CPC/Med, remained at WS89 levels.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -112,8 +102,6 @@ Clean:
 LR: The LR2 market showed mixed performance this week, with MEG/Japan rates declining to WS126. The LR1 sector faced downward pressure in the East as MEG/Japan rates fell to WS123. MR: The MR market experienced broad weakness this week, with significant rate corrections across most routes, particularly in the Atlantic basin where ARA/USAC rates dropped by 20 points to WS142. USG showed similar bearish trends, with USG/UKC declining to WS118.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -128,8 +116,6 @@ LR: The LR2 market showed mixed performance this week, with MEG/Japan rates decl
 | SOFIA II | AFRA | 105,400 | 2008 | JAPAN | 31.0 | CHINESE BUYERS |
 | WOOLIM 3 | PROD / CHEM | 11,460 | 2018 | S. KOREA | 24.0 | GREEK BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 ## Containers
@@ -138,33 +124,18 @@ MSC led an aggressive second-hand vessel acquisition strategy in 2024, purchasin
 
 ## Containers Values
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 450 ~ 460 430 ~ 440 440 ~ 450 460 ~ 470 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 460 ~ 470 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | WEAK / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | WEAK / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 360 ~ 370 340 ~ 350 350 ~ 360 370 ~ 380 STABLE /
-
-*Ship, the prices are about USD 20-30/tonon less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 450 ~ 460 | 430 ~ 440 | 440 ~ 450 | 460 ~ 470 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 460 ~ 470 | 450 ~ 460 | 440 ~ 450 | 470 ~ 480 | WEAK / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 420 ~ 430 | 420 ~ 430 | 460 ~ 470 | WEAK / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/tonon less | 360 ~ 370 | 340 ~ 350 | 350 ~ 360 | 370 ~ 380 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -181,8 +152,6 @@ TURKEY
 | GADDANI, PAKISTAN | 360 | 410 | 600 | 570 | 540 |
 | ALIAGA, TURKEY | 230 | 240 | 330 | 320 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -193,19 +162,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights
 
 2024 saw the total number of vessels sold for recycling at 357, this is almost 100 vessels compared to 2023 total and a third of the number at the end of 2021 (the total vessels sold in 2021 was 1018). The recent uncertainty surrounding trade wars, tariffs, sanctions, and an increasingly aggressive U.S. foreign policy has unsettled shipping markets, leading to a sharp decline in freight rates. The Baltic Dry Index has plummeted to its lowest level in nearly two years, with further drops recorded at the start of the week. Some analysts suggest that older vessels, which have continued earning well in strong markets, may soon reach the end of their operational lifespan. However, shipowners hoping to secure a strong residual value for these aging assets may be disappointed, as recycling prices at yards on the Indian subcontinent have fallen by up to 25% over the past year. Previously, fetching over US$600 per LDT, prices have now dropped to around US$470, with indications of further declines ahead.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -222,8 +185,6 @@ The Indian Union Budget announced on February 1, 2025, introduced several measur
 ### 2. National Green Steel Mission: The government has allocated Rs.15,000 crore
 
 (approximately US$1.74 billion) to launch the National Green Steel Mission. This initiative seeks to incentivize the production of low-carbon or 'green' steel, focusing on reducing
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -252,8 +213,6 @@ Anchorage & Beaching Position (JANUARY 2025)
 Chattogram
 
 The Bangladesh ship recycling market remains stagnant, with no notable developments and growing concerns over the pending NOC requirements for non-green yards as the deadline draws near. The absence of an elected government has led to a slowdown in new projects, resulting in weak steel demand and subdued market sentiment. Following December's substantial restocking, the imported scrap market has stayed quiet, with buyers showing little interest in Australian shredded scrap offers at US$375- 380/t cfr Chattogram.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -287,8 +246,6 @@ Anchorage & Beaching Position (JANUARY 2025)
 Gadani
 
 Pakistan's imported scrap market continues to reflect the global slowdown, with the local rebar market maintaining prices at PKR 243,000-245,000/t ($871-878/t) ex-works, though moderate restocking activities provide some support to the market. Overall, the week has been characterised by minimal developments and subdued trading activity, reflecting the broader regional market sentiment.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
@@ -328,8 +285,6 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent ferrous scrap markets exhibited mixed activity this week, with Turkey witnessing an uptick in prices driven by strong deals, particularly for US-origin HMS
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 (80:20). In contrast, India and Pakistan faced downward pressure, while Bangladesh remained relatively stable with slight improvements.
@@ -346,8 +301,6 @@ Pakistan's imported ferrous scrap market saw reduced activity, with offers for E
 
 The Bangladeshi imported scrap market saw slight improvements, as mills evaluated offers more actively in preparation for the upcoming pre-Ramadan stocking period. While day-on-day price movements remained largely unchanged, mills continued inquiries for cheaper materials from near-shore suppliers, indicating strategic purchasing ahead of seasonal demand shifts.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 19
 
 ### Turkey: Rising Prices Amid Strong US-Origin Deals
@@ -361,8 +314,6 @@ Indicative tradable values for US/Baltic-origin HMS (80:20) ranged between US$34
 ## Commodities
 
 The base metals market continues to grapple with an uncertain economic outlook, with investor sentiment subdued despite a modest uptick in copper prices. A weaker U.S. dollar provided some support, improving risk appetite among traders, but overall activity remained muted as China remained out of the market for the Lunar New Year holiday. Adding to market uncertainty, proposed U.S. tariffs on copper, aluminum, and steel imports have cast a shadow over trading sentiment. This has led to a divergence in pricing, with New York copper prices rising above the London Metal Exchange (LME) benchmark as traders assess the potential impact of the policy shift.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 

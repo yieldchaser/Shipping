@@ -22,8 +22,6 @@ pages: 19
 
 U.S. President Donald Trump announced on Friday that he sees "no reason" to proceed with his upcoming meeting with Chinese President Xi Jinping, originally scheduled during the APEC summit in South Korea in two weeks. The decision follows China's imposition of new export controls on rare earth minerals, which Trump labelled as "hostile" and damaging to U.S. interests. The cancellation throws uncertainty over the feasibility of Trump's planned Asia trip and the already fragile trade negotiations between Washington and Beijing. Central to the standoff are China's continued restrictions on U.S. soybean imports, a major concern for American farmers and a wider dispute over technology and raw materials. Trump further warned of a "massive increase" in tariffs on Chinese imports, adding that "many other countermeasures" were under active consideration by his administration. Global markets reacted swiftly to the announcement, with equities retreating from earlier gains and soybean futures extending losses. The renewed tensions follow a sequence of retaliatory actions from both countries. China recently imposed new port fees on U.S. vessels and launched an antitrust investigation into Qualcomm Inc. In its latest move, Beijing tightened export licensing requirements for rare-earth materials and related technologies, citing national security. On the other hand, just days before the International Maritime Organisation (IMO) is set to adopt the world's first global carbon tax, the United States has intensified efforts to derail the proposal, warning of punitive measures against nations backing the initiative. In a joint statement, Secretaries Marco Rubio, Chris Wright, and Sean Duffy said Washington would "impose costs on countries" supporting the IMO's Net Zero Framework *(NZF), including sanctions on officials, extra port fees, and possible restrictions on ships* from NZF-aligned states entering U.S. ports. The potential measures extend beyond shipping, targeting government contracts and energy infrastructure linked to pro-NZF countries. The move primarily affects European nations, the framework's strongest supporters. With the IMO's final meeting scheduled for October 14-17, only one-third of member states voting against the proposal could block its adoption, raising tensions ahead of a critical global climate milestone.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ The Capesize saw a mixed picture across both basins. While the Pacific showed re
 Panamax/Kamsarmax:
 
 The Panamax market maintained a robust outlook. The Atlantic basin showed strength, fuelled by solid fixtures driven by a substantial increase in cargo originating from USG, alongside sustained stability in the ECSA region. T/A saw rates climbed to US$17,500's a day. In the Pacific, the trading remained generally firm, with activity in Indonesia seeing an uptick at week's closing following the Chinese holidays.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ Handy segment saw a mixed market this week. The Pacific region was quiet due to 
 | HANDY | 38,000 | 30 | 33 | 25 | 18 | 14 |
 | *(amount in USD | million) \| (E) - eco units |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -82,8 +76,6 @@ Handy segment saw a mixed market this week. The Pacific region was quiet due to 
 | HAUT BRION | SMAX | 57,075 | 2011 | CHINA | 12.3 | CHINESE BUYERS |
 | IRMA | HANDY | 34,947 | 2000 | JAPAN | 4.8 | UNDISCLOSED |
 | EUROSKY | HANDY | 33,774 | 2011 | CHINA | 10.0 | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 5
 
@@ -102,8 +94,6 @@ The Suezmax market saw an uptick in activity this week, with enquiries in the At
 Aframax:
 
 The Mediterranean saw some activity this week, but with a lack of available vessels, rates for 80,000mt on TD19 climbed to WS158. On the other side, the East Coast Mexico/USG route remains largely unchanged and stable, closing on week's end around the WS145 mark.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -147,11 +137,7 @@ Tankers S&P Report
 | YINGHAO CONFIDENCE | AFRA | 107,600 | 2010 | JAPAN | 36.2 | FLYNN VENTURES LTD |
 | MARITIME JINGAN | MR | 44,411 | 2003 | CHINA | 9.0 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -170,33 +156,18 @@ Despite overall softness, the container freight market showed tentative signs of
 
 S&P Containers Report
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 410 ~ 420 400 ~ 410 390 ~ 400 430 ~ 440 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
-| GADDANI, PAKISTAN | 430 ~ 440 420 | ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| ALANG (WC INDIA) | 410 ~ 420 | 400 ~ 410 | 390 ~ 400 | 430 ~ 440 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
+| GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -213,8 +184,6 @@ TURKEY
 | GADDANI, PAKISTAN | 370 | 590 | 580 | 510 | 480 |
 | ALIAGA, TURKEY | 200 | 280 | 320 | 300 | 320 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -225,19 +194,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 The Alang ship recycling market witnessed a sharp correction this week, with domestic steel prices plunging and overall sentiment turning distinctly bearish. A series of abnormal tanker sales concluded at notably discounted levels has effectively reset market benchmarks, putting pressure on the markets. These ships are being recycled through normal recycling, non-HKC compliant. Usual daily production of non-HKC compliant is 300~350 ton, while the same size for an HKC compliant is about 150 ~ 200 tons, as comparison, a typically lower production costs, are gaining competitive ground in this environment, leading to disparity amongst the recyclers. Traditionally, October and November mark a period of renewed demand following India's monsoon and festive seasons, as infrastructure and industrial projects drive steel consumption. However, this year's market failed to respond in line with expectations, with demand remaining muted and prices continuing to slide.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -259,8 +222,6 @@ Anchorage & Beaching Position (October 2025)
 | ALI S | BULKER | 4,869 | 22.09.2025 | AWAITING |
 | TRUST | GENERAL CARGO | 2,700 | 27.09.2025 | AWAITING |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 Chattogram
@@ -280,8 +241,6 @@ Anchorage & Beaching Position (October 2025)
 |  |  |  |  |  |
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
 | - | - | - | - | - |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -319,15 +278,11 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 Sub-Continent imported scrap markets remained subdued this week, weighed down by limited demand and cautious sentiment across key destinations. Trading activity was
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 muted in India, Pakistan, and Bangladesh as mills avoided restocking amid weak steel consumption, high freight costs, and tight liquidity. Activity in India remained muted as buyers stayed on the sidelines following the Dussehra holidays. Weak downstream demand and a strong dollar kept import appetite low. Shredded scrap offers hovered at US$355-360/ton CFR, while HMS 80:20 traded below US$325/ton, curbing transactions. Only 3,500-4,500 tonnes were booked during the week, including small lots of HMS 80:20 at US$318-325/ton. Mills largely avoided restocking as high freight rates and unviable import economics weighed on sentiment. The Bangladeshi market remained broadly stable, with limited buying interest due to sluggish construction activity and weak steel demand. Offers for HMS 80:20 and 90:10 from Brazil and Chile hovered around US$350-360/ton CFR Chattogram, while higherpriced EU/UK shredded and Singapore PNS saw little traction as mills maintained a cautious stance. The Pakistani market remained subdued, with mills operating at just 35-40% capacity amid tight liquidity and poor demand. EU/UK shredded was reported around US$365 - 370/ton CFR Qasim, while UAE-origin scrap held at US$385-388/ton. Extended credit cycles and weak cash flow kept most buyers inactive. The Turkish imported scrap market maintained a modest upward trajectory, buoyed by firm freight rates and scarce cargo availability. US and Baltic-origin HMS 80:20 offers edged up from US$346-350/ton CFR early in the week to around US$351/ton by Friday, with sellers reluctant to release material amid thin margins. Despite sluggish domestic steel sales, optimism surfaced after the EU's exemption of Ukrainian steel from import tariffs, which Turkish mills view as a potential boost for export opportunities..
 
 ## HMS 1/2 & Tangshan
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -352,8 +307,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 106 | +1.92% | +1.92% | 104 | 104 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 103 | +1.98% | -3.73% | 101 | 107 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

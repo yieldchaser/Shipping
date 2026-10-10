@@ -26,8 +26,6 @@ The recent sharp rise in interest rates has brought an end to the era of easy ca
 
 In a commodities update, Cargill Inc announced that it would stop elevating Russian grain for export from July 2023 after the completion of the 2022-2023 season, but its shipping unit will continue to carry grain from the country's ports. This move has raised concerns about the disruption of global grain supplies due to the ongoing war in the Black Sea breadbasket region, leading to a spike in wheat futures prices. Viterra, a large grain trader part-owned by Glencore, is also reportedly planning to stop grain trading in Russia. Cargill and Viterra are among the largest exporters of Russian wheat. Iron ore prices, meanwhile, are expected to drop by up to 28% by the end of 2023 as China's steel demand and output decreases. Commonwealth Bank of Australia predicts prices will drop to US$100 per tonne by the fourth quarter of this year as China's steel demand weakens. China's growth target for 2023 is around 5%. Plans to centralize iron ore purchases under the state-run entity China Mineral Resources Group could also contribute to lower prices in the long term. Demand for iron ore is further challenged by China's increased consumption of steel scrap, which cuts iron ore consumption by around 17 tonnes per year for every 1% increase in scrap use. Freight rates on the other hand, have returned to their old range, as the Capesize sector looks well supported. However, due to the volatile macro environment, there is no expectation of any major move in the near future. Dry bulk levels remain with continuing demand for bulk commodities, led by the Chinese economy.
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 2
 
 #### Capesize:
@@ -45,8 +43,6 @@ Sluggish demand continues in the segment. Midweek saw the inflow of new USG carg
 #### Handysize:
 
 The market conditions in the Atlantic are being supported by supply and demand developments as the USG cargo inflows continue to slow down. There is no visible line that indicates a cautious sentiment. T/A levels fell to US$ 9,800's region. In contrast, there has been a slight increase in activity in the Pacific, but there has also been an increase in open ships in Southeast Asia. However, levels in inter Pacific fell short, closing around US$ 8,500's region a day.
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 3
 
@@ -94,11 +90,7 @@ BALTIC EXCHANGE DRY BULK INDICES
 | BSI | 1,198 | 1,332 | 2,755 | -10.06% | -56.52% |
 | BHSI | 687 | 703 | 1,695 | -2.28% | -59.47% |
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 4
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 5
 
@@ -113,8 +105,6 @@ Charterers are expanding their "wait-and-see" approach in response to the surgin
 #### Suezmax:
 
 The WAF/Europe section of the WS index is expected to decline due to the reduced availability of ships in the Atlantic due to the firm Mediterranean and USG markets. 130,000mt Nigeria/Rotterdam marginally slipped to WS140. The suspension of facility operation following the strike in France has decreased crude oil demand leading to a flat outlook in the short term.
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 6
 
@@ -155,8 +145,6 @@ The LR1 market was active due to tight tonnage lists, while the LR2 market was q
 
 *\*(amount in USD million)*
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 7
 
 ## Baltic Exchange Tanker Indices
@@ -182,8 +170,6 @@ The LR1 market was active due to tight tonnage lists, while the LR2 market was q
 
 The chartering market for container ships remained strong this week, with most contracts reported in the smaller vessel sector and with periods of around 12 months. In sanction news, five containers carrying 100 metric tonnes of stainless steel from Jindal Stainless Ltd (JSL) have been stuck at the Belgian port of Antwerp for a year due to EU sanctions on Russia. The containers were sent in February 2022 but were held up due to the sanctions imposed after Russia invaded Ukraine. However, JSL's spokesperson stated that stainless steel is not on the EU's sanctions list and should be cleared for transport. JSL is expecting a five-year high in exports in the coming fiscal year, with increased shipments to Russia and planned market entries in South America and the Middle East. The Antwerp-Bruges port authority has referred the matter to Belgium's federal customs service, which has not yet responded to the issue.
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 8
 
 ## Containers S&P Report
@@ -200,30 +186,21 @@ The chartering market for container ships remained strong this week, with most c
 | 5,500 - 7,000 | Gearless |  | 87 | 80 | 65 | 40 | N/A |
 | *(amount in USD million) |  |  |  |  |  |  |  |
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 9
 
 ## Ship Recycling Market Snapshot
 
 | DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
 |---|---|---|---|---|---|
-| ALANG (WC INDIA) |  |  | CARGO |  | TREND |
 | *For green ship recycling, the prices are about | 550 ~ 560 | 530 ~ 540 | 540 ~ 550 | 580 ~ 590 | STABLE / |
+| CHATTOGRAM, BANGLADESH | \*600 ~ 610 | \*580 ~ 590 | \*570 ~ 580 | \*610 ~ 620 | WEAK / |
+| GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
+| TURKEY \*For Non-EU ships. For EU Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-US$25-30/ton lower.
-
-CHATTOGRAM, \*600 ~ 610 \*580 ~ 590 \*570 ~ 580 \*610 ~ 620 WEAK / BANGLADESH
-
-GADDANI, PAKISTAN NA NA NA NA NA
-
-TURKEY
-
-\*For Non-EU ships. For EU 320 ~ 330 310 ~ 320 300 ~ 310 330 ~ 340 STABLE /
-
-Ship, the prices are about US$30-40/ton less
-
-- All prices are USD per light displacement tonnage in the long ton. - The prices reported are net prices offered by the recycling yards. - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the abovequoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance. - \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 #### 5-Year Ship Recycling Average Historical Prices
 
@@ -236,8 +213,6 @@ CHATTOGRAM, BANGLADESH 460 445 350 480 670
 GADDANI, PAKISTAN 420 420 340 470 640
 ALIAGA, TURKEY 290 280 210 255 460
 ```
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 10
 
@@ -252,15 +227,11 @@ ALIAGA, TURKEY 290 280 210 255 460
 
 ## Recycling Ships Price Trend
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 11
 
 ## Insight
 
 The first quarter ended on a positive note, with the ship recycling prices comfortably surpassing US$600/ton in specific segments, and demand remains intact. Compared to last year's quarter tonnage, this year's overall levels were lower. In 2022, India's quarter tonnage reached 307,277 MT, whereas this year's tally currently stands at 246,584 MT. Meanwhile, in Bangladesh, last quarter's tonnage was more than 50% of this year's 1st quarter tonnage, coming in strong at 398,411 MT,this quarter, it was around 205,063 MT. As expected, Pakistan's tonnage was unsurprising this year due to ongoing Letters of credit and domestic issues.In the last quarter. Pakistan accumulated a quarterly tonnage of around 236,511 MT, whereas this year's tonnage was 81,573 MT. The ongoing LC issues in Pakistan have had an adverse impact on their tonnage. However, the recycling markets are surprised, and questions regarding the easing of ship supply remain unsolved. When 2022 ended, the container and dry bulk segments were looking promising as to long-awaited backlog of elderly ships was bound to go for recycling, but this did not happen, and the imbalances between demand and supply played a major role in the pricing. The roller coaster ride in the global steel prices, both semi-finished and finished, opened up opportunities for raw materials, but recyclers were not able to take full advantage of such a situation. Subcontinent markets remain in a conservative state. Current prices reflect domestic steel prices and impressive sales were made in the last two weeks or so before levels began their descent by around US$20 / ton or so, correcting itself. Meanwhile, prominent container shipping companies once again became the target of criticism by the NGO Shipbreaking Platform. Container shipping companies are being urged to adopt sustainable solutions in their policies and practices by the NGO Shipbreaking Platform ahead of an expected surge in discarded box ships sold for scrapping due to overcapacity, lower freight rates, and new carbon regulations. Several container shipping companies have been criticised for their poor management of endof-life vessels, with NGOs and media exposing Maersk and MSC for their practices. The dismantling of ships needs to be carried out in an environmentally safe manner, and many progressive companies and recycling businesses are looking at the EU Ship Recycling Regulation as the responsible standard for this industry.
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 12
 
@@ -280,8 +251,6 @@ The market remains subtle this week for India, with a few enquiries and nothing 
 
 A poor start to the week as the local prices of ship scrap made a significant drop in the prices. The ship plate dropped to US$704/ton by about 2.6%, and ship scrap dropped to US$639/ton by about 4.25% W-O-W, which has alarmed the local markets. The question is whether this is a Ramadan-related slowdown or fundamentally getting weak is to be seen in the coming weeks. The concerns surrounding the opening of Letters of Credit have resurfaced, despite experiencing some relief in the past three months. Banks have recently increased their restrictions and have retreated, resulting in some vessels being left waiting outside Chattogram for longer than anticipated. Currently, the fate of this situation is uncertain.
 
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
-
 ## Page 13
 
 However, most of the ship recyclers are optimistic that this may only be a temporary pause due to the approaching end of the fiscal year and the ongoing Ramadan period, leading to a slowdown in traditional activities. As a result, Bangladesh's ship recycling market has become more cautious, with a sense of uncertainty gripping the industry. A significant catalyst will be required to restore the lost optimism in the coming weeks.
@@ -293,8 +262,6 @@ It was another quiet week in Pakistan with no signs of activities. There are tal
 #### ALIAGA, TURKEY
 
 Turkish steel mills are currently not showing much interest in purchasing scrap due to sluggish steel sales and falling prices. Most mills are still not buying and are waiting for steel sales to recover before buying scrap, which has led to a decline in prices. Some suppliers expect Turkish mills to return to the market soon, but the longer they wait, the steeper the price jumps they will face. While rebar export sales are almost non-existent,
-
-#### Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )
 
 ## Page 14
 

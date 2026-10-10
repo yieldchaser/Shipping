@@ -22,8 +22,6 @@ pages: 18
 
 A new executive order signed by President Trump has introduced a new instability into global trade, adding uncertainty for the maritime sector and the supply chains it supports. The order modifies existing trade policy by implementing a web of "reciprocal" tariffs on dozens of countries, with rates varying from a baseline of 10% to as high as 41%. The move away from a predictable, rules-based system towards a more volatile and selective approach is driving a reassessment of shipping routes and logistics worldwide. The policy's implementation has been marked by confusing signals, with President Trump publicly emphasising an August 1st deadline while White House officials have set an August 7th start date to allow customs agencies time to prepare. The tariffs are highly targeted, with nations like Syria, Laos, and Myanmar facing duties of 40% or more, while key partners such as Switzerland and South Africa are also hit with steep rates of 39% and 30%, respectively. On the other hand, the order provides relief to some Asian manufacturing hubs, with duties for Thailand, Malaysia, and Taiwan being substantially reduced. A critical component of this new policy, and one with direct penalties for maritime logistics, is a 40% punitive tariff on any goods deemed to have been transshipped to circumvent duties. This measure is a direct hit on the established hub-and-spoke model of global shipping, where major ports consolidate cargo from multiple origins. It creates an additional compliance burden for carriers and threatens the business models of major transshipment hubs, forcing a costly overhaul of shipping networks to ensure verifiable cargo origin. Application of tariffs will possibly lead to a major rerouting of global trade flows, causing significant disruption for vessel operators. Shipping lines will likely see demand slow down on routes from high-tariff nations. This likely can spill over into freight rates and affect long-term service planning. The impact extends to dry bulk segment also, as shifts in the sourcing commodities will alter usual trade patterns.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ In the Pacific, an influx of new iron ore cargoes from Australia has injected si
 Panamax/Kamsarmax:
 
 Sentiment in the Panamax sector remains soft across both basins. In the Atlantic, a recent rise in the FFA prompted some charterers to secure tonnage, leading to a brief spell of fixing. Despite this, a persistent lack of fresh cargo enquiry is weighing on the market, causing rates for T/A routes to continue their decline. T/A ended the week at US$15,900's. The situation is similar in the Pacific, where an oversupply of available vessels remains the dominant theme. The fundamental imbalance continues to push the market lower. Supramax/Ultramax: The Atlantic is showing pockets of strength, particularly in the USG, where a consistent flow of cargo against a stable supply of ships has fostered a positive market environment. The Pacific market is also fragmented; while active trading on Indonesian coal and B/H routes has provided some momentum, a limited flow of fresh cargoes from NOPAC gives rise to an uncertain picture for the region overall. Pacific r/v ended the week
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -71,8 +67,6 @@ Dry Bulk Values
 
 *\*(amount in USD million) | (E) - eco units*
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -91,8 +85,6 @@ Dry Bulk Values
 | JIN JUN | SMAX | 56,887 | 2009 | CHINA | 11.0 | UNDISCLOSED |
 | APJ JAI | SMAX | 56,594 | 2011 | CHINA | 11.25 | CHINESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -106,8 +98,6 @@ In the MEG, VLCC rates have been on a consistent downturn since the beginning of
 Suezmax:
 
 The West African Suezmax market saw a reversal from the active chartering seen in the Black Sea during the prior week. Demand slipped slightly from the start of the week, as 130,000mt Nigeria/UKC remain around WS78. Subdued demand typical of the summer season will persist.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -127,8 +117,6 @@ TC17 from MEG/E.Africa fell at the start of week 20 points only to regain back a
 
 ## Baltic Exchange Tanker Indices
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -142,8 +130,6 @@ TC17 from MEG/E.Africa fell at the start of week 20 points only to regain back a
 | ALIAKMON | MR | 46,792 | 2006 | S. KOREA | 14.3 | UNDISCLOSED |
 | GRAND ACE 1 | MR | 45,990 | 2006 | S. KOREA | 11.0 | UNDISCLOSED |
 | FAVOLA | MR | 37,320 | 2002 | S. KOREA | 7.0 | NIGERIAN BUYERS |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -167,33 +153,18 @@ S&P Containers Report
 | HANSA BITBURG | FEEDER | 1,740 | 2008 | CHINA | 20.2 | UAE BASED BUYER |
 | ATLANTIC WEST | FEEDER | 1,345 | 2008 | CHINA | 17.0 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 430 ~ 440 420 ~ 430 410 ~ 420 440 ~ 450 IMPROVING /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 400 ~ 410 | 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 440 ~ 450 | IMPROVING / |
+| CHATTOGRAM, BANGLADESH | 400 ~ 410 | 380 ~ 390 | 360 ~ 370 | 410 ~ 420 | STABLE / |
 | GADDANI, PAKISTAN | 430 ~ 440 | 420 ~ 430 | 400 ~ 410 | 420 ~ 430 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -210,8 +181,6 @@ TURKEY
 | GADDANI, PAKISTAN | 330 | 580 | 580 | - | 510 |
 | ALIAGA, TURKEY | 170 | 300 | 300 | 300 | 340 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -222,19 +191,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 This week, the ship prices held firmly against the previous week, lending a positive tone to the market. This is supported by a shortage of candidates being offered for sale, which has in turn prompted recyclers to show a willingness to increase their price ideas by US$5-10 per LDT. On the global trade front, the new U.S. tariffs taking effect 1st August are not expected to have a significant direct impact, as India's steel export volume to the United States is minimal. However, the policy will likely create indirect pressure, with the risk of potential retaliatory duties on essential U.S. raw materials like coking coal and scrap, which could affect the entire supply chain. Overall demand remained strong, supported by the tapering of the monsoon season and the anticipated pickup in construction activity as projects resume.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -253,8 +216,6 @@ Anchorage & Beaching Position (AUGUST 2025)
 Gadani
 
 Pakistan saw a positive week, with the recent purchase of several bulk carriers. While pricing from recyclers has remained steady, the outlook is supported by emerging signs of potential firming in some segments of the domestic steel market. This encouraging environment is complemented by the positive developments within the industry. The recent provisional authorisation (DASR) of four additional recycling facilities brings the total number of newly certified yards to six. Three yards have already secured vessels, with three more still in the process of procurement. Once these remaining yards acquire ships, market activity is expected to pause for at least two to three months. During this period, the focus will shift to
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -279,8 +240,6 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | ROTTERDAM | 499 | 445 | 694 |
 | HOUSTON | 530 | 460 | 708 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
@@ -301,8 +260,6 @@ reported as persistent monsoon rains continue to hamper logistics and limit new 
 
 steel mills have covered their immediate needs and are now waiting for clearer demand signals from the finished steel market before committing to fresh bookings.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 ## HMS 1/2 & Tangshan
@@ -318,8 +275,6 @@ Singapore Exchange falling to around US$100 per ton. This downturn was echoed in
 **coking coal plunged by over 6%. The weakness stems from official data showing China's**
 
 manufacturing activity contracted for a fourth straight month, compounded by disappointment over Beijing's latest economic stimulus plans, which investors felt lacked the scale needed to invigorate domestic demand. While sharing the same underlying demand concerns, the copper market experienced a particularly volatile week, driven by a dramatic policy reversal in the United States. President Trump's decision to exempt refined copper from a proposed 50% tariff triggered sharp market adjustments, including a temporary trading suspension on the COMEX after prices plunged by more than 20%. This policy shift has effectively erased the premium on U.S. copper futures, and despite small daily fluctuations, both London and Shanghai contracts were poised to end the week down over 1%. There is now a tangible risk that inventories from COMEX warehouses could be re-exported, adding to global supply. This leaves the market caught between conflicting fundamental signals. On one hand, the demand picture is clouded by China's industrial slowdown, a factor reinforced by the roughly 50% surge in LME copper stockpiles during July. On the other, the supply side is showing signs of tightening, with top producer Chile reporting that its output fell by 6% y-
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

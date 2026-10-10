@@ -22,8 +22,6 @@ WEEK 27 - July 5, 2025
 
 U.S. President Donald Trump announced he has signed letters to 12 countries detailing new tariff rates on their exports to the U.S., with the formal notices set to be sent on Monday. Speaking aboard Air Force One, Trump did not disclose which countries are involved but said the tariffs would vary in amount and represent "take it or leave it" offers. Initially planned for Friday U.S. Independence Day, the release of the letters was pushed to the start of the following week. The move comes ahead of a July 9 deadline, marking the end of a 90-day suspension period for tariffs beyond a base 10% rate. Trump noted the final tariffs could reach as high as 70%, with most expected to take effect on August 1. The White House had originally intended to negotiate tariff terms with dozens of countries, but Trump has grown frustrated with the lack of progress in talks, particularly with major partners like the EU and Japan. "The letters are better… much easier to send a letter," Trump said, suggesting a pivot away from formal trade negotiations. So far, the only agreements reached have been with the UK and Vietnam. Britain retained the base 10% rate and secured exemptions for key industries, while Vietnam saw a tariff cut to 20% from a previously proposed 46%, along with expanded U.S. market access. Efforts to finalize a deal with India have stalled, and European officials say no progress has been made, raising the likelihood of extending current terms to avoid new duties. On the other big news, eight key oil producers from the OPEC+ alliance - including Saudi Arabia, Russia, Iraq, and the UAE - agreed on Saturday to raise their collective output by 548,000 barrels per day in August. The move, exceeding initial expectations of a 411,000 bpd hike, reflects confidence in global economic stability and tight inventory levels, according to an OPEC statement. These countries are gradually unwinding two sets of voluntary cuts implemented outside the formal OPEC+ framework. While a 1.66 million bpd cut remains in place until end- 2026, a separate 2.2 million bpd reduction expired after Q1. Though initially planning to add 137,000 bpd monthly, the group accelerated to 411,000 bpd from May through July and is further stepping up in August. Oil prices saw brief gains in recent weeks due to heightened summer demand and geopolitical tensions in the Middle East. Brent settled at US$68.30/bbl and WTI at US$66.50/bbl on Friday.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 # Dry Bulk
@@ -37,8 +35,6 @@ Pacific markets gained strength this week as increased iron ore shipments from W
 Panamax/Kamsarmax:
 
 Atlantic basin posted gains this week as the South American routes saw robust fixture activity, with solid market sentiment supporting the upward momentum. The increased contracting activity provided a strong foundation for rate improvements across the basin. Brazil r/v ended the week at US$13,500's a day. Pacific on the other hand faced a different dynamic, with both vessel supply and cargo availability remaining limited. Supramax/Ultramax: Atlantic markets maintained a subdued tone this week as the 4th of July holiday kept activity levels muted, resulting in flat rate across the basin. Pacific showed more
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -64,8 +60,6 @@ The Handy segment fared well this week, with rates across both basins seeing an 
 | HANDY | 38,000 | 30 | 33 | 25 | 17 | 14 |
 | *(amount in USD | million) \| (E) - eco units |  |  |  |  |  |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -83,8 +77,6 @@ The Handy segment fared well this week, with rates across both basins seeing an 
 | JUNIPER | SMAX | 57,185 | 2011 | CHINA | 12.5 | UNDISCLOSED |
 | OCEAN PRINCESS | SMAX | 52,382 | 2002 | JAPAN | 7.38 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -98,8 +90,6 @@ VLCC rates crashed 34% this week as the Iran-Israel ceasefire reduced Strait of 
 Suezmax:
 
 Suezmax markets showed regional divergence-West African rates mirrored the Middle East collapse, with 130,000mt Nigeria/UKC slipping to WS82. . Summer seasonality is expected to weigh on performance across segments. In the MEG, some pushbacks were seen with 140,000mt to Med climbing to WS97.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 6
 
@@ -141,11 +131,7 @@ Tankers S&P Report
 | PACIFIC QUARTZ | MR | 47,941 | 2011 | JAPAN | 18.5 | UNDISCLOSED |
 | GRAND ACE 7 | MR | 46,140 | 2007 | S. KOREA | 15.0 | UAE BASED BUYERS |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -172,33 +158,18 @@ President Trump's announcement of a new trade deal with Vietnam featuring 20% ta
 | XH DOLPHIN | FEEDER | 1,740 | 2013 |  | CHINA | 23.2 | UNDISCLOSED |  |
 | HANSA HORNEBURG | FEEDER | 1,732 | 2007 |  | CHINA | 19.5 | GLOBAL SHIPPING | FEEDER |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 430 ~ 440 410 ~ 420 400 ~ 410 440 ~ 450 WEAK /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 430 ~ 440 420 ~ 430 | 410 ~ 420 | 450 ~ 450 | WEAK / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 440 ~ 450 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE/ |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 430 ~ 440 | 410 ~ 420 | 400 ~ 410 | 440 ~ 450 | WEAK / |
+| CHATTOGRAM, BANGLADESH | 430 ~ 440 | 420 ~ 430 | 410 ~ 420 | 450 ~ 450 | WEAK / |
+| GADDANI, PAKISTAN | 440 ~ 450 | 430 ~ 440 | 420 ~ 430 | 460 ~ 470 | STABLE/ |
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -215,8 +186,6 @@ TURKEY
 | GADDANI, PAKISTAN | 310 | 580 | 550 | - | 520 |
 | ALIAGA, TURKEY | 180 | 300 | 290 | 310 | 350 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -229,11 +198,7 @@ TURKEY
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -244,8 +209,6 @@ Ship recycling markets across the Subcontinent are in a state of transition foll
 Alang
 
 Ship recycling markets remained quiet this week, with activity subdued due to ongoing monsoon disruptions across the Subcontinent. After weeks of continuous decline,
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -268,8 +231,6 @@ Gadani
 
 This week, the Balochistan Development Authority has announced a fundamental transformation of Pakistan's ship recycling sector following HKC ratification, with the
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 approval of the Safe and Environmentally Sound Recycling of Ships Bill 2025 effectively restricting operations to approximately seven to eight compliant breakers only-a dramatic consolidation from the industry's previous structure. Nine Gaddani yards have achieved over 90% compliance with required physical and procedural measures, supported by critical infrastructure development including a One- Window Facilitation Center, improved road connections, and a new Storage and Disposal Facility for hazardous waste management. While the authority targets 100% HKC compliance by mid-2026 and has established interim authorization processes for facilities demonstrating progress, this regulatory transformation will likely impact market dynamics, pricing structures, and processing timelines as the significantly reduced operational capacity adapts to the new compliance framework, positioning Pakistan as a leading compliant ship recycling cluster globally. Sentiments in the market remain weak, with not much activity to report.
@@ -287,8 +248,6 @@ Turkey's recycling market continues to struggle with persistently weak demand as
 Chattogram, Bangladesh : 11 ~ 14 July | 24 ~ 27 July Alang, India : 08 ~ 16 July | 21 ~ 29 July
 
 ---
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -325,8 +284,6 @@ disruptions, with mill utilisation at just 35-40%. Shredded scrap from the UK an
 
 activity continued. Australian shredded was offered at US$370-375/ton CFR, while HMS 80:20 hovered around US$350-355/ton CFR.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Meanwhile, Turkey's market held flat, with bulk HMS 80:20 scrap steady at US$345/ton CFR. Mills showed limited interest due to slow rebar sales, opting for cheaper billet imports instead. Sellers from Europe and the US kept prices firm, backed by a strong Euro, though overall trading remained thin.
@@ -342,8 +299,6 @@ apparent steel consumption and firmer market sentiment. On the spot market, 170,
 **Copper's recent surge paused this week amid signs of softening demand. Prices had**
 
 climbed over 16% to surpass USD10,000 per ton following the U.S. announcement of reciprocal tariffs, but elevated price levels are beginning to weigh on downstream appetite, particularly in China. Operating rates at primary copper rod producers in China fell 1.8% week-on-week to 74%, reflecting diminished buying interest from fabricators. Meanwhile, the London Metal Exchange (LME) reported a 4% rise in copper inventories, the first notable increase in weeks, reversing this year's previous drawdowns. The stock build is likely tied to Chinese
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

@@ -379,7 +379,7 @@ def build_region(snap: dict, with_notes: bool, old: list[str] | None = None,
 
 def unit_key(text: str) -> str:
     """A printed table cell/span with markdown escapes removed (case kept)."""
-    return squash(re.sub(r"[\*]", "", text))
+    return squash(re.sub(r"\\?\*", "", text))
 
 
 def is_cell_sequence(line: str, units: set[str]) -> bool:

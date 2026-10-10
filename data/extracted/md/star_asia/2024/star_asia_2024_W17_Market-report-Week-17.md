@@ -26,8 +26,6 @@ This week's big news was from Japan, the yen plummeted to a fresh 34-year low ag
 
 BDI experienced a fourth consecutive day of decline on Thursday as it fell by 31 points to 1,743 points, weighed down by lower rates for larger vessels. The Capesize index saw a significant drop of 115 points to 2,230, marking its lowest level since April 10th with average daily earnings slipping to US$18,495. BPI witnessed similar falling 14 points to 1,896 points, with average daily earnings falling to US$17,065. The Panamax market overall saw a generally stable outlook, with regional nuances and typical seasonal patterns, to forecast a downturn in the coming month. BSI on the other hand fared better than the bigger units, rising 32 points to 1,488 points, marking the 13th consecutive session of gains.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 Capesize:
@@ -41,8 +39,6 @@ The North Atlantic market is experiencing a lack of clarity in supply and demand
 Handysize:
 
 The Atlantic market continued its upward momentum driven by a steady inflow of cargoes from South America. T/A levels remain similar closing at US$12,950's a day. In the Pacific, it was quieter with Labour Day holidays next week seeing orders completed ahead. Meanwhile, in Southeast Asia, the market maintained its firmness, led by robust demand for Indonesian coal and nickel. Inter Pacific levels closed at US$10,500's.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -77,8 +73,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | SUPRAMAX | 58,000 | 16,500 | 16,000 | 15,250 | +3.13% | +8.20% |
 | HANDYSIZE | 38,000 | 14,250 | 14,000 | 11,750 | +1.79% | +21.28% |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 # Dry Bulk - S&P Report
@@ -97,8 +91,6 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 | ATLANTIC LAUREL | HANDY | 33,271 | 2012 | JAPAN | 15.3 | GREEK BUYERS |
 | GRACEFUL GERTUDE | HANDY | 33,225 | 2008 | JAPAN | 12.3 | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 # Tankers
@@ -113,8 +105,6 @@ Suezmax:
 
 The surge in demand from West Africa and USG, driven by Middle Eastern risks, subsided as the situation stabilized, prompting charterers to return to a cautious stance.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Consequently, the Nigeria/UKC route saw a dip, falling to WS102. Meanwhile, in the MEG, 140,000mt to the Med falling to WS95.
@@ -128,8 +118,6 @@ Clean:
 LR: After peaking at WS320 in March for the LR2s, TC1 MEG route fell to WS208 on Friday's closing. With the rising tensions in the region, charterers followed the owners' resistance, resulting in a rebound. LR1 rates also saw an uptick with TC5 climbing slightly to WS240s. On the UKC, activity picks up slightly, but levels remain same as last at WS182. MR: USG market saw another tough week, as levels continued slipping. TC14 (38,000mt USG/UKC) fell by another 12 points, dropping to WS136. In the UKC, MR market eased amid a lack of inquiries, with rates expected to drop further next week as tonnage builds up. TC2 lost another 10 points falling to WS169.
 
 # Baltic Exchange Tanker Indices
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -160,36 +148,24 @@ Tankers S&P Report
 | SKARVEN | MR | 33,624 | 2009 | JAPAN | 29.0 (SS) | TAIHUA SHIPPING |
 | CHEM JUPITER | PROD / CHEM | 19,814 | 2008 | JAPAN | 19.5 (SS) | UNDISCLOSED |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 8
 
 # Containers
 
 Following the Red Sea incident, the SCFI saw a decline from its previous peak of 2,239 but has recently shown a slight upward trend for three consecutive weeks as China approaches Labor Day, indicating renewed demand. Geopolitical risks have also escalated with Israel's recent missile strikes on Iran and Iran's seizure of a container ship, MSC Aries, impacting the global shipping industry by likely driving up cargo, insurance, and crew costs in the short term. Amidst these conditions, the European transport market had maintained a balance between supply and demand until recent Israeli strikes, which are expected to temporarily affect global maritime freight rates.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 # Containers S&P Report
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 500 ~ 510 490 ~ 500 510 ~ 520 540 ~ 550 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 500 ~ 510 | 490 ~ 500 | 510 ~ 520 | 540 ~ 550 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 530 ~540 | 520 ~ 530 | 500~ 510 | 540 ~ 550 | STABLE / |
 | GADDANI, PAKISTAN TURKEY | 520 ~ 530 | 510 ~ 520 | 500 ~ 510 | 530 ~ 540 | STABLE / |
 | *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 310 ~ 320 | 300 ~ 310 | 290 ~ 300 | 320 ~ 330 | STABLE / |
 
@@ -208,8 +184,6 @@ ALANG (WC INDIA) 500 ~ 510 490 ~ 500 510 ~ 520 540 ~ 550 STABLE /
 | GADDANI, PAKISTAN | 430 | 290 | 540 | 685 | 550 |
 | ALIAGA, TURKEY | 280 | 160 | 255 | 445 | 325 |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 # Ships Sold for Recycling
@@ -222,11 +196,7 @@ ALANG (WC INDIA) 500 ~ 510 490 ~ 500 510 ~ 520 540 ~ 550 STABLE /
 
 # Recycling Ships Price Trend
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -258,8 +228,6 @@ TANKER 739 23.04.2024 AWAITING
 | GEN.CARGO | 6,537 | 19.04.2024 | AWAITING |
 | CONTAINER | 5,474 | 18.04.2024 | AWAITING |
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 14
 
 | MEDAN 2 | CONTAINER | 7,284 | 18.04.2024 | AWAITING |
@@ -278,8 +246,6 @@ Gadani, Pakistan
 Domestic ship scrap prices have not seen much improvement, buoyed by the availability of cheaper alternatives, HMS and finished products such as Hot Rolled Coil (HRC). However, recyclers have struggled to secure support from domestic mills and have not been able to compete effectively with their counterparts in Bangladesh so far. Overall demand remains intact, but pricing has not been able to compete with their neighbours.
 
 Aliaga, Turkey
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -312,8 +278,6 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 This week in the Sub-Continent and Turkish ferrous scrap market, stability prevailed overall. India experienced a surge in demand driven by limited domestic supply and increased steel demand, while Pakistani buyers showed reduced activity due to a slow, finished steel market. Import activity in Bangladesh remained moderate. Shredded scrap offers held steady in India and Bangladesh, with a slight increase of US$1/ton in Pakistan. US bulk HMS (80:20) offers to Turkey rose by US$1/ton day-on-day.
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 In **India, imported scrap demand strengthened, with offers ranging between US$425-** 430/ton CFR for shredded scrap and US$400-405/ton CFR for HMS (80:20). Bulk offers for shredded scrap are currently around US$425/ton CFR on the west coast. **Pakistani buyers showed limited interest** today, with shredded scrap offers from the UK/Europe at US$425-430/ton CFR Qasim, US offers at US$420-430/ton CFR, and UAE offers at approximately US$435-440/ton CFR. **Bangladesh witnessed** moderate purchasing due to delays in LC approvals and a slowdown in the domestic steel market, with shredded scrap offers from the UK/Europe at US$420-425/ton CFR Chattogram and HMS (80:20) at US$400-405/ton CFR.
@@ -322,15 +286,11 @@ In **India, imported scrap demand strengthened, with offers ranging between US$4
 
 # HMS 1/2 & Tangshan Billet
 
-## Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 # Commodities
 
 The rapid increase in China's steel exports is escalating trade tensions worldwide. China's steel exports have risen dramatically, with a 28% increase to nearly 26 million tons in the first quarter, spurred by reduced domestic demand amidst a property downturn. This surge is intensifying global trade tensions, as exports extend beyond East Asia to new markets like India, the Middle East, and Latin America. U.S. President Joe Biden has responded by proposing tariffs of up to 25% on certain Chinese steel products, aiming to curb what he perceives as overcapacity. This situation is echoed in Latin America, where countries such as Brazil, Colombia, and Chile are experiencing sharp increases in imports, prompting them to contemplate or enact trade defenses. The pivot in Chinese production from construction materials to more globally marketable products like hot-rolled coils is partly fueled by a VAT-related tax scheme, making these exports more competitively priced. Meanwhile, BHP Group, the world's largest mining company, has proposed an ambitious takeover of Anglo American valued at £31.1 billion (US$38.9 billion). The all-share deal would create the world's top copper producer, marking the industry's biggest shakeup in over a decade. Under the non-binding proposal, Anglo American would first spin off its controlling stakes in South African platinum and iron ore companies to its shareholders. BHP would then acquire the remaining Anglo-American business at a 14% premium to its Wednesday closing share price. The tie-up would give BHP around 10% of global copper mine supply, positioning it to capitalize on an expected shortage and soaring prices for the metal crucial to the energy transition. For BHP, the transaction would signal a return to largescale dealmaking after years of asset sales. Anglo American's shares surged 13% in London following the news, while BHP's share price dipped 2.6%. Analysts suggest BHP may need to sweeten its offer, as Anglo American's valuation was higher earlier last year. While BHP expressed interest in Anglo American's non-South African iron ore and Australian coking coal assets, the future of its De Beers diamond unit remains uncertain, with potential for a strategic review or a separate sale. The proposed combination would likely face antitrust scrutiny due to the significant concentration of global copper production under a single entity. However, the deal could also flush out other potential suitors aiming to boost their copper exposure.
-
-## Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 

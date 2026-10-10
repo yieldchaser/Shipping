@@ -22,8 +22,6 @@ pages: 19
 
 China's export sector experienced an unexpected contraction in October, marking the first decline in eight months, as weakening global demand was insufficient to offset a deepening slump in shipments to the United States. Official data released Friday indicated that overall exports fell by 1.1% from a year earlier, with the substantial 25%-plus decline in sales to the U.S. overpowering a 3.1% rise in shipments to all other destinations. This reversal broke a resilient growth trend driven by Chinese companies successfully expanding into new markets since February, raising serious concerns that China's economy now faces a "triple whammy" of slowed growth due to the prolonged property sector contraction, weakened private consumption, and softening exports, according to analysis by Barclays economists. This contraction suggests that the trend of export growth driven by finding new markets is breaking down, reflected by cooling trade indicators like the Shanghai port processing its fewest containers since April. The weakness was broad, with shipments to the EU climbing by only 1%, the slowest growth since a February dip, and sales to major nations like South Korea, Russia, and Canada dropping by double-digit percentages. Strategists are now emphasising that the performance of exports to other emerging markets-crucial gauges of Chinese tech and consumer brands' overseas expansion-will be placed under greater scrutiny. Adding to the challenge for exporters, the yuan's appreciation this year has made Chinese goods relatively more expensive abroad. Looking ahead, the recent trade tensions with the U.S. were partially alleviated by a deal between Presidents Trump and Xi later in October, which included a 10% tariff reduction on some Chinese goods taking effect next week. While this offers the potential for a pickup in trade between the two largest economies through the end of the year, the ultimate effect may be limited since U.S. duties on Chinese products remain higher than those on goods from competitors like Vietnam. Despite the October drop, however, total Chinese exports still exceeded US$3 trillion in the first 10 months of the year for the first time, contributing to a record trade surplus that continues to be a major economic factor.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ in the Pacific, rates strengthened due to the recovery of iron ore demand from C
 Panamax/Kamsarmax:
 
 The market continues its downtrend in the Atlantic, persisting in a charterer-favourable outlook due to oversupply of vessels in the North region. T/A ended the week lower at US$17,750's a day. In the Pacific, rates are supported by active trading from Indonesia. On other routes, outlook remains mixed, with markets remaining cautious but nonetheless maintains firm. Supramax/Ultramax: The Atlantic maintained an upward trend supported by sustained demand for USG cargo and uptick in November cargo in the South Atlantic. T/A ended the week at US$24,850's. Meanwhile, the Pacific saw a flat outlook. While NOPAC saw steady demand, rate climb was limited despite active demand for Indonesian coal earlier in the week.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -69,8 +65,6 @@ Dry Bulk Values
 
 *\*(amount in USD million) | (E) - eco units*
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -91,8 +85,6 @@ Dry Bulk Values
 | GOLDEN MAPLE | HANDY | 32,527 | 2009 | CHINA | 7.4 | UNDISCLOSED |
 | ARAWANA | HANDY | 32,318 | 2012 | CHINA | 9.5 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -111,8 +103,6 @@ Aframax:
 
 Rates continued to climb, driven by a supply constraint resulting from an increase in fuel oil cargo volumes in October. Despite a sharp rise in October, the supply shortage
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 persisted due to active fixing in the West market, reducing the inflow of ballasters to East of Suez. In the Mediterranean, 80,000my Ceyhan/Lavera fell slightly to WS198 at closing.
@@ -129,8 +119,6 @@ on the MEG/E.Africa route closing at WS215. In the USG, rates continue to fall w
 
 ## Baltic Exchange Tanker Indices
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 7
 
 ## Tankers S&P Report
@@ -142,8 +130,6 @@ on the MEG/E.Africa route closing at WS215. In the USG, rates continue to fall w
 | STI BRIXTON | MR | 38,734 | 2014 | S. KOREA | 30.0 | ITALIAN BUYERS |
 | FURE WEST | PROD / CHEM | 17,349 | 2006 | CHINA | 11.3 | CHINA KINGDOM SHIPPING LTD |
 | KOBE PIONEER / YOKOHAMA PIONEER | SMALL | 3,499 | 2016 | S. KOREA | 27.4 EN BLOC | UNDISCLOSED |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -161,8 +147,6 @@ The agreement between the US and China, to suspend mutual port fees for one year
 | 5,100 ~ 5,300 | Gearless | 59 | 82 | 66 | - | 41 |
 | *(amount in USD million) | \| = Eco units |  |  |  |  |  |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
 
 ## S&P Containers Report
@@ -172,29 +156,16 @@ The agreement between the US and China, to suspend mutual port fees for one year
 | PANAY | FEEDER | 1,930 | 2023 | CHINA | 35.5 | CMA CGM |
 | WARNOW WHALE | FEEDER | 1,296 | 2007 | CHINA | 13.0 | UNDISCLOSED |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE TREND
-
-ALANG (WC INDIA) 400 ~ 410 380 ~ 390 370 ~ 3800 410 ~ 420 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
 |---|---|---|---|---|---|
+| ALANG (WC INDIA) | 400 ~ 410 | 380 ~ 390 | 370 ~ 3800 | 410 ~ 420 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 420 ~ 430 | 400 ~ 410 | 390 ~ 400 | 440 ~ 450 | STABLE / |
 | GADDANI, PAKISTAN | 410 ~ 420 | 400 ~ 410 | 390 ~ 400 | 420 ~ 430 | STABLE / |
-
-TURKEY
-
-*\*For non-EU ships. For E.U.* 280 ~ 290 260 ~ 270 250 ~ 270 280 ~ 290 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| TURKEY \*For non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 280 ~ 290 | 260 ~ 270 | 250 ~ 270 | 280 ~ 290 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -211,8 +182,6 @@ TURKEY
 | GADDANI, PAKISTAN | 385 | 610 | 570 | 510 | 460 |
 | ALIAGA, TURKEY | 210 | 310 | 290 | 300 | 350 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 11
 
 ## Ships Sold for Recycling
@@ -224,19 +193,13 @@ TURKEY
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
 Insights Alang
 
 Domestic demand struggles to gain momentum following the recent festive season, and this is compounded by the persistent weakening of the Rupee against the US Dollar. Although the market has shown a slight increase in interest from potential buyers, the competitiveness remains challenging because neighbouring Bangladesh is currently offering substantially higher prices for end-of-life tonnage, leading owners to prefer diverting vessels to rival yards. Accordingly, activity in the recycling hub remains constrained, with prices offered by local recyclers remaining static, even as domestic steel plates and local scrap saw a modest price increase of US$8/MT this week. This preference for domestically sourced scrap, despite similar pricing for imported material, is largely driven by mills and traders seeking to minimise their exposure to foreign exchange risk stemming from the depreciating currency.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -260,8 +223,6 @@ The Pakistan market continues to operate under subdued conditions, with buyer in
 potential price improvement for end-of-life vessels.
 
 A vast majority of recyclers have recently acquired several ships, and the process of obtaining Hong Kong Convention (HKC) certification is now progressing rapidly. Yards that
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 15
 
@@ -297,8 +258,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 282.74 | 280.98 | -0.63% |
 | USD / TRY (TURKEY) | 42.19 | 42.04 | -0.36% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 16
 
 Sub-Continent and Turkey ferrous scrap markets insights
@@ -321,8 +280,6 @@ The imported scrap market in Bangladesh remained constrained as limited demand f
 
 In contrast to the South Asian markets, Turkiye saw deep-sea imported scrap prices rise on a day-over-day basis. This uptrend was confirmed by a recent US-origin deal for highgrade HMS 80:20 at US$356/t, a price point supported by prompt mill demand and an
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 increase in domestic rebar purchasing activity. Mills have been actively seeking fresh cargo, and sellers have maintained firm positions given the seasonally tight supply ahead of winter. This sustained demand for rebar suggests that the current momentum in scrap prices may continue in the near term.
@@ -334,8 +291,6 @@ increase in domestic rebar purchasing activity. Mills have been actively seeking
 **Iron ore prices continued to decline this week as market sentiment weakened on signs of**
 
 softer demand. Authorities in Hebei province reinstated an environmental production-cut alert for steel mills, potentially curbing blast furnace operations and dampening consumption. Meanwhile, data released yesterday showed rising inventories at Chinese steel mills, with stockpiles up 4.4% to 16.6 million tons in mid-October compared to early October, further underscoring sluggish demand conditions. However, the market remains cautious, with some noting that while optimism following the Fourth Plenum is fading, markets are still watching for new concrete details on "antiinvolution" measures or long-term steel capacity reforms. "Anti-involution" refers to China's policy campaign designed to curb overcapacity and unsustainable low prices across various industries. To date, there has been limited incentive for steel mills to permanently decommission plants, raising persistent concerns that oversupply will continue to weigh on the market. This scenario, where relatively high steel output persists during a season of weak demand, is putting pressure on steel prices, mill profit margins, and input costs like iron ore.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 18
 
@@ -351,8 +306,6 @@ Iron Ore
 |---|---|---|---|---|---|---|
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 108 | +1.88% | +5.88% | 106 | 102 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 105 | +1.94% | 0% | 103 | 105 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 

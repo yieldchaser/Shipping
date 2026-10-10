@@ -22,8 +22,6 @@ pages: 20
 
 In this week's world financial news, the ECB cut its key deposit rate by 25 basis points to 3.25%, expressing confidence that inflation control should be achieved "in the course of next year" - an optimistic revision from their previous projection of the second half of 2025. This decision follows a significant drop in inflation to below 2% for the first time since 2021, coupled with softening private-sector activity and emerging cracks in the job market. In the UK, inflation has fallen below the Bank of England's 2% target for the first time in over three years, prompting investors to anticipate a faster pace of interest rate cuts in the coming months. European policymakers are beginning to acknowledge the gravity of the economic challenges facing the EU, a realisation that some observers in Washington and Beijing may have anticipated for years. British workers at the lower end of the pay scale are experiencing substantial wage growth, partly due to a significant minimum wage increase in April. Japan's export sector saw its steepest decline since February 2021 in September, potentially hampering the country's economic recovery as global demand weakens. Exports to China dropped by 7.3%, while shipments to the US and Europe fell by 2.4% and 9%, respectively. China's export growth unexpectedly slowed in September, tempering a trade rebound that had been a bright spot in an otherwise weakening economy. Beyond the ECB, other central banks have also made policy moves. Thailand surprised markets with a quarter-point rate cut, while the Philippines lowered rates for the second time this year. Namibia and Chile also reduced borrowing costs. Singapore, Indonesia, Turkey, and Egypt maintained their current monetary settings.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 2
 
 ## Dry Bulk
@@ -37,8 +35,6 @@ In the Pacific, despite a slight improvement in iron ore inflow, the persistent 
 Panamax/Kamsarmax:
 
 In South America, the market remains relatively quiet, with no significant changes in supply and demand patterns. This stability has resulted in a subdued outlook, with little fluctuation in activity. The Pacific, on the other hand, is experiencing downward pressure on rates. This is particularly evident in areas like East Australia and the NOPAC, where charterers traditionally hold stronger negotiating power due to regional supply and demand. Vessels operating in these areas are accepting fixtures at lower rates, adding to the continued downward rates. Pacific r/v fell to US$11,500's a day. Supramax/Ultramax: Despite the weakness in larger segments, Supramax has shown relative resilience, with
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 3
 
@@ -71,8 +67,6 @@ The Asian market exhibited signs of easing, yet overall sentiment remains positi
 | SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 11,500 | 0 |  | +30.43% |
 | HANDYSIZE | 38,000 | 14,000 |  | 14,000 |  | 12,000 | 0 |  | +16.67% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 4
 
 ## Dry Bulk - S&P Report
@@ -90,8 +84,6 @@ The Asian market exhibited signs of easing, yet overall sentiment remains positi
 | PACIFIC PIONEER | HANDY | 35,480 | 2015 | CHINA | 16.5 | DANISH BUYERS |
 | KEN RYU | HANDY | 31,949 | 2002 | JAPAN | 6.9 | CHINESE BUYERS |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 5
 
 ## Tankers
@@ -106,8 +98,6 @@ Suezmax:
 
 In the West African market, freight rates declined throughout the week from WS105 to WS89 as the imminent Middle East crisis did not escalate further. However, towards the end of the week, shipowner resistance to the sharp rate drop, coupled with the booming Mediterranean Suezmax and Aframax markets, led to a recovery closing at WS99 for TD20.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 6
 
 Aframax:
@@ -119,8 +109,6 @@ Clean:
 LR: LR2 concluded the week with rates holding steady, albeit at their lowest levels for the year. This stability persists against a backdrop of lingering concerns over potential disruptions to product oil exports. TC1 climbed to WS125 after stagnant rates. LR1 market also saw slight improvements with AG/Japan closing higher at WS136. MR: The Far East MR segment saw a slight downturn as the week ended. A general slump in demand across the region has dampened activity, while a notable shift in cargo allocation has seen some MR cargo migrating to larger LR vessels. This transition has further contributed to the bearish sentiment. In the MEG, rates fell after peaking with levels closing at WS236.
 
 ## Baltic Exchange Tanker Indices
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 7
 
@@ -143,8 +131,6 @@ LR: LR2 concluded the week with rates holding steady, albeit at their lowest lev
 | HIGH | NAVIGATOR | MR | 49,921 | 2018 | JAPAN | 34.3 | D'AMICO |
 | BUTTERFLY |  | MR | 46,048 | 2004 | S. KOREA | 18.0 | HECHUANG INTERNATIONAL |
 | JAY 1 |  | PROD/ CHEM | 21,224 | 2010 | TURKEY | 15.0 (SS) | TURKISH BUYERS |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 8
 
@@ -169,33 +155,18 @@ Containers Values
 | 2,700 - 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
 | 5,100 *(amount in USD million) | Gearless | 81 | 77 | 66 | 35 | 32 |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 9
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 10
 
 ## Ship Recycling Market Snapshot
 
-DESTINATION TANKERS BULKERS MPP/ CONTAINERS SENTIMENTS /
-
-GENERAL CARGO WEEKLY FUTURE
-
-TREND ALANG (WC INDIA) 470 ~ 480 460 ~ 470 460 ~ 470 490 ~ 500 STABLE /
-
-.
-
-| CHATTOGRAM, BANGLADESH | 470 ~ 480 450 ~ 460 | 430 ~ 440 | 480 ~ 490 | STABLE / |
-|---|---|---|---|---|
-| GADDANI, PAKISTAN | 480 ~ 490 460 ~ 470 | 450 ~ 460 | 490 ~ 500 | STABLE / |
-
-TURKEY
-
-*\*For Non-EU ships. For E.U.* 370 ~ 380 350 ~ 360 360 ~ 370 380 ~ 390 STABLE /
-
-*Ship, the prices are about USD 20-30/ton less*
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+|---|---|---|---|---|---|
+| ALANG (WC INDIA) | 470 ~ 480 | 460 ~ 470 | 460 ~ 470 | 490 ~ 500 | STABLE / |
+| CHATTOGRAM, BANGLADESH | 470 ~ 480 | 450 ~ 460 | 430 ~ 440 | 480 ~ 490 | STABLE / |
+| GADDANI, PAKISTAN | 480 ~ 490 | 460 ~ 470 | 450 ~ 460 | 490 ~ 500 | STABLE / |
+| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 370 ~ 380 | 350 ~ 360 | 360 ~ 370 | 380 ~ 390 | STABLE / |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.
@@ -211,8 +182,6 @@ TURKEY
 | CHATTOGRAM, BANGLADESH | 420 | 300 | 700 | 590 | 565 |
 | GADDANI, PAKISTAN | 410 | 305 | 750 | 580 | 530 |
 | ALIAGA, TURKEY | 270 | 210 | 200 | 300 | 325 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 11
 
@@ -231,11 +200,7 @@ COMMENTS AS IS TAISHAN, CHINA AS IS SHANWEI, CHINA DELIVERED ALANG DELIVERED ALA
 
 ## Recycling Ships Price Trend
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 12
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 13
 
@@ -246,8 +211,6 @@ The markets in the Indian Sub-Continent are showing signs of stabilisation, as d
 Alang, India
 
 The Alang ship recycling market remained stable this week, with demand holding steady despite a quieter atmosphere as India enters the festive season. Indian recyclers have
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 14
 
@@ -273,8 +236,6 @@ Chattogram, Bangladesh
 
 The market remained stagnant this week, continuing its trend of softness and sluggish activity, with no notable signs of improvement. This prolonged period of subdued performance is now reflecting the ongoing challenges in the sector. Letters of Credit have once again become a focal point as banks impose tighter controls on foreign exchange outflows. The tightening measures, aimed at managing liquidity and foreign reserves, have created challenges for importers who rely on Letters of Credit
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 15
 
 to facilitate this trade. This increased scrutiny and restriction of forex by banks is further complicating the buying process, which is already undergoing stringent environmental rules being implemented. Meanwhile, in domestic steel production, the industry saw a sharp decline in September, driven by weakened demand and falling prices. The country's steel industry has been hit hard over the past three months, as political instability, protests, and curfews have severely disrupted operations and hindered growth.
@@ -282,8 +243,6 @@ to facilitate this trade. This increased scrutiny and restriction of forex by ba
 Aliaga, Turkey
 
 Turkey's scrap market began the week on a subdued note, with a Marmara mill securing a cargo from Sweden at US$375/tonne cfr for HMS 1&2 80:20 and US$395/t cfr for shredded and bonus grade, marking a significant drop from previous deals.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 16
 
@@ -316,8 +275,6 @@ EXCHANGE RATES
 | USD / PKR (PAKISTAN) | 277.87 | 277.62 | -0.09% |
 | USD / TRY (TURKEY) | 34.23 | 34.29 | +0.17% |
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 17
 
 Sub-Continent and Turkey ferrous scrap markets insight
@@ -328,8 +285,6 @@ The Sub-Continent and Turkish scrap markets experienced sluggish demand and caut
 
 around US$405-410/ton CFR Qasim. The steel sector has been further impacted by tighter tax regulations, setting a minimum value of PKR 205,000/ton for tax calculations on steel products, ensuring an 18% sales tax is applied. This move, designed to curb tax evasion, has added pressure to an already subdued market. Buyers in Bangladesh remained inactive as the domestic steel market slowed down, with construction projects stalled. Shredded scrap offers from the UK/Europe stood at US$405-410/ton CFR Chattogram, while HMS (80:20) was offered at US$390-395/ton CFR. The Turkish scrap market remained stable, with no new deals concluded, as both buyers and sellers adopted cautious stances. The sharp drop in Chinese iron ore prices added to bearish sentiment. Turkish mills' expectations for HMS (80:20) hovered around US$365/ton CFR, but this was deemed too low by suppliers, with US HMS (80:20) assessed at US$372/ton CFR. Prices could slip further, according to market sources.
 
-### Shipbroking (www.star-asia.com.sg)
-
 ## Page 18
 
 ## HMS 1/2 & Tangshan Billet
@@ -337,8 +292,6 @@ around US$405-410/ton CFR Qasim. The steel sector has been further impacted by t
 ## Commodities
 
 Industrial metal prices plummeted as investors expressed skepticism over China's latest efforts to bolster its struggling property market. The sell-off affected a wide range of metals, from copper to iron ore, reflecting doubts about the effectiveness of these measures in stimulating construction activity. In Singapore, iron ore futures plunged over 5%, dropping below US$100 per ton. Simultaneously, the London Metal Exchange saw significant declines in tin, zinc, and nickel prices among non-ferrous metals. Chinese Housing Minister Ni Hong announced an expansion of the program to support the completion of the unfinished housing project to 4 trillion yuan (US$ 562 billion). While this nearly doubled the previous spending commitment, it fell short of investor expectations for more comprehensive measures to address the real estate crisis. Analyst at GF Futures Co., noted, "The property policies focus on resolving the backlog of housing inventory, which offers little immediate benefit to steel demand." This sentiment echoes the market's lukewarm response to the announcement. Iron ore prices, which had recently rebounded from a two-year low of under US$90 in late September to over US$110, have since retreated. This decline coincides with a series of government economic policy briefings that failed to meet market expectations. China's economic challenges persist, with third-quarter growth projected to be at its weakest in six quarters.
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 19
 
@@ -359,8 +312,6 @@ Iron Ore
 |  |  | USD / MT |  |  | USD / MT | USD / MT |
 | Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 100 | -3.84% | -15.25% | 104 | 118 |
 | Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 107 | 0% | -12.29% | 107 | 122 |
-
-### Shipbroking (www.star-asia.com.sg)
 
 ## Page 20
 
