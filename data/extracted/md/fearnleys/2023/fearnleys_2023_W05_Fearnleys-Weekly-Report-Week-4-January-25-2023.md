@@ -1,3 +1,11 @@
+---
+title: "fearnleys_2023_W05_Fearnleys-Weekly-Report-Week-4-January-25-2023"
+issue_date: "2023-02-01"
+year: 2023
+report_week: 5
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W05_Fearnleys-Weekly-Report-Week-4-January-25-2023.pdf"
+---
 # fearnleys_2023_W05_Fearnleys-Weekly-Report-Week-4-January-25-2023
 
 source: `corpus/01-brokers/fearnleys/2023/fearnleys_2023_W05_Fearnleys-Weekly-Report-Week-4-January-25-2023.pdf`  |  pages: 441

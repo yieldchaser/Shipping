@@ -1,3 +1,11 @@
+---
+title: "fearnleys_2023_W03_Fearnleys-Weekly-Report-Week-3-January-11-2023"
+issue_date: "2023-01-18"
+year: 2023
+report_week: 3
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W03_Fearnleys-Weekly-Report-Week-3-January-11-2023.pdf"
+---
 # fearnleys_2023_W03_Fearnleys-Weekly-Report-Week-3-January-11-2023
 
 source: `corpus/01-brokers/fearnleys/2023/fearnleys_2023_W03_Fearnleys-Weekly-Report-Week-3-January-11-2023.pdf`  |  pages: 441

@@ -2,6 +2,7 @@
 title: "Agora Snapshot of Commercial Indicators - Week 52 / 2024"
 reference_date: ""
 year: 2024
+report_week: 52
 broker: "agora"
 pages: 5
 source_file: "corpus/01-brokers/agora/2024/agora_2024_W52_AGORA.-Week-52-2024.-Snapshot-of-Commercial-Indicators-1.pdf"

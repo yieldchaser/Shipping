@@ -1,3 +1,11 @@
+---
+title: "fearnleys_2023_W15_Fearnleys-Weekly-Report-Week-14-April-05-2023"
+issue_date: "2023-04-12"
+year: 2023
+report_week: 15
+publisher: "Fearnleys"
+source_file: "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W15_Fearnleys-Weekly-Report-Week-14-April-05-2023.pdf"
+---
 # fearnleys_2023_W15_Fearnleys-Weekly-Report-Week-14-April-05-2023
 
 source: `corpus/01-brokers/fearnleys/2023/fearnleys_2023_W15_Fearnleys-Weekly-Report-Week-14-April-05-2023.pdf`  |  pages: 7

@@ -1,6 +1,8 @@
 ---
 title: "Agora Snapshot of Commercial Indicators - Week 38 / 2026"
 reference_date: "17 September 2026"
+issue_date: "2026-09-17"
+report_week: 38
 year: 2026
 broker: "agora"
 pages: 5

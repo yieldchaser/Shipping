@@ -1,3 +1,10 @@
+---
+title: "Agora Snapshot of Commercial Indicators - Week 18 / 2023"
+year: 2023
+report_week: 18
+publisher: "Agora Shipbroking Corporation"
+source_file: "corpus/01-brokers/agora/2023/agora_2023_W18_AGORA.-Week-18-2023.-Snapshot-of-Commercial-Indicators.docx.pdf"
+---
 # agora_2023_W18_AGORA.-Week-18-2023.-Snapshot-of-Commercial-Indicators.docx
 
 source: `corpus/01-brokers/agora/2023/agora_2023_W18_AGORA.-Week-18-2023.-Snapshot-of-Commercial-Indicators.docx.pdf`  |  pages: 5  |  number convention: **EU** (comma is the decimal point)
