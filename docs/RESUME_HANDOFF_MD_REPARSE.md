@@ -17,6 +17,25 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 3. **`scripts/parse_engine_html/`** — VesselsValue HTML deals + VV Mini Matrix image OCR (in progress). Output to `.reparse_staging/vessel_valuations/`.
 4. **SHELVED — see HARD RULE.** `scripts/md_cleanup/chart_tables.py` — removes LLM-guessed chart tables (values not printed in source text layer), replaces with `> Figure: … not transcribed` note. Guarded mode default; ISM (vector-engine charts) and any "Vector" section excluded. Dry-run results in `.reparse_staging/chart_cleanup/guard_published/` (8,890 tables). Was about to APPLY in place — check `git diff --stat data/extracted/md` before committing.
 
+## STATUS 2026-10-11 (later) — METADATA + GMS + DUPES DONE (7c5ce3b3b9, c1a3164dc8, 0854c1ceb3)
+- Frontmatter: `scripts/md_cleanup/frontmatter_fix.py` added headers to 1,440 header-less MDs (body byte-identical),
+  then 82 leftovers by hand rules (0854c1ceb3): Fearnleys browser prints take the content-header date; Banchero
+  issue_date = end of printed week range; 62 Agora issues print no date -> year/report_week only. Drewry 10 AIS
+  series files keep no issue_date (intentional).
+- GMS: `scripts/parse_engine/gms.py` + `profiles/gms.yaml`; 272 issues replace 818 legacy/dupe files. 2022 weeks
+  1/17/20 have no PDF -> flat `hellenic/demolition/2022/gms_*.md` HTML scrapes kept as only copy. 2022-05-21 cover
+  date kept as printed (Week 21; likely publisher typo for 05-27). Accepted flags: low_text_recall (disclaimers,
+  trivia dropped by design), low_table_numeric_recall (port date moved into heading). No unit tests for gms.py yet.
+- Best Oasis: 214 CI-recreated `best_oasis_*` dupes removed; profile now globs `pdfs/best_oasis/` (+9 issues never
+  parsed). 2022-12-28 PDF is image-only -> legacy copy kept.
+- Guards: `ALLOW_LEGACY_DEMOLITION_EXTRACT=1` needed for run_hellenic_gms_demolition / run_gms_demolition /
+  run_best_oasis_demolition and the BO/GMS branches of run_hellenic_demolition (Athenian still owned there). CI runs
+  the engine `--new-only` for best_oasis + gms. Tests in tests/test_parse_engine_legacy_guards.py.
+- OPEN for owner: Athenian has the same dup pattern (athenian_* vs plain names, ~552 files); Banchero 2026 W38 has
+  two copies (`bancosta_23_09_2026_*` + `*_W38_*`) and W40 exists only as `banchero_costa_07_10_2026_*`;
+  GMS/Best Oasis series CSVs are no longer refreshed by the retired runners (engine `series` for them not built).
+NEXT: self-hosted runner (owner OK to download). Keys rotation at end (owner).
+
 ## STATUS 2026-10-11 — VV COMPLETE ON MAIN (ebd75cf192 MDs, c3347028e9 series)
 VV 256/256 on engine: 33 untabulatable deal sentences printed verbatim ("Other reported deals (as printed, not
 tabulated)"); vv_2026-10-06 re-parsed. Series regenerated, owner chose "accurate only": sales 2,067 rows/254 issues;
