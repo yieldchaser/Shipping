@@ -15,6 +15,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-07-02,26,Bulkers,Handysize,38k,Resale,26.5,26.5,0.0,advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
 2021-07-02,26,Bulkers,Handysize,37k,5 years,20.5,20.5,0.0,advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
 2021-07-02,26,Bulkers,Handysize,32k,10 years,13.8,13.8,0.0,advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
+2021-07-02,26,Bulkers,Handysize,28k,15 years,7.5,7.3,2.74,advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
 2021-07-02,26,Tankers,VLCC,310k,Resale,96.0,95.0,1.05,advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
 2021-07-02,26,Tankers,VLCC,310k,5 years,71.0,70.0,1.43,advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
 2021-07-02,26,Tankers,VLCC,300k,10 years,49.0,48.0,2.08,advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
@@ -47,6 +48,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-07-09,27,Bulkers,Handysize,38k,Resale,26.5,26.5,0.0,advanced_shipping_2021_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
 2021-07-09,27,Bulkers,Handysize,37k,5 years,20.5,20.5,0.0,advanced_shipping_2021_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
 2021-07-09,27,Bulkers,Handysize,32k,10 years,13.8,13.8,0.0,advanced_shipping_2021_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
+2021-07-09,27,Bulkers,Handysize,28k,15 years,7.5,7.5,0.0,advanced_shipping_2021_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
 2021-07-09,27,Tankers,VLCC,310k,Resale,97.0,96.0,1.04,advanced_shipping_2021_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
 2021-07-09,27,Tankers,VLCC,310k,5 years,71.0,71.0,0.0,advanced_shipping_2021_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
 2021-07-09,27,Tankers,VLCC,300k,10 years,50.0,49.0,2.04,advanced_shipping_2021_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
@@ -79,6 +81,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-07-16,28,Bulkers,Handysize,38k,Resale,27.5,26.5,3.77,advanced_shipping_2021_W28_ADVANCED-MARKET-REPORT-WEEK-28-1.pdf
 2021-07-16,28,Bulkers,Handysize,37k,5 years,21.0,20.5,2.44,advanced_shipping_2021_W28_ADVANCED-MARKET-REPORT-WEEK-28-1.pdf
 2021-07-16,28,Bulkers,Handysize,32k,10 years,14.3,13.8,3.62,advanced_shipping_2021_W28_ADVANCED-MARKET-REPORT-WEEK-28-1.pdf
+2021-07-16,28,Bulkers,Handysize,28k,15 years,7.5,7.5,0.0,advanced_shipping_2021_W28_ADVANCED-MARKET-REPORT-WEEK-28-1.pdf
 2021-07-16,28,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2021_W28_ADVANCED-MARKET-REPORT-WEEK-28-1.pdf
 2021-07-16,28,Tankers,VLCC,310k,5 years,72.0,71.0,1.41,advanced_shipping_2021_W28_ADVANCED-MARKET-REPORT-WEEK-28-1.pdf
 2021-07-16,28,Tankers,VLCC,300k,10 years,50.0,50.0,0.0,advanced_shipping_2021_W28_ADVANCED-MARKET-REPORT-WEEK-28-1.pdf
@@ -111,6 +114,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-07-23,29,Bulkers,Handysize,38k,Resale,28.0,27.5,1.82,advanced_shipping_2021_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
 2021-07-23,29,Bulkers,Handysize,37k,5 years,21.3,21.0,1.43,advanced_shipping_2021_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
 2021-07-23,29,Bulkers,Handysize,32k,10 years,14.5,14.3,1.4,advanced_shipping_2021_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
+2021-07-23,29,Bulkers,Handysize,28k,15 years,7.5,7.5,0.0,advanced_shipping_2021_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
 2021-07-23,29,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2021_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
 2021-07-23,29,Tankers,VLCC,310k,5 years,72.0,72.0,0.0,advanced_shipping_2021_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
 2021-07-23,29,Tankers,VLCC,300k,10 years,50.0,50.0,0.0,advanced_shipping_2021_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
@@ -143,6 +147,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-07-30,30,Bulkers,Handysize,38k,Resale,28.0,28.0,0.0,advanced_shipping_2021_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
 2021-07-30,30,Bulkers,Handysize,37k,5 years,22.0,21.3,3.29,advanced_shipping_2021_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
 2021-07-30,30,Bulkers,Handysize,32k,10 years,15.0,14.5,3.45,advanced_shipping_2021_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
+2021-07-30,30,Bulkers,Handysize,28k,15 years,8.0,7.5,6.67,advanced_shipping_2021_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
 2021-07-30,30,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2021_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
 2021-07-30,30,Tankers,VLCC,310k,5 years,72.0,72.0,0.0,advanced_shipping_2021_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
 2021-07-30,30,Tankers,VLCC,300k,10 years,50.0,50.0,0.0,advanced_shipping_2021_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
@@ -175,6 +180,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-08-06,31,Bulkers,Handysize,38k,Resale,28.0,28.0,0.0,advanced_shipping_2021_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf
 2021-08-06,31,Bulkers,Handysize,37k,5 years,22.0,22.0,0.0,advanced_shipping_2021_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf
 2021-08-06,31,Bulkers,Handysize,32k,10 years,15.0,15.0,0.0,advanced_shipping_2021_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf
+2021-08-06,31,Bulkers,Handysize,28k,15 years,8.5,8.5,0.0,advanced_shipping_2021_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf
 2021-08-06,31,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2021_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf
 2021-08-06,31,Tankers,VLCC,310k,5 years,72.0,72.0,0.0,advanced_shipping_2021_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf
 2021-08-06,31,Tankers,VLCC,300k,10 years,50.0,50.0,0.0,advanced_shipping_2021_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf
@@ -207,6 +213,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-08-13,32,Bulkers,Handysize,38k,Resale,28.0,28.0,0.0,advanced_shipping_2021_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
 2021-08-13,32,Bulkers,Handysize,37k,5 years,23.0,22.0,4.55,advanced_shipping_2021_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
 2021-08-13,32,Bulkers,Handysize,32k,10 years,16.3,15.0,8.67,advanced_shipping_2021_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
+2021-08-13,32,Bulkers,Handysize,28k,15 years,9.5,8.5,11.76,advanced_shipping_2021_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
 2021-08-13,32,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2021_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
 2021-08-13,32,Tankers,VLCC,310k,5 years,72.0,72.0,0.0,advanced_shipping_2021_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
 2021-08-13,32,Tankers,VLCC,300k,10 years,50.0,50.0,0.0,advanced_shipping_2021_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
@@ -239,6 +246,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-08-20,33,Bulkers,Handysize,38k,Resale,28.0,28.0,0.0,advanced_shipping_2021_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
 2021-08-20,33,Bulkers,Handysize,37k,5 years,23.0,23.0,0.0,advanced_shipping_2021_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
 2021-08-20,33,Bulkers,Handysize,32k,10 years,16.3,16.3,0.0,advanced_shipping_2021_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
+2021-08-20,33,Bulkers,Handysize,28k,15 years,9.5,9.5,0.0,advanced_shipping_2021_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
 2021-08-20,33,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2021_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
 2021-08-20,33,Tankers,VLCC,310k,5 years,72.0,72.0,0.0,advanced_shipping_2021_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
 2021-08-20,33,Tankers,VLCC,300k,10 years,50.0,50.0,0.0,advanced_shipping_2021_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
@@ -271,6 +279,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-08-27,34,Bulkers,Handysize,38k,Resale,28.0,28.0,0.0,advanced_shipping_2021_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
 2021-08-27,34,Bulkers,Handysize,37k,5 years,23.0,23.0,0.0,advanced_shipping_2021_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
 2021-08-27,34,Bulkers,Handysize,32k,10 years,16.3,16.3,0.0,advanced_shipping_2021_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
+2021-08-27,34,Bulkers,Handysize,28k,15 years,9.5,9.5,0.0,advanced_shipping_2021_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
 2021-08-27,34,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2021_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
 2021-08-27,34,Tankers,VLCC,310k,5 years,71.0,72.0,-1.39,advanced_shipping_2021_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
 2021-08-27,34,Tankers,VLCC,300k,10 years,49.0,50.0,-2.0,advanced_shipping_2021_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
@@ -303,6 +312,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-09-03,35,Bulkers,Handysize,38k,Resale,28.5,28.0,1.79,advanced_shipping_2021_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
 2021-09-03,35,Bulkers,Handysize,37k,5 years,23.8,23.0,3.48,advanced_shipping_2021_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
 2021-09-03,35,Bulkers,Handysize,32k,10 years,17.0,16.3,4.29,advanced_shipping_2021_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
+2021-09-03,35,Bulkers,Handysize,28k,15 years,10.0,9.5,5.26,advanced_shipping_2021_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
 2021-09-03,35,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2021_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
 2021-09-03,35,Tankers,VLCC,310k,5 years,70.0,71.0,-1.41,advanced_shipping_2021_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
 2021-09-03,35,Tankers,VLCC,300k,10 years,48.0,49.0,-2.04,advanced_shipping_2021_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
@@ -335,6 +345,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-09-10,36,Bulkers,Handysize,38k,Resale,28.5,28.5,0.0,advanced_shipping_2021_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
 2021-09-10,36,Bulkers,Handysize,37k,5 years,24.0,23.8,0.84,advanced_shipping_2021_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
 2021-09-10,36,Bulkers,Handysize,32k,10 years,17.0,17.0,0.0,advanced_shipping_2021_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
+2021-09-10,36,Bulkers,Handysize,28k,15 years,10.0,10.0,0.0,advanced_shipping_2021_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
 2021-09-10,36,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2021_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
 2021-09-10,36,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
 2021-09-10,36,Tankers,VLCC,300k,10 years,48.0,48.0,0.0,advanced_shipping_2021_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
@@ -367,6 +378,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-09-17,37,Bulkers,Handysize,38k,Resale,28.5,28.5,0.0,advanced_shipping_2021_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
 2021-09-17,37,Bulkers,Handysize,37k,5 years,24.0,24.0,0.0,advanced_shipping_2021_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
 2021-09-17,37,Bulkers,Handysize,32k,10 years,17.0,17.0,0.0,advanced_shipping_2021_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
+2021-09-17,37,Bulkers,Handysize,28k,15 years,10.0,10.0,0.0,advanced_shipping_2021_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
 2021-09-17,37,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2021_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
 2021-09-17,37,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
 2021-09-17,37,Tankers,VLCC,300k,10 years,46.5,48.0,-3.13,advanced_shipping_2021_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
@@ -399,6 +411,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-09-24,38,Bulkers,Handysize,38k,Resale,29.0,28.5,1.75,advanced_shipping_2021_W38_ADVANCED-MARKET-REPORT-WEEK-38.pdf
 2021-09-24,38,Bulkers,Handysize,37k,5 years,24.5,24.0,2.08,advanced_shipping_2021_W38_ADVANCED-MARKET-REPORT-WEEK-38.pdf
 2021-09-24,38,Bulkers,Handysize,32k,10 years,17.0,17.0,0.0,advanced_shipping_2021_W38_ADVANCED-MARKET-REPORT-WEEK-38.pdf
+2021-09-24,38,Bulkers,Handysize,28k,15 years,10.0,10.0,0.0,advanced_shipping_2021_W38_ADVANCED-MARKET-REPORT-WEEK-38.pdf
 2021-09-24,38,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2021_W38_ADVANCED-MARKET-REPORT-WEEK-38.pdf
 2021-09-24,38,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W38_ADVANCED-MARKET-REPORT-WEEK-38.pdf
 2021-09-24,38,Tankers,VLCC,300k,10 years,46.5,46.5,0.0,advanced_shipping_2021_W38_ADVANCED-MARKET-REPORT-WEEK-38.pdf
@@ -431,6 +444,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-10-01,39,Bulkers,Handysize,38k,Resale,29.0,29.0,0.0,advanced_shipping_2021_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
 2021-10-01,39,Bulkers,Handysize,37k,5 years,24.5,24.5,0.0,advanced_shipping_2021_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
 2021-10-01,39,Bulkers,Handysize,32k,10 years,17.0,17.0,0.0,advanced_shipping_2021_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+2021-10-01,39,Bulkers,Handysize,28k,15 years,10.5,10.0,5.0,advanced_shipping_2021_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
 2021-10-01,39,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2021_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
 2021-10-01,39,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
 2021-10-01,39,Tankers,VLCC,300k,10 years,46.0,46.5,-1.08,advanced_shipping_2021_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
@@ -463,6 +477,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-10-08,40,Bulkers,Handysize,38k,Resale,29.5,29.0,1.72,advanced_shipping_2021_W40_ADVANCED-MARKET-REPORT-WEEK-40.pdf
 2021-10-08,40,Bulkers,Handysize,37k,5 years,25.0,24.5,2.04,advanced_shipping_2021_W40_ADVANCED-MARKET-REPORT-WEEK-40.pdf
 2021-10-08,40,Bulkers,Handysize,32k,10 years,17.0,17.0,0.0,advanced_shipping_2021_W40_ADVANCED-MARKET-REPORT-WEEK-40.pdf
+2021-10-08,40,Bulkers,Handysize,28k,15 years,11.0,10.5,4.76,advanced_shipping_2021_W40_ADVANCED-MARKET-REPORT-WEEK-40.pdf
 2021-10-08,40,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2021_W40_ADVANCED-MARKET-REPORT-WEEK-40.pdf
 2021-10-08,40,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W40_ADVANCED-MARKET-REPORT-WEEK-40.pdf
 2021-10-08,40,Tankers,VLCC,300k,10 years,46.0,46.0,0.0,advanced_shipping_2021_W40_ADVANCED-MARKET-REPORT-WEEK-40.pdf
@@ -495,7 +510,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-10-15,41,Bulkers,Handysize,38k,Resale,29.5,29.5,0.0,advanced_shipping_2021_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf
 2021-10-15,41,Bulkers,Handysize,37k,5 years,25.0,25.0,0.0,advanced_shipping_2021_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf
 2021-10-15,41,Bulkers,Handysize,32k,10 years,17.0,17.0,0.0,advanced_shipping_2021_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf
-2021-10-15,41,Bulkers,Handysize,,28k,,11.0,11.0,advanced_shipping_2021_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf
+2021-10-15,41,Bulkers,Handysize,28k,15 years,11.0,11.0,0.0,advanced_shipping_2021_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf
 2021-10-15,41,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2021_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf
 2021-10-15,41,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf
 2021-10-15,41,Tankers,VLCC,300k,10 years,46.0,46.0,0.0,advanced_shipping_2021_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf
@@ -528,7 +543,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-10-22,42,Bulkers,Handysize,38k,Resale,29.5,29.5,0.0,advanced_shipping_2021_W42_ADVANCED-MARKET-REPORT-WEEK-42.pdf
 2021-10-22,42,Bulkers,Handysize,37k,5 years,25.0,25.0,0.0,advanced_shipping_2021_W42_ADVANCED-MARKET-REPORT-WEEK-42.pdf
 2021-10-22,42,Bulkers,Handysize,32k,10 years,17.3,17.0,1.76,advanced_shipping_2021_W42_ADVANCED-MARKET-REPORT-WEEK-42.pdf
-2021-10-22,42,Bulkers,Handysize,,28k,,11.0,11.0,advanced_shipping_2021_W42_ADVANCED-MARKET-REPORT-WEEK-42.pdf
+2021-10-22,42,Bulkers,Handysize,28k,15 years,11.0,11.0,0.0,advanced_shipping_2021_W42_ADVANCED-MARKET-REPORT-WEEK-42.pdf
 2021-10-22,42,Tankers,VLCC,310k,Resale,98.0,97.0,1.03,advanced_shipping_2021_W42_ADVANCED-MARKET-REPORT-WEEK-42.pdf
 2021-10-22,42,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W42_ADVANCED-MARKET-REPORT-WEEK-42.pdf
 2021-10-22,42,Tankers,VLCC,300k,10 years,46.0,46.0,0.0,advanced_shipping_2021_W42_ADVANCED-MARKET-REPORT-WEEK-42.pdf
@@ -561,7 +576,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-10-29,43,Bulkers,Handysize,38k,Resale,29.5,29.5,0.0,advanced_shipping_2021_W43_ADVANCED-MARKET-REPORT-WEEK-43.pdf
 2021-10-29,43,Bulkers,Handysize,37k,5 years,25.5,25.0,2.0,advanced_shipping_2021_W43_ADVANCED-MARKET-REPORT-WEEK-43.pdf
 2021-10-29,43,Bulkers,Handysize,32k,10 years,17.5,17.3,1.16,advanced_shipping_2021_W43_ADVANCED-MARKET-REPORT-WEEK-43.pdf
-2021-10-29,43,Bulkers,Handysize,,28k,,11.0,11.0,advanced_shipping_2021_W43_ADVANCED-MARKET-REPORT-WEEK-43.pdf
+2021-10-29,43,Bulkers,Handysize,28k,15 years,11.0,11.0,0.0,advanced_shipping_2021_W43_ADVANCED-MARKET-REPORT-WEEK-43.pdf
 2021-10-29,43,Tankers,VLCC,310k,Resale,98.0,98.0,0.0,advanced_shipping_2021_W43_ADVANCED-MARKET-REPORT-WEEK-43.pdf
 2021-10-29,43,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W43_ADVANCED-MARKET-REPORT-WEEK-43.pdf
 2021-10-29,43,Tankers,VLCC,300k,10 years,46.0,46.0,0.0,advanced_shipping_2021_W43_ADVANCED-MARKET-REPORT-WEEK-43.pdf
@@ -594,7 +609,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-11-05,44,Bulkers,Handysize,38k,Resale,29.5,29.5,0.0,advanced_shipping_2021_W44_ADVANCED-MARKET-REPORT-WEEK-44.pdf
 2021-11-05,44,Bulkers,Handysize,37k,5 years,25.5,25.5,0.0,advanced_shipping_2021_W44_ADVANCED-MARKET-REPORT-WEEK-44.pdf
 2021-11-05,44,Bulkers,Handysize,32k,10 years,17.5,17.5,0.0,advanced_shipping_2021_W44_ADVANCED-MARKET-REPORT-WEEK-44.pdf
-2021-11-05,44,Bulkers,Handysize,,28k,,11.0,11.0,advanced_shipping_2021_W44_ADVANCED-MARKET-REPORT-WEEK-44.pdf
+2021-11-05,44,Bulkers,Handysize,28k,15 years,11.0,11.0,0.0,advanced_shipping_2021_W44_ADVANCED-MARKET-REPORT-WEEK-44.pdf
 2021-11-05,44,Tankers,VLCC,310k,Resale,98.0,98.0,0.0,advanced_shipping_2021_W44_ADVANCED-MARKET-REPORT-WEEK-44.pdf
 2021-11-05,44,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W44_ADVANCED-MARKET-REPORT-WEEK-44.pdf
 2021-11-05,44,Tankers,VLCC,300k,10 years,46.0,46.0,0.0,advanced_shipping_2021_W44_ADVANCED-MARKET-REPORT-WEEK-44.pdf
@@ -627,7 +642,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-11-12,45,Bulkers,Handysize,38k,Resale,29.5,29.5,0.0,advanced_shipping_2021_W45_ADVANCED-MARKET-REPORT-WEEK-45.pdf
 2021-11-12,45,Bulkers,Handysize,37k,5 years,25.5,25.5,0.0,advanced_shipping_2021_W45_ADVANCED-MARKET-REPORT-WEEK-45.pdf
 2021-11-12,45,Bulkers,Handysize,32k,10 years,17.5,17.5,0.0,advanced_shipping_2021_W45_ADVANCED-MARKET-REPORT-WEEK-45.pdf
-2021-11-12,45,Bulkers,Handysize,,28k,,11.0,11.0,advanced_shipping_2021_W45_ADVANCED-MARKET-REPORT-WEEK-45.pdf
+2021-11-12,45,Bulkers,Handysize,28k,15 years,11.0,11.0,0.0,advanced_shipping_2021_W45_ADVANCED-MARKET-REPORT-WEEK-45.pdf
 2021-11-12,45,Tankers,VLCC,310k,Resale,99.0,98.0,1.02,advanced_shipping_2021_W45_ADVANCED-MARKET-REPORT-WEEK-45.pdf
 2021-11-12,45,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W45_ADVANCED-MARKET-REPORT-WEEK-45.pdf
 2021-11-12,45,Tankers,VLCC,300k,10 years,46.0,46.0,0.0,advanced_shipping_2021_W45_ADVANCED-MARKET-REPORT-WEEK-45.pdf
@@ -660,7 +675,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-11-19,46,Bulkers,Handysize,38k,Resale,29.5,29.5,0.0,advanced_shipping_2021_W46_ADVANCED-MARKET-REPORT-WEEK-46.pdf
 2021-11-19,46,Bulkers,Handysize,37k,5 years,25.5,25.5,0.0,advanced_shipping_2021_W46_ADVANCED-MARKET-REPORT-WEEK-46.pdf
 2021-11-19,46,Bulkers,Handysize,32k,10 years,17.5,17.5,0.0,advanced_shipping_2021_W46_ADVANCED-MARKET-REPORT-WEEK-46.pdf
-2021-11-19,46,Bulkers,Handysize,,28k,,11.0,11.0,advanced_shipping_2021_W46_ADVANCED-MARKET-REPORT-WEEK-46.pdf
+2021-11-19,46,Bulkers,Handysize,28k,15 years,11.0,11.0,0.0,advanced_shipping_2021_W46_ADVANCED-MARKET-REPORT-WEEK-46.pdf
 2021-11-19,46,Tankers,VLCC,310k,Resale,99.0,99.0,0.0,advanced_shipping_2021_W46_ADVANCED-MARKET-REPORT-WEEK-46.pdf
 2021-11-19,46,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W46_ADVANCED-MARKET-REPORT-WEEK-46.pdf
 2021-11-19,46,Tankers,VLCC,300k,10 years,46.0,46.0,0.0,advanced_shipping_2021_W46_ADVANCED-MARKET-REPORT-WEEK-46.pdf
@@ -693,7 +708,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-11-26,47,Bulkers,Handysize,38k,Resale,29.5,29.5,0.0,advanced_shipping_2021_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
 2021-11-26,47,Bulkers,Handysize,37k,5 years,25.5,25.5,0.0,advanced_shipping_2021_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
 2021-11-26,47,Bulkers,Handysize,32k,10 years,17.5,17.5,0.0,advanced_shipping_2021_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
-2021-11-26,47,Bulkers,Handysize,,28k,,11.0,11.0,advanced_shipping_2021_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
+2021-11-26,47,Bulkers,Handysize,28k,15 years,11.0,11.0,0.0,advanced_shipping_2021_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
 2021-11-26,47,Tankers,VLCC,310k,Resale,99.0,99.0,0.0,advanced_shipping_2021_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
 2021-11-26,47,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
 2021-11-26,47,Tankers,VLCC,300k,10 years,46.0,46.0,0.0,advanced_shipping_2021_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
@@ -726,7 +741,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-12-03,48,Bulkers,Handysize,38k,Resale,30.0,29.5,1.69,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
 2021-12-03,48,Bulkers,Handysize,37k,5 years,25.5,25.5,0.0,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
 2021-12-03,48,Bulkers,Handysize,32k,10 years,17.5,17.5,0.0,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
-2021-12-03,48,Bulkers,Handysize,,28k,,11.0,11.0,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
+2021-12-03,48,Bulkers,Handysize,28k,15 years,11.0,11.0,0.0,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
 2021-12-03,48,Tankers,VLCC,310k,Resale,99.0,99.0,0.0,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
 2021-12-03,48,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
 2021-12-03,48,Tankers,VLCC,300k,10 years,46.0,46.0,0.0,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
@@ -759,7 +774,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-12-10,49,Bulkers,Handysize,38k,Resale,30.0,30.0,0.0,advanced_shipping_2021_W49_ADVANCED-MARKET-REPORT-WEEK-49.pdf
 2021-12-10,49,Bulkers,Handysize,37k,5 years,25.5,25.5,0.0,advanced_shipping_2021_W49_ADVANCED-MARKET-REPORT-WEEK-49.pdf
 2021-12-10,49,Bulkers,Handysize,32k,10 years,17.5,17.5,0.0,advanced_shipping_2021_W49_ADVANCED-MARKET-REPORT-WEEK-49.pdf
-2021-12-10,49,Bulkers,Handysize,,28k,,11.0,11.0,advanced_shipping_2021_W49_ADVANCED-MARKET-REPORT-WEEK-49.pdf
+2021-12-10,49,Bulkers,Handysize,28k,15 years,11.0,11.0,0.0,advanced_shipping_2021_W49_ADVANCED-MARKET-REPORT-WEEK-49.pdf
 2021-12-10,49,Tankers,VLCC,310k,Resale,99.0,99.0,0.0,advanced_shipping_2021_W49_ADVANCED-MARKET-REPORT-WEEK-49.pdf
 2021-12-10,49,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W49_ADVANCED-MARKET-REPORT-WEEK-49.pdf
 2021-12-10,49,Tankers,VLCC,300k,10 years,46.0,46.0,0.0,advanced_shipping_2021_W49_ADVANCED-MARKET-REPORT-WEEK-49.pdf
@@ -792,7 +807,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-12-17,50,Bulkers,Handysize,38k,Resale,30.0,30.0,0.0,advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2021-12-17,50,Bulkers,Handysize,37k,5 years,25.5,25.5,0.0,advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2021-12-17,50,Bulkers,Handysize,32k,10 years,17.5,17.5,0.0,advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
-2021-12-17,50,Bulkers,Handysize,,28k,,11.0,11.0,advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
+2021-12-17,50,Bulkers,Handysize,28k,15 years,11.0,11.0,0.0,advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2021-12-17,50,Tankers,VLCC,310k,Resale,99.0,99.0,0.0,advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2021-12-17,50,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2021-12-17,50,Tankers,VLCC,300k,10 years,46.0,46.0,0.0,advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
@@ -825,7 +840,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-12-24,51,Bulkers,Handysize,38k,Resale,30.0,30.0,0.0,advanced_shipping_2021_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
 2021-12-24,51,Bulkers,Handysize,37k,5 years,25.5,25.5,0.0,advanced_shipping_2021_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
 2021-12-24,51,Bulkers,Handysize,32k,10 years,17.0,17.5,-2.86,advanced_shipping_2021_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
-2021-12-24,51,Bulkers,Handysize,,28k,,,11.0,advanced_shipping_2021_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
+2021-12-24,51,Bulkers,Handysize,28k,15 years,10.5,11.0,-4.55,advanced_shipping_2021_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
 2021-12-24,51,Tankers,VLCC,310k,Resale,99.0,99.0,0.0,advanced_shipping_2021_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
 2021-12-24,51,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2021_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
 2021-12-24,51,Tankers,VLCC,300k,10 years,46.0,46.0,0.0,advanced_shipping_2021_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
@@ -858,7 +873,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-01-14,2,Bulkers,Handysize,38k,Resale,30.0,30.0,0.0,advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf
 2022-01-14,2,Bulkers,Handysize,37k,5 years,25.5,25.5,0.0,advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf
 2022-01-14,2,Bulkers,Handysize,32k,10 years,17.0,17.0,0.0,advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf
-2022-01-14,2,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf
+2022-01-14,2,Bulkers,Handysize,28k,15 years,10.5,10.5,0.0,advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf
 2022-01-14,2,Tankers,VLCC,310k,Resale,99.0,99.0,0.0,advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf
 2022-01-14,2,Tankers,VLCC,310k,5 years,71.0,71.0,0.0,advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf
 2022-01-14,2,Tankers,VLCC,300k,10 years,47.0,47.0,0.0,advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf
@@ -891,7 +906,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-01-21,3,Bulkers,Handysize,38k,Resale,30.5,30.0,1.67,advanced_shipping_2022_W03_ADVANCED-MARKET-REPORT-WEEK-3.pdf
 2022-01-21,3,Bulkers,Handysize,37k,5 years,26.0,25.5,1.96,advanced_shipping_2022_W03_ADVANCED-MARKET-REPORT-WEEK-3.pdf
 2022-01-21,3,Bulkers,Handysize,32k,10 years,17.3,17.0,1.76,advanced_shipping_2022_W03_ADVANCED-MARKET-REPORT-WEEK-3.pdf
-2022-01-21,3,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W03_ADVANCED-MARKET-REPORT-WEEK-3.pdf
+2022-01-21,3,Bulkers,Handysize,28k,15 years,10.5,10.5,0.0,advanced_shipping_2022_W03_ADVANCED-MARKET-REPORT-WEEK-3.pdf
 2022-01-21,3,Tankers,VLCC,310k,Resale,99.0,99.0,0.0,advanced_shipping_2022_W03_ADVANCED-MARKET-REPORT-WEEK-3.pdf
 2022-01-21,3,Tankers,VLCC,310k,5 years,71.5,71.0,0.7,advanced_shipping_2022_W03_ADVANCED-MARKET-REPORT-WEEK-3.pdf
 2022-01-21,3,Tankers,VLCC,300k,10 years,48.5,47.0,3.19,advanced_shipping_2022_W03_ADVANCED-MARKET-REPORT-WEEK-3.pdf
@@ -924,7 +939,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-01-28,4,Bulkers,Handysize,38k,Resale,31.5,30.5,3.28,advanced_shipping_2022_W04_ADVANCED-MARKET-REPORT-WEEK-4.pdf
 2022-01-28,4,Bulkers,Handysize,37k,5 years,27.0,26.0,3.85,advanced_shipping_2022_W04_ADVANCED-MARKET-REPORT-WEEK-4.pdf
 2022-01-28,4,Bulkers,Handysize,32k,10 years,18.0,17.3,4.05,advanced_shipping_2022_W04_ADVANCED-MARKET-REPORT-WEEK-4.pdf
-2022-01-28,4,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W04_ADVANCED-MARKET-REPORT-WEEK-4.pdf
+2022-01-28,4,Bulkers,Handysize,28k,15 years,10.5,10.5,0.0,advanced_shipping_2022_W04_ADVANCED-MARKET-REPORT-WEEK-4.pdf
 2022-01-28,4,Tankers,VLCC,310k,Resale,97.0,99.0,-2.02,advanced_shipping_2022_W04_ADVANCED-MARKET-REPORT-WEEK-4.pdf
 2022-01-28,4,Tankers,VLCC,310k,5 years,71.5,71.5,0.0,advanced_shipping_2022_W04_ADVANCED-MARKET-REPORT-WEEK-4.pdf
 2022-01-28,4,Tankers,VLCC,300k,10 years,48.5,48.5,0.0,advanced_shipping_2022_W04_ADVANCED-MARKET-REPORT-WEEK-4.pdf
@@ -957,7 +972,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-02-04,5,Bulkers,Handysize,38k,Resale,31.5,31.5,0.0,advanced_shipping_2022_W05_ADVANCED-MARKET-REPORT-WEEK-5.pdf
 2022-02-04,5,Bulkers,Handysize,37k,5 years,27.0,27.0,0.0,advanced_shipping_2022_W05_ADVANCED-MARKET-REPORT-WEEK-5.pdf
 2022-02-04,5,Bulkers,Handysize,32k,10 years,18.0,18.0,0.0,advanced_shipping_2022_W05_ADVANCED-MARKET-REPORT-WEEK-5.pdf
-2022-02-04,5,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W05_ADVANCED-MARKET-REPORT-WEEK-5.pdf
+2022-02-04,5,Bulkers,Handysize,28k,15 years,10.5,10.5,0.0,advanced_shipping_2022_W05_ADVANCED-MARKET-REPORT-WEEK-5.pdf
 2022-02-04,5,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2022_W05_ADVANCED-MARKET-REPORT-WEEK-5.pdf
 2022-02-04,5,Tankers,VLCC,310k,5 years,71.5,71.5,0.0,advanced_shipping_2022_W05_ADVANCED-MARKET-REPORT-WEEK-5.pdf
 2022-02-04,5,Tankers,VLCC,300k,10 years,48.5,48.5,0.0,advanced_shipping_2022_W05_ADVANCED-MARKET-REPORT-WEEK-5.pdf
@@ -990,7 +1005,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-02-11,6,Bulkers,Handysize,38k,Resale,31.5,31.5,0.0,advanced_shipping_2022_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf
 2022-02-11,6,Bulkers,Handysize,37k,5 years,27.0,27.0,0.0,advanced_shipping_2022_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf
 2022-02-11,6,Bulkers,Handysize,32k,10 years,18.0,18.0,0.0,advanced_shipping_2022_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf
-2022-02-11,6,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf
+2022-02-11,6,Bulkers,Handysize,28k,15 years,10.3,10.5,-1.9,advanced_shipping_2022_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf
 2022-02-11,6,Tankers,VLCC,310k,Resale,96.0,97.0,-1.03,advanced_shipping_2022_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf
 2022-02-11,6,Tankers,VLCC,310k,5 years,71.0,71.5,-0.7,advanced_shipping_2022_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf
 2022-02-11,6,Tankers,VLCC,300k,10 years,48.5,48.5,0.0,advanced_shipping_2022_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf
@@ -1023,7 +1038,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-02-18,7,Bulkers,Handysize,38k,Resale,31.5,31.5,0.0,advanced_shipping_2022_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf
 2022-02-18,7,Bulkers,Handysize,37k,5 years,27.0,27.0,0.0,advanced_shipping_2022_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf
 2022-02-18,7,Bulkers,Handysize,32k,10 years,18.0,18.0,0.0,advanced_shipping_2022_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf
-2022-02-18,7,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf
+2022-02-18,7,Bulkers,Handysize,28k,15 years,10.3,10.3,0.0,advanced_shipping_2022_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf
 2022-02-18,7,Tankers,VLCC,310k,Resale,95.0,96.0,-1.04,advanced_shipping_2022_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf
 2022-02-18,7,Tankers,VLCC,310k,5 years,70.0,71.0,-1.41,advanced_shipping_2022_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf
 2022-02-18,7,Tankers,VLCC,300k,10 years,48.0,48.5,-1.03,advanced_shipping_2022_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf
@@ -1056,7 +1071,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-02-25,8,Bulkers,Handysize,38k,Resale,31.5,31.5,0.0,advanced_shipping_2022_W08_ADVANCED-MARKET-REPORT-WEEK-8.pdf
 2022-02-25,8,Bulkers,Handysize,37k,5 years,27.5,27.0,1.85,advanced_shipping_2022_W08_ADVANCED-MARKET-REPORT-WEEK-8.pdf
 2022-02-25,8,Bulkers,Handysize,32k,10 years,18.0,18.0,0.0,advanced_shipping_2022_W08_ADVANCED-MARKET-REPORT-WEEK-8.pdf
-2022-02-25,8,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W08_ADVANCED-MARKET-REPORT-WEEK-8.pdf
+2022-02-25,8,Bulkers,Handysize,28k,15 years,10.3,10.3,0.0,advanced_shipping_2022_W08_ADVANCED-MARKET-REPORT-WEEK-8.pdf
 2022-02-25,8,Tankers,VLCC,310k,Resale,95.0,95.0,0.0,advanced_shipping_2022_W08_ADVANCED-MARKET-REPORT-WEEK-8.pdf
 2022-02-25,8,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2022_W08_ADVANCED-MARKET-REPORT-WEEK-8.pdf
 2022-02-25,8,Tankers,VLCC,300k,10 years,48.0,48.0,0.0,advanced_shipping_2022_W08_ADVANCED-MARKET-REPORT-WEEK-8.pdf
@@ -1089,7 +1104,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-03-04,9,Bulkers,Handysize,38k,Resale,32.0,31.5,1.59,advanced_shipping_2022_W09_ADVANCED-MARKET-REPORT-WEEK-9.pdf
 2022-03-04,9,Bulkers,Handysize,37k,5 years,28.0,27.5,1.82,advanced_shipping_2022_W09_ADVANCED-MARKET-REPORT-WEEK-9.pdf
 2022-03-04,9,Bulkers,Handysize,32k,10 years,18.5,18.0,2.78,advanced_shipping_2022_W09_ADVANCED-MARKET-REPORT-WEEK-9.pdf
-2022-03-04,9,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W09_ADVANCED-MARKET-REPORT-WEEK-9.pdf
+2022-03-04,9,Bulkers,Handysize,28k,15 years,11.8,10.3,14.56,advanced_shipping_2022_W09_ADVANCED-MARKET-REPORT-WEEK-9.pdf
 2022-03-04,9,Tankers,VLCC,310k,Resale,95.0,95.0,0.0,advanced_shipping_2022_W09_ADVANCED-MARKET-REPORT-WEEK-9.pdf
 2022-03-04,9,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2022_W09_ADVANCED-MARKET-REPORT-WEEK-9.pdf
 2022-03-04,9,Tankers,VLCC,300k,10 years,48.0,48.0,0.0,advanced_shipping_2022_W09_ADVANCED-MARKET-REPORT-WEEK-9.pdf
@@ -1122,7 +1137,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-03-11,10,Bulkers,Handysize,38k,Resale,32.0,32.0,0.0,advanced_shipping_2022_W10_ADVANCED-MARKET-REPORT-WEEK-10.pdf
 2022-03-11,10,Bulkers,Handysize,37k,5 years,28.0,28.0,0.0,advanced_shipping_2022_W10_ADVANCED-MARKET-REPORT-WEEK-10.pdf
 2022-03-11,10,Bulkers,Handysize,32k,10 years,18.5,18.5,0.0,advanced_shipping_2022_W10_ADVANCED-MARKET-REPORT-WEEK-10.pdf
-2022-03-11,10,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W10_ADVANCED-MARKET-REPORT-WEEK-10.pdf
+2022-03-11,10,Bulkers,Handysize,28k,15 years,11.8,11.8,0.0,advanced_shipping_2022_W10_ADVANCED-MARKET-REPORT-WEEK-10.pdf
 2022-03-11,10,Tankers,VLCC,310k,Resale,96.0,95.0,1.05,advanced_shipping_2022_W10_ADVANCED-MARKET-REPORT-WEEK-10.pdf
 2022-03-11,10,Tankers,VLCC,310k,5 years,71.0,70.0,1.43,advanced_shipping_2022_W10_ADVANCED-MARKET-REPORT-WEEK-10.pdf
 2022-03-11,10,Tankers,VLCC,300k,10 years,49.0,48.0,2.08,advanced_shipping_2022_W10_ADVANCED-MARKET-REPORT-WEEK-10.pdf
@@ -1155,7 +1170,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-03-18,11,Bulkers,Handysize,38k,Resale,32.0,32.0,0.0,advanced_shipping_2022_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf
 2022-03-18,11,Bulkers,Handysize,37k,5 years,28.0,28.0,0.0,advanced_shipping_2022_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf
 2022-03-18,11,Bulkers,Handysize,32k,10 years,18.5,18.5,0.0,advanced_shipping_2022_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf
-2022-03-18,11,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf
+2022-03-18,11,Bulkers,Handysize,28k,15 years,12.5,11.8,5.93,advanced_shipping_2022_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf
 2022-03-18,11,Tankers,VLCC,310k,Resale,97.0,96.0,1.04,advanced_shipping_2022_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf
 2022-03-18,11,Tankers,VLCC,310k,5 years,72.0,71.0,1.41,advanced_shipping_2022_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf
 2022-03-18,11,Tankers,VLCC,300k,10 years,50.0,49.0,2.04,advanced_shipping_2022_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf
@@ -1188,7 +1203,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-03-24,12,Bulkers,Handysize,38k,Resale,32.0,32.0,0.0,advanced_shipping_2022_W12_ADVANCED-MARKET-REPORT-WEEK-12.pdf
 2022-03-24,12,Bulkers,Handysize,37k,5 years,28.0,28.0,0.0,advanced_shipping_2022_W12_ADVANCED-MARKET-REPORT-WEEK-12.pdf
 2022-03-24,12,Bulkers,Handysize,32k,10 years,18.5,18.5,0.0,advanced_shipping_2022_W12_ADVANCED-MARKET-REPORT-WEEK-12.pdf
-2022-03-24,12,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W12_ADVANCED-MARKET-REPORT-WEEK-12.pdf
+2022-03-24,12,Bulkers,Handysize,28k,15 years,12.5,12.5,0.0,advanced_shipping_2022_W12_ADVANCED-MARKET-REPORT-WEEK-12.pdf
 2022-03-24,12,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2022_W12_ADVANCED-MARKET-REPORT-WEEK-12.pdf
 2022-03-24,12,Tankers,VLCC,310k,5 years,72.0,72.0,0.0,advanced_shipping_2022_W12_ADVANCED-MARKET-REPORT-WEEK-12.pdf
 2022-03-24,12,Tankers,VLCC,300k,10 years,50.0,50.0,0.0,advanced_shipping_2022_W12_ADVANCED-MARKET-REPORT-WEEK-12.pdf
@@ -1221,7 +1236,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-04-01,13,Bulkers,Handysize,38k,Resale,32.0,32.0,0.0,advanced_shipping_2022_W13_ADVANCED-MARKET-REPORT-WEEK-13.pdf
 2022-04-01,13,Bulkers,Handysize,37k,5 years,28.0,28.0,0.0,advanced_shipping_2022_W13_ADVANCED-MARKET-REPORT-WEEK-13.pdf
 2022-04-01,13,Bulkers,Handysize,32k,10 years,18.5,18.5,0.0,advanced_shipping_2022_W13_ADVANCED-MARKET-REPORT-WEEK-13.pdf
-2022-04-01,13,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W13_ADVANCED-MARKET-REPORT-WEEK-13.pdf
+2022-04-01,13,Bulkers,Handysize,28k,15 years,12.5,12.5,0.0,advanced_shipping_2022_W13_ADVANCED-MARKET-REPORT-WEEK-13.pdf
 2022-04-01,13,Tankers,VLCC,310k,Resale,97.0,97.0,0.0,advanced_shipping_2022_W13_ADVANCED-MARKET-REPORT-WEEK-13.pdf
 2022-04-01,13,Tankers,VLCC,310k,5 years,72.0,72.0,0.0,advanced_shipping_2022_W13_ADVANCED-MARKET-REPORT-WEEK-13.pdf
 2022-04-01,13,Tankers,VLCC,300k,10 years,50.0,50.0,0.0,advanced_shipping_2022_W13_ADVANCED-MARKET-REPORT-WEEK-13.pdf
@@ -1254,7 +1269,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-04-08,14,Bulkers,Handysize,38k,Resale,32.5,32.0,1.56,advanced_shipping_2022_W14_ADVANCED-MARKET-REPORT-WEEK-14.pdf
 2022-04-08,14,Bulkers,Handysize,37k,5 years,28.5,28.0,1.79,advanced_shipping_2022_W14_ADVANCED-MARKET-REPORT-WEEK-14.pdf
 2022-04-08,14,Bulkers,Handysize,32k,10 years,19.5,18.5,5.41,advanced_shipping_2022_W14_ADVANCED-MARKET-REPORT-WEEK-14.pdf
-2022-04-08,14,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W14_ADVANCED-MARKET-REPORT-WEEK-14.pdf
+2022-04-08,14,Bulkers,Handysize,28k,15 years,12.5,12.5,0.0,advanced_shipping_2022_W14_ADVANCED-MARKET-REPORT-WEEK-14.pdf
 2022-04-08,14,Tankers,VLCC,310k,Resale,98.0,97.0,1.03,advanced_shipping_2022_W14_ADVANCED-MARKET-REPORT-WEEK-14.pdf
 2022-04-08,14,Tankers,VLCC,310k,5 years,73.0,72.0,1.39,advanced_shipping_2022_W14_ADVANCED-MARKET-REPORT-WEEK-14.pdf
 2022-04-08,14,Tankers,VLCC,300k,10 years,50.5,50.0,1.0,advanced_shipping_2022_W14_ADVANCED-MARKET-REPORT-WEEK-14.pdf
@@ -1287,7 +1302,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-04-15,15,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W15_ADVANCED-MARKET-REPORT-WEEK-15.pdf
 2022-04-15,15,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W15_ADVANCED-MARKET-REPORT-WEEK-15.pdf
 2022-04-15,15,Bulkers,Handysize,32k,10 years,19.5,19.5,0.0,advanced_shipping_2022_W15_ADVANCED-MARKET-REPORT-WEEK-15.pdf
-2022-04-15,15,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W15_ADVANCED-MARKET-REPORT-WEEK-15.pdf
+2022-04-15,15,Bulkers,Handysize,28k,15 years,12.8,12.5,2.4,advanced_shipping_2022_W15_ADVANCED-MARKET-REPORT-WEEK-15.pdf
 2022-04-15,15,Tankers,VLCC,310k,Resale,99.0,98.0,1.02,advanced_shipping_2022_W15_ADVANCED-MARKET-REPORT-WEEK-15.pdf
 2022-04-15,15,Tankers,VLCC,310k,5 years,74.0,73.0,1.37,advanced_shipping_2022_W15_ADVANCED-MARKET-REPORT-WEEK-15.pdf
 2022-04-15,15,Tankers,VLCC,300k,10 years,51.0,50.5,0.99,advanced_shipping_2022_W15_ADVANCED-MARKET-REPORT-WEEK-15.pdf
@@ -1320,7 +1335,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-04-21,16,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W16_ADVANCED-MARKET-REPORT-WEEK-16.pdf
 2022-04-21,16,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W16_ADVANCED-MARKET-REPORT-WEEK-16.pdf
 2022-04-21,16,Bulkers,Handysize,32k,10 years,19.5,19.5,0.0,advanced_shipping_2022_W16_ADVANCED-MARKET-REPORT-WEEK-16.pdf
-2022-04-21,16,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W16_ADVANCED-MARKET-REPORT-WEEK-16.pdf
+2022-04-21,16,Bulkers,Handysize,28k,15 years,12.8,12.8,0.0,advanced_shipping_2022_W16_ADVANCED-MARKET-REPORT-WEEK-16.pdf
 2022-04-21,16,Tankers,VLCC,310k,Resale,99.0,99.0,0.0,advanced_shipping_2022_W16_ADVANCED-MARKET-REPORT-WEEK-16.pdf
 2022-04-21,16,Tankers,VLCC,310k,5 years,74.0,74.0,0.0,advanced_shipping_2022_W16_ADVANCED-MARKET-REPORT-WEEK-16.pdf
 2022-04-21,16,Tankers,VLCC,300k,10 years,51.0,51.0,0.0,advanced_shipping_2022_W16_ADVANCED-MARKET-REPORT-WEEK-16.pdf
@@ -1353,7 +1368,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-04-29,17,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf
 2022-04-29,17,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf
 2022-04-29,17,Bulkers,Handysize,32k,10 years,19.5,19.5,0.0,advanced_shipping_2022_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf
-2022-04-29,17,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf
+2022-04-29,17,Bulkers,Handysize,28k,15 years,12.8,12.8,0.0,advanced_shipping_2022_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf
 2022-04-29,17,Tankers,VLCC,310k,Resale,99.0,99.0,0.0,advanced_shipping_2022_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf
 2022-04-29,17,Tankers,VLCC,310k,5 years,74.0,74.0,0.0,advanced_shipping_2022_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf
 2022-04-29,17,Tankers,VLCC,300k,10 years,51.0,51.0,0.0,advanced_shipping_2022_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf
@@ -1386,7 +1401,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-05-06,18,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W18_ADVANCED-MARKET-REPORT-WEEK-18.pdf
 2022-05-06,18,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W18_ADVANCED-MARKET-REPORT-WEEK-18.pdf
 2022-05-06,18,Bulkers,Handysize,32k,10 years,19.5,19.5,0.0,advanced_shipping_2022_W18_ADVANCED-MARKET-REPORT-WEEK-18.pdf
-2022-05-06,18,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W18_ADVANCED-MARKET-REPORT-WEEK-18.pdf
+2022-05-06,18,Bulkers,Handysize,28k,15 years,12.8,12.8,0.0,advanced_shipping_2022_W18_ADVANCED-MARKET-REPORT-WEEK-18.pdf
 2022-05-06,18,Tankers,VLCC,310k,Resale,99.0,99.0,0.0,advanced_shipping_2022_W18_ADVANCED-MARKET-REPORT-WEEK-18.pdf
 2022-05-06,18,Tankers,VLCC,310k,5 years,74.0,74.0,0.0,advanced_shipping_2022_W18_ADVANCED-MARKET-REPORT-WEEK-18.pdf
 2022-05-06,18,Tankers,VLCC,300k,10 years,51.0,51.0,0.0,advanced_shipping_2022_W18_ADVANCED-MARKET-REPORT-WEEK-18.pdf
@@ -1419,7 +1434,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-05-13,19,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W19_ADVANCED-MARKET-REPORT-WEEK-19.pdf
 2022-05-13,19,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W19_ADVANCED-MARKET-REPORT-WEEK-19.pdf
 2022-05-13,19,Bulkers,Handysize,32k,10 years,19.5,19.5,0.0,advanced_shipping_2022_W19_ADVANCED-MARKET-REPORT-WEEK-19.pdf
-2022-05-13,19,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W19_ADVANCED-MARKET-REPORT-WEEK-19.pdf
+2022-05-13,19,Bulkers,Handysize,28k,15 years,12.8,12.8,0.0,advanced_shipping_2022_W19_ADVANCED-MARKET-REPORT-WEEK-19.pdf
 2022-05-13,19,Tankers,VLCC,310k,Resale,99.0,99.0,0.0,advanced_shipping_2022_W19_ADVANCED-MARKET-REPORT-WEEK-19.pdf
 2022-05-13,19,Tankers,VLCC,310k,5 years,74.0,74.0,0.0,advanced_shipping_2022_W19_ADVANCED-MARKET-REPORT-WEEK-19.pdf
 2022-05-13,19,Tankers,VLCC,300k,10 years,51.0,51.0,0.0,advanced_shipping_2022_W19_ADVANCED-MARKET-REPORT-WEEK-19.pdf
@@ -1452,7 +1467,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-05-20,20,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W20_ADVANCED-MARKET-REPORT-WEEK-20.pdf
 2022-05-20,20,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W20_ADVANCED-MARKET-REPORT-WEEK-20.pdf
 2022-05-20,20,Bulkers,Handysize,32k,10 years,19.5,19.5,0.0,advanced_shipping_2022_W20_ADVANCED-MARKET-REPORT-WEEK-20.pdf
-2022-05-20,20,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W20_ADVANCED-MARKET-REPORT-WEEK-20.pdf
+2022-05-20,20,Bulkers,Handysize,28k,15 years,12.8,12.8,0.0,advanced_shipping_2022_W20_ADVANCED-MARKET-REPORT-WEEK-20.pdf
 2022-05-20,20,Tankers,VLCC,310k,Resale,101.0,99.0,2.02,advanced_shipping_2022_W20_ADVANCED-MARKET-REPORT-WEEK-20.pdf
 2022-05-20,20,Tankers,VLCC,310k,5 years,76.0,74.0,2.7,advanced_shipping_2022_W20_ADVANCED-MARKET-REPORT-WEEK-20.pdf
 2022-05-20,20,Tankers,VLCC,300k,10 years,52.0,51.0,1.96,advanced_shipping_2022_W20_ADVANCED-MARKET-REPORT-WEEK-20.pdf
@@ -1485,7 +1500,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-05-27,21,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf
 2022-05-27,21,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf
 2022-05-27,21,Bulkers,Handysize,32k,10 years,19.5,19.5,0.0,advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf
-2022-05-27,21,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf
+2022-05-27,21,Bulkers,Handysize,28k,15 years,12.8,12.8,0.0,advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf
 2022-05-27,21,Tankers,VLCC,310k,Resale,102.0,101.0,0.99,advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf
 2022-05-27,21,Tankers,VLCC,310k,5 years,77.0,76.0,1.32,advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf
 2022-05-27,21,Tankers,VLCC,300k,10 years,52.0,52.0,0.0,advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf
@@ -1518,7 +1533,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-06-03,22,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf
 2022-06-03,22,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf
 2022-06-03,22,Bulkers,Handysize,32k,10 years,19.5,19.5,0.0,advanced_shipping_2022_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf
-2022-06-03,22,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf
+2022-06-03,22,Bulkers,Handysize,28k,15 years,12.8,12.8,0.0,advanced_shipping_2022_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf
 2022-06-03,22,Tankers,VLCC,310k,Resale,102.0,102.0,0.0,advanced_shipping_2022_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf
 2022-06-03,22,Tankers,VLCC,310k,5 years,77.0,77.0,0.0,advanced_shipping_2022_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf
 2022-06-03,22,Tankers,VLCC,300k,10 years,52.0,52.0,0.0,advanced_shipping_2022_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf
@@ -1551,7 +1566,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-06-10,23,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
 2022-06-10,23,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
 2022-06-10,23,Bulkers,Handysize,32k,10 years,19.5,19.5,0.0,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
-2022-06-10,23,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
+2022-06-10,23,Bulkers,Handysize,28k,15 years,12.8,12.8,0.0,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
 2022-06-10,23,Tankers,VLCC,310k,Resale,102.0,102.0,0.0,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
 2022-06-10,23,Tankers,VLCC,310k,5 years,77.0,77.0,0.0,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
 2022-06-10,23,Tankers,VLCC,300k,10 years,52.0,52.0,0.0,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
@@ -1584,7 +1599,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-06-17,24,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf
 2022-06-17,24,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf
 2022-06-17,24,Bulkers,Handysize,32k,10 years,19.5,19.5,0.0,advanced_shipping_2022_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf
-2022-06-17,24,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf
+2022-06-17,24,Bulkers,Handysize,28k,15 years,12.8,12.8,0.0,advanced_shipping_2022_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf
 2022-06-17,24,Tankers,VLCC,310k,Resale,102.0,102.0,0.0,advanced_shipping_2022_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf
 2022-06-17,24,Tankers,VLCC,310k,5 years,77.0,77.0,0.0,advanced_shipping_2022_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf
 2022-06-17,24,Tankers,VLCC,300k,10 years,52.0,52.0,0.0,advanced_shipping_2022_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf
@@ -1617,7 +1632,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-06-24,25,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W25_ADVANCED-MARKET-REPORT-WEEK-25.pdf
 2022-06-24,25,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W25_ADVANCED-MARKET-REPORT-WEEK-25.pdf
 2022-06-24,25,Bulkers,Handysize,32k,10 years,19.5,19.5,0.0,advanced_shipping_2022_W25_ADVANCED-MARKET-REPORT-WEEK-25.pdf
-2022-06-24,25,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W25_ADVANCED-MARKET-REPORT-WEEK-25.pdf
+2022-06-24,25,Bulkers,Handysize,28k,15 years,13.8,12.8,7.81,advanced_shipping_2022_W25_ADVANCED-MARKET-REPORT-WEEK-25.pdf
 2022-06-24,25,Tankers,VLCC,310k,Resale,102.0,102.0,0.0,advanced_shipping_2022_W25_ADVANCED-MARKET-REPORT-WEEK-25.pdf
 2022-06-24,25,Tankers,VLCC,310k,5 years,77.0,77.0,0.0,advanced_shipping_2022_W25_ADVANCED-MARKET-REPORT-WEEK-25.pdf
 2022-06-24,25,Tankers,VLCC,300k,10 years,52.0,52.0,0.0,advanced_shipping_2022_W25_ADVANCED-MARKET-REPORT-WEEK-25.pdf
@@ -1650,7 +1665,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-07-01,26,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
 2022-07-01,26,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
 2022-07-01,26,Bulkers,Handysize,32k,10 years,19.5,19.5,0.0,advanced_shipping_2022_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
-2022-07-01,26,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
+2022-07-01,26,Bulkers,Handysize,28k,15 years,13.8,13.8,0.0,advanced_shipping_2022_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
 2022-07-01,26,Tankers,VLCC,310k,Resale,102.0,102.0,0.0,advanced_shipping_2022_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
 2022-07-01,26,Tankers,VLCC,310k,5 years,77.0,77.0,0.0,advanced_shipping_2022_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
 2022-07-01,26,Tankers,VLCC,300k,10 years,52.0,52.0,0.0,advanced_shipping_2022_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf
@@ -1683,7 +1698,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-07-08,27,Bulkers,Handysize,38k,Resale,33.0,32.5,1.54,advanced_shipping_2022_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
 2022-07-08,27,Bulkers,Handysize,37k,5 years,29.0,28.5,1.75,advanced_shipping_2022_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
 2022-07-08,27,Bulkers,Handysize,32k,10 years,20.5,19.5,5.13,advanced_shipping_2022_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
-2022-07-08,27,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
+2022-07-08,27,Bulkers,Handysize,28k,15 years,14.5,13.8,5.07,advanced_shipping_2022_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
 2022-07-08,27,Tankers,VLCC,310k,Resale,105.0,102.0,2.94,advanced_shipping_2022_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
 2022-07-08,27,Tankers,VLCC,310k,5 years,80.0,77.0,3.9,advanced_shipping_2022_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
 2022-07-08,27,Tankers,VLCC,300k,10 years,56.0,52.0,7.69,advanced_shipping_2022_W27_ADVANCED-MARKET-REPORT-WEEK-27.pdf
@@ -1716,7 +1731,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-07-15,28,Bulkers,Handysize,38k,Resale,33.0,33.0,0.0,advanced_shipping_2022_W28_ADVANCED-MARKET-REPORT-WEEK-28.pdf
 2022-07-15,28,Bulkers,Handysize,37k,5 years,29.0,29.0,0.0,advanced_shipping_2022_W28_ADVANCED-MARKET-REPORT-WEEK-28.pdf
 2022-07-15,28,Bulkers,Handysize,32k,10 years,20.5,20.5,0.0,advanced_shipping_2022_W28_ADVANCED-MARKET-REPORT-WEEK-28.pdf
-2022-07-15,28,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W28_ADVANCED-MARKET-REPORT-WEEK-28.pdf
+2022-07-15,28,Bulkers,Handysize,28k,15 years,14.5,14.5,0.0,advanced_shipping_2022_W28_ADVANCED-MARKET-REPORT-WEEK-28.pdf
 2022-07-15,28,Tankers,VLCC,310k,Resale,107.0,105.0,1.9,advanced_shipping_2022_W28_ADVANCED-MARKET-REPORT-WEEK-28.pdf
 2022-07-15,28,Tankers,VLCC,310k,5 years,82.0,80.0,2.5,advanced_shipping_2022_W28_ADVANCED-MARKET-REPORT-WEEK-28.pdf
 2022-07-15,28,Tankers,VLCC,300k,10 years,57.0,56.0,1.79,advanced_shipping_2022_W28_ADVANCED-MARKET-REPORT-WEEK-28.pdf
@@ -1749,7 +1764,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-07-22,29,Bulkers,Handysize,38k,Resale,32.5,33.0,-1.52,advanced_shipping_2022_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
 2022-07-22,29,Bulkers,Handysize,37k,5 years,28.5,29.0,-1.72,advanced_shipping_2022_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
 2022-07-22,29,Bulkers,Handysize,32k,10 years,20.5,20.5,0.0,advanced_shipping_2022_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
-2022-07-22,29,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
+2022-07-22,29,Bulkers,Handysize,28k,15 years,14.5,14.5,0.0,advanced_shipping_2022_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
 2022-07-22,29,Tankers,VLCC,310k,Resale,107.0,107.0,0.0,advanced_shipping_2022_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
 2022-07-22,29,Tankers,VLCC,310k,5 years,82.0,82.0,0.0,advanced_shipping_2022_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
 2022-07-22,29,Tankers,VLCC,300k,10 years,57.0,57.0,0.0,advanced_shipping_2022_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
@@ -1782,7 +1797,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-07-29,30,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
 2022-07-29,30,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
 2022-07-29,30,Bulkers,Handysize,32k,10 years,20.0,20.5,-2.44,advanced_shipping_2022_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
-2022-07-29,30,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
+2022-07-29,30,Bulkers,Handysize,28k,15 years,14.5,14.5,0.0,advanced_shipping_2022_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
 2022-07-29,30,Tankers,VLCC,310k,Resale,107.0,107.0,0.0,advanced_shipping_2022_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
 2022-07-29,30,Tankers,VLCC,310k,5 years,82.0,82.0,0.0,advanced_shipping_2022_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
 2022-07-29,30,Tankers,VLCC,300k,10 years,57.0,57.0,0.0,advanced_shipping_2022_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
@@ -1815,7 +1830,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-08-12,32,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
 2022-08-12,32,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
 2022-08-12,32,Bulkers,Handysize,32k,10 years,20.0,20.0,0.0,advanced_shipping_2022_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
-2022-08-12,32,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
+2022-08-12,32,Bulkers,Handysize,28k,15 years,14.5,14.5,0.0,advanced_shipping_2022_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
 2022-08-12,32,Tankers,VLCC,310k,Resale,109.0,109.0,0.0,advanced_shipping_2022_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
 2022-08-12,32,Tankers,VLCC,310k,5 years,84.0,84.0,0.0,advanced_shipping_2022_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
 2022-08-12,32,Tankers,VLCC,300k,10 years,58.0,58.0,0.0,advanced_shipping_2022_W32_ADVANCED-MARKET-REPORT-WEEK-32.pdf
@@ -1848,7 +1863,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-08-19,33,Bulkers,Handysize,38k,Resale,32.5,32.5,0.0,advanced_shipping_2022_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
 2022-08-19,33,Bulkers,Handysize,37k,5 years,28.5,28.5,0.0,advanced_shipping_2022_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
 2022-08-19,33,Bulkers,Handysize,32k,10 years,20.0,20.0,0.0,advanced_shipping_2022_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
-2022-08-19,33,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
+2022-08-19,33,Bulkers,Handysize,28k,15 years,14.5,14.5,0.0,advanced_shipping_2022_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
 2022-08-19,33,Tankers,VLCC,310k,Resale,109.0,109.0,0.0,advanced_shipping_2022_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
 2022-08-19,33,Tankers,VLCC,310k,5 years,84.0,84.0,0.0,advanced_shipping_2022_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
 2022-08-19,33,Tankers,VLCC,300k,10 years,58.0,58.0,0.0,advanced_shipping_2022_W33_ADVANCED-MARKET-REPORT-WEEK-33.pdf
@@ -1881,7 +1896,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-09-02,35,Bulkers,Handysize,38k,Resale,31.0,31.5,-1.59,advanced_shipping_2022_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
 2022-09-02,35,Bulkers,Handysize,37k,5 years,27.0,27.5,-1.82,advanced_shipping_2022_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
 2022-09-02,35,Bulkers,Handysize,32k,10 years,19.0,19.5,-2.56,advanced_shipping_2022_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
-2022-09-02,35,Bulkers,Handysize,,28k,,13.0,,advanced_shipping_2022_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
+2022-09-02,35,Bulkers,Handysize,28k,15 years,13.0,13.5,-3.7,advanced_shipping_2022_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
 2022-09-02,35,Tankers,VLCC,310k,Resale,109.0,109.0,0.0,advanced_shipping_2022_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
 2022-09-02,35,Tankers,VLCC,310k,5 years,84.0,84.0,0.0,advanced_shipping_2022_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
 2022-09-02,35,Tankers,VLCC,300k,10 years,58.0,58.0,0.0,advanced_shipping_2022_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
@@ -1914,7 +1929,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-09-09,36,Bulkers,Handysize,38k,Resale,31.0,31.0,0.0,advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
 2022-09-09,36,Bulkers,Handysize,37k,5 years,27.0,27.0,0.0,advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
 2022-09-09,36,Bulkers,Handysize,32k,10 years,18.5,19.0,-2.63,advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
-2022-09-09,36,Bulkers,Handysize,,28k,,,13.0,advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
+2022-09-09,36,Bulkers,Handysize,28k,15 years,11.5,13.0,-11.54,advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
 2022-09-09,36,Tankers,VLCC,310k,Resale,112.0,109.0,2.75,advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
 2022-09-09,36,Tankers,VLCC,310k,5 years,85.0,84.0,1.19,advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
 2022-09-09,36,Tankers,VLCC,300k,10 years,58.0,58.0,0.0,advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
@@ -1947,7 +1962,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2022-09-16,37,Bulkers,Handysize,38k,Resale,31.0,31.0,0.0,advanced_shipping_2022_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
 2022-09-16,37,Bulkers,Handysize,37k,5 years,27.0,27.0,0.0,advanced_shipping_2022_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
 2022-09-16,37,Bulkers,Handysize,32k,10 years,18.5,18.5,0.0,advanced_shipping_2022_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
-2022-09-16,37,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
+2022-09-16,37,Bulkers,Handysize,28k,15 years,11.5,11.5,0.0,advanced_shipping_2022_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
 2022-09-16,37,Tankers,VLCC,310k,Resale,114.0,112.0,1.79,advanced_shipping_2022_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
 2022-09-16,37,Tankers,VLCC,310k,5 years,87.0,85.0,2.35,advanced_shipping_2022_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
 2022-09-16,37,Tankers,VLCC,300k,10 years,62.0,58.0,6.9,advanced_shipping_2022_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
@@ -2428,7 +2443,7 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2021-12-31,52,Bulkers,Handysize,38k,Resale,30.0,30.0,0.0,advanced_shipping_2022_W52_ADVANCED-MARKET-REPORT-WEEK-52.pdf
 2021-12-31,52,Bulkers,Handysize,37k,5 years,25.5,25.5,0.0,advanced_shipping_2022_W52_ADVANCED-MARKET-REPORT-WEEK-52.pdf
 2021-12-31,52,Bulkers,Handysize,32k,10 years,17.0,17.0,0.0,advanced_shipping_2022_W52_ADVANCED-MARKET-REPORT-WEEK-52.pdf
-2021-12-31,52,Bulkers,Handysize,,28k,,,,advanced_shipping_2022_W52_ADVANCED-MARKET-REPORT-WEEK-52.pdf
+2021-12-31,52,Bulkers,Handysize,28k,15 years,10.5,10.5,0.0,advanced_shipping_2022_W52_ADVANCED-MARKET-REPORT-WEEK-52.pdf
 2021-12-31,52,Tankers,VLCC,310k,Resale,99.0,99.0,0.0,advanced_shipping_2022_W52_ADVANCED-MARKET-REPORT-WEEK-52.pdf
 2021-12-31,52,Tankers,VLCC,310k,5 years,70.0,70.0,0.0,advanced_shipping_2022_W52_ADVANCED-MARKET-REPORT-WEEK-52.pdf
 2021-12-31,52,Tankers,VLCC,300k,10 years,46.0,46.0,0.0,advanced_shipping_2022_W52_ADVANCED-MARKET-REPORT-WEEK-52.pdf

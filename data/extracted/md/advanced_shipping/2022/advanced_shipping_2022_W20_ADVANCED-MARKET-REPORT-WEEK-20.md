@@ -185,7 +185,7 @@ A generally quiet week for this segment. A number of Mediterranean trips into Ch
 | Bulkers | Handysize | 38k | Resale | 32.5 | 32.5 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 28.5 | 28.5 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 19.5 | 19.5 | 0.0% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 12.8 | 12.8 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 101.0 | 99.0 | 2.02% |
 | Tankers | VLCC | 310k | 5 years | 76.0 | 74.0 | 2.7% |
 | Tankers | VLCC | 300k | 10 years | 52.0 | 51.0 | 1.96% |

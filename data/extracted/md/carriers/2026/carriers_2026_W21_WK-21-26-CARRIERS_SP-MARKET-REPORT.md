@@ -57,6 +57,25 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W21_WK-21-26-CARRIERS_SP-
 | BC | 2 | 82,000 DWT | HENGLI | 2028 | 37 EACH | EUROBULK |  |
 | TANKER | 6 | 319,000 DWT | WISON | 2027 | 125 EACH | UOG | PLUS 4 OPTION |
 
+## BSPA Secondhand Market Assessments (5 Years Old)
+
+| Sector | Vessel Class | Size (DWT) | Price ($M) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Vlcc | 305000 | 137.692 | UP |
+| Tankers | Aframax | 115000 | 79.115 | UP |
+| Tankers | Mr Product | 51000 | 47.883 | UP |
+| Bulkers | Capesize | 180000 | 69.727 | UP |
+| Bulkers | Panamax | 82500 | 36.804 | UP |
+| Bulkers | Ultramax | 63500 | 36.869 | UP |
+
+## BDA Baltic Demolition Assessments
+
+| Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Subcontinent | 15000 - 25000 | 461.63 | UP |
+| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 450.93 | UP |
+
 ## Market & Baltic Indices
 
 | Category | Index Name | Current Value | Change | Previous Value | Sentiment |

@@ -52,6 +52,25 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W19_WK-19-26-CARRIERS_SP-
 | TANKER | 2 | 158,000 DWT | HENGLI HI | 2029 | 82-83 EACH | BEACON TANKERS MGMT | PLUS 2 OPTION |
 | BC | 2 | 210,000 DWT | CSSC QINGDAO BEIHAI | 2030 | 80 EACH | CHINESE MARITIME TRANSPORT |  |
 
+## BSPA Secondhand Market Assessments (5 Years Old)
+
+| Sector | Vessel Class | Size (DWT) | Price ($M) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Vlcc | 305000 | 137.214 | UP |
+| Tankers | Aframax | 115000 | 78.619 | UP |
+| Tankers | Mr Product | 51000 | 47.046 | UP |
+| Bulkers | Capesize | 180000 | 69.437 | UP |
+| Bulkers | Panamax | 82500 | 36.397 | UP |
+| Bulkers | Ultramax | 63500 | 36.501 | UP |
+
+## BDA Baltic Demolition Assessments
+
+| Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Subcontinent | 15000 - 25000 | 463.72 | UP |
+| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 452.52 | UP |
+
 ## Market & Baltic Indices
 
 | Category | Index Name | Current Value | Change | Previous Value | Sentiment |

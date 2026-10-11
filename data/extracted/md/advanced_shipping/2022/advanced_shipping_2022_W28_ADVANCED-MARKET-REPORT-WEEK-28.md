@@ -183,7 +183,7 @@ A number of Australian trips into China were fixed around usd 22,000/23,000 pd. 
 | Bulkers | Handysize | 38k | Resale | 33.0 | 33.0 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 29.0 | 29.0 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 20.5 | 20.5 | 0.0% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 14.5 | 14.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 107.0 | 105.0 | 1.9% |
 | Tankers | VLCC | 310k | 5 years | 82.0 | 80.0 | 2.5% |
 | Tankers | VLCC | 300k | 10 years | 57.0 | 56.0 | 1.79% |

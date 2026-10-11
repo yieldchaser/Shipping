@@ -57,6 +57,25 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W18_WK-18-26-CARRIERS_SP-
 | TANKER | 2 | 114,000 DWT | TAIZHOU KOUAN | 2029 | 70 EACH | SHISHI DINGSHENG |  |
 | TANKER | 2 | 40,500 DWT | WUHU | 2028 | 45 EACH | ARDMORE | PLUS 2 OPTION |
 
+## BSPA Secondhand Market Assessments (5 Years Old)
+
+| Sector | Vessel Class | Size (DWT) | Price ($M) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Vlcc | 305000 | 136.375 | UP |
+| Tankers | Aframax | 115000 | 77.19 | UP |
+| Tankers | Mr Product | 51000 | 46.944 | UP |
+| Bulkers | Capesize | 180000 | 68.774 | UP |
+| Bulkers | Panamax | 82500 | 36.294 | UP |
+| Bulkers | Ultramax | 63500 | 36.152 | UP |
+
+## BDA Baltic Demolition Assessments
+
+| Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Subcontinent | 15000 - 25000 | 463.62 | UP |
+| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 452.63 | UP |
+
 ## Market & Baltic Indices
 
 | Category | Index Name | Current Value | Change | Previous Value | Sentiment |

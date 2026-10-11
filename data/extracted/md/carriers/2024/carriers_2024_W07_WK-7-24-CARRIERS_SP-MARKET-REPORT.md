@@ -72,6 +72,25 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W07_WK-7-24-CARRIERS_SP-M
 | PANAMAX | 82500 | 32.79 | ꜛ BULKERS | SUBCON | 7000 | – 12000 505.66 | ꜛ |
 | SUPRAMAX | 58328 | 26.224 | ꜛ |  |  |  |  |
 
+## BSPA Secondhand Market Assessments (5 Years Old)
+
+| Sector | Vessel Class | Size (DWT) | Price ($M) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Vlcc | 305000 | 104.795 | UP |
+| Tankers | Aframax | 115000 | 69.603 | UP |
+| Tankers | Mr Product | 51000 | 44.923 | UP |
+| Bulkers | Capesize | 180000 | 52.105 | UP |
+| Bulkers | Panamax | 82500 | 32.79 | UP |
+| Bulkers | Supramax | 58328 | 26.224 | UP |
+
+## BDA Baltic Demolition Assessments
+
+| Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Subcontinent | 15000 - 25000 | 511.8 | UP |
+| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 505.66 | UP |
+
 ## Market & Baltic Indices
 
 | Category | Index Name | Current Value | Change | Previous Value | Sentiment |

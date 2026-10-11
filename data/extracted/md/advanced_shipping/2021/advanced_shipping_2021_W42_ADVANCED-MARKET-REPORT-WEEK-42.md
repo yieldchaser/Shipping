@@ -203,7 +203,7 @@ A generally quiet week for this segment. A number of Continental trips into US G
 | Bulkers | Handysize | 38k | Resale | 29.5 | 29.5 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 25.0 | 25.0 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 17.3 | 17.0 | 1.76% |
-| Bulkers | Handysize |  | 28k | None | 11.0 | 11.0% |
+| Bulkers | Handysize | 28k | 15 years | 11.0 | 11.0 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 98.0 | 97.0 | 1.03% |
 | Tankers | VLCC | 310k | 5 years | 70.0 | 70.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 46.0 | 46.0 | 0.0% |

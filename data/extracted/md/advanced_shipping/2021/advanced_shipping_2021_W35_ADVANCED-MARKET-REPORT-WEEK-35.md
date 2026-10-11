@@ -180,6 +180,7 @@ A number of Continental trips into US Gulf were reported at the level of usd 35,
 | Bulkers | Handysize | 38k | Resale | 28.5 | 28.0 | 1.79% |
 | Bulkers | Handysize | 37k | 5 years | 23.8 | 23.0 | 3.48% |
 | Bulkers | Handysize | 32k | 10 years | 17.0 | 16.3 | 4.29% |
+| Bulkers | Handysize | 28k | 15 years | 10.0 | 9.5 | 5.26% |
 | Tankers | VLCC | 310k | Resale | 97.0 | 97.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 70.0 | 71.0 | -1.41% |
 | Tankers | VLCC | 300k | 10 years | 48.0 | 49.0 | -2.04% |

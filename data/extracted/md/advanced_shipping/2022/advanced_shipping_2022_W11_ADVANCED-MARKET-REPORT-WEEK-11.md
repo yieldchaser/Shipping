@@ -200,7 +200,7 @@ A generally quiet week for this segment. Mediterranean trips into US Gulf with c
 | Bulkers | Handysize | 38k | Resale | 32.0 | 32.0 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 28.0 | 28.0 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 18.5 | 18.5 | 0.0% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 12.5 | 11.8 | 5.93% |
 | Tankers | VLCC | 310k | Resale | 97.0 | 96.0 | 1.04% |
 | Tankers | VLCC | 310k | 5 years | 72.0 | 71.0 | 1.41% |
 | Tankers | VLCC | 300k | 10 years | 50.0 | 49.0 | 2.04% |

@@ -206,7 +206,7 @@ A number of Japanese trips via Australia into Continent with steels were fixed a
 | Bulkers | Handysize | 38k | Resale | 32.5 | 32.5 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 28.5 | 28.5 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 19.5 | 19.5 | 0.0% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 12.8 | 12.8 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 102.0 | 101.0 | 0.99% |
 | Tankers | VLCC | 310k | 5 years | 77.0 | 76.0 | 1.32% |
 | Tankers | VLCC | 300k | 10 years | 52.0 | 52.0 | 0.0% |

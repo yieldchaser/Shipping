@@ -197,6 +197,7 @@ A number of Indonesian trips into China were reported at the level of usd 24,000
 | Bulkers | Handysize | 38k | Resale | 28.0 | 27.5 | 1.82% |
 | Bulkers | Handysize | 37k | 5 years | 21.3 | 21.0 | 1.43% |
 | Bulkers | Handysize | 32k | 10 years | 14.5 | 14.3 | 1.4% |
+| Bulkers | Handysize | 28k | 15 years | 7.5 | 7.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 97.0 | 97.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 72.0 | 72.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 50.0 | 50.0 | 0.0% |

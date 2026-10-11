@@ -185,6 +185,7 @@ CIS Pacific rounds ranged at the usd 38,000/39,000 pd. Persian Gulf trips into I
 | Bulkers | Handysize | 38k | Resale | 28.0 | 28.0 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 23.0 | 23.0 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 16.3 | 16.3 | 0.0% |
+| Bulkers | Handysize | 28k | 15 years | 9.5 | 9.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 97.0 | 97.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 71.0 | 72.0 | -1.39% |
 | Tankers | VLCC | 300k | 10 years | 49.0 | 50.0 | -2.0% |

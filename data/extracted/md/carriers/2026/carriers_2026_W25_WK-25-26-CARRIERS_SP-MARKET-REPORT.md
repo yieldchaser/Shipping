@@ -58,6 +58,25 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W25_WK-25-26-CARRIERS_SP-
 | CV | 3 | 930 TEU | GUANGJI SHI | 2028 | - | EMARAT MARITIME | PLUS 3 OPTION |
 | BC | 4 | 64,000 DWT | YANGFAN | 2029 | - | ZHEJIANG YONGHANG SHIPPING | PLUS 2 OPTION |
 
+## BSPA Secondhand Market Assessments (5 Years Old)
+
+| Sector | Vessel Class | Size (DWT) | Price ($M) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Vlcc | 305000 | 140.764 | UP |
+| Tankers | Aframax | 115000 | 96.299 | UP |
+| Tankers | Mr Product | 51000 | 48.582 | UP |
+| Bulkers | Capesize | 180000 | 70.137 | UP |
+| Bulkers | Panamax | 82500 | 37.266 | UP |
+| Bulkers | Ultramax | 63500 | 37.18 | UP |
+
+## BDA Baltic Demolition Assessments
+
+| Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Subcontinent | 15000 - 25000 | 466.16 | UP |
+| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 455.56 | UP |
+
 ## Market & Baltic Indices
 
 | Category | Index Name | Current Value | Change | Previous Value | Sentiment |

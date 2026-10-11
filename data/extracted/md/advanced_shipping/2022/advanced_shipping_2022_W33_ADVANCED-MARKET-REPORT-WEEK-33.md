@@ -159,7 +159,7 @@ A number of Continental trips into Mediterranean with scrap were reported at the
 | Bulkers | Handysize | 38k | Resale | 32.5 | 32.5 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 28.5 | 28.5 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 20.0 | 20.0 | 0.0% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 14.5 | 14.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 109.0 | 109.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 84.0 | 84.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 58.0 | 58.0 | 0.0% |

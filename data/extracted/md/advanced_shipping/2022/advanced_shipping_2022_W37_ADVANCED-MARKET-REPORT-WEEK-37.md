@@ -183,7 +183,7 @@ A number of Japanese trips into Australia with slag were reported at the level o
 | Bulkers | Handysize | 38k | Resale | 31.0 | 31.0 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 27.0 | 27.0 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 18.5 | 18.5 | 0.0% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 11.5 | 11.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 114.0 | 112.0 | 1.79% |
 | Tankers | VLCC | 310k | 5 years | 87.0 | 85.0 | 2.35% |
 | Tankers | VLCC | 300k | 10 years | 62.0 | 58.0 | 6.9% |

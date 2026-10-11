@@ -1318,6 +1318,9 @@ def run():
                     anchors["newbuilding"] = y
                 elif "bspa as reported" in s and "bspa" not in anchors:
                     anchors["bspa"] = y
+                elif "price in $m" in s and "bspa" not in anchors:
+                    # 2026 W17+ (and 2024 W07) print the BSPA/BDA box without its title: anchor on the column header
+                    anchors["bspa"] = y
                 elif "sale and purchase index" in s and "indices" not in anchors:
                     anchors["indices"] = y
                 elif ("dry bc baltic indices" in s or "baltic dry index" in s) and "bdi" not in anchors:

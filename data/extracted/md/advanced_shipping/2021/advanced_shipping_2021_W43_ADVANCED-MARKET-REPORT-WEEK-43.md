@@ -201,7 +201,7 @@ CIS Pacific rounds ranged at the usd 25,000/27,000 pd. A number of Australian tr
 | Bulkers | Handysize | 38k | Resale | 29.5 | 29.5 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 25.5 | 25.0 | 2.0% |
 | Bulkers | Handysize | 32k | 10 years | 17.5 | 17.3 | 1.16% |
-| Bulkers | Handysize |  | 28k | None | 11.0 | 11.0% |
+| Bulkers | Handysize | 28k | 15 years | 11.0 | 11.0 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 98.0 | 98.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 70.0 | 70.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 46.0 | 46.0 | 0.0% |

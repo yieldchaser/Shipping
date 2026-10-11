@@ -427,8 +427,8 @@ def extract_indicative_secondhand(
         return results
 
     page = doc[pno]
-    b_lines = [clean_text(l) for l in page.get_text("text", clip=pymupdf.Rect(15, 150, 300, 480)).splitlines() if l.strip()]
-    t_lines = [clean_text(l) for l in page.get_text("text", clip=pymupdf.Rect(300, 150, 585, 480)).splitlines() if l.strip()]
+    b_lines = [clean_text(l) for l in page.get_text("text", clip=pymupdf.Rect(15, 150, 300, 500)).splitlines() if l.strip()]
+    t_lines = [clean_text(l) for l in page.get_text("text", clip=pymupdf.Rect(300, 150, 585, 500)).splitlines() if l.strip()]
 
     def parse_panel(lines: List[str], sector: str):
         i = 0

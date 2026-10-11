@@ -189,6 +189,7 @@ North Pacific rounds ranged at the usd 30,000/31,000 pd. Continental trips via B
 | Bulkers | Handysize | 38k | Resale | 28.0 | 28.0 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 22.0 | 21.3 | 3.29% |
 | Bulkers | Handysize | 32k | 10 years | 15.0 | 14.5 | 3.45% |
+| Bulkers | Handysize | 28k | 15 years | 8.0 | 7.5 | 6.67% |
 | Tankers | VLCC | 310k | Resale | 97.0 | 97.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 72.0 | 72.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 50.0 | 50.0 | 0.0% |

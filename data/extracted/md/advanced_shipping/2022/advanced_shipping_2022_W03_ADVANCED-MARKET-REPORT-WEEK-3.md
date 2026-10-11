@@ -184,7 +184,7 @@ A number of Mediterranean trips into US Gulf were fixed around usd 19,800 pd. In
 | Bulkers | Handysize | 38k | Resale | 30.5 | 30.0 | 1.67% |
 | Bulkers | Handysize | 37k | 5 years | 26.0 | 25.5 | 1.96% |
 | Bulkers | Handysize | 32k | 10 years | 17.3 | 17.0 | 1.76% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 10.5 | 10.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 99.0 | 99.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 71.5 | 71.0 | 0.7% |
 | Tankers | VLCC | 300k | 10 years | 48.5 | 47.0 | 3.19% |

@@ -167,7 +167,7 @@ A number of Indian trips into South East Asia with steels were fixed around usd 
 | Bulkers | Handysize | 38k | Resale | 32.0 | 31.5 | 1.59% |
 | Bulkers | Handysize | 37k | 5 years | 28.0 | 27.5 | 1.82% |
 | Bulkers | Handysize | 32k | 10 years | 18.5 | 18.0 | 2.78% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 11.8 | 10.3 | 14.56% |
 | Tankers | VLCC | 310k | Resale | 95.0 | 95.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 70.0 | 70.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 48.0 | 48.0 | 0.0% |

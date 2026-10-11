@@ -169,6 +169,7 @@ A number of Indonesian trips into Japan with metcoke were reported at the level 
 | Bulkers | Handysize | 38k | Resale | 28.0 | 28.0 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 23.0 | 23.0 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 16.3 | 16.3 | 0.0% |
+| Bulkers | Handysize | 28k | 15 years | 9.5 | 9.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 97.0 | 97.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 72.0 | 72.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 50.0 | 50.0 | 0.0% |

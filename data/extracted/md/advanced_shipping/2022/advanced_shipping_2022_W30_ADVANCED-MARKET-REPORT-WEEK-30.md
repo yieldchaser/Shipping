@@ -198,7 +198,7 @@ A number of East Coast South American trips into Continent were reported fixed a
 | Bulkers | Handysize | 38k | Resale | 32.5 | 32.5 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 28.5 | 28.5 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 20.0 | 20.5 | -2.44% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 14.5 | 14.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 107.0 | 107.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 82.0 | 82.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 57.0 | 57.0 | 0.0% |

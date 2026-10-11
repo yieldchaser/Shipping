@@ -168,7 +168,7 @@ South American trips into Mediterranean were reported at the level of usd 34,000
 | Bulkers | Handysize | 38k | Resale | 30.0 | 30.0 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 25.5 | 25.5 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 17.0 | 17.5 | -2.86% |
-| Bulkers | Handysize |  | 28k | None | None | 11.0% |
+| Bulkers | Handysize | 28k | 15 years | 10.5 | 11.0 | -4.55% |
 | Tankers | VLCC | 310k | Resale | 99.0 | 99.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 70.0 | 70.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 46.0 | 46.0 | 0.0% |

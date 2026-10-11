@@ -217,7 +217,7 @@ A number of trips from China into South East Asia with steels were reported fixe
 | Bulkers | Handysize | 38k | Resale | 32.5 | 32.0 | 1.56% |
 | Bulkers | Handysize | 37k | 5 years | 28.5 | 28.0 | 1.79% |
 | Bulkers | Handysize | 32k | 10 years | 19.5 | 18.5 | 5.41% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 12.5 | 12.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 98.0 | 97.0 | 1.03% |
 | Tankers | VLCC | 310k | 5 years | 73.0 | 72.0 | 1.39% |
 | Tankers | VLCC | 300k | 10 years | 50.5 | 50.0 | 1.0% |

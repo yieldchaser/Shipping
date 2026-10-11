@@ -186,7 +186,7 @@ A generally quiet week for this segment. A number of trips from Black Sea via Re
 | Bulkers | Handysize | 38k | Resale | 31.5 | 31.5 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 27.0 | 27.0 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 18.0 | 18.0 | 0.0% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 10.5 | 10.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 97.0 | 97.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 71.5 | 71.5 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 48.5 | 48.5 | 0.0% |

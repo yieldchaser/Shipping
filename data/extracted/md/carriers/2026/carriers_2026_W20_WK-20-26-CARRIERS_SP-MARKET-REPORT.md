@@ -59,6 +59,25 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W20_WK-20-26-CARRIERS_SP-
 | CV | 4 | 2,400 TEU | TAIZHOU SANFU | 2028 | 45 EACH | ERASMUS |  |
 | BC | 1 | 180,000 DWT | NAMURA | 2029 | 78.5 | SAFE BULKERS |  |
 
+## BSPA Secondhand Market Assessments (5 Years Old)
+
+| Sector | Vessel Class | Size (DWT) | Price ($M) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Vlcc | 305000 | 137.56 | UP |
+| Tankers | Aframax | 115000 | 78.991 | UP |
+| Tankers | Mr Product | 51000 | 47.413 | UP |
+| Bulkers | Capesize | 180000 | 69.731 | UP |
+| Bulkers | Panamax | 82500 | 36.636 | UP |
+| Bulkers | Ultramax | 63500 | 36.63 | UP |
+
+## BDA Baltic Demolition Assessments
+
+| Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Subcontinent | 15000 - 25000 | 462.94 | UP |
+| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 452.33 | UP |
+
 ## Market & Baltic Indices
 
 | Category | Index Name | Current Value | Change | Previous Value | Sentiment |

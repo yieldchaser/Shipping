@@ -177,6 +177,7 @@ A number of trips from Japan into Thailand with steels were fixed around usd 40,
 | Bulkers | Handysize | 38k | Resale | 28.0 | 28.0 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 23.0 | 22.0 | 4.55% |
 | Bulkers | Handysize | 32k | 10 years | 16.3 | 15.0 | 8.67% |
+| Bulkers | Handysize | 28k | 15 years | 9.5 | 8.5 | 11.76% |
 | Tankers | VLCC | 310k | Resale | 97.0 | 97.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 72.0 | 72.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 50.0 | 50.0 | 0.0% |

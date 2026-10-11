@@ -890,6 +890,18 @@
     {
       "issue_date": "2021-10-08",
       "report_week": 40,
+      "sector": "Bulkers",
+      "vessel_class": "Handysize",
+      "size_str": "28k",
+      "age": "15 years",
+      "current_price_usd_mill": 11.0,
+      "prior_price_usd_mill": 10.5,
+      "change_pct": 4.76,
+      "source_file": "advanced_shipping_2021_W40_ADVANCED-MARKET-REPORT-WEEK-40.pdf"
+    },
+    {
+      "issue_date": "2021-10-08",
+      "report_week": 40,
       "sector": "Tankers",
       "vessel_class": "VLCC",
       "size_str": "310k",

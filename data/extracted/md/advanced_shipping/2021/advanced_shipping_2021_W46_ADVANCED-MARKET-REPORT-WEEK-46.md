@@ -180,7 +180,7 @@ South East Asian trips into India were reported at the level of usd 24,000 pd. W
 | Bulkers | Handysize | 38k | Resale | 29.5 | 29.5 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 25.5 | 25.5 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 17.5 | 17.5 | 0.0% |
-| Bulkers | Handysize |  | 28k | None | 11.0 | 11.0% |
+| Bulkers | Handysize | 28k | 15 years | 11.0 | 11.0 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 99.0 | 99.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 70.0 | 70.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 46.0 | 46.0 | 0.0% |

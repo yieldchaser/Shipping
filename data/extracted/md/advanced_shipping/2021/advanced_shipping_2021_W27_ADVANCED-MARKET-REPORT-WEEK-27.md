@@ -200,6 +200,7 @@ A generally quiet week for this segment. West African trips via South America in
 | Bulkers | Handysize | 38k | Resale | 26.5 | 26.5 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 20.5 | 20.5 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 13.8 | 13.8 | 0.0% |
+| Bulkers | Handysize | 28k | 15 years | 7.5 | 7.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 97.0 | 96.0 | 1.04% |
 | Tankers | VLCC | 310k | 5 years | 71.0 | 71.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 50.0 | 49.0 | 2.04% |

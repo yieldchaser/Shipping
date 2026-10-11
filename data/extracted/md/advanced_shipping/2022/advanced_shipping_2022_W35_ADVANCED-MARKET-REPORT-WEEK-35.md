@@ -179,7 +179,7 @@ A number of trips from China into India with steels were fixed around usd 19,000
 | Bulkers | Handysize | 38k | Resale | 31.0 | 31.5 | -1.59% |
 | Bulkers | Handysize | 37k | 5 years | 27.0 | 27.5 | -1.82% |
 | Bulkers | Handysize | 32k | 10 years | 19.0 | 19.5 | -2.56% |
-| Bulkers | Handysize |  | 28k | None | 13.0 | None% |
+| Bulkers | Handysize | 28k | 15 years | 13.0 | 13.5 | -3.7% |
 | Tankers | VLCC | 310k | Resale | 109.0 | 109.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 84.0 | 84.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 58.0 | 58.0 | 0.0% |

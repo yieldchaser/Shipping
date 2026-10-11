@@ -180,7 +180,7 @@ A generally quiet week for this segment. US Gulf trips into West Africa were rep
 | Bulkers | Handysize | 38k | Resale | 30.0 | 30.0 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 25.5 | 25.5 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 17.0 | 17.0 | 0.0% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 10.5 | 10.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 99.0 | 99.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 71.0 | 71.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 47.0 | 47.0 | 0.0% |

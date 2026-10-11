@@ -42,6 +42,25 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W26_WK-26-26-CARRIERS_SP-
 | BC | 2 | 64,000 DWT | NANTONG XIANGYU | 2029 | - | GOLDENPORT |  |
 | BC | 2 | 64,000 DWT | JIANGSU HANTONG | 2028 | 37 EACH | ENESEL |  |
 
+## BSPA Secondhand Market Assessments (5 Years Old)
+
+| Sector | Vessel Class | Size (DWT) | Price ($M) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Vlcc | 305000 | 141.083 | UP |
+| Tankers | Aframax | 115000 | 81.336 | UP |
+| Tankers | Mr Product | 51000 | 48.724 | UP |
+| Bulkers | Capesize | 180000 | 70.201 | UP |
+| Bulkers | Panamax | 82500 | 37.315 | UP |
+| Bulkers | Ultramax | 63500 | 37.105 | UP |
+
+## BDA Baltic Demolition Assessments
+
+| Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Subcontinent | 15000 - 25000 | 464.77 | UP |
+| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 452.4 | UP |
+
 ## Market & Baltic Indices
 
 | Category | Index Name | Current Value | Change | Previous Value | Sentiment |

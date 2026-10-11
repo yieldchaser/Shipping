@@ -56,6 +56,25 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W22_WK-22-4-26-CARRIERS_S
 | BC | 2 | 64,000 DWT | JNS | 2030/31 | 34.5 EACH | JINHUI |  |
 | BC | 2 | 64,000 DWT | SUMEC DAYANG | 2031 | 34 EACH | JINHUI |  |
 
+## BSPA Secondhand Market Assessments (5 Years Old)
+
+| Sector | Vessel Class | Size (DWT) | Price ($M) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Vlcc | 305000 | 140.417 | UP |
+| Tankers | Aframax | 115000 | 94.8 | UP |
+| Tankers | Mr Product | 51000 | 48.512 | UP |
+| Bulkers | Capesize | 180000 | 70.185 | UP |
+| Bulkers | Panamax | 82500 | 37.128 | UP |
+| Bulkers | Ultramax | 63500 | 37.133 | UP |
+
+## BDA Baltic Demolition Assessments
+
+| Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Subcontinent | 15000 - 25000 | 466.12 | UP |
+| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 456.04 | UP |
+
 ## Market & Baltic Indices
 
 | Category | Index Name | Current Value | Change | Previous Value | Sentiment |

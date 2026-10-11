@@ -171,7 +171,7 @@ A number of Continental trips into West Africa were reported at the level of usd
 | Bulkers | Handysize | 38k | Resale | 33.0 | 32.5 | 1.54% |
 | Bulkers | Handysize | 37k | 5 years | 29.0 | 28.5 | 1.75% |
 | Bulkers | Handysize | 32k | 10 years | 20.5 | 19.5 | 5.13% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 14.5 | 13.8 | 5.07% |
 | Tankers | VLCC | 310k | Resale | 105.0 | 102.0 | 2.94% |
 | Tankers | VLCC | 310k | 5 years | 80.0 | 77.0 | 3.9% |
 | Tankers | VLCC | 300k | 10 years | 56.0 | 52.0 | 7.69% |

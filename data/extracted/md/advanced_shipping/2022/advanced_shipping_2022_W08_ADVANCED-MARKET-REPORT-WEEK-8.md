@@ -196,7 +196,7 @@ A number of Continental trips into US Gulf with fertilizers were reported at the
 | Bulkers | Handysize | 38k | Resale | 31.5 | 31.5 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 27.5 | 27.0 | 1.85% |
 | Bulkers | Handysize | 32k | 10 years | 18.0 | 18.0 | 0.0% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 10.3 | 10.3 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 95.0 | 95.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 70.0 | 70.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 48.0 | 48.0 | 0.0% |

@@ -176,7 +176,7 @@ A number of Continental trips into Mediterranean were reported at the level of u
 | Bulkers | Handysize | 38k | Resale | 32.5 | 32.5 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 28.5 | 28.5 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 19.5 | 19.5 | 0.0% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 12.8 | 12.5 | 2.4% |
 | Tankers | VLCC | 310k | Resale | 99.0 | 98.0 | 1.02% |
 | Tankers | VLCC | 310k | 5 years | 74.0 | 73.0 | 1.37% |
 | Tankers | VLCC | 300k | 10 years | 51.0 | 50.5 | 0.99% |

@@ -17,6 +17,22 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 3. **`scripts/parse_engine_html/`** — VesselsValue HTML deals + VV Mini Matrix image OCR (in progress). Output to `.reparse_staging/vessel_valuations/`.
 4. **SHELVED — see HARD RULE.** `scripts/md_cleanup/chart_tables.py` — removes LLM-guessed chart tables (values not printed in source text layer), replaces with `> Figure: … not transcribed` note. Guarded mode default; ISM (vector-engine charts) and any "Vector" section excluded. Dry-run results in `.reparse_staging/chart_cleanup/guard_published/` (8,890 tables). Was about to APPLY in place — check `git diff --stat data/extracted/md` before committing.
 
+## PAUSED 2026-10-11 ~11:40 IST (session limit 89%) — RESUME HERE
+- The owner approved Nace credits (keys rotate via NACE_API_KEY_n lines in ~/.nace/keys.env), the runner download and all open items.
+- **Nace cross-check** (`scripts/qa/nace_crosscheck.py`, uncommitted): a full sweep (6 samples per source, 2 pages each) was left running.
+  Results go to `.reparse_staging/qa_nace/crosscheck_summary.csv` and `crosscheck_defects.csv`, with the log in `run_full.log`. Triage
+  low ok_rate files by rendering pages. `unprinted` = a Nace chart guess, ignored.
+- REAL DEFECT FOUND: the Xclusiv **2024+** MDs (legacy template) keep only the current-week column of the Dry and Tanker secondhand price
+  tables, dropping prior-year, +/-% and the 3 annual averages. They also mislabel the Panamax/Supramax 15-year rows as Kamsarmax/Ultramax.
+  These need a parse-engine profile for the 2024+ template.
+- The chart-engine coder (Intermodal date fix, Xclusiv demolition index + wet TCE) was STOPPED midway. Check `git status` for partial
+  edits in scripts/extract/publishers/*intermodal*, *xclusiv*, tests/test_chart_engines_new_only.py and broker_reports_weekly.yml,
+  and review or revert them before committing anything.
+- Runner: not installed yet. The repo is PUBLIC, so the runner must only serve schedule/dispatch jobs (with fork-PR approval
+  required) and gets a dedicated label. Plan: a separate workflow on the residential IP for the HSN fetch, new-only parse,
+  and a copy of the new PDFs into the main corpus.
+- Still to do: the Athenian historical-prices strip; Nace checks of the Star Asia LDT / Xclusiv annual chart values.
+
 ## STATUS 2026-10-11 (evening) — ATHENIAN DUPES + WRONG SERIES FIXED
 
 - **SEC filings (90c98b8a62):** EX-99 exhibits backfilled into 563 6-K/8-K filings, which leaves 73 cover-only 6-Ks (image-only or EX-1..5).
@@ -188,3 +204,10 @@ Then: metadata normalisation (frontmatter/issue_date for advanced, agora, fearnl
 - Raw broker/Poten/PPA PDFs are local-only (`corpus/**/*.pdf` gitignored); ~4,000 Hellenic PDFs + books are tracked.
 - Parsing rules per broker: `corpus/01-brokers/Shipbroking_Source_Parsing_Notes.docx` (Agora: owner says keep what exists).
 - Owner defaults applied: Clarksons date conflicts resolved (year typo → filename; header confirmed by second filename date → header); hash-duplicate old MDs removed; chart guesses dropped with figure note.
+
+## 2026-10-11 ~13:30 IST — Nace triage (UNCOMMITTED, run validator then commit)
+- Checker fixed (scripts/qa/nace_crosscheck.py): European decimal comma + full row label. Re-score from cache = no credits.
+- Advanced Shipping: crop y 480->500 in run_advanced_shipping_tables.py. 61 MDs patched by ONE row each (Handysize 28k 15yr: 15 missing 2021 W26-40, 46 garbled 2021 W41-2022 W52), sidecars + secondhand series CSV patched surgically (+61/-46). Spot-checked vs PDF text.
+- Carriers: BSPA/BDA box untitled in 2024 W07 + 2026 W17-W26 (9 files). Anchor fallback on "price in $m" in run_carriers_complete.py; sections spliced into 9 MDs + sidecars; bspa +54 / bda +27 series rows (0 lost). W21 values match Nace.
+- By design (not defects): Carriers Greek equities page, Clarksons Baltic/FX/bunker box (drop_regions).
+- TODO: corpus-wide TEXT-twin scan (byte dedup misses them): Advanced 2025 W45/W46-1, 2026 W38/19_09, W39/26_09, W40/03_10; Carriers W39/general_broker_28_09_2026. Nace sweep still running (bzpgmeq0h) — continue triage from run_full.log after clarksons.

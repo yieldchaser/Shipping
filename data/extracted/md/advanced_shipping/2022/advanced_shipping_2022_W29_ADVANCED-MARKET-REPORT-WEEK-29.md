@@ -148,7 +148,7 @@ A number of South East Asian trips into Mediterranean were reported at the level
 | Bulkers | Handysize | 38k | Resale | 32.5 | 33.0 | -1.52% |
 | Bulkers | Handysize | 37k | 5 years | 28.5 | 29.0 | -1.72% |
 | Bulkers | Handysize | 32k | 10 years | 20.5 | 20.5 | 0.0% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 14.5 | 14.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 107.0 | 107.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 82.0 | 82.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 57.0 | 57.0 | 0.0% |

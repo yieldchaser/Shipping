@@ -165,6 +165,7 @@ A generally quiet week for this segment. A number of West Coast Indian trips int
 | Bulkers | Handysize | 38k | Resale | 27.5 | 26.5 | 3.77% |
 | Bulkers | Handysize | 37k | 5 years | 21.0 | 20.5 | 2.44% |
 | Bulkers | Handysize | 32k | 10 years | 14.3 | 13.8 | 3.62% |
+| Bulkers | Handysize | 28k | 15 years | 7.5 | 7.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 97.0 | 97.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 72.0 | 71.0 | 1.41% |
 | Tankers | VLCC | 300k | 10 years | 50.0 | 50.0 | 0.0% |

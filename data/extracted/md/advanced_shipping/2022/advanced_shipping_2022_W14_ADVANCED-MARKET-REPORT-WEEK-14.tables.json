@@ -1444,11 +1444,11 @@
       "report_week": 14,
       "sector": "Bulkers",
       "vessel_class": "Handysize",
-      "size_str": "",
-      "age": "28k",
-      "current_price_usd_mill": null,
-      "prior_price_usd_mill": null,
-      "change_pct": null,
+      "size_str": "28k",
+      "age": "15 years",
+      "current_price_usd_mill": 12.5,
+      "prior_price_usd_mill": 12.5,
+      "change_pct": 0.0,
       "source_file": "advanced_shipping_2022_W14_ADVANCED-MARKET-REPORT-WEEK-14.pdf"
     },
     {

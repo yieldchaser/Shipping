@@ -228,7 +228,7 @@ A generally quiet week for this segment. A number of trips from Japan into Medit
 | Bulkers | Handysize | 38k | Resale | 32.0 | 32.0 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 28.0 | 28.0 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 18.5 | 18.5 | 0.0% |
-| Bulkers | Handysize |  | 28k | None | None | None% |
+| Bulkers | Handysize | 28k | 15 years | 11.8 | 11.8 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 96.0 | 95.0 | 1.05% |
 | Tankers | VLCC | 310k | 5 years | 71.0 | 70.0 | 1.43% |
 | Tankers | VLCC | 300k | 10 years | 49.0 | 48.0 | 2.08% |

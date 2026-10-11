@@ -198,6 +198,7 @@ A number of Indian trips into US Gulf were fixed around usd 38,000/39,000 pd. Tr
 | Bulkers | Handysize | 38k | Resale | 28.5 | 28.5 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 24.0 | 23.8 | 0.84% |
 | Bulkers | Handysize | 32k | 10 years | 17.0 | 17.0 | 0.0% |
+| Bulkers | Handysize | 28k | 15 years | 10.0 | 10.0 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 97.0 | 97.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 70.0 | 70.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 48.0 | 48.0 | 0.0% |

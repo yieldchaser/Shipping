@@ -55,6 +55,25 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W17_WK-17-26-CARRIERS_SP-
 | LPG/AMMONIA | 3 | 10,000 CBM | ZHOUSHAN DASHENZHOU | 2028 | 55 EACH | PETROBRAS |  |
 | CV | 6 | 9,000 TEU | DSIC DALIAN | 2028/30 | 110 EACH | COSTAMARE | PLUS 6 OPTION |
 
+## BSPA Secondhand Market Assessments (5 Years Old)
+
+| Sector | Vessel Class | Size (DWT) | Price ($M) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Vlcc | 305000 | 136.324 | UP |
+| Tankers | Aframax | 115000 | 75.375 | UP |
+| Tankers | Mr Product | 51000 | 46.48 | UP |
+| Bulkers | Capesize | 180000 | 68.474 | UP |
+| Bulkers | Panamax | 82500 | 36.009 | UP |
+| Bulkers | Ultramax | 63500 | 35.969 | UP |
+
+## BDA Baltic Demolition Assessments
+
+| Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
+| --- | --- | --- | --- | --- |
+| Tankers | Subcontinent | 15000 - 25000 | 461.93 | UP |
+| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 451.47 | UP |
+
 ## Market & Baltic Indices
 
 | Category | Index Name | Current Value | Change | Previous Value | Sentiment |

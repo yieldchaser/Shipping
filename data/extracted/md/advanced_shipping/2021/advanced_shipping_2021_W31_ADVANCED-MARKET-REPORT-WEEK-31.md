@@ -180,6 +180,7 @@ A generally quiet week for this segment with limited fresh information. A number
 | Bulkers | Handysize | 38k | Resale | 28.0 | 28.0 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 22.0 | 22.0 | 0.0% |
 | Bulkers | Handysize | 32k | 10 years | 15.0 | 15.0 | 0.0% |
+| Bulkers | Handysize | 28k | 15 years | 8.5 | 8.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 97.0 | 97.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 72.0 | 72.0 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 50.0 | 50.0 | 0.0% |

@@ -12,8 +12,8 @@
     "sales": 29,
     "demolition": 0,
     "newbuilding": 2,
-    "bspa": 0,
-    "bda": 0,
+    "bspa": 6,
+    "bda": 3,
     "indices": 14,
     "weighted_routes": 5,
     "tc_period": 24,
@@ -519,8 +519,100 @@
         "source_file": "carriers_2026_W18_WK-18-26-CARRIERS_SP-MARKET-REPORT.pdf"
       }
     ],
-    "bspa": [],
-    "bda": [],
+    "bspa": [
+      {
+        "issue_date": "2026-05-05",
+        "report_week": 18,
+        "sector": "Tankers",
+        "vessel_class": "Vlcc",
+        "size_dwt": 305000,
+        "price_usd_m": 136.375,
+        "sentiment_arrow": "UP",
+        "source_file": "carriers_2026_W18_WK-18-26-CARRIERS_SP-MARKET-REPORT.pdf"
+      },
+      {
+        "issue_date": "2026-05-05",
+        "report_week": 18,
+        "sector": "Tankers",
+        "vessel_class": "Aframax",
+        "size_dwt": 115000,
+        "price_usd_m": 77.19,
+        "sentiment_arrow": "UP",
+        "source_file": "carriers_2026_W18_WK-18-26-CARRIERS_SP-MARKET-REPORT.pdf"
+      },
+      {
+        "issue_date": "2026-05-05",
+        "report_week": 18,
+        "sector": "Tankers",
+        "vessel_class": "Mr Product",
+        "size_dwt": 51000,
+        "price_usd_m": 46.944,
+        "sentiment_arrow": "UP",
+        "source_file": "carriers_2026_W18_WK-18-26-CARRIERS_SP-MARKET-REPORT.pdf"
+      },
+      {
+        "issue_date": "2026-05-05",
+        "report_week": 18,
+        "sector": "Bulkers",
+        "vessel_class": "Capesize",
+        "size_dwt": 180000,
+        "price_usd_m": 68.774,
+        "sentiment_arrow": "UP",
+        "source_file": "carriers_2026_W18_WK-18-26-CARRIERS_SP-MARKET-REPORT.pdf"
+      },
+      {
+        "issue_date": "2026-05-05",
+        "report_week": 18,
+        "sector": "Bulkers",
+        "vessel_class": "Panamax",
+        "size_dwt": 82500,
+        "price_usd_m": 36.294,
+        "sentiment_arrow": "UP",
+        "source_file": "carriers_2026_W18_WK-18-26-CARRIERS_SP-MARKET-REPORT.pdf"
+      },
+      {
+        "issue_date": "2026-05-05",
+        "report_week": 18,
+        "sector": "Bulkers",
+        "vessel_class": "Ultramax",
+        "size_dwt": 63500,
+        "price_usd_m": 36.152,
+        "sentiment_arrow": "UP",
+        "source_file": "carriers_2026_W18_WK-18-26-CARRIERS_SP-MARKET-REPORT.pdf"
+      }
+    ],
+    "bda": [
+      {
+        "issue_date": "2026-05-05",
+        "report_week": 18,
+        "segment": "Tankers",
+        "place": "Subcontinent",
+        "ldt_range": "15000 - 25000",
+        "price_usd_per_ldt": 463.62,
+        "sentiment_arrow": "UP",
+        "source_file": "carriers_2026_W18_WK-18-26-CARRIERS_SP-MARKET-REPORT.pdf"
+      },
+      {
+        "issue_date": "2026-05-05",
+        "report_week": 18,
+        "segment": "Containers",
+        "place": "Subcontinent",
+        "ldt_range": "6000 - 10000",
+        "price_usd_per_ldt": null,
+        "sentiment_arrow": null,
+        "source_file": "carriers_2026_W18_WK-18-26-CARRIERS_SP-MARKET-REPORT.pdf"
+      },
+      {
+        "issue_date": "2026-05-05",
+        "report_week": 18,
+        "segment": "Bulkers",
+        "place": "Subcontinent",
+        "ldt_range": "7000 - 12000",
+        "price_usd_per_ldt": 452.63,
+        "sentiment_arrow": "UP",
+        "source_file": "carriers_2026_W18_WK-18-26-CARRIERS_SP-MARKET-REPORT.pdf"
+      }
+    ],
     "indices": [
       {
         "issue_date": "2026-05-05",
