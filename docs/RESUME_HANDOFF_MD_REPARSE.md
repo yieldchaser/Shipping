@@ -1,14 +1,38 @@
 # Resume Handoff — Markdown Re-parse & Ingest Automation
 
-Last updated: 2026-10-11 night IST. Worktree: `.claude/worktrees/maritime-audit-docs-review-a8b612`,
+Last updated: 2026-10-12 ~03:00 IST. Worktree: `.claude/worktrees/maritime-audit-docs-review-a8b612`,
 branch `claude/restore-damaged-md` (WIP pushed to origin). Goal: every `data/extracted/md` file correct
 and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest automation.
+
+## RESUME HERE (2026-10-12 ~03:00 IST)
+
+- **Main = branch = `b01c55cc34`** (work commit `fa3064de6b`: Star Asia 526 pages, Seabrokers charts/figures/mirror,
+  Intermodal demolition headers). Validator PASS. Working tree clean (only gitignored `.reparse_staging/`).
+- **Per-source state**: Intermodal, Star Asia, Seabrokers, Clarksons, Carriers, Advanced, Xclusiv, VV, GMS/Best Oasis,
+  Athenian done to date. ISM: vector engine (not a defect). Agora: ignore (keep what exists).
+- **Next, in order**:
+  1. Text-layer audits (printed numbers in PDF vs MD, then eyes on renders for leads): Banchero, Fearnleys (+md),
+     Lion, SSY, Affinity, Hellenic (iron ore chart-read tables: 1,164 MDs, owner decision pending).
+  2. Text-twin scan (Advanced/Carriers); wire `twin_guard` + a quality gate into CI.
+  3. Star Asia in CI (`star_asia_page_rebuild.py --untracked --parse --nace --apply`) needs nace-sdk + rapidocr in
+     the runner and a `NACE_API_KEY` secret: OWNER decision.
+  4. Optional: book MDs (12, gitignored, main checkout) fidelity audit vs PDFs, if owner wants.
+- **Tools / caches**: LlamaCloud keys exhausted for 2026-10 (reset monthly); Nace = 6 keys in `~/.nace/keys.env`
+  (rotated on 402). Page caches: `.reparse_staging/star_asia_pages{,_nace}/`, OCR `.reparse_staging/star_asia_ocr/`.
+  Seabrokers figure verdicts are a curated list in `seabrokers_figure_note.py` (not CI: each needs eyes on the page).
+- **Lessons this round**: a parser/normalizer pass ("perfected" layout) does not verify chart numbers; `--scan`-style
+  number checks are leads only (OCR misses small labels, small integers match by chance), so look at the render.
+  Disk filled (C: 65 MB) mid-run and left a truncated cache file: caches now re-read safely. Check free disk
+  (`(Get-PSDrive C).Free`) before long runs.
+- **Owner items**: rotate LlamaParse keys + all 6 Nace keys (5 pasted in chat), set `LLAMA_CLOUD_API_KEYS` secret.
+  Repo stays PUBLIC; do not change the fork-PR approval setting. December 2023 Seabreeze issue never downloaded (gap).
 
 ## Done and live on `main`
 | Commit | What |
 |---|---|
 | `be887bcbb` | Restored 411 historical MDs that CI bots damaged on 2026-10-06 (intermodal 251, star_asia 157, banchero 1, seabrokers 2) from baseline `6f07f5e76`; removed 150 case-duplicate Best Oasis MDs. |
 | (before `6f35adc5d`) | Write-once guard `scripts/ci/protect_accepted_md.py` in 6 data workflows; removed `clean_all_brokers_formatting.py` from broker workflow; `run_hellenic_demolition.py` can no longer create case-variant duplicates. |
+| `fa3064de6b` | Star Asia 526-page rebuild (189 MDs), Seabrokers vector availability (95) + figure notes (20) + mirror sync, Intermodal demolition headers (29). |
 | `478d8a47a` | 12 books renamed to short slugs (no z-lib), proper titles; legacy knowledge validator passes. Main checkout needs `git pull`. |
 
 ## Uncommitted-to-main work (on branch, staged outputs in `.reparse_staging/`, gitignored)
@@ -17,7 +41,7 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 3. **`scripts/parse_engine_html/`** — VesselsValue HTML deals + VV Mini Matrix image OCR (in progress). Output to `.reparse_staging/vessel_valuations/`.
 4. **SHELVED — see HARD RULE.** `scripts/md_cleanup/chart_tables.py` — removes LLM-guessed chart tables (values not printed in source text layer), replaces with `> Figure: … not transcribed` note. Guarded mode default; ISM (vector-engine charts) and any "Vector" section excluded. Dry-run results in `.reparse_staging/chart_cleanup/guard_published/` (8,890 tables). Was about to APPLY in place — check `git diff --stat data/extracted/md` before committing.
 
-## STATUS 2026-10-11 (after midnight) — STAR ASIA PAGES, SEABROKERS CHARTS, INTERMODAL DEMOLITION HEADERS
+## STATUS 2026-10-11 (after midnight) → 10-12 — STAR ASIA PAGES, SEABROKERS CHARTS, INTERMODAL DEMOLITION HEADERS (LIVE: fa3064de6b)
 
 - **Intermodal demolition** (`intermodal_demolition_header_fix.py`): 29 "Indicative Demolition Prices" tables
   (2021-2023) had the header "Markets | Markets | date | date | ±% | y1 | y2" over rows with three yearly averages,
