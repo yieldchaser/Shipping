@@ -4089,7 +4089,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-01-08,1,Dry,Handysize,5 Year,26.8,xclusiv_2024_xclusiv-2024_01_08.pdf
 2024-01-08,1,Dry,Handysize,Resale,33.1,xclusiv_2024_xclusiv-2024_01_08.pdf
 2024-01-08,1,Dry,Kamsarmax,10 Year,24.0,xclusiv_2024_xclusiv-2024_01_08.pdf
-2024-01-08,1,Dry,Kamsarmax,15 Year,16.1,xclusiv_2024_xclusiv-2024_01_08.pdf
+2024-01-08,1,Dry,Panamax,15 Year,16.1,xclusiv_2024_xclusiv-2024_01_08.pdf
 2024-01-08,1,Dry,Kamsarmax,5 Year,33.5,xclusiv_2024_xclusiv-2024_01_08.pdf
 2024-01-08,1,Dry,Kamsarmax,Resale,39.8,xclusiv_2024_xclusiv-2024_01_08.pdf
 2024-01-08,1,Dry,Ultramax,10 Year,19.9,xclusiv_2024_xclusiv-2024_01_08.pdf
@@ -4121,7 +4121,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-01-15,2,Dry,Handysize,5 Year,26.8,xclusiv_2024_xclusiv-2024_01_15.pdf
 2024-01-15,2,Dry,Handysize,Resale,33.2,xclusiv_2024_xclusiv-2024_01_15.pdf
 2024-01-15,2,Dry,Kamsarmax,10 Year,25.0,xclusiv_2024_xclusiv-2024_01_15.pdf
-2024-01-15,2,Dry,Kamsarmax,15 Year,16.2,xclusiv_2024_xclusiv-2024_01_15.pdf
+2024-01-15,2,Dry,Panamax,15 Year,16.2,xclusiv_2024_xclusiv-2024_01_15.pdf
 2024-01-15,2,Dry,Kamsarmax,5 Year,33.6,xclusiv_2024_xclusiv-2024_01_15.pdf
 2024-01-15,2,Dry,Kamsarmax,Resale,39.8,xclusiv_2024_xclusiv-2024_01_15.pdf
 2024-01-15,2,Dry,Ultramax,10 Year,20.3,xclusiv_2024_xclusiv-2024_01_15.pdf
@@ -4153,7 +4153,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-01-22,3,Dry,Handysize,5 Year,26.8,xclusiv_2024_xclusiv-2024_01_22.pdf
 2024-01-22,3,Dry,Handysize,Resale,33.2,xclusiv_2024_xclusiv-2024_01_22.pdf
 2024-01-22,3,Dry,Kamsarmax,10 Year,25.2,xclusiv_2024_xclusiv-2024_01_22.pdf
-2024-01-22,3,Dry,Kamsarmax,15 Year,16.1,xclusiv_2024_xclusiv-2024_01_22.pdf
+2024-01-22,3,Dry,Panamax,15 Year,16.1,xclusiv_2024_xclusiv-2024_01_22.pdf
 2024-01-22,3,Dry,Kamsarmax,5 Year,33.7,xclusiv_2024_xclusiv-2024_01_22.pdf
 2024-01-22,3,Dry,Kamsarmax,Resale,39.8,xclusiv_2024_xclusiv-2024_01_22.pdf
 2024-01-22,3,Dry,Ultramax,10 Year,21.4,xclusiv_2024_xclusiv-2024_01_22.pdf
@@ -4185,7 +4185,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-01-29,4,Dry,Handysize,5 Year,26.9,xclusiv_2024_xclusiv-2024_01_29.pdf
 2024-01-29,4,Dry,Handysize,Resale,33.3,xclusiv_2024_xclusiv-2024_01_29.pdf
 2024-01-29,4,Dry,Kamsarmax,10 Year,25.4,xclusiv_2024_xclusiv-2024_01_29.pdf
-2024-01-29,4,Dry,Kamsarmax,15 Year,16.2,xclusiv_2024_xclusiv-2024_01_29.pdf
+2024-01-29,4,Dry,Panamax,15 Year,16.2,xclusiv_2024_xclusiv-2024_01_29.pdf
 2024-01-29,4,Dry,Kamsarmax,5 Year,33.9,xclusiv_2024_xclusiv-2024_01_29.pdf
 2024-01-29,4,Dry,Kamsarmax,Resale,39.9,xclusiv_2024_xclusiv-2024_01_29.pdf
 2024-01-29,4,Dry,Ultramax,10 Year,22.3,xclusiv_2024_xclusiv-2024_01_29.pdf
@@ -4217,7 +4217,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-02-05,5,Dry,Handysize,5 Year,26.8,xclusiv_2024_xclusiv-2024_02_05.pdf
 2024-02-05,5,Dry,Handysize,Resale,33.2,xclusiv_2024_xclusiv-2024_02_05.pdf
 2024-02-05,5,Dry,Kamsarmax,10 Year,25.8,xclusiv_2024_xclusiv-2024_02_05.pdf
-2024-02-05,5,Dry,Kamsarmax,15 Year,16.1,xclusiv_2024_xclusiv-2024_02_05.pdf
+2024-02-05,5,Dry,Panamax,15 Year,16.1,xclusiv_2024_xclusiv-2024_02_05.pdf
 2024-02-05,5,Dry,Kamsarmax,5 Year,34.2,xclusiv_2024_xclusiv-2024_02_05.pdf
 2024-02-05,5,Dry,Kamsarmax,Resale,39.9,xclusiv_2024_xclusiv-2024_02_05.pdf
 2024-02-05,5,Dry,Ultramax,10 Year,25.0,xclusiv_2024_xclusiv-2024_02_05.pdf
@@ -4249,7 +4249,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-02-12,6,Dry,Handysize,5 Year,26.8,xclusiv_2024_xclusiv-2024_02_12.pdf
 2024-02-12,6,Dry,Handysize,Resale,33.2,xclusiv_2024_xclusiv-2024_02_12.pdf
 2024-02-12,6,Dry,Kamsarmax,10 Year,25.8,xclusiv_2024_xclusiv-2024_02_12.pdf
-2024-02-12,6,Dry,Kamsarmax,15 Year,16.2,xclusiv_2024_xclusiv-2024_02_12.pdf
+2024-02-12,6,Dry,Panamax,15 Year,16.2,xclusiv_2024_xclusiv-2024_02_12.pdf
 2024-02-12,6,Dry,Kamsarmax,5 Year,34.2,xclusiv_2024_xclusiv-2024_02_12.pdf
 2024-02-12,6,Dry,Kamsarmax,Resale,39.9,xclusiv_2024_xclusiv-2024_02_12.pdf
 2024-02-12,6,Dry,Ultramax,10 Year,25.0,xclusiv_2024_xclusiv-2024_02_12.pdf
@@ -4281,7 +4281,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-02-19,7,Dry,Handysize,5 Year,26.9,xclusiv_2024_xclusiv-2024_02_19.pdf
 2024-02-19,7,Dry,Handysize,Resale,33.5,xclusiv_2024_xclusiv-2024_02_19.pdf
 2024-02-19,7,Dry,Kamsarmax,10 Year,25.9,xclusiv_2024_xclusiv-2024_02_19.pdf
-2024-02-19,7,Dry,Kamsarmax,15 Year,16.4,xclusiv_2024_xclusiv-2024_02_19.pdf
+2024-02-19,7,Dry,Panamax,15 Year,16.4,xclusiv_2024_xclusiv-2024_02_19.pdf
 2024-02-19,7,Dry,Kamsarmax,5 Year,34.3,xclusiv_2024_xclusiv-2024_02_19.pdf
 2024-02-19,7,Dry,Kamsarmax,Resale,39.9,xclusiv_2024_xclusiv-2024_02_19.pdf
 2024-02-19,7,Dry,Ultramax,10 Year,25.0,xclusiv_2024_xclusiv-2024_02_19.pdf
@@ -4313,7 +4313,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-02-26,8,Dry,Handysize,5 Year,26.9,xclusiv_2024_xclusiv-2024_02_26.pdf
 2024-02-26,8,Dry,Handysize,Resale,33.5,xclusiv_2024_xclusiv-2024_02_26.pdf
 2024-02-26,8,Dry,Kamsarmax,10 Year,26.2,xclusiv_2024_xclusiv-2024_02_26.pdf
-2024-02-26,8,Dry,Kamsarmax,15 Year,16.7,xclusiv_2024_xclusiv-2024_02_26.pdf
+2024-02-26,8,Dry,Panamax,15 Year,16.7,xclusiv_2024_xclusiv-2024_02_26.pdf
 2024-02-26,8,Dry,Kamsarmax,5 Year,34.6,xclusiv_2024_xclusiv-2024_02_26.pdf
 2024-02-26,8,Dry,Kamsarmax,Resale,40.2,xclusiv_2024_xclusiv-2024_02_26.pdf
 2024-02-26,8,Dry,Ultramax,10 Year,25.5,xclusiv_2024_xclusiv-2024_02_26.pdf
@@ -4345,7 +4345,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-03-04,9,Dry,Handysize,5 Year,27.0,xclusiv_2024_xclusiv-2024_03_04.pdf
 2024-03-04,9,Dry,Handysize,Resale,33.6,xclusiv_2024_xclusiv-2024_03_04.pdf
 2024-03-04,9,Dry,Kamsarmax,10 Year,27.0,xclusiv_2024_xclusiv-2024_03_04.pdf
-2024-03-04,9,Dry,Kamsarmax,15 Year,17.5,xclusiv_2024_xclusiv-2024_03_04.pdf
+2024-03-04,9,Dry,Panamax,15 Year,17.5,xclusiv_2024_xclusiv-2024_03_04.pdf
 2024-03-04,9,Dry,Kamsarmax,5 Year,35.8,xclusiv_2024_xclusiv-2024_03_04.pdf
 2024-03-04,9,Dry,Kamsarmax,Resale,41.6,xclusiv_2024_xclusiv-2024_03_04.pdf
 2024-03-04,9,Dry,Ultramax,10 Year,26.8,xclusiv_2024_xclusiv-2024_03_04.pdf
@@ -4377,7 +4377,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-03-11,10,Dry,Handysize,5 Year,27.0,xclusiv_2024_xclusiv-2024_03_11.pdf
 2024-03-11,10,Dry,Handysize,Resale,33.6,xclusiv_2024_xclusiv-2024_03_11.pdf
 2024-03-11,10,Dry,Kamsarmax,10 Year,27.5,xclusiv_2024_xclusiv-2024_03_11.pdf
-2024-03-11,10,Dry,Kamsarmax,15 Year,17.8,xclusiv_2024_xclusiv-2024_03_11.pdf
+2024-03-11,10,Dry,Panamax,15 Year,17.8,xclusiv_2024_xclusiv-2024_03_11.pdf
 2024-03-11,10,Dry,Kamsarmax,5 Year,36.3,xclusiv_2024_xclusiv-2024_03_11.pdf
 2024-03-11,10,Dry,Kamsarmax,Resale,41.8,xclusiv_2024_xclusiv-2024_03_11.pdf
 2024-03-11,10,Dry,Ultramax,10 Year,26.8,xclusiv_2024_xclusiv-2024_03_11.pdf
@@ -4409,7 +4409,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-03-19,11,Dry,Handysize,5 Year,27.0,xclusiv_2024_xclusiv-2024_03_19.pdf
 2024-03-19,11,Dry,Handysize,Resale,34.2,xclusiv_2024_xclusiv-2024_03_19.pdf
 2024-03-19,11,Dry,Kamsarmax,10 Year,27.8,xclusiv_2024_xclusiv-2024_03_19.pdf
-2024-03-19,11,Dry,Kamsarmax,15 Year,18.6,xclusiv_2024_xclusiv-2024_03_19.pdf
+2024-03-19,11,Dry,Panamax,15 Year,18.6,xclusiv_2024_xclusiv-2024_03_19.pdf
 2024-03-19,11,Dry,Kamsarmax,5 Year,36.5,xclusiv_2024_xclusiv-2024_03_19.pdf
 2024-03-19,11,Dry,Kamsarmax,Resale,42.3,xclusiv_2024_xclusiv-2024_03_19.pdf
 2024-03-19,11,Dry,Ultramax,10 Year,26.8,xclusiv_2024_xclusiv-2024_03_19.pdf
@@ -4441,7 +4441,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-03-26,12,Dry,Handysize,5 Year,27.0,xclusiv_2024_xclusiv-2024_03_26.pdf
 2024-03-26,12,Dry,Handysize,Resale,32.0,xclusiv_2024_xclusiv-2024_03_26.pdf
 2024-03-26,12,Dry,Kamsarmax,10 Year,28.1,xclusiv_2024_xclusiv-2024_03_26.pdf
-2024-03-26,12,Dry,Kamsarmax,15 Year,18.8,xclusiv_2024_xclusiv-2024_03_26.pdf
+2024-03-26,12,Dry,Panamax,15 Year,18.8,xclusiv_2024_xclusiv-2024_03_26.pdf
 2024-03-26,12,Dry,Kamsarmax,5 Year,36.8,xclusiv_2024_xclusiv-2024_03_26.pdf
 2024-03-26,12,Dry,Kamsarmax,Resale,42.8,xclusiv_2024_xclusiv-2024_03_26.pdf
 2024-03-26,12,Dry,Ultramax,10 Year,26.8,xclusiv_2024_xclusiv-2024_03_26.pdf
@@ -4473,7 +4473,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-04-01,13,Dry,Handysize,5 Year,27.0,xclusiv_2024_xclusiv-2024_04_01.pdf
 2024-04-01,13,Dry,Handysize,Resale,32.6,xclusiv_2024_xclusiv-2024_04_01.pdf
 2024-04-01,13,Dry,Kamsarmax,10 Year,28.3,xclusiv_2024_xclusiv-2024_04_01.pdf
-2024-04-01,13,Dry,Kamsarmax,15 Year,18.9,xclusiv_2024_xclusiv-2024_04_01.pdf
+2024-04-01,13,Dry,Panamax,15 Year,18.9,xclusiv_2024_xclusiv-2024_04_01.pdf
 2024-04-01,13,Dry,Kamsarmax,5 Year,36.9,xclusiv_2024_xclusiv-2024_04_01.pdf
 2024-04-01,13,Dry,Kamsarmax,Resale,42.9,xclusiv_2024_xclusiv-2024_04_01.pdf
 2024-04-01,13,Dry,Ultramax,10 Year,26.8,xclusiv_2024_xclusiv-2024_04_01.pdf
@@ -4537,7 +4537,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-04-15,15,Dry,Handysize,5 Year,27.0,xclusiv_2024_xclusiv-2024_04_15.pdf
 2024-04-15,15,Dry,Handysize,Resale,34.4,xclusiv_2024_xclusiv-2024_04_15.pdf
 2024-04-15,15,Dry,Kamsarmax,10 Year,29.0,xclusiv_2024_xclusiv-2024_04_15.pdf
-2024-04-15,15,Dry,Kamsarmax,15 Year,19.5,xclusiv_2024_xclusiv-2024_04_15.pdf
+2024-04-15,15,Dry,Panamax,15 Year,19.5,xclusiv_2024_xclusiv-2024_04_15.pdf
 2024-04-15,15,Dry,Kamsarmax,5 Year,37.0,xclusiv_2024_xclusiv-2024_04_15.pdf
 2024-04-15,15,Dry,Kamsarmax,Resale,43.0,xclusiv_2024_xclusiv-2024_04_15.pdf
 2024-04-15,15,Dry,Ultramax,10 Year,27.4,xclusiv_2024_xclusiv-2024_04_15.pdf
@@ -4569,7 +4569,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-04-22,16,Dry,Handysize,5 Year,27.0,xclusiv_2024_xclusiv-2024_04_22.pdf
 2024-04-22,16,Dry,Handysize,Resale,34.5,xclusiv_2024_xclusiv-2024_04_22.pdf
 2024-04-22,16,Dry,Kamsarmax,10 Year,29.0,xclusiv_2024_xclusiv-2024_04_22.pdf
-2024-04-22,16,Dry,Kamsarmax,15 Year,19.5,xclusiv_2024_xclusiv-2024_04_22.pdf
+2024-04-22,16,Dry,Panamax,15 Year,19.5,xclusiv_2024_xclusiv-2024_04_22.pdf
 2024-04-22,16,Dry,Kamsarmax,5 Year,37.0,xclusiv_2024_xclusiv-2024_04_22.pdf
 2024-04-22,16,Dry,Kamsarmax,Resale,43.0,xclusiv_2024_xclusiv-2024_04_22.pdf
 2024-04-22,16,Dry,Ultramax,10 Year,27.4,xclusiv_2024_xclusiv-2024_04_22.pdf
@@ -4601,7 +4601,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-04-29,17,Dry,Handysize,5 Year,27.0,xclusiv_2024_xclusiv-2024_04_29.pdf
 2024-04-29,17,Dry,Handysize,Resale,34.5,xclusiv_2024_xclusiv-2024_04_29.pdf
 2024-04-29,17,Dry,Kamsarmax,10 Year,29.0,xclusiv_2024_xclusiv-2024_04_29.pdf
-2024-04-29,17,Dry,Kamsarmax,15 Year,19.5,xclusiv_2024_xclusiv-2024_04_29.pdf
+2024-04-29,17,Dry,Panamax,15 Year,19.5,xclusiv_2024_xclusiv-2024_04_29.pdf
 2024-04-29,17,Dry,Kamsarmax,5 Year,37.0,xclusiv_2024_xclusiv-2024_04_29.pdf
 2024-04-29,17,Dry,Kamsarmax,Resale,43.0,xclusiv_2024_xclusiv-2024_04_29.pdf
 2024-04-29,17,Dry,Ultramax,10 Year,27.4,xclusiv_2024_xclusiv-2024_04_29.pdf
@@ -4665,7 +4665,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-05-13,19,Dry,Handysize,5 Year,27.0,xclusiv_2024_xclusiv-2024_05_13.pdf
 2024-05-13,19,Dry,Handysize,Resale,34.2,xclusiv_2024_xclusiv-2024_05_13.pdf
 2024-05-13,19,Dry,Kamsarmax,10 Year,29.0,xclusiv_2024_xclusiv-2024_05_13.pdf
-2024-05-13,19,Dry,Kamsarmax,15 Year,19.6,xclusiv_2024_xclusiv-2024_05_13.pdf
+2024-05-13,19,Dry,Panamax,15 Year,19.6,xclusiv_2024_xclusiv-2024_05_13.pdf
 2024-05-13,19,Dry,Kamsarmax,5 Year,37.0,xclusiv_2024_xclusiv-2024_05_13.pdf
 2024-05-13,19,Dry,Kamsarmax,Resale,43.0,xclusiv_2024_xclusiv-2024_05_13.pdf
 2024-05-13,19,Dry,Ultramax,10 Year,27.3,xclusiv_2024_xclusiv-2024_05_13.pdf
@@ -4697,7 +4697,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-05-20,20,Dry,Handysize,5 Year,27.1,xclusiv_2024_xclusiv-2024_05_20.pdf
 2024-05-20,20,Dry,Handysize,Resale,34.2,xclusiv_2024_xclusiv-2024_05_20.pdf
 2024-05-20,20,Dry,Kamsarmax,10 Year,29.2,xclusiv_2024_xclusiv-2024_05_20.pdf
-2024-05-20,20,Dry,Kamsarmax,15 Year,19.7,xclusiv_2024_xclusiv-2024_05_20.pdf
+2024-05-20,20,Dry,Panamax,15 Year,19.7,xclusiv_2024_xclusiv-2024_05_20.pdf
 2024-05-20,20,Dry,Kamsarmax,5 Year,37.5,xclusiv_2024_xclusiv-2024_05_20.pdf
 2024-05-20,20,Dry,Kamsarmax,Resale,43.0,xclusiv_2024_xclusiv-2024_05_20.pdf
 2024-05-20,20,Dry,Ultramax,10 Year,27.3,xclusiv_2024_xclusiv-2024_05_20.pdf
@@ -4729,7 +4729,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-05-27,21,Dry,Handysize,5 Year,27.1,xclusiv_2024_xclusiv-2024_05_27.pdf
 2024-05-27,21,Dry,Handysize,Resale,34.2,xclusiv_2024_xclusiv-2024_05_27.pdf
 2024-05-27,21,Dry,Kamsarmax,10 Year,29.3,xclusiv_2024_xclusiv-2024_05_27.pdf
-2024-05-27,21,Dry,Kamsarmax,15 Year,19.7,xclusiv_2024_xclusiv-2024_05_27.pdf
+2024-05-27,21,Dry,Panamax,15 Year,19.7,xclusiv_2024_xclusiv-2024_05_27.pdf
 2024-05-27,21,Dry,Kamsarmax,5 Year,37.8,xclusiv_2024_xclusiv-2024_05_27.pdf
 2024-05-27,21,Dry,Kamsarmax,Resale,43.0,xclusiv_2024_xclusiv-2024_05_27.pdf
 2024-05-27,21,Dry,Ultramax,10 Year,27.3,xclusiv_2024_xclusiv-2024_05_27.pdf
@@ -4761,7 +4761,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-06-03,22,Dry,Handysize,5 Year,27.4,xclusiv_2024_xclusiv-2024_06_03.pdf
 2024-06-03,22,Dry,Handysize,Resale,34.4,xclusiv_2024_xclusiv-2024_06_03.pdf
 2024-06-03,22,Dry,Kamsarmax,10 Year,29.3,xclusiv_2024_xclusiv-2024_06_03.pdf
-2024-06-03,22,Dry,Kamsarmax,15 Year,19.7,xclusiv_2024_xclusiv-2024_06_03.pdf
+2024-06-03,22,Dry,Panamax,15 Year,19.7,xclusiv_2024_xclusiv-2024_06_03.pdf
 2024-06-03,22,Dry,Kamsarmax,5 Year,37.9,xclusiv_2024_xclusiv-2024_06_03.pdf
 2024-06-03,22,Dry,Kamsarmax,Resale,43.0,xclusiv_2024_xclusiv-2024_06_03.pdf
 2024-06-03,22,Dry,Ultramax,10 Year,27.4,xclusiv_2024_xclusiv-2024_06_03.pdf
@@ -4793,7 +4793,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-06-10,23,Dry,Handysize,5 Year,28.1,xclusiv_2024_xclusiv-2024_06_10.pdf
 2024-06-10,23,Dry,Handysize,Resale,34.7,xclusiv_2024_xclusiv-2024_06_10.pdf
 2024-06-10,23,Dry,Kamsarmax,10 Year,29.5,xclusiv_2024_xclusiv-2024_06_10.pdf
-2024-06-10,23,Dry,Kamsarmax,15 Year,19.9,xclusiv_2024_xclusiv-2024_06_10.pdf
+2024-06-10,23,Dry,Panamax,15 Year,19.9,xclusiv_2024_xclusiv-2024_06_10.pdf
 2024-06-10,23,Dry,Kamsarmax,5 Year,38.5,xclusiv_2024_xclusiv-2024_06_10.pdf
 2024-06-10,23,Dry,Kamsarmax,Resale,43.0,xclusiv_2024_xclusiv-2024_06_10.pdf
 2024-06-10,23,Dry,Ultramax,10 Year,27.6,xclusiv_2024_xclusiv-2024_06_10.pdf
@@ -4825,11 +4825,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-06-17,24,Dry,Handysize,5 Year,28.3,xclusiv_2024_xclusiv-2024_06_17.pdf
 2024-06-17,24,Dry,Handysize,Resale,34.9,xclusiv_2024_xclusiv-2024_06_17.pdf
 2024-06-17,24,Dry,Kamsarmax,10 Year,29.5,xclusiv_2024_xclusiv-2024_06_17.pdf
-2024-06-17,24,Dry,Kamsarmax,15 Year,19.7,xclusiv_2024_xclusiv-2024_06_17.pdf
+2024-06-17,24,Dry,Panamax,15 Year,19.7,xclusiv_2024_xclusiv-2024_06_17.pdf
 2024-06-17,24,Dry,Kamsarmax,5 Year,38.5,xclusiv_2024_xclusiv-2024_06_17.pdf
 2024-06-17,24,Dry,Kamsarmax,Resale,43.3,xclusiv_2024_xclusiv-2024_06_17.pdf
 2024-06-17,24,Dry,Ultramax,10 Year,28.1,xclusiv_2024_xclusiv-2024_06_17.pdf
-2024-06-17,24,Dry,Ultramax,15 Year,16.4,xclusiv_2024_xclusiv-2024_06_17.pdf
+2024-06-17,24,Dry,Supramax,15 Year,16.4,xclusiv_2024_xclusiv-2024_06_17.pdf
 2024-06-17,24,Dry,Ultramax,5 Year,36.4,xclusiv_2024_xclusiv-2024_06_17.pdf
 2024-06-17,24,Dry,Ultramax,Resale,41.9,xclusiv_2024_xclusiv-2024_06_17.pdf
 2024-06-17,24,Tanker,Aframax,10 Year,60.0,xclusiv_2024_xclusiv-2024_06_17.pdf
@@ -4857,11 +4857,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-06-25,25,Dry,Handysize,5 Year,28.3,xclusiv_2024_xclusiv-2024_06_25.pdf
 2024-06-25,25,Dry,Handysize,Resale,34.7,xclusiv_2024_xclusiv-2024_06_25.pdf
 2024-06-25,25,Dry,Kamsarmax,10 Year,29.5,xclusiv_2024_xclusiv-2024_06_25.pdf
-2024-06-25,25,Dry,Kamsarmax,15 Year,19.9,xclusiv_2024_xclusiv-2024_06_25.pdf
+2024-06-25,25,Dry,Panamax,15 Year,19.9,xclusiv_2024_xclusiv-2024_06_25.pdf
 2024-06-25,25,Dry,Kamsarmax,5 Year,38.5,xclusiv_2024_xclusiv-2024_06_25.pdf
 2024-06-25,25,Dry,Kamsarmax,Resale,43.0,xclusiv_2024_xclusiv-2024_06_25.pdf
 2024-06-25,25,Dry,Ultramax,10 Year,27.9,xclusiv_2024_xclusiv-2024_06_25.pdf
-2024-06-25,25,Dry,Ultramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_06_25.pdf
+2024-06-25,25,Dry,Supramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_06_25.pdf
 2024-06-25,25,Dry,Ultramax,5 Year,36.0,xclusiv_2024_xclusiv-2024_06_25.pdf
 2024-06-25,25,Dry,Ultramax,Resale,41.8,xclusiv_2024_xclusiv-2024_06_25.pdf
 2024-06-25,25,Tanker,Aframax,10 Year,60.0,xclusiv_2024_xclusiv-2024_06_25.pdf
@@ -4889,11 +4889,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-07-01,26,Dry,Handysize,5 Year,28.3,xclusiv_2024_xclusiv-2024_07_01.pdf
 2024-07-01,26,Dry,Handysize,Resale,34.7,xclusiv_2024_xclusiv-2024_07_01.pdf
 2024-07-01,26,Dry,Kamsarmax,10 Year,29.5,xclusiv_2024_xclusiv-2024_07_01.pdf
-2024-07-01,26,Dry,Kamsarmax,15 Year,19.9,xclusiv_2024_xclusiv-2024_07_01.pdf
+2024-07-01,26,Dry,Panamax,15 Year,19.9,xclusiv_2024_xclusiv-2024_07_01.pdf
 2024-07-01,26,Dry,Kamsarmax,5 Year,38.5,xclusiv_2024_xclusiv-2024_07_01.pdf
 2024-07-01,26,Dry,Kamsarmax,Resale,43.0,xclusiv_2024_xclusiv-2024_07_01.pdf
 2024-07-01,26,Dry,Ultramax,10 Year,28.0,xclusiv_2024_xclusiv-2024_07_01.pdf
-2024-07-01,26,Dry,Ultramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_07_01.pdf
+2024-07-01,26,Dry,Supramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_07_01.pdf
 2024-07-01,26,Dry,Ultramax,5 Year,36.1,xclusiv_2024_xclusiv-2024_07_01.pdf
 2024-07-01,26,Dry,Ultramax,Resale,41.8,xclusiv_2024_xclusiv-2024_07_01.pdf
 2024-07-01,26,Tanker,Aframax,10 Year,60.0,xclusiv_2024_xclusiv-2024_07_01.pdf
@@ -4921,11 +4921,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-07-08,27,Dry,Handysize,5 Year,28.5,xclusiv_2024_xclusiv-2024_07_08.pdf
 2024-07-08,27,Dry,Handysize,Resale,34.7,xclusiv_2024_xclusiv-2024_07_08.pdf
 2024-07-08,27,Dry,Kamsarmax,10 Year,29.5,xclusiv_2024_xclusiv-2024_07_08.pdf
-2024-07-08,27,Dry,Kamsarmax,15 Year,19.9,xclusiv_2024_xclusiv-2024_07_08.pdf
+2024-07-08,27,Dry,Panamax,15 Year,19.9,xclusiv_2024_xclusiv-2024_07_08.pdf
 2024-07-08,27,Dry,Kamsarmax,5 Year,38.5,xclusiv_2024_xclusiv-2024_07_08.pdf
 2024-07-08,27,Dry,Kamsarmax,Resale,43.0,xclusiv_2024_xclusiv-2024_07_08.pdf
 2024-07-08,27,Dry,Ultramax,10 Year,28.2,xclusiv_2024_xclusiv-2024_07_08.pdf
-2024-07-08,27,Dry,Ultramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_07_08.pdf
+2024-07-08,27,Dry,Supramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_07_08.pdf
 2024-07-08,27,Dry,Ultramax,5 Year,36.2,xclusiv_2024_xclusiv-2024_07_08.pdf
 2024-07-08,27,Dry,Ultramax,Resale,41.8,xclusiv_2024_xclusiv-2024_07_08.pdf
 2024-07-08,27,Tanker,Aframax,10 Year,60.0,xclusiv_2024_xclusiv-2024_07_08.pdf
@@ -4953,11 +4953,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-07-15,28,Dry,Handysize,5 Year,28.5,xclusiv_2024_xclusiv-2024_07_15.pdf
 2024-07-15,28,Dry,Handysize,Resale,34.7,xclusiv_2024_xclusiv-2024_07_15.pdf
 2024-07-15,28,Dry,Kamsarmax,10 Year,29.5,xclusiv_2024_xclusiv-2024_07_15.pdf
-2024-07-15,28,Dry,Kamsarmax,15 Year,19.9,xclusiv_2024_xclusiv-2024_07_15.pdf
+2024-07-15,28,Dry,Panamax,15 Year,19.9,xclusiv_2024_xclusiv-2024_07_15.pdf
 2024-07-15,28,Dry,Kamsarmax,5 Year,38.5,xclusiv_2024_xclusiv-2024_07_15.pdf
 2024-07-15,28,Dry,Kamsarmax,Resale,43.0,xclusiv_2024_xclusiv-2024_07_15.pdf
 2024-07-15,28,Dry,Ultramax,10 Year,28.2,xclusiv_2024_xclusiv-2024_07_15.pdf
-2024-07-15,28,Dry,Ultramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_07_15.pdf
+2024-07-15,28,Dry,Supramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_07_15.pdf
 2024-07-15,28,Dry,Ultramax,5 Year,36.2,xclusiv_2024_xclusiv-2024_07_15.pdf
 2024-07-15,28,Dry,Ultramax,Resale,41.8,xclusiv_2024_xclusiv-2024_07_15.pdf
 2024-07-15,28,Tanker,Aframax,10 Year,60.2,xclusiv_2024_xclusiv-2024_07_15.pdf
@@ -4985,11 +4985,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-07-22,29,Dry,Handysize,5 Year,28.5,xclusiv_2024_xclusiv-2024_07_22.pdf
 2024-07-22,29,Dry,Handysize,Resale,34.7,xclusiv_2024_xclusiv-2024_07_22.pdf
 2024-07-22,29,Dry,Kamsarmax,10 Year,29.5,xclusiv_2024_xclusiv-2024_07_22.pdf
-2024-07-22,29,Dry,Kamsarmax,15 Year,19.9,xclusiv_2024_xclusiv-2024_07_22.pdf
+2024-07-22,29,Dry,Panamax,15 Year,19.9,xclusiv_2024_xclusiv-2024_07_22.pdf
 2024-07-22,29,Dry,Kamsarmax,5 Year,38.5,xclusiv_2024_xclusiv-2024_07_22.pdf
 2024-07-22,29,Dry,Kamsarmax,Resale,43.0,xclusiv_2024_xclusiv-2024_07_22.pdf
 2024-07-22,29,Dry,Ultramax,10 Year,28.2,xclusiv_2024_xclusiv-2024_07_22.pdf
-2024-07-22,29,Dry,Ultramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_07_22.pdf
+2024-07-22,29,Dry,Supramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_07_22.pdf
 2024-07-22,29,Dry,Ultramax,5 Year,36.2,xclusiv_2024_xclusiv-2024_07_22.pdf
 2024-07-22,29,Dry,Ultramax,Resale,41.8,xclusiv_2024_xclusiv-2024_07_22.pdf
 2024-07-22,29,Tanker,Aframax,10 Year,60.3,xclusiv_2024_xclusiv-2024_07_22.pdf
@@ -5017,11 +5017,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-07-29,30,Dry,Handysize,5 Year,28.6,xclusiv_2024_xclusiv-2024_07_29.pdf
 2024-07-29,30,Dry,Handysize,Resale,34.7,xclusiv_2024_xclusiv-2024_07_29.pdf
 2024-07-29,30,Dry,Kamsarmax,10 Year,29.5,xclusiv_2024_xclusiv-2024_07_29.pdf
-2024-07-29,30,Dry,Kamsarmax,15 Year,19.9,xclusiv_2024_xclusiv-2024_07_29.pdf
+2024-07-29,30,Dry,Panamax,15 Year,19.9,xclusiv_2024_xclusiv-2024_07_29.pdf
 2024-07-29,30,Dry,Kamsarmax,5 Year,38.5,xclusiv_2024_xclusiv-2024_07_29.pdf
 2024-07-29,30,Dry,Kamsarmax,Resale,43.1,xclusiv_2024_xclusiv-2024_07_29.pdf
 2024-07-29,30,Dry,Ultramax,10 Year,28.2,xclusiv_2024_xclusiv-2024_07_29.pdf
-2024-07-29,30,Dry,Ultramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_07_29.pdf
+2024-07-29,30,Dry,Supramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_07_29.pdf
 2024-07-29,30,Dry,Ultramax,5 Year,36.2,xclusiv_2024_xclusiv-2024_07_29.pdf
 2024-07-29,30,Dry,Ultramax,Resale,41.8,xclusiv_2024_xclusiv-2024_07_29.pdf
 2024-07-29,30,Tanker,Aframax,10 Year,60.3,xclusiv_2024_xclusiv-2024_07_29.pdf
@@ -5049,11 +5049,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-08-05,31,Dry,Handysize,5 Year,28.8,xclusiv_2024_xclusiv-2024_08_05.pdf
 2024-08-05,31,Dry,Handysize,Resale,34.8,xclusiv_2024_xclusiv-2024_08_05.pdf
 2024-08-05,31,Dry,Kamsarmax,10 Year,30.0,xclusiv_2024_xclusiv-2024_08_05.pdf
-2024-08-05,31,Dry,Kamsarmax,15 Year,19.9,xclusiv_2024_xclusiv-2024_08_05.pdf
+2024-08-05,31,Dry,Panamax,15 Year,19.9,xclusiv_2024_xclusiv-2024_08_05.pdf
 2024-08-05,31,Dry,Kamsarmax,5 Year,39.5,xclusiv_2024_xclusiv-2024_08_05.pdf
 2024-08-05,31,Dry,Kamsarmax,Resale,43.2,xclusiv_2024_xclusiv-2024_08_05.pdf
 2024-08-05,31,Dry,Ultramax,10 Year,28.2,xclusiv_2024_xclusiv-2024_08_05.pdf
-2024-08-05,31,Dry,Ultramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_08_05.pdf
+2024-08-05,31,Dry,Supramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_08_05.pdf
 2024-08-05,31,Dry,Ultramax,5 Year,36.2,xclusiv_2024_xclusiv-2024_08_05.pdf
 2024-08-05,31,Dry,Ultramax,Resale,41.8,xclusiv_2024_xclusiv-2024_08_05.pdf
 2024-08-05,31,Tanker,Aframax,10 Year,60.5,xclusiv_2024_xclusiv-2024_08_05.pdf
@@ -5081,11 +5081,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-08-12,32,Dry,Handysize,5 Year,28.8,xclusiv_2024_xclusiv-2024_08_12.pdf
 2024-08-12,32,Dry,Handysize,Resale,34.8,xclusiv_2024_xclusiv-2024_08_12.pdf
 2024-08-12,32,Dry,Kamsarmax,10 Year,30.0,xclusiv_2024_xclusiv-2024_08_12.pdf
-2024-08-12,32,Dry,Kamsarmax,15 Year,19.9,xclusiv_2024_xclusiv-2024_08_12.pdf
+2024-08-12,32,Dry,Panamax,15 Year,19.9,xclusiv_2024_xclusiv-2024_08_12.pdf
 2024-08-12,32,Dry,Kamsarmax,5 Year,39.5,xclusiv_2024_xclusiv-2024_08_12.pdf
 2024-08-12,32,Dry,Kamsarmax,Resale,43.2,xclusiv_2024_xclusiv-2024_08_12.pdf
 2024-08-12,32,Dry,Ultramax,10 Year,28.2,xclusiv_2024_xclusiv-2024_08_12.pdf
-2024-08-12,32,Dry,Ultramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_08_12.pdf
+2024-08-12,32,Dry,Supramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_08_12.pdf
 2024-08-12,32,Dry,Ultramax,5 Year,36.2,xclusiv_2024_xclusiv-2024_08_12.pdf
 2024-08-12,32,Dry,Ultramax,Resale,41.8,xclusiv_2024_xclusiv-2024_08_12.pdf
 2024-08-12,32,Tanker,Aframax,10 Year,60.5,xclusiv_2024_xclusiv-2024_08_12.pdf
@@ -5113,11 +5113,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-08-19,33,Dry,Handysize,5 Year,28.7,xclusiv_2024_xclusiv-2024_08_19.pdf
 2024-08-19,33,Dry,Handysize,Resale,34.9,xclusiv_2024_xclusiv-2024_08_19.pdf
 2024-08-19,33,Dry,Kamsarmax,10 Year,30.0,xclusiv_2024_xclusiv-2024_08_19.pdf
-2024-08-19,33,Dry,Kamsarmax,15 Year,19.8,xclusiv_2024_xclusiv-2024_08_19.pdf
+2024-08-19,33,Dry,Panamax,15 Year,19.8,xclusiv_2024_xclusiv-2024_08_19.pdf
 2024-08-19,33,Dry,Kamsarmax,5 Year,39.5,xclusiv_2024_xclusiv-2024_08_19.pdf
 2024-08-19,33,Dry,Kamsarmax,Resale,43.6,xclusiv_2024_xclusiv-2024_08_19.pdf
 2024-08-19,33,Dry,Ultramax,10 Year,28.0,xclusiv_2024_xclusiv-2024_08_19.pdf
-2024-08-19,33,Dry,Ultramax,15 Year,16.2,xclusiv_2024_xclusiv-2024_08_19.pdf
+2024-08-19,33,Dry,Supramax,15 Year,16.2,xclusiv_2024_xclusiv-2024_08_19.pdf
 2024-08-19,33,Dry,Ultramax,5 Year,36.2,xclusiv_2024_xclusiv-2024_08_19.pdf
 2024-08-19,33,Dry,Ultramax,Resale,41.7,xclusiv_2024_xclusiv-2024_08_19.pdf
 2024-08-19,33,Tanker,Aframax,10 Year,60.3,xclusiv_2024_xclusiv-2024_08_19.pdf
@@ -5145,11 +5145,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-08-26,34,Dry,Handysize,5 Year,28.7,xclusiv_2024_xclusiv-2024_08_26.pdf
 2024-08-26,34,Dry,Handysize,Resale,34.8,xclusiv_2024_xclusiv-2024_08_26.pdf
 2024-08-26,34,Dry,Kamsarmax,10 Year,30.0,xclusiv_2024_xclusiv-2024_08_26.pdf
-2024-08-26,34,Dry,Kamsarmax,15 Year,19.9,xclusiv_2024_xclusiv-2024_08_26.pdf
+2024-08-26,34,Dry,Panamax,15 Year,19.9,xclusiv_2024_xclusiv-2024_08_26.pdf
 2024-08-26,34,Dry,Kamsarmax,5 Year,39.5,xclusiv_2024_xclusiv-2024_08_26.pdf
 2024-08-26,34,Dry,Kamsarmax,Resale,43.4,xclusiv_2024_xclusiv-2024_08_26.pdf
 2024-08-26,34,Dry,Ultramax,10 Year,28.1,xclusiv_2024_xclusiv-2024_08_26.pdf
-2024-08-26,34,Dry,Ultramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_08_26.pdf
+2024-08-26,34,Dry,Supramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_08_26.pdf
 2024-08-26,34,Dry,Ultramax,5 Year,36.2,xclusiv_2024_xclusiv-2024_08_26.pdf
 2024-08-26,34,Dry,Ultramax,Resale,41.8,xclusiv_2024_xclusiv-2024_08_26.pdf
 2024-08-26,34,Tanker,Aframax,10 Year,60.5,xclusiv_2024_xclusiv-2024_08_26.pdf
@@ -5177,11 +5177,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-09-02,35,Dry,Handysize,5 Year,28.7,xclusiv_2024_xclusiv-2024_09_02.pdf
 2024-09-02,35,Dry,Handysize,Resale,34.8,xclusiv_2024_xclusiv-2024_09_02.pdf
 2024-09-02,35,Dry,Kamsarmax,10 Year,30.0,xclusiv_2024_xclusiv-2024_09_02.pdf
-2024-09-02,35,Dry,Kamsarmax,15 Year,19.9,xclusiv_2024_xclusiv-2024_09_02.pdf
+2024-09-02,35,Dry,Panamax,15 Year,19.9,xclusiv_2024_xclusiv-2024_09_02.pdf
 2024-09-02,35,Dry,Kamsarmax,5 Year,39.4,xclusiv_2024_xclusiv-2024_09_02.pdf
 2024-09-02,35,Dry,Kamsarmax,Resale,43.4,xclusiv_2024_xclusiv-2024_09_02.pdf
 2024-09-02,35,Dry,Ultramax,10 Year,28.1,xclusiv_2024_xclusiv-2024_09_02.pdf
-2024-09-02,35,Dry,Ultramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_09_02.pdf
+2024-09-02,35,Dry,Supramax,15 Year,16.3,xclusiv_2024_xclusiv-2024_09_02.pdf
 2024-09-02,35,Dry,Ultramax,5 Year,36.2,xclusiv_2024_xclusiv-2024_09_02.pdf
 2024-09-02,35,Dry,Ultramax,Resale,41.8,xclusiv_2024_xclusiv-2024_09_02.pdf
 2024-09-02,35,Tanker,Aframax,10 Year,60.5,xclusiv_2024_xclusiv-2024_09_02.pdf
@@ -5209,11 +5209,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-09-09,36,Dry,Handysize,5 Year,28.3,xclusiv_2024_xclusiv-2024_09_09.pdf
 2024-09-09,36,Dry,Handysize,Resale,34.0,xclusiv_2024_xclusiv-2024_09_09.pdf
 2024-09-09,36,Dry,Kamsarmax,10 Year,29.5,xclusiv_2024_xclusiv-2024_09_09.pdf
-2024-09-09,36,Dry,Kamsarmax,15 Year,19.5,xclusiv_2024_xclusiv-2024_09_09.pdf
+2024-09-09,36,Dry,Panamax,15 Year,19.5,xclusiv_2024_xclusiv-2024_09_09.pdf
 2024-09-09,36,Dry,Kamsarmax,5 Year,39.5,xclusiv_2024_xclusiv-2024_09_09.pdf
 2024-09-09,36,Dry,Kamsarmax,Resale,43.4,xclusiv_2024_xclusiv-2024_09_09.pdf
 2024-09-09,36,Dry,Ultramax,10 Year,27.8,xclusiv_2024_xclusiv-2024_09_09.pdf
-2024-09-09,36,Dry,Ultramax,15 Year,16.1,xclusiv_2024_xclusiv-2024_09_09.pdf
+2024-09-09,36,Dry,Supramax,15 Year,16.1,xclusiv_2024_xclusiv-2024_09_09.pdf
 2024-09-09,36,Dry,Ultramax,5 Year,36.2,xclusiv_2024_xclusiv-2024_09_09.pdf
 2024-09-09,36,Dry,Ultramax,Resale,41.5,xclusiv_2024_xclusiv-2024_09_09.pdf
 2024-09-09,36,Tanker,Aframax,10 Year,60.1,xclusiv_2024_xclusiv-2024_09_09.pdf
@@ -5241,11 +5241,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-09-16,37,Dry,Handysize,5 Year,28.0,xclusiv_2024_xclusiv-2024_09_16.pdf
 2024-09-16,37,Dry,Handysize,Resale,34.0,xclusiv_2024_xclusiv-2024_09_16.pdf
 2024-09-16,37,Dry,Kamsarmax,10 Year,28.6,xclusiv_2024_xclusiv-2024_09_16.pdf
-2024-09-16,37,Dry,Kamsarmax,15 Year,18.8,xclusiv_2024_xclusiv-2024_09_16.pdf
+2024-09-16,37,Dry,Panamax,15 Year,18.8,xclusiv_2024_xclusiv-2024_09_16.pdf
 2024-09-16,37,Dry,Kamsarmax,5 Year,38.5,xclusiv_2024_xclusiv-2024_09_16.pdf
 2024-09-16,37,Dry,Kamsarmax,Resale,43.2,xclusiv_2024_xclusiv-2024_09_16.pdf
 2024-09-16,37,Dry,Ultramax,10 Year,27.0,xclusiv_2024_xclusiv-2024_09_16.pdf
-2024-09-16,37,Dry,Ultramax,15 Year,16.1,xclusiv_2024_xclusiv-2024_09_16.pdf
+2024-09-16,37,Dry,Supramax,15 Year,16.1,xclusiv_2024_xclusiv-2024_09_16.pdf
 2024-09-16,37,Dry,Ultramax,5 Year,36.0,xclusiv_2024_xclusiv-2024_09_16.pdf
 2024-09-16,37,Dry,Ultramax,Resale,41.0,xclusiv_2024_xclusiv-2024_09_16.pdf
 2024-09-16,37,Tanker,Aframax,10 Year,60.3,xclusiv_2024_xclusiv-2024_09_16.pdf
@@ -5273,11 +5273,11 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-09-23,38,Dry,Handysize,5 Year,28.0,xclusiv_2024_xclusiv-2024_09_23.pdf
 2024-09-23,38,Dry,Handysize,Resale,34.0,xclusiv_2024_xclusiv-2024_09_23.pdf
 2024-09-23,38,Dry,Kamsarmax,10 Year,26.0,xclusiv_2024_xclusiv-2024_09_23.pdf
-2024-09-23,38,Dry,Kamsarmax,15 Year,16.5,xclusiv_2024_xclusiv-2024_09_23.pdf
+2024-09-23,38,Dry,Panamax,15 Year,16.5,xclusiv_2024_xclusiv-2024_09_23.pdf
 2024-09-23,38,Dry,Kamsarmax,5 Year,36.5,xclusiv_2024_xclusiv-2024_09_23.pdf
 2024-09-23,38,Dry,Kamsarmax,Resale,42.7,xclusiv_2024_xclusiv-2024_09_23.pdf
 2024-09-23,38,Dry,Ultramax,10 Year,25.2,xclusiv_2024_xclusiv-2024_09_23.pdf
-2024-09-23,38,Dry,Ultramax,15 Year,16.1,xclusiv_2024_xclusiv-2024_09_23.pdf
+2024-09-23,38,Dry,Supramax,15 Year,16.1,xclusiv_2024_xclusiv-2024_09_23.pdf
 2024-09-23,38,Dry,Ultramax,5 Year,36.0,xclusiv_2024_xclusiv-2024_09_23.pdf
 2024-09-23,38,Dry,Ultramax,Resale,41.0,xclusiv_2024_xclusiv-2024_09_23.pdf
 2024-09-23,38,Tanker,Aframax,10 Year,60.2,xclusiv_2024_xclusiv-2024_09_23.pdf
@@ -5309,7 +5309,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-09-30,39,Dry,Kamsarmax,5 Year,36.5,xclusiv_2024_xclusiv-2024_09_30.pdf
 2024-09-30,39,Dry,Kamsarmax,Resale,42.3,xclusiv_2024_xclusiv-2024_09_30.pdf
 2024-09-30,39,Dry,Ultramax,10 Year,25.0,xclusiv_2024_xclusiv-2024_09_30.pdf
-2024-09-30,39,Dry,Ultramax,15 Year,15.9,xclusiv_2024_xclusiv-2024_09_30.pdf
+2024-09-30,39,Dry,Supramax,15 Year,15.9,xclusiv_2024_xclusiv-2024_09_30.pdf
 2024-09-30,39,Dry,Ultramax,5 Year,36.0,xclusiv_2024_xclusiv-2024_09_30.pdf
 2024-09-30,39,Dry,Ultramax,Resale,41.0,xclusiv_2024_xclusiv-2024_09_30.pdf
 2024-09-30,39,Tanker,Aframax,10 Year,60.2,xclusiv_2024_xclusiv-2024_09_30.pdf
@@ -5341,7 +5341,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-10-07,40,Dry,Kamsarmax,5 Year,36.0,xclusiv_2024_xclusiv-2024_10_07.pdf
 2024-10-07,40,Dry,Kamsarmax,Resale,41.2,xclusiv_2024_xclusiv-2024_10_07.pdf
 2024-10-07,40,Dry,Ultramax,10 Year,24.8,xclusiv_2024_xclusiv-2024_10_07.pdf
-2024-10-07,40,Dry,Ultramax,15 Year,15.8,xclusiv_2024_xclusiv-2024_10_07.pdf
+2024-10-07,40,Dry,Supramax,15 Year,15.8,xclusiv_2024_xclusiv-2024_10_07.pdf
 2024-10-07,40,Dry,Ultramax,5 Year,36.0,xclusiv_2024_xclusiv-2024_10_07.pdf
 2024-10-07,40,Dry,Ultramax,Resale,41.0,xclusiv_2024_xclusiv-2024_10_07.pdf
 2024-10-07,40,Tanker,Aframax,10 Year,60.0,xclusiv_2024_xclusiv-2024_10_07.pdf
@@ -5373,7 +5373,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-10-14,41,Dry,Kamsarmax,5 Year,35.8,xclusiv_2024_xclusiv-2024_10_14.pdf
 2024-10-14,41,Dry,Kamsarmax,Resale,41.1,xclusiv_2024_xclusiv-2024_10_14.pdf
 2024-10-14,41,Dry,Ultramax,10 Year,24.8,xclusiv_2024_xclusiv-2024_10_14.pdf
-2024-10-14,41,Dry,Ultramax,15 Year,15.9,xclusiv_2024_xclusiv-2024_10_14.pdf
+2024-10-14,41,Dry,Supramax,15 Year,15.9,xclusiv_2024_xclusiv-2024_10_14.pdf
 2024-10-14,41,Dry,Ultramax,5 Year,36.0,xclusiv_2024_xclusiv-2024_10_14.pdf
 2024-10-14,41,Dry,Ultramax,Resale,41.0,xclusiv_2024_xclusiv-2024_10_14.pdf
 2024-10-14,41,Tanker,Aframax,10 Year,59.5,xclusiv_2024_xclusiv-2024_10_14.pdf
@@ -5405,7 +5405,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-10-21,42,Dry,Kamsarmax,5 Year,35.7,xclusiv_2024_xclusiv-2024_10_21.pdf
 2024-10-21,42,Dry,Kamsarmax,Resale,41.1,xclusiv_2024_xclusiv-2024_10_21.pdf
 2024-10-21,42,Dry,Ultramax,10 Year,24.8,xclusiv_2024_xclusiv-2024_10_21.pdf
-2024-10-21,42,Dry,Ultramax,15 Year,15.9,xclusiv_2024_xclusiv-2024_10_21.pdf
+2024-10-21,42,Dry,Supramax,15 Year,15.9,xclusiv_2024_xclusiv-2024_10_21.pdf
 2024-10-21,42,Dry,Ultramax,5 Year,36.0,xclusiv_2024_xclusiv-2024_10_21.pdf
 2024-10-21,42,Dry,Ultramax,Resale,41.0,xclusiv_2024_xclusiv-2024_10_21.pdf
 2024-10-21,42,Tanker,Aframax,10 Year,59.2,xclusiv_2024_xclusiv-2024_10_21.pdf
@@ -5437,7 +5437,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-10-29,43,Dry,Kamsarmax,5 Year,35.5,xclusiv_2024_xclusiv-2024_10_29.pdf
 2024-10-29,43,Dry,Kamsarmax,Resale,41.1,xclusiv_2024_xclusiv-2024_10_29.pdf
 2024-10-29,43,Dry,Ultramax,10 Year,24.8,xclusiv_2024_xclusiv-2024_10_29.pdf
-2024-10-29,43,Dry,Ultramax,15 Year,16.0,xclusiv_2024_xclusiv-2024_10_29.pdf
+2024-10-29,43,Dry,Supramax,15 Year,16.0,xclusiv_2024_xclusiv-2024_10_29.pdf
 2024-10-29,43,Dry,Ultramax,5 Year,36.0,xclusiv_2024_xclusiv-2024_10_29.pdf
 2024-10-29,43,Dry,Ultramax,Resale,41.0,xclusiv_2024_xclusiv-2024_10_29.pdf
 2024-10-29,43,Tanker,Aframax,10 Year,58.8,xclusiv_2024_xclusiv-2024_10_29.pdf
@@ -5469,7 +5469,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-11-04,44,Dry,Kamsarmax,5 Year,34.5,xclusiv_2024_xclusiv-2024_11_04.pdf
 2024-11-04,44,Dry,Kamsarmax,Resale,40.0,xclusiv_2024_xclusiv-2024_11_04.pdf
 2024-11-04,44,Dry,Ultramax,10 Year,24.5,xclusiv_2024_xclusiv-2024_11_04.pdf
-2024-11-04,44,Dry,Ultramax,15 Year,15.8,xclusiv_2024_xclusiv-2024_11_04.pdf
+2024-11-04,44,Dry,Supramax,15 Year,15.8,xclusiv_2024_xclusiv-2024_11_04.pdf
 2024-11-04,44,Dry,Ultramax,5 Year,34.8,xclusiv_2024_xclusiv-2024_11_04.pdf
 2024-11-04,44,Dry,Ultramax,Resale,40.0,xclusiv_2024_xclusiv-2024_11_04.pdf
 2024-11-04,44,Tanker,Aframax,10 Year,57.5,xclusiv_2024_xclusiv-2024_11_04.pdf
@@ -5501,7 +5501,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-11-11,45,Dry,Kamsarmax,5 Year,34.5,xclusiv_2024_xclusiv-2024_11_11.pdf
 2024-11-11,45,Dry,Kamsarmax,Resale,40.0,xclusiv_2024_xclusiv-2024_11_11.pdf
 2024-11-11,45,Dry,Ultramax,10 Year,24.5,xclusiv_2024_xclusiv-2024_11_11.pdf
-2024-11-11,45,Dry,Ultramax,15 Year,15.8,xclusiv_2024_xclusiv-2024_11_11.pdf
+2024-11-11,45,Dry,Supramax,15 Year,15.8,xclusiv_2024_xclusiv-2024_11_11.pdf
 2024-11-11,45,Dry,Ultramax,5 Year,34.5,xclusiv_2024_xclusiv-2024_11_11.pdf
 2024-11-11,45,Dry,Ultramax,Resale,40.0,xclusiv_2024_xclusiv-2024_11_11.pdf
 2024-11-11,45,Tanker,Aframax,10 Year,57.0,xclusiv_2024_xclusiv-2024_11_11.pdf
@@ -5533,7 +5533,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-11-18,46,Dry,Kamsarmax,5 Year,34.5,xclusiv_2024_xclusiv-2024_11_18.pdf
 2024-11-18,46,Dry,Kamsarmax,Resale,40.0,xclusiv_2024_xclusiv-2024_11_18.pdf
 2024-11-18,46,Dry,Ultramax,10 Year,24.5,xclusiv_2024_xclusiv-2024_11_18.pdf
-2024-11-18,46,Dry,Ultramax,15 Year,15.8,xclusiv_2024_xclusiv-2024_11_18.pdf
+2024-11-18,46,Dry,Supramax,15 Year,15.8,xclusiv_2024_xclusiv-2024_11_18.pdf
 2024-11-18,46,Dry,Ultramax,5 Year,34.5,xclusiv_2024_xclusiv-2024_11_18.pdf
 2024-11-18,46,Dry,Ultramax,Resale,40.0,xclusiv_2024_xclusiv-2024_11_18.pdf
 2024-11-18,46,Tanker,Aframax,10 Year,57.0,xclusiv_2024_xclusiv-2024_11_18.pdf
@@ -5565,7 +5565,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-11-25,47,Dry,Kamsarmax,5 Year,34.5,xclusiv_2024_xclusiv-2024_11_25.pdf
 2024-11-25,47,Dry,Kamsarmax,Resale,40.0,xclusiv_2024_xclusiv-2024_11_25.pdf
 2024-11-25,47,Dry,Ultramax,10 Year,24.5,xclusiv_2024_xclusiv-2024_11_25.pdf
-2024-11-25,47,Dry,Ultramax,15 Year,15.8,xclusiv_2024_xclusiv-2024_11_25.pdf
+2024-11-25,47,Dry,Supramax,15 Year,15.8,xclusiv_2024_xclusiv-2024_11_25.pdf
 2024-11-25,47,Dry,Ultramax,5 Year,34.5,xclusiv_2024_xclusiv-2024_11_25.pdf
 2024-11-25,47,Dry,Ultramax,Resale,40.0,xclusiv_2024_xclusiv-2024_11_25.pdf
 2024-11-25,47,Tanker,Aframax,10 Year,56.3,xclusiv_2024_xclusiv-2024_11_25.pdf
@@ -5597,7 +5597,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-12-02,48,Dry,Kamsarmax,5 Year,34.5,xclusiv_2024_xclusiv-2024_12_02-1.pdf
 2024-12-02,48,Dry,Kamsarmax,Resale,40.0,xclusiv_2024_xclusiv-2024_12_02-1.pdf
 2024-12-02,48,Dry,Ultramax,10 Year,24.4,xclusiv_2024_xclusiv-2024_12_02-1.pdf
-2024-12-02,48,Dry,Ultramax,15 Year,15.7,xclusiv_2024_xclusiv-2024_12_02-1.pdf
+2024-12-02,48,Dry,Supramax,15 Year,15.7,xclusiv_2024_xclusiv-2024_12_02-1.pdf
 2024-12-02,48,Dry,Ultramax,5 Year,34.2,xclusiv_2024_xclusiv-2024_12_02-1.pdf
 2024-12-02,48,Dry,Ultramax,Resale,39.8,xclusiv_2024_xclusiv-2024_12_02-1.pdf
 2024-12-02,48,Tanker,Aframax,10 Year,55.6,xclusiv_2024_xclusiv-2024_12_02-1.pdf
@@ -5629,7 +5629,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-12-09,49,Dry,Kamsarmax,5 Year,34.5,xclusiv_2024_xclusiv-2024_12_09.pdf
 2024-12-09,49,Dry,Kamsarmax,Resale,40.0,xclusiv_2024_xclusiv-2024_12_09.pdf
 2024-12-09,49,Dry,Ultramax,10 Year,23.8,xclusiv_2024_xclusiv-2024_12_09.pdf
-2024-12-09,49,Dry,Ultramax,15 Year,15.3,xclusiv_2024_xclusiv-2024_12_09.pdf
+2024-12-09,49,Dry,Supramax,15 Year,15.3,xclusiv_2024_xclusiv-2024_12_09.pdf
 2024-12-09,49,Dry,Ultramax,5 Year,33.0,xclusiv_2024_xclusiv-2024_12_09.pdf
 2024-12-09,49,Dry,Ultramax,Resale,39.0,xclusiv_2024_xclusiv-2024_12_09.pdf
 2024-12-09,49,Tanker,Aframax,10 Year,53.0,xclusiv_2024_xclusiv-2024_12_09.pdf
@@ -5661,7 +5661,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-12-16,50,Dry,Kamsarmax,5 Year,34.5,xclusiv_2024_xclusiv-2024_12_16_compressed.pdf
 2024-12-16,50,Dry,Kamsarmax,Resale,40.0,xclusiv_2024_xclusiv-2024_12_16_compressed.pdf
 2024-12-16,50,Dry,Ultramax,10 Year,23.0,xclusiv_2024_xclusiv-2024_12_16_compressed.pdf
-2024-12-16,50,Dry,Ultramax,15 Year,14.9,xclusiv_2024_xclusiv-2024_12_16_compressed.pdf
+2024-12-16,50,Dry,Supramax,15 Year,14.9,xclusiv_2024_xclusiv-2024_12_16_compressed.pdf
 2024-12-16,50,Dry,Ultramax,5 Year,32.0,xclusiv_2024_xclusiv-2024_12_16_compressed.pdf
 2024-12-16,50,Dry,Ultramax,Resale,39.0,xclusiv_2024_xclusiv-2024_12_16_compressed.pdf
 2024-12-16,50,Tanker,Aframax,10 Year,51.5,xclusiv_2024_xclusiv-2024_12_16_compressed.pdf
@@ -5693,7 +5693,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2024-12-23,51,Dry,Kamsarmax,5 Year,34.3,xclusiv_2024_xclusiv-2024_12_23.pdf
 2024-12-23,51,Dry,Kamsarmax,Resale,40.0,xclusiv_2024_xclusiv-2024_12_23.pdf
 2024-12-23,51,Dry,Ultramax,10 Year,23.0,xclusiv_2024_xclusiv-2024_12_23.pdf
-2024-12-23,51,Dry,Ultramax,15 Year,14.8,xclusiv_2024_xclusiv-2024_12_23.pdf
+2024-12-23,51,Dry,Supramax,15 Year,14.8,xclusiv_2024_xclusiv-2024_12_23.pdf
 2024-12-23,51,Dry,Ultramax,5 Year,32.0,xclusiv_2024_xclusiv-2024_12_23.pdf
 2024-12-23,51,Dry,Ultramax,Resale,39.0,xclusiv_2024_xclusiv-2024_12_23.pdf
 2024-12-23,51,Tanker,Aframax,10 Year,51.3,xclusiv_2024_xclusiv-2024_12_23.pdf
@@ -5725,7 +5725,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-01-07,1,Dry,Kamsarmax,5 Year,34.0,xclusiv_2025_xclusiv-2025_01_07.pdf
 2025-01-07,1,Dry,Kamsarmax,Resale,40.0,xclusiv_2025_xclusiv-2025_01_07.pdf
 2025-01-07,1,Dry,Ultramax,10 Year,23.0,xclusiv_2025_xclusiv-2025_01_07.pdf
-2025-01-07,1,Dry,Ultramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_01_07.pdf
+2025-01-07,1,Dry,Supramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_01_07.pdf
 2025-01-07,1,Dry,Ultramax,5 Year,32.0,xclusiv_2025_xclusiv-2025_01_07.pdf
 2025-01-07,1,Dry,Ultramax,Resale,39.0,xclusiv_2025_xclusiv-2025_01_07.pdf
 2025-01-07,1,Tanker,Aframax,10 Year,51.0,xclusiv_2025_xclusiv-2025_01_07.pdf
@@ -5757,7 +5757,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-01-13,2,Dry,Kamsarmax,5 Year,34.0,xclusiv_2025_xclusiv-2025_01_13.pdf
 2025-01-13,2,Dry,Kamsarmax,Resale,40.0,xclusiv_2025_xclusiv-2025_01_13.pdf
 2025-01-13,2,Dry,Ultramax,10 Year,23.0,xclusiv_2025_xclusiv-2025_01_13.pdf
-2025-01-13,2,Dry,Ultramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_01_13.pdf
+2025-01-13,2,Dry,Supramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_01_13.pdf
 2025-01-13,2,Dry,Ultramax,5 Year,32.0,xclusiv_2025_xclusiv-2025_01_13.pdf
 2025-01-13,2,Dry,Ultramax,Resale,39.0,xclusiv_2025_xclusiv-2025_01_13.pdf
 2025-01-13,2,Tanker,Aframax,10 Year,51.0,xclusiv_2025_xclusiv-2025_01_13.pdf
@@ -5789,7 +5789,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-01-20,3,Dry,Kamsarmax,5 Year,34.0,xclusiv_2025_xclusiv-2025_01_20.pdf
 2025-01-20,3,Dry,Kamsarmax,Resale,40.0,xclusiv_2025_xclusiv-2025_01_20.pdf
 2025-01-20,3,Dry,Ultramax,10 Year,23.0,xclusiv_2025_xclusiv-2025_01_20.pdf
-2025-01-20,3,Dry,Ultramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_01_20.pdf
+2025-01-20,3,Dry,Supramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_01_20.pdf
 2025-01-20,3,Dry,Ultramax,5 Year,32.0,xclusiv_2025_xclusiv-2025_01_20.pdf
 2025-01-20,3,Dry,Ultramax,Resale,39.0,xclusiv_2025_xclusiv-2025_01_20.pdf
 2025-01-20,3,Tanker,Aframax,10 Year,51.2,xclusiv_2025_xclusiv-2025_01_20.pdf
@@ -5821,7 +5821,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-01-27,4,Dry,Kamsarmax,5 Year,34.0,xclusiv_2025_xclusiv-2025_01_27.pdf
 2025-01-27,4,Dry,Kamsarmax,Resale,39.5,xclusiv_2025_xclusiv-2025_01_27.pdf
 2025-01-27,4,Dry,Ultramax,10 Year,22.8,xclusiv_2025_xclusiv-2025_01_27.pdf
-2025-01-27,4,Dry,Ultramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_01_27.pdf
+2025-01-27,4,Dry,Supramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_01_27.pdf
 2025-01-27,4,Dry,Ultramax,5 Year,31.5,xclusiv_2025_xclusiv-2025_01_27.pdf
 2025-01-27,4,Dry,Ultramax,Resale,38.2,xclusiv_2025_xclusiv-2025_01_27.pdf
 2025-01-27,4,Tanker,Aframax,10 Year,51.3,xclusiv_2025_xclusiv-2025_01_27.pdf
@@ -5853,7 +5853,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-02-03,5,Dry,Kamsarmax,5 Year,33.8,xclusiv_2025_xclusiv-2025_02_03.pdf
 2025-02-03,5,Dry,Kamsarmax,Resale,39.4,xclusiv_2025_xclusiv-2025_02_03.pdf
 2025-02-03,5,Dry,Ultramax,10 Year,22.7,xclusiv_2025_xclusiv-2025_02_03.pdf
-2025-02-03,5,Dry,Ultramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_02_03.pdf
+2025-02-03,5,Dry,Supramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_02_03.pdf
 2025-02-03,5,Dry,Ultramax,5 Year,31.3,xclusiv_2025_xclusiv-2025_02_03.pdf
 2025-02-03,5,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_02_03.pdf
 2025-02-03,5,Tanker,Aframax,10 Year,51.3,xclusiv_2025_xclusiv-2025_02_03.pdf
@@ -5885,7 +5885,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-02-10,6,Dry,Kamsarmax,5 Year,33.0,xclusiv_2025_xclusiv-2025_02_10.pdf
 2025-02-10,6,Dry,Kamsarmax,Resale,39.0,xclusiv_2025_xclusiv-2025_02_10.pdf
 2025-02-10,6,Dry,Ultramax,10 Year,22.2,xclusiv_2025_xclusiv-2025_02_10.pdf
-2025-02-10,6,Dry,Ultramax,15 Year,14.3,xclusiv_2025_xclusiv-2025_02_10.pdf
+2025-02-10,6,Dry,Supramax,15 Year,14.3,xclusiv_2025_xclusiv-2025_02_10.pdf
 2025-02-10,6,Dry,Ultramax,5 Year,30.6,xclusiv_2025_xclusiv-2025_02_10.pdf
 2025-02-10,6,Dry,Ultramax,Resale,37.0,xclusiv_2025_xclusiv-2025_02_10.pdf
 2025-02-10,6,Tanker,Aframax,10 Year,51.5,xclusiv_2025_xclusiv-2025_02_10.pdf
@@ -5917,7 +5917,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-02-17,7,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_02_17.pdf
 2025-02-17,7,Dry,Kamsarmax,Resale,38.5,xclusiv_2025_xclusiv-2025_02_17.pdf
 2025-02-17,7,Dry,Ultramax,10 Year,22.2,xclusiv_2025_xclusiv-2025_02_17.pdf
-2025-02-17,7,Dry,Ultramax,15 Year,14.3,xclusiv_2025_xclusiv-2025_02_17.pdf
+2025-02-17,7,Dry,Supramax,15 Year,14.3,xclusiv_2025_xclusiv-2025_02_17.pdf
 2025-02-17,7,Dry,Ultramax,5 Year,30.6,xclusiv_2025_xclusiv-2025_02_17.pdf
 2025-02-17,7,Dry,Ultramax,Resale,37.0,xclusiv_2025_xclusiv-2025_02_17.pdf
 2025-02-17,7,Tanker,Aframax,10 Year,50.5,xclusiv_2025_xclusiv-2025_02_17.pdf
@@ -5981,7 +5981,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-03-04,9,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_03_04.pdf
 2025-03-04,9,Dry,Kamsarmax,Resale,38.5,xclusiv_2025_xclusiv-2025_03_04.pdf
 2025-03-04,9,Dry,Ultramax,10 Year,22.2,xclusiv_2025_xclusiv-2025_03_04.pdf
-2025-03-04,9,Dry,Ultramax,15 Year,14.3,xclusiv_2025_xclusiv-2025_03_04.pdf
+2025-03-04,9,Dry,Supramax,15 Year,14.3,xclusiv_2025_xclusiv-2025_03_04.pdf
 2025-03-04,9,Dry,Ultramax,5 Year,30.6,xclusiv_2025_xclusiv-2025_03_04.pdf
 2025-03-04,9,Dry,Ultramax,Resale,37.0,xclusiv_2025_xclusiv-2025_03_04.pdf
 2025-03-04,9,Tanker,Aframax,10 Year,50.3,xclusiv_2025_xclusiv-2025_03_04.pdf
@@ -6013,7 +6013,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-03-10,10,Dry,Kamsarmax,5 Year,32.0,xclusiv_2025_xclusiv-2025_03_10.pdf
 2025-03-10,10,Dry,Kamsarmax,Resale,38.2,xclusiv_2025_xclusiv-2025_03_10.pdf
 2025-03-10,10,Dry,Ultramax,10 Year,22.0,xclusiv_2025_xclusiv-2025_03_10.pdf
-2025-03-10,10,Dry,Ultramax,15 Year,14.3,xclusiv_2025_xclusiv-2025_03_10.pdf
+2025-03-10,10,Dry,Supramax,15 Year,14.3,xclusiv_2025_xclusiv-2025_03_10.pdf
 2025-03-10,10,Dry,Ultramax,5 Year,30.3,xclusiv_2025_xclusiv-2025_03_10.pdf
 2025-03-10,10,Dry,Ultramax,Resale,36.7,xclusiv_2025_xclusiv-2025_03_10.pdf
 2025-03-10,10,Tanker,Aframax,10 Year,49.5,xclusiv_2025_xclusiv-2025_03_10.pdf
@@ -6045,7 +6045,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-03-17,11,Dry,Kamsarmax,5 Year,32.0,xclusiv_2025_xclusiv-2025_03_17.pdf
 2025-03-17,11,Dry,Kamsarmax,Resale,38.2,xclusiv_2025_xclusiv-2025_03_17.pdf
 2025-03-17,11,Dry,Ultramax,10 Year,22.0,xclusiv_2025_xclusiv-2025_03_17.pdf
-2025-03-17,11,Dry,Ultramax,15 Year,14.3,xclusiv_2025_xclusiv-2025_03_17.pdf
+2025-03-17,11,Dry,Supramax,15 Year,14.3,xclusiv_2025_xclusiv-2025_03_17.pdf
 2025-03-17,11,Dry,Ultramax,5 Year,30.3,xclusiv_2025_xclusiv-2025_03_17.pdf
 2025-03-17,11,Dry,Ultramax,Resale,36.7,xclusiv_2025_xclusiv-2025_03_17.pdf
 2025-03-17,11,Tanker,Aframax,10 Year,49.5,xclusiv_2025_xclusiv-2025_03_17.pdf
@@ -6077,7 +6077,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-03-24,12,Dry,Kamsarmax,5 Year,32.2,xclusiv_2025_xclusiv-2025_03_24.pdf
 2025-03-24,12,Dry,Kamsarmax,Resale,38.3,xclusiv_2025_xclusiv-2025_03_24.pdf
 2025-03-24,12,Dry,Ultramax,10 Year,22.3,xclusiv_2025_xclusiv-2025_03_24.pdf
-2025-03-24,12,Dry,Ultramax,15 Year,14.4,xclusiv_2025_xclusiv-2025_03_24.pdf
+2025-03-24,12,Dry,Supramax,15 Year,14.4,xclusiv_2025_xclusiv-2025_03_24.pdf
 2025-03-24,12,Dry,Ultramax,5 Year,30.5,xclusiv_2025_xclusiv-2025_03_24.pdf
 2025-03-24,12,Dry,Ultramax,Resale,37.0,xclusiv_2025_xclusiv-2025_03_24.pdf
 2025-03-24,12,Tanker,Aframax,10 Year,49.5,xclusiv_2025_xclusiv-2025_03_24.pdf
@@ -6109,7 +6109,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-03-31,13,Dry,Kamsarmax,5 Year,32.3,xclusiv_2025_xclusiv-2025_03_31.pdf
 2025-03-31,13,Dry,Kamsarmax,Resale,38.4,xclusiv_2025_xclusiv-2025_03_31.pdf
 2025-03-31,13,Dry,Ultramax,10 Year,22.6,xclusiv_2025_xclusiv-2025_03_31.pdf
-2025-03-31,13,Dry,Ultramax,15 Year,14.6,xclusiv_2025_xclusiv-2025_03_31.pdf
+2025-03-31,13,Dry,Supramax,15 Year,14.6,xclusiv_2025_xclusiv-2025_03_31.pdf
 2025-03-31,13,Dry,Ultramax,5 Year,30.8,xclusiv_2025_xclusiv-2025_03_31.pdf
 2025-03-31,13,Dry,Ultramax,Resale,37.2,xclusiv_2025_xclusiv-2025_03_31.pdf
 2025-03-31,13,Tanker,Aframax,10 Year,49.5,xclusiv_2025_xclusiv-2025_03_31.pdf
@@ -6141,7 +6141,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-04-07,14,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_04_07_compressed.pdf
 2025-04-07,14,Dry,Kamsarmax,Resale,38.3,xclusiv_2025_xclusiv-2025_04_07_compressed.pdf
 2025-04-07,14,Dry,Ultramax,10 Year,23.5,xclusiv_2025_xclusiv-2025_04_07_compressed.pdf
-2025-04-07,14,Dry,Ultramax,15 Year,15.2,xclusiv_2025_xclusiv-2025_04_07_compressed.pdf
+2025-04-07,14,Dry,Supramax,15 Year,15.2,xclusiv_2025_xclusiv-2025_04_07_compressed.pdf
 2025-04-07,14,Dry,Ultramax,5 Year,31.3,xclusiv_2025_xclusiv-2025_04_07_compressed.pdf
 2025-04-07,14,Dry,Ultramax,Resale,37.8,xclusiv_2025_xclusiv-2025_04_07_compressed.pdf
 2025-04-07,14,Tanker,Aframax,10 Year,49.7,xclusiv_2025_xclusiv-2025_04_07_compressed.pdf
@@ -6173,7 +6173,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-04-14,15,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_04_14.pdf
 2025-04-14,15,Dry,Kamsarmax,Resale,38.3,xclusiv_2025_xclusiv-2025_04_14.pdf
 2025-04-14,15,Dry,Ultramax,10 Year,23.5,xclusiv_2025_xclusiv-2025_04_14.pdf
-2025-04-14,15,Dry,Ultramax,15 Year,15.2,xclusiv_2025_xclusiv-2025_04_14.pdf
+2025-04-14,15,Dry,Supramax,15 Year,15.2,xclusiv_2025_xclusiv-2025_04_14.pdf
 2025-04-14,15,Dry,Ultramax,5 Year,31.3,xclusiv_2025_xclusiv-2025_04_14.pdf
 2025-04-14,15,Dry,Ultramax,Resale,37.8,xclusiv_2025_xclusiv-2025_04_14.pdf
 2025-04-14,15,Tanker,Aframax,10 Year,49.7,xclusiv_2025_xclusiv-2025_04_14.pdf
@@ -6205,7 +6205,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-04-22,16,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_04_22_compressed.pdf
 2025-04-22,16,Dry,Kamsarmax,Resale,38.3,xclusiv_2025_xclusiv-2025_04_22_compressed.pdf
 2025-04-22,16,Dry,Ultramax,10 Year,23.5,xclusiv_2025_xclusiv-2025_04_22_compressed.pdf
-2025-04-22,16,Dry,Ultramax,15 Year,15.2,xclusiv_2025_xclusiv-2025_04_22_compressed.pdf
+2025-04-22,16,Dry,Supramax,15 Year,15.2,xclusiv_2025_xclusiv-2025_04_22_compressed.pdf
 2025-04-22,16,Dry,Ultramax,5 Year,31.3,xclusiv_2025_xclusiv-2025_04_22_compressed.pdf
 2025-04-22,16,Dry,Ultramax,Resale,37.9,xclusiv_2025_xclusiv-2025_04_22_compressed.pdf
 2025-04-22,16,Tanker,Aframax,10 Year,49.7,xclusiv_2025_xclusiv-2025_04_22_compressed.pdf
@@ -6237,7 +6237,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-04-28,17,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_04_28_compressed.pdf
 2025-04-28,17,Dry,Kamsarmax,Resale,38.3,xclusiv_2025_xclusiv-2025_04_28_compressed.pdf
 2025-04-28,17,Dry,Ultramax,10 Year,23.5,xclusiv_2025_xclusiv-2025_04_28_compressed.pdf
-2025-04-28,17,Dry,Ultramax,15 Year,15.2,xclusiv_2025_xclusiv-2025_04_28_compressed.pdf
+2025-04-28,17,Dry,Supramax,15 Year,15.2,xclusiv_2025_xclusiv-2025_04_28_compressed.pdf
 2025-04-28,17,Dry,Ultramax,5 Year,31.3,xclusiv_2025_xclusiv-2025_04_28_compressed.pdf
 2025-04-28,17,Dry,Ultramax,Resale,37.9,xclusiv_2025_xclusiv-2025_04_28_compressed.pdf
 2025-04-28,17,Tanker,Aframax,10 Year,49.7,xclusiv_2025_xclusiv-2025_04_28_compressed.pdf
@@ -6269,7 +6269,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-05-05,18,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_05_05_compressed.pdf
 2025-05-05,18,Dry,Kamsarmax,Resale,38.3,xclusiv_2025_xclusiv-2025_05_05_compressed.pdf
 2025-05-05,18,Dry,Ultramax,10 Year,23.5,xclusiv_2025_xclusiv-2025_05_05_compressed.pdf
-2025-05-05,18,Dry,Ultramax,15 Year,15.2,xclusiv_2025_xclusiv-2025_05_05_compressed.pdf
+2025-05-05,18,Dry,Supramax,15 Year,15.2,xclusiv_2025_xclusiv-2025_05_05_compressed.pdf
 2025-05-05,18,Dry,Ultramax,5 Year,31.3,xclusiv_2025_xclusiv-2025_05_05_compressed.pdf
 2025-05-05,18,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_05_05_compressed.pdf
 2025-05-05,18,Tanker,Aframax,10 Year,49.8,xclusiv_2025_xclusiv-2025_05_05_compressed.pdf
@@ -6301,7 +6301,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-05-12,19,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_05_12.pdf
 2025-05-12,19,Dry,Kamsarmax,Resale,38.3,xclusiv_2025_xclusiv-2025_05_12.pdf
 2025-05-12,19,Dry,Ultramax,10 Year,23.5,xclusiv_2025_xclusiv-2025_05_12.pdf
-2025-05-12,19,Dry,Ultramax,15 Year,15.2,xclusiv_2025_xclusiv-2025_05_12.pdf
+2025-05-12,19,Dry,Supramax,15 Year,15.2,xclusiv_2025_xclusiv-2025_05_12.pdf
 2025-05-12,19,Dry,Ultramax,5 Year,31.3,xclusiv_2025_xclusiv-2025_05_12.pdf
 2025-05-12,19,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_05_12.pdf
 2025-05-12,19,Tanker,Aframax,10 Year,49.8,xclusiv_2025_xclusiv-2025_05_12.pdf
@@ -6333,7 +6333,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-05-19,20,Dry,Kamsarmax,5 Year,32.3,xclusiv_2025_xclusiv-2025_05_19_compressed.pdf
 2025-05-19,20,Dry,Kamsarmax,Resale,38.3,xclusiv_2025_xclusiv-2025_05_19_compressed.pdf
 2025-05-19,20,Dry,Ultramax,10 Year,23.5,xclusiv_2025_xclusiv-2025_05_19_compressed.pdf
-2025-05-19,20,Dry,Ultramax,15 Year,15.1,xclusiv_2025_xclusiv-2025_05_19_compressed.pdf
+2025-05-19,20,Dry,Supramax,15 Year,15.1,xclusiv_2025_xclusiv-2025_05_19_compressed.pdf
 2025-05-19,20,Dry,Ultramax,5 Year,31.0,xclusiv_2025_xclusiv-2025_05_19_compressed.pdf
 2025-05-19,20,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_05_19_compressed.pdf
 2025-05-19,20,Tanker,Aframax,10 Year,49.8,xclusiv_2025_xclusiv-2025_05_19_compressed.pdf
@@ -6365,7 +6365,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-05-26,21,Dry,Kamsarmax,5 Year,32.1,xclusiv_2025_xclusiv-2025_05_26_compressed.pdf
 2025-05-26,21,Dry,Kamsarmax,Resale,38.3,xclusiv_2025_xclusiv-2025_05_26_compressed.pdf
 2025-05-26,21,Dry,Ultramax,10 Year,23.4,xclusiv_2025_xclusiv-2025_05_26_compressed.pdf
-2025-05-26,21,Dry,Ultramax,15 Year,15.1,xclusiv_2025_xclusiv-2025_05_26_compressed.pdf
+2025-05-26,21,Dry,Supramax,15 Year,15.1,xclusiv_2025_xclusiv-2025_05_26_compressed.pdf
 2025-05-26,21,Dry,Ultramax,5 Year,30.9,xclusiv_2025_xclusiv-2025_05_26_compressed.pdf
 2025-05-26,21,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_05_26_compressed.pdf
 2025-05-26,21,Tanker,Aframax,10 Year,49.8,xclusiv_2025_xclusiv-2025_05_26_compressed.pdf
@@ -6397,7 +6397,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-06-02,22,Dry,Kamsarmax,5 Year,32.0,xclusiv_2025_xclusiv-2025_06_02_compressed.pdf
 2025-06-02,22,Dry,Kamsarmax,Resale,38.3,xclusiv_2025_xclusiv-2025_06_02_compressed.pdf
 2025-06-02,22,Dry,Ultramax,10 Year,23.2,xclusiv_2025_xclusiv-2025_06_02_compressed.pdf
-2025-06-02,22,Dry,Ultramax,15 Year,15.1,xclusiv_2025_xclusiv-2025_06_02_compressed.pdf
+2025-06-02,22,Dry,Supramax,15 Year,15.1,xclusiv_2025_xclusiv-2025_06_02_compressed.pdf
 2025-06-02,22,Dry,Ultramax,5 Year,30.8,xclusiv_2025_xclusiv-2025_06_02_compressed.pdf
 2025-06-02,22,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_06_02_compressed.pdf
 2025-06-02,22,Tanker,Aframax,10 Year,49.8,xclusiv_2025_xclusiv-2025_06_02_compressed.pdf
@@ -6429,7 +6429,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-06-10,23,Dry,Kamsarmax,5 Year,30.5,xclusiv_2025_xclusiv-2025_06_10-1.pdf
 2025-06-10,23,Dry,Kamsarmax,Resale,37.8,xclusiv_2025_xclusiv-2025_06_10-1.pdf
 2025-06-10,23,Dry,Ultramax,10 Year,22.0,xclusiv_2025_xclusiv-2025_06_10-1.pdf
-2025-06-10,23,Dry,Ultramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_06_10-1.pdf
+2025-06-10,23,Dry,Supramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_06_10-1.pdf
 2025-06-10,23,Dry,Ultramax,5 Year,30.5,xclusiv_2025_xclusiv-2025_06_10-1.pdf
 2025-06-10,23,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_06_10-1.pdf
 2025-06-10,23,Tanker,Aframax,10 Year,49.8,xclusiv_2025_xclusiv-2025_06_10-1.pdf
@@ -6461,7 +6461,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-06-16,24,Dry,Kamsarmax,5 Year,30.5,xclusiv_2025_xclusiv-2025_06_16.pdf
 2025-06-16,24,Dry,Kamsarmax,Resale,37.8,xclusiv_2025_xclusiv-2025_06_16.pdf
 2025-06-16,24,Dry,Ultramax,10 Year,22.3,xclusiv_2025_xclusiv-2025_06_16.pdf
-2025-06-16,24,Dry,Ultramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_06_16.pdf
+2025-06-16,24,Dry,Supramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_06_16.pdf
 2025-06-16,24,Dry,Ultramax,5 Year,30.5,xclusiv_2025_xclusiv-2025_06_16.pdf
 2025-06-16,24,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_06_16.pdf
 2025-06-16,24,Tanker,Aframax,10 Year,49.8,xclusiv_2025_xclusiv-2025_06_16.pdf
@@ -6493,7 +6493,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-06-23,25,Dry,Kamsarmax,5 Year,30.5,xclusiv_2025_xclusiv-2025_06_23.pdf
 2025-06-23,25,Dry,Kamsarmax,Resale,37.9,xclusiv_2025_xclusiv-2025_06_23.pdf
 2025-06-23,25,Dry,Ultramax,10 Year,22.3,xclusiv_2025_xclusiv-2025_06_23.pdf
-2025-06-23,25,Dry,Ultramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_06_23.pdf
+2025-06-23,25,Dry,Supramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_06_23.pdf
 2025-06-23,25,Dry,Ultramax,5 Year,30.5,xclusiv_2025_xclusiv-2025_06_23.pdf
 2025-06-23,25,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_06_23.pdf
 2025-06-23,25,Tanker,Aframax,10 Year,49.8,xclusiv_2025_xclusiv-2025_06_23.pdf
@@ -6525,7 +6525,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-06-30,26,Dry,Kamsarmax,5 Year,30.5,xclusiv_2025_xclusiv-2025_06_30.pdf
 2025-06-30,26,Dry,Kamsarmax,Resale,37.9,xclusiv_2025_xclusiv-2025_06_30.pdf
 2025-06-30,26,Dry,Ultramax,10 Year,22.4,xclusiv_2025_xclusiv-2025_06_30.pdf
-2025-06-30,26,Dry,Ultramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_06_30.pdf
+2025-06-30,26,Dry,Supramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_06_30.pdf
 2025-06-30,26,Dry,Ultramax,5 Year,30.5,xclusiv_2025_xclusiv-2025_06_30.pdf
 2025-06-30,26,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_06_30.pdf
 2025-06-30,26,Tanker,Aframax,10 Year,49.9,xclusiv_2025_xclusiv-2025_06_30.pdf
@@ -6557,7 +6557,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-07-07,27,Dry,Kamsarmax,5 Year,30.5,xclusiv_2025_xclusiv-2025_07_07.pdf
 2025-07-07,27,Dry,Kamsarmax,Resale,38.0,xclusiv_2025_xclusiv-2025_07_07.pdf
 2025-07-07,27,Dry,Ultramax,10 Year,22.0,xclusiv_2025_xclusiv-2025_07_07.pdf
-2025-07-07,27,Dry,Ultramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_07_07.pdf
+2025-07-07,27,Dry,Supramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_07_07.pdf
 2025-07-07,27,Dry,Ultramax,5 Year,30.5,xclusiv_2025_xclusiv-2025_07_07.pdf
 2025-07-07,27,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_07_07.pdf
 2025-07-07,27,Tanker,Aframax,10 Year,50.0,xclusiv_2025_xclusiv-2025_07_07.pdf
@@ -6589,7 +6589,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-07-14,28,Dry,Kamsarmax,5 Year,30.5,xclusiv_2025_xclusiv-2025_07_14.pdf
 2025-07-14,28,Dry,Kamsarmax,Resale,38.0,xclusiv_2025_xclusiv-2025_07_14.pdf
 2025-07-14,28,Dry,Ultramax,10 Year,22.0,xclusiv_2025_xclusiv-2025_07_14.pdf
-2025-07-14,28,Dry,Ultramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_07_14.pdf
+2025-07-14,28,Dry,Supramax,15 Year,14.5,xclusiv_2025_xclusiv-2025_07_14.pdf
 2025-07-14,28,Dry,Ultramax,5 Year,30.5,xclusiv_2025_xclusiv-2025_07_14.pdf
 2025-07-14,28,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_07_14.pdf
 2025-07-14,28,Tanker,Aframax,10 Year,50.0,xclusiv_2025_xclusiv-2025_07_14.pdf
@@ -6621,7 +6621,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-07-21,29,Dry,Kamsarmax,5 Year,30.8,xclusiv_2025_xclusiv-2025_07_21.pdf
 2025-07-21,29,Dry,Kamsarmax,Resale,38.3,xclusiv_2025_xclusiv-2025_07_21.pdf
 2025-07-21,29,Dry,Ultramax,10 Year,22.0,xclusiv_2025_xclusiv-2025_07_21.pdf
-2025-07-21,29,Dry,Ultramax,15 Year,14.8,xclusiv_2025_xclusiv-2025_07_21.pdf
+2025-07-21,29,Dry,Supramax,15 Year,14.8,xclusiv_2025_xclusiv-2025_07_21.pdf
 2025-07-21,29,Dry,Ultramax,5 Year,30.5,xclusiv_2025_xclusiv-2025_07_21.pdf
 2025-07-21,29,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_07_21.pdf
 2025-07-21,29,Tanker,Aframax,10 Year,50.0,xclusiv_2025_xclusiv-2025_07_21.pdf
@@ -6653,7 +6653,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-07-28,30,Dry,Kamsarmax,5 Year,30.9,xclusiv_2025_xclusiv-2025_07_28.pdf
 2025-07-28,30,Dry,Kamsarmax,Resale,38.5,xclusiv_2025_xclusiv-2025_07_28.pdf
 2025-07-28,30,Dry,Ultramax,10 Year,22.0,xclusiv_2025_xclusiv-2025_07_28.pdf
-2025-07-28,30,Dry,Ultramax,15 Year,14.9,xclusiv_2025_xclusiv-2025_07_28.pdf
+2025-07-28,30,Dry,Supramax,15 Year,14.9,xclusiv_2025_xclusiv-2025_07_28.pdf
 2025-07-28,30,Dry,Ultramax,5 Year,30.2,xclusiv_2025_xclusiv-2025_07_28.pdf
 2025-07-28,30,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_07_28.pdf
 2025-07-28,30,Tanker,Aframax,10 Year,50.0,xclusiv_2025_xclusiv-2025_07_28.pdf
@@ -6685,7 +6685,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-08-04,31,Dry,Kamsarmax,5 Year,31.0,xclusiv_2025_xclusiv-2025_08_04.pdf
 2025-08-04,31,Dry,Kamsarmax,Resale,39.0,xclusiv_2025_xclusiv-2025_08_04.pdf
 2025-08-04,31,Dry,Ultramax,10 Year,22.0,xclusiv_2025_xclusiv-2025_08_04.pdf
-2025-08-04,31,Dry,Ultramax,15 Year,15.0,xclusiv_2025_xclusiv-2025_08_04.pdf
+2025-08-04,31,Dry,Supramax,15 Year,15.0,xclusiv_2025_xclusiv-2025_08_04.pdf
 2025-08-04,31,Dry,Ultramax,5 Year,30.0,xclusiv_2025_xclusiv-2025_08_04.pdf
 2025-08-04,31,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_08_04.pdf
 2025-08-04,31,Tanker,Aframax,10 Year,50.0,xclusiv_2025_xclusiv-2025_08_04.pdf
@@ -6717,7 +6717,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-08-11,32,Dry,Kamsarmax,5 Year,31.3,xclusiv_2025_xclusiv-2025_08_11.pdf
 2025-08-11,32,Dry,Kamsarmax,Resale,39.0,xclusiv_2025_xclusiv-2025_08_11.pdf
 2025-08-11,32,Dry,Ultramax,10 Year,22.0,xclusiv_2025_xclusiv-2025_08_11.pdf
-2025-08-11,32,Dry,Ultramax,15 Year,15.0,xclusiv_2025_xclusiv-2025_08_11.pdf
+2025-08-11,32,Dry,Supramax,15 Year,15.0,xclusiv_2025_xclusiv-2025_08_11.pdf
 2025-08-11,32,Dry,Ultramax,5 Year,30.3,xclusiv_2025_xclusiv-2025_08_11.pdf
 2025-08-11,32,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_08_11.pdf
 2025-08-11,32,Tanker,Aframax,10 Year,50.0,xclusiv_2025_xclusiv-2025_08_11.pdf
@@ -6749,7 +6749,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-08-18,33,Dry,Kamsarmax,5 Year,31.4,xclusiv_2025_xclusiv-2025_08_18.pdf
 2025-08-18,33,Dry,Kamsarmax,Resale,39.0,xclusiv_2025_xclusiv-2025_08_18.pdf
 2025-08-18,33,Dry,Ultramax,10 Year,22.1,xclusiv_2025_xclusiv-2025_08_18.pdf
-2025-08-18,33,Dry,Ultramax,15 Year,15.1,xclusiv_2025_xclusiv-2025_08_18.pdf
+2025-08-18,33,Dry,Supramax,15 Year,15.1,xclusiv_2025_xclusiv-2025_08_18.pdf
 2025-08-18,33,Dry,Ultramax,5 Year,30.5,xclusiv_2025_xclusiv-2025_08_18.pdf
 2025-08-18,33,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_08_18.pdf
 2025-08-18,33,Tanker,Aframax,10 Year,50.0,xclusiv_2025_xclusiv-2025_08_18.pdf
@@ -6781,7 +6781,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-08-25,34,Dry,Kamsarmax,5 Year,31.4,xclusiv_2025_xclusiv-2025_08_25.pdf
 2025-08-25,34,Dry,Kamsarmax,Resale,39.0,xclusiv_2025_xclusiv-2025_08_25.pdf
 2025-08-25,34,Dry,Ultramax,10 Year,22.1,xclusiv_2025_xclusiv-2025_08_25.pdf
-2025-08-25,34,Dry,Ultramax,15 Year,15.1,xclusiv_2025_xclusiv-2025_08_25.pdf
+2025-08-25,34,Dry,Supramax,15 Year,15.1,xclusiv_2025_xclusiv-2025_08_25.pdf
 2025-08-25,34,Dry,Ultramax,5 Year,30.7,xclusiv_2025_xclusiv-2025_08_25.pdf
 2025-08-25,34,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_08_25.pdf
 2025-08-25,34,Tanker,Aframax,10 Year,50.0,xclusiv_2025_xclusiv-2025_08_25.pdf
@@ -6813,7 +6813,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-09-01,35,Dry,Kamsarmax,5 Year,31.5,xclusiv_2025_xclusiv-2025_09_01.pdf
 2025-09-01,35,Dry,Kamsarmax,Resale,39.0,xclusiv_2025_xclusiv-2025_09_01.pdf
 2025-09-01,35,Dry,Ultramax,10 Year,22.1,xclusiv_2025_xclusiv-2025_09_01.pdf
-2025-09-01,35,Dry,Ultramax,15 Year,15.2,xclusiv_2025_xclusiv-2025_09_01.pdf
+2025-09-01,35,Dry,Supramax,15 Year,15.2,xclusiv_2025_xclusiv-2025_09_01.pdf
 2025-09-01,35,Dry,Ultramax,5 Year,30.7,xclusiv_2025_xclusiv-2025_09_01.pdf
 2025-09-01,35,Dry,Ultramax,Resale,38.1,xclusiv_2025_xclusiv-2025_09_01.pdf
 2025-09-01,35,Tanker,Aframax,10 Year,50.0,xclusiv_2025_xclusiv-2025_09_01.pdf
@@ -6845,7 +6845,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-09-08,36,Dry,Kamsarmax,5 Year,31.7,xclusiv_2025_xclusiv-2025_09_08.pdf
 2025-09-08,36,Dry,Kamsarmax,Resale,38.7,xclusiv_2025_xclusiv-2025_09_08.pdf
 2025-09-08,36,Dry,Ultramax,10 Year,22.2,xclusiv_2025_xclusiv-2025_09_08.pdf
-2025-09-08,36,Dry,Ultramax,15 Year,15.4,xclusiv_2025_xclusiv-2025_09_08.pdf
+2025-09-08,36,Dry,Supramax,15 Year,15.4,xclusiv_2025_xclusiv-2025_09_08.pdf
 2025-09-08,36,Dry,Ultramax,5 Year,31.0,xclusiv_2025_xclusiv-2025_09_08.pdf
 2025-09-08,36,Dry,Ultramax,Resale,38.3,xclusiv_2025_xclusiv-2025_09_08.pdf
 2025-09-08,36,Tanker,Aframax,10 Year,50.3,xclusiv_2025_xclusiv-2025_09_08.pdf
@@ -6877,7 +6877,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-09-22,38,Dry,Kamsarmax,5 Year,32.3,xclusiv_2025_xclusiv-2025_09_22.pdf
 2025-09-22,38,Dry,Kamsarmax,Resale,38.7,xclusiv_2025_xclusiv-2025_09_22.pdf
 2025-09-22,38,Dry,Ultramax,10 Year,23.0,xclusiv_2025_xclusiv-2025_09_22.pdf
-2025-09-22,38,Dry,Ultramax,15 Year,15.4,xclusiv_2025_xclusiv-2025_09_22.pdf
+2025-09-22,38,Dry,Supramax,15 Year,15.4,xclusiv_2025_xclusiv-2025_09_22.pdf
 2025-09-22,38,Dry,Ultramax,5 Year,31.0,xclusiv_2025_xclusiv-2025_09_22.pdf
 2025-09-22,38,Dry,Ultramax,Resale,38.4,xclusiv_2025_xclusiv-2025_09_22.pdf
 2025-09-22,38,Tanker,Aframax,10 Year,50.3,xclusiv_2025_xclusiv-2025_09_22.pdf
@@ -6909,7 +6909,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-09-29,39,Dry,Kamsarmax,5 Year,32.4,xclusiv_2025_xclusiv-2025_09_29.pdf
 2025-09-29,39,Dry,Kamsarmax,Resale,38.7,xclusiv_2025_xclusiv-2025_09_29.pdf
 2025-09-29,39,Dry,Ultramax,10 Year,23.0,xclusiv_2025_xclusiv-2025_09_29.pdf
-2025-09-29,39,Dry,Ultramax,15 Year,15.4,xclusiv_2025_xclusiv-2025_09_29.pdf
+2025-09-29,39,Dry,Supramax,15 Year,15.4,xclusiv_2025_xclusiv-2025_09_29.pdf
 2025-09-29,39,Dry,Ultramax,5 Year,31.0,xclusiv_2025_xclusiv-2025_09_29.pdf
 2025-09-29,39,Dry,Ultramax,Resale,38.5,xclusiv_2025_xclusiv-2025_09_29.pdf
 2025-09-29,39,Tanker,Aframax,10 Year,50.3,xclusiv_2025_xclusiv-2025_09_29.pdf
@@ -6941,7 +6941,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-10-06,40,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_10_06.pdf
 2025-10-06,40,Dry,Kamsarmax,Resale,38.7,xclusiv_2025_xclusiv-2025_10_06.pdf
 2025-10-06,40,Dry,Ultramax,10 Year,23.0,xclusiv_2025_xclusiv-2025_10_06.pdf
-2025-10-06,40,Dry,Ultramax,15 Year,15.4,xclusiv_2025_xclusiv-2025_10_06.pdf
+2025-10-06,40,Dry,Supramax,15 Year,15.4,xclusiv_2025_xclusiv-2025_10_06.pdf
 2025-10-06,40,Dry,Ultramax,5 Year,31.0,xclusiv_2025_xclusiv-2025_10_06.pdf
 2025-10-06,40,Dry,Ultramax,Resale,38.5,xclusiv_2025_xclusiv-2025_10_06.pdf
 2025-10-06,40,Tanker,Aframax,10 Year,50.3,xclusiv_2025_xclusiv-2025_10_06.pdf
@@ -6973,7 +6973,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-10-13,41,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_10_13.pdf
 2025-10-13,41,Dry,Kamsarmax,Resale,38.7,xclusiv_2025_xclusiv-2025_10_13.pdf
 2025-10-13,41,Dry,Ultramax,10 Year,23.0,xclusiv_2025_xclusiv-2025_10_13.pdf
-2025-10-13,41,Dry,Ultramax,15 Year,15.4,xclusiv_2025_xclusiv-2025_10_13.pdf
+2025-10-13,41,Dry,Supramax,15 Year,15.4,xclusiv_2025_xclusiv-2025_10_13.pdf
 2025-10-13,41,Dry,Ultramax,5 Year,31.0,xclusiv_2025_xclusiv-2025_10_13.pdf
 2025-10-13,41,Dry,Ultramax,Resale,38.5,xclusiv_2025_xclusiv-2025_10_13.pdf
 2025-10-13,41,Tanker,Aframax,10 Year,50.3,xclusiv_2025_xclusiv-2025_10_13.pdf
@@ -7005,7 +7005,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-10-20,42,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_10_20.pdf
 2025-10-20,42,Dry,Kamsarmax,Resale,38.7,xclusiv_2025_xclusiv-2025_10_20.pdf
 2025-10-20,42,Dry,Ultramax,10 Year,23.0,xclusiv_2025_xclusiv-2025_10_20.pdf
-2025-10-20,42,Dry,Ultramax,15 Year,15.4,xclusiv_2025_xclusiv-2025_10_20.pdf
+2025-10-20,42,Dry,Supramax,15 Year,15.4,xclusiv_2025_xclusiv-2025_10_20.pdf
 2025-10-20,42,Dry,Ultramax,5 Year,31.0,xclusiv_2025_xclusiv-2025_10_20.pdf
 2025-10-20,42,Dry,Ultramax,Resale,38.5,xclusiv_2025_xclusiv-2025_10_20.pdf
 2025-10-20,42,Tanker,Aframax,10 Year,50.3,xclusiv_2025_xclusiv-2025_10_20.pdf
@@ -7037,7 +7037,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-10-27,43,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_10_27.pdf
 2025-10-27,43,Dry,Kamsarmax,Resale,38.7,xclusiv_2025_xclusiv-2025_10_27.pdf
 2025-10-27,43,Dry,Ultramax,10 Year,23.0,xclusiv_2025_xclusiv-2025_10_27.pdf
-2025-10-27,43,Dry,Ultramax,15 Year,15.4,xclusiv_2025_xclusiv-2025_10_27.pdf
+2025-10-27,43,Dry,Supramax,15 Year,15.4,xclusiv_2025_xclusiv-2025_10_27.pdf
 2025-10-27,43,Dry,Ultramax,5 Year,31.0,xclusiv_2025_xclusiv-2025_10_27.pdf
 2025-10-27,43,Dry,Ultramax,Resale,38.1,xclusiv_2025_xclusiv-2025_10_27.pdf
 2025-10-27,43,Tanker,Aframax,10 Year,50.3,xclusiv_2025_xclusiv-2025_10_27.pdf
@@ -7069,7 +7069,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-11-03,44,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_11_03.pdf
 2025-11-03,44,Dry,Kamsarmax,Resale,38.7,xclusiv_2025_xclusiv-2025_11_03.pdf
 2025-11-03,44,Dry,Ultramax,10 Year,23.1,xclusiv_2025_xclusiv-2025_11_03.pdf
-2025-11-03,44,Dry,Ultramax,15 Year,15.5,xclusiv_2025_xclusiv-2025_11_03.pdf
+2025-11-03,44,Dry,Supramax,15 Year,15.5,xclusiv_2025_xclusiv-2025_11_03.pdf
 2025-11-03,44,Dry,Ultramax,5 Year,31.1,xclusiv_2025_xclusiv-2025_11_03.pdf
 2025-11-03,44,Dry,Ultramax,Resale,37.9,xclusiv_2025_xclusiv-2025_11_03.pdf
 2025-11-03,44,Tanker,Aframax,10 Year,50.3,xclusiv_2025_xclusiv-2025_11_03.pdf
@@ -7101,7 +7101,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-11-10,45,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_11_10.pdf
 2025-11-10,45,Dry,Kamsarmax,Resale,38.7,xclusiv_2025_xclusiv-2025_11_10.pdf
 2025-11-10,45,Dry,Ultramax,10 Year,23.0,xclusiv_2025_xclusiv-2025_11_10.pdf
-2025-11-10,45,Dry,Ultramax,15 Year,15.8,xclusiv_2025_xclusiv-2025_11_10.pdf
+2025-11-10,45,Dry,Supramax,15 Year,15.8,xclusiv_2025_xclusiv-2025_11_10.pdf
 2025-11-10,45,Dry,Ultramax,5 Year,31.3,xclusiv_2025_xclusiv-2025_11_10.pdf
 2025-11-10,45,Dry,Ultramax,Resale,37.0,xclusiv_2025_xclusiv-2025_11_10.pdf
 2025-11-10,45,Tanker,Aframax,10 Year,55.0,xclusiv_2025_xclusiv-2025_11_10.pdf
@@ -7133,7 +7133,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-11-17,46,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_11_17-1.pdf
 2025-11-17,46,Dry,Kamsarmax,Resale,38.7,xclusiv_2025_xclusiv-2025_11_17-1.pdf
 2025-11-17,46,Dry,Ultramax,10 Year,23.0,xclusiv_2025_xclusiv-2025_11_17-1.pdf
-2025-11-17,46,Dry,Ultramax,15 Year,15.8,xclusiv_2025_xclusiv-2025_11_17-1.pdf
+2025-11-17,46,Dry,Supramax,15 Year,15.8,xclusiv_2025_xclusiv-2025_11_17-1.pdf
 2025-11-17,46,Dry,Ultramax,5 Year,31.3,xclusiv_2025_xclusiv-2025_11_17-1.pdf
 2025-11-17,46,Dry,Ultramax,Resale,37.0,xclusiv_2025_xclusiv-2025_11_17-1.pdf
 2025-11-17,46,Tanker,Aframax,10 Year,55.0,xclusiv_2025_xclusiv-2025_11_17-1.pdf
@@ -7165,7 +7165,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-11-24,47,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_11_24.pdf
 2025-11-24,47,Dry,Kamsarmax,Resale,38.7,xclusiv_2025_xclusiv-2025_11_24.pdf
 2025-11-24,47,Dry,Ultramax,10 Year,24.0,xclusiv_2025_xclusiv-2025_11_24.pdf
-2025-11-24,47,Dry,Ultramax,15 Year,15.8,xclusiv_2025_xclusiv-2025_11_24.pdf
+2025-11-24,47,Dry,Supramax,15 Year,15.8,xclusiv_2025_xclusiv-2025_11_24.pdf
 2025-11-24,47,Dry,Ultramax,5 Year,31.3,xclusiv_2025_xclusiv-2025_11_24.pdf
 2025-11-24,47,Dry,Ultramax,Resale,37.0,xclusiv_2025_xclusiv-2025_11_24.pdf
 2025-11-24,47,Tanker,Aframax,10 Year,55.0,xclusiv_2025_xclusiv-2025_11_24.pdf
@@ -7197,7 +7197,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-12-01,48,Dry,Kamsarmax,5 Year,32.5,xclusiv_2025_xclusiv-2025_12_01.pdf
 2025-12-01,48,Dry,Kamsarmax,Resale,38.7,xclusiv_2025_xclusiv-2025_12_01.pdf
 2025-12-01,48,Dry,Ultramax,10 Year,24.1,xclusiv_2025_xclusiv-2025_12_01.pdf
-2025-12-01,48,Dry,Ultramax,15 Year,15.8,xclusiv_2025_xclusiv-2025_12_01.pdf
+2025-12-01,48,Dry,Supramax,15 Year,15.8,xclusiv_2025_xclusiv-2025_12_01.pdf
 2025-12-01,48,Dry,Ultramax,5 Year,31.3,xclusiv_2025_xclusiv-2025_12_01.pdf
 2025-12-01,48,Dry,Ultramax,Resale,37.0,xclusiv_2025_xclusiv-2025_12_01.pdf
 2025-12-01,48,Tanker,Aframax,10 Year,55.0,xclusiv_2025_xclusiv-2025_12_01.pdf
@@ -7229,7 +7229,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-12-08,49,Dry,Kamsarmax,5 Year,34.0,xclusiv_2025_xclusiv-2025_12_08.pdf
 2025-12-08,49,Dry,Kamsarmax,Resale,40.0,xclusiv_2025_xclusiv-2025_12_08.pdf
 2025-12-08,49,Dry,Ultramax,10 Year,24.6,xclusiv_2025_xclusiv-2025_12_08.pdf
-2025-12-08,49,Dry,Ultramax,15 Year,15.8,xclusiv_2025_xclusiv-2025_12_08.pdf
+2025-12-08,49,Dry,Supramax,15 Year,15.8,xclusiv_2025_xclusiv-2025_12_08.pdf
 2025-12-08,49,Dry,Ultramax,5 Year,33.0,xclusiv_2025_xclusiv-2025_12_08.pdf
 2025-12-08,49,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_12_08.pdf
 2025-12-08,49,Tanker,Aframax,10 Year,55.0,xclusiv_2025_xclusiv-2025_12_08.pdf
@@ -7261,7 +7261,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-12-15,50,Dry,Kamsarmax,5 Year,34.0,xclusiv_2025_xclusiv-2025_12_15.pdf
 2025-12-15,50,Dry,Kamsarmax,Resale,40.0,xclusiv_2025_xclusiv-2025_12_15.pdf
 2025-12-15,50,Dry,Ultramax,10 Year,24.6,xclusiv_2025_xclusiv-2025_12_15.pdf
-2025-12-15,50,Dry,Ultramax,15 Year,15.8,xclusiv_2025_xclusiv-2025_12_15.pdf
+2025-12-15,50,Dry,Supramax,15 Year,15.8,xclusiv_2025_xclusiv-2025_12_15.pdf
 2025-12-15,50,Dry,Ultramax,5 Year,33.0,xclusiv_2025_xclusiv-2025_12_15.pdf
 2025-12-15,50,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_12_15.pdf
 2025-12-15,50,Tanker,Aframax,10 Year,55.0,xclusiv_2025_xclusiv-2025_12_15.pdf
@@ -7293,7 +7293,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2025-12-22,51,Dry,Kamsarmax,5 Year,34.0,xclusiv_2025_xclusiv-2025_12_22.pdf
 2025-12-22,51,Dry,Kamsarmax,Resale,40.0,xclusiv_2025_xclusiv-2025_12_22.pdf
 2025-12-22,51,Dry,Ultramax,10 Year,24.6,xclusiv_2025_xclusiv-2025_12_22.pdf
-2025-12-22,51,Dry,Ultramax,15 Year,15.8,xclusiv_2025_xclusiv-2025_12_22.pdf
+2025-12-22,51,Dry,Supramax,15 Year,15.8,xclusiv_2025_xclusiv-2025_12_22.pdf
 2025-12-22,51,Dry,Ultramax,5 Year,33.0,xclusiv_2025_xclusiv-2025_12_22.pdf
 2025-12-22,51,Dry,Ultramax,Resale,38.0,xclusiv_2025_xclusiv-2025_12_22.pdf
 2025-12-22,51,Tanker,Aframax,10 Year,55.0,xclusiv_2025_xclusiv-2025_12_22.pdf
@@ -7325,7 +7325,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-01-05,1,Dry,Kamsarmax,5 Year,34.0,xclusiv_2026_xclusiv-2026_01_05.pdf
 2026-01-05,1,Dry,Kamsarmax,Resale,40.0,xclusiv_2026_xclusiv-2026_01_05.pdf
 2026-01-05,1,Dry,Ultramax,10 Year,24.6,xclusiv_2026_xclusiv-2026_01_05.pdf
-2026-01-05,1,Dry,Ultramax,15 Year,15.8,xclusiv_2026_xclusiv-2026_01_05.pdf
+2026-01-05,1,Dry,Supramax,15 Year,15.8,xclusiv_2026_xclusiv-2026_01_05.pdf
 2026-01-05,1,Dry,Ultramax,5 Year,33.0,xclusiv_2026_xclusiv-2026_01_05.pdf
 2026-01-05,1,Dry,Ultramax,Resale,38.0,xclusiv_2026_xclusiv-2026_01_05.pdf
 2026-01-05,1,Tanker,Aframax,10 Year,55.0,xclusiv_2026_xclusiv-2026_01_05.pdf
@@ -7357,7 +7357,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-01-12,2,Dry,Kamsarmax,5 Year,34.8,xclusiv_2026_xclusiv-2026_01_12.pdf
 2026-01-12,2,Dry,Kamsarmax,Resale,40.0,xclusiv_2026_xclusiv-2026_01_12.pdf
 2026-01-12,2,Dry,Ultramax,10 Year,24.6,xclusiv_2026_xclusiv-2026_01_12.pdf
-2026-01-12,2,Dry,Ultramax,15 Year,15.8,xclusiv_2026_xclusiv-2026_01_12.pdf
+2026-01-12,2,Dry,Supramax,15 Year,15.8,xclusiv_2026_xclusiv-2026_01_12.pdf
 2026-01-12,2,Dry,Ultramax,5 Year,31.7,xclusiv_2026_xclusiv-2026_01_12.pdf
 2026-01-12,2,Dry,Ultramax,Resale,38.0,xclusiv_2026_xclusiv-2026_01_12.pdf
 2026-01-12,2,Tanker,Aframax,10 Year,56.3,xclusiv_2026_xclusiv-2026_01_12.pdf
@@ -7389,7 +7389,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-01-19,3,Dry,Kamsarmax,5 Year,34.8,xclusiv_2026_xclusiv-2026_01_19.pdf
 2026-01-19,3,Dry,Kamsarmax,Resale,40.0,xclusiv_2026_xclusiv-2026_01_19.pdf
 2026-01-19,3,Dry,Ultramax,10 Year,24.6,xclusiv_2026_xclusiv-2026_01_19.pdf
-2026-01-19,3,Dry,Ultramax,15 Year,15.8,xclusiv_2026_xclusiv-2026_01_19.pdf
+2026-01-19,3,Dry,Supramax,15 Year,15.8,xclusiv_2026_xclusiv-2026_01_19.pdf
 2026-01-19,3,Dry,Ultramax,5 Year,31.7,xclusiv_2026_xclusiv-2026_01_19.pdf
 2026-01-19,3,Dry,Ultramax,Resale,38.0,xclusiv_2026_xclusiv-2026_01_19.pdf
 2026-01-19,3,Tanker,Aframax,10 Year,57.5,xclusiv_2026_xclusiv-2026_01_19.pdf
@@ -7421,7 +7421,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-01-26,4,Dry,Kamsarmax,5 Year,32.7,xclusiv_2026_xclusiv-2026_01_26.pdf
 2026-01-26,4,Dry,Kamsarmax,Resale,40.1,xclusiv_2026_xclusiv-2026_01_26.pdf
 2026-01-26,4,Dry,Ultramax,10 Year,24.8,xclusiv_2026_xclusiv-2026_01_26.pdf
-2026-01-26,4,Dry,Ultramax,15 Year,15.8,xclusiv_2026_xclusiv-2026_01_26.pdf
+2026-01-26,4,Dry,Supramax,15 Year,15.8,xclusiv_2026_xclusiv-2026_01_26.pdf
 2026-01-26,4,Dry,Ultramax,5 Year,31.8,xclusiv_2026_xclusiv-2026_01_26.pdf
 2026-01-26,4,Dry,Ultramax,Resale,37.0,xclusiv_2026_xclusiv-2026_01_26.pdf
 2026-01-26,4,Tanker,Aframax,10 Year,58.1,xclusiv_2026_xclusiv-2026_01_26.pdf
@@ -7549,7 +7549,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-02-24,8,Dry,Kamsarmax,5 Year,34.5,xclusiv_2026_xclusiv-2026_02_24.pdf
 2026-02-24,8,Dry,Kamsarmax,Resale,41.8,xclusiv_2026_xclusiv-2026_02_24.pdf
 2026-02-24,8,Dry,Ultramax,10 Year,26.5,xclusiv_2026_xclusiv-2026_02_24.pdf
-2026-02-24,8,Dry,Ultramax,15 Year,15.8,xclusiv_2026_xclusiv-2026_02_24.pdf
+2026-02-24,8,Dry,Supramax,15 Year,15.8,xclusiv_2026_xclusiv-2026_02_24.pdf
 2026-02-24,8,Dry,Ultramax,5 Year,34.5,xclusiv_2026_xclusiv-2026_02_24.pdf
 2026-02-24,8,Dry,Ultramax,Resale,41.2,xclusiv_2026_xclusiv-2026_02_24.pdf
 2026-02-24,8,Tanker,Aframax,10 Year,60.0,xclusiv_2026_xclusiv-2026_02_24.pdf
@@ -7581,7 +7581,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-03-02,9,Dry,Kamsarmax,5 Year,34.8,xclusiv_2026_xclusiv-2026_03_02.pdf
 2026-03-02,9,Dry,Kamsarmax,Resale,42.0,xclusiv_2026_xclusiv-2026_03_02.pdf
 2026-03-02,9,Dry,Ultramax,10 Year,26.6,xclusiv_2026_xclusiv-2026_03_02.pdf
-2026-03-02,9,Dry,Ultramax,15 Year,16.7,xclusiv_2026_xclusiv-2026_03_02.pdf
+2026-03-02,9,Dry,Supramax,15 Year,16.7,xclusiv_2026_xclusiv-2026_03_02.pdf
 2026-03-02,9,Dry,Ultramax,5 Year,34.8,xclusiv_2026_xclusiv-2026_03_02.pdf
 2026-03-02,9,Dry,Ultramax,Resale,41.3,xclusiv_2026_xclusiv-2026_03_02.pdf
 2026-03-02,9,Tanker,Aframax,10 Year,60.0,xclusiv_2026_xclusiv-2026_03_02.pdf
@@ -7613,7 +7613,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-03-09,10,Dry,Kamsarmax,5 Year,36.5,xclusiv_2026_xclusiv-2026_03_09.pdf
 2026-03-09,10,Dry,Kamsarmax,Resale,42.5,xclusiv_2026_xclusiv-2026_03_09.pdf
 2026-03-09,10,Dry,Ultramax,10 Year,28.0,xclusiv_2026_xclusiv-2026_03_09.pdf
-2026-03-09,10,Dry,Ultramax,15 Year,16.0,xclusiv_2026_xclusiv-2026_03_09.pdf
+2026-03-09,10,Dry,Supramax,15 Year,16.0,xclusiv_2026_xclusiv-2026_03_09.pdf
 2026-03-09,10,Dry,Ultramax,5 Year,35.5,xclusiv_2026_xclusiv-2026_03_09.pdf
 2026-03-09,10,Dry,Ultramax,Resale,41.5,xclusiv_2026_xclusiv-2026_03_09.pdf
 2026-03-09,10,Tanker,Aframax,10 Year,61.5,xclusiv_2026_xclusiv-2026_03_09.pdf
@@ -7645,7 +7645,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-03-16,11,Dry,Kamsarmax,5 Year,36.8,xclusiv_2026_xclusiv-2026_03_16.pdf
 2026-03-16,11,Dry,Kamsarmax,Resale,42.5,xclusiv_2026_xclusiv-2026_03_16.pdf
 2026-03-16,11,Dry,Ultramax,10 Year,28.0,xclusiv_2026_xclusiv-2026_03_16.pdf
-2026-03-16,11,Dry,Ultramax,15 Year,16.0,xclusiv_2026_xclusiv-2026_03_16.pdf
+2026-03-16,11,Dry,Supramax,15 Year,16.0,xclusiv_2026_xclusiv-2026_03_16.pdf
 2026-03-16,11,Dry,Ultramax,5 Year,36.3,xclusiv_2026_xclusiv-2026_03_16.pdf
 2026-03-16,11,Dry,Ultramax,Resale,41.8,xclusiv_2026_xclusiv-2026_03_16.pdf
 2026-03-16,11,Tanker,Aframax,10 Year,61.5,xclusiv_2026_xclusiv-2026_03_16.pdf
@@ -7677,7 +7677,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-03-23,12,Dry,Kamsarmax,5 Year,36.8,xclusiv_2026_xclusiv-2026_03_23.pdf
 2026-03-23,12,Dry,Kamsarmax,Resale,42.5,xclusiv_2026_xclusiv-2026_03_23.pdf
 2026-03-23,12,Dry,Ultramax,10 Year,28.2,xclusiv_2026_xclusiv-2026_03_23.pdf
-2026-03-23,12,Dry,Ultramax,15 Year,16.0,xclusiv_2026_xclusiv-2026_03_23.pdf
+2026-03-23,12,Dry,Supramax,15 Year,16.0,xclusiv_2026_xclusiv-2026_03_23.pdf
 2026-03-23,12,Dry,Ultramax,5 Year,36.5,xclusiv_2026_xclusiv-2026_03_23.pdf
 2026-03-23,12,Dry,Ultramax,Resale,41.8,xclusiv_2026_xclusiv-2026_03_23.pdf
 2026-03-23,12,Tanker,Aframax,10 Year,61.5,xclusiv_2026_xclusiv-2026_03_23.pdf
@@ -7709,7 +7709,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-03-30,13,Dry,Kamsarmax,5 Year,36.9,xclusiv_2026_xclusiv-2026_03_30.pdf
 2026-03-30,13,Dry,Kamsarmax,Resale,42.5,xclusiv_2026_xclusiv-2026_03_30.pdf
 2026-03-30,13,Dry,Ultramax,10 Year,28.3,xclusiv_2026_xclusiv-2026_03_30.pdf
-2026-03-30,13,Dry,Ultramax,15 Year,16.1,xclusiv_2026_xclusiv-2026_03_30.pdf
+2026-03-30,13,Dry,Supramax,15 Year,16.1,xclusiv_2026_xclusiv-2026_03_30.pdf
 2026-03-30,13,Dry,Ultramax,5 Year,36.6,xclusiv_2026_xclusiv-2026_03_30.pdf
 2026-03-30,13,Dry,Ultramax,Resale,41.9,xclusiv_2026_xclusiv-2026_03_30.pdf
 2026-03-30,13,Tanker,Aframax,10 Year,61.5,xclusiv_2026_xclusiv-2026_03_30.pdf
@@ -7741,7 +7741,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-04-14,15,Dry,Kamsarmax,5 Year,37.0,xclusiv_2026_xclusiv-2026_04_14.pdf
 2026-04-14,15,Dry,Kamsarmax,Resale,42.5,xclusiv_2026_xclusiv-2026_04_14.pdf
 2026-04-14,15,Dry,Ultramax,10 Year,28.5,xclusiv_2026_xclusiv-2026_04_14.pdf
-2026-04-14,15,Dry,Ultramax,15 Year,16.5,xclusiv_2026_xclusiv-2026_04_14.pdf
+2026-04-14,15,Dry,Supramax,15 Year,16.5,xclusiv_2026_xclusiv-2026_04_14.pdf
 2026-04-14,15,Dry,Ultramax,5 Year,37.0,xclusiv_2026_xclusiv-2026_04_14.pdf
 2026-04-14,15,Dry,Ultramax,Resale,42.0,xclusiv_2026_xclusiv-2026_04_14.pdf
 2026-04-14,15,Tanker,Aframax,10 Year,62.5,xclusiv_2026_xclusiv-2026_04_14.pdf
@@ -7773,7 +7773,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-04-20,16,Dry,Kamsarmax,5 Year,37.0,xclusiv_2026_xclusiv-2026_04_20.pdf
 2026-04-20,16,Dry,Kamsarmax,Resale,42.5,xclusiv_2026_xclusiv-2026_04_20.pdf
 2026-04-20,16,Dry,Ultramax,10 Year,28.0,xclusiv_2026_xclusiv-2026_04_20.pdf
-2026-04-20,16,Dry,Ultramax,15 Year,16.5,xclusiv_2026_xclusiv-2026_04_20.pdf
+2026-04-20,16,Dry,Supramax,15 Year,16.5,xclusiv_2026_xclusiv-2026_04_20.pdf
 2026-04-20,16,Dry,Ultramax,5 Year,37.0,xclusiv_2026_xclusiv-2026_04_20.pdf
 2026-04-20,16,Dry,Ultramax,Resale,42.0,xclusiv_2026_xclusiv-2026_04_20.pdf
 2026-04-20,16,Tanker,Aframax,10 Year,63.3,xclusiv_2026_xclusiv-2026_04_20.pdf
@@ -7805,7 +7805,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-04-27,17,Dry,Kamsarmax,5 Year,37.0,xclusiv_2026_xclusiv-2026_04_27.pdf
 2026-04-27,17,Dry,Kamsarmax,Resale,42.5,xclusiv_2026_xclusiv-2026_04_27.pdf
 2026-04-27,17,Dry,Ultramax,10 Year,28.0,xclusiv_2026_xclusiv-2026_04_27.pdf
-2026-04-27,17,Dry,Ultramax,15 Year,16.5,xclusiv_2026_xclusiv-2026_04_27.pdf
+2026-04-27,17,Dry,Supramax,15 Year,16.5,xclusiv_2026_xclusiv-2026_04_27.pdf
 2026-04-27,17,Dry,Ultramax,5 Year,37.0,xclusiv_2026_xclusiv-2026_04_27.pdf
 2026-04-27,17,Dry,Ultramax,Resale,42.0,xclusiv_2026_xclusiv-2026_04_27.pdf
 2026-04-27,17,Tanker,Aframax,10 Year,63.8,xclusiv_2026_xclusiv-2026_04_27.pdf
@@ -7837,7 +7837,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-05-04,18,Dry,Kamsarmax,5 Year,37.0,xclusiv_2026_xclusiv-2026_05_04.pdf
 2026-05-04,18,Dry,Kamsarmax,Resale,42.5,xclusiv_2026_xclusiv-2026_05_04.pdf
 2026-05-04,18,Dry,Ultramax,10 Year,28.0,xclusiv_2026_xclusiv-2026_05_04.pdf
-2026-05-04,18,Dry,Ultramax,15 Year,16.5,xclusiv_2026_xclusiv-2026_05_04.pdf
+2026-05-04,18,Dry,Supramax,15 Year,16.5,xclusiv_2026_xclusiv-2026_05_04.pdf
 2026-05-04,18,Dry,Ultramax,5 Year,37.0,xclusiv_2026_xclusiv-2026_05_04.pdf
 2026-05-04,18,Dry,Ultramax,Resale,42.0,xclusiv_2026_xclusiv-2026_05_04.pdf
 2026-05-04,18,Tanker,Aframax,10 Year,66.0,xclusiv_2026_xclusiv-2026_05_04.pdf
@@ -7869,7 +7869,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-05-11,19,Dry,Kamsarmax,5 Year,37.0,xclusiv_2026_xclusiv-2026_05_11.pdf
 2026-05-11,19,Dry,Kamsarmax,Resale,42.5,xclusiv_2026_xclusiv-2026_05_11.pdf
 2026-05-11,19,Dry,Ultramax,10 Year,28.0,xclusiv_2026_xclusiv-2026_05_11.pdf
-2026-05-11,19,Dry,Ultramax,15 Year,17.0,xclusiv_2026_xclusiv-2026_05_11.pdf
+2026-05-11,19,Dry,Supramax,15 Year,17.0,xclusiv_2026_xclusiv-2026_05_11.pdf
 2026-05-11,19,Dry,Ultramax,5 Year,37.0,xclusiv_2026_xclusiv-2026_05_11.pdf
 2026-05-11,19,Dry,Ultramax,Resale,42.0,xclusiv_2026_xclusiv-2026_05_11.pdf
 2026-05-11,19,Tanker,Aframax,10 Year,66.0,xclusiv_2026_xclusiv-2026_05_11.pdf
@@ -7901,7 +7901,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-05-18,20,Dry,Kamsarmax,5 Year,37.0,xclusiv_2026_xclusiv-2026_05_18.pdf
 2026-05-18,20,Dry,Kamsarmax,Resale,42.5,xclusiv_2026_xclusiv-2026_05_18.pdf
 2026-05-18,20,Dry,Ultramax,10 Year,28.0,xclusiv_2026_xclusiv-2026_05_18.pdf
-2026-05-18,20,Dry,Ultramax,15 Year,17.2,xclusiv_2026_xclusiv-2026_05_18.pdf
+2026-05-18,20,Dry,Supramax,15 Year,17.2,xclusiv_2026_xclusiv-2026_05_18.pdf
 2026-05-18,20,Dry,Ultramax,5 Year,37.0,xclusiv_2026_xclusiv-2026_05_18.pdf
 2026-05-18,20,Dry,Ultramax,Resale,42.0,xclusiv_2026_xclusiv-2026_05_18.pdf
 2026-05-18,20,Tanker,Aframax,10 Year,66.0,xclusiv_2026_xclusiv-2026_05_18.pdf
@@ -7933,7 +7933,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-05-25,21,Dry,Kamsarmax,5 Year,37.0,xclusiv_2026_xclusiv-2026_05_25_.pdf
 2026-05-25,21,Dry,Kamsarmax,Resale,42.5,xclusiv_2026_xclusiv-2026_05_25_.pdf
 2026-05-25,21,Dry,Ultramax,10 Year,28.0,xclusiv_2026_xclusiv-2026_05_25_.pdf
-2026-05-25,21,Dry,Ultramax,15 Year,18.1,xclusiv_2026_xclusiv-2026_05_25_.pdf
+2026-05-25,21,Dry,Supramax,15 Year,18.1,xclusiv_2026_xclusiv-2026_05_25_.pdf
 2026-05-25,21,Dry,Ultramax,5 Year,37.0,xclusiv_2026_xclusiv-2026_05_25_.pdf
 2026-05-25,21,Dry,Ultramax,Resale,42.0,xclusiv_2026_xclusiv-2026_05_25_.pdf
 2026-05-25,21,Tanker,Aframax,10 Year,66.0,xclusiv_2026_xclusiv-2026_05_25_.pdf
@@ -7965,7 +7965,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-06-01,22,Dry,Kamsarmax,5 Year,38.0,xclusiv_2026_xclusiv-2026_06_01.pdf
 2026-06-01,22,Dry,Kamsarmax,Resale,42.5,xclusiv_2026_xclusiv-2026_06_01.pdf
 2026-06-01,22,Dry,Ultramax,10 Year,28.0,xclusiv_2026_xclusiv-2026_06_01.pdf
-2026-06-01,22,Dry,Ultramax,15 Year,18.1,xclusiv_2026_xclusiv-2026_06_01.pdf
+2026-06-01,22,Dry,Supramax,15 Year,18.1,xclusiv_2026_xclusiv-2026_06_01.pdf
 2026-06-01,22,Dry,Ultramax,5 Year,37.2,xclusiv_2026_xclusiv-2026_06_01.pdf
 2026-06-01,22,Dry,Ultramax,Resale,42.2,xclusiv_2026_xclusiv-2026_06_01.pdf
 2026-06-01,22,Tanker,Aframax,10 Year,66.0,xclusiv_2026_xclusiv-2026_06_01.pdf
@@ -7997,7 +7997,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-06-08,23,Dry,Kamsarmax,5 Year,38.0,xclusiv_2026_xclusiv-2026_06_08.pdf
 2026-06-08,23,Dry,Kamsarmax,Resale,46.0,xclusiv_2026_xclusiv-2026_06_08.pdf
 2026-06-08,23,Dry,Ultramax,10 Year,28.0,xclusiv_2026_xclusiv-2026_06_08.pdf
-2026-06-08,23,Dry,Ultramax,15 Year,18.1,xclusiv_2026_xclusiv-2026_06_08.pdf
+2026-06-08,23,Dry,Supramax,15 Year,18.1,xclusiv_2026_xclusiv-2026_06_08.pdf
 2026-06-08,23,Dry,Ultramax,5 Year,38.0,xclusiv_2026_xclusiv-2026_06_08.pdf
 2026-06-08,23,Dry,Ultramax,Resale,43.0,xclusiv_2026_xclusiv-2026_06_08.pdf
 2026-06-08,23,Tanker,Aframax,10 Year,66.0,xclusiv_2026_xclusiv-2026_06_08.pdf
@@ -8029,7 +8029,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-06-15,24,Dry,Kamsarmax,5 Year,38.0,xclusiv_2026_xclusiv-2026_06_15.pdf
 2026-06-15,24,Dry,Kamsarmax,Resale,46.0,xclusiv_2026_xclusiv-2026_06_15.pdf
 2026-06-15,24,Dry,Ultramax,10 Year,28.0,xclusiv_2026_xclusiv-2026_06_15.pdf
-2026-06-15,24,Dry,Ultramax,15 Year,18.1,xclusiv_2026_xclusiv-2026_06_15.pdf
+2026-06-15,24,Dry,Supramax,15 Year,18.1,xclusiv_2026_xclusiv-2026_06_15.pdf
 2026-06-15,24,Dry,Ultramax,5 Year,38.0,xclusiv_2026_xclusiv-2026_06_15.pdf
 2026-06-15,24,Dry,Ultramax,Resale,43.0,xclusiv_2026_xclusiv-2026_06_15.pdf
 2026-06-15,24,Tanker,Aframax,10 Year,66.0,xclusiv_2026_xclusiv-2026_06_15.pdf
@@ -8061,7 +8061,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-06-22,25,Dry,Kamsarmax,5 Year,38.0,xclusiv_2026_xclusiv-2026_06_22.pdf
 2026-06-22,25,Dry,Kamsarmax,Resale,46.0,xclusiv_2026_xclusiv-2026_06_22.pdf
 2026-06-22,25,Dry,Ultramax,10 Year,28.0,xclusiv_2026_xclusiv-2026_06_22.pdf
-2026-06-22,25,Dry,Ultramax,15 Year,18.1,xclusiv_2026_xclusiv-2026_06_22.pdf
+2026-06-22,25,Dry,Supramax,15 Year,18.1,xclusiv_2026_xclusiv-2026_06_22.pdf
 2026-06-22,25,Dry,Ultramax,5 Year,38.0,xclusiv_2026_xclusiv-2026_06_22.pdf
 2026-06-22,25,Dry,Ultramax,Resale,43.0,xclusiv_2026_xclusiv-2026_06_22.pdf
 2026-06-22,25,Tanker,Aframax,10 Year,73.0,xclusiv_2026_xclusiv-2026_06_22.pdf
@@ -8093,7 +8093,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-06-29,26,Dry,Kamsarmax,5 Year,38.0,xclusiv_2026_xclusiv-2026_06_29.pdf
 2026-06-29,26,Dry,Kamsarmax,Resale,46.0,xclusiv_2026_xclusiv-2026_06_29.pdf
 2026-06-29,26,Dry,Ultramax,10 Year,28.0,xclusiv_2026_xclusiv-2026_06_29.pdf
-2026-06-29,26,Dry,Ultramax,15 Year,17.5,xclusiv_2026_xclusiv-2026_06_29.pdf
+2026-06-29,26,Dry,Supramax,15 Year,17.5,xclusiv_2026_xclusiv-2026_06_29.pdf
 2026-06-29,26,Dry,Ultramax,5 Year,38.0,xclusiv_2026_xclusiv-2026_06_29.pdf
 2026-06-29,26,Dry,Ultramax,Resale,43.0,xclusiv_2026_xclusiv-2026_06_29.pdf
 2026-06-29,26,Tanker,Aframax,10 Year,73.0,xclusiv_2026_xclusiv-2026_06_29.pdf
@@ -8125,7 +8125,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-07-06,27,Dry,Kamsarmax,5 Year,38.3,xclusiv_2026_xclusiv-2026_07_06-1.pdf
 2026-07-06,27,Dry,Kamsarmax,Resale,46.0,xclusiv_2026_xclusiv-2026_07_06-1.pdf
 2026-07-06,27,Dry,Ultramax,10 Year,28.7,xclusiv_2026_xclusiv-2026_07_06-1.pdf
-2026-07-06,27,Dry,Ultramax,15 Year,17.5,xclusiv_2026_xclusiv-2026_07_06-1.pdf
+2026-07-06,27,Dry,Supramax,15 Year,17.5,xclusiv_2026_xclusiv-2026_07_06-1.pdf
 2026-07-06,27,Dry,Ultramax,5 Year,38.0,xclusiv_2026_xclusiv-2026_07_06-1.pdf
 2026-07-06,27,Dry,Ultramax,Resale,43.0,xclusiv_2026_xclusiv-2026_07_06-1.pdf
 2026-07-06,27,Tanker,Aframax,10 Year,73.0,xclusiv_2026_xclusiv-2026_07_06-1.pdf
@@ -8157,7 +8157,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-07-13,28,Dry,Kamsarmax,5 Year,38.5,xclusiv_2026_xclusiv-2026_07_13.pdf
 2026-07-13,28,Dry,Kamsarmax,Resale,46.0,xclusiv_2026_xclusiv-2026_07_13.pdf
 2026-07-13,28,Dry,Ultramax,10 Year,28.7,xclusiv_2026_xclusiv-2026_07_13.pdf
-2026-07-13,28,Dry,Ultramax,15 Year,17.5,xclusiv_2026_xclusiv-2026_07_13.pdf
+2026-07-13,28,Dry,Supramax,15 Year,17.5,xclusiv_2026_xclusiv-2026_07_13.pdf
 2026-07-13,28,Dry,Ultramax,5 Year,38.5,xclusiv_2026_xclusiv-2026_07_13.pdf
 2026-07-13,28,Dry,Ultramax,Resale,43.5,xclusiv_2026_xclusiv-2026_07_13.pdf
 2026-07-13,28,Tanker,Aframax,10 Year,73.0,xclusiv_2026_xclusiv-2026_07_13.pdf
@@ -8189,7 +8189,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-07-20,29,Dry,Kamsarmax,5 Year,40.0,xclusiv_2026_xclusiv-2026_07_20.pdf
 2026-07-20,29,Dry,Kamsarmax,Resale,45.8,xclusiv_2026_xclusiv-2026_07_20.pdf
 2026-07-20,29,Dry,Ultramax,10 Year,29.5,xclusiv_2026_xclusiv-2026_07_20.pdf
-2026-07-20,29,Dry,Ultramax,15 Year,18.5,xclusiv_2026_xclusiv-2026_07_20.pdf
+2026-07-20,29,Dry,Supramax,15 Year,18.5,xclusiv_2026_xclusiv-2026_07_20.pdf
 2026-07-20,29,Dry,Ultramax,5 Year,38.5,xclusiv_2026_xclusiv-2026_07_20.pdf
 2026-07-20,29,Dry,Ultramax,Resale,43.5,xclusiv_2026_xclusiv-2026_07_20.pdf
 2026-07-20,29,Tanker,Aframax,10 Year,73.0,xclusiv_2026_xclusiv-2026_07_20.pdf
@@ -8221,7 +8221,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-07-27,30,Dry,Kamsarmax,5 Year,40.0,xclusiv_2026_xclusiv-2026_07_27.pdf
 2026-07-27,30,Dry,Kamsarmax,Resale,45.8,xclusiv_2026_xclusiv-2026_07_27.pdf
 2026-07-27,30,Dry,Ultramax,10 Year,29.5,xclusiv_2026_xclusiv-2026_07_27.pdf
-2026-07-27,30,Dry,Ultramax,15 Year,18.5,xclusiv_2026_xclusiv-2026_07_27.pdf
+2026-07-27,30,Dry,Supramax,15 Year,18.5,xclusiv_2026_xclusiv-2026_07_27.pdf
 2026-07-27,30,Dry,Ultramax,5 Year,38.5,xclusiv_2026_xclusiv-2026_07_27.pdf
 2026-07-27,30,Dry,Ultramax,Resale,43.5,xclusiv_2026_xclusiv-2026_07_27.pdf
 2026-07-27,30,Tanker,Aframax,10 Year,73.0,xclusiv_2026_xclusiv-2026_07_27.pdf
@@ -8253,7 +8253,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-08-03,31,Dry,Kamsarmax,5 Year,40.0,xclusiv_2026_xclusiv-2026_08_03.pdf
 2026-08-03,31,Dry,Kamsarmax,Resale,45.5,xclusiv_2026_xclusiv-2026_08_03.pdf
 2026-08-03,31,Dry,Ultramax,10 Year,29.5,xclusiv_2026_xclusiv-2026_08_03.pdf
-2026-08-03,31,Dry,Ultramax,15 Year,18.5,xclusiv_2026_xclusiv-2026_08_03.pdf
+2026-08-03,31,Dry,Supramax,15 Year,18.5,xclusiv_2026_xclusiv-2026_08_03.pdf
 2026-08-03,31,Dry,Ultramax,5 Year,38.5,xclusiv_2026_xclusiv-2026_08_03.pdf
 2026-08-03,31,Dry,Ultramax,Resale,43.5,xclusiv_2026_xclusiv-2026_08_03.pdf
 2026-08-03,31,Tanker,Aframax,10 Year,73.0,xclusiv_2026_xclusiv-2026_08_03.pdf
@@ -8285,7 +8285,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-08-10,32,Dry,Kamsarmax,5 Year,40.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
 2026-08-10,32,Dry,Kamsarmax,Resale,45.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
 2026-08-10,32,Dry,Ultramax,10 Year,29.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Ultramax,15 Year,18.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Supramax,15 Year,18.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
 2026-08-10,32,Dry,Ultramax,5 Year,38.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
 2026-08-10,32,Dry,Ultramax,Resale,43.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
 2026-08-10,32,Tanker,Aframax,10 Year,72.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
@@ -8317,7 +8317,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-08-17,33,Dry,Kamsarmax,5 Year,40.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
 2026-08-17,33,Dry,Kamsarmax,Resale,45.8,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
 2026-08-17,33,Dry,Ultramax,10 Year,29.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Ultramax,15 Year,18.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Supramax,15 Year,18.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
 2026-08-17,33,Dry,Ultramax,5 Year,38.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
 2026-08-17,33,Dry,Ultramax,Resale,43.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
 2026-08-17,33,Tanker,Aframax,10 Year,72.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
@@ -8349,7 +8349,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-08-24,34,Dry,Kamsarmax,5 Year,40.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
 2026-08-24,34,Dry,Kamsarmax,Resale,45.8,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
 2026-08-24,34,Dry,Ultramax,10 Year,30.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Ultramax,15 Year,18.5,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Supramax,15 Year,18.5,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
 2026-08-24,34,Dry,Ultramax,5 Year,38.5,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
 2026-08-24,34,Dry,Ultramax,Resale,43.5,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
 2026-08-24,34,Tanker,Aframax,10 Year,72.5,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
@@ -8413,7 +8413,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-09-07,36,Dry,Kamsarmax,5 Year,40.5,xclusiv_2026_xclusiv-2026_09_07.pdf
 2026-09-07,36,Dry,Kamsarmax,Resale,46.5,xclusiv_2026_xclusiv-2026_09_07.pdf
 2026-09-07,36,Dry,Ultramax,10 Year,30.0,xclusiv_2026_xclusiv-2026_09_07.pdf
-2026-09-07,36,Dry,Ultramax,15 Year,18.5,xclusiv_2026_xclusiv-2026_09_07.pdf
+2026-09-07,36,Dry,Supramax,15 Year,18.5,xclusiv_2026_xclusiv-2026_09_07.pdf
 2026-09-07,36,Dry,Ultramax,5 Year,39.0,xclusiv_2026_xclusiv-2026_09_07.pdf
 2026-09-07,36,Dry,Ultramax,Resale,44.0,xclusiv_2026_xclusiv-2026_09_07.pdf
 2026-09-07,36,Tanker,Aframax,10 Year,72.5,xclusiv_2026_xclusiv-2026_09_07.pdf
@@ -8445,7 +8445,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-09-15,37,Dry,Kamsarmax,5 Year,42.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
 2026-09-15,37,Dry,Kamsarmax,Resale,47.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
 2026-09-15,37,Dry,Ultramax,10 Year,30.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Ultramax,15 Year,19.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
+2026-09-15,37,Dry,Supramax,15 Year,19.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
 2026-09-15,37,Dry,Ultramax,5 Year,39.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
 2026-09-15,37,Dry,Ultramax,Resale,44.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
 2026-09-15,37,Tanker,Aframax,10 Year,72.5,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
@@ -8477,7 +8477,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-09-21,38,Dry,Kamsarmax,5 Year,42.0,xclusiv_2026_xclusiv-2026_09_21.pdf
 2026-09-21,38,Dry,Kamsarmax,Resale,47.0,xclusiv_2026_xclusiv-2026_09_21.pdf
 2026-09-21,38,Dry,Ultramax,10 Year,30.0,xclusiv_2026_xclusiv-2026_09_21.pdf
-2026-09-21,38,Dry,Ultramax,15 Year,19.2,xclusiv_2026_xclusiv-2026_09_21.pdf
+2026-09-21,38,Dry,Supramax,15 Year,19.2,xclusiv_2026_xclusiv-2026_09_21.pdf
 2026-09-21,38,Dry,Ultramax,5 Year,39.0,xclusiv_2026_xclusiv-2026_09_21.pdf
 2026-09-21,38,Dry,Ultramax,Resale,44.0,xclusiv_2026_xclusiv-2026_09_21.pdf
 2026-09-21,38,Tanker,Aframax,10 Year,72.5,xclusiv_2026_xclusiv-2026_09_21.pdf
@@ -8509,7 +8509,7 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-09-28,39,Dry,Kamsarmax,5 Year,42.0,xclusiv_2026_xclusiv-2026_09_28.pdf
 2026-09-28,39,Dry,Kamsarmax,Resale,47.0,xclusiv_2026_xclusiv-2026_09_28.pdf
 2026-09-28,39,Dry,Ultramax,10 Year,30.1,xclusiv_2026_xclusiv-2026_09_28.pdf
-2026-09-28,39,Dry,Ultramax,15 Year,19.4,xclusiv_2026_xclusiv-2026_09_28.pdf
+2026-09-28,39,Dry,Supramax,15 Year,19.4,xclusiv_2026_xclusiv-2026_09_28.pdf
 2026-09-28,39,Dry,Ultramax,5 Year,39.0,xclusiv_2026_xclusiv-2026_09_28.pdf
 2026-09-28,39,Dry,Ultramax,Resale,44.0,xclusiv_2026_xclusiv-2026_09_28.pdf
 2026-09-28,39,Tanker,Aframax,10 Year,72.5,xclusiv_2026_xclusiv-2026_09_28.pdf

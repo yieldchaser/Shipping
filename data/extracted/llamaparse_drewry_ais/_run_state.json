@@ -1727,6 +1727,24 @@
       "category": "LPG_FR",
       "pages": 8,
       "utilisation": null
+    },
+    "Drewry_AIS_Crude_VLCC_Week40_2026": {
+      "timestamp": "2026-10-11T08:46:56.350567+00:00",
+      "category": "Crude_VLCC",
+      "pages": 9,
+      "utilisation": 92.3
+    },
+    "Drewry_AIS_Drybulk_Handysize_Week40_2026": {
+      "timestamp": "2026-10-11T08:46:56.584913+00:00",
+      "category": "Drybulk_Handysize",
+      "pages": 9,
+      "utilisation": 93.8
+    },
+    "Drewry_AIS_Product_LR1_Week40_2026": {
+      "timestamp": "2026-10-11T08:46:56.736864+00:00",
+      "category": "Product_LR1",
+      "pages": 9,
+      "utilisation": 88.9
     }
   },
   "failed": {}

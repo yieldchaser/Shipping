@@ -173,7 +173,18 @@ def parse_drewry_pdf_with_llamaparse(pdf_path: Path) -> list:
                 return pages
 
 
+def _unwrap_plain_text(text: str) -> str:
+    """PyMuPDF text (the no-LlamaParse fallback) wraps every KPI card label over several lines
+    ("YoY change in tonne-" / "miles index"). Join a line break between two lowercase words so the
+    card regexes below match it the way they match LlamaParse markdown. Markdown is left alone."""
+    if "**" in text or "\n## " in text:
+        return text
+    text = re.sub(r"(?<=[a-z,(\-])\n(?=[a-z(])", " ", text)
+    return re.sub(r"(?<=[a-z])- (?=[a-z])", "-", text)
+
+
 def extract_metrics_from_pages(pages: list, pdf_name: str, vessel_cat: str) -> dict:
+    pages = [{**p, "text": _unwrap_plain_text(p.get("text", ""))} for p in pages]
     full_text = "\n\n--- PAGE BREAK ---\n\n".join([p.get("text", "") for p in pages])
     p1_text = pages[0].get("text", "") if pages else ""
     pub_date, week, year = parse_date_week_year(pdf_name, p1_text)
@@ -242,6 +253,28 @@ def extract_metrics_from_pages(pages: list, pdf_name: str, vessel_cat: str) -> d
                 record["commentary_title"] = cand_title
                 bullets = [b.strip().lstrip("*-•● ") for b in m_comm.group(2).split("\n") if b.strip().startswith(("*", "-", "•", "●"))]
                 record["commentary_summary"] = " | ".join(bullets)
+
+    # Commentary in plain text (no-LlamaParse fallback): "<title>\n1\ncontent_summary\n●\n<bullet>\n●..."
+    if not record["commentary_title"]:
+        for p in pages:
+            # the title can wrap onto a second line; title lines are prose (contain a space), axis labels are not
+            m_cs = re.search(r"\n((?:[A-Za-z][^\n]*? [^\n]{4,160}\n){1,2})\d+\ncontent_summary\n", p.get("text", ""))
+            if not m_cs:
+                continue
+            bullets = []
+            for chunk in p["text"][m_cs.end():].split("●")[1:]:
+                kept = []
+                for ln in (x.strip() for x in chunk.strip().split("\n")):
+                    if not ln or (len(ln) < 30 and not ln.endswith(".")):
+                        break       # chart titles / axis labels after the last bullet
+                    kept.append(ln)
+                text = " ".join(kept)
+                if "." in text:
+                    bullets.append(text[: text.rfind(".") + 1])
+            if bullets:
+                record["commentary_title"] = " ".join(m_cs.group(1).split())
+                record["commentary_summary"] = " | ".join(bullets)
+            break
 
     # Search pages for Tonne-Miles Index, Bunkers, Speeds, Congestion
     for p in pages:
@@ -483,8 +516,8 @@ def _upsert_drewry_ais_csv(csv_path: Path, new_records: list):
             dedup_cols = [c for c in ["source_file", "published_date", "report_year", "report_week"] if c in df.columns]
             if dedup_cols:
                 df = df.drop_duplicates(subset=["source_file"] if "source_file" in df.columns else dedup_cols, keep="last")
-        except Exception:
-            df = df_new
+        except Exception as e:   # never fall back to the new rows alone: that truncates the history
+            raise RuntimeError(f"cannot read {csv_path.name}; refusing to overwrite it with {len(df_new)} new rows") from e
     else:
         df = df_new
     sort_cols = [c for c in ["report_year", "report_week", "published_date"] if c in df.columns]

@@ -122,24 +122,24 @@ Products: The LR2 route (TC1) M.East to Japan is this week lower by USD 14k/day 
 
 ### Dry Secondhand Prices ($ mills)
 
-| Vessel Type | Tenor | Price ($M) |
-|---|---|---|
-| Capesize | Resale | $72.3M |
-| Capesize | 5 Year | $55.2M |
-| Capesize | 10 Year | $36.3M |
-| Capesize | 15 Year | $24.1M |
-| Kamsarmax | Resale | $39.9M |
-| Kamsarmax | 5 Year | $34.2M |
-| Kamsarmax | 10 Year | $25.8M |
-| Kamsarmax | 15 Year | $16.1M |
-| Ultramax | Resale | $37.4M |
-| Ultramax | 5 Year | $30.8M |
-| Ultramax | 10 Year | $25.0M |
-| Ultramax | 15 Year | $15.0M |
-| Handysize | Resale | $33.2M |
-| Handysize | 5 Year | $26.8M |
-| Handysize | 10 Year | $18.2M |
-| Handysize | 15 Year | $11.9M |
+| Vessel Type | Tenor | Feb 2024 | Jan 2023 | ±% | Avg 2024 | Avg 2023 | Avg 2022 |
+|---|---|---|---|---|---|---|---|
+| Capesize | Resale | 72.3 | 53.5 | 35% | 71.9 | 61.4 | 59.1 |
+| Capesize | 5 Year | 55.2 | 44.0 | 25% | 55.1 | 49.1 | 49.1 |
+| Capesize | 10 Year | 36.3 | 29.0 | 25% | 36.1 | 30.4 | 32.4 |
+| Capesize | 15 Year | 24.1 | 18.5 | 30% | 23.9 | 19.7 | 20.7 |
+| Kamsarmax | Resale | 39.9 | 36.5 | 9% | 39.9 | 37.9 | 40.6 |
+| Kamsarmax | 5 Year | 34.2 | 30.0 | 14% | 34.0 | 31.8 | 31.8 |
+| Kamsarmax | 10 Year | 25.8 | 22.5 | 15% | 25.5 | 22.9 | 25.3 |
+| Panamax | 15 Year | 16.1 | 14.8 | 9% | 16.2 | 14.9 | 16.9 |
+| Ultramax | Resale | 37.4 | 35.5 | 5% | 37.3 | 36.2 | 38.4 |
+| Ultramax | 5 Year | 30.8 | 28.5 | 8% | 30.8 | 29.7 | 29.7 |
+| Ultramax | 10 Year | 25.0 | 18.5 | 35% | 22.8 | 19.6 | 21.7 |
+| Ultramax | 15 Year | 15.0 | 14.6 | 3% | 15.1 | 14.4 | 16.5 |
+| Handysize | Resale | 33.2 | 28.5 | 16% | 33.2 | 31.0 | 31.0 |
+| Handysize | 5 Year | 26.8 | 24.5 | 9% | 26.8 | 25.2 | 25.2 |
+| Handysize | 10 Year | 18.2 | 16.5 | 10% | 18.2 | 17.2 | 18.2 |
+| Handysize | 15 Year | 11.9 | 10.5 | 13% | 11.8 | 11.0 | 11.8 |
 
 ### Dry S&P Activity Commentary
 
@@ -178,24 +178,24 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 ### Tanker Secondhand Prices ($ mills)
 
-| Vessel Type | Tenor | Price ($M) |
-|---|---|---|
-| VLCC | Resale | $138.0M |
-| VLCC | 5 Year | $108.0M |
-| VLCC | 10 Year | $79.0M |
-| VLCC | 15 Year | $57.0M |
-| Suezmax | Resale | $97.0M |
-| Suezmax | 5 Year | $82.0M |
-| Suezmax | 10 Year | $64.7M |
-| Suezmax | 15 Year | $44.6M |
-| Aframax | Resale | $82.7M |
-| Aframax | 5 Year | $71.6M |
-| Aframax | 10 Year | $57.6M |
-| Aframax | 15 Year | $40.4M |
-| MR2 | Resale | $53.0M |
-| MR2 | 5 Year | $45.0M |
-| MR2 | 10 Year | $37.7M |
-| MR2 | 15 Year | $26.4M |
+| Vessel Type | Tenor | Feb 2024 | Jan 2023 | ±% | Avg 2024 | Avg 2023 | Avg 2022 |
+|---|---|---|---|---|---|---|---|
+| VLCC | Resale | 138.0 | 124.0 | 11% | 136.8 | 125.1 | 106.5 |
+| VLCC | 5 Year | 108.0 | 99.8 | 8% | 107.2 | 99.5 | 99.5 |
+| VLCC | 10 Year | 79.0 | 75.8 | 4% | 77.7 | 75.0 | 56.7 |
+| VLCC | 15 Year | 57.0 | 59.1 | -4% | 57.0 | 58.6 | 41.7 |
+| Suezmax | Resale | 97.0 | 85.4 | 14% | 95.8 | 88.5 | 74.9 |
+| Suezmax | 5 Year | 82.0 | 67.7 | 21% | 80.8 | 72.0 | 72.0 |
+| Suezmax | 10 Year | 64.7 | 52.7 | 23% | 64.0 | 56.3 | 39.3 |
+| Suezmax | 15 Year | 44.6 | 39.8 | 12% | 44.2 | 40.9 | 28.5 |
+| Aframax | Resale | 82.7 | 75.4 | 10% | 82.9 | 78.6 | 65.1 |
+| Aframax | 5 Year | 71.6 | 62.3 | 15% | 71.6 | 64.5 | 64.5 |
+| Aframax | 10 Year | 57.6 | 49.4 | 17% | 57.5 | 51.6 | 35.3 |
+| Aframax | 15 Year | 40.4 | 37.4 | 8% | 40.5 | 38.1 | 25.1 |
+| MR2 | Resale | 53.0 | 48.0 | 10% | 53.0 | 49.6 | 43.0 |
+| MR2 | 5 Year | 45.0 | 41.0 | 10% | 45.0 | 41.6 | 41.6 |
+| MR2 | 10 Year | 37.7 | 32.8 | 15% | 36.6 | 33.0 | 24.7 |
+| MR2 | 15 Year | 26.4 | 22.2 | 19% | 26.3 | 23.2 | 16.0 |
 
 ### Tanker S&P Activity Commentary
 

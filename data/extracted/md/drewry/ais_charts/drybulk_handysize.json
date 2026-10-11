@@ -1,16 +1,16 @@
 {
   "vessel_class": "Handysize",
   "sector": "Dry Bulk",
-  "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf",
+  "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf",
   "metrics_summary": {
     "vessel_class": "Handysize",
     "sector": "Dry Bulk",
-    "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf",
-    "fleet_performance_points": 1464,
-    "regional_congestion_points": 840,
-    "deployment_speed_points": 87,
-    "utilisation_points": 87,
-    "total_points": 2478
+    "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf",
+    "fleet_performance_points": 1488,
+    "regional_congestion_points": 864,
+    "deployment_speed_points": 276,
+    "utilisation_points": 91,
+    "total_points": 2719
   },
   "sample_fleet_performance": [
     {
@@ -23,7 +23,7 @@
       "week": 1,
       "date": "2022-01-05",
       "value_mdwt": 24.73,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -35,7 +35,7 @@
       "week": 2,
       "date": "2022-01-12",
       "value_mdwt": 24.73,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -47,7 +47,7 @@
       "week": 3,
       "date": "2022-01-19",
       "value_mdwt": 25.16,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -59,7 +59,7 @@
       "week": 4,
       "date": "2022-01-26",
       "value_mdwt": 24.0,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -71,7 +71,7 @@
       "week": 5,
       "date": "2022-02-02",
       "value_mdwt": 25.33,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -83,7 +83,7 @@
       "week": 6,
       "date": "2022-02-09",
       "value_mdwt": 24.46,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     }
   ],
   "sample_regional_congestion": [
@@ -96,7 +96,7 @@
       "week": 1,
       "date": "2024-01-03",
       "value_mdwt": 5.78,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -107,7 +107,7 @@
       "week": 2,
       "date": "2024-01-10",
       "value_mdwt": 6.3,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -118,7 +118,7 @@
       "week": 3,
       "date": "2024-01-17",
       "value_mdwt": 6.75,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -129,7 +129,7 @@
       "week": 4,
       "date": "2024-01-24",
       "value_mdwt": 6.28,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -140,7 +140,7 @@
       "week": 5,
       "date": "2024-01-31",
       "value_mdwt": 6.43,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -151,7 +151,7 @@
       "week": 6,
       "date": "2024-02-07",
       "value_mdwt": 5.72,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     }
   ],
   "sample_deployment_speed": [
@@ -162,9 +162,9 @@
       "year": 2025,
       "week": 1,
       "date": "2025-01-01",
-      "value": 93.83,
+      "value": 99.91,
       "unit": "index",
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -173,9 +173,9 @@
       "year": 2025,
       "week": 2,
       "date": "2025-01-08",
-      "value": 93.46,
+      "value": 97.13,
       "unit": "index",
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -184,9 +184,9 @@
       "year": 2025,
       "week": 3,
       "date": "2025-01-15",
-      "value": 93.02,
+      "value": 96.73,
       "unit": "index",
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -195,9 +195,9 @@
       "year": 2025,
       "week": 4,
       "date": "2025-01-22",
-      "value": 93.74,
+      "value": 95.41,
       "unit": "index",
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -206,9 +206,9 @@
       "year": 2025,
       "week": 5,
       "date": "2025-01-29",
-      "value": 93.18,
+      "value": 98.74,
       "unit": "index",
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -217,9 +217,9 @@
       "year": 2025,
       "week": 6,
       "date": "2025-02-05",
-      "value": 92.67,
+      "value": 105.18,
       "unit": "index",
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     }
   ],
   "sample_utilisation": [
@@ -231,7 +231,7 @@
       "week": 1,
       "date": "2025-01-01",
       "value_pct": 93.83,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -241,7 +241,7 @@
       "week": 2,
       "date": "2025-01-08",
       "value_pct": 93.46,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -251,7 +251,7 @@
       "week": 3,
       "date": "2025-01-15",
       "value_pct": 93.02,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -261,7 +261,7 @@
       "week": 4,
       "date": "2025-01-22",
       "value_pct": 93.74,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -271,7 +271,7 @@
       "week": 5,
       "date": "2025-01-29",
       "value_pct": 93.18,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     },
     {
       "sector": "Dry Bulk",
@@ -281,7 +281,7 @@
       "week": 6,
       "date": "2025-02-05",
       "value_pct": 92.67,
-      "source_file": "Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf"
+      "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
     }
   ]
 }

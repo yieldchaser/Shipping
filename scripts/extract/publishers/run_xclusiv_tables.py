@@ -717,6 +717,64 @@ def extract_indicative_demolition(
 # Section 4: Indicative Secondhand Prices ($ mills)
 # ---------------------------------------------------------------------------
 
+_SH_TENOR = re.compile(r"^(Resale|\d+\s*Year)$", re.I)
+_SH_NUM = re.compile(r"^-?\d+(\.\d+)?%?$")
+_SH_CLASSES = {"Capesize", "Kamsarmax", "Panamax", "Ultramax", "Supramax", "Handysize",
+               "VLCC", "Suezmax", "Aframax", "MR2", "MR", "LR2", "LR1", "Newcastlemax"}
+_SH_MONTHS = r"\n\s*([A-Z][a-z]{2})\s*\n\s*(\d{4})\s*\n\s*([A-Z][a-z]{2})\s*\n\s*(\d{4})\s*\n\s*±%"
+
+
+def _parse_secondhand_text(page_text: str, title: str) -> Optional[Dict[str, Any]]:
+    """The 2024+ secondhand box from the page text: per row this month, same month last year, ±%,
+    and three yearly averages, plus the one-row class labels (Panamax/Supramax 15y) printed beside a row."""
+    k = page_text.find(title)
+    if k < 0:
+        return None
+    body = page_text[:k]
+    m = re.search(_SH_MONTHS, page_text[k:k + 150]) or (list(re.finditer(_SH_MONTHS, page_text[max(0, k - 200):k])) or [None])[-1]
+    yrs = re.findall(r"(?m)^\s*(\d{4}) (\d{4}) (\d{4})\s*$", body)
+    if not m or not yrs:
+        return None
+    start = body.rfind(" ".join(yrs[-1]))
+    rows: List[Dict[str, Any]] = []
+    cur, label = None, None
+    for ln in (x.strip() for x in body[start:].splitlines()[1:]):
+        if not ln:
+            continue
+        if _SH_TENOR.match(ln):
+            cur = {"tenor": re.sub(r"\s+", " ", ln).title(), "vals": [], "label": label}
+            rows.append(cur)
+            label = None
+        elif ln in _SH_CLASSES:
+            label = ln
+        elif cur is not None:
+            cur["vals"] += [t for t in ln.split() if _SH_NUM.match(t)][: 6 - len(cur["vals"])]
+    return {"cur": f"{m.group(1)} {m.group(2)}", "prev": f"{m.group(3)} {m.group(4)}", "avg": list(yrs[-1]), "rows": rows}
+
+
+def enrich_secondhand_from_text(doc: pymupdf.Document, sh_prices: List[Dict[str, Any]]) -> None:
+    """Add the five columns the word-box extractor drops, and the printed 15-year class labels.
+
+    Applied per sector only when the text parse has the same rows, tenors and current prices as the
+    existing extraction (so it can never change a value, only add the printed ones next to it)."""
+    for sector, title in (("Dry", "DRY SECONDHAND PRICES"), ("Tanker", "TANKER SECONDHAND PRICES")):
+        recs = [r for r in sh_prices if r.get("sector") == sector]
+        page = next((pg.get_text() for pg in doc if title in pg.get_text()), None)
+        parsed = _parse_secondhand_text(page, title) if page and recs else None
+        if not parsed or len(parsed["rows"]) != len(recs):
+            continue
+        ok = all(len(r["vals"]) == 6 and r["tenor"].replace(" ", "").lower() == str(rec.get("tenor", "")).replace(" ", "").lower()
+                 and rec.get("price_usd_mill") is not None and abs(float(r["vals"][0]) - float(rec["price_usd_mill"])) < 1e-6
+                 for r, rec in zip(parsed["rows"], recs))
+        if not ok:
+            continue
+        for r, rec in zip(parsed["rows"], recs):
+            if r["label"]:
+                rec["vessel_type"] = r["label"]
+            rec["printed_cols"] = [parsed["cur"], parsed["prev"], "±%"] + [f"Avg {y}" for y in parsed["avg"]]
+            rec["printed_vals"] = r["vals"]
+
+
 def extract_secondhand_prices(
     doc: pymupdf.Document, issue_date: str, report_week: int, source_file: str
 ) -> List[Dict[str, Any]]:
@@ -1415,11 +1473,17 @@ def generate_markdown(
         lines.extend([
             "### Dry Secondhand Prices ($ mills)",
             "",
-            "| Vessel Type | Tenor | Price ($M) |",
-            "|---|---|---|",
         ])
-        for ds in dry_sh:
-            lines.append(f"| {ds.get('vessel_type', '')} | {ds.get('tenor', '')} | ${ds.get('price_usd_mill', '')}M |")
+        if all(ds.get("printed_vals") for ds in dry_sh):
+            lines.append("| Vessel Type | Tenor | " + " | ".join(dry_sh[0]["printed_cols"]) + " |")
+            lines.append("|---|---|---|---|---|---|---|---|")
+            for ds in dry_sh:
+                lines.append(f"| {ds.get('vessel_type', '')} | {ds.get('tenor', '')} | " + " | ".join(ds["printed_vals"]) + " |")
+        else:
+            lines.append("| Vessel Type | Tenor | Price ($M) |")
+            lines.append("|---|---|---|")
+            for ds in dry_sh:
+                lines.append(f"| {ds.get('vessel_type', '')} | {ds.get('tenor', '')} | ${ds.get('price_usd_mill', '')}M |")
         lines.append("")
         
     if dry_activity:
@@ -1454,11 +1518,17 @@ def generate_markdown(
         lines.extend([
             "### Tanker Secondhand Prices ($ mills)",
             "",
-            "| Vessel Type | Tenor | Price ($M) |",
-            "|---|---|---|",
         ])
-        for ws in wet_sh:
-            lines.append(f"| {ws.get('vessel_type', '')} | {ws.get('tenor', '')} | ${ws.get('price_usd_mill', '')}M |")
+        if all(ws.get("printed_vals") for ws in wet_sh):
+            lines.append("| Vessel Type | Tenor | " + " | ".join(wet_sh[0]["printed_cols"]) + " |")
+            lines.append("|---|---|---|---|---|---|---|---|")
+            for ws in wet_sh:
+                lines.append(f"| {ws.get('vessel_type', '')} | {ws.get('tenor', '')} | " + " | ".join(ws["printed_vals"]) + " |")
+        else:
+            lines.append("| Vessel Type | Tenor | Price ($M) |")
+            lines.append("|---|---|---|")
+            for ws in wet_sh:
+                lines.append(f"| {ws.get('vessel_type', '')} | {ws.get('tenor', '')} | ${ws.get('price_usd_mill', '')}M |")
         lines.append("")
         
     if wet_activity:
@@ -1570,6 +1640,7 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
     demo_sales = extract_demo_sales_tables(doc, issue_date, report_week, pdf_path.name)
     demo_prices = extract_indicative_demolition(doc, issue_date, report_week, pdf_path.name)
     sh_prices = extract_secondhand_prices(doc, issue_date, report_week, pdf_path.name)
+    enrich_secondhand_from_text(doc, sh_prices)
     nb_orders = extract_newbuilding_orders(doc, issue_date, report_week, pdf_path.name)
     nb_prices = extract_newbuilding_prices(doc, issue_date, report_week, pdf_path.name)
 

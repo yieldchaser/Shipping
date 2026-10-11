@@ -637,6 +637,7 @@ def run_pipeline():
     misplaced_manifest = os.path.join(OPINIONS_DIR, "ais_manifest.csv")
     target_manifest = os.path.join(AIS_DIR, "ais_manifest.csv")
     if os.path.exists(misplaced_manifest) and not os.path.exists(target_manifest):
+        os.makedirs(AIS_DIR, exist_ok=True)    # the AIS dir is gitignored: absent on a fresh CI checkout
         shutil.copy2(misplaced_manifest, target_manifest)
         print("[+] Synced ais_manifest.csv to ais/ directory.")
 

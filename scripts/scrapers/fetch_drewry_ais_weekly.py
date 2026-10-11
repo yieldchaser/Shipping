@@ -24,7 +24,9 @@ from pathlib import Path
 
 import requests
 
-from source_archive_utils_v2 import drewry_ais_root
+# scripts/ holds source_archive_utils_v2; CI runs this file directly, so it is not on sys.path
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from source_archive_utils_v2 import drewry_ais_root  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 PDF_DIR = drewry_ais_root()

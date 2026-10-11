@@ -75,6 +75,8 @@ def get_latest_report_for_class(vessel_key: str) -> str:
     """Finds the most recent PDF report for a given vessel class in corpus/06-drewry/ais."""
     pattern = re.compile(rf'Drewry_AIS_(?:PDF_)?{re.escape(vessel_key)}_Week(\d+)_(\d{{4}})', re.IGNORECASE)
     candidates = []
+    if not os.path.isdir(AIS_CORPUS_DIR):    # gitignored: absent on CI until the fetcher downloads a PDF
+        return None
     for fn in os.listdir(AIS_CORPUS_DIR):
         if not fn.endswith('.pdf'):
             continue

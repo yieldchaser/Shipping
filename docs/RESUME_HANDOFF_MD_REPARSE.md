@@ -211,3 +211,35 @@ Then: metadata normalisation (frontmatter/issue_date for advanced, agora, fearnl
 - Carriers: BSPA/BDA box untitled in 2024 W07 + 2026 W17-W26 (9 files). Anchor fallback on "price in $m" in run_carriers_complete.py; sections spliced into 9 MDs + sidecars; bspa +54 / bda +27 series rows (0 lost). W21 values match Nace.
 - By design (not defects): Carriers Greek equities page, Clarksons Baltic/FX/bunker box (drop_regions).
 - TODO: corpus-wide TEXT-twin scan (byte dedup misses them): Advanced 2025 W45/W46-1, 2026 W38/19_09, W39/26_09, W40/03_10; Carriers W39/general_broker_28_09_2026. Nace sweep still running (bzpgmeq0h) — continue triage from run_full.log after clarksons.
+
+## 2026-10-11 afternoon — pushed 5a7553edc4 (Advanced + Carriers); then:
+- **Xclusiv secondhand (2024-2026, 133 MDs):** dry + tanker tables restored to all 6 printed columns
+  (month, same month last year, ±%, 3 yearly averages) and 15y rows relabelled from the PDF
+  (Kamsarmax->Panamax, Ultramax->Supramax). Current values asserted equal to the old MD before writing.
+  xclusiv_secondhand_series.csv: 147 15y labels fixed (keyed by original label: 4 files have equal prices).
+  Generator run_xclusiv_tables.py: enrich_secondhand_from_text() so CI renders the same 8-col table
+  (sandbox output byte-identical to patched MDs; falls back to 3-col when a row lacks 6 printed values).
+  NOT done: 2021-2023 (different layout: "12m diff", size-labelled rows), 2024-04-08 / 05-08 (one row prints 5 values),
+  2025-02-24 + 2026 Feb/Aug-31 parse fails, 6 files with no 3-col block.
+- **Drewry AIS was NOT ingesting in CI since 2026-09-23** (refactor f20e02dc6c): fetcher import path,
+  opinions runner crash on missing gitignored corpus/06-drewry/ais, charts runner crash. All three fixed.
+  run_drewry_ais upsert no longer falls back to "new rows only" on a read error. Plain-text (no LlamaParse:
+  ALL LlamaParse keys out of credit) fallback now reads the KPI cards + commentary; 288 cached reports
+  extract identically. W40 (VLCC, Handysize, LR1) ingested; PDFs copied to main corpus/06-drewry/ais.
+- **Poten:** tanker-opinions listing 404s since the site redesign; RSS empty. Owner decision (source gone?).
+  The workflow's Poten assert fails the job weekly (after the commit step, so data still lands).
+- **Twins:** 64 MD pairs from the same PDF text under two names (two ingest routes, mostly 2026:
+  ssy 14, iron_ore_pdf 12, xclusiv 7, agora 4, carriers 4, advanced 3 ...). List:
+  scratchpad md_twins.json (regenerate: text-hash every corpus PDF). Needs per-publisher series cleanup +
+  a text-hash guard at ingest. Not started.
+- Intermodal coder WIP parked as .reparse_staging/intermodal_charts_wip.patch (unverified; files restored).
+- **Nace sweep triage (by design, not defects):** Intermodal "missing" = final market-data pages (commodities,
+  bunkers, stocks) excluded from MDs and extracted by run_intermodal_finance; Clarksons Baltic/FX box; Carriers
+  Greek equities; Drewry ais_charts MDs are summaries (data in vector CSVs).
+- **OWNER DECISION — iron ore chart reads:** 1,164/1,201 iron_ore_pdf MDs carry "## Dry Bulk Freight Rates
+  Historical Line Data" and 629 carry "## Historical Iron Ore Index Comparisons". Values are whole numbers /
+  multiples of 5 on chart axis-label dates (e.g. 2023-09-01: 4-Jan-21 15.00/18.00 ...; dates not in the text
+  layer or are axis ticks). These are visual chart reads presented as data (anti-fabrication pattern).
+  Iron ore is owner hand-perfected -> not touched. Options: drop the two sections (keep a "> Figure:" note),
+  or keep with an explicit "approximate chart read" caption. Also omitted printed cells: freight change % /
+  52w low-high, futures volume/OI changes.
