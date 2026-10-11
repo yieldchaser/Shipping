@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (628,726 Total Rows across 174 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (628,944 Total Rows across 174 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -37,7 +37,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [advanced_shipping_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/advanced_shipping_demolition_series.csv) | Indicative demolition prices ($/LDT) | 2,016 | Verified |
 | [advanced_shipping_newbuilding_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/advanced_shipping_newbuilding_series.csv) | Newbuilding reported contracting orders | 1,911 | Verified |
 | [advanced_shipping_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/advanced_shipping_sales_series.csv) | Secondhand sales transactions ($M) | 6,114 | Verified |
-| [advanced_shipping_secondhand_matrix_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/advanced_shipping_secondhand_matrix_series.csv) | Indicative secondhand price matrices ($M) | 8,110 | Verified |
+| [advanced_shipping_secondhand_matrix_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/advanced_shipping_secondhand_matrix_series.csv) | Indicative secondhand price matrices ($M) | 8,125 | Verified |
 | [affinity_bda_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/affinity_bda_series.csv) | Baltic Demolition Assessments ($/LDT) | 747 | Verified |
 | [affinity_indices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/affinity_indices_series.csv) | Baltic Clean & Dirty freight benchmark indices | 496 | Verified |
 | [affinity_tce_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/affinity_tce_series.csv) | Baltic TCE Dirty & Clean route earnings ($/day) | 4,058 | Verified |
@@ -64,8 +64,8 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [best_oasis_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_market_commentary_series.csv) |  | 1,031 | Verified |
 | [breakwave_fundamentals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/breakwave_fundamentals_series.csv) |  | 2,755 | Verified |
 | [breakwave_insights_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/breakwave_insights_metadata.csv) |  | 3,216 | Verified |
-| [carriers_bda_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_bda_series.csv) | Subcontinent scrap price assessments ($/LDT) | 375 | Verified |
-| [carriers_bspa_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_bspa_series.csv) | Secondhand 5Y price assessments ($M) with visual sentiment | 755 | Verified |
+| [carriers_bda_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_bda_series.csv) | Subcontinent scrap price assessments ($/LDT) | 402 | Verified |
+| [carriers_bspa_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_bspa_series.csv) | Secondhand 5Y price assessments ($M) with visual sentiment | 809 | Verified |
 | [carriers_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_demolition_series.csv) | Demolition reported sales fixtures ($/LDT) | 178 | Verified |
 | [carriers_dry_tc_period_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_dry_tc_period_series.csv) | Dry bulk time charter period indicative ideas ($/day) | 3,216 | Verified |
 | [carriers_dry_weighted_routes_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_dry_weighted_routes_series.csv) | Dry BC Baltic TC weighted average routes ($/day) | 670 | Verified |
@@ -83,20 +83,20 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [compare_vs_clarksons_snp_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/compare_vs_clarksons_snp_sales_series.csv) | Compare Vs Clarksons Snp Sales historical structured dataset | 393 | Verified |
 | [drewry_ais_crude_aframax_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_crude_aframax_series.csv) | Aframax fleet intelligence, utilisation, speed & earnings | 31 | Verified |
 | [drewry_ais_crude_suezmax_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_crude_suezmax_series.csv) | Suezmax fleet intelligence, utilisation, speed & earnings | 30 | Verified |
-| [drewry_ais_crude_vlcc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_crude_vlcc_series.csv) | VLCC fleet intelligence, utilisation, speed & earnings | 32 | Verified |
-| [drewry_ais_deployment_speed_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_deployment_speed_series.csv) | Drewry AIS average speed & operating deployment by vessel class (knots) | 2,427 | Verified |
+| [drewry_ais_crude_vlcc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_crude_vlcc_series.csv) | VLCC fleet intelligence, utilisation, speed & earnings | 33 | Verified |
+| [drewry_ais_deployment_speed_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_deployment_speed_series.csv) | Drewry AIS average speed & operating deployment by vessel class (knots) | 2,634 | Verified |
 | [drewry_ais_drybulk_capesize_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_drybulk_capesize_series.csv) | Capesize fleet intelligence, utilisation, speed & earnings | 27 | Verified |
-| [drewry_ais_drybulk_handysize_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_drybulk_handysize_series.csv) | Handysize fleet intelligence, utilisation, speed & earnings | 25 | Verified |
+| [drewry_ais_drybulk_handysize_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_drybulk_handysize_series.csv) | Handysize fleet intelligence, utilisation, speed & earnings | 26 | Verified |
 | [drewry_ais_drybulk_panamax_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_drybulk_panamax_series.csv) | Panamax fleet intelligence, utilisation, speed & earnings | 23 | Verified |
 | [drewry_ais_drybulk_supramax_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_drybulk_supramax_series.csv) | Supramax fleet intelligence, utilisation, speed & earnings | 23 | Verified |
-| [drewry_ais_fleet_performance_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_fleet_performance_series.csv) | Drewry AIS continuous fleet performance, tonne-miles, and cargo utilization | 14,768 | Verified |
+| [drewry_ais_fleet_performance_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_fleet_performance_series.csv) | Drewry AIS continuous fleet performance, tonne-miles, and cargo utilization | 14,828 | Verified |
 | [drewry_ais_lpg_fr_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_lpg_fr_series.csv) | LPG Fully Refrigerated fleet intelligence & trade flows | 32 | Verified |
-| [drewry_ais_product_lr1_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_product_lr1_series.csv) | LR1 Product tanker fleet intelligence & earnings | 34 | Verified |
+| [drewry_ais_product_lr1_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_product_lr1_series.csv) | LR1 Product tanker fleet intelligence & earnings | 35 | Verified |
 | [drewry_ais_product_lr2_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_product_lr2_series.csv) | LR2 Product tanker fleet intelligence & earnings | 31 | Verified |
-| [drewry_ais_regional_congestion_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_regional_congestion_series.csv) | Drewry AIS regional port & anchor congestion vessel count time series | 6,792 | Verified |
-| [drewry_ais_utilisation_curves_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_utilisation_curves_series.csv) | Drewry AIS global fleet active utilisation curve index (%) | 1,007 | Verified |
-| [drewry_opinions_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_opinions_metadata.csv) |  | 551 | Verified |
-| [drewry_wci_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_wci_series.csv) |  | 6 | Verified |
+| [drewry_ais_regional_congestion_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_regional_congestion_series.csv) | Drewry AIS regional port & anchor congestion vessel count time series | 6,840 | Verified |
+| [drewry_ais_utilisation_curves_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_utilisation_curves_series.csv) | Drewry AIS global fleet active utilisation curve index (%) | 809 | Verified |
+| [drewry_opinions_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_opinions_metadata.csv) |  | 552 | Verified |
+| [drewry_wci_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_wci_series.csv) |  | 7 | Verified |
 | [fearnleys_md_coal_futures_spread_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_coal_futures_spread_series.csv) | P5 vs Newcastle Coal Futures Spread Lead ($/t) | 48 | Verified |
 | [fearnleys_md_macro_correlations_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_macro_correlations_series.csv) | Copper, Iron Ore, Coal Lead Macro Correlations ($/day, $/t) | 78 | Verified |
 | [fearnleys_md_shipment_volumes_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_shipment_volumes_series.csv) | Global Dry Bulk Shipment Volume YoY Growth (%) | 43 | Verified |
@@ -210,7 +210,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [fearnleys_md_master_econometric_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_master_econometric_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (174 CSVs + 1 Master Workbook)** | **628,726** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (174 CSVs + 1 Master Workbook)** | **628,944** | **100.0% Pass** |
 
 ---
 

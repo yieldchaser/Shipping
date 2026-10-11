@@ -1,10 +1,5 @@
 [
   {
-    "date": "2022-08-01",
-    "project_cargo_index": 188.0,
-    "general_cargo_index": 266.4
-  },
-  {
     "date": "2022-09-01",
     "project_cargo_index": 172.9,
     "general_cargo_index": 239.6
@@ -216,32 +211,37 @@
   },
   {
     "date": "2026-03-01",
-    "project_cargo_index": 162.3,
-    "general_cargo_index": 169.4
+    "project_cargo_index": 160.2,
+    "general_cargo_index": 169.2
   },
   {
     "date": "2026-04-01",
-    "project_cargo_index": 165.7,
-    "general_cargo_index": 169.5
+    "project_cargo_index": 163.5,
+    "general_cargo_index": 169.3
   },
   {
     "date": "2026-05-01",
-    "project_cargo_index": 168.8,
-    "general_cargo_index": 170.6
+    "project_cargo_index": 166.7,
+    "general_cargo_index": 170.3
   },
   {
     "date": "2026-06-01",
-    "project_cargo_index": 166.6,
-    "general_cargo_index": 169.7
+    "project_cargo_index": 164.5,
+    "general_cargo_index": 169.5
   },
   {
     "date": "2026-07-01",
-    "project_cargo_index": 161.4,
-    "general_cargo_index": 170.4
+    "project_cargo_index": 159.1,
+    "general_cargo_index": 170.2
   },
   {
     "date": "2026-08-01",
-    "project_cargo_index": 163.3,
-    "general_cargo_index": 169.9
+    "project_cargo_index": 161.3,
+    "general_cargo_index": 169.7
+  },
+  {
+    "date": "2026-09-01",
+    "project_cargo_index": 164.3,
+    "general_cargo_index": 170.1
   }
 ]

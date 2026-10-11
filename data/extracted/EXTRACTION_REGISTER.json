@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 04:54:09Z",
+  "updated_at": "2026-10-11 09:13:30Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -768,7 +768,7 @@
     {
       "file": "advanced_shipping_secondhand_matrix_series.csv",
       "target_metric": "Indicative secondhand price matrices ()",
-      "rows": 8110,
+      "rows": 8125,
       "columns": [
         "issue_date",
         "report_week",
@@ -1245,7 +1245,7 @@
     {
       "file": "carriers_bda_series.csv",
       "target_metric": "Subcontinent scrap price assessments ($/LDT)",
-      "rows": 375,
+      "rows": 402,
       "columns": [
         "issue_date",
         "report_week",
@@ -1261,7 +1261,7 @@
     {
       "file": "carriers_bspa_series.csv",
       "target_metric": "Secondhand 5Y price assessments () with visual sentiment",
-      "rows": 755,
+      "rows": 809,
       "columns": [
         "issue_date",
         "report_week",
@@ -1636,7 +1636,7 @@
     {
       "file": "drewry_ais_crude_vlcc_series.csv",
       "target_metric": "VLCC fleet intelligence, utilisation, speed & earnings",
-      "rows": 32,
+      "rows": 33,
       "columns": [
         "published_date",
         "report_year",
@@ -1666,7 +1666,7 @@
     {
       "file": "drewry_ais_deployment_speed_series.csv",
       "target_metric": "Drewry AIS average speed & operating deployment by vessel class (knots)",
-      "rows": 2427,
+      "rows": 2634,
       "columns": [
         "sector",
         "vessel_class",
@@ -1713,7 +1713,7 @@
     {
       "file": "drewry_ais_drybulk_handysize_series.csv",
       "target_metric": "Handysize fleet intelligence, utilisation, speed & earnings",
-      "rows": 25,
+      "rows": 26,
       "columns": [
         "published_date",
         "report_year",
@@ -1803,7 +1803,7 @@
     {
       "file": "drewry_ais_fleet_performance_series.csv",
       "target_metric": "Drewry AIS continuous fleet performance, tonne-miles, and cargo utilization",
-      "rows": 14768,
+      "rows": 14828,
       "columns": [
         "sector",
         "vessel_class",
@@ -1851,7 +1851,7 @@
     {
       "file": "drewry_ais_product_lr1_series.csv",
       "target_metric": "LR1 Product tanker fleet intelligence & earnings",
-      "rows": 34,
+      "rows": 35,
       "columns": [
         "published_date",
         "report_year",
@@ -1911,7 +1911,7 @@
     {
       "file": "drewry_ais_regional_congestion_series.csv",
       "target_metric": "Drewry AIS regional port & anchor congestion vessel count time series",
-      "rows": 6792,
+      "rows": 6840,
       "columns": [
         "sector",
         "vessel_class",
@@ -1928,7 +1928,7 @@
     {
       "file": "drewry_ais_utilisation_curves_series.csv",
       "target_metric": "Drewry AIS global fleet active utilisation curve index (%)",
-      "rows": 1007,
+      "rows": 809,
       "columns": [
         "sector",
         "vessel_class",
@@ -1944,7 +1944,7 @@
     {
       "file": "drewry_opinions_metadata.csv",
       "target_metric": "Drewry Opinions Metadata.Csv",
-      "rows": 551,
+      "rows": 552,
       "columns": [
         "issue_date",
         "year",
@@ -1960,7 +1960,7 @@
     {
       "file": "drewry_wci_series.csv",
       "target_metric": "Drewry Wci",
-      "rows": 6,
+      "rows": 7,
       "columns": [
         "date",
         "composite_index",
@@ -4059,19 +4059,19 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 628421,
+  "total_master_stacked_rows": 628639,
   "total_master_series_csvs": 174,
-  "total_stacked_rows": 628421,
+  "total_stacked_rows": 628639,
   "total_series_csvs": 174,
   "total_master_workbooks": 1,
   "total_series_count": 174,
-  "total_rows_extracted": 628726,
+  "total_rows_extracted": 628944,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
     "advanced_shipping_newbuilding_series.csv": 1911,
     "advanced_shipping_sales_series.csv": 6114,
-    "advanced_shipping_secondhand_matrix_series.csv": 8110,
+    "advanced_shipping_secondhand_matrix_series.csv": 8125,
     "affinity_bda_series.csv": 747,
     "affinity_indices_series.csv": 496,
     "affinity_tce_series.csv": 4058,
@@ -4098,8 +4098,8 @@
     "best_oasis_market_commentary_series.csv": 1031,
     "breakwave_fundamentals_series.csv": 2755,
     "breakwave_insights_metadata.csv": 3216,
-    "carriers_bda_series.csv": 375,
-    "carriers_bspa_series.csv": 755,
+    "carriers_bda_series.csv": 402,
+    "carriers_bspa_series.csv": 809,
     "carriers_demolition_series.csv": 178,
     "carriers_dry_tc_period_series.csv": 3216,
     "carriers_dry_weighted_routes_series.csv": 670,
@@ -4117,20 +4117,20 @@
     "compare_vs_clarksons_snp_sales_series.csv": 393,
     "drewry_ais_crude_aframax_series.csv": 31,
     "drewry_ais_crude_suezmax_series.csv": 30,
-    "drewry_ais_crude_vlcc_series.csv": 32,
-    "drewry_ais_deployment_speed_series.csv": 2427,
+    "drewry_ais_crude_vlcc_series.csv": 33,
+    "drewry_ais_deployment_speed_series.csv": 2634,
     "drewry_ais_drybulk_capesize_series.csv": 27,
-    "drewry_ais_drybulk_handysize_series.csv": 25,
+    "drewry_ais_drybulk_handysize_series.csv": 26,
     "drewry_ais_drybulk_panamax_series.csv": 23,
     "drewry_ais_drybulk_supramax_series.csv": 23,
-    "drewry_ais_fleet_performance_series.csv": 14768,
+    "drewry_ais_fleet_performance_series.csv": 14828,
     "drewry_ais_lpg_fr_series.csv": 32,
-    "drewry_ais_product_lr1_series.csv": 34,
+    "drewry_ais_product_lr1_series.csv": 35,
     "drewry_ais_product_lr2_series.csv": 31,
-    "drewry_ais_regional_congestion_series.csv": 6792,
-    "drewry_ais_utilisation_curves_series.csv": 1007,
-    "drewry_opinions_metadata.csv": 551,
-    "drewry_wci_series.csv": 6,
+    "drewry_ais_regional_congestion_series.csv": 6840,
+    "drewry_ais_utilisation_curves_series.csv": 809,
+    "drewry_opinions_metadata.csv": 552,
+    "drewry_wci_series.csv": 7,
     "fearnleys_md_coal_futures_spread_series.csv": 48,
     "fearnleys_md_macro_correlations_series.csv": 78,
     "fearnleys_md_shipment_volumes_series.csv": 43,
