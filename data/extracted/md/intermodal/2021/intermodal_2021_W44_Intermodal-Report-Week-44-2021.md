@@ -64,8 +64,21 @@ Shanghai 200122 China
 # Tanker Market
 
 ## Spot Rates
-| Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2020 $/day | 2019 $/day |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Vessel VLCC Suezmax | Routes 265k MEG-SPORE 280k MEG-USG 260k WAF-CHINA 130k MED-MED | 05-Nov-21 WS points 46 22 47 87 | 05-Nov-21 $/day 6,669 -17,463 7,325 14,397 | 29-Oct-21 WS points 47 23 48 87 | 29-Oct-21 $/day 8,573 -16,432 9,163 14,188 | $/day ±% -22.2% -6.3% -20.1% 1.5% | 2020 $/day 52,119 41,904 50,446 28,185 | 2019 $/day 45,517 35,659 41,077 30,857 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Suezmax | 130k WAF-UKC | 75 | 8,645 | 76 | 8,581 | 0.7% | 25,082 | 11,031 |
+| Suezmax | 140k BSEA-MED | 85 | 7,623 | 85 | 6,968 | 9.4% | 28,185 | 30,857 |
+| Aframax | 80k MEG-EAST | 109 | 3,272 | 114 | 5,164 | -36.6% | 17,211 | 24,248 |
+| Aframax | 80k MED-MED | 126 | 16,215 | 137 | 20,216 | -19.8% | 15,843 | 25,771 |
+| Aframax | 100k BALTIC/UKC | 104 | 17,619 | 88 | 9,070 | 94.3% | 19,322 | 25,842 |
+| Aframax | 70k CARIBS-USG | 128 | 10,486 | 138 | 13,510 | -22.4% | 22,707 | 20,886 |
+| Aframax | 75k MEG-JAPAN | 110 | 7,897 | 96 | 4,137 | 90.9% | 28,160 | 22,050 |
+| Clean | 55k MEG-JAPAN | 126 | 8,083 | 128 | 8,839 | -8.6% | 19,809 | 15,071 |
+| Clean | 37k UKC-USAC | 110 | -156 | 129 | 2,712 | -105.8% | 12,977 | 12,367 |
+| Clean | 30k MED-MED | 136 | 4,295 | 143 | 5,819 | -26.2% | 12,235 | 14,008 |
+| Dirty | 55k UKC-USG | 106 | 3,183 | 103 | 1,346 | 136.5% | 12,120 | 15,960 |
+| Dirty | 55k MED-USG | 106 | 3,273 | 103 | 1,316 | 148.7% | 12,965 | 15,327 |
+| Dirty | 50k CARIBS-USG | 151 | 9,763 | 152 | 9,653 | 1.1% | 17,651 | 18,781 |
 
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
@@ -145,8 +158,13 @@ Shanghai 200122 China
 
 ## Indicative Market Values ($ Million) - Tankers
 
-| Sector | Size | Nov-21 avg | Oct-21 avg | ±% | 2020 | 2019 | 2018 |
+| Vessel 5 yrs old |  | Nov-21 avg | Oct-21 avg | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | 180k | 42.5 | 41.8 | 1.7% | 27.6 | 31.1 | 36.1 |
+| Capesize Eco | 180k | 48.5 | 48.1 | 0.8% | 36.1 | 39.0 | 42.3 |
+| Kamsarmax | 82K | 35.0 | 34.6 | 1.2% | 23.2 | 24.7 | 24.2 |
+| Ultramax | 63k | 32.0 | 31.8 | 0.6% | 19.4 | 23.1 | - |
+| Handysize | 37K | 26.0 | 25.8 | 0.8% | 16.1 | 17.9 | 16.1 |
 
 ## Chartering
 

@@ -17,6 +17,26 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 3. **`scripts/parse_engine_html/`** — VesselsValue HTML deals + VV Mini Matrix image OCR (in progress). Output to `.reparse_staging/vessel_valuations/`.
 4. **SHELVED — see HARD RULE.** `scripts/md_cleanup/chart_tables.py` — removes LLM-guessed chart tables (values not printed in source text layer), replaces with `> Figure: … not transcribed` note. Guarded mode default; ISM (vector-engine charts) and any "Vector" section excluded. Dry-run results in `.reparse_staging/chart_cleanup/guard_published/` (8,890 tables). Was about to APPLY in place — check `git diff --stat data/extracted/md` before committing.
 
+## STATUS 2026-10-11 (late night) — PARSING NOTES, INTERMODAL TABLE REBUILD
+
+- **Read `corpus/01-brokers/Shipbroking_Source_Parsing_Notes.docx` before judging any "missing" numbers.** It lists the useful
+  pages per source (Advanced: drop the last 3 pages; Affinity: page 1; Agora: ignore; Banchero: skip first and last; Carriers
+  and Clarksons: drop the last page; Intermodal: drop the last 2 pages from 2024, the last 1 before; Xclusiv: drop the last 2;
+  Fearnleys-md: skip first and last). Most Nace "missing" cells were on those excluded pages (Xclusiv 979, Carriers ~1,050,
+  Intermodal 534). Re-ranking the defects with only useful pages (scratch script logic: page filter per source) leaves real
+  gaps in Star Asia (107), ISM (75 missing / 376 misplaced), Advanced (70) and Clarksons (58), plus chart reads (Drewry AIS, iron ore).
+- **Intermodal** (`intermodal_table_rebuild.py`): 77 tables were a header row only — numbers crammed into the header (44) or
+  no body at all (33). Each is re-read from its PDF page with LlamaParse (cache `.reparse_staging/intermodal_tables/`):
+  - Guards: every body number is printed on the page; the old crammed values printed on the page must survive.
+  - Rowspan sector bands come from a majority over intact tables and must match LlamaParse's own label sequence (checked
+    by eye: "75k MEG-JAPAN" sits in the Aframax band). A merged $ price over several ships becomes "<price> (en bloc)".
+  - A trailing year header that spans two columns has its span moved to the leading label cell, and columns empty in every body row are dropped.
+  - 54 rebuilt in 47 files (33 crammed, 21 empty); no header/row column-count mismatch; only table lines changed.
+  - Left as is: 11 stray header rows with no table on the page, 2 Secondhand tables (2022 W15, 2023 W02 p6), 1 Period Charters
+    table (2021 W31). Not handled yet: a 2022 W42 Demolition table with a missing year column (values shifted).
+- `intermodal_chart_guess_note.py`: 8 header-only "tables" in 7 files were LLM reads of the Baltic indices chart; replaced by a
+  one-line chart note (public data, not estimated). Both scripts run in `broker_reports_weekly.yml` for new MDs only.
+
 ## STATUS 2026-10-11 (night) — TWINS, LINKS, BREAKWAVE/SIGNAL FIDELITY, POTEN CHARTS, IRON ORE CHARTS
 
 All tools are in `scripts/md_cleanup/`. Nothing was deleted: archived MDs are kept under `data/archive/twins/`.

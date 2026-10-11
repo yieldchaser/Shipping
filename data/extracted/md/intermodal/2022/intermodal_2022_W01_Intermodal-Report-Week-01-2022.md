@@ -368,8 +368,18 @@ The first newbuilding contracts of 2022 signals an exciting January for the newb
 | 7/Dec/21 | 104 | 76 | 53 | 47 | 39 |
 | 7/Jan/22 | 108 | 78 | 54 | 48 | 40 |
 
-| Units 1 1 6 1 2 1 3 4 6 4 | Type Bulker LNG LNG LNG LNG LNG LEG Container Container Container | Size 81,000 dwt 174,000 cbm 174,000 cbm 174,000 cbm 174,000 cbm 174,000 cbm 7,200 cbm 16,000 teu 15,000 teu 2,800 teu | Yard Oshima, Japan Samsung, S. Korea Hudong Zhonghua, China Hudong Zhonghua, China DSME, S. Korea KSOE, S.Korea CIMC SOE, China Hyundai Hi, South Korea Hyundai Samho, S. Korea CSBC, Taiwan | Delivery 2025 2024 2024-2026 2024 2025 2024 2024 2025 2024 2023 | Buyer Japanese (Sumitomo Corp) Japanese (NYK Line) Japanese (Mitsui OSK Lines) HK based (CSSC Leasing) Greek (Maran Gas) South Korean (SK Shipping) German (Hartmann) Danish (Maersk) Swiss based (MSC) Taiwanese (CSBC) | Price undisclosed $ 203.45m $ 196.0m $ 194.3m around $210.0m $ 217.9m undisclosed undisclosed $ 182.4m undisclosed | Comments ammonia fuelledagainst long-term T/C to CNOOCoption declared against T/C to Mitsui &amp; Co LNG fuelled methanol fuelled LNG fuelled CSBC shipyard will construct the four 2,800teu boxships for its own account |
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Bulker | 81,000 dwt | Oshima, Japan | 2025 | Japanese (Sumitomo Corp) | undisclosed | ammonia fuelled |
+| 1 | LNG | 174,000 cbm | Samsung, S. Korea | 2024 | Japanese (NYK Line) | $ 203.45m |  |
+| 6 | LNG | 174,000 cbm | Hudong Zhonghua, China | 2024-2026 | Japanese (Mitsui OSK Lines) | $ 196.0m | against long-term T/C to CNOOC |
+| 1 | LNG | 174,000 cbm | Hudong Zhonghua, China | 2024 | HK based (CSSC Leasing) | $ 194.3m |  |
+| 2 | LNG | 174,000 cbm | DSME, S. Korea | 2025 | Greek (Maran Gas) | around $210.0m | option declared |
+| 1 | LNG | 174,000 cbm | KSOE, S.Korea | 2024 | South Korean (SK Shipping) | $ 217.9m | against T/C to Mitsui & Co |
+| 3 | LEG | 7,200 cbm | CIMC SOE, China | 2024 | German (Hartmann) | undisclosed | LNG fuelled |
+| 4 | Container | 16,000 teu | Hyundai Hi, South Korea | 2025 | Danish (Maersk) | undisclosed | methanol fuelled |
+| 6 | Container | 15,000 teu | Hyundai Samho, S. Korea | 2024 | Swiss based (MSC) | $ 182.4m | LNG fuelled |
+| 4 | Container | 2,800 teu | CSBC, Taiwan | 2023 | Taiwanese (CSBC) | undisclosed | CSBC shipyard will construct the four 2,800teu boxships for its own account |
 
 © Intermodal Research 11/01/2022 6
 

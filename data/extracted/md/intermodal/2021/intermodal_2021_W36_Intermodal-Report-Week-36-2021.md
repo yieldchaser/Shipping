@@ -64,8 +64,25 @@ Shanghai 200122 China
 # Tanker Market
 
 ## Spot Rates
-| Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2020 $/day | 2019 $/day |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Vessel | Routes | 10-Sep-21 WS points | 10-Sep-21 $/day | 03-Sep-21 WS points | 03-Sep-21 $/day | $/day ±% | 2020 $/day | 2019 $/day |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 265k MEG-SPORE | 35 | 343 | 35 | 737 | -53.5% | 52,119 | 45,517 |
+| VLCC | 280k MEG-USG | 19 | -16,964 | 18 | -16,664 | -1.8% | 41,904 | 35,659 |
+| VLCC | 260k WAF-CHINA | 36 | 694 | 35 | 74 | 837.8% | 50,446 | 41,077 |
+| Suezmax | 130k MED-MED | 62 | 3,712 | 65 | 5,413 | -31.4% | 28,185 | 30,857 |
+| Suezmax | 130k WAF-UKC | 52 | 50 | 55 | 1,414 | -96.5% | 25,082 | 11,031 |
+| Suezmax | 140k BSEA-MED | 60 | -6,117 | 62 | -4,921 | -24.3% | 28,185 | 30,857 |
+| Aframax | 80k MEG-EAST | 93 | 1,800 | 96 | 3,047 | -40.9% | 17,211 | 24,248 |
+| Aframax | 80k MED-MED | 86 | 1,545 | 88 | 1,826 | -15.4% | 15,843 | 25,771 |
+| Aframax | 100k BALTIC/UKC | 57 | -3,801 | 59 | -2,690 | -41.3% | 19,322 | 25,842 |
+| Aframax | 70k CARIBS-USG | 116 | 9,422 | 108 | 6,778 | 39.0% | 22,707 | 20,886 |
+| Aframax | 75k MEG-JAPAN | 108 | 10,188 | 114 | 12,243 | -16.8% | 28,160 | 22,050 |
+| Clean | 55k MEG-JAPAN | 113 | 7,543 | 126 | 10,550 | -28.5% | 19,809 | 15,071 |
+| Clean | 37K UKC-USAC | 98 | -182 | 105 | 850 | -121.4% | 12,977 | 12,367 |
+| Clean | 30K MED-MED | 111 | -789 | 112 | -790 | 0.1% | 12,235 | 14,008 |
+| Dirty | 55K UKC-USG | 93 | 1,076 | 94 | 1,240 | -13.2% | 12,120 | 15,960 |
+| Dirty | 55K MED-USG | 93 | 1,098 | 94 | 1,214 | -9.6% | 12,965 | 15,327 |
+| Dirty | 50k CARIBS-USG | 124 | 6,008 | 101 | 634 | 847.6% | 17,651 | 18,781 |
 
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |

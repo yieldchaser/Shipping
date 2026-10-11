@@ -142,8 +142,9 @@ Suezmax T/C earnings averaged \$ 44,726/day, up + \$18,368/day w-o-w. On the Afr
 
 ## Indicative Period Charters
 
-| 24+12 mos del West Jun/23 | VALLE AZZURRA $24,500-26,500/day | 2010 | 51,026 dw t Trafigura |
+| 24+12 mos | VALLE AZZURRA | 2010 | 51,026 dwt |
 | --- | --- | --- | --- |
+| del West Jun/23 | $24,500-26,500/day |  | Trafigura |
 
 ## Baltic Indices
 | Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |

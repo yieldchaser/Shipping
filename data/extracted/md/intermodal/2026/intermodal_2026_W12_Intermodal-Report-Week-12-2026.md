@@ -148,8 +148,7 @@ In the Aframax market, the Mediterranean saw steady conditions initially before 
 
 ### Baltic Indices (1-Year Trend)
 
-| Series BCI BPI BSI BHSI BDI | 20/03/25 2400 1400 1600 900 1600 | 20/04/25 1800 1300 1500 800 1500 | 20/05/25 3600 1500 1700 900 1700 | 20/06/25 3400 1600 1800 1000 1800 | 20/07/25 3200 1700 1900 1100 1900 | 20/08/25 3000 1800 2000 1200 2000 | 20/09/25 2800 1900 2100 1300 2100 | 20/10/25 2900 1800 2000 1200 2000 | 20/11/25 5000 2000 2200 1400 2300 | 20/12/25 4000 1900 2100 1300 2200 | 20/01/26 2600 1700 1900 1100 2000 | 20/02/26 2800 1800 2000 1200 2100 | 20/03/26 2900 1900 2100 1300 2200 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> **Chart (not transcribed):** Baltic indices, 1-year trend. The report prints no numbers for it; the index values are public Baltic Exchange data.
 
 ### TC Rates
 | Sector | Tenor | 20/03/2026 | 13/03/2026 | ±% | Diff | 2025 | 2024 |

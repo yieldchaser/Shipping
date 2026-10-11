@@ -50,8 +50,9 @@ Concluding, the EUA outlook for the remainder of 2026 will depend largely on dev
 
 ## Indicative Period Charters
 
-| 12 mos | Torm Herdis $51,500 | 2018 | 115,109 PetroChina |
-| --- | --- | --- | --- |
+| Period | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 mos | Torm Herdis | 2018 | 115,109 | $51,500 | PetroChina |
 ### Dirty WS Rates (1-Year Trend)
 
 | Date | TD3 | TD6 | TD9 |

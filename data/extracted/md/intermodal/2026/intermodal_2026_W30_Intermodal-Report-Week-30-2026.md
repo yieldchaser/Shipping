@@ -56,8 +56,9 @@ In conclusion, the threat of Houthi action disrupting Red Sea trade marks a sign
 
 ## Indicative Period Charters
 
-| 12 mos | Wisteria $23,000 | 2008 | 50,661 Clearlake |
-| --- | --- | --- | --- |
+| Period | Vessel | Built | DWT | Rate / Charterer |
+| --- | --- | --- | --- | --- |
+| 12 mos | Wisteria | 2008 | 50,661 | $23,000 / Clearlake |
 ### 1-Year Forward WS Rates - Dirty
 
 | Date | TD3 | TD6 | TD9 |

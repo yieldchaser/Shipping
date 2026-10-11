@@ -312,8 +312,19 @@ In the Supramax sector we had the sale of the "ASTRA PERSEUS" (58,518dwt-blt '12
 
 ## Secondhand Sales
 
-| Bulk Carriers Size POST PMAX POST PMAX UMAX UMAX UMAX UMAX SUPRA HANDY UMAX SUPRA SUPRA | Bulk Carriers Name AM LIBERIA DYNA GLOBE ULTRA INTEGRITY ULTRA GUJARAT ULTRA SASKATOON ULTRA DWARKA ULTRA LANIGAN ULTRA FITZ ROY PETIT CHAM ASTRA PERSEUS KITAKAMI | Bulk Carriers Dwt 98,730 99,347 61,181 61,671 61,470 61,395 58,032 37,918 63,526 58,518 55,668 | Bulk Carriers Built 2013 2006 2016 2012 2012 2012 2012 2016 2013 2012 2009 | Bulk Carriers Yard TSUNEISHI ZHOUSHAN, China IMABARI, Japan TADOTSU, Japan OSHIMA, Japan SHIN KASADO, Japan SHIN KASADO, Japan TSUNEISHI CEBU, Philippines Imabari Shbldg - Marugame CHENGXI, China DSME SHANDONG, China MITSUI, Japan | Bulk Carriers M/E MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W | Bulk Carriers SS due Jan-23 Jun-26 Feb-26 Mar-27 Jan-27 May-27 Aug-23 Jan-26 Jun-23 Oct-27 Mar-27 | Bulk Carriers Gear4 X 30,7t CRANES 4 X 30t CRANES 4 X 30,5t CRANES 4 X 30,7t CRANES 4 X 30t CRANES 4 X 30,5t CRANES 4 X 30t CRANES 4 X 35t CRANES 4 X 30t CRANES | Bulk Carriers Price $ 20.5m $ 15.5m$ 124.65m$ 19.7m $ 16.55m low $ 15.0m | Bulk Carriers Buyers Greek IndonesianHong Kong based (Pacific Basin)Greek undisclosed Indonesian | Bulk Carriers Comments BWTS fitted, bss SS/DD passed BWTS fittedbasis dely within February/July 2023BWTS fitted, Eco, dely April 2023 upon completion of TC BWTS fitted, Tier II BWTS fitted |
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| POST PMAX | AM LIBERIA | 98,730 | 2013 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Jan-23 |  | $ 20.5m | Greek | BWTS fitted, bss SS/DD passed |
+| POST PMAX | DYNA GLOBE | 99,347 | 2006 | IMABARI, Japan | MAN-B&W | Jun-26 |  | $ 15.5m | Indonesian | BWTS fitted |
+| UMAX | ULTRA INTEGRITY | 61,181 | 2016 | TADOTSU, Japan | MAN-B&W | Feb-26 | 4 X 30,7t CRANES | $ 124.65m (en bloc) | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
+| UMAX | ULTRA GUJARAT | 61,671 | 2012 | OSHIMA, Japan | MAN-B&W | Mar-27 | 4 X 30t CRANES | $ 124.65m (en bloc) | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
+| UMAX | ULTRA SASKATOON | 61,470 | 2012 | SHIN KASADO, Japan | MAN-B&W | Jan-27 | 4 X 30,5t CRANES | $ 124.65m (en bloc) | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
+| UMAX | ULTRA DWARKA | 61,395 | 2012 | SHIN KASADO, Japan | MAN-B&W | May-27 | 4 X 30,7t CRANES | $ 124.65m (en bloc) | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
+| SUPRA | ULTRA LANIGAN | 58,032 | 2012 | TSUNEISHI CEBU, Philippines | MAN-B&W | Aug-23 | 4 X 30t CRANES | $ 124.65m (en bloc) | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
+| HANDY | ULTRA FITZ ROY | 37,918 | 2016 | Imabari Shbldg - Marugame | MAN-B&W | Jan-26 | 4 X 30,5t CRANES | $ 124.65m (en bloc) | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
+| UMAX | PETIT CHAM | 63,526 | 2013 | CHENGXI, China | MAN-B&W | Jun-23 | 4 X 30t CRANES | $ 19.7m | Greek | BWTS fitted, Eco, dely April 2023 upon completion of TC |
+| SUPRA | ASTRA PERSEUS | 58,518 | 2012 | DSME SHANDONG, China | MAN-B&W | Oct-27 | 4 X 35t CRANES | $ 16.55m | undisclosed | BWTS fitted, Tier II |
+| SUPRA | KITAKAMI | 55,668 | 2009 | MITSUI, Japan | MAN-B&W | Mar-27 | 4 X 30t CRANES | low $ 15.0m | Indonesian | BWTS fitted |
 
 ## Secondhand Sales
 

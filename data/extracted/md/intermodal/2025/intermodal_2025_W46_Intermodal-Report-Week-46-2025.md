@@ -99,13 +99,11 @@ Last week, West Africa's VLCC market began sluggish but steadily firm as tighten
 
 ## Line BCI BPI BSI BHSI BDI
 
-| 14/Nov/24 | 14/Dec/24 | 14/Jan/25 | 14/Feb/25 | 14/Mar/25 | 14/Apr/25 | 14/May/25 | 14/Jun/25 | 14/Jul/25 | 14/Aug/25 | 14/Sep/25 | 14/Oct/25 | 14/Nov/25 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> **Chart (not transcribed):** Baltic indices, 1-year trend. The report prints no numbers for it; the index values are public Baltic Exchange data.
 
 ## Line Average of the 5 T/ C AVR 5TC BPI AVR 10TC BSI AVR 7TC BHSI
 
-| 14/Nov/24 | 14/Dec/24 | 14/Jan/25 | 14/Feb/25 | 14/Mar/25 | 14/Apr/25 | 14/May/25 | 14/Jun/25 | 14/Jul/25 | 14/Aug/25 | 14/Sep/25 | 14/Oct/25 | 14/Nov/25 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> **Chart (not transcribed):** Baltic indices, 1-year trend. The report prints no numbers for it; the index values are public Baltic Exchange data.
 
 ## TC Rates
 | Sector | Tenor | 14/11/2025 | 07/11/2025 | ±% | Diff | 2024 | 2023 |

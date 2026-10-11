@@ -67,8 +67,25 @@ Shanghai 200122 China
 # Tanker Market
 
 ## Spot Rates
-| Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2020 $/day | 2019 $/day |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Vessel | Routes | 24-Sep-21 WS points | 24-Sep-21 $/day | 17-Sep-21 WS points | 17-Sep-21 $/day | $/day ±% | 2020 $/day | 2019 $/day |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 265k MEG-SPORE | 40 | 4,470 | 36 | 713 | 526.9% | 52,119 | 45,517 |
+| VLCC | 280k MEG-USG | 20 | -15,924 | 19 | -17,564 | 9.3% | 41,904 | 35,659 |
+| VLCC | 260k WAF-CHINA | 41 | 5,174 | 37 | 886 | 484.0% | 50,446 | 41,077 |
+| Suezmax | 130k MED-MED | 67 | 5,797 | 60 | 1,936 | 199.4% | 28,185 | 30,857 |
+| Suezmax | 130k WAF-UKC | 52 | -980 | 52 | -670 | -46.3% | 25,082 | 11,031 |
+| Suezmax | 140k BSEA-MED | 60 | -7,140 | 60 | -6,739 | -6.0% | 28,185 | 30,857 |
+| Aframax | 80k MEG-EAST | 89 | -218 | 92 | 766 | -128.5% | 17,211 | 24,248 |
+| Aframax | 80k MED-MED | 90 | 2,296 | 87 | 1,291 | 77.8% | 15,843 | 25,771 |
+| Aframax | 100k BALTIC/UKC | 61 | -2,781 | 60 | -2,449 | -13.6% | 19,322 | 25,842 |
+| Aframax | 70k CARIBS-USG | 94 | 1,279 | 104 | 4,968 | -74.3% | 22,707 | 20,886 |
+| Aframax | 75k MEG-JAPAN | 108 | 9,555 | 108 | 9,622 | -0.7% | 28,160 | 22,050 |
+| Clean | 55k MEG-JAPAN | 111 | 6,833 | 113 | 7,048 | -3.1% | 19,809 | 15,071 |
+| Clean | 37K UKC-USAC | 100 | -585 | 100 | -225 | -160.0% | 12,977 | 12,367 |
+| Clean | 30K MED-MED | 117 | 206 | 115 | -73 | 382.2% | 12,235 | 14,008 |
+| Dirty | 55K UKC-USG | 92 | 503 | 92 | 563 | -10.7% | 12,120 | 15,960 |
+| Dirty | 55K MED-USG | 92 | 509 | 92 | 648 | -21.5% | 12,965 | 15,327 |
+| Dirty | 50k CARIBS-USG | 134 | 7,237 | 132 | 7,325 | -1.2% | 17,651 | 18,781 |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 |
@@ -336,8 +353,15 @@ The newbuilding market remains upbeat, with the dry bulk units having the lion's
 | 24/Aug/21 | 98 | 66 | 54 | 48 | 39 |
 | 24/Sep/21 | 100 | 67 | 56 | 50 | 40 |
 
-| Units 2+2 2 4 2 2 2+3 10 | Type Bulker Bulker Bulker Bulker Bulker VLGC Container | Size 82,000 dwt 64,000 dwt 63,000 dwt 63,000 dwt 40,000 dwt 93,000 cbm 7,000 teu | Yard Jiangsu Hantong, China DACKS, China New Dayang, China New Dayang, China Yangfan Group, China Jiangnan, China SWS, China | Delivery 2023 2023 2023-2024 2022-2023 2023 2023 2024 | Buyer Croatian (Atlantska) Turkish (Yasa Shipping) HK based (Wah Kwong Maritime) Norwegian (Harald Moraeus-Hanssen) German (Reederei H. Vogemann) Singapore based (Sinogas) HK based (Seaspan) | Price $ 34.3m around $33.0m $ 30.0m around $29.0m $ 26.0m $ 76.0m $ 86.0m | CommentsEEDI phase 3 EEDI phase 3options declared, EEDI phase 3, Tier III LPG fuelled against T/C to ONE, conventionally fuelled |
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2+2 | Bulker | 82,000 dwt | Jiangsu Hantong, China | 2023 | Croatian (Atlantska) | $ 34.3m |  |
+| 2 | Bulker | 64,000 dwt | DACKS, China | 2023 | Turkish (Yasa Shipping) | around $33.0m | EEDI phase 3 |
+| 4 | Bulker | 63,000 dwt | New Dayang, China | 2023-2024 | HK based (Wah Kwong Maritime) | $ 30.0m | EEDI phase 3 |
+| 2 | Bulker | 63,000 dwt | New Dayang, China | 2022-2023 | Norwegian (Harald Moraeus-Hanssen) | around $29.0m |  |
+| 2 | Bulker | 40,000 dwt | Yangfan Group, China | 2023 | German (Reederei H. Vogemann) | $ 26.0m | options declared, EEDI phase 3, Tier III |
+| 2+3 | VLGC | 93,000 cbm | Jiangnan, China | 2023 | Singapore based (Sinogas) | $ 76.0m | LPG fuelled |
+| 10 | Container | 7,000 teu | SWS, China | 2024 | HK based (Seaspan) | $ 86.0m | against T/C to ONE, conventionally fuelled |
 
 © Intermodal Research 28/09/2021 5
 

@@ -153,8 +153,7 @@ In parallel, spot freight dynamics varied by region. Middle Eastern VLCC activit
 
 ## Baltic Indices
 
-| BCCI BPI BSI BHSI BDI | 24/Oct/24 3200 1200 1000 800 1500 | 24/Nov/24 1000 1000 900 700 1200 | 24/Dec/24 800 800 700 600 1000 | 24/Jan/25 1500 900 800 700 1100 | 24/Feb/25 2500 1400 1000 800 1300 | 24/Mar/25 1800 1600 1200 900 1500 | 24/Apr/25 2000 1500 1100 800 1400 | 24/May/25 3500 1700 1300 900 1600 | 24/Jun/25 3800 1800 1400 1000 1700 | 24/Jul/25 3200 1900 1500 1100 1800 | 24/Aug/25 3000 2000 1600 1000 1900 | 24/Sep/25 3100 1900 1500 900 1800 | 24/Oct/25 3000 2000 1400 800 2000 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> **Chart (not transcribed):** Baltic indices, 1-year trend. The report prints no numbers for it; the index values are public Baltic Exchange data.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Oct-25 avg | Sep-25 avg | ±% | 2024 | 2023 |

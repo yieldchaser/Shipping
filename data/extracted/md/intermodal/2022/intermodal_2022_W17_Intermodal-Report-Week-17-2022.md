@@ -400,8 +400,15 @@ The LNG and Container newbuilding deals continued firmly last week, with seven n
 | 28/Feb/22 | 61 | 35 | 33 | 28 |
 | 31/Mar/22 | 61 | 35 | 34 | 28 |
 
-| Units 4+2 1+1 1 1 6 8 10 | Type Tanker MPP LNG LNG LNG Container Container | Size 115,000 dwt 14,300 dwt 174,000 cbm 174,000 cbm 174,000 cbm 8,000 teu 1,800 teu | Yard K Shipbuilding, South Korea Niestern Sander, Netherlands Hyundai Samho, S. Korea Hyundai Samho, S. Korea Hudong Zhonghua, China K Shipbuilding, South Korea Huanghai Shipbuilding, China | Delivery 2024-2025 2023 2025 2025 2025-2026 2024-2025 2024 | Buyer Greek (Navios) Dutch (Wagenborg Shipping) Japanese (NYK) Norwegian (Knutsen) Japanese (NYK) HK based (Seaspan) Chinese (SITC) | Price around $63.0m undisclosed $ 223.0m $ 224.5m around $201,0m $ 130.0m undisclosed | Comments against T/C to Chevron, LR2 ice class 1A option declared, against long-term T/C to EDF against T/C to Engie against T/C to CNOOC against long-term T/C to MSC, LNG fuelled |
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4+2 | Tanker | 115,000 dwt | K Shipbuilding, South Korea | 2024-2025 | Greek (Navios) | around $63.0m | against T/C to Chevron, LR2 |
+| 1+1 | MPP | 14,300 dwt | Niestern Sander, Netherlands | 2023 | Dutch (Wagenborg Shipping) | undisclosed | ice class 1A |
+| 1 | LNG | 174,000 cbm | Hyundai Samho, S. Korea | 2025 | Japanese (NYK) | $ 223.0m | option declared, against long-term T/C to EDF |
+| 1 | LNG | 174,000 cbm | Hyundai Samho, S. Korea | 2025 | Norwegian (Knutsen) | $ 224.5m | against T/C to Engie |
+| 6 | LNG | 174,000 cbm | Hudong Zhonghua, China | 2025-2026 | Japanese (NYK) | around $201,0m | against T/C to CNOOC |
+| 8 | Container | 8,000 teu | K Shipbuilding, South Korea | 2024-2025 | HK based (Seaspan) | $ 130.0m | against long-term T/C to MSC, LNG fuelled |
+| 10 | Container | 1,800 teu | Huanghai Shipbuilding, China | 2024 | Chinese (SITC) | undisclosed |  |
 
 © Intermodal Research 03/05/2022 7
 

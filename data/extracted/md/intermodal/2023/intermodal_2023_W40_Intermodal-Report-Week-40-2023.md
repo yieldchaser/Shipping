@@ -255,8 +255,21 @@ The newbuilding market seems to have taken a breather last week with only 5 firm
 
 ## Indicative Newbuilding Prices ($ Million)
 
-| VesselBulkersTankersGas | Newcastlemax Capesize Kamsarmax Ultramax Handysize VLCC Suezmax Aframax MR LNG 174k cbm LGC LPG 80k cbm MGC LPG 55k cbm SGC LPG 25k cbm | 6-Oct-23205k 180k 82k 63k 38k 300k 160k 115k 50k | 29-Sep-2367.5 64.5 35.0 33.0 30.0 127.0 85.0 71.0 47.0 265.0 92.0 89.0 58.0 | ±%67.5 64.5 35.0 33.0 30.0 127.0 85.0 71.0 47.0 265.0 92.0 89.0 58.0 | YTD High 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% | YTD Low 67.5 64.5 35.0 33.0 30.0 127.0 85.0 71.0 47.0 265.0 92.0 89.0 58.0 | 5-year High 64.0 61.0 34.0 31.5 29.0 120.0 76.0 64.0 44.0 248.0 90.0 77.5 53.0 | 5-year Low 69.0 64.5 37.5 35.5 31.0 127.0 85.0 71.0 47.0 265.0 92.0 89.0 58.0 | Average 2022 49.5 48.5 27.5 25.5 23.5 84.5 55.0 46.0 34.0 180.0 70.0 43.0 40.0 | Average 2021 66 63 36 34 30 118 79 62 43 232 86 74 51 | 2020 59 56 33 30 27 98 66 53 38 195 76 67 45 | 51 49 28 26 24 88 58 48 35 187 73 63 42 |
+|  | Vessel | Vessel | 6-Oct-23 | 29-Sep-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 67.5 | 67.5 | 0.0% | 67.5 | 64.0 | 69.0 | 49.5 | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 64.5 | 64.5 | 0.0% | 64.5 | 61.0 | 64.5 | 48.5 | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 35.0 | 35.0 | 0.0% | 35.0 | 34.0 | 37.5 | 27.5 | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 33.0 | 33.0 | 0.0% | 33.0 | 31.5 | 35.5 | 25.5 | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 30.0 | 30.0 | 0.0% | 30.0 | 29.0 | 31.0 | 23.5 | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 127.0 | 127.0 | 0.0% | 127.0 | 120.0 | 127.0 | 84.5 | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 85.0 | 85.0 | 0.0% | 85.0 | 76.0 | 85.0 | 55.0 | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 71.0 | 71.0 | 0.0% | 71.0 | 64.0 | 71.0 | 46.0 | 62 | 53 | 48 |
+| Tankers | MR | 50k | 47.0 | 47.0 | 0.0% | 47.0 | 44.0 | 47.0 | 34.0 | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 265.0 | 265.0 | 0.0% | 265.0 | 248.0 | 265.0 | 180.0 | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 92.0 | 90.0 | 92.0 | 70.0 | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 89.0 | 89.0 | 0.0% | 89.0 | 77.5 | 89.0 | 43.0 | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 58.0 | 58.0 | 0.0% | 58.0 | 53.0 | 58.0 | 40.0 | 51 | 45 | 42 |
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

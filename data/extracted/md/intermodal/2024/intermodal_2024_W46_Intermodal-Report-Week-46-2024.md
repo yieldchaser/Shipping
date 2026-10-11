@@ -168,8 +168,13 @@ Last, MR rates in the Atlantic Arena plummeted with Atlantic Basket TCE standing
 
 ### Baltic Indices (1-Year Trend)
 
-| BDI BCI BPI BSI BHSI | 15/11/24 Index 1,785 3,229 1,212 1,019 685 | 15/11/24 $/day$26,777 $10,906 $10,848 $12,337 | 08/11/24 Index 1,495 2,316 1,176 1,079 703 | 08/11/24 $/day$19,210 $10,586 $11,608 $12,648 | Point Diff Diff 290 913 36 -60 -18 | $/day ±% ±%39.4% 3.0% -6.5% -2.5% | 2023 Index Index 1,395 2,007 1,442 1,031 586 | 2022 Index Index 1,931 1,955 2,298 2,006 1,181 |
+|  | 15/11/24 Index | 15/11/24 $/day | 08/11/24 Index | 08/11/24 $/day | Point Diff | $/day ±% | 2023 Index | 2022 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,785 |  | 1,495 |  | 290 |  | 1,395 | 1,931 |
+| BCI | 3,229 | $26,777 | 2,316 | $19,210 | 913 | 39.4% | 2,007 | 1,955 |
+| BPI | 1,212 | $10,906 | 1,176 | $10,586 | 36 | 3.0% | 1,442 | 2,298 |
+| BSI | 1,019 | $10,848 | 1,079 | $11,608 | -60 | -6.5% | 1,031 | 2,006 |
+| BHSI | 685 | $12,337 | 703 | $12,648 | -18 | -2.5% | 586 | 1,181 |
 
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
@@ -191,13 +196,16 @@ Last, MR rates in the Atlantic Arena plummeted with Atlantic Basket TCE standing
 
 ### Baltic Indices (1-Year Trend)
 
-| Index BCI BPI BSI BHSI BDI | 15/Nov/23 2,200 1,600 1,400 1,000 1,500 | 15/Dec/23 6,800 3,000 2,500 1,800 3,000 | 15/Jan/24 1,800 1,400 1,200 900 1,300 | 15/Feb/24 2,000 1,500 1,300 1,000 1,400 | 15/Mar/24 3,800 1,800 1,500 1,100 1,600 | 15/Apr/24 3,200 1,600 1,400 1,000 1,500 | 15/May/24 2,800 1,700 1,500 1,100 1,600 | 15/Jun/24 2,600 1,600 1,400 1,000 1,500 | 15/Jul/24 3,000 1,900 1,600 1,200 1,700 | 15/Aug/24 2,400 1,700 1,500 1,100 1,600 | 15/Sep/24 2,200 1,600 1,400 1,000 1,500 | 15/Oct/24 2,800 1,800 1,500 1,100 1,600 | 15/Nov/24 3,000 1,700 1,400 1,000 1,500 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> **Chart (not transcribed):** Baltic indices, 1-year trend. The report prints no numbers for it; the index values are public Baltic Exchange data.
 
 ## Indicative Market Values ($ Million) - Tankers
 
-| Sector | Size | Nov-24 avg | Oct-24 avg | ±% | 2023 | 2022 | 2021 |
+| Vessel 5 yrs old |  | Nov-24 avg | Oct-24 avg | ±% | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize Eco | 180k | 63.3 | 64.0 | -1.0% | 48.8 | 48.3 | 43.1 |
+| Kamsarmax | 82K | 35.0 | 36.5 | -4.1% | 32.0 | 34.1 | 29.8 |
+| Ultramax | 63k | 34.5 | 36.0 | -4.2% | 29.5 | 31.5 | 26.4 |
+| Handysize | 37K | 27.0 | 27.5 | -1.8% | 25.1 | 27.2 | 21.4 |
 
 ## Chartering
 

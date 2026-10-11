@@ -132,8 +132,7 @@ Suezmax T/C earnings averaged \$ 58,733/day, up + \$4,415/day w-o-w. On the Afra
 
 ## Baltic Indices
 
-| 23/May/22 23/Jun/22 23/Jul/22 23/Aug/22 23/Sep/22 23/Oct/22 23/Nov/22 23/Dec/22 23/Jan/23 23/Feb/23 23/Mar/23 23/Apr/23 23/May/23 | BCI 3000 2800 3100 1000 2000 2200 1800 800 1200 1500 2000 2400 2600 | BPI 3000 2600 2400 1200 1800 1900 1600 900 1400 1300 1700 2000 2200 | BSI 1700 1600 1500 1400 1300 1200 1100 900 1000 1000 1400 1600 1700 | BHSI 3000 2500 2400 1800 1500 1400 1300 1000 1100 1000 1300 1500 1600 |
-| --- | --- | --- | --- | --- |
+> **Chart (not transcribed):** Baltic indices, 1-year trend. The report prints no numbers for it; the index values are public Baltic Exchange data.
 
 ## TC Rates
 | Sector | Tenor | 19/05/23 | 12/05/23 | ±% | Diff | 2022 | 2021 |

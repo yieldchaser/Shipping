@@ -439,7 +439,18 @@ The market continues to be in a good shape as numerous deals took place last wee
 | 20/Dec/22 | 500 | 500 | 500 | 250 |
 | 20/Jan/23 | 500 | 500 | 500 | 280 |
 
-| Demolition Sales Name SSL KOCHI WAN HAI 216 WAN HAI 221 WAN HAI 215 WAN HAI 223 WAN HAI 225 WAN HAI 222 WAN HAI 161 WAN HAI 165 WAN HAI 163 WAN HAI 162 | Demolition Sales Size 24,554 23,837 23,802 23,801 23,799 23,792 23,429 17,738 17,717 17,706 17,697 | Demolition Sales Ldt 8,361 6,963 6,998 6,999 7,001 7,008 7,371 5,194 5,215 5,226 5,235 | Demolition Sales Built 1998 1994 1994 1994 1994 1994 1994 1996 1998 1998 1996 | Demolition Sales Yard DAEWOO, S. Korea NAIKAI ZOSEN, Japan NAIKAI ZOSEN, Japan NAIKAI ZOSEN, Japan NAIKAI ZOSEN, Japan NAIKAI ZOSEN, Japan NAIKAI ZOSEN, Japan SHIN KOCHI, Japan SHIN KOCHI, Japan SHIN KOCHI, Japan SHIN KOCHI, Japan | Demolition Sales Type CONTAINER CONTAINER CONTAINER CONTAINER CONTAINER CONTAINER CONTAINER CONTAINER CONTAINER CONTAINER CONTAINER | Demolition Sales $/Ldt $ 580/Ldt $ 510/Ldt $ 510/Ldt $ 510/Ldt $ 510/Ldt $ 510/Ldt $ 510/Ldt $ 510/Ldt $ 510/Ldt $ 510/Ldt $ 510/Ldt | Demolition Sales Breakers undisclosed Indian Indian Indian Indian Indian Indian Indian Indian Indian Indian | Demolition Sales Comments "as is" Colombo with bunkers for voyagetender Sale, green recycling | Demolition Sales Comments "as is" Colombo with bunkers for voyagetender Sale, green recycling |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| SSL KOCHI | 24,554 | 8,361 | 1998 | DAEWOO, S. Korea | CONTAINER | $ 580/Ldt | undisclosed | as is” Colombo with bunkers for voyage |
+| WAN HAI 216 | 23,837 | 6,963 | 1994 | NAIKAI ZOSEN, Japan | CONTAINER | $ 510/Ldt | Indian |  |
+| WAN HAI 221 | 23,802 | 6,998 | 1994 | NAIKAI ZOSEN, Japan | CONTAINER | $ 510/Ldt | Indian |  |
+| WAN HAI 215 | 23,801 | 6,999 | 1994 | NAIKAI ZOSEN, Japan | CONTAINER | $ 510/Ldt | Indian |  |
+| WAN HAI 223 | 23,799 | 7,001 | 1994 | NAIKAI ZOSEN, Japan | CONTAINER | $ 510/Ldt | Indian |  |
+| WAN HAI 225 | 23,792 | 7,008 | 1994 | NAIKAI ZOSEN, Japan | CONTAINER | $ 510/Ldt | Indian |  |
+| WAN HAI 222 | 23,429 | 7,371 | 1994 | NAIKAI ZOSEN, Japan | CONTAINER | $ 510/Ldt | Indian | tender Sale, green recycling |
+| WAN HAI 161 | 17,738 | 5,194 | 1996 | SHIN KOCHI, Japan | CONTAINER | $ 510/Ldt | Indian |  |
+| WAN HAI 165 | 17,717 | 5,215 | 1998 | SHIN KOCHI, Japan | CONTAINER | $ 510/Ldt | Indian |  |
+| WAN HAI 163 | 17,706 | 5,226 | 1998 | SHIN KOCHI, Japan | CONTAINER | $ 510/Ldt | Indian |  |
+| WAN HAI 162 | 17,697 | 5,235 | 1996 | SHIN KOCHI, Japan | CONTAINER | $ 510/Ldt | Indian |  |
 
 © Intermodal Research 24/01/2023 6

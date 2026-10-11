@@ -167,8 +167,7 @@ Aframax markets showed regional contrasts. In the Mediterranean, an overhang of 
 
 ### Baltic Indices (1-Year Trend)
 
-| Category BCI BPI BSI BHSI BDI | 29/08/24 3200 1800 1600 800 1900 | 29/09/24 2000 1200 1400 700 1400 | 29/10/24 3100 1000 1300 600 1100 | 29/11/24 900 900 1200 500 900 | 29/12/24 800 800 1100 400 800 | 29/01/25 1500 1200 1300 600 1400 | 28/02/25 1000 1100 1200 500 1300 | 31/03/25 2500 1400 1500 700 1800 | 30/04/25 3500 1300 1400 600 2000 | 31/05/25 3800 1800 1700 800 2100 | 30/06/25 2900 1900 1800 700 1900 | 31/07/25 2800 1900 1800 700 1900 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> **Chart (not transcribed):** Baltic indices, 1-year trend. The report prints no numbers for it; the index values are public Baltic Exchange data.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Aug-25 avg | Jul-25 avg | ±% | 2024 | 2023 |

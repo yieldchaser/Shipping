@@ -415,7 +415,11 @@ Last week a small number of materialized deals took place in the demolition real
 | 24/Jan/23 | 540 | 530 | 530 | 300 |
 | 24/Feb/23 | 570 | 560 | 560 | 300 |
 
-| Demolition Sales Name VIET DRAGON 68 SHUN HANG LENG 1 SHUN HANG TAI FU NO. 1 | Demolition Sales Size 55,361 6,538 3,788 6,044 | Demolition Sales Ldt 20,300 3,230 2,213 3,670 | Demolition Sales Built 1982 1988 1982 1979 | Demolition Sales Yard WARTSILA AB, Finland HAKODATE, Japan KISHIMOTO KINOE, Japan MINAMI-NIPPON, Japan | Demolition Sales Type GAS TANKER REEFER REEFER REEFER | Demolition Sales $/Ldt $ 600/Ldt $ 400/Ldt $ 400/Ldt undisclosed | Demolition Sales Breakers undisclosed undisclosedundisclosed | Demolition Sales Comments "as is Fujairah", for Alang "as is Zhoushan" "as is Zhoushan" "as is Bangkok" | Demolition Sales |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VIET DRAGON 68 | 55,361 | 20,300 | 1982 | WARTSILA AB, Finland | GAS TANKER | $ 600/Ldt | undisclosed | as is Fujairah, for Alang |
+| SHUN HANG LENG 1 | 6,538 | 3,230 | 1988 | HAKODATE, Japan | REEFER | $ 400/Ldt | undisclosed | as is Zhoushan |
+| SHUN HANG | 3,788 | 2,213 | 1982 | KISHIMOTO KINOE, Japan | REEFER | $ 400/Ldt | undisclosed | as is Zhoushan |
+| TAI FU NO. 1 | 6,044 | 3,670 | 1979 | MINAMI-NIPPON, Japan | REEFER | undisclosed | undisclosed | as is Bangkok |
 
 © Intermodal Research 28/02/2023 7

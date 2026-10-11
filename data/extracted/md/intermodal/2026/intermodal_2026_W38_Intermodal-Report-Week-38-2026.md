@@ -138,8 +138,9 @@ Aframax market also firmed, with heavy Fujairah activity driving AG momentum. In
 
 ## Indicative Period Charters
 
-| 10 to 12 mos Delivery Hong Kong, redelivery worldwide | Atlantic Affinity $22,500 | 2018 | 81,828 cnr |
-| --- | --- | --- | --- |
+| 10 to 12 mos | Atlantic Affinity | 2018 | 81,828 |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Delivery Hong Kong, redelivery worldwide | Delivery Hong Kong, redelivery worldwide | Delivery Hong Kong, redelivery worldwide | Delivery Hong Kong, redelivery worldwide | Delivery Hong Kong, redelivery worldwide | $22,500 | cnr |
 
 ## TC Rates
 | Sector | Tenor | 18/09/2026 | 11/09/2026 | ±% | Diff | 2025 | 2024 |

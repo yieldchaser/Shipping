@@ -68,8 +68,25 @@ The Baltic Exchange
 # Tanker Market
 
 ## Spot Rates
-| Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2020 $/day | 2019 $/day |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Vessel | Routes | 01-Oct-21 WS points | 01-Oct-21 $/day | 24-Sep-21 WS points | 24-Sep-21 $/day | $/day ±% | 2020 $/day | 2019 $/day |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 265k MEG-SPORE | 41 | 5,412 | 40 | 4,470 | 21.1% | 52,119 | 45,517 |
+| VLCC | 280k MEG-USG | 21 | -16,009 | 20 | -15,924 | -0.5% | 41,904 | 35,659 |
+| VLCC | 260k WAF-CHINA | 43 | 6,473 | 41 | 5,174 | 25.1% | 50,446 | 41,077 |
+| Suezmax | 130k MED-MED | 67 | 5,590 | 67 | 5,797 | -3.6% | 28,185 | 30,857 |
+| Suezmax | 130k WAF-UKC | 55 | -166 | 52 | -980 | 83.1% | 25,082 | 11,031 |
+| Suezmax | 140k BSEA-MED | 63 | -5,233 | 60 | -7,140 | 26.7% | 28,185 | 30,857 |
+| Aframax | 80k MEG-EAST | 91 | -258 | 89 | -218 | -18.3% | 17,211 | 24,248 |
+| Aframax | 80k MED-MED | 100 | 6,205 | 90 | 2,296 | 170.3% | 15,843 | 25,771 |
+| Aframax | 100k BALTIC/UKC | 64 | -2,056 | 61 | -2,781 | 26.1% | 19,322 | 25,842 |
+| Aframax | 70k CARIBS-USG | 83 | -2,766 | 94 | 1,279 | -316.3% | 22,707 | 20,886 |
+| Aframax | 75k MEG-JAPAN | 104 | 7,995 | 108 | 9,555 | -16.3% | 28,160 | 22,050 |
+| Clean | 55k MEG-JAPAN | 105 | 5,085 | 111 | 6,833 | -25.6% | 19,809 | 15,071 |
+| Clean | 37k UKC-USAC | 100 | -907 | 100 | -585 | -55.0% | 12,977 | 12,367 |
+| Clean | 30k MED-MED | 129 | 3,054 | 117 | 206 | 1382.5% | 12,235 | 14,008 |
+| Dirty | 55k UKC-USG | 92 | -32 | 92 | 503 | -106.4% | 12,120 | 15,960 |
+| Dirty | 55k MED-USG | 92 | -44 | 92 | 509 | -108.6% | 12,965 | 15,327 |
+| Dirty | 50k CARIBS-USG | 141 | 8,529 | 134 | 7,237 | 17.9% | 17,651 | 18,781 |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 | 2019 |

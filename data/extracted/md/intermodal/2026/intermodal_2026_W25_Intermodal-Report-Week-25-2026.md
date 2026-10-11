@@ -145,8 +145,7 @@ Aframaxes in the Mediterranean softened early as available tonnage outweighed ca
 
 ### Baltic Indices (1-Year Trend)
 
-| Series BCI BPI BSI BHSI BDI | 19/Jun/25 2800 1800 1400 1000 1600 | 19/Jul/25 3500 1900 1500 1100 1700 | 19/Aug/25 3200 1700 1400 1000 1600 | 19/Sep/25 3400 1800 1500 1100 1700 | 19/Oct/25 3300 1600 1300 900 1500 | 19/Nov/25 5200 2600 1400 1000 2500 | 19/Dec/25 2800 1500 1200 800 1400 | 19/Jan/26 3200 2400 1800 1200 2200 | 19/Feb/26 3000 2200 1700 1100 2000 | 19/Mar/26 4200 2800 2000 1400 2600 | 19/Apr/26 4800 3000 2200 1500 2800 | 19/May/26 5200 2900 2100 1400 2700 | 19/Jun/26 3800 2100 2000 1300 2000 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> **Chart (not transcribed):** Baltic indices, 1-year trend. The report prints no numbers for it; the index values are public Baltic Exchange data.
 
 ## TC Rates
 | Sector | Tenor | 19/06/2026 | 12/06/2026 | ±% | Diff | 2025 | 2024 |

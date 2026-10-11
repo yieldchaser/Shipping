@@ -375,7 +375,13 @@ The ship recycling market continues to witness impressive scrap levels from the 
 | 6/Jul/21 | 580 | 570 | 580 | 295 |
 | 6/Aug/21 | 595 | 585 | 590 | 295 |
 
-| Demolition Sales Name BALTIC ENERGY DOLE ECUADOR DOLE CALIFORNIA NICOBAR PARSA ALBATROSS 07 | Demolition Sales Size 69,991 11,613 11,800 4,963 8,224 1,819 | Demolition Sales Ldt 29,531 16,862 16,675 8,051 3,100 1,241 | Demolition Sales Built 1983 1989 1989 1991 1991 1985 | Demolition Sales Yard KAWASAKI, Japan FINCANTIERI VENICE, Italy FINCANTIERI VENICE, Italy SZCZECINSKA, Poland TERAOKA, Japan ROBIN SHIPYARD, Singapore | Demolition Sales Type GAS TANKER CONTAINER CONTAINER PASSENGER/ GENERAL CARGO TANKER OFFSHORE/TUG | Demolition Sales $/Ldt $ 750/Ldt $ 620/Ldt $ 620/Ldt $ 456/Ldt $ 1060/Ldt $ 495/Ldt | Demolition Sales Breakers Bangladeshi Indian Indian Indian Indian Indian | Demolition Sales Comments st. turbine main engine, 3,500 tons of aluminum HKC green recycling (incl. extra payment for spare propeller) HKC green recycling auction sale, as-is Kolkata 533mt St-St | Demolition Sales Comments st. turbine main engine, 3,500 tons of aluminum HKC green recycling (incl. extra payment for spare propeller) HKC green recycling auction sale, as-is Kolkata 533mt St-St |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BALTIC ENERGY | 69,991 | 29,531 | 1983 | KAWASAKI, Japan | GAS TANKER | $ 750/Ldt | Bangladeshi | st. turbine main engine, 3,500 tons of aluminum |
+| DOLE ECUADOR | 11,613 | 16,862 | 1989 | FINCANTIERI VENICE, Italy | CONTAINER | $ 620/Ldt | Indian | HKC green recycling (incl. extra payment for spare propeller) |
+| DOLE CALIFORNIA | 11,800 | 16,675 | 1989 | FINCANTIERI VENICE, Italy | CONTAINER | $ 620/Ldt | Indian | HKC green recycling |
+| NICOBAR | 4,963 | 8,051 | 1991 | SZCZECINSKA, Poland | PASSENGER/ GENERAL CARGO | $ 456/Ldt | Indian | auction sale, as-is Kolkata |
+| PARSA | 8,224 | 3,100 | 1991 | TERAOKA, Japan | TANKER | $ 1060/Ldt | Indian | 533mt St-St |
+| ALBATROSS 07 | 1,819 | 1,241 | 1985 | ROBIN SHIPYARD, Singapore | OFFSHORE/TUG | $ 495/Ldt | Indian |  |
 
 © Intermodal Research 10/08/2021 6

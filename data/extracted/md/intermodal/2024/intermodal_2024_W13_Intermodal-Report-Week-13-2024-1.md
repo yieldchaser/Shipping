@@ -28,8 +28,19 @@ The rerouting of vessels around Africa, to avoid the Red Sea and mitigate risks 
 ## Tanker Market
 ## Spot Rates
 
-| Sector | Size | Routes | 29/03/24 WS points | 29/03/24 $/day | 22/03/24 WS points | 22/03/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
+| Vessel | Vessel | Routes | 29/03/24 WS points | 29/03/24 $/day | 22/03/24 WS points | 22/03/24 $/day | $/day ±% $/day | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 265k | MEG-SPORE | 66 | 44,468 | 68 | 46,587 | -4.5% | 39,466 | 20,330 |
+| VLCC | 260k | WAF-CHINA | 66 | 43,338 | 69 | 46,440 | -6.7% | 38,773 | 19,980 |
+| Suezmax | 130k | WAF-UKC | 110 | 42,386 | 105 | 38,942 | 8.8% | 25,082 | 11,031 |
+| Suezmax | 140k | BSEA-MED | 109 | 38,207 | 108 | 37,169 | 2.8% | 62,964 | 51,634 |
+| Aframax | 80k | MEG-EAST | 184 | 43,640 | 188 | 45,263 | -3.6% | 44,757 | 27,224 |
+| Aframax | 80k | MED-MED | 165 | 45,528 | 170 | 47,973 | -5.1% | 49,909 | 46,679 |
+| Aframax | 70k | CARIBS-USG | 133 | 22,382 | 144 | 26,387 | -15.2% | 46,364 | 43,030 |
+| Aframax | 75k | MEG-JAPAN | 244 | 63,471 | 309 | 85,618 | -25.9% | 32,625 | 35,326 |
+| Clean | 55k | MEG-JAPAN | 269 | 49,067 | 309 | 58,850 | -16.6% | 27,593 | 32,504 |
+| Clean | 37k | UKC-USAC | 183 | 19,817 | 205 | 24,005 | -17.4% | 21,183 | 22,919 |
+| Clean | 30k | MED-MED | 298 | 51,815 | 337 | 62,392 | -17.0% | 32,775 | 45,941 |
 
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
