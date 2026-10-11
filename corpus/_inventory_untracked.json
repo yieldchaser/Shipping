@@ -27,8 +27,8 @@
     },
     {
       "path": "corpus/06-drewry",
-      "untracked_files": 289,
-      "untracked_bytes": 547722146
+      "untracked_files": 293,
+      "untracked_bytes": 553086930
     },
     {
       "path": "corpus/07-signal",
@@ -40503,6 +40503,11 @@
       "sha256": "d10c68122ee8f62c8750191304a4f3ed0ad56f12f1caed29d0578f83852b9b94"
     },
     {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_VLCC_Week40_2026.pdf",
+      "bytes": 2061991,
+      "sha256": "6ee91a444c50a08781995158adb7ee0034b5b0a02d87aa653a05fd7668e2f78f"
+    },
+    {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Capesize_Week25_2026.pdf",
       "bytes": 1560575,
       "sha256": "551ebce5e78d764c946d2de3c01e3275928490e8c0ccfce223f57c9a60e63550"
@@ -40536,6 +40541,11 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf",
       "bytes": 1601513,
       "sha256": "5a2ed2c6e1e856545898cd8083a332ab9a5006772a53d429cb5d1dfa36286e1e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf",
+      "bytes": 1614634,
+      "sha256": "a5d0346379050cf1e97f16530064283013840c1906c62514857994b8c65b7a60"
     },
     {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Panamax_Week27_2026.pdf",
@@ -41853,6 +41863,11 @@
       "sha256": "dc54fe7bf4a397356c437fa70fbbcd08140cad2812b2ec537d2d14ff36a0d3e3"
     },
     {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR1_Week40_2026.pdf",
+      "bytes": 1686994,
+      "sha256": "62371f42185a1db062089d6cb844bb202793e6081d8e51dc8aa179955e7c1a3a"
+    },
+    {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week27_2026.pdf",
       "bytes": 1658825,
       "sha256": "5fe469aefc731c81dba4b0bcba47bfe7bd3d9f107bb7ec86b3351535221a54b8"
@@ -41879,8 +41894,13 @@
     },
     {
       "path": "corpus/06-drewry/ais/ais_manifest.csv",
-      "bytes": 39653,
-      "sha256": "3984269f14e8a963db8671908a88a1ac0c028fc7a9e7b9a4adf5c43aa8b862bf"
+      "bytes": 39369,
+      "sha256": "bacd6376e9425d26f735391c05ce2a2f938d34fee11cbd4ccc06409ceb3f34ef"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-10-08_drewry_wci.md",
+      "bytes": 1449,
+      "sha256": "aaba14a9c913ee9beb9017aa180792b24d9146de8902152a5b4e0eef15295f53"
     },
     {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
